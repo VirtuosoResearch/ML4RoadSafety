@@ -2328,4 +2328,643 @@ year,month,day,hour,minute,AM/PM,location,type,gender
 2016,10,22,2,49,AM,"Mt. Jefferson Rd., Hubbardston",PASSENGER,M
 2016,10,20,5,51,AM,"SR-140 Gardner Rd., Winchendon",OPERATOR,M
 2016,10,18,6,42,PM,"SR-28 1293 Main St., Brockton",BICYCLIST,M
-
+2016,10,18,6,51,AM,"Wyman St., Waltham",PEDESTRIAN,M
+2016,10,17,12,28,AM,"Oak St. + Battles St., Brockton",OPERATOR,M
+2016,10,16,3,20,PM,"139 Maple Ave., Swansea",MOTORCYCLE: OPERATOR,M
+2016,10,16,12,58,PM,"South St., Halifax",OPERATOR,M
+2016,10,16,10,10,AM,"SR-18 Bedford St., Lakeville",MOTORCYCLE: OPERATOR,M
+2016,10,15,11,35,PM,"Russelville Rd. + Cabot Rd., Westfield",PASSENGER,M
+2016,10,15,6,25,PM,"103 Pratt Rd., Fitchburg",OPERATOR,M
+2016,10,14,12,33,PM,"American Legion Hwy. + Clare Ave., Boston",PASSENGER,F
+2016,10,12,4,0,PM,"SR-38 Bridge St. + Pleasant St., Dracut",MOTORCYCLE: OPERATOR,M
+2016,10,11,9,6,PM,"Speen St. + Timber Ln., Natick",OPERATOR,M
+2016,10,11,1,43,PM,"587 Gifford St ., Falmouth",MOTORCYCLE: OPERATOR,M
+2016,10,7,8,16,PM,"SR-14 + 180 Washington St., Whitman",OPERATOR,M
+2016,10,7,12,52,AM,"Fred Mason Rd., Cheshire",PASSENGER,M
+2016,10,6,11,5,PM,"I-495 SOUTH, Middleborough",OPERATOR,M
+2016,10,5,8,0,AM,"SR-2A Mass Ave., Cambridge",BICYCLIST,M
+2016,10,5,6,15,AM,"SR-24 SOUTH, Fall River",OPERATOR,M
+2016,10,4,9,41,PM,"Liberty St. + Quincy St., Quincy",MOTORCYCLE: OPERATOR,F
+2016,10,3,8,25,PM,"SR-28 3024 Cranberry Hwy., Wareham",PEDESTRIAN,M
+2016,10,3,5,29,PM,"174 Howard St., Melrose",PEDESTRIAN,M
+2016,10,2,11,58,PM,"I-93 SOUTH Exit Ramp, Randolph",OPERATOR,F
+2016,10,2,11,56,AM,"267 Cook Ln., Marlborough",OPERATOR,M
+2016,10,1,10,40,PM,"Buck Island Rd., Yarmouth",OPERATOR,F
+2016,10,1,10,40,PM,"Buck Island Rd., Yarmouth",PASSENGER,M
+2016,10,1,5,15,AM,"70 Lynde St., Melrose",PEDESTRIAN,M
+2016,9,28,1,52,PM,"SR-110 West Main St., Merrimac",OPERATOR,M
+2016,9,28,8,10,AM,"I-195 EAST, Westport",OPERATOR,M
+2016,9,28,8,10,AM,"I-195 EAST, Westport",PASSENGER,F
+2016,9,28,8,10,AM,"I-195 EAST, Westport",PASSENGER,F
+2016,9,28,1,1,AM,"SR-1A McClellan Hwy., East Boston",OPERATOR,M
+2016,9,27,10,40,PM,"I-190 NORTH, Leominster",OPERATOR,F
+2016,9,25,5,12,PM,"Fuller Rd., Chicopee",OPERATOR,F
+2016,9,25,5,38,AM,"SR-16 WEST, Medford",PEDESTRIAN,M
+2016,9,24,10,0,PM,"SR-119 Great Rd., Littleton",BICYCLIST,F
+2016,9,23,5,24,PM,"SR-70 Lincoln St., Worcester",MOTORCYCLE: OPERATOR,M
+2016,9,21,10,47,PM,"SR-114 435 Winthrop Ave. + Waverly Rd., Lawrence",MOTORCYCLE: OPERATOR,M
+2016,9,21,7,7,PM,"SR-3A Boston Rd. + Grove St., Billerica",PEDESTRIAN,M
+2016,9,21,7,0,PM,"I-495 SOUTH, Raynham",OPERATOR,F
+2016,9,21,3,0,PM,"SR-38 Main St. + Richmond St., Wilmington",PEDESTRIAN,F
+2016,9,21,3,0,PM,"SR-38 Main St. + Richmond St., Wilmington",OPERATOR,F
+2016,9,20,9,56,PM,"Pitchers Way, Barnstable",PEDESTRIAN,F
+2016,9,17,7,30,PM,"121 Cedar St., Ashland",MOTORCYCLE: OPERATOR,M
+2016,9,17,4,53,AM,"Howes Rd., Buckland",OPERATOR,M
+2016,9,15,2,30,AM,"Fairview St., Lee",OPERATOR,M
+2016,9,14,7,15,PM,"SR-33 350 Memorial Dr. + Fuller Rd., Chicopee",OPERATOR,M
+2016,9,13,6,57,AM,"80 Hobart St., Danvers",PEDESTRIAN,M
+2016,9,10,11,59,PM,"Glenn St. + Beacon St., Lawrence",MOTORCYCLE: OPERATOR,M
+2016,9,10,5,53,PM,"I-95 NORTH, Boxford",OPERATOR,M
+2016,9,9,10,45,AM,"US-20 2223 Page Blvd. + Stewart Glenn Rd., Springfield",PEDESTRIAN,M
+2016,9,8,6,55,AM,"I-495 NORTH, Merrimac",PASSENGER,M
+2016,9,8,6,55,AM,"I-495 NORTH, Merrimac",PASSENGER,M
+2016,9,6,3,35,PM,"488 Elm St., Marlborough",OPERATOR,M
+2016,9,3,10,32,PM,"SR-203 Morton St. + Canterbury St., Boston",PEDESTRIAN,F
+2016,9,3,9,17,PM,"I-395 NORTH, Oxford",OPERATOR,M
+2016,9,3,7,28,AM,"SR-62 1899 Main St ., Concord",OPERATOR,F
+2016,9,1,7,36,PM,"SR-23 215 Otis Stage Rd., Blandford",MOTORCYCLE: OPERATOR,M
+2016,9,1,7,36,PM,"SR-23 215 Otis Stage Rd., Blandford",MOTORCYCLE: PASSENGER,F
+2016,9,1,3,58,PM,"SR-16 E Main St., Milford",PEDESTRIAN,F
+2016,8,31,11,38,PM,"SR-24 SOUTH, Fall River",OPERATOR,F
+2016,8,31,1,15,AM,"I-90 EAST, Boston",PASSENGER,M
+2016,8,31,1,15,AM,"I-90 EAST, Boston",PASSENGER,F
+2016,8,30,4,12,PM,"I-495 SOUTH, Middleborough",OPERATOR,F
+2016,8,29,6,38,PM,"US-1 23 Washington St., Plainville",MOTORCYCLE: OPERATOR,M
+2016,8,29,3,17,PM,"SR-106 Eastman St., Easton",OPERATOR,M
+2016,8,29,12,59,AM,"US-6 1203 State Rd., Westport",OPERATOR,F
+2016,8,27,3,17,AM,"Hollis Rd., Lunenburg",PASSENGER,M
+2016,8,26,3,0,AM,"SR-1A SOUTH Sumner Tunnel I-93 NORTH, Boston",PASSENGER,M
+2016,8,24,3,13,PM,"SR-7 A Walker St. + Main St., Lenox",PASSENGER,F
+2016,8,24,8,17,AM,"SR-140 Cape Road Bates St., Mendon",OPERATOR,M
+2016,8,24,8,17,AM,"SR-140 Cape Road Bates St., Mendon",PASSENGER,F
+2016,8,24,7,11,AM,"South St. + Dalton Division Rd., Dalton",OPERATOR,M
+2016,8,23,6,47,PM,"Pleasant St. + Old Colony Ave., Somerset",OPERATOR,M
+2016,8,21,3,22,PM,"I-495 NORTH off ramp, Berlin",OPERATOR,M
+2016,8,21,1,0,PM,"SR-2A Main St. + State Rd. EAST, Westminster",MOTORCYCLE: OPERATOR,M
+2016,8,21,2,0,AM,"SR-1A William F McClellan Hwy., East Boston",PASSENGER,F
+2016,8,18,12,21,AM,"SR-130 Forestdale Rd. + Dogwood Dr., Forestdale",OPERATOR,M
+2016,8,17,1,52,PM,"SR-9 Park Ave. + Lovell St., Worcester",PASSENGER,F
+2016,8,17,12,52,PM,"Virginia Rd., Lincoln",BICYCLIST,M
+2016,8,16,5,15,PM,"Enneking Pkwy., Boston",PASSENGER,M
+2016,8,16,5,15,PM,"Enneking Pkwy., Boston",OPERATOR,M
+2016,8,14,3,41,AM,"SR-6A Main St., Barnstable",OPERATOR,M
+2016,8,13,11,7,PM,"Warren St + Intervale St., Roxbury",PEDESTRIAN,F
+2016,8,13,8,17,PM,"24 Dow St., Pepperell",MOTORCYCLE: OPERATOR,M
+2016,8,12,6,58,AM,"West Park St. + Marble St., Lee",PEDESTRIAN,F
+2016,8,12,1,3,AM,"Greenwich Rd., Hardwick",MOTORCYCLE: OPERATOR,M
+2016,8,10,2,5,AM,"I-95 NORTH, Newton",OPERATOR,M
+2016,8,8,11,49,PM,"I-90 WEST, Southborough",OPERATOR,M
+2016,8,7,6,20,AM,"Worcester Oak St., Natick",OPERATOR,M
+2016,8,6,12,20,PM,"SR-140 SOUTH, Lakeville",OPERATOR,M
+2016,8,6,2,49,AM,"I-291 EAST off ramp, Springfield",OPERATOR,M
+2016,8,5,3,22,PM,"SR-128 NORTH, EXIT 18, Beverly",MOTORCYCLE: OPERATOR,M
+2016,8,4,12,30,PM,"SR-116 Conway Rd., Deerfield",OPERATOR,F
+2016,8,4,9,5,AM,"Main St. + Rock Harbor Rd., Orleans",PASSENGER,M
+2016,8,3,9,28,AM,"Main St., Stoneham",PEDESTRIAN,M
+2016,8,3,1,30,AM,"Montaup St. + Slade St., Fall River",MOTORCYCLE: OPERATOR,M
+2016,8,2,5,10,PM,"South Pleasant St., Amherst",OPERATOR,F
+2016,7,29,3,15,PM,"SR-140 NORTH, New Bedford",OPERATOR,F
+2016,7,28,11,15,AM,"SR-8 Howland Ave., Adams",OPERATOR,M
+2016,7,28,6,0,AM,"I-495 NORTH, Franklin",OPERATOR,M
+2016,7,27,2,5,AM,"I-495 SOUTH, Mansfield",OPERATOR,M
+2016,7,27,2,5,AM,"I-495 SOUTH, Mansfield",OPERATOR,F
+2016,7,24,5,54,PM,"Roosevelt Ave. + Roosevelt Ter., Springfield",MOTORCYCLE: OPERATOR,M
+2016,7,22,4,0,PM,"I-91, Hatfield",OPERATOR,M
+2016,7,22,5,12,AM,"54 Harrison Blvd., Avon",OPERATOR,M
+2016,7,22,3,27,AM,"I-195 EAST, Dartmouth",OPERATOR,M
+2016,7,19,10,41,PM,"I-90 WEST, Ludlow",OPERATOR,M
+2016,7,19,7,9,AM,"Berkeley St. + East Brook Pl., Methuen",PASSENGER,M
+2016,7,18,12,12,AM,"SR-110 Haverhill Rd., Amesbury",OPERATOR,M
+2016,7,16,2,10,PM,"US-1 SOUTH, Washington St ., Wrentham",MOTORCYCLE: OPERATOR,M
+2016,7,15,3,40,PM,"I-495 NORTH, Littleton",OPERATOR,M
+2016,7,15,2,54,PM,"US-1 Washington St., Attleboro",OPERATOR,F
+2016,7,14,8,45,AM,"Ernest Ave., Worcester",PEDESTRIAN,F
+2016,7,14,3,30,AM,"I-495 SOUTH, Milford",OPERATOR,M
+2016,7,13,12,31,PM,"Blackstone River Rd. + Whipple St., Worcester",OPERATOR,F
+2016,7,13,7,15,AM,"I-95 SOUTH, Peabody",OPERATOR,M
+2016,7,12,7,36,PM,"452 Potomska Rd., Dartmouth",MOTORCYCLE: OPERATOR,M
+2016,7,12,5,25,PM,"SR-133 Great Pond Rd., North Andover",OPERATOR,F
+2016,7,10,7,3,PM,"211 Center Depot Rd., Charlton",PASSENGER,F
+2016,7,9,9,5,PM,"I-495 NORTH, Marlborough",OPERATOR,M
+2016,7,9,3,36,AM,"Marginal St., Chelsea",OPERATOR,M
+2016,7,9,2,17,AM,"I-495 SOUTH off ramp, Lawrence",PASSENGER,M
+2016,7,9,2,17,AM,"I-495 SOUTH off ramp, Lawrence",OPERATOR,M
+2016,7,8,6,13,PM,"US-20 Russell Rd., Westfield",OPERATOR,F
+2016,7,7,6,3,PM,"Albany St., Boston",PEDESTRIAN,M
+2016,7,6,5,51,PM,"Hornbine Rd. + Simmons St., Rehoboth",OPERATOR,F
+2016,7,5,1,25,PM,"1630 Veterans of Foreign Wars, Boston",OPERATOR,M
+2016,7,3,11,20,PM,"Framingham Rd. + Marlboro Rd., Southborough",OPERATOR,M
+2016,7,3,10,10,PM,"Congress St., Milford",PASSENGER,F
+2016,6,30,8,35,PM,"Unquity Rd. + Harland St., Milton",MOTORCYCLE: OPERATOR,M
+2016,6,30,3,48,PM,"Sterling Rd. + Rangeway Rd., Billerica",MOTORCYCLE: OPERATOR,M
+2016,6,30,1,10,PM,"I-93 SOUTH off ramp, Methuen",OPERATOR,M
+2016,6,28,2,35,AM,"I-93, Medford",PEDESTRIAN,M
+2016,6,27,5,30,PM,"SR-32 West St. + 4th Ave., Ware",OPERATOR,F
+2016,6,27,8,4,AM,"SR-177 American Legion Hwy., Westport",OPERATOR,M
+2016,6,25,2,38,PM,"134 Agricultural Ave., Rehoboth",MOTORCYCLE: OPERATOR,M
+2016,6,23,12,17,PM,"Cambridge St., Cambridge",BICYCLIST,F
+2016,6,18,11,39,PM,"US-44 Winthrop St., Taunton",OPERATOR,F
+2016,6,17,9,0,AM,"Valley Road + SR-10 College Hwy., Southampton",OPERATOR,F
+2016,6,17,8,54,AM,"St James Blvd. + Page Blvd., Springfield",OPERATOR,F
+2016,6,16,5,18,PM,"SR-126 Concord Rd. + Hillside Rd., Lincoln",BICYCLIST,M
+2016,6,15,8,19,PM,"Rindge Turnpike, Ashburnham",MOTORCYCLE: OPERATOR,M
+2016,6,15,9,11,AM,"Massasoit Rd. + Lawton St., Worcester",OPERATOR,M
+2016,6,14,5,5,PM,"US-20 Washington St. + South St., Auburn",MOTORCYCLE: OPERATOR,M
+2016,6,14,3,47,PM,"SR-24 SOUTH, Randolph",OPERATOR,M
+2016,6,14,11,20,AM,"SR-81 Plymouth Ave. + Peckham St., Fall River",MOTORCYCLE: OPERATOR,M
+2016,6,13,3,10,PM,"Long Pond Rd. US-3 SOUTH off ramp, Plymouth",OPERATOR,M
+2016,6,12,3,30,AM,"I-91 NORTH, Holyoke",OPERATOR,M
+2016,6,10,10,43,PM,"Jerome St., Berkley",PASSENGER,M
+2016,6,10,4,0,AM,"SR-2A East Broadway, Gardner",OPERATOR,M
+2016,6,9,3,51,PM,"SR-14 1055 Auburn St., Whitman",OPERATOR,F
+2016,6,9,3,51,PM,"SR-14 1055 Auburn St., Whitman",PASSENGER,F
+2016,6,9,1,41,PM,"I-90 WEST, Blandford",PASSENGER,M
+2016,6,9,7,31,AM,"Elm St. + Hall Ave., Greenfield",MOTORCYCLE: OPERATOR,M
+2016,6,8,11,21,PM,"Dean St. + Washington St., Norwood",OPERATOR,M
+2016,6,5,1,30,AM,"US-3 NORTH, Chelmsford",OPERATOR,F
+2016,6,4,10,15,PM,"Washington Ave., Chelsea",PEDESTRIAN,M
+2016,6,3,6,0,PM,"SR-24 SOUTH + I-195 WEST, Fall River",OPERATOR,F
+2016,6,3,5,10,PM,"I-495 SOUTH, Middleborough",OPERATOR,M
+2016,6,1,8,1,AM,"West Elm St., Brockton",PEDESTRIAN,M
+2016,5,31,9,10,PM,"SR-1A North Shore Rd. + Oak Island St., Revere",PEDESTRIAN,M
+2016,5,30,11,20,AM,"24 Sutton Ave., Oxford",PEDESTRIAN,M
+2016,5,30,11,20,AM,"24 Sutton Ave., Oxford",PEDESTRIAN,F
+2016,5,29,10,46,PM,"1214 Old Fall River Rd., Dartmouth",PASSENGER,M
+2016,5,29,10,30,PM,"700 Sumner Ave., Springfield",PEDESTRIAN,M
+2016,5,29,9,53,PM,"SR-28 Cranberry Hwy., Wareham",MOTORCYCLE: OPERATOR,M
+2016,5,29,8,54,PM,"SR-138 Broadway, Fall River",OPERATOR,M
+2016,5,29,12,16,PM,"Concord Ave., Lexington",OPERATOR,M
+2016,5,29,12,27,AM,"SR-2 WEST, Templeton",OPERATOR,M
+2016,5,28,6,35,PM,"Cross St., Methuen",MOTORCYCLE: OPERATOR,M
+2016,5,27,4,1,AM,"Federal St. + Collins St., Danvers",OPERATOR,M
+2016,5,26,8,45,AM,"I-495 SOUTH, Milford",OPERATOR,M
+2016,5,22,7,25,PM,"SR-116 College St., South Hadley",OPERATOR,M
+2016,5,22,1,20,AM,"Bicentennial Hwy., Springfield",MOTORCYCLE: OPERATOR,M
+2016,5,20,2,3,AM,"SR-146 SOUTH off ramp, Worcester",OPERATOR,F
+2016,5,19,8,30,PM,"US-5 Riverdale St. + Elm St., West Springfield",MOTORCYCLE: OPERATOR,F
+2016,5,19,2,51,AM,"SR-110 Lancaster St., West Boylston",PASSENGER,M
+2016,5,18,6,55,AM,"I-495 SOUTH, Lawrence",OPERATOR,F
+2016,5,17,12,27,AM,"Central St., Acton",PASSENGER,F
+2016,5,15,2,32,AM,"West Plain St., Wayland",MOTORCYCLE: OPERATOR,M
+2016,5,14,2,34,AM,"St James Ave. + Montclair St., Springfield",PEDESTRIAN,M
+2016,5,12,10,23,PM,"SR-1A NORTH, Lynn",MOTORCYCLE: OPERATOR,M
+2016,5,12,9,50,PM,"Gary Road + Parker St., Springfield",MOTORCYCLE: PASSENGER,F
+2016,5,12,9,50,PM,"Gary Road + Parker St., Springfield",MOTORCYCLE: OPERATOR,M
+2016,5,12,4,30,AM,"I-195 EAST, New Bedford",OPERATOR,M
+2016,5,11,11,14,AM,"SR-2 WEST, Lexington",OPERATOR,M
+2016,5,8,6,31,PM,"Badger Rd., Framingham",OPERATOR,M
+2016,5,6,8,27,PM,"Chicopee St. + Old Field Rd., Chicopee",PEDESTRIAN,M
+2016,5,6,10,9,AM,"Rice Road NORTH, Wayland",OPERATOR,F
+2016,5,6,2,6,AM,"Prospect Hill Rd., Stockbridge",OPERATOR,M
+2016,5,2,1,25,PM,"SR-2 Concord Tpke., Cambridge",PASSENGER,M
+2016,5,1,8,1,PM,"Pine St., Florence",PEDESTRIAN,M
+2016,5,1,1,42,PM,"96 West St. + Marlene Ave., Brockton",PASSENGER,F
+2016,4,30,10,0,PM,"Main St. + White St., Haverhill",PEDESTRIAN,M
+2016,4,30,5,14,PM,"45 North Summer St. + Murray St., Adams",PASSENGER,M
+2016,4,30,11,33,AM,"Charles St. + Beacon St., Boston",MOTORCYCLE: OPERATOR,F
+2016,4,30,10,33,AM,"US-6 Governor Prence Rd. + Governor Ext., Eastham",OPERATOR,M
+2016,4,26,9,53,PM,"SR-24 SOUTH, West Bridgewater",OPERATOR,M
+2016,4,26,12,43,AM,"96 Union St., Westfield",OPERATOR,M
+2016,4,24,11,10,AM,"Lowell Connector + Industrial Ave., Lowell",MOTORCYCLE: OPERATOR,M
+2016,4,23,1,15,PM,"1 Nassau St., Boston",PEDESTRIAN,F
+2016,4,23,12,15,AM,"SR-127 Hale St., Beverly",PASSENGER,M
+2016,4,21,5,23,AM,"US-44 New State Hwy., Raynham",OPERATOR,M
+2016,4,19,10,5,PM,"Edwin Land Boulevard., Cambridge",PEDESTRIAN,M
+2016,4,18,4,50,PM,"Main St. + South Cross St., Foxborough",OPERATOR,M
+2016,4,18,11,44,AM,"School St., Marshfield",OPERATOR,M
+2016,4,16,10,15,PM,"Bennington St. + Saratoga St., Boston",PEDESTRIAN,M
+2016,4,13,12,0,PM,"SR-177 American Legion Hwy. Old Country Rd., Westport",MOTORCYCLE: OPERATOR,M
+2016,4,13,1,42,AM,"Main St., Barnstable",OPERATOR,F
+2016,4,12,5,0,PM,"SR-183 Interlarken Rd., Stockbridge",OPERATOR,F
+2016,4,10,7,45,PM,"Seaver St. + Elm Hill Ave., Boston",OPERATOR,F
+2016,4,9,11,8,PM,"Union St., Weymouth",PASSENGER,F
+2016,4,9,1,5,AM,"I-195 WEST, Fall River",OPERATOR,F
+2016,4,8,10,30,PM,"Parker Rd., Barnstable",OPERATOR,F
+2016,4,6,3,44,PM,"Concord Rd., Sudbury",OPERATOR,F
+2016,4,6,7,32,AM,"SR-58 Tremont St., Carver",OPERATOR,F
+2016,4,4,2,0,PM,"Verndale Ave., Attleboro",OPERATOR,M
+2016,4,4,12,55,PM,"SR-2, Acton",PASSENGER,F
+2016,4,3,10,15,PM,"South Border Rd., Medford",OPERATOR,M
+2016,4,2,7,5,PM,"High St., Carver",OPERATOR,M
+2016,3,31,8,42,PM,"Plymouth St., Carver",MOTORCYCLE: OPERATOR,M
+2016,3,31,12,56,AM,"708 Chestnut St. + Harriet St., Springfield",OPERATOR,M
+2016,3,30,12,18,AM,"I-95 NORTH, Newbury",OPERATOR,M
+2016,3,29,10,20,AM,"Lynnfield St. + Krochmal Rd., Peabody",OPERATOR,M
+2016,3,28,4,35,PM,"SR-146 NORTH Worcester Providence, Sutton",PASSENGER,F
+2016,3,27,6,21,PM,"Catharine St. + McKnight St., Springfield",PASSENGER,F
+2016,3,26,7,51,PM,"107 High St., Duxbury",OPERATOR,F
+2016,3,23,9,14,PM,"Shrewsbury St. + Seward St., Worcester",PEDESTRIAN,M
+2016,3,22,1,38,PM,"SR-19 Warren Rd., Brimfield",OPERATOR,F
+2016,3,21,10,18,AM,"SR-3A-Chief Justice Cushing Hwy. Kilby St., Hingham",OPERATOR,M
+2016,3,20,2,17,PM,"SR-1A 1092 South St. Premium Outlet Blvd., Wrentham",PASSENGER,F
+2016,3,18,10,6,AM,"Sargeant St., Holyoke",BICYCLIST,M
+2016,3,16,12,0,PM,"I-90 WEST, Charlton",OPERATOR,M
+2016,3,12,10,15,PM,"SR-106 Main St., Kingston",MOTORCYCLE: OPERATOR,M
+2016,3,10,10,1,PM,"Ivory St., Braintree",PEDESTRIAN,F
+2016,3,10,7,0,PM,"SR-3A Hancock Rd. + Albion Rd., Quincy",PEDESTRIAN,M
+2016,3,9,3,30,PM,"SR-138 Brush Hill Rd. + Aberdeen Rd., Milton",PEDESTRIAN,F
+2016,3,9,9,25,AM,"US-202 Granby Rd., South Hadley",OPERATOR,M
+2016,3,4,2,0,PM,"Quincy Ave., Quincy",PEDESTRIAN,M
+2016,3,2,4,30,PM,"SR-30 W Main St., Westborough",OPERATOR,F
+2016,3,1,8,16,PM,"Quinaquisset Ave. Orchard Rd., Mashpee",PEDESTRIAN,M
+2016,3,1,6,12,PM,"1279 Washington St. Chestnut St., Newton",OTHER,M
+2016,3,1,6,12,PM,"1279 Washington St. Chestnut St., Newton",OTHER,F
+2016,3,1,1,39,AM,"SR-24 SOUTH, Randolph",OPERATOR,M
+2016,2,28,11,51,AM,"I-495 NORTH, Haverhill",OPERATOR,F
+2016,2,28,4,40,AM,"Columbia St., Cambridge",OTHER,F
+2016,2,27,6,2,PM,"I-495 SOUTH, Norton",OPERATOR,M
+2016,2,27,2,30,AM,"SR-1A Lynnway, Lynn",OPERATOR,M
+2016,2,27,2,30,AM,"SR-1A Lynnway, Lynn",PASSENGER,F
+2016,2,26,10,18,AM,"I-195 WEST, Somerset",OPERATOR,M
+2016,2,25,6,35,PM,"US-3 NORTH, Plymouth",PASSENGER,M
+2016,2,24,9,10,AM,"SR-62 Hubbardston Rd., Barre",OPERATOR,F
+2016,2,23,7,59,PM,"SR-28 North Main St. + Chestnut St., Randolph",PEDESTRIAN,F
+2016,2,22,6,2,PM,"Mill Street Ranger Rd., Natick",PEDESTRIAN,M
+2016,2,22,5,13,AM,"US-5 Federal St., Montague Center",PASSENGER,F
+2016,2,22,5,13,AM,"US-5 Federal St., Montague City",OPERATOR,M
+2016,2,20,1,45,PM,"US-20 Russell Rd., Huntington",MOTORCYCLE: OPERATOR,M
+2016,2,20,1,25,PM,"I-190 SOUTH, Leominster",OPERATOR,F
+2016,2,20,1,11,PM,"SR-28 East Falmouth Hwy., Falmouth",OPERATOR,M
+2016,2,18,10,41,PM,"Sewall St., Ludlow",OPERATOR,M
+2016,2,18,8,40,PM,"71 Humboldt Ave., Boston",PEDESTRIAN,F
+2016,2,18,5,56,AM,"Somerville Ave. + White St., Cambridge",PEDESTRIAN,F
+2016,2,15,12,7,AM,"Great Neck Rd. NORTH, Mashpee",OPERATOR,F
+2016,2,12,7,28,AM,"I-93 SOUTH, Boston",OPERATOR,F
+2016,2,10,4,25,AM,"US-1 NORTH Bennett Hwy., Saugus",OPERATOR,F
+2016,2,10,1,30,AM,"SR-28 Randolph Ave., Quincy",PASSENGER,M
+2016,2,10,1,30,AM,"SR-28 Randolph Ave., Quincy",OPERATOR,M
+2016,2,5,12,54,PM,"SR-126 South Main St., Bellingham",OPERATOR,M
+2016,2,2,1,19,PM,"Veterans Of Foreign Wars Pkwy., Boston",OPERATOR,M
+2016,2,1,11,55,PM,"Border St., Woburn",MOTORCYCLE: OPERATOR,M
+2016,2,1,11,16,PM,"Cherry St., Plymouth",OPERATOR,M
+2016,1,30,2,31,AM,"Granby Rd. + Chicpoee St., Chicopee",OPERATOR,F
+2016,1,26,6,15,PM,"Old Colony Ave. + Gavin Way, Boston",PEDESTRIAN,M
+2016,1,26,3,0,PM,"Shawsheen St., Tewksbury",OPERATOR,F
+2016,1,26,1,15,PM,"I-95 NORTH, Lexington",OPERATOR,M
+2016,1,26,1,12,PM,"SR-28 Cranberry Hwy., Wareham",OPERATOR,M
+2016,1,24,11,18,AM,"Dorchester Ave. + Harborview St., Dorchester",PEDESTRIAN,M
+2016,1,20,7,48,PM,"SR-9 Worcester Rd. + Prospect St., Framingham",PEDESTRIAN,M
+2016,1,20,5,17,PM,"Chapman St., Quincy",PEDESTRIAN,M
+2016,1,18,3,15,PM,"SR-129 Lowell St. + Bond St., Reading",PEDESTRIAN,M
+2016,1,16,7,5,PM,"US-1 N Newburyport Tpke., Peabody",OPERATOR,M
+2016,1,16,6,10,PM,"I-195 EAST, Seekonk",OPERATOR,M
+2016,1,13,8,5,AM,"323 Washington St., Boston",PEDESTRIAN,M
+2016,1,12,4,41,PM,"4593 Washington St., Boston",PEDESTRIAN,F
+2016,1,9,2,49,AM,"W Boylston St., Worcester",PEDESTRIAN,M
+2016,1,9,12,32,AM,"SR-3A, Billerica",OPERATOR,F
+2016,1,8,4,47,PM,"US-20 Westfield St., West Springfield",OPERATOR,M
+2016,1,8,4,47,PM,"US-20 Westfield St., West Springfield",OPERATOR,M
+2016,1,8,3,39,PM,"I-90 WEST off ramp, West Springfield",OPERATOR,M
+2016,1,8,3,21,PM,"Lagrange St., Brookline",PASSENGER,F
+2016,1,7,10,56,PM,"Reed Rd., Westport",OPERATOR,M
+2016,1,6,5,28,PM,"SR-28, Yarmouth",PEDESTRIAN,M
+2016,1,4,6,0,PM,"Salem St. + Albion St., Malden",PEDESTRIAN,M
+2016,1,4,5,45,PM,"US-202 Granby Rd., South Hadley",PEDESTRIAN,M
+2016,1,4,7,9,AM,"US-202 Westfield Rd., Holyoke",OPERATOR,F
+2016,1,2,6,7,PM,"SR- 159 233 Main St., Agawam",OPERATOR,M
+2016,1,1,4,11,AM,"Hampshire St. + Chestnut St., Holyoke",PASSENGER,F
+2016,1,1,4,11,AM,"Hampshire St. + Chestnut St., Holyoke",PASSENGER,M
+2015,12,31,5,0,PM,"US-20 North Main St., Palmer",PEDESTRIAN,M
+2015,12,31,12,52,PM,"Madison St. US-1 Washington St., Wrentham",OPERATOR,M
+2015,12,30,5,6,PM,"SR-9 Belmont St., Worcester",PEDESTRIAN,M
+2015,12,27,7,20,PM,"SR-60 Pleasant St., Malden",PEDESTRIAN,F
+2015,12,24,6,31,PM,"US-20 Springfield Rd., Westfield",OPERATOR,M
+2015,12,23,5,3,PM,"Sr-16 Washington St., Holliston",PEDESTRIAN,F
+2015,12,23,12,2,PM,"Winter St., Hanson",PEDESTRIAN,F
+2015,12,16,6,45,AM,"I-195 EAST, Marion",PASSENGER,M
+2015,12,12,3,56,PM,"US-44 New State Hwy., Raynham",OPERATOR,M
+2015,12,11,8,36,PM,"SR-27 Park St., Stoughton",PEDESTRIAN,M
+2015,12,11,6,5,PM,"SR-1A Lynnway, Lynn",PEDESTRIAN,M
+2015,12,11,6,15,AM,"Elm St., Reading",OPERATOR,F
+2015,12,10,7,56,PM,"SR-1A Walpole St. Hoyle St., Norwood",PASSENGER,M
+2015,12,10,4,50,PM,"Wareham St., Middleborough",PEDESTRIAN,F
+2015,12,7,5,17,PM,"Highland Ave., Randolph",PEDESTRIAN,M
+2015,12,6,11,0,PM,"SR-203 Gallivan Blvd. Adams St., Boston",MOTORCYCLE: OPERATOR,M
+2015,12,6,8,48,PM,"US-20 Southwest Cutoff, Worcester",PEDESTRIAN,M
+2015,12,6,5,22,PM,"Rantoul St. SR-62 Elliott St., Beverly",PEDESTRIAN,F
+2015,12,6,12,55,PM,"SR-116 Ashfield Rd., Conway",MOTORCYCLE: OPERATOR,M
+2015,12,5,9,20,AM,"Elm St. + William St., Pittsfield",OPERATOR,M
+2015,12,4,4,14,PM,"I-290 Connector, Marlborough",OPERATOR,M
+2015,12,3,6,20,PM,"US-20 Commonwealth Ave. + Agganis Way, Boston",PEDESTRIAN,F
+2015,12,3,4,43,PM,"Burgin Pkwy. + Dimmock St., Quincy",PEDESTRIAN,F
+2015,12,2,9,49,AM,"Hifhland Rd. + SR-18 Bedford St., Lakeville",PASSENGER,F
+2015,11,29,7,5,AM,"SR-28 SOUTH off ramp, Randolph",OPERATOR,M
+2015,11,27,4,20,AM,"SR-140, Gardner",OPERATOR,M
+2015,11,24,7,15,PM,"Bennington St. + Trident St., Boston",MOTORCYCLE: OPERATOR,M
+2015,11,23,6,57,PM,"Constitution Blvd., Franklin",OPERATOR,M
+2015,11,22,6,5,PM,"Commercial St. + Fisher St., Foxborough",OPERATOR,F
+2015,11,22,2,15,AM,"I-91 SOUTH, Springfield",PEDESTRIAN,M
+2015,11,21,11,5,PM,"Copicut Rd., Fall River",PASSENGER,M
+2015,11,21,5,56,PM,"SR-123 Belmont St., Brockton",PEDESTRIAN,F
+2015,11,21,2,10,AM,"SR-18 Acushnet Ave., New Bedford",PEDESTRIAN,M
+2015,11,18,2,40,PM,"SR-135 South St., Northborough",OPERATOR,M
+2015,11,17,6,0,PM,"High St. SR-141 Appleton St., Holyoke",PEDESTRIAN,F
+2015,11,17,12,0,AM,"Mechanic St., Leominster",PEDESTRIAN,M
+2015,11,16,4,31,AM,"SR-135 West Union St., Ashland",PEDESTRIAN,M
+2015,11,15,4,58,PM,"I-95 SOUTH, Dedham",PEDESTRIAN,F
+2015,11,13,9,41,AM,"Hathaway Rd., New Bedford",PASSENGER,M
+2015,11,12,6,30,AM,"I-495 NORTH, Middleborough",OPERATOR,M
+2015,11,12,1,50,AM,"US-20 Wilbraham St., Wilbraham",PEDESTRIAN,F
+2015,11,9,10,53,AM,"I-495 NORTH off ramp, Mansfield",OPERATOR,M
+2015,11,8,3,25,PM,"Adams St., Dorchester",PEDESTRIAN,F
+2015,11,8,3,20,AM,"SR-24 NORTH, Amvets Memorial Hwy., Stoughton",PASSENGER,M
+2015,11,7,6,40,PM,"Charles River Dam + Leverett Cir., Boston",PASSENGER,F
+2015,11,7,6,40,PM,"Charles River Dam + Leverett Cir., Boston",OPERATOR,M
+2015,11,7,3,13,PM,"29 Lisa Ln., Haverhill",OTHER,M
+2015,11,6,5,32,PM,"SR-122 Chandler St., Worcester",PEDESTRIAN,M
+2015,11,5,8,15,PM,"Railroad St., Methuen",MOTORCYCLE: OPERATOR,M
+2015,11,5,5,12,PM,"SR-130, Sandwich",OPERATOR,M
+2015,11,5,4,9,PM,"US-44 Harding St., Middleborough",MOTORCYCLE: OPERATOR,M
+2015,11,5,11,17,AM,"River St. + Salem St., Medford",OPERATOR,M
+2015,11,4,4,31,PM,"Lowell St. + North Rd., Carlisle",MOTORCYCLE: OPERATOR,M
+2015,11,4,3,30,PM,"Tremont St. + West Brookline St., Boston",PEDESTRIAN,F
+2015,11,4,9,34,AM,"Sunberg Rd., Spencer",OPERATOR,M
+2015,11,4,6,53,AM,"SR-122 Pleasant St., Paxton",OPERATOR,M
+2015,11,3,2,38,PM,"Borden Brook Rd., Granville",MOTORCYCLE: OPERATOR,M
+2015,11,2,6,5,PM,"SR-9 Elm St., Northampton",MOTORCYCLE: OPERATOR,M
+2015,10,30,11,24,PM,"Lincoln St., Franklin",OPERATOR,F
+2015,10,29,2,15,PM,"US-1 Washington St., Wrentham",OPERATOR,F
+2015,10,29,7,18,AM,"I-91, West Springfield",OPERATOR,M
+2015,10,28,8,33,PM,"SR-28 NORTH Main St ., West Bridgewater",PEDESTRIAN,M
+2015,10,28,5,35,PM,"Lexington St., Waltham",PEDESTRIAN,M
+2015,10,26,11,27,AM,"Burnett Rd., Chicopee",OPERATOR,F
+2015,10,26,8,30,AM,"US-20 Southbridge Rd., Oxford",OPERATOR,F
+2015,10,26,8,30,AM,"US-20 Southbridge Rd., Oxford",PASSENGER,M
+2015,10,25,11,0,PM,"US-1 S Bennett Hwy., Saugus",PEDESTRIAN,M
+2015,10,25,10,45,PM,"Frontage Rd., Peabody",OPERATOR,M
+2015,10,25,6,8,PM,"SR-12 Water St., Fitchburg",OPERATOR,F
+2015,10,24,10,0,AM,"Revere Beach Blvd., Revere",PEDESTRIAN,M
+2015,10,24,12,1,AM,"Hyacinth St., Fall River",OPERATOR,M
+2015,10,23,2,58,PM,"US-6 State Hwy., Eastham",BICYCLIST,F
+2015,10,21,6,33,PM,"SR-12 1089 Central St., Leominster",PEDESTRIAN,M
+2015,10,18,3,4,AM,"Lancaster Ave., Lunenburg",OPERATOR,M
+2015,10,16,6,27,PM,"US-6 State Rd., Westport",OPERATOR,F
+2015,10,16,3,25,PM,"Massachusetts Ave., North Adams",OPERATOR,M
+2015,10,16,11,36,AM,"Paul Tivnan Dr., Boylston",MOTORCYCLE: OPERATOR,M
+2015,10,15,6,14,PM,"Maple St. + Pine St., Attleboro",BICYCLIST,M
+2015,10,14,11,41,AM,"Water St., Plymouth",PEDESTRIAN,M
+2015,10,13,8,50,AM,"SR-140 SOUTH off ramp, New Bedford",OPERATOR,M
+2015,10,12,3,11,PM,"Bernardston Rd. + Long Ave., Greenfield",BICYCLIST,M
+2015,10,11,5,52,PM,"Central St. + Apsley St., Hudson",BICYCLIST,M
+2015,10,10,11,52,PM,"Middle St., Weymouth",PASSENGER,M
+2015,10,8,12,12,AM,"Southbridge St., Southbridge",MOTORCYCLE: OPERATOR,M
+2015,10,5,10,8,PM,"SR-109 Main St., Medfield",OPERATOR,F
+2015,10,4,11,26,PM,"Lafayette St., Somerset",OPERATOR,M
+2015,10,2,7,24,PM,"Stony Brook Rd. + Run Hill Rd., Brewster",BICYCLIST,F
+2015,10,2,3,37,PM,"SR-2 Mohawk Trail, Shelburne",OPERATOR,F
+2015,10,2,11,15,AM,"SR-138 Broadway., Raynham",PASSENGER,F
+2015,10,2,5,30,AM,"Plain Rd., Greenfield",OPERATOR,M
+2015,9,30,4,29,AM,"I-95 NORTH, Lexington",OPERATOR,M
+2015,9,29,2,14,PM,"Granite St., Braintree",MOTORCYCLE: OPERATOR,M
+2015,9,28,8,6,PM,"Billerica Ave., Billerica",OPERATOR,M
+2015,9,28,3,5,AM,"I-95 SOUTH, Foxborough",PEDESTRIAN,M
+2015,9,27,12,20,AM,"SR-38 Bridge St., Lowell",PASSENGER,M
+2015,9,27,12,20,AM,"SR-38 Bridge St., Lowell",OPERATOR,F
+2015,9,26,7,0,PM,"Lincoln St., Worcester",PEDESTRIAN,M
+2015,9,26,7,0,PM,"Lincoln St., Worcester",PEDESTRIAN,F
+2015,9,25,7,40,AM,"I-495 NORTH, Route 24N ramp, Raynham",OPERATOR,F
+2015,9,23,9,40,PM,"Dell Rd., Heath",OPERATOR,M
+2015,9,23,5,10,PM,"Albany St. + Traveler St., Boston",MOTORCYCLE: OPERATOR,M
+2015,9,21,8,16,PM,"SR- 28 Falmouth Rd., Cotuit",OPERATOR,M
+2015,9,20,3,8,AM,"I-95 NORTH, North Attleborough",PASSENGER,F
+2015,9,18,11,15,PM,"High St., Canton",MOTORCYCLE: OPERATOR,M
+2015,9,17,8,42,PM,"SR-58 Main St., Plympton",OPERATOR,M
+2015,9,15,5,10,PM,"SR-28 Wareham St., Middleborough",OPERATOR,F
+2015,9,14,7,35,PM,"US-7 South Main St., Great Barrington",OTHER,M
+2015,9,12,5,35,PM,"I-495 SOUTH, Lowell",MOTORCYCLE: PASSENGER,F
+2015,9,12,3,13,AM,"Hyde Park Ave. + Walk Hill St., Boston",OPERATOR,M
+2015,9,11,5,10,AM,"I-93 SOUTH, Woburn",OPERATOR,F
+2015,9,8,6,0,AM,"I-495 NORTH, Hopkinton",OPERATOR,M
+2015,9,6,2,25,PM,"SR-2A 256 Ayer Rd. + Willow Rd., Littleton",PASSENGER,F
+2015,9,5,6,26,PM,"Sawyer St. + Myrtle St., New Bedford",PEDESTRIAN,F
+2015,9,5,3,10,PM,"Drum Hill Sq. Old Westford Rd., Chelmsford",OTHER,M
+2015,9,2,10,30,AM,"SR-22 Essex St. + Grapevine Rd., Wenham",OPERATOR,F
+2015,8,30,2,45,PM,"Common St., Braintree",OPERATOR,M
+2015,8,29,2,0,PM,"Phillips Rd., New Bedford",MOTORCYCLE: OPERATOR,M
+2015,8,29,7,34,AM,"SR-38 Falmouth Rd. + Fox Hollow Ln., Barnstable",MOTORCYCLE: OPERATOR,M
+2015,8,29,12,5,AM,"I-93 NORTH, Southeast Expressway, Boston",MOTORCYCLE: OPERATOR,M
+2015,8,26,9,5,PM,"Central St., Framingham",MOTORCYCLE: OPERATOR,M
+2015,8,25,1,35,PM,"SR-18 NORTH, New Bedford",MOTORCYCLE: OPERATOR,M
+2015,8,23,7,44,AM,"Providence St. + Riverlin St., Millbury",MOTORCYCLE: OPERATOR,M
+2015,8,22,7,40,PM,"I-190 SOUTH, Sterling",OPERATOR,M
+2015,8,22,7,40,PM,"I-190 SOUTH, Sterling",OPERATOR,F
+2015,8,20,10,30,AM,"SR-123 Belmont St., Brockton",OPERATOR,F
+2015,8,19,9,9,PM,"Goddard Memorial Dr., Worcester",PASSENGER,F
+2015,8,17,4,21,PM,"SR-140 Mechanic St., Bellingham",PASSENGER,M
+2015,8,16,1,17,AM,"Swampscott Rd., Salem",OPERATOR,M
+2015,8,15,2,24,AM,"Atlantic Ave., Boston",MOTORCYCLE: OPERATOR,F
+2015,8,13,7,2,PM,"141 Chelsea St. + Buell St., Everett",PEDESTRIAN,F
+2015,8,13,1,20,PM,"Governor Prence Rd. + Gull Ln., Eastham",MOTORCYCLE: OPERATOR,M
+2015,8,12,1,51,PM,"SR-106 East Center St., West Bridgewater",OPERATOR,M
+2015,8,11,8,25,AM,"Reed St. + High St., Randolph",MOTORCYCLE: OPERATOR,M
+2015,8,10,11,0,PM,"I-395, Oxford",OPERATOR,M
+2015,8,10,2,6,PM,"South Washington St., North Attleborough",OPERATOR,F
+2015,8,10,1,34,PM,"River St. + Pine St., Hudson",OPERATOR,F
+2015,8,10,1,0,AM,"US-20 Sturbridge Rd., Charlton",OPERATOR,F
+2015,8,9,10,25,PM,"SR-1A Bridge St., Salem",PEDESTRIAN,M
+2015,8,9,10,42,AM,"Mount Tom Rd., Northampton",OPERATOR,M
+2015,8,8,11,40,PM,"US-6 State Hwy., Eastham",PEDESTRIAN,M
+2015,8,7,6,56,PM,"Short St., Brockton",OPERATOR,M
+2015,8,7,7,5,AM,"SR-2A Massachusetts Ave. + Beacon St., Boston",BICYCLIST,F
+2015,8,6,3,50,PM,"SR-18 Bedford St. + Grove St., Bridgewater",MOTORCYCLE: OPERATOR,M
+2015,8,5,4,22,PM,"SR-6A, Yarmouth",OPERATOR,M
+2015,8,4,8,28,PM,"SR-118 Tremont St., Rehoboth",OPERATOR,M
+2015,7,31,2,58,PM,"State St ., Springfield",PEDESTRIAN,F
+2015,7,31,12,2,AM,"I-90 EAST Mass Turnpike, Auburn",PEDESTRIAN,M
+2015,7,30,11,5,PM,"Cambridge St. I-93 off ramp, Boston",MOTORCYCLE: OPERATOR,M
+2015,7,28,11,49,PM,"South St., Foxborough",MOTORCYCLE: OPERATOR,M
+2015,7,28,7,53,PM,"VFW Highway, Lowell",MOTORCYCLE: OPERATOR,M
+2015,7,27,3,30,PM,"I-190 NORTH, West Boylston",OPERATOR,M
+2015,7,27,3,14,PM,"Haverhill St., Brockton",MOTORCYCLE: OPERATOR,M
+2015,7,27,10,55,AM,"SR-38 Main St., Tewksbury",OPERATOR,M
+2015,7,24,12,41,AM,"Tarkiln Rd., Kingston",MOTORCYCLE: OPERATOR,M
+2015,7,24,12,0,AM,"Brigham St., Hudson",MOTORCYCLE: OPERATOR,F
+2015,7,21,7,27,PM,"Russells Mills Rd., Dartmouth",PEDESTRIAN,F
+2015,7,21,4,1,PM,"US-5 Greenfield Rd., Deerfield",BICYCLIST,M
+2015,7,18,2,3,AM,"Massasoit Rd., Worcester",MOTORCYCLE: OPERATOR,M
+2015,7,17,7,54,PM,"5041 Washington St., Boston",MOTORCYCLE: OPERATOR,M
+2015,7,16,10,0,PM,"I-91 SR-2, Greenfield",OPERATOR,M
+2015,7,16,7,36,AM,"I-495, Norton",OPERATOR,F
+2015,7,13,9,0,PM,"Chestnut St., East Longmeadow",PASSENGER,M
+2015,7,13,3,15,PM,"I-495 SOUTH, Mansfield",OPERATOR,M
+2015,7,12,8,50,PM,"Quincy Shore Dr., Quincy",PEDESTRIAN,M
+2015,7,12,5,9,PM,"South Main St. + William St., Fall River",MOTORCYCLE: OPERATOR,M
+2015,7,11,10,28,PM,"SR-9 Berkshire Trail, Windsor",OPERATOR,M
+2015,7,11,8,20,PM,"North Ave. + Concord St., Haverhill",MOTORCYCLE: OPERATOR,M
+2015,7,11,7,50,PM,"1260 Bridge St., Dracut",OPERATOR,M
+2015,7,11,1,42,AM,"US-20 Brighton Ave. + Reedsdale St., Brighton",MOTORCYCLE: OPERATOR,M
+2015,7,10,8,50,PM,"SR-146 SOUTH, Sutton",MOTORCYCLE: OPERATOR,M
+2015,7,10,7,26,PM,"Montgomery St. + Bridle Path Rd., Chicopee",MOTORCYCLE: OPERATOR,M
+2015,7,10,2,16,PM,"Mansfield St., Sharon",OPERATOR,M
+2015,7,10,1,0,AM,"SR-28 Main St., Yarmouth",MOTORCYCLE: OPERATOR,M
+2015,7,9,9,15,PM,"SR-140 Milford St., Upton",OPERATOR,F
+2015,7,7,10,4,PM,"SR-122 Worcester Rd., Oakham",OPERATOR,M
+2015,7,7,4,4,PM,"SR-28 East Grove St., Middleborough",OPERATOR,M
+2015,7,7,11,2,AM,"SR-3A Chief Justice Cushing Hwy., Scituate",MOTORCYCLE: OPERATOR,M
+2015,7,4,6,24,PM,"SR-9 Boston Turnpike, Shrewsbury",MOTORCYCLE: OPERATOR,M
+2015,7,4,6,24,PM,"SR-9 Boston Turnpike, Shrewsbury",MOTORCYCLE: PASSENGER,F
+2015,7,4,4,3,PM,"I-90 EAST Mass Turnpike, Framingham",OPERATOR,M
+2015,7,4,2,12,AM,"Front St., Chicopee",OPERATOR,M
+2015,7,3,11,28,PM,"Melnea Cass Blvd. + Shawmut Ave., Boston",PEDESTRIAN,M
+2015,7,3,11,20,AM,"Homestead St., Holden",OPERATOR,M
+2015,7,3,3,11,AM,"Gate St., Carver",MOTORCYCLE: OPERATOR,M
+2015,7,3,12,33,AM,"US-7 Kemble St., Lee",OPERATOR,M
+2015,7,2,11,59,PM,"US-5 Riverdale St., West Springfield",OPERATOR,M
+2015,7,2,5,36,PM,"I-495 SOUTH, Methuen",PASSENGER,M
+2015,6,30,10,8,AM,"Bay Rd., Easton",OPERATOR,M
+2015,6,29,1,15,PM,"US-2 EAST, Littleton",OPERATOR,M
+2015,6,28,3,12,PM,"SR-110, Lowell",OPERATOR,F
+2015,6,27,9,20,PM,"1367 Mass Ave., Arlington",PEDESTRIAN,F
+2015,6,27,7,10,PM,"US-1 SOUTH, Lynnfield",MOTORCYCLE: OPERATOR,M
+2015,6,25,11,45,PM,"I-495 NORTH, Lowell",MOTORCYCLE: OPERATOR,M
+2015,6,25,7,55,PM,"US-44 New State Hwy., Raynham",OPERATOR,M
+2015,6,25,6,29,PM,"Richmond Ave., Worcester",MOTORCYCLE: OPERATOR,M
+2015,6,21,10,5,PM,"I-93 SOUTH, Andover",PASSENGER,F
+2015,6,20,4,35,PM,"I-95 SOUTH, Georgetown",PASSENGER,F
+2015,6,19,9,50,PM,"I-291 WEST, Springfield",PEDESTRIAN,M
+2015,6,16,3,15,PM,"SR-49 Podunk Pke., East Brookfield",PASSENGER,M
+2015,6,15,5,27,PM,"SR-139 Careswell St., Marshfield",OPERATOR,F
+2015,6,15,10,51,AM,"I-495 SOUTH, Wrentham",OPERATOR,M
+2015,6,14,8,48,PM,"US-202 North Rd. + Laeger Dr., Westfield",OPERATOR,M
+2015,6,13,4,55,PM,"US-20 Charlton Rd., Sturbridge",PASSENGER,F
+2015,6,12,11,18,AM,"Cordaville Rd., Ashland",OPERATOR,M
+2015,6,12,2,59,AM,"Commercial St., Boston",PASSENGER,M
+2015,6,12,2,59,AM,"Commercial St., Boston",OPERATOR,M
+2015,6,10,11,58,AM,"SR-58 Adams St. + Townsend St., Abington",OPERATOR,M
+2015,6,9,2,58,PM,"East Rd., Adams",PEDESTRIAN,M
+2015,6,7,7,7,PM,"SR-53 Quincy Ave. + Pleasantview Ave., Braintree",OPERATOR,M
+2015,6,7,6,31,PM,"Pierce Ave., Lakeville",MOTORCYCLE: OPERATOR,M
+2015,6,7,3,19,PM,"SR-9 Berkshire Trail, Cummington",MOTORCYCLE: OPERATOR,M
+2015,6,7,7,0,AM,"16 Gates St., Framingham",PASSENGER,M
+2015,6,7,7,0,AM,"16 Gates St., Framingham",OPERATOR,F
+2015,6,6,11,30,PM,"SR-28 Columbus Ave., Boston",PEDESTRIAN,M
+2015,6,6,11,0,PM,"West Selden St. + Lena Ter., Mattapan",BICYCLIST,F
+2015,6,4,8,45,PM,"Union St. + Prescott St., Weymouth",MOTORCYCLE: OPERATOR,M
+2015,6,4,11,16,AM,"Pitman St., Fall River",PEDESTRIAN,M
+2015,6,3,3,38,PM,"SR-106 Eastman St. + Monahan Ln., Mansfield",PASSENGER,F
+2015,6,3,2,0,PM,"SR-106 East St., Mansfield",BICYCLIST,M
+2015,6,1,2,58,AM,"SR-6A Main St., Barnstable",OPERATOR,M
+2015,5,27,3,17,PM,"244 Maple St., Bellingham",OPERATOR,F
+2015,5,27,6,8,AM,"SR-1A Beach Rd. + Sacks Way, Salisbury",OPERATOR,M
+2015,5,25,10,34,PM,"US-6 Fairhaven Rd., Mattapoisett",OPERATOR,M
+2015,5,25,10,34,PM,"US-6 Fairhaven Rd., Mattapoisett",PASSENGER,F
+2015,5,25,6,39,AM,"I-95 NORTH, Yankee Division Hwy., Wakefield",OPERATOR,F
+2015,5,24,12,22,PM,"SR-3A + Lincoln St., Hingham",PEDESTRIAN,M
+2015,5,23,4,27,PM,"Mall Rd. + Cambridge St., Burlington",PASSENGER,F
+2015,5,20,2,30,AM,"Salisbury St., Worcester",MOTORCYCLE: OPERATOR,M
+2015,5,19,10,1,PM,"Norwell St. + Talbot Ave., Dorchester",BICYCLIST,M
+2015,5,17,6,37,PM,"Shutesbury Rd., Leverett",MOTORCYCLE: OPERATOR,M
+2015,5,17,9,8,AM,"SR-27 Maynard Rd. + Hudson Rd., Sudbury",BICYCLIST,M
+2015,5,16,4,2,AM,"788 Essex St. + Greenwood St., Lawrence",OPERATOR,M
+2015,5,14,9,23,PM,"Kelly Square I-290 Entrance Ramp, Worcester",PEDESTRIAN,F
+2015,5,13,2,22,PM,"58 Hathaway Rd., Dartmouth",PEDESTRIAN,M
+2015,5,13,2,0,PM,"US-1, Saugus",OPERATOR,M
+2015,5,13,12,45,AM,"I-495 SOUTH, Milford",PEDESTRIAN,M
+2015,5,12,6,15,PM,"SR-18 Bedford St., Whitman",OPERATOR,M
+2015,5,12,5,20,PM,"I-395 SOUTH, Oxford",OPERATOR,M
+2015,5,10,9,10,PM,"SR-62 Elliot St. + SR-1A Rantoul St., Beverly",PASSENGER,F
+2015,5,9,8,30,PM,"Franklin St., Stoneham",PEDESTRIAN,M
+2015,5,9,6,45,PM,"West St., Douglas",MOTORCYCLE: OPERATOR,M
+2015,5,9,1,12,PM,"I-395 SOUTH, Oxford",OPERATOR,M
+2015,5,9,10,2,AM,"SR-37 SOUTH Franklin St., Holbrook",OPERATOR,M
+2015,5,9,6,9,AM,"SR-28 Randolph Ave., Quincy",OPERATOR,M
+2015,5,8,4,1,PM,"SR-123 Depot St ., Easton",OPERATOR,F
+2015,5,8,4,23,AM,"Fox St. US-5 Riverdale St., West Springfield",PEDESTRIAN,M
+2015,5,7,10,45,PM,"Spruce Corner Rd. + Suburban Dr., Ashfield",OPERATOR,F
+2015,5,7,2,27,PM,"I-495 NORTH, Haverhill",OPERATOR,M
+2015,5,7,10,34,AM,"SR-28 Blue Hill Ave. + Babson St., Boston",OPERATOR,F
+2015,5,3,7,56,AM,"I-90 EAST, Westfield",OPERATOR,M
+2015,5,3,7,56,AM,"I-90 EAST, Westfield",PASSENGER,M
+2015,5,3,3,40,AM,"I-190 NORTH, Worcester",PEDESTRIAN,F
+2015,5,3,3,30,AM,"SR-66 Main Rd., Westhampton",OPERATOR,M
+2015,5,3,1,8,AM,"Broadway, Chelsea",MOTORCYCLE: OPERATOR,M
+2015,4,30,10,0,PM,"SR-125 Main St. + White St., Haverhill",PEDESTRIAN,M
+2015,4,30,9,24,PM,"US-5 Northampton St., Holyoke",OPERATOR,M
+2015,4,30,9,24,PM,"US-5 Northampton St., Holyoke",OPERATOR,M
+2015,4,30,9,22,PM,"US-7 North Main St ., Lanesborough",OPERATOR,F
+2015,4,29,6,8,PM,"US-20 Sunderland Road ., Worcester",OPERATOR,F
+2015,4,28,9,10,PM,"I-290 WEST, Shrewsbury",OPERATOR,M
+2015,4,27,2,10,PM,"Newton St., Brookline",OPERATOR,M
+2015,4,27,2,48,AM,"West Main St., Avon",PASSENGER,M
+2015,4,27,2,48,AM,"West Main St., Avon",PASSENGER,F
+2015,4,26,12,18,PM,"I-495 SOUTH, Franklin",PASSENGER,F
+2015,4,25,9,50,PM,"North Mill St., Holliston",MOTORCYCLE: OPERATOR,M
+2015,4,25,9,49,PM,"Massachusetts Ave. + Shirley St., Boston",MOTORCYCLE: OPERATOR,M
+2015,4,24,6,30,PM,"Brayton Ave., Fall River",MOTORCYCLE: OPERATOR,M
+2015,4,23,11,9,PM,"I-195 WEST, Swansea",OPERATOR,F
+2015,4,23,11,9,PM,"I-195 WEST, Swansea",PASSENGER,M
+2015,4,21,11,25,PM,"Hollow Rd., Brimfield",OPERATOR,M
+2015,4,20,6,57,PM,"Hathaway Rd. + Wilber Ave., Dartmouth",OPERATOR,F
+2015,4,19,8,0,PM,"SR-28 North Main St. + Oliver St., Randolph",PEDESTRIAN,F
+2015,4,19,4,13,PM,"East Wilson Rd., Warwick",MOTORCYCLE: OPERATOR,M
+2015,4,16,3,9,PM,"SR-187 NORTH + Westfield St., Agawam",OPERATOR,M
+2015,4,15,7,37,PM,"SR-25 EAST, Wareham",PASSENGER,M
+2015,4,13,3,30,PM,"Main Rd., Westhampton",MOTORCYCLE: OPERATOR,M
+2015,4,13,9,19,AM,"Old Bass River Rd. + SR- 6A, Dennis",OPERATOR,M
+2015,4,12,5,19,AM,"Bay Rd., Easton",OPERATOR,M
+2015,4,12,5,12,AM,"State Rd. + Codding Ln., Tisbury",OPERATOR,F
+2015,4,10,2,25,PM,"Main St., Plympton",OPERATOR,M
+2015,4,10,2,25,PM,"Main St., Plympton",OPERATOR,M
+2015,4,10,1,20,AM,"Bennett Rd., Hampden",OPERATOR,M
+2015,4,8,10,50,PM,"US-1 NORTH, Saugus",PEDESTRIAN,F
+2015,4,5,3,54,PM,"Charlesgate EAST on ramp, Boston",OPERATOR,F
+2015,4,4,12,48,AM,"East St., Great Barrington",PASSENGER,M
+2015,4,3,9,42,PM,"SR-9 Merrill Rd. + Plastics Ave., Pittsfield",PEDESTRIAN,M
+2015,3,28,10,0,PM,"SR-60 Eastern Ave., Malden",OPERATOR,M
+2015,3,27,11,8,PM,"I-90 WEST Mass Turnpike, Boston",PEDESTRIAN,M
+2015,3,27,10,3,PM,"SR-20A St. James Blvd. + Georgetown St., Springfield",PEDESTRIAN,M
+2015,3,25,6,19,PM,"Middlesex Rd., Tyngsborough",PEDESTRIAN,M
+2015,3,23,11,8,AM,"US-3 Massachusetts Ave., Arlington",PEDESTRIAN,M
+2015,3,21,2,17,PM,"SR-57 Pixley Rd., Monterey",OPERATOR,M
+2015,3,21,5,22,AM,"St. James Ave., Springfield",OPERATOR,F
+2015,3,16,2,15,PM,"SR-125 SOUTH Andover Bypass St., Andover",OPERATOR,M
+2015,3,13,10,30,PM,"SR-106 Green St., Foxborough",OPERATOR,F
+2015,3,12,7,54,AM,"Garrett Place, Plymouth",PEDESTRIAN,F
+2015,3,12,7,53,AM,"Abbey Memorial Dr., Chicopee",OPERATOR,M
+2015,3,11,1,30,PM,"Putnam Ave., Cambridge",BICYCLIST,F
+2015,3,11,12,30,PM,"Cambridge St., Boston",PEDESTRIAN,F
+2015,3,9,8,40,AM,"I-90 WEST, Brimfield",OPERATOR,F
+2015,3,3,6,39,AM,"Arsenal St. + Beechwood Ave., Watertown",PEDESTRIAN,M
+2015,3,2,9,50,PM,"Park St. + Bank St., Attleboro",PEDESTRIAN,M
+2015,3,2,10,30,AM,"Orchard St., New Bedford",OPERATOR,M
+2015,3,1,6,59,AM,"SR-18 NORTH, New Bedford",PASSENGER,F
+2015,2,26,12,36,PM,"I-90 WEST, West Springfield",OPERATOR,F
+2015,2,25,7,0,AM,"South St., Bernardston",OPERATOR,F
+2015,2,20,6,20,PM,"Upham St., Fitchburg",PEDESTRIAN,F
+2015,2,19,1,0,PM,"Westford St., Lowell",PEDESTRIAN,M
+2015,2,17,6,52,PM,"I-495 SOUTH, Mansfield",OPERATOR,F
+2015,2,14,1,50,AM,"SR-9 Federal St., Belchertown",PEDESTRIAN,M
+2015,2,11,2,57,PM,"I-90 EAST, Auburn",PEDESTRIAN,M
+2015,2,7,7,20,PM,"Berkshire Ave., Springfield",PEDESTRIAN,M
+2015,2,7,4,13,PM,"Hartsville Mill River Rd., New Marlborough",OPERATOR,M
+2015,2,7,2,0,AM,"SR-99 NORTH on ramp, Everett",OPERATOR,M
+2015,2,6,12,45,PM,"Quincy Ave., Quincy",PASSENGER,F
+2015,2,6,12,45,PM,"Quincy Ave., Quincy",OPERATOR,M
+2015,2,5,7,39,PM,"US-6 State Rd., Dartmouth",OPERATOR,M
+2015,2,5,2,55,PM,"I-90 EAST off ramp, Boston",PASSENGER,F
+2015,2,4,5,3,PM,"N Main St. + Aldrich St., Webster",OPERATOR,M
+2015,2,1,4,20,PM,"Milestone Rd. + Polpis Rd., Nantucket",PEDESTRIAN,F
+2015,1,30,10,0,PM,"Arcade Ave., Seekonk",PEDESTRIAN,F
+2015,1,30,5,57,PM,"Otis St., Westborough",OPERATOR,M
+2015,1,24,1,40,PM,"I-495 NORTH, Hopkinton",OPERATOR,M
+2015,1,23,3,30,PM,"South St. + Washington Cir., Holbrook",OPERATOR,M
+2015,1,21,8,8,PM,"240 Centre St., Boston",PEDESTRIAN,M
+2015,1,20,6,55,PM,"SR-2 WEST, Westminster",OPERATOR,F
+2015,1,20,6,4,PM,"Water St., Quincy",PEDESTRIAN,M
+2015,1,18,7,50,PM,"Swamp Rd., Richmond",OPERATOR,M
+2015,1,18,4,34,AM,"West St. + Old Farm Rd., Mansfield",OPERATOR,F
+2015,1,18,3,30,AM,"SR-24 SOUTH Amvets Memorial Hwy., Avon",PEDESTRIAN,M
+2015,1,18,1,29,AM,"SR-28 Wareham St., Middleborough",OPERATOR,M
+2015,1,17,1,53,AM,"Oak St. + Battle St., Brockton",OPERATOR,M
+2015,1,13,12,18,AM,"US-1 Newbury St. + Forest St., Peabody",PEDESTRIAN,F
+2015,1,11,10,26,PM,"Mill St., Pepperell",OPERATOR,F
+2015,1,11,9,25,PM,"SR-106 Plymouth St. + Bennett Ln., East Bridgewater",OPERATOR,M
+2015,1,10,6,18,PM,"SR-31 Westminster St., Fitchburg",PEDESTRIAN,M
+2015,1,9,8,51,PM,"Whiting St., Hanover",OPERATOR,F
+2015,1,5,12,0,PM,"College Hwy., Southwick",OPERATOR,M
+2015,1,1,4,7,AM,"Crowell Rd. + Kendrick Harvest Way, Chatham",PEDESTRIAN,M
+2015,1,1,3,17,AM,"I-90 EAST, Westborough",PASSENGER,M
+2015,1,1,3,17,AM,"I-90 EAST, Westborough",PASSENGER,F
+2015,1,1,3,17,AM,"I-90 EAST, Westborough",OPERATOR,M
+2015,1,1,2,59,AM,"Beech St., Rockland",OPERATOR,M
+2015,1,1,1,30,AM,"SR-60 Pleasant St., Arlington",OPERATOR,M
