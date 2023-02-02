@@ -9,6 +9,7 @@ from torch_geometric_temporal.signal import StaticGraphTemporalSignal
 from torch_geometric.datasets import Coauthor, Flickr, Reddit2, Planetoid, CoraFull
 from torch_geometric.data import Data
 import numpy as np
+from model.model import *
 
 import argparse
 
