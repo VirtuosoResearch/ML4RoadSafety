@@ -14,15 +14,17 @@ We have collected several datasets that we use in this project:
 
 - **New York City:** A dataset that contains information about road accidents in New York City from April 2014 to March 2023. The dataset contains 50,000+ accidents.
 
+[Download link](https://drive.google.com/drive/folders/1PHIkgoKkugj6rMvkbjxpJbmzVn69dm8e)
+
 ## Baseline Models
 
 We ran experiments on several baseline models, including:
 
-- **DCRNN:** A graph neural network that consists of a diffusion convolutional layer to capture spatial dependencies, a recurrent layer to capture temporal dependencies, and a pooling layer to aggregate information across multiple time steps.
+- **(DCRNN)[https://arxiv.org/abs/1707.01926]:** A graph neural network that consists of a diffusion convolutional layer to capture spatial dependencies, a recurrent layer to capture temporal dependencies, and a pooling layer to aggregate information across multiple time steps.
 
-- **Graph-WaveNet:** A graph convolutional neural network that uses a WaveNet architecture.
+- **Graph-WaveNet:** A graph convolutional neural network that utlizes a self-adaptive adjacency matrix to capture spatial-temporal dependencies simultaneously.
 
-- **STGCN:** A graph convolutional neural network that uses a spatio-temporal graph convolutional network architecture to aggregate information across multiple time steps in traffic forecasting tasks..
+- **STGCN:** A graph convolutional neural network that uses a spatio-temporal graph convolutional network architecture to aggregate information across multiple time steps in traffic forecasting tasks.
 
 ## Installation
 
