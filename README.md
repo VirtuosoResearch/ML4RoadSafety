@@ -20,11 +20,11 @@ We have collected several datasets that we use in this project:
 
 We ran experiments on several baseline models, including:
 
-- **(DCRNN)[https://arxiv.org/abs/1707.01926]:** A graph neural network that consists of a diffusion convolutional layer to capture spatial dependencies, a recurrent layer to capture temporal dependencies, and a pooling layer to aggregate information across multiple time steps.
+- **[DCRNN](https://arxiv.org/abs/1707.01926):** A graph neural network that consists of a diffusion convolutional layer to capture spatial dependencies, a recurrent layer to capture temporal dependencies, and a pooling layer to aggregate information across multiple time steps.
 
-- **Graph-WaveNet:** A graph convolutional neural network that utlizes a self-adaptive adjacency matrix to capture spatial-temporal dependencies simultaneously.
+- **[Graph-WaveNet](https://arxiv.org/abs/1906.00121):** A graph convolutional neural network that utlizes a self-adaptive adjacency matrix to capture spatial-temporal dependencies simultaneously.
 
-- **STGCN:** A graph convolutional neural network that uses a spatio-temporal graph convolutional network architecture to aggregate information across multiple time steps in traffic forecasting tasks.
+- **[STGCN](https://arxiv.org/abs/1709.04875):** A graph convolutional neural network that uses a spatio-temporal graph convolutional network architecture to aggregate information across multiple time steps in traffic forecasting tasks.
 
 ## Installation
 
