@@ -252,10 +252,7 @@ if __name__ == '__main__':
             # -------------------data preprocess-------------------
             
             device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-            # change model here
-            # model = GCN().to(device)
-            # model = GIN(2, 32, 2, 3).to(device)
-            model = GAT(2, 32, 2, 2).to(device)
+            model = YOURMODEL
             data = data.to(device)
             optimizer = torch.optim.Adam(model.parameters(), lr=0.01, weight_decay=5e-4)
 
@@ -310,61 +307,3 @@ if __name__ == '__main__':
         fscores.append(f_score)
     print('Accuracy: {:.4f}±{:.4f}'.format(np.mean(accs), np.std(accs)))
     print('F1-score: {:.4f}±{:.4f}'.format(np.mean(fscores), np.std(fscores)))
-    # data.train_mask[0] = False
-    # print(data.train_mask)
-    # train_mask = np.array(data.train_mask)
-    # print(np.sum(train_mask))
-
-
-    # use a for loop here
-
-    # train_dataset, test_dataset = temporal_signal_split(dataset, train_ratio=0.8)
-
-    # from tqdm import tqdm
-
-    # model = RecurrentGCN(node_features = 2)
-
-    # optimizer = torch.optim.Adam(model.parameters(), lr=0.01)
-
-    # model.train()
-
-    # for epoch in tqdm(range(200)):
-    #     cost = 0
-    #     for time, snapshot in enumerate(train_dataset):
-    #         y_hat = model(snapshot.x, snapshot.edge_index, snapshot.edge_weight)
-    #         cost = cost + torch.mean((y_hat-snapshot.y)**2)
-    #     cost = cost / (time+1)
-    #     cost.backward()
-    #     optimizer.step()
-    #     optimizer.zero_grad()
-
-
-    # # TODO: add a classfication critiria to the model and print out accuracy
-
-    # model.eval()
-    # cost = 0
-    # correct = 0
-    # total = 0
-    # true_postive = 0
-    # false = 0
-    # y_total = 0
-    # error = 0
-    # for time, snapshot in enumerate(test_dataset):
-    #     y_hat = model(snapshot.x, snapshot.edge_index, snapshot.edge_weight)
-
-    #     for i in range(len(y_hat)):
-    #         total += 1
-    #         y_total += snapshot.y[i]
-    #         error += abs(y_hat[i, 0]-snapshot.y[i])
-    #         if abs(y_hat[i, 0]-snapshot.y[i]) < 0.5:
-    #             correct += 1
-    #             if y_hat[i, 0] > 0.5:
-    #                 true_postive += 1
-    #         else:
-    #             false += 1/2
-    # print('error: {}'.format(error/total))
-    # print('y_total: {}'.format(y_total))   
-    # print('F1-score: {}'.format(true_postive/(true_postive+false)))
-    # print('Number of correct predictions: {}'.format(correct))
-    # print('Number of total predictions: {}'.format(total))
-    # print('Accuracy: {:.4f}'.format(correct/total))
