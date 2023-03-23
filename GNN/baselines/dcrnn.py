@@ -1,100 +1,60 @@
-# class DCRNN():
-#     def __init__(self, args):
-#         self.args = args
-#         self.device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-#         self.model = self.build_model()
-#         self.model.to(self.device)
-#         self.optimizer = torch.optim.Adam(self.model.parameters(), lr=self.args.learning_rate)
-#         self.loss = torch.nn.MSELoss()
-        
 import torch
-import torch.nn as nn
-# https://blog.csdn.net/m0_53961910/article/details/128135170?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-0-128135170-blog-127385319.pc_relevant_recovery_v2&spm=1001.2101.3001.4242.1&utm_relevant_index=3
-class DCRNN_1(nn.Module):
-    def __init__(self, input_dim, hidden_dim, num_layers, dropout=0.2):
-        super(DCRNN, self).__init__()
-        
-        self.device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-        
-        # Define the CNN layers
-        self.conv1 = nn.Conv1d(input_dim, hidden_dim, kernel_size=3, padding=1)
-        self.conv2 = nn.Conv1d(hidden_dim, hidden_dim, kernel_size=3, padding=1)
-        
-        # Define the RNN layers
-        self.rnn = nn.LSTM(hidden_dim, hidden_dim, num_layers, dropout=dropout)
-        
-        # Define the output layer
-        self.fc = nn.Linear(hidden_dim, 1)
-        
-    def forward(self, x):
-        # Pass the input through the CNN layers
-        x = self.conv1(x)
-        x = self.conv2(x)
-        
-        # Pass the output through the RNN layers
-        x, _ = self.rnn(x)
-        
-        # Pass the output through the output layer
-        x = self.fc(x[:, -1, :])
-        
-        return x
+import torch.nn.functional as F
+from torch_geometric_temporal.nn.recurrent import DCRNN
 
-import torch
-import torch.nn as nn
+class RecurrentGCN(torch.nn.Module):
+    def __init__(self, node_features):
+        super(RecurrentGCN, self).__init__()
+        self.recurrent = DCRNN(node_features, 32, 1)
+        self.linear = torch.nn.Linear(32, 1)
+
+    def forward(self, x, edge_index, edge_weight):
+        h = self.recurrent(x, edge_index, edge_weight)
+        h = F.relu(h)
+        h = self.linear(h)
+        return h
+    
 
 class DCRNN(nn.Module):
-    def __init__(self, input_size, hidden_size, num_layers, output_size):
+    def __init__(self, num_nodes, num_features, num_timesteps_input, num_timesteps_output):
         super(DCRNN, self).__init__()
-        self.input_size = input_size
-        self.hidden_size = hidden_size
-        self.num_layers = num_layers
-        self.output_size = output_size
-
-        # Define the CNN layers
-        self.conv1 = nn.Conv1d(input_size, hidden_size, kernel_size=3, padding=1)
-        self.conv2 = nn.Conv1d(hidden_size, hidden_size, kernel_size=3, padding=1)
+        self.num_nodes = num_nodes
+        self.num_features = num_features
+        self.num_timesteps_input = num_timesteps_input
+        self.num_timesteps_output = num_timesteps_output
         
-        # Define the RNN layers
-        self.rnn = nn.LSTM(hidden_size, hidden_size, num_layers, batch_first=True)
-
-        # Define the output layer
-        self.fc = nn.Linear(hidden_size, output_size)
-
+        self.encoder = nn.Sequential(
+            nn.Conv2d(num_features, 64, kernel_size=(1, 3), stride=1, padding=(0, 1)),
+            nn.ReLU(),
+            nn.Conv2d(64, 64, kernel_size=(1, 3), stride=1, padding=(0, 1)),
+            nn.ReLU(),
+            nn.Conv2d(64, 64, kernel_size=(1, 3), stride=1, padding=(0, 1)),
+            nn.ReLU(),
+            nn.Conv2d(64, 64, kernel_size=(1, 3), stride=1, padding=(0, 1)),
+            nn.ReLU()
+        )
+        
+        self.gru = nn.GRU(input_size=64, hidden_size=64)
+        
+        self.decoder = nn.Sequential(
+            nn.Conv2d(64, 64, kernel_size=(1, 3), stride=1, padding=(0, 1)),
+            nn.ReLU(),
+            nn.Conv2d(64, 64, kernel_size=(1, 3), stride=1, padding=(0, 1)),
+            nn.ReLU(),
+            nn.Conv2d(64, num_features, kernel_size=(1, 3), stride=1, padding=(0, 1)),
+            nn.ReLU()
+        )
+    
     def forward(self, x):
-        # Pass the input through the CNN layers
-        x = self.conv1(x)
-        x = self.conv2(x)
-
-        # Pass the output of the CNN layers through the RNN layers
-        x, _ = self.rnn(x)
-
-        # Pass the output of the RNN layers through the output layer
-        x = self.fc(x[:, -1, :])
-
-        return x
-
-# Define the model, loss function, and optimizer
-model = DCRNN(input_size, hidden_size, num_layers, output_size)
-criterion = nn.MSELoss()
-optimizer = torch.optim.Adam(model.parameters())
-
-# Train the model
-for epoch in range(num_epochs):
-    # Loop over the training data
-    for inputs, targets in train_dataloader:
-        # Zero the gradients
-        optimizer.zero_grad()
-
-        # Forward pass
-        outputs = model(inputs)
-        loss = criterion(outputs, targets)
-
-        # Backward pass and optimization step
-        loss.backward()
-        optimizer.step()
-
-# Test the model
-with torch.no_grad():
-    for inputs, targets in test_dataloader:
-        outputs = model(inputs)
-        loss = criterion(outputs, targets)
+        batch_size = x.shape[0]
+        x = x.permute(0, 3, 1, 2) # shape: (batch_size, num_timesteps_input, num_nodes, num_features)
+        x = x.reshape(batch_size * self.num_timesteps_input, self.num_nodes, self.num_features, 1) # shape: (batch_size * num_timesteps_input, num_nodes, num_features, 1)
+        x = self.encoder(x) # shape: (batch_size * num_timesteps_input, 64, num_nodes, 1)
+        x = x.reshape(batch_size, self.num_timesteps_input, 64, self.num_nodes) # shape: (batch_size, num_timesteps_input, 64, num_nodes)
+        x = x.permute(1, 0, 3, 2) # shape: (num_timesteps_input, batch_size, num_nodes, 64)
+        _, x = self.gru(x) # shape: (1, batch_size, 64)
+        x = x.repeat(self.num_timesteps_output, 1, 1) # shape: (num_timesteps_output, batch_size, 64)
+        x = x.permute(1, 2, 0).unsqueeze(-1) # shape: (batch_size, 64, num_timesteps_output, 1)
+        x = self.decoder(x) # shape: (batch_size, num_features, num_timesteps_output, num_nodes)
+        x = x.permute(0, 2, 3, 1) # shape: (batch_size, num_timesteps_output, num_nodes, num_features)
+        return
