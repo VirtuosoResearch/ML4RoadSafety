@@ -1,11 +1,11 @@
 import torch
 import torch.nn.functional as F
-from torch_geometric_temporal.nn.recurrent import DCRNN
+from torch_geometric_temporal.nn.recurrent import DCRNN, GConvGRU, GConvLSTM, TGCN, STGCN
 
 class RecurrentGCN(torch.nn.Module):
     def __init__(self, node_features):
         super(RecurrentGCN, self).__init__()
-        self.recurrent = DCRNN(node_features, 32, 1)
+        self.recurrent = GConvGRU(node_features, 32, 1)
         self.linear = torch.nn.Linear(32, 1)
 
     def forward(self, x, edge_index, edge_weight):
@@ -14,10 +14,23 @@ class RecurrentGCN(torch.nn.Module):
         h = self.linear(h)
         return h
     
+    
+class DCRNN_model(torch.nn.Module):
+    def __init__(self, node_features):
+        super(DCRNN_model, self).__init__()
+        self.recurrent = DCRNN(node_features, 32, 1)
+        self.linear = torch.nn.Linear(32, 1)
 
-class DCRNN(nn.Module):
+    def forward(self, x, edge_index):
+        h = self.recurrent(x, edge_index)
+        h = F.relu(h)
+        h = self.linear(h)
+        return h
+
+
+class DCRNN1(nn.Module):
     def __init__(self, num_nodes, num_features, num_timesteps_input, num_timesteps_output):
-        super(DCRNN, self).__init__()
+        super(DCRNN1, self).__init__()
         self.num_nodes = num_nodes
         self.num_features = num_features
         self.num_timesteps_input = num_timesteps_input
