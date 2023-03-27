@@ -11,11 +11,14 @@ from os.path import dirname
 
 path = os.getcwd()
 
-path_nodes = path + "/Stats/Nodes/"
-path_edges = path + "/Stats/Edges/"
+state_name = "NYC"
+
+path_nodes = path + "/Stats/" + state_name + "/Nodes/"
+path_edges = path + "/Stats/" + state_name + "/Edges/"
 
 node_columns = ['y', 'x', 'street_count']
 edge_columns = ['osmid', 'lanes', 'name', 'highway', 'width', 'oneway', 'reversed', 'length', 'geometry']
+
 
 #------------------ Methodology -----------------#
 
@@ -142,36 +145,81 @@ def concat_files(path, final_file_name):
 
 #------------------ Extracting and Saving features ------------------#
 
-count = 0
-actual_count = 0
 
-# Left rectangle
-print("Left Rectangle:")
-lat_coords_left = np.arange(42.050081,42.706018 + 0.1,0.1)
-long_coords_left = np.arange(-73.271423,-71.290596 + 0.1,0.1)
+### MA
 
-count, actual_count = save_stats(lat_coords_left, long_coords_left, 
-                                 node_columns, edge_columns, 
-                                 count, actual_count, 
-                                 path_nodes, path_edges)
+if(state_name == "MA"):
 
-# Right rectangle
-print("Right Rectangle:")
-lat_coords_right = np.arange(41.468262,42.891180 + 0.1,0.1)
-long_coords_right = np.arange(-71.381759,-69.947745 + 0.1,0.1)
 
-count, actual_count = save_stats(lat_coords_right, long_coords_right, node_columns, edge_columns, 
-                                    count, actual_count, path_nodes, path_edges)
+    count = 0
+    actual_count = 0
+
+    # Left rectangle
+    print("Left Rectangle:")
+    lat_coords_left = np.arange(42.050081,42.706018 + 0.1,0.1)
+    long_coords_left = np.arange(-73.271423,-71.290596 + 0.1,0.1)
+
+    count, actual_count = save_stats(lat_coords_left, long_coords_left, 
+                                    node_columns, edge_columns, 
+                                    count, actual_count, 
+                                    path_nodes, path_edges)
+
+    # Right rectangle
+    print("Right Rectangle:")
+    lat_coords_right = np.arange(41.468262,42.891180 + 0.1,0.1)
+    long_coords_right = np.arange(-71.381759,-69.947745 + 0.1,0.1)
+
+    count, actual_count = save_stats(lat_coords_right, long_coords_right, node_columns, edge_columns, 
+                                        count, actual_count, path_nodes, path_edges)
+
+if(state_name == "NYC"):
+
+    '''
+    Left Rectangle:
+    Top left: 40.644028, -74.259868
+    Top right: 40.652364, -74.049754
+    Bottom right: 40.504252, -74.056621
+    Bottom left: 40.495898, -74.272227
+
+    Right Rectangle:
+    Top left: 40.934116, -74.040141
+    Top right: 40.938266, -73.680339
+    Bottom right: 40.531396, -73.713298
+    Bottom left: 40.534527, -74.042888
+
+
+    '''
+
+    count = 0
+    actual_count = 0
+
+    # Left rectangle
+    print("Left Rectangle:")
+    lat_coords_left = np.arange(40.495898,40.652364 + 0.1,0.1)
+    long_coords_left = np.arange(-74.272227,-74.049754 + 0.1,0.1)
+
+    count, actual_count = save_stats(lat_coords_left, long_coords_left, 
+                                    node_columns, edge_columns, 
+                                    count, actual_count, 
+                                    path_nodes, path_edges)
+
+    # Right rectangle
+    print("Right Rectangle:")
+    lat_coords_right = np.arange(40.531396,40.938266 + 0.1,0.1)
+    long_coords_right = np.arange(-74.042888,-73.680339 + 0.1,0.1)
+
+    count, actual_count = save_stats(lat_coords_right, long_coords_right, node_columns, edge_columns, 
+                                        count, actual_count, path_nodes, path_edges)
+
+
 
 
 # Concat all the files
 print("Nodes:")
-concat_files(path_nodes, path + "/Stats/Stats_Nodes_MA.csv")
+concat_files(path_nodes, path + "/Stats/" + state_name + "/Stats_Nodes_" + state_name + ".csv")
 
 print("Edges:")
-concat_files(path_edges, path + "/Stats/Stats_Edges_MA.csv")
-
-
+concat_files(path_edges, path + "/Stats/" + state_name + "/Stats_Edges_" + state_name + ".csv")
 
 
 
