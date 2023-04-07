@@ -10,16 +10,18 @@ from tqdm import tqdm
 
 path = os.getcwd()
 
-path_nodes = path + "/Stats/Nodes/"
-path_edges = path + "/Stats/Edges/"
+state_name = "NYC"
+
+path_nodes = path + "/Stats/" + state_name + "/Nodes/"
+path_edges = path + "/Stats/" + state_name + "/Edges/"
 
 #---------------- Load Files ----------------#
 
-nodes_df = pd.read_csv(path + "/Stats/Stats_Nodes_MA.csv")
-edges_df = pd.read_csv(path + "/Stats/Stats_Edges_MA.csv")
+nodes_df = pd.read_csv(path + "/Stats/" + state_name + "/Stats_Nodes_" + state_name + ".csv")
+edges_df = pd.read_csv(path + "/Stats/" + state_name + "/Stats_Edges_" + state_name + ".csv")
 
-with open(path + "/mass_fatality_lat_lon.txt",'r',encoding='utf-8') as f:
-    lines = f.readlines()
+# Accident Data
+df = pd.read_csv(path + "/nyc_crash.csv")
 
 #---------------- Clean Files ---------------#
 
@@ -27,17 +29,12 @@ edges_df = edges_df[["node_1","node_2"]].drop_duplicates()
 
 nodes_df = nodes_df[["node_id","x","y"]].drop_duplicates()
 
-
-df = {"lat":[],"lon":[]}
-for line in lines[1:]:
-    df["lat"].append(line.strip().split(",")[-2])
-    df["lon"].append(line.strip().split(",")[-1])
-df = pd.DataFrame(df)
-
-df = df[(df["lat"] != "") & (df["lon"] != "")].reset_index(drop=True)
+df = df[(df["lat"].isnull() == False) & (df["lon"].isnull() == False)].reset_index(drop=True)
 
 df["lat"] = pd.to_numeric(df["lat"])
 df["lon"] = pd.to_numeric(df["lon"])
+
+df = df[(df["lat"] != 0) & (df["lon"] != 0)].reset_index(drop=True)
 
 
 #----------------- Functions -------------------#
@@ -85,14 +82,26 @@ edges_df["street_dist"] = np.sqrt((edges_df["node_2_x"] - edges_df["node_1_x"])*
 
 # Extract the nodes of the nearest street from the given point
 print("Extract Nearest Street:")
+
+
 df["node_1"] = 0
 df["node_2"] = 0
-for i in tqdm(range(df.shape[0])):
-    df.loc[i,"node_1"] = extract_nearest_street(edges_df,df.loc[i,"lat"],df.loc[i,"lon"])[0]
-    df.loc[i,"node_2"] = extract_nearest_street(edges_df,df.loc[i,"lat"],df.loc[i,"lon"])[1]
+for j in range(int(df.shape[0]/10000)):
+    print(f"**** {j} ****")
+    for i in tqdm(range(j*10000, (j+1)*10000)):
+        df.loc[i,"node_1"],df.loc[i,"node_2"] = extract_nearest_street(edges_df,df.loc[i,"lat"],df.loc[i,"lon"])
+
+    # Save the file
+    dummy = df.iloc[j*10000 : (j+1)*10000, :]
+    dummy.to_csv(path + "/Nearest_Streets_" + state_name + "_" + str(j) + ".csv",index=False)
+
+
+for i in tqdm(range((j+1)*10000,df.shape[0])):
+    df.loc[i,"node_1"],df.loc[i,"node_2"] = extract_nearest_street(edges_df,df.loc[i,"lat"],df.loc[i,"lon"])
 
 # Save the file
-df.to_csv(path + "/Nearest_Streets.csv",index=False)
+dummy = df.iloc[(j+1)*10000 :, :]
+dummy.to_csv(path + "/Nearest_Streets_" + state_name + "_" + str(j+1) + ".csv",index=False)
 
 
 
