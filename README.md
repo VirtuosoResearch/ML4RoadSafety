@@ -1,6 +1,6 @@
 # Predicting Road Accidents using Graph Neural Networks
 
-This is a machine learning project that uses Graph Neural Networks (GNNs) to predict road accidents. We have manually collected several datasets. The data is from the Massachusetts Department of Transportation (MassDOT) and the New York City Police Department. The goal is to predict the likelihood of an accident at a given location in a given time interval. 
+This is a machine learning project that uses Graph Neural Networks (GNNs) to predict road accidents. We have collected traffic and accident datasets from various cities across the United States from public sources. The data is from the Massachusetts Department of Transportation (MassDOT) and the New York City Police Department. The goal is to predict the likelihood of an accident at a given road segment in a given previous road conditions. 
 
 ## Introduction
 
