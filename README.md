@@ -17,9 +17,11 @@ We have collected 3 types of data to create the graph:
 
 ### Accident Data:
 
-- **Massachusetts:** A dataset that contains information about road accidents in Massachusetts from January 2015 to February 2023. The dataset contains 3000+ accidents.
+- **Massachusetts:** A dataset that contains information about road accidents in Massachusetts from January 2015 to February 2023. The dataset contains 3,000+ accidents.
 
-- **New York City:** A dataset that contains information about road accidents in New York City from April 2014 to March 2023. The dataset contains 1 Million+ accidents.
+- **New York City:** A dataset that contains information about road accidents in New York City from April 2014 to March 2023. The dataset contains 1,000,000+ accidents.
+
+- **Maryland:** A dataset that contains information about road accidents in Maryland from January 2015 to April 2023. The dataset contains 800,000+ accidents.
 
 ### Traffic Data:
 
