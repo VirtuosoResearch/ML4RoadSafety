@@ -1,0 +1,409 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+213263280,213263283,0,False,residential,Cuddeback Street,31.583,,,,,,,,,,,20167255,
+213263283,213263280,0,False,residential,Cuddeback Street,31.583,,,,,,,,,,,20167255,
+213263283,213294314,0,False,residential,Francis Street,45.535,,,,,,,,,,,20169764,
+213263283,213281858,0,False,residential,"['Chapin Street', 'Cuddeback Street']",182.866,,,,,,,,,,,"[20171158, 20167255]",
+213263283,213305722,0,False,residential,"['Hawley Street', 'Francis Street']",268.039,,,,,,,,,,,"[20170612, 20169764]",
+213266012,213266033,0,False,residential,,333.704,,,,,,,,,,,20167416,
+213266033,213309870,0,False,secondary,State Highway 89,128.309,2,,,55 mph,,,,,,,20171936,NY 89
+213266033,213266012,0,False,residential,,333.704,,,,,,,,,,,20167416,
+213266100,213268946,0,False,secondary,Ovid Street,110.118,,,,,,,,,,,48400862,NY 414
+213266100,213286919,0,False,secondary,Ovid Street,329.911,,,,,,,,,,,48400862,NY 414
+213266644,213266646,0,False,residential,,50.93,,,,,,,,,,,20167465,
+213266644,213309870,0,False,secondary,State Highway 89,287.222,2,,,55 mph,,,,,,,20171936,NY 89
+213266644,213294341,0,False,secondary,State Highway 89,521.797,2,,,55 mph,,,,,,,20171936,NY 89
+213266646,213266644,0,False,residential,,50.93,,,,,,,,,,,20167465,
+213266649,213266651,0,False,residential,,63.258,,,,,,,,,,,20167467,
+213266649,213294334,0,False,tertiary,Lower Lake Road,412.052,,,,,,,,,,,20170923,CR 116
+213266649,213309870,0,False,tertiary,Lower Lake Road,404.341,,,,,,,,,,,20170923,CR 116
+213266651,213266649,0,False,residential,,63.258,,,,,,,,,,,20167467,
+213268946,213266100,0,False,secondary,Ovid Street,110.118,,,,,,,,,,,48400862,NY 414
+213268946,213279424,0,False,secondary,Ovid Street,83.92,,,,,,,,,,,48400862,NY 414
+213270816,213270816,0,False,residential,,183.591,,,,,,,,,,,20167887,
+213270816,213270816,1,False,residential,,183.591,,,,,,,,,,,20167887,
+213270816,213276558,0,False,residential,,44.162,,,,,,,,,,,20168449,
+213272868,213272870,0,False,residential,,25.396,,,,,,,,,,,20168107,
+213272868,213272868,0,False,residential,,74.802,,,,,,,,,,,20168397,
+213272868,213272868,1,False,residential,,74.802,,,,,,,,,,,20168397,
+213272870,213272868,0,False,residential,,25.396,,,,,,,,,,,20168107,
+213272870,213279405,0,False,residential,Spruce Lane,179.338,,,,,,,,,,,20168643,
+213272870,213279386,0,False,residential,Spruce Lane,96.092,,,,,,,,,,,20168643,
+213275400,213308768,0,False,residential,Hoag Street,157.399,,,,,,,,,,,20170819,
+213275400,213313156,0,False,residential,Chapin Street,110.684,,,,,,,,,,,20171158,
+213275400,213299168,0,False,residential,Chapin Street,109.307,,,,,,,,,,,20171158,
+213276037,213276040,0,False,residential,,28.554,,,,,,,,,,,20168409,
+213276040,213276037,0,False,residential,,28.554,,,,,,,,,,,20168409,
+213276040,213285713,0,False,tertiary,Lower Lake Road,828.204,,,,,,,,,,,20170923,CR 116
+213276040,213300559,0,False,tertiary,Lower Lake Road,370.792,,,,,,,,,,,20170923,CR 116
+213276558,213270816,0,False,residential,,44.162,,,,,,,,,,,20168449,
+213276558,213313156,0,False,residential,Chapin Street,72.702,,,,,,,,,,,20171158,
+213276558,213305722,0,False,residential,Chapin Street,145.192,,,,,,,,,,,20171158,
+213279386,213272870,0,False,residential,Spruce Lane,96.092,,,,,,,,,,,20168643,
+213279405,213309091,0,False,residential,Briarwood Circle,82.449,,,,,,,,,,,20170853,
+213279405,213279424,0,False,residential,Spruce Lane,308.406,,,,,,,,,,,20168643,
+213279405,213272870,0,False,residential,Spruce Lane,179.338,,,,,,,,,,,20168643,
+213279424,213268946,0,False,secondary,Ovid Street,83.92,,,,,,,,,,,48400862,NY 414
+213279424,213281002,0,False,secondary,Ovid Street,252.172,,,,,,,,,,,48400862,NY 414
+213279424,213279405,0,False,residential,Spruce Lane,308.406,,,,,,,,,,,20168643,
+213280982,213283572,0,False,residential,Thorpe Road,62.514,,,,,,,,,,,20169773,
+213280982,213280998,0,False,residential,Peterman Road,718.5,,,,,,,,,,,20168787,
+213280982,213283563,0,False,unclassified,Chadwick Road,1117.496,,,,,,,,,,,20168949,
+213280982,213294432,0,False,residential,Thorpe Road,380.715,,,,,,,,,,,20169773,
+213280998,213281000,0,False,residential,Peterman Road,202.142,,,,,,,,,,,20168787,
+213280998,213281000,1,False,residential,"['Sullivan Drive', 'Hep Drive']",389.709,,,,,,,,,,,"[20171298, 20170259]",
+213280998,213280982,0,False,residential,Peterman Road,718.5,,,,,,,,,,,20168787,
+213281000,213281002,0,False,residential,Peterman Road,100.808,,,,,,,,,,,20168787,
+213281000,213280998,0,False,residential,Peterman Road,202.142,,,,,,,,,,,20168787,
+213281000,213280998,1,False,residential,"['Sullivan Drive', 'Hep Drive']",389.709,,,,,,,,,,,"[20171298, 20170259]",
+213281002,213281000,0,False,residential,Peterman Road,100.808,,,,,,,,,,,20168787,
+213281002,213279424,0,False,secondary,Ovid Street,252.172,,,,,,,,,,,48400862,NY 414
+213281002,213299142,0,False,secondary,Ovid Street,1187.145,,,,,,,,,,,48400862,NY 414
+213281016,213281020,0,False,residential,Morris Drive,136.478,,,,,,,,,,,20168789,
+213281016,213317163,0,False,residential,"['Morris Drive', 'Doolittle Drive', 'Eisenhower Drive']",519.2,,,,,,,,,,,"[20170464, 20171513, 20168789]",
+213281016,213317163,1,False,residential,Patton Drive,257.152,,,,,,,,,,,20171735,
+213281020,213281024,0,False,residential,Morris Drive,120.533,,,,,,,,,,,20168789,
+213281020,213281016,0,False,residential,Morris Drive,136.478,,,,,,,,,,,20168789,
+213281020,213295374,0,False,residential,Bradley Avenue,257.351,,,,,,,,,,,20169834,
+213281024,213294378,0,False,residential,Ken Mor Drive,27.92,,,,,,,,,,,20169768,
+213281024,213281020,0,False,residential,Morris Drive,120.533,,,,,,,,,,,20168789,
+213281024,213312544,0,False,residential,Kenmore Drive,295.078,,,,,,,,,,,20171108,
+213281858,213281862,0,False,residential,Meadow Street,174.006,,,,,,,,,,,20168852,
+213281858,213305722,0,False,residential,Chapin Street,73.466,,,,,,,,,,,20171158,
+213281858,213263283,0,False,residential,"['Chapin Street', 'Cuddeback Street']",182.866,,,,,,,,,,,"[20171158, 20167255]",
+213281862,213281858,0,False,residential,Meadow Street,174.006,,,,,,,,,,,20168852,
+213281862,213297642,0,False,residential,Garden Street,159.995,,,,,,,,,,,20171145,
+213281862,213313056,0,False,residential,Garden Street,238.945,,,,,,,,,,,20171145,
+213282775,213282777,0,False,residential,Fayette Street,50.238,,,,,,,,,,,20168898,
+213282777,213282775,0,False,residential,Fayette Street,50.238,,,,,,,,,,,20168898,
+213282777,213300696,0,False,residential,Anthony Drive,242.851,,,,,,,,,,,20170246,
+213282777,213313055,0,False,residential,Garden Street,103.003,,,,,,,,,,,20171145,
+213282777,213312702,0,False,residential,Garden Street,175.175,,,,,,,,,,,20171145,
+213283563,213294371,0,False,residential,Farron Road,108.854,,,,,,,,,,,20170991,
+213283563,213280982,0,False,unclassified,Chadwick Road,1117.496,,,,,,,,,,,20168949,
+213283563,213311259,0,False,residential,Farron Road,1427.306,,,,,,,,,,,20170991,
+213283572,213280982,0,False,residential,Thorpe Road,62.514,,,,,,,,,,,20169773,
+213283572,213285463,0,False,residential,Thorpe Road,1419.716,,,,,,,,,,,20169773,
+213283572,3820082280,0,False,residential,Chadwick Road,197.376,,,,,,,,,,,378596682,
+213284549,213284556,0,False,residential,Smith Street,78.259,,,,,,,,,,,20169008,
+213284549,213316207,0,False,residential,"['Carol Avenue', 'Smith Street']",160.028,,,,,,,,,,,"[20169008, 20171441]",
+213284549,213293211,0,False,residential,Tyler Avenue,223.016,,,,,,,,,,,20172799,
+213284556,213298283,0,False,residential,Lincoln Avenue,224.28,,,,,,,,,,,20170063,
+213284556,213284563,0,False,residential,Smith Street,108.363,,,,,,,,,,,20169008,
+213284556,213284549,0,False,residential,Smith Street,78.259,,,,,,,,,,,20169008,
+213284556,213317551,0,False,residential,Robinette Place,93.557,,,,,,,,,,,20171555,
+213284563,213285627,0,False,tertiary,East Bayard Street,301.856,,,,,,,,,,,20169093,CR 116
+213284563,213285625,0,False,tertiary,East Bayard Street,145.982,,,,,,,,,,,20169093,CR 116
+213284563,213284556,0,False,residential,Smith Street,108.363,,,,,,,,,,,20169008,
+213285463,213285470,0,False,unclassified,Martin Road,1024.63,,,,,,,,,,,20169072,
+213285463,213283572,0,False,residential,Thorpe Road,1419.716,,,,,,,,,,,20169773,
+213285470,213299142,0,False,secondary,Ovid Street,324.855,,,,,,,,,,,48400862,NY 414
+213285470,213285463,0,False,unclassified,Martin Road,1024.63,,,,,,,,,,,20169072,
+213285582,213299168,0,False,secondary,Ovid Street,86.473,,,,,,,,,,,48400862,NY 414
+213285582,213299166,0,False,secondary,Ovid Street,67.399,,,,,,,,,,,48400862,NY 414
+213285602,213285609,0,False,tertiary,East Bayard Street,139.489,,,,,,,,,,,20169093,CR 116
+213285609,213285615,0,False,tertiary,East Bayard Street,140.367,,,,,,,,,,,20169093,CR 116
+213285609,213285602,0,False,tertiary,East Bayard Street,139.489,,,,,,,,,,,20169093,CR 116
+213285609,213305003,0,False,residential,Spring Street,129.249,,,,,,,,,,,20172394,
+213285615,213285618,0,False,tertiary,East Bayard Street,95.404,,,,,,,,,,,20169093,CR 116
+213285615,213297646,0,False,residential,White Street,95.972,,,,,,,,,,,20170020,
+213285615,213285609,0,False,tertiary,East Bayard Street,140.367,,,,,,,,,,,20169093,CR 116
+213285618,213285622,0,False,tertiary,East Bayard Street,80.315,,,,,,,,,,,20169093,CR 116
+213285618,213285615,0,False,tertiary,East Bayard Street,95.404,,,,,,,,,,,20169093,CR 116
+213285618,213298223,0,False,residential,Mumford Street,209.873,,,,,,,,,,,20170058,
+213285622,213285625,0,False,tertiary,East Bayard Street,55.806,,,,,,,,,,,20169093,CR 116
+213285622,213285618,0,False,tertiary,East Bayard Street,80.315,,,,,,,,,,,20169093,CR 116
+213285622,213298283,0,False,residential,Goodwin Street,113.5,,,,,,,,,,,20171072,
+213285625,213284563,0,False,tertiary,East Bayard Street,145.982,,,,,,,,,,,20169093,CR 116
+213285625,213285622,0,False,tertiary,East Bayard Street,55.806,,,,,,,,,,,20169093,CR 116
+213285625,213296180,0,False,residential,Washington Street,120.046,,,,,,,,,,,20169910,
+213285627,213284563,0,False,tertiary,East Bayard Street,301.856,,,,,,,,,,,20169093,CR 116
+213285627,213299384,0,False,residential,Jay Street,83.653,,,,,,,,,,,20170143,
+213285627,213285636,0,False,tertiary,East Bayard Street,196.64,,,,,,,,,,,20169093,CR 116
+213285636,213285627,0,False,tertiary,East Bayard Street,196.64,,,,,,,,,,,20169093,CR 116
+213285636,213312710,0,False,residential,Stevenson Street,258.398,,,,,,,,,,,20171115,
+213285636,213285661,0,False,tertiary,East Bayard Street,232.689,,,,,,,,,,,100137889,CR 116
+213285661,213311272,0,False,residential,Courtney Drive,162.242,,,,,,,,,,,20171696,
+213285661,213285705,0,False,tertiary,East Bayard Street,1685.49,,,,,,,,,,,"[100137889, 139807540]",CR 116
+213285661,213285636,0,False,tertiary,East Bayard Street,232.689,,,,,,,,,,,100137889,CR 116
+213285705,213312544,0,False,residential,Kenmore Drive,234.519,,,,,,,,,,,20171108,
+213285705,213285711,0,False,tertiary,East Bayard Street,576.087,,,,,,,,,,,139807540,CR 116
+213285705,213285661,0,False,tertiary,East Bayard Street,1685.49,,,,,,,,,,,"[100137889, 139807540]",CR 116
+213285711,213285713,0,False,tertiary,East Bayard Street,181.574,,,,,,,,,,,139807540,CR 116
+213285711,213308797,0,False,secondary,State Highway 89,717.27,2,,,55 mph,,,,,,,20171936,NY 89
+213285711,213295715,0,False,secondary,State Highway 89,759.145,2,,,55 mph,,,,,,,20171936,NY 89
+213285711,213285705,0,False,tertiary,East Bayard Street,576.087,,,,,,,,,,,139807540,CR 116
+213285713,213285711,0,False,tertiary,East Bayard Street,181.574,,,,,,,,,,,139807540,CR 116
+213285713,213276040,0,False,tertiary,Lower Lake Road,828.204,,,,,,,,,,,20170923,CR 116
+213285713,213295007,0,False,residential,Lake Road,116.625,,,,,,,,,,,20171692,
+213286919,213299157,0,False,secondary,Ovid Street,175.887,,,,,,,,,,,48400862,NY 414
+213286919,213286939,0,False,residential,Seneca Road,118.692,,,,,,,,,,,20169187,
+213286919,213266100,0,False,secondary,Ovid Street,329.911,,,,,,,,,,,48400862,NY 414
+213286939,213286919,0,False,residential,Seneca Road,118.692,,,,,,,,,,,20169187,
+213286939,213286958,0,False,residential,Seneca Road,171.03,,,,,,,,,,,20169191,
+213286939,213303123,0,False,residential,Chief Seneca Avenue,149.972,,,,,,,,,,,20170447,
+213286958,213286998,0,False,residential,Seneca Road,340.851,,,,,,,,,,,20169191,
+213286958,213286939,0,False,residential,Seneca Road,171.03,,,,,,,,,,,20169191,
+213286958,213303665,0,False,residential,Seneca Place,200.77,,,,,,,,,,,20170487,
+213286998,213303665,0,False,residential,Seneca Manor Drive,102.516,,,,,,,,,,,20172823,
+213286998,213286958,0,False,residential,Seneca Road,340.851,,,,,,,,,,,20169191,
+213286998,213333427,0,False,residential,Seneca Manor Drive,124.375,,,,,,,,,,,20172823,
+213289199,213300869,0,False,residential,"['Mackenzie Drive', 'Jennifer Place']",362.776,,,,,,,,,,,"[20169354, 20170261]",
+213289199,213300869,1,False,residential,Courtney Drive,181.207,,,,,,,,,,,20171696,
+213289199,213295443,0,False,residential,Courtney Drive,46.76,,,,,,,,,,,20171696,
+213293205,213293211,0,False,residential,Canoga Street,89.117,,,,,,,,,,,20169681,
+213293205,213297643,0,False,residential,Green Street,224.229,,,,,,,,,,,20170553,
+213293205,213305037,0,False,residential,Green Street,173.734,,,,,,,,,,,20170553,
+213293211,213293216,0,False,residential,Canoga Street,57.06,,,,,,,,,,,20169681,
+213293211,213293205,0,False,residential,Canoga Street,89.117,,,,,,,,,,,20169681,
+213293211,213284549,0,False,residential,Tyler Avenue,223.016,,,,,,,,,,,20172799,
+213293216,213298283,0,False,residential,Goodwin Street,15.549,,,,,,,,,,,20171072,
+213293216,213293211,0,False,residential,Canoga Street,57.06,,,,,,,,,,,20169681,
+213293216,213297646,0,False,residential,Elm Street,195.126,,,,,,,,,,,20170494,
+213294314,213263283,0,False,residential,Francis Street,45.535,,,,,,,,,,,20169764,
+213294334,213294341,0,False,residential,Noble Road,253.126,,,,,,,,,,,20169767,
+213294334,213309962,0,False,tertiary,Lower Lake Road,565.146,,,,,,,,,,,20170923,CR 116
+213294334,213266649,0,False,tertiary,Lower Lake Road,412.052,,,,,,,,,,,20170923,CR 116
+213294341,213294362,0,False,residential,Noble Road,1073.887,,,,,,,,,,,20169767,
+213294341,213294334,0,False,residential,Noble Road,253.126,,,,,,,,,,,20169767,
+213294341,213313078,0,False,secondary,State Highway 89,500.915,2,,,55 mph,,,,,,,20171936,NY 89
+213294341,213266644,0,False,secondary,State Highway 89,521.797,2,,,55 mph,,,,,,,20171936,NY 89
+213294362,213294371,0,False,residential,Noble Road,1007.111,,,,,,,,,,,20169767,
+213294362,213294341,0,False,residential,Noble Road,1073.887,,,,,,,,,,,20169767,
+213294362,3281911482,0,False,residential,Cosad Road,942.397,,,,,,,,,,,20171154,
+213294371,213283563,0,False,residential,Farron Road,108.854,,,,,,,,,,,20170991,
+213294371,213294362,0,False,residential,Noble Road,1007.111,,,,,,,,,,,20169767,
+213294378,213281024,0,False,residential,Ken Mor Drive,27.92,,,,,,,,,,,20169768,
+213294432,213280982,0,False,residential,Thorpe Road,380.715,,,,,,,,,,,20169773,
+213294977,213295002,0,False,residential,Lake Road Spur,214.448,,,,,,,,,,,20169806,
+213295002,213295007,0,False,residential,Lake Road Spur,27.471,,,,,,,,,,,20169806,
+213295002,213294977,0,False,residential,Lake Road Spur,214.448,,,,,,,,,,,20169806,
+213295002,213295024,0,False,residential,Lake Road Spur,57.018,,,,,,,,,,,20169808,
+213295007,213295002,0,False,residential,Lake Road Spur,27.471,,,,,,,,,,,20169806,
+213295007,213295024,0,False,residential,Lake Road,31.406,,,,,,,,,,,20171692,
+213295007,213285713,0,False,residential,Lake Road,116.625,,,,,,,,,,,20171692,
+213295024,213295002,0,False,residential,Lake Road Spur,57.018,,,,,,,,,,,20169808,
+213295024,213308805,0,False,residential,Lake Road,648.1,,,,,,,,,,,20171692,
+213295024,213295007,0,False,residential,Lake Road,31.406,,,,,,,,,,,20171692,
+213295374,213312544,0,False,residential,Eisenhower Drive,102.516,,,,,,,,,,,20171513,
+213295374,213281020,0,False,residential,Bradley Avenue,257.351,,,,,,,,,,,20169834,
+213295374,213317163,0,False,residential,Eisenhower Drive,141.397,,,,,,,,,,,20171513,
+213295432,3281909046,0,False,residential,Pinehurst Drive,60.67,,,,,,,,,,,20170993,
+213295432,213295443,0,False,residential,Hickory Place,153.724,,,,,,,,,,,20169840,
+213295432,213311272,0,False,residential,Pinehurst Drive,220.187,,,,,,,,,,,20170993,
+213295443,213311272,0,False,residential,Courtney Drive,100.132,,,,,,,,,,,20171696,
+213295443,213295432,0,False,residential,Hickory Place,153.724,,,,,,,,,,,20169840,
+213295443,213289199,0,False,residential,Courtney Drive,46.76,,,,,,,,,,,20171696,
+213295715,213295718,0,False,residential,Rambler Road,71.381,,,,,,,,,,,20169863,
+213295715,213285711,0,False,secondary,State Highway 89,759.145,2,,,55 mph,,,,,,,20171936,NY 89
+213295715,213300515,0,False,secondary,State Highway 89,574.648,2,,,55 mph,,,,,,,20171936,NY 89
+213295718,213295720,0,False,residential,Rambler Road,110.29,,,,,,,,,,,20169863,
+213295718,213295715,0,False,residential,Rambler Road,71.381,,,,,,,,,,,20169863,
+213295718,213303611,0,False,residential,Easy Street,155.412,,,,,,,,,,,20170480,
+213295720,213295718,0,False,residential,Rambler Road,110.29,,,,,,,,,,,20169863,
+213296031,213299173,0,False,secondary,Ovid Street,47.417,,,,,,,,,,,48400862,NY 414
+213296031,213299169,0,False,secondary,Ovid Street,97.791,,,,,,,,,,,48400862,NY 414
+213296180,213296184,0,False,residential,Washington Street,111.285,,,,,,,,,,,20169910,
+213296180,213285625,0,False,residential,Washington Street,120.046,,,,,,,,,,,20169910,
+213296180,213298223,0,False,residential,Latham Street,141.401,,,,,,,,,,,20171382,
+213296184,213296180,0,False,residential,Washington Street,111.285,,,,,,,,,,,20169910,
+213296184,213299384,0,False,residential,"['Seneca Street', 'Jay Street', 'Washington Street']",554.603,,,,,,,,,,,"[20171398, 20169910, 20170143]",
+213296184,213299384,1,False,residential,Adam Street,338.758,,,,,,,,,,,20171325,
+213296184,213334811,0,False,residential,Troup Street,134.269,,,,,,,,,,,20172937,
+213297642,213297643,0,False,residential,White Street,127.1,,,,,,,,,,,20170020,
+213297642,213281862,0,False,residential,Garden Street,159.995,,,,,,,,,,,20171145,
+213297642,213313067,0,False,residential,Garden Street,132.765,,,,,,,,,,,20171145,
+213297643,213297644,0,False,residential,White Street,19.874,,,,,,,,,,,20170020,
+213297643,213297642,0,False,residential,White Street,127.1,,,,,,,,,,,20170020,
+213297643,213293205,0,False,residential,Green Street,224.229,,,,,,,,,,,20170553,
+213297644,213297646,0,False,residential,White Street,84.508,,,,,,,,,,,20170020,
+213297644,213297643,0,False,residential,White Street,19.874,,,,,,,,,,,20170020,
+213297644,213305003,0,False,residential,Green Street,131.625,,,,,,,,,,,20170551,
+213297646,213285615,0,False,residential,White Street,95.972,,,,,,,,,,,20170020,
+213297646,213297644,0,False,residential,White Street,84.508,,,,,,,,,,,20170020,
+213297646,213293216,0,False,residential,Elm Street,195.126,,,,,,,,,,,20170494,
+213297659,213297662,0,False,residential,South Street,108.328,,,,,,,,,,,20170021,
+213297659,213306873,0,False,residential,"['South Street', 'South Spring Street']",154.91,,,,,,,,,,,"[20170666, 20170021]",
+213297659,213308768,0,False,residential,Hoag Street,153.257,,,,,,,,,,,20170819,
+213297662,213297659,0,False,residential,South Street,108.328,,,,,,,,,,,20170021,
+213297662,213299160,0,False,secondary,Ovid Street,209.199,,,,,,,,,,,48400862,NY 414
+213297662,213299163,0,False,secondary,Ovid Street,105.714,,,,,,,,,,,48400862,NY 414
+213298223,213315643,0,False,residential,Latham Street,32.816,,,,,,,,,,,20171382,
+213298223,213285618,0,False,residential,Mumford Street,209.873,,,,,,,,,,,20170058,
+213298223,213296180,0,False,residential,Latham Street,141.401,,,,,,,,,,,20171382,
+213298283,213284556,0,False,residential,Lincoln Avenue,224.28,,,,,,,,,,,20170063,
+213298283,213293216,0,False,residential,Goodwin Street,15.549,,,,,,,,,,,20171072,
+213298283,213285622,0,False,residential,Goodwin Street,113.5,,,,,,,,,,,20171072,
+213299142,213285470,0,False,secondary,Ovid Street,324.855,,,,,,,,,,,48400862,NY 414
+213299142,213281002,0,False,secondary,Ovid Street,1187.145,,,,,,,,,,,48400862,NY 414
+213299157,213299160,0,False,secondary,Ovid Street,18.996,,,,,,,,,,,48400862,NY 414
+213299157,213286919,0,False,secondary,Ovid Street,175.887,,,,,,,,,,,48400862,NY 414
+213299157,213303123,0,False,residential,Seneca Manor Drive,93.857,,,,,,,,,,,20172823,
+213299160,213297662,0,False,secondary,Ovid Street,209.199,,,,,,,,,,,48400862,NY 414
+213299160,213299157,0,False,secondary,Ovid Street,18.996,,,,,,,,,,,48400862,NY 414
+213299160,213303123,0,False,residential,Chief Seneca Avenue,105.723,,,,,,,,,,,20170447,
+213299163,213299166,0,False,secondary,Ovid Street,51.865,,,,,,,,,,,48400862,NY 414
+213299163,213297662,0,False,secondary,Ovid Street,105.714,,,,,,,,,,,48400862,NY 414
+213299166,213285582,0,False,secondary,Ovid Street,67.399,,,,,,,,,,,48400862,NY 414
+213299166,213299163,0,False,secondary,Ovid Street,51.865,,,,,,,,,,,48400862,NY 414
+213299166,213308768,0,False,residential,Boardman Street,108.713,,,,,,,,,,,20172815,
+213299168,213299169,0,False,secondary,Ovid Street,29.51,,,,,,,,,,,48400862,NY 414
+213299168,213285582,0,False,secondary,Ovid Street,86.473,,,,,,,,,,,48400862,NY 414
+213299168,213275400,0,False,residential,Chapin Street,109.307,,,,,,,,,,,20171158,
+213299169,213299168,0,False,secondary,Ovid Street,29.51,,,,,,,,,,,48400862,NY 414
+213299169,213296031,0,False,secondary,Ovid Street,97.791,,,,,,,,,,,48400862,NY 414
+213299173,213313067,0,False,residential,Garden Street,208.629,,,,,,,,,,,20171145,
+213299173,213299176,0,False,secondary,Ovid Street,109.659,,,,,,,,,,,48400862,NY 414
+213299173,213296031,0,False,secondary,Ovid Street,47.417,,,,,,,,,,,48400862,NY 414
+213299176,213318743,0,False,residential,Gould Avenue,74.416,,,,,,,,,,,20171643,
+213299176,213299173,0,False,secondary,Ovid Street,109.659,,,,,,,,,,,48400862,NY 414
+213299384,213285627,0,False,residential,Jay Street,83.653,,,,,,,,,,,20170143,
+213299384,213296184,0,False,residential,"['Seneca Street', 'Jay Street', 'Washington Street']",554.603,,,,,,,,,,,"[20169910, 20171398, 20170143]",
+213299384,213296184,1,False,residential,Adam Street,338.758,,,,,,,,,,,20171325,
+213300515,213300559,0,False,residential,Jackson Road,465.225,,,,,,,,,,,20170239,
+213300515,213295715,0,False,secondary,State Highway 89,574.648,2,,,55 mph,,,,,,,20171936,NY 89
+213300515,213312967,0,False,secondary,State Highway 89,360.603,2,,,55 mph,,,,,,,20171936,NY 89
+213300559,213300515,0,False,residential,Jackson Road,465.225,,,,,,,,,,,20170239,
+213300559,213276040,0,False,tertiary,Lower Lake Road,370.792,,,,,,,,,,,20170923,CR 116
+213300559,213310006,0,False,tertiary,Lower Lake Road,564.525,,,,,,,,,,,20170923,CR 116
+213300696,213300699,0,False,residential,Anthony Drive,112.504,,,,,,,,,,,20170246,
+213300696,213282777,0,False,residential,Anthony Drive,242.851,,,,,,,,,,,20170246,
+213300696,213305897,0,False,residential,Joanne Avenue,100.225,,,,,,,,,,,20170624,
+213300696,213305894,0,False,residential,Joanne Avenue,106.277,,,,,,,,,,,20170624,
+213300699,213300696,0,False,residential,Anthony Drive,112.504,,,,,,,,,,,20170246,
+213300699,213316207,0,False,residential,Carol Avenue,102.416,,,,,,,,,,,20171441,
+213300699,213312707,0,False,residential,Carol Avenue,169.261,,,,,,,,,,,20171441,
+213300699,213300702,0,False,residential,Anthony Drive,208.783,,,,,,,,,,,20170246,
+213300702,213300699,0,False,residential,Anthony Drive,208.783,,,,,,,,,,,20170246,
+213300869,213289199,0,False,residential,"['Mackenzie Drive', 'Jennifer Place']",362.776,,,,,,,,,,,"[20169354, 20170261]",
+213300869,213289199,1,False,residential,Courtney Drive,181.207,,,,,,,,,,,20171696,
+213300869,3281911462,0,False,residential,Pinehurst Drive,270.883,,,,,,,,,,,20170993,
+213303123,213299160,0,False,residential,Chief Seneca Avenue,105.723,,,,,,,,,,,20170447,
+213303123,213286939,0,False,residential,Chief Seneca Avenue,149.972,,,,,,,,,,,20170447,
+213303123,213332590,0,False,residential,Seneca Manor Drive,60.315,,,,,,,,,,,20172823,
+213303123,213299157,0,False,residential,Seneca Manor Drive,93.857,,,,,,,,,,,20172823,
+213303611,213295718,0,False,residential,Easy Street,155.412,,,,,,,,,,,20170480,
+213303665,213286998,0,False,residential,Seneca Manor Drive,102.516,,,,,,,,,,,20172823,
+213303665,213286958,0,False,residential,Seneca Place,200.77,,,,,,,,,,,20170487,
+213303665,213332590,0,False,residential,Seneca Manor Drive,109.074,,,,,,,,,,,20172823,
+213305003,213297644,0,False,residential,Green Street,131.625,,,,,,,,,,,20170551,
+213305003,213313067,0,False,residential,Spring Street,150.197,,,,,,,,,,,20172394,
+213305003,213285609,0,False,residential,Spring Street,129.249,,,,,,,,,,,20172394,
+213305034,213305037,0,False,residential,Green Street,23.966,,,,,,,,,,,20170553,
+213305037,213305034,0,False,residential,Green Street,23.966,,,,,,,,,,,20170553,
+213305037,213293205,0,False,residential,Green Street,173.734,,,,,,,,,,,20170553,
+213305037,213313056,0,False,residential,Montgomery Street,169.619,,,,,,,,,,,20171737,
+213305722,213281858,0,False,residential,Chapin Street,73.466,,,,,,,,,,,20171158,
+213305722,213263283,0,False,residential,"['Hawley Street', 'Francis Street']",268.039,,,,,,,,,,,"[20170612, 20169764]",
+213305722,213276558,0,False,residential,Chapin Street,145.192,,,,,,,,,,,20171158,
+213305894,213300696,0,False,residential,Joanne Avenue,106.277,,,,,,,,,,,20170624,
+213305897,213305900,0,False,residential,Joanne Avenue,32.635,,,,,,,,,,,20170624,
+213305897,213300696,0,False,residential,Joanne Avenue,100.225,,,,,,,,,,,20170624,
+213305897,213316207,0,False,residential,Nicholas Street,111.53,,,,,,,,,,,20171618,
+213305897,213313055,0,False,residential,Nicholas Street,214.222,,,,,,,,,,,20171618,
+213305900,213305897,0,False,residential,Joanne Avenue,32.635,,,,,,,,,,,20170624,
+213306873,213297659,0,False,residential,"['South Street', 'South Spring Street']",154.91,,,,,,,,,,,"[20170666, 20170021]",
+213308768,213275400,0,False,residential,Hoag Street,157.399,,,,,,,,,,,20170819,
+213308768,213333356,0,False,residential,Boardman Street,46.639,,,,,,,,,,,20172815,
+213308768,213297659,0,False,residential,Hoag Street,153.257,,,,,,,,,,,20170819,
+213308768,213299166,0,False,residential,Boardman Street,108.713,,,,,,,,,,,20172815,
+213308797,213308805,0,False,residential,Pump House Road,37.704,,,,,,,,,,,20170828,
+213308797,213319256,0,False,secondary,State Highway 89,119.347,2,,,55 mph,,,,,,,20171936,NY 89
+213308797,213285711,0,False,secondary,State Highway 89,717.27,2,,,55 mph,,,,,,,20171936,NY 89
+213308805,213308854,0,False,residential,Pump House Road,510.217,,,,,,,,,,,20170828,
+213308805,213308797,0,False,residential,Pump House Road,37.704,,,,,,,,,,,20170828,
+213308805,213319256,0,False,residential,Lake Road,134.6,,,,,,,,,,,20171692,
+213308805,213295024,0,False,residential,Lake Road,648.1,,,,,,,,,,,20171692,
+213308854,213308805,0,False,residential,Pump House Road,510.217,,,,,,,,,,,20170828,
+213309091,213279405,0,False,residential,Briarwood Circle,82.449,,,,,,,,,,,20170853,
+213309091,213309091,0,False,residential,Briarwood Circle,70.031,,,,,,,,,,,20170852,
+213309091,213309091,1,False,residential,Briarwood Circle,70.031,,,,,,,,,,,20170852,
+213309870,213266644,0,False,secondary,State Highway 89,287.222,2,,,55 mph,,,,,,,20171936,NY 89
+213309870,213266033,0,False,secondary,State Highway 89,128.309,2,,,55 mph,,,,,,,20171936,NY 89
+213309870,213266649,0,False,tertiary,Lower Lake Road,404.341,,,,,,,,,,,20170923,CR 116
+213309962,213310006,0,False,tertiary,Lower Lake Road,1094.009,,,,,,,,,,,20170923,CR 116
+213309962,213294334,0,False,tertiary,Lower Lake Road,565.146,,,,,,,,,,,20170923,CR 116
+213309962,213313078,0,False,residential,Garden Street,150.593,,,,,,,,,,,20171147,
+213310006,213300559,0,False,tertiary,Lower Lake Road,564.525,,,,,,,,,,,20170923,CR 116
+213310006,213309962,0,False,tertiary,Lower Lake Road,1094.009,,,,,,,,,,,20170923,CR 116
+213310006,213312967,0,False,residential,Garden Street,333.932,,,,,,,,,,,"[20171139, 100137916]",
+213311259,213283563,0,False,residential,Farron Road,1427.306,,,,,,,,,,,20170991,
+213311259,213312702,0,False,residential,"['Garden Street', 'Stevenson Street']",1047.491,,,,,,,,,,,"[20171115, 100137916]",
+213311259,213312967,0,False,residential,Garden Street,1472.962,,,,,,,,,,,100137916,
+213311272,213285661,0,False,residential,Courtney Drive,162.242,,,,,,,,,,,20171696,
+213311272,213295443,0,False,residential,Courtney Drive,100.132,,,,,,,,,,,20171696,
+213311272,213295432,0,False,residential,Pinehurst Drive,220.187,,,,,,,,,,,20170993,
+213312544,213295374,0,False,residential,Eisenhower Drive,102.516,,,,,,,,,,,20171513,
+213312544,213281024,0,False,residential,Kenmore Drive,295.078,,,,,,,,,,,20171108,
+213312544,213285705,0,False,residential,Kenmore Drive,234.519,,,,,,,,,,,20171108,
+213312702,213312707,0,False,residential,Stevenson Street,369.681,,,,,,,,,,,20171115,
+213312702,213311259,0,False,residential,"['Garden Street', 'Stevenson Street']",1047.491,,,,,,,,,,,"[20171115, 100137916]",
+213312702,213282777,0,False,residential,Garden Street,175.175,,,,,,,,,,,20171145,
+213312707,213312710,0,False,residential,Stevenson Street,159.819,,,,,,,,,,,20171115,
+213312707,213300699,0,False,residential,Carol Avenue,169.261,,,,,,,,,,,20171441,
+213312707,213312702,0,False,residential,Stevenson Street,369.681,,,,,,,,,,,20171115,
+213312710,213312707,0,False,residential,Stevenson Street,159.819,,,,,,,,,,,20171115,
+213312710,3281909046,0,False,residential,Victoria Drive,109.448,,,,,,,,,,,321448293,
+213312710,213285636,0,False,residential,Stevenson Street,258.398,,,,,,,,,,,20171115,
+213312967,213300515,0,False,secondary,State Highway 89,360.603,2,,,55 mph,,,,,,,20171936,NY 89
+213312967,213321971,0,False,secondary,State Highway 89,321.572,2,,,55 mph,,,,,,,20171936,NY 89
+213312967,213311259,0,False,residential,Garden Street,1472.962,,,,,,,,,,,100137916,
+213312967,213310006,0,False,residential,Garden Street,333.932,,,,,,,,,,,"[20171139, 100137916]",
+213313055,213313056,0,False,residential,Garden Street,161.209,,,,,,,,,,,20171145,
+213313055,213282777,0,False,residential,Garden Street,103.003,,,,,,,,,,,20171145,
+213313055,213305897,0,False,residential,Nicholas Street,214.222,,,,,,,,,,,20171618,
+213313056,213313055,0,False,residential,Garden Street,161.209,,,,,,,,,,,20171145,
+213313056,213281862,0,False,residential,Garden Street,238.945,,,,,,,,,,,20171145,
+213313056,213305037,0,False,residential,Montgomery Street,169.619,,,,,,,,,,,20171737,
+213313067,213305003,0,False,residential,Spring Street,150.197,,,,,,,,,,,20172394,
+213313067,213299173,0,False,residential,Garden Street,208.629,,,,,,,,,,,20171145,
+213313067,213297642,0,False,residential,Garden Street,132.765,,,,,,,,,,,20171145,
+213313067,213313156,0,False,residential,Spring Street,171.21,,,,,,,,,,,20172394,
+213313078,213309962,0,False,residential,Garden Street,150.593,,,,,,,,,,,20171147,
+213313078,213321971,0,False,secondary,State Highway 89,829.882,2,,,55 mph,,,,,,,20171936,NY 89
+213313078,213294341,0,False,secondary,State Highway 89,500.915,2,,,55 mph,,,,,,,20171936,NY 89
+213313156,213275400,0,False,residential,Chapin Street,110.684,,,,,,,,,,,20171158,
+213313156,213276558,0,False,residential,Chapin Street,72.702,,,,,,,,,,,20171158,
+213313156,213313067,0,False,residential,Spring Street,171.21,,,,,,,,,,,20172394,
+213315643,213298223,0,False,residential,Latham Street,32.816,,,,,,,,,,,20171382,
+213316207,213300699,0,False,residential,Carol Avenue,102.416,,,,,,,,,,,20171441,
+213316207,213305897,0,False,residential,Nicholas Street,111.53,,,,,,,,,,,20171618,
+213316207,213284549,0,False,residential,"['Carol Avenue', 'Smith Street']",160.028,,,,,,,,,,,"[20169008, 20171441]",
+213317163,213281016,0,False,residential,"['Morris Drive', 'Doolittle Drive', 'Eisenhower Drive']",519.2,,,,,,,,,,,"[20170464, 20171513, 20168789]",
+213317163,213281016,1,False,residential,Patton Drive,257.152,,,,,,,,,,,20171735,
+213317163,213295374,0,False,residential,Eisenhower Drive,141.397,,,,,,,,,,,20171513,
+213317551,213284556,0,False,residential,Robinette Place,93.557,,,,,,,,,,,20171555,
+213318743,213299176,0,False,residential,Gould Avenue,74.416,,,,,,,,,,,20171643,
+213319256,213308805,0,False,residential,Lake Road,134.6,,,,,,,,,,,20171692,
+213319256,213322094,0,False,secondary,State Highway 89,1826.737,2,,,55 mph,,,,,,,20171936,NY 89
+213319256,213308797,0,False,secondary,State Highway 89,119.347,2,,,55 mph,,,,,,,20171936,NY 89
+213321971,213336414,0,False,residential,Cayuga Lake State Park,18.67,,,,,,,,,,,20173069,
+213321971,213312967,0,False,secondary,State Highway 89,321.572,2,,,55 mph,,,,,,,20171936,NY 89
+213321971,213313078,0,False,secondary,State Highway 89,829.882,2,,,55 mph,,,,,,,20171936,NY 89
+213322094,213319256,0,False,secondary,State Highway 89,1826.737,2,,,55 mph,,,,,,,20171936,NY 89
+213322094,213331982,0,False,residential,Demont Road,385.972,,,,,,,,,,,20172719,
+213331982,213332027,0,False,residential,Demont Road,778.105,,,,,,,,,,,20172719,
+213331982,213322094,0,False,residential,Demont Road,385.972,,,,,,,,,,,20172719,
+213331982,213332065,0,False,residential,Demont Road,361.284,,,,,,,,,,,20172722,
+213332027,213331982,0,False,residential,Demont Road,778.105,,,,,,,,,,,20172719,
+213332065,213331982,0,False,residential,Demont Road,361.284,,,,,,,,,,,20172722,
+213332590,213332601,0,False,residential,Seneca Circle,79.963,,,,,,,,,,,20172751,
+213332590,213303665,0,False,residential,Seneca Manor Drive,109.074,,,,,,,,,,,20172823,
+213332590,213303123,0,False,residential,Seneca Manor Drive,60.315,,,,,,,,,,,20172823,
+213332601,213332590,0,False,residential,Seneca Circle,79.963,,,,,,,,,,,20172751,
+213333356,213308768,0,False,residential,Boardman Street,46.639,,,,,,,,,,,20172815,
+213333427,213286998,0,False,residential,Seneca Manor Drive,124.375,,,,,,,,,,,20172823,
+213334811,213296184,0,False,residential,Troup Street,134.269,,,,,,,,,,,20172937,
+213336414,213321971,0,False,residential,Cayuga Lake State Park,18.67,,,,,,,,,,,20173069,
+3281909046,213295432,0,False,residential,Pinehurst Drive,60.67,,,,,,,,,,,20170993,
+3281909046,213312710,0,False,residential,Victoria Drive,109.448,,,,,,,,,,,321448293,
+3281909046,3281911462,0,False,residential,Pinehurst Drive,55.054,,,,,,,,,,,20170993,
+3281911462,3281911463,0,False,residential,Maxwell Circle,23.738,,,,,,,,,,,321448294,
+3281911462,213300869,0,False,residential,Pinehurst Drive,270.883,,,,,,,,,,,20170993,
+3281911462,3281909046,0,False,residential,Pinehurst Drive,55.054,,,,,,,,,,,20170993,
+3281911463,3281911462,0,False,residential,Maxwell Circle,23.738,,,,,,,,,,,321448294,
+3281911463,3281911463,0,False,residential,Maxwell Circle,71.516,,,,,,,,,,,321448295,
+3281911463,3281911463,1,False,residential,Maxwell Circle,71.516,,,,,,,,,,,321448295,
+3281911482,3281911483,0,False,residential,Padlick Place,487.52,,,,,,,,,,,321448296,
+3281911482,213294362,0,False,residential,Cosad Road,942.397,,,,,,,,,,,20171154,
+3281911483,3281911482,0,False,residential,Padlick Place,487.52,,,,,,,,,,,321448296,
+3820082280,213283572,0,False,residential,Chadwick Road,197.376,,,,,,,,,,,378596682,

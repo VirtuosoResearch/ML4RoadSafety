@@ -1,0 +1,503 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+62630395,62630407,0,False,residential,Railroad Road,1141.98,,,,,,,,,,,8735124,
+62630395,62790341,0,False,residential,Austin Ridge Road,309.175,,,,,,,,,,,8749128,
+62630395,62796819,0,False,residential,Austin Ridge Road,1083.415,,,,,,,,,,,8749128,
+62630407,62630395,0,False,residential,Railroad Road,1141.98,,,,,,,,,,,8735124,
+62630407,62684360,0,False,residential,Douglas Road,1022.107,,,,,,,,,,,8744950,
+62630407,62708016,0,False,residential,Douglas Road,412.607,,,,,,,,,,,8744950,
+62630411,677214362,0,False,primary,South Main Street,92.215,,,,,,,,,,,8748663,NY 56
+62630411,62785861,0,False,primary,South Main Street,28.64,,,,,,,,,,,8748663,NY 56
+62630411,62630438,0,True,residential,Bank Street,191.158,,,,,,,,,,,8735128,
+62630438,62767795,0,True,residential,Mechanic Street,47.312,,,,,,,,,,,8747487,
+62632926,62734905,0,False,trunk,Maple Street,156.219,4,,,30 mph,,,,,,,111478786,US 11
+62632926,62778627,0,False,trunk,Maple Street,1408.625,"['4', '1']",,,"['30 mph', '45 mph']",,,yes,,,,"[111478786, 117014288, 149749744, 8745688, 28414815]",US 11
+62645545,62645553,0,False,residential,Norwood Beach Road,170.74,,,,,,,,,,,8736573,
+62645545,62758932,0,False,residential,"['Lake Shore Drive', 'Outer Maple Street']",888.011,,,,,,,,,,,"[8744097, 8746893]",
+62645545,62713615,0,False,residential,Lake Shore Drive,2265.329,,,,,,,,,,,8744097,
+62645553,62645545,0,False,residential,Norwood Beach Road,170.74,,,,,,,,,,,8736573,
+62650021,1437016152,0,False,trunk,Sandstone Drive,36.768,4,,,30 mph,,,,,,,480213143,US 11
+62654761,62654763,0,False,residential,,224.509,,,,,,,,,,,8738519,
+62654761,62707998,0,False,residential,Elliot Road,1627.206,,,,,,,,,,,162729126,
+62654761,62707942,0,False,residential,Elliot Road,1035.32,,,,,,,,,,,162729126,
+62654763,62654761,0,False,residential,,224.509,,,,,,,,,,,8738519,
+62657227,62734908,0,False,trunk,Maple Street,372.603,4,,,30 mph,,,,,,,111478786,US 11
+62657227,62718614,0,False,trunk,"['Maple Street', 'Sandstone Drive']",205.924,4,,,30 mph,,,,,,,"[111478786, 480213151]",US 11
+62672580,62672583,0,False,residential,,794.94,,,,,,,,,,,8740444,
+62672580,62867823,0,False,tertiary,W Potsdam Rd,980.975,,,,,,,,,,,139603733,CR 34
+62672580,62864462,0,False,tertiary,W Potsdam Rd,1331.825,,,,,,,,,,,139603733,CR 34
+62672583,62672580,0,False,residential,,794.94,,,,,,,,,,,8740444,
+62672590,62672598,0,False,residential,,207.795,,,,,,,,,,,8740445,
+62672590,62803899,0,False,residential,Smith Road,291.586,,,,,,,,,,,8749585,
+62672590,62732291,0,False,residential,Smith Road,1114.55,,,,,,,,,,,8749585,
+62672598,62672590,0,False,residential,,207.795,,,,,,,,,,,8740445,
+62672614,1640010334,0,False,residential,,415.403,,,,,,,,,,,8740448,
+62672614,62732291,0,False,secondary,State Highway 345,1049.042,,,,45 mph,,,,,,,"[8745572, 112280062]",NY 345
+62672614,62730563,0,False,secondary,"['Madrid Avenue', 'State Highway 345']",1102.753,,,,"['30 mph', '45 mph']",,,,,,,"[8748417, 8745572]",NY 345
+62684360,62684362,0,False,residential,,195.271,,,,,,,,,,,8741887,
+62684360,62723033,0,False,residential,Douglas Road,604.417,,,,,,,,,,,8744950,
+62684360,62630407,0,False,residential,Douglas Road,1022.107,,,,,,,,,,,8744950,
+62684362,62684360,0,False,residential,,195.271,,,,,,,,,,,8741887,
+62686085,1437016161,0,False,secondary,Maple Street,37.741,,,,30 mph,,,,,,,480213140,
+62686085,62725894,0,False,secondary,Maple Street,130.96,,,,30 mph,,,,,,,38235954,
+62686188,62686190,0,False,residential,,245.888,,,,,,,,,,,8742114,
+62686188,62796897,0,False,residential,Austin Ridge Road,2276.688,,,,,,,,,,,8749128,
+62686188,62790341,0,False,residential,Austin Ridge Road,649.047,,,,,,,,,,,8749128,
+62686190,62686188,0,False,residential,,245.888,,,,,,,,,,,8742114,
+62689679,62689680,0,False,residential,Railroad Avenue,118.211,,,,,,,,,,,8742428,
+62689679,62703436,0,False,residential,Bernard Avenue,245.639,,,,,,,,,,,8746316,
+62689679,62758281,0,False,residential,"['Spruce Street', 'Bernard Avenue']",353.183,,,,,,,,,,,"[8746848, 8746316]",
+62689680,62689681,0,False,residential,Railroad Avenue,72.848,,,,,,,,,,,8742428,
+62689680,62689679,0,False,residential,Railroad Avenue,118.211,,,,,,,,,,,8742428,
+62689680,62758281,0,False,residential,Park Street,296.776,,,,,,,,,,,8752845,
+62689680,62697336,0,False,residential,Park Street,246.09,,,,,,,,,,,8752845,
+62689681,62689680,0,False,residential,Railroad Avenue,72.848,,,,,,,,,,,8742428,
+62689681,62697331,0,False,residential,Spring Street,45.32,,,,,,,,,,,8742990,
+62689681,62697336,0,False,residential,Spring Street,254.943,,,,,,,,,,,8742990,
+62693426,62693439,0,False,residential,La Rue Road,107.375,,,,,,,,,,,8742799,
+62693426,62850216,0,False,residential,Judson Street Road,550.523,,,,,,,,,,,8752757,
+62693439,62693426,0,False,residential,La Rue Road,107.375,,,,,,,,,,,8742799,
+62696849,62749687,0,False,primary,South Main Street,87.524,,,,,,,,,,,8748663,NY 56
+62696849,62696858,0,False,residential,Whitney Street,311.64,,,,,,,,,,,8742951,
+62696849,62713606,0,False,primary,South Main Street,1011.666,,,,,,,,,,,8748663,NY 56
+62696849,62909202,0,False,residential,Elm Street,332.106,,,,,,,,,,,8759294,
+62696858,62871839,0,False,residential,Morgan Road,44.921,,,,,,,,,,,8754114,
+62696858,62696849,0,False,residential,Whitney Street,311.64,,,,,,,,,,,8742951,
+62696858,62714189,0,False,residential,Morgan Road,186.992,,,,,,,,,,,8754114,
+62697324,62697326,0,False,residential,Spring Street,72.984,,,,,,,,,,,8742990,
+62697324,62851778,0,False,residential,River Street,224.934,,,,,,,,,,,8754784,
+62697324,62706499,0,False,residential,"['Ridge Street', 'Spring Street']",245.482,,,,,,,yes,,,,"[42057702, 8747734, 8742990]",
+62697326,62697324,0,False,residential,Spring Street,72.984,,,,,,,,,,,8742990,
+62697326,62697331,0,False,residential,Spring Street,387.867,,,,,,,,,,,8742990,
+62697326,62758281,0,False,residential,Spruce Street,232.467,,,,,,,,,,,8746848,
+62697326,62758935,0,False,residential,Outer Maple Street,26.815,,,,,,,,,,,8746893,
+62697331,62689681,0,False,residential,Spring Street,45.32,,,,,,,,,,,8742990,
+62697331,62909202,0,False,residential,Pleasant Street,171.193,,,,,,,,,,,8756948,
+62697331,62697326,0,False,residential,Spring Street,387.867,,,,,,,,,,,8742990,
+62697336,62703436,0,False,residential,Park Avenue,119.881,,,,,,,,,,,8743397,
+62697336,62689681,0,False,residential,Spring Street,254.943,,,,,,,,,,,8742990,
+62697336,62785861,0,False,residential,Park Street,96.238,,,,,,,,,,,8752845,
+62697336,62689680,0,False,residential,Park Street,246.09,,,,,,,,,,,8752845,
+62698325,62707120,0,False,residential,Schoolhouse Road,1636.879,,,,,,,,,,,8743640,
+62698325,62698392,0,False,residential,Finnegan Road,2519.609,,,,,,,,,,,8758548,
+62698392,62877401,0,False,residential,Barnes Road,1243.937,,,,,,,,,,,8754907,
+62698392,62698422,0,False,residential,Finnegan Road,1151.125,,,,,,,,,,,8758548,
+62698392,62698325,0,False,residential,Finnegan Road,2519.609,,,,,,,,,,,8758548,
+62698422,62698392,0,False,residential,Finnegan Road,1151.125,,,,,,,,,,,8758548,
+62698422,62877411,0,False,tertiary,County Road 35,1084.902,,,,,,,,,,,8759281,
+62698422,62850216,0,False,tertiary,County Road 35,1167.634,,,,,,,,,,,8759281,
+62698422,62767970,0,False,residential,Wright Road,455.224,,,,,,,yes,,,,"[8747506, 249662389, 249662390]",
+62701828,62778495,0,False,trunk,US route 11,144.352,1,,,,,,,,,,8748194,US 11
+62703436,62697336,0,False,residential,Park Avenue,119.881,,,,,,,,,,,8743397,
+62703436,677214362,0,False,residential,Bernard Avenue,102.335,,,,,,,,,,,8746316,
+62703436,62689679,0,False,residential,Bernard Avenue,245.639,,,,,,,,,,,8746316,
+62706499,62887159,0,False,residential,"['Walnut Street', 'High Street']",357.55,,,,,,,,,,,"[8758328, 8743591]",
+62706499,62697324,0,False,residential,"['Ridge Street', 'Spring Street']",245.482,,,,,,,yes,,,,"[8742990, 42057702, 8747734]",
+62706499,62771520,0,False,residential,Ridge Street,210.119,,,,,,,,,,,8747734,
+62707120,62707145,0,False,residential,Schoolhouse Road,596.841,,,,,,,,,,,8743640,
+62707120,62698325,0,False,residential,Schoolhouse Road,1636.879,,,,,,,,,,,8743640,
+62707120,62877401,0,False,residential,Morley-Potsdam Road,2480.976,,,,,,,,,,,8754686,
+62707145,62707120,0,False,residential,Schoolhouse Road,596.841,,,,,,,,,,,8743640,
+62707145,62729140,0,False,residential,Emerson Road,3444.176,,,,,,,,,,,8745315,
+62707145,62707193,0,False,residential,Schoolhouse Road,1248.031,,,,,,,,,,,175953316,
+62707193,62867823,0,False,residential,Ellis Road,1939.073,,,,,,,,,,,8753916,
+62707193,62707145,0,False,residential,Schoolhouse Road,1248.031,,,,,,,,,,,175953316,
+62707920,62707942,0,False,residential,Elliot Road,269.358,,,,,,,yes,,,,"[8743705, 162729123, 162729126]",
+62707920,62732377,0,False,residential,Dailey Ridge Road,1362.046,,,,,,,,,,,8745806,
+62707942,62868886,0,False,residential,Ireland Road,268.391,,,,,,,,,,,8753947,
+62707942,62654761,0,False,residential,Elliot Road,1035.32,,,,,,,,,,,162729126,
+62707942,62707920,0,False,residential,Elliot Road,269.358,,,,,,,yes,,,,"[8743705, 162729123, 162729126]",
+62707998,62924759,0,False,residential,Haig Road,1032.429,,,,,,,,,,,8758068,
+62707998,62708016,0,False,residential,Elliot Road,1266.811,,,,,,,,,,,162729126,
+62707998,62654761,0,False,residential,Elliot Road,1627.206,,,,,,,,,,,162729126,
+62708016,62630407,0,False,residential,Douglas Road,412.607,,,,,,,,,,,8744950,
+62708016,62722999,0,False,residential,Douglas Road,375.708,,,,,,,,,,,8744950,
+62708016,62707998,0,False,residential,Elliot Road,1266.811,,,,,,,,,,,162729126,
+62708176,62758281,0,False,residential,Park Street,56.202,,,,,,,,,,,8752845,
+62708176,62708181,0,False,residential,Ashley Street,238.362,,,,,,,,,,,8743727,
+62708176,62851778,0,False,residential,Park Street,175.694,,,,,,,,,,,8752845,
+62708181,62708176,0,False,residential,Ashley Street,238.362,,,,,,,,,,,8743727,
+62708181,62761561,0,False,residential,Prospect Street,554.983,,,,,,,,,,,8754506,
+62708181,62876521,0,False,residential,Prospect Street,29.299,,,,,,,,,,,8754506,
+62709088,62848366,0,False,residential,Sykes Road,421.736,,,,,,,,,,,8752604,
+62709267,62709270,0,False,residential,Rupert Palmen Lane,66.114,,,,,,,,,,,8743818,
+62709267,62917940,0,False,residential,Sports Avenue,119.498,,,,,,,,,,,8757617,
+62709267,62917928,0,False,residential,Sports Avenue,146.568,,,,,,,,,,,8757617,
+62709270,62709267,0,False,residential,Rupert Palmen Lane,66.114,,,,,,,,,,,8743818,
+62713606,62713615,0,False,residential,Lake Shore Drive,933.899,,,,,,,,,,,8744097,
+62713606,62696849,0,False,primary,South Main Street,1011.666,,,,,,,,,,,8748663,NY 56
+62713606,62796732,0,False,primary,"['State Highway 56', 'South Main Street']",1319.867,4,,,,,,,,,,"[8749119, 8748663]",NY 56
+62713606,62885308,0,False,residential,Dry Bridge Road,799.3,,,,,,,yes,,,,"[64641524, 8756149, 64641654]",
+62713615,62645545,0,False,residential,Lake Shore Drive,2265.329,,,,,,,,,,,8744097,
+62713615,62713606,0,False,residential,Lake Shore Drive,933.899,,,,,,,,,,,8744097,
+62713615,62914853,0,False,residential,Riverside Drive,214.837,,,,,,,,,,,8757383,
+62714183,62714185,0,False,residential,Bicknell Street,162.182,,,,,,,,,,,8744127,
+62714183,62785861,0,False,primary,South Main Street,44.548,,,,,,,,,,,8748663,NY 56
+62714183,62749687,0,False,primary,South Main Street,66.923,,,,,,,,,,,8748663,NY 56
+62714185,62714183,0,False,residential,Bicknell Street,162.182,,,,,,,,,,,8744127,
+62714185,62767795,0,False,residential,Leonard Street,140.814,,,,,,,,,,,8747608,
+62714185,62714189,0,False,residential,Bicknell Street,57.675,,,,,,,,,,,8744127,
+62714189,62714185,0,False,residential,Bicknell Street,57.675,,,,,,,,,,,8744127,
+62714189,62721119,0,False,residential,Depot Street,119.171,,,,,,,,,,,8746548,
+62714189,62696858,0,False,residential,Morgan Road,186.992,,,,,,,,,,,8754114,
+62718614,1437016161,0,True,secondary,Maple Street,162.034,,,,30 mph,,,,,,,28275519,
+62718614,1437016152,0,False,trunk,Sandstone Drive,143.438,4,,,30 mph,,,,,,,480213145,US 11
+62718614,62657227,0,False,trunk,"['Maple Street', 'Sandstone Drive']",205.924,4,,,30 mph,,,,,,,"[111478786, 480213151]",US 11
+62718757,62718764,0,False,residential,,38.155,,,,30 mph,,,,,,,8744707,
+62718764,62718766,0,False,residential,,41.1,,,,30 mph,,,,,,,8744707,
+62718764,62718757,0,False,residential,,38.155,,,,30 mph,,,,,,,8744707,
+62718764,62725901,0,False,residential,Swan Street,59.403,,,,30 mph,,,,,,,8745101,
+62718764,62725894,0,False,residential,Swan Street,55.81,,,,30 mph,,,,,,,8745101,
+62718766,62718764,0,False,residential,,41.1,,,,30 mph,,,,,,,8744707,
+62721119,62721119,0,False,residential,"['Town Line Road', 'Lang Street', 'Depot Street', 'Pine Street']",995.209,,,,,,,,,,,"[8744832, 8755218, 8746548, 8755338]",
+62721119,62721119,1,False,residential,"['Town Line Road', 'Lang Street', 'Depot Street', 'Pine Street']",995.209,,,,,,,,,,,"[8744832, 8755338, 8755218, 8746548]",
+62721119,62714189,0,False,residential,Depot Street,119.171,,,,,,,,,,,8746548,
+62722999,62708016,0,False,residential,Douglas Road,375.708,,,,,,,,,,,8744950,
+62723033,62723054,0,False,residential,Douglas Road,1412.971,,,,,,,,,,,8744950,
+62723033,62684360,0,False,residential,Douglas Road,604.417,,,,,,,,,,,8744950,
+62723054,62723033,0,False,residential,Douglas Road,1412.971,,,,,,,,,,,8744950,
+62723054,62791599,0,False,residential,Douglas Road,760.9,,,,,,,,,,,8748978,
+62723054,62796897,0,False,residential,Italian Road,840.664,,,,,,,,,,,8758331,
+62724771,62724792,0,False,residential,Rosen Road,346.22,,,,,,,,,,,8745066,
+62724771,62937087,0,False,tertiary,W Potsdam Rd,564.002,,,,,,,,,,,139603733,CR 34
+62724771,62729140,0,False,tertiary,W Potsdam Rd,1103.137,,,,,,,,,,,139603733,CR 34
+62724792,62724771,0,False,residential,Rosen Road,346.22,,,,,,,,,,,8745066,
+62725894,62718764,0,False,residential,Swan Street,55.81,,,,30 mph,,,,,,,8745101,
+62725894,62686085,0,False,secondary,Maple Street,130.96,,,,30 mph,,,,,,,38235954,
+62725901,62725901,0,False,residential,Swan Street,55.955,,,,30 mph,,,,,,,8745101,
+62725901,62725901,1,False,residential,Swan Street,55.955,,,,30 mph,,,,,,,8745101,
+62725901,62718764,0,False,residential,Swan Street,59.403,,,,30 mph,,,,,,,8745101,
+62727607,62727622,0,False,residential,Baldwin Avenue,50.057,,,,,,,,,,,8757656,
+62727607,62858307,0,False,residential,Baldwin Avenue,91.911,,,,,,,,,,,8757656,
+62727622,62727607,0,False,residential,Baldwin Avenue,50.057,,,,,,,,,,,8757656,
+62727622,62727607,1,True,residential,Baldwin Acres,188.301,,,,,,,,,,,8745204,
+62727622,62918559,0,False,residential,Baldwin Avenue,207.884,,,,,,,,,,,8757656,
+62728502,62728531,0,False,residential,Buffham Road,1141.37,,,,,,,,,,,8745271,
+62728502,62864462,0,False,secondary,State Highway 310,1509.963,,,,,,,,,,,8754991,NY 310
+62728531,62732377,0,False,residential,"['Hughes Road', 'Buffham Road']",2831.334,,,,,,,,,,,"[8748718, 8745271]",
+62728531,62728502,0,False,residential,Buffham Road,1141.37,,,,,,,,,,,8745271,
+62728531,62874324,0,False,residential,Cline Road,1281.818,,,,,,,,,,,8758173,
+62729140,62707145,0,False,residential,Emerson Road,3444.176,,,,,,,,,,,8745315,
+62729140,62724771,0,False,tertiary,W Potsdam Rd,1103.137,,,,,,,,,,,139603733,CR 34
+62729140,62867823,0,False,tertiary,W Potsdam Rd,1155.247,,,,,,,,,,,139603733,CR 34
+62730563,62862138,0,False,residential,"['River Road', 'Lower Pine Street']",2604.625,,,,30 mph,,,,,,,"[8745432, 8756614]",
+62730563,62672614,0,False,secondary,"['Madrid Avenue', 'State Highway 345']",1102.753,,,,"['30 mph', '45 mph']",,,,,,,"[8748417, 8745572]",NY 345
+62730563,62767801,0,False,secondary,Pine Street,284.202,,,,30 mph,,,,,,,8755214,NY 345
+62732291,62732292,0,False,secondary,State Highway 345,304.765,,,,,,,,,,,112280062,NY 345
+62732291,62672590,0,False,residential,Smith Road,1114.55,,,,,,,,,,,8749585,
+62732291,62672614,0,False,secondary,State Highway 345,1049.042,,,,45 mph,,,,,,,"[8745572, 112280062]",NY 345
+62732292,62732291,0,False,secondary,State Highway 345,304.765,,,,,,,,,,,112280062,NY 345
+62732292,62862138,0,False,residential,Sullivan Road,1089.612,,,,,,,,,,,8753514,
+62732292,62732298,0,False,secondary,State Highway 345,917.808,,,,,,,,,,,112280062,NY 345
+62732298,62732306,0,False,secondary,State Highway 345,952.499,,,,,,,,,,,112280062,NY 345
+62732298,62732292,0,False,secondary,State Highway 345,917.808,,,,,,,,,,,112280062,NY 345
+62732298,62933834,0,False,tertiary,W Potsdam Rd,1069.479,,,,,,,,,,,139603733,CR 34
+62732306,62886644,0,False,residential,Barker Road,2885.115,,,,,,,,,,,8755394,
+62732306,62933834,0,False,residential,Flat Rock Road,622.122,,,,,,,,,,,8758725,
+62732306,62732323,0,False,secondary,State Highway 345,1814.802,,,,,,,,,,,112280062,NY 345
+62732306,62732298,0,False,secondary,State Highway 345,952.499,,,,,,,,,,,112280062,NY 345
+62732323,62759340,0,False,residential,Pig Street Road,4676.656,,,,,,,,,,,8746913,
+62732323,62732328,0,False,secondary,State Highway 345,573.387,,,,,,,,,,,112280062,NY 345
+62732323,62732306,0,False,secondary,State Highway 345,1814.802,,,,,,,,,,,112280062,NY 345
+62732328,62786018,0,False,residential,Tanner Road,568.659,,,,,,,,,,,8748680,
+62732328,62849428,0,False,residential,Mackay Road,620.917,,,,,,,,,,,8752696,
+62732328,62732340,0,False,secondary,State Highway 345,778.931,,,,,,,,,,,112280062,NY 345
+62732328,62732323,0,False,secondary,State Highway 345,573.387,,,,,,,,,,,112280062,NY 345
+62732340,62732349,0,False,secondary,State Highway 345,932.729,,,,,,,,,,,112280062,NY 345
+62732340,62732328,0,False,secondary,State Highway 345,778.931,,,,,,,,,,,112280062,NY 345
+62732340,62736284,0,False,tertiary,County Road 35,1632.61,,,,,,,,,,,162729115,
+62732340,62786038,0,False,tertiary,County Road 35,1123.656,,,,,,,yes,,,,"[162729113, 249662385, 162729115]",
+62732349,62736284,0,False,residential,Crosbie Road,2419.162,,,,,,,,,,,8745782,
+62732349,62732367,0,False,secondary,State Highway 345,1560.62,,,,,,,yes,,,,"[162729153, 162729157, 112280062]",NY 345
+62732349,62732340,0,False,secondary,State Highway 345,932.729,,,,,,,,,,,112280062,NY 345
+62732367,62858608,0,False,residential,Baker Road,914.946,,,,,,,,,,,8754283,
+62732367,62732377,0,False,secondary,State Highway 345,1185.624,,,,,,,,,,,162729153,NY 345
+62732367,62732349,0,False,secondary,State Highway 345,1560.62,,,,,,,yes,,,,"[162729153, 162729157, 112280062]",NY 345
+62732377,62707920,0,False,residential,Dailey Ridge Road,1362.046,,,,,,,,,,,8745806,
+62732377,62728531,0,False,residential,"['Buffham Road', 'Hughes Road']",2831.334,,,,,,,,,,,"[8748718, 8745271]",
+62732377,62732367,0,False,secondary,State Highway 345,1185.624,,,,,,,,,,,162729153,NY 345
+62734905,62734908,0,False,trunk,Maple Street,10.219,4,,,30 mph,,,,,,,111478786,US 11
+62734905,62632926,0,False,trunk,Maple Street,156.219,4,,,30 mph,,,,,,,111478786,US 11
+62734908,62657227,0,False,trunk,Maple Street,372.603,4,,,30 mph,,,,,,,111478786,US 11
+62734908,62734905,0,False,trunk,Maple Street,10.219,4,,,30 mph,,,,,,,111478786,US 11
+62736284,62732349,0,False,residential,Crosbie Road,2419.162,,,,,,,,,,,8745782,
+62736284,62852448,0,False,tertiary,County Road 35,374.955,,,,,,,,,,,162729115,
+62736284,62732340,0,False,tertiary,County Road 35,1632.61,,,,,,,,,,,162729115,
+62749318,62749338,0,False,residential,Pearson Road,546.366,,,,,,,,,,,8746388,
+62749318,62864462,0,False,secondary,Canton-Madrid Road,1472.486,,,,,,,,,,,8753698,
+62749338,62749318,0,False,residential,Pearson Road,546.366,,,,,,,,,,,8746388,
+62749687,62714183,0,False,primary,South Main Street,66.923,,,,,,,,,,,8748663,NY 56
+62749687,62696849,0,False,primary,South Main Street,87.524,,,,,,,,,,,8748663,NY 56
+62749687,62749694,0,False,residential,Mc Kinley Street,120.409,,,,,,,,,,,8746399,
+62749694,62749687,0,False,residential,Mc Kinley Street,120.409,,,,,,,,,,,8746399,
+62751285,62858309,0,False,primary,North Main Street,128.52,,,,,,,,,,,8753288,NY 56
+62751285,62761561,0,False,residential,"['Harrison Street', 'Morton Street']",298.346,,,,,,,,,,,"[8746496, 8747091]",
+62751285,62858317,0,False,primary,North Main Street,354.182,,,,,,,,,,,8753288,NY 56
+62758281,62689680,0,False,residential,Park Street,296.776,,,,,,,,,,,8752845,
+62758281,62708176,0,False,residential,Park Street,56.202,,,,,,,,,,,8752845,
+62758281,62689679,0,False,residential,"['Bernard Avenue', 'Spruce Street']",353.183,,,,,,,,,,,"[8746848, 8746316]",
+62758281,62697326,0,False,residential,Spruce Street,232.467,,,,,,,,,,,8746848,
+62758932,62866117,0,False,residential,Elm Street,46.219,,,,,,,,,,,8759294,
+62758932,62758935,0,False,residential,Outer Maple Street,170.073,,,,,,,,,,,8746893,
+62758932,62645545,0,False,residential,"['Lake Shore Drive', 'Outer Maple Street']",888.011,,,,,,,,,,,"[8744097, 8746893]",
+62758932,62937862,0,False,residential,Elm Street,166.888,,,,,,,,,,,8759294,
+62758935,62697326,0,False,residential,Outer Maple Street,26.815,,,,,,,,,,,8746893,
+62758935,62758932,0,False,residential,Outer Maple Street,170.073,,,,,,,,,,,8746893,
+62758935,62866117,0,False,residential,Maple Street Trailer Court,179.837,,,,,,,,,,,8753815,
+62759340,62732323,0,False,residential,Pig Street Road,4676.656,,,,,,,,,,,8746913,
+62759340,62779706,0,False,residential,River Road,2482.755,,,,,,,yes,,,,"[153110366, 153110363, 8756614]",
+62759340,62886657,0,False,residential,River Road,1772.503,,,,,,,,,,,8756614,
+62760565,62762940,0,False,tertiary,,118.048,,,,,,,,,,,8747451,CR 14
+62761561,62858309,0,False,residential,Prospect Street,163.092,,,,,,,,,,,8754506,
+62761561,62751285,0,False,residential,"['Harrison Street', 'Morton Street']",298.346,,,,,,,,,,,"[8746496, 8747091]",
+62761561,62708181,0,False,residential,Prospect Street,554.983,,,,,,,,,,,8754506,
+62762940,62760565,0,False,tertiary,,118.048,,,,,,,,,,,8747451,CR 14
+62762940,62762961,0,False,residential,Cemetery Road,232.952,,,,,,,,,,,8747199,
+62762940,62766929,0,False,tertiary,,197.841,,,,,,,,,,,8747451,CR 14
+62762961,62762940,0,False,residential,Cemetery Road,232.952,,,,,,,,,,,8747199,
+62765848,62765868,0,False,residential,Hoadley Road,1593.445,,,,,,,,,,,8747372,
+62765848,62874324,0,False,residential,Baker Road,580.292,,,,,,,,,,,8754283,
+62765848,62867823,0,False,residential,Baker Road,1881.718,,,,,,,,,,,8754283,
+62765868,62765848,0,False,residential,Hoadley Road,1593.445,,,,,,,,,,,8747372,
+62765868,62858608,0,False,residential,Blanchard Road,1047.048,,,,,,,,,,,8753297,
+62765868,62858541,0,False,residential,Blanchard Road,2879.683,,,,,,,,,,,8753297,
+62766929,62762940,0,False,tertiary,,197.841,,,,,,,,,,,8747451,CR 14
+62766929,62848366,0,False,tertiary,W Potsdam Rd,615.524,,,,,,,yes,,,,"[8759264, 95751478, 95751471]",CR 34
+62767795,62714185,0,False,residential,Leonard Street,140.814,,,,,,,,,,,8747608,
+62767795,62925353,0,False,residential,Lafayette Street,104.657,,,,,,,,,,,8758115,
+62767801,62767807,0,False,residential,Mechanic Street,176.208,,,,30 mph,,,,,,,8747488,
+62767801,62730563,0,False,secondary,Pine Street,284.202,,,,30 mph,,,,,,,8755214,NY 345
+62767801,1437016152,0,False,secondary,Pine Street,352.586,,,,30 mph,,,,,,,8755214,NY 345
+62767807,62767801,0,False,residential,Mechanic Street,176.208,,,,30 mph,,,,,,,8747488,
+62767911,62767970,0,False,residential,Wright Road,2773.272,,,,,,,,,,,8747506,
+62767911,62778517,0,False,trunk,US route 11,2558.208,1,,,,,,,,,,8748194,US 11
+62767911,62778495,0,False,trunk,US route 11,851.131,1,,,,,,,,,,8748194,US 11
+62767970,62698422,0,False,residential,Wright Road,455.224,,,,,,,yes,,,,"[8747506, 249662389, 249662390]",
+62767970,62767911,0,False,residential,Wright Road,2773.272,,,,,,,,,,,8747506,
+62767970,62788312,0,False,residential,Waite Road,3116.096,,,,,,,,,,,8748786,
+62771500,62771502,0,False,residential,Ridge Street,165.12,,,,,,,,,,,8747734,
+62771500,62779706,0,False,residential,River Road,106.495,,,,,,,,,,,153110366,
+62771500,62790332,0,False,tertiary,Crary Mills-Norwood Road,1913.142,,,,,,,,,,,8758249,
+62771500,62796919,0,False,residential,River Road,2654.976,,,,,,,,,,,153110366,
+62771502,62771500,0,False,residential,Ridge Street,165.12,,,,,,,,,,,8747734,
+62771502,62771520,0,False,residential,Ridge Street,431.766,,,,,,,,,,,8747734,
+62771502,62779699,0,False,residential,Noreen Drive,110.114,,,,,,,,,,,8748244,
+62771520,62706499,0,False,residential,Ridge Street,210.119,,,,,,,,,,,8747734,
+62771520,62771502,0,False,residential,Ridge Street,431.766,,,,,,,,,,,8747734,
+62771520,62887159,0,False,residential,Blanchard Avenue,178.829,,,,,,,,,,,8755430,
+62778495,62701828,0,False,trunk,US route 11,144.352,1,,,,,,,,,,8748194,US 11
+62778495,62767911,0,False,trunk,US route 11,851.131,1,,,,,,,,,,8748194,US 11
+62778495,62850216,0,False,tertiary,County Road 35,2149.84,,,,,,,,,,,8759281,
+62778517,62778627,0,False,trunk,"['Maple Street', 'US route 11']",2754.481,1,,,45 mph,,,,,,,"[149749744, 8748194]",US 11
+62778517,62767911,0,False,trunk,US route 11,2558.208,1,,,,,,,,,,8748194,US 11
+62778517,62788312,0,False,residential,Morgan Road,2664.515,,,,,,,,,,,8754102,
+62778627,62788314,0,False,residential,Morley-Potsdam Road,2385.508,,,,,,,,,,,8754662,
+62778627,62632926,0,False,trunk,Maple Street,1408.625,"['4', '1']",,,"['30 mph', '45 mph']",,,yes,,,,"[111478786, 149749744, 117014288, 8745688, 28414815]",US 11
+62778627,62778517,0,False,trunk,"['Maple Street', 'US route 11']",2754.481,1,,,45 mph,,,,,,,"[149749744, 8748194]",US 11
+62779699,62771502,0,False,residential,Noreen Drive,110.114,,,,,,,,,,,8748244,
+62779699,62779706,0,False,residential,Noreen Drive,168.812,,,,,,,,,,,8748245,
+62779699,62917570,0,False,residential,"['Crescent Drive', 'Circle Drive']",260.135,,,,,,,,,,,"[8748969, 8757588]",
+62779706,62771500,0,False,residential,River Road,106.495,,,,,,,,,,,153110366,
+62779706,62779699,0,False,residential,Noreen Drive,168.812,,,,,,,,,,,8748245,
+62779706,62759340,0,False,residential,River Road,2482.755,,,,,,,yes,,,,"[153110363, 153110366, 8756614]",
+62785861,62630411,0,False,primary,South Main Street,28.64,,,,,,,,,,,8748663,NY 56
+62785861,62714183,0,False,primary,South Main Street,44.548,,,,,,,,,,,8748663,NY 56
+62785861,62697336,0,False,residential,Park Street,96.238,,,,,,,,,,,8752845,
+62786018,62732328,0,False,residential,Tanner Road,568.659,,,,,,,,,,,8748680,
+62786024,62786038,0,False,residential,Tanner Road,402.241,,,,,,,,,,,42435376,
+62786038,62786024,0,False,residential,Tanner Road,402.241,,,,,,,,,,,42435376,
+62786038,62732340,0,False,tertiary,County Road 35,1123.656,,,,,,,yes,,,,"[249662385, 162729113, 162729115]",
+62786038,62858541,0,False,tertiary,County Road 35,1277.673,,,,,,,,,,,249662385,
+62788312,62788314,0,False,residential,Waite Road,20.689,,,,,,,,,,,8748786,
+62788312,62871672,0,False,residential,Morgan Road,13.01,,,,,,,,,,,8754102,
+62788312,62767970,0,False,residential,Waite Road,3116.096,,,,,,,,,,,8748786,
+62788312,62778517,0,False,residential,Morgan Road,2664.515,,,,,,,,,,,8754102,
+62788314,62788312,0,False,residential,Waite Road,20.689,,,,,,,,,,,8748786,
+62788314,62871672,0,False,residential,Morley-Potsdam Road,18.745,,,,,,,,,,,8754662,
+62788314,62778627,0,False,residential,Morley-Potsdam Road,2385.508,,,,,,,,,,,8754662,
+62790332,62790341,0,False,residential,Mc Ginnis Road,699.176,,,,,,,,,,,8748887,
+62790332,62771500,0,False,tertiary,Crary Mills-Norwood Road,1913.142,,,,,,,,,,,8758249,
+62790332,62796819,0,False,tertiary,County Road 35,1201.932,,,,,,,,,,,162729115,
+62790341,62790332,0,False,residential,Mc Ginnis Road,699.176,,,,,,,,,,,8748887,
+62790341,62686188,0,False,residential,Austin Ridge Road,649.047,,,,,,,,,,,8749128,
+62790341,62630395,0,False,residential,Austin Ridge Road,309.175,,,,,,,,,,,8749128,
+62791599,62723054,0,False,residential,Douglas Road,760.9,,,,,,,,,,,8748978,
+62796716,62796717,0,False,primary,State Highway 56,277.211,4,,,,,,,,,,8749119,NY 56
+62796716,62804151,0,False,residential,Pleasant Valley Road,2673.419,,,,,,,,,,,8752515,
+62796717,62796716,0,False,primary,State Highway 56,277.211,4,,,,,,,,,,8749119,NY 56
+62796717,62796718,0,False,primary,State Highway 56,458.024,4,,,,,,,,,,8749119,NY 56
+62796717,62851674,0,False,residential,Sissonville Road,339.846,,,,,,,,,,,139892659,
+62796718,62796732,0,False,primary,State Highway 56,901.079,4,,,,,,,,,,8749119,NY 56
+62796718,62796717,0,False,primary,State Highway 56,458.024,4,,,,,,,,,,8749119,NY 56
+62796718,62804151,0,False,residential,Adams Road,2631.587,,,,,,,,,,,8749609,
+62796732,62713606,0,False,primary,"['State Highway 56', 'South Main Street']",1319.867,4,,,,,,,,,,"[8748663, 8749119]",NY 56
+62796732,62796718,0,False,primary,State Highway 56,901.079,4,,,,,,,,,,8749119,NY 56
+62796732,62878112,0,False,residential,Reynolds Road,1004.587,,,,,,,,,,,8754746,
+62796819,62630395,0,False,residential,Austin Ridge Road,1083.415,,,,,,,,,,,8749128,
+62796819,62790332,0,False,tertiary,County Road 35,1201.932,,,,,,,,,,,162729115,
+62796819,62852448,0,False,tertiary,County Road 35,1287.821,,,,,,,,,,,162729115,
+62796897,62796919,0,False,residential,Austin Ridge Road,1454.781,,,,,,,,,,,8749128,
+62796897,62686188,0,False,residential,Austin Ridge Road,2276.688,,,,,,,,,,,8749128,
+62796897,62723054,0,False,residential,Italian Road,840.664,,,,,,,,,,,8758331,
+62796919,62796897,0,False,residential,Austin Ridge Road,1454.781,,,,,,,,,,,8749128,
+62796919,62904720,0,False,residential,River Road,209.356,,,,,,,,,,,153110366,
+62796919,62771500,0,False,residential,River Road,2654.976,,,,,,,,,,,153110366,
+62803899,62672590,0,False,residential,Smith Road,291.586,,,,,,,,,,,8749585,
+62804151,62796718,0,False,residential,Adams Road,2631.587,,,,,,,,,,,8749609,
+62804151,62796716,0,False,residential,Pleasant Valley Road,2673.419,,,,,,,,,,,8752515,
+62848366,62709088,0,False,residential,Sykes Road,421.736,,,,,,,,,,,8752604,
+62848366,62864462,0,False,tertiary,W Potsdam Rd,488.91,,,,,,,,,,,95751478,CR 34
+62848366,62766929,0,False,tertiary,W Potsdam Rd,615.524,,,,,,,yes,,,,"[8759264, 95751478, 95751471]",CR 34
+62849428,62732328,0,False,residential,Mackay Road,620.917,,,,,,,,,,,8752696,
+62850216,62693426,0,False,residential,Judson Street Road,550.523,,,,,,,,,,,8752757,
+62850216,62698422,0,False,tertiary,County Road 35,1167.634,,,,,,,,,,,8759281,
+62850216,62778495,0,False,tertiary,County Road 35,2149.84,,,,,,,,,,,8759281,
+62851674,62851684,0,False,residential,Park Street,211.126,,,,,,,,,,,8752836,
+62851674,62796717,0,False,residential,Sissonville Road,339.846,,,,,,,,,,,139892659,
+62851674,62913638,0,False,residential,Sissonville Road,1436.978,,,,,,,,,,,"[139892659, 8757279]",
+62851684,62851674,0,False,residential,Park Street,211.126,,,,,,,,,,,8752836,
+62851778,62697324,0,False,residential,River Street,224.934,,,,,,,,,,,8754784,
+62851778,62708176,0,False,residential,Park Street,175.694,,,,,,,,,,,8752845,
+62851778,62878616,0,False,residential,River Street,149.004,,,,,,,,,,,8754784,
+62852448,62852460,0,False,residential,Collins Road,624.972,,,,,,,,,,,8752881,
+62852448,62796819,0,False,tertiary,County Road 35,1287.821,,,,,,,,,,,162729115,
+62852448,62736284,0,False,tertiary,County Road 35,374.955,,,,,,,,,,,162729115,
+62852460,62852448,0,False,residential,Collins Road,624.972,,,,,,,,,,,8752881,
+62856944,62856967,0,False,residential,Hogle Road,636.573,,,,,,,,,,,8753218,
+62856944,62871672,0,False,residential,Morley-Potsdam Road,1278.172,,,,,,,,,,,8754662,
+62856944,62877170,0,False,residential,Morley-Potsdam Road,1811.307,,,,,,,,,,,8754662,
+62856967,62856944,0,False,residential,Hogle Road,636.573,,,,,,,,,,,8753218,
+62858307,62858309,0,False,primary,North Main Street,34.743,,,,,,,,,,,8753288,NY 56
+62858307,677214363,0,False,primary,North Main Street,136.32,,,,,,,,,,,8753288,NY 56
+62858307,62727607,0,False,residential,Baldwin Avenue,91.911,,,,,,,,,,,8757656,
+62858309,62751285,0,False,primary,North Main Street,128.52,,,,,,,,,,,8753288,NY 56
+62858309,62858307,0,False,primary,North Main Street,34.743,,,,,,,,,,,8753288,NY 56
+62858309,62761561,0,False,residential,Prospect Street,163.092,,,,,,,,,,,8754506,
+62858317,62751285,0,False,primary,North Main Street,354.182,,,,,,,,,,,8753288,NY 56
+62858541,62937087,0,False,tertiary,County Road 35,90.127,,,,,,,,,,,249662385,
+62858541,62765868,0,False,residential,Blanchard Road,2879.683,,,,,,,,,,,8753297,
+62858541,62786038,0,False,tertiary,County Road 35,1277.673,,,,,,,,,,,249662385,
+62858608,62765868,0,False,residential,Blanchard Road,1047.048,,,,,,,,,,,8753297,
+62858608,62732367,0,False,residential,Baker Road,914.946,,,,,,,,,,,8754283,
+62858608,62874324,0,False,residential,Baker Road,1792.966,,,,,,,,,,,8754283,
+62860477,62860481,0,False,residential,Orchard Street,62.882,,,,,,,,,,,8753409,
+62860477,62897460,0,False,residential,Cottage Street,79.682,,,,,,,,,,,8756156,
+62860477,62897451,0,False,residential,Cottage Street,209.814,,,,,,,,,,,8756156,
+62860481,62860477,0,False,residential,Orchard Street,62.882,,,,,,,,,,,8753409,
+62860481,62892645,0,False,residential,Baldwin Avenue,83.691,,,,,,,,,,,8757656,
+62862138,62732292,0,False,residential,Sullivan Road,1089.612,,,,,,,,,,,8753514,
+62862138,62886755,0,False,residential,River Road,1759.674,,,,,,,,,,,8756614,
+62862138,62730563,0,False,residential,"['River Road', 'Lower Pine Street']",2604.625,,,,30 mph,,,,,,,"[8745432, 8756614]",
+62864462,62749318,0,False,secondary,Canton-Madrid Road,1472.486,,,,,,,,,,,8753698,
+62864462,62728502,0,False,secondary,State Highway 310,1509.963,,,,,,,,,,,8754991,NY 310
+62864462,62848366,0,False,tertiary,W Potsdam Rd,488.91,,,,,,,,,,,95751478,CR 34
+62864462,62672580,0,False,tertiary,W Potsdam Rd,1331.825,,,,,,,,,,,139603733,CR 34
+62866117,62758932,0,False,residential,Elm Street,46.219,,,,,,,,,,,8759294,
+62866117,62758935,0,False,residential,Maple Street Trailer Court,179.837,,,,,,,,,,,8753815,
+62866117,62917940,0,False,residential,Elm Street,421.433,,,,,,,,,,,8759294,
+62867823,62707193,0,False,residential,Ellis Road,1939.073,,,,,,,,,,,8753916,
+62867823,62765848,0,False,residential,Baker Road,1881.718,,,,,,,,,,,8754283,
+62867823,62729140,0,False,tertiary,W Potsdam Rd,1155.247,,,,,,,,,,,139603733,CR 34
+62867823,62672580,0,False,tertiary,W Potsdam Rd,980.975,,,,,,,,,,,139603733,CR 34
+62868886,62868886,0,False,residential,Ireland Road,69.524,,,,,,,,,,,8753947,
+62868886,62868886,1,False,residential,Ireland Road,69.524,,,,,,,,,,,8753947,
+62868886,62707942,0,False,residential,Ireland Road,268.391,,,,,,,,,,,8753947,
+62870259,62876521,0,False,residential,"['New Street', 'Clark Street']",372.788,,,,,,,,,,,"[8757000, 8754021]",
+62871672,62788312,0,False,residential,Morgan Road,13.01,,,,,,,,,,,8754102,
+62871672,62788314,0,False,residential,Morley-Potsdam Road,18.745,,,,,,,,,,,8754662,
+62871672,62856944,0,False,residential,Morley-Potsdam Road,1278.172,,,,,,,,,,,8754662,
+62871672,62933834,0,False,residential,Flat Rock Road,1991.181,,,,,,,,,,,8758725,
+62871839,62696858,0,False,residential,Morgan Road,44.921,,,,,,,,,,,8754114,
+62871839,2308996547,0,False,residential,Felton Street,101.174,,,,,,,,,,,221921692,
+62871839,62885308,0,False,"['residential', 'tertiary']","['Norwood-Knapps Station Road', 'Morgan Road']",805.585,,,,,,,,,,,"[8754114, 8755284]",
+62874324,62858608,0,False,residential,Baker Road,1792.966,,,,,,,,,,,8754283,
+62874324,62765848,0,False,residential,Baker Road,580.292,,,,,,,,,,,8754283,
+62874324,62728531,0,False,residential,Cline Road,1281.818,,,,,,,,,,,8758173,
+62876514,62876521,0,False,residential,Prospect Street,145.612,,,,,,,,,,,8754506,
+62876521,62708181,0,False,residential,Prospect Street,29.299,,,,,,,,,,,8754506,
+62876521,62876514,0,False,residential,Prospect Street,145.612,,,,,,,,,,,8754506,
+62876521,62870259,0,False,residential,"['New Street', 'Clark Street']",372.788,,,,,,,,,,,"[8757000, 8754021]",
+62877170,62856944,0,False,residential,Morley-Potsdam Road,1811.307,,,,,,,,,,,8754662,
+62877170,62937087,0,False,tertiary,County Road 35,1984.064,,,,,,,yes,,,,"[249662385, 249662387, 249662388]",
+62877170,62877411,0,False,tertiary,County Road 35,39.141,,,,,,,yes,,,,"[8759281, 249662386, 249662388]",
+62877401,62877411,0,False,residential,Morley-Potsdam Road,747.691,,,,,,,,,,,8754686,
+62877401,62707120,0,False,residential,Morley-Potsdam Road,2480.976,,,,,,,,,,,8754686,
+62877401,62698392,0,False,residential,Barnes Road,1243.937,,,,,,,,,,,8754907,
+62877411,62877401,0,False,residential,Morley-Potsdam Road,747.691,,,,,,,,,,,8754686,
+62877411,62877170,0,False,tertiary,County Road 35,39.141,,,,,,,yes,,,,"[8759281, 249662386, 249662388]",
+62877411,62698422,0,False,tertiary,County Road 35,1084.902,,,,,,,,,,,8759281,
+62878112,62796732,0,False,residential,Reynolds Road,1004.587,,,,,,,,,,,8754746,
+62878616,62851778,0,False,residential,River Street,149.004,,,,,,,,,,,8754784,
+62885308,62871839,0,False,"['residential', 'tertiary']","['Norwood-Knapps Station Road', 'Morgan Road']",805.585,,,,,,,,,,,"[8754114, 8755284]",
+62885308,62713606,0,False,residential,Dry Bridge Road,799.3,,,,,,,yes,,,,"[64641524, 8756149, 64641654]",
+62886644,62886657,0,False,residential,Barker Road,765.776,,,,,,,,,,,8755394,
+62886644,62732306,0,False,residential,Barker Road,2885.115,,,,,,,,,,,8755394,
+62886644,62886755,0,False,residential,Barker Road,562.075,,,,,,,,,,,8755401,
+62886657,62904548,0,False,residential,River Road,441.849,,,,,,,,,,,8756614,
+62886657,62886644,0,False,residential,Barker Road,765.776,,,,,,,,,,,8755394,
+62886657,62759340,0,False,residential,River Road,1772.503,,,,,,,,,,,8756614,
+62886755,62904548,0,False,residential,River Road,129.901,,,,,,,,,,,8756614,
+62886755,62886644,0,False,residential,Barker Road,562.075,,,,,,,,,,,8755401,
+62886755,62862138,0,False,residential,River Road,1759.674,,,,,,,,,,,8756614,
+62887159,62771520,0,False,residential,Blanchard Avenue,178.829,,,,,,,,,,,8755430,
+62887159,62706499,0,False,residential,"['Walnut Street', 'High Street']",357.55,,,,,,,,,,,"[8758328, 8743591]",
+62887159,62929052,0,False,residential,High Street,148.465,,,,,,,,,,,8758328,
+62892645,62860481,0,False,residential,Baldwin Avenue,83.691,,,,,,,,,,,8757656,
+62892645,62918559,0,False,residential,Baldwin Avenue,102.913,,,,,,,,,,,8757656,
+62897451,62918559,0,False,residential,Lafayette Street,67.915,,,,,,,,,,,8758110,
+62897451,62925332,0,False,residential,Lafayette Street,53.99,,,,,,,,,,,8758110,
+62897451,62860477,0,False,residential,Cottage Street,209.814,,,,,,,,,,,8756156,
+62897460,62860477,0,False,residential,Cottage Street,79.682,,,,,,,,,,,8756156,
+62904548,62886657,0,False,residential,River Road,441.849,,,,,,,,,,,8756614,
+62904548,62886755,0,False,residential,River Road,129.901,,,,,,,,,,,8756614,
+62904548,62913638,0,False,residential,Hewittville Road,771.989,,,,,no,,yes,,,,"[8757271, 42057694, 42057695]",
+62904720,62796919,0,False,residential,River Road,209.356,,,,,,,,,,,153110366,
+62909202,62697331,0,False,residential,Pleasant Street,171.193,,,,,,,,,,,8756948,
+62909202,62917940,0,False,residential,Elm Street,11.429,,,,,,,,,,,8759294,
+62909202,62696849,0,False,residential,Elm Street,332.106,,,,,,,,,,,8759294,
+62913638,62904548,0,False,residential,Hewittville Road,771.989,,,,,no,,yes,,,,"[42057695, 42057694, 8757271]",
+62913638,62851674,0,False,residential,Sissonville Road,1436.978,,,,,,,,,,,"[139892659, 8757279]",
+62914853,62914891,0,False,residential,Riverside Drive,337.706,,,,,,,,,,,8757373,
+62914853,62914891,1,False,residential,Riverside Drive,131.769,,,,,,,,,,,8757383,
+62914853,62713615,0,False,residential,Riverside Drive,214.837,,,,,,,,,,,8757383,
+62914891,62914853,0,False,residential,Riverside Drive,337.706,,,,,,,,,,,8757373,
+62914891,62914853,1,False,residential,Riverside Drive,131.769,,,,,,,,,,,8757383,
+62914891,62914927,0,False,residential,Riverside Drive,138.917,,,,,,,,,,,8757383,
+62914927,62914927,0,False,residential,Riverside Drive,104.14,,,,,,,,,,,8757383,
+62914927,62914927,1,False,residential,Riverside Drive,104.14,,,,,,,,,,,8757383,
+62914927,62914891,0,False,residential,Riverside Drive,138.917,,,,,,,,,,,8757383,
+62917570,62779699,0,False,residential,"['Crescent Drive', 'Circle Drive']",260.135,,,,,,,,,,,"[8748969, 8757588]",
+62917928,62709267,0,False,residential,Sports Avenue,146.568,,,,,,,,,,,8757617,
+62917940,62909202,0,False,residential,Elm Street,11.429,,,,,,,,,,,8759294,
+62917940,62709267,0,False,residential,Sports Avenue,119.498,,,,,,,,,,,8757617,
+62917940,62866117,0,False,residential,Elm Street,421.433,,,,,,,,,,,8759294,
+62918559,62897451,0,False,residential,Lafayette Street,67.915,,,,,,,,,,,8758110,
+62918559,62727622,0,False,residential,Baldwin Avenue,207.884,,,,,,,,,,,8757656,
+62918559,62892645,0,False,residential,Baldwin Avenue,102.913,,,,,,,,,,,8757656,
+62924759,62707998,0,False,residential,Haig Road,1032.429,,,,,,,,,,,8758068,
+62925332,62897451,0,False,residential,Lafayette Street,53.99,,,,,,,,,,,8758110,
+62925353,62767795,0,False,residential,Lafayette Street,104.657,,,,,,,,,,,8758115,
+62929052,62887159,0,False,residential,High Street,148.465,,,,,,,,,,,8758328,
+62933834,62732306,0,False,residential,Flat Rock Road,622.122,,,,,,,,,,,8758725,
+62933834,62871672,0,False,residential,Flat Rock Road,1991.181,,,,,,,,,,,8758725,
+62933834,62732298,0,False,tertiary,W Potsdam Rd,1069.479,,,,,,,,,,,139603733,CR 34
+62933834,62937087,0,False,tertiary,W Potsdam Rd,3205.754,,,,,,,,,,,139603733,CR 34
+62937087,62858541,0,False,tertiary,County Road 35,90.127,,,,,,,,,,,249662385,
+62937087,62933834,0,False,tertiary,W Potsdam Rd,3205.754,,,,,,,,,,,139603733,CR 34
+62937087,62724771,0,False,tertiary,W Potsdam Rd,564.002,,,,,,,,,,,139603733,CR 34
+62937087,62877170,0,False,tertiary,County Road 35,1984.064,,,,,,,yes,,,,"[249662385, 249662387, 249662388]",
+62937862,62758932,0,False,residential,Elm Street,166.888,,,,,,,,,,,8759294,
+677214362,62703436,0,False,residential,Bernard Avenue,102.335,,,,,,,,,,,8746316,
+677214362,62630411,0,False,primary,South Main Street,92.215,,,,,,,,,,,8748663,NY 56
+677214362,677214363,0,False,primary,North Main Street,6.784,,,,,,,,,,,8753288,NY 56
+677214363,62630438,0,True,residential,Mechanic Street,111.292,,,,,,,,,,,8747487,
+677214363,677214362,0,False,primary,North Main Street,6.784,,,,,,,,,,,8753288,NY 56
+677214363,62858307,0,False,primary,North Main Street,136.32,,,,,,,,,,,8753288,NY 56
+1437016152,62767801,0,False,secondary,Pine Street,352.586,,,,30 mph,,,,,,,8755214,NY 345
+1437016152,1437016161,0,False,secondary,Clarkson Avenue,44.366,,,,30 mph,,,,,,,480213142,
+1437016152,62650021,0,False,trunk,Sandstone Drive,36.768,4,,,30 mph,,,,,,,480213143,US 11
+1437016152,62718614,0,False,trunk,Sandstone Drive,143.438,4,,,30 mph,,,,,,,480213145,US 11
+1437016161,62686085,0,False,secondary,Maple Street,37.741,,,,30 mph,,,,,,,480213140,
+1437016161,62650021,0,True,secondary_link,,53.664,,,,30 mph,,,,,,,8737389,
+1437016161,1437016152,0,False,secondary,Clarkson Avenue,44.366,,,,30 mph,,,,,,,480213142,
+1640010334,62672614,0,False,residential,,415.403,,,,,,,,,,,8740448,
+2308996547,62871839,0,False,residential,Felton Street,101.174,,,,,,,,,,,221921692,

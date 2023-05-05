@@ -1,0 +1,762 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+41250036,41250038,0,False,residential,,65.238,,,,,,,,,,,5564030,
+41250036,41554113,0,False,unclassified,Biers Road,3536.392,,,,,,,,,,,5593882,
+41250036,41465368,0,False,unclassified,Biers Road,61.748,,,,,,,,,,,5593882,
+41250038,41250036,0,False,residential,,65.238,,,,,,,,,,,5564030,
+41250038,41465368,0,False,residential,Stanton Road,13.222,,,,,,,,,,,5584618,
+41250038,41278478,0,False,residential,Stanton Road,2485.028,,,,,,,,,,,5584618,
+41250204,41250214,0,False,residential,,186.833,,,,,,,,,,,5564047,
+41250204,41312531,0,False,residential,Biechman Road,996.581,,,,,,,,,,,5571065,
+41250204,41312343,0,False,residential,Biechman Road,895.101,,,,,,,,,,,5571065,
+41250214,41250204,0,False,residential,,186.833,,,,,,,,,,,5564047,
+41250217,41250221,0,False,residential,,84.899,,,,,,,,,,,5564048,
+41250217,41365247,0,False,residential,Powell Hill Road,186.808,,,,,,,,,,,5577773,
+41250221,41250217,0,False,residential,,84.899,,,,,,,,,,,5564048,
+41250226,41250233,0,False,residential,,237.312,,,,,,,,,,,5564050,
+41250226,41273291,0,False,secondary,Indian Fields Road,1536.776,,,,55 mph,,,,,,,53620727,NY 32
+41250233,41250226,0,False,residential,,237.312,,,,,,,,,,,5564050,
+41250349,41250356,0,False,residential,,197.1,,,,,,,,,,,5564065,
+41250349,41488850,0,False,residential,Blossom Hill Road,1512.255,,,,,,,,,,,5591197,
+41250349,41447627,0,False,residential,Blossom Hill Road,1356.834,,,,,,,,,,,5591197,
+41250356,41250349,0,False,residential,,197.1,,,,,,,,,,,5564065,
+41250780,41250787,0,False,residential,,58.214,,,,,,,,,,,5564107,
+41250780,41423304,0,False,secondary,River Road,51.042,,,,30 mph,,,,,,,140136111,NY 144
+41250780,41377616,0,False,secondary,River Road,133.727,,,,30 mph,,,,,,,140136111,NY 144
+41250787,41423304,0,False,residential,Clayborn Place,26.439,,,,,,,,,,,5583845,
+41250787,41250780,0,False,residential,,58.214,,,,,,,,,,,5564107,
+41250787,41456286,0,False,residential,Clayborn Place,604.138,,,,,,,,,,,5583845,
+41251437,41251501,0,False,residential,,993.759,,,,,,,,,,,5564169,
+41251501,41274392,0,False,tertiary,County Road 101,20.534,,,,45 mph,,,,,,,57130740,CR 101
+41251501,41251437,0,False,residential,,993.759,,,,,,,,,,,5564169,
+41251501,41339017,0,False,tertiary,County Road 101,326.013,,,,45 mph,,,,,,,57130740,CR 101
+41252353,41252355,0,False,residential,,51.465,,,,,,,,,,,5564266,
+41252353,41273124,0,False,residential,,205.835,,,,,,,,,,,"[5566617, 5564266]",
+41252353,41388725,0,False,residential,Marina Drive,161.212,,,,,,,,,,,5578138,
+41252355,41252353,0,False,residential,,51.465,,,,,,,,,,,5564266,
+41253328,41253333,0,False,residential,,73.004,,,,,,,,,,,5564381,
+41253328,41497202,0,False,residential,Morse Road,124.091,,,,,,,,,,,5587594,
+41253328,41402863,0,False,residential,Morse Road,220.572,,,,,,,,,,,5587594,
+41253333,41253328,0,False,residential,,73.004,,,,,,,,,,,5564381,
+41253344,41253347,0,False,residential,,223.491,,,,,,,,,,,5564386,
+41253344,41402767,0,False,residential,Deyo Road,595.926,,,,,,,,,,,5586955,
+41253344,41382870,0,False,residential,Deyo Road,421.883,,,,,,,,,,,5586955,
+41253347,41253344,0,False,residential,,223.491,,,,,,,,,,,5564386,
+41253401,41253417,0,False,residential,,73.606,,,,,,,,,,,5564399,
+41253401,41488839,0,False,tertiary,Blodgett Road,1633.117,,,,,,,,,,,5593652,CR 103
+41253401,41334156,0,False,tertiary,Blodgett Road,501.235,,,,,,,,,,,5593652,CR 103
+41253417,41253401,0,False,residential,,73.606,,,,,,,,,,,5564399,
+41255402,41255404,0,False,residential,,399.751,,,,,,,,,,,5564598,
+41255402,41334351,0,False,secondary,State Highway 143,185.972,,,,45 mph,,,,,,,241066676,NY 143
+41255402,41334330,0,False,secondary,State Highway 143,182.856,,,,45 mph,,,,,,,241066676,NY 143
+41255404,41255406,0,False,residential,,74.662,,,,,,,,,,,5564598,
+41255404,41255402,0,False,residential,,399.751,,,,,,,,,,,5564598,
+41255404,41255408,0,False,residential,,145.656,,,,,,,,,,,5564600,
+41255406,41255404,0,False,residential,,74.662,,,,,,,,,,,5564598,
+41255408,41255404,0,False,residential,,145.656,,,,,,,,,,,5564600,
+41256904,2451278700,0,True,motorway_link,,919.383,1,,,,,,yes,,,,"[40422467, 40422468, 5564748, 70650575, 70650577]",
+41256904,41287185,0,True,motorway,New York State Thruway,1354.929,2,,,65 mph,,,yes,,,,"[70650561, 70650564, 344136671]",I 87
+41259024,41339017,0,False,tertiary,County Road 101,3954.546,,,,45 mph,,,,,,,57130740,CR 101
+41262561,41262563,0,False,residential,,136.057,,,,,,,,,,,5565375,
+41262561,41383507,0,False,residential,Carr Road,118.444,,,,,,,,,,,5583034,
+41262561,41338035,0,False,residential,Carr Road,132.923,,,,,,,,,,,5583034,
+41262563,41262561,0,False,residential,,136.057,,,,,,,,,,,5565375,
+41262808,41262809,0,False,residential,,30.786,,,,,,,,,,,5565408,
+41262808,41488607,0,False,residential,Spoor Development Road,36.116,,,,,,,,,,,5591041,
+41262808,41509740,0,False,residential,Spoor Development Road,150.295,,,,,,,,,,,5591041,
+41262809,41262808,0,False,residential,,30.786,,,,,,,,,,,5565408,
+41265654,41334351,0,False,residential,Jarvis Road South,2865.722,,,,,,,,,,,5589633,
+41268025,41268028,0,False,residential,,32.818,,,,,,,,,,,5565996,
+41268025,41344010,0,False,primary,,948.078,2,,,55 mph,,,,,,,53377933,US 9W
+41268028,41268033,0,False,residential,,68.743,,,,,,,,,,,5565996,
+41268028,41268025,0,False,residential,,32.818,,,,,,,,,,,5565996,
+41268028,41268043,0,False,residential,,38.225,,,,,,,,,,,5565998,
+41268033,41268028,0,False,residential,,68.743,,,,,,,,,,,5565996,
+41268043,41268028,0,False,residential,,38.225,,,,,,,,,,,5565998,
+41269049,41269143,0,False,residential,,614.219,,,,,,,,,,,5566106,
+41269049,41382944,0,False,tertiary,County Road 111,1194.436,,,,"['55 mph', '30 mph']",,,yes,,,,"[5585893, 57130760, 241066667, 241066669, 57130766]",CR 111
+41269049,41341033,0,False,tertiary,County Road 111,1137.192,,,,55 mph,,,,,,,5585893,CR 111
+41269143,41269049,0,False,residential,,614.219,,,,,,,,,,,5566106,
+41273124,41252353,0,False,residential,,205.835,,,,,,,,,,,"[5566617, 5564266]",
+41273124,41327465,0,False,residential,Westerlo Street,143.712,,,,,,,,,,,5588689,
+41273124,41388725,0,False,residential,Westerlo Street,17.798,,,,,,,,,,,5588689,
+41273143,41273291,0,False,road,,975.047,,,,,no,,,,,,5566634,
+41273143,41408989,0,False,tertiary,Lawson Lake Road,1132.336,,,,,,,,,,,5593217,CR 109
+41273291,41273143,0,False,road,,975.047,,,,,no,,,,,,5566634,
+41273291,41305680,0,False,tertiary,Copeland Hill Road,1267.721,,,,,,,,,,,5570377,CR 108
+41273291,41250226,0,False,secondary,Indian Fields Road,1536.776,,,,55 mph,,,,,,,53620727,NY 32
+41273291,41409358,0,False,secondary,Indian Fields Road,1064.107,,,,55 mph,,,,,,,53620727,NY 32
+41274027,41274029,0,False,residential,Ruby Lane,25.851,,,,,,,,,,,5566732,
+41274027,1535347620,0,False,residential,Ruby Lane,180.294,,,,,,,,,,,5575215,
+41274027,41356149,0,False,residential,Ruby Lane,25.85,,,,,,,,,,,5575215,
+41274029,41274027,0,False,residential,Ruby Lane,25.851,,,,,,,,,,,5566732,
+41274029,41356149,0,False,secondary,River Road,15.424,,,,55 mph,,,,,,,53375840,NY 144
+41274029,41423492,0,False,secondary,River Road,63.858,,,,55 mph,,,,,,,53375840,NY 144
+41274392,41251501,0,False,tertiary,County Road 101,20.534,,,,45 mph,,,,,,,57130740,CR 101
+41274392,41274401,0,False,residential,,179.131,,,,,,,,,,,5566779,
+41274392,41338947,0,False,tertiary,County Road 101,379.246,,,,45 mph,,,,,,,57130740,CR 101
+41274401,41274392,0,False,residential,,179.131,,,,,,,,,,,5566779,
+41275907,41343804,0,False,primary,,205.717,2,,,30 mph,,,,,,,202060930,US 9W
+41278458,41278472,0,False,residential,,56.287,,,,,,,,,,,5567217,
+41278458,41333964,0,False,residential,Lindskoog Road,589.404,,,,,,,,,,,5578198,
+41278458,41389422,0,False,residential,Lindskoog Road,733.987,,,,,,,,,,,5578198,
+41278472,41278458,0,False,residential,,56.287,,,,,,,,,,,5567217,
+41278478,41278483,0,False,residential,,154.731,,,,,,,,,,,5567219,
+41278478,41250038,0,False,residential,Stanton Road,2485.028,,,,,,,,,,,5584618,
+41278478,41465189,0,False,residential,Stanton Road,567.825,,,,,,,,,,,5584618,
+41278483,41278478,0,False,residential,,154.731,,,,,,,,,,,5567219,
+41278740,41472023,0,False,residential,Division Street,59.551,,,,,,,,,,,5592209,
+41278740,41327465,0,False,residential,"['Division Street', '1st Street']",103.949,,,,,,,,,,,"[5592209, 5572754]",
+41279120,41279136,0,False,residential,,445.292,,,,,,,,,,,5567311,
+41279120,41512605,0,False,residential,Mud Hill Road,335.365,,,,,,,,,,,5589305,
+41279120,41465178,0,False,residential,Mud Hill Road,711.633,,,,,,,,,,,5589305,
+41279136,41279120,0,False,residential,,445.292,,,,,,,,,,,5567311,
+41279222,41279225,0,False,residential,,430.357,,,,,,,,,,,5567324,
+41279222,41382831,0,False,residential,Alcove Road,586.519,,,,,,,,,,,5577670,
+41279222,41382744,0,False,residential,Alcove Road,1011.083,,,,,,,,,,,5577670,
+41279225,41279222,0,False,residential,,430.357,,,,,,,,,,,5567324,
+41279249,41279255,0,False,residential,,265.381,,,,,,,,,,,5567330,
+41279249,41382944,0,False,residential,Alcove Road,133.715,,,,,,,,,,,5577670,
+41279249,41382870,0,False,residential,Alcove Road,562.663,,,,,,,,,,,5577670,
+41279255,41279249,0,False,residential,,265.381,,,,,,,,,,,5567330,
+41280792,41280805,0,False,residential,,194.624,,,,,,,,,,,5567543,
+41280792,41318681,0,False,tertiary,County Road 111,695.192,,,,55 mph,,,,,,,5585893,CR 111
+41280792,41426540,0,False,tertiary,County Road 111,465.03,,,,55 mph,,,,,,,5585893,CR 111
+41280805,41280792,0,False,residential,,194.624,,,,,,,,,,,5567543,
+41281517,41374201,0,False,residential,Fox Street,824.968,,,,,,,,,,,5576899,
+41281517,41423492,0,False,secondary,River Road,197.728,,,,55 mph,,,,,,,53375840,NY 144
+41281517,41403235,0,False,secondary,River Road,363.373,,,,55 mph,,,,,,,53375840,NY 144
+41282019,41282022,0,False,residential,,56.846,,,,,,,,,,,5567703,
+41282019,41344002,0,False,primary,,51.837,2,,,45 mph,,,,,,,53377931,US 9W
+41282019,41533817,0,False,residential,Old Ravena Road,1552.112,,,,,,,yes,,,,"[52549320, 52549318, 52549319]",
+41282019,41344010,0,False,primary,,666.771,2,,,"['45 mph', '55 mph']",,,,,,,"[53377931, 53377933]",US 9W
+41282022,41282019,0,False,residential,,56.846,,,,,,,,,,,5567703,
+41282022,41344002,0,False,residential,Kinley Road,24.305,,,,,,,,,,,5585656,
+41282022,41477128,0,False,residential,Kinley Road,599.366,,,,,,,,,,,5585656,
+41283264,41312623,0,False,residential,Christina Court,82.545,,,,,,,,,,,5579860,
+41284018,41284022,0,False,residential,,52.138,,,,,,,,,,,5567968,
+41284018,41284146,0,False,residential,,235.835,,,,,,,,,,,5567982,
+41284018,41284127,0,False,residential,,23.123,,,,,,,,,,,5567982,
+41284022,41284039,0,False,residential,,197.646,,,,,,,,,,,5567968,
+41284022,41284018,0,False,residential,,52.138,,,,,,,,,,,5567968,
+41284022,41284102,0,False,residential,,216.942,,,,,,,,,,,5567978,
+41284039,41284022,0,False,residential,,197.646,,,,,,,,,,,5567968,
+41284039,41533817,0,False,residential,Old Ravena Road,658.874,,,,,,,,,,,52549318,
+41284102,41284022,0,False,residential,,216.942,,,,,,,,,,,5567978,
+41284127,41284018,0,False,residential,,23.123,,,,,,,,,,,5567982,
+41284146,41284018,0,False,residential,,235.835,,,,,,,,,,,5567982,
+41285592,41285610,0,False,residential,,257.506,,,,,,,,,,,5568166,
+41285610,41285592,0,False,residential,,257.506,,,,,,,,,,,5568166,
+41298687,41298820,0,False,residential,Whitbeck Road,1583.124,,,,,,,,,,,5569630,
+41298687,41465178,0,False,residential,Stanton Road,539.234,,,,,,,,,,,5584618,
+41298687,41334107,0,False,residential,Stanton Road,106.584,,,,,,,,,,,5584619,
+41298820,41298687,0,False,residential,Whitbeck Road,1583.124,,,,,,,,,,,5569630,
+41298820,41334003,0,False,secondary,State Highway 143,245.458,,,,55 mph,,,,,,,5573562,NY 143
+41298820,41333964,0,False,secondary,State Highway 143,361.728,,,,55 mph,,,,,,,5573562,NY 143
+41303806,41303814,0,False,residential,Deans Mill Road,21.006,,,,,,,,,,,5570138,
+41303806,41451606,0,False,residential,Palmer Drive,284.409,,,,,,,,,,,5583413,
+41303814,41303806,0,False,residential,Deans Mill Road,21.006,,,,,,,,,,,5570138,
+41303814,41509834,0,False,secondary,Martins Hill Road,348.561,,,,45 mph,,,,,,,5589041,NY 143
+41303814,41388349,0,False,secondary,Martins Hill Road,120.528,,,,45 mph,,,,,,,5589041,NY 143
+41304132,41304137,0,False,residential,Stott Drive,223.782,,,,,,,,,,,5570193,
+41304137,41304132,0,False,residential,Stott Drive,223.782,,,,,,,,,,,5570193,
+41304137,41312619,0,False,secondary,State Highway 143,58.175,,,,45 mph,,,,,,,241066677,NY 143
+41304137,41332177,0,False,secondary,State Highway 143,260.193,,,,45 mph,,,,,,,241066677,NY 143
+41305475,41305489,0,False,tertiary,Copeland Hill Road,147.174,,,,,,,,,,,5570377,CR 108
+41305475,41522990,0,False,tertiary,Cedar Grove Road,1856.105,,,,55 mph,,,,,,,5590384,CR 301
+41305489,3565297497,0,False,tertiary,Copeland Hill Road,103.882,,,,,,,,,,,5570377,CR 108
+41305489,41305475,0,False,tertiary,Copeland Hill Road,147.174,,,,,,,,,,,5570377,CR 108
+41305489,41554113,0,False,residential,Biers Road,305.851,,,,,,,,,,,350782495,
+41305558,41305680,0,False,tertiary,Copeland Hill Road,1311.762,,,,,,,,,,,5570377,CR 108
+41305558,3565297497,0,False,tertiary,Copeland Hill Road,1333.746,,,,,,,,,,,5570377,CR 108
+41305680,41273291,0,False,tertiary,Copeland Hill Road,1267.721,,,,,,,,,,,5570377,CR 108
+41305680,41305558,0,False,tertiary,Copeland Hill Road,1311.762,,,,,,,,,,,5570377,CR 108
+41305680,41336597,0,False,residential,Bucks Ranch Road,1039.102,,,,,,,,,,,5573801,
+41309652,41309677,0,False,residential,Civill Avenue,274.093,,,,,,,,,,,5570798,
+41309677,41309678,0,False,residential,Civill Avenue,235.52,,,,,,,,,,,5570798,
+41309677,41363110,0,False,residential,Frangella Drive,77.317,,,,,,,,,,,5575790,
+41309677,41363105,0,False,residential,Frangella Drive,102.558,,,,,,,,,,,5575790,
+41309677,41309652,0,False,residential,Civill Avenue,274.093,,,,,,,,,,,5570798,
+41309678,41309677,0,False,residential,Civill Avenue,235.52,,,,,,,,,,,5570798,
+41309678,41414676,0,False,residential,Westerlo Street,107.322,,,,,,,,,,,5588689,
+41309678,444088099,0,False,residential,Westerlo Street,190.047,,,,,,,,,,,5588689,
+41312343,41250204,0,False,residential,Biechman Road,895.101,,,,,,,,,,,5571065,
+41312531,41250204,0,False,residential,Biechman Road,996.581,,,,,,,,,,,5571065,
+41312531,41334300,0,False,secondary,State Highway 143,99.696,,,,45 mph,,,,,,,241066677,NY 143
+41312531,41312619,0,False,secondary,State Highway 143,229.602,,,,45 mph,,,,,,,241066677,NY 143
+41312619,41312623,0,False,residential,Hannacreek Road,72.442,,,,,,,,,,,5571083,
+41312619,41312531,0,False,secondary,State Highway 143,229.602,,,,45 mph,,,,,,,241066677,NY 143
+41312619,41304137,0,False,secondary,State Highway 143,58.175,,,,45 mph,,,,,,,241066677,NY 143
+41312623,41283264,0,False,residential,Christina Court,82.545,,,,,,,,,,,5579860,
+41312623,41312640,0,False,residential,Hannacreek Road,129.224,,,,,,,,,,,5571083,
+41312623,41312619,0,False,residential,Hannacreek Road,72.442,,,,,,,,,,,5571083,
+41312640,41312652,0,False,residential,Hannacreek Road,98.69,,,,,,,,,,,5571083,
+41312640,41312623,0,False,residential,Hannacreek Road,129.224,,,,,,,,,,,5571083,
+41312640,41332193,0,False,residential,Macintosh Street,297.29,,,,,,,,,,,5573321,
+41312640,41489424,0,False,residential,Cynthia Court,72.942,,,,,,,,,,,5586689,
+41312652,41312640,0,False,residential,Hannacreek Road,98.69,,,,,,,,,,,5571083,
+41315555,41315578,0,False,residential,Sunburn Lane,351.788,,,,,,,,,,,5571346,
+41315555,41447539,0,False,tertiary,"['Clarksville South Road', 'County Road 312']",768.371,2,,,,,,,,,,"[5586604, 5583773]",CR 312
+41315555,41362413,0,False,tertiary,Clarksville South Road,78.953,,,,,,,,,,,5583773,CR 312
+41315578,41315555,0,False,residential,Sunburn Lane,351.788,,,,,,,,,,,5571346,
+41317011,41327467,0,False,residential,1st Street,64.955,,,,,,,,,,,5572754,
+41317011,41317017,0,False,residential,Fori Lane,54.203,,,,,,,,,,,5571527,
+41317011,41366248,0,False,residential,"['1st Street', '4th Street']",148.243,,,,,,,,,,,"[5581113, 5572754]",
+41317017,41366242,0,True,residential,2nd Street,86.198,,,,,,,,,,,5576074,
+41317017,41317011,0,False,residential,Fori Lane,54.203,,,,,,,,,,,5571527,
+41317017,41472033,0,False,residential,Pope S Hill Street,50.74,,,,,,,,,,,5588724,
+41317756,41317808,0,False,residential,Keir Road,345.53,,,,,,,,,,,5571655,
+41317756,41522990,0,False,tertiary,Blodgett Road,2382.615,,,,,,,,,,,5593652,CR 103
+41317756,41465413,0,False,tertiary,Blodgett Road,1299.52,,,,,,,,,,,5593652,CR 103
+41317808,41317814,0,False,residential,Keir Road,72.378,,,,,,,,,,,5571655,
+41317808,41317756,0,False,residential,Keir Road,345.53,,,,,,,,,,,5571655,
+41317808,41486649,0,False,residential,Brimanda Lane,188.754,,,,,,,,,,,5586464,
+41317814,41317808,0,False,residential,Keir Road,72.378,,,,,,,,,,,5571655,
+41318584,41318681,0,False,residential,Beck Road,762.283,,,,,,,,,,,5571757,
+41318584,41341033,0,False,tertiary,Staco Road,557.268,,,,,,,,,,,5574187,CR 112
+41318681,41318584,0,False,residential,Beck Road,762.283,,,,,,,,,,,5571757,
+41318681,41341033,0,False,tertiary,County Road 111,521.461,,,,55 mph,,,,,,,5585893,CR 111
+41318681,41280792,0,False,tertiary,County Road 111,695.192,,,,55 mph,,,,,,,5585893,CR 111
+41325818,41325823,0,False,secondary,Church Street,157.014,,,,,,,,,,,5572588,NY 143
+41325818,444088099,0,False,secondary,Church Street,143.892,,,,,,,,,,,5572588,NY 143
+41325818,41475814,0,False,residential,Clouse Terrace,112.775,,,,,,,,,,,5585514,
+41325823,41414676,0,False,residential,New Street,76.757,,,,,,,,,,,5580194,
+41325823,41325828,0,False,secondary,Church Street,189.18,,,,,,,,,,,5572588,NY 143
+41325823,41325818,0,False,secondary,Church Street,157.014,,,,,,,,,,,5572588,NY 143
+41325828,41325832,0,False,secondary,Church Street,16.901,,,,,,,,,,,5572588,NY 143
+41325828,41325823,0,False,secondary,Church Street,189.18,,,,,,,,,,,5572588,NY 143
+41325828,41545077,0,False,residential,Uthe Boulevard,144.09,,,,,,,,,,,5592806,
+41325832,41325828,0,False,secondary,Church Street,16.901,,,,,,,,,,,5572588,NY 143
+41325832,41434691,0,False,residential,5th Street,78.291,,,,,,,,,,,5581809,
+41325832,41325855,0,False,secondary,Church Street,93.727,,,,,,,,,,,5572588,NY 143
+41325855,41325878,0,False,secondary,Church Street,55.418,,,,,,,,,,,5572588,NY 143
+41325855,41325832,0,False,secondary,Church Street,93.727,,,,,,,,,,,5572588,NY 143
+41325855,41426195,0,False,residential,4th Street,38.379,,,,,,,,,,,5581113,
+41325878,41325855,0,False,secondary,Church Street,55.418,,,,,,,,,,,5572588,NY 143
+41325878,41426195,0,False,secondary,Main Street,62.987,,,,30 mph,,,,,,,5585215,NY 144
+41325878,41423273,0,False,secondary,Main Street,224.263,,,,30 mph,,,,,,,139437848,NY 144
+41327247,41327267,0,False,residential,Wind Acres Lane,362.477,,,,,,,,,,,5572727,
+41327247,41389294,0,False,residential,Lindskoog Road,255.539,,,,,,,,,,,5578198,
+41327247,41389259,0,False,residential,Lindskoog Road,250.556,,,,,,,,,,,5578198,
+41327267,41327247,0,False,residential,Wind Acres Lane,362.477,,,,,,,,,,,5572727,
+41327465,41327467,0,False,residential,1st Street,33.42,,,,,,,,,,,5572754,
+41327465,41366242,0,False,residential,Westerlo Street,52.307,,,,,,,,,,,5588689,
+41327465,41278740,0,False,residential,"['Division Street', '1st Street']",103.949,,,,,,,,,,,"[5592209, 5572754]",
+41327465,41273124,0,False,residential,Westerlo Street,143.712,,,,,,,,,,,5588689,
+41327467,41317011,0,False,residential,1st Street,64.955,,,,,,,,,,,5572754,
+41327467,41327465,0,False,residential,1st Street,33.42,,,,,,,,,,,5572754,
+41327467,41388725,0,False,residential,Dock Street,91.149,,,,,,,,,,,5582652,
+41332177,41332193,0,False,residential,Macintosh Street,161.691,,,,,,,,,,,5573321,
+41332177,41304137,0,False,secondary,State Highway 143,260.193,,,,45 mph,,,,,,,241066677,NY 143
+41332177,41334260,0,False,secondary,State Highway 143,390.601,,,,45 mph,,,,,,,241066677,NY 143
+41332193,41312640,0,False,residential,Macintosh Street,297.29,,,,,,,,,,,5573321,
+41332193,41332177,0,False,residential,Macintosh Street,161.691,,,,,,,,,,,5573321,
+41332193,41443845,0,False,residential,Greening Lane,164.418,,,,,,,,,,,5582727,
+41333849,41333964,0,False,secondary,State Highway 143,3509.825,,,,55 mph,,,,,,,5573562,NY 143
+41333849,41409175,0,False,secondary,Indian Fields Road,2048.885,,,,55 mph,,,,,,,5579744,NY 143; NY 32
+41333849,41409358,0,False,secondary,Indian Fields Road,1104.345,,,,55 mph,,,,,,,53620727,NY 32
+41333964,41298820,0,False,secondary,State Highway 143,361.728,,,,55 mph,,,,,,,5573562,NY 143
+41333964,41333849,0,False,secondary,State Highway 143,3509.825,,,,55 mph,,,,,,,5573562,NY 143
+41333964,41278458,0,False,residential,Lindskoog Road,589.404,,,,,,,,,,,5578198,
+41334003,41334035,0,False,secondary,State Highway 143,425.072,,,,"['55 mph', '45 mph']",,,,,,,"[5573562, 57130773]",NY 143
+41334003,41298820,0,False,secondary,State Highway 143,245.458,,,,55 mph,,,,,,,5573562,NY 143
+41334003,41461231,0,False,residential,Waterboard Road,600.027,,,,,,,,,,,5584233,
+41334035,41334107,0,False,secondary,State Highway 143,1243.722,,,,45 mph,,,,,,,57130773,NY 143
+41334035,41334003,0,False,secondary,State Highway 143,425.072,,,,"['45 mph', '55 mph']",,,,,,,"[5573562, 57130773]",NY 143
+41334035,41382944,0,False,tertiary,County Road 111,648.852,,,,30 mph,,,yes,,,,"[241066666, 241066668, 241066669]",CR 111
+41334107,41298687,0,False,residential,Stanton Road,106.584,,,,,,,,,,,5584619,
+41334107,41334156,0,False,secondary,State Highway 143,1212.288,,,,45 mph,,,,,,,57130773,NY 143
+41334107,41334035,0,False,secondary,State Highway 143,1243.722,,,,45 mph,,,,,,,57130773,NY 143
+41334156,41253401,0,False,tertiary,Blodgett Road,501.235,,,,,,,,,,,5593652,CR 103
+41334156,41334167,0,False,secondary,State Highway 143,347.219,,,,45 mph,,,yes,,,,"[241066674, 57130773, 241066677]",NY 143
+41334156,41334107,0,False,secondary,State Highway 143,1212.288,,,,45 mph,,,,,,,57130773,NY 143
+41334167,41509190,0,False,residential,Greenbush Avenue,420.447,,,,,,,,,,,5588966,
+41334167,41334221,0,False,secondary,State Highway 143,813.156,,,,45 mph,,,,,,,241066677,NY 143
+41334167,41334156,0,False,secondary,State Highway 143,347.219,,,,45 mph,,,yes,,,,"[57130773, 241066674, 241066677]",NY 143
+41334221,41436042,0,False,residential,Gedney Hill Road,203.932,,,,,,,,,,,5581917,
+41334221,41334246,0,False,secondary,State Highway 143,361.444,,,,45 mph,,,,,,,241066677,NY 143
+41334221,41334167,0,False,secondary,State Highway 143,813.156,,,,45 mph,,,,,,,241066677,NY 143
+41334246,41447627,0,False,tertiary,Tompkins Road,365.558,,,,,,,yes,,,,"[241066680, 241066678, 5583054]",CR 106
+41334246,41334260,0,False,secondary,State Highway 143,136.133,,,,45 mph,,,,,,,241066677,NY 143
+41334246,41334221,0,False,secondary,State Highway 143,361.444,,,,45 mph,,,,,,,241066677,NY 143
+41334260,41384278,0,False,residential,Powell Hill Road,944.103,,,,,,,,,,,5577773,
+41334260,41332177,0,False,secondary,State Highway 143,390.601,,,,45 mph,,,,,,,241066677,NY 143
+41334260,41334246,0,False,secondary,State Highway 143,136.133,,,,45 mph,,,,,,,241066677,NY 143
+41334300,41334303,0,False,secondary,State Highway 143,31.912,,,,45 mph,,,,,,,241066677,NY 143
+41334300,41426089,0,False,residential,Vanderzee Road,34.425,,,,,,,,,,,5581101,
+41334300,41312531,0,False,secondary,State Highway 143,99.696,,,,45 mph,,,,,,,241066677,NY 143
+41334303,41334300,0,False,secondary,State Highway 143,31.912,,,,45 mph,,,,,,,241066677,NY 143
+41334303,41426089,0,False,residential,Vanderzee Road,29.315,,,,,,,,,,,5581103,
+41334303,41334330,0,False,secondary,State Highway 143,772.374,,,,45 mph,,,yes,,,,"[241066675, 241066676, 241066677]",NY 143
+41334330,41392166,0,False,tertiary,Starr Road,352.557,,,,40 mph,,,,,,,5594458,CR 102
+41334330,41255402,0,False,secondary,State Highway 143,182.856,,,,45 mph,,,,,,,241066676,NY 143
+41334330,41334303,0,False,secondary,State Highway 143,772.374,,,,45 mph,,,yes,,,,"[241066675, 241066676, 241066677]",NY 143
+41334351,41265654,0,False,residential,Jarvis Road South,2865.722,,,,,,,,,,,5589633,
+41334351,41334361,0,False,secondary,State Highway 143,223.786,,,,45 mph,,,,,,,241066676,NY 143
+41334351,41255402,0,False,secondary,State Highway 143,185.972,,,,45 mph,,,,,,,241066676,NY 143
+41334361,41334364,0,False,secondary,State Highway 143,237.755,,,,45 mph,,,,,,,241066676,NY 143
+41334361,41498896,0,False,residential,Cedar Ridge Road,410.001,,,,,,,,,,,5587798,
+41334361,41334351,0,False,secondary,State Highway 143,223.786,,,,45 mph,,,,,,,241066676,NY 143
+41334364,41334361,0,False,secondary,State Highway 143,237.755,,,,45 mph,,,,,,,241066676,NY 143
+41334364,41393882,0,False,residential,Marshall Road,310.942,,,,,,,yes,,,,"[241066672, 241066673, 5589670]",
+41334364,41334420,0,False,secondary,State Highway 143,769.811,,,,45 mph,,,,,,,241066676,NY 143
+41334420,41509696,0,False,secondary,Martins Hill Road,85.52,,,,45 mph,,,,,,,5589041,NY 143
+41334420,41334364,0,False,secondary,State Highway 143,769.811,,,,45 mph,,,,,,,241066676,NY 143
+41336597,41305680,0,False,residential,Bucks Ranch Road,1039.102,,,,,,,,,,,5573801,
+41338035,41262561,0,False,residential,Carr Road,132.923,,,,,,,,,,,5583034,
+41338035,41338057,0,False,residential,Upper Meadow Lane,300.124,,,,,,,,,,,5573961,
+41338035,41409175,0,False,residential,Carr Road,616.549,,,,,,,,,,,5583034,
+41338057,41338035,0,False,residential,Upper Meadow Lane,300.124,,,,,,,,,,,5573961,
+41338947,41490812,0,False,residential,Owasco Lane,54.432,,,,,,,,,,,5586880,
+41338947,41274392,0,False,tertiary,County Road 101,379.246,,,,45 mph,,,,,,,57130740,CR 101
+41339017,41513820,0,False,unclassified,Jarvis Road North,1456.787,,,,,,,,,,,5589428,
+41339017,41259024,0,False,tertiary,County Road 101,3954.546,,,,45 mph,,,,,,,57130740,CR 101
+41339017,41251501,0,False,tertiary,County Road 101,326.013,,,,45 mph,,,,,,,57130740,CR 101
+41341033,41318584,0,False,tertiary,Staco Road,557.268,,,,,,,,,,,5574187,CR 112
+41341033,41269049,0,False,tertiary,County Road 111,1137.192,,,,55 mph,,,,,,,5585893,CR 111
+41341033,41318681,0,False,tertiary,County Road 111,521.461,,,,55 mph,,,,,,,5585893,CR 111
+41343789,41343800,0,False,primary,,223.278,2,,,30 mph,,,,,,,202060930,US 9W
+41343800,41343804,0,False,primary,,34.951,2,,,30 mph,,,,,,,202060930,US 9W
+41343800,41442682,0,False,residential,Camile Drive,196.806,,,,,,,,,,,5582624,
+41343800,41343789,0,False,primary,,223.278,2,,,30 mph,,,,,,,202060930,US 9W
+41343804,41343800,0,False,primary,,34.951,2,,,30 mph,,,,,,,202060930,US 9W
+41343804,41275907,0,False,primary,,205.717,2,,,30 mph,,,,,,,202060930,US 9W
+41344002,41282022,0,False,residential,Kinley Road,24.305,,,,,,,,,,,5585656,
+41344002,41282019,0,False,primary,,51.837,2,,,45 mph,,,,,,,53377931,US 9W
+41344010,41348000,0,False,residential,Miller Road,875.567,,,,,,,,,,,5574563,
+41344010,41268025,0,False,primary,,948.078,2,,,55 mph,,,,,,,53377933,US 9W
+41344010,41282019,0,False,primary,,666.771,2,,,"['55 mph', '45 mph']",,,,,,,"[53377931, 53377933]",US 9W
+41345908,41345959,0,False,residential,James Drive,350.528,,,,,,,,,,,5574428,
+41345908,41472023,0,False,secondary,Main Street,335.157,,,,30 mph,,,,,,,5585215,NY 144
+41345908,41471987,0,False,secondary,Main Street,279.829,,,,30 mph,,,,,,,5585215,NY 144
+41345959,41363101,0,False,residential,Blaisdell Avenue,22.749,,,,,,,,,,,5584385,
+41345959,41345908,0,False,residential,James Drive,350.528,,,,,,,,,,,5574428,
+41345959,41462564,0,False,residential,Blaisdell Avenue,402.121,,,,,,,,,,,5584385,
+41348000,41344010,0,False,residential,Miller Road,875.567,,,,,,,,,,,5574563,
+41348000,41536407,0,False,residential,Kruger Road,174.885,,,,,,,,,,,5591800,
+41351494,41351526,0,False,residential,South Lane,206.266,,,,,,,,,,,5574834,
+41351494,41471188,0,False,tertiary,Starr Road,324.036,,,,,,,,,,,53620117,CR 102
+41351494,41532810,0,False,tertiary,Starr Road,1074.475,,,,,,,,,,,53620117,CR 102
+41351526,41351494,0,False,residential,South Lane,206.266,,,,,,,,,,,5574834,
+41355024,41355202,0,False,residential,Indian Hill Road,1049.849,,,,,,,,,,,5575134,
+41355202,41355024,0,False,residential,Indian Hill Road,1049.849,,,,,,,,,,,5575134,
+41355202,41409075,0,False,residential,Zabel Hill Road,704.685,,,,,,,,,,,5579690,
+41355202,41408989,0,False,residential,Zabel Hill Road,285.923,,,,,,,,,,,5579690,
+41356149,41423501,0,False,secondary,River Road,57.179,,,,55 mph,,,,,,,53375840,NY 144
+41356149,41274029,0,False,secondary,River Road,15.424,,,,55 mph,,,,,,,53375840,NY 144
+41356149,41274027,0,False,residential,Ruby Lane,25.85,,,,,,,,,,,5575215,
+41357616,41357634,0,False,residential,Mosy Hill Road,308.787,,,,,,,,,,,5575316,
+41357616,41402863,0,False,residential,Crudo Road,90.463,,,,,,,,,,,5579188,
+41357616,41402767,0,False,residential,Crudo Road,396.122,,,,,,,,,,,5579188,
+41357634,41357616,0,False,residential,Mosy Hill Road,308.787,,,,,,,,,,,5575316,
+41362369,41362369,0,False,residential,Tower Lane,122.837,,,,,,,,,,,5575744,
+41362369,41362369,1,False,residential,Tower Lane,122.837,,,,,,,,,,,5575744,
+41362369,41362413,0,False,residential,Tower Lane,209.678,,,,,,,,,,,5575746,
+41362413,41362369,0,False,residential,Tower Lane,209.678,,,,,,,,,,,5575746,
+41362413,41315555,0,False,tertiary,Clarksville South Road,78.953,,,,,,,,,,,5583773,CR 312
+41363101,41363105,0,False,residential,Frangella Drive,78.739,,,,,,,,,,,5575790,
+41363101,41345959,0,False,residential,Blaisdell Avenue,22.749,,,,,,,,,,,5584385,
+41363101,41462591,0,False,residential,Blaisdell Avenue,141.849,,,,,,,,,,,5584385,
+41363105,41309677,0,False,residential,Frangella Drive,102.558,,,,,,,,,,,5575790,
+41363105,41363101,0,False,residential,Frangella Drive,78.739,,,,,,,,,,,5575790,
+41363105,41462591,0,False,residential,Einie Drive,185.726,,,,,,,,,,,5585393,
+41363110,41363117,0,False,residential,Frangella Drive,35.905,,,,,,,,,,,5575790,
+41363110,41309677,0,False,residential,Frangella Drive,77.317,,,,,,,,,,,5575790,
+41363110,41383129,0,False,residential,John Street,154.46,,,,,,,,,,,5577685,
+41363117,41363110,0,False,residential,Frangella Drive,35.905,,,,,,,,,,,5575790,
+41365247,41365285,0,False,residential,Kyle Lane,304.481,,,,,,,,,,,5575998,
+41365247,41384278,0,False,residential,Powell Hill Road,250.795,,,,,,,,,,,5577773,
+41365247,41250217,0,False,residential,Powell Hill Road,186.808,,,,,,,,,,,5577773,
+41365285,41365247,0,False,residential,Kyle Lane,304.481,,,,,,,,,,,5575998,
+41366242,41278740,0,True,residential,2nd Street,64.933,,,,,,,,,,,5576074,
+41366242,41472030,0,False,residential,Westerlo Street,54.434,,,,,,,,,,,5588689,
+41366242,41327465,0,False,residential,Westerlo Street,52.307,,,,,,,,,,,5588689,
+41366248,41317017,0,True,residential,2nd Street,99.06,,,,,,,,,,,5576074,
+41366248,41426195,0,False,residential,4th Street,55.047,,,,,,,,,,,5581113,
+41366248,41317011,0,False,residential,"['1st Street', '4th Street']",148.243,,,,,,,,,,,"[5581113, 5572754]",
+41374201,41281517,0,False,residential,Fox Street,824.968,,,,,,,,,,,5576899,
+41376165,41376175,0,False,residential,Deer Mountain Road,167.794,,,,,,,,,,,5577079,
+41376165,41406942,0,False,residential,Deer Mountain Village Road,158.336,,,,,,,,,,,5579506,
+41376165,41406719,0,False,residential,Deer Mountain Village Road,220.711,,,,,,,,,,,5579506,
+41376175,41376165,0,False,residential,Deer Mountain Road,167.794,,,,,,,,,,,5577079,
+41377616,41377762,0,False,residential,Stonehouse Hill Road,603.008,,,,,,,,,,,5577228,
+41377616,41250780,0,False,secondary,River Road,133.727,,,,30 mph,,,,,,,140136111,NY 144
+41377616,41423273,0,False,secondary,River Road,66.019,,,,30 mph,,,yes,,,,"[140136113, 5580884, 140136111]",NY 144
+41377762,41377616,0,False,residential,Stonehouse Hill Road,603.008,,,,,,,,,,,5577228,
+41382744,41279222,0,False,residential,Alcove Road,1011.083,,,,,,,,,,,5577670,
+41382831,41382843,0,False,residential,Alcove Road,263.868,,,,,,,,,,,5577670,
+41382831,41382843,1,False,residential,Old Alcove Road,329.996,,,,,,,,,,,5582669,
+41382831,41279222,0,False,residential,Alcove Road,586.519,,,,,,,,,,,5577670,
+41382843,41382870,0,False,residential,Alcove Road,241.193,,,,,,,,,,,5577670,
+41382843,41382831,0,False,residential,Alcove Road,263.868,,,,,,,,,,,5577670,
+41382843,41382831,1,False,residential,Old Alcove Road,329.996,,,,,,,,,,,5582669,
+41382870,41279249,0,False,residential,Alcove Road,562.663,,,,,,,,,,,5577670,
+41382870,41382843,0,False,residential,Alcove Road,241.193,,,,,,,,,,,5577670,
+41382870,41253344,0,False,residential,Deyo Road,421.883,,,,,,,,,,,5586955,
+41382944,41279249,0,False,residential,Alcove Road,133.715,,,,,,,,,,,5577670,
+41382944,41334035,0,False,tertiary,County Road 111,648.852,,,,30 mph,,,yes,,,,"[241066666, 241066668, 241066669]",CR 111
+41382944,41269049,0,False,tertiary,County Road 111,1194.436,,,,"['55 mph', '30 mph']",,,yes,,,,"[5585893, 57130760, 241066667, 241066669, 57130766]",CR 111
+41383129,41363110,0,False,residential,John Street,154.46,,,,,,,,,,,5577685,
+41383507,41262561,0,False,residential,Carr Road,118.444,,,,,,,,,,,5583034,
+41383507,41383536,0,False,residential,Pratt Lane,381.508,,,,,,,,,,,5577720,
+41383507,41447539,0,False,residential,Carr Road,2819.685,,,,,,,,,,,5583034,
+41383536,41383507,0,False,residential,Pratt Lane,381.508,,,,,,,,,,,5577720,
+41384278,41334260,0,False,residential,Powell Hill Road,944.103,,,,,,,,,,,5577773,
+41384278,41365247,0,False,residential,Powell Hill Road,250.795,,,,,,,,,,,5577773,
+41384278,41453997,0,False,residential,Albright Court,379.997,,,,,,,,,,,5583613,
+41388349,41509793,0,False,secondary,Martins Hill Road,56.352,,,,45 mph,,,,,,,5589041,NY 143
+41388349,41388355,0,False,residential,Oak Street,55.082,,,,,,,,,,,5578110,
+41388349,41303814,0,False,secondary,Martins Hill Road,120.528,,,,45 mph,,,,,,,5589041,NY 143
+41388355,41388349,0,False,residential,Oak Street,55.082,,,,,,,,,,,5578110,
+41388725,41252353,0,False,residential,Marina Drive,161.212,,,,,,,,,,,5578138,
+41388725,41327467,0,False,residential,Dock Street,91.149,,,,,,,,,,,5582652,
+41388725,41273124,0,False,residential,Westerlo Street,17.798,,,,,,,,,,,5588689,
+41389144,41389196,0,False,residential,Lindskoog Road,16.213,,,,,,,,,,,5578168,
+41389144,41389164,0,False,residential,Lindskoog Road,83.293,,,,,,,,,,,5578168,
+41389144,41389164,1,False,residential,Lindskoog Road,111.053,,,,,,,,,,,5578168,
+41389164,41389144,0,False,residential,Lindskoog Road,111.053,,,,,,,,,,,5578168,
+41389164,41389144,1,False,residential,Lindskoog Road,83.293,,,,,,,,,,,5578168,
+41389164,41389216,0,False,residential,Lindskoog Road,388.206,,,,,,,,,,,5578171,
+41389196,41389144,0,False,residential,Lindskoog Road,16.213,,,,,,,,,,,5578168,
+41389196,41389259,0,False,residential,Lindskoog Road,449.145,,,,,,,,,,,5578198,
+41389196,41502626,0,False,residential,Pine Ridge Road,91.385,,,,,,,,,,,5588232,
+41389216,41389164,0,False,residential,Lindskoog Road,388.206,,,,,,,,,,,5578171,
+41389259,41327247,0,False,residential,Lindskoog Road,250.556,,,,,,,,,,,5578198,
+41389259,41389196,0,False,residential,Lindskoog Road,449.145,,,,,,,,,,,5578198,
+41389259,41502646,0,False,residential,Pine Ridge Road,194.57,,,,,,,,,,,5588232,
+41389294,41389306,0,False,residential,Lindskoog Road,138.508,,,,,,,,,,,5578198,
+41389294,41327247,0,False,residential,Lindskoog Road,255.539,,,,,,,,,,,5578198,
+41389294,41406487,0,False,residential,Windy Acres Lane,338.112,,,,,,,,,,,5579482,
+41389306,41389319,0,False,residential,Lindskoog Road,308.582,,,,,,,,,,,5578198,
+41389306,41389294,0,False,residential,Lindskoog Road,138.508,,,,,,,,,,,5578198,
+41389306,41453466,0,False,residential,Mueller Road,583.522,,,,,,,,,,,5583577,
+41389319,41389422,0,False,residential,Lindskoog Road,1098.671,,,,,,,,,,,5578198,
+41389319,41389306,0,False,residential,Lindskoog Road,308.582,,,,,,,,,,,5578198,
+41389319,41411646,0,False,residential,Lindskoog Lane,205.322,,,,,,,,,,,5579874,
+41389422,41278458,0,False,residential,Lindskoog Road,733.987,,,,,,,,,,,5578198,
+41389422,41389319,0,False,residential,Lindskoog Road,1098.671,,,,,,,,,,,5578198,
+41389422,41546236,0,False,residential,Jannsen Road,811.481,,,,,,,,,,,5592941,
+41392166,41392186,0,False,residential,Fares Road,253.658,,,,,,,,,,,5578400,
+41392166,41447751,0,False,tertiary,Starr Road,1758.457,,,,40 mph,,,,,,,5594458,CR 102
+41392166,41334330,0,False,tertiary,Starr Road,352.557,,,,40 mph,,,,,,,5594458,CR 102
+41392186,41392357,0,False,residential,Fares Road,1534.85,,,,,,,,,,,5578400,
+41392186,41392166,0,False,residential,Fares Road,253.658,,,,,,,,,,,5578400,
+41392186,41568242,0,False,residential,Flach Road,224.986,,,,,,,,,,,5595441,
+41392357,41392186,0,False,residential,Fares Road,1534.85,,,,,,,,,,,5578400,
+41393882,41393925,0,False,residential,Rutkiewicz Road,365.302,,,,,,,,,,,5578515,
+41393882,41334364,0,False,residential,Marshall Road,310.942,,,,,,,yes,,,,"[241066672, 241066673, 5589670]",
+41393882,41426000,0,False,residential,Marshall Road,1066.725,,,,,,,,,,,5589670,
+41393925,41393882,0,False,residential,Rutkiewicz Road,365.302,,,,,,,,,,,5578515,
+41402767,41357616,0,False,residential,Crudo Road,396.122,,,,,,,,,,,5579188,
+41402767,41491431,0,False,residential,Deyo Road,982.279,,,,,,,,,,,5586955,
+41402767,41253344,0,False,residential,Deyo Road,595.926,,,,,,,,,,,5586955,
+41402863,41402894,0,False,residential,Crudo Road,214.217,,,,,,,,,,,5579188,
+41402863,41357616,0,False,residential,Crudo Road,90.463,,,,,,,,,,,5579188,
+41402863,41253328,0,False,residential,Morse Road,220.572,,,,,,,,,,,5587594,
+41402894,41402863,0,False,residential,Crudo Road,214.217,,,,,,,,,,,5579188,
+41403154,41403203,0,False,residential,Bronk Road,414.633,,,,,,,,,,,5579194,
+41403203,41403243,0,False,residential,Bronk Road,24.923,,,,,,,,,,,5579197,
+41403203,41403209,0,False,residential,Bronk Road,34.942,,,,,,,,,,,5579194,
+41403203,41403154,0,False,residential,Bronk Road,414.633,,,,,,,,,,,5579194,
+41403209,41403243,0,False,residential,Bronk Road,31.367,,,,,,,,,,,5579199,
+41403209,41403235,0,False,residential,Bronk Road,362.04,,,,,,,,,,,5579194,
+41403209,41403203,0,False,residential,Bronk Road,34.942,,,,,,,,,,,5579194,
+41403235,41403209,0,False,residential,Bronk Road,362.04,,,,,,,,,,,5579194,
+41403235,41281517,0,False,secondary,River Road,363.373,,,,55 mph,,,,,,,53375840,NY 144
+41403235,41423304,0,False,secondary,River Road,3040.453,,,,"['55 mph', '30 mph']",,,,,,,"[53375840, 140136111]",NY 144
+41403243,41403203,0,False,residential,Bronk Road,24.923,,,,,,,,,,,5579197,
+41403243,41403209,0,False,residential,Bronk Road,31.367,,,,,,,,,,,5579199,
+41403243,41403293,0,False,residential,Bronk Road,427.594,,,,,,,,,,,5579197,
+41403293,41403243,0,False,residential,Bronk Road,427.594,,,,,,,,,,,5579197,
+41406487,41389294,0,False,residential,Windy Acres Lane,338.112,,,,,,,,,,,5579482,
+41406671,41406719,0,False,residential,Deer Mountain Village Road,269.571,,,,,,,,,,,5579496,
+41406719,41406671,0,False,residential,Deer Mountain Village Road,269.571,,,,,,,,,,,5579496,
+41406719,41376165,0,False,residential,Deer Mountain Village Road,220.711,,,,,,,,,,,5579506,
+41406719,41406731,0,False,residential,Deer Mountain Village Road,116.58,,,,,,,,,,,5579506,
+41406730,41406731,0,False,residential,Deer Mountain Village Road,68.644,,,,,,,,,,,5579498,
+41406731,41406730,0,False,residential,Deer Mountain Village Road,68.644,,,,,,,,,,,5579498,
+41406731,41406719,0,False,residential,Deer Mountain Village Road,116.58,,,,,,,,,,,5579506,
+41406731,41406737,0,False,residential,Deer Mountain Village Road,1152.02,,,,,,,,,,,5579506,
+41406737,41406731,0,False,residential,Deer Mountain Village Road,1152.02,,,,,,,,,,,5579506,
+41406737,41443701,0,False,"['residential', 'unclassified']","['Limekill Road', 'Jarvis Road North']",1825.889,,,,,,,,,,,"[350782504, 5582714, 5589428]",
+41406737,41513820,0,False,unclassified,Jarvis Road North,275.68,,,,,,,,,,,5589428,
+41406942,41376165,0,False,residential,Deer Mountain Village Road,158.336,,,,,,,,,,,5579506,
+41408989,41355202,0,False,residential,Zabel Hill Road,285.923,,,,,,,,,,,5579690,
+41408989,41273143,0,False,tertiary,Lawson Lake Road,1132.336,,,,,,,,,,,5593217,CR 109
+41408989,41548113,0,False,tertiary,Lawson Lake Road,75.737,,,,,,,,,,,5593217,CR 109
+41408989,41548104,0,False,residential,Lawson Lake Road,74.799,,,,,,,,,,,5593218,
+41409075,41355202,0,False,residential,Zabel Hill Road,704.685,,,,,,,,,,,5579690,
+41409175,41333849,0,False,secondary,Indian Fields Road,2048.885,,,,55 mph,,,,,,,5579744,NY 143; NY 32
+41409175,41338035,0,False,residential,Carr Road,616.549,,,,,,,,,,,5583034,
+41409358,41548113,0,False,tertiary,Lawson Lake Road,446.128,,,,,,,,,,,53380295,CR 109
+41409358,41273291,0,False,secondary,Indian Fields Road,1064.107,,,,55 mph,,,,,,,53620727,NY 32
+41409358,41333849,0,False,secondary,Indian Fields Road,1104.345,,,,55 mph,,,,,,,53620727,NY 32
+41411646,41389319,0,False,residential,Lindskoog Lane,205.322,,,,,,,,,,,5579874,
+41414676,41325823,0,False,residential,New Street,76.757,,,,,,,,,,,5580194,
+41414676,41309678,0,False,residential,Westerlo Street,107.322,,,,,,,,,,,5588689,
+41414676,41462594,0,False,residential,Westerlo Street,83.875,,,,,,,,,,,5588689,
+41423273,41377616,0,False,secondary,River Road,66.019,,,,30 mph,,,yes,,,,"[140136113, 5580884, 140136111]",NY 144
+41423273,41573482,0,False,residential,Riverview Drive,1351.163,,,,,,,,,,,5596085,
+41423273,41325878,0,False,secondary,Main Street,224.263,,,,30 mph,,,,,,,139437848,NY 144
+41423304,41250787,0,False,residential,Clayborn Place,26.439,,,,,,,,,,,5583845,
+41423304,41403235,0,False,secondary,River Road,3040.453,,,,"['55 mph', '30 mph']",,,,,,,"[53375840, 140136111]",NY 144
+41423304,41250780,0,False,secondary,River Road,51.042,,,,30 mph,,,,,,,140136111,NY 144
+41423492,41565121,0,False,residential,Boehlke Drive,141.124,,,,,,,,,,,5595125,
+41423492,41274029,0,False,secondary,River Road,63.858,,,,55 mph,,,,,,,53375840,NY 144
+41423492,41281517,0,False,secondary,River Road,197.728,,,,55 mph,,,,,,,53375840,NY 144
+41423501,41356149,0,False,secondary,River Road,57.179,,,,55 mph,,,,,,,53375840,NY 144
+41423501,41446374,0,False,residential,Bennett Court,156.791,,,,,,,,,,,5582955,
+41423501,41423550,0,False,secondary,River Road,941.656,,,,55 mph,,,yes,,,,"[53375840, 70650570, 70650562]",NY 144
+41423550,41465050,0,False,residential,Blackburn Road,358.926,,,,,,,,,,,5584591,
+41423550,41423501,0,False,secondary,River Road,941.656,,,,55 mph,,,yes,,,,"[53375840, 70650562, 70650570]",NY 144
+41426000,41426089,0,False,residential,Vanderzee Road,898.395,,,,,,,,,,,5581101,
+41426000,41393882,0,False,residential,Marshall Road,1066.725,,,,,,,,,,,5589670,
+41426089,41334300,0,False,residential,Vanderzee Road,34.425,,,,,,,,,,,5581101,
+41426089,41426000,0,False,residential,Vanderzee Road,898.395,,,,,,,,,,,5581101,
+41426089,41334303,0,False,residential,Vanderzee Road,29.315,,,,,,,,,,,5581103,
+41426195,41366248,0,False,residential,4th Street,55.047,,,,,,,,,,,5581113,
+41426195,41325855,0,False,residential,4th Street,38.379,,,,,,,,,,,5581113,
+41426195,41325878,0,False,secondary,Main Street,62.987,,,,30 mph,,,,,,,5585215,NY 144
+41426195,41472033,0,False,secondary,Main Street,95.168,,,,30 mph,,,,,,,5585215,NY 144
+41426540,41426543,0,False,residential,Echo Vale Road,31.512,,,,,,,,,,,5581152,
+41426540,41280792,0,False,tertiary,County Road 111,465.03,,,,55 mph,,,,,,,5585893,CR 111
+41426540,41426583,0,False,tertiary,County Road 111,29.769,,,,55 mph,,,,,,,5585893,CR 111
+41426543,41426540,0,False,residential,Echo Vale Road,31.512,,,,,,,,,,,5581152,
+41426543,41426566,0,False,residential,Echo Vale Road,411.436,,,,,,,,,,,5581152,
+41426543,41426583,0,False,residential,Echo Vale Road,24.32,,,,,,,,,,,5581155,
+41426566,41426543,0,False,residential,Echo Vale Road,411.436,,,,,,,,,,,5581152,
+41426583,41426543,0,False,residential,Echo Vale Road,24.32,,,,,,,,,,,5581155,
+41426583,41426540,0,False,tertiary,County Road 111,29.769,,,,55 mph,,,,,,,5585893,CR 111
+41434691,41325832,0,False,residential,5th Street,78.291,,,,,,,,,,,5581809,
+41434691,41506980,0,False,residential,Westerlo Street,17.894,,,,,,,,,,,5588689,
+41434691,41462594,0,False,residential,Westerlo Street,122.637,,,,,,,,,,,5588689,
+41436005,41436042,0,False,residential,Gedney Hill Road,204.636,,,,,,,,,,,5581917,
+41436005,41436042,1,False,residential,Reagan Hill Road,270.827,,,,,,,,,,,5589795,
+41436042,41334221,0,False,residential,Gedney Hill Road,203.932,,,,,,,,,,,5581917,
+41436042,41436005,0,False,residential,Gedney Hill Road,204.636,,,,,,,,,,,5581917,
+41436042,41436005,1,False,residential,Reagan Hill Road,270.827,,,,,,,,,,,5589795,
+41442682,41343800,0,False,residential,Camile Drive,196.806,,,,,,,,,,,5582624,
+41442686,41442743,0,False,residential,Fuller Road,1194.451,,,,,,,,,,,5582625,
+41442686,41543843,0,False,residential,Mountain Road,241.817,,,,,,,,,,,5592670,
+41442686,41443567,0,False,residential,Limekill Road,2071.907,,,,,,,,,,,511328193,
+41442743,41442754,0,False,residential,Fuller Road,152.374,,,,,,,,,,,5582625,
+41442743,41442686,0,False,residential,Fuller Road,1194.451,,,,,,,,,,,5582625,
+41442754,41442743,0,False,residential,Fuller Road,152.374,,,,,,,,,,,5582625,
+41443567,41442686,0,False,residential,Limekill Road,2071.907,,,,,,,,,,,511328193,
+41443701,41406737,0,False,"['residential', 'unclassified']","['Limekill Road', 'Jarvis Road North']",1825.889,,,,,,,,,,,"[350782504, 5582714, 5589428]",
+41443845,41332193,0,False,residential,Greening Lane,164.418,,,,,,,,,,,5582727,
+41446374,41446391,0,False,residential,Bennett Court,42.049,,,,,,,,,,,5582957,
+41446374,41446381,0,False,residential,Bennett Court,95.498,,,,,,,,,,,5582955,
+41446374,41423501,0,False,residential,Bennett Court,156.791,,,,,,,,,,,5582955,
+41446381,41446374,0,False,residential,Bennett Court,95.498,,,,,,,,,,,5582955,
+41446391,41446374,0,False,residential,Bennett Court,42.049,,,,,,,,,,,5582957,
+41447539,41383507,0,False,residential,Carr Road,2819.685,,,,,,,,,,,5583034,
+41447539,41315555,0,False,tertiary,"['Clarksville South Road', 'County Road 312']",768.371,2,,,,,,,,,,"[5586604, 5583773]",CR 312
+41447627,41250349,0,False,residential,Blossom Hill Road,1356.834,,,,,,,,,,,5591197,
+41447627,41447751,0,False,tertiary,Tompkins Road,1869.386,,,,,,,,,,,241066680,CR 106
+41447627,41334246,0,False,tertiary,Tompkins Road,365.558,,,,,,,yes,,,,"[241066680, 5583054, 241066678]",CR 106
+41447751,41551843,0,False,tertiary,Starr Road,1184.584,,,,40 mph,,,,,,,"[5594458, 53620117]",CR 102
+41447751,41392166,0,False,tertiary,Starr Road,1758.457,,,,40 mph,,,,,,,5594458,CR 102
+41447751,41447627,0,False,tertiary,Tompkins Road,1869.386,,,,,,,,,,,241066680,CR 106
+41451606,41303806,0,False,residential,Palmer Drive,284.409,,,,,,,,,,,5583413,
+41453466,41453466,0,False,residential,Mueller Road,71.27,,,,,,,,,,,5583577,
+41453466,41453466,1,False,residential,Mueller Road,71.27,,,,,,,,,,,5583577,
+41453466,41389306,0,False,residential,Mueller Road,583.522,,,,,,,,,,,5583577,
+41453997,41384278,0,False,residential,Albright Court,379.997,,,,,,,,,,,5583613,
+41456286,41250787,0,False,residential,Clayborn Place,604.138,,,,,,,,,,,5583845,
+41461231,41334003,0,False,residential,Waterboard Road,600.027,,,,,,,,,,,5584233,
+41462564,41345959,0,False,residential,Blaisdell Avenue,402.121,,,,,,,,,,,5584385,
+41462591,41462594,0,False,residential,Blaisdell Avenue,77.274,,,,,,,,,,,5584385,
+41462591,41363101,0,False,residential,Blaisdell Avenue,141.849,,,,,,,,,,,5584385,
+41462591,41363105,0,False,residential,Einie Drive,185.726,,,,,,,,,,,5585393,
+41462594,41462591,0,False,residential,Blaisdell Avenue,77.274,,,,,,,,,,,5584385,
+41462594,41414676,0,False,residential,Westerlo Street,83.875,,,,,,,,,,,5588689,
+41462594,41434691,0,False,residential,Westerlo Street,122.637,,,,,,,,,,,5588689,
+41465050,41423550,0,False,residential,Blackburn Road,358.926,,,,,,,,,,,5584591,
+41465178,41465189,0,False,residential,Stanton Road,199.655,,,,,,,,,,,5584618,
+41465178,41298687,0,False,residential,Stanton Road,539.234,,,,,,,,,,,5584618,
+41465178,41279120,0,False,residential,Mud Hill Road,711.633,,,,,,,,,,,5589305,
+41465189,41278478,0,False,residential,Stanton Road,567.825,,,,,,,,,,,5584618,
+41465189,41465178,0,False,residential,Stanton Road,199.655,,,,,,,,,,,5584618,
+41465189,41546912,0,False,residential,Coons Road,520.932,,,,,,,,,,,5593032,
+41465368,41250038,0,False,residential,Stanton Road,13.222,,,,,,,,,,,5584618,
+41465368,41250036,0,False,unclassified,Biers Road,61.748,,,,,,,,,,,5593882,
+41465368,41465413,0,False,unclassified,Stanton Road,623.259,,,,,,,,,,,350782509,
+41465413,41488968,0,False,unclassified,Tracy Road,807.212,,,,,,,,,,,5588778,
+41465413,41317756,0,False,tertiary,Blodgett Road,1299.52,,,,,,,,,,,5593652,CR 103
+41465413,41530740,0,False,tertiary,Blodgett Road,896.59,,,,,,,,,,,5593652,CR 103
+41465413,41465368,0,False,unclassified,Stanton Road,623.259,,,,,,,,,,,350782509,
+41471188,41471233,0,False,residential,North Lane,326.451,,,,,,,,,,,5585164,
+41471188,41351494,0,False,tertiary,Starr Road,324.036,,,,,,,,,,,53620117,CR 102
+41471233,41471188,0,False,residential,North Lane,326.451,,,,,,,,,,,5585164,
+41471987,41345908,0,False,secondary,Main Street,279.829,,,,30 mph,,,,,,,5585215,NY 144
+41471987,41472382,0,False,residential,Sewer Plant Access Road,481.176,,,,,,,,,,,5585250,
+41471987,41520062,0,False,secondary,South Main Street,343.553,,,,"['45 mph', '30 mph']",,,yes,,,,"[5595197, 53375843, 140155621]",NY 144
+41472023,41278740,0,False,residential,Division Street,59.551,,,,,,,,,,,5592209,
+41472023,41472030,0,False,secondary,Main Street,72.58,,,,30 mph,,,,,,,5585215,NY 144
+41472023,41345908,0,False,secondary,Main Street,335.157,,,,30 mph,,,,,,,5585215,NY 144
+41472030,41472033,0,False,secondary,Main Street,73.23,,,,30 mph,,,,,,,5585215,NY 144
+41472030,41366242,0,False,residential,Westerlo Street,54.434,,,,,,,,,,,5588689,
+41472030,41472023,0,False,secondary,Main Street,72.58,,,,30 mph,,,,,,,5585215,NY 144
+41472030,41506980,0,False,residential,Westerlo Street,133.809,,,,,,,,,,,5588689,
+41472033,41472030,0,False,secondary,Main Street,73.23,,,,30 mph,,,,,,,5585215,NY 144
+41472033,41426195,0,False,secondary,Main Street,95.168,,,,30 mph,,,,,,,5585215,NY 144
+41472033,41317017,0,False,residential,Pope S Hill Street,50.74,,,,,,,,,,,5588724,
+41472382,41471987,0,False,residential,Sewer Plant Access Road,481.176,,,,,,,,,,,5585250,
+41475814,41325818,0,False,residential,Clouse Terrace,112.775,,,,,,,,,,,5585514,
+41477128,41282022,0,False,residential,Kinley Road,599.366,,,,,,,,,,,5585656,
+41480963,41481013,0,False,residential,Whitehorse Ranch Road,472.748,,,,,,,,,,,5586019,
+41480963,41507643,0,False,unclassified,Tracy Road,330.835,,,,,,,,,,,5588778,
+41480963,41507534,0,False,unclassified,Tracy Road,552.674,,,,,,,,,,,5588778,
+41481013,41480963,0,False,residential,Whitehorse Ranch Road,472.748,,,,,,,,,,,5586019,
+41481013,41481013,0,False,residential,White Horse Ranch Road,92.101,,,,,,,,,,,5594935,
+41481013,41481013,1,False,residential,White Horse Ranch Road,92.101,,,,,,,,,,,5594935,
+41486649,41317808,0,False,residential,Brimanda Lane,188.754,,,,,,,,,,,5586464,
+41488607,41488616,0,False,residential,Elm Street,102.627,,,,,,,,,,,5586634,
+41488607,41529473,0,False,residential,Spoor Development Road,161.698,,,,,,,,,,,5591041,
+41488607,41262808,0,False,residential,Spoor Development Road,36.116,,,,,,,,,,,5591041,
+41488616,41488607,0,False,residential,Elm Street,102.627,,,,,,,,,,,5586634,
+41488616,41509731,0,False,residential,Nolan Road,233.474,,,,,,,,,,,5593514,
+41488616,41550564,0,False,residential,Nolan Road,142.703,,,,,,,,,,,5593514,
+41488839,41488850,0,False,residential,Morehouse Road,295.346,,,,,,,,,,,5586649,
+41488839,41530740,0,False,tertiary,Blodgett Road,315.205,,,,,,,,,,,5593652,CR 103
+41488839,41253401,0,False,tertiary,Blodgett Road,1633.117,,,,,,,,,,,5593652,CR 103
+41488850,41488945,0,False,residential,Morehouse Road,969.599,,,,,,,,,,,5586649,
+41488850,41488839,0,False,residential,Morehouse Road,295.346,,,,,,,,,,,5586649,
+41488850,41530740,0,False,residential,Blossom Hill Road,86.322,,,,,,,,,,,5591197,
+41488850,41250349,0,False,residential,Blossom Hill Road,1512.255,,,,,,,,,,,5591197,
+41488945,41488953,0,False,residential,Morehouse Road,30.965,,,,,,,,,,,5586649,
+41488945,41488850,0,False,residential,Morehouse Road,969.599,,,,,,,,,,,5586649,
+41488945,41488968,0,False,residential,Morehouse Road,20.564,,,,,,,,,,,5586650,
+41488953,41488968,0,False,unclassified,Tracy Road,31.695,,,,,,,,,,,5588778,
+41488953,41488945,0,False,residential,Morehouse Road,30.965,,,,,,,,,,,5586649,
+41488953,41507645,0,False,unclassified,Tracy Road,452.197,,,,,,,,,,,5588778,
+41488968,41488953,0,False,unclassified,Tracy Road,31.695,,,,,,,,,,,5588778,
+41488968,41488945,0,False,residential,Morehouse Road,20.564,,,,,,,,,,,5586650,
+41488968,41465413,0,False,unclassified,Tracy Road,807.212,,,,,,,,,,,5588778,
+41489424,41312640,0,False,residential,Cynthia Court,72.942,,,,,,,,,,,5586689,
+41490812,41338947,0,False,residential,Owasco Lane,54.432,,,,,,,,,,,5586880,
+41491431,41402767,0,False,residential,Deyo Road,982.279,,,,,,,,,,,5586955,
+41497202,41253328,0,False,residential,Morse Road,124.091,,,,,,,,,,,5587594,
+41498896,41334361,0,False,residential,Cedar Ridge Road,410.001,,,,,,,,,,,5587798,
+41502626,41567176,0,False,residential,Joanna Drive,87.462,,,,,,,,,,,5595326,
+41502626,41502638,0,False,residential,Pine Ridge Road,104.374,,,,,,,,,,,5588232,
+41502626,41389196,0,False,residential,Pine Ridge Road,91.385,,,,,,,,,,,5588232,
+41502638,41502646,0,False,residential,Pine Ridge Road,78.52,,,,,,,,,,,5588232,
+41502638,41502626,0,False,residential,Pine Ridge Road,104.374,,,,,,,,,,,5588232,
+41502638,41557873,0,False,residential,Jacob Lane,438.382,,,,,,,,,,,5594346,
+41502646,41389259,0,False,residential,Pine Ridge Road,194.57,,,,,,,,,,,5588232,
+41502646,41502638,0,False,residential,Pine Ridge Road,78.52,,,,,,,,,,,5588232,
+41502646,41531584,0,False,residential,Amber Circle,73.517,,,,,,,,,,,5591263,
+41506980,41434691,0,False,residential,Westerlo Street,17.894,,,,,,,,,,,5588689,
+41506980,41472030,0,False,residential,Westerlo Street,133.809,,,,,,,,,,,5588689,
+41506980,41536902,0,False,residential,Colvin Avenue,191.852,,,,,,,,,,,5591835,
+41507534,41480963,0,False,unclassified,Tracy Road,552.674,,,,,,,,,,,5588778,
+41507534,41532810,0,False,tertiary,Starr Road,2278.495,,,,,,,,,,,53620117,CR 102
+41507534,41551843,0,False,tertiary,Starr Road,380.142,,,,,,,,,,,53620117,CR 102
+41507643,41507645,0,False,unclassified,Tracy Road,42.483,,,,,,,,,,,5588778,
+41507643,41480963,0,False,unclassified,Tracy Road,330.835,,,,,,,,,,,5588778,
+41507643,41532695,0,False,unclassified,Payne Road,36.122,,,,,,,,,,,5591355,
+41507645,41488953,0,False,unclassified,Tracy Road,452.197,,,,,,,,,,,5588778,
+41507645,41507643,0,False,unclassified,Tracy Road,42.483,,,,,,,,,,,5588778,
+41507645,41532695,0,False,unclassified,Payne Road,45.016,,,,,,,,,,,5591354,
+41509190,41334167,0,False,residential,Greenbush Avenue,420.447,,,,,,,,,,,5588966,
+41509696,41509731,0,False,secondary,Martins Hill Road,869.572,,,,45 mph,,,,,,,5589041,NY 143
+41509696,41334420,0,False,secondary,Martins Hill Road,85.52,,,,45 mph,,,,,,,5589041,NY 143
+41509696,41571348,0,False,residential,Halsted Lane,172.395,,,,,,,,,,,5595818,
+41509731,41509740,0,False,secondary,Martins Hill Road,118.538,,,,45 mph,,,,,,,5589041,NY 143
+41509731,41509696,0,False,secondary,Martins Hill Road,869.572,,,,45 mph,,,,,,,5589041,NY 143
+41509731,41488616,0,False,residential,Nolan Road,233.474,,,,,,,,,,,5593514,
+41509740,41509793,0,False,secondary,Martins Hill Road,383.186,,,,45 mph,,,,,,,5589041,NY 143
+41509740,41509731,0,False,secondary,Martins Hill Road,118.538,,,,45 mph,,,,,,,5589041,NY 143
+41509740,41262808,0,False,residential,Spoor Development Road,150.295,,,,,,,,,,,5591041,
+41509793,41388349,0,False,secondary,Martins Hill Road,56.352,,,,45 mph,,,,,,,5589041,NY 143
+41509793,41509740,0,False,secondary,Martins Hill Road,383.186,,,,45 mph,,,,,,,5589041,NY 143
+41509793,41527470,0,False,residential,Wonder Vue Drive,461.593,,,,,,,,,,,5590831,
+41509834,41303814,0,False,secondary,Martins Hill Road,348.561,,,,45 mph,,,,,,,5589041,NY 143
+41512605,41279120,0,False,residential,Mud Hill Road,335.365,,,,,,,,,,,5589305,
+41513820,41406737,0,False,unclassified,Jarvis Road North,275.68,,,,,,,,,,,5589428,
+41513820,41339017,0,False,unclassified,Jarvis Road North,1456.787,,,,,,,,,,,5589428,
+41513820,41551843,0,False,unclassified,Bushendorf Road,2861.831,,,,,,,,,,,5593675,
+41520062,41520082,0,False,residential,Finke Road,185.916,,,,,,,,,,,5590048,
+41520062,41471987,0,False,secondary,South Main Street,343.553,,,,"['45 mph', '30 mph']",,,yes,,,,"[140155621, 53375843, 5595197]",NY 144
+41520082,41520062,0,False,residential,Finke Road,185.916,,,,,,,,,,,5590048,
+41522990,41305475,0,False,tertiary,Cedar Grove Road,1856.105,,,,55 mph,,,,,,,5590384,CR 301
+41522990,41317756,0,False,tertiary,Blodgett Road,2382.615,,,,,,,,,,,5593652,CR 103
+41527470,41509793,0,False,residential,Wonder Vue Drive,461.593,,,,,,,,,,,5590831,
+41528915,41528975,0,False,residential,Bluestone Lane,779.303,,,,,,,,,,,5590975,
+41528915,41532810,0,False,unclassified,Payne Road,885.361,,,,,,,,,,,5591354,
+41528915,41532695,0,False,unclassified,Payne Road,1046.497,,,,,,,,,,,5591354,
+41528975,41528915,0,False,residential,Bluestone Lane,779.303,,,,,,,,,,,5590975,
+41529473,41529480,0,False,residential,Spoor Road,69.458,,,,,,,,,,,5591043,
+41529473,41550564,0,False,residential,Nolan Road,114.569,,,,,,,,,,,5593506,
+41529473,41488607,0,False,residential,Spoor Development Road,161.698,,,,,,,,,,,5591041,
+41529480,41529473,0,False,residential,Spoor Road,69.458,,,,,,,,,,,5591043,
+41530740,41488850,0,False,residential,Blossom Hill Road,86.322,,,,,,,,,,,5591197,
+41530740,41465413,0,False,tertiary,Blodgett Road,896.59,,,,,,,,,,,5593652,CR 103
+41530740,41488839,0,False,tertiary,Blodgett Road,315.205,,,,,,,,,,,5593652,CR 103
+41531584,41502646,0,False,residential,Amber Circle,73.517,,,,,,,,,,,5591263,
+41532695,41528915,0,False,unclassified,Payne Road,1046.497,,,,,,,,,,,5591354,
+41532695,41507645,0,False,unclassified,Payne Road,45.016,,,,,,,,,,,5591354,
+41532695,41507643,0,False,unclassified,Payne Road,36.122,,,,,,,,,,,5591355,
+41532810,41528915,0,False,unclassified,Payne Road,885.361,,,,,,,,,,,5591354,
+41532810,41351494,0,False,tertiary,Starr Road,1074.475,,,,,,,,,,,53620117,CR 102
+41532810,41507534,0,False,tertiary,Starr Road,2278.495,,,,,,,,,,,53620117,CR 102
+41533817,41557307,0,False,residential,Stylababrack Road,1099.678,,,,,,,,,,,5594253,
+41533817,41282019,0,False,residential,Old Ravena Road,1552.112,,,,,,,yes,,,,"[52549320, 52549318, 52549319]",
+41533817,41284039,0,False,residential,Old Ravena Road,658.874,,,,,,,,,,,52549318,
+41536407,41536514,0,False,residential,Kruger Road,18.438,,,,,,,,,,,5591806,
+41536407,41536452,0,False,residential,Kruger Road,296.377,,,,,,,,,,,5591800,
+41536407,41348000,0,False,residential,Kruger Road,174.885,,,,,,,,,,,5591800,
+41536452,41536407,0,False,residential,Kruger Road,296.377,,,,,,,,,,,5591800,
+41536462,41536514,0,False,residential,Kruger Road,626.933,,,,,,,,,,,5591806,
+41536514,41536407,0,False,residential,Kruger Road,18.438,,,,,,,,,,,5591806,
+41536514,41536462,0,False,residential,Kruger Road,626.933,,,,,,,,,,,5591806,
+41536514,41536539,0,False,residential,Kruger Road,202.834,,,,,,,,,,,5591808,
+41536539,41536514,0,False,residential,Kruger Road,202.834,,,,,,,,,,,5591808,
+41536902,41506980,0,False,residential,Colvin Avenue,191.852,,,,,,,,,,,5591835,
+41543843,41543859,0,False,residential,Mountain Road,432.683,,,,,,,,,,,5592672,
+41543843,41442686,0,False,residential,Mountain Road,241.817,,,,,,,,,,,5592670,
+41543859,41543843,0,False,residential,Mountain Road,432.683,,,,,,,,,,,5592672,
+41545077,41325828,0,False,residential,Uthe Boulevard,144.09,,,,,,,,,,,5592806,
+41546236,41389422,0,False,residential,Jannsen Road,811.481,,,,,,,,,,,5592941,
+41546912,41546912,0,False,residential,Coons Road,44.641,,,,,,,,,,,5593030,
+41546912,41546912,1,False,residential,Coons Road,44.641,,,,,,,,,,,5593030,
+41546912,41465189,0,False,residential,Coons Road,520.932,,,,,,,,,,,5593032,
+41548099,41548104,0,False,residential,Lawson Lake Road,221.022,,,,,,,,,,,5593194,
+41548104,41548113,0,False,residential,Lawson Lake Road,48.829,,,,,,,,,,,5593194,
+41548104,41548099,0,False,residential,Lawson Lake Road,221.022,,,,,,,,,,,5593194,
+41548104,41408989,0,False,residential,Lawson Lake Road,74.799,,,,,,,,,,,5593218,
+41548113,41548104,0,False,residential,Lawson Lake Road,48.829,,,,,,,,,,,5593194,
+41548113,41408989,0,False,tertiary,Lawson Lake Road,75.737,,,,,,,,,,,5593217,CR 109
+41548113,41409358,0,False,tertiary,Lawson Lake Road,446.128,,,,,,,,,,,53380295,CR 109
+41550564,41529473,0,False,residential,Nolan Road,114.569,,,,,,,,,,,5593506,
+41550564,41488616,0,False,residential,Nolan Road,142.703,,,,,,,,,,,5593514,
+41550564,41550568,0,False,residential,Nolan Road,187.322,,,,,,,,,,,5593514,
+41550568,41550564,0,False,residential,Nolan Road,187.322,,,,,,,,,,,5593514,
+41551843,41513820,0,False,unclassified,Bushendorf Road,2861.831,,,,,,,,,,,5593675,
+41551843,41507534,0,False,tertiary,Starr Road,380.142,,,,,,,,,,,53620117,CR 102
+41551843,41447751,0,False,tertiary,Starr Road,1184.584,,,,40 mph,,,,,,,"[5594458, 53620117]",CR 102
+41554113,3565297497,0,False,unclassified,Biers Road,308.616,,,,,,,,,,,5593882,
+41554113,41250036,0,False,unclassified,Biers Road,3536.392,,,,,,,,,,,5593882,
+41554113,41305489,0,False,residential,Biers Road,305.851,,,,,,,,,,,350782495,
+41557307,41533817,0,False,residential,Stylababrack Road,1099.678,,,,,,,,,,,5594253,
+41557873,41502638,0,False,residential,Jacob Lane,438.382,,,,,,,,,,,5594346,
+41565121,41565131,0,False,residential,Boehlke Drive,70.03,,,,,,,,,,,5595126,
+41565121,41565125,0,False,residential,Boehlke Drive,106.261,,,,,,,,,,,5595125,
+41565121,41423492,0,False,residential,Boehlke Drive,141.124,,,,,,,,,,,5595125,
+41565125,41565121,0,False,residential,Boehlke Drive,106.261,,,,,,,,,,,5595125,
+41565131,41565121,0,False,residential,Boehlke Drive,70.03,,,,,,,,,,,5595126,
+41567176,41502626,0,False,residential,Joanna Drive,87.462,,,,,,,,,,,5595326,
+41568242,41392186,0,False,residential,Flach Road,224.986,,,,,,,,,,,5595441,
+41571348,41509696,0,False,residential,Halsted Lane,172.395,,,,,,,,,,,5595818,
+41572117,41572137,0,True,motorway,New York State Thruway Berkshire Connector,645.704,2,,,65 mph,,,yes,,,,"[18569542, 40422471]",
+41572137,41287185,0,True,motorway_link,,814.083,1,,,65 mph,,,,,,,5568399,
+41572137,2568976197,0,True,motorway_link,,1389.717,1,,,65 mph,,,yes,,,,"[38255793, 38255794, 196948826, 89946087]",
+41573482,41423273,0,False,residential,Riverview Drive,1351.163,,,,,,,,,,,5596085,
+444088099,41325818,0,False,secondary,Church Street,143.892,,,,,,,,,,,5572588,NY 143
+444088099,41309678,0,False,residential,Westerlo Street,190.047,,,,,,,,,,,5588689,
+1535347620,41274027,0,False,residential,Ruby Lane,180.294,,,,,,,,,,,5575215,
+2451278700,2451278920,0,True,motorway,New York State Thruway Berkshire Connector,461.518,2,,,65 mph,,,,,,,89946069,
+3565297497,41305558,0,False,tertiary,Copeland Hill Road,1333.746,,,,,,,,,,,5570377,CR 108
+3565297497,41305489,0,False,tertiary,Copeland Hill Road,103.882,,,,,,,,,,,5570377,CR 108
+3565297497,41554113,0,False,unclassified,Biers Road,308.616,,,,,,,,,,,5593882,

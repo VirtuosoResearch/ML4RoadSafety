@@ -1,0 +1,28 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+41315600,417232677,0,True,tertiary,South Swan Street,61.707,,,,30 mph,,,,,,,35600045,
+41315605,41358016,0,True,residential,Dove Street,60.865,,,,30 mph,,,,,,,106201552,
+41315605,41315600,0,True,residential,Jefferson Street,222.189,,,,30 mph,,,,,,,5571352,
+41327725,41358013,0,False,primary,Madison Avenue,221.943,2,,,30 mph,,,,,,,516224383,US 20
+41358006,41358009,0,True,residential,Dove Street,84.125,,,,30 mph,,,,,,,106201552,
+41358009,41358013,0,True,residential,Dove Street,104.452,,,,30 mph,,,,,,,106201552,
+41358013,41315605,0,True,residential,Dove Street,58.946,,,,30 mph,,,,,,,106201552,
+41358013,41327725,0,False,primary,Madison Avenue,221.943,2,,,30 mph,,,,,,,516224383,US 20
+41358013,417232677,0,False,primary,Madison Avenue,222.274,2,,,30 mph,,,,,,,516224383,US 20
+41358016,41358023,0,True,residential,Dove Street,61.29,,,,30 mph,,,,,,,106201552,
+41358023,41358025,0,True,residential,Dove Street,59.073,,,,30 mph,,,,,,,106201552,
+41358023,41371812,0,True,residential,Irving Street,220.394,,,,,,,,,,,5585456,
+41358025,41371813,0,False,residential,Myrtle Avenue,222.189,,,,30 mph,,,,,,,5580809,
+41371809,41358016,0,True,residential,Elm Street,225.545,,,,30 mph,,,,,,,5586625,
+41371809,41315600,0,True,tertiary,South Swan Street,60.412,,,,30 mph,,,,,,,35600045,
+41371812,41371809,0,True,tertiary,South Swan Street,56.764,,,,30 mph,,,,,,,35600045,
+41371813,41371812,0,True,tertiary,South Swan Street,65.533,,,,30 mph,,,,,,,35600045,
+41371813,41358025,0,False,residential,Myrtle Avenue,222.189,,,,30 mph,,,,,,,5580809,
+41371814,41371813,0,True,tertiary,South Swan Street,6.586,,,,30 mph,,,,,,,35600045,
+41371814,41422336,0,False,residential,Myrtle Avenue,74.587,,,,30 mph,,,,,,,5580810,
+41371815,41371814,0,True,tertiary,South Swan Street,80.12,,,,30 mph,,,,,,,35600045,
+41371815,41422336,0,False,residential,Park Avenue,111.483,,,,30 mph,,,,,,,5593258,
+41422336,41371814,0,False,residential,Myrtle Avenue,74.587,,,,30 mph,,,,,,,5580810,
+41422336,41371815,0,False,residential,Park Avenue,111.483,,,,30 mph,,,,,,,5593258,
+41422336,41548778,0,False,residential,Park Avenue,72.309,,,,30 mph,,,,,,,5593258,
+41548778,41422336,0,False,residential,Park Avenue,72.309,,,,30 mph,,,,,,,5593258,
+417232677,41358013,0,False,primary,Madison Avenue,222.274,2,,,30 mph,,,,,,,516224383,US 20

@@ -1,0 +1,61 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+61339720,61352282,0,False,residential,William Cardinal O'Connell Way,29.282,2,10.4,,25 mph,,,,,,,8640929,
+61339720,1522515158,0,False,residential,William Cardinal O'Connell Way,9.523,2,10.4,,25 mph,,,,,,,8640929,
+61339720,1522515161,0,True,residential,Blossom Street,92.207,1,25.9,,25 mph,,,,,,,138863679,
+61339774,1522515161,0,False,residential,Blossom Court,79.961,2,15.2,,25 mph,,,,,,,8651047,
+61339971,61580180,0,False,residential,"['North Grove Street', 'Fruit Street']",197.062,2,"['11.0', '10.4']",,25 mph,,,,,,,"[8649468, 537307165]",
+61339971,1522515139,0,True,primary,Charles Street,211.781,2,16.8,,,,,,,,,48981989,MA 3
+61339975,61602900,0,True,primary,Charles Street,127.837,2,16.8,,,,,,,,,485269335,MA 3
+61350659,4978546611,0,True,primary,Charles River Dam Road,171.851,2,30.5,,,,,yes,,,,"[243107428, 100720748, 8614591]",MA 28
+61352279,61352279,0,False,residential,Hawthorne Place,119.566,,,,,,,,,,,8637592,
+61352279,61352279,1,False,residential,Hawthorne Place,119.566,,,,,,,,,,,8637592,
+61352279,61352282,0,False,residential,Hawthorne Place,95.681,2,11.0,,25 mph,,,,,,,8646830,
+61352282,61339720,0,False,residential,William Cardinal O'Connell Way,29.282,2,10.4,,25 mph,,,,,,,8640929,
+61352282,1522224274,0,False,residential,William Cardinal O'Connell Way,313.74,2,10.4,,25 mph,,,,,,,8640929,
+61352282,61352279,0,False,residential,Hawthorne Place,95.681,2,11.0,,25 mph,,,,,,,8646830,
+61356500,1522515136,0,False,residential,Parkman Street,10.075,2,10.4,,25 mph,,,,,,,8641950,
+61356500,61339720,0,True,residential,Blossom Street,136.53,1,25.9,,25 mph,,,,,,,138863688,
+61365779,61339971,0,True,primary,Charles Street,128.983,2,16.8,,,,,,,,,48981989,MA 3
+61365779,61365780,0,True,primary,Cambridge Street,15.769,2,33.5,,,,,,,,,426456654,
+61374307,61580180,0,True,residential,North Grove Street,108.301,2,10.4,,25 mph,,,,,,,8642281,
+61374307,61365779,0,True,primary,Cambridge Street,159.383,"['2', '3']",33.5,,,,,,,,,"[420495585, 426456630]",
+61374309,61374307,0,True,primary,Cambridge Street,71.819,"['2', '3']",33.5,,,,,,,,,"[8652409, 426456606]",
+61379091,1522515145,0,True,primary,Cambridge Street,9.565,2,33.5,,,,,,,,,8652409,
+61379091,61356500,0,True,residential,Blossom Street,106.921,1,25.9,,25 mph,,,,,,,138863688,
+61438770,4748827925,0,True,primary,Leverett Circle,57.158,2,30.5,,,,,,,,,288994035,MA 28
+61451582,61454796,0,True,trunk,Embankment Road,122.954,3,15.2,,,,,,,,,8648658,MA 3;MA 28
+61454455,61602900,0,True,trunk,Embankment Road,121.221,2,30.2,,30 mph,,,,,,,122376136,MA 28
+61580180,1196524257,0,False,residential,Parkman Street,59.549,2,10.4,,25 mph,,,,,,,8641950,
+61580180,61339971,0,False,residential,"['North Grove Street', 'Fruit Street']",197.062,2,"['11.0', '10.4']",,25 mph,,,,,,,"[8649468, 537307165]",
+1196524257,1522515136,0,False,residential,Parkman Street,74.744,2,10.4,,25 mph,,,,,,,8641950,
+1196524257,61580180,0,False,residential,Parkman Street,59.549,2,10.4,,25 mph,,,,,,,8641950,
+1196524257,61374309,0,True,residential,North Anderson Street,106.415,2,11.0,,25 mph,,,,,,,8865423,
+1522224093,3483953639,0,True,primary,Cambridge Street,208.222,2,33.5,,,,,,,,,8652409,
+1522224274,1522224093,0,True,secondary,Staniford Street,101.235,2,28.0,,,,,,,,,138827696,
+1522224274,61352282,0,False,residential,William Cardinal O'Connell Way,313.74,2,10.4,,25 mph,,,,,,,8640929,
+1522515136,61356500,0,False,residential,Parkman Street,10.075,2,10.4,,25 mph,,,,,,,8641950,
+1522515136,1522515145,0,True,residential,Blossom Street,106.916,1,25.9,,25 mph,,,,,,,138863692,
+1522515136,1196524257,0,False,residential,Parkman Street,74.744,2,10.4,,25 mph,,,,,,,8641950,
+1522515137,1522515161,0,False,residential,Blossom Court,10.009,2,15.2,,25 mph,,,,,,,8651047,
+1522515137,1522515158,0,True,residential,Blossom Street,79.259,1,25.9,,25 mph,,,,,,,138863682,
+1522515139,61339975,0,True,primary,Charles Street,10.27,2,16.8,,,,,,,,,48981989,MA 3
+1522515139,1530590792,0,True,residential,Blossom Street,100.609,1,25.9,,25 mph,,,,,,,138863682,
+1522515145,61374309,0,True,primary,Cambridge Street,72.632,2,33.5,,,,,,,,,8652409,
+1522515158,61339720,0,False,residential,William Cardinal O'Connell Way,9.523,2,10.4,,25 mph,,,,,,,8640929,
+1522515158,1522515136,0,True,residential,Blossom Street,136.561,1,25.9,,25 mph,,,,,,,138863692,
+1522515161,1522515137,0,False,residential,Blossom Court,10.009,2,15.2,,25 mph,,,,,,,8651047,
+1522515161,61339774,0,False,residential,Blossom Court,79.961,2,15.2,,25 mph,,,,,,,8651047,
+1522515161,1530590776,0,True,residential,Blossom Street,91.402,1,25.9,,25 mph,,,,,,,138863679,
+1530590776,1530590792,0,False,residential,Emerson Place,10.184,,,,25 mph,,,,,,,139639839,
+1530590776,1530590786,0,False,residential,Emerson Place,77.639,,,,25 mph,,,,,,,139639839,
+1530590776,61339975,0,True,residential,Blossom Street,99.928,1,25.9,,25 mph,,,,,,,138863679,
+1530590786,1530590776,0,False,residential,Emerson Place,77.639,,,,25 mph,,,,,,,139639839,
+1530590792,1530590776,0,False,residential,Emerson Place,10.184,,,,25 mph,,,,,,,139639839,
+1530590792,1522515137,0,True,residential,Blossom Street,91.372,1,25.9,,25 mph,,,,,,,138863682,
+3483953639,61379091,0,True,primary,Cambridge Street,40.566,2,33.5,,,,,,,,,8652409,
+4748827925,4748827926,0,True,primary,Nashua Street,10.099,2,27.4,,,,,,,,,533641352,
+4748827925,61350659,0,True,primary,Charles River Dam Road,28.416,2,30.5,,,,,,,,,8614591,MA 28
+4748827926,4748827929,0,True,primary,Leverett Circle,15.303,2,30.5,,,,,,,,,8647133,MA 28
+4748827926,61451582,0,True,trunk,Embankment Road,224.316,2,15.2,,,,,,,,,122376137,MA 28
+4748827929,4748827925,0,True,trunk,Embankment Road,18.617,2,30.5,,,,,,,,,8652022,MA 28
+4978546611,4748827926,0,True,primary,Charles River Dam Road,199.313,3,30.5,,,,,yes,,,,"[100720752, 100720750, 508567327]",MA 28

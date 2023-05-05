@@ -1,0 +1,421 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+111270922,111484593,0,False,residential,Brentwood Drive,255.789,,,,,,,,,,,12300470,
+111270922,1188233726,0,False,residential,Brentwood Drive,374.768,,,,,,,,,,,12300470,
+111270922,111492034,0,False,residential,Hedgewood Drive,480.716,,,,,,,,,,,12301192,
+111270997,111332211,0,False,residential,Hirschwood Drive,122.212,,,,,,,,,,,12283435,
+111270997,1296733495,0,False,residential,Gentwood Drive,71.01,,,,,,,,,,,12320105,
+111270997,111411001,0,False,residential,"['Ericson Drive', 'Gentwood Drive']",197.65,,,,,,,,,,,"[12320105, 12309715]",
+111272352,111378184,0,False,residential,Nottingham Terrace,102.07,,,,,,,,,,,12288868,
+111272352,111378257,0,False,residential,Nottingham Terrace,111.518,,,,,,,,,,,12288868,
+111272352,111567717,0,False,residential,Circle Court,117.609,,,,,,,,,,,12309945,
+111272352,111405081,0,False,residential,Circle Court,259.627,,,,,,,,,,,12309945,
+111303835,111340097,0,False,primary,Sheridan Drive,76.291,4,,,45 mph,,,,,,,480402386,NY 324
+111303835,1188233786,0,True,primary_link,,88.333,,,,,,,,,,,102897403,
+111303835,1188233779,0,False,primary,Sheridan Drive,70.788,4,,,45 mph,,,,,,,480212446,NY 324
+111308896,111401816,0,False,residential,"['Foxwood Lane', 'Clardon Drive']",272.036,,,,,,,,,,,"[12284994, 12291399]",
+111308896,111344406,0,False,residential,Foxwood Lane,414.369,,,,,,,,,,,12284994,
+111308896,111488911,0,False,residential,Thornwood Lane,373.17,,,,,,,,,,,12300925,
+111309860,994262332,0,True,primary_link,,31.941,,,,,,,,,,,85688313,
+111309860,994262327,0,False,primary_link,Sheridan Drive,322.517,,,,,,,,,,,85688300,
+111324399,111383377,0,False,residential,Boncrest Drive West,142.886,,,,,,,,,,,12312892,
+111324399,111324421,0,False,residential,Bonview Terrace,285.834,,,,,,,,,,,12282410,
+111324399,111470397,0,False,residential,Boncrest Drive West,253.904,,,,,,,,,,,12312892,
+111324421,111470397,0,False,residential,Boncrest Drive East,123.113,,,,,,,,,,,12312621,
+111324421,111383410,0,False,residential,Boncrest Drive East,119.143,,,,,,,,,,,12312621,
+111324421,111324399,0,False,residential,Bonview Terrace,285.834,,,,,,,,,,,12282410,
+111332211,111332213,0,False,residential,Hirschwood Drive,123.268,,,,,,,,,,,12283435,
+111332211,111270997,0,False,residential,Hirschwood Drive,122.212,,,,,,,,,,,12283435,
+111332211,111648462,0,False,residential,Gentwood Drive,69.497,,,,,,,,,,,12320107,
+111332213,111332216,0,False,residential,Hirschwood Drive,122.046,,,,,,,,,,,12283435,
+111332213,111332211,0,False,residential,Hirschwood Drive,123.268,,,,,,,,,,,12283435,
+111332213,111538454,0,False,residential,Norwood Drive,69.72,,,,,,,,,,,12306666,
+111332216,111332213,0,False,residential,Hirschwood Drive,122.046,,,,,,,,,,,12283435,
+111332216,111492028,0,False,residential,Hedgewood Drive,140.888,,,,,,,,,,,12301192,
+111332216,111492034,0,False,residential,Hedgewood Drive,335.935,,,,,,,,,,,12301192,
+111340022,111340023,0,False,primary,Sheridan Drive,207.206,4,,,45 mph,,,,,,,12284458,NY 324
+111340023,111340026,0,False,primary,Sheridan Drive,16.515,4,,,45 mph,,,,,,,12284458,NY 324
+111340023,111340022,0,False,primary,Sheridan Drive,207.206,4,,,45 mph,,,,,,,12284458,NY 324
+111340023,111484593,0,False,residential,Helenwood Drive,158.455,,,,,,,,,,,12317237,
+111340026,111340023,0,False,primary,Sheridan Drive,16.515,4,,,45 mph,,,,,,,12284458,NY 324
+111340026,111340033,0,False,primary,Sheridan Drive,357.467,4,,,45 mph,,,,,,,12284458,NY 324
+111340033,111340036,0,False,primary,Sheridan Drive,470.971,4,,,45 mph,,,,,,,12284458,NY 324
+111340033,111340026,0,False,primary,Sheridan Drive,357.467,4,,,45 mph,,,,,,,12284458,NY 324
+111340036,111340043,0,False,primary,Sheridan Drive,496.673,4,,,45 mph,,,,,,,12284458,NY 324
+111340036,111340033,0,False,primary,Sheridan Drive,470.971,4,,,45 mph,,,,,,,12284458,NY 324
+111340036,111561701,0,False,secondary,Harris Hill Road,1003.915,,,,35 mph,,,,,,,87213797,CR 276
+111340043,111340050,0,False,primary,Sheridan Drive,113.423,4,,,45 mph,,,,,,,12284458,NY 324
+111340043,111340036,0,False,primary,Sheridan Drive,496.673,4,,,45 mph,,,,,,,12284458,NY 324
+111340050,1188233822,0,False,primary,Sheridan Drive,64.261,4,,,45 mph,,,,,,,12284458,NY 324
+111340050,111340043,0,False,primary,Sheridan Drive,113.423,4,,,45 mph,,,,,,,12284458,NY 324
+111340050,111470397,0,False,residential,Boncrest Road,162.311,,,,,,,,,,,12299030,
+111340089,1188233822,0,False,primary,Sheridan Drive,511.53,4,,,45 mph,,,,,,,12284458,NY 324
+111340089,111340093,0,False,primary,Sheridan Drive,95.187,4,,,45 mph,,,,,,,"[480212448, 12284458]",NY 324
+111340089,111388647,0,False,residential,Overlook Drive,203.595,,,,,,,,,,,12314111,
+111340093,1188233822,0,False,"['residential', 'tertiary']","['Shimerville Road', 'Wenner Road']",831.056,,,,,,,,,,,"[480212443, 12315012, 12297295]",
+111340093,111456685,0,False,tertiary,Shimerville Road,129.65,,,,,,,,,,,"[480212444, 480212445]",
+111340093,1188233588,0,False,primary,Sheridan Drive,1178.134,4,,,45 mph,,,,,,,"[480212446, 480212447]",NY 324
+111340093,111340089,0,False,primary,Sheridan Drive,95.187,4,,,45 mph,,,,,,,"[480212448, 12284458]",NY 324
+111340097,111303835,0,False,primary,Sheridan Drive,76.291,4,,,45 mph,,,,,,,480402386,NY 324
+111340097,1188233786,0,False,primary,Main Street,90.931,,,,,,,,,,,480402388,NY 5
+111344406,111488911,0,False,residential,Country Meadows Lane,94.817,,,,,,,,,,,12310002,
+111344406,111308896,0,False,residential,Foxwood Lane,414.369,,,,,,,,,,,12284994,
+111344406,1112257323,0,False,residential,Foxwood Lane,357.009,,,,,,,,,,,12284994,
+111351724,111474927,0,False,residential,"['Reiser Road', 'Boncrest Drive East']",202.443,,,,,,,,,,,"[12285801, 12312621]",
+111351724,111388647,0,False,residential,West Overlook Drive,294.149,,,,,,,,,,,151647444,
+111351724,1644841888,0,False,residential,West Overlook Drive,416.756,,,,,,,,,,,151647444,
+111355153,1014110493,0,False,primary,Main Street,13.768,,,,,,,,,,,113651133,NY 5
+111371350,111371353,0,False,residential,Katie Lane,114.288,,,,,,,,,,,12288002,
+111371350,111510419,0,False,residential,Kalayne Lane,49.065,,,,,,,,,,,12303553,
+111371350,111506986,0,False,residential,Kalayne Lane,241.733,,,,,,,,,,,12303553,
+111371353,111371350,0,False,residential,Katie Lane,114.288,,,,,,,,,,,12288002,
+111371353,111507001,0,False,residential,Stonegate Lane,149.925,,,,,,,,,,,12303079,
+111371353,111506986,0,False,residential,Stonegate Lane,134.204,,,,,,,,,,,12303079,
+111371376,111565134,0,False,residential,Susan Drive,133.101,,,,,,,,,,,12317311,
+111371376,1112257364,0,False,residential,David Road,200.576,,,,,,,,,,,12288006,
+111371376,111409378,0,False,residential,Susan Drive,294.224,,,,,,,,,,,12317311,
+111371384,1112257322,0,False,residential,David Road,296.914,,,,,,,,,,,12288010,
+111371384,111412484,0,False,tertiary,Wehrle Drive,381.242,,,,40 mph,,,,,,,139632131,CR 275
+111378184,111378187,0,False,residential,Nottingham Terrace,210.644,,,,,,,,,,,12288868,
+111378184,111272352,0,False,residential,Nottingham Terrace,102.07,,,,,,,,,,,12288868,
+111378184,111405082,0,False,residential,Trailing Drive,268.513,,,,,,,,,,,12291972,
+111378187,111378184,0,False,residential,Nottingham Terrace,210.644,,,,,,,,,,,12288868,
+111378187,111405086,0,False,residential,Connection Drive,285.778,,,,,,,,,,,12294735,
+111378187,111433825,0,False,residential,Connection Drive,115.201,,,,,,,,,,,12294735,
+111378216,111378245,0,True,residential,Nottingham Terrace,129.048,,,,,,,,,,,12288865,
+111378245,111378254,0,False,residential,Nottingham Terrace,63.061,,,,,,,,,,,12288868,
+111378245,111405068,0,False,residential,Oakwood Drive,248.528,,,,,,,,,,,12306796,
+111378254,111378257,0,False,residential,Nottingham Terrace,105.078,,,,,,,,,,,12288868,
+111378254,111378245,0,False,residential,Nottingham Terrace,63.061,,,,,,,,,,,12288868,
+111378254,111405073,0,False,residential,Fireside Drive,242.332,,,,,,,,,,,12306511,
+111378257,111272352,0,False,residential,Nottingham Terrace,111.518,,,,,,,,,,,12288868,
+111378257,111378254,0,False,residential,Nottingham Terrace,105.078,,,,,,,,,,,12288868,
+111378257,111405076,0,False,residential,Wildwood Drive,250.945,,,,,,,,,,,12305479,
+111383377,111324399,0,False,residential,Boncrest Drive West,142.886,,,,,,,,,,,12312892,
+111383377,111383410,0,False,residential,Rebecca Drive,435.161,,,,,,,,,,,12289511,
+111383377,111426033,0,False,residential,Boncrest Drive West,118.033,,,,,,,,,,,12312892,
+111383410,111324421,0,False,residential,Boncrest Drive East,119.143,,,,,,,,,,,12312621,
+111383410,111383377,0,False,residential,Rebecca Drive,435.161,,,,,,,,,,,12289511,
+111383410,111474927,0,False,residential,Boncrest Drive East,340.271,,,,,,,,,,,12312621,
+111388647,111340089,0,False,residential,Overlook Drive,203.595,,,,,,,,,,,12314111,
+111388647,1644841888,0,False,residential,East Overlook Drive,768.723,,,,,,,,,,,12319406,
+111388647,111351724,0,False,residential,West Overlook Drive,294.149,,,,,,,,,,,151647444,
+111392412,111392419,0,False,residential,Roxbury Drive,354.413,,,,,,,,,,,12290438,
+111392412,111412292,0,False,tertiary,Wehrle Drive,127.491,,,,40 mph,,,,,,,125529164,CR 275
+111392412,111412272,0,False,tertiary,Wehrle Drive,309.875,,,,40 mph,,,,,,,125529164,CR 275
+111392419,111392421,0,False,residential,Roxbury Drive,354.062,,,,,,,,,,,12290438,
+111392419,111534952,0,False,residential,East Howard Drive,125.977,,,,,,,,,,,12306299,
+111392419,111392412,0,False,residential,Roxbury Drive,354.413,,,,,,,,,,,12290438,
+111392421,111392419,0,False,residential,Roxbury Drive,354.062,,,,,,,,,,,12290438,
+111392421,111582229,0,False,primary,Main Street,132.025,,,,,,,,,,,113651133,NY 5
+111392421,111582218,0,False,primary,Main Street,49.808,,,,,,,,,,,113651133,NY 5
+111401809,111401812,0,False,residential,Clardon Drive,188.254,,,,,,,,,,,12291399,
+111401809,111409378,0,False,residential,Donna Place,98.63,,,,,,,,,,,12292150,
+111401809,111409378,1,False,residential,"['West Susan Drive', 'Susan Drive', 'Clardon Drive']",340.783,,,,,,,,,,,"[12289104, 12317311, 12291399]",
+111401812,111401816,0,False,residential,Clardon Drive,239.07,,,,,,,,,,,12291399,
+111401812,111401809,0,False,residential,Clardon Drive,188.254,,,,,,,,,,,12291399,
+111401812,111488911,0,False,residential,Country Meadows Lane,104.414,,,,,,,,,,,12310002,
+111401816,111401812,0,False,residential,Clardon Drive,239.07,,,,,,,,,,,12291399,
+111401816,111565134,0,False,residential,Karen Place,99.194,,,,,,,,,,,12309650,
+111401816,111308896,0,False,residential,"['Foxwood Lane', 'Clardon Drive']",272.036,,,,,,,,,,,"[12284994, 12291399]",
+111402569,111553943,0,False,primary,Main Street,299.0,,,,,,,,,,,480402387,NY 5
+111405063,111405068,0,False,residential,Howard Drive,114.948,,,,,,,,,,,12291691,
+111405063,111405838,0,False,secondary,Harris Hill Road,332.596,2,,,35 mph,,,,,,,12309273,CR 276
+111405063,111561694,0,False,secondary,Harris Hill Road,345.303,2,,,35 mph,,,,,,,12309273,CR 276
+111405068,111405073,0,False,residential,Howard Drive,106.602,,,,,,,,,,,12291691,
+111405068,111405063,0,False,residential,Howard Drive,114.948,,,,,,,,,,,12291691,
+111405068,111405842,0,False,residential,Oakwood Drive,332.491,,,,,,,,,,,12306796,
+111405068,111378245,0,False,residential,Oakwood Drive,248.528,,,,,,,,,,,12306796,
+111405073,111405076,0,False,residential,Howard Drive,106.453,,,,,,,,,,,12291691,
+111405073,111405068,0,False,residential,Howard Drive,106.602,,,,,,,,,,,12291691,
+111405073,111378254,0,False,residential,Fireside Drive,242.332,,,,,,,,,,,12306511,
+111405076,111405081,0,False,residential,Howard Drive,108.057,,,,,,,,,,,12291691,
+111405076,111405073,0,False,residential,Howard Drive,106.453,,,,,,,,,,,12291691,
+111405076,111378257,0,False,residential,Wildwood Drive,250.945,,,,,,,,,,,12305479,
+111405076,111526945,0,False,residential,Wildwood Drive,181.251,,,,,,,,,,,12305479,
+111405081,111405082,0,False,residential,Howard Drive,102.899,,,,,,,,,,,12291691,
+111405081,111405076,0,False,residential,Howard Drive,108.057,,,,,,,,,,,12291691,
+111405081,111272352,0,False,residential,Circle Court,259.627,,,,,,,,,,,12309945,
+111405081,111405849,0,False,residential,Circle Court,333.688,,,,,,,,,,,12309945,
+111405082,111405083,0,False,residential,Howard Drive,103.122,,,,,,,,,,,12291691,
+111405082,111405081,0,False,residential,Howard Drive,102.899,,,,,,,,,,,12291691,
+111405082,111405850,0,False,residential,Trailing Drive,332.921,,,,,,,,,,,12291972,
+111405082,111378184,0,False,residential,Trailing Drive,268.513,,,,,,,,,,,12291972,
+111405083,111405086,0,False,residential,Howard Drive,107.345,,,,,,,,,,,12291691,
+111405083,111405082,0,False,residential,Howard Drive,103.122,,,,,,,,,,,12291691,
+111405083,1188233800,0,False,residential,Vinewood Drive,26.765,,,,,,,,,,,12296973,
+111405083,111405853,0,False,residential,Vinewood Drive,300.006,,,,,,,,,,,12296973,
+111405086,111405090,0,False,residential,Howard Drive,105.728,,,,,,,,,,,12291691,
+111405086,111405083,0,False,residential,Howard Drive,107.345,,,,,,,,,,,12291691,
+111405086,111378187,0,False,residential,Connection Drive,285.778,,,,,,,,,,,12294735,
+111405086,111405854,0,False,residential,Connection Drive,253.751,,,,,,,,,,,12294735,
+111405090,111405086,0,False,residential,Howard Drive,105.728,,,,,,,,,,,12291691,
+111405090,1188233668,0,False,residential,Howard Drive,102.816,,,,,,,,,,,12291691,
+111405090,111644138,0,False,residential,Fairfield Drive,312.243,,,,,,,,,,,12319512,
+111405838,111405842,0,False,residential,Sunset Drive,111.883,,,,,,,,,,,12291763,
+111405838,111405063,0,False,secondary,Harris Hill Road,332.596,2,,,35 mph,,,,,,,12309273,CR 276
+111405842,111405845,0,False,residential,Sunset Drive,108.245,,,,,,,,,,,12291763,
+111405842,111405838,0,False,residential,Sunset Drive,111.883,,,,,,,,,,,12291763,
+111405842,111405068,0,False,residential,Oakwood Drive,332.491,,,,,,,,,,,12306796,
+111405845,111405848,0,False,residential,Sunset Drive,105.893,,,,,,,,,,,12291763,
+111405845,111405842,0,False,residential,Sunset Drive,108.245,,,,,,,,,,,12291763,
+111405845,111526945,0,False,residential,S Fireside Drive,234.265,,,,,,,,,,,12309840,
+111405848,111405849,0,False,residential,Sunset Drive,106.298,,,,,,,,,,,12291763,
+111405848,111405845,0,False,residential,Sunset Drive,105.893,,,,,,,,,,,12291763,
+111405848,111526945,0,False,residential,Wildwood Drive,152.345,,,,,,,,,,,12305479,
+111405849,111405850,0,False,residential,Sunset Drive,105.554,,,,,,,,,,,12291763,
+111405849,111405848,0,False,residential,Sunset Drive,106.298,,,,,,,,,,,12291763,
+111405849,111405081,0,False,residential,Circle Court,333.688,,,,,,,,,,,12309945,
+111405850,111405849,0,False,residential,Sunset Drive,105.554,,,,,,,,,,,12291763,
+111405850,111405082,0,False,residential,Trailing Drive,332.921,,,,,,,,,,,12291972,
+111405850,111405853,0,False,residential,Sunset Drive,109.694,,,,,,,,,,,12291763,
+111405853,111405854,0,False,residential,Sunset Drive,116.004,,,,,,,,,,,12291763,
+111405853,111405083,0,False,residential,Vinewood Drive,300.006,,,,,,,,,,,12296973,
+111405853,111405850,0,False,residential,Sunset Drive,109.694,,,,,,,,,,,12291763,
+111405854,111405853,0,False,residential,Sunset Drive,116.004,,,,,,,,,,,12291763,
+111405854,111412267,0,False,residential,Connection Drive,103.634,,,,,,,,,,,12294735,
+111405854,111405086,0,False,residential,Connection Drive,253.751,,,,,,,,,,,12294735,
+111409378,111401809,0,False,residential,Donna Place,98.63,,,,,,,,,,,12292150,
+111409378,111401809,1,False,residential,"['West Susan Drive', 'Susan Drive', 'Clardon Drive']",340.783,,,,,,,,,,,"[12289104, 12291399, 12317311]",
+111409378,111371376,0,False,residential,Susan Drive,294.224,,,,,,,,,,,12317311,
+111410994,111410997,0,False,residential,Westwood Road,156.379,,,,,,,,,,,12292318,
+111410994,111582188,0,False,primary,Main Street,307.85,,,,,,,,,,,113651133,NY 5
+111410994,111536568,0,False,primary,Main Street,279.929,,,,,,,,,,,113651133,NY 5
+111410997,111411001,0,False,residential,Westwood Road,308.034,,,,,,,,,,,12292318,
+111410997,111410994,0,False,residential,Westwood Road,156.379,,,,,,,,,,,12292318,
+111410997,111529100,0,False,residential,Vernon Circle,160.101,,,,,,,,,,,12305706,
+111411001,111410997,0,False,residential,Westwood Road,308.034,,,,,,,,,,,12292318,
+111411001,111492028,0,False,residential,Ericson Drive,310.007,,,,,,,,,,,12309715,
+111411001,111270997,0,False,residential,"['Ericson Drive', 'Gentwood Drive']",197.65,,,,,,,,,,,"[12320105, 12309715]",
+111412267,111405854,0,False,residential,Connection Drive,103.634,,,,,,,,,,,12294735,
+111412267,111412272,0,False,tertiary,Wehrle Drive,135.674,,,,40 mph,,,,,,,125529164,CR 275
+111412272,111477242,0,False,residential,Heather Drive,139.286,,,,,,,,,,,12307442,
+111412272,111392412,0,False,tertiary,Wehrle Drive,309.875,,,,40 mph,,,,,,,125529164,CR 275
+111412272,111412267,0,False,tertiary,Wehrle Drive,135.674,,,,40 mph,,,,,,,125529164,CR 275
+111412292,111412295,0,False,tertiary,Wehrle Drive,128.425,,,,40 mph,,,,,,,125529164,CR 275
+111412292,111534952,0,False,residential,Cameron Road,344.173,,,,,,,,,,,12312355,
+111412292,111392412,0,False,tertiary,Wehrle Drive,127.491,,,,40 mph,,,,,,,125529164,CR 275
+111412295,111412292,0,False,tertiary,Wehrle Drive,128.425,,,,40 mph,,,,,,,125529164,CR 275
+111412295,111456766,0,False,tertiary,Shimerville Road,339.73,,,,,,,,,,,480212445,
+111412295,111412380,0,False,tertiary,Wehrle Drive,1992.236,,,,40 mph,,,,,,,257644926,CR 275
+111412380,111553771,0,False,residential,Faber Lane,208.827,,,,,,,,,,,12308388,
+111412380,111412295,0,False,tertiary,Wehrle Drive,1992.236,,,,40 mph,,,,,,,257644926,CR 275
+111412477,4463347190,0,False,residential,Capstone Circle,241.683,,,,,,,,,,,449370116,
+111412484,1112257323,0,False,residential,Foxwood Ln,112.926,,,,,,,,,,,96000736,
+111412484,111371384,0,False,tertiary,Wehrle Drive,381.242,,,,40 mph,,,,,,,139632131,CR 275
+111426033,111474927,0,False,residential,Sheridan Hill Drive,432.482,,,,,,,,,,,12299494,
+111426033,111383377,0,False,residential,Boncrest Drive West,118.033,,,,,,,,,,,12312892,
+111426033,1296733601,0,False,residential,Boncrest Drive West,469.372,,,,,,,,,,,12312892,
+111431288,111431297,0,False,residential,Darcy Lane,115.346,,,,,,,,,,,12294523,
+111431288,111483465,0,False,residential,Merrihurst Drive,105.212,,,,,,,,,,,12300333,
+111431288,111483463,0,False,residential,Merrihurst Drive,136.865,,,,,,,,,,,12300333,
+111431297,111431288,0,False,residential,Darcy Lane,115.346,,,,,,,,,,,12294523,
+111433825,111582218,0,False,primary,Main Street,384.088,,,,,,,,,,,113651133,NY 5
+111433825,111378187,0,False,residential,Connection Drive,115.201,,,,,,,,,,,12294735,
+111433825,111567717,0,False,primary,Main Street,311.191,,,,,,,,,,,113651133,NY 5
+111452871,1188233866,0,False,residential,Milton Lane,141.78,,,,,,,,,,,12296839,
+111452871,111503593,0,False,residential,White Acres Road,94.989,,,,,,,,,,,12316929,
+111452871,111503593,1,False,residential,"['Barton Road', 'White Acres Road']",637.211,,,,,,,,,,,"[12316929, 12302677, 102897413]",
+111456672,111456685,0,False,residential,Christian Drive,664.509,,,,,,,,,,,12310845,
+111456672,111456685,1,False,tertiary,Shimerville Road,607.924,,,,,,,,,,,480212445,
+111456672,111456774,0,False,tertiary,Shimerville Road,278.716,,,,,,,,,,,480212445,
+111456685,111456672,0,False,residential,Christian Drive,664.509,,,,,,,,,,,12310845,
+111456685,111456672,1,False,tertiary,Shimerville Road,607.924,,,,,,,,,,,480212445,
+111456685,111340093,0,False,tertiary,Shimerville Road,129.65,,,,,,,,,,,"[480212444, 480212445]",
+111456766,111534952,0,False,residential,East Howard Drive,129.081,,,,,,,,,,,12306299,
+111456766,111412295,0,False,tertiary,Shimerville Road,339.73,,,,,,,,,,,480212445,
+111456766,111456774,0,False,tertiary,Shimerville Road,432.453,,,,,,,,,,,480212445,
+111456774,111503597,0,False,primary,Main Street,673.684,,,,,,,,,,,113651133,NY 5
+111456774,111582229,0,False,primary,Main Street,133.41,,,,,,,,,,,113651133,NY 5
+111456774,111456672,0,False,tertiary,Shimerville Road,278.716,,,,,,,,,,,480212445,
+111456774,111456766,0,False,tertiary,Shimerville Road,432.453,,,,,,,,,,,480212445,
+111470397,111324421,0,False,residential,Boncrest Drive East,123.113,,,,,,,,,,,12312621,
+111470397,111340050,0,False,residential,Boncrest Road,162.311,,,,,,,,,,,12299030,
+111470397,111324399,0,False,residential,Boncrest Drive West,253.904,,,,,,,,,,,12312892,
+111474927,111426033,0,False,residential,Sheridan Hill Drive,432.482,,,,,,,,,,,12299494,
+111474927,111383410,0,False,residential,Boncrest Drive East,340.271,,,,,,,,,,,12312621,
+111474927,111351724,0,False,residential,"['Reiser Road', 'Boncrest Drive East']",202.443,,,,,,,,,,,"[12285801, 12312621]",
+111477242,111477248,0,False,residential,James Court,47.806,,,,,,,,,,,12299715,
+111477242,111545035,0,False,residential,Heather Drive,91.26,,,,,,,,,,,12307442,
+111477242,111412272,0,False,residential,Heather Drive,139.286,,,,,,,,,,,12307442,
+111477248,111477242,0,False,residential,James Court,47.806,,,,,,,,,,,12299715,
+111483463,111431288,0,False,residential,Merrihurst Drive,136.865,,,,,,,,,,,12300333,
+111483463,111561701,0,False,secondary,Harris Hill Road,120.879,,,,35 mph,,,,,,,87213797,CR 276
+111483463,111561694,0,False,secondary,Harris Hill Road,334.83,,,,35 mph,,,,,,,87213797,CR 276
+111483465,111431288,0,False,residential,Merrihurst Drive,105.212,,,,,,,,,,,12300333,
+111484593,111270922,0,False,residential,Brentwood Drive,255.789,,,,,,,,,,,12300470,
+111484593,111340023,0,False,residential,Helenwood Drive,158.455,,,,,,,,,,,12317237,
+111484593,1295372022,0,False,residential,Helenwood Drive,218.733,,,,,,,,,,,12317237,
+111488911,111344406,0,False,residential,Country Meadows Lane,94.817,,,,,,,,,,,12310002,
+111488911,111308896,0,False,residential,Thornwood Lane,373.17,,,,,,,,,,,12300925,
+111488911,1112257323,0,False,residential,Thornwood Lane,350.117,,,,,,,,,,,12300925,
+111488911,111401812,0,False,residential,Country Meadows Lane,104.414,,,,,,,,,,,12310002,
+111492028,111332216,0,False,residential,Hedgewood Drive,140.888,,,,,,,,,,,12301192,
+111492028,111565685,0,False,residential,Ericson Drive,143.206,,,,,,,,,,,12309715,
+111492028,111411001,0,False,residential,Ericson Drive,310.007,,,,,,,,,,,12309715,
+111492034,111270922,0,False,residential,Hedgewood Drive,480.716,,,,,,,,,,,12301192,
+111492034,111332216,0,False,residential,Hedgewood Drive,335.935,,,,,,,,,,,12301192,
+111492034,111575771,0,False,residential,Bittersweet Lane,139.611,,,,,,,,,,,12310836,
+111503593,111503597,0,False,residential,Barton Road,134.442,,,,,,,,,,,12302677,
+111503593,111452871,0,False,residential,"['Barton Road', 'White Acres Road']",637.211,,,,,,,,,,,"[12316929, 102897413, 12302677]",
+111503593,111452871,1,False,residential,White Acres Road,94.989,,,,,,,,,,,12316929,
+111503597,111503593,0,False,residential,Barton Road,134.442,,,,,,,,,,,12302677,
+111503597,1188233786,0,False,primary,Main Street,287.671,,,,,,,,,,,113651133,NY 5
+111503597,111456774,0,False,primary,Main Street,673.684,,,,,,,,,,,113651133,NY 5
+111506986,111371353,0,False,residential,Stonegate Lane,134.204,,,,,,,,,,,12303079,
+111506986,111371350,0,False,residential,Kalayne Lane,241.733,,,,,,,,,,,12303553,
+111507001,111371353,0,False,residential,Stonegate Lane,149.925,,,,,,,,,,,12303079,
+111510419,111371350,0,False,residential,Kalayne Lane,49.065,,,,,,,,,,,12303553,
+111515061,111515064,0,False,residential,Melinda Drive,119.806,,,,,,,,,,,12304131,
+111515061,111515064,1,False,residential,"['North Melinda Drive', 'Patricia Drive']",425.569,,,,,,,,,,,"[12313939, 12318542]",
+111515061,111601038,0,False,residential,Patricia Drive,43.384,,,,,,,,,,,12313939,
+111515064,111515061,0,False,residential,Melinda Drive,119.806,,,,,,,,,,,12304131,
+111515064,111515061,1,False,residential,"['North Melinda Drive', 'Patricia Drive']",425.569,,,,,,,,,,,"[12313939, 12318542]",
+111515064,111515086,0,False,residential,Melinda Drive,178.446,,,,,,,,,,,12304131,
+111515086,111515064,0,False,residential,Melinda Drive,178.446,,,,,,,,,,,12304131,
+111515086,111553943,0,False,tertiary,Gunnville Road,464.827,,,,40 mph,,,,,,,12308413,CR 288
+111526945,111405848,0,False,residential,Wildwood Drive,152.345,,,,,,,,,,,12305479,
+111526945,111405076,0,False,residential,Wildwood Drive,181.251,,,,,,,,,,,12305479,
+111526945,111405845,0,False,residential,S Fireside Drive,234.265,,,,,,,,,,,12309840,
+111529100,111529123,0,False,residential,Vernon Circle,495.863,,,,,,,,,,,12305706,
+111529100,111529123,1,False,residential,Kimberly Road,500.478,,,,,,,,,,,12314845,
+111529100,111410997,0,False,residential,Vernon Circle,160.101,,,,,,,,,,,12305706,
+111529123,111529144,0,False,residential,Vernon Circle,134.938,,,,,,,,,,,12305706,
+111529123,111529100,0,False,residential,Vernon Circle,495.863,,,,,,,,,,,12305706,
+111529123,111529100,1,False,residential,Kimberly Road,500.478,,,,,,,,,,,12314845,
+111529144,111582210,0,False,residential,Arondale Road,302.687,,,,,,,,,,,12312348,
+111529144,111529123,0,False,residential,Vernon Circle,134.938,,,,,,,,,,,12305706,
+111529144,111565692,0,False,residential,Arondale Road,161.718,,,,,,,,,,,12312348,
+111534952,111456766,0,False,residential,East Howard Drive,129.081,,,,,,,,,,,12306299,
+111534952,111392419,0,False,residential,East Howard Drive,125.977,,,,,,,,,,,12306299,
+111534952,111582229,0,False,residential,Cameron Road,391.989,,,,,,,,,,,12312355,
+111534952,111412292,0,False,residential,Cameron Road,344.173,,,,,,,,,,,12312355,
+111536568,111536571,0,False,unclassified,Bryant and Stratton Way,319.9,,,,,,,,,,,12306492,
+111536568,1188233714,0,False,primary,Main Street,97.559,,,,,,,,,,,113651133,NY 5
+111536568,111410994,0,False,primary,Main Street,279.929,,,,,,,,,,,113651133,NY 5
+111536571,111536568,0,False,unclassified,Bryant and Stratton Way,319.9,,,,,,,,,,,12306492,
+111538454,111332213,0,False,residential,Norwood Drive,69.72,,,,,,,,,,,12306666,
+111545035,1188233668,0,False,residential,Old Hickory Lane,122.488,,,,,,,,,,,12307628,
+111545035,1188233720,0,False,residential,Heather Drive,58.972,,,,,,,,,,,12307442,
+111545035,111477242,0,False,residential,Heather Drive,91.26,,,,,,,,,,,12307442,
+111553771,111412380,0,False,residential,Faber Lane,208.827,,,,,,,,,,,12308388,
+111553943,111515086,0,False,tertiary,Gunnville Road,464.827,,,,40 mph,,,,,,,12308413,CR 288
+111553943,111402569,0,False,primary,Main Street,299.0,,,,,,,,,,,480402387,NY 5
+111561694,1295372033,0,False,primary,Main Street,35.744,,,,,,,,,,,113651133,NY 5
+111561694,111582210,0,False,primary,Main Street,152.495,,,,,,,,,,,113651133,NY 5
+111561694,111405063,0,False,secondary,Harris Hill Road,345.303,2,,,35 mph,,,,,,,12309273,CR 276
+111561694,111483463,0,False,secondary,Harris Hill Road,334.83,,,,35 mph,,,,,,,87213797,CR 276
+111561701,111565692,0,False,residential,Ericson Drive,144.096,,,,,,,,,,,12309715,
+111561701,111483463,0,False,secondary,Harris Hill Road,120.879,,,,35 mph,,,,,,,87213797,CR 276
+111561701,111340036,0,False,secondary,Harris Hill Road,1003.915,,,,35 mph,,,,,,,87213797,CR 276
+111565134,111401816,0,False,residential,Karen Place,99.194,,,,,,,,,,,12309650,
+111565134,111371376,0,False,residential,Susan Drive,133.101,,,,,,,,,,,12317311,
+111565134,111582188,0,False,residential,Susan Drive,307.165,,,,,,,,,,,12317311,
+111565685,111492028,0,False,residential,Ericson Drive,143.206,,,,,,,,,,,12309715,
+111565685,111565692,0,False,residential,Ericson Drive,177.214,,,,,,,,,,,12309715,
+111565685,111575771,0,False,residential,Greenbriar Road,478.42,,,,,,,,,,,12314789,
+111565692,111561701,0,False,residential,Ericson Drive,144.096,,,,,,,,,,,12309715,
+111565692,111565685,0,False,residential,Ericson Drive,177.214,,,,,,,,,,,12309715,
+111565692,111529144,0,False,residential,Arondale Road,161.718,,,,,,,,,,,12312348,
+111567717,111272352,0,False,residential,Circle Court,117.609,,,,,,,,,,,12309945,
+111567717,111433825,0,False,primary,Main Street,311.191,,,,,,,,,,,113651133,NY 5
+111567717,4618548687,0,False,primary,Main Street,198.38,,,,,,,,,,,113651133,NY 5
+111575771,111492034,0,False,residential,Bittersweet Lane,139.611,,,,,,,,,,,12310836,
+111575771,111607976,0,False,residential,Greenbriar Road,165.824,,,,,,,,,,,12314789,
+111575771,111565685,0,False,residential,Greenbriar Road,478.42,,,,,,,,,,,12314789,
+111582138,1188233714,0,False,primary,Main Street,61.546,,,,,,,,,,,113651133,NY 5
+111582138,1188233848,0,False,unclassified,Auto Pl,63.484,,,,,,,,,,,102897406,
+111582138,1014110493,0,False,primary,Main Street,373.934,,,,,,,,,,,113651133,NY 5
+111582188,111565134,0,False,residential,Susan Drive,307.165,,,,,,,,,,,12317311,
+111582188,111582210,0,False,primary,Main Street,316.527,,,,,,,,,,,113651133,NY 5
+111582188,111410994,0,False,primary,Main Street,307.85,,,,,,,,,,,113651133,NY 5
+111582210,111529144,0,False,residential,Arondale Road,302.687,,,,,,,,,,,12312348,
+111582210,111561694,0,False,primary,Main Street,152.495,,,,,,,,,,,113651133,NY 5
+111582210,111582188,0,False,primary,Main Street,316.527,,,,,,,,,,,113651133,NY 5
+111582218,111392421,0,False,primary,Main Street,49.808,,,,,,,,,,,113651133,NY 5
+111582218,111433825,0,False,primary,Main Street,384.088,,,,,,,,,,,113651133,NY 5
+111582218,1644841888,0,False,residential,Overlook Drive,247.672,,,,,,,,,,,151647445,
+111582229,111534952,0,False,residential,Cameron Road,391.989,,,,,,,,,,,12312355,
+111582229,111392421,0,False,primary,Main Street,132.025,,,,,,,,,,,113651133,NY 5
+111582229,111456774,0,False,primary,Main Street,133.41,,,,,,,,,,,113651133,NY 5
+111601038,111515061,0,False,residential,Patricia Drive,43.384,,,,,,,,,,,12313939,
+111607976,111575771,0,False,residential,Greenbriar Road,165.824,,,,,,,,,,,12314789,
+111644138,111405090,0,False,residential,Fairfield Drive,312.243,,,,,,,,,,,12319512,
+111648462,111332211,0,False,residential,Gentwood Drive,69.497,,,,,,,,,,,12320107,
+994262327,994262345,0,True,primary_link,,33.712,,,,,,,,,,,12280482,
+994262327,111309860,0,False,primary_link,Sheridan Drive,322.517,,,,,,,,,,,85688300,
+994262331,994262332,0,True,primary,Sheridan Drive,30.491,,,,,,,,,,,85688302,NY 324
+994262331,111309860,0,True,primary_link,,36.167,,,,,,,,,,,85688310,
+994262344,994262327,0,True,primary_link,,32.02,,,,,,,,,,,85688309,
+994262344,994262345,0,True,primary,Transit Road,21.834,3,,,45 mph,,,,,,,107107530,NY 78
+994262345,994262346,0,True,primary,Transit Road,85.837,3,,,45 mph,,,,,,,107107530,NY 78
+1014110419,1014110493,0,True,primary,Transit Road,663.204,3,,,45 mph,,,,,,,257664021,NY 78
+1014110493,111355153,0,False,primary,Main Street,13.768,,,,,,,,,,,113651133,NY 5
+1014110493,111582138,0,False,primary,Main Street,373.934,,,,,,,,,,,113651133,NY 5
+1014110493,994262344,0,True,primary,Transit Road,1220.867,3,,,45 mph,,,,,,,"[107107530, 257664021]",NY 78
+1060170848,1060170848,0,False,residential,Coventry Green Circle,735.875,,,,,,,,,,,"[361425843, 361425844, 91322003, 361425845, 361425846]",
+1060170848,1060170848,1,False,residential,Coventry Green Circle,735.875,,,,,,,,,,,"[91322003, 361425844, 361425843, 361425846, 361425845]",
+1112257322,1112257327,0,False,residential,David Road,138.496,,,,,,,,,,,"[12288010, 12288006]",
+1112257322,111371384,0,False,residential,David Road,296.914,,,,,,,,,,,12288010,
+1112257323,111412484,0,False,residential,Foxwood Ln,112.926,,,,,,,,,,,96000736,
+1112257323,111344406,0,False,residential,Foxwood Lane,357.009,,,,,,,,,,,12284994,
+1112257323,111488911,0,False,residential,Thornwood Lane,350.117,,,,,,,,,,,12300925,
+1112257327,1112257364,0,False,residential,David Road,41.475,,,,,,,,,,,12288006,
+1112257327,1112257364,1,False,residential,David Court,143.603,,,,,,,,,,,12318186,
+1112257327,1112257322,0,False,residential,David Road,138.496,,,,,,,,,,,"[12288010, 12288006]",
+1112257364,111371376,0,False,residential,David Road,200.576,,,,,,,,,,,12288006,
+1112257364,1112257327,0,False,residential,David Road,41.475,,,,,,,,,,,12288006,
+1112257364,1112257327,1,False,residential,David Court,143.603,,,,,,,,,,,12318186,
+1188233571,1188233773,0,False,residential,,49.534,,,,,,,,,,,102897410,
+1188233571,1188233841,0,False,residential,,201.903,,,,,,,,,,,102897389,
+1188233571,1188233841,1,False,residential,,197.533,,,,,,,,,,,102897410,
+1188233588,1188233779,0,False,primary,Sheridan Drive,37.16,4,,,45 mph,,,,,,,480212446,NY 324
+1188233588,111340093,0,False,primary,Sheridan Drive,1178.134,4,,,45 mph,,,,,,,"[480212446, 480212447]",NY 324
+1188233668,1188233690,0,False,residential,Old Hickory Lane,13.056,,,,,,,,,,,12307628,
+1188233668,111545035,0,False,residential,Old Hickory Lane,122.488,,,,,,,,,,,12307628,
+1188233668,111405090,0,False,residential,Howard Drive,102.816,,,,,,,,,,,12291691,
+1188233690,1188233668,0,False,residential,Old Hickory Lane,13.056,,,,,,,,,,,12307628,
+1188233714,111536568,0,False,primary,Main Street,97.559,,,,,,,,,,,113651133,NY 5
+1188233714,111582138,0,False,primary,Main Street,61.546,,,,,,,,,,,113651133,NY 5
+1188233720,111545035,0,False,residential,Heather Drive,58.972,,,,,,,,,,,12307442,
+1188233726,1188233726,0,False,residential,Brentwood Drive,118.862,,,,,,,,,,,12300470,
+1188233726,1188233726,1,False,residential,Brentwood Drive,118.862,,,,,,,,,,,12300470,
+1188233726,111270922,0,False,residential,Brentwood Drive,374.768,,,,,,,,,,,12300470,
+1188233773,1188233571,0,False,residential,,49.534,,,,,,,,,,,102897410,
+1188233779,1188233588,0,False,primary,Sheridan Drive,37.16,4,,,45 mph,,,,,,,480212446,NY 324
+1188233779,111303835,0,False,primary,Sheridan Drive,70.788,4,,,45 mph,,,,,,,480212446,NY 324
+1188233786,111503597,0,False,primary,Main Street,287.671,,,,,,,,,,,113651133,NY 5
+1188233786,111340097,0,False,primary,Main Street,90.931,,,,,,,,,,,480402388,NY 5
+1188233800,111405083,0,False,residential,Vinewood Drive,26.765,,,,,,,,,,,12296973,
+1188233811,1188233848,0,False,unclassified,Auto Pl,325.444,,,,,,,,,,,102897406,
+1188233822,111340089,0,False,primary,Sheridan Drive,511.53,4,,,45 mph,,,,,,,12284458,NY 324
+1188233822,111340050,0,False,primary,Sheridan Drive,64.261,4,,,45 mph,,,,,,,12284458,NY 324
+1188233822,111340093,0,False,"['residential', 'tertiary']","['Wenner Road', 'Shimerville Road']",831.056,,,,,,,,,,,"[480212443, 12315012, 12297295]",
+1188233841,1188233571,0,False,residential,,201.903,,,,,,,,,,,102897389,
+1188233841,1188233571,1,False,residential,,197.533,,,,,,,,,,,102897410,
+1188233848,1188233714,0,True,unclassified,,86.715,,,,,,,,,,,102897397,
+1188233848,1188233811,0,False,unclassified,Auto Pl,325.444,,,,,,,,,,,102897406,
+1188233848,111582138,0,False,unclassified,Auto Pl,63.484,,,,,,,,,,,102897406,
+1188233866,111452871,0,False,residential,Milton Lane,141.78,,,,,,,,,,,12296839,
+1295372022,111484593,0,False,residential,Helenwood Drive,218.733,,,,,,,,,,,12317237,
+1295372030,4618548687,0,False,primary,Main Street,181.761,,,,,,,,,,,113651133,NY 5
+1295372030,1295372033,0,False,primary,Main Street,32.391,,,,,,,,,,,113651133,NY 5
+1295372030,111378216,0,True,residential,Nottingham Ter,32.874,,,,,,,,,,,114331574,
+1295372033,111561694,0,False,primary,Main Street,35.744,,,,,,,,,,,113651133,NY 5
+1295372033,111378216,0,True,residential,Nottingham Terrace,50.631,,,,,,,,,,,12288865,
+1295372033,1295372030,0,False,primary,Main Street,32.391,,,,,,,,,,,113651133,NY 5
+1296733495,111270997,0,False,residential,Gentwood Drive,71.01,,,,,,,,,,,12320105,
+1296733601,111426033,0,False,residential,Boncrest Drive West,469.372,,,,,,,,,,,12312892,
+1644841888,111388647,0,False,residential,East Overlook Drive,768.723,,,,,,,,,,,12319406,
+1644841888,111351724,0,False,residential,West Overlook Drive,416.756,,,,,,,,,,,151647444,
+1644841888,111582218,0,False,residential,Overlook Drive,247.672,,,,,,,,,,,151647445,
+3659018613,4463347189,0,False,residential,Capstone Circle,50.827,,,,,,,,,,,449370115,
+4463347189,4463347190,0,False,residential,Capstone Circle,88.767,,,,,,,,,,,449370039,
+4463347189,4463347190,1,False,residential,Capstone Circle,224.706,,,,,,,,,,,449370039,
+4463347189,3659018613,0,False,residential,Capstone Circle,50.827,,,,,,,,,,,449370115,
+4463347190,4463347189,0,False,residential,Capstone Circle,88.767,,,,,,,,,,,449370039,
+4463347190,4463347189,1,False,residential,Capstone Circle,224.706,,,,,,,,,,,449370039,
+4463347190,111412477,0,False,residential,Capstone Circle,241.683,,,,,,,,,,,449370116,
+4618548687,1295372030,0,False,primary,Main Street,181.761,,,,,,,,,,,113651133,NY 5
+4618548687,111567717,0,False,primary,Main Street,198.38,,,,,,,,,,,113651133,NY 5
+4618548687,4618548990,0,False,residential,Laura Lane,209.628,,,,,,,,,,,467206381,
+4618548990,4618548687,0,False,residential,Laura Lane,209.628,,,,,,,,,,,467206381,

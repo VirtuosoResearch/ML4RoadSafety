@@ -1,0 +1,43 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+49133293,49193082,0,False,residential,Avondale Street,197.452,,,,,,,,,,,5978135,
+49137759,5191467668,0,False,primary_link,,11.108,,,,,,,,,,,535680791,
+49137759,49197474,0,False,residential,Middleton Lane,278.051,,,,,,,,,,,5971015,
+49155977,49155979,0,False,residential,Sleaford Road,297.658,,,,,,,,,,,5966965,
+49155977,49257673,0,False,residential,Chelton Road,112.883,,,,,,,,,,,5977510,
+49155979,49155977,0,False,residential,Sleaford Road,297.658,,,,,,,,,,,5966965,
+49155979,49197474,0,False,residential,Pearl Street,88.99,,,,,,,,,,,563490766,
+49167698,3766088629,0,True,primary,Woodmont Avenue,23.348,4,,,,,,,,,,26764775,
+49167698,49228314,0,False,primary,Old Georgetown Road,45.525,5,,,25 mph,,,,,,,468530777,MD 187
+49167707,49210043,0,False,residential,Edgemoor Lane,161.105,,,,,,,,,,,44708088,
+49193082,666946269,0,False,residential,Commerce Lane,12.951,,,,,,,,,,,506753716,
+49193082,49137759,0,True,primary,Wisconsin Avenue,84.892,3,,,,,,,,,,506753717,MD 355
+49193082,49133293,0,False,residential,Avondale Street,197.452,,,,,,,,,,,5978135,
+49197474,49155979,0,False,residential,Pearl Street,88.99,,,,,,,,,,,563490766,
+49197474,49137759,0,False,residential,Middleton Lane,278.051,,,,,,,,,,,5971015,
+49197474,49267298,0,False,residential,Pearl Street,233.631,,,,,,,,,,,563490766,
+49207433,49228314,0,False,primary,Old Georgetown Road,97.1,"['5', '4']",,,25 mph,,,,,,,"[468530777, 468530769]",MD 187
+49210028,666946269,0,False,residential,Commerce Lane,105.247,,,,,,,,,,,5972399,
+49210028,3766088626,0,True,primary,Old Georgetown Road,93.663,3,,,30 mph,,,,,,,5974127,MD 187
+49210043,49167707,0,False,residential,Edgemoor Lane,161.105,,,,,,,,,,,44708088,
+49210043,49302895,0,False,tertiary,Arlington Road,148.702,,,,,,,,,,,535482939,
+49228314,49302895,0,False,residential,Moorland Lane,153.88,,,,,,,,,,,5984730,
+49228314,49207433,0,False,primary,Old Georgetown Road,97.1,"['5', '4']",,,25 mph,,,,,,,"[468530769, 468530777]",MD 187
+49228314,49167698,0,False,primary,Old Georgetown Road,45.525,5,,,25 mph,,,,,,,468530777,MD 187
+49257673,393464125,0,False,residential,Chelton Road,81.989,,,,,,,,,,,5977510,
+49257673,49155977,0,False,residential,Chelton Road,112.883,,,,,,,,,,,5977510,
+49267298,49197474,0,False,residential,Pearl Street,233.631,,,,,,,,,,,563490766,
+49302895,49228314,0,False,residential,Moorland Lane,153.88,,,,,,,,,,,5984730,
+49302895,49210043,0,False,tertiary,Arlington Road,148.702,,,,,,,,,,,535482939,
+393464125,49257673,0,False,residential,Chelton Road,81.989,,,,,,,,,,,5977510,
+393464125,393464309,0,False,residential,Chelton Road,96.589,,,,,,,,,,,5977510,
+393464309,393464125,0,False,residential,Chelton Road,96.589,,,,,,,,,,,5977510,
+393464309,49267298,0,True,primary,East-West Highway,293.627,"['2', '3']",,,25 mph,,,,,,,"[114850088, 48475721]",MD 410
+666946269,49193082,0,False,residential,Commerce Lane,12.951,,,,,,,,,,,506753716,
+666946269,49210028,0,False,residential,Commerce Lane,105.247,,,,,,,,,,,5972399,
+666946269,666946272,0,True,primary,Wisconsin Avenue,128.614,3,,,,,,,,,,506753852,MD 355
+666946272,49210028,0,True,primary,Old Georgetown Road,146.057,3,,,30 mph,,,,,,,521154904,MD 187
+3766088626,49167698,0,True,primary,Old Georgetown Road,20.166,3,,,30 mph,,,,,,,5974127,MD 187
+3766088626,3766088629,0,True,primary_link,,32.468,,,,,,,,,,,373075043,
+3766088629,49167707,0,True,primary,Woodmont Avenue,155.005,4,,,,,,,,,,26764775,
+5191467668,49137759,0,False,primary_link,,11.108,,,,,,,,,,,535680791,
+5191467668,666946269,0,True,primary,Wisconsin Avenue,86.213,3,,,,,,,,,,535680785,MD 355

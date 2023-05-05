@@ -1,0 +1,255 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+43006240,1740821256,0,True,trunk,Niagara Street,62.299,2,,,,,,,,,,51217950,
+43010652,43010653,0,False,residential,Old Falls Street,143.998,2,,,,,,,,,,5715659,
+43010652,3965113552,0,True,secondary,Prospect Street,110.628,,,,,,,,,,,586720706,
+43010653,43010652,0,False,residential,Old Falls Street,143.998,2,,,,,,,,,,5715659,
+43010653,43034119,0,False,secondary,Rainbow Boulevard,107.156,2,,,,,,,,,,68286498,
+43010653,43010654,0,False,residential,Old Falls Street,109.149,2,,,,,,,,,,49001355,
+43010653,1277737890,0,False,secondary,Rainbow Boulevard,35.21,2,,,,,,,,,,68286498,
+43010654,1886793251,0,False,residential,Old Falls Street,212.966,,,,20 mph,,,,,,,5717925,
+43010654,653540581,0,False,secondary,1st Street,110.899,,,,,,,,,,,51217939,
+43010654,43010653,0,False,residential,Old Falls Street,109.149,2,,,,,,,,,,49001355,
+43010654,653540822,0,False,secondary,1st Street,229.067,,,,,,,,,,,51217939,
+43011072,653540941,0,False,residential,6th Street,225.667,2,,,,,,,,,,5715709,
+43011072,3965095421,0,False,residential,Falls Street,193.936,,,,,,,,,,,5717924,
+43011072,43029505,0,False,residential,Duggan Drive,218.329,,,,,,,,,,,"[5715937, 589334797]",
+43011088,43015677,0,True,primary,Ferry Avenue,105.362,2,,,30 mph,,,,,,,26556043,US 62
+43011088,653541003,0,True,residential,6th Street,252.733,,,,,,,,,,,51217946,
+43011090,43028470,0,True,primary,Walnut Avenue,106.054,2,,,30 mph,,,,,,,5717753,US 62
+43011090,43011088,0,True,residential,6th Street,231.15,,,,,,,,,,,51217946,
+43011384,43024088,0,False,residential,2nd Street,133.46,,,,,,,,,,,5717231,
+43011384,653540490,0,False,secondary,Rainbow Boulevard,87.287,,,,,,,,,,,33179313,
+43011384,43011386,0,False,secondary,Rainbow Boulevard,113.248,,,,,,,,,,,33179313,
+43011386,375867319,0,True,secondary,Rainbow Boulevard,118.112,,,,,,,,,,,33179291,
+43011386,43011384,0,False,secondary,Rainbow Boulevard,113.248,,,,,,,,,,,33179313,
+43011386,43014862,0,False,residential,3rd Street,123.481,,,,,,,,,,,178872180,
+43011386,43013403,0,False,residential,3rd Street,173.048,2,,,,,,,,,,258140895,
+43011389,43013406,0,False,residential,4th Street,188.87,,,,,,,,,,,393288732,
+43011389,375867319,0,False,residential,4th Street,12.507,,,,,,,,,,,393288732,
+43011389,43011386,0,True,secondary,Rainbow Boulevard,113.631,,,,,,,,,,,51217968,
+43011391,375867701,0,False,residential,5th Street,12.867,,,,,,,,,,,5717812,
+43011391,43029505,0,False,residential,5th Street,190.317,,,,,,,,,,,5717812,
+43011391,43011389,0,True,secondary,Rainbow Boulevard,106.428,,,,,,,,,,,51217968,
+43011394,375867705,0,False,residential,6th Street,13.038,,,,,,,,,,,151630094,
+43011394,43011391,0,True,secondary,Rainbow Boulevard,105.436,,,,,,,,,,,51217968,
+43011394,1644652133,0,False,residential,6th Street,91.668,,,,,,,,,,,151630094,
+43013403,43013406,0,False,residential,Duggan Drive,105.36,,,,,,,,,,,5715937,
+43013403,1886793251,0,False,residential,3rd Street,104.402,2,,,,,,,,,,258140895,
+43013403,43011386,0,False,residential,3rd Street,173.048,2,,,,,,,,,,258140895,
+43013406,43013403,0,False,residential,Duggan Drive,105.36,,,,,,,,,,,5715937,
+43013406,43011389,0,False,residential,4th Street,188.87,,,,,,,,,,,393288732,
+43013406,43029505,0,False,residential,Duggan Drive,107.502,,,,,,,,,,,5715937,
+43013406,43016169,0,False,residential,4th Street,215.396,2,,,,,,,,,,"[178313375, 178313374, 60219311]",
+43014862,43034692,0,False,residential,Buffalo Avenue,233.39,,,,,,,,,,,178198813,
+43014862,43034695,0,False,residential,Buffalo Avenue,122.806,,,,,,,,,,,178198813,
+43014862,43011386,0,False,residential,3rd Street,123.481,,,,,,,,,,,178872180,
+43014872,43016169,0,False,residential,Wendel Way,104.014,2,,,,,,,,,,5716271,
+43014872,653540914,0,False,residential,3rd Street,117.263,2,,,,,,,,,,258140895,
+43014872,1886793251,0,False,residential,3rd Street,112.059,2,,,,,,,,,,258140895,
+43014878,43015667,0,True,primary,Ferry Avenue,105.755,2,,,30 mph,,,,,,,26556043,US 62
+43014878,43014883,0,False,primary,3rd Street,123.08,,,,,,,,,,,52323478,
+43014878,653541283,0,False,residential,3rd Street,258.299,,,,,,,,,,,178872179,
+43014883,5599658080,0,False,primary,Main Street,124.558,3,,,30 mph,,,,,,,26528023,NY 104
+43014883,43032711,0,False,primary,Main Street,141.184,3,,,30 mph,,,,,,,26528023,NY 104
+43014883,43014886,0,False,tertiary,3rd Street,146.625,2,,,,,,,,,,52323477,
+43014883,43014878,0,False,primary,3rd Street,123.08,,,,,,,,,,,52323478,
+43014886,43020230,0,False,residential,Walnut Avenue,97.505,2,,,,,,,,,,5717754,
+43014886,43014889,0,False,tertiary,3rd Street,135.718,2,,,,,,,,,,52323477,
+43014886,43014883,0,False,tertiary,3rd Street,146.625,2,,,,,,,,,,52323477,
+43014889,43014893,0,False,tertiary,3rd Street,219.847,2,,,,,,,,,,52323477,
+43014889,43014886,0,False,tertiary,3rd Street,135.718,2,,,,,,,,,,52323477,
+43014893,43014889,0,False,tertiary,3rd Street,219.847,2,,,,,,,,,,52323477,
+43015662,5599658080,0,False,primary,Main Street,15.092,3,,,30 mph,,,,,,,26528023,NY 104
+43015662,290866477,0,False,primary,Main Street,55.29,3,,,,,,,,,,26624056,NY 104
+43015667,43015673,0,True,primary,Ferry Avenue,105.045,2,,,30 mph,,,,,,,26556043,US 62
+43015667,653541278,0,False,residential,4th Street,257.935,2,,,,,,,,,,60219310,
+43015667,43032711,0,True,residential,4th Street,218.235,2,,,,,,,,,,551067522,
+43015673,43011088,0,True,primary,Ferry Avenue,106.46,2,,,30 mph,,,,,,,26556043,US 62
+43015673,43028470,0,False,residential,5th Street,231.232,,,,,,,,,,,551067523,
+43015677,43015680,0,True,primary,Ferry Avenue,64.72,2,,,30 mph,,,,,,,26556043,US 62
+43015677,43016672,0,False,residential,7th Street,231.073,,,,,,,,,,,393292770,
+43015677,653541263,0,False,residential,7th Street,252.713,,,,,,,,,,,393292770,
+43015680,43028474,0,False,residential,8th Street,231.049,,,,,,,,,,,551067525,
+43016169,43014872,0,False,residential,Wendel Way,104.014,2,,,,,,,,,,5716271,
+43016169,653540920,0,False,residential,4th Street,118.514,2,,,,,,,,,,60219310,
+43016169,43013406,0,False,residential,4th Street,215.396,2,,,,,,,,,,"[60219311, 178313374, 178313375]",
+43016672,43011090,0,True,primary,Walnut Avenue,105.59,2,,,30 mph,,,,,,,5717753,US 62
+43016672,43016674,0,False,residential,7th Street,39.558,,,,,,,,,,,393292770,
+43016672,43015677,0,False,residential,7th Street,231.073,,,,,,,,,,,393292770,
+43016674,43016676,0,False,residential,7th Street,59.862,,,,,,,,,,,393292770,
+43016674,43016672,0,False,residential,7th Street,39.558,,,,,,,,,,,393292770,
+43016674,43053924,0,False,residential,"['8th Street', 'Townsend Place']",160.885,,,,,,,,,,,"[5719266, 5719543]",
+43016676,43053924,0,False,residential,Augustus Place,105.224,,,,,,,,,,,5719216,
+43016676,43016674,0,False,residential,7th Street,59.862,,,,,,,,,,,393292770,
+43020230,5599658080,0,False,tertiary,Whirlpool Street,233.208,2,,,,,,,,,,5716774,
+43020230,43014886,0,False,residential,Walnut Avenue,97.505,2,,,,,,,,,,5717754,
+43024088,43011384,0,False,residential,2nd Street,133.46,,,,,,,,,,,5717231,
+43028468,1412800805,0,False,primary,Main Street,35.692,3,,,30 mph,,,,,,,26528020,NY 104
+43028468,43032711,0,False,primary,Main Street,19.586,3,,,30 mph,,,,,,,26528023,NY 104
+43028470,4695643209,0,True,primary,Walnut Avenue,57.804,2,,,30 mph,,,,,,,5717753,US 62
+43028470,43015673,0,False,residential,5th Street,231.232,,,,,,,,,,,551067523,
+43028474,43016672,0,True,primary,Walnut Avenue,67.0,2,,,30 mph,,,,,,,5717753,US 62
+43028474,43015680,0,False,residential,8th Street,231.049,,,,,,,,,,,551067525,
+43029505,43011072,0,False,residential,Duggan Drive,218.329,,,,,,,,,,,"[5715937, 589334797]",
+43029505,43013406,0,False,residential,Duggan Drive,107.502,,,,,,,,,,,5715937,
+43029505,43011391,0,False,residential,5th Street,190.317,,,,,,,,,,,5717812,
+43032703,1740835312,0,True,trunk_link,Rainbow Bridge,200.342,,,,,,,,building_passage,,,"[492432192, 5717978, 492432191]",
+43032703,653540701,0,False,secondary,Rainbow Boulevard,87.832,2,,,,,,,,,,51267476,
+43032703,43032705,0,False,primary,Main Street,148.495,,,,,,,,,,,51277136,
+43032705,655722075,0,False,primary,Main Street,79.914,4,,,,,,,,,,68286496,NY 104
+43032705,5599630724,0,False,secondary,Niagara Scenic Parkway,58.333,2,,,,,,,,,,477495261,NSP
+43032705,43032703,0,False,primary,Main Street,148.495,,,,,,,,,,,51277136,
+43032705,653540827,0,False,primary,1st Street,186.834,2,,,,,,,,,,52323475,NY 104
+43032711,43014883,0,False,primary,Main Street,141.184,3,,,30 mph,,,,,,,26528023,NY 104
+43032711,43028468,0,False,primary,Main Street,19.586,3,,,30 mph,,,,,,,26528023,NY 104
+43032715,1412800805,0,False,primary,Main Street,88.63,2,,,30 mph,,,,,,,127700883,NY 104
+43034119,43010653,0,False,secondary,Rainbow Boulevard,107.156,2,,,,,,,,,,68286498,
+43034119,3965113552,0,False,residential,Mayor Michael O'Laughlin Drive,128.18,,,,,,,,,,,162248603,
+43034119,653540897,0,False,secondary,Rainbow Boulevard,116.639,2,,,,,,,,,,68286498,
+43034692,653540457,0,False,tertiary,1st Street,72.958,2,,,,,,,,,,51217933,
+43034692,650937844,0,False,tertiary,"['Goat Island Road', 'American Rapids Bridge', '1st Street']",661.329,2,,,,,,yes,,,,"[28434016, 51217933, 51373266, 51373267, 51048124]",
+43034692,3964888350,0,False,residential,Buffalo Avenue,107.139,,,,,,,,,,,178198813,
+43034692,43014862,0,False,residential,Buffalo Avenue,233.39,,,,,,,,,,,178198813,
+43034695,43034700,0,False,residential,Buffalo Avenue,66.933,,,,,,,,,,,178198813,
+43034695,43014862,0,False,residential,Buffalo Avenue,122.806,,,,,,,,,,,178198813,
+43034695,3636738404,0,False,residential,Hillcrest Street,82.041,,,,,,Hillcrest Street,,,,,"[358830433, 587046199]",
+43034700,43034695,0,False,residential,Buffalo Avenue,66.933,,,,,,,,,,,178198813,
+43034700,43034704,0,False,residential,Buffalo Avenue,161.975,,,,,,,,,,,178198813,
+43034700,375867319,0,False,residential,4th Street,131.863,,,,,,,,,,,"[5718756, 393288732]",
+43034700,655723317,0,False,residential,4th Street,148.2,,,,,,,,,,,5718756,
+43034704,43034700,0,False,residential,Buffalo Avenue,161.975,,,,,,,,,,,178198813,
+43034704,43034711,0,False,residential,Buffalo Avenue,48.195,,,,,,,,,,,178198813,
+43034704,653339534,0,False,residential,"['Holly Place', 'Riverside Drive']",332.46,,,,,,,,,,,"[151629882, 151629660]",
+43034711,43034704,0,False,residential,Buffalo Avenue,48.195,,,,,,,,,,,178198813,
+43034711,653339534,0,False,residential,Buffalo Avenue,102.603,,,,,,,,,,,178198813,
+43034711,375867705,0,False,residential,6th Street,133.206,,,,,,,,,,,151630094,
+43053924,43016676,0,False,residential,Augustus Place,105.224,,,,,,,,,,,5719216,
+43053924,43016674,0,False,residential,"['8th Street', 'Townsend Place']",160.885,,,,,,,,,,,"[5719266, 5719543]",
+290866477,43015662,0,False,primary,Main Street,55.29,3,,,,,,,,,,26624056,NY 104
+290866477,655722075,0,False,primary,Main Street,13.685,4,,,,,,,,,,477495260,NY 104
+290866477,312406820,0,True,primary,Ferry Avenue,38.518,2,,,30 mph,,,,,,,477495259,US 62
+312406820,43014878,0,True,primary,Ferry Avenue,105.446,2,,,30 mph,,,,,,,26556043,US 62
+312406820,653541038,0,False,residential,2nd Street,256.74,2,,,,,,,,,,482469838,
+312406820,43015662,0,True,residential,2nd Street,30.338,1,,,,,,,,,,482469839,
+375867319,43011389,0,False,residential,4th Street,12.507,,,,,,,,,,,393288732,
+375867319,375867701,0,True,secondary,Rainbow Boulevard,106.517,,,,,,,,,,,33179291,
+375867319,43034700,0,False,residential,4th Street,131.863,,,,,,,,,,,"[393288732, 5718756]",
+375867701,43011391,0,False,residential,5th Street,12.867,,,,,,,,,,,5717812,
+375867701,375867705,0,True,secondary,Rainbow Boulevard,105.524,,,,,,,,,,,33179291,
+375867705,43011394,0,False,residential,6th Street,13.038,,,,,,,,,,,151630094,
+375867705,43034711,0,False,residential,6th Street,133.206,,,,,,,,,,,151630094,
+432765458,655722857,0,True,unclassified,Goat Island Road,42.405,1,,,10 mph,,,,,,,189407424,
+432765458,1339113784,0,True,tertiary,Goat Island Road,36.815,1,,,10 mph,,,,,,,171474450,
+432765462,432765462,0,True,unclassified,Goat Island Road,610.615,,,,,,,,,,,51048129,
+432765462,655722857,0,False,unclassified,Goat Island Road,388.56,2,,,10 mph,,,,,,,51048136,
+650937844,432765458,0,True,tertiary,Goat Island Road,924.36,"['2', '1', '3']",,,10 mph,,,,,,,"[236783161, 236783158, 236783159, 236783160, 51048121]",
+650937844,43034692,0,False,tertiary,"['American Rapids Bridge', 'Goat Island Road', '1st Street']",661.329,2,,,,,,yes,,,,"[28434016, 51217933, 51373266, 51373267, 51048124]",
+653339534,43034711,0,False,residential,Buffalo Avenue,102.603,,,,,,,,,,,178198813,
+653339534,43034704,0,False,residential,"['Holly Place', 'Riverside Drive']",332.46,,,,,,,,,,,"[151629882, 151629660]",
+653339534,1888802495,0,False,residential,Buffalo Avenue,153.011,,,,,,,,,,,178198813,
+653540457,43034692,0,False,tertiary,1st Street,72.958,2,,,,,,,,,,51217933,
+653540457,3976596676,0,True,tertiary_link,1st Street,37.074,,,,,,,,,,,51217927,
+653540490,43011384,0,False,secondary,Rainbow Boulevard,87.287,,,,,,,,,,,33179313,
+653540490,3976596677,0,True,secondary,Rainbow Boulevard,26.634,,,,,,,,,,,51217926,
+653540581,43010654,0,False,secondary,1st Street,110.899,,,,,,,,,,,51217939,
+653540581,3168946600,0,True,secondary,1st Street,35.353,,,,,,,,,,,51217929,
+653540625,3168946633,0,True,secondary,Rainbow Boulevard,37.83,,,,,,,,,,,51217932,
+653540625,1277737890,0,False,secondary,Rainbow Boulevard,123.428,2,,,,,,,,,,68286498,
+653540701,653540897,0,False,secondary,Rainbow Boulevard,17.919,2,,,,,,,,,,51267476,
+653540701,1744978832,0,True,trunk,Rainbow Bridge,9.309,,,,,,,,,,,51373258,
+653540701,43032703,0,False,secondary,Rainbow Boulevard,87.832,2,,,,,,,,,,51267476,
+653540822,653540827,0,False,primary,1st Street,17.926,2,,,,,,,,,,52323475,NY 104
+653540822,43010654,0,False,secondary,1st Street,229.067,,,,,,,,,,,51217939,
+653540822,653540914,0,True,primary,Niagara Street,211.414,2,,,,,,,,,,51217944,NY 384
+653540827,653540822,0,False,primary,1st Street,17.926,2,,,,,,,,,,52323475,NY 104
+653540827,43032705,0,False,primary,1st Street,186.834,2,,,,,,,,,,52323475,NY 104
+653540827,653540701,0,True,primary,Niagara Street,110.331,3,,,,,,,,,,586003990,NY 384
+653540897,653540701,0,False,secondary,Rainbow Boulevard,17.919,2,,,,,,,,,,51267476,
+653540897,653540822,0,True,primary,Niagara Street,110.078,2,,,,,,,,,,51217944,NY 384
+653540897,43034119,0,False,secondary,Rainbow Boulevard,116.639,2,,,,,,,,,,68286498,
+653540914,653541283,0,False,residential,3rd Street,16.022,,,,,,,,,,,178872178,
+653540914,43014872,0,False,residential,3rd Street,117.263,2,,,,,,,,,,258140895,
+653540914,653540920,0,True,primary,Niagara Street,104.253,2,,,,,,,,,,179049046,NY 384
+653540920,653541278,0,False,residential,4th Street,15.448,2,,,,,,,,,,60219310,
+653540920,43016169,0,False,residential,4th Street,118.514,2,,,,,,,,,,60219310,
+653540920,653540939,0,True,primary,Niagara Street,105.707,2,,,,,,,,,,179049046,NY 384
+653540939,653541182,0,True,residential,5th Street,14.515,,,,,,,,,,,5717811,
+653540939,653540941,0,True,primary,Niagara Street,107.024,2,,,,,,,,,,179049046,NY 384
+653540941,653540954,0,True,primary,Niagara Street,105.016,2,,,,,,,,,,179049046,NY 384
+653540941,43011072,0,False,residential,6th Street,225.667,2,,,,,,,,,,5715709,
+653540954,653541263,0,False,residential,7th Street,14.42,,,,,,,,,,,393292770,
+653540954,5627020186,0,True,primary,Niagara Street,107.864,2,,,,,,,,,,179049046,NY 384
+653540954,3965095433,0,False,residential,7th Street,63.486,,,,,,,,,,,393292770,
+653541003,653541182,0,True,primary,Niagara Street,106.938,2,,,,,,,,,,112412944,NY 384
+653541038,312406820,0,False,residential,2nd Street,256.74,2,,,,,,,,,,482469838,
+653541038,653540827,0,True,primary,Niagara Street,104.814,3,,,,,,,,,,586003990,NY 384
+653541182,43015673,0,True,residential,5th Street,253.334,,,,,,,,,,,5717811,
+653541182,653541278,0,True,primary,Niagara Street,105.575,2,,,,,,,,,,112412944,NY 384
+653541263,653541003,0,True,primary,Niagara Street,104.936,2,,,,,,,,,,112412944,NY 384
+653541263,653540954,0,False,residential,7th Street,14.42,,,,,,,,,,,393292770,
+653541263,43015677,0,False,residential,7th Street,252.713,,,,,,,,,,,393292770,
+653541278,653540920,0,False,residential,4th Street,15.448,2,,,,,,,,,,60219310,
+653541278,43015667,0,False,residential,4th Street,257.935,2,,,,,,,,,,60219310,
+653541278,653541283,0,True,primary,Niagara Street,104.9,2,,,,,,,,,,112412944,NY 384
+653541283,653540914,0,False,residential,3rd Street,16.022,,,,,,,,,,,178872178,
+653541283,43014878,0,False,residential,3rd Street,258.299,,,,,,,,,,,178872179,
+653541283,653541038,0,True,primary,Niagara Street,106.501,2,,,,,,,,,,586006269,NY 384
+655722075,43032705,0,False,primary,Main Street,79.914,4,,,,,,,,,,68286496,NY 104
+655722075,290866477,0,False,primary,Main Street,13.685,4,,,,,,,,,,477495260,NY 104
+655722075,655722090,0,True,secondary_link,,70.541,,,,,,,,,,,51373256,
+655722090,1334677212,0,True,secondary,Niagara Scenic Parkway,425.118,1,,,35 mph,,,,,,,51266777,NSP
+655722857,432765462,0,False,unclassified,Goat Island Road,388.56,2,,,10 mph,,,,,,,51048136,
+655722857,1339113784,0,True,unclassified,Goat Island Road,28.082,1,,,10 mph,,,,,,,51373283,
+655723317,43034700,0,False,residential,4th Street,148.2,,,,,,,,,,,5718756,
+655723317,3964888680,0,True,secondary,Riverway,594.721,2,,,35 mph,,,,,,,586720707,
+782870444,653540625,0,True,secondary,Rainbow Boulevard,35.442,,,,,,,,,,,51217931,
+782870444,3168946633,0,True,secondary,,21.621,,,,,,,,,,roundabout,258140897,
+1277737890,3964888350,0,False,tertiary,Old Main Street,205.576,2,,,,,,,,,,49001531,
+1277737890,653540625,0,False,secondary,Rainbow Boulevard,123.428,2,,,,,,,,,,68286498,
+1277737890,43010653,0,False,secondary,Rainbow Boulevard,35.21,2,,,,,,,,,,68286498,
+1334677212,5599630724,0,True,secondary,Niagara Scenic Parkway,443.731,1,,,35 mph,,,,,,,51270784,NSP
+1339113784,650937844,0,True,tertiary,Goat Island Road,239.675,"['2', '1']",,,10 mph,,,,,,,"[189407425, 236783162]",
+1412800805,43028468,0,False,primary,Main Street,35.692,3,,,30 mph,,,,,,,26528020,NY 104
+1412800805,43032715,0,False,primary,Main Street,88.63,2,,,30 mph,,,,,,,127700883,NY 104
+1644652133,43011394,0,False,residential,6th Street,91.668,,,,,,,,,,,151630094,
+1740821225,43006240,0,True,trunk,Rainbow Bridge,226.715,,,,,,,yes,building_passage,,,"[525613968, 162149059, 162149072, 525613967]",
+1740821225,1740821256,0,True,trunk,Rainbow Bridge,261.566,6,,,,,,yes,building_passage,,,"[162149085, 492215147, 492215148, 162149061]",
+1740821256,653540897,0,True,trunk,Niagara Street,33.623,2,,,,,,,,,,51217950,
+1744978832,1740835312,0,True,trunk,Rainbow Bridge,206.961,,,,,,,,building_passage,,,"[525613969, 51373258, 525613970]",
+1744978832,43032703,0,True,trunk_link,,131.974,1,,,,,,,,,,90571486,
+1886793251,43010654,0,False,residential,Old Falls Street,212.966,,,,20 mph,,,,,,,5717925,
+1886793251,43014872,0,False,residential,3rd Street,112.059,2,,,,,,,,,,258140895,
+1886793251,43013403,0,False,residential,3rd Street,104.402,2,,,,,,,,,,258140895,
+1888802495,5608473510,0,True,primary,John B. Daly Boulevard,177.031,2,,,,,,,,,,51217961,
+1888802495,653339534,0,False,residential,Buffalo Avenue,153.011,,,,,,,,,,,178198813,
+3168946567,653540490,0,True,secondary,Rainbow Boulevard,23.305,,,,,,,,,,,51217925,
+3168946567,3976596677,0,True,secondary,,21.801,,,,,,,,,,roundabout,311292796,
+3168946600,782870444,0,True,secondary,,1.517,,,,,,,,,,roundabout,258140897,
+3168946633,3976596678,0,True,secondary,,2.94,,,,,,,,,,roundabout,258140897,
+3168946635,653540581,0,True,secondary,1st Street,43.246,,,,,,,,,,,51217930,
+3168946635,3168946600,0,True,secondary,,25.445,,,,,,,,,,roundabout,311292800,
+3636738404,43034695,0,False,residential,Hillcrest Street,82.041,,,,,,Hillcrest Street,,,,,"[358830433, 587046199]",
+3964888350,1277737890,0,False,tertiary,Old Main Street,205.576,2,,,,,,,,,,49001531,
+3964888350,43034692,0,False,residential,Buffalo Avenue,107.139,,,,,,,,,,,178198813,
+3964888350,5605484345,0,True,tertiary,Old Main Street,36.39,1,,,,,,,,,,586720939,
+3964888680,5605484345,0,True,secondary,Riverway,39.706,2,,,35 mph,,,,,,,586720707,
+3964888680,3964888350,0,True,tertiary,Old Main Street,45.043,1,,,,,,,,,,586720940,
+3965095421,43011072,0,False,residential,Falls Street,193.936,,,,,,,,,,,5717924,
+3965095433,653540954,0,False,residential,7th Street,63.486,,,,,,,,,,,393292770,
+3965113552,43034119,0,False,residential,Mayor Michael O'Laughlin Drive,128.18,,,,,,,,,,,162248603,
+3965113552,43006240,0,True,secondary,Prospect Street,140.354,,,,,,,,,,,586720706,
+3976596676,3168946567,0,True,secondary,,1.836,,,,,,,,,,roundabout,311292798,
+3976596677,3168946635,0,True,secondary,,4.03,,,,,,,,,,roundabout,311292796,
+3976596678,653540457,0,True,tertiary_link,1st Street,33.889,,,,,,,,,,,51217924,
+3976596678,3976596676,0,True,secondary,,29.074,,,,,,,,,,roundabout,311292797,
+4695643209,43028468,0,True,primary,Walnut Avenue,34.004,2,,,30 mph,,,,,,,5717753,US 62
+4695643209,1412800805,0,True,primary_link,,26.468,1,,,,,,,,,,475880371,
+5599630724,43032705,0,False,secondary,Niagara Scenic Parkway,58.333,2,,,,,,,,,,477495261,NSP
+5599630724,655722090,0,True,secondary,Niagara Scenic Parkway,17.417,1,,,35 mph,,,,,,,51266777,NSP
+5599658080,43015662,0,False,primary,Main Street,15.092,3,,,30 mph,,,,,,,26528023,NY 104
+5599658080,43020230,0,False,tertiary,Whirlpool Street,233.208,2,,,,,,,,,,5716774,
+5599658080,43014883,0,False,primary,Main Street,124.558,3,,,30 mph,,,,,,,26528023,NY 104
+5605484345,43010652,0,True,secondary,Riverway,250.581,2,,,35 mph,,,,,,,586720707,
+5608473510,5608471635,0,True,trunk,Niagara Scenic Parkway,46.992,2,,,35 mph,,,,,,,51048151,NSP
+5608473510,655723317,0,True,secondary,Riverway,522.131,2,,,35 mph,,,,,,,586720707,
+5627020186,3965095421,0,True,primary,John B. Daly Boulevard,235.185,2,,,,,,,,,,5718744,NY 384

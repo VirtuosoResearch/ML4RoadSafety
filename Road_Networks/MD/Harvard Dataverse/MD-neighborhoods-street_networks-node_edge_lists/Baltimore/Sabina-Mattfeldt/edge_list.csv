@@ -1,0 +1,40 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+49404399,49404409,0,True,motorway_link,,97.137,"['1', '2']",,,25 mph,,,yes,,,,"[544561873, 62642409]",
+49407471,49534572,0,False,residential,Sabina Avenue,88.221,,,,,,,,,,,10815007,
+49443696,49470168,0,False,residential,Appleby Avenue,185.509,,,,,,,,,,,6004702,
+49470168,49443696,0,False,residential,Appleby Avenue,185.509,,,,,,,,,,,6004702,
+49470168,49495785,0,False,secondary,Falls Road,103.214,2,,,25 mph,,,,,,,98122704,MD 25
+49481731,1450244144,0,True,residential,Forge Avenue,38.717,,,,,,,,,,,6005988,
+49481731,1450244142,0,False,residential,Oliver Street,67.547,,,,,,,,,,,131828675,
+49484677,49513371,0,False,residential,Smith Avenue,77.898,2,,,,,,,,,,62642577,
+49484677,49495774,0,False,residential,Smith Avenue,64.65,"['2', '3']",,,,,,yes,,,,"[62642577, 62642578, 6010174]",
+49484677,1450244148,0,False,residential,Cottonworth Avenue,283.278,,,,15 mph,,,yes,,,,"[83128421, 131828670, 83128407]",
+49494206,49495783,0,False,secondary,Falls Road,175.254,2,,,25 mph,,,,,,,512329578,MD 25
+49494206,49495774,0,False,secondary,Falls Road,98.982,"['2', '3']",,,25 mph,,,,,,,"[401509712, 423132279]",MD 25
+49495741,3978850256,0,False,secondary,Falls Road,12.18,3,,,30 mph,,,,,,,208246987,MD 25
+49495741,49495763,0,False,secondary,Falls Road,212.008,3,,,30 mph,,,,,,,"[208246987, 425193723]",MD 25
+49495763,49495765,0,False,secondary,Falls Road,63.567,3,,,30 mph,,,,,,,543532268,MD 25
+49495763,49495741,0,False,secondary,Falls Road,212.008,3,,,30 mph,,,,,,,"[425193723, 208246987]",MD 25
+49495765,49495763,0,False,secondary,Falls Road,63.567,3,,,30 mph,,,,,,,543532268,MD 25
+49495765,49495774,0,False,secondary,Falls Road,67.51,4,,,25 mph,,,,,,,"[401509713, 543532266, 198873382]",MD 25
+49495774,49484677,0,False,residential,Smith Avenue,64.65,"['3', '2']",,,,,,yes,,,,"[62642577, 62642578, 6010174]",
+49495774,49494206,0,False,secondary,Falls Road,98.982,"['3', '2']",,,25 mph,,,,,,,"[401509712, 423132279]",MD 25
+49495774,49495765,0,False,secondary,Falls Road,67.51,4,,,25 mph,,,,,,,"[401509713, 543532266, 198873382]",MD 25
+49495783,49495785,0,False,secondary,Falls Road,56.923,2,,,25 mph,,,,,,,98122704,MD 25
+49495783,49494206,0,False,secondary,Falls Road,175.254,2,,,25 mph,,,,,,,512329578,MD 25
+49495785,49495783,0,False,secondary,Falls Road,56.923,2,,,25 mph,,,,,,,98122704,MD 25
+49495785,49547524,0,False,residential,Asbury Road,193.084,,,,,,,,,,,6014925,
+49495785,49470168,0,False,secondary,Falls Road,103.214,2,,,25 mph,,,,,,,98122704,MD 25
+49513371,49481731,0,True,residential,Oliver Street,46.098,,,,,,,,,,,6020073,
+49513371,49484677,0,False,residential,Smith Avenue,77.898,2,,,,,,,,,,62642577,
+49513371,1450244144,0,False,residential,"['Forge Avenue', 'Smith Avenue']",101.252,,,,,,,,,,,"[401509714, 246174261, 125712007]",
+49534572,49407471,0,False,residential,Sabina Avenue,88.221,,,,,,,,,,,10815007,
+49534572,3978850256,0,False,residential,Mattfeldt Avenue,293.923,2,,,20 mph,,,,,,,6012814,
+49547524,49495785,0,False,residential,Asbury Road,193.084,,,,,,,,,,,6014925,
+1450244142,49481731,0,False,residential,Oliver Street,67.547,,,,,,,,,,,131828675,
+1450244144,49513371,0,False,residential,"['Forge Avenue', 'Smith Avenue']",101.252,,,,,,,,,,,"[401509714, 246174261, 125712007]",
+1450244148,49484677,0,False,residential,Cottonworth Avenue,283.278,,,,15 mph,,,yes,,,,"[83128421, 131828670, 83128407]",
+1862486196,3978850256,0,False,secondary,Falls Road,323.332,4,,,30 mph,,,,,,,"[401510819, 401510820]",MD 25
+3978850256,49495741,0,False,secondary,Falls Road,12.18,3,,,30 mph,,,,,,,208246987,MD 25
+3978850256,49534572,0,False,residential,Mattfeldt Avenue,293.923,2,,,20 mph,,,,,,,6012814,
+3978850256,1862486196,0,False,secondary,Falls Road,323.332,4,,,30 mph,,,,,,,"[401510819, 401510820]",MD 25

@@ -1,0 +1,43 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+71794690,72184181,0,False,residential,,123.43,,,,,,,,,,,9479740,
+71940637,72184181,0,False,residential,Mccarthy Way,248.427,1,12.2,,,,,,,,,9477647,
+71991680,72379460,0,False,residential,,38.814,,,,,,,,,,,9480026,
+71999436,72328467,0,False,residential,Hill Dale Road,204.391,2,12.2,,,,,,,,,9476923,
+71999436,72184181,0,False,primary,Warren Avenue,83.333,2,15.2,,,,,,,,,9478842,MA 3A
+72184181,71940637,0,False,residential,Mccarthy Way,248.427,1,12.2,,,,,,,,,9477647,
+72184181,71999436,0,False,primary,Warren Avenue,83.333,2,15.2,,,,,,,,,9478842,MA 3A
+72184181,72324292,0,False,primary,Warren Avenue,186.994,2,15.2,,,,,,,,,9478842,MA 3A
+72184181,71794690,0,False,residential,,123.43,,,,,,,,,,,9479740,
+72186209,72243150,0,False,residential,Blackmers Lane,115.344,1,4.6,,,,,,,,,"[9479810, 9481234]",
+72201461,72214677,0,False,tertiary,Obery Street,48.757,,15.2,,30 mph,,,,,,,9477415,
+72201461,72470896,0,False,tertiary,Sandwich Street,36.267,2,12.2,,30 mph,,,,,,,9481052,
+72201461,72595149,0,False,tertiary,Sandwich Street,179.644,2,12.2,,30 mph,,,,,,,9481052,
+72214677,72201461,0,False,tertiary,Obery Street,48.757,,15.2,,30 mph,,,,,,,9477415,
+72214677,72470896,0,False,tertiary,Obery Street,28.889,2,15.2,,30 mph,,,,,,,496965691,
+72215679,72224203,0,False,residential,Cobbs Hollow,114.007,2,,,,,,,,,,9477806,
+72215679,72324292,0,False,primary,Warren Avenue,49.675,2,15.2,,,,,,,,,9478842,MA 3A
+72215679,72243150,0,False,primary,Warren Avenue,81.454,2,15.2,,,,,,,,,9478842,MA 3A
+72224203,72215679,0,False,residential,Cobbs Hollow,114.007,2,,,,,,,,,,9477806,
+72243150,72215679,0,False,primary,Warren Avenue,81.454,2,15.2,,,,,,,,,9478842,MA 3A
+72243150,72595149,0,False,primary,Warren Avenue,94.938,2,15.2,,,,,,,,,9478842,MA 3A
+72243150,72186209,0,False,residential,Blackmers Lane,115.344,1,4.6,,,,,,,,,"[9481234, 9479810]",
+72274140,72379460,0,False,tertiary,Sandwich Street,74.136,2,12.2,,30 mph,,,,,,,9481052,
+72274140,72330530,0,False,tertiary,Sandwich Street,56.129,2,12.2,,30 mph,,,,,,,9481052,
+72324292,72330530,0,False,residential,"['Cobbs Lane', 'Timothy Lane']",315.807,"['1', '2']",7.6,,,,,,,,,"[9481202, 9477782]",
+72324292,72184181,0,False,primary,Warren Avenue,186.994,2,15.2,,,,,,,,,9478842,MA 3A
+72324292,72215679,0,False,primary,Warren Avenue,49.675,2,15.2,,,,,,,,,9478842,MA 3A
+72328467,72328467,0,False,residential,Hill Dale Road,56.298,2,12.2,,,,,,,,,9476923,
+72328467,72328467,1,False,residential,Hill Dale Road,56.298,2,12.2,,,,,,,,,9476923,
+72328467,71999436,0,False,residential,Hill Dale Road,204.391,2,12.2,,,,,,,,,9476923,
+72330530,72274140,0,False,tertiary,Sandwich Street,56.129,2,12.2,,30 mph,,,,,,,9481052,
+72330530,72470896,0,False,tertiary,Sandwich Street,141.186,2,12.2,,30 mph,,,,,,,9481052,
+72330530,72324292,0,False,residential,"['Cobbs Lane', 'Timothy Lane']",315.807,"['1', '2']",7.6,,,,,,,,,"[9481202, 9477782]",
+72379460,71991680,0,False,residential,,38.814,,,,,,,,,,,9480026,
+72379460,72274140,0,False,tertiary,Sandwich Street,74.136,2,12.2,,30 mph,,,,,,,9481052,
+72470896,72330530,0,False,tertiary,Sandwich Street,141.186,2,12.2,,30 mph,,,,,,,9481052,
+72470896,72201461,0,False,tertiary,Sandwich Street,36.267,2,12.2,,30 mph,,,,,,,9481052,
+72470896,72214677,0,False,tertiary,Obery Street,28.889,2,15.2,,30 mph,,,,,,,496965691,
+72595149,72667442,0,False,residential,Howes Lane,164.529,2,12.2,,,,,,,,,9476941,
+72595149,72243150,0,False,primary,Warren Avenue,94.938,2,15.2,,,,,,,,,9478842,MA 3A
+72595149,72201461,0,False,tertiary,Sandwich Street,179.644,2,12.2,,30 mph,,,,,,,9481052,
+72667442,72595149,0,False,residential,Howes Lane,164.529,2,12.2,,,,,,,,,9476941,

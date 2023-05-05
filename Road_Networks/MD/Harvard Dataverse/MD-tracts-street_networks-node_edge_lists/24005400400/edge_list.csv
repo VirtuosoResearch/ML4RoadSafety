@@ -1,0 +1,558 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+37018693,37797943,0,False,primary,Frederick Road,6.138,2,,,30 mph,,,,,,,544670216,MD 144
+37018693,37806518,0,False,primary,Frederick Road,85.428,"['4', '2']",,,30 mph,,,,,,,"[544670216, 425007798]",MD 144
+37097797,37930094,0,True,primary,Frederick Road,39.904,2,,,30 mph,,,,,,,425007804,MD 144
+37250952,37785302,0,False,primary,Frederick Road,7.192,,,,30 mph,,,,,,,83714912,MD 144
+37250952,37753434,0,False,tertiary,Mellor Avenue,254.931,,,,,,,,,,,5319986,
+37250952,37595820,0,False,primary,Frederick Road,99.956,,,,30 mph,,,,,,,83714912,MD 144
+37277516,37361538,0,False,residential,Foxhall Farm Road,758.149,,,,,permissive,,,,,,120711529,
+37284429,37362449,0,True,motorway,Metropolitan Boulevard,442.158,1,,,,,,yes,,,,"[35907521, 115240685, 92126310]",MD 166
+37308381,37761536,0,False,primary,South Rolling Road,44.715,4,,,30 mph,,,,,,,425003334,MD 166
+37308381,37586685,0,False,residential,Columbia Court,94.01,,,,,,,,,,,5299369,
+37308381,1069715081,0,False,primary,South Rolling Road,247.206,4,,,30 mph,,,,,,,"[425003328, 425003334]",MD 166
+37308411,37761517,0,False,residential,Glenrae Drive,174.041,,,,,,,,,,,5319134,
+37325760,37325768,0,True,motorway_link,,228.916,1,,,,,,,,,,54856973,MD 166
+37325760,37388152,0,True,motorway_link,,47.813,1,,,,,,,,,,"[501504721, 92127268]",
+37325768,37388148,0,False,primary,South Rolling Road,166.516,"['4', '2']",,,,,,,,,,"[92127266, 425005014]",MD 166
+37325768,4244572847,0,False,primary,South Rolling Road,31.386,2,,,30 mph,,,,,,,425005013,MD 166
+37338141,1955333091,0,False,residential,Vineyard Hill Road,40.264,,,,,,,,,,,5304773,
+37338149,37849023,0,False,residential,Highfields Drive,125.266,,,,25 mph,,,,,,,5323695,
+37361538,37277516,0,False,residential,Foxhall Farm Road,758.149,,,,,permissive,,,,,,120711529,
+37361538,37761561,0,False,residential,Foxhall Farm Road,1225.476,,,,,permissive,,yes,,,,"[120711528, 120711529, 5311979]",
+37361538,1955333091,0,False,residential,Pearce Landing Road,58.634,,,,,,,,,,,184967153,
+37361626,37660813,0,False,residential,Stone Spring Court,124.865,,,,,,,,,,,5307702,
+37361703,37675931,0,False,residential,Vineyard Hill Road,102.693,,,,,,,,,,,5304773,
+37361703,37675919,0,False,residential,Vineyard Hill Road,64.558,,,,,,,,,,,5304773,
+37361703,37440172,0,False,residential,Foxhall Manor Drive,775.105,,,,25 mph,,,,,,,174398392,
+37362451,37825596,0,True,motorway,Metropolitan Boulevard,383.571,"['3', '2']",,,,,,,,,,"[264242010, 435889547]",MD 166
+37388122,37388148,0,False,primary,South Rolling Road,180.286,3,,,,,,,,,,425005012,MD 166
+37388122,37284429,0,True,motorway_link,,139.372,1,,,,,,,,,,5315702,MD 166
+37388122,37761589,0,False,secondary,South Rolling Road,264.253,,,,,,,,,,,43782566,
+37388148,37388122,0,False,primary,South Rolling Road,180.286,3,,,,,,,,,,425005012,MD 166
+37388148,37388152,0,False,primary_link,,42.558,3,,,,,,,,,,"[5282904, 425005017]",
+37388148,37325768,0,False,primary,South Rolling Road,166.516,"['4', '2']",,,,,,,,,,"[92127266, 425005014]",MD 166
+37388152,37388148,0,False,primary_link,,42.558,3,,,,,,,,,,"[5282904, 425005017]",
+37388223,37590021,0,False,residential,Highfields Drive,143.974,,,,25 mph,,,,,,,5323695,
+37388223,37761563,0,False,residential,Highfields Drive,20.03,,,,25 mph,,,,,,,5323695,
+37388223,37426871,0,False,residential,South Rolling Road,209.954,,,,,,,,,,,5286444,
+37388332,37590021,0,False,residential,Rolling Farm Court,201.578,,,,,,,,,,,5299520,
+37403551,37403564,0,False,residential,Wake Forest Court,162.573,,,,,,,,,,,5284544,
+37403551,37403845,0,False,residential,Collegiate Drive,167.539,,,,30 mph,,,,,,,5305092,
+37403551,37440172,0,False,residential,Collegiate Drive,64.282,,,,30 mph,,,,,,,5305092,
+37403564,37403551,0,False,residential,Wake Forest Court,162.573,,,,,,,,,,,5284544,
+37403716,37403801,0,False,residential,Ivy League Drive,328.349,,,,25 mph,,,,,,,5284572,
+37403716,37403845,0,False,residential,Ivy League Drive,244.122,,,,25 mph,,,,,,,5284572,
+37403716,37403720,0,False,residential,Pepperdine Circle,74.546,,,,,,,,,,,5294567,
+37403720,37403720,0,False,residential,Pepperdine Circle,275.665,,,,,,,,,,,5294567,
+37403720,37403720,1,False,residential,Pepperdine Circle,275.665,,,,,,,,,,,5294567,
+37403720,37403716,0,False,residential,Pepperdine Circle,74.546,,,,,,,,,,,5294567,
+37403801,37403801,0,False,residential,Ivy League Drive,346.237,,,,25 mph,,,,,,,5284572,
+37403801,37403801,1,False,residential,Ivy League Drive,346.237,,,,25 mph,,,,,,,5284572,
+37403801,37403716,0,False,residential,Ivy League Drive,328.349,,,,25 mph,,,,,,,5284572,
+37403845,37403847,0,False,residential,Old Dominion Court,49.277,,,,,,,,,,,174398393,
+37403845,37403716,0,False,residential,Ivy League Drive,244.122,,,,25 mph,,,,,,,5284572,
+37403845,37440208,0,False,residential,Collegiate Drive,150.243,,,,30 mph,,,,,,,5305092,
+37403845,37403551,0,False,residential,Collegiate Drive,167.539,,,,30 mph,,,,,,,5305092,
+37403847,37403845,0,False,residential,Old Dominion Court,49.277,,,,,,,,,,,174398393,
+37403847,37740355,0,False,residential,Old Dominion Court,102.565,,,,,,,,,,,5308989,
+37403847,37740314,0,False,residential,Old Dominion Court,244.687,,,,,,,,,,,5308989,
+37405587,37691926,0,False,unclassified,Walker Avenue,49.152,,,,,,,,,,,435889697,
+37413156,37761491,0,False,residential,Hilton Avenue,11.644,,,,,,,,,,,5307508,
+37426871,37388223,0,False,residential,South Rolling Road,209.954,,,,,,,,,,,5286444,
+37436028,37436041,0,False,residential,Cinnamon Tree Court,214.406,,,,,,,,,,,5287157,
+37436028,37817122,0,False,secondary,Bloomsbury Avenue,75.339,2,,,,,,,,,,5315054,
+37436028,37753425,0,False,secondary,Bloomsbury Avenue,535.115,2,,,,,,,,,,"[513564842, 5315054]",
+37436041,37436028,0,False,residential,Cinnamon Tree Court,214.406,,,,,,,,,,,5287157,
+37440172,37403551,0,False,residential,Collegiate Drive,64.282,,,,30 mph,,,,,,,5305092,
+37440172,37493422,0,False,residential,Collegiate Drive,422.785,,,,30 mph,,,,,,,5305092,
+37440172,37361703,0,False,residential,Foxhall Manor Drive,775.105,,,,25 mph,,,,,,,174398392,
+37440208,37403845,0,False,residential,Collegiate Drive,150.243,,,,30 mph,,,,,,,5305092,
+37440208,37774849,0,False,unclassified,Campus Drive,1408.335,,,,,,,,,,,5311342,
+37440208,37774594,0,False,unclassified,Campus Drive,131.378,,,,,,,,,,,5311342,
+37440334,37586685,0,False,residential,Hunter Way,92.242,,,,,,,,,,,5301741,
+37440403,37581976,0,False,residential,Allview Court,104.882,,,,,,,,,,,5303689,
+37451366,37487150,0,False,residential,Hay Pasture Court,49.939,,,,,,,,,,,5291257,
+37451366,37641094,0,False,residential,Old Granary Court,36.32,,,,,,,,,,,227603084,
+37451366,37451409,0,False,residential,Old Granary Court,179.517,,,,,,,,,,,227603084,
+37451409,37451409,0,False,residential,Old Granary Court,160.138,,,,,,,,,,,227603084,
+37451409,37451409,1,False,residential,Old Granary Court,160.138,,,,,,,,,,,227603084,
+37451409,37451366,0,False,residential,Old Granary Court,179.517,,,,,,,,,,,227603084,
+37454680,37611283,0,False,primary,Frederick Road,116.44,"['3', '2']",,,30 mph,,,,,,,"[83714913, 544670213]",MD 144
+37454680,37797943,0,False,primary,Frederick Road,83.256,"['3', '2']",,,30 mph,,,,,,,"[544670216, 544670215]",MD 144
+37461317,37675912,0,False,residential,Vineyard Hill Road,36.324,,,,,,,,,,,5304773,
+37461317,37641091,0,False,residential,Vineyard Hill Road,14.739,,,,,,,,,,,5304773,
+37461952,37578887,0,False,tertiary,Hilltop Road,194.029,2,,,,,,,,,,5298910,
+37461952,908703707,0,False,tertiary,Hilltop Road,328.917,2,,,,,,,,,,5298910,
+37461952,37679340,0,False,residential,Laverne Avenue,143.056,,,,,,,,,,,5305058,
+37474525,364174854,0,False,secondary,Wilkens Avenue,80.23,3,,,,,,,,,,425140918,MD 372
+37474525,37691926,0,True,secondary,Wilkens Avenue,155.787,2,,,,yes,,,,,,435890018,MD 372
+37487150,37451366,0,False,residential,Hay Pasture Court,49.939,,,,,,,,,,,5291257,
+37487150,37487150,0,False,residential,Hay Pasture Court,107.417,,,,,,,,,,,5291257,
+37487150,37487150,1,False,residential,Hay Pasture Court,107.417,,,,,,,,,,,5291257,
+37493422,37440172,0,False,residential,Collegiate Drive,422.785,,,,30 mph,,,,,,,5305092,
+37493422,37761557,0,False,primary,South Rolling Road,125.134,"['3', '2']",,,30 mph,,,,,,,"[425140850, 425140874]",MD 166
+37493422,37719823,0,False,primary,South Rolling Road,443.891,"['3', '2']",,,30 mph,,,,,,,"[82352743, 425140855]",MD 166
+37528554,975005277,0,False,tertiary,Valley Road,14.632,,,,,,,,,,,83715046,
+37569404,37569405,0,False,residential,Oak Drive,320.78,,,,,,,,,,,5298410,
+37569404,37753439,0,False,residential,Magruder Avenue,112.097,,,,,,,,,,,77306256,
+37569404,37606055,0,False,residential,Magruder Avenue,109.288,,,,,,,,,,,77306256,
+37569405,37569404,0,False,residential,Oak Drive,320.78,,,,,,,,,,,5298410,
+37569405,37839956,0,False,residential,Gary Drive,129.024,,,,,,,,,,,5316664,
+37569405,37606057,0,False,residential,Gary Drive,117.948,,,,,,,,,,,5316664,
+37578869,910093257,0,False,tertiary,Hilltop Road,256.361,2,,,,,,,,,,5298910,
+37578869,37590330,0,False,secondary,Bloomsbury Avenue,181.805,2,,,,,,,,,,5315054,
+37578869,37632483,0,False,secondary,Bloomsbury Avenue,135.593,2,,,,,,,,,,5315054,
+37578869,37590294,0,False,residential,Mellor Avenue,135.947,2,,,,,,,,,,109972876,
+37578887,910093257,0,False,tertiary,Hilltop Road,300.398,2,,,,,,,,,,5298910,
+37578887,37461952,0,False,tertiary,Hilltop Road,194.029,2,,,,,,,,,,5298910,
+37578887,37618229,0,False,tertiary,Valley Road,622.127,,,,,,,,,,,83715046,
+37581961,1933713043,0,False,residential,McCurley Avenue,33.99,,,,,,,,,,,5301447,
+37581961,37581976,0,False,residential,Tugwell Drive,120.933,,,,,,,,,,,5299109,
+37581961,37584884,0,False,residential,McCurley Avenue,264.66,,,,,,,,,,,5301447,
+37581961,37636504,0,False,residential,Brandford Road,158.969,,,,,,,,,,,5302209,
+37581976,37581961,0,False,residential,Tugwell Drive,120.933,,,,,,,,,,,5299109,
+37581976,37581993,0,False,residential,Tugwell Drive,236.929,,,,,,,,,,,5299109,
+37581976,37440403,0,False,residential,Allview Court,104.882,,,,,,,,,,,5303689,
+37581993,37584884,0,False,residential,Newburg Avenue,71.821,,,,,,,,,,,5299311,
+37581993,37584881,0,False,residential,Newburg Avenue,19.451,,,,,,,,,,,5299311,
+37581993,37581976,0,False,residential,Tugwell Drive,236.929,,,,,,,,,,,5299109,
+37584852,37595820,0,False,primary,Frederick Road,43.014,,,,30 mph,,,,,,,83714912,MD 144
+37584852,37584854,0,False,residential,Newburg Avenue,256.196,,,,,,,,,,,5299311,
+37584852,37664870,0,False,primary,Frederick Road,125.995,,,,30 mph,,,,,,,83714912,MD 144
+37584854,37703649,0,False,residential,Magruder Avenue,133.057,,,,,,,,,,,77306256,
+37584854,37753434,0,False,residential,Magruder Avenue,143.202,,,,,,,,,,,77306256,
+37584854,37584856,0,False,residential,Newburg Avenue,204.466,,,,,,,,,,,5299311,
+37584854,37584852,0,False,residential,Newburg Avenue,256.196,,,,,,,,,,,5299311,
+37584856,37703651,0,False,residential,Payson Avenue,134.38,,,,,,,,,,,5320727,
+37584856,37584862,0,False,residential,Newburg Avenue,256.309,,,,,,,,,,,5299311,
+37584856,37584854,0,False,residential,Newburg Avenue,204.466,,,,,,,,,,,5299311,
+37584862,37886128,0,False,residential,Pullen Avenue,157.831,,,,,,,,,,,5319719,
+37584862,37584868,0,False,residential,Newburg Avenue,76.931,,,,,,,,,,,5299311,
+37584862,37584856,0,False,residential,Newburg Avenue,256.309,,,,,,,,,,,5299311,
+37584868,37703677,0,False,residential,Sanford Avenue,125.255,,,,,,,,,,,5306640,
+37584868,37584870,0,False,residential,Newburg Avenue,103.729,,,,,,,,,,,5299311,
+37584868,37584862,0,False,residential,Newburg Avenue,76.931,,,,,,,,,,,5299311,
+37584868,37703651,0,False,residential,Sanford Avenue,338.268,,,,,,,,,,,5306640,
+37584870,37584872,0,False,residential,Newburg Avenue,112.626,,,,,,,,,,,5299311,
+37584870,37606059,0,False,residential,Locust Drive,211.736,,,,,,,,,,,175006264,
+37584870,37584868,0,False,residential,Newburg Avenue,103.729,,,,,,,,,,,5299311,
+37584872,37584874,0,False,residential,Newburg Avenue,5.877,,,,,,,,,,,5299311,
+37584872,37584870,0,False,residential,Newburg Avenue,112.626,,,,,,,,,,,5299311,
+37584872,37718683,0,False,residential,Forest Lane,172.426,,,,,,,,,,,5307661,
+37584874,37584872,0,False,residential,Newburg Avenue,5.877,,,,,,,,,,,5299311,
+37584874,37584875,0,False,residential,Newburg Avenue,150.424,,,,,,,,,,,5299311,
+37584874,37606059,0,False,residential,"['Forest Lane', 'Forest Spring Lane']",331.298,,,,,,,,,,,"[5306593, 5307658]",
+37584875,37584880,0,False,residential,Newburg Avenue,218.839,,,,,,,,,,,5299311,
+37584875,37761517,0,False,primary,South Rolling Road,173.391,2,,,30 mph,,,,,,,425003320,MD 166
+37584875,37674154,0,False,primary,South Rolling Road,319.89,2,,,30 mph,,,,,,,425003320,MD 166
+37584875,37584874,0,False,residential,Newburg Avenue,150.424,,,,,,,,,,,5299311,
+37584880,37584875,0,False,residential,Newburg Avenue,218.839,,,,,,,,,,,5299311,
+37584880,37596369,0,False,residential,Hilton Terrace,199.376,,,,,,,,,,,5316278,
+37584880,37584881,0,False,residential,Newburg Avenue,99.437,,,,,,,,,,,5299311,
+37584881,37581993,0,False,residential,Newburg Avenue,19.451,,,,,,,,,,,5299311,
+37584881,37584880,0,False,residential,Newburg Avenue,99.437,,,,,,,,,,,5299311,
+37584881,37623957,0,False,residential,Harwood Road,232.099,,,,,,,,,,,5313421,
+37584884,37584886,0,False,residential,Newburg Avenue,85.552,,,,,,,,,,,5299311,
+37584884,37581993,0,False,residential,Newburg Avenue,71.821,,,,,,,,,,,5299311,
+37584884,37581961,0,False,residential,McCurley Avenue,264.66,,,,,,,,,,,5301447,
+37584884,37623957,0,False,residential,McCurley Avenue,119.329,,,,,,,,,,,5301447,
+37584886,37584888,0,False,residential,Newburg Avenue,90.729,,,,,,,,,,,5299311,
+37584886,37584884,0,False,residential,Newburg Avenue,85.552,,,,,,,,,,,5299311,
+37584886,37771839,0,False,residential,Biddle Court,104.324,,,,,,,,,,,5311106,
+37584886,37636504,0,False,residential,Biddle Place,195.888,,,,,,,,,,,5321589,
+37584888,37584890,0,False,residential,Newburg Avenue,33.284,,,,,,,,,,,5299311,
+37584888,37584886,0,False,residential,Newburg Avenue,90.729,,,,,,,,,,,5299311,
+37584888,37636504,0,False,residential,Brandford Road,112.823,,,,,,,,,,,5302209,
+37584890,37584888,0,False,residential,Newburg Avenue,33.284,,,,,,,,,,,5299311,
+37586685,37308381,0,False,residential,Columbia Court,94.01,,,,,,,,,,,5299369,
+37586685,37630264,0,False,residential,Hunter Way,116.689,,,,,,,,,,,5301741,
+37586685,37440334,0,False,residential,Hunter Way,92.242,,,,,,,,,,,5301741,
+37590021,37388223,0,False,residential,Highfields Drive,143.974,,,,25 mph,,,,,,,5323695,
+37590021,37388332,0,False,residential,Rolling Farm Court,201.578,,,,,,,,,,,5299520,
+37590021,37638374,0,False,residential,Highfields Drive,97.912,,,,25 mph,,,,,,,5323695,
+37590294,37590330,0,False,residential,Montemar Avenue,279.149,,,,,,,,,,,5299539,
+37590294,37578869,0,False,residential,Mellor Avenue,135.947,2,,,,,,,,,,109972876,
+37590294,37886128,0,False,residential,Mellor Avenue,205.652,2,,,,,,,,,,109972876,
+37590330,37590294,0,False,residential,Montemar Avenue,279.149,,,,,,,,,,,5299539,
+37590330,1069715136,0,False,secondary,Bloomsbury Avenue,208.736,2,,,,,,,,,,5315054,
+37590330,37578869,0,False,secondary,Bloomsbury Avenue,181.805,2,,,,,,,,,,5315054,
+37595820,37584852,0,False,primary,Frederick Road,43.014,,,,30 mph,,,,,,,83714912,MD 144
+37595820,37250952,0,False,primary,Frederick Road,99.956,,,,30 mph,,,,,,,83714912,MD 144
+37596369,37832824,0,False,residential,Hilton Terrace,58.869,,,,,,,,,,,5316278,
+37596369,37584880,0,False,residential,Hilton Terrace,199.376,,,,,,,,,,,5316278,
+37596369,37596376,0,False,residential,Oak Court,280.902,,,,,,,,,,,5299908,
+37596376,37623957,0,False,residential,McCurley Avenue,100.198,,,,,,,,,,,5301447,
+37596376,37623960,0,False,residential,McCurley Avenue,119.074,,,,,,,,,,,5301447,
+37596376,37596369,0,False,residential,Oak Court,280.902,,,,,,,,,,,5299908,
+37600338,37656972,0,False,primary,Frederick Road,104.6,,,,30 mph,,,,,,,83714912,MD 144
+37600338,37644404,0,False,primary,Frederick Road,24.01,,,,30 mph,,,,,,,83714912,MD 144
+37606041,37606055,0,True,residential,Locust Drive,260.07,,,,25 mph,,,,,,,5300446,
+37606041,37703354,0,False,primary,Frederick Road,99.323,,,,30 mph,,,,,,,83714912,MD 144
+37606041,37664870,0,False,primary,Frederick Road,106.061,,,,30 mph,,,,,,,83714912,MD 144
+37606055,37703649,0,False,residential,Magruder Avenue,97.644,,,,,,,,,,,77306256,
+37606055,37569404,0,False,residential,Magruder Avenue,109.288,,,,,,,,,,,77306256,
+37606055,37606057,0,False,residential,Locust Drive,251.473,,,,25 mph,,,,,,,585928959,
+37606057,37569405,0,False,residential,Gary Drive,117.948,,,,,,,,,,,5316664,
+37606057,1856521062,0,False,residential,Locust Drive,123.808,,,,25 mph,,,,,,,585928959,
+37606057,37606055,0,False,residential,Locust Drive,251.473,,,,25 mph,,,,,,,585928959,
+37606059,1856521062,0,False,residential,Forest Spring Lane,15.06,,,,,,,,,,,5306593,
+37606059,37584870,0,False,residential,Locust Drive,211.736,,,,,,,,,,,175006264,
+37606059,37584874,0,False,residential,"['Forest Lane', 'Forest Spring Lane']",331.298,,,,,,,,,,,"[5306593, 5307658]",
+37611283,37704850,0,False,primary,Frederick Road,11.072,2,,,30 mph,,,,,,,83714913,MD 144
+37611283,37454680,0,False,primary,Frederick Road,116.44,"['3', '2']",,,30 mph,,,,,,,"[83714913, 544670213]",MD 144
+37618229,37578887,0,False,tertiary,Valley Road,622.127,,,,,,,,,,,83715046,
+37618229,37719823,0,False,primary,South Rolling Road,221.601,"['4', '3', '5']",,,30 mph,,,,,,,"[425140897, 425140868, 425140878, 425003319]",MD 166
+37618229,37761536,0,False,primary,South Rolling Road,103.34,"['4', '5']",,,30 mph,,,,,,,"[435885677, 425189463]",MD 166
+37618229,37774548,0,False,unclassified,Campus Drive,59.236,,,,,,,,,,,435885914,
+37623957,37596376,0,False,residential,McCurley Avenue,100.198,,,,,,,,,,,5301447,
+37623957,37584884,0,False,residential,McCurley Avenue,119.329,,,,,,,,,,,5301447,
+37623957,37584881,0,False,residential,Harwood Road,232.099,,,,,,,,,,,5313421,
+37623960,37596376,0,False,residential,McCurley Avenue,119.074,,,,,,,,,,,5301447,
+37630264,37586685,0,False,residential,Hunter Way,116.689,,,,,,,,,,,5301741,
+37632483,37817122,0,False,secondary,Bloomsbury Avenue,46.511,2,,,,,,,,,,5315054,
+37632483,37578869,0,False,secondary,Bloomsbury Avenue,135.593,2,,,,,,,,,,5315054,
+37633082,37705314,0,False,primary,Frederick Road,61.291,,,,30 mph,,,,,,,83714912,MD 144
+37633082,37633085,0,False,residential,South Beechwood Avenue,143.562,,,,,,,,,,,5301852,
+37633082,37761484,0,False,primary,Frederick Road,153.787,3,,,30 mph,,,,,,,"[83714912, 425006179]",MD 144
+37633085,37754654,0,False,residential,Chelton Avenue,130.607,,,,,,,,,,,5309939,
+37633085,37633097,0,False,residential,South Beechwood Avenue,152.619,,,,,,,,,,,5301852,
+37633085,37633082,0,False,residential,South Beechwood Avenue,143.562,,,,,,,,,,,5301852,
+37633097,37633085,0,False,residential,South Beechwood Avenue,152.619,,,,,,,,,,,5301852,
+37633097,37644356,0,False,primary,South Rolling Road,202.754,2,,,30 mph,,,,,,,425003320,MD 166
+37633097,37761491,0,False,primary,South Rolling Road,145.337,2,,,30 mph,,,,,,,425003320,MD 166
+37636504,37584888,0,False,residential,Brandford Road,112.823,,,,,,,,,,,5302209,
+37636504,37581961,0,False,residential,Brandford Road,158.969,,,,,,,,,,,5302209,
+37636504,37584886,0,False,residential,Biddle Place,195.888,,,,,,,,,,,5321589,
+37638374,37638381,0,False,residential,Trotters Ridge Court,99.349,,,,,,,,,,,5302356,
+37638374,37849023,0,False,residential,Highfields Drive,83.027,,,,25 mph,,,,,,,5323695,
+37638374,37590021,0,False,residential,Highfields Drive,97.912,,,,25 mph,,,,,,,5323695,
+37638381,37638374,0,False,residential,Trotters Ridge Court,99.349,,,,,,,,,,,5302356,
+37641091,37461317,0,False,residential,Vineyard Hill Road,14.739,,,,,,,,,,,5304773,
+37641091,37641094,0,True,residential,Old Granary Court,46.44,,,,,,,,,,,5302535,
+37641091,37675907,0,False,residential,Vineyard Hill Road,51.957,,,,,,,,,,,5304773,
+37641094,37451366,0,False,residential,Old Granary Court,36.32,,,,,,,,,,,227603084,
+37641094,37461317,0,True,residential,Old Granary Court,48.464,,,,,,,,,,,227603085,
+37644335,37644344,0,False,residential,Park Drive,79.971,,,,,,,,,,,5302678,
+37644335,37644412,0,False,residential,Park Drive,108.172,,,,,,,,,,,5302678,
+37644335,37665705,0,False,residential,Stanley Drive,158.715,,,,,,,,,,,5304060,
+37644344,37753443,0,False,residential,Magruder Avenue,100.785,,,,,,,,,,,77306256,
+37644344,37644356,0,False,residential,Park Drive,227.678,,,,,,,,,,,5302678,
+37644344,37644335,0,False,residential,Park Drive,79.971,,,,,,,,,,,5302678,
+37644356,37761514,0,False,primary,South Rolling Road,87.267,2,,,30 mph,,,,,,,425003320,MD 166
+37644356,37644368,0,False,residential,Park Drive,140.817,,,,,,,,,,,5302678,
+37644356,37644344,0,False,residential,Park Drive,227.678,,,,,,,,,,,5302678,
+37644356,37633097,0,False,primary,South Rolling Road,202.754,2,,,30 mph,,,,,,,425003320,MD 166
+37644368,37706294,0,False,residential,Huron Road,116.255,,,,,,,,,,,5306838,
+37644368,37644356,0,False,residential,Park Drive,140.817,,,,,,,,,,,5302678,
+37644404,37600338,0,False,primary,Frederick Road,24.01,,,,30 mph,,,,,,,83714912,MD 144
+37644404,37644412,0,False,residential,Park Drive,136.653,,,,,,,,,,,5302678,
+37644404,37753439,0,False,residential,Forest Drive,232.453,,,,,,,,,,,5318561,
+37644404,37703354,0,False,primary,Frederick Road,112.863,,,,30 mph,,,,,,,83714912,MD 144
+37644412,37753443,0,False,residential,Fairfield Drive,134.616,,,,,,,,,,,5323099,
+37644412,37644335,0,False,residential,Park Drive,108.172,,,,,,,,,,,5302678,
+37644412,37644404,0,False,residential,Park Drive,136.653,,,,,,,,,,,5302678,
+37656972,37665705,0,False,primary,Frederick Road,85.228,,,,30 mph,,,,,,,83714912,MD 144
+37656972,37600338,0,False,primary,Frederick Road,104.6,,,,30 mph,,,,,,,83714912,MD 144
+37657763,37713723,0,False,residential,Rognel Avenue,97.875,,,,,,,,,,,5307345,
+37657763,37704854,0,False,residential,Bloomingdale Avenue,107.447,,,,,,,,,,,5319760,
+37657763,5019710357,0,False,residential,Bloomingdale Avenue,109.018,,,,,,,,,,,5319760,
+37657763,37657769,0,False,residential,Ben Woods Court,55.827,,,,,,,,,,,5303566,
+37657769,37657763,0,False,residential,Ben Woods Court,55.827,,,,,,,,,,,5303566,
+37660813,37660816,0,False,residential,Old Cistern Court,114.006,,,,,,,,,,,5303784,
+37660813,37361626,0,False,residential,Stone Spring Court,124.865,,,,,,,,,,,5307702,
+37660813,37675919,0,False,residential,Stone Spring Court,116.9,,,,,,,,,,,5307702,
+37660816,37660813,0,False,residential,Old Cistern Court,114.006,,,,,,,,,,,5303784,
+37664870,37703649,0,False,residential,Sanford Avenue,259.751,,,,,,,,,,,5306640,
+37664870,37606041,0,False,primary,Frederick Road,106.061,,,,30 mph,,,,,,,83714912,MD 144
+37664870,37584852,0,False,primary,Frederick Road,125.995,,,,30 mph,,,,,,,83714912,MD 144
+37665705,37705314,0,False,primary,Frederick Road,62.524,,,,30 mph,,,,,,,83714912,MD 144
+37665705,37656972,0,False,primary,Frederick Road,85.228,,,,30 mph,,,,,,,83714912,MD 144
+37665705,37644335,0,False,residential,Stanley Drive,158.715,,,,,,,,,,,5304060,
+37668900,37668910,0,False,residential,Moss View Court,111.426,,,,,,,,,,,5304281,
+37668900,37674308,0,False,residential,Anderson Ridge Road,61.264,,,,25 mph,,,,,,,5317220,
+37668900,37849023,0,False,residential,Anderson Ridge Road,111.103,,,,25 mph,,,,,,,5317220,
+37668910,37668900,0,False,residential,Moss View Court,111.426,,,,,,,,,,,5304281,
+37674154,37839956,0,False,residential,Gary Drive,102.832,,,,,,,,,,,5316664,
+37674154,37584875,0,False,primary,South Rolling Road,319.89,2,,,30 mph,,,,,,,425003320,MD 166
+37674154,37737068,0,False,primary,South Rolling Road,94.542,2,,,30 mph,,,,,,,425003320,MD 166
+37674154,37674155,0,False,residential,Brook Road,153.013,,,,,,,,,,,5304665,
+37674155,37674154,0,False,residential,Brook Road,153.013,,,,,,,,,,,5304665,
+37674155,37829016,0,False,residential,David Lee Court,80.186,,,,,,,,,,,5316025,
+37674308,37674314,0,False,residential,Plateau Court,65.852,,,,,,,,,,,5304673,
+37674308,37849040,0,False,residential,Anderson Ridge Road,191.919,,,,25 mph,,,,,,,5317220,
+37674308,37668900,0,False,residential,Anderson Ridge Road,61.264,,,,25 mph,,,,,,,5317220,
+37674314,37674308,0,False,residential,Plateau Court,65.852,,,,,,,,,,,5304673,
+37675900,37675907,0,False,residential,Vineyard Hill Road,88.047,,,,,,,,,,,5304773,
+37675907,37758146,0,False,residential,Healy Farm Road,77.196,,,,,,,,,,,5310196,
+37675907,37641091,0,False,residential,Vineyard Hill Road,51.957,,,,,,,,,,,5304773,
+37675907,37675900,0,False,residential,Vineyard Hill Road,88.047,,,,,,,,,,,5304773,
+37675912,37675914,0,False,residential,Vineyard Hill Road,84.955,,,,,,,,,,,5304773,
+37675912,37461317,0,False,residential,Vineyard Hill Road,36.324,,,,,,,,,,,5304773,
+37675912,37770551,0,False,residential,Grainfield Court,67.834,,,,,,,,,,,5311018,
+37675914,37675917,0,False,residential,Vineyard Hill Road,86.313,,,,,,,,,,,5304773,
+37675914,37675912,0,False,residential,Vineyard Hill Road,84.955,,,,,,,,,,,5304773,
+37675914,37840510,0,False,residential,Shepherd House Court,73.131,,,,,,,,,,,5316723,
+37675917,37675914,0,False,residential,Vineyard Hill Road,86.313,,,,,,,,,,,5304773,
+37675917,37921809,0,False,residential,Trotting Horse Court,83.51,,,,,,,,,,,5322429,
+37675917,37675919,0,False,residential,Vineyard Hill Road,40.715,,,,,,,,,,,5304773,
+37675919,37361703,0,False,residential,Vineyard Hill Road,64.558,,,,,,,,,,,5304773,
+37675919,37675917,0,False,residential,Vineyard Hill Road,40.715,,,,,,,,,,,5304773,
+37675919,37660813,0,False,residential,Stone Spring Court,116.9,,,,,,,,,,,5307702,
+37675931,1955333091,0,False,residential,Vineyard Hill Road,251.267,,,,,,,,,,,5304773,
+37675931,37361703,0,False,residential,Vineyard Hill Road,102.693,,,,,,,,,,,5304773,
+37675931,37893781,0,False,residential,Bull Branch Court,123.663,,,,,,,,,,,5320228,
+37679340,37690655,0,False,residential,Fairway Avenue,142.158,,,,,,,,,,,78331769,
+37679340,37461952,0,False,residential,Laverne Avenue,143.056,,,,,,,,,,,5305058,
+37679340,37690692,0,False,residential,Fairway Avenue,261.57,,,,,,,,,,,78331769,
+37682248,37785302,0,False,primary,Frederick Road,215.047,,,,30 mph,,,,,,,83714912,MD 144
+37682248,37704850,0,False,primary,Frederick Road,241.402,2,,,30 mph,,,,,,,83714913,MD 144
+37682248,37817082,0,False,secondary,Bloomsbury Avenue,235.958,,,,,,,,,,,513564844,
+37690655,37679340,0,False,residential,Fairway Avenue,142.158,,,,,,,,,,,78331769,
+37690692,364174878,0,False,secondary,Wilkens Avenue,111.686,,,,,,,,,,,54183599,MD 372
+37690692,908703801,0,False,secondary,Wilkens Avenue,57.174,,,,,,,,,,,54183599,MD 372
+37690692,37679340,0,False,residential,Fairway Avenue,261.57,,,,,,,,,,,78331769,
+37691924,37691926,0,False,unclassified,Walker Avenue,12.255,,,,,,,,,,,435890017,
+37691924,37474525,0,True,secondary,Wilkens Avenue,155.928,2,,,,yes,,,,,,"[425140913, 435890019]",MD 372
+37691926,37405587,0,False,unclassified,Walker Avenue,49.152,,,,,,,,,,,435889697,
+37691926,37691924,0,False,unclassified,Walker Avenue,12.255,,,,,,,,,,,435890017,
+37703354,37703355,0,False,residential,South Beaumont Avenue,150.064,,,,,,,,,,,5306616,
+37703354,37644404,0,False,primary,Frederick Road,112.863,,,,30 mph,,,,,,,83714912,MD 144
+37703354,37606041,0,False,primary,Frederick Road,99.323,,,,30 mph,,,,,,,83714912,MD 144
+37703355,37703354,0,False,residential,South Beaumont Avenue,150.064,,,,,,,,,,,5306616,
+37703649,37703651,0,False,residential,Sanford Avenue,204.433,,,,,,,,,,,5306640,
+37703649,37606055,0,False,residential,Magruder Avenue,97.644,,,,,,,,,,,77306256,
+37703649,37584854,0,False,residential,Magruder Avenue,133.057,,,,,,,,,,,77306256,
+37703649,37664870,0,False,residential,Sanford Avenue,259.751,,,,,,,,,,,5306640,
+37703651,37703649,0,False,residential,Sanford Avenue,204.433,,,,,,,,,,,5306640,
+37703651,37584856,0,False,residential,Payson Avenue,134.38,,,,,,,,,,,5320727,
+37703651,37584868,0,False,residential,Sanford Avenue,338.268,,,,,,,,,,,5306640,
+37703677,37584868,0,False,residential,Sanford Avenue,125.255,,,,,,,,,,,5306640,
+37704850,37611283,0,False,primary,Frederick Road,11.072,2,,,30 mph,,,,,,,83714913,MD 144
+37704850,37704854,0,False,residential,Bishops Lane,274.243,,,,,,,,,,,5306707,
+37704850,37682248,0,False,primary,Frederick Road,241.402,2,,,30 mph,,,,,,,83714913,MD 144
+37704854,37704856,0,False,residential,Bishops Lane,73.894,,,,,,,,,,,5306707,
+37704854,37886936,0,False,residential,Bloomingdale Avenue,144.766,,,,,,,,,,,5319760,
+37704854,37657763,0,False,residential,Bloomingdale Avenue,107.447,,,,,,,,,,,5319760,
+37704854,37704850,0,False,residential,Bishops Lane,274.243,,,,,,,,,,,5306707,
+37704856,37704858,0,False,residential,Bishops Lane,20.501,,,,,,,,,,,5306707,
+37704856,37704854,0,False,residential,Bishops Lane,73.894,,,,,,,,,,,5306707,
+37704856,37796446,0,False,residential,Charlee Avenue,58.647,,,,,,,,,,,5313036,
+37704858,37704856,0,False,residential,Bishops Lane,20.501,,,,,,,,,,,5306707,
+37705314,37633082,0,False,primary,Frederick Road,61.291,,,,30 mph,,,,,,,83714912,MD 144
+37705314,37665705,0,False,primary,Frederick Road,62.524,,,,30 mph,,,,,,,83714912,MD 144
+37706294,37644368,0,False,residential,Huron Road,116.255,,,,,,,,,,,5306838,
+37707459,37707494,0,False,residential,Colgate Court,259.309,,,,,,,,,,,5306926,
+37707459,37719838,0,False,residential,American Court,57.486,,,,,,,,,,,5307747,
+37707459,37719823,0,False,residential,American Court,68.531,,,,,,,,,,,5307747,
+37707494,37707459,0,False,residential,Colgate Court,259.309,,,,,,,,,,,5306926,
+37713723,37657763,0,False,residential,Rognel Avenue,97.875,,,,,,,,,,,5307345,
+37718683,37584872,0,False,residential,Forest Lane,172.426,,,,,,,,,,,5307661,
+37718683,37761517,0,False,residential,Glenrae Drive,155.551,,,,,,,,,,,5319134,
+37718683,37718700,0,False,residential,Forest Lane,222.21,,,,,,,,,,,5307661,
+37718683,37877109,0,False,residential,Glenrae Drive,172.192,,,,,,,,,,,5319134,
+37718700,37761519,0,False,primary,South Rolling Road,38.998,2,,,30 mph,,,,,,,425003320,MD 166
+37718700,37718683,0,False,residential,Forest Lane,222.21,,,,,,,,,,,5307661,
+37718700,37761523,0,False,primary,South Rolling Road,82.091,2,,,30 mph,,,,,,,425003320,MD 166
+37719823,37707459,0,False,residential,American Court,68.531,,,,,,,,,,,5307747,
+37719823,37493422,0,False,primary,South Rolling Road,443.891,"['3', '2']",,,30 mph,,,,,,,"[425140855, 82352743]",MD 166
+37719823,37618229,0,False,primary,South Rolling Road,221.601,"['4', '3', '5']",,,30 mph,,,,,,,"[425140897, 425140868, 425140878, 425003319]",MD 166
+37719838,37707459,0,False,residential,American Court,57.486,,,,,,,,,,,5307747,
+37726695,37761589,0,False,secondary,South Rolling Road,316.207,,,,,,,,,,,43782566,
+37737068,37674154,0,False,primary,South Rolling Road,94.542,2,,,30 mph,,,,,,,425003320,MD 166
+37737068,37761514,0,False,primary,South Rolling Road,114.443,2,,,30 mph,,,,,,,425003320,MD 166
+37740314,37403847,0,False,residential,Old Dominion Court,244.687,,,,,,,,,,,5308989,
+37740355,37403847,0,False,residential,Old Dominion Court,102.565,,,,,,,,,,,5308989,
+37753425,2688330954,0,False,secondary,Bloomsbury Avenue,7.741,,,,,,,,,,,513564842,
+37753425,37753434,0,False,tertiary,Bloomingdale Avenue,221.987,,,,,,,,,,,5309852,
+37753425,37436028,0,False,secondary,Bloomsbury Avenue,535.115,2,,,,,,,,,,"[513564842, 5315054]",
+37753434,37584854,0,False,residential,Magruder Avenue,143.202,,,,,,,,,,,77306256,
+37753434,37753425,0,False,tertiary,Bloomingdale Avenue,221.987,,,,,,,,,,,5309852,
+37753434,37250952,0,False,tertiary,Mellor Avenue,254.931,,,,,,,,,,,5319986,
+37753434,37886128,0,False,residential,Mellor Avenue,479.309,2,,,,,,,,,,109972876,
+37753439,37839956,0,False,residential,Forest Drive,407.927,,,,,,,,,,,5318561,
+37753439,37753443,0,False,residential,Magruder Avenue,103.862,,,,,,,,,,,77306256,
+37753439,37569404,0,False,residential,Magruder Avenue,112.097,,,,,,,,,,,77306256,
+37753439,37644404,0,False,residential,Forest Drive,232.453,,,,,,,,,,,5318561,
+37753443,37644412,0,False,residential,Fairfield Drive,134.616,,,,,,,,,,,5323099,
+37753443,37644344,0,False,residential,Magruder Avenue,100.785,,,,,,,,,,,77306256,
+37753443,37753439,0,False,residential,Magruder Avenue,103.862,,,,,,,,,,,77306256,
+37753443,37761514,0,False,residential,Fairfield Drive,325.407,,,,,,,,,,,5323099,
+37754654,37633085,0,False,residential,Chelton Avenue,130.607,,,,,,,,,,,5309939,
+37754654,37761484,0,False,primary,South Rolling Road,142.187,2,,,30 mph,,,,,,,425003320,MD 166
+37754654,37761491,0,False,primary,South Rolling Road,52.413,2,,,30 mph,,,,,,,425003320,MD 166
+37758146,37675907,0,False,residential,Healy Farm Road,77.196,,,,,,,,,,,5310196,
+37759955,37794801,0,False,residential,Rambling Drive,114.124,,,,,,,,,,,5313622,
+37759955,1069711193,0,False,secondary,Wilkens Avenue,703.92,2,,,,,,,,,,77189611,MD 372
+37759955,908703525,0,False,secondary,Wilkens Avenue,100.269,2,,,,,,,,,,77189611,MD 372
+37759967,1069711193,0,False,secondary,Wilkens Avenue,52.053,,,,,,,,,,,435890565,MD 372
+37759967,37761557,0,False,primary,South Rolling Road,42.269,4,,,30 mph,,,,,,,425140902,MD 166
+37759967,37761561,0,False,primary,South Rolling Road,132.538,4,,,30 mph,,,,,,,425140907,MD 166
+37761332,37761334,0,False,residential,Fairview Avenue,91.452,,,,,,,,,,,5310391,
+37761334,37761332,0,False,residential,Fairview Avenue,91.452,,,,,,,,,,,5310391,
+37761334,37780545,0,False,residential,Wade Avenue,84.389,1,,,,,,,,,,5323343,
+37761334,37930094,0,False,residential,Wade Avenue,309.062,1,,,,,,,,,,"[580881843, 5323343]",
+37761484,37754654,0,False,primary,South Rolling Road,142.187,2,,,30 mph,,,,,,,425003320,MD 166
+37761484,37633082,0,False,primary,Frederick Road,153.787,3,,,30 mph,,,,,,,"[83714912, 425006179]",MD 144
+37761491,37413156,0,False,residential,Hilton Avenue,11.644,,,,,,,,,,,5307508,
+37761491,37633097,0,False,primary,South Rolling Road,145.337,2,,,30 mph,,,,,,,425003320,MD 166
+37761491,37754654,0,False,primary,South Rolling Road,52.413,2,,,30 mph,,,,,,,425003320,MD 166
+37761514,37737068,0,False,primary,South Rolling Road,114.443,2,,,30 mph,,,,,,,425003320,MD 166
+37761514,37644356,0,False,primary,South Rolling Road,87.267,2,,,30 mph,,,,,,,425003320,MD 166
+37761514,37753443,0,False,residential,Fairfield Drive,325.407,,,,,,,,,,,5323099,
+37761517,37718683,0,False,residential,Glenrae Drive,155.551,,,,,,,,,,,5319134,
+37761517,37761519,0,False,primary,South Rolling Road,58.737,2,,,30 mph,,,,,,,425003320,MD 166
+37761517,37584875,0,False,primary,South Rolling Road,173.391,2,,,30 mph,,,,,,,425003320,MD 166
+37761517,37308411,0,False,residential,Glenrae Drive,174.041,,,,,,,,,,,5319134,
+37761519,37718700,0,False,primary,South Rolling Road,38.998,2,,,30 mph,,,,,,,425003320,MD 166
+37761519,37761517,0,False,primary,South Rolling Road,58.737,2,,,30 mph,,,,,,,425003320,MD 166
+37761519,1853545054,0,False,residential,Reserve Court,267.742,,,,,,,,,,,174699013,
+37761523,37761525,0,False,primary,South Rolling Road,40.421,2,,,30 mph,,,,,,,425003320,MD 166
+37761523,37718700,0,False,primary,South Rolling Road,82.091,2,,,30 mph,,,,,,,425003320,MD 166
+37761525,37761523,0,False,primary,South Rolling Road,40.421,2,,,30 mph,,,,,,,425003320,MD 166
+37761525,1069715081,0,False,primary,South Rolling Road,28.709,2,,,30 mph,,,,,,,435885678,MD 166
+37761525,1069715136,0,False,secondary,Bloomsbury Avenue,49.239,,,,,,,,,,,435890736,
+37761536,37308381,0,False,primary,South Rolling Road,44.715,4,,,30 mph,,,,,,,425003334,MD 166
+37761536,37774548,0,True,residential,,128.943,,,,,,,,,,,226172725,
+37761536,37618229,0,False,primary,South Rolling Road,103.34,"['4', '5']",,,30 mph,,,,,,,"[435885677, 425189463]",MD 166
+37761557,37493422,0,False,primary,South Rolling Road,125.134,"['3', '2']",,,30 mph,,,,,,,"[425140874, 425140850]",MD 166
+37761557,37759967,0,False,primary,South Rolling Road,42.269,4,,,30 mph,,,,,,,425140902,MD 166
+37761561,37361538,0,False,residential,Foxhall Farm Road,1225.476,,,,,permissive,,yes,,,,"[120711528, 120711529, 5311979]",
+37761561,4244572852,0,False,primary,South Rolling Road,40.813,"['4', '2']",,,30 mph,,,,,,,"[425140859, 425140907]",MD 166
+37761561,37759967,0,False,primary,South Rolling Road,132.538,4,,,30 mph,,,,,,,425140907,MD 166
+37761563,37388223,0,False,residential,Highfields Drive,20.03,,,,25 mph,,,,,,,5323695,
+37761563,4244572847,0,False,primary,South Rolling Road,67.109,"['4', '2']",,,30 mph,,,,,,,"[501504288, 425005011]",MD 166
+37761563,4244572852,0,False,primary,South Rolling Road,56.82,3,,,30 mph,,,,,,,"[425140888, 425140863]",MD 166
+37761589,37284429,0,True,motorway_link,,320.348,,,,,,,,,,,5274205,
+37761589,37726695,0,False,secondary,South Rolling Road,316.207,,,,,,,,,,,43782566,
+37761589,37388122,0,False,secondary,South Rolling Road,264.253,,,,,,,,,,,43782566,
+37770551,37675912,0,False,residential,Grainfield Court,67.834,,,,,,,,,,,5311018,
+37771839,37584886,0,False,residential,Biddle Court,104.324,,,,,,,,,,,5311106,
+37774548,37618229,0,False,unclassified,Campus Drive,59.236,,,,,,,,,,,435885914,
+37774548,37774583,0,False,unclassified,Campus Drive,457.895,,,,,,,,,,,435886625,
+37774583,37774548,0,False,unclassified,Campus Drive,457.895,,,,,,,,,,,435886625,
+37774583,37774585,0,False,unclassified,Campus Drive,27.188,,,,,,,,,,,435886626,
+37774585,37774849,0,False,unclassified,Campus Drive,31.008,,,,,,,,,,,5311342,
+37774585,37774583,0,False,unclassified,Campus Drive,27.188,,,,,,,,,,,435886626,
+37774585,2929009330,0,False,unclassified,Campus Drive,22.593,,,,,,,,,,,435886627,
+37774594,2929009330,0,False,unclassified,Campus Drive,6.864,,,,,,,,,,,435886627,
+37774594,37440208,0,False,unclassified,Campus Drive,131.378,,,,,,,,,,,5311342,
+37774594,37774583,0,True,unclassified,,48.564,,,,,,,,,,,289348877,
+37774849,37774585,0,False,unclassified,Campus Drive,31.008,,,,,,,,,,,5311342,
+37774849,37440208,0,False,unclassified,Campus Drive,1408.335,,,,,,,,,,,5311342,
+37774849,2929009330,0,True,unclassified,,42.357,,,,,,,,,,,289348879,
+37780544,37780545,0,False,residential,Glencoe Avenue,125.13,,,,,,,,,,,5311792,
+37780545,37780544,0,False,residential,Glencoe Avenue,125.13,,,,,,,,,,,5311792,
+37780545,37761334,0,False,residential,Wade Avenue,84.389,1,,,,,,,,,,5323343,
+37780545,37889798,0,False,residential,Wade Avenue,167.257,1,,,,,,,,,,5323343,
+37785302,37250952,0,False,primary,Frederick Road,7.192,,,,30 mph,,,,,,,83714912,MD 144
+37785302,37682248,0,False,primary,Frederick Road,215.047,,,,30 mph,,,,,,,83714912,MD 144
+37794801,37794807,0,False,residential,Knollview Court,174.888,,,,,,,,,,,5312918,
+37794801,37802469,0,False,residential,Rambling Drive,303.665,,,,,,,,,,,5313622,
+37794801,37759955,0,False,residential,Rambling Drive,114.124,,,,,,,,,,,5313622,
+37794807,37794801,0,False,residential,Knollview Court,174.888,,,,,,,,,,,5312918,
+37796446,37704856,0,False,residential,Charlee Avenue,58.647,,,,,,,,,,,5313036,
+37797943,37797945,0,False,residential,Holmehurst Avenue,574.438,2,,,,,,,,,,5313186,
+37797943,37018693,0,False,primary,Frederick Road,6.138,2,,,30 mph,,,,,,,544670216,MD 144
+37797943,37454680,0,False,primary,Frederick Road,83.256,"['3', '2']",,,30 mph,,,,,,,"[544670216, 544670215]",MD 144
+37797945,37797943,0,False,residential,Holmehurst Avenue,574.438,2,,,,,,,,,,5313186,
+37802469,37794801,0,False,residential,Rambling Drive,303.665,,,,,,,,,,,5313622,
+37806518,37930094,0,False,primary,Frederick Road,12.168,2,,,30 mph,,,,,,,425007796,MD 144
+37806518,37018693,0,False,primary,Frederick Road,85.428,"['4', '2']",,,30 mph,,,,,,,"[544670216, 425007798]",MD 144
+37817082,37891048,0,False,residential,Meadowbrook Avenue,105.628,,,,,,,,,,,5320094,
+37817082,2688330954,0,False,secondary,Bloomsbury Avenue,47.789,,,,,,,,,,,513564844,
+37817082,37682248,0,False,secondary,Bloomsbury Avenue,235.958,,,,,,,,,,,513564844,
+37817122,37632483,0,False,secondary,Bloomsbury Avenue,46.511,2,,,,,,,,,,5315054,
+37817122,37436028,0,False,secondary,Bloomsbury Avenue,75.339,2,,,,,,,,,,5315054,
+37825596,37325760,0,True,motorway,Metropolitan Boulevard,399.488,1,,,,,,yes,,,,"[35907641, 35907642, 592182833]",MD 166
+37825596,2145430956,0,True,motorway_link,,261.865,1,,,,,,yes,,,,"[204168764, 264242021]",
+37825596,37362449,0,True,motorway_link,,739.831,1,,,,designated,,yes,,,,"[264242023, 54856969, 264242026, 264242025, 54856972]",
+37829016,37674155,0,False,residential,David Lee Court,80.186,,,,,,,,,,,5316025,
+37832824,37596369,0,False,residential,Hilton Terrace,58.869,,,,,,,,,,,5316278,
+37839956,37674154,0,False,residential,Gary Drive,102.832,,,,,,,,,,,5316664,
+37839956,37569405,0,False,residential,Gary Drive,129.024,,,,,,,,,,,5316664,
+37839956,37753439,0,False,residential,Forest Drive,407.927,,,,,,,,,,,5318561,
+37840510,37675914,0,False,residential,Shepherd House Court,73.131,,,,,,,,,,,5316723,
+37849023,37668900,0,False,residential,Anderson Ridge Road,111.103,,,,25 mph,,,,,,,5317220,
+37849023,37338149,0,False,residential,Highfields Drive,125.266,,,,25 mph,,,,,,,5323695,
+37849023,37638374,0,False,residential,Highfields Drive,83.027,,,,25 mph,,,,,,,5323695,
+37849040,37674308,0,False,residential,Anderson Ridge Road,191.919,,,,25 mph,,,,,,,5317220,
+37877109,37718683,0,False,residential,Glenrae Drive,172.192,,,,,,,,,,,5319134,
+37886128,37584862,0,False,residential,Pullen Avenue,157.831,,,,,,,,,,,5319719,
+37886128,37590294,0,False,residential,Mellor Avenue,205.652,2,,,,,,,,,,109972876,
+37886128,37753434,0,False,residential,Mellor Avenue,479.309,2,,,,,,,,,,109972876,
+37886936,37704854,0,False,residential,Bloomingdale Avenue,144.766,,,,,,,,,,,5319760,
+37889798,2688330857,0,False,residential,Wade Avenue,151.98,1,,,,,,,,,,5323343,
+37889798,37780545,0,False,residential,Wade Avenue,167.257,1,,,,,,,,,,5323343,
+37891048,37817082,0,False,residential,Meadowbrook Avenue,105.628,,,,,,,,,,,5320094,
+37893781,37675931,0,False,residential,Bull Branch Court,123.663,,,,,,,,,,,5320228,
+37921809,37675917,0,False,residential,Trotting Horse Court,83.51,,,,,,,,,,,5322429,
+37930094,37806518,0,False,primary,Frederick Road,12.168,2,,,30 mph,,,,,,,425007796,MD 144
+37930094,37097797,0,True,primary,Frederick Road,34.946,3,,,30 mph,,,,,,,425007799,MD 144
+37930094,37761334,0,False,residential,Wade Avenue,309.062,1,,,,,,,,,,"[580881843, 5323343]",
+364174854,364174878,0,False,secondary,Wilkens Avenue,17.004,,,,,,,,,,,54183599,MD 372
+364174854,908703925,0,True,residential,Hidden Bluff Circle,107.701,,,,,,,,,,,32353789,
+364174854,37474525,0,False,secondary,Wilkens Avenue,80.23,3,,,,,,,,,,425140918,MD 372
+364174878,37690692,0,False,secondary,Wilkens Avenue,111.686,,,,,,,,,,,54183599,MD 372
+364174878,364174854,0,False,secondary,Wilkens Avenue,17.004,,,,,,,,,,,54183599,MD 372
+364174910,364174971,0,False,residential,Jacks Court,76.811,,,,,,,,,,,32353798,
+364174910,908703945,0,False,residential,Jacks Court,119.153,,,,,,,,,,,32353798,
+364174910,908703864,0,False,residential,Hidden Bluff Circle,338.507,,,,,,,,,,,183745356,
+364174971,364174910,0,False,residential,Jacks Court,76.811,,,,,,,,,,,32353798,
+393490713,675908130,0,False,unclassified,Glen Artney Road,642.509,,,,,,,,,,,"[120711530, 418838806]",
+675908130,393490713,0,False,unclassified,Glen Artney Road,642.509,,,,,,,,,,,"[120711530, 418838806]",
+908703525,37759955,0,False,secondary,Wilkens Avenue,100.269,2,,,,,,,,,,77189611,MD 372
+908703525,908703577,0,True,secondary,,34.445,,,,,,,,,,roundabout,114707896,MD 372
+908703577,908703801,0,True,secondary,,25.991,,,,,,,,,,roundabout,435886628,MD 372
+908703707,37461952,0,False,tertiary,Hilltop Road,328.917,2,,,,,,,,,,5298910,
+908703707,908703525,0,True,secondary,,19.352,,,,,,,,,,roundabout,77189624,MD 372
+908703801,37690692,0,False,secondary,Wilkens Avenue,57.174,,,,,,,,,,,54183599,MD 372
+908703801,908703707,0,True,secondary,,22.477,,,,,,,,,,roundabout,77189624,MD 372
+908703864,908703909,0,True,residential,Hidden Bluff Circle,22.432,,,,,,,,,,roundabout,77189626,
+908703864,364174910,0,False,residential,Hidden Bluff Circle,338.507,,,,,,,,,,,183745356,
+908703909,364174878,0,True,residential,Hidden Bluff Circle,114.124,,,,,,,,,,,32353794,
+908703909,908703925,0,True,residential,Hidden Bluff Circle,12.728,,,,,,,,,,roundabout,77189626,
+908703925,908703945,0,True,residential,Hidden Bluff Circle,23.156,,,,,,,,,,roundabout,77189626,
+908703945,364174910,0,False,residential,Jacks Court,119.153,,,,,,,,,,,32353798,
+908703945,908703864,0,True,residential,Hidden Bluff Circle,30.371,,,,,,,,,,roundabout,77189626,
+910093257,37578869,0,False,tertiary,Hilltop Road,256.361,2,,,,,,,,,,5298910,
+910093257,37578887,0,False,tertiary,Hilltop Road,300.398,2,,,,,,,,,,5298910,
+910093257,37632483,0,True,residential,Holmes Avenue,307.739,,,,,,,,,,,5301834,
+975005277,37528554,0,False,tertiary,Valley Road,14.632,,,,,,,,,,,83715046,
+1069711193,37759967,0,False,secondary,Wilkens Avenue,52.053,,,,,,,,,,,435890565,MD 372
+1069711193,37759955,0,False,secondary,Wilkens Avenue,703.92,2,,,,,,,,,,77189611,MD 372
+1069711193,37761557,0,True,secondary_link,,59.073,,,,,,,,,,,92127716,
+1069715081,1069715136,0,True,secondary_link,,59.442,,,,,,,,,,,92127944,
+1069715081,37308381,0,False,primary,South Rolling Road,247.206,4,,,30 mph,,,,,,,"[425003328, 425003334]",MD 166
+1069715081,37761525,0,False,primary,South Rolling Road,28.709,2,,,30 mph,,,,,,,435885678,MD 166
+1069715136,37590330,0,False,secondary,Bloomsbury Avenue,208.736,2,,,,,,,,,,5315054,
+1069715136,37761523,0,True,secondary_link,,67.74,,,,,,,,,,,92127945,
+1069715136,37761525,0,False,secondary,Bloomsbury Avenue,49.239,,,,,,,,,,,435890736,
+1853545054,1853545054,0,False,residential,Reserve Court,73.122,,,,,,,,,,,174699013,
+1853545054,1853545054,1,False,residential,Reserve Court,73.122,,,,,,,,,,,174699013,
+1853545054,37761519,0,False,residential,Reserve Court,267.742,,,,,,,,,,,174699013,
+1856521062,37606059,0,False,residential,Forest Spring Lane,15.06,,,,,,,,,,,5306593,
+1856521062,1856521063,0,False,residential,Forest Spring Lane,16.348,,,,,,,,,,,5306593,
+1856521062,37606057,0,False,residential,Locust Drive,123.808,,,,25 mph,,,,,,,585928959,
+1856521063,1856521062,0,False,residential,Forest Spring Lane,16.348,,,,,,,,,,,5306593,
+1933713043,37581961,0,False,residential,McCurley Avenue,33.99,,,,,,,,,,,5301447,
+1955333091,37338141,0,False,residential,Vineyard Hill Road,40.264,,,,,,,,,,,5304773,
+1955333091,37675931,0,False,residential,Vineyard Hill Road,251.267,,,,,,,,,,,5304773,
+1955333091,37361538,0,False,residential,Pearce Landing Road,58.634,,,,,,,,,,,184967153,
+2688330857,2688330857,0,False,residential,Wade Avenue,51.171,1,,,,,,,,,,5323343,
+2688330857,2688330857,1,False,residential,Wade Avenue,51.171,1,,,,,,,,,,5323343,
+2688330857,37889798,0,False,residential,Wade Avenue,151.98,1,,,,,,,,,,5323343,
+2688330954,37753425,0,False,secondary,Bloomsbury Avenue,7.741,,,,,,,,,,,513564842,
+2688330954,37817082,0,False,secondary,Bloomsbury Avenue,47.789,,,,,,,,,,,513564844,
+2929009330,37774594,0,False,unclassified,Campus Drive,6.864,,,,,,,,,,,435886627,
+2929009330,37774585,0,False,unclassified,Campus Drive,22.593,,,,,,,,,,,435886627,
+4244572847,37325768,0,False,primary,South Rolling Road,31.386,2,,,30 mph,,,,,,,425005013,MD 166
+4244572847,37761563,0,False,primary,South Rolling Road,67.109,"['4', '2']",,,30 mph,,,,,,,"[501504288, 425005011]",MD 166
+4244572852,37761561,0,False,primary,South Rolling Road,40.813,"['4', '2']",,,30 mph,,,,,,,"[425140859, 425140907]",MD 166
+4244572852,37761563,0,False,primary,South Rolling Road,56.82,3,,,30 mph,,,,,,,"[425140888, 425140863]",MD 166
+4244572852,4244572847,0,True,primary,South Rolling Road,125.021,4,,,30 mph,,,,,,,425140923,MD 166
+4744229399,4744232627,0,True,tertiary,,13.396,,,,,,,,,,roundabout,481490252,
+4744229405,4744240160,0,True,tertiary,UMBC Boulevard,320.915,,,,25 mph,,,,,,,5283640,
+4744232627,4744229405,0,True,tertiary,,57.015,,,,,,,,,,roundabout,481490251,
+4744240160,4744240156,0,True,tertiary,,49.7,,,,,,,,,,roundabout,481491252,
+5019710357,37657763,0,False,residential,Bloomingdale Avenue,109.018,,,,,,,,,,,5319760,
+5019710357,2688330954,0,True,residential,Bloomingdale Avenue,40.146,,,,,,,,,,,513564843,

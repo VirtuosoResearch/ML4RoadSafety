@@ -1,0 +1,73 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+41327658,41327670,0,False,primary,Clinton Avenue,51.89,2,,,30 mph,,,,,,,44092707,US 9
+41327658,41358038,0,False,primary,Clinton Avenue,171.532,2,,,30 mph,,,,,,,44092707,US 9
+41327670,41327672,0,False,primary,Lark Street,77.123,2,,,30 mph,,,,,,,5572777,US 9W
+41327670,41327658,0,False,primary,Clinton Avenue,51.89,2,,,30 mph,,,,,,,44092707,US 9
+41327670,41535879,0,False,primary,Clinton Avenue,173.828,2,,,30 mph,,,,,,,44092707,US 9
+41327672,41327676,0,False,primary,Lark Street,82.755,2,,,30 mph,,,,,,,5572777,US 9W
+41327672,41327670,0,False,primary,Lark Street,77.123,2,,,30 mph,,,,,,,5572777,US 9W
+41327672,41479982,0,True,residential,Orange Street,178.949,,,,30 mph,,,,,,,44706379,
+41327676,41327680,0,False,primary,Lark Street,67.22,2,,,30 mph,,,,,,,5572777,US 9W
+41327676,41327672,0,False,primary,Lark Street,82.755,2,,,30 mph,,,,,,,5572777,US 9W
+41327676,41358044,0,True,residential,Sheridan Avenue,223.173,,,,30 mph,,,,,,,173689702,
+41327680,41327686,0,False,primary,Lark Street,21.161,2,,,30 mph,,,,,,,5572777,US 9W
+41327680,41327676,0,False,primary,Lark Street,67.22,2,,,30 mph,,,,,,,5572777,US 9W
+41327680,41465610,0,False,residential,Spruce Street,170.307,,,,,,,,,,,5584638,
+41327686,41327680,0,False,primary,Lark Street,21.161,2,,,30 mph,,,,,,,5572777,US 9W
+41327686,41358044,0,False,residential,"['Dove Street', 'Spruce Street']",295.136,,,,,,,,,,,"[5584641, 5575362]",
+41333250,41499570,0,False,residential,Chapel Street,72.215,,,,30 mph,,,,,,,5587868,
+41333250,41333258,0,True,unclassified,Monroe Street,207.976,,,,30 mph,,,,,,,5573455,
+41333250,41479958,0,False,residential,Chapel Street,37.252,,,,30 mph,,,,,,,5587868,
+41333258,41543985,0,True,residential,Theatre Row,54.567,,,,30 mph,,,,,,,5592692,
+41337816,41499562,0,False,primary,Clinton Avenue,82.157,2,,,30 mph,,,,,,,36747108,US 9
+41337816,41441933,0,False,primary,Clinton Avenue,229.716,2,,,30 mph,,,,,,,44092707,US 9
+41358038,41358041,0,False,residential,Dove Street,78.497,,,,,,,,,,,5575362,
+41358038,41327658,0,False,primary,Clinton Avenue,171.532,2,,,30 mph,,,,,,,44092707,US 9
+41358038,41371765,0,False,primary,Clinton Avenue,219.156,2,,,30 mph,,,,,,,44092707,US 9
+41358041,41358044,0,False,residential,Dove Street,77.555,,,,,,,,,,,5575362,
+41358041,41358038,0,False,residential,Dove Street,78.497,,,,,,,,,,,5575362,
+41358041,41327672,0,True,residential,Orange Street,222.705,,,,30 mph,,,,,,,44706379,
+41358044,41358041,0,False,residential,Dove Street,77.555,,,,,,,,,,,5575362,
+41358044,41327686,0,False,residential,"['Dove Street', 'Spruce Street']",295.136,,,,,,,,,,,"[5584641, 5575362]",
+41358044,41371770,0,True,residential,Sheridan Avenue,222.113,,,,30 mph,,,,,,,173689702,
+41371765,41371767,0,False,residential,South Swan Street,76.592,,,,,,,,,,,5576719,
+41371765,41507047,0,False,primary,Clinton Avenue,43.1,2,,,30 mph,,,,,,,44092707,US 9
+41371765,41358038,0,False,primary,Clinton Avenue,219.156,2,,,30 mph,,,,,,,44092707,US 9
+41371767,41371770,0,False,residential,South Swan Street,80.34,,,,,,,,,,,5576719,
+41371767,41371765,0,False,residential,South Swan Street,76.592,,,,,,,,,,,5576719,
+41371767,41358041,0,True,residential,Orange Street,221.499,,,,30 mph,,,,,,,44706379,
+41371770,41371773,0,False,residential,South Swan Street,46.551,,,,,,,,,,,5576719,
+41371770,41371767,0,False,residential,South Swan Street,80.34,,,,,,,,,,,5576719,
+41371770,41543985,0,False,residential,Sheridan Avenue,338.338,,,,30 mph,,,,,,,173689701,
+41371773,41371770,0,False,residential,South Swan Street,46.551,,,,,,,,,,,5576719,
+41441929,41441933,0,False,residential,North Hawk Street,76.186,,,,30 mph,,,,,,,5582560,
+41441929,41371767,0,True,residential,Orange Street,221.124,,,,30 mph,,,,,,,44706379,
+41441933,41441929,0,False,residential,North Hawk Street,76.186,,,,30 mph,,,,,,,5582560,
+41441933,41507047,0,False,primary,Clinton Avenue,178.893,2,,,30 mph,,,,,,,44092707,US 9
+41441933,41337816,0,False,primary,Clinton Avenue,229.716,2,,,30 mph,,,,,,,44092707,US 9
+41465608,41327676,0,True,residential,Sheridan Avenue,168.622,,,,30 mph,,,,,,,173689702,
+41465610,41465608,0,True,residential,Spruce Street,69.299,,,,30 mph,,,,,,,5584637,
+41465610,41327680,0,False,residential,Spruce Street,170.307,,,,,,,,,,,5584638,
+41479958,41333250,0,False,residential,Chapel Street,37.252,,,,30 mph,,,,,,,5587868,
+41479958,41499562,0,False,residential,Chapel Street,79.444,,,,30 mph,,,,,,,5587868,
+41479958,41479964,0,True,residential,Orange Street,199.849,,,,30 mph,,,,,,,44706379,
+41479964,41333258,0,True,residential,Theatre Row,25.163,,,,30 mph,,,,,,,5592692,
+41479964,41441929,0,True,residential,Orange Street,122.178,,,,30 mph,,,,,,,44706379,
+41479982,41535879,0,False,secondary,Henry Johnson Boulevard,76.283,,,,,,,,,,,251679332,
+41479982,41554185,0,False,secondary,Henry Johnson Boulevard,80.284,,,,,,,,,,,251679332,
+41499562,41479958,0,False,residential,Chapel Street,79.444,,,,30 mph,,,,,,,5587868,
+41499562,41337816,0,False,primary,Clinton Avenue,82.157,2,,,30 mph,,,,,,,36747108,US 9
+41499570,41333250,0,False,residential,Chapel Street,72.215,,,,30 mph,,,,,,,5587868,
+41499570,41524627,0,False,residential,Sheridan Avenue,132.839,,,,30 mph,,,,,,,173689701,
+41507047,41371765,0,False,primary,Clinton Avenue,43.1,2,,,30 mph,,,,,,,44092707,US 9
+41507047,41441933,0,False,primary,Clinton Avenue,178.893,2,,,30 mph,,,,,,,44092707,US 9
+41524627,41524630,0,False,residential,Steps Street,47.987,,,,,,,,,,,5590547,
+41524627,41543985,0,False,residential,Sheridan Avenue,94.613,,,,30 mph,,,,,,,173689701,
+41524627,41499570,0,False,residential,Sheridan Avenue,132.839,,,,30 mph,,,,,,,173689701,
+41524630,41524627,0,False,residential,Steps Street,47.987,,,,,,,,,,,5590547,
+41535879,41327670,0,False,primary,Clinton Avenue,173.828,2,,,30 mph,,,,,,,44092707,US 9
+41535879,41479982,0,False,secondary,Henry Johnson Boulevard,76.283,,,,,,,,,,,251679332,
+41543985,41524627,0,False,residential,Sheridan Avenue,94.613,,,,30 mph,,,,,,,173689701,
+41543985,41371770,0,False,residential,Sheridan Avenue,338.338,,,,30 mph,,,,,,,173689701,
+41554185,41465608,0,True,residential,Sheridan Avenue,10.447,,,,30 mph,,,,,,,173689702,
+41554185,41479982,0,False,secondary,Henry Johnson Boulevard,80.284,,,,,,,,,,,251679332,

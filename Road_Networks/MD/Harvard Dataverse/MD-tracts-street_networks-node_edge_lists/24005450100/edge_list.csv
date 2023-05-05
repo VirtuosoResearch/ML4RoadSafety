@@ -1,0 +1,492 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+37024249,37354313,0,True,trunk,Pulaski Highway,24.52,2,,,50 mph,,,,,,,425007308,US 40
+37038337,37674760,0,False,residential,Todds Lane,49.567,,,,,,,,,,,122950948,
+37038337,37038349,0,True,trunk_link,,41.834,,,,,,,,,,,5252561,
+37038337,37278586,0,False,residential,Todds Lane,283.216,,,,,,,,,,,122950948,
+37038349,37674785,0,True,trunk,Pulaski Highway,513.3,"['3', '2']",,,50 mph,,,,,,,"[548026688, 119879708]",US 40
+37240526,37240543,0,True,motorway_link,,177.403,1,,,,,,,,,,50814687,
+37240526,648097279,0,False,secondary,Philadelphia Road,140.375,4,,,35 mph,,,,,,,169733774,MD 7
+37240526,37610218,0,False,secondary,Philadelphia Road,233.23,"['4', '5']",,,35 mph,,,,,,,"[425116905, 425007298, 425116902, 425007295]",MD 7
+37240543,37240651,0,True,motorway_link,,140.405,1,,,,,,,,,,50814687,
+37240651,37365574,0,True,motorway,Baltimore Beltway,44.804,3,,,55 mph,,,,,,,279913628,I 695
+37255564,37636138,0,True,trunk,Pulaski Highway,20.167,3,,,45 mph,,,,,,,422411004,US 40
+37276010,37718530,0,False,residential,Kahler Avenue,110.178,2,,,,,,,,,,5307646,
+37276010,37809286,0,False,residential,Boaz Road,41.544,,,,,,,,,,,5314417,
+37278586,37038337,0,False,residential,Todds Lane,283.216,,,,,,,,,,,122950948,
+37278660,4606765303,0,False,residential,Lacotti Lane,543.164,,,,,,,,,,,"[5273832, 465755109]",
+37278660,37762832,0,False,residential,Batavia Farm Road,300.015,,,,,,,,,,,5310498,
+37278660,37329147,0,False,residential,Batavia Farm Road,824.87,,,,,,,,,,,"[5310498, 5277614]",
+37278919,37278953,0,False,residential,Chesaco Avenue,210.251,,,,,,,,,,,5273857,
+37278953,37278919,0,False,residential,Chesaco Avenue,210.251,,,,,,,,,,,5273857,
+37278953,37830614,0,False,residential,Bridge Avenue,12.102,,,,,,,,,,,5316704,
+37278953,37636141,0,False,residential,"['Bridge Avenue', 'Rosedale Avenue']",555.722,,,,,,,,,,,"[5316704, 5317818]",
+37304919,37868133,0,False,residential,Kendrick Road,232.379,,,,,,,,,,,5318474,
+37314337,37578460,0,True,motorway,Baltimore Beltway,901.618,2,,,55 mph,,,yes,,,,"[47287866, 47287875, 50814631]",I 695
+37329147,37278660,0,False,residential,Batavia Farm Road,824.87,,,,,,,,,,,"[5310498, 5277614]",
+37354313,966295823,0,True,trunk,Pulaski Highway,46.322,2,,,50 mph,,,,,,,425007308,US 40
+37354313,1332714351,0,True,motorway_link,,252.386,1,,,,,,yes,,,,"[118505904, 50814663]",
+37354526,966295816,0,True,trunk,Pulaski Highway,171.808,3,,,50 mph,,,,,,,120487126,US 40
+37365547,37461109,0,False,trunk,Golden Ring Road,8.903,2,,,,,,,,,,182742610,
+37365547,37562663,0,False,tertiary,Golden Ring Road,380.489,2,,,30 mph,,,,,,,548248556,
+37365574,37365547,0,True,motorway_link,,299.06,1,,,,,,,,,,5280780,
+37365574,1930984912,0,True,motorway,Baltimore Beltway,269.86,3,,,55 mph,,,yes,,,,"[279913628, 50814671]",I 695
+37367371,37602584,0,False,residential,Old Philadelphia Road,97.058,2,,,25 mph,,,,,,,5301981,
+37367371,37276010,0,True,residential,"['Narcissus Avenue', 'Boaz Road']",215.413,,,,,,,,,,,"[5323130, 271668455]",
+37367371,37634392,0,False,residential,Old Philadelphia Road,79.713,2,,,25 mph,,,,,,,395918464,
+37376541,37733479,0,False,tertiary,Walnut Avenue,78.48,,,,,,,,,,,5308556,
+37376541,37530883,0,False,residential,Walnut Avenue,73.391,,,,,,,,,,,115568920,
+37376541,37603307,0,False,tertiary,Severn Avenue,527.356,,,,,,,yes,,,,"[47288010, 5318236, 115568916]",
+37376541,37830592,0,False,residential,Severn Avenue,141.002,,,,,,,,,,,115568919,
+37413740,37593635,0,False,tertiary,Chesaco Avenue,137.08,2,,,30 mph,,,,,,,548026692,
+37413740,37815497,0,False,tertiary,Chesaco Avenue,87.143,2,,,30 mph,,,,,,,548026692,
+37413740,37772463,0,False,residential,Duvall Avenue,138.62,,,,,,,,,,,5321130,
+37425976,1930984912,0,True,motorway_link,,207.397,1,,,,,,yes,,,,"[80201480, 118505900]",
+37426007,1332714338,0,True,motorway,Baltimore Beltway,191.913,3,,,55 mph,,,yes,,,,"[50814666, 50814667, 50814670, 50814671]",I 695
+37426007,37024249,0,True,motorway_link,,244.149,1,,,,,,yes,,,,"[118505905, 5251333]",
+37437076,37625529,0,False,residential,Pulaski Drive,220.402,2,,,25 mph,,,,,,,5301564,
+37437076,37613726,0,False,residential,Pulaski Drive,150.697,2,,,25 mph,,,,,,,5301564,
+37437076,37437078,0,False,residential,66th Street,24.147,2,,,,,,,,,,5308338,
+37437076,37729743,0,False,residential,66th Street,245.915,2,,,,,,,,,,5308338,
+37437078,37437076,0,False,residential,66th Street,24.147,2,,,,,,,,,,5308338,
+37437078,37437079,0,False,secondary,Philadelphia Road,15.596,2,,,,,,,,,,83571130,MD 7
+37437078,37603086,0,True,trunk,Pulaski Highway,444.443,"['4', '2']",,,45 mph,,,,,,,"[548026697, 91538474]",US 40
+37437079,37437078,0,False,secondary,Philadelphia Road,15.596,2,,,,,,,,,,83571130,MD 7
+37437079,37437081,0,False,secondary,Philadelphia Road,51.383,2,,,,,,,,,,336422205,MD 7
+37437079,37636139,0,True,trunk,Pulaski Highway,322.313,2,,,45 mph,,,,,,,91538458,US 40
+37437081,37751728,0,False,secondary,Philadelphia Road,63.186,2,,,,,,,,,,83571128,
+37437081,37437079,0,False,secondary,Philadelphia Road,51.383,2,,,,,,,,,,336422205,MD 7
+37437081,37502886,0,False,secondary,Philadelphia Road,334.392,2,,,30 mph,,,,,,,83571137,MD 7
+37444989,37603086,0,False,residential,68th Street,18.41,,,,,,,,,,,5300282,
+37444989,37603077,0,False,residential,68th Street,251.417,,,,,,,,,,,5300282,
+37444989,37625529,0,False,residential,Pulaski Drive,221.373,2,,,25 mph,,,,,,,5301564,
+37461109,37425976,0,True,motorway_link,,44.135,1,,,,,,,,,,5288965,
+37461109,648096737,0,False,trunk,Golden Ring Road,40.174,2,,,,,,,,,,182742610,
+37461109,37365547,0,False,trunk,Golden Ring Road,8.903,2,,,,,,,,,,182742610,
+37471304,37720971,0,False,residential,Philadelphia Avenue,576.271,,,,,,,,,,,5307810,
+37502758,37603303,0,False,residential,Potomac Avenue,180.315,,,,,,,,,,,5318912,
+37502877,37437079,0,True,trunk,Pulaski Highway,336.163,"['4', '2']",,,45 mph,,,,,,,"[548026698, 91538455]",US 40
+37502877,4612541275,0,False,residential,,110.83,,,,,,,,,,,466460841,
+37502886,4612541275,0,False,secondary,Philadelphia Road,5.347,2,,,30 mph,,,,,,,83571137,MD 7
+37502886,37437081,0,False,secondary,Philadelphia Road,334.392,2,,,30 mph,,,,,,,83571137,MD 7
+37530883,37740393,0,False,residential,Patuxent Avenue,132.009,,,,,,,,,,,5317654,
+37530883,37376541,0,False,residential,Walnut Avenue,73.391,,,,,,,,,,,115568920,
+37530883,37530886,0,False,residential,,87.64,,,,,,,,,,,5294895,
+37530883,37740394,0,False,residential,"['Potomac Avenue', 'Walnut Avenue']",200.855,,,,,,,,,,,"[115568920, 5318911]",
+37530886,37530883,0,False,residential,,87.64,,,,,,,,,,,5294895,
+37539469,648096730,0,True,trunk,Pulaski Highway,122.691,2,,,50 mph,,,,,,,422403810,US 40
+37540908,37674758,0,False,residential,Hanzlik Avenue,96.66,,,,,,,,,,,5306994,
+37561888,37561927,0,False,residential,Choptank Avenue,216.005,,,,,,,,,,,5297925,
+37561927,37561929,0,False,residential,Choptank Avenue,94.687,,,,,,,,,,,5297925,
+37561927,37713588,0,False,residential,Edgewater Avenue,73.232,,,,,,,,,,,5307338,
+37561927,37561888,0,False,residential,Choptank Avenue,216.005,,,,,,,,,,,5297925,
+37561929,37561927,0,False,residential,Choptank Avenue,94.687,,,,,,,,,,,5297925,
+37561929,37603311,0,False,residential,Poplar Avenue,17.301,,,,,,,,,,,115568922,
+37561929,37603309,0,False,residential,Poplar Avenue,78.022,,,,,,,,,,,115568922,
+37562661,37562663,0,False,residential,McDaniel Avenue,184.564,,,,,,,,,,,5297966,
+37562663,37562661,0,False,residential,McDaniel Avenue,184.564,,,,,,,,,,,5297966,
+37562663,37365547,0,False,tertiary,Golden Ring Road,380.489,2,,,30 mph,,,,,,,548248556,
+37562663,37610218,0,False,tertiary,Golden Ring Road,133.851,"['4', '2']",,,30 mph,,,,,,,"[548248556, 43783493]",
+37571781,37571783,0,False,residential,Landover Road,178.613,,,,,,,,,,,5298527,
+37571783,37571781,0,False,residential,Landover Road,178.613,,,,,,,,,,,5298527,
+37571783,37664436,0,False,residential,Berkfield Road,86.069,,,,,,,,,,,5322229,
+37571783,37868133,0,False,residential,Berkfield Road,81.855,,,,,,,,,,,5322229,
+37575437,648096036,0,True,motorway,Baltimore Beltway,69.134,"['3', '2']",,,55 mph,,,yes,,,,"[50814625, 50814619, 47287877]",I 695
+37579256,37579258,0,False,residential,Spring Avenue,292.788,2,,,25 mph,,,,,,,5298935,
+37579258,37579256,0,False,residential,Spring Avenue,292.788,2,,,25 mph,,,,,,,5298935,
+37579258,37751780,0,False,secondary,Philadelphia Road,71.31,2,,,30 mph,,,,,,,548248548,MD 7
+37579258,37751777,0,False,secondary,Philadelphia Road,160.591,2,,,30 mph,,,,,,,548248548,MD 7
+37587947,37751931,0,False,secondary,Philadelphia Road,46.273,2,,,30 mph,,,,,,,548248548,MD 7
+37587947,37587949,0,False,secondary,Philadelphia Road,2.654,2,,,30 mph,,,,,,,548248548,MD 7
+37587947,2719956401,0,False,residential,Rustic Avenue,277.46,2,,,,,,,,,,5299416,
+37587949,37587947,0,False,secondary,Philadelphia Road,2.654,2,,,30 mph,,,,,,,548248548,MD 7
+37587949,37608310,0,False,secondary,Philadelphia Road,102.894,2,,,30 mph,,,,,,,548248548,MD 7
+37589529,37608310,0,False,residential,"['Dalton Avenue', 'Mildred Avenue']",124.092,2,,,,,,,,,,"[5299496, 5300519]",
+37593634,37593635,0,False,residential,Shirley Avenue,423.544,,,,25 mph,,,,,,,5299770,
+37593634,37674731,0,False,residential,Rosedale Avenue,72.381,2,,,,,,,,,,5317817,
+37593634,37815497,0,False,residential,"['Rosedale Avenue', 'Gilmore Avenue']",665.891,2,,,,,,,,,,"[5317817, 5314876]",
+37593635,37593634,0,False,residential,Shirley Avenue,423.544,,,,25 mph,,,,,,,5299770,
+37593635,37674741,0,False,tertiary,Chesaco Avenue,32.544,2,,,30 mph,,,,,,,548026692,
+37593635,37413740,0,False,tertiary,Chesaco Avenue,137.08,2,,,30 mph,,,,,,,548026692,
+37602583,37602584,0,False,residential,Lorraine Avenue,171.266,,,,,,,,,,,5300238,
+37602583,37665692,0,True,trunk,Pulaski Highway,99.79,2,,,50 mph,,,,,,,120487128,US 40
+37602584,37602583,0,False,residential,Lorraine Avenue,171.266,,,,,,,,,,,5300238,
+37602584,37367371,0,False,residential,Old Philadelphia Road,97.058,2,,,25 mph,,,,,,,5301981,
+37602584,37634366,0,False,residential,Old Philadelphia Road,100.284,2,,,25 mph,,,,,,,5301981,
+37603077,37444989,0,False,residential,68th Street,251.417,,,,,,,,,,,5300282,
+37603077,982869123,0,False,residential,"['68th Street', 'Lake Drive']",771.953,2,,,,,,,,,,"[5300282, 173491066]",
+37603077,37833011,0,False,residential,Biddle Street,244.214,2,,,,,,,,,,336421910,
+37603086,37603087,0,False,residential,68th Street,19.469,,,,,,,,,,,5300282,
+37603086,37444989,0,False,residential,68th Street,18.41,,,,,,,,,,,5300282,
+37603086,37674731,0,True,trunk,Pulaski Highway,608.974,"['3', '2']",,,45 mph,,,,,,,"[425007112, 425007104, 425007099, 425007110]",US 40
+37603087,37603086,0,False,residential,68th Street,19.469,,,,,,,,,,,5300282,
+37603087,37502877,0,True,trunk,Pulaski Highway,108.55,2,,,45 mph,,,,,,,91538455,US 40
+37603303,37603305,0,False,residential,Poplar Avenue,72.337,,,,,,,,,,,115568922,
+37603303,37502758,0,False,residential,Potomac Avenue,180.315,,,,,,,,,,,5318912,
+37603303,37713593,0,False,residential,Potomac Avenue,94.997,,,,,,,,,,,5318912,
+37603305,37713591,0,False,residential,Patuxent Avenue,95.069,,,,,,,,,,,115568921,
+37603305,37603307,0,False,residential,Poplar Avenue,75.019,,,,,,,,,,,115568922,
+37603305,37603303,0,False,residential,Poplar Avenue,72.337,,,,,,,,,,,115568922,
+37603305,1305284408,0,False,residential,"['Locust Avenue', 'Patuxent Avenue']",192.133,,,,,,,,,,,"[115568921, 115568924]",
+37603307,37713589,0,False,residential,Severn Avenue,96.116,,,,,,,,,,,5318235,
+37603307,37603309,0,False,residential,Poplar Avenue,75.854,,,,,,,,,,,115568922,
+37603307,37603305,0,False,residential,Poplar Avenue,75.019,,,,,,,,,,,115568922,
+37603307,37376541,0,False,tertiary,Severn Avenue,527.356,,,,,,,yes,,,,"[47288010, 115568916, 5318236]",
+37603309,37775056,0,False,residential,Patapsco Avenue,134.556,,,,,,,,,,,5311360,
+37603309,37713588,0,False,residential,Patapsco Avenue,92.578,,,,,,,,,,,5311360,
+37603309,37561929,0,False,residential,Poplar Avenue,78.022,,,,,,,,,,,115568922,
+37603309,37603307,0,False,residential,Poplar Avenue,75.854,,,,,,,,,,,115568922,
+37603311,37561929,0,False,residential,Poplar Avenue,17.301,,,,,,,,,,,115568922,
+37608310,37589529,0,False,residential,"['Dalton Avenue', 'Mildred Avenue']",124.092,2,,,,,,,,,,"[5299496, 5300519]",
+37608310,37587949,0,False,secondary,Philadelphia Road,102.894,2,,,30 mph,,,,,,,548248548,MD 7
+37608310,37751780,0,False,secondary,Philadelphia Road,179.097,2,,,30 mph,,,,,,,548248548,MD 7
+37610218,37562663,0,False,tertiary,Golden Ring Road,133.851,"['4', '2']",,,30 mph,,,,,,,"[548248556, 43783493]",
+37610218,37240526,0,False,secondary,Philadelphia Road,233.23,"['4', '5']",,,35 mph,,,,,,,"[425116905, 425007298, 425116902, 425007295]",MD 7
+37610218,37641128,0,False,secondary,Philadelphia Road,451.706,"['3', '4', '2']",,,30 mph,,,,,,,"[455448448, 548248555, 548248551]",MD 7
+37610228,648096737,0,False,trunk,Golden Ring Road,13.288,2,,,,,,,,,,182742610,
+37610228,37610234,0,True,trunk_link,,53.926,1,,,,,,,,,,77310696,
+37610234,37674940,0,True,trunk,Pulaski Highway,626.472,2,,,50 mph,,,,,,,"[422403810, 455446262]",US 40
+37610235,37610245,0,False,residential,Golden Ring Road,331.81,,,,,,,,,,,5300612,
+37610245,37610246,0,False,tertiary,Kelso Drive,50.532,4,,,35 mph,,,,,,,5320855,
+37610245,37610235,0,False,residential,Golden Ring Road,331.81,,,,,,,,,,,5300612,
+37610245,37638221,0,False,tertiary,Kelso Drive,633.416,4,,,35 mph,,,,,,,5320855,
+37610246,37610245,0,False,tertiary,Kelso Drive,50.532,4,,,35 mph,,,,,,,5320855,
+37610246,37610259,0,False,residential,Golden Ring Road,341.189,2,,,,,,,,,,5300614,
+37610259,37610246,0,False,residential,Golden Ring Road,341.189,2,,,,,,,,,,5300614,
+37613726,37437076,0,False,residential,Pulaski Drive,150.697,2,,,25 mph,,,,,,,5301564,
+37613726,37613728,0,False,residential,65th Street,21.032,2,,,25 mph,,,,,,,84603045,
+37613726,982869114,0,False,residential,65th Street,250.036,2,,,25 mph,,,,,,,84603045,
+37613728,37613726,0,False,residential,65th Street,21.032,2,,,25 mph,,,,,,,84603045,
+37613728,37437078,0,True,trunk,Pulaski Highway,151.644,4,,,45 mph,,,,,,,"[425007098, 336421917, 425007102]",US 40
+37616166,37751750,0,False,secondary,Philadelphia Road,170.911,2,,,30 mph,,,yes,,,,"[122951659, 122951660, 425006447]",MD 7
+37616166,37691462,0,False,secondary,Philadelphia Road,287.366,"['3', '2']",,,30 mph,,,,,,,"[425006446, 425006447]",MD 7
+37619235,37641128,0,False,secondary,Philadelphia Road,56.975,2,,,30 mph,,,,,,,455448448,MD 7
+37619235,37751931,0,False,secondary,Philadelphia Road,165.24,2,,,30 mph,,,,,,,"[455448448, 455448455]",MD 7
+37625529,37437076,0,False,residential,Pulaski Drive,220.402,2,,,25 mph,,,,,,,5301564,
+37625529,37833011,0,False,residential,67th Street,250.258,,,,,,,,,,,5317380,
+37625529,37444989,0,False,residential,Pulaski Drive,221.373,2,,,25 mph,,,,,,,5301564,
+37626244,37740391,0,False,residential,Patapsco Avenue,70.358,,,,,,,,,,,47288012,
+37634338,37634358,0,False,residential,Old Philadelphia Road,275.599,2,,,25 mph,,,,,,,5301981,
+37634338,37751750,0,False,tertiary,Chesaco Avenue,85.506,2,,,30 mph,,,,,,,54450733,
+37634338,37674904,0,False,tertiary,Chesaco Avenue,233.62,"['3', '2']",,,30 mph,,,,,,,"[548026691, 54450733]",
+37634358,37634360,0,False,residential,Old Philadelphia Road,38.108,2,,,25 mph,,,,,,,5301981,
+37634358,37674906,0,False,residential,White Avenue,223.917,,,,,,,,,,,5318553,
+37634358,37634338,0,False,residential,Old Philadelphia Road,275.599,2,,,25 mph,,,,,,,5301981,
+37634360,37634358,0,False,residential,Old Philadelphia Road,38.108,2,,,25 mph,,,,,,,5301981,
+37634360,37634366,0,False,residential,Old Philadelphia Road,69.997,2,,,25 mph,,,,,,,5301981,
+37634366,37602584,0,False,residential,Old Philadelphia Road,100.284,2,,,25 mph,,,,,,,5301981,
+37634366,37634360,0,False,residential,Old Philadelphia Road,69.997,2,,,25 mph,,,,,,,5301981,
+37634366,37926714,0,False,residential,Hesse Avenue,120.834,,,,,,,,,,,5322847,
+37634366,37665692,0,False,residential,Krueger Avenue,203.237,,,,,,,,,,,140753291,
+37634392,37809286,0,False,residential,Primrose Avenue,173.931,,,,,,,,,,,5314269,
+37634392,37634395,0,False,residential,Old Philadelphia Road,82.917,2,,,25 mph,,,,,,,395918464,
+37634392,37367371,0,False,residential,Old Philadelphia Road,79.713,2,,,25 mph,,,,,,,395918464,
+37634395,37810969,0,False,residential,Neighbors Avenue,169.691,2,,,,,,,,,,5317056,
+37634395,1373425422,0,False,residential,Old Philadelphia Road,323.702,2,,,25 mph,,,,,,,395918464,
+37634395,37634392,0,False,residential,Old Philadelphia Road,82.917,2,,,25 mph,,,,,,,395918464,
+37634409,37634411,0,False,residential,Old Philadelphia Road,134.64,2,,,25 mph,,,,,,,395918464,
+37634409,1373425422,0,False,residential,Old Philadelphia Road,181.715,2,,,25 mph,,,,,,,395918464,
+37634411,37673973,0,False,residential,Berkwood Road,70.305,,,,,,,,,,,5311266,
+37634411,37634418,0,False,residential,Old Philadelphia Road,95.259,2,,,25 mph,,,,,,,395918464,
+37634411,37634409,0,False,residential,Old Philadelphia Road,134.64,2,,,25 mph,,,,,,,395918464,
+37634418,37634429,0,False,residential,Berk Avenue,37.055,2,,,25 mph,,,,,,,5301983,
+37634418,37664436,0,False,residential,Berk Avenue,155.724,,,,25 mph,,,,,,,5303976,
+37634418,910160615,0,False,residential,Old Philadelphia Road,48.54,2,,,25 mph,,,,,,,395918464,
+37634418,37634411,0,False,residential,Old Philadelphia Road,95.259,2,,,25 mph,,,,,,,395918464,
+37634429,37674785,0,False,residential,Berk Avenue,17.554,2,,,25 mph,,,,,,,5301983,
+37634429,37634418,0,False,residential,Berk Avenue,37.055,2,,,25 mph,,,,,,,5301983,
+37634429,37674916,0,True,trunk,Pulaski Highway,567.683,2,,,50 mph,,,,,,,120487128,US 40
+37636137,37755169,0,False,residential,Manor Place,86.791,2,,,25 mph,,,,,,,5309969,
+37636137,37636138,0,False,residential,64th Street,61.555,2,,,25 mph,,,,,,,84603041,
+37636137,982869111,0,False,residential,64th Street,239.405,2,,,25 mph,,,,,,,84603041,
+37636138,37636137,0,False,residential,64th Street,61.555,2,,,25 mph,,,,,,,84603041,
+37636138,37636139,0,False,residential,64th Street,16.268,,,,25 mph,,,,,,,422411003,
+37636138,37613728,0,True,trunk,Pulaski Highway,169.027,"['3', '4']",,,45 mph,,,,,,,"[425198499, 5304707]",US 40
+37636139,37636138,0,False,residential,64th Street,16.268,,,,25 mph,,,,,,,422411003,
+37636141,37636142,0,False,residential,Elmhurst Avenue,359.367,,,,,,,,,,,5302151,
+37636141,37670574,0,False,residential,Rosedale Avenue,121.878,,,,,,,,,,,5317818,
+37636141,37278953,0,False,residential,"['Bridge Avenue', 'Rosedale Avenue']",555.722,,,,,,,,,,,"[5316704, 5317818]",
+37636142,37636141,0,False,residential,Elmhurst Avenue,359.367,,,,,,,,,,,5302151,
+37636142,37830634,0,False,tertiary,Chesaco Avenue,162.877,2,,,30 mph,,,,,,,5316128,
+37636142,37830614,0,False,tertiary,Chesaco Avenue,230.654,2,,,30 mph,,,,,,,5316128,
+37638221,37638222,0,False,residential,Marshfield Court,196.846,,,,,,,,,,,5302337,
+37638221,37610245,0,False,tertiary,Kelso Drive,633.416,4,,,35 mph,,,,,,,5320855,
+37638221,648096289,0,False,tertiary,Kelso Drive,316.557,4,,,35 mph,,,,,,,5320855,
+37638222,37638221,0,False,residential,Marshfield Court,196.846,,,,,,,,,,,5302337,
+37641128,37610218,0,False,secondary,Philadelphia Road,451.706,"['3', '4', '2']",,,30 mph,,,,,,,"[455448448, 548248555, 548248551]",MD 7
+37641128,37619235,0,False,secondary,Philadelphia Road,56.975,2,,,30 mph,,,,,,,455448448,MD 7
+37658454,37658459,0,False,residential,Beechdale Avenue,189.321,,,,,,,,,,,5303621,
+37658454,37670646,0,False,residential,Oakdale Avenue,145.471,,,,,,,,,,,5304397,
+37658454,37670574,0,False,residential,Oakdale Avenue,560.291,,,,,,,,,,,5304397,
+37658459,37782963,0,False,residential,Riverdale Avenue,148.701,,,,,,,,,,,5311957,
+37658459,37782962,0,False,residential,Riverdale Avenue,41.853,,,,,,,,,,,5311957,
+37658459,37658454,0,False,residential,Beechdale Avenue,189.321,,,,,,,,,,,5303621,
+37664436,37571783,0,False,residential,Berkfield Road,86.069,,,,,,,,,,,5322229,
+37664436,37664446,0,False,residential,Berk Avenue,151.794,,,,25 mph,,,,,,,5303976,
+37664436,37634418,0,False,residential,Berk Avenue,155.724,,,,25 mph,,,,,,,5303976,
+37664436,37758498,0,False,residential,Berkfield Road,102.837,,,,,,,,,,,5322229,
+37664446,37664436,0,False,residential,Berk Avenue,151.794,,,,25 mph,,,,,,,5303976,
+37665690,37665691,0,False,residential,Krueger Avenue,138.4,,,,,,,,,,,5304059,
+37665690,37772463,0,False,residential,Duvall Avenue,195.57,,,,,,,,,,,5321130,
+37665690,37837573,0,False,residential,Duvall Avenue,84.496,,,,,,,,,,,5321130,
+37665691,37665690,0,False,residential,Krueger Avenue,138.4,,,,,,,,,,,5304059,
+37665691,37674749,0,True,trunk,Pulaski Highway,83.446,2,,,50 mph,,,,,,,119879708,US 40
+37665692,37674906,0,True,trunk,Pulaski Highway,105.011,2,,,50 mph,,,,,,,120487128,US 40
+37665692,37634366,0,False,residential,Krueger Avenue,203.237,,,,,,,,,,,140753291,
+37670574,37849682,0,False,residential,Springdale Avenue,48.579,,,,,,,,,,,5317299,
+37670574,37658454,0,False,residential,Oakdale Avenue,560.291,,,,,,,,,,,5304397,
+37670574,37670646,0,False,residential,Rosedale Avenue,335.374,,,,,,,,,,,5317818,
+37670574,37636141,0,False,residential,Rosedale Avenue,121.878,,,,,,,,,,,5317818,
+37670646,37670647,0,False,residential,Oakdale Avenue,428.697,,,,,,,,,,,5304397,
+37670646,37782963,0,False,residential,Rosedale Avenue,176.86,,,,,,,,,,,5317818,
+37670646,37658454,0,False,residential,Oakdale Avenue,145.471,,,,,,,,,,,5304397,
+37670646,37670574,0,False,residential,Rosedale Avenue,335.374,,,,,,,,,,,5317818,
+37670647,37670646,0,False,residential,Oakdale Avenue,428.697,,,,,,,,,,,5304397,
+37670647,37805430,0,False,tertiary,Chesaco Avenue,267.042,2,,,30 mph,,,,,,,5316128,
+37670647,37830639,0,False,tertiary,Chesaco Avenue,150.188,2,,,30 mph,,,,,,,5316128,
+37673973,37673981,0,False,residential,Berkwood Court,60.119,,,,,,,,,,,5304644,
+37673973,37773870,0,False,residential,Berkwood Road,74.106,,,,,,,,,,,5311266,
+37673973,37634411,0,False,residential,Berkwood Road,70.305,,,,,,,,,,,5311266,
+37673981,37673973,0,False,residential,Berkwood Court,60.119,,,,,,,,,,,5304644,
+37674731,37674903,0,False,residential,Rosedale Avenue,14.363,2,,,,,,,,,,5317817,
+37674731,37674741,0,True,trunk,Pulaski Highway,435.067,"['4', '2']",,,45 mph,,,,,,,"[5304733, 548026695]",US 40
+37674731,37593634,0,False,residential,Rosedale Avenue,72.381,2,,,,,,,,,,5317817,
+37674741,37674904,0,False,tertiary,Chesaco Avenue,14.412,2,,,30 mph,,,,,,,548026692,
+37674741,37593635,0,False,tertiary,Chesaco Avenue,32.544,2,,,30 mph,,,,,,,548026692,
+37674741,37674745,0,True,trunk,Pulaski Highway,242.873,2,,,50 mph,,,,,,,119879708,US 40
+37674745,37674906,0,False,residential,White Avenue,14.385,,,,,,,,,,,5318553,
+37674745,37665691,0,True,trunk,Pulaski Highway,105.145,2,,,50 mph,,,,,,,119879708,US 40
+37674749,37837573,0,False,residential,Lawrence Avenue,139.914,,,,,,,,,,,5316546,
+37674749,37674751,0,True,trunk,Pulaski Highway,73.636,2,,,50 mph,,,,,,,119879708,US 40
+37674751,3659100572,0,False,residential,Batavia Farm Road,14.718,,,,,,,,,,,5310498,
+37674751,37762832,0,False,residential,Batavia Farm Road,142.094,,,,,,,,,,,5310498,
+37674751,37674758,0,True,trunk,Pulaski Highway,305.18,2,,,50 mph,,,,,,,119879708,US 40
+37674758,37674915,0,False,residential,Hanzlik Avenue,12.847,,,,,,,,,,,5306994,
+37674758,37540908,0,False,residential,Hanzlik Avenue,96.66,,,,,,,,,,,5306994,
+37674758,37674760,0,True,trunk,Pulaski Highway,54.954,2,,,50 mph,,,,,,,119879708,US 40
+37674760,37038349,0,True,trunk,Pulaski Highway,43.26,2,,,50 mph,,,,,,,119879708,US 40
+37674760,37674916,0,False,residential,Todds Lane,18.113,,,,,,,,,,,122950948,
+37674760,37038337,0,False,residential,Todds Lane,49.567,,,,,,,,,,,122950948,
+37674785,37634429,0,False,residential,Berk Avenue,17.554,2,,,25 mph,,,,,,,5301983,
+37674785,37674795,0,True,trunk,Pulaski Highway,282.882,"['4', '2']",,,50 mph,,,,,,,"[548026690, 425007302]",US 40
+37674795,37674940,0,False,residential,Contractors Road,12.371,,,,,,,,,,,455446261,
+37674795,37830508,0,False,residential,"['Contractors Road', 'Golden Ring Road']",876.896,,,,,,,,,,,"[5316116, 77310693]",
+37674795,37675242,0,True,trunk,Pulaski Highway,611.867,"['4', '2']",,,50 mph,,,,,,,"[422403809, 425007299, 425007305]",US 40
+37674903,37674731,0,False,residential,Rosedale Avenue,14.363,2,,,,,,,,,,5317817,
+37674903,37691462,0,False,residential,Rosedale Avenue,238.21,2,,,,,,,,,,5317817,
+37674903,37603087,0,True,trunk,Pulaski Highway,603.42,"['3', '4', '2']",,,45 mph,,,,,,,"[548026696, 425198506, 425007100, 119879707, 425198492, 425007103]",US 40
+37674904,37674741,0,False,tertiary,Chesaco Avenue,14.412,2,,,30 mph,,,,,,,548026692,
+37674904,37674903,0,True,trunk,Pulaski Highway,436.637,"['3', '2']",,,45 mph,,,,,,,"[425007108, 425007101]",US 40
+37674904,37634338,0,False,tertiary,Chesaco Avenue,233.62,"['3', '2']",,,30 mph,,,,,,,"[548026691, 54450733]",
+37674906,37674745,0,False,residential,White Avenue,14.385,,,,,,,,,,,5318553,
+37674906,37634358,0,False,residential,White Avenue,223.917,,,,,,,,,,,5318553,
+37674906,37674904,0,True,trunk,Pulaski Highway,245.942,"['4', '2']",,,50 mph,,,,,,,"[120487128, 548026693]",US 40
+37674915,37674758,0,False,residential,Hanzlik Avenue,12.847,,,,,,,,,,,5306994,
+37674915,3659100572,0,True,trunk,Pulaski Highway,307.739,2,,,50 mph,,,,,,,120487128,US 40
+37674916,37674915,0,True,trunk,Pulaski Highway,42.756,2,,,50 mph,,,,,,,120487128,US 40
+37674916,37674760,0,False,residential,Todds Lane,18.113,,,,,,,,,,,122950948,
+37674940,37674795,0,False,residential,Contractors Road,12.371,,,,,,,,,,,455446261,
+37674940,37634429,0,True,trunk,Pulaski Highway,281.926,2,,,50 mph,,,,,,,120487128,US 40
+37675242,37024249,0,True,trunk,Pulaski Highway,208.546,2,,,50 mph,,,,,,,425007308,US 40
+37675242,1332714338,0,True,motorway_link,,302.016,1,,,,,,yes,,,,"[5300604, 50814645, 50814639]",
+37691462,37674903,0,False,residential,Rosedale Avenue,238.21,2,,,,,,,,,,5317817,
+37691462,37722312,0,False,secondary,Philadelphia Road,265.615,"['3', '2']",,,30 mph,,,,,,,"[83571137, 425006445]",MD 7
+37691462,37616166,0,False,secondary,Philadelphia Road,287.366,"['3', '2']",,,30 mph,,,,,,,"[425006446, 425006447]",MD 7
+37713588,37713589,0,False,residential,Edgewater Avenue,77.576,,,,,,,,,,,5307338,
+37713588,37561927,0,False,residential,Edgewater Avenue,73.232,,,,,,,,,,,5307338,
+37713588,37603309,0,False,residential,Patapsco Avenue,92.578,,,,,,,,,,,5311360,
+37713589,37713591,0,False,residential,Edgewater Avenue,73.956,,,,,,,,,,,5307338,
+37713589,37713588,0,False,residential,Edgewater Avenue,77.576,,,,,,,,,,,5307338,
+37713589,37603307,0,False,residential,Severn Avenue,96.116,,,,,,,,,,,5318235,
+37713591,37713589,0,False,residential,Edgewater Avenue,73.956,,,,,,,,,,,5307338,
+37713591,37603305,0,False,residential,Patuxent Avenue,95.069,,,,,,,,,,,115568921,
+37713591,37713593,0,False,residential,Edgewater Avenue,71.141,,,,,,,,,,,5307338,
+37713593,37713598,0,False,residential,Edgewater Avenue,70.785,,,,,,,,,,,5307338,
+37713593,37713591,0,False,residential,Edgewater Avenue,71.141,,,,,,,,,,,5307338,
+37713593,37603303,0,False,residential,Potomac Avenue,94.997,,,,,,,,,,,5318912,
+37713598,37713593,0,False,residential,Edgewater Avenue,70.785,,,,,,,,,,,5307338,
+37718530,37276010,0,False,residential,Kahler Avenue,110.178,2,,,,,,,,,,5307646,
+37718530,37751775,0,False,secondary,Philadelphia Road,77.344,2,,,30 mph,,,,,,,548248547,MD 7
+37718530,37751777,0,False,secondary,Philadelphia Road,136.705,2,,,30 mph,,,,,,,548248547,MD 7
+37720971,602430480,0,False,residential,Patapsco Avenue,24.443,,,,,,,,,,,5311360,
+37720971,37775056,0,False,residential,Patapsco Avenue,119.733,,,,,,,,,,,5311360,
+37720971,37471304,0,False,residential,Philadelphia Avenue,576.271,,,,,,,,,,,5307810,
+37722312,37722314,0,False,residential,Shiphorst Terrace,48.922,,,,,,,,,,,5307904,
+37722312,37751738,0,False,secondary,Philadelphia Road,78.234,2,,,30 mph,,,,,,,83571137,MD 7
+37722312,37691462,0,False,secondary,Philadelphia Road,265.615,"['3', '2']",,,30 mph,,,,,,,"[83571137, 425006445]",MD 7
+37722314,37722312,0,False,residential,Shiphorst Terrace,48.922,,,,,,,,,,,5307904,
+37729743,37437076,0,False,residential,66th Street,245.915,2,,,,,,,,,,5308338,
+37729743,37833011,0,False,residential,Biddle Street,220.495,2,,,,,,,,,,336421910,
+37729743,982869114,0,False,residential,Biddle Street,142.996,2,,,,,,,,,,"[336421912, 84603044]",
+37733479,37376541,0,False,tertiary,Walnut Avenue,78.48,,,,,,,,,,,5308556,
+37733479,37775065,0,False,residential,Patapsco Avenue,160.126,,,,,,,,,,,47288012,
+37733479,4612428306,0,False,tertiary,Chesaco Avenue,171.384,2,,,30 mph,,,,,,,5316128,
+37733479,37740391,0,False,residential,Patapsco Avenue,134.668,,,,,,,,,,,47288012,
+37740391,1305284421,0,False,residential,Linden Avenue,60.786,,,,,,,,,,,5308991,
+37740391,37626244,0,False,residential,Patapsco Avenue,70.358,,,,,,,,,,,47288012,
+37740391,37733479,0,False,residential,Patapsco Avenue,134.668,,,,,,,,,,,47288012,
+37740393,37530883,0,False,residential,Patuxent Avenue,132.009,,,,,,,,,,,5317654,
+37740393,37740394,0,False,residential,Linden Avenue,71.896,,,,,,,,,,,115568926,
+37740393,37740394,1,False,residential,"['Baltimore Avenue', 'Patuxent Avenue', 'Potomac Avenue']",333.563,,,,,,,,,,,"[71867181, 5317654, 5318911]",
+37740393,1305284420,0,False,residential,Linden Avenue,60.863,,,,,,,,,,,115568926,
+37740394,37740397,0,False,residential,Linden Avenue,55.047,,,,,,,,,,,115568926,
+37740394,37740393,0,False,residential,Linden Avenue,71.896,,,,,,,,,,,115568926,
+37740394,37740393,1,False,residential,"['Baltimore Avenue', 'Patuxent Avenue', 'Potomac Avenue']",333.563,,,,,,,,,,,"[71867181, 5317654, 5318911]",
+37740394,37530883,0,False,residential,"['Walnut Avenue', 'Potomac Avenue']",200.855,,,,,,,,,,,"[115568920, 5318911]",
+37740397,37740394,0,False,residential,Linden Avenue,55.047,,,,,,,,,,,115568926,
+37751728,37437081,0,False,secondary,Philadelphia Road,63.186,2,,,,,,,,,,83571128,
+37751728,1350955290,0,True,secondary,Philadelphia Road,228.751,1,,,25 mph,,,,,,,5309763,
+37751735,37751738,0,False,secondary,Philadelphia Road,103.697,2,,,30 mph,,,,,,,83571137,MD 7
+37751735,4612541275,0,False,secondary,Philadelphia Road,216.318,2,,,30 mph,,,,,,,83571137,MD 7
+37751738,37722312,0,False,secondary,Philadelphia Road,78.234,2,,,30 mph,,,,,,,83571137,MD 7
+37751738,37751735,0,False,secondary,Philadelphia Road,103.697,2,,,30 mph,,,,,,,83571137,MD 7
+37751750,37634338,0,False,tertiary,Chesaco Avenue,85.506,2,,,30 mph,,,,,,,54450733,
+37751750,37751755,0,False,secondary,Philadelphia Road,156.819,2,,,30 mph,,,,,,,122951660,MD 7
+37751750,37616166,0,False,secondary,Philadelphia Road,170.911,2,,,30 mph,,,yes,,,,"[122951659, 122951660, 425006447]",MD 7
+37751755,37751765,0,False,secondary,Philadelphia Road,155.538,2,,,30 mph,,,,,,,122951660,MD 7
+37751755,37751750,0,False,secondary,Philadelphia Road,156.819,2,,,30 mph,,,,,,,122951660,MD 7
+37751765,37751766,0,False,secondary,Philadelphia Road,79.323,2,,,30 mph,,,,,,,122951660,MD 7
+37751765,37634360,0,True,residential,Sellier Avenue,148.016,1,,,,,,,,,,5309988,
+37751765,37751755,0,False,secondary,Philadelphia Road,155.538,2,,,30 mph,,,,,,,122951660,MD 7
+37751766,37751765,0,False,secondary,Philadelphia Road,79.323,2,,,30 mph,,,,,,,122951660,MD 7
+37751775,37718530,0,False,secondary,Philadelphia Road,77.344,2,,,30 mph,,,,,,,548248547,MD 7
+37751777,37579258,0,False,secondary,Philadelphia Road,160.591,2,,,30 mph,,,,,,,548248548,MD 7
+37751777,37810969,0,False,residential,Neighbors Avenue,171.711,2,,,,,,,,,,5317056,
+37751777,37718530,0,False,secondary,Philadelphia Road,136.705,2,,,30 mph,,,,,,,548248547,MD 7
+37751780,37579258,0,False,secondary,Philadelphia Road,71.31,2,,,30 mph,,,,,,,548248548,MD 7
+37751780,37634409,0,True,residential,Hilldale Road,467.06,1,,,,,,,,,,5318997,
+37751780,37608310,0,False,secondary,Philadelphia Road,179.097,2,,,30 mph,,,,,,,548248548,MD 7
+37751931,37587947,0,False,secondary,Philadelphia Road,46.273,2,,,30 mph,,,,,,,548248548,MD 7
+37751931,37619235,0,False,secondary,Philadelphia Road,165.24,2,,,30 mph,,,,,,,"[455448448, 455448455]",MD 7
+37755169,37636137,0,False,residential,Manor Place,86.791,2,,,25 mph,,,,,,,5309969,
+37755169,1373391209,0,False,residential,63rd Street,21.171,2,,,25 mph,,,,,,,5315921,
+37755169,37826926,0,False,residential,63rd Street,246.03,2,,,25 mph,,,,,,,5315921,
+37755169,37833023,0,False,residential,62nd Street,334.66,2,,,25 mph,,,,,,,"[173491065, 6005242]",
+37758498,1373439533,0,False,residential,Gettig Road,195.708,,,,,,,,,,,5310220,
+37758498,37664436,0,False,residential,Berkfield Road,102.837,,,,,,,,,,,5322229,
+37758498,37773870,0,False,residential,Berkfield Road,100.337,,,,,,,,,,,5322229,
+37762832,37674751,0,False,residential,Batavia Farm Road,142.094,,,,,,,,,,,5310498,
+37762832,37278660,0,False,residential,Batavia Farm Road,300.015,,,,,,,,,,,5310498,
+37762832,37837573,0,False,residential,Duvall Avenue,70.147,,,,,,,,,,,5321130,
+37772456,37772463,0,False,residential,Haas Lane,89.505,,,,,,,,,,,5311158,
+37772463,37665690,0,False,residential,Duvall Avenue,195.57,,,,,,,,,,,5321130,
+37772463,37772456,0,False,residential,Haas Lane,89.505,,,,,,,,,,,5311158,
+37772463,37413740,0,False,residential,Duvall Avenue,138.62,,,,,,,,,,,5321130,
+37773870,37773883,0,False,residential,Berkwood Road,164.029,,,,,,,,,,,5311266,
+37773870,37673973,0,False,residential,Berkwood Road,74.106,,,,,,,,,,,5311266,
+37773870,37758498,0,False,residential,Berkfield Road,100.337,,,,,,,,,,,5322229,
+37773883,37773870,0,False,residential,Berkwood Road,164.029,,,,,,,,,,,5311266,
+37775056,37720971,0,False,residential,Patapsco Avenue,119.733,,,,,,,,,,,5311360,
+37775056,37603309,0,False,residential,Patapsco Avenue,134.556,,,,,,,,,,,5311360,
+37775056,1305284415,0,False,residential,Locust Avenue,55.99,,,,,,,,,,,5312644,
+37775065,37733479,0,False,residential,Patapsco Avenue,160.126,,,,,,,,,,,47288012,
+37782962,37658459,0,False,residential,Riverdale Avenue,41.853,,,,,,,,,,,5311957,
+37782963,37658459,0,False,residential,Riverdale Avenue,148.701,,,,,,,,,,,5311957,
+37782963,37670646,0,False,residential,Rosedale Avenue,176.86,,,,,,,,,,,5317818,
+37782963,37782966,0,False,residential,Riverdale Avenue,78.692,,,,,,,,,,,5311957,
+37782963,37805430,0,False,residential,"['Rosedale Avenue', 'Dalrose Avenue']",541.569,,,,,,,,,,,"[5317818, 5313922]",
+37782966,37782963,0,False,residential,Riverdale Avenue,78.692,,,,,,,,,,,5311957,
+37805430,37782963,0,False,residential,"['Rosedale Avenue', 'Dalrose Avenue']",541.569,,,,,,,,,,,"[5317818, 5313922]",
+37805430,37815497,0,False,tertiary,Chesaco Avenue,68.335,2,,,30 mph,,,yes,,,,"[5316128, 54450722, 548026692]",
+37805430,37670647,0,False,tertiary,Chesaco Avenue,267.042,2,,,30 mph,,,,,,,5316128,
+37809286,37634392,0,False,residential,Primrose Avenue,173.931,,,,,,,,,,,5314269,
+37809286,37276010,0,False,residential,Boaz Road,41.544,,,,,,,,,,,5314417,
+37809286,37810969,0,False,residential,Boaz Road,79.844,,,,,,,,,,,5314417,
+37810969,37809286,0,False,residential,Boaz Road,79.844,,,,,,,,,,,5314417,
+37810969,37751777,0,False,residential,Neighbors Avenue,171.711,2,,,,,,,,,,5317056,
+37810969,37634395,0,False,residential,Neighbors Avenue,169.691,2,,,,,,,,,,5317056,
+37815497,37413740,0,False,tertiary,Chesaco Avenue,87.143,2,,,30 mph,,,,,,,548026692,
+37815497,37593634,0,False,residential,"['Rosedale Avenue', 'Gilmore Avenue']",665.891,2,,,,,,,,,,"[5317817, 5314876]",
+37815497,37805430,0,False,tertiary,Chesaco Avenue,68.335,2,,,30 mph,,,yes,,,,"[5316128, 54450722, 548026692]",
+37826926,699530829,0,False,residential,63rd Street,67.559,2,,,25 mph,,,,,,,5315921,
+37826926,37755169,0,False,residential,63rd Street,246.03,2,,,25 mph,,,,,,,5315921,
+37826926,982869111,0,False,residential,Biddle Street,85.909,2,,,25 mph,,,,,,,5316299,
+37826926,37833023,0,False,residential,Biddle Street,123.004,2,,,25 mph,,,,,,,5316299,
+37830508,37674795,0,False,residential,"['Contractors Road', 'Golden Ring Road']",876.896,,,,,,,,,,,"[5316116, 77310693]",
+37830592,37376541,0,False,residential,Severn Avenue,141.002,,,,,,,,,,,115568919,
+37830614,37636142,0,False,tertiary,Chesaco Avenue,230.654,2,,,30 mph,,,,,,,5316128,
+37830614,4612428306,0,False,tertiary,Chesaco Avenue,221.384,2,,,30 mph,,,,,,,5316128,
+37830614,37278953,0,False,residential,Bridge Avenue,12.102,,,,,,,,,,,5316704,
+37830634,37830639,0,False,tertiary,Chesaco Avenue,42.8,2,,,30 mph,,,,,,,5316128,
+37830634,37636142,0,False,tertiary,Chesaco Avenue,162.877,2,,,30 mph,,,,,,,5316128,
+37830634,37914860,0,False,residential,Berk Lane,157.959,,,,,,,,,,,5321804,
+37830639,37670647,0,False,tertiary,Chesaco Avenue,150.188,2,,,30 mph,,,,,,,5316128,
+37830639,37830634,0,False,tertiary,Chesaco Avenue,42.8,2,,,30 mph,,,,,,,5316128,
+37830639,4606765303,0,False,residential,Sumter Avenue,268.605,,,,,,,,,,,"[5321144, 5321143]",
+37833011,37625529,0,False,residential,67th Street,250.258,,,,,,,,,,,5317380,
+37833011,37603077,0,False,residential,Biddle Street,244.214,2,,,,,,,,,,336421910,
+37833011,37729743,0,False,residential,Biddle Street,220.495,2,,,,,,,,,,336421910,
+37833023,393492700,0,False,residential,Biddle Street,6.673,2,,,25 mph,,,,,,,5316299,
+37833023,37826926,0,False,residential,Biddle Street,123.004,2,,,25 mph,,,,,,,5316299,
+37833023,37755169,0,False,residential,62nd Street,334.66,2,,,25 mph,,,,,,,"[173491065, 6005242]",
+37837573,37674749,0,False,residential,Lawrence Avenue,139.914,,,,,,,,,,,5316546,
+37837573,37762832,0,False,residential,Duvall Avenue,70.147,,,,,,,,,,,5321130,
+37837573,37665690,0,False,residential,Duvall Avenue,84.496,,,,,,,,,,,5321130,
+37849682,37670574,0,False,residential,Springdale Avenue,48.579,,,,,,,,,,,5317299,
+37868133,37919733,0,False,residential,Berkfield Road,32.269,,,,,,,,,,,5322229,
+37868133,37304919,0,False,residential,Kendrick Road,232.379,,,,,,,,,,,5318474,
+37868133,37571783,0,False,residential,Berkfield Road,81.855,,,,,,,,,,,5322229,
+37906778,4606765303,0,False,residential,Sumter Avenue,272.694,,,,,,,,,,,5321143,
+37914860,37830634,0,False,residential,Berk Lane,157.959,,,,,,,,,,,5321804,
+37919733,37868133,0,False,residential,Berkfield Road,32.269,,,,,,,,,,,5322229,
+37926714,37634366,0,False,residential,Hesse Avenue,120.834,,,,,,,,,,,5322847,
+393492700,37833023,0,False,residential,Biddle Street,6.673,2,,,25 mph,,,,,,,5316299,
+393530260,393530261,0,True,trunk,Pulaski Highway,109.146,3,,,50 mph,,,,,,,135183410,US 40
+393530261,37539469,0,True,trunk,Pulaski Highway,203.818,2,,,50 mph,,,,,,,422403810,US 40
+393530277,966296241,0,True,trunk,Pulaski Highway,33.408,4,,,50 mph,,,,,,,425126102,US 40
+602430480,37720971,0,False,residential,Patapsco Avenue,24.443,,,,,,,,,,,5311360,
+648096036,1332714351,0,True,motorway,Baltimore Beltway,488.287,3,,,55 mph,,,yes,,,,"[50814625, 50814674, 50814669, 50814662]",I 695
+648096036,37354526,0,True,motorway_link,,580.018,1,,,,,,yes,,,,"[50814659, 50814661, 50814655]",
+648096289,37638221,0,False,tertiary,Kelso Drive,316.557,4,,,35 mph,,,,,,,5320855,
+648096730,37610234,0,True,trunk,Pulaski Highway,94.925,2,,,50 mph,,,,,,,422403810,US 40
+648096730,37610228,0,True,trunk_link,,71.062,1,,,,,,,,,,50814676,
+648096737,37610228,0,False,trunk,Golden Ring Road,13.288,2,,,,,,,,,,182742610,
+648096737,37461109,0,False,trunk,Golden Ring Road,40.174,2,,,,,,,,,,182742610,
+648096737,37425976,0,True,motorway_link,,63.068,1,,,,,,,,,,80201480,
+648097279,37240543,0,True,motorway_link,,70.354,1,,,,,,,,,,5280434,
+648097279,37240526,0,False,secondary,Philadelphia Road,140.375,4,,,35 mph,,,,,,,169733774,MD 7
+699530829,37826926,0,False,residential,63rd Street,67.559,2,,,25 mph,,,,,,,5315921,
+910160615,37634418,0,False,residential,Old Philadelphia Road,48.54,2,,,25 mph,,,,,,,395918464,
+966295814,966295816,0,True,unclassified,,9.556,,,,,,,,,,,135199990,
+966295814,37674962,0,True,trunk_link,,11.881,1,,,,,,,,,,83060441,
+966295816,966296896,0,True,trunk,Pulaski Highway,8.845,3,,,50 mph,,,,,,,120487126,US 40
+966295823,966295814,0,True,trunk_link,,306.469,1,,,,,,,,,,83060441,
+966295823,37354526,0,True,trunk,Pulaski Highway,136.826,2,,,50 mph,,,,,,,425007308,US 40
+966296241,37674962,0,True,trunk,Pulaski Highway,3.94,3,,,50 mph,,,,,,,135183410,US 40
+966296896,966296241,0,True,unclassified,,19.055,,,,,,,,,,,128834857,
+966296896,1484826476,0,True,trunk,Pulaski Highway,186.557,3,,,50 mph,,,,,,,120487126,US 40
+982869111,1764396980,0,False,residential,Biddle Street,18.327,2,,,25 mph,,,,,,,5316299,
+982869111,37826926,0,False,residential,Biddle Street,85.909,2,,,25 mph,,,,,,,5316299,
+982869111,37636137,0,False,residential,64th Street,239.405,2,,,25 mph,,,,,,,84603041,
+982869114,1764396980,0,False,residential,Biddle Street,90.296,2,,,25 mph,,,,,,,5316299,
+982869114,37729743,0,False,residential,Biddle Street,142.996,2,,,,,,,,,,"[336421912, 84603044]",
+982869114,37613726,0,False,residential,65th Street,250.036,2,,,25 mph,,,,,,,84603045,
+982869123,1764396980,0,True,residential,Lake Drive,63.44,2,,,,,,,,,,164841601,
+982869123,37603077,0,False,residential,"['68th Street', 'Lake Drive']",771.953,2,,,,,,,,,,"[173491066, 5300282]",
+1305284408,37603305,0,False,residential,"['Locust Avenue', 'Patuxent Avenue']",192.133,,,,,,,,,,,"[115568921, 115568924]",
+1305284415,37775056,0,False,residential,Locust Avenue,55.99,,,,,,,,,,,5312644,
+1305284420,37740393,0,False,residential,Linden Avenue,60.863,,,,,,,,,,,115568926,
+1305284421,37740391,0,False,residential,Linden Avenue,60.786,,,,,,,,,,,5308991,
+1332714338,37314337,0,True,motorway,Baltimore Beltway,349.241,"['3', '2']",,,55 mph,,,yes,,,,"[50814609, 50814666, 377885117]",I 695
+1350955290,37636139,0,True,secondary,Philadelphia Road,37.299,1,,,25 mph,,,,,,,5309763,
+1373391209,37755169,0,False,residential,63rd Street,21.171,2,,,25 mph,,,,,,,5315921,
+1373425422,1373425434,0,False,residential,Rosegate Court,106.6,,,,,,,,,,,123055113,
+1373425422,37634409,0,False,residential,Old Philadelphia Road,181.715,2,,,25 mph,,,,,,,395918464,
+1373425422,37634395,0,False,residential,Old Philadelphia Road,323.702,2,,,25 mph,,,,,,,395918464,
+1373425434,1373425422,0,False,residential,Rosegate Court,106.6,,,,,,,,,,,123055113,
+1373439533,37758498,0,False,residential,Gettig Road,195.708,,,,,,,,,,,5310220,
+1764396980,982869111,0,False,residential,Biddle Street,18.327,2,,,25 mph,,,,,,,5316299,
+1764396980,982869114,0,False,residential,Biddle Street,90.296,2,,,25 mph,,,,,,,5316299,
+1930984912,37426007,0,True,motorway,Baltimore Beltway,29.679,3,,,55 mph,,,yes,,,,50814671,I 695
+2719956401,37587947,0,False,residential,Rustic Avenue,277.46,2,,,,,,,,,,5299416,
+3659100572,37674751,0,False,residential,Batavia Farm Road,14.718,,,,,,,,,,,5310498,
+3659100572,37602583,0,True,trunk,Pulaski Highway,55.826,2,,,50 mph,,,,,,,120487128,US 40
+4606765303,37906778,0,False,residential,Sumter Avenue,272.694,,,,,,,,,,,5321143,
+4606765303,37830639,0,False,residential,Sumter Avenue,268.605,,,,,,,,,,,"[5321144, 5321143]",
+4606765303,37278660,0,False,residential,Lacotti Lane,543.164,,,,,,,,,,,"[5273832, 465755109]",
+4612428306,37830614,0,False,tertiary,Chesaco Avenue,221.384,2,,,30 mph,,,,,,,5316128,
+4612428306,37733479,0,False,tertiary,Chesaco Avenue,171.384,2,,,30 mph,,,,,,,5316128,
+4612428306,4612428310,0,False,residential,Chester Avenue,131.393,,,,,,,,,,,466446587,
+4612428310,4612428306,0,False,residential,Chester Avenue,131.393,,,,,,,,,,,466446587,
+4612541275,37502886,0,False,secondary,Philadelphia Road,5.347,2,,,30 mph,,,,,,,83571137,MD 7
+4612541275,37751735,0,False,secondary,Philadelphia Road,216.318,2,,,30 mph,,,,,,,83571137,MD 7
+4612541275,37502877,0,False,residential,,110.83,,,,,,,,,,,466460841,

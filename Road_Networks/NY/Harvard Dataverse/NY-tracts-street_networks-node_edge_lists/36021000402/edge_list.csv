@@ -1,0 +1,1001 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+211847796,211975310,0,False,residential,Garrigan Road,42.572,,,,45 mph,,,,,,,20067495,
+211847796,211847799,0,False,residential,Park Place South,133.876,,,,,,,,,,,20058778,
+211847796,211975313,0,False,residential,Garrigan Road,272.75,,,,45 mph,,,,,,,20067495,
+211847799,211847796,0,False,residential,Park Place South,133.876,,,,,,,,,,,20058778,
+211847799,211982642,0,False,residential,Weathersfield Lane,104.162,,,,,,,,,,,20067931,
+211847799,211975313,0,False,residential,"['Park Place', 'Park Place North']",490.876,,,,,,,,,,,"[20078081, 20078465]",
+211848349,212053098,0,False,residential,Chadwycke Court,1210.722,,,,,,,,,,,5632125,
+211848349,212053098,1,False,tertiary,County Road 32,132.534,,,,45 mph,,,,,,,20078461,CR 32
+211848349,212067771,0,False,tertiary,County Road 32,192.799,,,,45 mph,,,,,,,20078461,CR 32
+211849547,211849554,0,False,residential,,146.893,,,,,,,,,,,20058914,
+211849554,211849547,0,False,residential,,146.893,,,,,,,,,,,20058914,
+211849554,212070967,0,False,residential,Ottoville Road,219.804,,,,30 mph,,,,,,,20078025,
+211849554,212118420,0,False,residential,Ottoville Road,142.552,,,,30 mph,,,,,,,20078025,
+211850574,211850580,0,False,residential,,48.992,,,,,,,,,,,20059010,
+211850574,211962463,0,False,unclassified,Herrick Road,96.66,,,,,,,,,,,20066628,
+211850580,211850574,0,False,residential,,48.992,,,,,,,,,,,20059010,
+211851144,211964151,0,False,secondary,State Highway 203,10.584,,,,45 mph,,,,,,,20066751,NY 203
+211851144,211964148,0,False,secondary,State Highway 203,121.499,,,,45 mph,,,,,,,20066751,NY 203
+211851144,211851151,0,False,residential,,120.046,,,,,,,,,,,20059083,
+211851151,211851144,0,False,residential,,120.046,,,,,,,,,,,20059083,
+211851557,211999135,0,False,residential,"['Round Lake Road', 'Little Lake Road']",746.961,,,,,,,,,,,"[20073044, 20068678]",
+211852327,211985033,0,False,residential,Icabod Lane,209.272,,,,,,,,,,,20068024,
+211852355,211852361,0,False,residential,Austin Drive,118.256,,,,,,,,,,,220666156,
+211852361,211870643,0,False,primary,,103.436,2,,,35 mph,,,,,,,20077017,US 9
+211852361,212096849,0,False,primary,,161.942,2,,,35 mph,,,,,,,20077017,US 9
+211852361,211852355,0,False,residential,Austin Drive,118.256,,,,,,,,,,,220666156,
+211853983,211853996,0,False,residential,,120.384,,,,,,,,,,,20059385,
+211853983,211853983,0,False,residential,,278.865,,,,,,,,,,,20062809,
+211853983,211853983,1,False,residential,,278.865,,,,,,,,,,,20062809,
+211853996,211854016,0,False,residential,,453.767,,,,,,,,,,,20059385,
+211853996,211853983,0,False,residential,,120.384,,,,,,,,,,,20059385,
+211853996,2487485485,0,False,residential,,203.233,,,,,,,,,,,20060710,
+211854016,211853996,0,False,residential,,453.767,,,,,,,,,,,20059385,
+211854016,211870758,0,False,unclassified,State Farm Road,269.823,,,,30 mph,,,,,,,220661452,
+211854016,2297522245,0,False,unclassified,State Farm Road,185.545,,,,30 mph,,,,,,,220661452,
+211854708,211854712,0,False,primary_link,,94.145,,,,,,,,,,,20059461,
+211854708,212027044,0,False,primary,Kinderhook Street,132.719,2,,,35 mph,,,,,,,20070746,US 9
+211854708,211854810,0,False,primary,Kinderhook Street,264.732,2,,,35 mph,,,,,,,20070746,US 9
+211854712,211854708,0,False,primary_link,,94.145,,,,,,,,,,,20059461,
+211854712,211854727,0,True,primary_link,,87.611,,,,,,,,,,,56695550,
+211854727,211854816,0,True,primary_link,,166.687,,,,,,,,,,,20064728,
+211854727,212086099,0,False,primary,,1675.815,4,,,55 mph,,,,,,,35342723,NY 9H
+211854727,211879946,0,False,primary,,107.694,4,,,55 mph,,,,,,,35342723,NY 9H
+211854810,1852928526,0,False,primary_link,,44.501,,,,,,,,,,,20059471,
+211854810,211854708,0,False,primary,Kinderhook Street,264.732,2,,,35 mph,,,,,,,20070746,US 9
+211854816,1852928526,0,False,primary_link,,156.819,,,,,,,,,,,20059471,
+211854816,211854843,0,True,primary_link,,55.537,,,,,,,,,,,56695552,
+211854843,211879946,0,False,primary,,56.639,4,,,55 mph,,,,,,,35342723,NY 9H
+211855948,211855955,0,False,residential,,77.895,,,,,,,,,,,20059580,
+211855948,211964171,0,False,residential,Garrigan Road,26.466,,,,45 mph,,,,,,,20067495,
+211855948,2412281025,0,False,residential,Garrigan Road,146.246,,,,45 mph,,,,,,,20067495,
+211855955,211855948,0,False,residential,,77.895,,,,,,,,,,,20059580,
+211860132,211959392,0,False,secondary,Main Street,73.295,,,,30 mph,,,,,,,241060540,
+211860132,211937177,0,False,secondary,Main Street,159.822,,,,30 mph,,,yes,,,,"[45287082, 241060538, 241060540]",
+211860149,211860132,0,True,primary_link,,98.565,,,,,,,,,,,20059981,
+211860149,212027064,0,False,primary,Kinderhook Street,44.561,2,,,35 mph,,,,,,,20070746,US 9
+211860149,211959392,0,False,primary,Kinderhook Street,60.879,2,,,35 mph,,,,,,,43598833,US 9
+211868277,211896410,0,False,residential,Plum Tree Drive,38.068,,,,,,,,,,,20072378,
+211868277,211868283,0,False,residential,,65.116,,,,,,,,,,,20060521,
+211868277,211868356,0,False,residential,,30.42,,,,,,,,,,,20060524,
+211868283,211868277,0,False,residential,,65.116,,,,,,,,,,,20060521,
+211868348,211868356,0,False,residential,,65.794,,,,,,,,,,,20060524,
+211868348,212045005,0,False,tertiary,County Road 28B,66.139,,,,45 mph,,,,,,,20074775,CR 28B
+211868348,211976110,0,False,tertiary,County Road 28B,128.973,,,,45 mph,,,,,,,20074775,CR 28B
+211868356,211896410,0,False,residential,,41.795,,,,,,,,,,,20062613,
+211868356,211868277,0,False,residential,,30.42,,,,,,,,,,,20060524,
+211868356,211868348,0,False,residential,,65.794,,,,,,,,,,,20060524,
+211870619,2487485485,0,False,residential,,20.181,,,,,,,,,,,20060710,
+211870619,211870626,0,False,residential,,160.409,,,,,,,,,,,20060706,
+211870619,211870643,0,False,residential,,35.593,,,,,,,,,,,20060710,
+211870626,211870619,0,False,residential,,160.409,,,,,,,,,,,20060706,
+211870626,2487485485,0,False,residential,,152.4,,,,,,,,,,,20062516,
+211870626,212096861,0,False,residential,,125.662,,,,,,,,,,,20062516,
+211870643,212086095,0,False,primary,,94.722,2,,,35 mph,,,,,,,20077017,US 9
+211870643,211852361,0,False,primary,,103.436,2,,,35 mph,,,,,,,20077017,US 9
+211870643,211870619,0,False,residential,,35.593,,,,,,,,,,,20060710,
+211870758,211870761,0,False,residential,,34.136,,,,,,,,,,,20060722,
+211870758,211898066,0,False,unclassified,State Farm Road,290.062,,,,"['45 mph', '30 mph']",,,,,,,"[220661452, 220661453]",
+211870758,211854016,0,False,unclassified,State Farm Road,269.823,,,,30 mph,,,,,,,220661452,
+211870761,211870758,0,False,residential,,34.136,,,,,,,,,,,20060722,
+211872524,211872537,0,False,residential,,146.65,,,,,,,,,,,20060864,
+211872524,212025523,0,False,tertiary,Main Street,194.643,,,,35 mph,,,,,,,241060537,CR 28
+211872524,211937249,0,False,tertiary,Main Street,48.841,,,,35 mph,,,yes,,,,"[241060537, 20070650, 241060539]",CR 28
+211872537,211872524,0,False,residential,,146.65,,,,,,,,,,,20060864,
+211879946,211854712,0,True,primary_link,,55.841,,,,,,,,,,,20061437,
+211879946,211854727,0,False,primary,,107.694,4,,,55 mph,,,,,,,35342723,NY 9H
+211879946,211854843,0,False,primary,,56.639,4,,,55 mph,,,,,,,35342723,NY 9H
+211882657,211882657,0,False,residential,,93.714,,,,,,,,,,,20061621,
+211882657,211882657,1,False,residential,,93.714,,,,,,,,,,,20061621,
+211882657,211898066,0,False,residential,,35.394,,,,,,,,,,,20062725,
+211884138,211884148,0,False,residential,,83.164,,,,,,,,,,,20061722,
+211884138,211975310,0,False,residential,Graham Lane,74.291,,,,,,,,,,,20074712,
+211884138,212067327,0,False,residential,Graham Lane,133.257,,,,,,,,,,,20074712,
+211884148,211884138,0,False,residential,,83.164,,,,,,,,,,,20061722,
+211889154,211889161,0,False,residential,,98.897,,,,,,,,,,,20062098,
+211889154,212023340,0,False,tertiary,Main Street,85.354,,,,55 mph,,,,,,,56925094,CR 28
+211889154,211956750,0,False,tertiary,Main Street,534.618,,,,"['55 mph', '45 mph']",,,,,,,"[56925094, 56925175]",CR 28
+211889161,212022419,0,False,residential,Pine Hill Park,14.215,,,,,,,,,,,20070409,
+211889161,211889167,0,False,residential,,57.41,,,,,,,,,,,20062098,
+211889161,211889154,0,False,residential,,98.897,,,,,,,,,,,20062098,
+211889167,211889161,0,False,residential,,57.41,,,,,,,,,,,20062098,
+211892951,211892962,0,False,residential,,224.735,,,,,,,,,,,20062358,
+211892951,211937962,0,False,residential,"['Rapp Road', 'Rapp Road North']",1802.839,,,,,,,,,,,"[20066281, 20065546]",
+211892951,211956750,0,False,residential,Rapp Road North,1030.871,,,,,,,,,,,20066281,
+211892962,211892951,0,False,residential,,224.735,,,,,,,,,,,20062358,
+211895585,211895639,0,False,residential,,484.073,,,,,,,,,,,20062540,
+211895585,211895639,1,False,unclassified,Dahlgren Road,27.455,,,,,,,,,,,20071253,
+211895639,211895585,0,False,residential,,484.073,,,,,,,,,,,20062540,
+211895639,211895585,1,False,unclassified,Dahlgren Road,27.455,,,,,,,,,,,20071253,
+211895639,212004814,0,False,unclassified,Dahlgren Road,524.357,,,,,,,,,,,20071253,
+211896410,211868356,0,False,residential,,41.795,,,,,,,,,,,20062613,
+211896410,212045104,0,False,residential,Plum Tree Drive,93.36,,,,,,,,,,,20072378,
+211896410,211868277,0,False,residential,Plum Tree Drive,38.068,,,,,,,,,,,20072378,
+211896845,211896860,0,False,residential,,36.955,,,,,,,,,,,20062650,
+211896845,211923628,0,False,tertiary,County Road 21,27.635,,,,55 mph,,,,,,,20066910,CR 21
+211896845,211959490,0,False,tertiary,County Road 21,648.507,,,,55 mph,,,,,,,20066910,CR 21
+211896860,5178432543,0,False,residential,,233.011,,,,,,,,,,,20062650,
+211896860,211896845,0,False,residential,,36.955,,,,,,,,,,,20062650,
+211896860,211923628,0,False,residential,,30.746,,,,,,,,,,,20064688,
+211896907,5178432543,0,False,residential,,266.984,,,,,,,,,,,20062650,
+211896907,1801144827,0,False,residential,,293.26,,,,,,,,,,,370840146,
+211896907,1801144825,0,False,residential,,689.324,,,,,,,,,,,370840148,
+211897154,211897159,0,False,residential,,12.626,,,,,,,,,,,20062669,
+211897159,211897154,0,False,residential,,12.626,,,,,,,,,,,20062669,
+211897467,211897469,0,False,residential,,53.382,,,,,,,,,,,20062688,
+211897467,211939408,0,False,secondary,Mechanic Street,106.329,,,,30 mph,,,,,,,20068954,NY 203
+211897467,212005484,0,False,secondary,Mechanic Street,233.245,,,,30 mph,,,,,,,20068954,NY 203
+211897469,211897467,0,False,residential,,53.382,,,,,,,,,,,20062688,
+211897475,211897477,0,False,residential,,48.775,,,,,,,,,,,20062689,
+211897475,211939408,0,False,secondary,Mechanic Street,23.738,,,,30 mph,,,,,,,20068954,NY 203
+211897475,212005470,0,False,secondary,Mechanic Street,79.397,,,,30 mph,,,,,,,20068954,NY 203
+211897477,211897475,0,False,residential,,48.775,,,,,,,,,,,20062689,
+211898066,211882657,0,False,residential,,35.394,,,,,,,,,,,20062725,
+211898066,211941328,0,False,unclassified,State Farm Road,402.537,,,,45 mph,,,,,,,220661453,
+211898066,211870758,0,False,unclassified,State Farm Road,290.062,,,,"['45 mph', '30 mph']",,,,,,,"[220661452, 220661453]",
+211901262,212045005,0,False,tertiary,County Road 28B,40.979,,,,45 mph,,,,,,,20074775,CR 28B
+211901262,211901275,0,False,residential,,154.467,,,,,,,,,,,20062914,
+211901262,212045089,0,False,tertiary,County Road 28B,642.536,,,,45 mph,,,,,,,20074775,CR 28B
+211901275,211901262,0,False,residential,,154.467,,,,,,,,,,,20062914,
+211907967,211907990,0,False,residential,,273.127,,,,,,,,,,,20063458,
+211907967,211975309,0,False,residential,Garrigan Road,324.185,,,,45 mph,,,,,,,20067495,
+211907967,211975302,0,False,residential,Garrigan Road,181.024,,,,45 mph,,,,,,,20067495,
+211907990,211907967,0,False,residential,,273.127,,,,,,,,,,,20063458,
+211909812,211909814,0,False,residential,,25.959,,,,,,,,,,,20063614,
+211909812,212023539,0,False,residential,Fish Lake Avenue,37.987,,,,,,,,,,,20070499,
+211909812,212023526,0,False,residential,Fish Lake Avenue,25.659,,,,,,,,,,,20070499,
+211909814,211909812,0,False,residential,,25.959,,,,,,,,,,,20063614,
+211910920,211910922,0,False,residential,,32.451,,,,,,,,,,,20063720,
+211910920,212081336,0,False,unclassified,Old Post Road,28.233,,,,,,,,,,,20078469,
+211910920,211959490,0,False,unclassified,Old Post Road,1373.19,,,,,,,,,,,20078469,
+211910922,211910920,0,False,residential,,32.451,,,,,,,,,,,20063720,
+211910922,212081336,0,False,unclassified,Bishop Nelson Road,42.54,,,,,,,,,,,168928525,
+211910922,212036336,0,False,unclassified,Bishop Nelson Road,800.324,,,,,,,,,,,168928525,
+211919686,211919689,0,False,residential,,85.706,,,,,,,,,,,20064371,
+211919686,212021706,0,False,residential,Mount View Road,29.712,,,,,,,,,,,20070351,
+211919686,212096936,0,False,residential,"['Mountain View Drive', 'Mount View Road']",412.2,,,,,,,,,,,"[20078042, 20070351]",
+211919689,211919686,0,False,residential,,85.706,,,,,,,,,,,20064371,
+211921277,211921283,0,False,residential,,43.49,,,,,,,,,,,20064502,
+211921277,212100991,0,False,residential,Wilderness Lane,58.123,,,,25 mph,,,,,,,20077569,
+211921277,212096849,0,False,residential,Wilderness Lane,166.486,,,,25 mph,,,,,,,20077569,
+211921283,211921277,0,False,residential,,43.49,,,,,,,,,,,20064502,
+211922920,211922922,0,False,residential,,31.203,,,,,,,,,,,20064638,
+211922920,212059851,0,False,tertiary,County Road 28A,919.346,,,,55 mph,,,,,,,20074706,CR 28A
+211922920,211975302,0,False,tertiary,County Road 28A,439.905,,,,55 mph,,,,,,,20074706,CR 28A
+211922922,211922920,0,False,residential,,31.203,,,,,,,,,,,20064638,
+211923628,211966226,0,False,tertiary,County Road 21,63.942,,,,55 mph,,,,,,,20066910,CR 21
+211923628,211896860,0,False,residential,,30.746,,,,,,,,,,,20064688,
+211923628,211896845,0,False,tertiary,County Road 21,27.635,,,,55 mph,,,,,,,20066910,CR 21
+211926420,211971871,0,False,tertiary,Main Street,230.649,,,,35 mph,,,,,,,20067301,CR 28
+211926420,211926429,0,False,residential,,82.882,,,,,,,,,,,20064900,
+211926420,211971860,0,False,tertiary,Main Street,375.273,,,,35 mph,,,,,,,20067301,CR 28
+211926429,211926420,0,False,residential,,82.882,,,,,,,,,,,20064900,
+211928442,211928445,0,False,residential,,12.007,,,,,,,,,,,20065045,
+211928442,212079954,0,False,residential,Peters Lane,174.428,,,,,,,,,,,20075773,
+211928442,212007140,0,False,residential,Peters Lane,167.158,,,,,,,,,,,20075773,
+211928445,211928442,0,False,residential,,12.007,,,,,,,,,,,20065045,
+211930362,211930373,0,False,residential,,56.579,,,,,,,,,,,20065196,
+211930373,211930362,0,False,residential,,56.579,,,,,,,,,,,20065196,
+211930373,212097050,0,False,tertiary,County Road 32,717.393,,,,45 mph,,,,,,,20078461,CR 32
+211930373,211937962,0,False,tertiary,County Road 32,161.596,,,,45 mph,,,,,,,20078461,CR 32
+211931767,212039725,0,False,residential,Hawley Road,70.546,,,,,,,,,,,20078544,
+211931767,211931783,0,False,residential,Pine Bark Road,167.71,,,,,,,,,,,20065268,
+211931767,211967582,0,False,residential,Hawley Road,71.352,,,,,,,,,,,20078544,
+211931783,211931767,0,False,residential,Pine Bark Road,167.71,,,,,,,,,,,20065268,
+211931783,211967602,0,False,residential,West Street,74.411,,,,,,,,,,,20077514,
+211931783,211952475,0,False,residential,West Street,202.062,,,,,,,,,,,20077514,
+211933073,211956140,0,False,tertiary,Main Street,132.687,,,,35 mph,,,,,,,20067301,CR 28
+211933073,211971871,0,False,tertiary,Main Street,60.83,,,,35 mph,,,,,,,20067301,CR 28
+211933073,211956237,0,False,residential,"['Old Maple Lane', 'Church Street']",325.779,,,,,,,,,,,"[20068648, 20065319]",
+211933107,211933114,0,False,residential,Pine Drive,58.413,,,,30 mph,,,,,,,20065322,
+211933107,211959412,0,False,primary,Kinderhook Street,125.991,2,,,35 mph,,,,,,,43598833,US 9
+211933107,212027073,0,False,primary,Kinderhook Street,261.086,2,,,35 mph,,,,,,,43598833,US 9
+211933114,211933122,0,False,residential,Pine Drive,173.82,,,,30 mph,,,,,,,20065322,
+211933114,211933107,0,False,residential,Pine Drive,58.413,,,,30 mph,,,,,,,20065322,
+211933114,212030375,0,False,residential,Spruce Drive,304.644,,,,30 mph,,,,,,,20073654,
+211933122,211933114,0,False,residential,Pine Drive,173.82,,,,30 mph,,,,,,,20065322,
+211933122,212030375,0,False,residential,Ridge Drive,130.354,,,,30 mph,,,,,,,20074314,
+211933122,212027073,0,False,residential,"['Ridge Drive', 'Rathbone Avenue']",365.317,,,,30 mph,,,,,,,"[20074314, 20076583]",
+211935233,211956147,0,False,residential,Parker Hall Road,51.928,,,,,,,,,,,20066263,
+211935233,211935243,0,False,residential,Railroad Avenue,48.203,,,,,,,,,,,20065419,
+211935233,211956140,0,False,residential,Parker Hall Road,58.967,,,,,,,,,,,20066263,
+211935243,211935233,0,False,residential,Railroad Avenue,48.203,,,,,,,,,,,20065419,
+211935243,211935276,0,False,residential,Railroad Avenue,97.501,,,,,,,,,,,20065422,
+211935243,211935244,0,False,residential,Railroad Avenue,119.758,,,,,,,,,,,20065422,
+211935244,211956140,0,False,tertiary,Main Street,24.065,,,,35 mph,,,,,,,20070650,CR 28
+211935244,211935243,0,False,residential,Railroad Avenue,119.758,,,,,,,,,,,20065422,
+211935244,211956237,0,False,residential,Parker Hall Road,125.473,,,,,,,,,,,20066264,
+211935244,211937208,0,False,tertiary,Main Street,251.713,,,,35 mph,,,,,,,20070650,CR 28
+211935276,211935243,0,False,residential,Railroad Avenue,97.501,,,,,,,,,,,20065422,
+211935276,211956187,0,False,residential,Parker Hall Road,322.413,,,,,,,,,,,20066263,
+211935276,211956147,0,False,residential,Parker Hall Road,42.442,,,,,,,,,,,20066263,
+211936031,211936033,0,False,residential,Woodcock Street,83.888,,,,30 mph,,,,,,,20065453,
+211936031,211995910,0,False,residential,"['Hunter Drive Nouth', 'Hunter Drive South']",615.09,,,,30 mph,,,,,,,"[20075572, 20069887]",
+211936031,211995900,0,False,residential,Hunter Drive South,111.51,,,,30 mph,,,,,,,20075572,
+211936033,211936031,0,False,residential,Woodcock Street,83.888,,,,30 mph,,,,,,,20065453,
+211937156,212004837,0,False,"['residential', 'unclassified']","['Maple Lane North', 'Maple Lane']",1513.051,,,,35 mph,,,,,,,"[195320882, 20065508]",
+211937156,212079304,0,False,residential,"['Berkshire Drive', 'Petrillo Lane']",167.132,,,,,,,,,,,"[20075720, 20068255]",
+211937156,211962439,0,False,primary,,885.299,2,,,55 mph,,,,,,,108455586,US 9
+211937156,212096936,0,False,primary,,86.477,2,,,55 mph,,,,,,,108455586,US 9
+211937177,211971921,0,False,secondary,Main Street,75.881,,,,30 mph,,,,,,,45287082,
+211937177,211937182,0,False,residential,Lake Street,102.677,,,,,,,,,,,20065512,
+211937177,211860132,0,False,secondary,Main Street,159.822,,,,30 mph,,,yes,,,,"[241060538, 45287082, 241060540]",
+211937182,211978854,0,False,residential,Luther Street,118.329,,,,,,,,,,,20067697,
+211937182,211998419,0,False,residential,"['Lake Street', 'High Street']",191.316,,,,,,,,,,,"[20065512, 20078072]",
+211937182,211937177,0,False,residential,Lake Street,102.677,,,,,,,,,,,20065512,
+211937208,211937249,0,False,residential,Lake Street,226.363,,,,,,,,,,,20065514,
+211937208,211937249,1,False,tertiary,Main Street,130.746,,,,35 mph,,,,,,,20070650,CR 28
+211937208,211956237,0,False,residential,Church Street,213.222,,,,,,,,,,,20068648,
+211937208,211935244,0,False,tertiary,Main Street,251.713,,,,35 mph,,,,,,,20070650,CR 28
+211937249,211937208,0,False,residential,Lake Street,226.363,,,,,,,,,,,20065514,
+211937249,211937208,1,False,tertiary,Main Street,130.746,,,,35 mph,,,,,,,20070650,CR 28
+211937249,211872524,0,False,tertiary,Main Street,48.841,,,,35 mph,,,yes,,,,"[241060537, 20070650, 241060539]",CR 28
+211937962,211892951,0,False,residential,"['Rapp Road', 'Rapp Road North']",1802.839,,,,,,,,,,,"[20066281, 20065546]",
+211937962,211930373,0,False,tertiary,County Road 32,161.596,,,,45 mph,,,,,,,20078461,CR 32
+211937962,212067771,0,False,tertiary,County Road 32,1129.191,,,,45 mph,,,,,,,20078461,CR 32
+211939371,211939385,0,False,unclassified,Maple Lane South,933.584,,,,35 mph,,,,,,,20068919,
+211939371,212020120,0,False,primary,,766.669,2,,,55 mph,,,,,,,108455586,US 9
+211939371,414273960,0,False,primary,,437.039,2,,,"['55 mph', '40 mph']",,,,,,,"[220661458, 108455586]",US 9
+211939385,211939390,0,False,unclassified,Maple Lane South,156.394,,,,35 mph,,,,,,,20068919,
+211939385,211939371,0,False,unclassified,Maple Lane South,933.584,,,,35 mph,,,,,,,20068919,
+211939385,212048936,0,False,residential,Hemlock Street,327.575,,,,30 mph,,,,,,,"[20072769, 20076604]",
+211939390,211996802,0,False,residential,Spruce Street,361.145,,,,30 mph,,,,,,,20068540,
+211939390,212004790,0,False,unclassified,Maple Lane South,376.327,,,,35 mph,,,,,,,20068919,
+211939390,211939385,0,False,unclassified,Maple Lane South,156.394,,,,35 mph,,,,,,,20068919,
+211939408,211897467,0,False,secondary,Mechanic Street,106.329,,,,30 mph,,,,,,,20068954,NY 203
+211939408,211897475,0,False,secondary,Mechanic Street,23.738,,,,30 mph,,,,,,,20068954,NY 203
+211939408,211939415,0,True,residential,Spring Street,134.098,,,,30 mph,,,,,,,20065589,
+211939415,211946361,0,False,secondary,Main Street,111.325,,,,30 mph,,,,,,,20070676,NY 203
+211939415,212005484,0,False,residential,New Street,435.127,,,,,,,,,,,20076941,
+211939415,212005470,0,False,secondary,Upper Main Street,129.404,,,,30 mph,,,,,,,45287083,NY 203
+211940211,211940224,0,False,residential,Balmoral Court,171.372,,,,,,,,,,,20065622,
+211940211,211940211,0,False,residential,Balmoral Court,74.306,,,,,,,,,,,20065626,
+211940211,211940211,1,False,residential,Balmoral Court,74.306,,,,,,,,,,,20065626,
+211940224,211940227,0,False,residential,Balmoral Court,61.681,,,,,,,,,,,20065622,
+211940224,211940227,1,False,residential,Balmoral Court,124.345,,,,,,,,,,,20065630,
+211940224,211940211,0,False,residential,Balmoral Court,171.372,,,,,,,,,,,20065622,
+211940227,211940230,0,False,residential,Balmoral Court,38.022,,,,,,,,,,,20065622,
+211940227,211940224,0,False,residential,Balmoral Court,61.681,,,,,,,,,,,20065622,
+211940227,211940224,1,False,residential,Balmoral Court,124.345,,,,,,,,,,,20065630,
+211940230,211940227,0,False,residential,Balmoral Court,38.022,,,,,,,,,,,20065622,
+211940230,211958213,0,False,residential,Hawthorn Drive,61.325,,,,,,,,,,,20075846,
+211940230,212107194,0,False,residential,Hawthorne Drive,257.454,,,,,,,,,,,20077571,
+211940785,211940796,0,False,residential,Brookfield Farm Lane,329.79,,,,,,,,,,,20065658,
+211940785,211964223,0,False,residential,Newton Hill Road,444.883,,,,,,,,,,,20077869,
+211940796,211940785,0,False,residential,Brookfield Farm Lane,329.79,,,,,,,,,,,20065658,
+211941261,2297522245,0,True,unclassified,State Farm Road,29.109,,,,30 mph,,,,,,,20065684,
+211941261,1362215166,0,True,primary,,12.126,1,,,,,,,,,roundabout,121772684,US 9
+211941328,3430668505,0,False,unclassified,State Farm Road,156.641,,,,45 mph,,,,,,,220661453,
+211941328,212018561,0,False,residential,Dogwood Knolls,576.792,,,,,,,,,,,20070096,
+211941328,211898066,0,False,unclassified,State Farm Road,402.537,,,,45 mph,,,,,,,220661453,
+211941356,212045104,0,False,tertiary,"['County Road 28B', 'State Farm Road']",521.593,,,,45 mph,,,,,,,"[56925106, 20074775]",CR 28B
+211941356,3430668505,0,False,unclassified,State Farm Road,1334.907,,,,45 mph,,,,,,,220661453,
+211941356,2236744691,0,False,tertiary,Main Street,800.896,,,,"['35 mph', '45 mph']",,,,,,,"[241060537, 56925175]",CR 28
+211941356,212025523,0,False,tertiary,Main Street,322.057,,,,35 mph,,,,,,,241060537,CR 28
+211944957,212015815,0,False,residential,Best Road,1053.225,,,,,,,,,,,20069844,
+211946329,211946332,0,False,secondary,Chatham Street,212.167,,,,40 mph,,,,,,,20065875,NY 203
+211946329,5292541492,0,False,residential,Genesee Drive,310.155,,,,,,,,,,,20066824,
+211946329,212050334,0,False,residential,Oak Drive,95.214,,,,,,,,,,,20072899,
+211946332,211946329,0,False,secondary,Chatham Street,212.167,,,,40 mph,,,,,,,20065875,NY 203
+211946332,211946350,0,False,secondary,Chatham Street,227.003,,,,"['40 mph', '30 mph']",,,,,,,"[20065875, 191149598]",NY 203
+211946332,212072409,0,False,residential,Cramer Drive,91.861,,,,,,,,,,,20075247,
+211946350,212130803,0,False,residential,Elm Street,223.007,,,,,,,,,,,20078520,
+211946350,211946361,0,False,secondary,Chatham Street,183.481,,,,30 mph,,,yes,,,,"[159234605, 191149598, 159234599]",NY 203
+211946350,211946332,0,False,secondary,Chatham Street,227.003,,,,"['40 mph', '30 mph']",,,,,,,"[20065875, 191149598]",NY 203
+211946361,211939415,0,False,secondary,Main Street,111.325,,,,30 mph,,,,,,,20070676,NY 203
+211946361,212025803,0,False,secondary,Main Street,35.897,,,,30 mph,,,,,,,45287082,
+211946361,211946350,0,False,secondary,Chatham Street,183.481,,,,30 mph,,,yes,,,,"[159234605, 191149598, 159234599]",NY 203
+211949458,212022191,0,False,residential,"['Patti Sue Drive', 'Van Zandt Drive']",339.59,,,,,,,,,,,"[20070392, 20065993]",
+211949458,212005493,0,False,residential,Marion Boulevard,245.495,,,,,,,,,,,20069083,
+211949458,212007149,0,False,residential,Marion Boulevard,321.483,,,,,,,,,,,20069083,
+211952461,211952464,0,False,residential,Kinderhook Avenue,73.021,,,,,,,,,,,20066128,
+211952461,212039725,0,False,residential,Hawley Road,74.582,,,,,,,,,,,20078544,
+211952461,212081116,0,False,residential,Hawley Road,66.783,,,,,,,,,,,20078544,
+211952461,212046966,0,False,residential,Sanders Lane,108.721,,,,,,,,,,,20072578,
+211952464,211952468,0,False,residential,Kinderhook Avenue,68.983,,,,,,,,,,,20066128,
+211952464,211952461,0,False,residential,Kinderhook Avenue,73.021,,,,,,,,,,,20066128,
+211952464,212023517,0,False,residential,Richard Lane,281.881,,,,,,,,,,,20076569,
+211952468,211952472,0,False,residential,Kinderhook Avenue,71.311,,,,,,,,,,,20066128,
+211952468,211952464,0,False,residential,Kinderhook Avenue,68.983,,,,,,,,,,,20066128,
+211952468,212023522,0,False,residential,Evelyn Lane,268.012,,,,,,,,,,,20075665,
+211952472,211952475,0,False,residential,Kinderhook Avenue,71.986,,,,,,,,,,,20066128,
+211952472,211952468,0,False,residential,Kinderhook Avenue,71.311,,,,,,,,,,,20066128,
+211952472,212023526,0,False,residential,Marna Lane,252.296,,,,,,,,,,,20075985,
+211952475,211952472,0,False,residential,Kinderhook Avenue,71.986,,,,,,,,,,,20066128,
+211952475,211952481,0,False,residential,Kinderhook Avenue,40.123,,,,,,,,,,,20066128,
+211952475,212023539,0,False,residential,Fish Lake Avenue,233.044,,,,,,,,,,,20070500,
+211952475,211931783,0,False,residential,West Street,202.062,,,,,,,,,,,20077514,
+211952481,211952483,0,False,residential,Kinderhook Avenue,11.389,,,,,,,,,,,20066128,
+211952481,211952475,0,False,residential,Kinderhook Avenue,40.123,,,,,,,,,,,20066128,
+211952481,211958052,0,False,residential,Concourse,197.263,,,,,,,,,,,20074057,
+211952483,211952485,0,False,residential,Kinderhook Avenue,70.253,,,,,,,,,,,20066128,
+211952483,211952481,0,False,residential,Kinderhook Avenue,11.389,,,,,,,,,,,20066128,
+211952483,212061140,0,False,residential,Concourse,172.141,,,,,,,,,,,20074065,
+211952485,211952483,0,False,residential,Kinderhook Avenue,70.253,,,,,,,,,,,20066128,
+211952485,212061140,0,False,residential,Tilden Avenue,129.876,,,,,,,,,,,20075095,
+211952485,211952494,0,False,residential,Kinderhook Avenue,89.733,,,,,,,,,,,20066128,
+211952485,211958061,0,False,residential,Tilden Avenue North,163.507,,,,,,,,,,,20078437,
+211952494,211952497,0,False,residential,Kinderhook Avenue,87.389,,,,,,,,,,,20066128,
+211952494,211958062,0,False,residential,Columbia Avenue,161.152,,,,,,,,,,,20075872,
+211952494,211952485,0,False,residential,Kinderhook Avenue,89.733,,,,,,,,,,,20066128,
+211952494,212061142,0,False,residential,Columbia Avenue,137.451,,,,,,,,,,,20075872,
+211952497,211952499,0,False,residential,Kinderhook Avenue,90.097,,,,,,,,,,,20066128,
+211952497,211952494,0,False,residential,Kinderhook Avenue,87.389,,,,,,,,,,,20066128,
+211952497,211958064,0,False,residential,Van Buren Avenue,162.593,,,,,,,,,,,20077879,
+211952497,212061155,0,False,residential,Van Buren Avenue,123.93,,,,,,,,,,,20077879,
+211952499,211952497,0,False,residential,Kinderhook Avenue,90.097,,,,,,,,,,,20066128,
+211952499,211958066,0,False,residential,Concourse,165.173,,,,,,,,,,,20074054,
+211952499,211971997,0,False,residential,Concourse,38.058,,,,,,,,,,,20074054,
+211952776,211978898,0,False,residential,Williams Street,45.618,,,,30 mph,,,,,,,417281510,
+211952776,212025803,0,False,residential,"['Purcell Lane', 'Merwin Lane']",97.765,,,,30 mph,,,,,,,"[20066144, 20072338]",
+211952776,212025805,0,False,residential,Williams Street,38.717,,,,,no,,,,,,"[417422933, 417281518]",
+211956140,211933073,0,False,tertiary,Main Street,132.687,,,,35 mph,,,,,,,20067301,CR 28
+211956140,211935244,0,False,tertiary,Main Street,24.065,,,,35 mph,,,,,,,20070650,CR 28
+211956140,211935233,0,False,residential,Parker Hall Road,58.967,,,,,,,,,,,20066263,
+211956147,211935233,0,False,residential,Parker Hall Road,51.928,,,,,,,,,,,20066263,
+211956147,211935276,0,False,residential,Parker Hall Road,42.442,,,,,,,,,,,20066263,
+211956147,212050425,0,False,residential,Elm Street,153.343,,,,,,,,,,,20078504,
+211956187,212023508,0,False,residential,Hawley Road,63.038,,,,,,,,,,,20078544,
+211956187,211956192,0,False,residential,Parker Hall Road,44.819,,,,,,,,,,,351552985,
+211956187,211935276,0,False,residential,Parker Hall Road,322.413,,,,,,,,,,,20066263,
+211956192,211985163,0,False,residential,Kipp Lane,135.035,,,,,,,,,,,20068032,
+211956192,211956187,0,False,residential,Parker Hall Road,44.819,,,,,,,,,,,351552985,
+211956192,211956201,0,False,residential,Parker Hall Road,152.428,,,,,,,,,,,351552985,
+211956201,211956204,0,False,residential,Parker Hall Road,33.949,,,,,,,,,,,351552985,
+211956201,212021842,0,False,residential,Madeline Lane,146.756,,,,,,,,,,,20070364,
+211956201,211956192,0,False,residential,Parker Hall Road,152.428,,,,,,,,,,,351552985,
+211956204,211956208,0,False,residential,Parker Hall Road,38.053,,,,,,,,,,,351552985,
+211956204,211956201,0,False,residential,Parker Hall Road,33.949,,,,,,,,,,,351552985,
+211956204,211956209,0,False,residential,Kipp U,365.742,,,,,,,,,,,20078336,
+211956208,211956209,0,False,residential,Parker Hall Road,18.656,,,,,,,,,,,351552985,
+211956208,211956204,0,False,residential,Parker Hall Road,38.053,,,,,,,,,,,351552985,
+211956208,212083519,0,False,residential,Lakeview Drive,156.28,,,,,,,,,,,20076026,
+211956209,211956208,0,False,residential,Parker Hall Road,18.656,,,,,,,,,,,351552985,
+211956209,211956204,0,False,residential,Kipp U,365.742,,,,,,,,,,,20078336,
+211956209,211956221,0,False,residential,Parker Hall Road,133.569,,,,,,,,,,,351552985,
+211956221,211964223,0,False,secondary,State Highway 203,798.875,,,,45 mph,,,,,,,20066751,NY 203
+211956221,211956209,0,False,residential,Parker Hall Road,133.569,,,,,,,,,,,351552985,
+211956237,211935244,0,False,residential,Parker Hall Road,125.473,,,,,,,,,,,20066264,
+211956237,211937208,0,False,residential,Church Street,213.222,,,,,,,,,,,20068648,
+211956237,211933073,0,False,residential,"['Old Maple Lane', 'Church Street']",325.779,,,,,,,,,,,"[20068648, 20065319]",
+211956750,211892951,0,False,residential,Rapp Road North,1030.871,,,,,,,,,,,20066281,
+211956750,2236744559,0,False,residential,Rapp Road South,441.152,,,,,,,,,,,20066336,
+211956750,211889154,0,False,tertiary,Main Street,534.618,,,,"['55 mph', '45 mph']",,,,,,,"[56925094, 56925175]",CR 28
+211956750,2236744691,0,False,tertiary,Main Street,192.011,,,,45 mph,,,,,,,56925175,CR 28
+211958052,211958061,0,False,residential,Chatham Avenue,31.703,,,,,,,,,,,20066321,
+211958052,211952481,0,False,residential,Concourse,197.263,,,,,,,,,,,20074057,
+211958052,212041095,0,False,residential,Concourse,261.23,,,,,,,,,,,20074057,
+211958061,211958062,0,False,residential,Chatham Avenue,76.391,,,,,,,,,,,20066321,
+211958061,211958052,0,False,residential,Chatham Avenue,31.703,,,,,,,,,,,20066321,
+211958061,211952485,0,False,residential,Tilden Avenue North,163.507,,,,,,,,,,,20078437,
+211958062,211958064,0,False,residential,Chatham Avenue,87.651,,,,,,,,,,,20066321,
+211958062,211958061,0,False,residential,Chatham Avenue,76.391,,,,,,,,,,,20066321,
+211958062,211952494,0,False,residential,Columbia Avenue,161.152,,,,,,,,,,,20075872,
+211958064,211958066,0,False,residential,Chatham Avenue,89.958,,,,,,,,,,,20066321,
+211958064,211958062,0,False,residential,Chatham Avenue,87.651,,,,,,,,,,,20066321,
+211958064,211952497,0,False,residential,Van Buren Avenue,162.593,,,,,,,,,,,20077879,
+211958064,212061067,0,False,residential,Van Buren Avenue,218.888,,,,,,,,,,,20077879,
+211958066,211958064,0,False,residential,Chatham Avenue,89.958,,,,,,,,,,,20066321,
+211958066,212061067,0,False,residential,Concourse,274.971,,,,,,,,,,,20074054,
+211958066,211952499,0,False,residential,Concourse,165.173,,,,,,,,,,,20074054,
+211958197,212094934,0,False,primary,,57.493,2,,,55 mph,,,,,,,108455586,US 9
+211958197,211958213,0,False,residential,Rapp Road South,336.118,,,,,,,,,,,20066336,
+211958197,212020120,0,False,primary,,560.819,2,,,55 mph,,,,,,,108455586,US 9
+211958213,211940230,0,False,residential,Hawthorn Drive,61.325,,,,,,,,,,,20075846,
+211958213,2236744559,0,False,residential,Rapp Road South,179.387,,,,,,,,,,,20066336,
+211958213,211958197,0,False,residential,Rapp Road South,336.118,,,,,,,,,,,20066336,
+211959392,211959412,0,False,residential,Albany Avenue,465.761,,,,30 mph,,,,,,,20066369,
+211959392,212027073,0,False,primary,Kinderhook Street,52.902,2,,,35 mph,,,,,,,43598833,US 9
+211959392,211860149,0,False,primary,Kinderhook Street,60.879,2,,,35 mph,,,,,,,43598833,US 9
+211959392,211860132,0,False,secondary,Main Street,73.295,,,,30 mph,,,,,,,241060540,
+211959412,211959392,0,False,residential,Albany Avenue,465.761,,,,30 mph,,,,,,,20066369,
+211959412,211994156,0,False,primary,Albany Avenue,236.907,2,,,35 mph,,,,,,,"[20077017, 38441725]",US 9
+211959412,211933107,0,False,primary,Kinderhook Street,125.991,2,,,35 mph,,,,,,,43598833,US 9
+211959478,212015825,0,False,residential,Best Road,198.508,,,,,,,,,,,20069844,
+211959478,211959490,0,False,tertiary,Albany Avenue,601.509,,,,"['55 mph', '30 mph']",,,,,,,"[108228538, 46266701]",CR 21
+211959490,211896845,0,False,tertiary,County Road 21,648.507,,,,55 mph,,,,,,,20066910,CR 21
+211959490,211910920,0,False,unclassified,Old Post Road,1373.19,,,,,,,,,,,20078469,
+211959490,211959478,0,False,tertiary,Albany Avenue,601.509,,,,"['55 mph', '30 mph']",,,,,,,"[108228538, 46266701]",CR 21
+211962439,211962463,0,False,unclassified,Herrick Road,425.278,,,,,,,,,,,20066628,
+211962439,212025562,0,False,tertiary,Main Street,144.606,,,,55 mph,,,,,,,56925094,CR 28
+211962439,212097024,0,False,primary,,1266.529,2,,,55 mph,,,,,,,108455586,US 9
+211962439,211937156,0,False,primary,,885.299,2,,,55 mph,,,,,,,108455586,US 9
+211962463,211850574,0,False,unclassified,Herrick Road,96.66,,,,,,,,,,,20066628,
+211962463,211962439,0,False,unclassified,Herrick Road,425.278,,,,,,,,,,,20066628,
+211962463,211991801,0,False,residential,Fox Hollow Road,1251.795,,,,,,,,,,,20068314,
+211964115,211964138,0,False,secondary,State Highway 203,221.99,,,,45 mph,,,,,,,20066751,NY 203
+211964115,211998460,0,False,secondary,"['State Highway 203', 'Church Street']",250.3,,,,"['45 mph', '30 mph']",,,,,,,"[45287084, 20066751]",NY 203
+211964115,212120726,0,False,residential,Nursery Lane,209.774,,,,,,,,,,,20078113,
+211964138,211964148,0,False,secondary,State Highway 203,165.764,,,,45 mph,,,,,,,20066751,NY 203
+211964138,211964115,0,False,secondary,State Highway 203,221.99,,,,45 mph,,,,,,,20066751,NY 203
+211964138,212053117,0,False,residential,Kinder Kill Lane,228.604,,,,,,,,,,,20073204,
+211964148,211851144,0,False,secondary,State Highway 203,121.499,,,,45 mph,,,,,,,20066751,NY 203
+211964148,211964138,0,False,secondary,State Highway 203,165.764,,,,45 mph,,,,,,,20066751,NY 203
+211964148,212012463,0,False,residential,Timberee Lane,365.935,,,,,,,,,,,20069531,
+211964151,211851144,0,False,secondary,State Highway 203,10.584,,,,45 mph,,,,,,,20066751,NY 203
+211964151,211964156,0,False,secondary,State Highway 203,190.72,,,,45 mph,,,,,,,20066751,NY 203
+211964151,212015933,0,False,residential,Whitney Drive,275.158,,,,,,,,,,,20069856,
+211964156,211964168,0,False,secondary,State Highway 203,280.118,,,,45 mph,,,,,,,20066751,NY 203
+211964156,211964151,0,False,secondary,State Highway 203,190.72,,,,45 mph,,,,,,,20066751,NY 203
+211964156,212079903,0,False,residential,Peters Lane,190.808,,,,,,,,,,,20075769,
+211964168,211964171,0,False,secondary,State Highway 203,9.402,,,,45 mph,,,,,,,20066751,NY 203
+211964168,211964156,0,False,secondary,State Highway 203,280.118,,,,45 mph,,,,,,,20066751,NY 203
+211964168,212015933,0,False,residential,Whitney Drive,552.918,,,,,,,,,,,20069856,
+211964171,211964168,0,False,secondary,State Highway 203,9.402,,,,45 mph,,,,,,,20066751,NY 203
+211964171,211964223,0,False,secondary,State Highway 203,711.214,,,,45 mph,,,,,,,20066751,NY 203
+211964171,211855948,0,False,residential,Garrigan Road,26.466,,,,45 mph,,,,,,,20067495,
+211964223,211956221,0,False,secondary,State Highway 203,798.875,,,,45 mph,,,,,,,20066751,NY 203
+211964223,211964171,0,False,secondary,State Highway 203,711.214,,,,45 mph,,,,,,,20066751,NY 203
+211964223,211971860,0,False,tertiary,Main Street,135.02,,,,35 mph,,,,,,,20067301,CR 28
+211964223,211940785,0,False,residential,Newton Hill Road,444.883,,,,,,,,,,,20077869,
+211965985,212004816,0,False,unclassified,Maple Lane,134.238,,,,35 mph,,,,,,,195320882,
+211965985,211965990,0,False,residential,Blossom Lane,207.254,,,,,,,,,,,20066874,
+211965985,212004837,0,False,unclassified,Maple Lane,454.094,,,,35 mph,,,,,,,195320882,
+211965990,211965997,0,False,residential,Blossom Lane,213.36,,,,,,,,,,,20066874,
+211965990,211965985,0,False,residential,Blossom Lane,207.254,,,,,,,,,,,20066874,
+211965990,2768901250,0,False,residential,Blossom Lane,645.127,,,,,,,,,,,20066874,
+211965997,2768901250,0,False,residential,Blossom Lane,227.313,,,,,,,,,,,20066874,
+211965997,211965990,0,False,residential,Blossom Lane,213.36,,,,,,,,,,,20066874,
+211965997,212001822,0,False,residential,Spartan Drive,205.835,,,,,,,,,,,20068805,
+211966226,211923628,0,False,tertiary,County Road 21,63.942,,,,55 mph,,,,,,,20066910,CR 21
+211966226,5178432554,0,False,tertiary,County Road 21,91.133,,,,55 mph,,,,,,,20066910,CR 21
+211966226,212036336,0,False,unclassified,Fordham Road,404.512,,,,,,,,,,,20071553,
+211966252,5178432554,0,False,tertiary,County Road 21,379.499,,,,55 mph,,,,,,,20066910,CR 21
+211966252,212036336,0,False,unclassified,Bishop Nelson Road,293.671,,,,,,,,,,,168928525,
+211967582,211983008,0,False,residential,Oak Street,61.404,,,,,,,,,,,20067938,
+211967582,211991814,0,False,residential,Hawley Road,65.513,,,,,,,,,,,20078544,
+211967582,211967602,0,False,residential,Pine Park Avenue,145.988,,,,,,,,,,,20066989,
+211967582,211931767,0,False,residential,Hawley Road,71.352,,,,,,,,,,,20078544,
+211967602,211991826,0,False,residential,West Street,70.803,,,,,,,,,,,20077514,
+211967602,211967582,0,False,residential,Pine Park Avenue,145.988,,,,,,,,,,,20066989,
+211967602,211931783,0,False,residential,West Street,74.411,,,,,,,,,,,20077514,
+211969657,211969682,0,False,residential,Pump House Road,275.555,,,,,,,,,,,20067138,
+211969657,212011502,0,False,residential,Trolly Lane,139.58,,,,,,,,,,,20069445,
+211969657,212027064,0,False,residential,River Street,365.075,,,,,,,,,,,20074958,
+211969682,211969657,0,False,residential,Pump House Road,275.555,,,,,,,,,,,20067138,
+211971860,211926420,0,False,tertiary,Main Street,375.273,,,,35 mph,,,,,,,20067301,CR 28
+211971860,211964223,0,False,tertiary,Main Street,135.02,,,,35 mph,,,,,,,20067301,CR 28
+211971860,212023154,0,False,residential,Knollwood Drive,192.414,,,,,,,,,,,20070459,
+211971871,211933073,0,False,tertiary,Main Street,60.83,,,,35 mph,,,,,,,20067301,CR 28
+211971871,211926420,0,False,tertiary,Main Street,230.649,,,,35 mph,,,,,,,20067301,CR 28
+211971871,212050425,0,False,residential,Maple Avenue,76.85,,,,,,,,,,,20072917,
+211971921,211971923,0,False,residential,Diamond Street,38.306,,,,,,,,,,,20067307,
+211971921,211937177,0,False,secondary,Main Street,75.881,,,,30 mph,,,,,,,45287082,
+211971921,211998413,0,False,secondary,Main Street,64.836,,,,30 mph,,,,,,,45287082,
+211971923,211971921,0,False,residential,Diamond Street,38.306,,,,,,,,,,,20067307,
+211971997,211972014,0,False,residential,Lake Road,258.95,,,,,,,,,,,20067316,
+211971997,211952499,0,False,residential,Concourse,38.058,,,,,,,,,,,20074054,
+211971997,212061155,0,False,residential,Concourse,126.758,,,,,,,,,,,20074065,
+211972014,211971997,0,False,residential,Lake Road,258.95,,,,,,,,,,,20067316,
+211975302,211907967,0,False,residential,Garrigan Road,181.024,,,,45 mph,,,,,,,20067495,
+211975302,211990518,0,False,tertiary,Upper Main Street,697.645,,,,,,,,,,,20073895,
+211975302,211922920,0,False,tertiary,County Road 28A,439.905,,,,55 mph,,,,,,,20074706,CR 28A
+211975309,211975310,0,False,residential,Garrigan Road,74.163,,,,45 mph,,,,,,,20067495,
+211975309,211907967,0,False,residential,Garrigan Road,324.185,,,,45 mph,,,,,,,20067495,
+211975309,212067327,0,False,residential,Graham Lane,116.868,,,,,,,,,,,20074712,
+211975310,211847796,0,False,residential,Garrigan Road,42.572,,,,45 mph,,,,,,,20067495,
+211975310,211975309,0,False,residential,Garrigan Road,74.163,,,,45 mph,,,,,,,20067495,
+211975310,211884138,0,False,residential,Graham Lane,74.291,,,,,,,,,,,20074712,
+211975313,211975315,0,False,residential,Garrigan Road,104.129,,,,45 mph,,,,,,,20067495,
+211975313,211847796,0,False,residential,Garrigan Road,272.75,,,,45 mph,,,,,,,20067495,
+211975313,211847799,0,False,residential,"['Park Place', 'Park Place North']",490.876,,,,,,,,,,,"[20078465, 20078081]",
+211975315,211975318,0,False,residential,Garrigan Road,273.128,,,,45 mph,,,,,,,20067495,
+211975315,211975313,0,False,residential,Garrigan Road,104.129,,,,45 mph,,,,,,,20067495,
+211975315,211995900,0,False,residential,Hunter Drive South,181.388,,,,30 mph,,,,,,,20075572,
+211975318,2412281025,0,False,residential,Garrigan Road,320.577,,,,45 mph,,,,,,,20067495,
+211975318,211975315,0,False,residential,Garrigan Road,273.128,,,,45 mph,,,,,,,20067495,
+211975318,211995910,0,False,residential,Hunter Drive Nouth,187.614,,,,30 mph,,,,,,,20069887,
+211976110,212045104,0,False,tertiary,County Road 28B,7.094,,,,45 mph,,,,,,,20074775,CR 28B
+211976110,212058117,0,False,residential,West Shore Drive,501.159,,,,30 mph,,,,,,,20067553,
+211976110,211868348,0,False,tertiary,County Road 28B,128.973,,,,45 mph,,,,,,,20074775,CR 28B
+211978854,211937182,0,False,residential,Luther Street,118.329,,,,,,,,,,,20067697,
+211978854,211978896,0,False,tertiary,Church Street,9.358,,,,30 mph,,,,,,,20068646,
+211978854,211998419,0,False,tertiary,Church Street,91.41,,,,30 mph,,,,,,,20068646,
+211978896,211978898,0,False,residential,Luther Street,77.19,,,,,,,,,,,20067699,
+211978896,211978854,0,False,tertiary,Church Street,9.358,,,,30 mph,,,,,,,20068646,
+211978896,211998413,0,False,tertiary,Church Street,87.634,,,,30 mph,,,,,,,20068646,
+211978898,211978896,0,False,residential,Luther Street,77.19,,,,,,,,,,,20067699,
+211978898,211952776,0,False,residential,Williams Street,45.618,,,,30 mph,,,,,,,417281510,
+211978898,211998422,0,True,residential,Williams Street,236.556,,,,30 mph,,,,,,,20077612,
+211979523,211979529,0,False,residential,Baldwin Drive,71.069,,,,,,,,,,,20067744,
+211979523,212096920,0,False,residential,Cortland Drive,117.66,,,,,,,,,,,20078240,
+211979523,212111550,0,False,residential,Cortland Drive,149.821,,,,,,,,,,,20078240,
+211979529,211979523,0,False,residential,Baldwin Drive,71.069,,,,,,,,,,,20067744,
+211982642,211847799,0,False,residential,Weathersfield Lane,104.162,,,,,,,,,,,20067931,
+211982976,211982999,0,False,residential,Oak Street,129.582,,,,,,,,,,,20067938,
+211982999,211983008,0,False,residential,Oak Street,60.149,,,,,,,,,,,20067938,
+211982999,211982976,0,False,residential,Oak Street,129.582,,,,,,,,,,,20067938,
+211982999,212039726,0,False,residential,Rose Street,147.188,,,,,,,,,,,20071887,
+211983008,211967582,0,False,residential,Oak Street,61.404,,,,,,,,,,,20067938,
+211983008,211982999,0,False,residential,Oak Street,60.149,,,,,,,,,,,20067938,
+211983008,212003647,0,False,residential,Masterson Lane,172.636,,,,,,,,,,,20078341,
+211985027,211994203,0,False,residential,Wilderness Lane,42.055,,,,25 mph,,,,,,,20077569,
+211985027,211985033,0,False,residential,Icabod Lane,58.685,,,,,,,,,,,20068024,
+211985027,212100991,0,False,residential,Wilderness Lane,167.056,,,,25 mph,,,,,,,20077569,
+211985033,211852327,0,False,residential,Icabod Lane,209.272,,,,,,,,,,,20068024,
+211985033,211985027,0,False,residential,Icabod Lane,58.685,,,,,,,,,,,20068024,
+211985033,211985083,0,False,residential,Icabod Lane,58.405,,,,,,,,,,,20068027,
+211985083,211985033,0,False,residential,Icabod Lane,58.405,,,,,,,,,,,20068027,
+211985163,211956192,0,False,residential,Kipp Lane,135.035,,,,,,,,,,,20068032,
+211990518,211990530,0,False,residential,Old Mill Road,99.436,,,,,,,,,,,20068264,
+211990518,212005470,0,False,tertiary,Upper Main Street,93.535,,,,,,,,,,,20073895,
+211990518,211975302,0,False,tertiary,Upper Main Street,697.645,,,,,,,,,,,20073895,
+211990530,211990518,0,False,residential,Old Mill Road,99.436,,,,,,,,,,,20068264,
+211991436,211991464,0,False,residential,Sagendorf Lane,98.185,,,,,,,,,,,20068291,
+211991436,212073042,0,False,residential,West Street,24.777,,,,,,,,,,,20077514,
+211991436,211991826,0,False,residential,West Street,34.902,,,,,,,,,,,20077514,
+211991464,211991436,0,False,residential,Sagendorf Lane,98.185,,,,,,,,,,,20068291,
+211991801,211962463,0,False,residential,Fox Hollow Road,1251.795,,,,,,,,,,,20068314,
+211991814,212073046,0,False,residential,Hawley Road,74.984,,,,,,,,,,,20078544,
+211991814,211967582,0,False,residential,Hawley Road,65.513,,,,,,,,,,,20078544,
+211991814,211991826,0,False,residential,Beech Street,116.531,,,,,,,,,,,20068315,
+211991826,211967602,0,False,residential,West Street,70.803,,,,,,,,,,,20077514,
+211991826,211991814,0,False,residential,Beech Street,116.531,,,,,,,,,,,20068315,
+211991826,211991436,0,False,residential,West Street,34.902,,,,,,,,,,,20077514,
+211994156,211994160,0,False,residential,Harris Drive,133.16,,,,25 mph,,,,,,,20068422,
+211994156,212096849,0,False,primary,,240.133,2,,,35 mph,,,,,,,20077017,US 9
+211994156,211959412,0,False,primary,Albany Avenue,236.907,2,,,35 mph,,,,,,,"[20077017, 38441725]",US 9
+211994160,211994176,0,False,residential,Harris Drive,111.796,,,,25 mph,,,,,,,20068422,
+211994160,211994156,0,False,residential,Harris Drive,133.16,,,,25 mph,,,,,,,20068422,
+211994160,212100991,0,False,residential,Sky View Lane,322.262,,,,,,,,,,,20077278,
+211994176,211994203,0,False,residential,Harris Drive,403.124,,,,25 mph,,,,,,,20068422,
+211994176,211994160,0,False,residential,Harris Drive,111.796,,,,25 mph,,,,,,,20068422,
+211994176,212030361,0,False,residential,Ridge Road,60.981,,,,,,,,,,,20070961,
+211994203,211985027,0,False,residential,Wilderness Lane,42.055,,,,25 mph,,,,,,,20077569,
+211994203,211994176,0,False,residential,Harris Drive,403.124,,,,25 mph,,,,,,,20068422,
+211994203,212107173,0,False,residential,Wilderness Lane,114.435,,,,25 mph,,,,,,,20077569,
+211995900,211995910,0,False,residential,Partridge Avenue,277.631,,,,30 mph,,,,,,,20068499,
+211995900,211936031,0,False,residential,Hunter Drive South,111.51,,,,30 mph,,,,,,,20075572,
+211995900,211975315,0,False,residential,Hunter Drive South,181.388,,,,30 mph,,,,,,,20075572,
+211995910,211995915,0,False,residential,Partridge Avenue,63.744,,,,30 mph,,,,,,,20068499,
+211995910,211995900,0,False,residential,Partridge Avenue,277.631,,,,30 mph,,,,,,,20068499,
+211995910,211975318,0,False,residential,Hunter Drive Nouth,187.614,,,,30 mph,,,,,,,20069887,
+211995910,211936031,0,False,residential,"['Hunter Drive Nouth', 'Hunter Drive South']",615.09,,,,30 mph,,,,,,,"[20075572, 20069887]",
+211995915,211995910,0,False,residential,Partridge Avenue,63.744,,,,30 mph,,,,,,,20068499,
+211996802,211939390,0,False,residential,Spruce Street,361.145,,,,30 mph,,,,,,,20068540,
+211996802,212048936,0,False,residential,Balsam Drive,509.242,,,,30 mph,,,,,,,"[20076601, 20072774]",
+211996802,212048936,1,False,residential,Balsam Drive,120.263,,,,30 mph,,,,,,,20072774,
+211997562,211997571,0,False,residential,Opportunity Way,32.495,,,,,,,,,,,20068583,
+211997571,211997562,0,False,residential,Opportunity Way,32.495,,,,,,,,,,,20068583,
+211998413,211978896,0,False,tertiary,Church Street,87.634,,,,30 mph,,,,,,,20068646,
+211998413,211971921,0,False,secondary,Main Street,64.836,,,,30 mph,,,,,,,45287082,
+211998413,212025805,0,False,secondary,Main Street,79.245,,,,30 mph,,,,,,,45287082,
+211998419,211998422,0,False,tertiary,Church Street,57.163,,,,30 mph,,,,,,,20068646,
+211998419,211978854,0,False,tertiary,Church Street,91.41,,,,30 mph,,,,,,,20068646,
+211998419,211937182,0,False,residential,"['High Street', 'Lake Street']",191.316,,,,,,,,,,,"[20078072, 20065512]",
+211998422,211998419,0,False,tertiary,Church Street,57.163,,,,30 mph,,,,,,,20068646,
+211998422,211998449,0,False,tertiary,Church Street,561.861,,,,30 mph,,,,,,,20068646,
+211998449,212126847,0,False,residential,Horse and Hoe Drive,61.711,,,,,,,,,,,20078362,
+211998449,211998457,0,False,tertiary,Church Street,54.434,,,,30 mph,,,,,,,20068646,
+211998449,211998422,0,False,tertiary,Church Street,561.861,,,,30 mph,,,,,,,20068646,
+211998457,211998449,0,False,tertiary,Church Street,54.434,,,,30 mph,,,,,,,20068646,
+211998457,212005493,0,False,secondary,Mechanic Street,37.688,,,,30 mph,,,,,,,20068954,NY 203
+211998457,211998460,0,False,secondary,Church Street,38.98,,,,30 mph,,,,,,,45287084,NY 203
+211998460,212009117,0,False,residential,Horseshoe Drive,116.742,,,,,,,,,,,20069258,
+211998460,211964115,0,False,secondary,"['State Highway 203', 'Church Street']",250.3,,,,"['45 mph', '30 mph']",,,,,,,"[45287084, 20066751]",NY 203
+211998460,211998457,0,False,secondary,Church Street,38.98,,,,30 mph,,,,,,,45287084,NY 203
+211999135,211851557,0,False,residential,"['Round Lake Road', 'Little Lake Road']",746.961,,,,,,,,,,,"[20073044, 20068678]",
+211999135,212067771,0,False,tertiary,County Road 28B,1291.007,,,,45 mph,,,,,,,20074775,CR 28B
+211999135,212035599,0,False,tertiary,County Road 28B,1091.658,,,,45 mph,,,,,,,20074775,CR 28B
+212001822,211965997,0,False,residential,Spartan Drive,205.835,,,,,,,,,,,20068805,
+212001822,212040271,0,False,residential,Grand View Drive,513.764,,,,,,,,,,,20071938,
+212001822,212004815,0,False,residential,Grand View Drive,495.728,,,,,,,,,,,20071938,
+212003645,212003647,0,False,residential,Rowland Road,67.408,,,,,,,,,,,20068876,
+212003645,212073046,0,False,residential,Hawley Road,24.513,,,,,,,,,,,20078544,
+212003645,212126086,0,False,residential,Hawley Road,23.934,,,,,,,,,,,20078544,
+212003647,212003649,0,False,residential,Rowland Road,31.909,,,,,,,,,,,20068876,
+212003647,212003645,0,False,residential,Rowland Road,67.408,,,,,,,,,,,20068876,
+212003647,211983008,0,False,residential,Masterson Lane,172.636,,,,,,,,,,,20078341,
+212003647,212126086,0,False,residential,Masterson Lane,99.973,,,,,,,,,,,"[20078340, 20078341]",
+212003649,212003647,0,False,residential,Rowland Road,31.909,,,,,,,,,,,20068876,
+212004790,211939390,0,False,unclassified,Maple Lane South,376.327,,,,35 mph,,,,,,,20068919,
+212004790,212036364,0,False,unclassified,Fordham Road,520.196,,,,,,,,,,,20071553,
+212004790,212004814,0,False,unclassified,Maple Lane,482.083,,,,35 mph,,,,,,,195320882,
+212004814,212004815,0,False,unclassified,Maple Lane,174.724,,,,35 mph,,,,,,,195320882,
+212004814,211895639,0,False,unclassified,Dahlgren Road,524.357,,,,,,,,,,,20071253,
+212004814,212048927,0,False,residential,Sleepy Hollow Road,125.249,,,,30 mph,,,,,,,20072766,
+212004814,212004790,0,False,unclassified,Maple Lane,482.083,,,,35 mph,,,,,,,195320882,
+212004815,212004816,0,False,unclassified,Maple Lane,153.312,,,,35 mph,,,,,,,195320882,
+212004815,212004814,0,False,unclassified,Maple Lane,174.724,,,,35 mph,,,,,,,195320882,
+212004815,212001822,0,False,residential,Grand View Drive,495.728,,,,,,,,,,,20071938,
+212004816,212112642,0,False,residential,Overlook Drive,109.566,,,,,,,,,,,20077793,
+212004816,211965985,0,False,unclassified,Maple Lane,134.238,,,,35 mph,,,,,,,195320882,
+212004816,212004815,0,False,unclassified,Maple Lane,153.312,,,,35 mph,,,,,,,195320882,
+212004837,211937156,0,False,"['residential', 'unclassified']","['Maple Lane North', 'Maple Lane']",1513.051,,,,35 mph,,,,,,,"[195320882, 20065508]",
+212004837,211965985,0,False,unclassified,Maple Lane,454.094,,,,35 mph,,,,,,,195320882,
+212005470,211897475,0,False,secondary,Mechanic Street,79.397,,,,30 mph,,,,,,,20068954,NY 203
+212005470,211990518,0,False,tertiary,Upper Main Street,93.535,,,,,,,,,,,20073895,
+212005470,211939415,0,False,secondary,Upper Main Street,129.404,,,,30 mph,,,,,,,45287083,NY 203
+212005484,212005487,0,False,secondary,Mechanic Street,169.055,,,,30 mph,,,,,,,20068954,NY 203
+212005484,211897467,0,False,secondary,Mechanic Street,233.245,,,,30 mph,,,,,,,20068954,NY 203
+212005484,211939415,0,False,residential,New Street,435.127,,,,,,,,,,,20076941,
+212005487,212005484,0,False,secondary,Mechanic Street,169.055,,,,30 mph,,,,,,,20068954,NY 203
+212005487,212043412,0,False,residential,Johnson Lane,77.408,,,,,,,,,,,20078420,
+212005487,212005493,0,False,secondary,Mechanic Street,168.872,,,,30 mph,,,,,,,20068954,NY 203
+212005493,211998457,0,False,secondary,Mechanic Street,37.688,,,,30 mph,,,,,,,20068954,NY 203
+212005493,212005487,0,False,secondary,Mechanic Street,168.872,,,,30 mph,,,,,,,20068954,NY 203
+212005493,211949458,0,False,residential,Marion Boulevard,245.495,,,,,,,,,,,20069083,
+212007140,212007149,0,False,residential,Marion Boulevard,100.492,,,,,,,,,,,20069083,
+212007140,211928442,0,False,residential,Peters Lane,167.158,,,,,,,,,,,20075773,
+212007140,212079909,0,False,residential,Peters Lane,165.01,,,,,,,,,,,20075773,
+212007149,211949458,0,False,residential,Marion Boulevard,321.483,,,,,,,,,,,20069083,
+212007149,212007140,0,False,residential,Marion Boulevard,100.492,,,,,,,,,,,20069083,
+212007149,212108164,0,False,residential,Augusta Avenue,78.219,,,,,,,,,,,20077615,
+212009117,211998460,0,False,residential,Horseshoe Drive,116.742,,,,,,,,,,,20069258,
+212011475,212011477,0,False,residential,Trolly Lane,74.847,,,,,,,,,,,20069444,
+212011475,212027044,0,False,residential,St Lukes Drive,38.946,,,,,,,,,,,20071173,
+212011475,212032612,0,False,residential,St Lukes Drive,158.422,,,,,,,,,,,20071173,
+212011477,212011475,0,False,residential,Trolly Lane,74.847,,,,,,,,,,,20069444,
+212011502,211969657,0,False,residential,Trolly Lane,139.58,,,,,,,,,,,20069445,
+212012463,211964148,0,False,residential,Timberee Lane,365.935,,,,,,,,,,,20069531,
+212015691,212053098,0,False,tertiary,County Road 32,486.745,,,,45 mph,,,,,,,20078461,CR 32
+212015815,212015820,0,False,residential,Best Road,247.061,,,,,,,,,,,20069844,
+212015815,211944957,0,False,residential,Best Road,1053.225,,,,,,,,,,,20069844,
+212015820,212015821,0,False,residential,Best Road,16.658,,,,,,,,,,,20069844,
+212015820,212015815,0,False,residential,Best Road,247.061,,,,,,,,,,,20069844,
+212015821,212015820,0,False,residential,Best Road,16.658,,,,,,,,,,,20069844,
+212015821,212015825,0,False,residential,Best Road,169.282,,,,,,,,,,,20069844,
+212015821,212095246,0,False,residential,Sunset Avenue,833.115,,,,,,,,,,,20076871,
+212015825,211959478,0,False,residential,Best Road,198.508,,,,,,,,,,,20069844,
+212015825,212015821,0,False,residential,Best Road,169.282,,,,,,,,,,,20069844,
+212015933,211964168,0,False,residential,Whitney Drive,552.918,,,,,,,,,,,20069856,
+212015933,211964151,0,False,residential,Whitney Drive,275.158,,,,,,,,,,,20069856,
+212015933,212080067,0,False,residential,Whitney Circle,137.223,,,,,,,,,,,20075785,
+212016044,212081116,0,False,residential,Hawley Road,72.114,,,,,,,,,,,20078544,
+212016044,212058715,0,False,residential,Hawley Road,53.166,,,,,,,,,,,20078544,
+212016044,212058715,1,False,residential,"['Sunset Street', 'Stonewood Drive']",406.744,,,,,,,,,,,"[20069864, 20073806]",
+212017794,212017797,0,False,residential,Mazal Court,92.897,,,,,,,,,,,20070014,
+212017794,5292541492,0,False,residential,Burnett Street,166.281,,,,,,,,,,,20075816,
+212017794,212080372,0,False,residential,Burnett Street,138.052,,,,,,,,,,,20075816,
+212017797,212017794,0,False,residential,Mazal Court,92.897,,,,,,,,,,,20070014,
+212017797,212017797,0,False,residential,Mazal Court,63.366,,,,,,,,,,,20070014,
+212017797,212017797,1,False,residential,Mazal Court,63.366,,,,,,,,,,,20070014,
+212018561,211941328,0,False,residential,Dogwood Knolls,576.792,,,,,,,,,,,20070096,
+212020102,212020102,0,False,residential,Mirones Manor,115.33,,,,,,,,,,,20070253,
+212020102,212020102,1,False,residential,Mirones Manor,115.33,,,,,,,,,,,20070253,
+212020102,212020120,0,False,residential,Mirones Manor,177.953,,,,,,,,,,,271373034,
+212020120,211958197,0,False,primary,,560.819,2,,,55 mph,,,,,,,108455586,US 9
+212020120,211939371,0,False,primary,,766.669,2,,,55 mph,,,,,,,108455586,US 9
+212020120,212020102,0,False,residential,Mirones Manor,177.953,,,,,,,,,,,271373034,
+212021706,211919686,0,False,residential,Mount View Road,29.712,,,,,,,,,,,20070351,
+212021842,211956201,0,False,residential,Madeline Lane,146.756,,,,,,,,,,,20070364,
+212022191,212079954,0,False,residential,Peters Lane,116.988,,,,,,,,,,,20075773,
+212022191,211949458,0,False,residential,"['Van Zandt Drive', 'Patti Sue Drive']",339.59,,,,,,,,,,,"[20070392, 20065993]",
+212022191,212043412,0,False,residential,Peters Lane,302.176,,,,,,,,,,,20075773,
+212022341,212022412,0,False,residential,Pine Hill Park,41.469,,,,,,,,,,,20070407,
+212022341,212022341,0,False,residential,Pine Hill Park,583.777,,,,,,,,,,,20070406,
+212022341,212022341,1,False,residential,Pine Hill Park,583.777,,,,,,,,,,,20070406,
+212022412,212022341,0,False,residential,Pine Hill Park,41.469,,,,,,,,,,,20070407,
+212022412,212023340,0,False,tertiary,Main Street,41.083,,,,55 mph,,,,,,,56925094,CR 28
+212022412,212025011,0,False,tertiary,Main Street,122.137,,,,55 mph,,,,,,,56925094,CR 28
+212022419,211889161,0,False,residential,Pine Hill Park,14.215,,,,,,,,,,,20070409,
+212023154,211971860,0,False,residential,Knollwood Drive,192.414,,,,,,,,,,,20070459,
+212023154,212023154,0,False,residential,Knollwood Drive,739.244,,,,,,,,,,,20070467,
+212023154,212023154,1,False,residential,Knollwood Drive,739.244,,,,,,,,,,,20070467,
+212023252,212023252,0,False,residential,Orinsekwa Road,584.907,,,,,,,,,,,20070473,
+212023252,212023252,1,False,residential,Orinsekwa Road,584.907,,,,,,,,,,,20070473,
+212023252,212023340,0,False,residential,Orinsekwa Road,335.421,,,,,,,,,,,20070475,
+212023340,212022412,0,False,tertiary,Main Street,41.083,,,,55 mph,,,,,,,56925094,CR 28
+212023340,212023252,0,False,residential,Orinsekwa Road,335.421,,,,,,,,,,,20070475,
+212023340,211889154,0,False,tertiary,Main Street,85.354,,,,55 mph,,,,,,,56925094,CR 28
+212023508,212058715,0,False,residential,Hawley Road,142.85,,,,,,,,,,,20078544,
+212023508,211956187,0,False,residential,Hawley Road,63.038,,,,,,,,,,,20078544,
+212023508,212023517,0,False,residential,Fish Lake Avenue,88.154,,,,,,,,,,,20070499,
+212023517,212023522,0,False,residential,Fish Lake Avenue,75.73,,,,,,,,,,,20070499,
+212023517,212023508,0,False,residential,Fish Lake Avenue,88.154,,,,,,,,,,,20070499,
+212023517,211952464,0,False,residential,Richard Lane,281.881,,,,,,,,,,,20076569,
+212023522,212023526,0,False,residential,Fish Lake Avenue,67.44,,,,,,,,,,,20070499,
+212023522,212023517,0,False,residential,Fish Lake Avenue,75.73,,,,,,,,,,,20070499,
+212023522,211952468,0,False,residential,Evelyn Lane,268.012,,,,,,,,,,,20075665,
+212023526,211952472,0,False,residential,Marna Lane,252.296,,,,,,,,,,,20075985,
+212023526,211909812,0,False,residential,Fish Lake Avenue,25.659,,,,,,,,,,,20070499,
+212023526,212023522,0,False,residential,Fish Lake Avenue,67.44,,,,,,,,,,,20070499,
+212023539,211909812,0,False,residential,Fish Lake Avenue,37.987,,,,,,,,,,,20070499,
+212023539,211952475,0,False,residential,Fish Lake Avenue,233.044,,,,,,,,,,,20070500,
+212023539,212131221,0,False,residential,Niver Court,82.792,,,,,,,,,,,20078541,
+212025003,212025011,0,False,residential,Apple Tree Court,355.832,,,,,,,,,,,20070604,
+212025011,212025003,0,False,residential,Apple Tree Court,355.832,,,,,,,,,,,20070604,
+212025011,212025562,0,False,tertiary,Main Street,533.777,,,,55 mph,,,,,,,56925094,CR 28
+212025011,212022412,0,False,tertiary,Main Street,122.137,,,,55 mph,,,,,,,56925094,CR 28
+212025523,212061264,0,False,residential,Tower Lane,347.883,,,,,,,,,,,20074089,
+212025523,211941356,0,False,tertiary,Main Street,322.057,,,,35 mph,,,,,,,241060537,CR 28
+212025523,211872524,0,False,tertiary,Main Street,194.643,,,,35 mph,,,,,,,241060537,CR 28
+212025562,212042750,0,False,residential,Memory Lane,278.8,,,,,,,,,,,20072156,
+212025562,211962439,0,False,tertiary,Main Street,144.606,,,,55 mph,,,,,,,56925094,CR 28
+212025562,212025011,0,False,tertiary,Main Street,533.777,,,,55 mph,,,,,,,56925094,CR 28
+212025803,212025805,0,False,secondary,Main Street,70.391,,,,30 mph,,,,,,,45287082,
+212025803,211952776,0,False,residential,"['Purcell Lane', 'Merwin Lane']",97.765,,,,30 mph,,,,,,,"[20066144, 20072338]",
+212025803,211946361,0,False,secondary,Main Street,35.897,,,,30 mph,,,,,,,45287082,
+212025805,211998413,0,False,secondary,Main Street,79.245,,,,30 mph,,,,,,,45287082,
+212025805,212025803,0,False,secondary,Main Street,70.391,,,,30 mph,,,,,,,45287082,
+212025805,211952776,0,False,residential,Williams Street,38.717,,,,,no,,,,,,"[417422933, 417281518]",
+212027044,211854708,0,False,primary,Kinderhook Street,132.719,2,,,35 mph,,,,,,,20070746,US 9
+212027044,212011475,0,False,residential,St Lukes Drive,38.946,,,,,,,,,,,20071173,
+212027044,212027057,0,False,primary,Kinderhook Street,598.181,2,,,35 mph,,,,,,,20070746,US 9
+212027057,212027064,0,False,primary,Kinderhook Street,115.339,2,,,35 mph,,,,,,,20070746,US 9
+212027057,212027044,0,False,primary,Kinderhook Street,598.181,2,,,35 mph,,,,,,,20070746,US 9
+212027057,212060040,0,False,residential,Circle Lane,126.955,,,,,,,,,,,20073941,
+212027064,211860149,0,False,primary,Kinderhook Street,44.561,2,,,35 mph,,,,,,,20070746,US 9
+212027064,212027057,0,False,primary,Kinderhook Street,115.339,2,,,35 mph,,,,,,,20070746,US 9
+212027064,211969657,0,False,residential,River Street,365.075,,,,,,,,,,,20074958,
+212027073,211933122,0,False,residential,"['Ridge Drive', 'Rathbone Avenue']",365.317,,,,30 mph,,,,,,,"[20074314, 20076583]",
+212027073,211933107,0,False,primary,Kinderhook Street,261.086,2,,,35 mph,,,,,,,43598833,US 9
+212027073,211959392,0,False,primary,Kinderhook Street,52.902,2,,,35 mph,,,,,,,43598833,US 9
+212030361,211994176,0,False,residential,Ridge Road,60.981,,,,,,,,,,,20070961,
+212030363,212030375,0,False,residential,Ridge Drive,75.702,,,,30 mph,,,,,,,20074314,
+212030375,212030363,0,False,residential,Ridge Drive,75.702,,,,30 mph,,,,,,,20074314,
+212030375,211933114,0,False,residential,Spruce Drive,304.644,,,,30 mph,,,,,,,20073654,
+212030375,211933122,0,False,residential,Ridge Drive,130.354,,,,30 mph,,,,,,,20074314,
+212032612,212011475,0,False,residential,St Lukes Drive,158.422,,,,,,,,,,,20071173,
+212035599,212035610,0,False,residential,Hidden Acres Road,112.414,,,,,,,,,,,20071470,
+212035599,211999135,0,False,tertiary,County Road 28B,1091.658,,,,45 mph,,,,,,,20074775,CR 28B
+212035599,212045089,0,False,tertiary,County Road 28B,129.558,,,,45 mph,,,,,,,20074775,CR 28B
+212035610,212035612,0,False,residential,Hidden Acres Road,20.033,,,,,,,,,,,20071470,
+212035610,212035599,0,False,residential,Hidden Acres Road,112.414,,,,,,,,,,,20071470,
+212035610,212035654,0,False,residential,Hidden Acres Road,283.736,,,,,,,,,,,20071474,
+212035612,212035610,0,False,residential,Hidden Acres Road,20.033,,,,,,,,,,,20071470,
+212035654,212035610,0,False,residential,Hidden Acres Road,283.736,,,,,,,,,,,20071474,
+212036336,212036364,0,False,unclassified,Fordham Road,911.172,,,,,,,,,,,20071553,
+212036336,211966226,0,False,unclassified,Fordham Road,404.512,,,,,,,,,,,20071553,
+212036336,211910922,0,False,unclassified,Bishop Nelson Road,800.324,,,,,,,,,,,168928525,
+212036336,211966252,0,False,unclassified,Bishop Nelson Road,293.671,,,,,,,,,,,168928525,
+212036364,212004790,0,False,unclassified,Fordham Road,520.196,,,,,,,,,,,20071553,
+212036364,212036336,0,False,unclassified,Fordham Road,911.172,,,,,,,,,,,20071553,
+212036364,212083422,0,False,residential,Norris Drive,304.375,,,,,,,,,,,20076021,
+212039725,212039726,0,False,residential,Rose Street,76.721,,,,,,,,,,,20071887,
+212039725,211931767,0,False,residential,Hawley Road,70.546,,,,,,,,,,,20078544,
+212039725,211952461,0,False,residential,Hawley Road,74.582,,,,,,,,,,,20078544,
+212039725,212087326,0,False,residential,Kolb Lane,75.124,,,,,,,,,,,20076313,
+212039726,212039725,0,False,residential,Rose Street,76.721,,,,,,,,,,,20071887,
+212039726,212044049,0,False,residential,Rose Extended,64.78,,,,,,,,,,,20072298,
+212039726,211982999,0,False,residential,Rose Street,147.188,,,,,,,,,,,20071887,
+212040271,212040271,0,False,residential,"['Grandview Drive', 'Grand View Drive']",71.932,,,,,,,,,,,"[20071938, 20074308]",
+212040271,212040271,1,False,residential,"['Grandview Drive', 'Grand View Drive']",71.932,,,,,,,,,,,"[20071938, 20074308]",
+212040271,212001822,0,False,residential,Grand View Drive,513.764,,,,,,,,,,,20071938,
+212041095,212041120,0,False,residential,Small Hawley Point Road,269.108,,,,,,,,,,,20071998,
+212041095,212061067,0,False,residential,Concourse,109.195,,,,,,,,,,,20074054,
+212041095,211958052,0,False,residential,Concourse,261.23,,,,,,,,,,,20074057,
+212041120,212041095,0,False,residential,Small Hawley Point Road,269.108,,,,,,,,,,,20071998,
+212042750,212025562,0,False,residential,Memory Lane,278.8,,,,,,,,,,,20072156,
+212043404,212043412,0,False,residential,Dunham Circle,63.261,,,,,,,,,,,20072225,
+212043412,212005487,0,False,residential,Johnson Lane,77.408,,,,,,,,,,,20078420,
+212043412,212043404,0,False,residential,Dunham Circle,63.261,,,,,,,,,,,20072225,
+212043412,212022191,0,False,residential,Peters Lane,302.176,,,,,,,,,,,20075773,
+212044049,212039726,0,False,residential,Rose Extended,64.78,,,,,,,,,,,20072298,
+212045005,211901262,0,False,tertiary,County Road 28B,40.979,,,,45 mph,,,,,,,20074775,CR 28B
+212045005,212045089,0,False,residential,Plum Tree Drive,1192.332,,,,,,,,,,,20072376,
+212045005,211868348,0,False,tertiary,County Road 28B,66.139,,,,45 mph,,,,,,,20074775,CR 28B
+212045089,212045005,0,False,residential,Plum Tree Drive,1192.332,,,,,,,,,,,20072376,
+212045089,212035599,0,False,tertiary,County Road 28B,129.558,,,,45 mph,,,,,,,20074775,CR 28B
+212045089,211901262,0,False,tertiary,County Road 28B,642.536,,,,45 mph,,,,,,,20074775,CR 28B
+212045089,212058043,0,False,residential,Ottoville Road,343.694,,,,30 mph,,,,,,,20078025,
+212045104,211896410,0,False,residential,Plum Tree Drive,93.36,,,,,,,,,,,20072378,
+212045104,211976110,0,False,tertiary,County Road 28B,7.094,,,,45 mph,,,,,,,20074775,CR 28B
+212045104,211941356,0,False,tertiary,"['County Road 28B', 'State Farm Road']",521.593,,,,45 mph,,,,,,,"[56925106, 20074775]",CR 28B
+212046966,211952461,0,False,residential,Sanders Lane,108.721,,,,,,,,,,,20072578,
+212048927,212004814,0,False,residential,Sleepy Hollow Road,125.249,,,,30 mph,,,,,,,20072766,
+212048936,211939385,0,False,residential,Hemlock Street,327.575,,,,30 mph,,,,,,,"[20072769, 20076604]",
+212048936,211996802,0,False,residential,Balsam Drive,120.263,,,,30 mph,,,,,,,20072774,
+212048936,211996802,1,False,residential,Balsam Drive,509.242,,,,30 mph,,,,,,,"[20076601, 20072774]",
+212050334,211946329,0,False,residential,Oak Drive,95.214,,,,,,,,,,,20072899,
+212050425,211971871,0,False,residential,Maple Avenue,76.85,,,,,,,,,,,20072917,
+212050425,211956147,0,False,residential,Elm Street,153.343,,,,,,,,,,,20078504,
+212050425,212130522,0,False,residential,Elm Street,122.8,,,,,,,,,,,20078504,
+212053098,211848349,0,False,residential,Chadwycke Court,1210.722,,,,,,,,,,,5632125,
+212053098,211848349,1,False,tertiary,County Road 32,132.534,,,,45 mph,,,,,,,20078461,CR 32
+212053098,212015691,0,False,tertiary,County Road 32,486.745,,,,45 mph,,,,,,,20078461,CR 32
+212053117,211964138,0,False,residential,Kinder Kill Lane,228.604,,,,,,,,,,,20073204,
+212053117,212053117,0,False,residential,Kinder Kill Lane,318.534,,,,,,,,,,,20073209,
+212053117,212053117,1,False,residential,Kinder Kill Lane,318.534,,,,,,,,,,,20073209,
+212053606,212053606,0,False,residential,Eberle Road,137.747,,,,,,,,,,,20073261,
+212053606,212053606,1,False,residential,Eberle Road,137.747,,,,,,,,,,,20073261,
+212055992,212058117,0,False,residential,West Shore Drive,108.365,,,,30 mph,,,,,,,20067553,
+212055992,212056024,0,False,residential,West Shore Drive,80.987,,,,30 mph,,,,,,,20067553,
+212055992,212056024,1,False,residential,Old W Shore Drive,96.103,,,,,,,,,,,20073528,
+212056024,212055992,0,False,residential,West Shore Drive,80.987,,,,30 mph,,,,,,,20067553,
+212056024,212055992,1,False,residential,Old W Shore Drive,96.103,,,,,,,,,,,20073528,
+212056024,212058043,0,False,residential,West Shore Drive,1005.944,,,,30 mph,,,,,,,20067553,
+212058043,212056024,0,False,residential,West Shore Drive,1005.944,,,,30 mph,,,,,,,20067553,
+212058043,212045089,0,False,residential,Ottoville Road,343.694,,,,30 mph,,,,,,,20078025,
+212058043,212070967,0,False,residential,Ottoville Road,216.834,,,,30 mph,,,,,,,20078025,
+212058117,211976110,0,False,residential,West Shore Drive,501.159,,,,30 mph,,,,,,,20067553,
+212058117,212055992,0,False,residential,West Shore Drive,108.365,,,,30 mph,,,,,,,20067553,
+212058117,212058162,0,False,residential,West Shore Drive,162.747,,,,,,,,,,,20073757,
+212058162,212058117,0,False,residential,West Shore Drive,162.747,,,,,,,,,,,20073757,
+212058715,212016044,0,False,residential,Hawley Road,53.166,,,,,,,,,,,20078544,
+212058715,212016044,1,False,residential,"['Sunset Street', 'Stonewood Drive']",406.744,,,,,,,,,,,"[20069864, 20073806]",
+212058715,212023508,0,False,residential,Hawley Road,142.85,,,,,,,,,,,20078544,
+212059851,211922920,0,False,tertiary,County Road 28A,919.346,,,,55 mph,,,,,,,20074706,CR 28A
+212060040,212027057,0,False,residential,Circle Lane,126.955,,,,,,,,,,,20073941,
+212061067,212041095,0,False,residential,Concourse,109.195,,,,,,,,,,,20074054,
+212061067,211958066,0,False,residential,Concourse,274.971,,,,,,,,,,,20074054,
+212061067,211958064,0,False,residential,Van Buren Avenue,218.888,,,,,,,,,,,20077879,
+212061140,212061142,0,False,residential,Concourse,90.715,,,,,,,,,,,20074065,
+212061140,211952485,0,False,residential,Tilden Avenue,129.876,,,,,,,,,,,20075095,
+212061140,211952483,0,False,residential,Concourse,172.141,,,,,,,,,,,20074065,
+212061142,212061140,0,False,residential,Concourse,90.715,,,,,,,,,,,20074065,
+212061142,212061155,0,False,residential,Concourse,94.854,,,,,,,,,,,20074065,
+212061142,211952494,0,False,residential,Columbia Avenue,137.451,,,,,,,,,,,20075872,
+212061155,211971997,0,False,residential,Concourse,126.758,,,,,,,,,,,20074065,
+212061155,212061142,0,False,residential,Concourse,94.854,,,,,,,,,,,20074065,
+212061155,211952497,0,False,residential,Van Buren Avenue,123.93,,,,,,,,,,,20077879,
+212061264,212025523,0,False,residential,Tower Lane,347.883,,,,,,,,,,,20074089,
+212067327,211884138,0,False,residential,Graham Lane,133.257,,,,,,,,,,,20074712,
+212067327,211975309,0,False,residential,Graham Lane,116.868,,,,,,,,,,,20074712,
+212067327,212067347,0,False,residential,Graham Lane,81.255,,,,,,,,,,,20074713,
+212067347,212067327,0,False,residential,Graham Lane,81.255,,,,,,,,,,,20074713,
+212067771,211999135,0,False,tertiary,County Road 28B,1291.007,,,,45 mph,,,,,,,20074775,CR 28B
+212067771,211937962,0,False,tertiary,County Road 32,1129.191,,,,45 mph,,,,,,,20078461,CR 32
+212067771,211848349,0,False,tertiary,County Road 32,192.799,,,,45 mph,,,,,,,20078461,CR 32
+212070967,212070981,0,False,residential,Ressler Road,58.546,,,,,,,,,,,20075143,
+212070967,212058043,0,False,residential,Ottoville Road,216.834,,,,30 mph,,,,,,,20078025,
+212070967,211849554,0,False,residential,Ottoville Road,219.804,,,,30 mph,,,,,,,20078025,
+212070981,212070967,0,False,residential,Ressler Road,58.546,,,,,,,,,,,20075143,
+212072409,212072424,0,False,residential,Cramer Drive,250.542,,,,,,,,,,,20075247,
+212072409,212072424,1,False,residential,Burnett Street,431.189,,,,,,,,,,,20075820,
+212072409,211946332,0,False,residential,Cramer Drive,91.861,,,,,,,,,,,20075247,
+212072424,212072409,0,False,residential,Cramer Drive,250.542,,,,,,,,,,,20075247,
+212072424,212072409,1,False,residential,Burnett Street,431.189,,,,,,,,,,,20075820,
+212072424,5292541492,0,False,residential,Burnett Street,168.812,,,,,,,,,,,20075816,
+212073042,212073046,0,False,residential,Cove Street,88.183,,,,,,,,,,,20075313,
+212073042,212081224,0,False,residential,Grove Street,82.739,,,,,,,,,,,20075888,
+212073042,211991436,0,False,residential,West Street,24.777,,,,,,,,,,,20077514,
+212073046,212003645,0,False,residential,Hawley Road,24.513,,,,,,,,,,,20078544,
+212073046,211991814,0,False,residential,Hawley Road,74.984,,,,,,,,,,,20078544,
+212073046,212073042,0,False,residential,Cove Street,88.183,,,,,,,,,,,20075313,
+212076755,212097050,0,False,primary,,40.717,4,,,55 mph,,,,,,,107498199,US 9
+212076755,212097024,0,False,primary,,618.064,"['2', '4']",,,55 mph,,,,,,,"[108455586, 107498199]",US 9
+212079304,212079304,0,False,residential,"['Berkshire Drive', 'Joyce Street', 'June Street', 'Ann Place']",542.081,,,,,,,,,,,"[20075720, 20073291, 20077787, 20077223]",
+212079304,212079304,1,False,residential,"['Berkshire Drive', 'Ann Place', 'June Street', 'Joyce Street']",542.081,,,,,,,,,,,"[20075720, 20073291, 20077787, 20077223]",
+212079304,211937156,0,False,residential,"['Berkshire Drive', 'Petrillo Lane']",167.132,,,,,,,,,,,"[20075720, 20068255]",
+212079903,211964156,0,False,residential,Peters Lane,190.808,,,,,,,,,,,20075769,
+212079909,212007140,0,False,residential,Peters Lane,165.01,,,,,,,,,,,20075773,
+212079954,212022191,0,False,residential,Peters Lane,116.988,,,,,,,,,,,20075773,
+212079954,211928442,0,False,residential,Peters Lane,174.428,,,,,,,,,,,20075773,
+212079954,212089748,0,False,residential,Smith Circle,204.098,,,,,,,,,,,20076482,
+212080067,212015933,0,False,residential,Whitney Circle,137.223,,,,,,,,,,,20075785,
+212080372,212080372,0,False,residential,Burnett Street,68.47,,,,,,,,,,,20075816,
+212080372,212080372,1,False,residential,Burnett Street,68.47,,,,,,,,,,,20075816,
+212080372,212017794,0,False,residential,Burnett Street,138.052,,,,,,,,,,,20075816,
+212081113,212081116,0,False,residential,Pineview Street,119.841,,,,,,,,,,,20075875,
+212081116,212081113,0,False,residential,Pineview Street,119.841,,,,,,,,,,,20075875,
+212081116,211952461,0,False,residential,Hawley Road,66.783,,,,,,,,,,,20078544,
+212081116,212016044,0,False,residential,Hawley Road,72.114,,,,,,,,,,,20078544,
+212081224,212081225,0,False,residential,Grove Street,50.506,,,,,,,,,,,20075888,
+212081224,212073042,0,False,residential,Grove Street,82.739,,,,,,,,,,,20075888,
+212081224,212105675,0,False,residential,"['West Street', 'Grove Street']",68.289,,,,,,,,,,,"[20075890, 20077516]",
+212081225,212081224,0,False,residential,Grove Street,50.506,,,,,,,,,,,20075888,
+212081336,211910920,0,False,unclassified,Old Post Road,28.233,,,,,,,,,,,20078469,
+212081336,212086106,0,False,unclassified,Old Post Road,350.626,,,,,,,,,,,20078469,
+212081336,211910922,0,False,unclassified,Bishop Nelson Road,42.54,,,,,,,,,,,168928525,
+212083422,212036364,0,False,residential,Norris Drive,304.375,,,,,,,,,,,20076021,
+212083519,211956208,0,False,residential,Lakeview Drive,156.28,,,,,,,,,,,20076026,
+212083519,2487485560,0,False,residential,Lakeview Drive,65.043,,,,,,,,,,,20076032,
+212086095,211870643,0,False,primary,,94.722,2,,,35 mph,,,,,,,20077017,US 9
+212086095,212086099,0,False,unclassified,Keegan Road,209.885,,,,,,,,,,,20076220,
+212086095,212096861,0,False,primary,,136.015,2,,,35 mph,,,,,,,20077017,US 9
+212086099,212086106,0,False,unclassified,Keegan Road,196.466,,,,,,,,,,,20076220,
+212086099,212086095,0,False,unclassified,Keegan Road,209.885,,,,,,,,,,,20076220,
+212086099,211854727,0,False,primary,,1675.815,4,,,55 mph,,,,,,,35342723,NY 9H
+212086099,212102744,0,False,primary,,163.051,4,,,40 mph,,,,,,,108455590,NY 9H
+212086106,212086099,0,False,unclassified,Keegan Road,196.466,,,,,,,,,,,20076220,
+212086106,212102744,0,False,unclassified,Old Post Road,238.642,,,,,,,,,,,20078469,
+212086106,212081336,0,False,unclassified,Old Post Road,350.626,,,,,,,,,,,20078469,
+212087326,212039725,0,False,residential,Kolb Lane,75.124,,,,,,,,,,,20076313,
+212089748,212089748,0,False,residential,Smith Circle,69.699,,,,,,,,,,,20076479,
+212089748,212089748,1,False,residential,Smith Circle,69.699,,,,,,,,,,,20076479,
+212089748,212079954,0,False,residential,Smith Circle,204.098,,,,,,,,,,,20076482,
+212094922,212094934,0,False,residential,Birch Road,258.169,,,,,,,,,,,20076842,
+212094922,212094922,0,False,residential,Birch Road,77.846,,,,,,,,,,,20076856,
+212094922,212094922,1,False,residential,Birch Road,77.846,,,,,,,,,,,20076856,
+212094934,211958197,0,False,primary,,57.493,2,,,55 mph,,,,,,,108455586,US 9
+212094934,212094922,0,False,residential,Birch Road,258.169,,,,,,,,,,,20076842,
+212094934,212096920,0,False,primary,,209.104,2,,,55 mph,,,,,,,108455586,US 9
+212095246,212015821,0,False,residential,Sunset Avenue,833.115,,,,,,,,,,,20076871,
+212096849,211852361,0,False,primary,,161.942,2,,,35 mph,,,,,,,20077017,US 9
+212096849,211994156,0,False,primary,,240.133,2,,,35 mph,,,,,,,20077017,US 9
+212096849,211921277,0,False,residential,Wilderness Lane,166.486,,,,25 mph,,,,,,,20077569,
+212096861,211870626,0,False,residential,,125.662,,,,,,,,,,,20062516,
+212096861,212096868,0,False,primary,,284.376,2,,,35 mph,,,,,,,20077017,US 9
+212096861,212086095,0,False,primary,,136.015,2,,,35 mph,,,,,,,20077017,US 9
+212096868,212096861,0,False,primary,,284.376,2,,,35 mph,,,,,,,20077017,US 9
+212096868,1362215163,0,True,primary,,32.487,2,,,35 mph,,,,,,,220661466,US 9
+212096920,211979523,0,False,residential,Cortland Drive,117.66,,,,,,,,,,,20078240,
+212096920,212096930,0,False,primary,,499.072,2,,,55 mph,,,,,,,108455586,US 9
+212096920,212094934,0,False,primary,,209.104,2,,,55 mph,,,,,,,108455586,US 9
+212096930,212116395,0,False,residential,Minshell Drive,375.151,,,,,,,,,,,20077932,
+212096930,212096936,0,False,primary,,88.826,2,,,55 mph,,,,,,,108455586,US 9
+212096930,212096920,0,False,primary,,499.072,2,,,55 mph,,,,,,,108455586,US 9
+212096936,211919686,0,False,residential,"['Mountain View Drive', 'Mount View Road']",412.2,,,,,,,,,,,"[20078042, 20070351]",
+212096936,211937156,0,False,primary,,86.477,2,,,55 mph,,,,,,,108455586,US 9
+212096936,212096930,0,False,primary,,88.826,2,,,55 mph,,,,,,,108455586,US 9
+212097024,212076755,0,False,primary,,618.064,"['2', '4']",,,55 mph,,,,,,,"[108455586, 107498199]",US 9
+212097024,211962439,0,False,primary,,1266.529,2,,,55 mph,,,,,,,108455586,US 9
+212097050,212076755,0,False,primary,,40.717,4,,,55 mph,,,,,,,107498199,US 9
+212097050,211930373,0,False,tertiary,County Road 32,717.393,,,,45 mph,,,,,,,20078461,CR 32
+212100991,211994160,0,False,residential,Sky View Lane,322.262,,,,,,,,,,,20077278,
+212100991,211985027,0,False,residential,Wilderness Lane,167.056,,,,25 mph,,,,,,,20077569,
+212100991,211921277,0,False,residential,Wilderness Lane,58.123,,,,25 mph,,,,,,,20077569,
+212102744,212086106,0,False,unclassified,Old Post Road,238.642,,,,,,,,,,,20078469,
+212102744,212102754,0,False,primary,,183.019,4,,,40 mph,,,,,,,108455590,NY 9H
+212102744,212086099,0,False,primary,,163.051,4,,,40 mph,,,,,,,108455590,NY 9H
+212102754,212102744,0,False,primary,,183.019,4,,,40 mph,,,,,,,108455590,NY 9H
+212102754,2297522236,0,True,primary,,33.345,4,,,40 mph,,,,,,,220661450,NY 9H
+212105675,212126086,0,False,residential,Hawley Road,34.997,,,,,,,,,,,20078544,
+212105675,212081224,0,False,residential,"['West Street', 'Grove Street']",68.289,,,,,,,,,,,"[20075890, 20077516]",
+212105675,212131242,0,False,residential,Hawley Road,78.389,,,,,,,,,,,20078544,
+212105675,212131242,1,False,residential,Hawley Road,222.918,,,,,,,,,,,20078546,
+212107173,211994203,0,False,residential,Wilderness Lane,114.435,,,,25 mph,,,,,,,20077569,
+212107194,211940230,0,False,residential,Hawthorne Drive,257.454,,,,,,,,,,,20077571,
+212107194,212107194,0,False,residential,Hawthorne Drive,700.538,,,,,,,,,,,20077576,
+212107194,212107194,1,False,residential,Hawthorne Drive,700.538,,,,,,,,,,,20077576,
+212108164,212007149,0,False,residential,Augusta Avenue,78.219,,,,,,,,,,,20077615,
+212111550,212111550,0,False,residential,"['Cortland Drive', 'Orchard Drive']",1103.496,,,,,,,,,,,"[20078240, 20077747]",
+212111550,212111550,1,False,residential,"['Cortland Drive', 'Orchard Drive']",1103.496,,,,,,,,,,,"[20078240, 20077747]",
+212111550,211979523,0,False,residential,Cortland Drive,149.821,,,,,,,,,,,20078240,
+212112642,212004816,0,False,residential,Overlook Drive,109.566,,,,,,,,,,,20077793,
+212116395,212096930,0,False,residential,Minshell Drive,375.151,,,,,,,,,,,20077932,
+212118420,211849554,0,False,residential,Ottoville Road,142.552,,,,30 mph,,,,,,,20078025,
+212120726,211964115,0,False,residential,Nursery Lane,209.774,,,,,,,,,,,20078113,
+212126086,212105675,0,False,residential,Hawley Road,34.997,,,,,,,,,,,20078544,
+212126086,212003647,0,False,residential,Masterson Lane,99.973,,,,,,,,,,,"[20078340, 20078341]",
+212126086,212003645,0,False,residential,Hawley Road,23.934,,,,,,,,,,,20078544,
+212126847,211998449,0,False,residential,Horse and Hoe Drive,61.711,,,,,,,,,,,20078362,
+212130522,212050425,0,False,residential,Elm Street,122.8,,,,,,,,,,,20078504,
+212130803,211946350,0,False,residential,Elm Street,223.007,,,,,,,,,,,20078520,
+212131221,212023539,0,False,residential,Niver Court,82.792,,,,,,,,,,,20078541,
+212131242,212131270,0,False,residential,Hawley Road,345.257,,,,,,,,,,,20078544,
+212131242,212105675,0,False,residential,Hawley Road,78.389,,,,,,,,,,,20078544,
+212131242,212105675,1,False,residential,Hawley Road,222.918,,,,,,,,,,,20078546,
+212131270,212131242,0,False,residential,Hawley Road,345.257,,,,,,,,,,,20078544,
+414273946,1362215163,0,True,primary,,12.705,1,,,,,,,,,roundabout,121772684,US 9
+414273946,212096868,0,True,primary,,30.326,2,,,35 mph,,,,,,,220661456,US 9
+414273952,414273955,0,True,primary,,30.878,1,,,,,,,,,roundabout,121772684,US 9
+414273955,2297522236,0,True,primary,,20.476,1,,,,,,,,,roundabout,121772684,US 9
+414273955,212102754,0,True,primary,,36.98,4,,,40 mph,,,,,,,220661451,NY 9H
+414273960,211939371,0,False,primary,,437.039,2,,,"['40 mph', '55 mph']",,,,,,,"[108455586, 220661458]",US 9
+414273960,414273952,0,True,primary,,51.73,2,,,40 mph,,,,,,,220661462,US 9
+1362215163,211941261,0,True,primary,,6.118,1,,,,,,,,,roundabout,121772684,US 9
+1362215166,414273960,0,True,primary,,51.221,2,,,40 mph,,,,,,,35343735,US 9
+1362215166,414273952,0,True,primary,,25.911,1,,,,,,,,,roundabout,121772684,US 9
+1801144825,211896907,0,False,residential,,689.324,,,,,,,,,,,370840148,
+1801144827,211896907,0,False,residential,,293.26,,,,,,,,,,,370840146,
+1852928526,211854816,0,False,primary_link,,156.819,,,,,,,,,,,20059471,
+1852928526,211854810,0,False,primary_link,,44.501,,,,,,,,,,,20059471,
+1852928526,2796621336,0,False,unclassified,,197.878,,,,,,,,,,,274996658,
+2236744559,211956750,0,False,residential,Rapp Road South,441.152,,,,,,,,,,,20066336,
+2236744559,211958213,0,False,residential,Rapp Road South,179.387,,,,,,,,,,,20066336,
+2236744559,2236744691,0,False,residential,,557.759,,,,,,,,,,,214049195,
+2236744691,211956750,0,False,tertiary,Main Street,192.011,,,,45 mph,,,,,,,56925175,CR 28
+2236744691,211941356,0,False,tertiary,Main Street,800.896,,,,"['35 mph', '45 mph']",,,,,,,"[241060537, 56925175]",CR 28
+2236744691,2236744559,0,False,residential,,557.759,,,,,,,,,,,214049195,
+2297522236,414273946,0,True,primary,,2.055,1,,,,,,,,,roundabout,121772684,US 9
+2297522245,211854016,0,False,unclassified,State Farm Road,185.545,,,,30 mph,,,,,,,220661452,
+2297522245,1362215166,0,True,unclassified,State Farm Road,32.041,,,,30 mph,,,,,,,220661454,
+2412281018,2412281025,0,False,residential,Bean Lane,158.086,,,,30 mph,,,,,,,232908108,
+2412281025,211855948,0,False,residential,Garrigan Road,146.246,,,,45 mph,,,,,,,20067495,
+2412281025,211975318,0,False,residential,Garrigan Road,320.577,,,,45 mph,,,,,,,20067495,
+2412281025,2412281018,0,False,residential,Bean Lane,158.086,,,,30 mph,,,,,,,232908108,
+2487485485,211870619,0,False,residential,,20.181,,,,,,,,,,,20060710,
+2487485485,211853996,0,False,residential,,203.233,,,,,,,,,,,20060710,
+2487485485,211870626,0,False,residential,,152.4,,,,,,,,,,,20062516,
+2487485560,212083519,0,False,residential,Lakeview Drive,65.043,,,,,,,,,,,20076032,
+2768901250,211965990,0,False,residential,Blossom Lane,645.127,,,,,,,,,,,20066874,
+2768901250,211965997,0,False,residential,Blossom Lane,227.313,,,,,,,,,,,20066874,
+2768901250,2768901264,0,False,residential,Robinwood Lane,372.249,,,,,,,,,,,271956820,
+2768901264,2768901250,0,False,residential,Robinwood Lane,372.249,,,,,,,,,,,271956820,
+2796621336,1852928526,0,False,unclassified,,197.878,,,,,,,,,,,274996658,
+3430668505,211941328,0,False,unclassified,State Farm Road,156.641,,,,45 mph,,,,,,,220661453,
+3430668505,211941356,0,False,unclassified,State Farm Road,1334.907,,,,45 mph,,,,,,,220661453,
+3430668505,3430668511,0,False,residential,,659.291,,,,,,,,,,,335979081,
+3430668511,3430668505,0,False,residential,,659.291,,,,,,,,,,,335979081,
+5178432543,211896907,0,False,residential,,266.984,,,,,,,,,,,20062650,
+5178432543,211896860,0,False,residential,,233.011,,,,,,,,,,,20062650,
+5178432543,5178432554,0,False,residential,,300.559,,,,,,,,,,,533828043,
+5178432554,211966252,0,False,tertiary,County Road 21,379.499,,,,55 mph,,,,,,,20066910,CR 21
+5178432554,211966226,0,False,tertiary,County Road 21,91.133,,,,55 mph,,,,,,,20066910,CR 21
+5178432554,5178432543,0,False,residential,,300.559,,,,,,,,,,,533828043,
+5292541492,211946329,0,False,residential,Genesee Drive,310.155,,,,,,,,,,,20066824,
+5292541492,212072424,0,False,residential,Burnett Street,168.812,,,,,,,,,,,20075816,
+5292541492,212017794,0,False,residential,Burnett Street,166.281,,,,,,,,,,,20075816,

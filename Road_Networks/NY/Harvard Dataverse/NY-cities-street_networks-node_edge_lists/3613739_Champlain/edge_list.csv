@@ -1,0 +1,145 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+211836977,211873471,0,False,residential,Cherry Street,119.815,,,,,,,,,,,"[20057803, 20066157]",
+211836977,211873471,1,False,residential,Walnut Street,59.802,,,,,,,,,,,20060924,
+211836977,211873438,0,False,residential,Walnut Street,221.513,,,,,,,,,,,20060924,
+211838602,211870966,0,False,primary,Main Street,222.6,2,,,,,,,,,,94410420,US 9
+211851179,211879503,0,False,primary,Main Street,16.664,2,,,,,,,,,,94410420,US 9
+211851179,211926662,0,False,residential,Cane Street,222.071,,,,,,,,,,,"[20066852, 20059086]",
+211851179,211926662,1,False,primary,Main Street,75.937,2,,,,,,,,,,94410420,US 9
+211858601,211858605,0,False,residential,South Street,220.362,,,,,,,,,,,20059862,
+211858601,211981944,0,False,residential,"['Pine Street', 'Spruce Street']",336.884,,,,,,,,,,,"[20063348, 20067886]",
+211858605,211858607,0,False,residential,South Street,121.901,,,,,,,,,,,20059862,
+211858605,211858601,0,False,residential,South Street,220.362,,,,,,,,,,,20059862,
+211858605,211926601,0,False,primary,Main Street,185.733,2,,,,,,,,,,20064919,US 9
+211858605,211906051,0,False,primary,Main Street,162.063,2,,,,,,,,,,"[39629552, 20064919]",US 9
+211858607,211858609,0,False,residential,South Street,267.398,,,,,,,,,,,20059862,
+211858607,211858605,0,False,residential,South Street,121.901,,,,,,,,,,,20059862,
+211858607,211906051,0,False,residential,Northern Tier Way,278.424,,,,,,,,,,,20063314,
+211858609,211858607,0,False,residential,South Street,267.398,,,,,,,,,,,20059862,
+211858609,212008267,0,False,residential,Ashline Drive,297.401,,,,,,,,,,,20069172,
+211864393,211864396,0,False,residential,Water Street,23.919,,,,,,,,,,,20060286,
+211864393,211907622,0,False,residential,"['Water Street', 'Church Street']",209.374,,,,,,,,,,,"[20063418, 20060291]",
+211864393,211926638,0,False,residential,Maiden Lane,61.833,,,,,,,,,,,20067562,
+211864396,211864393,0,False,residential,Water Street,23.919,,,,,,,,,,,20060286,
+211870939,211870966,0,False,residential,Locust Street,354.493,,,,,,,,,,,139807628,
+211870966,211926693,0,False,primary,Main Street,79.055,2,,,,,,,,,,94410420,US 9
+211870966,211838602,0,False,primary,Main Street,222.6,2,,,,,,,,,,94410420,US 9
+211870966,211870939,0,False,residential,Locust Street,354.493,,,,,,,,,,,139807628,
+211873438,211874022,0,False,residential,Elm Street,211.006,,,,,,,,,,,94410428,
+211873438,211836977,0,False,residential,Walnut Street,221.513,,,,,,,,,,,20060924,
+211873438,211977121,0,False,residential,Elm Street,565.922,,,,,,,,,,,94410428,
+211873471,211873494,0,False,residential,Walnut Street,250.596,,,,,,,,,,,20060924,
+211873471,211836977,0,False,residential,Walnut Street,59.802,,,,,,,,,,,20060924,
+211873471,211836977,1,False,residential,Cherry Street,119.815,,,,,,,,,,,"[20057803, 20066157]",
+211873471,211952998,0,False,residential,Cherry Street,113.069,,,,,,,,,,,20066157,
+211873494,211873509,0,False,residential,Walnut Street,164.565,,,,,,,,,,,20060924,
+211873494,211873471,0,False,residential,Walnut Street,250.596,,,,,,,,,,,20060924,
+211873494,211962366,0,False,residential,Coton Lane,199.877,,,,,,,,,,,20066610,
+211873509,211979898,0,False,residential,Elm Street,105.48,,,,,,,,,,,94410428,
+211873509,211873494,0,False,residential,Walnut Street,164.565,,,,,,,,,,,20060924,
+211874022,211979898,0,False,residential,Elm Street,79.191,,,,,,,,,,,94410428,
+211874022,211873438,0,False,residential,Elm Street,211.006,,,,,,,,,,,94410428,
+211874022,211874034,0,False,residential,Finley Drive,133.193,,,,,,,,,,,20060972,
+211874034,211874041,0,False,residential,Finley Drive,37.958,,,,,,,,,,,20060972,
+211874034,211874022,0,False,residential,Finley Drive,133.193,,,,,,,,,,,20060972,
+211874034,211876814,0,False,residential,Filion Lane,94.192,,,,,,,,,,,20061188,
+211874041,211874034,0,False,residential,Finley Drive,37.958,,,,,,,,,,,20060972,
+211875340,211875375,0,False,residential,Canal Street,389.964,,,,,,,,,,,20061082,
+211875375,211875340,0,False,residential,Canal Street,389.964,,,,,,,,,,,20061082,
+211875375,211998643,0,False,residential,Moore Street,294.179,,,,,,,,,,,20068658,
+211875375,211926687,0,False,residential,Moore Street,119.479,,,,,,,,,,,20068658,
+211876814,211874034,0,False,residential,Filion Lane,94.192,,,,,,,,,,,20061188,
+211879503,211851179,0,False,primary,Main Street,16.664,2,,,,,,,,,,94410420,US 9
+211879503,211879509,0,False,residential,Mill Street,46.098,,,,,,,,,,,20061401,
+211879503,211907622,0,False,primary,Main Street,94.928,2,,,,,,yes,,,,"[20064919, 94410420, 94410303]",US 9
+211879509,211879503,0,False,residential,Mill Street,46.098,,,,,,,,,,,20061401,
+211884290,211896197,0,False,residential,Elm Street,105.964,,,,,,,yes,,,,"[94410428, 94410294, 20061735]",
+211884290,211926638,0,False,primary,Main Street,61.321,2,,,,,,,,,,20064919,US 9
+211884290,211926617,0,False,primary,Main Street,65.396,2,,,,,,,,,,20064919,US 9
+211896197,211896216,0,False,residential,Oak Street,150.584,,,,,,,,,,,20062598,
+211896197,211978227,0,False,residential,River Street,435.168,,,,,,,,,,,20067666,
+211896197,211977121,0,False,residential,Elm Street,102.005,,,,,,,,,,,94410428,
+211896197,211884290,0,False,residential,Elm Street,105.964,,,,,,,yes,,,,"[94410428, 94410294, 20061735]",
+211896216,211906904,0,False,residential,Chestnut Street,159.882,,,,,,,,,,,20063374,
+211896216,211896226,0,False,residential,Oak Street,286.482,,,,,,,,,,,20062598,
+211896216,211896197,0,False,residential,Oak Street,150.584,,,,,,,,,,,20062598,
+211896226,211896216,0,False,residential,Oak Street,286.482,,,,,,,,,,,20062598,
+211896226,211906904,0,False,residential,"['Butternut Street', 'Maple Street']",438.095,,,,,,,,,,,"[20062648, 20068092]",
+211906051,211858607,0,False,residential,Northern Tier Way,278.424,,,,,,,,,,,20063314,
+211906051,211858605,0,False,primary,Main Street,162.063,2,,,,,,,,,,"[39629552, 20064919]",US 9
+211906051,211915666,0,False,primary,,143.07,2,,,,,,,,,,39629552,US 9
+211906904,211896216,0,False,residential,Chestnut Street,159.882,,,,,,,,,,,20063374,
+211906904,211977126,0,False,residential,Butternut Street,89.179,,,,,,,,,,,20068092,
+211906904,211896226,0,False,residential,"['Butternut Street', 'Maple Street']",438.095,,,,,,,,,,,"[20062648, 20068092]",
+211907612,211907615,0,False,residential,Church Street,20.407,,,,,,,,,,,20063418,
+211907612,2663254241,0,False,residential,Meadow Lane,316.507,,,,,,,,,,,20066507,
+211907615,211907612,0,False,residential,Church Street,20.407,,,,,,,,,,,20063418,
+211907615,211981944,0,False,residential,Pine Street,148.776,,,,,,,,,,,260765479,
+211907615,211907619,0,False,residential,Church Street,198.403,,,,,,,,,,,20063418,
+211907619,211907622,0,False,residential,Church Street,98.737,,,,,,,,,,,20063418,
+211907619,211983521,0,False,residential,Cedar Street,45.806,,,,,,,,,,,20067960,
+211907619,211907615,0,False,residential,Church Street,198.403,,,,,,,,,,,20063418,
+211907619,211926617,0,False,residential,Cedar Street,248.921,,,,,,,,,,,20067960,
+211907622,211907619,0,False,residential,Church Street,98.737,,,,,,,,,,,20063418,
+211907622,211864393,0,False,residential,"['Water Street', 'Church Street']",209.374,,,,,,,,,,,"[20063418, 20060291]",
+211907622,211879503,0,False,primary,Main Street,94.928,2,,,,,,yes,,,,"[94410420, 94410303, 20064919]",US 9
+211907622,211926638,0,False,primary,Main Street,94.356,2,,,,,,,,,,20064919,US 9
+211915666,211906051,0,False,primary,,143.07,2,,,,,,,,,,39629552,US 9
+211926601,211926603,0,False,primary,Main Street,64.378,2,,,,,,,,,,20064919,US 9
+211926601,211858605,0,False,primary,Main Street,185.733,2,,,,,,,,,,20064919,US 9
+211926601,212008267,0,False,residential,Ashline Drive,143.274,,,,,,,,,,,20069172,
+211926603,211926601,0,False,primary,Main Street,64.378,2,,,,,,,,,,20064919,US 9
+211926603,211981944,0,False,residential,Pine Street,175.432,,,,,,,,,,,20067883,
+211926603,211926617,0,False,primary,Main Street,329.557,2,,,,,,,,,,20064919,US 9
+211926617,211884290,0,False,primary,Main Street,65.396,2,,,,,,,,,,20064919,US 9
+211926617,211926603,0,False,primary,Main Street,329.557,2,,,,,,,,,,20064919,US 9
+211926617,211907619,0,False,residential,Cedar Street,248.921,,,,,,,,,,,20067960,
+211926638,211907622,0,False,primary,Main Street,94.356,2,,,,,,,,,,20064919,US 9
+211926638,211884290,0,False,primary,Main Street,61.321,2,,,,,,,,,,20064919,US 9
+211926638,211864393,0,False,residential,Maiden Lane,61.833,,,,,,,,,,,20067562,
+211926662,211851179,0,False,residential,Cane Street,222.071,,,,,,,,,,,"[20066852, 20059086]",
+211926662,211851179,1,False,primary,Main Street,75.937,2,,,,,,,,,,94410420,US 9
+211926662,211926684,0,False,primary,Main Street,176.663,2,,,,,,,,,,94410420,US 9
+211926684,211926687,0,False,primary,Main Street,28.016,2,,,,,,,,,,94410420,US 9
+211926684,211926693,0,False,residential,Willow Street,448.284,,,,,,,,,,,20066911,
+211926684,211926662,0,False,primary,Main Street,176.663,2,,,,,,,,,,94410420,US 9
+211926687,211926684,0,False,primary,Main Street,28.016,2,,,,,,,,,,94410420,US 9
+211926687,211875375,0,False,residential,Moore Street,119.479,,,,,,,,,,,20068658,
+211926687,211926693,0,False,primary,Main Street,152.896,2,,,,,,,,,,94410420,US 9
+211926693,211870966,0,False,primary,Main Street,79.055,2,,,,,,,,,,94410420,US 9
+211926693,211926684,0,False,residential,Willow Street,448.284,,,,,,,,,,,20066911,
+211926693,211926687,0,False,primary,Main Street,152.896,2,,,,,,,,,,94410420,US 9
+211952998,211873471,0,False,residential,Cherry Street,113.069,,,,,,,,,,,20066157,
+211961416,2663254546,0,False,residential,Prospect Street,511.188,,,,,,,,,,,20067601,
+211961416,2663254315,0,False,residential,Prospect Street,1351.333,,,,,,,,,,,20067601,
+211962366,211873494,0,False,residential,Coton Lane,199.877,,,,,,,,,,,20066610,
+211977121,211977126,0,False,residential,Prospect Street,133.29,,,,,,,,,,,20067601,
+211977121,211873438,0,False,residential,Elm Street,565.922,,,,,,,,,,,94410428,
+211977121,211896197,0,False,residential,Elm Street,102.005,,,,,,,,,,,94410428,
+211977126,211906904,0,False,residential,Butternut Street,89.179,,,,,,,,,,,20068092,
+211977126,2663254315,0,False,residential,Prospect Street,251.105,,,,,,,,,,,20067601,
+211977126,211977121,0,False,residential,Prospect Street,133.29,,,,,,,,,,,20067601,
+211978227,211896197,0,False,residential,River Street,435.168,,,,,,,,,,,20067666,
+211979898,211873509,0,False,residential,Elm Street,105.48,,,,,,,,,,,94410428,
+211979898,211874022,0,False,residential,Elm Street,79.191,,,,,,,,,,,94410428,
+211981944,211926603,0,False,residential,Pine Street,175.432,,,,,,,,,,,20067883,
+211981944,211907615,0,False,residential,Pine Street,148.776,,,,,,,,,,,260765479,
+211981944,211858601,0,False,residential,"['Pine Street', 'Spruce Street']",336.884,,,,,,,,,,,"[20063348, 20067886]",
+211983521,211907619,0,False,residential,Cedar Street,45.806,,,,,,,,,,,20067960,
+211998643,211875375,0,False,residential,Moore Street,294.179,,,,,,,,,,,20068658,
+212008267,212018989,0,False,residential,Patricia Lane,64.789,,,,,,,,,,,20070146,
+212008267,211858609,0,False,residential,Ashline Drive,297.401,,,,,,,,,,,20069172,
+212008267,211926601,0,False,residential,Ashline Drive,143.274,,,,,,,,,,,20069172,
+212008267,212018975,0,False,residential,Patricia Lane,100.01,,,,,,,,,,,20070146,
+212018975,212008267,0,False,residential,Patricia Lane,100.01,,,,,,,,,,,20070146,
+212018989,212008267,0,False,residential,Patricia Lane,64.789,,,,,,,,,,,20070146,
+2663254241,211907612,0,False,residential,Meadow Lane,316.507,,,,,,,,,,,20066507,
+2663254286,2663254287,0,False,unclassified,,35.429,,,,,,,,,,,260765528,
+2663254287,2663254286,0,False,unclassified,,35.429,,,,,,,,,,,260765528,
+2663254287,2663254315,0,False,unclassified,,175.82,,,,,,,,,,,260765528,
+2663254287,2663254341,0,False,unclassified,,242.137,,,,,,,,,,,260765530,
+2663254315,211961416,0,False,residential,Prospect Street,1351.333,,,,,,,,,,,20067601,
+2663254315,211977126,0,False,residential,Prospect Street,251.105,,,,,,,,,,,20067601,
+2663254315,2663254287,0,False,unclassified,,175.82,,,,,,,,,,,260765528,
+2663254341,2663254287,0,False,unclassified,,242.137,,,,,,,,,,,260765530,
+2663254546,211961416,0,False,residential,Prospect Street,511.188,,,,,,,,,,,20067601,

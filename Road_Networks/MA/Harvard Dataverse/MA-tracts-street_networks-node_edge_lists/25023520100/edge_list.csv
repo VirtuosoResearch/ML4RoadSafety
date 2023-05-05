@@ -1,0 +1,506 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+61319422,61326550,0,False,secondary,Groveland Street,175.804,2,12.2,,,,,,,,,8614931,
+61319422,61326362,0,False,secondary,Groveland Street,249.928,2,12.2,,,,,,,,,8614931,
+61319532,61329839,0,False,secondary,Brockton Avenue,100.173,2,15.2,,30 mph,,,,,,,8614649,MA 123
+61319532,61323171,0,False,secondary,Brockton Avenue,104.177,"['4', '2']",15.2,,30 mph,,,,,,,"[8614649, 8615499]",MA 123
+61319532,61322863,0,False,residential,Belmont Street,186.645,2,12.2,,,,,,,,,8615614,
+61319535,61320487,0,False,tertiary,Washington Street,30.614,2,15.2,,,,,,,,,8614634,
+61319535,61320405,0,False,tertiary,Washington Street,550.899,2,15.2,,,,,,,,,8614634,
+61319535,61324026,0,False,residential,Lincoln Boulevard,173.975,2,24.4,,,,,,,,,255619885,
+61319644,61330032,0,False,residential,Charles Street,432.13,2,11.6,,,,,,,,,8614683,
+61319644,61332652,0,False,residential,Birch Street,242.291,2,11.6,,,,,,,,,8615569,
+61319664,61325343,0,False,secondary,Center Avenue,104.758,2,19.8,,35 mph,,,,,,,8615392,MA 123
+61319664,61330795,0,False,secondary,Center Avenue,87.37,2,19.8,,35 mph,,,,,,,8615392,MA 123
+61319664,61328169,0,False,residential,Dunbar Street,77.004,2,11.0,,,,,,,,,8614920,
+61319675,61323212,0,False,residential,Clapp Street,267.235,2,11.0,,,,,,,,,8614561,
+61319675,61325224,0,False,tertiary,Green Street,391.772,2,"['11.0', '12.2']",,,,,,,,,"[8615336, 8615203]",
+61319675,61331845,0,False,tertiary,Green Street,75.554,2,12.2,,,,,,,,,8615203,
+61319702,61323426,0,False,residential,Jean Carol Road,129.161,2,15.2,,,,,,,,,8614930,
+61319702,2334916144,0,False,residential,Jean Carol Road,951.489,2,15.2,,,,,,,,,"[8614930, 224697357]",
+61319702,61321416,0,False,residential,Peregrine Road,563.288,2,15.2,,,,,,,,,8615050,
+61319804,61325343,0,False,tertiary,Walnut Street,79.2,2,12.2,,,,,,,,,8614659,
+61319804,61320368,0,False,tertiary,Walnut Street,81.629,2,12.2,,,,,,,,,8614659,
+61319804,61328169,0,False,residential,Cherry Street,106.56,2,12.2,,,,,,,,,8614729,
+61319823,61334213,0,False,secondary,Groveland Street,30.957,2,12.2,,,,,,,,,8614931,
+61319823,61326550,0,False,secondary,Groveland Street,930.26,2,12.2,,,,,,,,,8614931,
+61319830,61329705,0,False,residential,King Avenue,162.072,2,9.8,,,,,,,,,8614678,
+61319836,61331692,0,False,residential,Chapel Street,179.721,2,11.0,,,,,,,,,8614542,
+61319836,61323773,0,False,residential,"['Wilson Street', 'Lake Street']",281.195,2,"['12.2', '11.3']",,,,,,,,,"[8615152, 8615176]",
+61319836,61327353,0,False,residential,Lake Street,172.702,2,11.3,,,,,,,,,8615152,
+61319903,61320487,0,False,residential,Ralph G Hamlin Jr Lane,364.865,2,12.2,,,,,,,,,8614977,
+61319959,61333158,0,False,residential,Highfields Road,429.33,2,11.9,,,,,,,,,8614673,
+61319959,61333158,1,False,residential,Ashland Street,83.375,2,10.7,,,,,,,,,8614975,
+61319959,61319981,0,False,residential,Ashland Street,404.696,2,10.7,,,,,,,,,8614975,
+61319981,61334001,0,False,residential,High Street,68.592,,9.1,,,,,,,,,8614726,
+61319981,61319959,0,False,residential,Ashland Street,404.696,2,10.7,,,,,,,,,8614975,
+61319981,61320328,0,False,residential,Ashland Street,54.871,2,10.7,,,,,,,,,8614975,
+61319986,61324976,0,False,residential,Bradford Street,102.373,2,10.1,,,,,,,,,8614658,
+61319986,61331928,0,False,secondary,Center Avenue,323.172,2,19.8,,35 mph,,,,,,,8615392,MA 123
+61319993,61320368,0,False,tertiary,Walnut Street,122.537,2,12.2,,,,,,,,,8614659,
+61319993,61331792,0,False,tertiary,Walnut Street,129.109,2,12.2,,,,,,,,,8614659,
+61319993,61322560,0,False,residential,Thaxter Avenue,108.739,2,12.2,,,,,,,,,8614685,
+61320056,61320056,0,False,residential,Kimber Circle,138.51,,,,,,,,,,,8615051,
+61320056,61320056,1,False,residential,Kimber Circle,138.51,,,,,,,,,,,8615051,
+61320056,61325397,0,False,residential,Kimber Circle,151.846,,,,,,,,,,,8615051,
+61320154,61330646,0,False,residential,Reed Street,73.487,2,11.3,,,,,,,,,8615180,
+61320163,61331845,0,False,tertiary,Green Street,74.905,2,12.2,,,,,,,,,8615203,
+61320163,61323863,0,False,tertiary,Green Street,76.289,2,12.2,,,,,,,,,8615203,
+61320163,61324713,0,False,residential,Rice Street,265.694,2,9.8,,,,,,,,,8615442,
+61320270,61323027,0,False,residential,Norton Avenue,124.65,2,12.2,,,,,,,,,8614646,
+61320320,61323627,0,False,residential,Springwood Drive,175.797,2,,,30 mph,,,,,,,8615141,
+61320328,61319981,0,False,residential,Ashland Street,54.871,2,10.7,,,,,,,,,8614975,
+61320328,61325048,0,False,residential,Ashland Street,246.748,2,10.7,,,,,,,,,8614975,
+61320328,61327319,0,False,residential,High Street,178.855,2,9.1,,,,,,,,,8614978,
+61320328,61334001,0,False,residential,High Street,41.82,2,9.1,,,,,,,,,8614978,
+61320368,61319804,0,False,tertiary,Walnut Street,81.629,2,12.2,,,,,,,,,8614659,
+61320368,61320782,0,False,residential,Bank Street,106.835,2,10.7,,,,,,,,,8614639,
+61320368,61319993,0,False,tertiary,Walnut Street,122.537,2,12.2,,,,,,,,,8614659,
+61320405,61323950,0,False,residential,Washington Terrace,166.052,1,8.5,,,,,,,,,8614712,
+61320405,61319535,0,False,tertiary,Washington Street,550.899,2,15.2,,,,,,,,,8614634,
+61320405,61321885,0,False,tertiary,Washington Street,33.355,2,15.2,,,,,,,,,8614634,
+61320443,61323543,0,False,residential,Wilbur Street,219.234,2,10.7,,,,,,,,,8614663,
+61320474,61323844,0,False,residential,Orange Street,124.639,2,12.2,,,,,,,,,8614533,
+61320474,61332847,0,False,secondary,Bedford Street,103.191,2,18.3,,,,,,,,,8614647,MA 18
+61320487,61319535,0,False,tertiary,Washington Street,30.614,2,15.2,,,,,,,,,8614634,
+61320487,61321948,0,False,tertiary,Washington Street,273.474,2,15.2,,,,,,,,,8614634,
+61320487,61319903,0,False,residential,Ralph G Hamlin Jr Lane,364.865,2,12.2,,,,,,,,,8614977,
+61320505,61325882,0,False,tertiary,Walnut Street,308.988,2,12.2,,,,,,,,,8614659,
+61320505,61323627,0,False,tertiary,Walnut Street,70.216,2,12.2,,,,,,,,,8614659,
+61320577,61321067,0,False,residential,Hersey Lane,372.97,2,12.2,,,,,,,,,8614714,
+61320577,61321067,1,False,residential,"['Jean Carol Road', 'Captain Standish Road']",570.473,2,15.2,,,,,,,,,"[8614962, 8614930]",
+61320577,61330706,0,False,residential,Hersey Lane,79.87,2,12.2,,,,,,,,,8614714,
+61320633,61333645,0,False,residential,Bellows Circle,129.592,2,9.1,,,,,,,,,8614950,
+61320649,61320844,0,False,residential,Pearl Street,263.991,2,11.6,,,,,,,,,8614952,
+61320649,61321326,0,False,residential,Adams Street,32.824,2,13.7,,,,,,,,,8615033,
+61320649,61321449,0,False,residential,Adams Street,64.116,2,13.7,,,,,,,,,8615033,
+61320670,61325417,0,False,tertiary,Mill Street,338.885,2,9.1,,,,,,,,,8614972,
+61320670,61320780,0,False,tertiary,Green Street,78.434,2,12.2,,,,,,,,,8615203,
+61320670,61328350,0,False,secondary,Brockton Avenue,631.777,2,15.2,,45 mph,,,,,,,8615575,MA 123
+61320670,61326694,0,False,secondary,Brockton Avenue,19.116,2,15.2,,45 mph,,,,,,,8615575,MA 123
+61320774,61333114,0,False,residential,Monroe Street,36.61,2,10.7,,,,,,,,,8615376,
+61320774,61330032,0,False,residential,Pattison Street,290.838,2,11.0,,,,,,,,,8615220,
+61320774,61332652,0,False,residential,Monroe Street,432.016,2,10.7,,,,,,,,,8615376,
+61320780,61328130,0,False,tertiary,Green Street,76.588,2,12.2,,,,,,,,,8615203,
+61320780,61320670,0,False,tertiary,Green Street,78.434,2,12.2,,,,,,,,,8615203,
+61320780,61333875,0,False,residential,Allen Street,267.175,2,9.1,,,,,,,,,8615231,
+61320782,61320368,0,False,residential,Bank Street,106.835,2,10.7,,,,,,,,,8614639,
+61320782,61321011,0,False,residential,Bank Street,142.675,2,10.7,,,,,,,,,8614639,
+61320782,61328169,0,False,residential,Dunbar Street,81.701,2,11.0,,,,,,,,,8614920,
+61320782,61322560,0,False,residential,Dunbar Street,117.608,2,11.0,,,,,,,,,8614920,
+61320844,61329302,0,False,secondary,Plymouth Street,102.657,2,10.7,,,,,,,,,8614556,MA 58
+61320844,61323027,0,False,secondary,Plymouth Street,145.298,2,10.7,,,,,,,,,8614556,MA 58
+61320844,61320649,0,False,residential,Pearl Street,263.991,2,11.6,,,,,,,,,8614952,
+61320924,61333645,0,False,residential,Bellows Circle,104.532,,,,,,,,,,,8615394,
+61321011,61330795,0,False,secondary,Washington Street,139.769,2,18.3,,,,,,,,,8614554,MA 123
+61321011,61329839,0,False,secondary,Washington Street,130.298,2,18.3,,,,,,,,,8614554,MA 123
+61321011,61320782,0,False,residential,Bank Street,142.675,2,10.7,,,,,,,,,8614639,
+61321011,61322863,0,False,residential,Bank Street,194.007,2,10.7,,,,,,,,,8614639,
+61321067,61320577,0,False,residential,Hersey Lane,372.97,2,12.2,,,,,,,,,8614714,
+61321067,61320577,1,False,residential,"['Jean Carol Road', 'Captain Standish Road']",570.473,2,15.2,,,,,,,,,"[8614930, 8614962]",
+61321067,61323426,0,False,residential,Jean Carol Road,129.744,2,15.2,,,,,,,,,8614930,
+61321160,61330646,0,False,residential,Park Avenue,159.632,2,12.2,,,,,,,,,8615201,
+61321160,61331928,0,False,secondary,Center Avenue,278.655,2,19.8,,35 mph,,,,,,,8615392,MA 123
+61321160,61328381,0,False,secondary,Center Avenue,199.727,2,19.8,,35 mph,,,,,,,8615392,MA 123
+61321176,61325882,0,False,residential,Myers Avenue,265.679,2,12.2,,,,,,,,,8615316,
+61321326,61320649,0,False,residential,Adams Street,32.824,2,13.7,,,,,,,,,8615033,
+61321326,61329302,0,False,residential,Birch Street,206.297,2,11.6,,,,,,,,,8615569,
+61321361,61333875,0,False,residential,Allen Street,30.928,2,9.1,,,,,,,,,8615231,
+61321416,61323426,0,False,residential,Priscilla Alden Road,417.764,2,15.2,,,,,,,,,8615043,
+61321416,61330706,0,False,residential,Peregrine Road,154.676,2,15.2,,,,,,,,,8615050,
+61321416,61319702,0,False,residential,Peregrine Road,563.288,2,15.2,,,,,,,,,8615050,
+61321449,61320649,0,False,residential,Adams Street,64.116,2,13.7,,,,,,,,,8615033,
+61321449,61321640,0,False,residential,Adams Street,234.5,2,13.7,,,,,,,,,8615033,
+61321475,61323212,0,False,residential,Clapp Street,59.977,2,11.0,,,,,,,,,8614561,
+61321621,61321621,0,False,residential,Carriage Hill Drive,305.12,,,,,,,,,,,9563177,
+61321621,61321621,1,False,residential,Carriage Hill Drive,305.12,,,,,,,,,,,9563177,
+61321621,61323395,0,False,residential,Carriage Hill Drive,188.127,,,,,,,,,,,9563177,
+61321625,61328922,0,False,tertiary,Washington Street,44.219,2,15.2,,,,,,,,,8614634,
+61321625,61321948,0,False,tertiary,Washington Street,131.444,2,15.2,,,,,,,,,8614634,
+61321625,61326842,0,False,residential,"['Legion Drive', 'Lantern Lane']",308.297,2,12.2,,,,,,,,,"[8615018, 8614922]",
+61321640,61326714,0,False,residential,Adams Street,23.979,,13.7,,,,,,,,,8614637,
+61321640,61321449,0,False,residential,Adams Street,234.5,2,13.7,,,,,,,,,8615033,
+61321640,61328922,0,False,residential,Adams Street,65.272,2,13.7,,,,,,,,,8615033,
+61321885,61320405,0,False,tertiary,Washington Street,33.355,2,15.2,,,,,,,,,8614634,
+61321885,61333318,0,False,tertiary,Washington Street,203.8,2,15.2,,,,,,,,,8614634,
+61321885,61324315,0,False,tertiary,Central Street,432.832,2,10.7,,,,,,,,,8615303,
+61321948,61321625,0,False,tertiary,Washington Street,131.444,2,15.2,,,,,,,,,8614634,
+61321948,61320487,0,False,tertiary,Washington Street,273.474,2,15.2,,,,,,,,,8614634,
+61321948,61326842,0,False,residential,Brookfield Road,213.71,2,12.2,,,,,,,,,8614948,
+61322005,61332602,0,False,residential,Colonel Hunt Drive,106.194,2,12.2,,,,,,,,,8614548,
+61322005,61333318,0,False,residential,Colonel Hunt Drive,367.258,2,12.2,,,,,,,,,8614548,
+61322005,61329530,0,False,residential,Andrew Ford Way,204.333,2,12.2,,,,,,,,,8615311,
+61322118,61326973,0,False,residential,Nash Memorial Road,204.847,2,11.3,,,,,,,,,8614560,
+61322118,61326374,0,False,tertiary,Summer Street,273.505,2,12.2,,,,,,,,,8614927,
+61322118,61334040,0,False,tertiary,Summer Street,197.545,2,12.2,,,,,,,,,8614927,
+61322305,61331692,0,False,residential,West Chapel Street,371.109,1,8.5,,,,,,,,,8614643,
+61322305,61324517,0,False,residential,West Chapel Street,102.45,1,8.5,,,,,,,,,8614643,
+61322305,61325548,0,False,residential,Everett Street,379.752,1,7.9,,,,,,,,,8615436,
+61322477,61330229,0,False,residential,King Street,165.37,2,9.1,,,,,,,,,8614549,
+61322477,61328332,0,False,residential,Ashland Street,125.851,2,10.7,,,,,,,,,8614975,
+61322477,61333158,0,False,residential,Ashland Street,303.35,2,10.7,,,,,,,,,8614975,
+61322560,61319993,0,False,residential,Thaxter Avenue,108.739,2,12.2,,,,,,,,,8614685,
+61322560,61326927,0,False,residential,Thaxter Avenue,201.776,2,12.2,,,,,,,,,8614685,
+61322560,61320782,0,False,residential,Dunbar Street,117.608,2,11.0,,,,,,,,,8614920,
+61322560,61331792,0,True,residential,Dunbar Street,220.467,2,11.0,,,,,,,,,8615542,
+61322625,61331845,0,False,residential,Olson Street,266.468,2,10.7,,,,,,,,,8614717,
+61322625,61325486,0,False,residential,Olson Street,68.641,2,10.7,,,,,,,,,8614717,
+61322625,61323212,0,False,residential,Isabelle Street,75.207,2,11.3,,,,,,,,,8615477,
+61322625,61324713,0,False,residential,Isabelle Street,77.364,2,11.3,,,,,,,,,8615477,
+61322685,61328733,0,False,tertiary,Summer Street,112.993,2,12.2,,,,,,,,,8614927,
+61322685,61326374,0,False,tertiary,Summer Street,651.223,2,12.2,,,,,,,,,8614927,
+61322685,61328381,0,False,residential,Progress Street,463.003,2,12.2,,,,,,,,,8615352,
+61322685,2289931020,0,False,residential,Woodlands Way,45.971,,,,,,,,,,,219861120,
+61322729,61326202,0,False,residential,Isabelle Street,109.128,2,11.3,,,,,,,,,8615477,
+61322863,61321011,0,False,residential,Bank Street,194.007,2,10.7,,,,,,,,,8614639,
+61322863,61332847,0,False,residential,Bank Street,118.525,2,10.7,,,,,,,,,8614639,
+61322863,61323844,0,False,residential,Belmont Street,80.163,2,12.2,,,,,,,,,8615614,
+61322863,61319532,0,False,residential,Belmont Street,186.645,2,12.2,,,,,,,,,8615614,
+61323027,61320270,0,False,residential,Norton Avenue,124.65,2,12.2,,,,,,,,,8614646,
+61323027,61320844,0,False,secondary,Plymouth Street,145.298,2,10.7,,,,,,,,,8614556,MA 58
+61323027,61325622,0,False,secondary,Plymouth Street,245.747,2,10.7,,,,,,,,,8614556,MA 58
+61323092,61325674,0,False,residential,Davis Street,276.892,2,9.1,,,,,,,,,8615030,
+61323092,61332233,0,False,secondary,Brockton Avenue,65.541,2,15.2,,45 mph,,,,,,,8615575,MA 123
+61323171,61332847,0,False,secondary,Bedford Street,186.484,"['4', '2']",18.3,,,,,,,,,"[8614552, 8614647]",MA 18
+61323171,61329475,0,False,secondary,Bedford Street,184.766,"['4', '2']",18.3,,,,,,,,,"[8614552, 8614566]",MA 18
+61323171,61325804,0,False,secondary,Brockton Avenue,112.207,"['4', '2']",15.2,,35 mph,,,,,,,"[8615329, 303312059]",MA 123
+61323171,61319532,0,False,secondary,Brockton Avenue,104.177,"['4', '2']",15.2,,30 mph,,,,,,,"[8614649, 8615499]",MA 123
+61323212,61329254,0,False,residential,Isabelle Street,23.673,2,11.3,,,,,,,,,8615477,
+61323212,61319675,0,False,residential,Clapp Street,267.235,2,11.0,,,,,,,,,8614561,
+61323212,61321475,0,False,residential,Clapp Street,59.977,2,11.0,,,,,,,,,8614561,
+61323212,61322625,0,False,residential,Isabelle Street,75.207,2,11.3,,,,,,,,,8615477,
+61323395,61326505,0,False,tertiary,Summer Street,560.4,2,12.2,,,,,,,,,8614927,
+61323395,61321621,0,False,residential,Carriage Hill Drive,188.127,,,,,,,,,,,9563177,
+61323426,61321067,0,False,residential,Jean Carol Road,129.744,2,15.2,,,,,,,,,8614930,
+61323426,61319702,0,False,residential,Jean Carol Road,129.161,2,15.2,,,,,,,,,8614930,
+61323426,61321416,0,False,residential,Priscilla Alden Road,417.764,2,15.2,,,,,,,,,8615043,
+61323543,61320443,0,False,residential,Wilbur Street,219.234,2,10.7,,,,,,,,,8614663,
+61323543,61326694,0,False,secondary,Brockton Avenue,211.11,2,15.2,,45 mph,,,,,,,8615575,MA 123
+61323543,61326196,0,False,secondary,Brockton Avenue,28.165,2,15.2,,45 mph,,,,,,,8615575,MA 123
+61323627,61320505,0,False,tertiary,Walnut Street,70.216,2,12.2,,,,,,,,,8614659,
+61323627,61325233,0,False,tertiary,Walnut Street,114.635,2,12.2,,,,,,,,,8614659,
+61323627,61320320,0,False,residential,Springwood Drive,175.797,2,,,30 mph,,,,,,,8615141,
+61323773,61332561,0,False,tertiary,Washington Street,59.045,2,15.2,,,,,,,,,8614634,
+61323773,61331692,0,False,tertiary,Washington Street,113.109,2,15.2,,,,,,,,,8614634,
+61323773,61319836,0,False,residential,"['Wilson Street', 'Lake Street']",281.195,2,"['12.2', '11.3']",,,,,,,,,"[8615176, 8615152]",
+61323844,61330795,0,False,residential,Orange Street,252.024,2,12.2,,,,,,,,,8614533,
+61323844,61320474,0,False,residential,Orange Street,124.639,2,12.2,,,,,,,,,8614533,
+61323844,61322863,0,False,residential,Belmont Street,80.163,2,12.2,,,,,,,,,8615614,
+61323863,61320163,0,False,tertiary,Green Street,76.289,2,12.2,,,,,,,,,8615203,
+61323863,61328130,0,False,tertiary,Green Street,76.611,2,12.2,,,,,,,,,8615203,
+61323863,61329379,0,False,residential,Linda Street,266.676,2,11.3,,,,,,,,,8615497,
+61323950,61320405,0,False,residential,Washington Terrace,166.052,1,8.5,,,,,,,,,8614712,
+61324026,61319535,0,False,residential,Lincoln Boulevard,173.975,2,24.4,,,,,,,,,255619885,
+61324088,61329952,0,False,residential,Niles Street,383.991,2,11.0,,,,,,,,,8615205,
+61324088,61326235,0,False,secondary,Brockton Avenue,262.146,2,15.2,,35 mph,,,,,,,303312059,MA 123
+61324243,61328268,0,False,secondary,Plymouth Street,367.279,2,10.7,,,,,,,,,8614556,MA 58
+61324243,61328814,0,False,secondary,Plymouth Street,309.166,2,10.7,,,,,,,,,8614556,MA 58
+61324243,61333645,0,False,residential,Bellows Circle,127.787,2,9.1,,,,,,,,,8614950,
+61324315,61328814,0,False,tertiary,Central Street,146.158,2,15.2,,,,,,,,,8614954,
+61324315,61331207,0,False,residential,Park Avenue,567.279,2,12.2,,,,,,,,,8615201,
+61324315,61321885,0,False,tertiary,Central Street,432.832,2,10.7,,,,,,,,,8615303,
+61324517,61322305,0,False,residential,West Chapel Street,102.45,1,8.5,,,,,,,,,8614643,
+61324713,61320163,0,False,residential,Rice Street,265.694,2,9.8,,,,,,,,,8615442,
+61324713,61332717,0,False,residential,Rice Street,80.548,2,9.8,,,,,,,,,8615442,
+61324713,61322625,0,False,residential,Isabelle Street,77.364,2,11.3,,,,,,,,,8615477,
+61324713,61329379,0,False,residential,Isabelle Street,75.984,2,11.3,,,,,,,,,8615477,
+61324976,2928890837,0,False,residential,Bradford Street,215.313,2,10.1,,,,,,,,,8614658,
+61324976,61319986,0,False,residential,Bradford Street,102.373,2,10.1,,,,,,,,,8614658,
+61324976,61327268,0,False,residential,Pilgrim Avenue,319.012,2,11.6,,,,,,,,,8614666,
+61325048,61329834,0,False,residential,Ashland Street,34.863,2,10.7,,,,,,,,,8614975,
+61325048,61320328,0,False,residential,Ashland Street,246.748,2,10.7,,,,,,,,,8614975,
+61325048,61331843,0,False,residential,Ashland Street,55.871,,10.7,,,,,,,,,8615516,
+61325224,61331902,0,False,residential,High Street,207.065,2,9.1,,,,,,,,,8614978,
+61325224,61319675,0,False,tertiary,Green Street,391.772,2,"['11.0', '12.2']",,,,,,,,,"[8615336, 8615203]",
+61325233,61323627,0,False,tertiary,Walnut Street,114.635,2,12.2,,,,,,,,,8614659,
+61325233,61331764,0,False,"['residential', 'secondary']","['Bicknell Hill Road', 'Washington Street']",537.887,2,"['12.2', '15.2']",,,,,,,,,"[8615581, 8614943]",
+61325276,61326927,0,False,tertiary,Washington Street,213.013,2,15.2,,,,,,,,,8614960,
+61325276,61329952,0,False,tertiary,Washington Street,88.13,2,15.2,,,,,,,,,8614960,
+61325276,61332813,0,False,tertiary,Washington Street,45.379,,15.2,,,,,,,,,8615479,
+61325343,61319804,0,False,tertiary,Walnut Street,79.2,2,12.2,,,,,,,,,8614659,
+61325343,61319664,0,False,secondary,Center Avenue,104.758,2,19.8,,35 mph,,,,,,,8615392,MA 123
+61325343,61330036,0,False,secondary,Center Avenue,42.509,2,19.8,,35 mph,,,,,,,8615392,MA 123
+61325397,61320056,0,False,residential,Kimber Circle,151.846,,,,,,,,,,,8615051,
+61325397,61328814,0,False,secondary,Plymouth Street,351.238,2,10.7,,,,,,,,,8615342,MA 58
+61325397,61327268,0,False,secondary,Plymouth Street,315.591,2,10.7,,,,,,,,,8615342,MA 58
+61325408,61329379,0,False,residential,Isabelle Street,75.338,2,11.3,,,,,,,,,8615477,
+61325408,61333875,0,False,residential,Isabelle Street,78.814,2,11.3,,,,,,,,,8615477,
+61325408,61328130,0,False,residential,Doris Drive,266.418,2,12.8,,,,,,,,,8615513,
+61325408,61329449,0,False,residential,Doris Drive,84.13,2,12.8,,,,,,,,,8615513,
+61325417,61330387,0,False,residential,Linwood Street,52.754,2,9.1,,,,,,,,,8614692,
+61325417,61320670,0,False,tertiary,Mill Street,338.885,2,9.1,,,,,,,,,8614972,
+61325417,61325570,0,False,tertiary,Mill Street,38.679,2,9.1,,,,,,,,,8614972,
+61325486,61322625,0,False,residential,Olson Street,68.641,2,10.7,,,,,,,,,8614717,
+61325548,61326837,0,False,tertiary,Washington Street,38.928,2,15.2,,,,,,,,,8614634,
+61325548,61330795,0,False,tertiary,Washington Street,81.898,2,15.2,,,,,,,,,8614634,
+61325548,61322305,0,False,residential,Everett Street,379.752,1,7.9,,,,,,,,,8615436,
+61325570,61325417,0,False,tertiary,Mill Street,38.679,2,9.1,,,,,,,,,8614972,
+61325570,61330387,0,False,residential,Linwood Street,42.645,,9.1,,,,,,,,,8615395,
+61325622,61323027,0,False,secondary,Plymouth Street,245.747,2,10.7,,,,,,,,,8614556,MA 58
+61325622,61328268,0,False,secondary,Plymouth Street,68.401,2,10.7,,,,,,,,,8614556,MA 58
+61325622,61333114,0,False,residential,Monroe Street,24.489,2,10.7,,,,,,,,,8615376,
+61325674,61323092,0,False,residential,Davis Street,276.892,2,9.1,,,,,,,,,8615030,
+61325804,61323171,0,False,secondary,Brockton Avenue,112.207,"['4', '2']",15.2,,35 mph,,,,,,,"[8615329, 303312059]",MA 123
+61325804,61326235,0,False,secondary,Brockton Avenue,23.926,2,15.2,,35 mph,,,,,,,303312059,MA 123
+61325882,61321176,0,False,residential,Myers Avenue,265.679,2,12.2,,,,,,,,,8615316,
+61325882,61326374,0,False,tertiary,Walnut Street,323.935,2,12.2,,,,,,,,,8614659,
+61325882,61320505,0,False,tertiary,Walnut Street,308.988,2,12.2,,,,,,,,,8614659,
+61326011,61326505,0,False,tertiary,Summer Street,143.879,2,12.2,,,,,,,,,8614927,
+61326011,61328733,0,False,tertiary,Summer Street,328.293,2,12.2,,,,,,,,,8614927,
+61326011,61330146,0,False,residential,Melvern Road,203.602,2,12.2,,,,,,,,,8615016,
+61326196,61333149,0,False,residential,Robbins Avenue,207.166,2,12.2,,,,,,,,,8615191,
+61326196,61323543,0,False,secondary,Brockton Avenue,28.165,2,15.2,,45 mph,,,,,,,8615575,MA 123
+61326196,61332233,0,False,secondary,Brockton Avenue,98.218,2,15.2,,45 mph,,,,,,,8615575,MA 123
+61326202,61326694,0,False,residential,Martin Street,286.506,2,10.7,,,,,,,,,8615041,
+61326202,61333875,0,False,residential,Isabelle Street,72.081,2,11.3,,,,,,,,,8615477,
+61326202,61322729,0,False,residential,Isabelle Street,109.128,2,11.3,,,,,,,,,8615477,
+61326235,61329475,0,False,residential,Elm Street,243.45,2,11.6,,,,,,,,,8615423,
+61326235,61325804,0,False,secondary,Brockton Avenue,23.926,2,15.2,,35 mph,,,,,,,303312059,MA 123
+61326235,61324088,0,False,secondary,Brockton Avenue,262.146,2,15.2,,35 mph,,,,,,,303312059,MA 123
+61326239,61331276,0,False,residential,Hunts Pond Lane,186.469,2,,,30 mph,,,,,,,8615535,
+61326362,61330387,0,False,residential,Linwood Street,667.467,2,9.1,,,,,,,,,8614692,
+61326362,61319422,0,False,secondary,Groveland Street,249.928,2,12.2,,,,,,,,,8614931,
+61326362,61332490,0,False,secondary,Groveland Street,331.116,2,12.2,,,,,,,,,8614931,
+61326374,61331792,0,False,tertiary,Walnut Street,93.636,2,12.2,,,,,,,,,8614659,
+61326374,61325882,0,False,tertiary,Walnut Street,323.935,2,12.2,,,,,,,,,8614659,
+61326374,61322685,0,False,tertiary,Summer Street,651.223,2,12.2,,,,,,,,,8614927,
+61326374,61322118,0,False,tertiary,Summer Street,273.505,2,12.2,,,,,,,,,8614927,
+61326448,61332233,0,False,residential,Laurie Avenue,319.878,"['2', '1']","['9.1', '13.7']",,,,,,,,,"[8614544, 8614695]",
+61326505,61323395,0,False,tertiary,Summer Street,560.4,2,12.2,,,,,,,,,8614927,
+61326505,61326011,0,False,tertiary,Summer Street,143.879,2,12.2,,,,,,,,,8614927,
+61326505,61330146,0,False,secondary,Plymouth Street,65.566,2,10.7,,,,,,,,,8615342,MA 58
+61326505,61327510,0,False,secondary,Plymouth Street,265.456,2,10.7,,,,,,,,,8615342,MA 58
+61326550,61319823,0,False,secondary,Groveland Street,930.26,2,12.2,,,,,,,,,8614931,
+61326550,61319422,0,False,secondary,Groveland Street,175.804,2,12.2,,,,,,,,,8614931,
+61326550,61329705,0,False,residential,High Street,100.411,2,9.1,,,,,,,,,8614978,
+61326694,61326202,0,False,residential,Martin Street,286.506,2,10.7,,,,,,,,,8615041,
+61326694,61320670,0,False,secondary,Brockton Avenue,19.116,2,15.2,,45 mph,,,,,,,8615575,MA 123
+61326694,61323543,0,False,secondary,Brockton Avenue,211.11,2,15.2,,45 mph,,,,,,,8615575,MA 123
+61326696,61327908,0,False,residential,Vernon Street,97.229,2,11.6,,,,,,,,,8614923,
+61326696,61334040,0,False,secondary,Washington Street,48.662,2,18.3,,,,,,,,,8615058,MA 18
+61326696,61333801,0,False,secondary,Washington Street,133.664,2,18.3,,,,,,,,,8615058,MA 18
+61326714,61328922,0,False,tertiary,Washington Street,53.807,2,15.2,,,,,,,,,8614634,
+61326714,61321640,0,False,residential,Adams Street,23.979,,13.7,,,,,,,,,8614637,
+61326714,61333298,0,False,residential,Shaw Avenue,145.063,2,11.3,,,,,,,,,8614957,
+61326779,61330032,0,False,residential,Charles Street,162.624,2,11.6,,,,,,,,,8614683,
+61326837,61327353,0,False,residential,Cliff Street,208.936,2,11.3,,,,,,,,,8614562,
+61326837,61331692,0,False,tertiary,Washington Street,166.051,2,15.2,,,,,,,,,8614634,
+61326837,61325548,0,False,tertiary,Washington Street,38.928,2,15.2,,,,,,,,,8614634,
+61326842,61330671,0,False,residential,Brookfield Road,56.871,2,12.2,,,,,,,,,8614948,
+61326842,61321625,0,False,residential,"['Legion Drive', 'Lantern Lane']",308.297,2,12.2,,,,,,,,,"[8614922, 8615018]",
+61326842,61321948,0,False,residential,Brookfield Road,213.71,2,12.2,,,,,,,,,8614948,
+61326927,61322560,0,False,residential,Thaxter Avenue,201.776,2,12.2,,,,,,,,,8614685,
+61326927,61329839,0,False,tertiary,Washington Street,21.368,2,15.2,,,,,,,,,8614960,
+61326927,61325276,0,False,tertiary,Washington Street,213.013,2,15.2,,,,,,,,,8614960,
+61326973,61322118,0,False,residential,Nash Memorial Road,204.847,2,11.3,,,,,,,,,8614560,
+61327268,61324976,0,False,residential,Pilgrim Avenue,319.012,2,11.6,,,,,,,,,8614666,
+61327268,61325397,0,False,secondary,Plymouth Street,315.591,2,10.7,,,,,,,,,8615342,MA 58
+61327268,61331928,0,False,secondary,Plymouth Street,103.355,2,10.7,,,,,,,,,8615342,MA 58
+61327319,2334916894,0,False,residential,High Street,158.909,2,9.1,,,,,,,,,8614978,
+61327319,61320328,0,False,residential,High Street,178.855,2,9.1,,,,,,,,,8614978,
+61327319,2334916866,0,False,secondary,Brockton Avenue,83.903,2,15.2,,45 mph,,,,,,,8615575,MA 123
+61327319,61329834,0,False,secondary,Brockton Avenue,196.232,2,15.2,,45 mph,,,,,,,8615575,MA 123
+61327353,61326837,0,False,residential,Cliff Street,208.936,2,11.3,,,,,,,,,8614562,
+61327353,61319836,0,False,residential,Lake Street,172.702,2,11.3,,,,,,,,,8615152,
+61327353,61330036,0,False,residential,Lake Street,103.073,2,11.3,,,,,,,,,8615152,
+61327510,61330706,0,False,residential,Hersey Lane,118.116,2,12.2,,,,,,,,,8614714,
+61327510,61326505,0,False,secondary,Plymouth Street,265.456,2,10.7,,,,,,,,,8615342,MA 58
+61327510,2334916144,0,False,secondary,Plymouth Street,510.553,2,10.7,,,,,,,,,8615342,MA 58
+61327908,61330229,0,False,residential,King Street,141.562,2,9.1,,,,,,,,,8614549,
+61327908,61326696,0,False,residential,Vernon Street,97.229,2,11.6,,,,,,,,,8614923,
+61327908,61334213,0,False,residential,Vernon Street,386.385,2,11.6,,,,,,,,,8614923,
+61327991,61332490,0,False,residential,Hunts Pond Lane,167.884,2,,,30 mph,,,,,,,8614675,
+61327991,61331276,0,False,residential,Hunts Pond Lane,36.935,2,,,30 mph,,,,,,,8615098,
+61327991,61331276,1,False,residential,Hunts Pond Lane,44.776,2,,,30 mph,,,,,,,8615098,
+61328130,61323863,0,False,tertiary,Green Street,76.611,2,12.2,,,,,,,,,8615203,
+61328130,61320780,0,False,tertiary,Green Street,76.588,2,12.2,,,,,,,,,8615203,
+61328130,61325408,0,False,residential,Doris Drive,266.418,2,12.8,,,,,,,,,8615513,
+61328169,61319804,0,False,residential,Cherry Street,106.56,2,12.2,,,,,,,,,8614729,
+61328169,61319664,0,False,residential,Dunbar Street,77.004,2,11.0,,,,,,,,,8614920,
+61328169,61320782,0,False,residential,Dunbar Street,81.701,2,11.0,,,,,,,,,8614920,
+61328215,61332561,0,False,residential,Pine Tree Lane,173.375,1,4.9,,,,,,,,,8615143,
+61328268,61325622,0,False,secondary,Plymouth Street,68.401,2,10.7,,,,,,,,,8614556,MA 58
+61328268,61324243,0,False,secondary,Plymouth Street,367.279,2,10.7,,,,,,,,,8614556,MA 58
+61328268,61333114,0,False,residential,Monroe Street,80.241,,10.7,,,,,,,,,8615396,
+61328332,61322477,0,False,residential,Ashland Street,125.851,2,10.7,,,,,,,,,8614975,
+61328332,61333801,0,False,secondary,Washington Street,119.91,2,18.3,,,,,,,,,8615058,MA 18
+61328332,61331764,0,False,secondary,Washington Street,454.689,2,18.3,,,,,,,,,8615058,MA 18
+61328350,61331902,0,False,residential,Constitution Street,393.015,2,12.2,,,,,,,,,8615449,
+61328350,61331843,0,False,secondary,Brockton Avenue,52.83,2,15.2,,45 mph,,,,,,,8615575,MA 123
+61328350,61320670,0,False,secondary,Brockton Avenue,631.777,2,15.2,,45 mph,,,,,,,8615575,MA 123
+61328381,61329152,0,False,residential,"['Granite Street', 'Quincy Street', 'Cottage Street']",311.76,2,"['11.0', '12.2', '11.3']",,,,,,,,,"[8615617, 8615326, 8614671]",
+61328381,61329152,1,False,secondary,Center Avenue,95.355,2,19.8,,35 mph,,,,,,,8615392,MA 123
+61328381,61322685,0,False,residential,Progress Street,463.003,2,12.2,,,,,,,,,8615352,
+61328381,61321160,0,False,secondary,Center Avenue,199.727,2,19.8,,35 mph,,,,,,,8615392,MA 123
+61328733,2289932596,0,False,unclassified,,263.65,,,,,,,,,,,8614698,
+61328733,61326011,0,False,tertiary,Summer Street,328.293,2,12.2,,,,,,,,,8614927,
+61328733,61322685,0,False,tertiary,Summer Street,112.993,2,12.2,,,,,,,,,8614927,
+61328814,61324243,0,False,secondary,Plymouth Street,309.166,2,10.7,,,,,,,,,8614556,MA 58
+61328814,61330624,0,False,tertiary,Central Street,386.197,2,10.7,,,,,,,,,8614655,
+61328814,61324315,0,False,tertiary,Central Street,146.158,2,15.2,,,,,,,,,8614954,
+61328814,61325397,0,False,secondary,Plymouth Street,351.238,2,10.7,,,,,,,,,8615342,MA 58
+61328922,61326714,0,False,tertiary,Washington Street,53.807,2,15.2,,,,,,,,,8614634,
+61328922,61321625,0,False,tertiary,Washington Street,44.219,2,15.2,,,,,,,,,8614634,
+61328922,61321640,0,False,residential,Adams Street,65.272,2,13.7,,,,,,,,,8615033,
+61329152,61328381,0,False,secondary,Center Avenue,95.355,2,19.8,,35 mph,,,,,,,8615392,MA 123
+61329152,61328381,1,False,residential,"['Granite Street', 'Quincy Street', 'Cottage Street']",311.76,2,"['11.0', '12.2', '11.3']",,,,,,,,,"[8615617, 8615326, 8614671]",
+61329152,61330036,0,False,secondary,Center Avenue,259.711,2,19.8,,35 mph,,,,,,,8615392,MA 123
+61329254,61323212,0,False,residential,Isabelle Street,23.673,2,11.3,,,,,,,,,8615477,
+61329302,61320844,0,False,secondary,Plymouth Street,102.657,2,10.7,,,,,,,,,8614556,MA 58
+61329302,61330528,0,False,residential,Birch Street,110.257,2,11.6,,,,,,,,,8615569,
+61329302,61321326,0,False,residential,Birch Street,206.297,2,11.6,,,,,,,,,8615569,
+61329379,61324713,0,False,residential,Isabelle Street,75.984,2,11.3,,,,,,,,,8615477,
+61329379,61325408,0,False,residential,Isabelle Street,75.338,2,11.3,,,,,,,,,8615477,
+61329379,61323863,0,False,residential,Linda Street,266.676,2,11.3,,,,,,,,,8615497,
+61329379,61332567,0,False,residential,Linda Street,85.163,2,11.3,,,,,,,,,8615497,
+61329449,61325408,0,False,residential,Doris Drive,84.13,2,12.8,,,,,,,,,8615513,
+61329475,61323171,0,False,secondary,Bedford Street,184.766,"['4', '2']",18.3,,,,,,,,,"[8614552, 8614566]",MA 18
+61329475,61332813,0,False,secondary,Bedford Street,21.287,2,18.3,,,,,,,,,8614566,MA 18
+61329475,61326235,0,False,residential,Elm Street,243.45,2,11.6,,,,,,,,,8615423,
+61329530,61322005,0,False,residential,Andrew Ford Way,204.333,2,12.2,,,,,,,,,8615311,
+61329705,61319830,0,False,residential,King Avenue,162.072,2,9.8,,,,,,,,,8614678,
+61329705,61326550,0,False,residential,High Street,100.411,2,9.1,,,,,,,,,8614978,
+61329705,2334916894,0,False,residential,High Street,237.925,2,9.1,,,,,,,,,8614978,
+61329834,61325048,0,False,residential,Ashland Street,34.863,2,10.7,,,,,,,,,8614975,
+61329834,61327319,0,False,secondary,Brockton Avenue,196.232,2,15.2,,45 mph,,,,,,,8615575,MA 123
+61329834,61331843,0,False,secondary,Brockton Avenue,58.243,2,15.2,,45 mph,,,,,,,8615575,MA 123
+61329839,61321011,0,False,secondary,Washington Street,130.298,2,18.3,,,,,,,,,8614554,MA 123
+61329839,61319532,0,False,secondary,Brockton Avenue,100.173,2,15.2,,30 mph,,,,,,,8614649,MA 123
+61329839,61326927,0,False,tertiary,Washington Street,21.368,2,15.2,,,,,,,,,8614960,
+61329952,61332813,0,False,secondary,Bedford Street,53.598,2,18.3,,,,,,,,,8614566,MA 18
+61329952,61325276,0,False,tertiary,Washington Street,88.13,2,15.2,,,,,,,,,8614960,
+61329952,61334040,0,False,secondary,Washington Street,70.01,2,18.3,,,,,,,,,8615058,MA 18
+61329952,61324088,0,False,residential,Niles Street,383.991,2,11.0,,,,,,,,,8615205,
+61330032,61319644,0,False,residential,Charles Street,432.13,2,11.6,,,,,,,,,8614683,
+61330032,61326779,0,False,residential,Charles Street,162.624,2,11.6,,,,,,,,,8614683,
+61330032,61320774,0,False,residential,Pattison Street,290.838,2,11.0,,,,,,,,,8615220,
+61330036,61327353,0,False,residential,Lake Street,103.073,2,11.3,,,,,,,,,8615152,
+61330036,61329152,0,False,secondary,Center Avenue,259.711,2,19.8,,35 mph,,,,,,,8615392,MA 123
+61330036,61325343,0,False,secondary,Center Avenue,42.509,2,19.8,,35 mph,,,,,,,8615392,MA 123
+61330146,61326011,0,False,residential,Melvern Road,203.602,2,12.2,,,,,,,,,8615016,
+61330146,61331928,0,False,secondary,Plymouth Street,501.915,2,10.7,,,,,,,,,8615342,MA 58
+61330146,61326505,0,False,secondary,Plymouth Street,65.566,2,10.7,,,,,,,,,8615342,MA 58
+61330229,61327908,0,False,residential,King Street,141.562,2,9.1,,,,,,,,,8614549,
+61330229,61322477,0,False,residential,King Street,165.37,2,9.1,,,,,,,,,8614549,
+61330229,61333801,0,False,residential,Maple Street,109.143,2,11.0,,,,,,,,,8615564,
+61330387,61326362,0,False,residential,Linwood Street,667.467,2,9.1,,,,,,,,,8614692,
+61330387,61325417,0,False,residential,Linwood Street,52.754,2,9.1,,,,,,,,,8614692,
+61330387,61325570,0,False,residential,Linwood Street,42.645,,9.1,,,,,,,,,8615395,
+61330528,61332652,0,False,residential,Birch Street,101.634,2,11.6,,,,,,,,,8615569,
+61330528,61329302,0,False,residential,Birch Street,110.257,2,11.6,,,,,,,,,8615569,
+61330624,61328814,0,False,tertiary,Central Street,386.197,2,10.7,,,,,,,,,8614655,
+61330646,61320154,0,False,residential,Reed Street,73.487,2,11.3,,,,,,,,,8615180,
+61330646,61331207,0,False,residential,Park Avenue,106.664,2,12.2,,,,,,,,,8615201,
+61330646,61321160,0,False,residential,Park Avenue,159.632,2,12.2,,,,,,,,,8615201,
+61330671,61326842,0,False,residential,Brookfield Road,56.871,2,12.2,,,,,,,,,8614948,
+61330706,61320577,0,False,residential,Hersey Lane,79.87,2,12.2,,,,,,,,,8614714,
+61330706,61327510,0,False,residential,Hersey Lane,118.116,2,12.2,,,,,,,,,8614714,
+61330706,61321416,0,False,residential,Peregrine Road,154.676,2,15.2,,,,,,,,,8615050,
+61330795,61319664,0,False,secondary,Center Avenue,87.37,2,19.8,,35 mph,,,,,,,8615392,MA 123
+61330795,61323844,0,False,residential,Orange Street,252.024,2,12.2,,,,,,,,,8614533,
+61330795,61321011,0,False,secondary,Washington Street,139.769,2,18.3,,,,,,,,,8614554,MA 123
+61330795,61325548,0,False,tertiary,Washington Street,81.898,2,15.2,,,,,,,,,8614634,
+61331207,61333797,0,False,residential,Pond Street,141.136,2,10.7,,,,,,,,,8615189,
+61331207,61324315,0,False,residential,Park Avenue,567.279,2,12.2,,,,,,,,,8615201,
+61331207,61330646,0,False,residential,Park Avenue,106.664,2,12.2,,,,,,,,,8615201,
+61331276,61327991,0,False,residential,Hunts Pond Lane,44.776,2,,,30 mph,,,,,,,8615098,
+61331276,61327991,1,False,residential,Hunts Pond Lane,36.935,2,,,30 mph,,,,,,,8615098,
+61331276,61326239,0,False,residential,Hunts Pond Lane,186.469,2,,,30 mph,,,,,,,8615535,
+61331692,61319836,0,False,residential,Chapel Street,179.721,2,11.0,,,,,,,,,8614542,
+61331692,61323773,0,False,tertiary,Washington Street,113.109,2,15.2,,,,,,,,,8614634,
+61331692,61326837,0,False,tertiary,Washington Street,166.051,2,15.2,,,,,,,,,8614634,
+61331692,61322305,0,False,residential,West Chapel Street,371.109,1,8.5,,,,,,,,,8614643,
+61331764,61328332,0,False,secondary,Washington Street,454.689,2,18.3,,,,,,,,,8615058,MA 18
+61331764,61325233,0,False,"['residential', 'secondary']","['Bicknell Hill Road', 'Washington Street']",537.887,2,"['12.2', '15.2']",,,,,,,,,"[8615581, 8614943]",
+61331792,61319993,0,False,tertiary,Walnut Street,129.109,2,12.2,,,,,,,,,8614659,
+61331792,61326374,0,False,tertiary,Walnut Street,93.636,2,12.2,,,,,,,,,8614659,
+61331843,61325048,0,False,residential,Ashland Street,55.871,,10.7,,,,,,,,,8615516,
+61331843,61329834,0,False,secondary,Brockton Avenue,58.243,2,15.2,,45 mph,,,,,,,8615575,MA 123
+61331843,61328350,0,False,secondary,Brockton Avenue,52.83,2,15.2,,45 mph,,,,,,,8615575,MA 123
+61331845,61322625,0,False,residential,Olson Street,266.468,2,10.7,,,,,,,,,8614717,
+61331845,61319675,0,False,tertiary,Green Street,75.554,2,12.2,,,,,,,,,8615203,
+61331845,61320163,0,False,tertiary,Green Street,74.905,2,12.2,,,,,,,,,8615203,
+61331902,61334001,0,False,residential,High Street,169.567,2,9.1,,,,,,,,,8614978,
+61331902,61325224,0,False,residential,High Street,207.065,2,9.1,,,,,,,,,8614978,
+61331902,61328350,0,False,residential,Constitution Street,393.015,2,12.2,,,,,,,,,8615449,
+61331928,61327268,0,False,secondary,Plymouth Street,103.355,2,10.7,,,,,,,,,8615342,MA 58
+61331928,61330146,0,False,secondary,Plymouth Street,501.915,2,10.7,,,,,,,,,8615342,MA 58
+61331928,61319986,0,False,secondary,Center Avenue,323.172,2,19.8,,35 mph,,,,,,,8615392,MA 123
+61331928,61321160,0,False,secondary,Center Avenue,278.655,2,19.8,,35 mph,,,,,,,8615392,MA 123
+61332233,61326448,0,False,residential,Laurie Avenue,319.878,"['2', '1']","['9.1', '13.7']",,,,,,,,,"[8614544, 8614695]",
+61332233,61326196,0,False,secondary,Brockton Avenue,98.218,2,15.2,,45 mph,,,,,,,8615575,MA 123
+61332233,61323092,0,False,secondary,Brockton Avenue,65.541,2,15.2,,45 mph,,,,,,,8615575,MA 123
+61332490,61327991,0,False,residential,Hunts Pond Lane,167.884,2,,,30 mph,,,,,,,8614675,
+61332490,61326362,0,False,secondary,Groveland Street,331.116,2,12.2,,,,,,,,,8614931,
+61332561,61333318,0,False,tertiary,Washington Street,61.602,2,15.2,,,,,,,,,8614634,
+61332561,61323773,0,False,tertiary,Washington Street,59.045,2,15.2,,,,,,,,,8614634,
+61332561,61328215,0,False,residential,Pine Tree Lane,173.375,1,4.9,,,,,,,,,8615143,
+61332567,61329379,0,False,residential,Linda Street,85.163,2,11.3,,,,,,,,,8615497,
+61332602,61322005,0,False,residential,Colonel Hunt Drive,106.194,2,12.2,,,,,,,,,8614548,
+61332602,61332602,0,False,residential,Colonel Hunt Drive,677.019,2,12.2,,,,,,,,,8614636,
+61332602,61332602,1,False,residential,Colonel Hunt Drive,677.019,2,12.2,,,,,,,,,8614636,
+61332652,61320774,0,False,residential,Monroe Street,432.016,2,10.7,,,,,,,,,8615376,
+61332652,61319644,0,False,residential,Birch Street,242.291,2,11.6,,,,,,,,,8615569,
+61332652,61330528,0,False,residential,Birch Street,101.634,2,11.6,,,,,,,,,8615569,
+61332717,61324713,0,False,residential,Rice Street,80.548,2,9.8,,,,,,,,,8615442,
+61332813,61329475,0,False,secondary,Bedford Street,21.287,2,18.3,,,,,,,,,8614566,MA 18
+61332813,61329952,0,False,secondary,Bedford Street,53.598,2,18.3,,,,,,,,,8614566,MA 18
+61332813,61325276,0,False,tertiary,Washington Street,45.379,,15.2,,,,,,,,,8615479,
+61332847,61322863,0,False,residential,Bank Street,118.525,2,10.7,,,,,,,,,8614639,
+61332847,61320474,0,False,secondary,Bedford Street,103.191,2,18.3,,,,,,,,,8614647,MA 18
+61332847,61323171,0,False,secondary,Bedford Street,186.484,"['4', '2']",18.3,,,,,,,,,"[8614552, 8614647]",MA 18
+61333114,61320774,0,False,residential,Monroe Street,36.61,2,10.7,,,,,,,,,8615376,
+61333114,61325622,0,False,residential,Monroe Street,24.489,2,10.7,,,,,,,,,8615376,
+61333114,61328268,0,False,residential,Monroe Street,80.241,,10.7,,,,,,,,,8615396,
+61333149,61326196,0,False,residential,Robbins Avenue,207.166,2,12.2,,,,,,,,,8615191,
+61333158,61319959,0,False,residential,Highfields Road,429.33,2,11.9,,,,,,,,,8614673,
+61333158,61319959,1,False,residential,Ashland Street,83.375,2,10.7,,,,,,,,,8614975,
+61333158,61322477,0,False,residential,Ashland Street,303.35,2,10.7,,,,,,,,,8614975,
+61333298,61326714,0,False,residential,Shaw Avenue,145.063,2,11.3,,,,,,,,,8614957,
+61333318,61322005,0,False,residential,Colonel Hunt Drive,367.258,2,12.2,,,,,,,,,8614548,
+61333318,61321885,0,False,tertiary,Washington Street,203.8,2,15.2,,,,,,,,,8614634,
+61333318,61332561,0,False,tertiary,Washington Street,61.602,2,15.2,,,,,,,,,8614634,
+61333645,61320633,0,False,residential,Bellows Circle,129.592,2,9.1,,,,,,,,,8614950,
+61333645,61324243,0,False,residential,Bellows Circle,127.787,2,9.1,,,,,,,,,8614950,
+61333645,61320924,0,False,residential,Bellows Circle,104.532,,,,,,,,,,,8615394,
+61333797,61331207,0,False,residential,Pond Street,141.136,2,10.7,,,,,,,,,8615189,
+61333801,61326696,0,False,secondary,Washington Street,133.664,2,18.3,,,,,,,,,8615058,MA 18
+61333801,61328332,0,False,secondary,Washington Street,119.91,2,18.3,,,,,,,,,8615058,MA 18
+61333801,61330229,0,False,residential,Maple Street,109.143,2,11.0,,,,,,,,,8615564,
+61333875,61320780,0,False,residential,Allen Street,267.175,2,9.1,,,,,,,,,8615231,
+61333875,61321361,0,False,residential,Allen Street,30.928,2,9.1,,,,,,,,,8615231,
+61333875,61325408,0,False,residential,Isabelle Street,78.814,2,11.3,,,,,,,,,8615477,
+61333875,61326202,0,False,residential,Isabelle Street,72.081,2,11.3,,,,,,,,,8615477,
+61334001,61319981,0,False,residential,High Street,68.592,,9.1,,,,,,,,,8614726,
+61334001,61320328,0,False,residential,High Street,41.82,2,9.1,,,,,,,,,8614978,
+61334001,61331902,0,False,residential,High Street,169.567,2,9.1,,,,,,,,,8614978,
+61334040,61322118,0,False,tertiary,Summer Street,197.545,2,12.2,,,,,,,,,8614927,
+61334040,61329952,0,False,secondary,Washington Street,70.01,2,18.3,,,,,,,,,8615058,MA 18
+61334040,61326696,0,False,secondary,Washington Street,48.662,2,18.3,,,,,,,,,8615058,MA 18
+61334213,61327908,0,False,residential,Vernon Street,386.385,2,11.6,,,,,,,,,8614923,
+61334213,61319823,0,False,secondary,Groveland Street,30.957,2,12.2,,,,,,,,,8614931,
+61334213,2334916866,0,False,secondary,Brockton Avenue,789.221,2,15.2,,45 mph,,,,,,,8615575,MA 123
+2289930961,2289930997,0,False,residential,Woodlands Way,238.524,,,,,,,,,,,219861119,
+2289930997,2289931020,0,True,residential,Woodlands Way,104.359,,,,,,,,,,,219861117,
+2289930997,2289930961,0,False,residential,Woodlands Way,238.524,,,,,,,,,,,219861119,
+2289931020,2289930997,0,True,residential,Woodlands Way,118.089,,,,,,,,,,,219861118,
+2289931020,61322685,0,False,residential,Woodlands Way,45.971,,,,,,,,,,,219861120,
+2289932596,61328733,0,False,unclassified,,263.65,,,,,,,,,,,8614698,
+2334916142,2334916143,0,False,residential,Endicott Street,102.274,,,,,,,,,,,224697358,
+2334916143,2334916144,0,False,secondary,Plymouth Street,25.784,2,10.7,,,,,,,,,8615342,MA 58
+2334916143,2334916142,0,False,residential,Endicott Street,102.274,,,,,,,,,,,224697358,
+2334916144,61327510,0,False,secondary,Plymouth Street,510.553,2,10.7,,,,,,,,,8615342,MA 58
+2334916144,2334916143,0,False,secondary,Plymouth Street,25.784,2,10.7,,,,,,,,,8615342,MA 58
+2334916144,61319702,0,False,residential,Jean Carol Road,951.489,2,15.2,,,,,,,,,"[8614930, 224697357]",
+2334916866,61334213,0,False,secondary,Brockton Avenue,789.221,2,15.2,,45 mph,,,,,,,8615575,MA 123
+2334916866,61327319,0,False,secondary,Brockton Avenue,83.903,2,15.2,,45 mph,,,,,,,8615575,MA 123
+2334916866,2334916898,0,False,residential,Mahoney Circle,167.053,,,,,,,,,,,224697426,
+2334916874,2334916874,0,False,residential,George H Gillespie Way,267.699,,,,,,,,,,,224697425,
+2334916874,2334916874,1,False,residential,George H Gillespie Way,267.699,,,,,,,,,,,224697425,
+2334916874,2334916894,0,False,residential,George H Gillespie Way,119.112,,,,,,,,,,,224697425,
+2334916894,61329705,0,False,residential,High Street,237.925,2,9.1,,,,,,,,,8614978,
+2334916894,61327319,0,False,residential,High Street,158.909,2,9.1,,,,,,,,,8614978,
+2334916894,2334916874,0,False,residential,George H Gillespie Way,119.112,,,,,,,,,,,224697425,
+2334916898,2334916898,0,False,residential,Mahoney Circle,77.534,,,,,,,,,,,224697426,
+2334916898,2334916898,1,False,residential,Mahoney Circle,77.534,,,,,,,,,,,224697426,
+2334916898,2334916866,0,False,residential,Mahoney Circle,167.053,,,,,,,,,,,224697426,
+2928890837,61324976,0,False,residential,Bradford Street,215.313,2,10.1,,,,,,,,,8614658,

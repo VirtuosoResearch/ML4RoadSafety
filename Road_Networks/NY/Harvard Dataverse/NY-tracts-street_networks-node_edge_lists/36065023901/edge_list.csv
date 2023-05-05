@@ -1,0 +1,240 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+212849437,212859162,0,True,motorway,,207.321,2,,,55 mph,,,,,,,233692752,NY 8;NY 12
+212849459,212849437,0,True,motorway_link,,244.021,,,,,,,,,,,20130412,
+212849459,212867739,0,True,motorway_link,,424.491,,,,,,,,,,,20132104,
+212854350,212854359,0,True,motorway_link,,349.511,,,,,,,,,,,20130910,
+212854350,212860148,0,True,motorway_link,,87.977,,,,,,,,,,,20131452,
+212860132,212854350,0,True,motorway_link,,129.738,,,,,,,,,,,20131452,
+212860132,212875443,0,True,motorway_link,Horatio Street,293.535,,,,,,,,,,,20135915,
+212861459,212860148,0,True,motorway,,831.374,2,,,,,,,,,,233692751,NY 8;NY 12
+212861467,212876792,0,True,motorway_link,Frontage Road,120.647,,,,,,,,,,,20140364,
+212861467,212861459,0,True,motorway_link,,178.906,,,,,,,,,,,563975081,
+212861471,212861467,0,True,motorway_link,,144.331,,,,,,,,,,,20131566,
+212861475,212861471,0,True,motorway_link,,163.883,,,,,,,,,,,20131566,
+212861475,212861459,0,True,motorway,,486.916,2,,,55 mph,,,,,,,45135791,NY 8;NY 12
+212867739,212867749,0,True,motorway_link,,41.438,,,,,,,,,,,20132104,
+212867739,212877483,0,True,motorway_link,,68.284,,,,,,,,,,,20133075,
+212867749,213109581,0,False,residential,Mulaney Road,142.4,,,,,,,,,,,45135816,
+212867749,212877483,0,False,residential,Mulaney Road,58.544,,,,,,,,,,,45135816,
+212869844,212860132,0,True,motorway_link,Horatio Street,552.807,,,,,,,,,,,20135915,
+212869857,212869844,0,True,motorway_link,,295.227,,,,,,,,,,,20132356,
+212869857,212876734,0,False,residential,Mulaney Road,176.63,,,,,,,,,,,20150568,
+212873448,212873417,0,True,tertiary_link,,173.777,,,,,,,,,,,20132675,
+212873448,213104588,0,True,tertiary,Trenton Road,481.802,,,,,,,,,,,45135825,CR 91
+212875443,212854359,0,True,motorway_link,,186.277,,,,,,,,,,,20132850,
+212875443,212887714,0,True,motorway_link,,231.922,,,,,,,,,,,20146644,
+212876734,212876792,0,True,motorway_link,,266.212,,,,,,,,,,,20133005,
+212876734,212877483,0,False,residential,Mulaney Road,173.375,,,,,,,yes,,,,"[20150568, 45135819, 45135816]",
+212876734,212869857,0,False,residential,Mulaney Road,176.63,,,,,,,,,,,20150568,
+212876792,212869844,0,True,motorway_link,Frontage Road,118.99,,,,,,,,,,,20140364,
+212877483,212867749,0,False,residential,Mulaney Road,58.544,,,,,,,,,,,45135816,
+212877483,212876734,0,False,residential,Mulaney Road,173.375,,,,,,,yes,,,,"[45135816, 20150568, 45135819]",
+212887714,212854359,0,True,motorway_link,,178.775,,,,,,,,,,,20134177,
+212887714,213046415,0,False,unclassified,Seymour Road,124.793,,,,,,,,,,,45300709,
+212895752,212895752,0,False,residential,Croissant Circle,144.07,,,,,,,,,,,20134970,
+212895752,212895752,1,False,residential,Croissant Circle,144.07,,,,,,,,,,,20134970,
+212895752,212895804,0,False,residential,Croissant Circle,241.264,,,,,,,,,,,20134973,
+212895804,212895752,0,False,residential,Croissant Circle,241.264,,,,,,,,,,,20134973,
+212895804,213110046,0,False,tertiary,Cosby Manor Road,1342.66,,,,,,,,,,,20150537,CR 29
+212895804,212985112,0,False,tertiary,Cosby Manor Road,121.678,,,,,,,,,,,20150537,CR 29
+212898156,212898170,0,False,residential,Beaumond Place,121.891,,,,,,,,,,,20135138,
+212898156,213162238,0,False,tertiary,Walker Road,321.475,,,,,,,,,,,277746969,CR 92
+212898156,2476085544,0,False,tertiary,Walker Road,124.025,,,,,,,,,,,277746969,CR 92
+212898170,212898178,0,False,residential,Beaumond Place,258.207,,,,,,,,,,,20135138,
+212898170,212898156,0,False,residential,Beaumond Place,121.891,,,,,,,,,,,20135138,
+212898170,213052608,0,False,residential,Glendale Place,87.534,,,,,,,,,,,20147021,
+212898178,212898170,0,False,residential,Beaumond Place,258.207,,,,,,,,,,,20135138,
+212898178,213052627,0,False,residential,Northwood Drive,83.676,,,,,,,,,,,20154056,
+212898178,213162238,0,False,residential,Northwood Drive,100.643,,,,,,,,,,,20154056,
+212898779,212898790,0,False,residential,Summerset Way,473.518,,,,,,,,,,,20135192,
+212898779,213110078,0,False,tertiary,Cosby Manor Road,919.076,,,,,,,,,,,20150537,CR 29
+212898779,213110046,0,False,tertiary,Cosby Manor Road,145.894,,,,,,,,,,,20150537,CR 29
+212898790,212898779,0,False,residential,Summerset Way,473.518,,,,,,,,,,,20135192,
+212898790,212898790,0,False,residential,Summerset Way,91.13,,,,,,,,,,,20135196,
+212898790,212898790,1,False,residential,Summerset Way,91.13,,,,,,,,,,,20135196,
+212901503,212901507,0,False,residential,Lynn Place,45.749,,,,,,,,,,,20135388,
+212901507,212901503,0,False,residential,Lynn Place,45.749,,,,,,,,,,,20135388,
+212901507,212971116,0,False,residential,Carver Street,76.949,,,,,,,,,,,20142811,
+212901507,213001592,0,False,residential,Carver Street,76.63,,,,,,,,,,,20142811,
+212902399,212902420,0,False,residential,Fairview Place,212.522,,,,,,,,,,,20135467,
+212902399,212910659,0,False,residential,Ravine Drive,114.374,,,,,,,,,,,20153894,
+212902399,213146782,0,False,residential,Ravine Drive,550.846,,,,,,,,,,,20153894,
+212902420,212902423,0,False,residential,Fairview Place,185.293,,,,,,,,,,,20135467,
+212902420,212902399,0,False,residential,Fairview Place,212.522,,,,,,,,,,,20135467,
+212902420,213052627,0,False,residential,Northwood Drive,90.664,,,,,,,,,,,20154056,
+212902423,212902420,0,False,residential,Fairview Place,185.293,,,,,,,,,,,20135467,
+212902423,212910681,0,False,residential,Highview Drive,161.73,,,,,,,,,,,20143805,
+212902423,213014788,0,False,residential,Highview Drive,211.981,,,,,,,,,,,20143805,
+212909153,212960187,0,False,residential,Gladys Street,38.635,,,,,,,,,,,20149966,
+212909153,212965523,0,False,residential,Gladys Street,55.155,,,,,,,,,,,20149966,
+212910659,212910681,0,False,residential,Kraft Drive,336.758,,,,,,,,,,,20136194,
+212910659,212910681,1,False,residential,"['Highview Drive', 'Ravine Drive']",459.724,,,,,,,,,,,"[20143805, 20153894]",
+212910659,212902399,0,False,residential,Ravine Drive,114.374,,,,,,,,,,,20153894,
+212910681,212902423,0,False,residential,Highview Drive,161.73,,,,,,,,,,,20143805,
+212910681,212910659,0,False,residential,Kraft Drive,336.758,,,,,,,,,,,20136194,
+212910681,212910659,1,False,residential,"['Ravine Drive', 'Highview Drive']",459.724,,,,,,,,,,,"[20143805, 20153894]",
+212912538,212979397,0,False,tertiary,Trenton Road,267.144,,,,,,,,,,,45300944,CR 91
+212912538,213079290,0,False,tertiary,Trenton Road,119.84,,,,,,,,,,,45300944,CR 91
+212912538,212912552,0,False,residential,Tarlton Road,396.709,,,,,,,,,,,20136321,
+212912552,212912555,0,False,residential,Tarlton Road,42.792,,,,,,,,,,,20136321,
+212912552,212912538,0,False,residential,Tarlton Road,396.709,,,,,,,,,,,20136321,
+212912552,212979405,0,False,residential,Tarlton Drive,201.252,,,,,,,,,,,20141185,
+212912555,212912552,0,False,residential,Tarlton Road,42.792,,,,,,,,,,,20136321,
+212916804,212916827,0,False,residential,Ramblewood Drive South,127.499,,,,,,,,,,,20136668,
+212916804,213062989,0,False,residential,Evergreen Drive,93.53,,,,,,,,,,,20148638,
+212916804,213063024,0,False,residential,Ramblewood Drive,511.412,,,,,,,,,,,20152453,
+212916827,212916804,0,False,residential,Ramblewood Drive South,127.499,,,,,,,,,,,20136668,
+212921272,212986541,0,False,residential,Forrest Street,607.975,,,,,,,,,,,20143280,
+212921272,213096303,0,False,residential,Gladys Street,56.595,,,,,,,,,,,20149966,
+212923658,212953310,0,False,residential,Branch,117.77,,,,,,,,,,,20139180,
+212923658,212971118,0,False,residential,"['Daytonna Street', 'Brigham Place']",166.963,,,,,,,,,,,"[20147530, 20137187]",
+212923658,212971116,0,False,residential,"['Daytonna Street', 'Carver Street']",168.666,,,,,,,,,,,"[20137187, 20142811]",
+212953305,213001592,0,False,tertiary,Trenton Road,77.091,,,,,,,,,,,45300944,CR 91
+212953305,213060511,0,False,tertiary,Trenton Road,75.184,,,,,,,,,,,45300944,CR 91
+212953305,212953310,0,False,residential,Branch,153.761,,,,,,,,,,,20139180,
+212953310,212923658,0,False,residential,Branch,117.77,,,,,,,,,,,20139180,
+212953310,212971118,0,False,residential,Hewey Street,76.551,,,,,,,,,,,20140643,
+212953310,212971116,0,False,residential,Hewey Street,76.077,,,,,,,,,,,20140643,
+212953310,212953305,0,False,residential,Branch,153.761,,,,,,,,,,,20139180,
+212958685,213060464,0,False,tertiary_link,Firehouse Road,198.941,,,,,,,,,,,20147521,
+212958685,213060410,0,False,tertiary_link,Firehouse Road,429.802,,,,,,,,,,,20147521,
+212960160,212986541,0,False,residential,Pauline Avenue,89.793,,,,,,,,,,,20141724,
+212960160,212965500,0,False,residential,Pauline Avenue,62.33,,,,,,,,,,,20141724,
+212960160,212960187,0,False,residential,Marnie Street,498.846,,,,,,,,,,,20139755,
+212960187,213096303,0,False,residential,Gladys Street,37.37,,,,,,,,,,,20149966,
+212960187,212909153,0,False,residential,Gladys Street,38.635,,,,,,,,,,,20149966,
+212960187,212960160,0,False,residential,Marnie Street,498.846,,,,,,,,,,,20139755,
+212964477,212964477,0,False,residential,Schoolhouse Road,149.777,,,,,,,,,,,20140115,
+212964477,212964477,1,False,residential,Schoolhouse Road,149.777,,,,,,,,,,,20140115,
+212964477,212964524,0,False,residential,Schoolhouse Road,156.905,,,,,,,,,,,20140117,
+212964524,213104668,0,False,tertiary,Trenton Road,153.975,,,,,,,,,,,45300944,CR 91
+212964524,212979397,0,False,tertiary,Trenton Road,122.335,,,,,,,,,,,45300944,CR 91
+212964524,212964477,0,False,residential,Schoolhouse Road,156.905,,,,,,,,,,,20140117,
+212965489,213060511,0,False,tertiary,Trenton Road,39.544,,,,,,,,,,,45300944,CR 91
+212965489,213104668,0,False,tertiary,Trenton Road,35.877,,,,,,,,,,,45300944,CR 91
+212965489,212965500,0,False,residential,Floyd Avenue,118.589,,,,,,,,,,,20140223,
+212965500,212960160,0,False,residential,Pauline Avenue,62.33,,,,,,,,,,,20141724,
+212965500,212965523,0,False,residential,Floyd Avenue,415.78,,,,,,,,,,,20140223,
+212965500,212965523,1,False,residential,"['Pauline Avenue', 'Pauline Street', 'Gladys Street']",522.884,,,,,,,,,,,"[20141724, 20147645, 20149966]",
+212965500,212965489,0,False,residential,Floyd Avenue,118.589,,,,,,,,,,,20140223,
+212965523,212909153,0,False,residential,Gladys Street,55.155,,,,,,,,,,,20149966,
+212965523,212965500,0,False,residential,Floyd Avenue,415.78,,,,,,,,,,,20140223,
+212965523,212965500,1,False,residential,"['Pauline Avenue', 'Pauline Street', 'Gladys Street']",522.884,,,,,,,,,,,"[20141724, 20147645, 20149966]",
+212971113,212971116,0,False,residential,Hewey Street,82.131,,,,,,,,,,,20140643,
+212971116,212953310,0,False,residential,Hewey Street,76.077,,,,,,,,,,,20140643,
+212971116,212971113,0,False,residential,Hewey Street,82.131,,,,,,,,,,,20140643,
+212971116,212901507,0,False,residential,Carver Street,76.949,,,,,,,,,,,20142811,
+212971116,212923658,0,False,residential,"['Daytonna Street', 'Carver Street']",168.666,,,,,,,,,,,"[20142811, 20137187]",
+212971118,212953310,0,False,residential,Hewey Street,76.551,,,,,,,,,,,20140643,
+212971118,213104668,0,False,residential,"['Hewey Street', 'Bond Street']",223.676,,,,,,,,,,,"[20151899, 20140643]",
+212971118,212923658,0,False,residential,"['Daytonna Street', 'Brigham Place']",166.963,,,,,,,,,,,"[20147530, 20137187]",
+212971118,213060511,0,False,residential,Brigham Place,153.274,,,,,,,,,,,20147530,
+212979397,212964524,0,False,tertiary,Trenton Road,122.335,,,,,,,,,,,45300944,CR 91
+212979397,212912538,0,False,tertiary,Trenton Road,267.144,,,,,,,,,,,45300944,CR 91
+212979397,212979405,0,False,residential,Tarlton Drive,78.392,,,,,,,,,,,20141185,
+212979405,212912552,0,False,residential,Tarlton Drive,201.252,,,,,,,,,,,20141185,
+212979405,212979397,0,False,residential,Tarlton Drive,78.392,,,,,,,,,,,20141185,
+212979405,212986541,0,False,residential,Pauline Avenue,176.004,,,,,,,,,,,20141724,
+212985082,213109967,0,False,tertiary,Walker Road,166.545,,,,,,,,,,,277746969,CR 92
+212985082,213060410,0,False,tertiary,Walker Road,32.643,,,,,,,,,,,277746969,CR 92
+212985082,212985112,0,False,residential,Hedgewood Place,262.039,,,,,,,,,,,20141626,
+212985112,212985082,0,False,residential,Hedgewood Place,262.039,,,,,,,,,,,20141626,
+212985112,212895804,0,False,tertiary,Cosby Manor Road,121.678,,,,,,,,,,,20150537,CR 29
+212985112,213109967,0,False,tertiary,Cosby Manor Road,79.805,,,,,,,,,,,20150537,CR 29
+212986541,212960160,0,False,residential,Pauline Avenue,89.793,,,,,,,,,,,20141724,
+212986541,212979405,0,False,residential,Pauline Avenue,176.004,,,,,,,,,,,20141724,
+212986541,212921272,0,False,residential,Forrest Street,607.975,,,,,,,,,,,20143280,
+213001592,212901507,0,False,residential,Carver Street,76.63,,,,,,,,,,,20142811,
+213001592,212953305,0,False,tertiary,Trenton Road,77.091,,,,,,,,,,,45300944,CR 91
+213001592,213060464,0,False,tertiary,Trenton Road,327.159,,,,,,,,,,,45300944,CR 91
+213014788,213162238,0,False,tertiary,Walker Road,190.564,,,,,,,,,,,277746969,CR 92
+213014788,212902423,0,False,residential,Highview Drive,211.981,,,,,,,,,,,20143805,
+213046310,213065398,0,False,tertiary,Cosby Manor Road,608.192,,,,,,,,,,,20150537,CR 29
+213046415,212887714,0,False,unclassified,Seymour Road,124.793,,,,,,,,,,,45300709,
+213049261,213049261,0,False,residential,Redfox Circle,56.539,,,,,,,,,,,20146822,
+213049261,213049261,1,False,residential,Redfox Circle,56.539,,,,,,,,,,,20146822,
+213049261,213063009,0,False,residential,Red Fox Circle,35.612,,,,,,,,,,,20152512,
+213052608,213052627,0,False,residential,Glendale Place,272.49,,,,,,,,,,,20147021,
+213052608,212898170,0,False,residential,Glendale Place,87.534,,,,,,,,,,,20147021,
+213052608,213146782,0,False,residential,Wells Drive,257.031,,,,,,,,,,,20152905,
+213052627,213052608,0,False,residential,Glendale Place,272.49,,,,,,,,,,,20147021,
+213052627,212902420,0,False,residential,Northwood Drive,90.664,,,,,,,,,,,20154056,
+213052627,212898178,0,False,residential,Northwood Drive,83.676,,,,,,,,,,,20154056,
+213060410,212985082,0,False,tertiary,Walker Road,32.643,,,,,,,,,,,277746969,CR 92
+213060410,212958685,0,False,tertiary_link,Firehouse Road,429.802,,,,,,,,,,,20147521,
+213060464,212958685,0,False,tertiary_link,Firehouse Road,198.941,,,,,,,,,,,20147521,
+213060464,213001592,0,False,tertiary,Trenton Road,327.159,,,,,,,,,,,45300944,CR 91
+213060511,212953305,0,False,tertiary,Trenton Road,75.184,,,,,,,,,,,45300944,CR 91
+213060511,212965489,0,False,tertiary,Trenton Road,39.544,,,,,,,,,,,45300944,CR 91
+213060511,212971118,0,False,residential,Brigham Place,153.274,,,,,,,,,,,20147530,
+213062989,213062995,0,False,residential,Tumbleweed Drive,104.529,,,,,,,,,,,20147698,
+213062989,212916804,0,False,residential,Evergreen Drive,93.53,,,,,,,,,,,20148638,
+213062989,213079290,0,False,residential,Evergreen Drive,140.149,,,,,,,,,,,20148638,
+213062995,213063009,0,False,residential,Tumbleweed Drive,171.84,,,,,,,,,,,20147698,
+213062995,213062989,0,False,residential,Tumbleweed Drive,104.529,,,,,,,,,,,20147698,
+213062995,213063024,0,False,residential,Ramblewood Drive,461.688,,,,,,,,,,,20152453,
+213063009,213063024,0,False,residential,Tumbleweed Drive,142.316,,,,,,,,,,,20147698,
+213063009,213062995,0,False,residential,Tumbleweed Drive,171.84,,,,,,,,,,,20147698,
+213063009,213049261,0,False,residential,Red Fox Circle,35.612,,,,,,,,,,,20152512,
+213063024,213063009,0,False,residential,Tumbleweed Drive,142.316,,,,,,,,,,,20147698,
+213063024,213062995,0,False,residential,Ramblewood Drive,461.688,,,,,,,,,,,20152453,
+213063024,212916804,0,False,residential,Ramblewood Drive,511.412,,,,,,,,,,,20152453,
+213065398,213110078,0,False,tertiary,Cosby Manor Road,216.055,,,,,,,,,,,20150537,CR 29
+213065398,213046310,0,False,tertiary,Cosby Manor Road,608.192,,,,,,,,,,,20150537,CR 29
+213079290,212912538,0,False,tertiary,Trenton Road,119.84,,,,,,,,,,,45300944,CR 91
+213079290,213104663,0,False,tertiary,Trenton Road,62.469,,,,,,,,,,,45300944,CR 91
+213079290,213062989,0,False,residential,Evergreen Drive,140.149,,,,,,,,,,,20148638,
+213096303,212960187,0,False,residential,Gladys Street,37.37,,,,,,,,,,,20149966,
+213096303,212921272,0,False,residential,Gladys Street,56.595,,,,,,,,,,,20149966,
+213104588,212873417,0,True,tertiary,Trenton Road,510.556,,,,,,,,,,,45135801,CR 91
+213104588,213109581,0,False,residential,Mulaney Road,51.572,,,,,,,,,,,45135816,
+213104588,213104663,0,False,tertiary,Trenton Road,102.197,,,,,,,,,,,45300944,CR 91
+213104663,213079290,0,False,tertiary,Trenton Road,62.469,,,,,,,,,,,45300944,CR 91
+213104663,213168325,0,False,residential,Dons Ford Drive,281.269,,,,,,,,,,,20154616,
+213104663,213104588,0,False,tertiary,Trenton Road,102.197,,,,,,,,,,,45300944,CR 91
+213104668,212965489,0,False,tertiary,Trenton Road,35.877,,,,,,,,,,,45300944,CR 91
+213104668,212964524,0,False,tertiary,Trenton Road,153.975,,,,,,,,,,,45300944,CR 91
+213104668,212971118,0,False,residential,"['Hewey Street', 'Bond Street']",223.676,,,,,,,,,,,"[20151899, 20140643]",
+213109505,213109505,0,False,residential,Domser Drive,137.016,,,,,,,,,,,20150506,
+213109505,213109505,1,False,residential,Domser Drive,137.016,,,,,,,,,,,20150506,
+213109505,213109581,0,False,residential,Domser Drive,320.509,,,,,,,,,,,20150507,
+213109581,213109505,0,False,residential,Domser Drive,320.509,,,,,,,,,,,20150507,
+213109581,213104588,0,False,residential,Mulaney Road,51.572,,,,,,,,,,,45135816,
+213109581,212867749,0,False,residential,Mulaney Road,142.4,,,,,,,,,,,45135816,
+213109967,213128539,0,False,tertiary,Walker Road,129.869,,,,,,,,,,,277746969,CR 92
+213109967,212985082,0,False,tertiary,Walker Road,166.545,,,,,,,,,,,277746969,CR 92
+213109967,212985112,0,False,tertiary,Cosby Manor Road,79.805,,,,,,,,,,,20150537,CR 29
+213110046,212898779,0,False,tertiary,Cosby Manor Road,145.894,,,,,,,,,,,20150537,CR 29
+213110046,212895804,0,False,tertiary,Cosby Manor Road,1342.66,,,,,,,,,,,20150537,CR 29
+213110046,213165151,0,False,residential,Prescott Road,515.095,,,,,,,,,,,20154285,
+213110078,213065398,0,False,tertiary,Cosby Manor Road,216.055,,,,,,,,,,,20150537,CR 29
+213110078,212898779,0,False,tertiary,Cosby Manor Road,919.076,,,,,,,,,,,20150537,CR 29
+213123687,213123687,0,False,residential,Deland Drive,59.611,,,,,,,,,,,20151375,
+213123687,213123687,1,False,residential,Deland Drive,59.611,,,,,,,,,,,20151375,
+213128484,213128484,0,False,residential,Woodruff Terrace,96.718,,,,,,,,,,,20151643,
+213128484,213128484,1,False,residential,Woodruff Terrace,96.718,,,,,,,,,,,20151643,
+213128484,213128539,0,False,residential,Woodruff Terrace,138.503,,,,,,,,,,,20151644,
+213128539,213146774,0,False,tertiary,Walker Road,110.707,,,,,,,,,,,277746969,CR 92
+213128539,213109967,0,False,tertiary,Walker Road,129.869,,,,,,,,,,,277746969,CR 92
+213128539,213128484,0,False,residential,Woodruff Terrace,138.503,,,,,,,,,,,20151644,
+213146774,2476085544,0,False,tertiary,Walker Road,53.301,,,,,,,,,,,277746969,CR 92
+213146774,213128539,0,False,tertiary,Walker Road,110.707,,,,,,,,,,,277746969,CR 92
+213146774,213146782,0,False,residential,Wells Drive,116.294,,,,,,,,,,,20152902,
+213146782,213146774,0,False,residential,Wells Drive,116.294,,,,,,,,,,,20152902,
+213146782,213052608,0,False,residential,Wells Drive,257.031,,,,,,,,,,,20152905,
+213146782,212902399,0,False,residential,Ravine Drive,550.846,,,,,,,,,,,20153894,
+213162238,213014788,0,False,tertiary,Walker Road,190.564,,,,,,,,,,,277746969,CR 92
+213162238,212898178,0,False,residential,Northwood Drive,100.643,,,,,,,,,,,20154056,
+213162238,212898156,0,False,tertiary,Walker Road,321.475,,,,,,,,,,,277746969,CR 92
+213165151,213110046,0,False,residential,Prescott Road,515.095,,,,,,,,,,,20154285,
+213168325,213104663,0,False,residential,Dons Ford Drive,281.269,,,,,,,,,,,20154616,
+2476085539,2476085547,0,False,residential,Daniel Court,102.289,,,,,,,,,,,239828643,
+2476085544,213146774,0,False,tertiary,Walker Road,53.301,,,,,,,,,,,277746969,CR 92
+2476085544,2476085547,0,False,residential,Keri Lane,197.69,,,,,,,,,,,239828647,
+2476085544,212898156,0,False,tertiary,Walker Road,124.025,,,,,,,,,,,277746969,CR 92
+2476085547,2476085554,0,False,residential,Keri Lane,120.475,,,,,,,,,,,239828647,
+2476085547,2476085539,0,False,residential,Daniel Court,102.289,,,,,,,,,,,239828643,
+2476085547,2476085544,0,False,residential,Keri Lane,197.69,,,,,,,,,,,239828647,
+2476085554,2476085547,0,False,residential,Keri Lane,120.475,,,,,,,,,,,239828647,
+2476085554,2476085554,0,False,residential,Keri Lane,123.546,,,,,,,,,,,239828647,
+2476085554,2476085554,1,False,residential,Keri Lane,123.546,,,,,,,,,,,239828647,

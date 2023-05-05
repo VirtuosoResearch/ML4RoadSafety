@@ -1,0 +1,401 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+71755198,71911338,0,False,primary,Broad Street,87.67,4,28.4,,,,,,,,,9431330,US 202;MA 10
+71755198,71938554,0,True,primary,Broad Street,195.812,2,32.6,,,,,,,,,9433181,US 202;MA 10
+71756374,71795493,0,False,primary_link,,17.718,,,,,,,,,,,32480828,
+71756374,71870763,0,True,primary,Court Street,58.02,2,42.7,,,,,,,,,9433005,US 202;MA 10
+71756539,959454722,0,False,residential,Morris Avenue,90.313,2,15.2,,,,,,,,,9431551,
+71756539,71870779,0,False,residential,Morris Street,153.335,2,15.2,,,,,,,,,9431634,
+71756539,71871426,0,False,residential,Ford Avenue,136.586,1,6.1,,,,,,,,,9433504,
+71761429,71801722,0,False,tertiary,Washington Street,10.793,2,17.1,,,,,,,,,9433282,
+71761429,71756374,0,True,secondary,Court Street,122.484,2,42.7,,,,,,,,,9432077,
+71762040,71960409,0,False,residential,Birge Avenue,137.562,2,9.1,,,,,,,,,9432894,
+71762176,71911338,0,False,residential,Yale Street,168.955,2,11.0,,,,,,,,,9433079,
+71762176,71920178,0,False,residential,Holland Avenue,26.704,2,15.2,,,,,,,,,9433124,
+71762176,71825776,0,False,residential,Holland Avenue,63.872,2,15.2,,,,,,,,,9433124,
+71762811,71834314,0,False,residential,Otis Street,153.956,2,15.2,,,,,,,,,9431600,
+71763009,71824983,0,False,tertiary,Arnold Street,126.668,2,9.1,,,,,,,,,9433165,
+71763009,71933023,0,False,tertiary,Washington Street,30.419,2,17.1,,,,,,,,,9433282,
+71763009,71828552,0,False,tertiary,Washington Street,100.536,2,17.1,,,,,,,,,9433282,
+71765850,71774823,0,False,residential,East Bartlett Street,114.547,2,15.2,,,,,,,,,9431419,
+71765850,71930468,0,False,residential,Phelps Avenue,134.61,2,6.1,,,,,,,,,9432996,
+71765850,71803873,0,False,residential,East Bartlett Street,100.868,2,15.2,,,,,,,,,9431419,
+71766360,71965883,0,False,residential,Lindbergh Boulevard,475.466,2,15.2,,,,,,,,,9432110,
+71766360,71848626,0,False,secondary,East Silver Street,134.088,2,,,,,,,,,,92005077,
+71766360,71958880,0,False,secondary,East Silver Street,43.819,2,,,,,,,,,,92005077,
+71768791,71873967,0,False,primary,Broad Street,57.095,4,28.4,,,,,,,,,9431330,US 202;MA 10
+71768791,71933829,0,False,secondary,East Silver Street,47.307,,,,,,,,,,,9431832,
+71768791,71820685,0,True,secondary,West Silver Street,64.854,,31.7,,,,,,,,,9431956,
+71770170,71960409,0,False,tertiary,Mechanic Street,104.446,2,15.9,,,,,,,,,9431532,
+71770170,245494344,0,False,tertiary,Mechanic Street,108.946,2,15.9,,,,,,,,,9431532,
+71770490,71956930,0,False,tertiary,Thomas Street,62.282,2,10.1,,,,,,,,,9432866,
+71770490,71967859,0,False,tertiary,Thomas Street,110.673,2,10.1,,,,,,,,,9432866,
+71770490,71886251,0,False,residential,Monroe Street,112.306,2,10.1,,,,,,,,,9432955,
+71770811,71860376,0,False,secondary,Meadow Street,40.28,2,14.6,,,,,,,,,9431464,
+71770811,71988106,0,False,secondary,Meadow Street,56.402,2,14.6,,,,,,,,,9431464,
+71770811,71868170,0,False,residential,Otis Street,237.485,2,15.2,,,,,,,,,9431600,
+71772246,71798433,0,True,primary,Broad Street,59.496,2,32.6,,,,,,,,,9431421,US 202;MA 10
+71772246,71918980,0,True,primary,Main Street,84.239,2,32.6,,,,,,,,,9433308,US 20
+71774823,71829038,0,False,residential,East Bartlett Street,84.443,2,15.2,,,,,,,,,9431419,
+71774823,71765850,0,False,residential,East Bartlett Street,114.547,2,15.2,,,,,,,,,9431419,
+71774823,71941992,0,False,residential,Lewis Street,134.069,2,14.9,,,,,,,,,9431342,
+71780287,71981880,0,False,residential,George Street,331.749,2,15.2,,,,,,,,,9431386,
+71780287,71987357,0,False,residential,George Street,83.294,2,15.2,,,,,,,,,9431386,
+71780287,71933961,0,False,residential,Parkside Avenue,82.784,2,14.9,,,,,,,,,9433025,
+71780631,71829788,0,False,tertiary,Orange Street,77.727,2,14.9,,,,,,,,,9431751,
+71780631,959454722,0,False,tertiary,Orange Street,90.385,2,14.9,,,,,,,,,9431751,
+71782647,71958880,0,False,secondary,East Silver Street,18.816,2,,,,,,,,,,92005077,
+71782647,71874430,0,False,secondary,East Silver Street,35.157,2,,,,,,,,,,92005077,
+71782647,71950093,0,False,residential,Cross Street,156.954,2,12.2,,,,,,,,,9431402,
+71791818,71826453,0,False,unclassified,,103.111,,,,,,,,,,,9432271,
+71791818,71849544,0,False,tertiary,Arnold Street,110.453,2,9.1,,,,,,,,,9433165,
+71791818,71824983,0,False,tertiary,Arnold Street,28.658,2,9.1,,,,,,,,,9433165,
+71793211,71942743,0,False,residential,Emery Street,81.07,2,,,,,,,,,,9433178,
+71793211,1547487060,0,True,primary,Elm Street,41.749,2,,,,,,,,,,45026454,US 202;MA 10
+71795493,71756374,0,False,primary_link,,17.718,,,,,,,,,,,32480828,
+71795493,71801722,0,True,secondary,Court Street,122.526,2,42.7,,,,,,,,,9432076,
+71795876,71820705,0,False,residential,Park Street,129.556,1,9.1,,,,,,,,,9431686,
+71796371,71899008,0,False,residential,Williams Riding Way,81.814,1,9.1,,,,,,,,,9431471,
+71796378,71929042,0,False,tertiary,Washington Street,17.124,2,17.1,,,,,,,,,9433282,
+71796378,71837087,0,False,tertiary,Washington Street,61.677,2,17.1,,,,,,,,,9433282,
+71798433,71962875,0,True,tertiary,School Street,37.69,2,11.6,,,,,,,,,9431592,
+71798433,607223393,0,True,primary,,81.632,2,29.3,,,,,,,,,9431769,US 20;US 202;MA 10
+71798433,71899335,0,True,primary,Elm Street,72.908,,29.3,,,,,,,,,9431793,US 202;MA 10
+71800707,71869034,0,False,residential,Holland Avenue,23.821,2,15.2,,,,,,,,,9433124,
+71800707,71963389,0,False,residential,Holland Avenue,68.508,2,15.2,,,,,,,,,9433124,
+71801722,71761429,0,False,tertiary,Washington Street,10.793,2,17.1,,,,,,,,,9433282,
+71801722,71837087,0,False,tertiary,Washington Street,111.353,2,17.1,,,,,,,,,9433282,
+71801958,71795493,0,True,primary,Court Street,56.718,2,42.7,,30 mph,,,,,,,9431863,US 202;MA 10
+71801958,71870763,0,False,residential,Holland Avenue,17.236,2,15.2,,,,,,,,,9433124,
+71803873,71826908,0,False,tertiary,Mechanic Street,182.397,2,15.9,,,,,,,,,9431532,
+71803873,71765850,0,False,residential,East Bartlett Street,100.868,2,15.2,,,,,,,,,9431419,
+71803873,71960409,0,False,tertiary,Mechanic Street,112.612,2,15.9,,,,,,,,,9431532,
+71803873,71927147,0,False,residential,Bartlett Street,210.359,2,14.3,,,,,,,,,9432980,
+71806775,71868170,0,False,residential,Lawton Street,95.405,2,9.1,,,,,,,,,9431563,
+71806775,71903095,0,False,residential,Miller Street,178.632,2,12.2,,,,,,,,,9431987,
+71806775,71900931,0,False,residential,Miller Street,288.579,2,12.2,,,,,,,,,9431987,
+71807874,71843911,0,False,secondary,Noble Street,31.719,2,13.7,,,,,,,,,9432879,
+71812618,71820705,0,False,residential,Sycamore Street,76.529,2,9.1,,,,,,,,,9431403,
+71812618,71981811,0,False,residential,Saint Paul Street,171.235,2,15.2,,,,,,,,,9433041,
+71812618,71881389,0,False,residential,Saint Paul Street,205.547,2,15.2,,,,,,,,,9433041,
+71812618,71951086,0,False,residential,Sycamore Street,224.973,2,9.1,,,,,,,,,9433442,
+71818991,71826908,0,False,secondary,Meadow Street,145.568,2,14.3,,,,,,,,,9432023,
+71819721,71981880,0,False,secondary,Meadow Street,36.362,2,14.6,,,,,,,,,9431464,
+71819721,71860376,0,False,secondary,Meadow Street,48.424,2,14.6,,,,,,,,,9431464,
+71819721,71930508,0,False,residential,Fowler Street,374.51,2,15.2,,,,,,,,,9432278,
+71820685,71935304,0,True,primary,West Silver Street,16.124,,31.7,,,,,,,,,9431375,
+71820705,71812618,0,False,residential,Sycamore Street,76.529,2,9.1,,,,,,,,,9431403,
+71820705,71795876,0,False,residential,Park Street,129.556,1,9.1,,,,,,,,,9431686,
+71820705,71881389,0,False,residential,"['Park Street', 'Hanover Street']",281.992,"['2', '1']","['9.1', '15.2']",,,,,,,,,"[9433067, 9431686]",
+71821478,71833015,0,False,residential,Provin Terrace,70.268,1,4.6,,,,,,,,,9433027,
+71821478,71967296,0,False,primary,Franklin Street,43.304,4,30.2,,,,,,,,,589975489,US 20
+71821478,71826858,0,False,primary,Franklin Street,63.561,4,30.2,,,,,,,,,589975489,US 20
+71823087,71851176,0,False,primary,Franklin Street,121.016,4,30.2,,,,,,,,,589975489,US 20
+71823087,71826858,0,False,primary,Franklin Street,145.337,4,30.2,,,,,,,,,589975489,US 20
+71823087,71859639,0,False,tertiary,Summer Street,94.791,2,10.1,,,,,,,,,9432051,
+71823087,71870779,0,False,residential,Maple Street,119.859,2,10.7,,,,,,,,,9433081,
+71824467,71951086,0,False,secondary,Meadow Street,36.568,2,14.6,,,,,,,,,9431464,
+71824467,71829038,0,False,residential,White Street,115.962,2,15.2,,,,,,,,,9431492,
+71824467,71863816,0,False,secondary,Meadow Street,91.703,2,14.6,,,,,,,,,9431464,
+71824914,71825308,0,False,residential,Clinton Avenue,99.832,2,12.5,,,,,,,,,9433000,
+71824983,71791818,0,False,tertiary,Arnold Street,28.658,2,9.1,,,,,,,,,9433165,
+71824983,71763009,0,False,tertiary,Arnold Street,126.668,2,9.1,,,,,,,,,9433165,
+71824983,71859639,0,False,tertiary,Summer Street,83.803,2,10.1,,,,,,,,,9432051,
+71825308,71903197,0,False,residential,Belvedere Gardens,56.914,1,4.3,,,,,,,,,9431491,
+71825308,71868635,0,False,residential,Clinton Avenue,131.497,2,12.5,,,,,,,,,9433000,
+71825308,71824914,0,False,residential,Clinton Avenue,99.832,2,12.5,,,,,,,,,9433000,
+71825776,71840786,0,False,residential,Bush Street,173.175,2,14.6,,,,,,,,,9431923,
+71825776,71762176,0,False,residential,Holland Avenue,63.872,2,15.2,,,,,,,,,9433124,
+71825776,71869034,0,False,residential,Holland Avenue,114.964,2,15.2,,,,,,,,,9433124,
+71826453,71791818,0,False,unclassified,,103.111,,,,,,,,,,,9432271,
+71826453,71828552,0,False,residential,Church Street,147.097,2,11.6,,,,,,,,,9433094,
+71826453,71908224,0,False,residential,Church Street,117.205,2,11.6,,,,,,,,,9433094,
+71826858,71961372,0,False,tertiary,Washington Street,100.914,2,17.1,,,,,,,,,9433282,
+71826858,71823087,0,False,primary,Franklin Street,145.337,4,30.2,,,,,,,,,589975489,US 20
+71826858,71821478,0,False,primary,Franklin Street,63.561,4,30.2,,,,,,,,,589975489,US 20
+71826908,71803873,0,False,tertiary,Mechanic Street,182.397,2,15.9,,,,,,,,,9431532,
+71826908,71818991,0,False,secondary,Meadow Street,145.568,2,14.3,,,,,,,,,9432023,
+71826908,71904313,0,False,secondary,Meadow Street,174.576,2,12.8,,,,,,,,,9433200,
+71828552,71826453,0,False,residential,Church Street,147.097,2,11.6,,,,,,,,,9433094,
+71828552,71763009,0,False,tertiary,Washington Street,100.536,2,17.1,,,,,,,,,9433282,
+71828552,71929042,0,False,tertiary,Washington Street,65.644,2,17.1,,,,,,,,,9433282,
+71829038,71774823,0,False,residential,East Bartlett Street,84.443,2,15.2,,,,,,,,,9431419,
+71829038,71824467,0,False,residential,White Street,115.962,2,15.2,,,,,,,,,9431492,
+71829038,71921305,0,False,residential,White Street,180.647,2,15.2,,,,,,,,,9431492,
+71829788,71876002,0,False,tertiary,Orange Street,84.714,2,14.9,,,,,,,,,9431751,
+71829788,71780631,0,False,tertiary,Orange Street,77.727,2,14.9,,,,,,,,,9431751,
+71829788,71870779,0,False,residential,Maple Street,103.664,2,10.7,,,,,,,,,9433081,
+71833015,71821478,0,False,residential,Provin Terrace,70.268,1,4.6,,,,,,,,,9433027,
+71833241,71855155,0,False,secondary,East Silver Street,20.318,2,,,,,,,,,,92005077,
+71833241,71874430,0,False,secondary,East Silver Street,175.246,2,,,,,,,,,,92005077,
+71834314,71903095,0,False,residential,Saint Paul Street,95.313,2,15.2,,,,,,,,,9433041,
+71834314,71762811,0,False,residential,Otis Street,153.956,2,15.2,,,,,,,,,9431600,
+71834314,71868170,0,False,residential,Otis Street,183.93,2,15.2,,,,,,,,,9431600,
+71834314,71930508,0,False,residential,Saint Paul Street,84.703,2,15.2,,,,,,,,,9433041,
+71837087,71796378,0,False,tertiary,Washington Street,61.677,2,17.1,,,,,,,,,9433282,
+71837087,71801722,0,False,tertiary,Washington Street,111.353,2,17.1,,,,,,,,,9433282,
+71837087,71860087,0,False,unclassified,Central Street,205.71,2,10.7,,,,,,,,,9433457,
+71837315,71938554,0,True,primary,Broad Street,77.709,2,12.2,,,,,,,,,9431952,US 20;US 202;MA 10
+71837315,71755198,0,True,primary,Broad Street,156.7,2,32.6,,,,,,,,,9433505,
+71838106,71851176,0,False,primary,Elm Street,88.394,4,24.4,,30 mph,,,,,,,9431961,US 20;US 202;MA 10
+71838106,71849544,0,False,primary,Elm Street,82.346,4,24.4,,30 mph,,,,,,,9431961,US 20;US 202;MA 10
+71838106,71886251,0,True,residential,Chapel Street,110.459,2,9.8,,,,,,,,,9433435,
+71839127,71852278,0,False,residential,White Street,62.033,2,12.2,,,,,,,,,9433302,
+71839127,71921305,0,False,residential,White Street,163.952,2,"['12.2', '15.2']",,,,,,,,,"[9431492, 9433302]",
+71839127,71893604,0,False,residential,Hamlin Place,80.195,2,12.2,,,,,,,,,9433426,
+71840786,71911338,0,False,primary,Broad Street,74.272,4,28.4,,,,,,,,,9431330,US 202;MA 10
+71840786,71884100,0,False,primary,Broad Street,117.532,4,28.4,,,,,,,,,9431330,US 202;MA 10
+71840786,71825776,0,False,residential,Bush Street,173.175,2,14.6,,,,,,,,,9431923,
+71841250,71884100,0,False,primary,Broad Street,110.51,4,28.4,,,,,,,,,9431330,US 202;MA 10
+71841250,71873967,0,False,primary,Broad Street,58.695,4,28.4,,,,,,,,,9431330,US 202;MA 10
+71841250,71963389,0,False,residential,Avery Street,224.468,2,15.2,,,,,,,,,9432105,
+71841558,71967344,0,True,primary,East Main Street,100.072,2,22.9,,,,,,,,,45519604,US 20
+71842641,71956930,0,False,unclassified,Free Street,173.321,2,9.1,,,,,,,,,9431783,
+71842641,71918980,0,False,primary,Main Street,78.702,4,29.3,,,,,,,,,9433337,US 20
+71842641,71859212,0,False,primary,Main Street,94.194,4,32.9,,,,,,,,,9431774,US 20
+71843911,71807874,0,False,secondary,Noble Street,31.719,2,13.7,,,,,,,,,9432879,
+71843911,71850727,0,False,residential,Murphy Circle,63.04,2,15.2,,,,,,,,,9431291,
+71848626,71766360,0,False,secondary,East Silver Street,134.088,2,,,,,,,,,,92005077,
+71849544,71791818,0,False,tertiary,Arnold Street,110.453,2,9.1,,,,,,,,,9433165,
+71849544,71967859,0,False,primary,Elm Street,22.304,4,29.3,,30 mph,,,,,,,50284885,US 202;MA 10
+71849544,71838106,0,False,primary,Elm Street,82.346,4,24.4,,30 mph,,,,,,,9431961,US 20;US 202;MA 10
+71850727,71983996,0,False,residential,Murphy Circle,63.015,2,15.2,,,,,,,,,9431291,
+71850727,71983996,1,False,residential,Danek Drive,292.997,2,15.2,,,,,,,,,9431796,
+71850727,71843911,0,False,residential,Murphy Circle,63.04,2,15.2,,,,,,,,,9431291,
+71851176,71823087,0,False,primary,Franklin Street,121.016,4,30.2,,,,,,,,,589975489,US 20
+71851176,71927147,0,False,primary,Elm Street,157.26,2,19.8,,30 mph,,,,,,,9431273,US 202;MA 10
+71851176,71838106,0,False,primary,Elm Street,88.394,4,24.4,,30 mph,,,,,,,9431961,US 20;US 202;MA 10
+71852278,71860321,0,False,primary,Main Street,52.197,4,18.3,,,,,,,,,9432949,US 20
+71852278,71839127,0,False,residential,White Street,62.033,2,12.2,,,,,,,,,9433302,
+71852278,71868635,0,False,primary,Main Street,53.392,4,32.9,,,,,,,,,9431774,US 20
+71853666,71880435,0,True,primary,Elm Street,21.464,2,,,,,,,,,,45026454,US 202;MA 10
+71853666,71856610,0,False,residential,Cowles Court,117.001,2,8.8,,,,,,,,,9432968,
+71855155,71833241,0,False,secondary,East Silver Street,20.318,2,,,,,,,,,,92005077,
+71855155,71884100,0,False,residential,"['Saint Dennis Street', 'Hedges Avenue']",375.794,2,"['9.1', '15.2']",,,,,,,,,"[9433144, 9431364]",
+71855155,71933829,0,False,secondary,East Silver Street,89.15,2,,,,,,,,,,"[9431832, 92005077]",
+71856610,71853666,0,False,residential,Cowles Court,117.001,2,8.8,,,,,,,,,9432968,
+71858751,71987012,0,False,secondary,Noble Street,99.104,2,13.7,,,,,,,,,9432879,
+71858751,71965883,0,False,residential,Mckinley Terrace,225.074,2,16.8,,,,,,,,,9433265,
+71859212,245494345,0,False,tertiary,Mechanic Street,184.581,2,15.9,,,,,,,,,9431532,
+71859212,71929534,0,False,primary,Main Street,70.712,4,32.9,,,,,,,,,9431774,US 20
+71859212,71842641,0,False,primary,Main Street,94.194,4,32.9,,,,,,,,,9431774,US 20
+71859639,71823087,0,False,tertiary,Summer Street,94.791,2,10.1,,,,,,,,,9432051,
+71859639,71824983,0,False,tertiary,Summer Street,83.803,2,10.1,,,,,,,,,9432051,
+71859639,71961372,0,False,residential,Spring Street,133.824,2,15.2,,,,,,,,,9432919,
+71860087,71929042,0,True,tertiary,School Street,142.691,2,11.6,,,,,,,,,9431592,
+71860087,71837087,0,False,unclassified,Central Street,205.71,2,10.7,,,,,,,,,9433457,
+71860321,71987357,0,False,primary,Main Street,6.977,4,18.3,,,,,,,,,9432949,US 20
+71860321,71852278,0,False,primary,Main Street,52.197,4,18.3,,,,,,,,,9432949,US 20
+71860321,71865066,0,False,residential,"['Ashley Street', 'Taylor Avenue']",459.744,2,15.2,,,,,,,,,"[9431865, 9431371]",
+71860376,71770811,0,False,secondary,Meadow Street,40.28,2,14.6,,,,,,,,,9431464,
+71860376,71819721,0,False,secondary,Meadow Street,48.424,2,14.6,,,,,,,,,9431464,
+71860376,71933961,0,False,residential,Frederick Street,258.015,2,14.9,,,,,,,,,9432878,
+71863816,71824467,0,False,secondary,Meadow Street,91.703,2,14.6,,,,,,,,,9431464,
+71863816,71961375,0,False,secondary,Meadow Street,37.377,2,14.6,,,,,,,,,9431464,
+71863816,71921305,0,False,residential,"['White Avenue', 'Dubois Street']",319.72,2,"['15.2', '14.9']",,,,,,,,,"[9431905, 9433333]",
+71865066,71950093,0,False,residential,Ashley Street,167.807,2,15.2,,,,,,,,,9431371,
+71865066,71860321,0,False,residential,"['Ashley Street', 'Taylor Avenue']",459.744,2,15.2,,,,,,,,,"[9431865, 9431371]",
+71865066,71869865,0,False,residential,State Street,376.475,2,18.3,,,,,,,,,9431915,
+71868170,71806775,0,False,residential,Lawton Street,95.405,2,9.1,,,,,,,,,9431563,
+71868170,71834314,0,False,residential,Otis Street,183.93,2,15.2,,,,,,,,,9431600,
+71868170,71770811,0,False,residential,Otis Street,237.485,2,15.2,,,,,,,,,9431600,
+71868635,71852278,0,False,primary,Main Street,53.392,4,32.9,,,,,,,,,9431774,US 20
+71868635,71929534,0,False,primary,Main Street,19.463,4,32.9,,,,,,,,,9431774,US 20
+71868635,71825308,0,False,residential,Clinton Avenue,131.497,2,12.5,,,,,,,,,9433000,
+71869034,71884100,0,False,residential,Woronoco Avenue,194.253,2,14.9,,,,,,,,,9431835,
+71869034,71825776,0,False,residential,Holland Avenue,114.964,2,15.2,,,,,,,,,9433124,
+71869034,71800707,0,False,residential,Holland Avenue,23.821,2,15.2,,,,,,,,,9433124,
+71869865,71865066,0,False,residential,State Street,376.475,2,18.3,,,,,,,,,9431915,
+71869865,71982979,0,False,primary,Main Street,138.282,4,18.3,,,,,,,,,9432949,US 20
+71869865,71987357,0,False,primary,Main Street,75.195,4,18.3,,,,,,,,,9432949,US 20
+71870616,71987012,0,False,primary,Main Street,69.48,4,18.3,,,,,,,,,9432949,US 20
+71870755,71983996,0,False,residential,Murphy Street Extension,76.821,2,12.2,,,,,,,,,9431743,
+71870763,71801958,0,False,residential,Holland Avenue,17.236,2,15.2,,,,,,,,,9433124,
+71870763,71837315,0,True,primary,Court Street,105.295,2,42.7,,,,,,,,,9433005,US 202;MA 10
+71870763,71920178,0,False,residential,Holland Avenue,242.446,2,15.2,,,,,,,,,9433124,
+71870779,71756539,0,False,residential,Morris Street,153.335,2,15.2,,,,,,,,,9431634,
+71870779,71829788,0,False,residential,Maple Street,103.664,2,10.7,,,,,,,,,9433081,
+71870779,71823087,0,False,residential,Maple Street,119.859,2,10.7,,,,,,,,,9433081,
+71871426,71929070,0,False,tertiary,Orange Street,78.836,2,14.9,,,,,,,,,9431751,
+71871426,71756539,0,False,residential,Ford Avenue,136.586,1,6.1,,,,,,,,,9433504,
+71872644,71903095,0,False,residential,Miller Street,136.964,2,12.2,,,,,,,,,9431987,
+71872871,71872871,0,False,residential,Murphy Circle,70.834,2,15.2,,,,,,,,,9431291,
+71872871,71872871,1,False,residential,Murphy Circle,70.834,2,15.2,,,,,,,,,9431291,
+71872871,71983996,0,False,residential,Murphy Circle,80.323,2,15.2,,,,,,,,,9431291,
+71873967,71841250,0,False,primary,Broad Street,58.695,4,28.4,,,,,,,,,9431330,US 202;MA 10
+71873967,71768791,0,False,primary,Broad Street,57.095,4,28.4,,,,,,,,,9431330,US 202;MA 10
+71873967,71820685,0,True,primary_link,,81.973,,28.4,,,,,,,,,9433440,
+71874430,71782647,0,False,secondary,East Silver Street,35.157,2,,,,,,,,,,92005077,
+71874430,71833241,0,False,secondary,East Silver Street,175.246,2,,,,,,,,,,92005077,
+71876002,71880435,0,False,primary,Elm Street,101.915,2,19.8,,30 mph,,,,,,,9431273,US 202;MA 10
+71876002,71927147,0,False,primary,Elm Street,72.254,2,19.8,,30 mph,,,,,,,9431273,US 202;MA 10
+71876002,71829788,0,False,tertiary,Orange Street,84.714,2,14.9,,,,,,,,,9431751,
+71880435,71876002,0,False,primary,Elm Street,101.915,2,19.8,,30 mph,,,,,,,9431273,US 202;MA 10
+71880435,1547487050,0,True,primary,Union Avenue,66.159,2,,,,,,,,,,45026504,US 202;MA 10
+71881389,71812618,0,False,residential,Saint Paul Street,205.547,2,15.2,,,,,,,,,9433041,
+71881389,71820705,0,False,residential,"['Park Street', 'Hanover Street']",281.992,"['2', '1']","['9.1', '15.2']",,,,,,,,,"[9433067, 9431686]",
+71881389,71904313,0,False,residential,Hanover Street,129.182,2,15.2,,,,,,,,,9433067,
+71882212,71933961,0,False,residential,Parkside Avenue,84.536,2,14.9,,,,,,,,,9433025,
+71882212,71988106,0,False,residential,Casimir Street,170.327,2,15.2,,,,,,,,,9433404,
+71882212,71982979,0,False,residential,Casimir Street,93.403,2,15.2,,,,,,,,,9433404,
+71884100,71841250,0,False,primary,Broad Street,110.51,4,28.4,,,,,,,,,9431330,US 202;MA 10
+71884100,71840786,0,False,primary,Broad Street,117.532,4,28.4,,,,,,,,,9431330,US 202;MA 10
+71884100,71855155,0,False,residential,"['Saint Dennis Street', 'Hedges Avenue']",375.794,2,"['9.1', '15.2']",,,,,,,,,"[9433144, 9431364]",
+71884100,71869034,0,False,residential,Woronoco Avenue,194.253,2,14.9,,,,,,,,,9431835,
+71886251,71770490,0,False,residential,Monroe Street,112.306,2,10.1,,,,,,,,,9432955,
+71886251,71770170,0,True,residential,Chapel Street,128.215,2,9.8,,,,,,,,,9433435,
+71888086,71966213,0,False,residential,Ascutney Avenue,81.362,2,6.1,,,,,,,,,9431367,
+71893604,71839127,0,False,residential,Hamlin Place,80.195,2,12.2,,,,,,,,,9433426,
+71899008,71900931,0,False,secondary,Meadow Street,69.95,2,14.6,,,,,,,,,9431464,
+71899008,71937391,0,False,secondary,Meadow Street,135.767,2,14.6,,,,,,,,,9431464,
+71899008,71796371,0,False,residential,Williams Riding Way,81.814,1,9.1,,,,,,,,,9431471,
+71899335,71801958,0,True,primary,Court Street,131.807,2,42.7,,30 mph,,,,,,,9431863,US 202;MA 10
+71899335,71837315,0,True,primary,Elm Street,86.655,2,12.2,,,,,,,,,9433331,US 20;US 202;MA 10
+71900931,71988106,0,False,secondary,Meadow Street,49.105,2,14.6,,,,,,,,,9431464,
+71900931,71899008,0,False,secondary,Meadow Street,69.95,2,14.6,,,,,,,,,9431464,
+71900931,71806775,0,False,residential,Miller Street,288.579,2,12.2,,,,,,,,,9431987,
+71903095,71834314,0,False,residential,Saint Paul Street,95.313,2,15.2,,,,,,,,,9433041,
+71903095,71872644,0,False,residential,Miller Street,136.964,2,12.2,,,,,,,,,9431987,
+71903095,71806775,0,False,residential,Miller Street,178.632,2,12.2,,,,,,,,,9431987,
+71903197,71825308,0,False,residential,Belvedere Gardens,56.914,1,4.3,,,,,,,,,9431491,
+71904313,71930468,0,False,secondary,Meadow Street,29.531,2,12.8,,,,,,,,,9433200,
+71904313,71881389,0,False,residential,Hanover Street,129.182,2,15.2,,,,,,,,,9433067,
+71904313,71826908,0,False,secondary,Meadow Street,174.576,2,12.8,,,,,,,,,9433200,
+71905512,71965883,0,False,residential,Lindbergh Boulevard,93.273,2,15.2,,,,,,,,,9432110,
+71905512,71987012,0,False,primary,Main Street,225.456,4,18.3,,,,,,,,,9432949,US 20
+71905512,71937391,0,False,primary,Main Street,79.42,4,18.3,,,,,,,,,9432949,US 20
+71908224,71826453,0,False,residential,Church Street,117.205,2,11.6,,,,,,,,,9433094,
+71908224,71967859,0,False,primary,Elm Street,83.6,4,29.3,,30 mph,,,,,,,50284885,US 202;MA 10
+71908224,607223393,0,False,primary,Elm Street,5.72,4,29.3,,30 mph,,,,,,,50284885,US 202;MA 10
+71911338,71755198,0,False,primary,Broad Street,87.67,4,28.4,,,,,,,,,9431330,US 202;MA 10
+71911338,71840786,0,False,primary,Broad Street,74.272,4,28.4,,,,,,,,,9431330,US 202;MA 10
+71911338,71762176,0,False,residential,Yale Street,168.955,2,11.0,,,,,,,,,9433079,
+71918980,71842641,0,False,primary,Main Street,78.702,4,29.3,,,,,,,,,9433337,US 20
+71918980,71798433,0,True,primary,Main Street,79.534,2,29.3,,,,,,,,,9433288,US 20
+71920178,71870763,0,False,residential,Holland Avenue,242.446,2,15.2,,,,,,,,,9433124,
+71920178,71762176,0,False,residential,Holland Avenue,26.704,2,15.2,,,,,,,,,9433124,
+71921305,71965083,0,False,residential,North Cherry Street,73.16,2,11.0,,,,,,,,,9433484,
+71921305,71829038,0,False,residential,White Street,180.647,2,15.2,,,,,,,,,9431492,
+71921305,71839127,0,False,residential,White Street,163.952,2,"['12.2', '15.2']",,,,,,,,,"[9431492, 9433302]",
+71921305,71863816,0,False,residential,"['Dubois Street', 'White Avenue']",319.72,2,"['15.2', '14.9']",,,,,,,,,"[9431905, 9433333]",
+71927147,71876002,0,False,primary,Elm Street,72.254,2,19.8,,30 mph,,,,,,,9431273,US 202;MA 10
+71927147,71851176,0,False,primary,Elm Street,157.26,2,19.8,,30 mph,,,,,,,9431273,US 202;MA 10
+71927147,71803873,0,False,residential,Bartlett Street,210.359,2,14.3,,,,,,,,,9432980,
+71929042,71828552,0,False,tertiary,Washington Street,65.644,2,17.1,,,,,,,,,9433282,
+71929042,71796378,0,False,tertiary,Washington Street,17.124,2,17.1,,,,,,,,,9433282,
+71929070,71967296,0,False,residential,Conner Avenue,225.284,2,15.2,,,,,,,,,9431510,
+71929070,71871426,0,False,tertiary,Orange Street,78.836,2,14.9,,,,,,,,,9431751,
+71929534,71868635,0,False,primary,Main Street,19.463,4,32.9,,,,,,,,,9431774,US 20
+71929534,71859212,0,False,primary,Main Street,70.712,4,32.9,,,,,,,,,9431774,US 20
+71929534,71965083,0,False,residential,Cherry Street,195.735,2,10.7,,,,,,,,,9433315,
+71930468,71765850,0,False,residential,Phelps Avenue,134.61,2,6.1,,,,,,,,,9432996,
+71930468,71904313,0,False,secondary,Meadow Street,29.531,2,12.8,,,,,,,,,9433200,
+71930468,71941992,0,False,secondary,Meadow Street,116.361,2,12.8,,,,,,,,,9433200,
+71930508,71977540,0,False,residential,Fowler Street,136.012,2,15.2,,,,,,,,,9432278,
+71930508,71819721,0,False,residential,Fowler Street,374.51,2,15.2,,,,,,,,,9432278,
+71930508,71834314,0,False,residential,Saint Paul Street,84.703,2,15.2,,,,,,,,,9433041,
+71930508,71981811,0,False,residential,Saint Paul Street,80.107,2,15.2,,,,,,,,,9433041,
+71933023,71961372,0,False,tertiary,Washington Street,55.373,2,17.1,,,,,,,,,9433282,
+71933023,71763009,0,False,tertiary,Washington Street,30.419,2,17.1,,,,,,,,,9433282,
+71933829,71768791,0,False,secondary,East Silver Street,47.307,,,,,,,,,,,9431832,
+71933829,71855155,0,False,secondary,East Silver Street,89.15,2,,,,,,,,,,"[9431832, 92005077]",
+71933829,71873967,0,True,secondary_link,,84.994,,28.4,,,,,,,,,9432983,
+71933961,71882212,0,False,residential,Parkside Avenue,84.536,2,14.9,,,,,,,,,9433025,
+71933961,71860376,0,False,residential,Frederick Street,258.015,2,14.9,,,,,,,,,9432878,
+71933961,71780287,0,False,residential,Parkside Avenue,82.784,2,14.9,,,,,,,,,9433025,
+71935236,71966213,0,False,residential,Ascutney Avenue,90.04,2,6.1,,,,,,,,,9431367,
+71935236,71967344,0,False,residential,Ascutney Avenue,91.263,2,6.1,,,,,,,,,9431367,
+71935236,71946980,0,False,residential,Verona Street,258.585,1,9.1,,,,,,,,,9431549,
+71935304,71970147,0,False,primary,,166.234,2,31.7,,30 mph,,,,,,,9433313,
+71935304,71768791,0,True,primary,,80.382,,31.7,,,,,,,,,92005074,US 202;MA 10
+71935583,71950093,0,False,residential,Cross Street,395.681,2,12.2,,,,,,,,,9431402,
+71935583,71937391,0,False,primary,Main Street,72.691,4,18.3,,,,,,,,,9432949,US 20
+71935583,71982979,0,False,primary,Main Street,27.575,4,18.3,,,,,,,,,9432949,US 20
+71937391,71899008,0,False,secondary,Meadow Street,135.767,2,14.6,,,,,,,,,9431464,
+71937391,71905512,0,False,primary,Main Street,79.42,4,18.3,,,,,,,,,9432949,US 20
+71937391,71935583,0,False,primary,Main Street,72.691,4,18.3,,,,,,,,,9432949,US 20
+71938554,71772246,0,True,primary,Broad Street,30.697,2,32.6,,,,,,,,,9431694,US 20;US 202;MA 10
+71941992,71951086,0,False,secondary,Meadow Street,53.371,2,12.8,,,,,,,,,9433200,
+71941992,71774823,0,False,residential,Lewis Street,134.069,2,14.9,,,,,,,,,9431342,
+71941992,71930468,0,False,secondary,Meadow Street,116.361,2,12.8,,,,,,,,,9433200,
+71942743,71793211,0,False,residential,Emery Street,81.07,2,,,,,,,,,,9433178,
+71946980,71935236,0,False,residential,Verona Street,258.585,1,9.1,,,,,,,,,9431549,
+71946980,71966213,0,False,residential,"['Clifton Street', 'Delmont Avenue']",346.194,"['2', '1']","['9.1', '6.1']",,,,,,,,,"[9431633, 47730038]",
+71950093,71865066,0,False,residential,Ashley Street,167.807,2,15.2,,,,,,,,,9431371,
+71950093,71935583,0,False,residential,Cross Street,395.681,2,12.2,,,,,,,,,9431402,
+71950093,71782647,0,False,residential,Cross Street,156.954,2,12.2,,,,,,,,,9431402,
+71951086,71824467,0,False,secondary,Meadow Street,36.568,2,14.6,,,,,,,,,9431464,
+71951086,71941992,0,False,secondary,Meadow Street,53.371,2,12.8,,,,,,,,,9433200,
+71951086,71812618,0,False,residential,Sycamore Street,224.973,2,9.1,,,,,,,,,9433442,
+71956930,71842641,0,False,unclassified,Free Street,173.321,2,9.1,,,,,,,,,9431783,
+71956930,245494344,0,False,tertiary,Thomas Street,81.383,2,10.1,,,,,,,,,9432866,
+71956930,71770490,0,False,tertiary,Thomas Street,62.282,2,10.1,,,,,,,,,9432866,
+71958880,71782647,0,False,secondary,East Silver Street,18.816,2,,,,,,,,,,92005077,
+71958880,71766360,0,False,secondary,East Silver Street,43.819,2,,,,,,,,,,92005077,
+71960409,71770170,0,False,tertiary,Mechanic Street,104.446,2,15.9,,,,,,,,,9431532,
+71960409,71803873,0,False,tertiary,Mechanic Street,112.612,2,15.9,,,,,,,,,9431532,
+71960409,71762040,0,False,residential,Birge Avenue,137.562,2,9.1,,,,,,,,,9432894,
+71961372,71826858,0,False,tertiary,Washington Street,100.914,2,17.1,,,,,,,,,9433282,
+71961372,71933023,0,False,tertiary,Washington Street,55.373,2,17.1,,,,,,,,,9433282,
+71961372,71859639,0,False,residential,Spring Street,133.824,2,15.2,,,,,,,,,9432919,
+71961375,71863816,0,False,secondary,Meadow Street,37.377,2,14.6,,,,,,,,,9431464,
+71961375,71981880,0,False,secondary,Meadow Street,47.038,2,14.6,,,,,,,,,9431464,
+71961375,71981811,0,False,residential,William Street,328.907,2,15.2,,,,,,,,,9432103,
+71962875,71899335,0,True,primary,Elm Street,56.252,2,29.3,,,,,,,,,9431277,US 20;US 202;MA 10
+71962875,71860087,0,True,tertiary,School Street,114.834,2,11.6,,,,,,,,,9431592,
+71963389,71841250,0,False,residential,Avery Street,224.468,2,15.2,,,,,,,,,9432105,
+71963389,71800707,0,False,residential,Holland Avenue,68.508,2,15.2,,,,,,,,,9433124,
+71963389,71970147,0,False,residential,Holland Avenue,68.64,2,15.2,,,,,,,,,9433124,
+71965083,71921305,0,False,residential,North Cherry Street,73.16,2,11.0,,,,,,,,,9433484,
+71965083,245494345,0,False,residential,North Cherry Street,74.852,2,11.0,,,,,,,,,9433484,
+71965083,71929534,0,False,residential,Cherry Street,195.735,2,10.7,,,,,,,,,9433315,
+71965883,71905512,0,False,residential,Lindbergh Boulevard,93.273,2,15.2,,,,,,,,,9432110,
+71965883,71766360,0,False,residential,Lindbergh Boulevard,475.466,2,15.2,,,,,,,,,9432110,
+71965883,71858751,0,False,residential,Mckinley Terrace,225.074,2,16.8,,,,,,,,,9433265,
+71966213,71888086,0,False,residential,Ascutney Avenue,81.362,2,6.1,,,,,,,,,9431367,
+71966213,71935236,0,False,residential,Ascutney Avenue,90.04,2,6.1,,,,,,,,,9431367,
+71966213,71946980,0,False,residential,"['Delmont Avenue', 'Clifton Street']",346.194,"['2', '1']","['9.1', '6.1']",,,,,,,,,"[9431633, 47730038]",
+71967296,71821478,0,False,primary,Franklin Street,43.304,4,30.2,,,,,,,,,589975489,US 20
+71967296,71929070,0,False,residential,Conner Avenue,225.284,2,15.2,,,,,,,,,9431510,
+71967344,71935236,0,False,residential,Ascutney Avenue,91.263,2,6.1,,,,,,,,,9431367,
+71967859,71849544,0,False,primary,Elm Street,22.304,4,29.3,,30 mph,,,,,,,50284885,US 202;MA 10
+71967859,71908224,0,False,primary,Elm Street,83.6,4,29.3,,30 mph,,,,,,,50284885,US 202;MA 10
+71967859,71770490,0,False,tertiary,Thomas Street,110.673,2,10.1,,,,,,,,,9432866,
+71970147,71963389,0,False,residential,Holland Avenue,68.64,2,15.2,,,,,,,,,9433124,
+71970147,71935304,0,False,primary,,166.234,2,31.7,,30 mph,,,,,,,9433313,
+71977540,71930508,0,False,residential,Fowler Street,136.012,2,15.2,,,,,,,,,9432278,
+71981811,71961375,0,False,residential,William Street,328.907,2,15.2,,,,,,,,,9432103,
+71981811,71930508,0,False,residential,Saint Paul Street,80.107,2,15.2,,,,,,,,,9433041,
+71981811,71812618,0,False,residential,Saint Paul Street,171.235,2,15.2,,,,,,,,,9433041,
+71981880,71780287,0,False,residential,George Street,331.749,2,15.2,,,,,,,,,9431386,
+71981880,71961375,0,False,secondary,Meadow Street,47.038,2,14.6,,,,,,,,,9431464,
+71981880,71819721,0,False,secondary,Meadow Street,36.362,2,14.6,,,,,,,,,9431464,
+71982979,71935583,0,False,primary,Main Street,27.575,4,18.3,,,,,,,,,9432949,US 20
+71982979,71869865,0,False,primary,Main Street,138.282,4,18.3,,,,,,,,,9432949,US 20
+71982979,71882212,0,False,residential,Casimir Street,93.403,2,15.2,,,,,,,,,9433404,
+71983996,71872871,0,False,residential,Murphy Circle,80.323,2,15.2,,,,,,,,,9431291,
+71983996,71850727,0,False,residential,Murphy Circle,63.015,2,15.2,,,,,,,,,9431291,
+71983996,71850727,1,False,residential,Danek Drive,292.997,2,15.2,,,,,,,,,9431796,
+71983996,71870755,0,False,residential,Murphy Street Extension,76.821,2,12.2,,,,,,,,,9431743,
+71987012,71858751,0,False,secondary,Noble Street,99.104,2,13.7,,,,,,,,,9432879,
+71987012,71870616,0,False,primary,Main Street,69.48,4,18.3,,,,,,,,,9432949,US 20
+71987012,71905512,0,False,primary,Main Street,225.456,4,18.3,,,,,,,,,9432949,US 20
+71987357,71860321,0,False,primary,Main Street,6.977,4,18.3,,,,,,,,,9432949,US 20
+71987357,71780287,0,False,residential,George Street,83.294,2,15.2,,,,,,,,,9431386,
+71987357,71869865,0,False,primary,Main Street,75.195,4,18.3,,,,,,,,,9432949,US 20
+71988106,71900931,0,False,secondary,Meadow Street,49.105,2,14.6,,,,,,,,,9431464,
+71988106,71770811,0,False,secondary,Meadow Street,56.402,2,14.6,,,,,,,,,9431464,
+71988106,71882212,0,False,residential,Casimir Street,170.327,2,15.2,,,,,,,,,9433404,
+245494344,245494345,0,False,tertiary,Mechanic Street,9.273,2,15.9,,,,,,,,,9431532,
+245494344,71770170,0,False,tertiary,Mechanic Street,108.946,2,15.9,,,,,,,,,9431532,
+245494344,71956930,0,False,tertiary,Thomas Street,81.383,2,10.1,,,,,,,,,9432866,
+245494345,245494344,0,False,tertiary,Mechanic Street,9.273,2,15.9,,,,,,,,,9431532,
+245494345,71965083,0,False,residential,North Cherry Street,74.852,2,11.0,,,,,,,,,9433484,
+245494345,71859212,0,False,tertiary,Mechanic Street,184.581,2,15.9,,,,,,,,,9431532,
+607223393,71962875,0,True,primary,,64.892,2,29.3,,,,,,,,,9433478,US 20;US 202;MA 10
+607223393,71908224,0,False,primary,Elm Street,5.72,4,29.3,,30 mph,,,,,,,50284885,US 202;MA 10
+959454722,71756539,0,False,residential,Morris Avenue,90.313,2,15.2,,,,,,,,,9431551,
+959454722,71780631,0,False,tertiary,Orange Street,90.385,2,14.9,,,,,,,,,9431751,
+1547487050,71818991,0,True,primary,Union Avenue,47.768,2,,,,,,,,,,45026504,US 202;MA 10
+1547487050,1547487060,0,False,primary_link,,36.064,,,,,,,,,,,141381777,
+1547487060,71853666,0,True,primary,Elm Street,44.685,2,,,,,,,,,,45026454,US 202;MA 10
+1547487060,1547487050,0,False,primary_link,,36.064,,,,,,,,,,,141381777,

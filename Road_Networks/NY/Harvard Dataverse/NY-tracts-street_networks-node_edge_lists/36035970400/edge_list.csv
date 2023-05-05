@@ -1,0 +1,628 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+212133371,212166940,0,False,secondary,State Highway 10,141.318,2,,,,,,,,,,45042898,NY 10;NY 29A
+212133371,212167693,0,False,secondary,State Highway 10,98.933,2,,,,,,,,,,45042898,NY 10;NY 29A
+212133371,212133374,0,False,residential,Lake Avenue,134.871,,,,,,,,,,,20078618,
+212133374,212166937,0,False,residential,Forest Avenue,164.031,,,,,,,,,,,20082392,
+212133374,212161031,0,False,residential,Forest Avenue,109.365,,,,,,,,,,,20082392,
+212133374,212161031,1,False,residential,"['Summit Avenue', 'Lake Avenue']",190.281,,,,,,,,,,,"[20078618, 20080517]",
+212133374,212133371,0,False,residential,Lake Avenue,134.871,,,,,,,,,,,20078618,
+212134483,212134499,0,False,residential,Old State Road,281.521,,,,,,,,,,,20078668,
+212134483,212142974,0,False,residential,North Shore Road,163.904,,,,,,,,,,,20080842,
+212134499,212159079,0,False,secondary,State Highway 29A,84.74,,,,,,,,,,,319279647,NY 29A
+212134499,212134483,0,False,residential,Old State Road,281.521,,,,,,,,,,,20078668,
+212134499,212166138,0,False,secondary,State Highway 29A,542.969,,,,,,,,,,,319279647,NY 29A
+212136439,212136442,0,False,residential,,40.357,,,,,,,,,,,20078772,
+212136439,212178543,0,False,secondary,State Highway 10,40.002,,,,,,,,,,,20081712,NY 10
+212136439,212178555,0,False,secondary,State Highway 10,117.294,,,,,,,,,,,20081712,NY 10
+212136442,212136439,0,False,residential,,40.357,,,,,,,,,,,20078772,
+212136545,212136548,0,False,residential,,53.954,,,,,,,,,,,20078776,
+212136545,1506774094,0,False,residential,South Shore Road,1566.01,,,,,,,,,,,20081513,
+212136545,212136635,0,False,residential,South Shore Road,54.661,,,,,,,,,,,20081513,
+212136548,212136545,0,False,residential,,53.954,,,,,,,,,,,20078776,
+212136613,212136635,0,False,residential,,126.169,,,,,,,,,,,20078779,
+212136635,212136613,0,False,residential,,126.169,,,,,,,,,,,20078779,
+212136635,212136545,0,False,residential,South Shore Road,54.661,,,,,,,,,,,20081513,
+212136635,212175180,0,False,residential,South Shore Road,180.93,,,,,,,,,,,20081513,
+212137545,212185263,0,False,residential,Jung Road,44.654,,,,,,,,,,,20082121,
+212138503,212179672,0,False,residential,Shutts Road North,597.012,,,,,,,,,,,20081785,
+212138863,212157049,0,False,residential,Barbour Road,592.055,,,,,,,,,,,20082557,
+212138993,212192074,0,False,residential,Decker Road,307.998,,,,,,,,,,,"[20078897, 20082605]",
+212138993,212160509,0,False,secondary,State Highway 10,305.267,,,,,,,,,,,20081713,NY 10;NY 29A
+212138993,2243261454,0,False,secondary,State Highway 10,161.243,,,,,,,,,,,20081713,NY 10;NY 29A
+212141108,212141110,0,False,secondary_link,,137.775,,,,,,,,,,,20079071,
+212141108,212171522,0,False,secondary,State Highway 10,104.224,,,,,,,,,,,20081722,NY 10
+212141110,212141108,0,False,secondary_link,,137.775,,,,,,,,,,,20079071,
+212141110,212171522,0,False,secondary,State Highway 10A,201.764,,,,,,,,,,,137354894,NY 10A
+212142931,212142974,0,False,residential,North Shore Road,90.22,,,,,,,,,,,20080842,
+212142931,2297551859,0,False,residential,North Shore Road,124.305,,,,,,,,,,,20080842,
+212142974,212142931,0,False,residential,North Shore Road,90.22,,,,,,,,,,,20080842,
+212142974,212134483,0,False,residential,North Shore Road,163.904,,,,,,,,,,,20080842,
+212143016,212143023,0,False,residential,,174.278,,,,,,,,,,,20079210,
+212143016,212177930,0,False,tertiary,Beech Ridge Road,2487.656,,,,,,,,,,,20081674,
+212143016,212177443,0,False,tertiary,Beech Ridge Road,456.718,,,,,,,,,,,20081674,
+212143023,212143016,0,False,residential,,174.278,,,,,,,,,,,20079210,
+212143638,212177930,0,False,tertiary,Beech Ridge Road,237.778,,,,,,,,,,,20081674,
+212143638,212143641,0,False,tertiary,Beech Ridge Road,40.737,,,,,,,,,,,20079248,CR 137
+212143641,212143638,0,False,tertiary,Beech Ridge Road,40.737,,,,,,,,,,,20079248,CR 137
+212143641,212181119,0,False,residential,Sgt Witzke Drive,556.766,,,,,,,,,,,20082190,
+212143641,212177934,0,False,secondary,State Highway 29A,64.06,,,,,,,,,,,319279647,NY 29A
+212143641,212181125,0,False,secondary,State Highway 29A,307.467,,,,,,,,,,,319279647,NY 29A
+212144723,212172347,0,False,residential,Rhinehart Road,661.722,,,,,,,,,,,20081297,
+212146271,212146272,0,False,residential,,63.539,,,,,,,,,,,20079439,
+212146272,212146271,0,False,residential,,63.539,,,,,,,,,,,20079439,
+212146272,212147373,0,False,residential,Fulton Road,131.813,,,,,,,,,,,20080791,
+212146272,212146294,0,False,residential,Fulton Road,133.381,,,,,,,,,,,20080791,
+212146291,212146294,0,False,residential,,51.72,,,,,,,,,,,20079442,
+212146294,212146291,0,False,residential,,51.72,,,,,,,,,,,20079442,
+212146294,212146272,0,False,residential,Fulton Road,133.381,,,,,,,,,,,20080791,
+212146294,212165397,0,False,residential,Fulton Road,547.878,,,,,,,,,,,20080791,
+212146326,212146328,0,False,residential,,99.16,,,,,,,,,,,20079448,
+212146328,212146326,0,False,residential,,99.16,,,,,,,,,,,20079448,
+212146328,212165427,0,False,residential,Fulton Road,389.575,,,,,,,,,,,20080791,
+212146328,212147373,0,False,residential,Fulton Road,63.486,,,,,,,,,,,20080791,
+212146393,212165371,0,False,tertiary,London Bridge Road,211.223,2,,,,,,,,,,20081742,CR 111
+212146393,212146397,0,False,residential,,134.642,,,,,,,,,,,20079453,
+212146393,212152264,0,False,tertiary,London Bridge Road,1300.827,2,,,,,,,,,,20081742,CR 111
+212146397,212146393,0,False,residential,,134.642,,,,,,,,,,,20079453,
+212147370,212147373,0,False,residential,,69.382,,,,,,,,,,,20079527,
+212147373,212147370,0,False,residential,,69.382,,,,,,,,,,,20079527,
+212147373,212146328,0,False,residential,Fulton Road,63.486,,,,,,,,,,,20080791,
+212147373,212146272,0,False,residential,Fulton Road,131.813,,,,,,,,,,,20080791,
+212148139,212148143,0,False,residential,,123.395,,,,,,,,,,,20079581,
+212148139,212172959,0,False,residential,Gutha Road,1132.074,,,,,,,,,,,20081338,
+212148139,212154262,0,False,residential,Gutha Road,157.881,,,,,,,,,,,20081338,
+212148143,212148139,0,False,residential,,123.395,,,,,,,,,,,20079581,
+212150288,212150291,0,False,residential,,79.57,,,,,,,,,,,20079774,
+212150288,212157248,0,False,tertiary,County Highway 112,499.922,,,,,,,,,,,20082520,CR 112
+212150288,212180366,0,False,tertiary,County Highway 112,1434.333,,,,,,,,,,,20082520,CR 112
+212150291,212150288,0,False,residential,,79.57,,,,,,,,,,,20079774,
+212151247,212158823,0,False,residential,Alderwood Park Road,84.216,,,,,,,,,,,20080390,
+212151247,212151264,0,False,residential,,252.71,,,,,,,,,,,20079847,
+212151247,212158818,0,False,residential,Alderwood Park Road,589.236,,,,,,,,,,,20080390,
+212151264,212151247,0,False,residential,,252.71,,,,,,,,,,,20079847,
+212151440,212157073,0,False,residential,West Lake Road,1062.531,,,,,,,,,,,20081662,
+212152264,212152266,0,False,tertiary,London Bridge Road,79.195,2,,,,,,,,,,20081742,CR 111
+212152264,212154829,0,False,tertiary,County Highway 112,32.27,,,,,,,,,,,20082520,CR 112
+212152264,212165505,0,False,residential,Morey Road,759.354,,,,,,,,,,,20080800,
+212152264,212146393,0,False,tertiary,London Bridge Road,1300.827,2,,,,,,,,,,20081742,CR 111
+212152266,212152264,0,False,tertiary,London Bridge Road,79.195,2,,,,,,,,,,20081742,CR 111
+212152266,212154829,0,False,secondary,State Highway 10,75.107,2,,,,,,,,,,45042898,NY 10;NY 29A
+212152266,212175813,0,False,secondary,State Highway 10,182.761,2,,,,,,,,,,45042898,NY 10;NY 29A
+212152606,212152608,0,False,residential,,55.105,,,,,,,,,,,20079959,
+212152606,212163542,0,False,residential,Pine Lake Road,736.067,,,,,,,,,,,20080660,
+212152606,212163513,0,False,residential,Pine Lake Road,207.04,,,,,,,,,,,"[20080659, 20080660]",
+212152608,212152606,0,False,residential,,55.105,,,,,,,,,,,20079959,
+212153374,212153375,0,False,residential,,18.401,,,,,,,,,,,20080035,
+212153374,212157576,0,False,residential,Kasson Drive,1396.228,,,,,,,,,,,20080327,
+212153374,212157520,0,False,residential,Kasson Drive,673.645,,,,,,,,,,,20080327,
+212153375,212153374,0,False,residential,,18.401,,,,,,,,,,,20080035,
+212153406,212153409,0,False,residential,,98.067,,,,,,,,,,,20080038,
+212153406,212163234,0,False,residential,Green Lake North Shore Road,357.275,,,,,,,,,,,20080636,
+212153406,212163200,0,False,residential,Green Lake North Shore Road,386.935,,,,,,,,,,,20080636,
+212153409,212153406,0,False,residential,,98.067,,,,,,,,,,,20080038,
+212153478,212153498,0,False,residential,,294.185,,,,,,,,,,,20080042,
+212153478,212155213,0,False,residential,Lake Road,275.298,,,,,,,,,,,20080203,
+212153478,212155686,0,False,residential,Vandenburg Drive,145.912,,,,,,,,,,,20080232,
+212153498,212153478,0,False,residential,,294.185,,,,,,,,,,,20080042,
+212153858,212164197,0,False,residential,Shawn Drive,289.198,,,,,,,,,,,"[20080694, 20080695]",
+212154262,212148139,0,False,residential,Gutha Road,157.881,,,,,,,,,,,20081338,
+212154829,212152264,0,False,tertiary,County Highway 112,32.27,,,,,,,,,,,20082520,CR 112
+212154829,212152266,0,False,secondary,State Highway 10,75.107,2,,,,,,,,,,45042898,NY 10;NY 29A
+212154829,212179672,0,False,tertiary,County Highway 112,2860.211,,,,,,,,,,,20082520,CR 112
+212154829,212157493,0,False,secondary,State Highway 10,1784.69,2,,,,,,,,,,"[45042898, 20081726]",NY 10;NY 29A
+212154972,212154992,0,False,residential,Pinnacle Road,414.878,,,,,,,,,,,20080187,
+212154972,212157576,0,False,secondary,State Highway 10,1607.093,,,,,,,,,,,20081713,NY 10;NY 29A
+212154972,212157493,0,False,secondary,State Highway 10,824.19,,,,,,,,,,,20081713,NY 10;NY 29A
+212154992,212154972,0,False,residential,Pinnacle Road,414.878,,,,,,,,,,,20080187,
+212155019,212166861,0,False,tertiary,County Highway 125,3.489,,,,,,,,,,,20081825,CR 125
+212155019,212155114,0,False,residential,Pinnacle Road,4214.623,,,,,,,,,,,20080193,
+212155019,2286991416,0,False,tertiary,County Highway 125,2877.64,,,,,,,,,,,20081825,CR 125
+212155114,212155019,0,False,residential,Pinnacle Road,4214.623,,,,,,,,,,,20080193,
+212155213,212153478,0,False,residential,Lake Road,275.298,,,,,,,,,,,20080203,
+212155213,212173055,0,False,residential,Lily Lake Road,875.525,,,,,,,,,,,20081343,
+212155213,212173010,0,False,residential,Lily Lake Road,1145.016,,,,,,,,,,,20081343,
+212155686,212153478,0,False,residential,Vandenburg Drive,145.912,,,,,,,,,,,20080232,
+212155699,212155705,0,False,residential,North Bush,175.837,,,,,,,,,,,20080233,
+212155699,212170153,0,False,residential,Capehorn Road,356.009,,,,,,,,,,,20081114,
+212155699,212170140,0,False,residential,Capehorn Road,54.597,,,,,,,,,,,20081114,
+212155705,212155699,0,False,residential,North Bush,175.837,,,,,,,,,,,20080233,
+212155705,212170153,0,False,secondary,State Highway 10,449.209,,,,,,,,,,,20081722,NY 10
+212155705,212171522,0,False,secondary,State Highway 10,952.81,,,,,,,,,,,20081722,NY 10
+212156247,212174226,0,False,residential,First Avenue,309.096,,,,,,,,,,,20082273,
+212156247,212156257,0,False,residential,Broadway,91.907,,,,,,,,,,,20080255,
+212156247,212186792,0,False,residential,First Avenue,113.899,,,,,,,,,,,20082273,
+212156257,212156260,0,False,residential,Broadway,69.254,,,,,,,,,,,20080255,
+212156257,212156247,0,False,residential,Broadway,91.907,,,,,,,,,,,20080255,
+212156257,212170013,0,False,residential,2nd Avenue,278.37,,,,,,,,,,,20081110,
+212156260,212156263,0,False,residential,Broadway,45.258,,,,,,,,,,,20080255,
+212156260,212156257,0,False,residential,Broadway,69.254,,,,,,,,,,,20080255,
+212156260,212174229,0,False,residential,3rd Avenue,253.387,,,,,,,,,,,20081731,
+212156263,212156260,0,False,residential,Broadway,45.258,,,,,,,,,,,20080255,
+212156263,212156265,0,False,residential,Broadway,88.608,,,,,,,,,,,20080255,
+212156263,212184188,0,False,residential,4th Avenue,64.441,,,,,,,,,,,20082032,
+212156265,212174479,0,False,residential,"['Scott Road', 'Broadway Avenue', 'Broadway']",312.203,,,,,,,,,,,"[20081455, 20080495, 20080255]",
+212156265,212156263,0,False,residential,Broadway,88.608,,,,,,,,,,,20080255,
+212156265,1870565305,0,False,residential,6th Ave,320.014,,,,,,,,,,,176557730,
+212156885,212156893,0,False,residential,Bath Avenue,114.575,,,,,,,,,,,20080293,
+212156885,212167051,0,False,secondary,State Highway 10,170.417,2,,,,,,,,,,45042898,NY 10;NY 29A
+212156885,212166940,0,False,secondary,State Highway 10,54.384,2,,,,,,,,,,45042898,NY 10;NY 29A
+212156893,212156885,0,False,residential,Bath Avenue,114.575,,,,,,,,,,,20080293,
+212156893,212167051,0,False,residential,Caroga Lake Shore Road,161.821,,,,,,,,,,,20080899,
+212156893,212166934,0,False,residential,Caroga Lake Shore Road,62.991,,,,,,,,,,,20080899,
+212157006,212157019,0,False,residential,Three Sons Lane,195.013,,,,,,,,,,,20080298,
+212157006,212163496,0,False,secondary,State Highway 10,340.685,,,,,,,,,,,"[20081714, 20081709]",NY 10;NY 29A
+212157006,212157079,0,False,secondary,State Highway 10,1394.201,,,,,,,,,,,20081709,NY 10;NY 29A
+212157019,212157006,0,False,residential,Three Sons Lane,195.013,,,,,,,,,,,20080298,
+212157049,212157073,0,False,residential,Breeze Point Road,714.744,,,,,,,,,,,20080300,
+212157049,3328346574,0,False,residential,Webster Road,160.904,,,,,,,,,,,20081602,
+212157049,212138863,0,False,residential,Barbour Road,592.055,,,,,,,,,,,20082557,
+212157073,212157049,0,False,residential,Breeze Point Road,714.744,,,,,,,,,,,20080300,
+212157073,212151440,0,False,residential,West Lake Road,1062.531,,,,,,,,,,,20081662,
+212157073,212157079,0,False,residential,West Lake Road,67.792,,,,,,,,,,,20081662,
+212157079,212157073,0,False,residential,West Lake Road,67.792,,,,,,,,,,,20081662,
+212157079,212157006,0,False,secondary,State Highway 10,1394.201,,,,,,,,,,,20081709,NY 10;NY 29A
+212157079,212160509,0,False,secondary,State Highway 10,453.093,,,,,,,,,,,20081713,NY 10;NY 29A
+212157214,212157217,0,False,tertiary,Bowler Road,106.062,,,,,,,,,,,20080308,CR 145
+212157214,212166861,0,False,residential,Bowlers Hill Road,1491.045,,,,,,,,,,,20080884,
+212157214,212180292,0,False,residential,Barlow Road,4912.232,,,,,,,,,,,"[20082294, 20082295]",
+212157217,212157214,0,False,tertiary,Bowler Road,106.062,,,,,,,,,,,20080308,CR 145
+212157217,212157248,0,False,tertiary,Bowler Road,2128.447,,,,,,,,,,,20080308,CR 145
+212157217,212173055,0,False,residential,Lily Lake Road,1051.688,,,,,,,,,,,20081343,
+212157248,212157217,0,False,tertiary,Bowler Road,2128.447,,,,,,,,,,,20080308,CR 145
+212157248,212179789,0,False,tertiary,County Highway 112,825.192,,,,,,,,,,,20082520,CR 112
+212157248,212150288,0,False,tertiary,County Highway 112,499.922,,,,,,,,,,,20082520,CR 112
+212157493,212157520,0,False,residential,Kasson Drive,750.005,,,,,,,,,,,20080327,
+212157493,212154972,0,False,secondary,State Highway 10,824.19,,,,,,,,,,,20081713,NY 10;NY 29A
+212157493,212154829,0,False,secondary,State Highway 10,1784.69,2,,,,,,,,,,"[45042898, 20081726]",NY 10;NY 29A
+212157520,212153374,0,False,residential,Kasson Drive,673.645,,,,,,,,,,,20080327,
+212157520,212157493,0,False,residential,Kasson Drive,750.005,,,,,,,,,,,20080327,
+212157520,212169372,0,False,tertiary,London Bridge Road,134.193,2,,,,,,yes,,,,"[20081742, 427754037, 427754038]",CR 111
+212157576,212153374,0,False,residential,Kasson Drive,1396.228,,,,,,,,,,,20080327,
+212157576,212163746,0,False,secondary,State Highway 10,82.976,,,,,,,,,,,20081713,NY 10;NY 29A
+212157576,212154972,0,False,secondary,State Highway 10,1607.093,,,,,,,,,,,20081713,NY 10;NY 29A
+212158408,212178561,0,False,secondary,State Highway 10,114.202,,,,,,,,,,,20081712,NY 10
+212158408,212158415,0,False,residential,Chapel Road,116.966,,,,,,,,,,,20080367,
+212158408,1870565301,0,False,residential,Kirchen Grove Road,43.642,,,,,,,,,,,20081459,
+212158408,212178573,0,False,secondary,State Highway 10,599.932,,,,,,,,,,,20081712,NY 10
+212158415,212158408,0,False,residential,Chapel Road,116.966,,,,,,,,,,,20080367,
+212158415,212164277,0,False,residential,Caroga Lake Shore Road,347.14,,,,,,,,,,,20080899,
+212158415,212167038,0,False,residential,Caroga Lake Shore Road,225.56,,,,,,,,,,,20080899,
+212158818,212151247,0,False,residential,Alderwood Park Road,589.236,,,,,,,,,,,20080390,
+212158818,212181186,0,False,secondary,State Highway 29A,193.586,,,,,,,,,,,20081864,NY 29A
+212158818,212178317,0,False,secondary,State Highway 29A,243.272,,,,,,,,,,,20081864,NY 29A
+212158823,212151247,0,False,residential,Alderwood Park Road,84.216,,,,,,,,,,,20080390,
+212159079,212134499,0,False,secondary,State Highway 29A,84.74,,,,,,,,,,,319279647,NY 29A
+212159079,212159190,0,False,residential,Hohler Road,3008.075,,,,,,,,,,,"[20080402, 20080403]",
+212159079,212181119,0,False,secondary,State Highway 29A,2284.412,,,,,,,,,,,319279647,NY 29A
+212159190,212159215,0,False,residential,Hohler Road,1048.312,,,,,,,,,,,20080403,
+212159190,212159079,0,False,residential,Hohler Road,3008.075,,,,,,,,,,,"[20080402, 20080403]",
+212159190,212171345,0,False,residential,Fisher Road,599.791,,,,,,,,,,,20081929,
+212159215,212182109,0,False,residential,Fisher Road,26.931,,,,,,,,,,,20081931,
+212159215,212159237,0,False,residential,Hohler Road,1570.889,,,,,,,,,,,20080403,
+212159215,212159190,0,False,residential,Hohler Road,1048.312,,,,,,,,,,,20080403,
+212159237,212159243,0,False,residential,Hohler Road,88.451,,,,,,,,,,,20080403,
+212159237,212159215,0,False,residential,Hohler Road,1570.889,,,,,,,,,,,20080403,
+212159237,212179866,0,False,tertiary,County Highway 112,1054.889,,,,,,,,,,,20082520,CR 112
+212159237,212179672,0,False,tertiary,County Highway 112,672.272,,,,,,,,,,,20082520,CR 112
+212159243,212159237,0,False,residential,Hohler Road,88.451,,,,,,,,,,,20080403,
+212160509,2243261454,0,False,residential,Schoolhouse Road,538.385,,,,,,,,,,,20080490,
+212160509,212157079,0,False,secondary,State Highway 10,453.093,,,,,,,,,,,20081713,NY 10;NY 29A
+212160509,212138993,0,False,secondary,State Highway 10,305.267,,,,,,,,,,,20081713,NY 10;NY 29A
+212160622,212174484,0,False,residential,Scott Road,198.971,,,,,,,,,,,20081456,
+212160804,3328346545,0,False,residential,North Stoner Lake Road,969.85,,,,,,,,,,,20080508,
+212160804,212170598,0,False,secondary,State Highway 10,306.341,,,,,,,,,,,48329842,NY 10
+212160889,212160894,0,False,residential,Thompson Road,94.354,,,,,,,,,,,20080512,
+212160889,212166624,0,False,residential,North Road,118.264,,,,,,,,,,,20082628,
+212160889,1870605758,0,False,residential,North Road,962.502,,,,,,,,,,,20082628,
+212160894,212160889,0,False,residential,Thompson Road,94.354,,,,,,,,,,,20080512,
+212160937,212167182,0,False,secondary,State Highway 10,7.418,,,,,,,,,,,20081722,NY 10
+212160937,212160954,0,False,residential,Nick Stock Road,677.231,,,,,,,,,,,20080515,
+212160937,212160954,1,False,secondary,State Highway 10,627.131,,,,,,,,,,,20081722,NY 10
+212160954,212160937,0,False,residential,Nick Stock Road,677.231,,,,,,,,,,,20080515,
+212160954,212160937,1,False,secondary,State Highway 10,627.131,,,,,,,,,,,20081722,NY 10
+212160954,212171040,0,False,secondary,State Highway 10,816.884,,,,,,,,,,,20081722,NY 10
+212161031,212133374,0,False,residential,Forest Avenue,109.365,,,,,,,,,,,20082392,
+212161031,212133374,1,False,residential,"['Summit Avenue', 'Lake Avenue']",190.281,,,,,,,,,,,"[20078618, 20080517]",
+212161031,212161036,0,False,residential,Summit Avenue,174.11,,,,,,,,,,,20080517,
+212161031,212167693,0,False,residential,May Avenue,173.339,,,,,,,,,,,20080937,
+212161031,212164279,0,False,residential,Balsam Avenue,124.511,,,,,,,,,,,20082341,
+212161036,212161031,0,False,residential,Summit Avenue,174.11,,,,,,,,,,,20080517,
+212161036,212178577,0,False,secondary,State Highway 10,100.337,,,,,,,,,,,20081712,NY 10
+212161036,212178573,0,False,secondary,State Highway 10,148.101,,,,,,,,,,,20081712,NY 10
+212161143,1381100059,0,False,secondary,State Highway 309,1314.595,,,,,,,,,,,20080527,NY 309
+212161143,212170663,0,False,residential,Woodworth Lake Road,183.145,,,,,,,,,,,20081413,
+212163200,212153406,0,False,residential,Green Lake North Shore Road,386.935,,,,,,,,,,,20080636,
+212163200,4643039666,0,False,residential,Green Lake Road,140.889,,,,,,,,,,,20080672,
+212163200,212163746,0,False,residential,Green Lake Road,799.567,,,,,,,,,,,20080672,
+212163234,212153406,0,False,residential,Green Lake North Shore Road,357.275,,,,,,,,,,,20080636,
+212163459,212187975,0,False,residential,Balsam Avenue,62.841,,,,,,,,,,,20082341,
+212163459,212163466,0,False,residential,Pine Avenue,156.088,,,,,,,,,,,20080656,
+212163459,212164279,0,False,residential,Balsam Avenue,184.04,,,,,,,,,,,20082341,
+212163466,212164279,0,False,residential,Lakeview Avenue,101.727,,,,,,,,,,,20080700,
+212163466,212164277,0,False,residential,Lakeview Avenue,104.484,,,,,,,,,,,20080700,
+212163466,212163459,0,False,residential,Pine Avenue,156.088,,,,,,,,,,,20080656,
+212163496,212163513,0,False,residential,Pine Lake Road,237.76,,,,,,,,,,,20080659,
+212163496,212178372,0,False,secondary,State Highway 10,71.96,,,,,,,,,,,20081708,NY 10;NY 29A
+212163496,212157006,0,False,secondary,State Highway 10,340.685,,,,,,,,,,,"[20081714, 20081709]",NY 10;NY 29A
+212163513,212152606,0,False,residential,Pine Lake Road,207.04,,,,,,,,,,,"[20080659, 20080660]",
+212163513,212163496,0,False,residential,Pine Lake Road,237.76,,,,,,,,,,,20080659,
+212163513,212188074,0,False,residential,Timberline Lane,214.614,,,,,,,,,,,20082349,
+212163542,212152606,0,False,residential,Pine Lake Road,736.067,,,,,,,,,,,20080660,
+212163595,212167141,0,False,residential,Mussey Road,111.312,,,,,,,,,,,20080907,
+212163595,212167151,0,False,residential,Mussey Road,654.7,,,,,,,,,,,20080907,
+212163595,212177443,0,False,residential,Everson Road,808.145,,,,,,,,,,,20081653,
+212163746,212163200,0,False,residential,Green Lake Road,799.567,,,,,,,,,,,20080672,
+212163746,212178680,0,False,secondary,State Highway 10,240.45,,,,,,,,,,,20081713,NY 10;NY 29A
+212163746,212157576,0,False,secondary,State Highway 10,82.976,,,,,,,,,,,20081713,NY 10;NY 29A
+212164184,212179136,0,False,secondary,State Highway 29A,14.605,,,,,,,,,,,319279647,NY 29A
+212164184,212164197,0,False,residential,Shawn Drive,260.517,,,,,,,,,,,20080694,
+212164184,212170011,0,False,secondary,State Highway 29A,141.001,,,,,,,,,,,319279647,NY 29A
+212164197,212153858,0,False,residential,Shawn Drive,289.198,,,,,,,,,,,"[20080694, 20080695]",
+212164197,212164184,0,False,residential,Shawn Drive,260.517,,,,,,,,,,,20080694,
+212164197,1870565302,0,False,residential,,90.002,,,,,,,,,,,176557731,
+212164277,212163466,0,False,residential,Lakeview Avenue,104.484,,,,,,,,,,,20080700,
+212164277,212166934,0,False,residential,Caroga Lake Shore Road,324.438,,,,,,,,,,,20080899,
+212164277,212158415,0,False,residential,Caroga Lake Shore Road,347.14,,,,,,,,,,,20080899,
+212164279,212164281,0,False,residential,Lakeview Avenue,29.844,,,,,,,,,,,20080700,
+212164279,212163466,0,False,residential,Lakeview Avenue,101.727,,,,,,,,,,,20080700,
+212164279,212163459,0,False,residential,Balsam Avenue,184.04,,,,,,,,,,,20082341,
+212164279,212161031,0,False,residential,Balsam Avenue,124.511,,,,,,,,,,,20082341,
+212164281,212164279,0,False,residential,Lakeview Avenue,29.844,,,,,,,,,,,20080700,
+212165371,212146393,0,False,tertiary,London Bridge Road,211.223,2,,,,,,,,,,20081742,CR 111
+212165371,212165377,0,False,residential,Fulton Road,137.47,,,,,,,,,,,20080791,
+212165371,212179263,0,False,tertiary,London Bridge Road,361.63,2,,,,,,,,,,20081742,CR 111
+212165377,212165386,0,False,residential,Fulton Road,278.593,,,,,,,,,,,20080791,
+212165377,212165371,0,False,residential,Fulton Road,137.47,,,,,,,,,,,20080791,
+212165377,212185237,0,False,residential,Jung Road,346.958,,,,,,,,,,,20082123,
+212165386,212165397,0,False,residential,Fulton Road,448.084,,,,,,,,,,,20080791,
+212165386,212165377,0,False,residential,Fulton Road,278.593,,,,,,,,,,,20080791,
+212165386,212185263,0,False,residential,Jung Road,309.43,,,,,,,,,,,20082120,
+212165397,212146294,0,False,residential,Fulton Road,547.878,,,,,,,,,,,20080791,
+212165397,212165386,0,False,residential,Fulton Road,448.084,,,,,,,,,,,20080791,
+212165397,212174531,0,False,residential,Shore Branch Road,348.032,,,,,,,,,,,20081462,
+212165427,212165429,0,False,residential,Fulton Road,42.491,,,,,,,,,,,20080791,
+212165427,212146328,0,False,residential,Fulton Road,389.575,,,,,,,,,,,20080791,
+212165427,212176370,0,False,residential,Dwiggers Road,243.243,,,,,,,,,,,20081603,
+212165429,212165427,0,False,residential,Fulton Road,42.491,,,,,,,,,,,20080791,
+212165505,212152264,0,False,residential,Morey Road,759.354,,,,,,,,,,,20080800,
+212165505,212166624,0,False,residential,North Road,156.331,,,,,,,,,,,20082628,
+212165505,1870605743,0,False,residential,,163.087,,,,,,,,,,,176564756,
+212166010,212166029,0,False,residential,North Shore Peck Lake Road,548.189,,,,,,,,,,,20080841,
+212166010,212183392,0,False,residential,Little Gem Terrace,36.356,,,,,,,,,,,20082003,
+212166029,212166041,0,False,residential,North Shore Peck Lake Road,193.315,,,,,,,,,,,20080841,
+212166029,212166010,0,False,residential,North Shore Peck Lake Road,548.189,,,,,,,,,,,20080841,
+212166029,2297551860,0,False,residential,Hemlock Drive,226.002,,,,,,,,,,,20082177,
+212166041,212166127,0,False,residential,North Shore Peck Lake Road,2242.002,,,,,,,,,,,20080841,
+212166041,212166029,0,False,residential,North Shore Peck Lake Road,193.315,,,,,,,,,,,20080841,
+212166041,212174152,0,False,residential,Evergreen Drive,278.06,,,,,,,,,,,20081426,
+212166127,212166041,0,False,residential,North Shore Peck Lake Road,2242.002,,,,,,,,,,,20080841,
+212166138,2297551859,0,False,residential,North Shore Road,19.245,,,,,,,,,,,20080842,
+212166138,212134499,0,False,secondary,State Highway 29A,542.969,,,,,,,,,,,319279647,NY 29A
+212166138,212181065,0,False,secondary,State Highway 29A,68.918,,,,,,,,,,,319279647,NY 29A
+212166624,212166639,0,False,residential,North Branch Road,202.867,,,,,,,,,,,20080867,
+212166624,212165505,0,False,residential,North Road,156.331,,,,,,,,,,,20082628,
+212166624,212160889,0,False,residential,North Road,118.264,,,,,,,,,,,20082628,
+212166639,212166624,0,False,residential,North Branch Road,202.867,,,,,,,,,,,20080867,
+212166709,212166715,0,False,residential,Pine Tannery Road,311.015,,,,,,,,,,,20080872,
+212166709,212180292,0,False,tertiary,County Highway 125,4984.951,,,,,,,,,,,20081825,CR 125
+212166715,212166709,0,False,residential,Pine Tannery Road,311.015,,,,,,,,,,,20080872,
+212166861,212155019,0,False,tertiary,County Highway 125,3.489,,,,,,,,,,,20081825,CR 125
+212166861,212157214,0,False,residential,Bowlers Hill Road,1491.045,,,,,,,,,,,20080884,
+212166861,212180292,0,False,tertiary,County Highway 125,3136.971,,,,,,,,,,,20081825,CR 125
+212166869,212166871,0,False,residential,Shrine Road,147.545,,,,,,,,,,,20080885,
+212166869,212172347,0,False,residential,Persch Road,73.047,,,,,,,,,,,20081794,
+212166869,212179866,0,False,residential,Persch Road,1566.821,,,,,,,,,,,20081794,
+212166871,212166869,0,False,residential,Shrine Road,147.545,,,,,,,,,,,20080885,
+212166934,212166937,0,False,residential,Grove Avenue,82.534,,,,,,,,,,,20080891,
+212166934,212156893,0,False,residential,Caroga Lake Shore Road,62.991,,,,,,,,,,,20080899,
+212166934,212164277,0,False,residential,Caroga Lake Shore Road,324.438,,,,,,,,,,,20080899,
+212166937,212166940,0,False,residential,Grove Avenue,78.372,,,,,,,,,,,20080891,
+212166937,212166934,0,False,residential,Grove Avenue,82.534,,,,,,,,,,,20080891,
+212166937,212133374,0,False,residential,Forest Avenue,164.031,,,,,,,,,,,20082392,
+212166940,212166937,0,False,residential,Grove Avenue,78.372,,,,,,,,,,,20080891,
+212166940,212156885,0,False,secondary,State Highway 10,54.384,2,,,,,,,,,,45042898,NY 10;NY 29A
+212166940,212133371,0,False,secondary,State Highway 10,141.318,2,,,,,,,,,,45042898,NY 10;NY 29A
+212167038,212178561,0,False,secondary,State Highway 10,143.0,,,,,,,,,,,20081712,NY 10
+212167038,212178555,0,False,secondary,State Highway 10,14.95,,,,,,,,,,,20081712,NY 10
+212167038,212158415,0,False,residential,Caroga Lake Shore Road,225.56,,,,,,,,,,,20080899,
+212167051,212156893,0,False,residential,Caroga Lake Shore Road,161.821,,,,,,,,,,,20080899,
+212167051,212156885,0,False,secondary,State Highway 10,170.417,2,,,,,,,,,,45042898,NY 10;NY 29A
+212167051,212175813,0,False,secondary,State Highway 10,274.317,2,,,,,,,,,,45042898,NY 10;NY 29A
+212167141,212163595,0,False,residential,Mussey Road,111.312,,,,,,,,,,,20080907,
+212167151,212167180,0,False,residential,Mussey Road,1984.82,,,,,,,,,,,20080907,
+212167151,212163595,0,False,residential,Mussey Road,654.7,,,,,,,,,,,20080907,
+212167151,212177892,0,False,tertiary,Beech Ridge Road,745.526,,,,,,,,,,,20081674,
+212167151,212177853,0,False,tertiary,Beech Ridge Road,1542.595,,,,,,,,,,,20081674,
+212167180,212167182,0,False,residential,Mussey Road,53.908,,,,,,,,,,,20080907,
+212167180,212167151,0,False,residential,Mussey Road,1984.82,,,,,,,,,,,20080907,
+212167180,212167189,0,False,residential,Mussey Road,198.079,,,,,,,,,,,20080909,
+212167182,212160937,0,False,secondary,State Highway 10,7.418,,,,,,,,,,,20081722,NY 10
+212167182,212167189,0,False,secondary,State Highway 10,156.755,,,,,,,,,,,20081722,NY 10
+212167182,212167180,0,False,residential,Mussey Road,53.908,,,,,,,,,,,20080907,
+212167189,212167182,0,False,secondary,State Highway 10,156.755,,,,,,,,,,,20081722,NY 10
+212167189,212167180,0,False,residential,Mussey Road,198.079,,,,,,,,,,,20080909,
+212167189,212172787,0,False,secondary,State Highway 10,757.795,,,,,,,,,,,20081722,NY 10
+212167693,212133371,0,False,secondary,State Highway 10,98.933,2,,,,,,,,,,45042898,NY 10;NY 29A
+212167693,212178577,0,False,secondary,State Highway 10,28.335,2,,,,,,,,,,45042898,NY 10;NY 29A
+212167693,212161031,0,False,residential,May Avenue,173.339,,,,,,,,,,,20080937,
+212167903,212167918,0,False,residential,Hutchinson Road,309.955,,,,,,,,,,,20080958,
+212167903,212178680,0,False,residential,Old State Road,194.738,,,,,,,,,,,20082373,
+212167903,212178692,0,False,residential,Old State Road,39.649,,,,,,,,,,,20082373,
+212167918,212167903,0,False,residential,Hutchinson Road,309.955,,,,,,,,,,,20080958,
+212167924,212178876,0,False,secondary,State Highway 10,245.081,,,,,,,,,,,20081722,NY 10
+212167924,1506701987,0,False,residential,Outlet Road,658.018,,,,,,,,,,,20080961,
+212167924,212178859,0,False,secondary,State Highway 10,549.741,,,,,,,,,,,20081722,NY 10
+212168520,212181192,0,False,secondary,State Highway 29A,196.029,,,,,,,,,,,20081864,NY 29A
+212168520,212181186,0,False,secondary,State Highway 29A,132.881,,,,,,,,,,,20081864,NY 29A
+212168520,1870565301,0,False,residential,Garlock Road,1021.959,,,,,,,,,,,20081000,
+212168632,212181144,0,False,secondary,State Highway 29A,12.156,,,,,,,,,,,319279647,NY 29A
+212168632,212177934,0,False,secondary,State Highway 29A,8.981,,,,,,,,,,,319279647,NY 29A
+212168632,1870565280,0,False,residential,State Park Avenue,818.997,,,,,,,,,,,20081006,
+212169372,212169375,0,False,residential,Channel Road,67.32,,,,,,,,,,,20081065,
+212169372,212179263,0,False,tertiary,London Bridge Road,168.217,2,,,,,,,,,,20081742,CR 111
+212169372,212157520,0,False,tertiary,London Bridge Road,134.193,2,,,,,,yes,,,,"[427754038, 427754037, 20081742]",CR 111
+212169375,212169372,0,False,residential,Channel Road,67.32,,,,,,,,,,,20081065,
+212170011,212170013,0,False,residential,2nd Avenue,171.648,,,,,,,,,,,20081110,
+212170011,212181144,0,False,secondary,State Highway 29A,109.487,,,,,,,,,,,319279647,NY 29A
+212170011,212164184,0,False,secondary,State Highway 29A,141.001,,,,,,,,,,,319279647,NY 29A
+212170013,212170011,0,False,residential,2nd Avenue,171.648,,,,,,,,,,,20081110,
+212170013,212174229,0,False,residential,Mac Avenue,104.003,,,,,,,,,,,20081433,
+212170013,212174226,0,False,residential,Mac Avenue,93.57,,,,,,,,,,,20081433,
+212170013,212156257,0,False,residential,2nd Avenue,278.37,,,,,,,,,,,20081110,
+212170123,212170140,0,False,residential,Capehorn Road,566.862,,,,,,,,,,,20081114,
+212170123,212177853,0,False,tertiary,Beech Ridge Road,391.033,,,,,,,,,,,20081674,
+212170140,212155699,0,False,residential,Capehorn Road,54.597,,,,,,,,,,,20081114,
+212170140,212170123,0,False,residential,Capehorn Road,566.862,,,,,,,,,,,20081114,
+212170140,212177853,0,False,residential,North Bush Road,600.895,,,,,,,,,,,20082425,
+212170153,212155699,0,False,residential,Capehorn Road,356.009,,,,,,,,,,,20081114,
+212170153,212172787,0,False,secondary,State Highway 10,374.972,,,,,,,,,,,20081722,NY 10
+212170153,212155705,0,False,secondary,State Highway 10,449.209,,,,,,,,,,,20081722,NY 10
+212170253,212170329,0,False,residential,East Stoner Lake Road,2113.814,,,,,,,,,,,20081123,
+212170253,212170598,0,False,secondary,State Highway 10,95.759,,,,,,,,,,,48329842,NY 10
+212170253,212178372,0,False,secondary,State Highway 10,4024.392,,,,,,,,,,,48329842,NY 10
+212170329,212170253,0,False,residential,East Stoner Lake Road,2113.814,,,,,,,,,,,20081123,
+212170598,3328346564,0,False,residential,West Stoner Lake Road,337.728,,,,,,,,,,,20081146,
+212170598,212160804,0,False,secondary,State Highway 10,306.341,,,,,,,,,,,48329842,NY 10
+212170598,212170253,0,False,secondary,State Highway 10,95.759,,,,,,,,,,,48329842,NY 10
+212170663,212173755,0,False,residential,Woodworth Lake Road,344.411,,,,,,,,,,,20081413,
+212170663,212161143,0,False,residential,Woodworth Lake Road,183.145,,,,,,,,,,,20081413,
+212171040,212171059,0,False,residential,Newkirk Road,724.863,,,,,,,,,,,20081191,
+212171040,212171059,1,False,secondary,State Highway 10,553.203,,,,,,,,,,,20081722,NY 10
+212171040,212160954,0,False,secondary,State Highway 10,816.884,,,,,,,,,,,20081722,NY 10
+212171040,212193610,0,False,residential,Hilley Road,1452.165,,,,,,,,,,,20082699,
+212171059,212171040,0,False,residential,Newkirk Road,724.863,,,,,,,,,,,20081191,
+212171059,212171040,1,False,secondary,State Highway 10,553.203,,,,,,,,,,,20081722,NY 10
+212171059,1506701987,0,False,secondary,State Highway 10,972.05,,,,,,,,,,,20081722,NY 10
+212171207,212171209,0,False,residential,Landes Road,163.681,,,,,,,,,,,20081204,
+212171207,212178372,0,False,secondary,State Highway 29A,163.94,,,,,,,,,,,162009495,NY 29A
+212171209,212171207,0,False,residential,Landes Road,163.681,,,,,,,,,,,20081204,
+212171345,212171358,0,False,residential,Martha B Kunkel Lane,410.696,,,,,,,,,,,20081215,
+212171345,212159190,0,False,residential,Fisher Road,599.791,,,,,,,,,,,20081929,
+212171345,212177934,0,False,residential,Fisher Road,1391.826,,,,,,,,,,,20081929,
+212171358,212171345,0,False,residential,Martha B Kunkel Lane,410.696,,,,,,,,,,,20081215,
+212171522,212155705,0,False,secondary,State Highway 10,952.81,,,,,,,,,,,20081722,NY 10
+212171522,212141108,0,False,secondary,State Highway 10,104.224,,,,,,,,,,,20081722,NY 10
+212171522,212141110,0,False,secondary,State Highway 10A,201.764,,,,,,,,,,,137354894,NY 10A
+212172331,2286991416,0,False,"['unclassified', 'residential']","['Old Peters Mill Road', 'Holmes Road']",785.982,,,,,,,,,,,"[219554613, 20081295]",
+212172347,212166869,0,False,residential,Persch Road,73.047,,,,,,,,,,,20081794,
+212172347,212144723,0,False,residential,Rhinehart Road,661.722,,,,,,,,,,,20081297,
+212172347,212179789,0,False,residential,Persch Road,2403.987,,,,,,,,,,,20081794,
+212172578,212172594,0,False,residential,Lake Drive,229.648,,,,,,,,,,,20081314,
+212172594,212172578,0,False,residential,Lake Drive,229.648,,,,,,,,,,,20081314,
+212172594,212172973,0,False,residential,Lily Lake Road,133.551,,,,,,,,,,,20081343,
+212172594,1381100059,0,False,residential,Lily Lake Road,222.649,,,,,,,,,,,20081343,
+212172787,212172848,0,False,residential,Glasgow Road,2828.575,,,,,,,,,,,20081328,
+212172787,212167189,0,False,secondary,State Highway 10,757.795,,,,,,,,,,,20081722,NY 10
+212172787,212170153,0,False,secondary,State Highway 10,374.972,,,,,,,,,,,20081722,NY 10
+212172848,212172787,0,False,residential,Glasgow Road,2828.575,,,,,,,,,,,20081328,
+212172959,212148139,0,False,residential,Gutha Road,1132.074,,,,,,,,,,,20081338,
+212172959,1381100059,0,False,"['secondary', 'tertiary']","['State Highway 309', 'County Highway 112']",3479.315,,,,,,,,,,,"[20082520, 20080527]","['CR 112', 'NY 309']"
+212172959,212179789,0,False,tertiary,County Highway 112,259.148,,,,,,,,,,,20082520,CR 112
+212172973,212173010,0,False,residential,Lily Lake Road,1965.984,,,,,,,,,,,20081343,
+212172973,212172594,0,False,residential,Lily Lake Road,133.551,,,,,,,,,,,20081343,
+212172973,212187706,0,False,residential,Lake Edward Road,255.039,,,,,,,,,,,20082329,
+212173010,212155213,0,False,residential,Lily Lake Road,1145.016,,,,,,,,,,,20081343,
+212173010,212172973,0,False,residential,Lily Lake Road,1965.984,,,,,,,,,,,20081343,
+212173010,212188878,0,False,residential,Wagner Road,1594.92,,,,,,,,,,,20082389,
+212173055,212157217,0,False,residential,Lily Lake Road,1051.688,,,,,,,,,,,20081343,
+212173055,212155213,0,False,residential,Lily Lake Road,875.525,,,,,,,,,,,20081343,
+212173055,2287014364,0,False,residential,Goat Farm Road,1748.778,,,,,,,,,,,20082412,
+212173755,212174048,0,False,residential,Woodworth Lake Road,3347.932,,,,,,,,,,,20081413,
+212173755,212170663,0,False,residential,Woodworth Lake Road,344.411,,,,,,,,,,,20081413,
+212174048,212173755,0,False,residential,Woodworth Lake Road,3347.932,,,,,,,,,,,20081413,
+212174152,212166041,0,False,residential,Evergreen Drive,278.06,,,,,,,,,,,20081426,
+212174226,212170013,0,False,residential,Mac Avenue,93.57,,,,,,,,,,,20081433,
+212174226,212156247,0,False,residential,First Avenue,309.096,,,,,,,,,,,20082273,
+212174226,212181144,0,False,residential,First Avenue,194.752,,,,,,,,,,,20082273,
+212174229,212170013,0,False,residential,Mac Avenue,104.003,,,,,,,,,,,20081433,
+212174229,212179136,0,False,residential,3rd Avenue,111.854,,,,,,,,,,,20081731,
+212174229,212156260,0,False,residential,3rd Avenue,253.387,,,,,,,,,,,20081731,
+212174229,212184191,0,False,residential,5th Avenue,62.004,,,,,,,,,,,20082321,
+212174479,212156265,0,False,residential,"['Broadway', 'Broadway Avenue', 'Scott Road']",312.203,,,,,,,,,,,"[20080495, 20080255, 20081455]",
+212174484,212178317,0,False,secondary,State Highway 29A,89.491,,,,,,,,,,,20081864,NY 29A
+212174484,212160622,0,False,residential,Scott Road,198.971,,,,,,,,,,,20081456,
+212174484,1870565305,0,False,secondary,State Highway 29A,96.962,,,,,,,,,,,"[20081864, 319279647]",NY 29A
+212174493,212174496,0,False,residential,Kirchen Grove Road,60.598,,,,,,,,,,,20081459,
+212174493,212174493,0,False,residential,Kirchen Grove Road,224.174,,,,,,,,,,,20081461,
+212174493,212174493,1,False,residential,Kirchen Grove Road,224.174,,,,,,,,,,,20081461,
+212174496,212174493,0,False,residential,Kirchen Grove Road,60.598,,,,,,,,,,,20081459,
+212174496,212187600,0,False,residential,Maloney Road,106.263,,,,,,,,,,,20082323,
+212174496,1870565301,0,False,residential,Kirchen Grove Road,110.083,,,,,,,,,,,20081459,
+212174531,212165397,0,False,residential,Shore Branch Road,348.032,,,,,,,,,,,20081462,
+212175180,212178543,0,False,secondary,State Highway 10,72.396,,,,,,,,,,,20081712,NY 10
+212175180,212178876,0,False,secondary,State Highway 10,67.569,,,,,,,,,,,20081722,NY 10
+212175180,212136635,0,False,residential,South Shore Road,180.93,,,,,,,,,,,20081513,
+212175795,212175813,0,False,residential,Vrooman Road,652.496,,,,,,,,,,,20081552,
+212175813,212175795,0,False,residential,Vrooman Road,652.496,,,,,,,,,,,20081552,
+212175813,212152266,0,False,secondary,State Highway 10,182.761,2,,,,,,,,,,45042898,NY 10;NY 29A
+212175813,212167051,0,False,secondary,State Highway 10,274.317,2,,,,,,,,,,45042898,NY 10;NY 29A
+212176370,212165427,0,False,residential,Dwiggers Road,243.243,,,,,,,,,,,20081603,
+212177443,212163595,0,False,residential,Everson Road,808.145,,,,,,,,,,,20081653,
+212177443,212143016,0,False,tertiary,Beech Ridge Road,456.718,,,,,,,,,,,20081674,
+212177443,212177892,0,False,tertiary,Beech Ridge Road,62.975,,,,,,,,,,,20081674,
+212177853,212167151,0,False,tertiary,Beech Ridge Road,1542.595,,,,,,,,,,,20081674,
+212177853,212170123,0,False,tertiary,Beech Ridge Road,391.033,,,,,,,,,,,20081674,
+212177853,212170140,0,False,residential,North Bush Road,600.895,,,,,,,,,,,20082425,
+212177892,212177443,0,False,tertiary,Beech Ridge Road,62.975,,,,,,,,,,,20081674,
+212177892,212167151,0,False,tertiary,Beech Ridge Road,745.526,,,,,,,,,,,20081674,
+212177892,212177959,0,False,residential,Putman Road,264.189,,,,,,,,,,,20081675,
+212177930,212143638,0,False,tertiary,Beech Ridge Road,237.778,,,,,,,,,,,20081674,
+212177930,212181125,0,False,residential,South Shore Caroga Road,230.408,,,,,,,,,,,20082136,
+212177930,212143016,0,False,tertiary,Beech Ridge Road,2487.656,,,,,,,,,,,20081674,
+212177930,212178859,0,False,residential,South Shore Caroga Road,3296.591,,,,,,,,,,,20082136,
+212177934,212168632,0,False,secondary,State Highway 29A,8.981,,,,,,,,,,,319279647,NY 29A
+212177934,212171345,0,False,residential,Fisher Road,1391.826,,,,,,,,,,,20081929,
+212177934,212143638,0,True,tertiary,Beech Ridge Road,88.7,,,,,,,,,,,232395770,
+212177934,212143641,0,False,secondary,State Highway 29A,64.06,,,,,,,,,,,319279647,NY 29A
+212177959,212177892,0,False,residential,Putman Road,264.189,,,,,,,,,,,20081675,
+212178317,212178323,0,False,residential,Dwyer Lane,35.305,,,,,,,,,,,20081701,
+212178317,212174484,0,False,secondary,State Highway 29A,89.491,,,,,,,,,,,20081864,NY 29A
+212178317,212158818,0,False,secondary,State Highway 29A,243.272,,,,,,,,,,,20081864,NY 29A
+212178323,212178317,0,False,residential,Dwyer Lane,35.305,,,,,,,,,,,20081701,
+212178372,212163496,0,False,secondary,State Highway 10,71.96,,,,,,,,,,,20081708,NY 10;NY 29A
+212178372,212170253,0,False,secondary,State Highway 10,4024.392,,,,,,,,,,,48329842,NY 10
+212178372,212171207,0,False,secondary,State Highway 29A,163.94,,,,,,,,,,,162009495,NY 29A
+212178543,212136439,0,False,secondary,State Highway 10,40.002,,,,,,,,,,,20081712,NY 10
+212178543,212175180,0,False,secondary,State Highway 10,72.396,,,,,,,,,,,20081712,NY 10
+212178543,1506701952,0,False,residential,Hys Road,91.32,,,,,,,,,,,20082220,
+212178555,212167038,0,False,secondary,State Highway 10,14.95,,,,,,,,,,,20081712,NY 10
+212178555,212136439,0,False,secondary,State Highway 10,117.294,,,,,,,,,,,20081712,NY 10
+212178555,212187600,0,False,residential,Maloney Road,259.534,,,,,,,,,,,20082323,
+212178561,212158408,0,False,secondary,State Highway 10,114.202,,,,,,,,,,,20081712,NY 10
+212178561,212167038,0,False,secondary,State Highway 10,143.0,,,,,,,,,,,20081712,NY 10
+212178561,212187600,0,False,residential,Jackson Road,129.712,,,,,,,,,,,20082527,
+212178573,212161036,0,False,secondary,State Highway 10,148.101,,,,,,,,,,,20081712,NY 10
+212178573,212158408,0,False,secondary,State Highway 10,599.932,,,,,,,,,,,20081712,NY 10
+212178573,212181192,0,False,secondary_link,Washington Street,239.591,,,,,,,,,,,20082693,
+212178577,212181192,0,False,secondary,State Highway 29A,265.888,,,,,,,,,,,20081864,NY 29A
+212178577,212167693,0,False,secondary,State Highway 10,28.335,2,,,,,,,,,,45042898,NY 10;NY 29A
+212178577,212161036,0,False,secondary,State Highway 10,100.337,,,,,,,,,,,20081712,NY 10
+212178680,212178692,0,False,secondary,State Highway 10,210.775,,,,,,,,,,,20081713,NY 10;NY 29A
+212178680,212163746,0,False,secondary,State Highway 10,240.45,,,,,,,,,,,20081713,NY 10;NY 29A
+212178680,212167903,0,False,residential,Old State Road,194.738,,,,,,,,,,,20082373,
+212178692,2243261454,0,False,secondary,State Highway 10,16.372,,,,,,,,,,,20081713,NY 10;NY 29A
+212178692,212178680,0,False,secondary,State Highway 10,210.775,,,,,,,,,,,20081713,NY 10;NY 29A
+212178692,212167903,0,False,residential,Old State Road,39.649,,,,,,,,,,,20082373,
+212178859,1506701987,0,False,secondary,State Highway 10,58.568,,,,,,,,,,,20081722,NY 10
+212178859,212167924,0,False,secondary,State Highway 10,549.741,,,,,,,,,,,20081722,NY 10
+212178859,212177930,0,False,residential,South Shore Caroga Road,3296.591,,,,,,,,,,,20082136,
+212178876,212175180,0,False,secondary,State Highway 10,67.569,,,,,,,,,,,20081722,NY 10
+212178876,212167924,0,False,secondary,State Highway 10,245.081,,,,,,,,,,,20081722,NY 10
+212178876,212188301,0,False,residential,Seven Oaks Road,223.447,,,,,,,,,,,20082361,
+212179136,212174229,0,False,residential,3rd Avenue,111.854,,,,,,,,,,,20081731,
+212179136,212164184,0,False,secondary,State Highway 29A,14.605,,,,,,,,,,,319279647,NY 29A
+212179136,1870565305,0,False,secondary,State Highway 29A,294.877,,,,,,,,,,,319279647,NY 29A
+212179263,212185237,0,False,residential,Jung Road,45.672,,,,,,,,,,,20082119,
+212179263,212165371,0,False,tertiary,London Bridge Road,361.63,2,,,,,,,,,,20081742,CR 111
+212179263,212169372,0,False,tertiary,London Bridge Road,168.217,2,,,,,,,,,,20081742,CR 111
+212179672,212138503,0,False,residential,Shutts Road North,597.012,,,,,,,,,,,20081785,
+212179672,212180285,0,False,residential,Shutts Road South,559.389,,,,,,,,,,,20081821,
+212179672,212159237,0,False,tertiary,County Highway 112,672.272,,,,,,,,,,,20082520,CR 112
+212179672,212154829,0,False,tertiary,County Highway 112,2860.211,,,,,,,,,,,20082520,CR 112
+212179789,212172347,0,False,residential,Persch Road,2403.987,,,,,,,,,,,20081794,
+212179789,212172959,0,False,tertiary,County Highway 112,259.148,,,,,,,,,,,20082520,CR 112
+212179789,212157248,0,False,tertiary,County Highway 112,825.192,,,,,,,,,,,20082520,CR 112
+212179866,212166869,0,False,residential,Persch Road,1566.821,,,,,,,,,,,20081794,
+212179866,212180366,0,False,tertiary,County Highway 112,3009.773,,,,,,,,,,,20082520,CR 112
+212179866,212159237,0,False,tertiary,County Highway 112,1054.889,,,,,,,,,,,20082520,CR 112
+212180285,212179672,0,False,residential,Shutts Road South,559.389,,,,,,,,,,,20081821,
+212180292,212166709,0,False,tertiary,County Highway 125,4984.951,,,,,,,,,,,20081825,CR 125
+212180292,212166861,0,False,tertiary,County Highway 125,3136.971,,,,,,,,,,,20081825,CR 125
+212180292,212157214,0,False,residential,Barlow Road,4912.232,,,,,,,,,,,"[20082294, 20082295]",
+212180366,2286991416,0,False,tertiary,County Highway 125,1.789,,,,,,,,,,,20081825,CR 125
+212180366,212150288,0,False,tertiary,County Highway 112,1434.333,,,,,,,,,,,20082520,CR 112
+212180366,212179866,0,False,tertiary,County Highway 112,3009.773,,,,,,,,,,,20082520,CR 112
+212181065,2297551875,0,False,residential,Peck Lake Road,27.356,,,,,,,,,,,20082354,
+212181065,212166138,0,False,secondary,State Highway 29A,68.918,,,,,,,,,,,319279647,NY 29A
+212181119,212143641,0,False,residential,Sgt Witzke Drive,556.766,,,,,,,,,,,20082190,
+212181119,212181125,0,False,secondary,State Highway 29A,192.84,,,,,,,,,,,319279647,NY 29A
+212181119,212159079,0,False,secondary,State Highway 29A,2284.412,,,,,,,,,,,319279647,NY 29A
+212181125,212177930,0,False,residential,South Shore Caroga Road,230.408,,,,,,,,,,,20082136,
+212181125,212143641,0,False,secondary,State Highway 29A,307.467,,,,,,,,,,,319279647,NY 29A
+212181125,212181119,0,False,secondary,State Highway 29A,192.84,,,,,,,,,,,319279647,NY 29A
+212181144,212174226,0,False,residential,First Avenue,194.752,,,,,,,,,,,20082273,
+212181144,212170011,0,False,secondary,State Highway 29A,109.487,,,,,,,,,,,319279647,NY 29A
+212181144,212168632,0,False,secondary,State Highway 29A,12.156,,,,,,,,,,,319279647,NY 29A
+212181186,212168520,0,False,secondary,State Highway 29A,132.881,,,,,,,,,,,20081864,NY 29A
+212181186,212158818,0,False,secondary,State Highway 29A,193.586,,,,,,,,,,,20081864,NY 29A
+212181186,212185191,0,False,residential,Avery Road,177.386,,,,,,,,,,,20082115,
+212181192,212178577,0,False,secondary,State Highway 29A,265.888,,,,,,,,,,,20081864,NY 29A
+212181192,212168520,0,False,secondary,State Highway 29A,196.029,,,,,,,,,,,20081864,NY 29A
+212181192,212178573,0,False,secondary_link,Washington Street,239.591,,,,,,,,,,,20082693,
+212182109,212159215,0,False,residential,Fisher Road,26.931,,,,,,,,,,,20081931,
+212183392,212183416,0,False,residential,Little Gem Terrace,276.731,,,,,,,,,,,20082002,
+212183392,212166010,0,False,residential,Little Gem Terrace,36.356,,,,,,,,,,,20082003,
+212183416,212183392,0,False,residential,Little Gem Terrace,276.731,,,,,,,,,,,20082002,
+212184188,212184191,0,False,residential,4th Avenue,215.029,,,,,,,,,,,20082032,
+212184188,212184191,1,False,residential,5th Avenue,267.178,,,,,,,,,,,20082321,
+212184188,212156263,0,False,residential,4th Avenue,64.441,,,,,,,,,,,20082032,
+212184191,212184188,0,False,residential,4th Avenue,215.029,,,,,,,,,,,20082032,
+212184191,212184188,1,False,residential,5th Avenue,267.178,,,,,,,,,,,20082321,
+212184191,212174229,0,False,residential,5th Avenue,62.004,,,,,,,,,,,20082321,
+212185191,212181186,0,False,residential,Avery Road,177.386,,,,,,,,,,,20082115,
+212185237,212179263,0,False,residential,Jung Road,45.672,,,,,,,,,,,20082119,
+212185237,212185255,0,False,residential,Jung Road,182.186,,,,,,,,,,,20082119,
+212185237,212185263,0,False,residential,Jung Road,137.269,,,,,,,,,,,20082121,
+212185237,212165377,0,False,residential,Jung Road,346.958,,,,,,,,,,,20082123,
+212185255,212185237,0,False,residential,Jung Road,182.186,,,,,,,,,,,20082119,
+212185263,212137545,0,False,residential,Jung Road,44.654,,,,,,,,,,,20082121,
+212185263,212165386,0,False,residential,Jung Road,309.43,,,,,,,,,,,20082120,
+212185263,212185237,0,False,residential,Jung Road,137.269,,,,,,,,,,,20082121,
+212186792,212156247,0,False,residential,First Avenue,113.899,,,,,,,,,,,20082273,
+212187600,212174496,0,False,residential,Maloney Road,106.263,,,,,,,,,,,20082323,
+212187600,212178561,0,False,residential,Jackson Road,129.712,,,,,,,,,,,20082527,
+212187600,212178555,0,False,residential,Maloney Road,259.534,,,,,,,,,,,20082323,
+212187635,212187640,0,False,residential,Lake Edward Road,87.072,,,,,,,,,,,20082325,
+212187635,212187706,0,False,residential,Lake Edward Road,62.031,,,,,,,,,,,20082329,
+212187635,212187668,0,False,residential,Lake Edward Road,1187.929,,,,,,,,,,,20082329,
+212187640,212187649,0,False,residential,Lake Edward Road,131.204,,,,,,,,,,,20082325,
+212187640,212187635,0,False,residential,Lake Edward Road,87.072,,,,,,,,,,,20082325,
+212187640,212187735,0,False,residential,Lake Edward Road,151.97,,,,,,,,,,,20082331,
+212187649,212187640,0,False,residential,Lake Edward Road,131.204,,,,,,,,,,,20082325,
+212187655,212187706,0,False,residential,Lake Edward Road,109.374,,,,,,,,,,,20082330,
+212187668,212187635,0,False,residential,Lake Edward Road,1187.929,,,,,,,,,,,20082329,
+212187706,212172973,0,False,residential,Lake Edward Road,255.039,,,,,,,,,,,20082329,
+212187706,212187635,0,False,residential,Lake Edward Road,62.031,,,,,,,,,,,20082329,
+212187706,212187655,0,False,residential,Lake Edward Road,109.374,,,,,,,,,,,20082330,
+212187735,212187640,0,False,residential,Lake Edward Road,151.97,,,,,,,,,,,20082331,
+212187975,212163459,0,False,residential,Balsam Avenue,62.841,,,,,,,,,,,20082341,
+212188074,212163513,0,False,residential,Timberline Lane,214.614,,,,,,,,,,,20082349,
+212188301,212178876,0,False,residential,Seven Oaks Road,223.447,,,,,,,,,,,20082361,
+212188878,212173010,0,False,residential,Wagner Road,1594.92,,,,,,,,,,,20082389,
+212192074,212138993,0,False,residential,Decker Road,307.998,,,,,,,,,,,"[20078897, 20082605]",
+212193610,212171040,0,False,residential,Hilley Road,1452.165,,,,,,,,,,,20082699,
+1381100059,212172959,0,False,"['secondary', 'tertiary']","['State Highway 309', 'County Highway 112']",3479.315,,,,,,,,,,,"[20082520, 20080527]","['CR 112', 'NY 309']"
+1381100059,212161143,0,False,secondary,State Highway 309,1314.595,,,,,,,,,,,20080527,NY 309
+1381100059,212172594,0,False,residential,Lily Lake Road,222.649,,,,,,,,,,,20081343,
+1506701952,212178543,0,False,residential,Hys Road,91.32,,,,,,,,,,,20082220,
+1506701987,212178859,0,False,secondary,State Highway 10,58.568,,,,,,,,,,,20081722,NY 10
+1506701987,212167924,0,False,residential,Outlet Road,658.018,,,,,,,,,,,20080961,
+1506701987,212171059,0,False,secondary,State Highway 10,972.05,,,,,,,,,,,20081722,NY 10
+1506774094,212136545,0,False,residential,South Shore Road,1566.01,,,,,,,,,,,20081513,
+1870565280,212168632,0,False,residential,State Park Avenue,818.997,,,,,,,,,,,20081006,
+1870565301,212168520,0,False,residential,Garlock Road,1021.959,,,,,,,,,,,20081000,
+1870565301,212158408,0,False,residential,Kirchen Grove Road,43.642,,,,,,,,,,,20081459,
+1870565301,212174496,0,False,residential,Kirchen Grove Road,110.083,,,,,,,,,,,20081459,
+1870565302,212164197,0,False,residential,,90.002,,,,,,,,,,,176557731,
+1870565305,212156265,0,False,residential,6th Ave,320.014,,,,,,,,,,,176557730,
+1870565305,212174484,0,False,secondary,State Highway 29A,96.962,,,,,,,,,,,"[20081864, 319279647]",NY 29A
+1870565305,212179136,0,False,secondary,State Highway 29A,294.877,,,,,,,,,,,319279647,NY 29A
+1870605743,212165505,0,False,residential,,163.087,,,,,,,,,,,176564756,
+1870605758,212160889,0,False,residential,North Road,962.502,,,,,,,,,,,20082628,
+2243261454,212178692,0,False,secondary,State Highway 10,16.372,,,,,,,,,,,20081713,NY 10;NY 29A
+2243261454,212160509,0,False,residential,Schoolhouse Road,538.385,,,,,,,,,,,20080490,
+2243261454,212138993,0,False,secondary,State Highway 10,161.243,,,,,,,,,,,20081713,NY 10;NY 29A
+2286991416,212180366,0,False,tertiary,County Highway 125,1.789,,,,,,,,,,,20081825,CR 125
+2286991416,212155019,0,False,tertiary,County Highway 125,2877.64,,,,,,,,,,,20081825,CR 125
+2286991416,212172331,0,False,"['unclassified', 'residential']","['Old Peters Mill Road', 'Holmes Road']",785.982,,,,,,,,,,,"[219554613, 20081295]",
+2287014364,212173055,0,False,residential,Goat Farm Road,1748.778,,,,,,,,,,,20082412,
+2297551859,212166138,0,False,residential,North Shore Road,19.245,,,,,,,,,,,20080842,
+2297551859,212142931,0,False,residential,North Shore Road,124.305,,,,,,,,,,,20080842,
+2297551859,2297551875,0,False,residential,,99.406,,,,,,,,,,,220664812,
+2297551860,212166029,0,False,residential,Hemlock Drive,226.002,,,,,,,,,,,20082177,
+2297551875,212181065,0,False,residential,Peck Lake Road,27.356,,,,,,,,,,,20082354,
+2297551875,2297551859,0,False,residential,,99.406,,,,,,,,,,,220664812,
+3328346545,212160804,0,False,residential,North Stoner Lake Road,969.85,,,,,,,,,,,20080508,
+3328346564,212170598,0,False,residential,West Stoner Lake Road,337.728,,,,,,,,,,,20081146,
+3328346574,212157049,0,False,residential,Webster Road,160.904,,,,,,,,,,,20081602,
+4643039666,212163200,0,False,residential,Green Lake Road,140.889,,,,,,,,,,,20080672,

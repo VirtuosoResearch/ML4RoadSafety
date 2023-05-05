@@ -1,0 +1,53 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+42429570,246858435,0,False,secondary,Murray Street,29.213,,,,,,,,,,,195743189,
+42429570,42449613,0,True,trunk,West Street,135.961,"['4', '5']",,,35 mph,,,,,,,"[195743228, 421832645]",NY 9A
+42429577,42429630,0,True,residential,Murray Street,87.646,,,,25 mph,,,,,,,5669829,
+42429577,246858435,0,False,residential,Murray Street,80.81,,,,25 mph,,,,,,,46160106,
+42429595,42446849,0,False,residential,North End Avenue,56.976,,,,25 mph,,,,,,,46165815,
+42429595,42429630,0,False,residential,North End Avenue,36.31,,,,25 mph,,,,,,,584971510,
+42429595,42429577,0,True,residential,Murray Street,94.906,,,,25 mph,,,,,,,46165810,
+42429630,42429595,0,False,residential,North End Avenue,36.31,,,,25 mph,,,,,,,584971510,
+42429630,42429633,0,False,residential,Murray Street,107.164,,,,25 mph,,,,,,,46165807,
+42429630,42446800,0,False,residential,North End Avenue,23.373,,,,25 mph,,,,,,,584971516,
+42429633,42445291,0,False,residential,River Terrace,163.63,,,,25 mph,,,,,,,5671307,
+42429633,42446849,0,False,residential,"['River Terrace', 'Vesey Place']",174.069,,,,25 mph,,,,,,,"[5671307, 5673532]",
+42429633,42429630,0,False,residential,Murray Street,107.164,,,,25 mph,,,,,,,46165807,
+42431626,246858448,0,False,secondary,Chambers Street,27.618,,,,25 mph,,,,,,,420772653,
+42431629,42431630,0,False,residential,Chambers Street,25.007,2,,,25 mph,,,,,,,584971513,
+42431629,246858448,0,False,residential,Chambers Street,79.287,2,,,25 mph,,,,,,,"[226040985, 46165814]",
+42431630,42446814,0,True,residential,North End Avenue,78.393,,,,25 mph,,,,,,,5671457,
+42431630,42431629,0,False,residential,Chambers Street,25.007,2,,,25 mph,,,,,,,584971513,
+42431630,42445291,0,False,residential,"['River Terrace', 'Chambers Street']",169.896,,,,25 mph,,,,,,,"[194923760, 5671307]",
+42445291,42431630,0,False,residential,"['River Terrace', 'Chambers Street']",169.896,,,,25 mph,,,,,,,"[194923760, 5671307]",
+42445291,42429633,0,False,residential,River Terrace,163.63,,,,25 mph,,,,,,,5671307,
+42445291,42446814,0,False,residential,Warren Street,121.044,,,,25 mph,,,,,,,5671713,
+42446800,42446825,0,True,residential,North End Avenue,140.199,,,,25 mph,,,,,,,5671458,
+42446800,42429630,0,False,residential,North End Avenue,23.373,,,,25 mph,,,,,,,584971516,
+42446814,42446825,0,False,residential,Warren Street,24.258,,,,25 mph,,,,,,,5671713,
+42446814,42446800,0,True,residential,North End Avenue,139.533,,,,25 mph,,,,,,,5671457,
+42446814,42445291,0,False,residential,Warren Street,121.044,,,,25 mph,,,,,,,5671713,
+42446825,42446814,0,False,residential,Warren Street,24.258,,,,25 mph,,,,,,,5671713,
+42446825,42431629,0,True,residential,North End Avenue,78.358,,,,25 mph,,,,,,,196117045,
+42446825,246858449,0,False,residential,Warren Street,104.234,,,,25 mph,,,,,,,"[196117059, 46165813]",
+42446849,42429595,0,False,residential,North End Avenue,56.976,,,,25 mph,,,,,,,46165815,
+42446849,42429633,0,False,residential,"['River Terrace', 'Vesey Place']",174.069,,,,25 mph,,,,,,,"[5671307, 5673532]",
+42446849,373880031,0,False,residential,"['North End Avenue', 'Vesey Street']",259.797,,,,25 mph,,,,,,,"[439842840, 195743197, 46165815]",
+42449613,246858449,0,False,residential,Warren Street,26.988,,,,25 mph,,,,,,,475867322,
+42449613,42431626,0,True,trunk,West Street,78.228,4,,,35 mph,,,,,,,222299274,NY 9A
+42453395,373880031,0,False,residential,Vesey Street,23.604,,,,25 mph,,,,,,,44225575,
+42453395,42453398,0,True,trunk,West Street,84.017,4,,,35 mph,,,,,,,438900013,NY 9A
+42453398,42429570,0,True,trunk,West Street,88.633,"['4', '6']",,,35 mph,,,,,,,"[420809440, 438900013]",NY 9A
+246858435,42429570,0,False,secondary,Murray Street,29.213,,,,,,,,,,,195743189,
+246858435,42429577,0,False,residential,Murray Street,80.81,,,,25 mph,,,,,,,46160106,
+246858435,373880031,0,True,trunk,West Street,166.899,3,,,35 mph,,,,,,,222299273,NY 9A
+246858448,42431626,0,False,secondary,Chambers Street,27.618,,,,25 mph,,,,,,,420772653,
+246858448,42431629,0,False,residential,Chambers Street,79.287,2,,,25 mph,,,,,,,"[226040985, 46165814]",
+246858448,246858449,0,True,trunk,West Street,80.886,3,,,35 mph,,,,,,,420772654,NY 9A
+246858449,42449613,0,False,residential,Warren Street,26.988,,,,25 mph,,,,,,,475867322,
+246858449,42446825,0,False,residential,Warren Street,104.234,,,,25 mph,,,,,,,"[196117059, 46165813]",
+246858449,246858435,0,True,trunk,West Street,142.259,"['3', '6']",,,35 mph,,,,,,,"[475867321, 420809425]",NY 9A
+373880031,42453395,0,False,residential,Vesey Street,23.604,,,,25 mph,,,,,,,44225575,
+373880031,246858433,0,True,trunk,West Street,303.127,3,,,35 mph,,,,,,,195743227,NY 9A
+373880031,42446849,0,False,residential,"['North End Avenue', 'Vesey Street']",259.797,,,,25 mph,,,,,,,"[439842840, 195743197, 46165815]",
+889298452,889298452,0,False,residential,South End Avenue,58.57,,,,25 mph,,,,,,,75311776,
+889298452,889298452,1,False,residential,South End Avenue,58.57,,,,25 mph,,,,,,,75311776,

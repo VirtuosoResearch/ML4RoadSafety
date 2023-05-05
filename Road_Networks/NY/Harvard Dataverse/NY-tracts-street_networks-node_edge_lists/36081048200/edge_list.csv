@@ -1,0 +1,44 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+42822714,42845745,0,True,residential,190th Street,169.484,,,,,,,,,,,5707401,
+42822717,42822714,0,True,primary,Jamaica Avenue,78.415,,,,,,,,,,,219579786,
+42822724,42822717,0,True,primary,Jamaica Avenue,76.769,,,,,,,,,,,531049876,
+42822727,42822724,0,True,primary,Jamaica Avenue,56.011,,,,,,,,,,,531049876,
+42822732,42845769,0,False,residential,193rd Street,90.637,,,,,,,,,,,5707149,
+42822732,42822727,0,True,primary,Jamaica Avenue,32.57,,,,,,,,,,,531049876,
+42822737,42845772,0,True,residential,195th Street,118.51,,,,,,,,,,,5709362,
+42822737,42822732,0,True,primary,Jamaica Avenue,87.201,,,,,,,,,,,531049876,
+42822739,42822737,0,True,primary,Jamaica Avenue,98.538,,,,,,,,,,,531049876,
+42822739,42858436,0,False,residential,195th Place,125.777,,,,,,,,,,,5704253,
+42845745,42845751,0,False,residential,90th Avenue,76.228,,,,,,,,,,,5703389,
+42845745,42860846,0,True,residential,190th Street,137.458,,,,,,,,,,,5707401,
+42845751,42845745,0,False,residential,90th Avenue,76.228,,,,,,,,,,,5703389,
+42845751,42845753,0,False,residential,90th Avenue,82.622,,,,,,,,,,,5703389,
+42845751,42822717,0,True,residential,191st Street,148.969,,,,,,,,,,,93805952,
+42845753,42845751,0,False,residential,90th Avenue,82.622,,,,,,,,,,,5703389,
+42845753,42845768,0,True,residential,192nd Street,49.675,,,,,,,,,,,5708632,
+42845768,42845769,0,True,residential,90th Avenue,88.277,,,,,,,,,,,5703391,
+42845768,42822724,0,True,residential,192nd Street,87.331,,,,,,,,,,,5708632,
+42845769,42822732,0,False,residential,193rd Street,90.637,,,,,,,,,,,5707149,
+42845769,42900781,0,False,residential,193rd Street,328.5,,,,,,,,,,,5707149,
+42845769,42845772,0,True,residential,90th Avenue,88.446,,,,,,,,,,,278905671,
+42845772,42929078,0,True,residential,195th Street,328.559,,,,,,,,,,,5709362,
+42845772,42858443,0,True,residential,"['90th Avenue', '195th Place']",404.483,,,,,,,,,,,"[278905672, 5704254]",
+42858436,42822739,0,False,residential,195th Place,125.777,,,,,,,,,,,5704253,
+42858443,42893656,0,False,primary,Hillside Avenue,70.479,,,,,,,,,,,420556895,NY 25
+42858443,42929078,0,False,primary,Hillside Avenue,78.654,,,,,,,,,,,420556895,NY 25
+42860846,42860849,0,False,residential,89th Avenue,76.127,,,,,,,,,,,5704416,
+42860849,42860846,0,False,residential,89th Avenue,76.127,,,,,,,,,,,5704416,
+42860849,42845751,0,True,residential,191st Street,137.634,,,,,,,,,,,93805952,
+42860892,42893660,0,True,residential,196th Street,92.037,,,,,,,,,,,5706585,
+42893656,42860892,0,True,residential,196th Street,159.834,,,,,,,,,,,5706585,
+42893656,42858443,0,False,primary,Hillside Avenue,70.479,,,,,,,,,,,420556895,NY 25
+42900781,42845769,0,False,residential,193rd Street,328.5,,,,,,,,,,,5707149,
+42900781,42920491,0,False,primary,Hillside Avenue,87.384,,,,,,,,,,,"[420556856, 420556849, 420556869]",NY 25
+42900781,42929078,0,False,primary,Hillside Avenue,89.118,,,,,,,,,,,"[420556867, 420556895]",NY 25
+42920491,42845753,0,True,residential,192nd Street,278.542,,,,,,,,,,,5708632,
+42920491,42900781,0,False,primary,Hillside Avenue,87.384,,,,,,,,,,,"[420556856, 420556849, 420556869]",NY 25
+42920491,42940075,0,False,primary,Hillside Avenue,94.764,,,,,,,,,,,"[420556876, 420556860]",NY 25
+42929078,42858443,0,False,primary,Hillside Avenue,78.654,,,,,,,,,,,420556895,NY 25
+42929078,42900781,0,False,primary,Hillside Avenue,89.118,,,,,,,,,,,"[420556867, 420556895]",NY 25
+42940075,42860849,0,True,residential,191st Street,145.017,,,,,,,,,,,93805952,
+42940075,42920491,0,False,primary,Hillside Avenue,94.764,,,,,,,,,,,"[420556860, 420556876]",NY 25

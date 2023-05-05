@@ -1,0 +1,33 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+61340721,61348074,0,False,residential,Hereford Street,59.994,2,15.9,,25 mph,,,,,,,8638411,
+61340721,61340777,0,True,secondary,Beacon Street,217.404,2,21.6,,25 mph,,,,,,,86480893,
+61340777,61354678,0,False,primary,Massachusetts Avenue,92.75,4,29.0,,,,,,,,,286489353,MA 2A
+61340777,2600861586,0,False,primary,Massachusetts Avenue,61.32,4,29.0,,,,,,,,,485271442,MA 2A
+61340918,61348075,0,False,residential,Gloucester Street,60.705,2,17.1,,25 mph,,,,,,,8648678,
+61340918,61340721,0,True,secondary,Beacon Street,132.102,2,21.6,,25 mph,,,,,,,86480893,
+61340918,61341277,0,True,residential,Gloucester Street,92.168,2,17.1,,25 mph,,,,,,,580416896,
+61341269,61358345,0,True,residential,Fairfield Street,93.38,2,16.8,,25 mph,,,,,,,580416089,
+61341277,61341269,0,True,residential,Marlborough Street,170.633,2,18.3,,25 mph,,,,,,,510033917,
+61341278,61341277,0,True,residential,Marlborough Street,132.297,2,18.3,,25 mph,,,,,,,510033917,
+61341278,61340721,0,True,secondary,Hereford Street,94.513,2,15.9,,25 mph,,,,,,,510033918,
+61342314,61354678,0,False,primary,Massachusetts Avenue,92.518,4,29.0,,,,,,,,,286489353,MA 2A
+61342409,61359356,0,True,primary,Commonwealth Avenue,62.854,2,24.4,,25 mph,,,,,,,8649840,MA 2
+61342409,61341278,0,True,secondary,Hereford Street,95.307,2,15.9,,25 mph,,,,,,,580417128,
+61348074,61340721,0,False,residential,Hereford Street,59.994,2,15.9,,25 mph,,,,,,,8638411,
+61348074,61348075,0,False,residential,Back Street,131.699,1,6.1,,25 mph,,,,,,,254299016,
+61348074,2600861586,0,False,residential,Back Street,217.762,1,6.1,,25 mph,,,,,,,254299016,
+61348075,61340918,0,False,residential,Gloucester Street,60.705,2,17.1,,25 mph,,,,,,,8648678,
+61348075,5429239973,0,False,residential,Back Street,170.967,1,6.1,,25 mph,,,,,,,254299016,
+61348075,61348074,0,False,residential,Back Street,131.699,1,6.1,,25 mph,,,,,,,254299016,
+61354678,61341278,0,True,residential,Marlborough Street,217.339,2,18.3,,25 mph,,,,,,,8651798,
+61354678,61340777,0,False,primary,Massachusetts Avenue,92.75,4,29.0,,,,,,,,,286489353,MA 2A
+61354678,61342314,0,False,primary,Massachusetts Avenue,92.518,4,29.0,,,,,,,,,286489353,MA 2A
+61358345,61340918,0,True,secondary,Beacon Street,170.579,2,21.6,,25 mph,,,,,,,86480893,
+61358345,5429239973,0,False,residential,Fairfield Street,60.646,2,16.8,,25 mph,,,,,,,89637129,
+61359356,61342314,0,True,primary,Commonwealth Avenue,154.828,2,13.7,,,,,,,,,"[8647128, 426643815]",
+61422261,5429239973,0,False,residential,Back Street,197.963,1,6.1,,25 mph,,,,,,,254299016,
+2600861586,61348074,0,False,residential,Back Street,217.762,1,6.1,,25 mph,,,,,,,254299016,
+2600861586,61340777,0,False,primary,Massachusetts Avenue,61.32,4,29.0,,,,,,,,,485271442,MA 2A
+5429239973,61422261,0,False,residential,Back Street,197.963,1,6.1,,25 mph,,,,,,,254299016,
+5429239973,61358345,0,False,residential,Fairfield Street,60.646,2,16.8,,25 mph,,,,,,,89637129,
+5429239973,61348075,0,False,residential,Back Street,170.967,1,6.1,,25 mph,,,,,,,254299016,

@@ -1,0 +1,47 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+49458627,49464448,0,False,residential,North Mount Street,239.77,2,,,,,,yes,,,,"[70803242, 70803243, 410712716]",
+49458627,49458633,0,False,residential,Riggs Avenue,116.116,2,,,,,,,,,,"[410712721, 410712717]",
+49458633,1401742527,0,True,primary,North Fulton Avenue,117.619,2,,,30 mph,,,,,,,188164075,US 1
+49458633,49458635,0,False,residential,Riggs Avenue,11.023,2,,,,,,,,,,188164091,
+49458633,49458627,0,False,residential,Riggs Avenue,116.116,2,,,,,,,,,,"[410712721, 410712717]",
+49458635,49458633,0,False,residential,Riggs Avenue,11.023,2,,,,,,,,,,188164091,
+49458635,49543511,0,True,primary,North Fulton Avenue,120.375,2,,,30 mph,,,,,,,188165136,
+49464448,49458627,0,False,residential,North Mount Street,239.77,2,,,,,,yes,,,,"[70803242, 70803243, 410712716]",
+49485680,49485681,0,False,secondary,Edmondson Avenue,118.797,2,,,30 mph,,,,,,,289676801,
+49485680,49500377,0,False,residential,North Mount Street,138.077,2,,,,,,,,,,11998007,
+49485681,49485680,0,False,secondary,Edmondson Avenue,118.797,2,,,30 mph,,,,,,,289676801,
+49485681,49500379,0,True,primary,North Fulton Avenue,138.198,2,,,30 mph,,,,,,,120487116,US 1
+49500377,49500379,0,False,residential,Harlem Avenue,116.082,2,,,,,,,,,,6008132,
+49500377,49502804,0,False,residential,North Mount Street,130.153,2,,,,,,,,,,11998007,
+49500377,49485680,0,False,residential,North Mount Street,138.077,2,,,,,,,,,,11998007,
+49500379,49500380,0,False,residential,Harlem Avenue,10.397,2,,,,,,,,,,6008132,
+49500379,49500377,0,False,residential,Harlem Avenue,116.082,2,,,,,,,,,,6008132,
+49500379,49502810,0,True,primary,North Fulton Avenue,130.59,2,,,30 mph,,,,,,,546459620,US 1
+49500380,49500379,0,False,residential,Harlem Avenue,10.397,2,,,,,,,,,,6008132,
+49502804,49502810,0,False,residential,West Lanvale Street,115.924,2,,,,,,,,,,6008553,
+49502804,49561869,0,False,residential,North Mount Street,131.787,2,,,,,,,,,,11998007,
+49502804,49500377,0,False,residential,North Mount Street,130.153,2,,,,,,,,,,11998007,
+49502810,49502812,0,False,residential,West Lanvale Street,10.514,2,,,,,,,,,,98289440,
+49502810,49549046,0,True,primary,North Fulton Avenue,131.198,2,,,30 mph,,,,,,,499207544,US 1
+49502810,49502804,0,False,residential,West Lanvale Street,115.924,2,,,,,,,,,,6008553,
+49502812,49502810,0,False,residential,West Lanvale Street,10.514,2,,,,,,,,,,98289440,
+49502812,49500380,0,True,primary,North Fulton Avenue,130.684,2,,,30 mph,,,,,,,424999936,
+49502977,49485681,0,True,primary,North Fulton Avenue,146.165,"['4', '3']",,,30 mph,,,,,,,"[424999937, 11998003]",US 1
+49543503,49561869,0,False,residential,North Mount Street,120.145,2,,,,,,,,,,11998007,
+49543503,49543509,0,False,residential,Mosher Street,115.728,2,,,,,,,,,,410712718,
+49543503,49458627,0,True,residential,North Mount Street,120.402,2,,,,,,,,,,410712719,
+49543509,49458633,0,True,primary,North Fulton Avenue,120.931,2,,,30 mph,,,,,,,98289501,US 1
+49543509,49543511,0,False,residential,Mosher Street,10.75,2,,,,,,,,,,410712718,
+49543509,49543503,0,False,residential,Mosher Street,115.728,2,,,,,,,,,,410712718,
+49543511,49549116,0,True,primary,North Fulton Avenue,120.017,2,,,30 mph,,,,,,,188165136,
+49543511,49543509,0,False,residential,Mosher Street,10.75,2,,,,,,,,,,410712718,
+49546275,49458635,0,True,primary,North Fulton Avenue,118.319,2,,,30 mph,,,,,,,500300321,
+49549046,49543509,0,True,primary,North Fulton Avenue,120.037,2,,,30 mph,,,,,,,98289501,US 1
+49549046,49549116,0,False,secondary,West Lafayette Avenue,10.181,2,,,25 mph,,,,,,,499207543,
+49549046,49561869,0,False,secondary,West Lafayette Avenue,115.939,2,,,25 mph,,,,,,,197613674,
+49549116,49502812,0,True,primary,North Fulton Avenue,131.106,2,,,30 mph,,,,,,,188165136,
+49549116,49549046,0,False,secondary,West Lafayette Avenue,10.181,2,,,25 mph,,,,,,,499207543,
+49561869,49543503,0,False,residential,North Mount Street,120.145,2,,,,,,,,,,11998007,
+49561869,49502804,0,False,residential,North Mount Street,131.787,2,,,,,,,,,,11998007,
+49561869,49549046,0,False,secondary,West Lafayette Avenue,115.939,2,,,25 mph,,,,,,,197613674,
+1401742527,49546275,0,True,residential,Winchester Street,10.512,2,,,,,,,,,,6014677,

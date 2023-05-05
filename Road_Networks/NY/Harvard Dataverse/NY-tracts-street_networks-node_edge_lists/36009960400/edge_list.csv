@@ -1,0 +1,762 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+211461070,211461094,0,False,residential,,191.864,,,,,,,,,,,20034491,
+211461070,211506355,0,False,residential,Airview Drive,20.128,,,,,,,,,,,20048066,
+211461070,211700374,0,False,residential,Brookside Drive,139.792,,,,,,,,,,,20048743,
+211461094,211464368,0,False,residential,,10.503,,,,,,,,,,,20038737,
+211461094,211461111,0,False,residential,,123.414,,,,,,,,,,,20034491,
+211461094,211461070,0,False,residential,,191.864,,,,,,,,,,,20034491,
+211461111,211461113,0,False,residential,,11.917,,,,,,,,,,,20034491,
+211461111,211461094,0,False,residential,,123.414,,,,,,,,,,,20034491,
+211461111,211502399,0,False,residential,,24.635,,,,,,,,,,,20037498,
+211461113,211461111,0,False,residential,,11.917,,,,,,,,,,,20034491,
+211461113,211583773,0,False,secondary,Dayton Road,9.34,,,,,,,,,,,20045351,NY 353
+211461113,211688958,0,False,"['secondary', 'residential']","['Dayton Road', 'Nys Route 353', 'County Road 58']",367.847,,,,,,,,,,,"[20048151, 20048405, 20045351]",NY 353
+211463726,211492528,0,False,residential,,545.544,,,,,,,,,,,"[20034672, 20036775]",
+211463726,211613594,0,False,"['residential', 'unclassified']",Skinner Hollow Road,2116.122,,,,,,,,,,,"[20034672, 20048482]",
+211463726,211526020,0,False,residential,,707.63,,,,,,,,,,,20039405,
+211463743,211463748,0,False,residential,,96.291,,,,,,,,,,,20034673,
+211463743,211613706,0,False,residential,Point Peter Road,101.062,,,,,,,,,,,20043797,
+211463743,211492754,0,False,residential,Point Peter Road,845.335,,,,,,,,,,,20043797,
+211463748,211463743,0,False,residential,,96.291,,,,,,,,,,,20034673,
+211463748,211685460,0,False,unclassified,Forty Road,979.397,,,,,,,,,,,20047967,
+211463748,211613706,0,False,unclassified,Forty Road,20.252,,,,,,,,,,,20047967,
+211464368,211461094,0,False,residential,,10.503,,,,,,,,,,,20038737,
+211464368,211464368,0,False,residential,,103.104,,,,,,,,,,,20034708,
+211464368,211464368,1,False,residential,,103.104,,,,,,,,,,,20034708,
+211465797,211591559,0,False,residential,High Street,54.67,,,,,,,,,,,20050827,
+211465797,211465807,0,False,residential,,29.938,,,,,,,,,,,20034815,
+211465797,211601830,0,False,residential,High Street,271.503,,,,,,,,,,,20050827,
+211465807,211591559,0,False,residential,Miller Street,45.503,,,,,,,,,,,20042338,
+211465807,211465797,0,False,residential,,29.938,,,,,,,,,,,20034815,
+211465807,211560248,0,False,residential,Miller Street,133.845,,,,,,,,,,,20042338,
+211466936,211548578,0,False,primary,Route 353,440.574,,,,,,,,,,,20041770,NY 353
+211466936,211581064,0,False,primary,Route 353,1402.745,,,,,,,,,,,20041770,NY 353
+211467102,211467104,0,False,residential,,47.903,,,,,,,,,,,20034907,
+211467104,211467102,0,False,residential,,47.903,,,,,,,,,,,20034907,
+211467104,211502399,0,False,residential,Fairview Drive,172.405,,,,,,,,,,,20049713,
+211467104,211509071,0,False,residential,Fairview Drive,61.409,,,,,,,,,,,20049713,
+211474039,211474077,0,False,residential,,881.758,,,,,,,,,,,20035412,
+211474039,211474077,1,False,tertiary,Broadway Road,128.485,,,,,,,,,,,20047380,
+211474039,211613849,0,False,tertiary,Broadway Road,471.023,,,,,,,,,,,20047380,
+211474077,211474039,0,False,residential,,881.758,,,,,,,,,,,20035412,
+211474077,211474039,1,False,tertiary,Broadway Road,128.485,,,,,,,,,,,20047380,
+211474077,211671773,0,False,tertiary,Broadway Road,43.676,,,,,,,,,,,20047380,
+211479700,211479721,0,False,residential,,403.407,,,,,,,,,,,20035827,
+211479700,211641669,0,False,unclassified,Hill Street,94.332,,,,,,,,,,,20048328,
+211479700,211616003,0,False,unclassified,"['Hill Street', 'East Hill Street']",737.76,,,,,,,,,,,"[20048328, 20047893]",
+211479721,211479700,0,False,residential,,403.407,,,,,,,,,,,20035827,
+211479721,211641688,0,False,residential,Torrance Place,142.342,,,,,,,,,,,20047460,
+211479721,211582022,0,False,residential,Torrance Place,99.632,,,,,,,,,,,20047460,
+211488641,211488644,0,False,residential,,195.789,,,,,,,,,,,20036482,
+211488641,211548838,0,False,residential,Town Line Road,2090.424,,,,,,,,,,,20048209,
+211488641,211678495,0,False,residential,Town Line Road,749.468,,,,,,,,,,,20048209,
+211488644,211488641,0,False,residential,,195.789,,,,,,,,,,,20036482,
+211488658,211488663,0,False,residential,,128.27,,,,,,,,,,,20036483,
+211488658,211665739,0,False,residential,Van Etten Road,458.886,,,,,,,,,,,20049909,
+211488658,211619490,0,False,residential,Van Etten Road,1010.596,,,,,,,,,,,20049909,
+211488663,211488658,0,False,residential,,128.27,,,,,,,,,,,20036483,
+211492528,211492685,0,False,residential,,2128.582,,,,,,,,,,,20036775,
+211492528,211492685,1,False,residential,,1493.82,,,,,,,,,,,20039404,
+211492528,211463726,0,False,residential,,545.544,,,,,,,,,,,"[20034672, 20036775]",
+211492685,211492754,0,False,residential,,417.962,,,,,,,,,,,20036775,
+211492685,211492528,0,False,residential,,2128.582,,,,,,,,,,,20036775,
+211492685,211492528,1,False,residential,,1493.82,,,,,,,,,,,20039404,
+211492754,211492685,0,False,residential,,417.962,,,,,,,,,,,20036775,
+211492754,211463743,0,False,residential,Point Peter Road,845.335,,,,,,,,,,,20043797,
+211492754,211511769,0,False,residential,Point Peter Road,818.51,,,,,,,,,,,20043797,
+211495053,211495091,0,False,residential,,387.566,,,,,,,,,,,20036920,
+211495053,211495091,1,False,unclassified,Palmer Street,314.942,,,,,,,,,,,20045600,
+211495053,211601786,0,False,unclassified,"['Beech Street', 'Palmer Street']",332.373,,,,,,,,,,,"[20045600, 20042899]",
+211495091,211495053,0,False,residential,,387.566,,,,,,,,,,,20036920,
+211495091,211495053,1,False,unclassified,Palmer Street,314.942,,,,,,,,,,,20045600,
+211495091,211636188,0,False,unclassified,Palmer Street,495.599,,,,,,,,,,,20045600,
+211498275,211498278,0,False,residential,,250.816,,,,,,,,,,,20037140,
+211498275,211632158,0,False,secondary,Dayton Road,306.804,,,,,,,,,,,20045351,NY 353
+211498275,211517693,0,False,secondary,Dayton Road,464.925,,,,,,,,,,,20045351,NY 353
+211498278,211498275,0,False,residential,,250.816,,,,,,,,,,,20037140,
+211498997,211630252,0,False,tertiary,North Road,239.516,,,,,,,,,,,20050053,CR 58
+211498997,211499026,0,False,residential,,767.785,,,,,,,,,,,20037209,
+211498997,211727860,0,False,tertiary,North Road,1327.246,,,,,,,,,,,20050053,CR 58
+211499026,211498997,0,False,residential,,767.785,,,,,,,,,,,20037209,
+211500004,211500016,0,False,residential,,530.906,,,,,,,,,,,20037318,
+211500004,211533545,0,False,secondary,State Highway 39,619.198,,,,,,,,,,,20048717,NY 39
+211500004,211561385,0,False,secondary,"['State Highway 39', 'Main Street']",888.417,,,,,,,,,,,"[20045776, 20048717]",NY 39
+211500016,211500004,0,False,residential,,530.906,,,,,,,,,,,20037318,
+211500039,211500059,0,False,residential,,52.88,,,,,,,,,,,20037322,
+211500059,211500039,0,False,residential,,52.88,,,,,,,,,,,20037322,
+211500954,211500965,0,False,residential,,178.756,,,,,,,,,,,20037395,
+211500954,211613973,0,False,residential,Pudding Lane Road,730.193,,,,,,,,,,,20045577,
+211500954,211527365,0,False,residential,Pudding Lane Road,1961.353,,,,,,,,,,,20045577,
+211500965,211500954,0,False,residential,,178.756,,,,,,,,,,,20037395,
+211500971,211500984,0,False,residential,,72.524,,,,,,,,,,,20037396,
+211500971,211583773,0,False,residential,Inwood Avenue,171.291,,,,,,,,,,,20041868,
+211500971,211583748,0,False,residential,Inwood Avenue,240.003,,,,,,,,,,,20041868,
+211500984,211500971,0,False,residential,,72.524,,,,,,,,,,,20037396,
+211502399,211461111,0,False,residential,,24.635,,,,,,,,,,,20037498,
+211502399,211632159,0,False,residential,Fairview Drive,25.664,,,,,,,,,,,20049713,
+211502399,211467104,0,False,residential,Fairview Drive,172.405,,,,,,,,,,,20049713,
+211506292,211506321,0,False,residential,,463.412,,,,,,,,,,,20037802,
+211506321,211506333,0,False,residential,,194.338,,,,,,,,,,,20037802,
+211506321,211506292,0,False,residential,,463.412,,,,,,,,,,,20037802,
+211506321,211506381,0,False,residential,,236.958,,,,,,,,,,,20037806,
+211506333,211506334,0,False,residential,,32.283,,,,,,,,,,,20037802,
+211506333,211506321,0,False,residential,,194.338,,,,,,,,,,,20037802,
+211506333,211531058,0,False,residential,,421.093,,,,,,,,,,,20039797,
+211506334,211506333,0,False,residential,,32.283,,,,,,,,,,,20037802,
+211506334,211506342,0,False,residential,,93.974,,,,,,,,,,,20037802,
+211506334,211506359,0,False,residential,,150.028,,,,,,,,,,,20037804,
+211506342,211506345,0,False,residential,,37.634,,,,,,,,,,,20037802,
+211506342,211506355,0,False,residential,,38.307,,,,,,,,,,,20037803,
+211506342,211506334,0,False,residential,,93.974,,,,,,,,,,,20037802,
+211506345,211506342,0,False,residential,,37.634,,,,,,,,,,,20037802,
+211506345,211539286,0,False,residential,Airview Drive,742.161,,,,,,,,,,,20048066,
+211506345,211506355,0,False,residential,Airview Drive,12.119,,,,,,,,,,,20048066,
+211506355,211506342,0,False,residential,,38.307,,,,,,,,,,,20037803,
+211506355,211506345,0,False,residential,Airview Drive,12.119,,,,,,,,,,,20048066,
+211506355,211461070,0,False,residential,Airview Drive,20.128,,,,,,,,,,,20048066,
+211506359,211506334,0,False,residential,,150.028,,,,,,,,,,,20037804,
+211506381,211506321,0,False,residential,,236.958,,,,,,,,,,,20037806,
+211506390,211506396,0,False,residential,,126.548,,,,,,,,,,,20037807,
+211506390,444203702,0,False,residential,Maltbie Road,956.33,,,,,,,,,,,20049172,
+211506390,211521295,0,False,residential,Maltbie Road,582.84,,,,,,,,,,,20049172,
+211506396,211506390,0,False,residential,,126.548,,,,,,,,,,,20037807,
+211509071,211509094,0,False,residential,,80.587,,,,,,,,,,,20038043,
+211509071,211467104,0,False,residential,Fairview Drive,61.409,,,,,,,,,,,20049713,
+211509071,211517640,0,False,residential,Fairview Drive,130.744,,,,,,,,,,,20049717,
+211509094,211509071,0,False,residential,,80.587,,,,,,,,,,,20038043,
+211511769,211511786,0,False,residential,,810.574,,,,,,,,,,,20038251,
+211511769,211492754,0,False,residential,Point Peter Road,818.51,,,,,,,,,,,20043797,
+211511769,211613594,0,False,residential,Point Peter Road,1842.479,,,,,,,,,,,20043797,
+211511786,211511769,0,False,residential,,810.574,,,,,,,,,,,20038251,
+211517626,211632159,0,False,secondary,Dayton Road,63.385,,,,,,,,,,,20045351,NY 353
+211517626,211632158,0,False,secondary,Dayton Road,16.792,,,,,,,,,,,20045351,NY 353
+211517626,211517640,0,False,residential,,109.857,,,,,,,,,,,20038736,
+211517640,211517626,0,False,residential,,109.857,,,,,,,,,,,20038736,
+211517640,211509071,0,False,residential,Fairview Drive,130.744,,,,,,,,,,,20049717,
+211517640,211632158,0,False,residential,Fairview Drive,83.747,,,,,,,,,,,20049717,
+211517693,211517699,0,False,residential,,181.793,,,,,,,,,,,20038745,
+211517693,211498275,0,False,secondary,Dayton Road,464.925,,,,,,,,,,,20045351,NY 353
+211517693,211548838,0,False,secondary,Dayton Road,787.764,,,,,,,,,,,20045351,NY 353
+211517699,211517693,0,False,residential,,181.793,,,,,,,,,,,20038745,
+211518244,211518248,0,False,residential,,172.721,,,,,,,,,,,20038800,
+211518244,211614047,0,False,tertiary,Versailles-Silver Creek Road,1403.741,,,,,,,,,,,20048732,
+211518244,211518274,0,False,tertiary,Versailles-Silver Creek Road,269.126,,,,,,,,,,,20048732,
+211518248,211518244,0,False,residential,,172.721,,,,,,,,,,,20038800,
+211518274,211518279,0,False,residential,,242.945,,,,,,,,,,,20038803,
+211518274,211518244,0,False,tertiary,Versailles-Silver Creek Road,269.126,,,,,,,,,,,20048732,
+211518274,211561404,0,False,tertiary,Versailles-Silver Creek Road,831.183,,,,,,,,,,,20048732,
+211518279,211518274,0,False,residential,,242.945,,,,,,,,,,,20038803,
+211518366,211518368,0,False,residential,,182.808,,,,,,,,,,,20038812,
+211518366,211727880,0,False,residential,Ward Town Road,557.652,,,,,,,,,,,20050132,
+211518366,211561395,0,False,residential,Ward Town Road,651.584,,,,,,,,,,,20050132,
+211518368,211518366,0,False,residential,,182.808,,,,,,,,,,,20038812,
+211518539,211518570,0,False,residential,Maltbie Road,82.695,,,,,,,,,,,20049172,
+211518539,211518570,1,False,residential,,193.581,,,,,,,,,,,20038826,
+211518539,211665692,0,False,residential,Maltbie Road,949.874,,,,,,,,,,,20049172,
+211518570,211518539,0,False,residential,Maltbie Road,82.695,,,,,,,,,,,20049172,
+211518570,211518539,1,False,residential,,193.581,,,,,,,,,,,20038826,
+211518570,211521295,0,False,residential,Maltbie Road,1294.225,,,,,,,,,,,20049172,
+211521295,211521317,0,False,residential,,438.023,,,,,,,,,,,20039050,
+211521295,211506390,0,False,residential,Maltbie Road,582.84,,,,,,,,,,,20049172,
+211521295,211518570,0,False,residential,Maltbie Road,1294.225,,,,,,,,,,,20049172,
+211521317,211521295,0,False,residential,,438.023,,,,,,,,,,,20039050,
+211521323,211521327,0,False,residential,,39.085,,,,,,,,,,,20039053,
+211521323,211649541,0,False,residential,Dewey Road,21.364,,,,,,,,,,,20046164,
+211521323,211649475,0,False,residential,Dewey Road,675.88,,,,,,,,,,,20046164,
+211521327,211521323,0,False,residential,,39.085,,,,,,,,,,,20039053,
+211521327,211649541,0,False,residential,Campbell Road,35.839,,,,,,,,,,,20050109,
+211521327,211699716,0,False,residential,Campbell Road,1450.198,,,,,,,,,,,20050109,
+211521333,211547119,0,False,secondary,State Highway 39,39.466,,,,,,,,,,,480217869,NY 39
+211521333,211699716,0,False,secondary,State Highway 39,1395.934,,,,,,,,,,,20048717,NY 39
+211521341,211547119,0,False,secondary,State Highway 39,28.914,,,,,,,,,,,480217870,NY 39
+211521341,211521333,0,True,secondary_link,,50.288,,,,,,,,,,,20039055,
+211521341,211691633,0,False,secondary,State Highway 39,992.91,,,,,,,,,,,20048721,NY 39
+211526020,211463726,0,False,residential,,707.63,,,,,,,,,,,20039405,
+211527363,211527365,0,False,residential,,141.231,,,,,,,,,,,20039506,
+211527365,211527363,0,False,residential,,141.231,,,,,,,,,,,20039506,
+211527365,211500954,0,False,residential,Pudding Lane Road,1961.353,,,,,,,,,,,20045577,
+211527365,211635744,0,False,residential,Pudding Lane Road,1210.09,,,,,,,,,,,20045582,
+211527531,211527547,0,False,residential,,316.703,,,,,,,,,,,20039522,
+211527531,211534217,0,False,residential,Coon Road,347.042,,,,,,,,,,,20045825,
+211527531,211527555,0,False,residential,Coon Road,384.983,,,,,,,,,,,20045825,
+211527547,211527531,0,False,residential,,316.703,,,,,,,,,,,20039522,
+211527555,211527564,0,False,residential,,146.632,,,,,,,,,,,20039523,
+211527555,211527531,0,False,residential,Coon Road,384.983,,,,,,,,,,,20045825,
+211527555,211640601,0,False,residential,Coon Road,578.913,,,,,,,,,,,20045825,
+211527564,211527555,0,False,residential,,146.632,,,,,,,,,,,20039523,
+211527674,211673662,0,False,tertiary,"['Commercial Street', 'Palmer Street']",130.542,,,,,,,,,,,"[374052986, 20048579]",
+211527674,211636188,0,False,tertiary,Palmer Street,166.123,,,,,,,,,,,374052986,
+211527674,211591515,0,False,residential,Townsend Avenue,227.656,,,,,,,,,,,423889271,
+211529127,211529130,0,False,residential,,133.026,,,,,,,,,,,20039652,
+211529127,211567162,0,False,residential,North Water Street,190.82,,,,,,,,,,,20041244,
+211529127,211567158,0,False,residential,North Water Street,32.325,,,,,,,,,,,20041244,
+211529130,211529127,0,False,residential,,133.026,,,,,,,,,,,20039652,
+211529586,211529618,0,False,residential,,613.168,,,,,,,,,,,20039687,
+211529586,211529618,1,False,unclassified,Point Peter Road,356.858,,,,,,,,,,,20043809,
+211529586,211613706,0,False,unclassified,Point Peter Road,384.677,,,,,,,,,,,20043809,
+211529618,211529586,0,False,residential,,613.168,,,,,,,,,,,20039687,
+211529618,211529586,1,False,unclassified,Point Peter Road,356.858,,,,,,,,,,,20043809,
+211529618,211580828,0,False,unclassified,Point Peter Road,534.529,,,,,,,,,,,20043809,
+211531058,211506333,0,False,residential,,421.093,,,,,,,,,,,20039797,
+211533545,211533555,0,False,residential,,298.771,,,,,,,,,,,20039988,
+211533545,211699716,0,False,secondary,State Highway 39,210.68,,,,,,,,,,,20048717,NY 39
+211533545,211500004,0,False,secondary,State Highway 39,619.198,,,,,,,,,,,20048717,NY 39
+211533555,211533545,0,False,residential,,298.771,,,,,,,,,,,20039988,
+211533668,211671600,0,False,residential,Persia Road,3224.363,,,,,,,,,,,"[20049627, 20039998]",
+211534217,211527531,0,False,residential,Coon Road,347.042,,,,,,,,,,,20045825,
+211534680,211669794,0,False,residential,,309.182,,,,,,,,,,,20040074,
+211538985,211538988,0,False,residential,Orchard Place,242.002,,,,,,,,,,,20040251,
+211538985,211644010,0,False,residential,South Chapel Street,114.865,,,,,,,,,,,20045962,
+211538985,211558724,0,False,residential,South Chapel Street,168.796,,,,,,,,,,,20045962,
+211538988,211538985,0,False,residential,Orchard Place,242.002,,,,,,,,,,,20040251,
+211538988,211662376,0,False,residential,Johnson Street,116.537,,,,,,,,,,,20050254,
+211538988,211618681,0,False,residential,Johnson Street,247.857,,,,,,,,,,,20050254,
+211539247,211539278,0,False,residential,Railroad Avenue,401.471,,,,,,,,,,,20040264,
+211539247,211539286,0,False,residential,Railroad Avenue,189.505,,,,,,,,,,,20040265,
+211539247,211606025,0,False,residential,2nd Street,236.149,,,,,,,,,,,20043250,
+211539247,211639452,0,False,residential,Campbell Road,122.601,,,,,,,,,,,20050106,
+211539278,211727846,0,False,tertiary,North Road,19.571,,,,,,,,,,,20050053,CR 58
+211539278,211539247,0,False,residential,Railroad Avenue,401.471,,,,,,,,,,,20040264,
+211539278,211635744,0,False,tertiary,North Road,1136.455,,,,,,,,,,,20050053,CR 58
+211539286,211639448,0,False,secondary,Main Street,24.293,,,,,,,,,,,20045776,NY 39
+211539286,211539247,0,False,residential,Railroad Avenue,189.505,,,,,,,,,,,20040265,
+211539286,211639452,0,False,secondary,Main Street,120.676,,,,,,,,,,,20045776,NY 39
+211539286,211506345,0,False,residential,Airview Drive,742.161,,,,,,,,,,,20048066,
+211545621,211545642,0,False,residential,Shaw Road,1204.639,,,,,,,,,,,20040470,
+211545621,211549377,0,False,unclassified,Plank Road,2158.989,,,,,,,,,,,20040616,
+211545621,211549324,0,False,unclassified,Plank Road,1473.622,,,,,,,,,,,20040616,
+211545642,211545621,0,False,residential,Shaw Road,1204.639,,,,,,,,,,,20040470,
+211545642,211561395,0,False,residential,Ward Town Road,286.249,,,,,,,,,,,20050132,
+211545642,211614008,0,False,residential,Ward Town Road,2138.823,,,,,,,,,,,20050132,
+211547119,211521333,0,False,secondary,State Highway 39,39.466,,,,,,,,,,,480217869,NY 39
+211547119,211521341,0,False,secondary,State Highway 39,28.914,,,,,,,,,,,480217870,NY 39
+211547119,444203702,0,False,residential,Stafford Road,1198.464,,,,,,,,,,,20040526,
+211547119,211649584,0,False,residential,Jolls Road,1737.738,,,,,,,,,,,20047700,
+211548578,211548622,0,False,primary,State Highway 353,1271.719,,,,,,,,,,,20040595,NY 353
+211548578,211466936,0,False,primary,Route 353,440.574,,,,,,,,,,,20041770,NY 353
+211548578,211678367,0,False,residential,Van Etten Road,916.473,,,,,,,,,,,20049909,
+211548622,211548659,0,False,primary,State Highway 353,470.827,,,,,,,,,,,20040595,NY 353
+211548622,211548578,0,False,primary,State Highway 353,1271.719,,,,,,,,,,,20040595,NY 353
+211548622,211678367,0,False,residential,Scott Road,845.481,,,,,,,,,,,20047694,
+211548659,211548685,0,False,primary,State Highway 353,476.8,,,,,,,,,,,20040595,NY 353
+211548659,211548622,0,False,primary,State Highway 353,470.827,,,,,,,,,,,20040595,NY 353
+211548685,211548736,0,False,primary,State Highway 353,514.564,,,,,,,,,,,20040595,NY 353
+211548685,211548659,0,False,primary,State Highway 353,476.8,,,,,,,,,,,20040595,NY 353
+211548685,211665481,0,False,residential,Gable Street,509.138,,,,,,,,,,,20047332,
+211548736,211548685,0,False,primary,State Highway 353,514.564,,,,,,,,,,,20040595,NY 353
+211548736,211607708,0,False,primary,,106.952,2,,,,,,,,,,20047076,US 62
+211548736,211646782,0,False,primary,,253.776,2,,,,,,,,,,20047076,US 62
+211548817,211548838,0,False,secondary,Peck Hill Road,1282.478,,,,,,,,,,,20040639,
+211548817,211550694,0,False,secondary,Peck Hill Road,1377.05,,,,,,,,,,,20040639,
+211548817,211576089,0,False,tertiary,Peck Hill,1213.352,,,,,,,,,,,20047577,
+211548838,211548817,0,False,secondary,Peck Hill Road,1282.478,,,,,,,,,,,20040639,
+211548838,211517693,0,False,secondary,Dayton Road,787.764,,,,,,,,,,,20045351,NY 353
+211548838,211488641,0,False,residential,Town Line Road,2090.424,,,,,,,,,,,20048209,
+211549324,211545621,0,False,unclassified,Plank Road,1473.622,,,,,,,,,,,20040616,
+211549324,211727880,0,False,tertiary,North Road,1211.705,,,,,,,,,,,20050053,CR 58
+211549324,211696509,0,False,tertiary,North Road,1197.484,,,,,,,,,,,20050053,CR 58
+211549377,211545621,0,False,unclassified,Plank Road,2158.989,,,,,,,,,,,20040616,
+211549377,211614008,0,False,tertiary,West Perrysburg Road,1190.455,,,,,,,,,,,20043825,CR 78
+211549377,211613993,0,False,tertiary,West Perrysburg Road,1212.818,,,,,,,,,,,20043825,CR 78
+211550694,211548817,0,False,secondary,Peck Hill Road,1377.05,,,,,,,,,,,20040639,
+211550694,211640601,0,False,primary,,694.218,2,,,,,,,,,,20047076,US 62
+211557722,211557735,0,False,tertiary,South Water Street,201.523,,,,,,,,,,,20040881,
+211557722,211606116,0,False,tertiary,"['Commercial Street', 'South Water Street']",329.418,,,,,,,,,,,"[20040881, 20048579]",
+211557722,211558725,0,False,residential,Walnut Street,230.076,,,,,,,,,,,20040921,
+211557735,211557722,0,False,tertiary,South Water Street,201.523,,,,,,,,,,,20040881,
+211557735,211686488,0,False,residential,"['North Water Street', 'School Street']",352.928,,,,,,,,,,,"[20048017, 20041243]",
+211557735,211618687,0,False,secondary,West Main Street,164.178,,,,,,,,,,,20044194,NY 39
+211557735,211558725,0,False,primary,Jamestown Street,200.83,2,,,,,,,,,,20045852,US 62
+211557742,211557747,0,False,residential,South Water Street,24.818,,,,,,,,,,,20040883,
+211557747,211557742,0,False,residential,South Water Street,24.818,,,,,,,,,,,20040883,
+211557747,211557754,0,False,residential,South Water Street,105.471,,,,,,,,,,,20040883,
+211557747,211638716,0,False,residential,Main Street,139.862,,,,,,,,,,,20045733,
+211557754,211557758,0,False,residential,South Water Street,130.032,,,,,,,,,,,20040883,
+211557754,211557747,0,False,residential,South Water Street,105.471,,,,,,,,,,,20040883,
+211557754,211611860,0,False,residential,Mechanic Street,131.604,,,,,,,,,,,20043652,
+211557758,211557754,0,False,residential,South Water Street,130.032,,,,,,,,,,,20040883,
+211557758,211701302,0,False,residential,North Street,103.401,,,,,,,,,,,20048775,
+211558724,211558725,0,False,residential,Walnut Street,210.856,,,,,,,,,,,20040921,
+211558724,211606422,0,False,residential,South Chapel Street,125.873,,,,,,,,,,,20045962,
+211558724,211538985,0,False,residential,South Chapel Street,168.796,,,,,,,,,,,20045962,
+211558725,211558724,0,False,residential,Walnut Street,210.856,,,,,,,,,,,20040921,
+211558725,211606122,0,False,primary,Jamestown Street,225.89,2,,,,,,,,,,20045852,US 62
+211558725,211557722,0,False,residential,Walnut Street,230.076,,,,,,,,,,,20040921,
+211558725,211557735,0,False,primary,Jamestown Street,200.83,2,,,,,,,,,,20045852,US 62
+211560248,211560259,0,False,residential,Frederick Street,271.904,,,,,,,,,,,20040998,
+211560248,211465807,0,False,residential,Miller Street,133.845,,,,,,,,,,,20042338,
+211560248,211591552,0,False,residential,Miller Street,92.464,,,,,,,,,,,20042338,
+211560259,211601837,0,False,tertiary,Broadway Road,213.717,,,,,,,,,,,20047380,
+211560259,211560248,0,False,residential,Frederick Street,271.904,,,,,,,,,,,20040998,
+211560259,211671773,0,False,tertiary,Broadway Road,264.68,,,,,,,,,,,20047380,
+211561385,211561387,0,False,residential,Ferris Avenue,29.153,,,,,,,,,,,20041039,
+211561385,211639448,0,False,secondary,Main Street,55.067,,,,,,,,,,,20045776,NY 39
+211561385,211500004,0,False,secondary,"['State Highway 39', 'Main Street']",888.417,,,,,,,,,,,"[20045776, 20048717]",NY 39
+211561387,211561385,0,False,residential,Ferris Avenue,29.153,,,,,,,,,,,20041039,
+211561395,211561404,0,False,residential,Van Vleck Road,828.085,,,,,,,,,,,20041040,
+211561395,211518366,0,False,residential,Ward Town Road,651.584,,,,,,,,,,,20050132,
+211561395,211545642,0,False,residential,Ward Town Road,286.249,,,,,,,,,,,20050132,
+211561404,211561395,0,False,residential,Van Vleck Road,828.085,,,,,,,,,,,20041040,
+211561404,211518274,0,False,tertiary,Versailles-Silver Creek Road,831.183,,,,,,,,,,,20048732,
+211561404,211699942,0,False,tertiary,Versailles-Silver Creek Road,1210.068,,,,,,,,,,,20048732,
+211562011,211567162,0,False,residential,"['North Water Street', 'Panther Drive']",612.1,,,,,,,,,,,"[20041073, 20041244]",
+211562011,211618662,0,False,tertiary,Prospect Street,622.602,,,,,,,,,,,20047839,
+211562433,211562446,0,False,tertiary,Versailles Road,243.285,,,,,,,,,,,20041084,
+211562433,211606172,0,False,residential,Main Street,187.889,,,,,,,,,,,20045733,
+211562433,211699942,0,False,tertiary,Versailles-Silver Creek Road,459.822,,,,,,,,,,,20048732,
+211562446,211562448,0,False,tertiary,Versailles Road,104.281,,,,,,,,,,,20041084,
+211562446,211562433,0,False,tertiary,Versailles Road,243.285,,,,,,,,,,,20041084,
+211562446,211606183,0,False,residential,Chestnut Street,143.092,,,,,,,,,,,20043273,
+211562446,211585463,0,False,residential,Chestnut Street,118.288,,,,,,,,,,,20043273,
+211562448,211562446,0,False,tertiary,Versailles Road,104.281,,,,,,,,,,,20041084,
+211562448,211585465,0,False,residential,Division Street,192.102,,,,,,,,,,,20048793,
+211567156,211567158,0,False,residential,North Water Street,73.207,,,,,,,,,,,20041244,
+211567158,211529127,0,False,residential,North Water Street,32.325,,,,,,,,,,,20041244,
+211567158,211567156,0,False,residential,North Water Street,73.207,,,,,,,,,,,20041244,
+211567158,211606431,0,False,residential,North Chapel Street,77.281,,,,,,,,,,,20043296,
+211567162,211529127,0,False,residential,North Water Street,190.82,,,,,,,,,,,20041244,
+211567162,211640278,0,False,tertiary,Aldrich Street,160.132,,,,,,,,,,,20046849,CR 84
+211567162,211562011,0,False,residential,"['North Water Street', 'Panther Drive']",612.1,,,,,,,,,,,"[20041073, 20041244]",
+211574302,211669794,0,False,unclassified,County Line Road,1524.037,,,,,,,,,,,20041506,
+211574302,211613946,0,False,secondary,State Highway 39,1220.535,,,,,,,,,,,20048714,NY 39
+211575871,211639455,0,False,secondary,Main Street,152.197,,,,,,,,,,,20045776,NY 39
+211575871,211575910,0,False,residential,Tamarack Drive,534.679,,,,,,,,,,,20041576,
+211575871,211576148,0,False,secondary,"['State Highway 39', 'Main Street']",1061.656,,,,,,,,,,,"[20045776, 20048714]",NY 39
+211575910,211575921,0,False,residential,Tamarack Drive,77.103,,,,,,,,,,,20041576,
+211575910,211575871,0,False,residential,Tamarack Drive,534.679,,,,,,,,,,,20041576,
+211575910,211575944,0,False,residential,Tamarack Drive,76.309,,,,,,,,,,,20041577,
+211575921,211575910,0,False,residential,Tamarack Drive,77.103,,,,,,,,,,,20041576,
+211575944,211575910,0,False,residential,Tamarack Drive,76.309,,,,,,,,,,,20041577,
+211576089,211576131,0,False,unclassified,Hooker Hill Road,2156.201,,,,,,,,,,,20041589,
+211576089,211601904,0,False,tertiary,Peck Road,875.656,,,,,,,,,,,20042907,
+211576089,211548817,0,False,tertiary,Peck Hill,1213.352,,,,,,,,,,,20047577,
+211576131,211576133,0,False,unclassified,Hooker Hill Road,89.069,,,,,,,,,,,20041589,
+211576131,211576089,0,False,unclassified,Hooker Hill Road,2156.201,,,,,,,,,,,20041589,
+211576131,211696625,0,False,residential,Cole Road,69.988,,,,,,,,,,,20048567,
+211576133,211576131,0,False,unclassified,Hooker Hill Road,89.069,,,,,,,,,,,20041589,
+211576133,211576148,0,False,unclassified,Hooker Hill Road,1459.507,,,,,,,,,,,20041589,
+211576133,211696625,0,False,residential,Cole Road,66.489,,,,,,,,,,,20048563,
+211576148,211576133,0,False,unclassified,Hooker Hill Road,1459.507,,,,,,,,,,,20041589,
+211576148,211638067,0,False,secondary,State Highway 39,1215.853,,,,,,,,,,,20048714,NY 39
+211576148,211575871,0,False,secondary,"['State Highway 39', 'Main Street']",1061.656,,,,,,,,,,,"[20045776, 20048714]",NY 39
+211578412,211638713,0,False,tertiary,Eaton Road,3781.604,,,,,,,,,,,20046585,
+211578412,211696509,0,False,tertiary,Mackinaw Road,1727.322,,,,,,,,,,,20048559,
+211580828,211580884,0,False,residential,Valentine Flats Road,1298.785,,,,,,,,,,,20041765,
+211580828,211613764,0,False,unclassified,Point Peter Road,339.522,,,,,,,,,,,20043809,
+211580828,211529618,0,False,unclassified,Point Peter Road,534.529,,,,,,,,,,,20043809,
+211580884,211580828,0,False,residential,Valentine Flats Road,1298.785,,,,,,,,,,,20041765,
+211581064,211466936,0,False,primary,Route 353,1402.745,,,,,,,,,,,20041770,NY 353
+211581064,211625927,0,False,residential,Persia Road,1760.778,,,,,,,,,,,20049625,
+211582020,211582022,0,False,residential,Industrial Place,171.711,,,,,,,,,,,20041808,
+211582022,211582020,0,False,residential,Industrial Place,171.711,,,,,,,,,,,20041808,
+211582022,211479721,0,False,residential,Torrance Place,99.632,,,,,,,,,,,20047460,
+211582022,211673662,0,False,residential,Torrance Place,296.538,,,,,,,,,,,20047460,
+211583748,211500971,0,False,residential,Inwood Avenue,240.003,,,,,,,,,,,20041868,
+211583773,211461113,0,False,secondary,Dayton Road,9.34,,,,,,,,,,,20045351,NY 353
+211583773,211632159,0,False,secondary,Dayton Road,13.899,,,,,,,,,,,20045351,NY 353
+211583773,211500971,0,False,residential,Inwood Avenue,171.291,,,,,,,,,,,20041868,
+211585463,211585465,0,False,residential,Maple Street,85.486,,,,,,,,,,,20041935,
+211585463,211606172,0,False,residential,Chestnut Street,54.613,,,,,,,,,,,20043273,
+211585463,211562446,0,False,residential,Chestnut Street,118.288,,,,,,,,,,,20043273,
+211585465,211585463,0,False,residential,Maple Street,85.486,,,,,,,,,,,20041935,
+211585465,211638707,0,False,residential,Division Street,54.727,,,,,,,,,,,20048793,
+211585465,211638710,0,False,residential,School Street,182.121,,,,,,,,,,,20048042,
+211585465,211562448,0,False,residential,Division Street,192.102,,,,,,,,,,,20048793,
+211591515,211591517,0,False,residential,Miller Street,163.751,,,,,,,,,,,20042338,
+211591515,211616003,0,False,residential,Magnetic Parkway,175.416,,,,,,,,,,,20043976,
+211591515,211527674,0,False,residential,Townsend Avenue,227.656,,,,,,,,,,,423889271,
+211591517,211591515,0,False,residential,Miller Street,163.751,,,,,,,,,,,20042338,
+211591517,211636188,0,False,tertiary,Broadway Road,227.505,,,,,,,,,,,20047380,
+211591517,211601837,0,False,tertiary,Broadway Road,192.259,,,,,,,,,,,20047380,
+211591517,211591552,0,False,residential,Miller Street,577.471,,,,,,,,,,,20042338,
+211591552,211601830,0,False,unclassified,Beech Street,187.4,,,,,,,,,,,20042899,
+211591552,211560248,0,False,residential,Miller Street,92.464,,,,,,,,,,,20042338,
+211591552,211591517,0,False,residential,Miller Street,577.471,,,,,,,,,,,20042338,
+211591552,211601837,0,False,unclassified,Beech Street,328.522,,,,,,,,,,,20042899,
+211591559,211465807,0,False,residential,Miller Street,45.503,,,,,,,,,,,20042338,
+211591559,211465797,0,False,residential,High Street,54.67,,,,,,,,,,,20050827,
+211591559,211671773,0,False,residential,High Street,183.723,,,,,,,,,,,20050827,
+211601786,211601830,0,False,unclassified,Beech Street,293.005,,,,,,,,,,,20042899,
+211601786,211495053,0,False,unclassified,"['Palmer Street', 'Beech Street']",332.373,,,,,,,,,,,"[20045600, 20042899]",
+211601786,211689633,0,False,residential,Moench Street,759.943,,,,,,,,,,,20048194,
+211601830,211591552,0,False,unclassified,Beech Street,187.4,,,,,,,,,,,20042899,
+211601830,211601786,0,False,unclassified,Beech Street,293.005,,,,,,,,,,,20042899,
+211601830,211465797,0,False,residential,High Street,271.503,,,,,,,,,,,20050827,
+211601837,211591517,0,False,tertiary,Broadway Road,192.259,,,,,,,,,,,20047380,
+211601837,211560259,0,False,tertiary,Broadway Road,213.717,,,,,,,,,,,20047380,
+211601837,211591552,0,False,unclassified,Beech Street,328.522,,,,,,,,,,,20042899,
+211601837,211633968,0,False,unclassified,East Hill Street,99.244,,,,,,,,,,,20047893,
+211601904,211576089,0,False,tertiary,Peck Road,875.656,,,,,,,,,,,20042907,
+211601904,211630393,0,False,tertiary,Markhams Road,325.795,,,,,,,,,,,20045199,
+211605198,211605198,0,False,residential,Deerfield Drive,45.231,,,,,,,,,,,20043178,
+211605198,211605198,1,False,residential,Deerfield Drive,45.231,,,,,,,,,,,20043178,
+211605198,211605232,0,False,residential,Deerfield Drive,179.001,,,,,,,,,,,20043179,
+211605232,211605198,0,False,residential,Deerfield Drive,179.001,,,,,,,,,,,20043179,
+211605232,211699821,0,False,residential,"['Fairview Drive', 'Maltbie Road']",802.574,,,,,,,,,,,"[20049172, 20049718]",
+211605232,444203703,0,False,residential,Maltbie Road,248.534,,,,,,,,,,,20049172,
+211606025,211639455,0,False,tertiary,North Road,118.877,,,,,,,,,,,20050053,CR 58
+211606025,211539247,0,False,residential,2nd Street,236.149,,,,,,,,,,,20043250,
+211606025,211727846,0,False,tertiary,North Road,287.446,,,,,,,,,,,20050053,CR 58
+211606108,211606116,0,False,residential,Chestnut Street,119.675,,,,,,,,,,,20043265,
+211606116,211673662,0,False,tertiary,Commercial Street,86.844,,,,,,,,,,,20048579,
+211606116,211606122,0,False,residential,Chestnut Street,481.492,,,,,,,,,,,20043265,
+211606116,211606108,0,False,residential,Chestnut Street,119.675,,,,,,,,,,,20043265,
+211606116,211557722,0,False,tertiary,"['Commercial Street', 'South Water Street']",329.418,,,,,,,,,,,"[20040881, 20048579]",
+211606122,211558725,0,False,primary,Jamestown Street,225.89,2,,,,,,,,,,20045852,US 62
+211606122,211641688,0,False,primary,Jamestown Street,32.718,2,,,,,,,,,,20045852,US 62
+211606122,211606116,0,False,residential,Chestnut Street,481.492,,,,,,,,,,,20043265,
+211606172,211585463,0,False,residential,Chestnut Street,54.613,,,,,,,,,,,20043273,
+211606172,211638707,0,False,residential,Main Street,87.945,,,,,,,,,,,20045733,
+211606172,211562433,0,False,residential,Main Street,187.889,,,,,,,,,,,20045733,
+211606183,211562446,0,False,residential,Chestnut Street,143.092,,,,,,,,,,,20043273,
+211606422,211606425,0,False,residential,North Chapel Street,184.513,,,,,,,,,,,20043296,
+211606422,211618687,0,False,secondary,West Main Street,149.413,,,,,,,,,,,20044194,NY 39
+211606422,211558724,0,False,residential,South Chapel Street,125.873,,,,,,,,,,,20045962,
+211606422,211618684,0,False,secondary,West Main Street,209.087,,,,,,,,,,,20044194,NY 39
+211606425,211606428,0,False,residential,North Chapel Street,93.738,,,,,,,,,,,20043296,
+211606425,211606422,0,False,residential,North Chapel Street,184.513,,,,,,,,,,,20043296,
+211606425,211638458,0,False,residential,Saint Johns Street,125.348,,,,,,,,,,,20045717,
+211606428,211606431,0,False,residential,North Chapel Street,30.806,,,,,,,,,,,20043296,
+211606428,211606425,0,False,residential,North Chapel Street,93.738,,,,,,,,,,,20043296,
+211606428,211686488,0,False,residential,School Street,97.117,,,,,,,,,,,20048017,
+211606431,211567158,0,False,residential,North Chapel Street,77.281,,,,,,,,,,,20043296,
+211606431,211606428,0,False,residential,North Chapel Street,30.806,,,,,,,,,,,20043296,
+211606431,211640273,0,False,residential,College Street,126.36,,,,,,,,,,,20045811,
+211607699,211665576,0,False,residential,Railroad Street,165.051,,,,,,,,,,,20049930,
+211607699,211626578,0,False,residential,Railroad Street,101.036,,,,,,,,,,,20049930,
+211607699,211607708,0,False,residential,1st Street,87.04,,,,,,,,,,,20043396,
+211607699,211651960,0,False,residential,1st Street,91.644,,,,,,,,,,,20043396,
+211607708,211607699,0,False,residential,1st Street,87.04,,,,,,,,,,,20043396,
+211607708,211665569,0,False,primary,,144.109,2,,,,,,,,,,20047076,US 62
+211607708,211548736,0,False,primary,,106.952,2,,,,,,,,,,20047076,US 62
+211607708,211607711,0,False,residential,Church Street,176.859,,,,,,,,,,,370497863,
+211607711,211646797,0,False,residential,Allen Street,77.102,,,,,,,,,,,20046028,
+211607711,211646809,0,False,residential,Allen Street,173.075,,,,,,,,,,,20046028,
+211607711,211607708,0,False,residential,Church Street,176.859,,,,,,,,,,,370497863,
+211611860,211557754,0,False,residential,Mechanic Street,131.604,,,,,,,,,,,20043652,
+211613594,211511769,0,False,residential,Point Peter Road,1842.479,,,,,,,,,,,20043797,
+211613594,211463726,0,False,"['residential', 'unclassified']",Skinner Hollow Road,2116.122,,,,,,,,,,,"[20034672, 20048482]",
+211613594,211671516,0,False,unclassified,Skinner Hollow Road,1014.701,,,,,,,,,,,20048482,
+211613706,211463743,0,False,residential,Point Peter Road,101.062,,,,,,,,,,,20043797,
+211613706,211529586,0,False,unclassified,Point Peter Road,384.677,,,,,,,,,,,20043809,
+211613706,211463748,0,False,unclassified,Forty Road,20.252,,,,,,,,,,,20047967,
+211613764,211613849,0,False,unclassified,Point Peter Road,1253.209,,,,,,,,,,,20043809,
+211613764,211580828,0,False,unclassified,Point Peter Road,339.522,,,,,,,,,,,20043809,
+211613764,211616853,0,False,residential,Hawkins Road,516.486,,,,,,,,,,,20044046,
+211613849,211613764,0,False,unclassified,Point Peter Road,1253.209,,,,,,,,,,,20043809,
+211613849,211474039,0,False,tertiary,Broadway Road,471.023,,,,,,,,,,,20047380,
+211613849,211671600,0,False,tertiary,Broadway Road,3716.091,,,,,,,,,,,20047380,
+211613946,211613973,0,False,tertiary,West Perrysburg Road,1774.16,,,,,,,,,,,20043825,CR 78
+211613946,211574302,0,False,secondary,State Highway 39,1220.535,,,,,,,,,,,20048714,NY 39
+211613946,211638067,0,False,secondary,State Highway 39,1181.885,,,,,,,,,,,20048714,NY 39
+211613946,211694078,0,False,residential,"['North Road', 'Mosher Road']",3793.778,,,,,,,,,,,"[20050315, 20050039]",
+211613973,211613993,0,False,tertiary,West Perrysburg Road,1900.794,,,,,,,,,,,20043825,CR 78
+211613973,211613946,0,False,tertiary,West Perrysburg Road,1774.16,,,,,,,,,,,20043825,CR 78
+211613973,211500954,0,False,residential,Pudding Lane Road,730.193,,,,,,,,,,,20045577,
+211613993,211549377,0,False,tertiary,West Perrysburg Road,1212.818,,,,,,,,,,,20043825,CR 78
+211613993,211613973,0,False,tertiary,West Perrysburg Road,1900.794,,,,,,,,,,,20043825,CR 78
+211613993,211669878,0,False,tertiary,Mackinaw Road,1216.963,,,,,,,,,,,20048559,
+211613993,211696509,0,False,tertiary,Mackinaw Road,3628.144,,,,,,,,,,,20048559,
+211614008,211614030,0,False,tertiary,West Perrysburg Road,770.925,,,,,,,,,,,20043825,CR 78
+211614008,211549377,0,False,tertiary,West Perrysburg Road,1190.455,,,,,,,,,,,20043825,CR 78
+211614008,211545642,0,False,residential,Ward Town Road,2138.823,,,,,,,,,,,20050132,
+211614030,211614047,0,False,tertiary,West Perrysburg Road,60.72,,,,,,,,,,,20043825,CR 78
+211614030,211614008,0,False,tertiary,West Perrysburg Road,770.925,,,,,,,,,,,20043825,CR 78
+211614030,211614075,0,False,residential,West Perrysburg Road,95.62,,,,,,,,,,,20043827,
+211614047,211614030,0,False,tertiary,West Perrysburg Road,60.72,,,,,,,,,,,20043825,CR 78
+211614047,211614075,0,False,tertiary,Versailles-Silver Creek Road,94.29,,,,,,,,,,,20048732,
+211614047,211518244,0,False,tertiary,Versailles-Silver Creek Road,1403.741,,,,,,,,,,,20048732,
+211614075,211614030,0,False,residential,West Perrysburg Road,95.62,,,,,,,,,,,20043827,
+211614075,211669957,0,False,tertiary,Versailles-Silver Creek Road,1071.715,,,,,,,,,,,20048732,
+211614075,211614047,0,False,tertiary,Versailles-Silver Creek Road,94.29,,,,,,,,,,,20048732,
+211616003,211591515,0,False,residential,Magnetic Parkway,175.416,,,,,,,,,,,20043976,
+211616003,211479700,0,False,unclassified,"['Hill Street', 'East Hill Street']",737.76,,,,,,,,,,,"[20048328, 20047893]",
+211616003,211633968,0,False,unclassified,East Hill Street,64.937,,,,,,,,,,,20047893,
+211616849,211616853,0,False,residential,Hawkins Road,203.455,,,,,,,,,,,20044046,
+211616853,211613764,0,False,residential,Hawkins Road,516.486,,,,,,,,,,,20044046,
+211616853,211616849,0,False,residential,Hawkins Road,203.455,,,,,,,,,,,20044046,
+211616853,211616866,0,False,residential,Hawkins Road,270.771,,,,,,,,,,,20044049,
+211616866,211616853,0,False,residential,Hawkins Road,270.771,,,,,,,,,,,20044049,
+211618662,211618669,0,False,secondary,West Main Street,130.879,,,,,,,,,,,20044194,NY 39
+211618662,211562011,0,False,tertiary,Prospect Street,622.602,,,,,,,,,,,20047839,
+211618662,211699821,0,False,secondary,State Highway 39,366.427,,,,,,,,,,,20048721,NY 39
+211618669,211618681,0,False,secondary,West Main Street,154.685,,,,,,,,,,,20044194,NY 39
+211618669,211618662,0,False,secondary,West Main Street,130.879,,,,,,,,,,,20044194,NY 39
+211618669,444203710,0,False,residential,Maltbie Road,224.428,,,,,,,,,,,20049173,
+211618681,211618684,0,False,secondary,West Main Street,37.578,,,,,,,,,,,20044194,NY 39
+211618681,211618669,0,False,secondary,West Main Street,154.685,,,,,,,,,,,20044194,NY 39
+211618681,211538988,0,False,residential,Johnson Street,247.857,,,,,,,,,,,20050254,
+211618684,211618681,0,False,secondary,West Main Street,37.578,,,,,,,,,,,20044194,NY 39
+211618684,211637965,0,False,tertiary,Aldrich Street,106.321,,,,,,,,,,,20046849,CR 84
+211618684,211606422,0,False,secondary,West Main Street,209.087,,,,,,,,,,,20044194,NY 39
+211618687,211606422,0,False,secondary,West Main Street,149.413,,,,,,,,,,,20044194,NY 39
+211618687,211557735,0,False,secondary,West Main Street,164.178,,,,,,,,,,,20044194,NY 39
+211618687,211686488,0,False,residential,Center Street,274.374,,,,,,,,,,,20050368,
+211619451,211619490,0,False,residential,Kewley Road,619.33,,,,,,,,,,,20044263,
+211619490,211619451,0,False,residential,Kewley Road,619.33,,,,,,,,,,,20044263,
+211619490,211488658,0,False,residential,Van Etten Road,1010.596,,,,,,,,,,,20049909,
+211619490,211678367,0,False,residential,Van Etten Road,1320.437,,,,,,,,,,,20049909,
+211625832,211625867,0,False,residential,Wilder Road,717.217,,,,,,,,,,,20044775,
+211625832,211671516,0,False,tertiary,Broadway Road,1479.123,,,,,,,,,,,20047380,
+211625867,211625832,0,False,residential,Wilder Road,717.217,,,,,,,,,,,20044775,
+211625927,211671533,0,False,residential,Persia Road,2302.821,,,,,,,,,,,20049625,
+211625927,211581064,0,False,residential,Persia Road,1760.778,,,,,,,,,,,20049625,
+211626566,211626573,0,False,residential,2nd Avenue,125.459,,,,,,,,,,,20044831,
+211626573,211651960,0,False,residential,Park Street,99.644,,,,,,,,,,,20046452,
+211626573,211626578,0,False,residential,2nd Avenue,83.976,,,,,,,,,,,20044831,
+211626573,211626566,0,False,residential,2nd Avenue,125.459,,,,,,,,,,,20044831,
+211626578,211607699,0,False,residential,Railroad Street,101.036,,,,,,,,,,,20049930,
+211626578,211626573,0,False,residential,2nd Avenue,83.976,,,,,,,,,,,20044831,
+211626578,211725912,0,False,residential,Railroad Street,58.855,,,,,,,,,,,20049930,
+211630252,211498997,0,False,tertiary,North Road,239.516,,,,,,,,,,,20050053,CR 58
+211630252,211696509,0,False,tertiary,North Road,572.348,,,,,,,,,,,20050053,CR 58
+211630393,211601904,0,False,tertiary,Markhams Road,325.795,,,,,,,,,,,20045199,
+211630393,211638040,0,False,tertiary,Edwards Corners Road,1557.288,,,,,,,,,,,20045700,CR 2
+211630393,211694078,0,False,tertiary,County Highway 2,1027.947,,,,,,,,,,,20048448,
+211632158,211517626,0,False,secondary,Dayton Road,16.792,,,,,,,,,,,20045351,NY 353
+211632158,211498275,0,False,secondary,Dayton Road,306.804,,,,,,,,,,,20045351,NY 353
+211632158,211517640,0,False,residential,Fairview Drive,83.747,,,,,,,,,,,20049717,
+211632159,211583773,0,False,secondary,Dayton Road,13.899,,,,,,,,,,,20045351,NY 353
+211632159,211517626,0,False,secondary,Dayton Road,63.385,,,,,,,,,,,20045351,NY 353
+211632159,211502399,0,False,residential,Fairview Drive,25.664,,,,,,,,,,,20049713,
+211633968,211634008,0,False,residential,Crestwood Drive,281.908,,,,,,,,,,,20045481,
+211633968,211616003,0,False,unclassified,East Hill Street,64.937,,,,,,,,,,,20047893,
+211633968,211601837,0,False,unclassified,East Hill Street,99.244,,,,,,,,,,,20047893,
+211634008,211634022,0,False,residential,Crestwood Drive,180.058,,,,,,,,,,,20045481,
+211634008,211633968,0,False,residential,Crestwood Drive,281.908,,,,,,,,,,,20045481,
+211634008,211634031,0,False,residential,Crestwood Drive,229.141,,,,,,,,,,,20045484,
+211634022,211634008,0,False,residential,Crestwood Drive,180.058,,,,,,,,,,,20045481,
+211634031,211634008,0,False,residential,Crestwood Drive,229.141,,,,,,,,,,,20045484,
+211634075,211634079,0,False,residential,Graves,172.572,,,,,,,,,,,20045485,
+211634075,211686724,0,False,secondary,County Road 58,110.862,,,,,,,,,,,20048151,NY 353
+211634075,211688958,0,False,secondary,County Road 58,133.435,,,,,,,,,,,20048151,NY 353
+211634079,211634075,0,False,residential,Graves,172.572,,,,,,,,,,,20045485,
+211635744,211727860,0,False,tertiary,North Road,20.906,,,,,,,,,,,20050053,CR 58
+211635744,211527365,0,False,residential,Pudding Lane Road,1210.09,,,,,,,,,,,20045582,
+211635744,211539278,0,False,tertiary,North Road,1136.455,,,,,,,,,,,20050053,CR 58
+211636188,211591517,0,False,tertiary,Broadway Road,227.505,,,,,,,,,,,20047380,
+211636188,211495091,0,False,unclassified,Palmer Street,495.599,,,,,,,,,,,20045600,
+211636188,211527674,0,False,tertiary,Palmer Street,166.123,,,,,,,,,,,374052986,
+211637965,211638460,0,False,tertiary,Aldrich Street,115.669,,,,,,,,,,,20046849,CR 84
+211637965,211618684,0,False,tertiary,Aldrich Street,106.321,,,,,,,,,,,20046849,CR 84
+211637965,211637997,0,False,residential,Memorial Drive,416.059,,,,,,,,,,,20045696,
+211637997,211637965,0,False,residential,Memorial Drive,416.059,,,,,,,,,,,20045696,
+211638040,211638067,0,False,tertiary,Edwards Corners Road,2171.194,,,,,,,,,,,20045700,CR 2
+211638040,211630393,0,False,tertiary,Edwards Corners Road,1557.288,,,,,,,,,,,20045700,CR 2
+211638040,211696625,0,False,residential,Cole Road,1339.288,,,,,,,,,,,20048563,
+211638067,211638040,0,False,tertiary,Edwards Corners Road,2171.194,,,,,,,,,,,20045700,CR 2
+211638067,211613946,0,False,secondary,State Highway 39,1181.885,,,,,,,,,,,20048714,NY 39
+211638067,211576148,0,False,secondary,State Highway 39,1215.853,,,,,,,,,,,20048714,NY 39
+211638458,211638460,0,False,residential,Saint Johns Street,80.476,,,,,,,,,,,20045717,
+211638458,211606425,0,False,residential,Saint Johns Street,125.348,,,,,,,,,,,20045717,
+211638458,211640273,0,False,residential,Carpenter Terrace,122.885,,,,,,,,,,,20046669,
+211638460,211638458,0,False,residential,Saint Johns Street,80.476,,,,,,,,,,,20045717,
+211638460,211640278,0,False,tertiary,Aldrich Street,122.778,,,,,,,,,,,20046849,CR 84
+211638460,211637965,0,False,tertiary,Aldrich Street,115.669,,,,,,,,,,,20046849,CR 84
+211638707,211638710,0,False,residential,Main Street,133.032,,,,,,,,,,,20045733,
+211638707,211606172,0,False,residential,Main Street,87.945,,,,,,,,,,,20045733,
+211638707,211585465,0,False,residential,Division Street,54.727,,,,,,,,,,,20048793,
+211638710,211638713,0,False,residential,Main Street,56.963,,,,,,,,,,,20045733,
+211638710,211638707,0,False,residential,Main Street,133.032,,,,,,,,,,,20045733,
+211638710,211585465,0,False,residential,School Street,182.121,,,,,,,,,,,20048042,
+211638713,211638716,0,False,residential,Main Street,92.963,,,,,,,,,,,20045733,
+211638713,211638710,0,False,residential,Main Street,56.963,,,,,,,,,,,20045733,
+211638713,211578412,0,False,tertiary,Eaton Road,3781.604,,,,,,,,,,,20046585,
+211638716,211638713,0,False,residential,Main Street,92.963,,,,,,,,,,,20045733,
+211638716,211557747,0,False,residential,Main Street,139.862,,,,,,,,,,,20045733,
+211638716,211734740,0,False,residential,Terrace Street,193.488,,,,,,,,,,,20050439,
+211639448,211539286,0,False,secondary,Main Street,24.293,,,,,,,,,,,20045776,NY 39
+211639448,211715589,0,False,residential,California Avenue,160.577,,,,,,,,,,,20049472,
+211639448,211561385,0,False,secondary,Main Street,55.067,,,,,,,,,,,20045776,NY 39
+211639452,211639455,0,False,secondary,Main Street,238.11,,,,,,,,,,,20045776,NY 39
+211639452,211539286,0,False,secondary,Main Street,120.676,,,,,,,,,,,20045776,NY 39
+211639452,211539247,0,False,residential,Campbell Road,122.601,,,,,,,,,,,20050106,
+211639455,211575871,0,False,secondary,Main Street,152.197,,,,,,,,,,,20045776,NY 39
+211639455,211688961,0,False,secondary,County Road 58,115.978,,,,,,,,,,,20048151,NY 353
+211639455,211606025,0,False,tertiary,North Road,118.877,,,,,,,,,,,20050053,CR 58
+211639455,211639452,0,False,secondary,Main Street,238.11,,,,,,,,,,,20045776,NY 39
+211640273,211640278,0,False,residential,College Street,80.722,,,,,,,,,,,20045811,
+211640273,211606431,0,False,residential,College Street,126.36,,,,,,,,,,,20045811,
+211640273,211638458,0,False,residential,Carpenter Terrace,122.885,,,,,,,,,,,20046669,
+211640278,211640273,0,False,residential,College Street,80.722,,,,,,,,,,,20045811,
+211640278,211567162,0,False,tertiary,Aldrich Street,160.132,,,,,,,,,,,20046849,CR 84
+211640278,211638460,0,False,tertiary,Aldrich Street,122.778,,,,,,,,,,,20046849,CR 84
+211640601,211527555,0,False,residential,Coon Road,578.913,,,,,,,,,,,20045825,
+211640601,211665481,0,False,primary,,356.584,2,,,,,,,,,,20047076,US 62
+211640601,211550694,0,False,primary,,694.218,2,,,,,,,,,,20047076,US 62
+211641669,211641678,0,False,primary,Jamestown Street,300.448,2,,,,,,,,,,20045852,US 62
+211641669,211665739,0,False,primary,Jamestown Street,3267.414,2,,,,,,,,,,"[20045852, 20047076]",US 62
+211641669,444203703,0,False,residential,West Hill Street,351.955,,,,,,,,,,,20047411,
+211641669,211479700,0,False,unclassified,Hill Street,94.332,,,,,,,,,,,20048328,
+211641678,211641688,0,False,primary,Jamestown Street,135.591,2,,,,,,,,,,20045852,US 62
+211641678,211641669,0,False,primary,Jamestown Street,300.448,2,,,,,,,,,,20045852,US 62
+211641678,211644010,0,False,residential,South Chapel Street,52.405,,,,,,,,,,,20045962,
+211641688,211606122,0,False,primary,Jamestown Street,32.718,2,,,,,,,,,,20045852,US 62
+211641688,211641678,0,False,primary,Jamestown Street,135.591,2,,,,,,,,,,20045852,US 62
+211641688,211479721,0,False,residential,Torrance Place,142.342,,,,,,,,,,,20047460,
+211644010,211538985,0,False,residential,South Chapel Street,114.865,,,,,,,,,,,20045962,
+211644010,211641678,0,False,residential,South Chapel Street,52.405,,,,,,,,,,,20045962,
+211644010,211662376,0,False,residential,Maple Avenue,241.451,,,,,,,,,,,20046894,
+211644877,211694078,0,False,tertiary,"['Cottage Road', 'County Highway 2']",330.499,,,,,,,,,,,"[20048448, 20050021]",
+211646782,211646797,0,False,residential,Allen Street,206.244,,,,,,,,,,,20046028,
+211646782,211548736,0,False,primary,,253.776,2,,,,,,,,,,20047076,US 62
+211646782,211665481,0,False,primary,,458.776,2,,,,,,,,,,20047076,US 62
+211646797,211607711,0,False,residential,Allen Street,77.102,,,,,,,,,,,20046028,
+211646797,211646782,0,False,residential,Allen Street,206.244,,,,,,,,,,,20046028,
+211646797,211686675,0,False,residential,School Street,240.398,,,,,,,,,,,20048035,
+211646809,3690631599,0,False,residential,Allen Street,19.604,,,,,,,,,,,20046028,
+211646809,211724349,0,False,residential,Bridge Street,18.814,,,,,,,,,,,365021692,
+211646809,211607711,0,False,residential,Allen Street,173.075,,,,,,,,,,,20046028,
+211646838,211646881,0,False,residential,Allen Street,274.479,,,,,,,,,,,20046028,
+211646838,3690631599,0,False,residential,Allen Street,452.767,,,,,,,,,,,20046028,
+211646838,211678466,0,False,residential,James Road,582.597,,,,,,,,,,,20050725,
+211646881,211646838,0,False,residential,Allen Street,274.479,,,,,,,,,,,20046028,
+211649475,211649475,0,False,residential,Dewey Road,268.793,,,,,,,,,,,20046164,
+211649475,211649475,1,False,residential,Dewey Road,268.793,,,,,,,,,,,20046164,
+211649475,211521323,0,False,residential,Dewey Road,675.88,,,,,,,,,,,20046164,
+211649541,211521323,0,False,residential,Dewey Road,21.364,,,,,,,,,,,20046164,
+211649541,211521327,0,False,residential,Campbell Road,35.839,,,,,,,,,,,20050109,
+211649541,211649582,0,False,residential,Dewey Road,1117.556,,,,,,,,,,,20046164,
+211649582,211649584,0,False,residential,Dewey Road,43.985,,,,,,,,,,,20046164,
+211649582,211649541,0,False,residential,Dewey Road,1117.556,,,,,,,,,,,20046164,
+211649582,211649689,0,False,residential,Dewey Road,44.991,,,,,,,,,,,20046173,
+211649584,211649582,0,False,residential,Dewey Road,43.985,,,,,,,,,,,20046164,
+211649584,211547119,0,False,residential,Jolls Road,1737.738,,,,,,,,,,,20047700,
+211649584,211649689,0,False,residential,Jolls Road,50.85,,,,,,,,,,,20047700,
+211649689,211649582,0,False,residential,Dewey Road,44.991,,,,,,,,,,,20046173,
+211649689,211649584,0,False,residential,Jolls Road,50.85,,,,,,,,,,,20047700,
+211649689,211678495,0,False,residential,Jolls Road,873.301,,,,,,,,,,,20047700,
+211651953,211651960,0,False,residential,1st Street,131.753,,,,,,,,,,,20043396,
+211651960,211626573,0,False,residential,Park Street,99.644,,,,,,,,,,,20046452,
+211651960,211607699,0,False,residential,1st Street,91.644,,,,,,,,,,,20043396,
+211651960,211651953,0,False,residential,1st Street,131.753,,,,,,,,,,,20043396,
+211662376,211538988,0,False,residential,Johnson Street,116.537,,,,,,,,,,,20050254,
+211662376,211644010,0,False,residential,Maple Avenue,241.451,,,,,,,,,,,20046894,
+211662376,211685845,0,False,residential,Dawson Drive,182.181,,,,,,,,,,,20047976,
+211665481,211646782,0,False,primary,,458.776,2,,,,,,,,,,20047076,US 62
+211665481,211640601,0,False,primary,,356.584,2,,,,,,,,,,20047076,US 62
+211665481,211548685,0,False,residential,Gable Street,509.138,,,,,,,,,,,20047332,
+211665569,211665576,0,False,primary,,41.664,2,,,,,,,,,,20047076,US 62
+211665569,211607708,0,False,primary,,144.109,2,,,,,,,,,,20047076,US 62
+211665569,3690631597,0,False,residential,Bridge Street,73.591,,,,,,,,,,,20049859,
+211665576,211607699,0,False,residential,Railroad Street,165.051,,,,,,,,,,,20049930,
+211665576,211665603,0,False,primary,,579.568,2,,,,,,,,,,20047076,US 62
+211665576,211665569,0,False,primary,,41.664,2,,,,,,,,,,20047076,US 62
+211665603,211665692,0,False,primary,,1348.492,2,,,,,,,,,,20047076,US 62
+211665603,211665576,0,False,primary,,579.568,2,,,,,,,,,,20047076,US 62
+211665603,211678466,0,False,residential,Jolls Road,110.779,,,,,,,,,,,20047700,
+211665692,211665739,0,False,primary,,1005.271,2,,,,,,,,,,20047076,US 62
+211665692,211665603,0,False,primary,,1348.492,2,,,,,,,,,,20047076,US 62
+211665692,211518539,0,False,residential,Maltbie Road,949.874,,,,,,,,,,,20049172,
+211665739,211641669,0,False,primary,Jamestown Street,3267.414,2,,,,,,,,,,"[20047076, 20045852]",US 62
+211665739,211665692,0,False,primary,,1005.271,2,,,,,,,,,,20047076,US 62
+211665739,211488658,0,False,residential,Van Etten Road,458.886,,,,,,,,,,,20049909,
+211669794,211534680,0,False,residential,,309.182,,,,,,,,,,,20040074,
+211669794,211669878,0,False,unclassified,County Line Road,2123.292,,,,,,,,,,,20041506,
+211669794,211574302,0,False,unclassified,County Line Road,1524.037,,,,,,,,,,,20041506,
+211669878,211669794,0,False,unclassified,County Line Road,2123.292,,,,,,,,,,,20041506,
+211669878,211613993,0,False,tertiary,Mackinaw Road,1216.963,,,,,,,,,,,20048559,
+211669957,211614075,0,False,tertiary,Versailles-Silver Creek Road,1071.715,,,,,,,,,,,20048732,
+211671516,211671533,0,False,tertiary,Broadway Road,511.613,,,,,,,,,,,20047380,
+211671516,211625832,0,False,tertiary,Broadway Road,1479.123,,,,,,,,,,,20047380,
+211671516,211613594,0,False,unclassified,Skinner Hollow Road,1014.701,,,,,,,,,,,20048482,
+211671533,211671600,0,False,tertiary,Broadway Road,1456.669,,,,,,,,,,,20047380,
+211671533,211671516,0,False,tertiary,Broadway Road,511.613,,,,,,,,,,,20047380,
+211671533,211625927,0,False,residential,Persia Road,2302.821,,,,,,,,,,,20049625,
+211671600,211613849,0,False,tertiary,Broadway Road,3716.091,,,,,,,,,,,20047380,
+211671600,211671533,0,False,tertiary,Broadway Road,1456.669,,,,,,,,,,,20047380,
+211671600,211533668,0,False,residential,Persia Road,3224.363,,,,,,,,,,,"[20049627, 20039998]",
+211671773,211560259,0,False,tertiary,Broadway Road,264.68,,,,,,,,,,,20047380,
+211671773,211474077,0,False,tertiary,Broadway Road,43.676,,,,,,,,,,,20047380,
+211671773,211591559,0,False,residential,High Street,183.723,,,,,,,,,,,20050827,
+211673662,211606116,0,False,tertiary,Commercial Street,86.844,,,,,,,,,,,20048579,
+211673662,211582022,0,False,residential,Torrance Place,296.538,,,,,,,,,,,20047460,
+211673662,211527674,0,False,tertiary,"['Commercial Street', 'Palmer Street']",130.542,,,,,,,,,,,"[374052986, 20048579]",
+211678367,211548622,0,False,residential,Scott Road,845.481,,,,,,,,,,,20047694,
+211678367,211619490,0,False,residential,Van Etten Road,1320.437,,,,,,,,,,,20049909,
+211678367,211548578,0,False,residential,Van Etten Road,916.473,,,,,,,,,,,20049909,
+211678466,211678495,0,False,residential,Jolls Road,1278.592,,,,,,,,,,,20047700,
+211678466,211665603,0,False,residential,Jolls Road,110.779,,,,,,,,,,,20047700,
+211678466,211646838,0,False,residential,James Road,582.597,,,,,,,,,,,20050725,
+211678495,211649689,0,False,residential,Jolls Road,873.301,,,,,,,,,,,20047700,
+211678495,211678466,0,False,residential,Jolls Road,1278.592,,,,,,,,,,,20047700,
+211678495,211488641,0,False,residential,Town Line Road,749.468,,,,,,,,,,,20048209,
+211678495,211689978,0,False,residential,Town Line Road,783.835,,,,,,,,,,,20048209,
+211685460,211463748,0,False,unclassified,Forty Road,979.397,,,,,,,,,,,20047967,
+211685845,211662376,0,False,residential,Dawson Drive,182.181,,,,,,,,,,,20047976,
+211686488,211557735,0,False,residential,"['North Water Street', 'School Street']",352.928,,,,,,,,,,,"[20048017, 20041243]",
+211686488,211606428,0,False,residential,School Street,97.117,,,,,,,,,,,20048017,
+211686488,211618687,0,False,residential,Center Street,274.374,,,,,,,,,,,20050368,
+211686675,211646797,0,False,residential,School Street,240.398,,,,,,,,,,,20048035,
+211686724,211688961,0,False,secondary,County Road 58,9.896,,,,,,,,,,,20048151,NY 353
+211686724,211634075,0,False,secondary,County Road 58,110.862,,,,,,,,,,,20048151,NY 353
+211686724,211686743,0,False,residential,School Street,115.564,,,,,,,,,,,20048040,
+211686743,211686724,0,False,residential,School Street,115.564,,,,,,,,,,,20048040,
+211688958,211634075,0,False,secondary,County Road 58,133.435,,,,,,,,,,,20048151,NY 353
+211688958,211461113,0,False,"['secondary', 'residential']","['Dayton Road', 'Nys Route 353', 'County Road 58']",367.847,,,,,,,,,,,"[20045351, 20048405, 20048151]",NY 353
+211688958,211712356,0,False,residential,Buffalo Street,215.647,,,,,,,,,,,20050291,
+211688961,211639455,0,False,secondary,County Road 58,115.978,,,,,,,,,,,20048151,NY 353
+211688961,211686724,0,False,secondary,County Road 58,9.896,,,,,,,,,,,20048151,NY 353
+211688961,211691672,0,False,residential,Cooper,148.99,,,,,,,,,,,20048301,
+211689633,211601786,0,False,residential,Moench Street,759.943,,,,,,,,,,,20048194,
+211689978,211678495,0,False,residential,Town Line Road,783.835,,,,,,,,,,,20048209,
+211691633,211699821,0,False,secondary,State Highway 39,140.662,,,,,,,,,,,20048721,NY 39
+211691633,211691651,0,False,residential,Markham Drive,528.127,,,,,,,,,,,20048300,
+211691633,211521341,0,False,secondary,State Highway 39,992.91,,,,,,,,,,,20048721,NY 39
+211691651,211691633,0,False,residential,Markham Drive,528.127,,,,,,,,,,,20048300,
+211691672,211688961,0,False,residential,Cooper,148.99,,,,,,,,,,,20048301,
+211694078,211644877,0,False,tertiary,"['Cottage Road', 'County Highway 2']",330.499,,,,,,,,,,,"[20048448, 20050021]",
+211694078,211630393,0,False,tertiary,County Highway 2,1027.947,,,,,,,,,,,20048448,
+211694078,211613946,0,False,residential,"['North Road', 'Mosher Road']",3793.778,,,,,,,,,,,"[20050315, 20050039]",
+211696509,211613993,0,False,tertiary,Mackinaw Road,3628.144,,,,,,,,,,,20048559,
+211696509,211578412,0,False,tertiary,Mackinaw Road,1727.322,,,,,,,,,,,20048559,
+211696509,211549324,0,False,tertiary,North Road,1197.484,,,,,,,,,,,20050053,CR 58
+211696509,211630252,0,False,tertiary,North Road,572.348,,,,,,,,,,,20050053,CR 58
+211696625,211576133,0,False,residential,Cole Road,66.489,,,,,,,,,,,20048563,
+211696625,211638040,0,False,residential,Cole Road,1339.288,,,,,,,,,,,20048563,
+211696625,211576131,0,False,residential,Cole Road,69.988,,,,,,,,,,,20048567,
+211699716,211521333,0,False,secondary,State Highway 39,1395.934,,,,,,,,,,,20048717,NY 39
+211699716,211533545,0,False,secondary,State Highway 39,210.68,,,,,,,,,,,20048717,NY 39
+211699716,211521327,0,False,residential,Campbell Road,1450.198,,,,,,,,,,,20050109,
+211699821,211691633,0,False,secondary,State Highway 39,140.662,,,,,,,,,,,20048721,NY 39
+211699821,211618662,0,False,secondary,State Highway 39,366.427,,,,,,,,,,,20048721,NY 39
+211699821,211605232,0,False,residential,"['Fairview Drive', 'Maltbie Road']",802.574,,,,,,,,,,,"[20049172, 20049718]",
+211699942,211561404,0,False,tertiary,Versailles-Silver Creek Road,1210.068,,,,,,,,,,,20048732,
+211699942,211562433,0,False,tertiary,Versailles-Silver Creek Road,459.822,,,,,,,,,,,20048732,
+211699942,211727880,0,False,tertiary,North Road,818.516,,,,,,,,,,,20050053,CR 58
+211700374,211461070,0,False,residential,Brookside Drive,139.792,,,,,,,,,,,20048743,
+211701302,211557758,0,False,residential,North Street,103.401,,,,,,,,,,,20048775,
+211712353,211712356,0,False,residential,Lincoln Avenue,52.707,,,,,,,,,,,20049342,
+211712356,211712359,0,False,residential,Lincoln Avenue,65.751,,,,,,,,,,,20049342,
+211712356,211712353,0,False,residential,Lincoln Avenue,52.707,,,,,,,,,,,20049342,
+211712356,211688958,0,False,residential,Buffalo Street,215.647,,,,,,,,,,,20050291,
+211712359,211712356,0,False,residential,Lincoln Avenue,65.751,,,,,,,,,,,20049342,
+211715589,211639448,0,False,residential,California Avenue,160.577,,,,,,,,,,,20049472,
+211724349,3690631599,0,False,residential,Bridge Street,20.004,,,,,,,,,,,365021691,
+211724349,211646809,0,False,residential,Bridge Street,18.814,,,,,,,,,,,365021692,
+211724349,3690631598,0,False,residential,Bridge Street,28.373,,,,,,,,,,,365021692,
+211725912,211626578,0,False,residential,Railroad Street,58.855,,,,,,,,,,,20049930,
+211727846,211539278,0,False,tertiary,North Road,19.571,,,,,,,,,,,20050053,CR 58
+211727846,211606025,0,False,tertiary,North Road,287.446,,,,,,,,,,,20050053,CR 58
+211727846,211740853,0,False,unclassified,,177.37,,,,,,,,,,,48114881,
+211727860,211635744,0,False,tertiary,North Road,20.906,,,,,,,,,,,20050053,CR 58
+211727860,211498997,0,False,tertiary,North Road,1327.246,,,,,,,,,,,20050053,CR 58
+211727860,211740010,0,False,residential,Parker Road,744.668,,,,,,,,,,,20050714,
+211727880,211699942,0,False,tertiary,North Road,818.516,,,,,,,,,,,20050053,CR 58
+211727880,211549324,0,False,tertiary,North Road,1211.705,,,,,,,,,,,20050053,CR 58
+211727880,211518366,0,False,residential,Ward Town Road,557.652,,,,,,,,,,,20050132,
+211734740,211638716,0,False,residential,Terrace Street,193.488,,,,,,,,,,,20050439,
+211740010,211727860,0,False,residential,Parker Road,744.668,,,,,,,,,,,20050714,
+211740853,211727846,0,False,unclassified,,177.37,,,,,,,,,,,48114881,
+444203702,444203703,0,False,residential,Maltbie Road,13.13,,,,,,,,,,,20049172,
+444203702,211547119,0,False,residential,Stafford Road,1198.464,,,,,,,,,,,20040526,
+444203702,211506390,0,False,residential,Maltbie Road,956.33,,,,,,,,,,,20049172,
+444203703,444203702,0,False,residential,Maltbie Road,13.13,,,,,,,,,,,20049172,
+444203703,211641669,0,False,residential,West Hill Street,351.955,,,,,,,,,,,20047411,
+444203703,211605232,0,False,residential,Maltbie Road,248.534,,,,,,,,,,,20049172,
+444203710,211618669,0,False,residential,Maltbie Road,224.428,,,,,,,,,,,20049173,
+3690631597,211665569,0,False,residential,Bridge Street,73.591,,,,,,,,,,,20049859,
+3690631598,211724349,0,False,residential,Bridge Street,28.373,,,,,,,,,,,365021692,
+3690631599,211646809,0,False,residential,Allen Street,19.604,,,,,,,,,,,20046028,
+3690631599,211724349,0,False,residential,Bridge Street,20.004,,,,,,,,,,,365021691,
+3690631599,211646838,0,False,residential,Allen Street,452.767,,,,,,,,,,,20046028,

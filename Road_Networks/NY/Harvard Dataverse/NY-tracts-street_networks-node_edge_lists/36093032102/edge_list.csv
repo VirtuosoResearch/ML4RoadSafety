@@ -1,0 +1,162 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+41990036,41990039,0,False,residential,Appletree Lane,18.408,,,,30 mph,,,,,,,5643392,
+41990039,41990042,0,False,residential,Appletree Lane,97.798,,,,30 mph,,,,,,,5643392,
+41990039,41990036,0,False,residential,Appletree Lane,18.408,,,,30 mph,,,,,,,5643392,
+41990039,41999924,0,False,residential,Belridge Road,194.165,,,,30 mph,,,,,,,5644164,
+41990042,41990039,0,False,residential,Appletree Lane,97.798,,,,30 mph,,,,,,,5643392,
+41990042,42002767,0,False,residential,Atateka Road,119.605,,,,30 mph,,,,,,,5648030,
+41990076,41990083,0,False,residential,Merlin Drive,148.486,,,,30 mph,,,,,,,5643398,
+41990076,42006606,0,False,residential,Valerie Drive,238.065,,,,30 mph,,,,,,,5647488,
+41990083,41990089,0,False,residential,Merlin Drive,89.547,,,,30 mph,,,,,,,5643398,
+41990083,41990076,0,False,residential,Merlin Drive,148.486,,,,30 mph,,,,,,,5643398,
+41990083,42032217,0,False,residential,Brookhaven Drive,204.236,,,,30 mph,,,,,,,5646874,
+41990089,41990083,0,False,residential,Merlin Drive,89.547,,,,30 mph,,,,,,,5643398,
+41990089,827126732,0,False,residential,Pinecrest Drive,70.133,,,,30 mph,,,,,,,5645888,
+41990089,42032217,0,False,residential,"['Valerie Drive', 'Merlin Drive']",761.871,,,,30 mph,,,,,,,"[5647488, 5643398]",
+41995469,41999924,0,False,tertiary,Rosendale Road,94.649,,,,35 mph,,,,,,,5649014,CR 158
+41995469,42066605,0,False,tertiary,Rosendale Road,184.561,,,,35 mph,,,,,,,5649014,CR 158
+41999924,41990039,0,False,residential,Belridge Road,194.165,,,,30 mph,,,,,,,5644164,
+41999924,41995469,0,False,tertiary,Rosendale Road,94.649,,,,35 mph,,,,,,,5649014,CR 158
+41999924,42051156,0,False,tertiary,Rosendale Road,32.4,,,,35 mph,,,,,,,5649014,CR 158
+42000388,42002009,0,False,primary,Troy Schenectady Road,119.28,4,,,45 mph,,,,,,,53306645,NY 7
+42000388,42002000,0,False,primary,Troy Schenectady Road,196.289,4,,,45 mph,,,,,,,53306645,NY 7
+42000388,42000404,0,False,residential,Winne Road,445.253,,,,30 mph,,,,,,,5644228,
+42000404,42000388,0,False,residential,Winne Road,445.253,,,,30 mph,,,,,,,5644228,
+42000422,42002018,0,False,primary,Troy Schenectady Road,26.599,4,,,45 mph,,,,,,,53306645,NY 7
+42001897,5357864546,0,False,primary,Troy Schenectady Road,65.809,4,,,40 mph,,,,,,,5644341,NY 7
+42001901,5357864546,0,False,primary,Troy Schenectady Road,31.952,4,,,40 mph,,,,,,,5644341,NY 7
+42001944,42023413,0,False,residential,Onondaga Road,168.749,,,,30 mph,,,,,,,5646171,
+42001944,829634680,0,False,primary,Troy Schenectady Road,279.355,4,,,45 mph,,,,,,,53306645,NY 7
+42001949,829634680,0,False,primary,Troy Schenectady Road,17.391,4,,,45 mph,,,,,,,53306645,NY 7
+42001995,821346967,0,False,primary,Troy Schenectady Road,12.148,4,,,45 mph,,,,,,,53306645,NY 7
+42001995,821346966,0,True,residential,Shannon Boulevard,133.963,,,,30 mph,,,,,,,5649097,
+42001995,42002000,0,False,primary,Troy Schenectady Road,509.366,4,,,45 mph,,,,,,,53306645,NY 7
+42002000,42000388,0,False,primary,Troy Schenectady Road,196.289,4,,,45 mph,,,,,,,53306645,NY 7
+42002000,42065326,0,False,tertiary,Mohawk Road,300.639,,,,30 mph,,,,,,,5649325,CR 5
+42002000,42001995,0,False,primary,Troy Schenectady Road,509.366,4,,,45 mph,,,,,,,53306645,NY 7
+42002009,42000388,0,False,primary,Troy Schenectady Road,119.28,4,,,45 mph,,,,,,,53306645,NY 7
+42002018,42002021,0,False,primary,Troy Schenectady Road,230.369,4,,,45 mph,,,,,,,53306645,NY 7
+42002018,42000422,0,False,primary,Troy Schenectady Road,26.599,4,,,45 mph,,,,,,,53306645,NY 7
+42002018,42010804,0,False,residential,WTRY Road,217.631,,,,30 mph,,,,,,,5645973,
+42002021,42002024,0,False,primary,Troy Schenectady Road,246.351,4,,,45 mph,,,,,,,53306645,NY 7
+42002021,42002018,0,False,primary,Troy Schenectady Road,230.369,4,,,45 mph,,,,,,,53306645,NY 7
+42002024,42002021,0,False,primary,Troy Schenectady Road,246.351,4,,,45 mph,,,,,,,53306645,NY 7
+42002767,41990042,0,False,residential,Atateka Road,119.605,,,,30 mph,,,,,,,5648030,
+42002767,42002778,0,False,residential,Vrooman Avenue,221.396,,,,25 mph,,,,,,,5644412,
+42002778,42002767,0,False,residential,Vrooman Avenue,221.396,,,,25 mph,,,,,,,5644412,
+42002778,42018461,0,False,residential,Hickory Road,215.135,,,,30 mph,,,,,,,5645713,
+42002931,42036240,0,False,tertiary,Rosendale Road,135.005,,,,30 mph,,,,,,,58866271,CR 158
+42002931,42050540,0,False,tertiary,Rosendale Road,1578.291,,,,"['35 mph', '30 mph']",,,,,,,"[60859308, 58866271]",CR 158
+42003485,42003507,0,False,residential,Deanna Court,196.91,,,,30 mph,,,,,,,5644474,
+42003485,42011723,0,False,residential,Agostino Avenue,186.942,,,,30 mph,,,,,,,5645150,
+42003507,42003485,0,False,residential,Deanna Court,196.91,,,,30 mph,,,,,,,5644474,
+42003507,42003507,0,False,residential,Deanna Court,83.173,,,,30 mph,,,,,,,107634297,
+42003507,42003507,1,False,residential,Deanna Court,83.173,,,,30 mph,,,,,,,107634297,
+42006606,42006610,0,False,residential,Adam Drive,48.045,,,,30 mph,,,,,,,5644732,
+42006606,41990076,0,False,residential,Valerie Drive,238.065,,,,30 mph,,,,,,,5647488,
+42006606,42032217,0,False,residential,Valerie Drive,122.895,,,,30 mph,,,,,,,5647488,
+42006610,42006606,0,False,residential,Adam Drive,48.045,,,,30 mph,,,,,,,5644732,
+42006914,42006917,0,False,residential,Killkenny Court,68.081,,,,30 mph,,,,,,,5644752,
+42006914,42065326,0,False,residential,County Clare Lane,146.303,,,,30 mph,,,,,,,5648836,
+42006914,42019738,0,False,residential,County Clare Lane,99.253,,,,30 mph,,,,,,,5648836,
+42006917,42006914,0,False,residential,Killkenny Court,68.081,,,,30 mph,,,,,,,5644752,
+42010804,818260378,0,False,residential,Timothy Lane,207.757,,,,30 mph,,,,,,,5645053,
+42010804,42021372,0,False,residential,WTRY Road,338.633,,,,30 mph,,,,,,,5645973,
+42010804,42002018,0,False,residential,WTRY Road,217.631,,,,30 mph,,,,,,,5645973,
+42011723,42003485,0,False,residential,Agostino Avenue,186.942,,,,30 mph,,,,,,,5645150,
+42011723,42011723,0,False,residential,Agostino Avenue,69.952,,,,30 mph,,,,,,,107634296,
+42011723,42011723,1,False,residential,Agostino Avenue,69.952,,,,30 mph,,,,,,,107634296,
+42014150,42062630,0,False,tertiary,Rosendale Road,293.117,,,,35 mph,,,,,,,5649014,CR 158
+42017674,42017682,0,False,residential,Killarney Drive,36.751,,,,30 mph,,,,,,,5645637,
+42017674,42017723,0,False,residential,County Clare Lane,252.054,,,,30 mph,,,,,,,5648836,
+42017674,42066804,0,False,residential,Dublin Drive,562.026,,,,30 mph,,,,,,,5648902,
+42017682,42017674,0,False,residential,Killarney Drive,36.751,,,,30 mph,,,,,,,5645637,
+42017682,42018361,0,False,residential,Galway Drive,47.66,,,,30 mph,,,,,,,5645701,
+42017682,42017723,0,False,residential,Killarney Drive,325.408,,,,30 mph,,,,,,,5645637,
+42017723,42017682,0,False,residential,Killarney Drive,325.408,,,,30 mph,,,,,,,5645637,
+42017723,42017674,0,False,residential,County Clare Lane,252.054,,,,30 mph,,,,,,,5648836,
+42017723,42019738,0,False,residential,County Clare Lane,60.026,,,,30 mph,,,,,,,5648836,
+42018361,42017682,0,False,residential,Galway Drive,47.66,,,,30 mph,,,,,,,5645701,
+42018461,42002778,0,False,residential,Hickory Road,215.135,,,,30 mph,,,,,,,5645713,
+42019738,42019746,0,False,residential,Macaulay Lane,125.425,,,,30 mph,,,,,,,5645832,
+42019738,42017723,0,False,residential,County Clare Lane,60.026,,,,30 mph,,,,,,,5648836,
+42019738,42006914,0,False,residential,County Clare Lane,99.253,,,,30 mph,,,,,,,5648836,
+42019746,42066804,0,False,residential,Shannon Boulevard,140.349,,,,30 mph,,,,,,,68166779,
+42019746,42019766,0,False,residential,Macaulay Lane,160.939,,,,30 mph,,,,,,,5645832,
+42019746,42019738,0,False,residential,Macaulay Lane,125.425,,,,30 mph,,,,,,,5645832,
+42019766,42019746,0,False,residential,Macaulay Lane,160.939,,,,30 mph,,,,,,,5645832,
+42020331,827126732,0,False,residential,Pinecrest Drive,441.088,,,,30 mph,,,,,,,5645888,
+42020331,818818848,0,False,residential,Woodfield Drive,202.36,,,,30 mph,,,,,,,67818379,
+42021372,42010804,0,False,residential,WTRY Road,338.633,,,,30 mph,,,,,,,5645973,
+42023413,42023416,0,False,residential,Onondaga Road,182.033,,,,30 mph,,,,,,,5646171,
+42023413,42001944,0,False,residential,Onondaga Road,168.749,,,,30 mph,,,,,,,5646171,
+42023413,42035155,0,False,residential,Cayuga Road,232.901,,,,30 mph,,,,,,,5647168,
+42023413,42035160,0,False,residential,Cayuga Road,119.84,,,,30 mph,,,,,,,5647168,
+42023416,42023413,0,False,residential,Onondaga Road,182.033,,,,30 mph,,,,,,,5646171,
+42023416,42055352,0,False,residential,Algonquin Road,233.563,,,,30 mph,,,,,,,5648329,
+42023416,42035161,0,False,residential,Algonquin Road,323.338,,,,30 mph,,,,,,,5648329,
+42032217,41990083,0,False,residential,Brookhaven Drive,204.236,,,,30 mph,,,,,,,5646874,
+42032217,42006606,0,False,residential,Valerie Drive,122.895,,,,30 mph,,,,,,,5647488,
+42032217,41990089,0,False,residential,"['Valerie Drive', 'Merlin Drive']",761.871,,,,30 mph,,,,,,,"[5647488, 5643398]",
+42035145,42035155,0,False,residential,Cayuga Road,166.369,,,,30 mph,,,,,,,5647168,
+42035145,42055352,0,False,residential,Algonquin Road,168.831,,,,30 mph,,,,,,,5648329,
+42035155,42023413,0,False,residential,Cayuga Road,232.901,,,,30 mph,,,,,,,5647168,
+42035155,42055352,0,False,residential,Mohegan Road,131.03,,,,30 mph,,,,,,,5648571,
+42035155,42035145,0,False,residential,Cayuga Road,166.369,,,,30 mph,,,,,,,5647168,
+42035160,42035161,0,False,residential,Cayuga Road,193.455,,,,30 mph,,,,,,,5647168,
+42035160,42068490,0,False,residential,Cayuga Court,70.244,,,,30 mph,,,,,,,5649022,
+42035160,42023413,0,False,residential,Cayuga Road,119.84,,,,30 mph,,,,,,,5647168,
+42035161,42035160,0,False,residential,Cayuga Road,193.455,,,,30 mph,,,,,,,5647168,
+42035161,42055364,0,False,residential,Algonquin Road,102.787,,,,30 mph,,,,,,,5648329,
+42035161,42023416,0,False,residential,Algonquin Road,323.338,,,,30 mph,,,,,,,5648329,
+42036240,42002931,0,False,tertiary,Rosendale Road,135.005,,,,30 mph,,,,,,,58866271,CR 158
+42050540,42050571,0,False,residential,Ferry Road,670.063,1,,,30 mph,,,yes,,,,"[43533650, 43533651, 5648086]",
+42050540,42002931,0,False,tertiary,Rosendale Road,1578.291,,,,"['35 mph', '30 mph']",,,,,,,"[60859308, 58866271]",CR 158
+42050540,42068343,0,False,tertiary,Rosendale Road,590.855,,,,35 mph,,,,,,,60859308,CR 158
+42050571,42050540,0,False,residential,Ferry Road,670.063,1,,,30 mph,,,yes,,,,"[43533650, 43533651, 5648086]",
+42051156,41999924,0,False,tertiary,Rosendale Road,32.4,,,,35 mph,,,,,,,5649014,CR 158
+42051156,42062620,0,False,tertiary,Rosendale Road,238.095,,,,35 mph,,,,,,,5649014,CR 158
+42055352,42023416,0,False,residential,Algonquin Road,233.563,,,,30 mph,,,,,,,5648329,
+42055352,42035155,0,False,residential,Mohegan Road,131.03,,,,30 mph,,,,,,,5648571,
+42055352,42035145,0,False,residential,Algonquin Road,168.831,,,,30 mph,,,,,,,5648329,
+42055364,42035161,0,False,residential,Algonquin Road,102.787,,,,30 mph,,,,,,,5648329,
+42055375,42068343,0,False,tertiary,Rosendale Road,572.657,,,,35 mph,,,yes,,,,"[60859308, 5588685, 60859310]",CR 158
+42062620,42062630,0,False,tertiary,Rosendale Road,40.46,,,,35 mph,,,,,,,5649014,CR 158
+42062620,42051156,0,False,tertiary,Rosendale Road,238.095,,,,35 mph,,,,,,,5649014,CR 158
+42062630,42062620,0,False,tertiary,Rosendale Road,40.46,,,,35 mph,,,,,,,5649014,CR 158
+42062630,42014150,0,False,tertiary,Rosendale Road,293.117,,,,35 mph,,,,,,,5649014,CR 158
+42065326,42006914,0,False,residential,County Clare Lane,146.303,,,,30 mph,,,,,,,5648836,
+42065326,42068343,0,False,tertiary,Mohawk Road,815.441,,,,30 mph,,,,,,,5649325,CR 5
+42065326,42002000,0,False,tertiary,Mohawk Road,300.639,,,,30 mph,,,,,,,5649325,CR 5
+42066605,41995469,0,False,tertiary,Rosendale Road,184.561,,,,35 mph,,,,,,,5649014,CR 158
+42066804,42019746,0,False,residential,Shannon Boulevard,140.349,,,,30 mph,,,,,,,68166779,
+42066804,42017674,0,False,residential,Dublin Drive,562.026,,,,30 mph,,,,,,,5648902,
+42066804,821346966,0,False,residential,Shannon Boulevard,168.987,,,,30 mph,,,,,,,68166779,
+42068343,42065326,0,False,tertiary,Mohawk Road,815.441,,,,30 mph,,,,,,,5649325,CR 5
+42068343,42050540,0,False,tertiary,Rosendale Road,590.855,,,,35 mph,,,,,,,60859308,CR 158
+42068343,42055375,0,False,tertiary,Rosendale Road,572.657,,,,35 mph,,,yes,,,,"[60859308, 5588685, 60859310]",CR 158
+42068490,42035160,0,False,residential,Cayuga Court,70.244,,,,30 mph,,,,,,,5649022,
+42068490,42068490,0,False,residential,Cayuga Court,68.435,,,,30 mph,,,,,,,5649022,
+42068490,42068490,1,False,residential,Cayuga Court,68.435,,,,30 mph,,,,,,,5649022,
+444678431,42014150,0,True,trunk,Crosstown Connection,80.391,2,,,45 mph,,,,,,,230065314,NY 7
+691465093,821346967,0,False,primary,Troy Schenectady Road,232.577,4,,,45 mph,,,,,,,53306645,NY 7
+818260378,42010804,0,False,residential,Timothy Lane,207.757,,,,30 mph,,,,,,,5645053,
+818818831,818818831,0,False,residential,Flower Hill Court,62.086,,,,30 mph,,,,,,,68860139,
+818818831,818818831,1,False,residential,Flower Hill Court,62.086,,,,30 mph,,,,,,,68860139,
+818818831,827126732,0,False,residential,Flower Hill Court,234.556,,,,30 mph,,,,,,,68860139,
+818818848,818818848,0,False,residential,Woodfield Drive,70.344,,,,30 mph,,,,,,,67818379,
+818818848,818818848,1,False,residential,Woodfield Drive,70.344,,,,30 mph,,,,,,,67818379,
+818818848,42020331,0,False,residential,Woodfield Drive,202.36,,,,30 mph,,,,,,,67818379,
+821346966,42066804,0,False,residential,Shannon Boulevard,168.987,,,,30 mph,,,,,,,68166779,
+821346966,821346967,0,True,residential,Shannon Boulevard,134.336,,,,30 mph,,,,,,,68166781,
+821346967,42001995,0,False,primary,Troy Schenectady Road,12.148,4,,,45 mph,,,,,,,53306645,NY 7
+821346967,691465093,0,False,primary,Troy Schenectady Road,232.577,4,,,45 mph,,,,,,,53306645,NY 7
+827126732,41990089,0,False,residential,Pinecrest Drive,70.133,,,,30 mph,,,,,,,5645888,
+827126732,42020331,0,False,residential,Pinecrest Drive,441.088,,,,30 mph,,,,,,,5645888,
+827126732,818818831,0,False,residential,Flower Hill Court,234.556,,,,30 mph,,,,,,,68860139,
+829634680,42001949,0,False,primary,Troy Schenectady Road,17.391,4,,,45 mph,,,,,,,53306645,NY 7
+829634680,42001944,0,False,primary,Troy Schenectady Road,279.355,4,,,45 mph,,,,,,,53306645,NY 7
+5357864546,42001901,0,False,primary,Troy Schenectady Road,31.952,4,,,40 mph,,,,,,,5644341,NY 7
+5357864546,42001897,0,False,primary,Troy Schenectady Road,65.809,4,,,40 mph,,,,,,,5644341,NY 7
+5357864622,5357864546,0,True,residential,,228.247,,,,,,,,,,,555311360,
+5357864622,5357864551,0,True,residential,,44.265,,,,,,,,,,,555311365,

@@ -1,0 +1,612 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+212603258,212603261,0,False,residential,,53.151,,,,,,,,,,,20110300,
+212603258,212799342,0,False,residential,Elmford Road,139.903,,,,,,,,,,,20132648,
+212603258,212709713,0,False,residential,Elmford Road,298.979,,,,,,,,,,,20132648,
+212603261,212603258,0,False,residential,,53.151,,,,,,,,,,,20110300,
+212603284,458616086,0,True,motorway_link,,954.277,,,,,,,yes,,,,"[112885755, 112885740, 20110301]",
+212603284,212621413,0,True,motorway,,841.746,2,,,,,,,,,,123617813,NY 531
+212605414,458290530,0,True,motorway_link,,398.995,,,,,,,,,,,262269234,
+212605675,458290530,0,True,motorway,,440.492,3,,,55 mph,,,,,,,38685492,I 490
+212606299,212606296,0,True,motorway_link,,219.804,,,,,,,,,,,20110459,
+212607758,583094538,0,True,motorway,,964.634,3,,,55 mph,,,yes,,,,"[38685486, 38685488, 38685489, 38685493, 38685494]",I 490
+212612092,458616086,0,True,motorway_link,,652.754,,,,,,,,,,,20111237,
+212612092,212616787,0,True,motorway_link,,344.854,,,,,,,,,,,38698766,
+212616787,212606374,0,True,motorway,,605.123,2,,,,,,,,,,38698772,NY 531
+212619348,212738638,0,True,motorway_link,,507.891,,,,,,,,,,,20111423,
+212619348,583094543,0,True,motorway_link,,1264.133,,,,,,,,,,,"[123617859, 20111303]",
+212620259,212607758,0,True,motorway,,351.699,3,,,55 mph,,,,,,,38685486,I 490
+212620259,2679338035,0,True,motorway_link,,420.199,,,,,,,,,,,38685474,
+212621413,212606299,0,True,motorway_link,,424.616,,,,,,,,,,,20111565,
+212626203,212837020,0,False,secondary,Coldwater Road,233.711,,,,,,,,,,,20137365,NY 386
+212626203,212672033,0,False,secondary,Buffalo Road,285.618,,,,,,,,,,,48686023,NY 33
+212626203,212709733,0,False,secondary,Buffalo Road,313.612,,,,,,,,,,,48686026,NY 33; NY 386
+212626203,5402707071,0,False,residential,Innovation Way,805.534,,,,,,,,,,,20111852,
+212626297,212626300,0,False,residential,Innovation Way,29.361,,,,,,,,,,,20111852,
+212626297,5402707071,0,False,residential,Innovation Way,9.407,,,,,,,,,,,20111852,
+212626300,212626302,0,False,residential,Innovation Way,168.72,,,,,,,,,,,20111852,
+212626300,212626297,0,False,residential,Innovation Way,29.361,,,,,,,,,,,20111852,
+212626302,212626300,0,False,residential,Innovation Way,168.72,,,,,,,,,,,20111852,
+212626302,212626342,0,False,residential,Innovation Way,423.608,,,,,,,yes,,,,"[20111852, 123822453, 123822447]",
+212626302,212709390,0,False,residential,"['South Road', 'Creative Drive']",1197.92,,,,,,,,,,,"[20117273, 20128694]",
+212626342,212930951,0,False,residential,Wallace Way,791.114,,,,,,,,,,,20137758,
+212626342,212626344,0,False,residential,Innovation Way,308.225,,,,,,,,,,,123822453,
+212626342,212626302,0,False,residential,Innovation Way,423.608,,,,,,,yes,,,,"[20111852, 123822453, 123822447]",
+212626344,212626347,0,False,residential,Innovation Way,26.709,,,,,,,,,,,480146767,
+212626344,212626342,0,False,residential,Innovation Way,308.225,,,,,,,,,,,123822453,
+212626347,212626344,0,False,residential,Innovation Way,26.709,,,,,,,,,,,480146767,
+212626347,212626368,0,False,residential,Les Harrison Drive East,33.09,,,,,,,,,,,480146768,
+212626347,212749778,0,False,residential,Les Harrison Drive East,704.493,,,,,,,,,,,20123537,
+212626368,212626347,0,False,residential,Les Harrison Drive East,33.09,,,,,,,,,,,480146768,
+212626368,212626344,0,True,residential,Innovation Way,43.991,,,,,,,,,,,20111854,
+212626368,212771937,0,False,residential,Les Harrison Drive East,178.595,,,,,,,,,,,480146769,
+212626948,212626950,0,False,residential,Currier Lane,128.568,,,,,,,,,,,20111901,
+212626948,212854387,0,False,residential,Hinkley Lane,49.783,,,,,,,,,,,20130912,
+212626948,212854383,0,False,residential,Hinkley Lane,65.923,,,,,,,,,,,20130912,
+212626950,212626952,0,False,residential,Currier Lane,109.657,,,,,,,,,,,20111901,
+212626950,212626948,0,False,residential,Currier Lane,128.568,,,,,,,,,,,20111901,
+212626950,212733499,0,False,residential,Monte Carlo Drive,339.512,,,,,,,,,,,20119141,
+212626952,212626950,0,False,residential,Currier Lane,109.657,,,,,,,,,,,20111901,
+212626952,212775840,0,False,residential,Courtright Lane,115.403,,,,,,,,,,,20124059,
+212626952,212733499,0,False,residential,"['Riviera Drive', 'Courtright Lane']",434.142,,,,,,,,,,,"[20124059, 20129414]",
+212630259,212773890,0,False,tertiary,Westside Drive,9.804,,,,,,,,,,,318186949,CR 119
+212630259,212920453,0,False,tertiary,Westside Drive,304.248,,,,,,,,,,,318186949,CR 119
+212630555,212858460,0,False,residential,Trabold Road South,168.171,,,,,,,,,,,20131289,
+212630555,212858456,0,False,residential,Trabold Road South,76.373,,,,,,,,,,,20131289,
+212630555,212630559,0,False,residential,Mariposa Drive,108.046,,,,,,,,,,,20112124,
+212630559,212886035,0,False,residential,Rio Blanco Road,95.165,,,,,,,,,,,20135722,
+212630559,212630585,0,False,residential,Mariposa Drive,381.013,,,,,,,,,,,20112124,
+212630559,212630555,0,False,residential,Mariposa Drive,108.046,,,,,,,,,,,20112124,
+212630585,212886943,0,False,residential,Emeralda Road,65.608,,,,,,,,,,,20134091,
+212630585,212630559,0,False,residential,Mariposa Drive,381.013,,,,,,,,,,,20112124,
+212630585,212885998,0,False,residential,Emeralda Road,144.017,,,,,,,,,,,20134091,
+212636374,212709710,0,False,secondary,Elmgrove Road,257.207,,,,,,,,,,,52910411,NY 386
+212636374,212709707,0,False,secondary,Elmgrove Road,122.209,,,,,,,,,,,52910411,NY 386
+212639241,212773890,0,False,residential,Ramsgate Drive,103.726,,,,,,,,,,,20123765,
+212639241,212674362,0,False,residential,Floralton Drive,191.591,,,,,,,,,,,20135103,
+212639241,212639274,0,False,residential,Harpington Drive,285.198,,,,,,,,,,,20112616,
+212639241,212639274,1,False,residential,Ramsgate Drive,261.848,,,,,,,,,,,20123765,
+212639274,212639276,0,False,residential,Harpington Drive,99.433,,,,,,,,,,,20112616,
+212639274,212639241,0,False,residential,Harpington Drive,285.198,,,,,,,,,,,20112616,
+212639274,212639241,1,False,residential,Ramsgate Drive,261.848,,,,,,,,,,,20123765,
+212639276,212639274,0,False,residential,Harpington Drive,99.433,,,,,,,,,,,20112616,
+212639276,212785796,0,False,residential,Sudbury Drive,72.24,,,,,,,,,,,20124862,
+212639276,212639285,0,False,residential,Harpington Drive,115.334,,,,,,,,,,,20112616,
+212639285,212639320,0,False,residential,Harpington Drive,428.665,,,,,,,,,,,20112616,
+212639285,212639320,1,False,residential,Paddington Drive,349.09,,,,,,,,,,,20135046,
+212639285,212639276,0,False,residential,Harpington Drive,115.334,,,,,,,,,,,20112616,
+212639320,212639324,0,False,residential,Harpington Drive,18.574,,,,,,,,,,,20112616,
+212639320,212639285,0,False,residential,Harpington Drive,428.665,,,,,,,,,,,20112616,
+212639320,212639285,1,False,residential,Paddington Drive,349.09,,,,,,,,,,,20135046,
+212639324,212639320,0,False,residential,Harpington Drive,18.574,,,,,,,,,,,20112616,
+212639957,212770614,0,False,tertiary,Pixley Road,405.895,,,,,,,,,,,20130699,CR 160
+212640607,212709735,0,False,residential,Elmgrove Road,99.416,,,,,,,,,,,48686025,
+212640607,212709733,0,False,residential,Elmgrove Road,141.33,,,,,,,,,,,48686025,
+212640607,212640619,0,False,residential,Sungrove Lane,226.651,,,,,,,,,,,20112741,
+212640619,212640607,0,False,residential,Sungrove Lane,226.651,,,,,,,,,,,20112741,
+212646143,212728004,0,False,residential,Upper Valley Road,89.169,,,,,,,,,,,20118654,
+212646143,212646168,0,False,residential,Valley Creek Road,132.385,,,,,,,,,,,20113093,
+212646143,212653293,0,False,residential,Hidden Valley Road,305.598,,,,,,,,,,,20113536,
+212646168,212646143,0,False,residential,Valley Creek Road,132.385,,,,,,,,,,,20113093,
+212646992,212646994,0,False,residential,Aluminum Road,144.989,,,,,,,,,,,20113133,
+212646992,212822010,0,False,residential,Pixley Industrial Parkway,293.985,,,,,,,,,,,20127932,
+212646994,212646992,0,False,residential,Aluminum Road,144.989,,,,,,,,,,,20113133,
+212648482,212648485,0,False,residential,St Rita Drive,497.709,,,,,,,,,,,20113231,
+212648482,212700864,0,False,residential,Donna Road,118.629,,,,,,,,,,,20116693,
+212648482,212797818,0,False,residential,"['Francine Drive', 'Donna Road']",624.881,,,,,,,,,,,"[20136955, 20116693]",
+212648485,212648482,0,False,residential,St Rita Drive,497.709,,,,,,,,,,,20113231,
+212648485,212797818,0,False,secondary,Spencerport Road,127.365,,,,,,,,,,,20125878,NY 31
+212648485,212797808,0,False,secondary,Spencerport Road,122.696,,,,,,,,,,,20125878,NY 31
+212649737,212858460,0,False,tertiary,Westside Drive,113.633,,,,,,,,,,,318186949,CR 119
+212653183,212799344,0,False,residential,Citrus Drive,133.16,,,,,,,,,,,20135705,
+212653183,212709710,0,False,residential,Citrus Drive,302.587,,,,,,,,,,,20135705,
+212653183,212653201,0,False,residential,Avacado Lane,230.422,,,,,,,,,,,20113530,
+212653201,212653203,0,False,residential,Avacado Lane,318.307,,,,,,,,,,,20113530,
+212653201,212799344,0,False,residential,Tangerine Way,109.638,,,,,,,,,,,20126001,
+212653201,212653183,0,False,residential,Avacado Lane,230.422,,,,,,,,,,,20113530,
+212653203,212653201,0,False,residential,Avacado Lane,318.307,,,,,,,,,,,20113530,
+212653203,212873076,0,False,residential,Elmford Road,109.639,,,,,,,,,,,20132648,
+212653203,212873072,0,False,residential,Elmford Road,109.756,,,,,,,,,,,20132648,
+212653293,212852200,0,False,tertiary,Pixley Road,306.316,,,,,,,,,,,20130699,CR 160
+212653293,212646143,0,False,residential,Hidden Valley Road,305.598,,,,,,,,,,,20113536,
+212653293,212852228,0,False,tertiary,Pixley Road,953.15,,,,,,,,,,,20130699,CR 160
+212653819,212709727,0,False,secondary,Elmgrove Road,481.084,,,,,,,,,,,512352324,NY 386
+212653819,212709725,0,False,secondary,Elmgrove Road,305.387,,,,,,,,,,,512352324,NY 386
+212653819,212780939,0,True,residential,Synergy Drive,133.335,,,,,,,,,,,123991394,
+212656014,212656016,0,False,residential,Mercury Drive,383.749,,,,,,,,,,,20113668,
+212656014,212762372,0,False,secondary,Coldwater Road,225.958,,,,,,,,,,,20137365,NY 386
+212656014,212887625,0,False,secondary,Coldwater Road,134.214,,,,,,,,,,,20137365,NY 386
+212656016,212656014,0,False,residential,Mercury Drive,383.749,,,,,,,,,,,20113668,
+212656016,212762404,0,False,residential,Bending Creek Road,56.276,,,,,,,,,,,20122321,
+212656016,212656024,0,False,residential,Mercury Drive,476.234,,,,,,,,,,,20113668,
+212656016,212762372,0,False,residential,Bending Creek Road,559.505,,,,,,,,,,,20122321,
+212656024,212656016,0,False,residential,Mercury Drive,476.234,,,,,,,,,,,20113668,
+212660559,212660562,0,False,residential,Vincent Drive,13.139,,,,,,,,,,,20113894,
+212660559,212674368,0,False,residential,Wingate Drive,156.017,,,,,,,,,,,20115010,
+212660559,3594226546,0,False,residential,Ashton Drive,246.583,,,,,,,,,,,20138958,
+212660562,212660559,0,False,residential,Vincent Drive,13.139,,,,,,,,,,,20113894,
+212660697,212663585,0,False,residential,Trabold Road,76.071,,,,,,,,,,,20114141,
+212660697,212663581,0,False,residential,Trabold Road,157.574,,,,,,,,,,,20114141,
+212660697,212660702,0,False,residential,Flamingo Drive,113.088,,,,,,,,,,,20113914,
+212660702,212660709,0,False,residential,Flamingo Drive,104.732,,,,,,,,,,,20113914,
+212660702,212660697,0,False,residential,Flamingo Drive,113.088,,,,,,,,,,,20113914,
+212660702,212779025,0,False,residential,Sands Road,326.953,,,,,,,,,,,20124232,
+212660709,212660712,0,False,residential,Flamingo Drive,110.555,,,,,,,,,,,20113914,
+212660709,212660702,0,False,residential,Flamingo Drive,104.732,,,,,,,,,,,20113914,
+212660709,212825546,0,False,residential,Oasis Lane,267.766,,,,,,,,,,,20132473,
+212660712,212660709,0,False,residential,Flamingo Drive,110.555,,,,,,,,,,,20113914,
+212660712,212676608,0,False,residential,Flamingo Circle,64.061,,,,,,,,,,,20115200,
+212660712,212660720,0,False,residential,Flamingo Drive,160.934,,,,,,,,,,,20113914,
+212660720,212660712,0,False,residential,Flamingo Drive,160.934,,,,,,,,,,,20113914,
+212660720,212732299,0,False,residential,Pyramid Lane,193.791,,,,,,,,,,,20119042,
+212660720,212825546,0,False,residential,Sahara Drive,314.209,,,,,,,,,,,20128254,
+212662545,212662548,0,False,residential,Limerick Lane,159.463,,,,,,,,,,,20114059,
+212662548,212662545,0,False,residential,Limerick Lane,159.463,,,,,,,,,,,20114059,
+212662548,212662608,0,False,residential,Donna Road,104.52,,,,,,,,,,,20116693,
+212662548,212700873,0,False,residential,Donna Road,122.44,,,,,,,,,,,20116693,
+212662608,212662548,0,False,residential,Donna Road,104.52,,,,,,,,,,,20116693,
+212662608,212662617,0,False,residential,Limerick Lane,286.574,,,,,,,,,,,20114059,
+212662608,212763534,0,False,residential,"['Willhurst Drive', 'Donna Road']",129.333,,,,,,,,,,,"[20116693, 330315014]",
+212662617,212662608,0,False,residential,Limerick Lane,286.574,,,,,,,,,,,20114059,
+212662617,212797801,0,False,secondary,Spencerport Road,266.937,,,,,,,,,,,20125878,NY 31
+212662617,212751316,0,False,secondary,Spencerport Road,206.91,,,,,,,,,,,20125878,NY 31
+212663578,212663581,0,False,residential,Trabold Road,144.666,,,,,,,,,,,20114141,
+212663578,212716974,0,False,secondary,Buffalo Road,75.952,,,,,,,,,,,262269232,NY 33
+212663578,212682543,0,False,secondary,Buffalo Road,109.843,,,,,,,,,,,262269232,NY 33
+212663581,212660697,0,False,residential,Trabold Road,157.574,,,,,,,,,,,20114141,
+212663581,212663578,0,False,residential,Trabold Road,144.666,,,,,,,,,,,20114141,
+212663581,212898772,0,False,residential,Crystal Commons Drive,33.673,,,,,,,,,,,20135189,
+212663585,212663588,0,False,residential,Trabold Road,240.112,,,,,,,,,,,20114141,
+212663585,212660697,0,False,residential,Trabold Road,76.071,,,,,,,,,,,20114141,
+212663585,212775836,0,False,residential,Hinkley Lane,109.343,,,,,,,,,,,20130912,
+212663588,212663590,0,False,residential,Trabold Road,600.596,,,,,,,,,,,20114141,
+212663588,212663585,0,False,residential,Trabold Road,240.112,,,,,,,,,,,20114141,
+212663588,212775840,0,False,residential,Courtright Lane,107.966,,,,,,,,,,,20124059,
+212663588,212779025,0,False,residential,Sahara Drive,151.887,,,,,,,,,,,20128254,
+212663590,212663588,0,False,residential,Trabold Road,600.596,,,,,,,,,,,20114141,
+212663590,212663602,0,False,residential,Trabold Road,301.147,,,,,,,,,,,20114141,
+212663590,212860123,0,False,residential,Cherry Road,310.236,,,,,,,,,,,20131450,
+212663602,212980932,0,False,residential,Moonlanding Road,326.46,,,,,,,,,,,20141325,
+212663602,212663590,0,False,residential,Trabold Road,301.147,,,,,,,,,,,20114141,
+212668377,212709720,0,False,secondary,Elmgrove Road,354.828,,,,,,,,,,,52910411,NY 386
+212668377,212709717,0,False,secondary,Elmgrove Road,305.57,,,,,,,,,,,52910411,NY 386
+212672033,212770637,0,False,secondary,Buffalo Road,98.089,,,,,,,,,,,48686023,NY 33
+212672033,212626203,0,False,secondary,Buffalo Road,285.618,,,,,,,,,,,48686023,NY 33
+212672033,212672044,0,False,residential,Adeane Drive East,68.36,,,,,,,,,,,20114772,
+212672044,212675795,0,False,residential,Bonnie Lane,170.178,,,,,,,,,,,20129748,
+212672044,212672060,0,False,residential,Adeane Drive East,193.998,,,,,,,,,,,20114772,
+212672044,212672033,0,False,residential,Adeane Drive East,68.36,,,,,,,,,,,20114772,
+212672060,212675804,0,False,residential,Adeane Drive West,75.635,,,,,,,,,,,20115131,
+212672060,212672044,0,False,residential,Adeane Drive East,193.998,,,,,,,,,,,20114772,
+212672060,212675795,0,False,residential,Adeane Drive West,127.53,,,,,,,,,,,20115131,
+212674359,212674362,0,False,residential,Wingate Drive,105.124,,,,,,,,,,,20115010,
+212674359,212767487,0,False,tertiary,Westside Drive,94.309,,,,,,,,,,,318186949,CR 119
+212674359,212835913,0,False,tertiary,Westside Drive,38.307,,,,,,,,,,,318186949,CR 119
+212674362,212674365,0,False,residential,Wingate Drive,109.006,,,,,,,,,,,20115010,
+212674362,212674359,0,False,residential,Wingate Drive,105.124,,,,,,,,,,,20115010,
+212674362,212639241,0,False,residential,Floralton Drive,191.591,,,,,,,,,,,20135103,
+212674365,212674368,0,False,residential,Wingate Drive,133.68,,,,,,,,,,,20115010,
+212674365,212674362,0,False,residential,Wingate Drive,109.006,,,,,,,,,,,20115010,
+212674365,3594226552,0,False,residential,Sudbury Drive,287.961,,,,,,,,,,,20124862,
+212674368,212660559,0,False,residential,Wingate Drive,156.017,,,,,,,,,,,20115010,
+212674368,212674365,0,False,residential,Wingate Drive,133.68,,,,,,,,,,,20115010,
+212674368,3594226554,0,False,residential,Amberly Circle,59.957,,,,,,,,,,,20138091,
+212675791,212675795,0,False,residential,Adeane Drive West,65.04,,,,,,,,,,,20115131,
+212675791,212770637,0,False,secondary,Buffalo Road,81.59,,,,,,,,,,,48686023,NY 33
+212675791,212770648,0,False,secondary,Buffalo Road,670.747,,,,,,,,,,,48686023,NY 33
+212675795,212675791,0,False,residential,Adeane Drive West,65.04,,,,,,,,,,,20115131,
+212675795,212672044,0,False,residential,Bonnie Lane,170.178,,,,,,,,,,,20129748,
+212675795,212672060,0,False,residential,Adeane Drive West,127.53,,,,,,,,,,,20115131,
+212675804,212672060,0,False,residential,Adeane Drive West,75.635,,,,,,,,,,,20115131,
+212676608,212660712,0,False,residential,Flamingo Circle,64.061,,,,,,,,,,,20115200,
+212682543,212663578,0,False,secondary,Buffalo Road,109.843,,,,,,,,,,,262269232,NY 33
+212682543,212770621,0,False,secondary,Buffalo Road,59.356,,,,,,,,,,,262269232,NY 33
+212695711,212772549,0,False,tertiary,Manitou Road,189.175,,,,,,,,,,,139631902,CR 208
+212695711,212772545,0,False,tertiary,Manitou Road,154.359,,,,,,,,,,,139631902,CR 208
+212700864,212700867,0,False,residential,Donna Road,120.007,,,,,,,,,,,20116693,
+212700864,212648482,0,False,residential,Donna Road,118.629,,,,,,,,,,,20116693,
+212700864,212797808,0,False,residential,Cross Gates Road,467.131,,,,,,,,,,,20136792,
+212700867,212700870,0,False,residential,Donna Road,100.065,,,,,,,,,,,20116693,
+212700867,212700864,0,False,residential,Donna Road,120.007,,,,,,,,,,,20116693,
+212700867,212758795,0,False,residential,Jamee Lane,277.501,,,,,,,,,,,20121873,
+212700870,212700873,0,False,residential,Donna Road,103.555,,,,,,,,,,,20116693,
+212700870,212700867,0,False,residential,Donna Road,100.065,,,,,,,,,,,20116693,
+212700870,212758795,0,False,residential,Sean Lane,171.243,,,,,,,,,,,20132148,
+212700873,212662548,0,False,residential,Donna Road,122.44,,,,,,,,,,,20116693,
+212700873,212700870,0,False,residential,Donna Road,103.555,,,,,,,,,,,20116693,
+212700873,212758798,0,False,residential,Virginia Manor Road,172.135,,,,,,,,,,,20140532,
+212702142,212702142,0,False,residential,Eastview Commons Road,607.171,,,,,,,,,,,20116775,
+212702142,212702142,1,False,residential,Eastview Commons Road,607.171,,,,,,,,,,,20116775,
+212702142,212784766,0,False,residential,Eastview Commons Boulevard,88.931,,,,,,,,,,,20129499,
+212709390,212736647,0,False,tertiary,Manitou Road,303.608,,,,,,,,,,,139631902,CR 208
+212709390,212626302,0,False,residential,"['South Road', 'Creative Drive']",1197.92,,,,,,,,,,,"[20117273, 20128694]",
+212709701,212709706,0,False,secondary,Elmgrove Road,145.523,,,,,,,,,,,52910411,NY 386
+212709706,212709707,0,False,secondary,Elmgrove Road,218.055,,,,,,,,,,,52910411,NY 386
+212709706,212709701,0,False,secondary,Elmgrove Road,145.523,,,,,,,,,,,52910411,NY 386
+212709707,212797818,0,False,secondary,Spencerport Road,186.9,,,,,,,,,,,20125878,NY 31
+212709707,212636374,0,False,secondary,Elmgrove Road,122.209,,,,,,,,,,,52910411,NY 386
+212709707,212709706,0,False,secondary,Elmgrove Road,218.055,,,,,,,,,,,52910411,NY 386
+212709710,212653183,0,False,residential,Citrus Drive,302.587,,,,,,,,,,,20135705,
+212709710,212709713,0,False,secondary,Elmgrove Road,112.085,,,,,,,,,,,52910411,NY 386
+212709710,212636374,0,False,secondary,Elmgrove Road,257.207,,,,,,,,,,,52910411,NY 386
+212709713,212709716,0,False,secondary,Elmgrove Road,14.567,,,,,,,,,,,52910411,NY 386
+212709713,212709710,0,False,secondary,Elmgrove Road,112.085,,,,,,,,,,,52910411,NY 386
+212709713,212603258,0,False,residential,Elmford Road,298.979,,,,,,,,,,,20132648,
+212709716,212709717,0,False,secondary,Elmgrove Road,333.594,,,,,,,,,,,52910411,NY 386
+212709716,212709713,0,False,secondary,Elmgrove Road,14.567,,,,,,,,,,,52910411,NY 386
+212709717,212709716,0,False,secondary,Elmgrove Road,333.594,,,,,,,,,,,52910411,NY 386
+212709717,212668377,0,False,secondary,Elmgrove Road,305.57,,,,,,,,,,,52910411,NY 386
+212709720,1737922223,0,False,residential,Elmgrove Park,631.284,,,,,,,,,,,20139727,
+212709720,212668377,0,False,secondary,Elmgrove Road,354.828,,,,,,,,,,,52910411,NY 386
+212709725,1382333135,0,False,residential,Les Harrison Drive East,19.696,,,,,,,,,,,124124711,
+212709725,212653819,0,False,secondary,Elmgrove Road,305.387,,,,,,,,,,,512352324,NY 386
+212709727,212780974,0,True,residential,Initiative Drive,159.568,2,,,,,,,,,,20136917,
+212709727,5402707078,0,False,secondary,Elmgrove Road,10.369,,,,,,,,,,,512352324,NY 386
+212709727,212653819,0,False,secondary,Elmgrove Road,481.084,,,,,,,,,,,512352324,NY 386
+212709733,212640607,0,False,residential,Elmgrove Road,141.33,,,,,,,,,,,48686025,
+212709733,212626203,0,False,secondary,Buffalo Road,313.612,,,,,,,,,,,48686026,NY 33; NY 386
+212709733,212716974,0,False,secondary,Buffalo Road,435.418,,,,,,,,,,,262269232,NY 33
+212709733,5402707078,0,False,secondary,Elmgrove Road,420.868,,,,,,,,,,,512352324,NY 386
+212709735,212640607,0,False,residential,Elmgrove Road,99.416,,,,,,,,,,,48686025,
+212711167,212883216,0,False,secondary,Westside Drive,176.954,,,,,,,,,,,139470289,NY 386;CR 119
+212711167,3372764290,0,False,secondary,Westside Drive,14.162,,,,,,,,,,,139470289,NY 386;CR 119
+212713920,212713922,0,False,residential,Scarlet Maple Drive,155.383,,,,,,,,,,,20117614,
+212713920,212772511,0,False,tertiary,Manitou Road,386.001,,,,,,,,,,,313481601,CR 208
+212713922,212713920,0,False,residential,Scarlet Maple Drive,155.383,,,,,,,,,,,20117614,
+212713922,1282018083,0,False,residential,Queensland Drive,81.74,,,,,,,,,,,20133628,
+212713922,212848264,0,False,residential,Queensland Drive,800.657,,,,,,,,,,,20133628,
+212716974,212663578,0,False,secondary,Buffalo Road,75.952,,,,,,,,,,,262269232,NY 33
+212716974,212709733,0,False,secondary,Buffalo Road,435.418,,,,,,,,,,,262269232,NY 33
+212728004,212646143,0,False,residential,Upper Valley Road,89.169,,,,,,,,,,,20118654,
+212732299,212660720,0,False,residential,Pyramid Lane,193.791,,,,,,,,,,,20119042,
+212733499,212626950,0,False,residential,Monte Carlo Drive,339.512,,,,,,,,,,,20119141,
+212733499,212626952,0,False,residential,"['Riviera Drive', 'Courtright Lane']",434.142,,,,,,,,,,,"[20124059, 20129414]",
+212733499,212838275,0,False,residential,Riviera Drive,142.426,,,,,,,,,,,20129414,
+212735201,212751316,0,False,secondary,Spencerport Road,36.058,,,,,,,,,,,20125878,NY 31
+212735201,212772506,0,False,secondary,Spencerport Road,508.595,,,,,,,,,,,20125878,NY 31
+212735201,212735206,0,False,residential,Karen Drive,232.442,,,,,,,,,,,20119284,
+212735206,212763534,0,False,residential,Willhurst Drive,108.574,,,,,,,,,,,330315014,
+212735206,212763531,0,False,residential,Willhurst Drive,326.712,,,,,,,,,,,330315014,
+212735206,212735201,0,False,residential,Karen Drive,232.442,,,,,,,,,,,20119284,
+212736647,212709390,0,False,tertiary,Manitou Road,303.608,,,,,,,,,,,139631902,CR 208
+212736647,212736673,0,False,residential,Teresa Circle,229.884,,,,,,,,,,,20119398,
+212736647,212772545,0,False,tertiary,Manitou Road,557.483,,,,,,,,,,,139631902,CR 208
+212736673,212736647,0,False,residential,Teresa Circle,229.884,,,,,,,,,,,20119398,
+212738632,212613627,0,True,motorway_link,,629.406,,,,,,,,,,,20110987,
+212738632,212738638,0,True,motorway,,572.878,2,,,55 mph,,,yes,,,,"[38685496, 366575261, 38685495]",I 490
+212738638,212605675,0,True,motorway,,598.005,3,,,55 mph,,,yes,,,,"[38685491, 38685492]",I 490
+212744774,212744777,0,False,residential,Ventura Road,284.709,,,,,,,,,,,20120284,
+212744774,212873915,0,False,residential,Westmar Drive,118.39,,,,,,,,,,,20133975,
+212744774,212885983,0,False,residential,Westmar Drive,100.898,,,,,,,,,,,20133975,
+212744777,212744774,0,False,residential,Ventura Road,284.709,,,,,,,,,,,20120284,
+212744777,212841700,0,False,residential,Westmar Drive,100.488,,,,,,,,,,,20133975,
+212744777,212886035,0,False,residential,Westmar Drive,96.491,,,,,,,,,,,20133975,
+212749778,1382333137,0,False,residential,Les Harrison Drive East,6.683,,,,,,,,,,,20123532,
+212749778,212626347,0,False,residential,Les Harrison Drive East,704.493,,,,,,,,,,,20123537,
+212749778,1381229478,0,False,residential,Lazar Drive,274.001,,,,,,,,,,,20124425,
+212751316,212751319,0,False,residential,Hickock Parkway,75.447,,,,,,,,,,,20120948,
+212751316,212735201,0,False,secondary,Spencerport Road,36.058,,,,,,,,,,,20125878,NY 31
+212751316,212662617,0,False,secondary,Spencerport Road,206.91,,,,,,,,,,,20125878,NY 31
+212751319,212751316,0,False,residential,Hickock Parkway,75.447,,,,,,,,,,,20120948,
+212758795,212700870,0,False,residential,Sean Lane,171.243,,,,,,,,,,,20132148,
+212758795,212758798,0,False,residential,Jamee Lane,101.361,,,,,,,,,,,20121873,
+212758795,212700867,0,False,residential,Jamee Lane,277.501,,,,,,,,,,,20121873,
+212758798,212700873,0,False,residential,Virginia Manor Road,172.135,,,,,,,,,,,20140532,
+212758798,212758795,0,False,residential,Jamee Lane,101.361,,,,,,,,,,,20121873,
+212758798,212797801,0,False,residential,Virginia Manor Road,182.634,,,,,,,,,,,20140532,
+212761679,212909696,0,False,residential,Marlands Road,101.992,,,,,,,,,,,20136112,
+212761679,212761702,0,False,residential,Del Verde Road,403.245,,,,,,,,,,,20122237,
+212761679,212761702,1,False,residential,Marlands Road,107.215,,,,,,,,,,,20136112,
+212761702,212909714,0,False,residential,Marlands Road,106.394,,,,,,,,,,,20136112,
+212761702,212761679,0,False,residential,Del Verde Road,403.245,,,,,,,,,,,20122237,
+212761702,212761679,1,False,residential,Marlands Road,107.215,,,,,,,,,,,20136112,
+212762372,212860135,0,False,secondary,Coldwater Road,33.107,,,,,,,,,,,20137365,NY 386
+212762372,212656014,0,False,secondary,Coldwater Road,225.958,,,,,,,,,,,20137365,NY 386
+212762372,212656016,0,False,residential,Bending Creek Road,559.505,,,,,,,,,,,20122321,
+212762404,212656016,0,False,residential,Bending Creek Road,56.276,,,,,,,,,,,20122321,
+212763531,212735206,0,False,residential,Willhurst Drive,326.712,,,,,,,,,,,330315014,
+212763531,212763531,0,False,residential,Willhurst Drive,91.76,,,,,,,,,,,20122477,
+212763531,212763531,1,False,residential,Willhurst Drive,91.76,,,,,,,,,,,20122477,
+212763534,212780338,0,False,residential,Crystal Court,151.338,,,,,,,,,,,20124366,
+212763534,212735206,0,False,residential,Willhurst Drive,108.574,,,,,,,,,,,330315014,
+212763534,212662608,0,False,residential,"['Willhurst Drive', 'Donna Road']",129.333,,,,,,,,,,,"[20116693, 330315014]",
+212765574,212984968,0,False,residential,Westside Drive,60.28,,,,,,,,,,,20141612,
+212765574,2157105434,0,False,secondary,Westside Drive,90.66,,,,,,,,,,,139470280,NY 386;CR 119
+212765574,212883216,0,False,secondary,Westside Drive,318.297,,,,,,,,,,,139470289,NY 386;CR 119
+212767487,212885983,0,False,tertiary,Westside Drive,9.496,,,,,,,,,,,318186949,CR 119
+212767487,212674359,0,False,tertiary,Westside Drive,94.309,,,,,,,,,,,318186949,CR 119
+212770614,212770617,0,False,secondary,Buffalo Road,164.144,,,,40 mph,,,,,,,38678435,NY 33
+212770614,212639957,0,False,tertiary,Pixley Road,405.895,,,,,,,,,,,20130699,CR 160
+212770617,212770614,0,False,secondary,Buffalo Road,164.144,,,,40 mph,,,,,,,38678435,NY 33
+212770621,212682543,0,False,secondary,Buffalo Road,59.356,,,,,,,,,,,262269232,NY 33
+212770621,212911797,0,False,residential,Horatio Lane,126.884,,,,,,,,,,,20137527,
+212770637,212675791,0,False,secondary,Buffalo Road,81.59,,,,,,,,,,,48686023,NY 33
+212770637,212672033,0,False,secondary,Buffalo Road,98.089,,,,,,,,,,,48686023,NY 33
+212770637,212927649,0,False,residential,Dalaker Drive,234.824,,,,,,,,,,,20137485,
+212770648,212772164,0,False,residential,Westview Commons Boulevard,130.253,,,,,,,,,,,20124769,
+212770648,212770661,0,False,secondary,Buffalo Road,421.116,,,,,,,,,,,48686023,NY 33
+212770648,212675791,0,False,secondary,Buffalo Road,670.747,,,,,,,,,,,48686023,NY 33
+212770661,212779886,0,False,residential,Light Industrial Road,306.955,,,,,,,,,,,20124317,
+212770661,212770648,0,False,secondary,Buffalo Road,421.116,,,,,,,,,,,48686023,NY 33
+212770661,212772549,0,False,tertiary,Manitou Road,243.469,,,,,,,,,,,"[318185052, 139631902]",CR 208
+212771937,212775021,0,False,residential,Les Harrison Drive West,79.043,,,,,,,,,,,480146764,
+212771937,212779230,0,True,residential,Harek Road,155.18,,,,,,,,,,,20124248,
+212771937,212626368,0,False,residential,Les Harrison Drive East,178.595,,,,,,,,,,,480146769,
+212772164,212772171,0,False,residential,Commercial Road,265.396,,,,,,,,,,,20123565,
+212772164,212784766,0,False,residential,Westview Commons Boulevard,156.478,,,,,,,,,,,20124769,
+212772164,212770648,0,False,residential,Westview Commons Boulevard,130.253,,,,,,,,,,,20124769,
+212772171,212772164,0,False,residential,Commercial Road,265.396,,,,,,,,,,,20123565,
+212772506,212735201,0,False,secondary,Spencerport Road,508.595,,,,,,,,,,,20125878,NY 31
+212772506,212772511,0,False,tertiary,Manitou Road,175.029,,,,,,,,,,,313481601,CR 208
+212772511,212713920,0,False,tertiary,Manitou Road,386.001,,,,,,,,,,,313481601,CR 208
+212772511,212772506,0,False,tertiary,Manitou Road,175.029,,,,,,,,,,,313481601,CR 208
+212772511,212922986,0,False,residential,Maier Circle,169.094,,,,,,,,,,,20137122,
+212772518,212772523,0,False,tertiary,Manitou Road,118.09,,,,,,,,,,,313481601,CR 208
+212772523,212882613,0,False,residential,Pinto Run,155.062,,,,,,,,,,,20139310,
+212772523,212772518,0,False,tertiary,Manitou Road,118.09,,,,,,,,,,,313481601,CR 208
+212772530,212939574,0,False,residential,Fedex Way,409.418,2,,,,,,,,,,20138246,
+212772545,212695711,0,False,tertiary,Manitou Road,154.359,,,,,,,,,,,139631902,CR 208
+212772545,212950663,0,False,residential,Marconi Boulevard,455.005,,,,,,,,,,,20139011,
+212772545,212736647,0,False,tertiary,Manitou Road,557.483,,,,,,,,,,,139631902,CR 208
+212772549,212695711,0,False,tertiary,Manitou Road,189.175,,,,,,,,,,,139631902,CR 208
+212772549,212770661,0,False,tertiary,Manitou Road,243.469,,,,,,,,,,,"[318185052, 139631902]",CR 208
+212773890,212639241,0,False,residential,Ramsgate Drive,103.726,,,,,,,,,,,20123765,
+212773890,212630259,0,False,tertiary,Westside Drive,9.804,,,,,,,,,,,318186949,CR 119
+212773890,212835913,0,False,tertiary,Westside Drive,154.284,,,,,,,,,,,318186949,CR 119
+212775011,212775014,0,False,residential,Les Harrison Drive West,47.896,,,,,,,,,,,20123862,
+212775011,212930951,0,False,residential,Wallace Way,37.425,,,,,,,,,,,20137758,
+212775014,212775011,0,False,residential,Les Harrison Drive West,47.896,,,,,,,,,,,20123862,
+212775014,212930951,0,False,residential,Wallace Way,40.358,,,,,,,,,,,20137759,
+212775014,212775019,0,False,residential,Les Harrison Drive West,61.351,,,,,,,,,,,20123862,
+212775019,212775014,0,False,residential,Les Harrison Drive West,61.351,,,,,,,,,,,20123862,
+212775019,212775021,0,False,residential,Les Harrison Drive West,93.063,,,,,,,,,,,480146765,
+212775021,212771937,0,False,residential,Les Harrison Drive West,79.043,,,,,,,,,,,480146764,
+212775021,212779230,0,False,residential,Harek Road,101.226,,,,,,,,,,,443244614,
+212775021,212775019,0,False,residential,Les Harrison Drive West,93.063,,,,,,,,,,,480146765,
+212775836,212775840,0,False,residential,Tibbles Lane,252.327,,,,,,,,,,,20123932,
+212775836,212854383,0,False,residential,Hinkley Lane,49.011,,,,,,,,,,,20130912,
+212775836,212663585,0,False,residential,Hinkley Lane,109.343,,,,,,,,,,,20130912,
+212775840,212775836,0,False,residential,Tibbles Lane,252.327,,,,,,,,,,,20123932,
+212775840,212626952,0,False,residential,Courtright Lane,115.403,,,,,,,,,,,20124059,
+212775840,212663588,0,False,residential,Courtright Lane,107.966,,,,,,,,,,,20124059,
+212779025,212825546,0,False,residential,Sahara Drive,110.162,,,,,,,,,,,20128254,
+212779025,212660702,0,False,residential,Sands Road,326.953,,,,,,,,,,,20124232,
+212779025,212663588,0,False,residential,Sahara Drive,151.887,,,,,,,,,,,20128254,
+212779230,212775019,0,True,residential,Harek Road,158.373,,,,,,,,,,,124121407,
+212779230,212775021,0,False,residential,Harek Road,101.226,,,,,,,,,,,443244614,
+212779230,458616086,0,False,residential,Harek Road,70.991,,,,,,,,,,,480146766,
+212779886,212770661,0,False,residential,Light Industrial Road,306.955,,,,,,,,,,,20124317,
+212780338,212763534,0,False,residential,Crystal Court,151.338,,,,,,,,,,,20124366,
+212780900,1381229520,0,True,residential,Lazar Drive,29.805,,,,,,,,,,,20124423,
+212780900,1381229478,0,False,residential,Lazar Drive,18.628,,,,,,,,,,,20124425,
+212780935,212653819,0,True,residential,Synergy Drive,132.768,,,,,,,,,,,20113561,
+212780935,212780939,0,True,residential,Lazar Drive,10.355,,,,,,,,,,,20124423,
+212780939,1381229511,0,True,residential,Lazar Drive,26.573,,,,,,,,,,,20124423,
+212780974,5402707030,0,False,residential,Lazar Drive,170.841,,,,,,,,,,,20124427,
+212780974,212919869,0,True,residential,Initiative Drive,482.551,2,,,,,,,,,,20136917,
+212784766,212784766,0,False,residential,Westview Commons Boulevard,665.653,,,,,,,,,,,20124768,
+212784766,212784766,1,False,residential,Westview Commons Boulevard,665.653,,,,,,,,,,,20124768,
+212784766,212772164,0,False,residential,Westview Commons Boulevard,156.478,,,,,,,,,,,20124769,
+212784766,212702142,0,False,residential,Eastview Commons Boulevard,88.931,,,,,,,,,,,20129499,
+212785796,212639276,0,False,residential,Sudbury Drive,72.24,,,,,,,,,,,20124862,
+212785796,3594226552,0,False,residential,Sudbury Drive,54.131,,,,,,,,,,,20124862,
+212785796,3594226546,0,False,residential,Ashton Drive,61.274,,,,,,,,,,,20138958,
+212797801,212797806,0,False,secondary,Spencerport Road,202.306,,,,,,,,,,,20125878,NY 31
+212797801,212662617,0,False,secondary,Spencerport Road,266.937,,,,,,,,,,,20125878,NY 31
+212797801,212758798,0,False,residential,Virginia Manor Road,182.634,,,,,,,,,,,20140532,
+212797806,212797808,0,False,secondary,Spencerport Road,136.188,,,,,,,,,,,20125878,NY 31
+212797806,212797801,0,False,secondary,Spencerport Road,202.306,,,,,,,,,,,20125878,NY 31
+212797806,212838619,0,False,residential,Ostrom Avenue,101.866,,,,,,,,,,,20129450,
+212797808,212797806,0,False,secondary,Spencerport Road,136.188,,,,,,,,,,,20125878,NY 31
+212797808,212700864,0,False,residential,Cross Gates Road,467.131,,,,,,,,,,,20136792,
+212797808,212648485,0,False,secondary,Spencerport Road,122.696,,,,,,,,,,,20125878,NY 31
+212797818,212709707,0,False,secondary,Spencerport Road,186.9,,,,,,,,,,,20125878,NY 31
+212797818,212648485,0,False,secondary,Spencerport Road,127.365,,,,,,,,,,,20125878,NY 31
+212797818,212648482,0,False,residential,"['Francine Drive', 'Donna Road']",624.881,,,,,,,,,,,"[20136955, 20116693]",
+212799342,212799344,0,False,residential,Tangerine Way,125.985,,,,,,,,,,,20126001,
+212799342,212603258,0,False,residential,Elmford Road,139.903,,,,,,,,,,,20132648,
+212799342,212873072,0,False,residential,Elmford Road,438.634,,,,,,,,,,,20132648,
+212799344,212653201,0,False,residential,Tangerine Way,109.638,,,,,,,,,,,20126001,
+212799344,212799342,0,False,residential,Tangerine Way,125.985,,,,,,,,,,,20126001,
+212799344,212873072,0,False,residential,Citrus Drive,319.446,,,,,,,,,,,20135705,
+212799344,212653183,0,False,residential,Citrus Drive,133.16,,,,,,,,,,,20135705,
+212822010,212646992,0,False,residential,Pixley Industrial Parkway,293.985,,,,,,,,,,,20127932,
+212822010,212822021,0,False,residential,Pixley Industrial Parkway,186.628,,,,,,,,,,,20127933,
+212822010,212884869,0,False,residential,Pixley Industrial Extended,162.563,,,,,,,,,,,20133851,
+212822021,212822010,0,False,residential,Pixley Industrial Parkway,186.628,,,,,,,,,,,20127933,
+212822021,212822021,0,False,residential,Pixley Industrial Parkway,67.222,,,,,,,,,,,472222756,
+212822021,212822021,1,False,residential,Pixley Industrial Parkway,67.222,,,,,,,,,,,472222756,
+212825546,212779025,0,False,residential,Sahara Drive,110.162,,,,,,,,,,,20128254,
+212825546,212660720,0,False,residential,Sahara Drive,314.209,,,,,,,,,,,20128254,
+212825546,212660709,0,False,residential,Oasis Lane,267.766,,,,,,,,,,,20132473,
+212829368,212829418,0,False,residential,Manitoba Woods Lane,126.351,,,,,,,,,,,20130317,
+212829368,212829418,1,False,residential,Silkwood Circle,445.565,,,,,,,,,,,20128578,
+212829368,1282018083,0,False,residential,Manitoba Woods Lane,108.834,,,,,,,,,,,20130317,
+212829418,212848264,0,False,residential,Manitoba Woods Lane,108.434,,,,,,,,,,,20130317,
+212829418,212829368,0,False,residential,Manitoba Woods Lane,126.351,,,,,,,,,,,20130317,
+212829418,212829368,1,False,residential,Silkwood Circle,445.565,,,,,,,,,,,20128578,
+212835913,212674359,0,False,tertiary,Westside Drive,38.307,,,,,,,,,,,318186949,CR 119
+212835913,212773890,0,False,tertiary,Westside Drive,154.284,,,,,,,,,,,318186949,CR 119
+212837020,212626203,0,False,secondary,Coldwater Road,233.711,,,,,,,,,,,20137365,NY 386
+212837020,1328166300,0,False,residential,Cold Spring Circle,136.958,,,,,,,,,,,20129334,
+212837020,212909696,0,False,secondary,Coldwater Road,231.758,,,,,,,,,,,20137365,NY 386
+212838264,212854387,0,False,residential,Ainsworth Lane,252.652,,,,,,,,,,,20136270,
+212838264,212838273,0,False,residential,Riviera Drive,171.716,,,,,,,,,,,20129414,
+212838264,212911797,0,False,residential,Ainsworth Lane,143.013,,,,,,,,,,,20136270,
+212838273,212838275,0,False,residential,Riviera Drive,243.357,,,,,,,,,,,20129414,
+212838273,212838264,0,False,residential,Riviera Drive,171.716,,,,,,,,,,,20129414,
+212838273,212854393,0,False,residential,Monaco Drive,242.672,,,,,,,,,,,20140174,
+212838275,212733499,0,False,residential,Riviera Drive,142.426,,,,,,,,,,,20129414,
+212838275,212838273,0,False,residential,Riviera Drive,243.357,,,,,,,,,,,20129414,
+212838275,212854393,0,False,residential,Hinkley Lane,179.801,,,,,,,,,,,20130912,
+212838619,212797806,0,False,residential,Ostrom Avenue,101.866,,,,,,,,,,,20129450,
+212841700,212744777,0,False,residential,Westmar Drive,100.488,,,,,,,,,,,20133975,
+212841700,212841712,0,False,tertiary,Westside Drive,10.226,,,,,,,,,,,318186949,CR 119
+212841700,212885983,0,False,tertiary,Westside Drive,287.305,,,,,,,,,,,318186949,CR 119
+212841712,212858460,0,False,tertiary,Westside Drive,95.524,,,,,,,,,,,318186949,CR 119
+212841712,212841700,0,False,tertiary,Westside Drive,10.226,,,,,,,,,,,318186949,CR 119
+212848264,212848266,0,False,residential,Manitoba Woods Lane,53.852,,,,,,,,,,,20130317,
+212848264,212829418,0,False,residential,Manitoba Woods Lane,108.434,,,,,,,,,,,20130317,
+212848264,212713922,0,False,residential,Queensland Drive,800.657,,,,,,,,,,,20133628,
+212848266,212848264,0,False,residential,Manitoba Woods Lane,53.852,,,,,,,,,,,20130317,
+212852200,212653293,0,False,tertiary,Pixley Road,306.316,,,,,,,,,,,20130699,CR 160
+212852228,212653293,0,False,tertiary,Pixley Road,953.15,,,,,,,,,,,20130699,CR 160
+212852228,212920453,0,False,residential,Rowley Drive,566.728,,,,,,,,,,,20136954,
+212854383,212626948,0,False,residential,Hinkley Lane,65.923,,,,,,,,,,,20130912,
+212854383,212775836,0,False,residential,Hinkley Lane,49.011,,,,,,,,,,,20130912,
+212854383,212911797,0,False,residential,Horatio Lane,267.248,,,,,,,,,,,20137527,
+212854387,212626948,0,False,residential,Hinkley Lane,49.783,,,,,,,,,,,20130912,
+212854387,212838264,0,False,residential,Ainsworth Lane,252.652,,,,,,,,,,,20136270,
+212854387,212854393,0,False,residential,Hinkley Lane,115.591,,,,,,,,,,,20130912,
+212854393,212838275,0,False,residential,Hinkley Lane,179.801,,,,,,,,,,,20130912,
+212854393,212854387,0,False,residential,Hinkley Lane,115.591,,,,,,,,,,,20130912,
+212854393,212838273,0,False,residential,Monaco Drive,242.672,,,,,,,,,,,20140174,
+212858456,212630555,0,False,residential,Trabold Road South,76.373,,,,,,,,,,,20131289,
+212858460,212630555,0,False,residential,Trabold Road South,168.171,,,,,,,,,,,20131289,
+212858460,212649737,0,False,tertiary,Westside Drive,113.633,,,,,,,,,,,318186949,CR 119
+212858460,212841712,0,False,tertiary,Westside Drive,95.524,,,,,,,,,,,318186949,CR 119
+212860123,212860135,0,False,residential,Cherry Road,545.051,,,,,,,,,,,20131450,
+212860123,212663590,0,False,residential,Cherry Road,310.236,,,,,,,,,,,20131450,
+212860123,212966381,0,False,residential,Coldwater Crescent,270.03,,,,,,,,,,,20140274,
+212860135,212762372,0,False,secondary,Coldwater Road,33.107,,,,,,,,,,,20137365,NY 386
+212860135,212860123,0,False,residential,Cherry Road,545.051,,,,,,,,,,,20131450,
+212860135,212926154,0,False,secondary,Coldwater Road,225.262,,,,,,,,,,,20137365,NY 386
+212873072,212653203,0,False,residential,Elmford Road,109.756,,,,,,,,,,,20132648,
+212873072,212799344,0,False,residential,Citrus Drive,319.446,,,,,,,,,,,20135705,
+212873072,212799342,0,False,residential,Elmford Road,438.634,,,,,,,,,,,20132648,
+212873076,212873079,0,False,residential,Elmford Road,52.219,,,,,,,,,,,20132648,
+212873076,212653203,0,False,residential,Elmford Road,109.639,,,,,,,,,,,20132648,
+212873076,212985435,0,False,residential,Mango Lane,215.627,,,,,,,,,,,20141642,
+212873079,212873076,0,False,residential,Elmford Road,52.219,,,,,,,,,,,20132648,
+212873915,212744774,0,False,residential,Westmar Drive,118.39,,,,,,,,,,,20133975,
+212873915,212873937,0,False,residential,Eldora Drive,228.671,,,,,,,,,,,20132712,
+212873915,212885998,0,False,residential,Westmar Drive,53.571,,,,,,,,,,,20133975,
+212873937,212886035,0,False,residential,Westmar Drive,50.242,,,,,,,,,,,20133975,
+212873937,212873915,0,False,residential,Eldora Drive,228.671,,,,,,,,,,,20132712,
+212873937,212885998,0,False,residential,Westmar Drive,234.359,,,,,,,,,,,20133975,
+212882611,212882613,0,False,residential,Queensland Drive,125.096,,,,,,,,,,,20133628,
+212882613,212882611,0,False,residential,Queensland Drive,125.096,,,,,,,,,,,20133628,
+212882613,212772523,0,False,residential,Pinto Run,155.062,,,,,,,,,,,20139310,
+212882613,1282017628,0,False,residential,Queensland Drive,171.489,,,,,,,,,,,20133628,
+212882613,1282017628,1,False,residential,Pinto Run,521.988,,,,,,,,,,,20139310,
+212883216,212765574,0,False,secondary,Westside Drive,318.297,,,,,,,,,,,139470289,NY 386;CR 119
+212883216,212711167,0,False,secondary,Westside Drive,176.954,,,,,,,,,,,139470289,NY 386;CR 119
+212884869,212822010,0,False,residential,Pixley Industrial Extended,162.563,,,,,,,,,,,20133851,
+212885983,212744774,0,False,residential,Westmar Drive,100.898,,,,,,,,,,,20133975,
+212885983,212841700,0,False,tertiary,Westside Drive,287.305,,,,,,,,,,,318186949,CR 119
+212885983,212767487,0,False,tertiary,Westside Drive,9.496,,,,,,,,,,,318186949,CR 119
+212885998,212873937,0,False,residential,Westmar Drive,234.359,,,,,,,,,,,20133975,
+212885998,212873915,0,False,residential,Westmar Drive,53.571,,,,,,,,,,,20133975,
+212885998,212630585,0,False,residential,Emeralda Road,144.017,,,,,,,,,,,20134091,
+212886035,212873937,0,False,residential,Westmar Drive,50.242,,,,,,,,,,,20133975,
+212886035,212630559,0,False,residential,Rio Blanco Road,95.165,,,,,,,,,,,20135722,
+212886035,212744777,0,False,residential,Westmar Drive,96.491,,,,,,,,,,,20133975,
+212886943,212630585,0,False,residential,Emeralda Road,65.608,,,,,,,,,,,20134091,
+212887625,212887628,0,False,residential,Scheg Terrace,274.352,,,,,,,,,,,20134163,
+212887625,212656014,0,False,secondary,Coldwater Road,134.214,,,,,,,,,,,20137365,NY 386
+212887625,3372759268,0,False,secondary,Coldwater Road,115.049,,,,,,,,,,,20137365,NY 386
+212887628,212887625,0,False,residential,Scheg Terrace,274.352,,,,,,,,,,,20134163,
+212898772,212663581,0,False,residential,Crystal Commons Drive,33.673,,,,,,,,,,,20135189,
+212898772,212898777,0,False,residential,Crystal Commons Drive,143.198,,,,,,,,,,,20135189,
+212898772,212898777,1,False,residential,Crystal Commons Drive,143.916,,,,,,,,,,,20135191,
+212898777,212898786,0,False,residential,Crystal Commons Drive,75.621,,,,,,,,,,,20135191,
+212898777,212898772,0,False,residential,Crystal Commons Drive,143.198,,,,,,,,,,,20135189,
+212898777,212898772,1,False,residential,Crystal Commons Drive,143.916,,,,,,,,,,,20135191,
+212898786,212898777,0,False,residential,Crystal Commons Drive,75.621,,,,,,,,,,,20135191,
+212909696,212761679,0,False,residential,Marlands Road,101.992,,,,,,,,,,,20136112,
+212909696,3372759268,0,False,secondary,Coldwater Road,245.242,,,,,,,,,,,20137365,NY 386
+212909696,212837020,0,False,secondary,Coldwater Road,231.758,,,,,,,,,,,20137365,NY 386
+212909714,212761702,0,False,residential,Marlands Road,106.394,,,,,,,,,,,20136112,
+212909714,212952093,0,False,residential,Sherbrooke Lane,95.553,,,,,,,,,,,20139092,
+212909714,212909737,0,False,residential,Marlands Road,170.698,,,,,,,,,,,20136112,
+212909737,212909714,0,False,residential,Marlands Road,170.698,,,,,,,,,,,20136112,
+212911797,212854383,0,False,residential,Horatio Lane,267.248,,,,,,,,,,,20137527,
+212911797,212838264,0,False,residential,Ainsworth Lane,143.013,,,,,,,,,,,20136270,
+212911797,212770621,0,False,residential,Horatio Lane,126.884,,,,,,,,,,,20137527,
+212919869,212626297,0,True,residential,Initiative Drive,30.721,2,,,,,,,,,,20136917,
+212919869,212626300,0,True,residential,Initiative Drive,44.66,,,,,,,,,,,20136918,
+212920453,212852228,0,False,residential,Rowley Drive,566.728,,,,,,,,,,,20136954,
+212920453,212630259,0,False,tertiary,Westside Drive,304.248,,,,,,,,,,,318186949,CR 119
+212922986,212772511,0,False,residential,Maier Circle,169.094,,,,,,,,,,,20137122,
+212926154,212926167,0,False,secondary,Coldwater Road,523.892,,,,,,,,,,,20137365,NY 386
+212926154,212860135,0,False,secondary,Coldwater Road,225.262,,,,,,,,,,,20137365,NY 386
+212926154,212980919,0,False,residential,Industrial Park Circle,492.369,,,,,,,,,,,20141310,
+212926167,212926154,0,False,secondary,Coldwater Road,523.892,,,,,,,,,,,20137365,NY 386
+212926167,3372764290,0,False,secondary,Westside Drive,197.157,,,,,,,,,,,139470289,NY 386;CR 119
+212927649,212927649,0,False,residential,Dalaker Drive,534.555,,,,,,,,,,,20137481,
+212927649,212927649,1,False,residential,Dalaker Drive,534.555,,,,,,,,,,,20137481,
+212927649,212770637,0,False,residential,Dalaker Drive,234.824,,,,,,,,,,,20137485,
+212930951,212775011,0,False,residential,Wallace Way,37.425,,,,,,,,,,,20137758,
+212930951,212775014,0,False,residential,Wallace Way,40.358,,,,,,,,,,,20137759,
+212930951,212626342,0,False,residential,Wallace Way,791.114,,,,,,,,,,,20137758,
+212939574,212772530,0,False,residential,Fedex Way,409.418,2,,,,,,,,,,20138246,
+212950663,212772545,0,False,residential,Marconi Boulevard,455.005,,,,,,,,,,,20139011,
+212952093,212909714,0,False,residential,Sherbrooke Lane,95.553,,,,,,,,,,,20139092,
+212966381,212860123,0,False,residential,Coldwater Crescent,270.03,,,,,,,,,,,20140274,
+212980919,212926154,0,False,residential,Industrial Park Circle,492.369,,,,,,,,,,,20141310,
+212980932,212663602,0,False,residential,Moonlanding Road,326.46,,,,,,,,,,,20141325,
+212980932,212980932,0,False,residential,Moonlanding Road,92.34,,,,,,,,,,,20141323,
+212980932,212980932,1,False,residential,Moonlanding Road,92.34,,,,,,,,,,,20141323,
+212984968,212765574,0,False,residential,Westside Drive,60.28,,,,,,,,,,,20141612,
+212985435,212873076,0,False,residential,Mango Lane,215.627,,,,,,,,,,,20141642,
+458616086,212606374,0,True,motorway_link,,361.344,,,,,,,,,,,20110461,
+458616086,212779230,0,False,residential,Harek Road,70.991,,,,,,,,,,,480146766,
+583094538,212613627,0,True,motorway_link,,1029.724,,,,,,,,,,,"[20111545, 20133636]",
+583094538,583094543,0,True,motorway,,503.664,2,,,55 mph,,,,,,,124369904,I 490
+1282017628,3372756283,0,False,residential,Queensland Drive,109.294,,,,,,,,,,,20133628,
+1282017628,212882613,0,False,residential,Queensland Drive,171.489,,,,,,,,,,,20133628,
+1282017628,212882613,1,False,residential,Pinto Run,521.988,,,,,,,,,,,20139310,
+1282018083,212829368,0,False,residential,Manitoba Woods Lane,108.834,,,,,,,,,,,20130317,
+1282018083,212713922,0,False,residential,Queensland Drive,81.74,,,,,,,,,,,20133628,
+1282018083,3372756283,0,False,residential,Queensland Drive,110.574,,,,,,,,,,,20133628,
+1328166300,1328166300,0,False,residential,Cold Spring Circle,93.714,,,,,,,,,,,20129334,
+1328166300,1328166300,1,False,residential,Cold Spring Circle,93.714,,,,,,,,,,,20129334,
+1328166300,212837020,0,False,residential,Cold Spring Circle,136.958,,,,,,,,,,,20129334,
+1381229478,212749778,0,False,residential,Lazar Drive,274.001,,,,,,,,,,,20124425,
+1381229478,212780900,0,False,residential,Lazar Drive,18.628,,,,,,,,,,,20124425,
+1381229478,1381229511,0,False,residential,Lazar Drive,18.263,,,,,,,,,,,123991392,
+1381229511,212780900,0,True,residential,Lazar Drive,15.553,,,,,,,,,,,20124423,
+1381229511,1381229478,0,False,residential,Lazar Drive,18.263,,,,,,,,,,,123991392,
+1381229520,212780935,0,True,residential,Lazar Drive,37.123,,,,,,,,,,,20124423,
+1381229520,5402707030,0,False,residential,Lazar Drive,295.28,,,,,,,,,,,20124427,
+1382333135,212709725,0,False,residential,Les Harrison Drive East,19.696,,,,,,,,,,,124124711,
+1382333135,1382333137,0,True,residential,Les Harrison Drive East,143.003,,,,,,,,,,,124124713,
+1382333137,212749778,0,False,residential,Les Harrison Drive East,6.683,,,,,,,,,,,20123532,
+1382333137,1382333135,0,True,residential,Les Harrison Drive East,144.204,,,,,,,,,,,124124706,
+1737922223,212709720,0,False,residential,Elmgrove Park,631.284,,,,,,,,,,,20139727,
+1737922223,1737922223,0,False,residential,Elmgrove Park,133.906,,,,,,,,,,,161836177,
+1737922223,1737922223,1,False,residential,Elmgrove Park,133.906,,,,,,,,,,,161836177,
+2157105434,212765574,0,False,secondary,Westside Drive,90.66,,,,,,,,,,,139470280,NY 386;CR 119
+2679338002,212605414,0,True,motorway_link,,104.739,,,,,,,,,,,20110902,
+2679338002,2679338011,0,True,secondary,Buffalo Road,89.426,,,,,,,,,,,480613053,NY 33
+2679338011,212605414,0,True,motorway_link,,41.537,,,,,,,,,,,480613051,
+2679338028,212607758,0,True,motorway_link,,555.72,,,,,,,,,,,20110556,
+2679338028,2679338035,0,True,secondary,Buffalo Road,164.837,,,,,,,,,,,51140675,NY 33
+2679338035,2679338002,0,True,secondary,Buffalo Road,197.47,,,,,,,,,,,51140675,NY 33
+3372756283,1282018083,0,False,residential,Queensland Drive,110.574,,,,,,,,,,,20133628,
+3372756283,1282017628,0,False,residential,Queensland Drive,109.294,,,,,,,,,,,20133628,
+3372756283,3372756284,0,False,residential,Brongo Lane,443.137,,,,,,,,,,,330315015,
+3372756284,3372756283,0,False,residential,Brongo Lane,443.137,,,,,,,,,,,330315015,
+3372759268,212887625,0,False,secondary,Coldwater Road,115.049,,,,,,,,,,,20137365,NY 386
+3372759268,212909696,0,False,secondary,Coldwater Road,245.242,,,,,,,,,,,20137365,NY 386
+3372759268,3372759280,0,False,residential,Golden Oaks Way,303.696,,,,,,,,,,,330315475,
+3372759280,3372759268,0,False,residential,Golden Oaks Way,303.696,,,,,,,,,,,330315475,
+3372764290,212711167,0,False,secondary,Westside Drive,14.162,,,,,,,,,,,139470289,NY 386;CR 119
+3372764290,212926167,0,False,secondary,Westside Drive,197.157,,,,,,,,,,,139470289,NY 386;CR 119
+3594226546,212785796,0,False,residential,Ashton Drive,61.274,,,,,,,,,,,20138958,
+3594226546,212660559,0,False,residential,Ashton Drive,246.583,,,,,,,,,,,20138958,
+3594226546,3594226552,0,False,residential,,36.704,,,,,,,,,,,353607636,
+3594226552,212785796,0,False,residential,Sudbury Drive,54.131,,,,,,,,,,,20124862,
+3594226552,212674365,0,False,residential,Sudbury Drive,287.961,,,,,,,,,,,20124862,
+3594226552,3594226546,0,False,residential,,36.704,,,,,,,,,,,353607636,
+3594226554,212674368,0,False,residential,Amberly Circle,59.957,,,,,,,,,,,20138091,
+3594226554,3594226554,0,False,residential,Amberly Circle,57.575,,,,,,,,,,,353607637,
+3594226554,3594226554,1,False,residential,Amberly Circle,57.575,,,,,,,,,,,353607637,
+5402707030,1381229520,0,False,residential,Lazar Drive,295.28,,,,,,,,,,,20124427,
+5402707030,212780974,0,False,residential,Lazar Drive,170.841,,,,,,,,,,,20124427,
+5402707030,5402766065,0,False,residential,,558.113,,,,,,,,,,,560230568,
+5402707071,212626297,0,False,residential,Innovation Way,9.407,,,,,,,,,,,20111852,
+5402707071,212626203,0,False,residential,Innovation Way,805.534,,,,,,,,,,,20111852,
+5402707071,5402707078,0,True,residential,Initiative Drive,674.277,2,,,,,,,,,,560224736,
+5402707078,212709727,0,False,secondary,Elmgrove Road,10.369,,,,,,,,,,,512352324,NY 386
+5402707078,212709733,0,False,secondary,Elmgrove Road,420.868,,,,,,,,,,,512352324,NY 386
+5402766065,5402707030,0,False,residential,,558.113,,,,,,,,,,,560230568,

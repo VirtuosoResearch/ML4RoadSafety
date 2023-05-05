@@ -1,0 +1,402 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+213418983,1942190801,0,True,trunk,Sunrise Highway,101.792,3,,,,,,,,,,224820019,NY 27
+213419001,213766035,0,False,residential,Albany Avenue,31.721,,,,,,,,,,,20213581,
+213424047,213883957,0,False,residential,Catskill Avenue,41.361,,,,,,,,,,,20222026,
+213424047,213490067,0,False,secondary,Wellwood Avenue,58.991,,,,,,,,,,,139603753,CR 3
+213424047,213767223,0,False,secondary,Wellwood Avenue,101.29,,,,,,,,,,,139603753,CR 3
+213435852,213532677,0,False,secondary,North Wellwood Avenue,43.573,,,,,,,,,,,20221208,CR 3
+213435852,213461989,0,False,secondary,North Wellwood Avenue,36.396,,,,,,,,,,,20221208,CR 3
+213435860,213461989,0,False,secondary,North Wellwood Avenue,36.441,,,,,,,,,,,20221208,CR 3
+213435860,213873113,0,False,secondary,North Wellwood Avenue,36.995,,,,,,,,,,,20221208,CR 3
+213461989,213435852,0,False,secondary,North Wellwood Avenue,36.396,,,,,,,,,,,20221208,CR 3
+213461989,213435860,0,False,secondary,North Wellwood Avenue,36.441,,,,,,,,,,,20221208,CR 3
+213461989,213462000,0,False,residential,Marie Street,547.956,,,,,,,,,,,20186937,
+213462000,214198677,0,False,residential,Copiague Road,76.602,,,,,,,,,,,20256935,
+213462000,214266985,0,False,residential,Copiague Road,85.253,,,,,,,,,,,20256935,
+213462000,213461989,0,False,residential,Marie Street,547.956,,,,,,,,,,,20186937,
+213469737,213497355,0,False,residential,Buffalo Avenue,75.511,,,,,,,,,,,49481347,
+213469737,627852342,0,False,residential,Buffalo Avenue,33.576,,,,,,,,,,,49481347,
+213469737,213469739,0,False,residential,44th Street,243.512,,,,,,,,,,,183801030,
+213469739,213883922,0,False,residential,Catskill Avenue,75.632,,,,,,,,,,,49481348,
+213469739,444078007,0,False,residential,Catskill Avenue,76.491,,,,,,,,,,,49481348,
+213469739,213469742,0,False,residential,44th Street,151.104,,,,,,,,,,,183801030,
+213469739,213469737,0,False,residential,44th Street,243.512,,,,,,,,,,,183801030,
+213469742,213767205,0,False,secondary,Straight Path,77.546,,,,,,,,,,,139603612,CR 2
+213469742,444078021,0,False,secondary,Straight Path,77.245,,,,,,,,,,,139603612,CR 2
+213469742,213469745,0,False,residential,44th Street,92.354,,,,,,,,,,,183801030,
+213469742,213469739,0,False,residential,44th Street,151.104,,,,,,,,,,,183801030,
+213469745,214167921,0,False,residential,Jackson Avenue,76.653,,,,,,,,,,,20248685,
+213469745,444078032,0,False,residential,Jackson Avenue,76.678,,,,,,,,,,,20248685,
+213469745,213469747,0,False,residential,44th Street,119.464,,,,,,,,,,,183801030,
+213469745,213469742,0,False,residential,44th Street,92.354,,,,,,,,,,,183801030,
+213469747,213469745,0,False,residential,44th Street,119.464,,,,,,,,,,,183801030,
+213469781,213873078,0,False,secondary,North Wellwood Avenue,40.599,,,,,,,,,,,49430425,CR 3
+213469781,213469785,0,False,residential,44th Street,223.432,,,,,,,,,,,20187515,
+213469785,213469788,0,False,residential,44th Street,167.281,,,,,,,,,,,20187515,
+213469785,213766035,0,False,residential,Albany Avenue,78.15,,,,,,,,,,,20213581,
+213469785,444078042,0,False,residential,Albany Avenue,75.279,,,,,,,,,,,20213581,
+213469785,213469781,0,False,residential,44th Street,223.432,,,,,,,,,,,20187515,
+213469788,213469785,0,False,residential,44th Street,167.281,,,,,,,,,,,20187515,
+213469788,627852433,0,True,trunk,Sunrise Highway,109.729,3,,,,,,,,,,224820019,NY 27
+213490067,213883957,0,False,residential,53rd Street,23.202,,,,,,,,,,,20248562,
+213490067,213578779,0,False,secondary,Wellwood Avenue,91.647,,,,,,,,,,,139603753,CR 3
+213490067,213424047,0,False,secondary,Wellwood Avenue,58.991,,,,,,,,,,,139603753,CR 3
+213495391,213873113,0,False,secondary,North Wellwood Avenue,42.923,,,,,,,,,,,20221208,CR 3
+213495391,213873106,0,False,secondary,North Wellwood Avenue,89.237,,,,,,,,,,,20221208,CR 3
+213495450,213765899,0,False,tertiary,Albany Avenue,99.275,,,,,,,,,,,49436008,
+213495450,213495456,0,False,residential,Seabro Avenue,488.21,,,,,,,,,,,20189277,
+213495450,213709286,0,False,tertiary,Albany Avenue,243.043,,,,,,,,,,,49436008,
+213495456,213495450,0,False,residential,Seabro Avenue,488.21,,,,,,,,,,,20189277,
+213497355,627852340,0,False,residential,45th Street,122.626,,,,,,,,,,,20242190,
+213497355,213497357,0,False,residential,Buffalo Avenue,76.777,,,,,,,,,,,49481347,
+213497355,213469737,0,False,residential,Buffalo Avenue,75.511,,,,,,,,,,,49481347,
+213497355,213883922,0,False,residential,45th Street,244.051,,,,,,,,,,,20242190,
+213497357,213497359,0,False,residential,Buffalo Avenue,76.21,,,,,,,,,,,49481347,
+213497357,213497359,1,False,residential,"['46th Street', '47th Street']",383.699,,,,,,,,,,,"[183801001, 20233092, 183801031]",
+213497357,213497355,0,False,residential,Buffalo Avenue,76.777,,,,,,,,,,,49481347,
+213497357,213859511,0,False,residential,46th Street,244.379,,,,,,,,,,,183801031,
+213497359,213883927,0,False,residential,47th Street,243.61,,,,,,,,,,,20233092,
+213497359,213497361,0,False,residential,Buffalo Avenue,76.804,,,,,,,,,,,49481347,
+213497359,213497357,0,False,residential,Buffalo Avenue,76.21,,,,,,,,,,,49481347,
+213497359,213497357,1,False,residential,"['46th Street', '47th Street']",383.699,,,,,,,,,,,"[183801001, 20233092, 183801031]",
+213497361,213497363,0,False,residential,Buffalo Avenue,75.899,,,,,,,,,,,49481347,
+213497361,213497359,0,False,residential,Buffalo Avenue,76.804,,,,,,,,,,,49481347,
+213497361,213746325,0,False,residential,48th Street,242.941,,,,,,,,,,,20212190,
+213497361,1942190810,0,False,residential,48th Street,150.174,,,,,,,,,,,20212190,
+213497363,213499054,0,False,residential,49th Street,243.018,,,,,,,,,,,20189539,
+213497363,213499052,0,False,residential,49th Street,141.816,,,,,,,,,,,20189539,
+213497363,213497365,0,False,residential,Buffalo Avenue,76.073,,,,,,,,,,,49481347,
+213497363,213497361,0,False,residential,Buffalo Avenue,75.899,,,,,,,,,,,49481347,
+213497365,213883932,0,False,residential,50th Street,243.077,,,,,,,,,,,20249406,
+213497365,214224883,0,False,residential,50th Street,73.336,,,,,,,,,,,20249406,
+213497365,213497363,0,False,residential,Buffalo Avenue,76.073,,,,,,,,,,,49481347,
+213497365,213497369,0,False,residential,Buffalo Avenue,83.182,,,,,,,,,,,49481347,
+213497369,214224883,0,True,secondary,N Wellwood Ave,109.259,,,,,,,,,,,49430492,CR 3
+213497369,213578779,0,False,secondary,Wellwood Avenue,94.088,,,,,,,,,,,139603753,CR 3
+213497369,213883935,0,False,residential,51st Street,247.264,,,,,,,,,,,20238705,
+213497369,213497365,0,False,residential,Buffalo Avenue,83.182,,,,,,,,,,,49481347,
+213499052,213497363,0,False,residential,49th Street,141.816,,,,,,,,,,,20189539,
+213499052,628646769,0,True,secondary,N Wellwood Ave,28.115,,,,,,,,,,,49430492,CR 3
+213499054,213499056,0,False,residential,49th Street,81.466,,,,,,,,,,,20189539,
+213499054,213497363,0,False,residential,49th Street,243.018,,,,,,,,,,,20189539,
+213499054,213883932,0,False,residential,Catskill Avenue,75.947,,,,,,,,,,,49481348,
+213499054,213746325,0,False,residential,Catskill Avenue,75.883,,,,,,,,,,,49481348,
+213499056,213499057,0,False,residential,49th Street,162.425,,,,,,,,,,,20189539,
+213499056,213499054,0,False,residential,49th Street,81.466,,,,,,,,,,,20189539,
+213499056,213767215,0,False,secondary,Straight Path,78.109,,,,,,,,,,,139603612,CR 2
+213499056,213746331,0,False,secondary,Straight Path,77.805,,,,,,,,,,,139603612,CR 2
+213499057,213499059,0,False,residential,49th Street,257.796,,,,,,,,,,,20189539,
+213499057,213499056,0,False,residential,49th Street,162.425,,,,,,,,,,,20189539,
+213499057,214266914,0,False,residential,Jackson Avenue,75.125,,,,,,,,,,,20248685,
+213499057,213746335,0,False,residential,Jackson Avenue,76.194,,,,,,,,,,,20248685,
+213499059,213499057,0,False,residential,49th Street,257.796,,,,,,,,,,,20189539,
+213499059,213746338,0,False,residential,Copiague Road,82.326,,,,,,,,,,,183800947,
+213499059,214279191,0,False,residential,Copiague Road,82.793,,,,,,,,,,,20256935,
+213513398,213619057,0,False,secondary,North Wellwood Avenue,67.278,,,,,,,,,,,20221208,CR 3
+213513398,213873161,0,False,secondary,North Wellwood Avenue,90.687,,,,,,,,,,,20221208,CR 3
+213513398,214267783,0,False,residential,Gear Avenue,259.851,,,,,,,,,,,20248737,
+213518621,213859526,0,False,secondary,New Highway,145.374,,,,,,,,,,,20235109,CR 28
+213518621,213746350,0,False,secondary,New Highway,62.591,,,,,,,,,,,20235109,CR 28
+213519485,213585784,0,False,secondary,New Highway,79.493,,,,,,,,,,,20235109,CR 28
+213519485,213709286,0,False,secondary,New Highway,80.883,,,,,,,,,,,20235109,CR 28
+213532677,213435852,0,False,secondary,North Wellwood Avenue,43.573,,,,,,,,,,,20221208,CR 3
+213532677,214198677,0,False,residential,Irene Street,521.499,,,,,,,,,,,20244493,
+213532677,213873121,0,False,secondary,North Wellwood Avenue,88.409,,,,,,,,,,,20221208,CR 3
+213578779,213497369,0,False,secondary,Wellwood Avenue,94.088,,,,,,,,,,,139603753,CR 3
+213578779,213490067,0,False,secondary,Wellwood Avenue,91.647,,,,,,,,,,,139603753,CR 3
+213578779,213578785,0,False,residential,52nd Street,185.434,,,,,,,,,,,20195496,
+213578785,213578787,0,False,residential,52nd Street,25.345,,,,,,,,,,,20195496,
+213578785,213883935,0,False,residential,Catskill Avenue,75.915,,,,,,,,,,,49481348,
+213578785,213578779,0,False,residential,52nd Street,185.434,,,,,,,,,,,20195496,
+213578787,213578790,0,False,residential,52nd Street,218.039,,,,,,,,,,,20195496,
+213578787,213578785,0,False,residential,52nd Street,25.345,,,,,,,,,,,20195496,
+213578787,213767220,0,False,secondary,Straight Path,79.091,,,,,,,,,,,139603612,CR 2
+213578787,213767218,0,False,secondary,Straight Path,78.477,,,,,,,,,,,139603612,CR 2
+213578790,213578792,0,False,residential,52nd Street,244.583,,,,,,,,,,,20195496,
+213578790,213578787,0,False,residential,52nd Street,218.039,,,,,,,,,,,20195496,
+213578790,214122871,0,False,residential,Jackson Avenue,75.888,,,,,,,,,,,20248685,
+213578790,214265018,0,False,residential,Jackson Avenue,73.74,,,,,,,,,,,20248685,
+213578792,213578790,0,False,residential,52nd Street,244.583,,,,,,,,,,,20195496,
+213578792,213766233,0,False,residential,Frankfort Street,44.411,,,,,,,,,,,20213601,
+213578792,213766237,0,False,residential,Frankfort Street,75.696,,,,,,,,,,,20213601,
+213585784,213519485,0,False,secondary,New Highway,79.493,,,,,,,,,,,20235109,CR 28
+213585784,213870987,0,False,secondary,New Highway,79.489,,,,,,,,,,,20235109,CR 28
+213591540,213710030,0,False,tertiary,Albany Avenue,31.241,,,,,,,,,,,49436008,
+213591540,213591545,0,False,residential,Sidney Court,164.319,,,,,,,,,,,20196851,
+213591540,4208890083,0,False,tertiary,Albany Avenue,115.043,,,,,,,,,,,49436008,
+213591545,213591540,0,False,residential,Sidney Court,164.319,,,,,,,,,,,20196851,
+213619057,213513398,0,False,secondary,North Wellwood Avenue,67.278,,,,,,,,,,,20221208,CR 3
+213619057,4208890060,0,False,secondary,North Wellwood Avenue,95.944,,,,,,,,,,,20221208,CR 3
+213627616,444077845,0,False,residential,"['New Highway', 'Mortell Court']",195.595,,,,,,,,,,,"[20200619, 183800975]",
+213663067,213663070,0,False,residential,Bolton Street,468.826,,,,,,,,,,,20204270,
+213663067,213873144,0,False,secondary,North Wellwood Avenue,45.18,,,,,,,,,,,20221208,CR 3
+213663067,213701434,0,False,secondary,North Wellwood Avenue,18.481,,,,,,,,,,,20221208,CR 3
+213663070,213663067,0,False,residential,Bolton Street,468.826,,,,,,,,,,,20204270,
+213663070,213983913,0,False,residential,Copiague Road,80.528,,,,,,,,,,,20256935,
+213663070,213822681,0,False,residential,"['Berry Street', 'Copiague Road']",542.422,,,,,,,,,,,"[20217469, 20256935]",
+213669220,213822765,0,False,secondary,North Wellwood Avenue,10.662,,,,,,,,,,,20221208,CR 3
+213669220,213873121,0,False,secondary,North Wellwood Avenue,10.028,,,,,,,,,,,20221208,CR 3
+213669220,213669228,0,False,residential,Gladys Street,493.748,,,,,,,,,,,20204957,
+213669228,213802695,0,False,residential,Copiague Road,76.037,,,,,,,,,,,20256935,
+213669228,214198677,0,False,residential,Copiague Road,77.13,,,,,,,,,,,20256935,
+213669228,213669220,0,False,residential,Gladys Street,493.748,,,,,,,,,,,20204957,
+213701434,213663067,0,False,secondary,North Wellwood Avenue,18.481,,,,,,,,,,,20221208,CR 3
+213701434,213873139,0,False,secondary,North Wellwood Avenue,46.005,,,,,,,,,,,20221208,CR 3
+213709286,214073675,0,False,secondary,New Highway,78.363,,,,,,,,,,,20235109,CR 28
+213709286,213519485,0,False,secondary,New Highway,80.883,,,,,,,,,,,20235109,CR 28
+213709286,213495450,0,False,tertiary,Albany Avenue,243.043,,,,,,,,,,,49436008,
+213710030,2160528668,0,False,residential,Hicks Street,109.358,,,,,,,,,,,20209603,
+213710030,213591540,0,False,tertiary,Albany Avenue,31.241,,,,,,,,,,,49436008,
+213710030,213765902,0,False,tertiary,Albany Avenue,75.974,,,,,,,,,,,49436008,
+213717482,213745659,0,False,secondary,North Wellwood Avenue,39.506,,,,,,,,,,,20221208,CR 3
+213717482,213873157,0,False,secondary,North Wellwood Avenue,97.784,,,,,,,,,,,20221208,CR 3
+213745659,213717482,0,False,secondary,North Wellwood Avenue,39.506,,,,,,,,,,,20221208,CR 3
+213745659,213822681,0,False,secondary,North Wellwood Avenue,39.932,,,,,,,,,,,20221208,CR 3
+213746325,213499054,0,False,residential,Catskill Avenue,75.883,,,,,,,,,,,49481348,
+213746325,213883927,0,False,residential,Catskill Avenue,76.03,,,,,,,,,,,49481348,
+213746325,213746331,0,False,residential,48th Street,95.417,,,,,,,,,,,20212190,
+213746325,213497361,0,False,residential,48th Street,242.941,,,,,,,,,,,20212190,
+213746331,213746335,0,False,residential,48th Street,148.329,,,,,,,,,,,20212190,
+213746331,213499056,0,False,secondary,Straight Path,77.805,,,,,,,,,,,139603612,CR 2
+213746331,213767212,0,False,secondary,Straight Path,77.503,,,,,,,,,,,139603612,CR 2
+213746331,213746325,0,False,residential,48th Street,95.417,,,,,,,,,,,20212190,
+213746335,213746338,0,False,residential,48th Street,226.244,,,,,,,,,,,20212190,
+213746335,213746331,0,False,residential,48th Street,148.329,,,,,,,,,,,20212190,
+213746335,213499057,0,False,residential,Jackson Avenue,76.194,,,,,,,,,,,20248685,
+213746335,214046422,0,False,residential,Jackson Avenue,76.149,,,,,,,,,,,20248685,
+213746338,213746335,0,False,residential,48th Street,226.244,,,,,,,,,,,20212190,
+213746338,213499059,0,False,residential,Copiague Road,82.326,,,,,,,,,,,183800947,
+213746338,213746350,0,False,residential,48th Street,240.269,,,,,,,,,,,20212190,
+213746350,213746338,0,False,residential,48th Street,240.269,,,,,,,,,,,20212190,
+213746350,213518621,0,False,secondary,New Highway,62.591,,,,,,,,,,,20235109,CR 28
+213765899,214073679,0,False,residential,Watkins Terrace,192.965,,,,,,,,,,,20242487,
+213765899,214171756,0,False,residential,Watkins Terrace,149.201,,,,,,,,,,,20242487,
+213765899,213765902,0,False,tertiary,Albany Avenue,77.613,,,,,,,,,,,49436008,
+213765899,213495450,0,False,tertiary,Albany Avenue,99.275,,,,,,,,,,,49436008,
+213765902,213940000,0,False,residential,Holt Street,232.529,,,,,,,,,,,20225843,
+213765902,213765899,0,False,tertiary,Albany Avenue,77.613,,,,,,,,,,,49436008,
+213765902,213710030,0,False,tertiary,Albany Avenue,75.974,,,,,,,,,,,49436008,
+213766035,213419001,0,False,residential,Albany Avenue,31.721,,,,,,,,,,,20213581,
+213766035,213469785,0,False,residential,Albany Avenue,78.15,,,,,,,,,,,20213581,
+213766035,627852433,0,False,residential,45th Street,89.052,,,,,,,,,,,49481343,
+213766233,213578792,0,False,residential,Frankfort Street,44.411,,,,,,,,,,,20213601,
+213766233,213778401,0,False,residential,Heathcote Road,243.758,,,,,,,,,,,20214358,
+213766233,213778397,0,False,residential,Heathcote Road,110.885,,,,,,,,,,,20214358,
+213766237,213766240,0,False,residential,Frankfort Street,76.428,,,,,,,,,,,20213601,
+213766237,214122874,0,False,residential,51st Street,80.981,,,,,,,,,,,20238705,
+213766237,214122871,0,False,residential,51st Street,242.931,,,,,,,,,,,20238705,
+213766237,213578792,0,False,residential,Frankfort Street,75.696,,,,,,,,,,,20213601,
+213766240,213766237,0,False,residential,Frankfort Street,76.428,,,,,,,,,,,20213601,
+213766240,214279191,0,False,residential,50th Street,48.472,,,,,,,,,,,20249406,
+213766240,214266914,0,False,residential,50th Street,243.452,,,,,,,,,,,20249406,
+213767205,213883922,0,False,residential,45th Street,136.529,,,,,,,,,,,20242190,
+213767205,214167921,0,False,residential,45th Street,108.155,,,,,,,,,,,20242190,
+213767205,213767209,0,False,secondary,Straight Path,76.812,,,,,,,,,,,139603612,CR 2
+213767205,213469742,0,False,secondary,Straight Path,77.546,,,,,,,,,,,139603612,CR 2
+213767209,213767212,0,False,secondary,Straight Path,77.766,,,,,,,,,,,139603612,CR 2
+213767209,213767205,0,False,secondary,Straight Path,76.812,,,,,,,,,,,139603612,CR 2
+213767209,213859515,0,False,residential,46th Street,120.194,,,,,,,,,,,183801031,
+213767209,213859511,0,False,residential,46th Street,122.73,,,,,,,,,,,183801031,
+213767212,214046422,0,False,residential,47th Street,135.413,,,,,,,,,,,20233092,
+213767212,213883927,0,False,residential,47th Street,107.799,,,,,,,,,,,20233092,
+213767212,213746331,0,False,secondary,Straight Path,77.503,,,,,,,,,,,139603612,CR 2
+213767212,213767209,0,False,secondary,Straight Path,77.766,,,,,,,,,,,139603612,CR 2
+213767215,213883932,0,False,residential,50th Street,63.971,,,,,,,,,,,20249406,
+213767215,213767218,0,False,secondary,Straight Path,77.434,,,,,,,,,,,139603612,CR 2
+213767215,213499056,0,False,secondary,Straight Path,78.109,,,,,,,,,,,139603612,CR 2
+213767215,214266914,0,False,residential,50th Street,179.508,,,,,,,,,,,20249406,
+213767218,213883935,0,False,residential,51st Street,45.636,,,,,,,,,,,20238705,
+213767218,213578787,0,False,secondary,Straight Path,78.477,,,,,,,,,,,139603612,CR 2
+213767218,213767215,0,False,secondary,Straight Path,77.434,,,,,,,,,,,139603612,CR 2
+213767218,214122871,0,False,residential,51st Street,198.19,,,,,,,,,,,20238705,
+213767220,213578787,0,False,secondary,Straight Path,79.091,,,,,,,,,,,139603612,CR 2
+213767220,214265018,0,False,residential,53rd Street,231.114,,,,,,,,,,,20248562,
+213767220,213883957,0,False,residential,53rd Street,109.596,,,,,,,,,,,20248562,
+213767220,213767223,0,False,secondary,Straight Path,115.681,,,,,,,,,,,139603612,CR 2
+213767223,213873106,0,False,secondary,Wellwood Avenue,110.74,,,,,,,,,,,20246136,CR 3
+213767223,213424047,0,False,secondary,Wellwood Avenue,101.29,,,,,,,,,,,139603753,CR 3
+213767223,213778401,0,False,residential,Heathcote Road,293.878,,,,,,,,,,,20214358,
+213767223,213767220,0,False,secondary,Straight Path,115.681,,,,,,,,,,,139603612,CR 2
+213778397,213766233,0,False,residential,Heathcote Road,110.885,,,,,,,,,,,20214358,
+213778397,214378253,0,False,residential,Copiague Road,102.629,,,,,,,,,,,20256935,
+213778397,214122874,0,False,residential,Copiague Road,97.58,,,,,,,,,,,20256935,
+213778401,213766233,0,False,residential,Heathcote Road,243.758,,,,,,,,,,,20214358,
+213778401,214266973,0,False,residential,Jackson Avenue,109.137,,,,,,,,,,,20248690,
+213778401,214265018,0,False,residential,Jackson Avenue,44.433,,,,,,,,,,,20248690,
+213778401,213767223,0,False,residential,Heathcote Road,293.878,,,,,,,,,,,20214358,
+213802690,213844570,0,False,secondary,North Wellwood Avenue,17.348,,,,,,,,,,,20221208,CR 3
+213802690,213802695,0,False,residential,June Street,469.976,,,,,,,,,,,20215902,
+213802690,213822765,0,False,secondary,North Wellwood Avenue,58.456,,,,,,,,,,,20221208,CR 3
+213802695,214227039,0,False,residential,Copiague Road,76.694,,,,,,,,,,,20256935,
+213802695,213669228,0,False,residential,Copiague Road,76.037,,,,,,,,,,,20256935,
+213802695,213802690,0,False,residential,June Street,469.976,,,,,,,,,,,20215902,
+213806859,2160528666,0,False,residential,Oak Street,112.223,,,,,,,,,,,20216188,
+213806859,214025937,0,False,secondary,New Highway,68.313,,,,,,,,,,,20235109,CR 28
+213806859,214073683,0,False,secondary,New Highway,11.196,,,,,,,,,,,20235109,CR 28
+213822681,213745659,0,False,secondary,North Wellwood Avenue,39.932,,,,,,,,,,,20221208,CR 3
+213822681,213873144,0,False,secondary,North Wellwood Avenue,36.233,,,,,,,,,,,20221208,CR 3
+213822681,213663070,0,False,residential,"['Berry Street', 'Copiague Road']",542.422,,,,,,,,,,,"[20217469, 20256935]",
+213822765,213669220,0,False,secondary,North Wellwood Avenue,10.662,,,,,,,,,,,20221208,CR 3
+213822765,213802690,0,False,secondary,North Wellwood Avenue,58.456,,,,,,,,,,,20221208,CR 3
+213844570,213873127,0,False,secondary,North Wellwood Avenue,59.049,,,,,,,,,,,20221208,CR 3
+213844570,213802690,0,False,secondary,North Wellwood Avenue,17.348,,,,,,,,,,,20221208,CR 3
+213859511,213883927,0,False,residential,Catskill Avenue,76.242,,,,,,,,,,,49481348,
+213859511,213883922,0,False,residential,Catskill Avenue,76.711,,,,,,,,,,,49481348,
+213859511,213767209,0,False,residential,46th Street,122.73,,,,,,,,,,,183801031,
+213859511,213497357,0,False,residential,46th Street,244.379,,,,,,,,,,,183801031,
+213859515,214046422,0,False,residential,Jackson Avenue,76.413,,,,,,,,,,,20248685,
+213859515,214167921,0,False,residential,Jackson Avenue,76.51,,,,,,,,,,,20248685,
+213859515,213767209,0,False,residential,46th Street,120.194,,,,,,,,,,,183801031,
+213859515,213859526,0,False,residential,46th Street,327.814,,,,,,,,,,,183801031,
+213859526,213518621,0,False,secondary,New Highway,145.374,,,,,,,,,,,20235109,CR 28
+213859526,213859515,0,False,residential,46th Street,327.814,,,,,,,,,,,183801031,
+213870987,213585784,0,False,secondary,New Highway,79.489,,,,,,,,,,,20235109,CR 28
+213870987,214073679,0,False,secondary,New Highway,68.75,,,,,,,,,,,20235109,CR 28
+213873078,444078043,0,False,tertiary,New York Avenue,43.201,,,,,,,,,,,20251511,
+213873078,213469781,0,False,secondary,North Wellwood Avenue,40.599,,,,,,,,,,,49430425,CR 3
+213873106,213767223,0,False,secondary,Wellwood Avenue,110.74,,,,,,,,,,,20246136,CR 3
+213873106,213495391,0,False,secondary,North Wellwood Avenue,89.237,,,,,,,,,,,20221208,CR 3
+213873106,214266973,0,False,residential,Sherbrooke Road,285.219,,,,,,,,,,,20255321,
+213873113,213435860,0,False,secondary,North Wellwood Avenue,36.995,,,,,,,,,,,20221208,CR 3
+213873113,213495391,0,False,secondary,North Wellwood Avenue,42.923,,,,,,,,,,,20221208,CR 3
+213873121,213669220,0,False,secondary,North Wellwood Avenue,10.028,,,,,,,,,,,20221208,CR 3
+213873121,213532677,0,False,secondary,North Wellwood Avenue,88.409,,,,,,,,,,,20221208,CR 3
+213873127,213873131,0,False,secondary,North Wellwood Avenue,17.61,,,,,,,,,,,20221208,CR 3
+213873127,213844570,0,False,secondary,North Wellwood Avenue,59.049,,,,,,,,,,,20221208,CR 3
+213873127,214227039,0,False,residential,Merritt Street,465.931,,,,,,,,,,,20246260,
+213873131,213873135,0,False,secondary,North Wellwood Avenue,61.647,,,,,,,,,,,20221208,CR 3
+213873131,213873127,0,False,secondary,North Wellwood Avenue,17.61,,,,,,,,,,,20221208,CR 3
+213873135,213873139,0,False,secondary,North Wellwood Avenue,16.272,,,,,,,,,,,20221208,CR 3
+213873135,213873131,0,False,secondary,North Wellwood Avenue,61.647,,,,,,,,,,,20221208,CR 3
+213873135,213983913,0,False,residential,Paine Street,467.789,,,,,,,,,,,20228571,
+213873139,213701434,0,False,secondary,North Wellwood Avenue,46.005,,,,,,,,,,,20221208,CR 3
+213873139,213873135,0,False,secondary,North Wellwood Avenue,16.272,,,,,,,,,,,20221208,CR 3
+213873144,213822681,0,False,secondary,North Wellwood Avenue,36.233,,,,,,,,,,,20221208,CR 3
+213873144,213663067,0,False,secondary,North Wellwood Avenue,45.18,,,,,,,,,,,20221208,CR 3
+213873157,213873161,0,False,secondary,North Wellwood Avenue,16.624,,,,,,,,,,,20221208,CR 3
+213873157,213717482,0,False,secondary,North Wellwood Avenue,97.784,,,,,,,,,,,20221208,CR 3
+213873161,213513398,0,False,secondary,North Wellwood Avenue,90.687,,,,,,,,,,,20221208,CR 3
+213873161,213873157,0,False,secondary,North Wellwood Avenue,16.624,,,,,,,,,,,20221208,CR 3
+213878010,214073675,0,False,secondary,New Highway,80.67,,,,,,,,,,,20235109,CR 28
+213883922,213767205,0,False,residential,45th Street,136.529,,,,,,,,,,,20242190,
+213883922,213859511,0,False,residential,Catskill Avenue,76.711,,,,,,,,,,,49481348,
+213883922,213469739,0,False,residential,Catskill Avenue,75.632,,,,,,,,,,,49481348,
+213883922,213497355,0,False,residential,45th Street,244.051,,,,,,,,,,,20242190,
+213883927,213767212,0,False,residential,47th Street,107.799,,,,,,,,,,,20233092,
+213883927,213497359,0,False,residential,47th Street,243.61,,,,,,,,,,,20233092,
+213883927,213746325,0,False,residential,Catskill Avenue,76.03,,,,,,,,,,,49481348,
+213883927,213859511,0,False,residential,Catskill Avenue,76.242,,,,,,,,,,,49481348,
+213883932,213767215,0,False,residential,50th Street,63.971,,,,,,,,,,,20249406,
+213883932,213497365,0,False,residential,50th Street,243.077,,,,,,,,,,,20249406,
+213883932,213883935,0,False,residential,Catskill Avenue,76.397,,,,,,,,,,,49481348,
+213883932,213499054,0,False,residential,Catskill Avenue,75.947,,,,,,,,,,,49481348,
+213883935,213767218,0,False,residential,51st Street,45.636,,,,,,,,,,,20238705,
+213883935,213578785,0,False,residential,Catskill Avenue,75.915,,,,,,,,,,,49481348,
+213883935,213883932,0,False,residential,Catskill Avenue,76.397,,,,,,,,,,,49481348,
+213883935,213497369,0,False,residential,51st Street,247.264,,,,,,,,,,,20238705,
+213883957,213424047,0,False,residential,Catskill Avenue,41.361,,,,,,,,,,,20222026,
+213883957,213490067,0,False,residential,53rd Street,23.202,,,,,,,,,,,20248562,
+213883957,213767220,0,False,residential,53rd Street,109.596,,,,,,,,,,,20248562,
+213940000,213765902,0,False,residential,Holt Street,232.529,,,,,,,,,,,20225843,
+213940000,214073681,0,False,secondary,New Highway,70.456,,,,,,,,,,,20235109,CR 28
+213940000,214025937,0,False,secondary,New Highway,9.485,,,,,,,,,,,20235109,CR 28
+213983913,213873135,0,False,residential,Paine Street,467.789,,,,,,,,,,,20228571,
+213983913,213663070,0,False,residential,Copiague Road,80.528,,,,,,,,,,,20256935,
+213983913,214227039,0,False,residential,Copiague Road,79.406,,,,,,,,,,,20256935,
+214025937,213940000,0,False,secondary,New Highway,9.485,,,,,,,,,,,20235109,CR 28
+214025937,213806859,0,False,secondary,New Highway,68.313,,,,,,,,,,,20235109,CR 28
+214046422,213767212,0,False,residential,47th Street,135.413,,,,,,,,,,,20233092,
+214046422,213746335,0,False,residential,Jackson Avenue,76.149,,,,,,,,,,,20248685,
+214046422,213859515,0,False,residential,Jackson Avenue,76.413,,,,,,,,,,,20248685,
+214046422,1942190816,0,False,residential,"['47th Street', 'Copiague Road']",237.066,,,,,,,,,,,"[183800948, 20233092]",
+214073675,213709286,0,False,secondary,New Highway,78.363,,,,,,,,,,,20235109,CR 28
+214073675,213878010,0,False,secondary,New Highway,80.67,,,,,,,,,,,20235109,CR 28
+214073679,214073681,0,False,secondary,New Highway,9.855,,,,,,,,,,,20235109,CR 28
+214073679,213765899,0,False,residential,Watkins Terrace,192.965,,,,,,,,,,,20242487,
+214073679,213870987,0,False,secondary,New Highway,68.75,,,,,,,,,,,20235109,CR 28
+214073681,214073679,0,False,secondary,New Highway,9.855,,,,,,,,,,,20235109,CR 28
+214073681,213940000,0,False,secondary,New Highway,70.456,,,,,,,,,,,20235109,CR 28
+214073683,213806859,0,False,secondary,New Highway,11.196,,,,,,,,,,,20235109,CR 28
+214073683,5346904327,0,False,secondary,New Highway,22.882,,,,,,,,,,,20235109,CR 28
+214122871,213766237,0,False,residential,51st Street,242.931,,,,,,,,,,,20238705,
+214122871,213578790,0,False,residential,Jackson Avenue,75.888,,,,,,,,,,,20248685,
+214122871,214266914,0,False,residential,Jackson Avenue,76.444,,,,,,,,,,,20248685,
+214122871,213767218,0,False,residential,51st Street,198.19,,,,,,,,,,,20238705,
+214122874,213766237,0,False,residential,51st Street,80.981,,,,,,,,,,,20238705,
+214122874,213778397,0,False,residential,Copiague Road,97.58,,,,,,,,,,,20256935,
+214122874,214279191,0,False,residential,Copiague Road,83.353,,,,,,,,,,,20256935,
+214167921,213767205,0,False,residential,45th Street,108.155,,,,,,,,,,,20242190,
+214167921,213859515,0,False,residential,Jackson Avenue,76.51,,,,,,,,,,,20248685,
+214167921,213469745,0,False,residential,Jackson Avenue,76.653,,,,,,,,,,,20248685,
+214171756,213765899,0,False,residential,Watkins Terrace,149.201,,,,,,,,,,,20242487,
+214198677,213532677,0,False,residential,Irene Street,521.499,,,,,,,,,,,20244493,
+214198677,213669228,0,False,residential,Copiague Road,77.13,,,,,,,,,,,20256935,
+214198677,213462000,0,False,residential,Copiague Road,76.602,,,,,,,,,,,20256935,
+214224883,213497365,0,False,residential,50th Street,73.336,,,,,,,,,,,20249406,
+214224883,213499052,0,True,secondary,N Wellwood Ave,103.542,,,,,,,,,,,49430492,CR 3
+214227039,213983913,0,False,residential,Copiague Road,79.406,,,,,,,,,,,20256935,
+214227039,213802695,0,False,residential,Copiague Road,76.694,,,,,,,,,,,20256935,
+214227039,213873127,0,False,residential,Merritt Street,465.931,,,,,,,,,,,20246260,
+214265018,213778401,0,False,residential,Jackson Avenue,44.433,,,,,,,,,,,20248690,
+214265018,213767220,0,False,residential,53rd Street,231.114,,,,,,,,,,,20248562,
+214265018,213578790,0,False,residential,Jackson Avenue,73.74,,,,,,,,,,,20248685,
+214266914,214122871,0,False,residential,Jackson Avenue,76.444,,,,,,,,,,,20248685,
+214266914,213499057,0,False,residential,Jackson Avenue,75.125,,,,,,,,,,,20248685,
+214266914,213766240,0,False,residential,50th Street,243.452,,,,,,,,,,,20249406,
+214266914,213767215,0,False,residential,50th Street,179.508,,,,,,,,,,,20249406,
+214266973,213778401,0,False,residential,Jackson Avenue,109.137,,,,,,,,,,,20248690,
+214266973,214378253,0,False,residential,Sherbrooke Road,328.413,,,,,,,,,,,20255321,
+214266973,214266985,0,False,residential,Jackson Avenue,410.154,,,,,,,,,,,20248690,
+214266973,213873106,0,False,residential,Sherbrooke Road,285.219,,,,,,,,,,,20255321,
+214266985,213462000,0,False,residential,Copiague Road,85.253,,,,,,,,,,,20256935,
+214266985,214266973,0,False,residential,Jackson Avenue,410.154,,,,,,,,,,,20248690,
+214266985,214378253,0,False,residential,Copiague Road,98.278,,,,,,,,,,,20256935,
+214267783,213513398,0,False,residential,Gear Avenue,259.851,,,,,,,,,,,20248737,
+214279191,213766240,0,False,residential,50th Street,48.472,,,,,,,,,,,20249406,
+214279191,214122874,0,False,residential,Copiague Road,83.353,,,,,,,,,,,20256935,
+214279191,213499059,0,False,residential,Copiague Road,82.793,,,,,,,,,,,20256935,
+214378253,214266973,0,False,residential,Sherbrooke Road,328.413,,,,,,,,,,,20255321,
+214378253,213778397,0,False,residential,Copiague Road,102.629,,,,,,,,,,,20256935,
+214378253,214266985,0,False,residential,Copiague Road,98.278,,,,,,,,,,,20256935,
+444077845,213627616,0,False,residential,"['New Highway', 'Mortell Court']",195.595,,,,,,,,,,,"[20200619, 183800975]",
+444077845,444078032,0,False,residential,43rd Street,131.127,,,,,,,,,,,183801028,
+444078007,213469739,0,False,residential,Catskill Avenue,76.491,,,,,,,,,,,49481348,
+444078007,1942190789,0,False,residential,43rd Street,186.484,,,,,,,,,,,183801028,
+444078007,444078021,0,False,residential,43rd Street,166.891,,,,,,,,,,,183801028,
+444078021,213469742,0,False,secondary,Straight Path,77.245,,,,,,,,,,,139603612,CR 2
+444078021,444078007,0,False,residential,43rd Street,166.891,,,,,,,,,,,183801028,
+444078021,444078032,0,False,residential,43rd Street,76.374,,,,,,,,,,,183801028,
+444078032,213469745,0,False,residential,Jackson Avenue,76.678,,,,,,,,,,,20248685,
+444078032,444078021,0,False,residential,43rd Street,76.374,,,,,,,,,,,183801028,
+444078032,444077845,0,False,residential,43rd Street,131.127,,,,,,,,,,,183801028,
+444078042,213469785,0,False,residential,Albany Avenue,75.279,,,,,,,,,,,20213581,
+444078042,444078043,0,False,residential,43rd Street,244.816,,,,,,,,,,,183801027,
+444078043,213873078,0,False,tertiary,New York Avenue,43.201,,,,,,,,,,,20251511,
+444078043,444078042,0,False,residential,43rd Street,244.816,,,,,,,,,,,183801027,
+627852313,1942190801,0,True,trunk_link,,181.146,,,,,,,,,,,49430493,
+627852339,628646773,0,True,trunk,Sunrise Highway,138.416,3,,,,,,,,,,49430496,NY 27
+627852339,1942190806,0,True,trunk_link,,188.318,,,,,,,,,,,20178029,
+627852340,213497355,0,False,residential,45th Street,122.626,,,,,,,,,,,20242190,
+627852340,628646822,0,True,trunk,Sunrise Highway,109.342,3,,,,,,,,,,49430496,NY 27
+627852342,1942190789,0,True,trunk,Sunrise Highway,72.811,3,,,,,,,,,,49430496,NY 27
+627852342,213469737,0,False,residential,Buffalo Avenue,33.576,,,,,,,,,,,49481347,
+627852433,213766035,0,False,residential,45th Street,89.052,,,,,,,,,,,49481343,
+627852433,213418983,0,True,trunk,Sunrise Highway,48.088,3,,,,,,,,,,224820019,NY 27
+627852438,213469788,0,True,trunk,Sunrise Highway,97.269,3,,,,,,,,,,224820019,NY 27
+628646769,1942190806,0,True,secondary,N Wellwood Ave,113.091,,,,,,,,,,,49430492,CR 3
+628646769,628646773,0,True,trunk_link,,249.566,,,,,,,,,,,20175643,
+628646773,627852340,0,True,trunk,Sunrise Highway,46.889,3,,,,,,,,,,49430496,NY 27
+628646822,213469737,0,True,residential,44th Street,44.518,,,,,,,,,,,20187511,
+628646822,627852342,0,True,trunk,Sunrise Highway,54.041,3,,,,,,,,,,49430496,NY 27
+1942190789,444078007,0,False,residential,43rd Street,186.484,,,,,,,,,,,183801028,
+1942190806,627852313,0,True,secondary,"['N Wellwood Ave', 'North Wellwood Avenue']",112.542,,,,,,,yes,,,,"[49430492, 49430494, 49430495]",CR 3
+1942190810,213497361,0,False,residential,48th Street,150.174,,,,,,,,,,,20212190,
+1942190816,214046422,0,False,residential,"['47th Street', 'Copiague Road']",237.066,,,,,,,,,,,"[20233092, 183800948]",
+2160528666,213806859,0,False,residential,Oak Street,112.223,,,,,,,,,,,20216188,
+2160528668,213710030,0,False,residential,Hicks Street,109.358,,,,,,,,,,,20209603,
+4208890060,213619057,0,False,secondary,North Wellwood Avenue,95.944,,,,,,,,,,,20221208,CR 3
+4208890083,213591540,0,False,tertiary,Albany Avenue,115.043,,,,,,,,,,,49436008,
+4208890083,4208890060,0,True,primary,State Highway 109,810.939,,,,,,,,,,,421047531,NY 109
+5346904327,214073683,0,False,secondary,New Highway,22.882,,,,,,,,,,,20235109,CR 28
+5346904333,4208890083,0,True,primary,State Highway 109,297.819,,,,,,,,,,,421047531,NY 109
+5504833223,5346904333,0,True,primary_link,,60.918,,,,,,,,,,,553997998,

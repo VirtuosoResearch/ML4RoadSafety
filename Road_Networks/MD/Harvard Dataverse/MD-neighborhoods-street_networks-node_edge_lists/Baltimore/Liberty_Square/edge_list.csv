@@ -1,0 +1,51 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+49381677,49469325,0,False,secondary,Druid Park Drive,107.064,5,,,30 mph,,,,,,,"[544603437, 6014541, 544603439]",
+49381677,49489335,0,False,residential,Towanda Avenue,95.595,2,,,25 mph,,,,,,,6015751,
+49381677,49473671,0,False,secondary,Druid Park Drive,168.347,"['4', '5']",,,30 mph,,,,,,,"[544603433, 451499029, 544603430, 544603431]",
+49410946,49541014,0,False,residential,Towanda Avenue,76.185,2,,,25 mph,,,,,,,6015751,
+49410946,4243467321,0,True,residential,Wichita Avenue,184.778,2,,,25 mph,,,,,,,6004431,
+49410946,49523209,0,False,residential,Towanda Avenue,111.945,2,,,25 mph,,,,,,,6015751,
+49469325,49381677,0,False,secondary,Druid Park Drive,107.064,5,,,30 mph,,,,,,,"[6014541, 544603437, 544603439]",
+49469414,4243467321,0,False,residential,Wichita Avenue,14.379,2,,,25 mph,,,,,,,546214820,
+49469414,49473786,0,True,primary,Reisterstown Road,223.685,4,,,30 mph,,,,,,,"[47990481, 543333875]",MD 129;MD 140
+49473671,803091797,0,True,secondary,Druid Park Drive,15.973,2,,,30 mph,,,,,,,188164023,
+49473671,49473687,0,True,primary,Reisterstown Road,119.703,4,,,30 mph,,,,,,,"[543333889, 6005107]",MD 129;MD 140
+49473671,49381677,0,False,secondary,Druid Park Drive,168.347,"['4', '5']",,,30 mph,,,,,,,"[544603433, 451499029, 544603430, 544603431]",
+49473687,49489335,0,False,residential,Wahotan Avenue,168.946,2,,,25 mph,,,,,,,6007050,
+49473687,49473786,0,False,residential,Wahotan Avenue,14.338,2,,,25 mph,,,,,,,6007050,
+49473687,4243467321,0,True,primary,Reisterstown Road,223.841,3,,,30 mph,,,,,,,"[543333893, 424995911]",MD 129;MD 140
+49473702,49473780,0,True,primary,Auchentoroly Terrace,50.328,1,,,30 mph,,,,,,,6012151,MD 129
+49473702,49473704,0,True,primary,Reisterstown Road,66.416,3,,,30 mph,,,,,,,"[543333898, 451499030]",MD 140
+49473704,49523209,0,True,residential,Anoka Avenue,193.374,2,,,25 mph,,,,,,,6011212,
+49473704,49473710,0,True,primary,Reisterstown Road,112.177,3,,,30 mph,,,,,,,"[501840785, 543333911]",MD 140
+49473710,49473716,0,True,primary,Reisterstown Road,111.184,3,,,30 mph,,,,,,,47990465,MD 140
+49473710,49528654,0,False,residential,Ocala Avenue,194.45,2,,,25 mph,,,,,,,501840528,
+49473710,49473777,0,False,residential,Ocala Avenue,11.795,2,,,25 mph,,,,,,,501840529,
+49473716,49473775,0,True,residential,Tioga Parkway,13.563,2,,,25 mph,,,,,,,546215706,
+49473775,49473777,0,True,primary,Reisterstown Road,110.941,2,,,30 mph,,,,,,,"[205787106, 543333906]",MD 140
+49473777,1383343586,0,True,primary,Reisterstown Road,100.449,2,,,30 mph,,,,,,,543333900,MD 140
+49473777,49473710,0,False,residential,Ocala Avenue,11.795,2,,,25 mph,,,,,,,501840529,
+49473780,49473782,0,True,primary,Reisterstown Road,47.888,2,,,30 mph,,,,,,,543333900,MD 140
+49473782,49469414,0,True,primary,Reisterstown Road,45.468,4,,,30 mph,,,,,,,47990481,MD 129;MD 140
+49473786,49473687,0,False,residential,Wahotan Avenue,14.338,2,,,25 mph,,,,,,,6007050,
+49473786,49473790,0,True,primary,Reisterstown Road,49.933,4,,,30 mph,,,,,,,543333862,MD 129;MD 140
+49473790,803091804,0,True,primary_link,,73.936,2,,,,,,,,,,5997817,MD 129
+49473790,803091797,0,True,primary,Reisterstown Road,71.208,2,,,30 mph,,,,,,,92171594,MD 140
+49489335,49473687,0,False,residential,Wahotan Avenue,168.946,2,,,25 mph,,,,,,,6007050,
+49489335,49381677,0,False,residential,Towanda Avenue,95.595,2,,,25 mph,,,,,,,6015751,
+49489335,49541014,0,False,residential,Towanda Avenue,148.121,2,,,25 mph,,,,,,,6015751,
+49523209,49410946,0,False,residential,Towanda Avenue,111.945,2,,,25 mph,,,,,,,6015751,
+49523209,49528654,0,False,residential,Towanda Avenue,111.971,,,,25 mph,,,,,,,451499031,
+49528654,49523209,0,False,residential,Towanda Avenue,111.971,,,,25 mph,,,,,,,451499031,
+49528654,49473710,0,False,residential,Ocala Avenue,194.45,2,,,25 mph,,,,,,,501840528,
+49541013,49541014,0,False,residential,Chowan Avenue,65.391,,,,,,,,,,,6013905,
+49541014,49541013,0,False,residential,Chowan Avenue,65.391,,,,,,,,,,,6013905,
+49541014,49410946,0,False,residential,Towanda Avenue,76.185,2,,,25 mph,,,,,,,6015751,
+49541014,49489335,0,False,residential,Towanda Avenue,148.121,2,,,25 mph,,,,,,,6015751,
+803091797,803091804,0,True,secondary,Druid Park Drive,11.55,2,,,30 mph,,,,,,,222955046,
+803091797,803091798,0,True,primary,Reisterstown Road,6.326,2,,,30 mph,,,,,,,222955047,MD 140
+803091798,49473671,0,True,secondary,Druid Park Drive,17.813,2,,,30 mph,,,,,,,542334294,
+1383343586,49473780,0,True,primary,Reisterstown Road,29.199,2,,,30 mph,,,,,,,543333900,MD 140
+1383343586,49473704,0,True,primary_link,,18.311,1,,,,,,,,,,124243128,
+4243467321,49473702,0,True,primary,Reisterstown Road,44.26,4,,,30 mph,,,,,,,424995914,MD 129;MD 140
+4243467321,49469414,0,False,residential,Wichita Avenue,14.379,2,,,25 mph,,,,,,,546214820,

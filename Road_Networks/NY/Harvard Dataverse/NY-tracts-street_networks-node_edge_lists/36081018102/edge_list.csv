@@ -1,0 +1,29 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+42817780,42817784,0,True,residential,43rd Avenue,79.178,2,,,20 mph,,,,,,,5701829,
+42817780,42938181,0,True,residential,41st Street,187.731,,,,,,,,,,,5710463,
+42817784,42817789,0,True,residential,43rd Avenue,79.061,2,,,20 mph,,,,,,,5701829,
+42817784,2844853160,0,True,residential,42nd Street,176.098,,,,,,,,,,,5708631,
+42817789,2844853158,0,False,residential,43rd Street,176.415,2,,,,,,,,,,5707131,
+42817789,42900618,0,False,residential,43rd Street,187.486,2,,,,,,,,,,5707131,
+42860613,42860615,0,False,residential,47th Avenue,78.874,,,,20 mph,,,,,,,5704407,
+42860613,2844853157,0,True,residential,41st Street,207.185,,,,,,,,,,,5710463,
+42860615,42860617,0,False,residential,47th Avenue,79.274,,,,20 mph,,,,,,,5704407,
+42860615,42860613,0,False,residential,47th Avenue,78.874,,,,20 mph,,,,,,,5704407,
+42860617,42860615,0,False,residential,47th Avenue,79.274,,,,20 mph,,,,,,,5704407,
+42860617,2844853154,0,False,residential,43rd Street,207.647,2,,,,,,,,,,423680529,
+42900618,42920480,0,True,residential,Skillman Avenue,78.926,,,,,,,,,,,484802830,
+42900618,42817789,0,False,residential,43rd Street,187.486,2,,,,,,,,,,5707131,
+42920480,42817784,0,True,residential,42nd Street,187.731,,,,,,,,,,,5708631,
+42920480,42938181,0,True,residential,Skillman Avenue,79.176,,,,,,,,,,,484802830,
+2844853154,2844853158,0,False,residential,43rd Street,37.255,2,,,,,,,,,,5707131,
+2844853154,42860617,0,False,residential,43rd Street,207.647,2,,,,,,,,,,423680529,
+2844853155,42860615,0,True,residential,42nd Street,207.395,,,,,,,,,,,5708631,
+2844853155,2844853154,0,True,primary,Queens Boulevard,79.071,4,,,,,,,,,,423680531,NY 25
+2844853157,2844853155,0,True,primary,Queens Boulevard,78.849,4,,,,,,,,,,25355654,NY 25
+2844853157,2844853161,0,True,residential,41st Street,37.256,,,,,,,,,,,5710463,
+2844853158,2844853154,0,False,residential,43rd Street,37.255,2,,,,,,,,,,5707131,
+2844853158,42817789,0,False,residential,43rd Street,176.415,2,,,,,,,,,,5707131,
+2844853158,2844853160,0,True,primary,Queens Boulevard,79.197,4,,,,,,,,,,216928604,NY 25
+2844853160,2844853161,0,True,primary,Queens Boulevard,78.712,4,,,,,,,,,,216928604,NY 25
+2844853160,2844853155,0,True,residential,42nd Street,37.088,,,,,,,,,,,5708631,
+2844853161,42817780,0,True,residential,41st Street,176.206,,,,,,,,,,,5710463,

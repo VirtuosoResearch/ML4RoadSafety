@@ -1,0 +1,105 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+61317303,61317323,0,False,primary,Memorial Drive,359.368,4,30.2,,,,,,,,,138788996,US 3;MA 2
+61317303,61325617,0,False,secondary,John F. Kennedy Street,211.164,3,19.8,,25 mph,,,,,,,"[258345897, 426593991]",
+61317320,61328597,0,False,primary,Memorial Drive,169.988,4,30.2,,,,,,,,,138789002,US 3;MA 2
+61317320,61317323,0,False,primary,Memorial Drive,88.601,4,30.2,,,,,,,,,524658932,US 3;MA 2
+61317323,61321481,0,True,tertiary,Plympton Street,79.926,2,10.4;12.2,,,,,,,,,8614878,
+61317323,61317303,0,False,primary,Memorial Drive,359.368,4,30.2,,,,,,,,,138788996,US 3;MA 2
+61317323,61317320,0,False,primary,Memorial Drive,88.601,4,30.2,,,,,,,,,524658932,US 3;MA 2
+61317358,82799638,0,True,primary,Mount Auburn Street,14.437,2,15.9,,25 mph,,,,,,,33858536,MA 2A
+61317358,61325540,0,True,residential,Holyoke Place,125.61,2,9.1,,25 mph,,,,,,,8614897,
+61317371,61325523,0,True,tertiary,Plympton Street,22.913,2,10.4;12.2,,,,,,,,,8614878,
+61317371,61323319,0,True,primary,Mount Auburn Street,86.257,2,15.9,,25 mph,,,,,,,33858536,MA 2A
+61317426,61317427,0,False,residential,Walker Court,59.875,1,6.1,,25 mph,,,,,,,8614899,
+61317427,61317426,0,False,residential,Walker Court,59.875,1,6.1,,25 mph,,,,,,,8614899,
+61317427,61327320,0,True,residential,Flagg Street,57.512,2,12.2,,25 mph,,,,,,,35593219,
+61317467,61317474,0,False,residential,Warren Place,44.619,2,9.1,,25 mph,,,,,,,8615296,
+61317474,61317467,0,False,residential,Warren Place,44.619,2,9.1,,25 mph,,,,,,,8615296,
+61317474,61333670,0,False,residential,Banks Street,49.981,2,12.2,,25 mph,,,,,,,262286917,
+61317474,61326758,0,False,residential,Banks Street,81.496,2,12.2,,25 mph,,,,,,,262286917,
+61317657,61317659,0,False,residential,Athens Terrace,40.043,1,6.1,,25 mph,destination,,,,,,8614967,
+61317659,61317657,0,False,residential,Athens Terrace,40.043,1,6.1,,25 mph,destination,,,,,,8614967,
+61317659,61323347,0,True,residential,Athens Street,58.95,2,11.6,,25 mph,,,,,,,8614772,
+61317764,337602069,0,True,secondary,Western Avenue,3.812,4,19.8,,,,,,,,,138749294,
+61318523,61318577,0,False,tertiary,Putnam Avenue,21.332,2,12.2,,25 mph,,,,,,,262288974,
+61318523,61323866,0,True,residential,,46.621,,,,25 mph,,,,,,,8615872,
+61318532,61329201,0,True,primary,Massachusetts Avenue,43.149,2,18.9,,,,,,,,,8615456,MA 2A
+61318577,61318523,0,False,tertiary,Putnam Avenue,21.332,2,12.2,,25 mph,,,,,,,262288974,
+61318577,61318578,0,False,tertiary,Putnam Avenue,145.898,2,12.2,,25 mph,,,,,,,262288974,
+61318578,61317427,0,True,residential,Flagg Street,40.654,2,12.2,,25 mph,,,,,,,35593219,
+61318578,61318577,0,False,tertiary,Putnam Avenue,145.898,2,12.2,,25 mph,,,,,,,262288974,
+61321481,61317371,0,True,tertiary,Plympton Street,141.55,2,10.4;12.2,,,,,,,,,8614878,
+61321481,61323340,0,True,residential,Mill Street,86.64,2,10.4,,25 mph,,,,,,,261986971,
+61321522,61332586,0,False,residential,,53.052,,,,25 mph,,,,,,,541957877,
+61321522,61333670,0,False,residential,Banks Street,65.332,2,12.2,,25 mph,,,,,,,262286917,
+61321533,61317320,0,True,tertiary,DeWolfe Street,26.753,2,11.6,,,yes,,,,,,116884906,
+61321533,61321522,0,True,residential,Cowperthwaite Street,217.481,2,12.2,,25 mph,,,,,,,8615294,
+61321618,61323944,0,False,residential,,67.88,,,,25 mph,,,,,,,8615961,
+61321618,61321481,0,True,residential,Mill Street,170.176,2,10.4,,25 mph,,,,,,,"[261986971, 8615724]",
+61321985,1839951959,0,True,residential,Winthrop Street,84.375,2,9.1,,25 mph,,,,,,,8615560,
+61323319,61325590,0,True,primary,Mount Auburn Street,84.844,2,15.9,,25 mph,,,,,,,116884905,MA 2A
+61323319,61323340,0,True,tertiary,DeWolfe Street,130.012,2,11.6,,,yes,,,,,,116884906,
+61323340,2676333871,0,True,tertiary,DeWolfe Street,13.761,2,11.6,,,yes,,,,,,116884906,
+61323347,61333670,0,False,residential,Grant Street,104.912,2,12.8,,25 mph,,,,,,,8614831,
+61323347,2676333871,0,False,residential,Grant Street,85.205,2,12.8,,25 mph,,,,,,,8614831,
+61323866,61328464,0,False,residential,Elmer Street,120.297,2,8.2,,25 mph,,,,,,,8615563,
+61323866,61328439,0,False,residential,Banks Street,104.594,2,12.2,,25 mph,,,,,,,"[8614633, 8615875]",
+61323944,61321618,0,False,residential,,67.88,,,,25 mph,,,,,,,8615961,
+61323944,61323951,0,False,residential,,105.612,,,,25 mph,,,,,,,8615900,
+61323944,61321985,0,True,residential,Dunster Street,66.674,2,12.8,,25 mph,,,,,,,8616153,
+61323951,61323944,0,False,residential,,105.612,,,,25 mph,,,,,,,8615900,
+61325527,61323319,0,True,tertiary,DeWolfe Street,34.573,2,11.6,,,,,,,,,8615994,
+61325527,61325523,0,True,residential,Bow Street,86.543,2,12.8,,25 mph,,,,,,,353655066,
+61325540,61321618,0,True,residential,Holyoke Street,59.593,2,10.4,,25 mph,,,,,,,8616076,
+61325540,61321985,0,True,residential,Winthrop Street,69.211,2,9.1,,25 mph,,,,,,,524605932,
+61325553,61323944,0,True,residential,South Street,94.416,2,8.5,,25 mph,,,,,,,8614580,
+61325553,61325617,0,False,secondary,John F. Kennedy Street,28.097,2,19.8,,25 mph,,,,,,,524605926,
+61325553,1839951959,0,False,secondary,John F. Kennedy Street,69.648,2,19.8,,25 mph,,,,,,,8615186,
+61325590,61326758,0,True,primary,Mount Auburn Street,64.141,2,15.9,,25 mph,,,,,,,116884905,MA 2A
+61325590,61317659,0,True,residential,Athens Street,76.704,2,11.6,,25 mph,,,,,,,8614772,
+61325617,61325553,0,False,secondary,John F. Kennedy Street,28.097,2,19.8,,25 mph,,,,,,,524605926,
+61325617,61317303,0,False,secondary,John F. Kennedy Street,211.164,3,19.8,,25 mph,,,,,,,"[258345897, 426593991]",
+61326758,3603121554,0,True,primary,Mount Auburn Street,103.137,2,15.9,,25 mph,,,,,,,116884905,MA 2A
+61326758,61317474,0,False,residential,Banks Street,81.496,2,12.2,,25 mph,,,,,,,262286917,
+61326788,614371129,0,False,residential,Green Street,60.252,2,12.2,,25 mph,,,,,,,48367175,
+61326788,3603121554,0,False,tertiary,Putnam Avenue,90.777,2,12.2,,25 mph,,,,,,,262288974,
+61327320,61332586,0,False,residential,,56.089,,,,25 mph,,,,,,,541957876,
+61327320,61328597,0,False,residential,Flagg Street,134.74,2,12.2,,25 mph,,,,,,,8614584,
+61327320,2764945127,0,False,residential,Banks Street,76.227,2,12.2,,25 mph,,,,,,,8615162,
+61328432,581621478,0,False,primary,Memorial Drive,102.241,4,30.2,,,,,,,,,138789002,US 3;MA 2
+61328432,61328461,0,True,residential,Hingham Street,81.03,2,13.4,,25 mph,,,,,,,30556114,
+61328432,61328452,0,False,primary,Memorial Drive,65.041,4,30.2,,,,,,,,,138789002,US 3;MA 2
+61328439,61328461,0,False,residential,Banks Street,65.069,2,12.2,,25 mph,,,,,,,8614633,
+61328439,3895957329,0,False,residential,Akron Street,65.656,,,,25 mph,,,,,,,386272479,
+61328439,61323866,0,False,residential,Banks Street,104.594,2,12.2,,25 mph,,,,,,,"[8614633, 8615875]",
+61328452,61328597,0,False,primary,Memorial Drive,224.128,4,30.2,,,,,,,,,138789002,US 3;MA 2
+61328452,61328432,0,False,primary,Memorial Drive,65.041,4,30.2,,,,,,,,,138789002,US 3;MA 2
+61328461,61328439,0,False,residential,Banks Street,65.069,2,12.2,,25 mph,,,,,,,8614633,
+61328461,61328464,0,True,residential,Hingham Street,53.127,2,13.4,,25 mph,,,,,,,30556114,
+61328464,61323866,0,False,residential,Elmer Street,120.297,2,8.2,,25 mph,,,,,,,8615563,
+61328597,61327320,0,False,residential,Flagg Street,134.74,2,12.2,,25 mph,,,,,,,8614584,
+61328597,61317320,0,False,primary,Memorial Drive,169.988,4,30.2,,,,,,,,,138789002,US 3;MA 2
+61328597,61328452,0,False,primary,Memorial Drive,224.128,4,30.2,,,,,,,,,138789002,US 3;MA 2
+61332586,61332737,0,False,residential,Fallon Place,44.441,1,4.6,,25 mph,,,,,,,8615739,
+61332586,61327320,0,False,residential,,56.089,,,,25 mph,,,,,,,541957876,
+61332586,61321522,0,False,residential,,53.052,,,,25 mph,,,,,,,541957877,
+61332737,61332586,0,False,residential,Fallon Place,44.441,1,4.6,,25 mph,,,,,,,8615739,
+61333670,61323347,0,False,residential,Grant Street,104.912,2,12.8,,25 mph,,,,,,,8614831,
+61333670,61317474,0,False,residential,Banks Street,49.981,2,12.2,,25 mph,,,,,,,262286917,
+61333670,61321522,0,False,residential,Banks Street,65.332,2,12.2,,25 mph,,,,,,,262286917,
+82799638,61317371,0,True,primary,Mount Auburn Street,58.296,2,15.9,,25 mph,,,,,,,33858536,MA 2A
+337602064,337602069,0,False,residential,Riverside Place,45.487,,,,25 mph,,,,,,,30555254,
+337602069,337602064,0,False,residential,Riverside Place,45.487,,,,25 mph,,,,,,,30555254,
+337602069,581621478,0,True,secondary,Western Avenue,99.878,4,19.8,,,,,,,,,138749294,
+581621478,61328432,0,False,primary,Memorial Drive,102.241,4,30.2,,,,,,,,,138789002,US 3;MA 2
+614371129,61326788,0,False,residential,Green Street,60.252,2,12.2,,25 mph,,,,,,,48367175,
+1839951958,1839951959,0,False,secondary,John F. Kennedy Street,53.149,2,19.8,,25 mph,,,,,,,352191241,
+1839951959,1839951958,0,False,secondary,John F. Kennedy Street,53.149,2,19.8,,25 mph,,,,,,,352191241,
+1839951959,61325553,0,False,secondary,John F. Kennedy Street,69.648,2,19.8,,25 mph,,,,,,,8615186,
+2676333871,61323347,0,False,residential,Grant Street,85.205,2,12.8,,25 mph,,,,,,,8614831,
+2676333871,61321533,0,True,tertiary,DeWolfe Street,64.432,2,11.6,,,yes,,,,,,116884906,
+2764945127,61327320,0,False,residential,Banks Street,76.227,2,12.2,,25 mph,,,,,,,8615162,
+3603121554,61329201,0,True,tertiary,Putnam Avenue,31.171,2,12.2,,,,,,,,,354628837,
+3603121554,61326788,0,False,tertiary,Putnam Avenue,90.777,2,12.2,,25 mph,,,,,,,262288974,
+3895957329,61328452,0,True,residential,Akron Street,24.206,2,12.2,,25 mph,,,,,,,8614760,
+3895957329,61328439,0,False,residential,Akron Street,65.656,,,,25 mph,,,,,,,386272479,

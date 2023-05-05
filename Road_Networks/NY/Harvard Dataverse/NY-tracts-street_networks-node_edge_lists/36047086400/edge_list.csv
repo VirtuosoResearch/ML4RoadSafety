@@ -1,0 +1,69 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+42467272,42467360,0,False,secondary,Remsen Avenue,26.779,,,,,,,,,,,221788478,
+42467346,42467350,0,False,residential,Lenox Road,82.116,,,,,,,,,,,273202152,
+42467346,42494719,0,True,residential,East 55th Street,143.796,,,,,,,,,,,275391247,
+42467350,42467355,0,False,residential,Lenox Road,82.014,,,,,,,,,,,273202152,
+42467350,42467346,0,False,residential,Lenox Road,82.116,,,,,,,,,,,273202152,
+42467350,42467788,0,True,residential,East 56th Street,170.898,,,,,,,,,,,276146460,
+42467355,42510453,0,True,residential,East 57th Street,171.029,,,,,,,,,,,5680715,
+42467355,42467350,0,False,residential,Lenox Road,82.014,,,,,,,,,,,273202152,
+42467355,42467360,0,False,residential,Lenox Road,55.96,,,,,,,,,,,273202152,
+42467360,42468582,0,False,secondary,Remsen Avenue,65.558,,,,,,,,,,,221788478,
+42467360,42467272,0,False,secondary,Remsen Avenue,26.779,,,,,,,,,,,221788478,
+42467360,42467355,0,False,residential,Lenox Road,55.96,,,,,,,,,,,273202152,
+42467777,42494719,0,False,residential,Clarkson Avenue,80.322,,,,,,,,,,,221570529,
+42467777,42467350,0,True,residential,East 56th Street,143.617,,,,,,,,,,,276146462,
+42467788,42467790,0,True,residential,East 56th Street,185.436,,,,,,,,,,,276146461,
+42467788,42510447,0,False,primary,Linden Boulevard,81.922,2,,,,,,,,,,421092461,NY 27
+42467788,42510453,0,False,primary,Linden Boulevard,82.259,2,,,,,,,,,,"[421097152, 421092478]",NY 27
+42467790,42497475,0,False,secondary,Church Avenue,82.276,,,,,,,,,,,46137561,
+42467790,42497472,0,False,secondary,Church Avenue,82.05,,,,,,,,,,,46137561,
+42468582,1942054187,0,False,secondary,Remsen Avenue,98.986,,,,,,,,,,,221788478,
+42468582,42467360,0,False,secondary,Remsen Avenue,65.558,,,,,,,,,,,221788478,
+42468582,42500404,0,True,residential,East 58th Street,130.792,,,,,,,,,,,5678564,
+42468587,42473383,0,False,primary,Kings Highway,34.804,4,,,,,,,,,,183794568,
+42468587,1942054187,0,False,secondary,Remsen Avenue,15.74,,,,,,,,,,,524351399,
+42468587,1942054145,0,False,secondary,Remsen Avenue,16.097,3,,,,,,,,,,"[420309493, 524351399]",
+42468603,1942054062,0,False,primary,Linden Boulevard,22.027,4,,,,,,,,,,183794586,NY 27
+42468603,1942054145,0,False,secondary,Remsen Avenue,23.796,3,,,,,,,,,,420309493,
+42473383,42468587,0,False,primary,Kings Highway,34.804,4,,,,,,,,,,183794568,
+42473383,1942054062,0,False,primary,Linden Boulevard,13.96,4,,,,,,,,,,183794585,NY 27
+42473383,1942054045,0,False,primary,Linden Boulevard,15.156,4,,,,,,,,,,183794603,NY 27
+42473383,1942053846,0,False,primary,Kings Highway,73.618,4,,,,,,,,,,221449403,
+42473385,42493945,0,False,secondary,Church Avenue,85.576,,,,,,,,,,,221449406,
+42493945,42473385,0,False,secondary,Church Avenue,85.576,,,,,,,,,,,221449406,
+42494719,42467777,0,False,residential,Clarkson Avenue,80.322,,,,,,,,,,,221570529,
+42497472,42467790,0,False,secondary,Church Avenue,82.05,,,,,,,,,,,46137561,
+42497472,42510447,0,True,residential,East 55th Street,184.868,,,,,,,,,,,275391248,
+42497475,42467790,0,False,secondary,Church Avenue,82.276,,,,,,,,,,,46137561,
+42500404,1942053838,0,True,residential,East 58th Street,77.288,,,,,,,,,,,5678564,
+42500404,1942054045,0,False,primary,Linden Boulevard,50.9,4,,,,,,,,,,524351634,NY 27
+42500404,42510453,0,False,primary,Linden Boulevard,78.971,"['4', '2']",,,,,,,,,,"[421092488, 524351634, 421097155]",NY 27
+42510447,42467346,0,True,residential,East 55th Street,170.579,,,,,,,,,,,275391252,
+42510447,42467788,0,False,primary,Linden Boulevard,81.922,2,,,,,,,,,,421092461,NY 27
+42510453,42497475,0,True,residential,East 57th Street,187.777,,,,,,,,,,,5680715,
+42510453,42500404,0,False,primary,Linden Boulevard,78.971,"['4', '2']",,,,,,,,,,"[421092488, 524351634, 421097155]",NY 27
+42510453,42467788,0,False,primary,Linden Boulevard,82.259,2,,,,,,,,,,"[421097152, 421092478]",NY 27
+1942053833,1942053831,0,True,unclassified,Kings Highway,11.201,,,,,,,,,,,183794576,
+1942053835,1942053847,0,True,primary_link,,66.568,,,,,,,,,,,183794694,
+1942053835,1942053846,0,False,primary,Kings Highway,51.645,4,,,,,,,,,,221449403,
+1942053837,1942053833,0,True,unclassified,Kings Highway,45.4,,,,,,,,,,,183794576,
+1942053838,1942053831,0,True,residential,East 58th Street,59.978,,,,,,,,,,,5678564,
+1942053838,1942053837,0,True,residential,,20.726,,,,,,,,,,,183794697,
+1942053846,1942053833,0,True,primary_link,,69.626,,,,,,,,,,,183794674,
+1942053846,42473383,0,False,primary,Kings Highway,73.618,4,,,,,,,,,,221449403,
+1942053846,1942053835,0,False,primary,Kings Highway,51.645,4,,,,,,,,,,221449403,
+1942053847,1942053851,0,True,primary,Kings Highway,14.267,,,,,,,,,,,183794570,
+1942053851,1942054062,0,True,primary,Kings Highway,50.508,,,,,,,,,,,183794570,
+1942053851,42473385,0,True,residential,East 59th Street,171.853,,,,,,,,,,,183794521,
+1942054045,1942053837,0,True,unclassified,Kings Highway,90.988,,,,,,,,,,,183794576,
+1942054045,42473383,0,False,primary,Linden Boulevard,15.156,4,,,,,,,,,,183794603,NY 27
+1942054045,42500404,0,False,primary,Linden Boulevard,50.9,4,,,,,,,,,,524351634,NY 27
+1942054062,1942054145,0,True,unclassified,Kings Highway,20.973,,,,,,,,,,,183794574,
+1942054062,42473383,0,False,primary,Linden Boulevard,13.96,4,,,,,,,,,,183794585,NY 27
+1942054062,42468603,0,False,primary,Linden Boulevard,22.027,4,,,,,,,,,,183794586,NY 27
+1942054145,42468603,0,False,secondary,Remsen Avenue,23.796,3,,,,,,,,,,420309493,
+1942054145,42468587,0,False,secondary,Remsen Avenue,16.097,3,,,,,,,,,,"[420309493, 524351399]",
+1942054187,42468582,0,False,secondary,Remsen Avenue,98.986,,,,,,,,,,,221788478,
+1942054187,1942054045,0,True,primary,Kings Highway,49.013,,,,,,,,,,,524351398,
+1942054187,42468587,0,False,secondary,Remsen Avenue,15.74,,,,,,,,,,,524351399,

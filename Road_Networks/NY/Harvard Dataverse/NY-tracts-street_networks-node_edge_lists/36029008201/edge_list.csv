@@ -1,0 +1,124 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+111291152,111291153,0,False,primary,Delaware Avenue,25.027,,,,40 mph,,,,,,,278983998,NY 384
+111291152,111462088,0,False,primary,Delaware Avenue,72.757,,,,40 mph,,,,,,,278983998,NY 384
+111291153,111291173,0,False,primary,Delaware Avenue,70.401,,,,40 mph,,,,,,,278983998,NY 384
+111291153,111291152,0,False,primary,Delaware Avenue,25.027,,,,40 mph,,,,,,,278983998,NY 384
+111291153,111338009,0,False,residential,Coventry Road,478.714,,,,,,,,,,,12318195,
+111291170,111461478,0,False,primary,Delaware Avenue,97.436,,,,40 mph,,,,,,,278983998,NY 384
+111291170,111291173,0,False,primary,Delaware Avenue,25.351,,,,40 mph,,,,,,,278983998,NY 384
+111291170,111338006,0,False,residential,Colonial Avenue,488.4,,,,,,,,,,,12291862,
+111291173,111291170,0,False,primary,Delaware Avenue,25.351,,,,40 mph,,,,,,,278983998,NY 384
+111291173,111291153,0,False,primary,Delaware Avenue,70.401,,,,40 mph,,,,,,,278983998,NY 384
+111295136,305635109,0,True,motorway_link,,54.32,,,,,yes,,,,,,27837463,
+111295136,111338021,0,False,tertiary,Elmwood Avenue,589.884,,,,30 mph,,,,,,,368276968,
+111295136,111363885,0,False,tertiary,Knoche Road,59.068,3,,,30 mph,yes,,,,,,480347772,CR 306
+111310195,111356453,0,False,primary,Delaware Avenue,62.064,,,,40 mph,,,,,,,48874006,NY 384
+111310195,111457070,0,False,primary,Delaware Avenue,89.472,,,,40 mph,,,,,,,48874006,NY 384
+111331921,111331929,0,False,residential,Nicholas Drive North,48.08,,,,,,,,,,,12283403,
+111331921,111332780,0,False,residential,Nicholas Drive South,140.037,,,,,,,,,,,12283515,
+111331921,111356458,0,False,residential,Dreyer Avenue,213.903,,,,,,,,,,,12286320,
+111331929,111331975,0,False,residential,Nicholas Drive North,343.36,,,,,,,,,,,12283403,
+111331929,111331921,0,False,residential,Nicholas Drive North,48.08,,,,,,,,,,,12283403,
+111331929,111332801,0,False,residential,Amy Drive,211.847,,,,,,,,,,,12297769,
+111331975,111332801,0,False,residential,Nicholas Drive South,50.628,,,,,,,,,,,12283515,
+111331975,111331929,0,False,residential,Nicholas Drive North,343.36,,,,,,,,,,,12283403,
+111331975,111382570,0,False,residential,Merle Drive,74.776,,,,,,,,,,,12307046,
+111332780,111426551,0,False,residential,Nicholas Court,67.829,,,,,,,,,,,12293990,
+111332780,111332801,0,False,residential,Nicholas Drive South,162.917,,,,,,,,,,,12283515,
+111332780,111331921,0,False,residential,Nicholas Drive South,140.037,,,,,,,,,,,12283515,
+111332801,111331975,0,False,residential,Nicholas Drive South,50.628,,,,,,,,,,,12283515,
+111332801,111332780,0,False,residential,Nicholas Drive South,162.917,,,,,,,,,,,12283515,
+111332801,111331929,0,False,residential,Amy Drive,211.847,,,,,,,,,,,12297769,
+111338005,111338006,0,False,tertiary,Elmwood Avenue,96.629,,,,30 mph,,,,,,,368276968,
+111338005,111382515,0,False,residential,School Street,532.046,,,,,,,,,,,12307392,
+111338005,111461478,0,False,residential,School Street,497.843,,,,,,,,,,,12307392,
+111338006,111338009,0,False,tertiary,Elmwood Avenue,95.184,,,,30 mph,,,,,,,368276968,
+111338006,111338005,0,False,tertiary,Elmwood Avenue,96.629,,,,30 mph,,,,,,,368276968,
+111338006,111291170,0,False,residential,Colonial Avenue,488.4,,,,,,,,,,,12291862,
+111338006,111382517,0,False,residential,Homewood Avenue,518.907,,,,,,,,,,,12312884,
+111338009,111338011,0,False,tertiary,Elmwood Avenue,97.63,,,,30 mph,,,,,,,368276968,
+111338009,111338006,0,False,tertiary,Elmwood Avenue,95.184,,,,30 mph,,,,,,,368276968,
+111338009,111635243,0,False,residential,Coventry Road,297.562,,,,,,,,,,,12318195,
+111338009,111291153,0,False,residential,Coventry Road,478.714,,,,,,,,,,,12318195,
+111338011,111338012,0,False,tertiary,Elmwood Avenue,94.183,,,,30 mph,,,,,,,368276968,
+111338011,111338009,0,False,tertiary,Elmwood Avenue,97.63,,,,30 mph,,,,,,,368276968,
+111338011,111462088,0,False,residential,Canterbury Lane,469.271,,,,,,,,,,,12316311,
+111338012,111338013,0,False,tertiary,Elmwood Avenue,91.403,,,,30 mph,,,,,,,368276968,
+111338012,111338011,0,False,tertiary,Elmwood Avenue,94.183,,,,30 mph,,,,,,,368276968,
+111338012,111382530,0,False,residential,Oakridge Avenue,481.084,,,,,,,,,,,12303104,
+111338012,111462090,0,False,residential,Oakridge Avenue,459.419,,,,,,,,,,,12303104,
+111338013,111338014,0,False,tertiary,Elmwood Avenue,87.844,,,,30 mph,,,,,,,368276968,
+111338013,111338012,0,False,tertiary,Elmwood Avenue,91.403,,,,30 mph,,,,,,,368276968,
+111338013,111382532,0,False,residential,Ferndale Avenue,470.117,,,,,,,,,,,12300249,
+111338013,111462094,0,False,residential,Ferndale Avenue,450.468,,,,,,,,,,,12300249,
+111338014,111338017,0,False,tertiary,Elmwood Avenue,87.733,,,,30 mph,,,,,,,368276968,
+111338014,111338013,0,False,tertiary,Elmwood Avenue,87.844,,,,30 mph,,,,,,,368276968,
+111338017,111338021,0,False,tertiary,Elmwood Avenue,101.41,,,,30 mph,,,,,,,368276968,
+111338017,111338014,0,False,tertiary,Elmwood Avenue,87.733,,,,30 mph,,,,,,,368276968,
+111338017,111382542,0,False,residential,Rosemont Avenue,446.585,,,,,,,,,,,12294854,
+111338021,111338017,0,False,tertiary,Elmwood Avenue,101.41,,,,30 mph,,,,,,,368276968,
+111338021,111382548,0,False,residential,Waverly Avenue,432.504,,,,,,,,,,,12308633,
+111338021,111295136,0,False,tertiary,Elmwood Avenue,589.884,,,,30 mph,,,,,,,368276968,
+111356453,111310195,0,False,primary,Delaware Avenue,62.064,,,,40 mph,,,,,,,48874006,NY 384
+111356453,111356458,0,False,residential,Dreyer Avenue,122.425,,,,,,,,,,,12286320,
+111356458,111601463,0,False,residential,Winkler Drive,78.728,,,,,,,,,,,12313996,
+111356458,111331921,0,False,residential,Dreyer Avenue,213.903,,,,,,,,,,,12286320,
+111356458,111356453,0,False,residential,Dreyer Avenue,122.425,,,,,,,,,,,12286320,
+111363885,111295136,0,False,tertiary,Knoche Road,59.068,3,,,30 mph,yes,,,,,,480347772,CR 306
+111382515,111382517,0,False,secondary,Military Road,97.81,,,,,,,,,,,368276965,NY 265
+111382515,111338005,0,False,residential,School Street,532.046,,,,,,,,,,,12307392,
+111382517,111382519,0,False,secondary,Military Road,52.475,,,,,,,,,,,368276965,NY 265
+111382517,111382515,0,False,secondary,Military Road,97.81,,,,,,,,,,,368276965,NY 265
+111382517,111338006,0,False,residential,Homewood Avenue,518.907,,,,,,,,,,,12312884,
+111382519,111382523,0,False,secondary,Military Road,43.045,,,,,,,,,,,368276965,NY 265
+111382519,111382517,0,False,secondary,Military Road,52.475,,,,,,,,,,,368276965,NY 265
+111382523,111635247,0,False,residential,Coventry Road,73.213,,,,,,,,,,,12318195,
+111382523,111382519,0,False,secondary,Military Road,43.045,,,,,,,,,,,368276965,NY 265
+111382523,111382530,0,False,secondary,Military Road,201.143,,,,,,,,,,,368276965,NY 265
+111382530,111382532,0,False,secondary,Military Road,87.114,,,,,,,,,,,368276965,NY 265
+111382530,111338012,0,False,residential,Oakridge Avenue,481.084,,,,,,,,,,,12303104,
+111382530,111382523,0,False,secondary,Military Road,201.143,,,,,,,,,,,368276965,NY 265
+111382532,111382530,0,False,secondary,Military Road,87.114,,,,,,,,,,,368276965,NY 265
+111382532,111338013,0,False,residential,Ferndale Avenue,470.117,,,,,,,,,,,12300249,
+111382542,111382546,0,False,secondary,Military Road,37.497,,,,,,,,,,,368276965,NY 265
+111382542,111338017,0,False,residential,Rosemont Avenue,446.585,,,,,,,,,,,12294854,
+111382546,111382548,0,False,secondary,Military Road,65.425,,,,,,,,,,,368276965,NY 265
+111382546,111382542,0,False,secondary,Military Road,37.497,,,,,,,,,,,368276965,NY 265
+111382548,111382546,0,False,secondary,Military Road,65.425,,,,,,,,,,,368276965,NY 265
+111382548,111338021,0,False,residential,Waverly Avenue,432.504,,,,,,,,,,,12308633,
+111382570,111331975,0,False,residential,Merle Drive,74.776,,,,,,,,,,,12307046,
+111411914,111462088,0,False,primary,Delaware Avenue,20.442,,,,40 mph,,,,,,,278983998,NY 384
+111411914,111462090,0,False,primary,Delaware Avenue,81.927,,,,40 mph,,,,,,,278983998,NY 384
+111426551,111332780,0,False,residential,Nicholas Court,67.829,,,,,,,,,,,12293990,
+111457070,111310195,0,False,primary,Delaware Avenue,89.472,,,,40 mph,,,,,,,48874006,NY 384
+111457070,111462013,0,False,primary,Delaware Avenue,104.112,,,,40 mph,,,,,,,48874006,NY 384
+111461478,111291170,0,False,primary,Delaware Avenue,97.436,,,,40 mph,,,,,,,278983998,NY 384
+111461478,111338005,0,False,residential,School Street,497.843,,,,,,,,,,,12307392,
+111462013,111457070,0,False,primary,Delaware Avenue,104.112,,,,40 mph,,,,,,,48874006,NY 384
+111462088,111291152,0,False,primary,Delaware Avenue,72.757,,,,40 mph,,,,,,,278983998,NY 384
+111462088,111411914,0,False,primary,Delaware Avenue,20.442,,,,40 mph,,,,,,,278983998,NY 384
+111462088,111338011,0,False,residential,Canterbury Lane,469.271,,,,,,,,,,,12316311,
+111462090,111411914,0,False,primary,Delaware Avenue,81.927,,,,40 mph,,,,,,,278983998,NY 384
+111462090,111462094,0,False,primary,Delaware Avenue,91.761,,,,40 mph,,,,,,,278983998,NY 384
+111462090,111338012,0,False,residential,Oakridge Avenue,459.419,,,,,,,,,,,12303104,
+111462094,111462090,0,False,primary,Delaware Avenue,91.761,,,,40 mph,,,,,,,278983998,NY 384
+111462094,111338013,0,False,residential,Ferndale Avenue,450.468,,,,,,,,,,,12300249,
+111601463,111356458,0,False,residential,Winkler Drive,78.728,,,,,,,,,,,12313996,
+111601463,111601471,0,False,residential,Winkler Drive,253.841,,,,,,,,,,,12313996,
+111601463,111601471,1,False,residential,Eden Avenue,270.356,,,,,,,,,,,12318034,
+111601471,111601463,0,False,residential,Winkler Drive,253.841,,,,,,,,,,,12313996,
+111601471,111601463,1,False,residential,Eden Avenue,270.356,,,,,,,,,,,12318034,
+111601471,620072010,0,False,residential,Winkler Drive,70.28,,,,,,,,,,,12313996,
+111635243,111635247,0,False,residential,Coventry Road,136.256,,,,,,,,,,,12318195,
+111635243,111635247,1,False,residential,Ermann Drive,312.999,,,,,,,,,,,12319393,
+111635243,111338009,0,False,residential,Coventry Road,297.562,,,,,,,,,,,12318195,
+111635247,111382523,0,False,residential,Coventry Road,73.213,,,,,,,,,,,12318195,
+111635247,111635243,0,False,residential,Coventry Road,136.256,,,,,,,,,,,12318195,
+111635247,111635243,1,False,residential,Ermann Drive,312.999,,,,,,,,,,,12319393,
+270915117,304898863,0,True,motorway,Youngmann Expressway,362.516,3,,,55 mph,,,,,,,24930331,I 290
+304898864,26496247,0,True,motorway,Youngmann Expressway,234.367,3,,,55 mph,,,,,,,24930121,I 290
+304898864,305635424,0,True,motorway_link,,151.44,,,,,,,,,,,27837482,
+305635109,26496247,0,True,motorway_link,,109.183,1,,,,yes,,,,,,198551244,
+305635424,111295136,0,True,motorway_link,,51.802,,,,,,,,,,,27837509,
+305635424,111363885,0,True,motorway_link,,78.077,,,,,,,,,,,359424154,
+620072010,111601471,0,False,residential,Winkler Drive,70.28,,,,,,,,,,,12313996,

@@ -1,0 +1,411 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+212607215,212738422,0,True,motorway,,322.933,2,,,65 mph,,,,,,,20119682,I 490
+212607226,212689906,0,False,secondary,Churchville Riga Road,54.597,,,,,,,,,,,38686263,NY 36
+212607226,212615093,0,False,secondary,Churchville Riga Road,200.388,,,,,,,yes,,,,"[20130983, 38686260, 38686261, 38686262, 38686263]",NY 36
+212607226,212607215,0,True,motorway_link,,292.095,,,,,,,,,,,359424153,
+212607238,212607226,0,True,motorway_link,,272.113,,,,,,,,,,,20110520,
+212607238,212607215,0,True,motorway,,548.509,2,,,65 mph,,,,,,,20119682,I 490
+212615093,1937571788,0,False,secondary,Churchville Riga Road,57.348,,,,,,,,,,,20130983,NY 36
+212615093,212615087,0,True,motorway_link,,287.886,,,,,,,,,,,38686259,
+212615093,212607226,0,False,secondary,Churchville Riga Road,200.388,,,,,,,yes,,,,"[20130983, 38686260, 38686261, 38686262, 38686263]",NY 36
+212615099,212615093,0,True,motorway_link,,296.113,,,,,,,,,,,38686259,
+212615099,212615087,0,True,motorway,,571.714,2,,,65 mph,,,,,,,44075968,I 490
+212621818,212757780,0,False,residential,Fairbanks Road,1227.889,,,,,,,,,,,20129200,
+212621818,212770792,0,False,secondary,Buffalo Road,858.118,,,,,,,,,,,395182935,NY 33
+212629054,2095789553,0,False,residential,Burnt Mill Road,1096.879,,,,,,,,,,,20112027,
+212629054,212733379,0,False,residential,Robertson Road,682.32,,,,,,,,,,,20126000,
+212629054,212799262,0,False,residential,Robertson Road,1501.654,,,,,,,,,,,20126000,
+212629065,2095789566,0,False,residential,Burnt Mill Road,46.769,,,,,,,,,,,20112029,
+212629065,212680114,0,False,residential,Savage Road,2495.53,,,,,,,,,,,20115434,
+212629065,212733334,0,False,residential,"['Savage Road', 'Baker Street']",1771.713,,,,,,,,,,,"[20115434, 20119126]",
+212650214,212650218,0,False,residential,Johnson Road,506.852,,,,,,,,,,,20113364,
+212650214,212650214,0,False,residential,Johnson Rd,172.644,,,,,,,,,,,45801641,
+212650214,212650214,1,False,residential,Johnson Rd,172.644,,,,,,,,,,,45801641,
+212650218,212650214,0,False,residential,Johnson Road,506.852,,,,,,,,,,,20113364,
+212650218,212650274,0,False,residential,Johnson Road,1204.241,,,,,,,,,,,20113364,
+212650218,212783198,0,False,residential,Sheridan Road,1203.482,,,,,,,yes,,,,"[20124622, 38688333, 38688334]",
+212650274,212650277,0,False,residential,Johnson Road,487.511,,,,,,,,,,,20113364,
+212650274,212650218,0,False,residential,Johnson Road,1204.241,,,,,,,,,,,20113364,
+212650274,212790457,0,False,secondary,Chili Riga Center Road,1109.434,,,,,,,,,,,48700129,NY 33A
+212650274,212790376,0,False,secondary,Chili Riga Center Road,773.821,,,,,,,,,,,48700129,NY 33A
+212650277,212650295,0,False,residential,Johnson Road,1566.144,,,,,,,,,,,20113364,
+212650277,212650274,0,False,residential,Johnson Road,487.511,,,,,,,,,,,20113364,
+212650277,212790376,0,False,residential,Appletree Road,605.093,,,,,,,,,,,20136036,
+212650295,212650310,0,False,residential,Johnson Road,1036.105,,,,,,,,,,,20113364,
+212650295,212650277,0,False,residential,Johnson Road,1566.144,,,,,,,,,,,20113364,
+212650295,212688274,0,False,residential,"['Obrien Road', 'Brew Road']",2114.906,,,,,,,,,,,"[20139217, 20137119]",
+212650310,212650295,0,False,residential,Johnson Road,1036.105,,,,,,,,,,,20113364,
+212650310,212688256,0,False,residential,Bovee Road,441.695,,,,,,,,,,,38688338,
+212650310,212679997,0,False,residential,Bovee Road,378.992,,,,,,,,,,,38688338,
+212661212,212661217,0,False,residential,Hutton Circle,73.218,,,,,,,,,,,20113940,
+212661212,212748976,0,False,tertiary,North Main Street,245.436,,,,,,,,,,,313016441,CR 268
+212661212,2157105443,0,False,"['residential', 'tertiary']","['Bangs Road', 'North Main Street']",1511.132,,,,,,,,,,,"[313016441, 20129172]",CR 268
+212661217,212661212,0,False,residential,Hutton Circle,73.218,,,,,,,,,,,20113940,
+212661217,212661217,0,False,residential,Hutton Circle,673.106,,,,,,,,,,,20113947,
+212661217,212661217,1,False,residential,Hutton Circle,673.106,,,,,,,,,,,20113947,
+212667727,212667735,0,False,residential,Green Road,242.706,,,,,,,,,,,20114426,
+212667727,212735973,0,False,tertiary,Bettridge Road,1287.841,,,,,,,,,,,20119351,CR 192
+212667727,212735945,0,False,tertiary,Bettridge Road,775.699,,,,,,,,,,,20119351,CR 192
+212667735,212667738,0,False,residential,Green Road,105.392,,,,,,,,,,,"[20114426, 327959835]",
+212667735,212667727,0,False,residential,Green Road,242.706,,,,,,,,,,,20114426,
+212667735,3347783266,0,False,residential,Greenvale Woods,356.922,,,,,,,,,,,20141178,
+212667738,3347783266,0,False,residential,Greenvale Woods,199.743,,,,,,,,,,,20141178,
+212667738,212772854,0,False,residential,"['Chili Riga Townline Road', 'Green Road']",1631.562,,,,,,,,,,,"[327959835, 20123660, 327959836]",
+212667738,212667735,0,False,residential,Green Road,105.392,,,,,,,,,,,"[20114426, 327959835]",
+212673935,212680114,0,False,tertiary,Attridge Road,269.822,,,,,,,,,,,20132929,CR 194
+212673935,212760189,0,False,tertiary,Attridge Road,1470.811,,,,,,,,,,,20132929,CR 194
+212676264,212676280,0,False,residential,Jenkins Road,1634.244,,,,,,,,,,,20115176,
+212676264,212733406,0,False,tertiary,Palmer Road,2209.009,,,,,,,,,,,20119132,CR 184
+212676280,212676283,0,False,residential,Jenkins Road,766.217,,,,,,,,,,,20115176,
+212676280,212676264,0,False,residential,Jenkins Road,1634.244,,,,,,,,,,,20115176,
+212676280,212780245,0,False,residential,Stearns Road,2172.129,,,,,,,,,,,20124358,
+212676283,212676280,0,False,residential,Jenkins Road,766.217,,,,,,,,,,,20115176,
+212676283,212772861,0,False,tertiary,"['Hosmer Road', 'Chili Riga Townline Road']",1589.741,,,,,,,,,,,"[329133048, 20128530]","['CR 190', 'CR 151']"
+212679976,212679997,0,False,residential,Edgewood Lane,202.354,,,,,,,,,,,20115425,
+212679997,212688274,0,False,residential,Bovee Road,507.004,,,,,,,,,,,38688338,
+212679997,212679976,0,False,residential,Edgewood Lane,202.354,,,,,,,,,,,20115425,
+212679997,212650310,0,False,residential,Bovee Road,378.992,,,,,,,,,,,38688338,
+212680114,212629065,0,False,residential,Savage Road,2495.53,,,,,,,,,,,20115434,
+212680114,212764869,0,False,tertiary,Attridge Road,797.593,,,,,,,yes,,,,"[20132929, 38686251, 38686253, 38686255, 38686256]",CR 194
+212680114,212673935,0,False,tertiary,Attridge Road,269.822,,,,,,,,,,,20132929,CR 194
+212685573,212685575,0,False,residential,North Street,153.216,,,,,,,,,,,20115813,
+212685573,212813260,0,False,secondary,West Buffalo Street,184.869,,,,,,,,,,,20136591,NY 33
+212685573,212860741,0,False,secondary,West Buffalo Street,140.78,,,,,,,,,,,20136591,NY 33
+212685575,212685573,0,False,residential,North Street,153.216,,,,,,,,,,,20115813,
+212685575,212712134,0,False,residential,Fitch Street,301.168,,,,,,,,,,,20128732,
+212685575,665610068,0,False,residential,Howard Avenue,78.317,,,,,,,,,,,20135281,
+212688240,212705338,0,False,tertiary,Malloch Road,1069.507,,,,,,,,,,,20117003,CR 182
+212688240,212688256,0,False,residential,Bovee Road,1186.903,,,,,,,,,,,38688338,
+212688256,212927472,0,False,residential,Blue Road,885.736,,,,,,,,,,,20137454,
+212688256,212688240,0,False,residential,Bovee Road,1186.903,,,,,,,,,,,38688338,
+212688256,212650310,0,False,residential,Bovee Road,441.695,,,,,,,,,,,38688338,
+212688274,212679997,0,False,residential,Bovee Road,507.004,,,,,,,,,,,38688338,
+212688274,212650295,0,False,residential,"['Obrien Road', 'Brew Road']",2114.906,,,,,,,,,,,"[20139217, 20137119]",
+212689286,1937571788,0,False,residential,Sanford Road North,2054.045,,,,,,,,,,,"[20116049, 20116051]",
+212689286,665610067,0,False,secondary,West Buffalo Street,70.127,,,,,,,,,,,20136591,NY 33
+212689286,212784429,0,False,secondary,West Buffalo Road,1037.169,,,,,,,,,,,20137709,NY 33
+212689906,212607226,0,False,secondary,Churchville Riga Road,54.597,,,,,,,,,,,38686263,NY 36
+212689906,212689996,0,False,residential,Sanford Road South,2831.511,,,,,,,,,,,20116088,
+212689906,212799262,0,False,secondary,Churchville Riga Road,368.401,,,,,,,,,,,38686263,NY 36
+212689996,212689906,0,False,residential,Sanford Road South,2831.511,,,,,,,,,,,20116088,
+212689996,212790361,0,False,secondary,Churchville Riga Road,1040.873,,,,,,,,,,,38686263,NY 36
+212689996,212799262,0,False,secondary,Churchville Riga Road,1107.694,,,,,,,,,,,38686263,NY 36
+212705330,212705338,0,False,tertiary,Malloch Road,1579.269,,,,,,,,,,,20117003,CR 182
+212705330,212790376,0,False,secondary,Chili Riga Center Road,898.663,,,,,,,,,,,48700129,NY 33A
+212705330,212790363,0,False,secondary,Chili Riga Center Road,719.701,,,,,,,,,,,48700129,NY 33A
+212705338,212688240,0,False,tertiary,Malloch Road,1069.507,,,,,,,,,,,20117003,CR 182
+212705338,212705330,0,False,tertiary,Malloch Road,1579.269,,,,,,,,,,,20117003,CR 182
+212705338,212821363,0,False,tertiary,Bridgeman Road,1552.459,,,,,,,,,,,20127872,CR 153
+212711042,212783198,0,False,secondary,West Buffalo Road,927.716,,,,,,,yes,,,,"[53785985, 53785987, 20137709]",NY 33
+212711042,212784429,0,False,secondary,West Buffalo Road,745.123,,,,,,,,,,,20137709,NY 33
+212712131,212712134,0,False,secondary,South Main Street,152.897,,,,,,,,,,,20117471,NY 36
+212712131,212748962,0,False,tertiary,North Main Street,357.285,,,,,,,,,,,20120740,CR 268
+212712131,212860741,0,False,secondary,West Buffalo Street,156.041,,,,,,,,,,,20136591,NY 33
+212712131,212733334,0,False,secondary,East Buffalo Street,261.277,,,,,,,yes,,,,"[145640654, 20129142, 145640655]",NY 33; NY 36
+212712134,212712136,0,False,secondary,South Main Street,194.49,,,,,,,,,,,20117471,NY 36
+212712134,212712131,0,False,secondary,South Main Street,152.897,,,,,,,,,,,20117471,NY 36
+212712134,212685575,0,False,residential,Fitch Street,301.168,,,,,,,,,,,20128732,
+212712136,212712134,0,False,secondary,South Main Street,194.49,,,,,,,,,,,20117471,NY 36
+212712136,212712146,0,False,secondary,South Main Street,76.949,,,,,,,,,,,20117471,NY 36
+212712136,665610068,0,False,residential,Howard Avenue,429.275,,,,,,,,,,,20135281,
+212712146,212712150,0,False,secondary,South Main Street,78.953,,,,,,,,,,,20117471,NY 36
+212712146,212712136,0,False,secondary,South Main Street,76.949,,,,,,,,,,,20117471,NY 36
+212712146,212896849,0,False,residential,Carrol Street,176.22,,,,,,,,,,,20135059,
+212712150,212712146,0,False,secondary,South Main Street,78.953,,,,,,,,,,,20117471,NY 36
+212712150,212712156,0,False,secondary,South Main Street,174.912,,,,,,,,,,,20117471,NY 36
+212712150,212828827,0,False,residential,Shelter Cove,117.645,,,,,,,,,,,20128520,
+212712156,212712158,0,False,secondary,South Main Street,193.146,,,,,,,,,,,20117471,NY 36
+212712156,212712150,0,False,secondary,South Main Street,174.912,,,,,,,,,,,20117471,NY 36
+212712156,212801905,0,False,residential,Tower Lane,277.637,,,,,,,,,,,20126213,
+212712158,212712156,0,False,secondary,South Main Street,193.146,,,,,,,,,,,20117471,NY 36
+212712158,212723539,0,False,residential,Chiswick Drive,69.104,,,,,,,,,,,20118365,
+212712158,1937571788,0,False,secondary,"['Churchville Riga Road', 'South Main Street']",203.077,,,,,,,,,,,"[20130983, 20117471]",NY 36
+212723539,212712158,0,False,residential,Chiswick Drive,69.104,,,,,,,,,,,20118365,
+212723539,212723563,0,False,residential,Chiswick Drive,193.173,,,,,,,,,,,20118365,
+212723539,212723563,1,False,residential,Chiswick Drive,760.47,,,,,,,,,,,20118365,
+212723563,212723539,0,False,residential,Chiswick Drive,760.47,,,,,,,,,,,20118365,
+212723563,212723539,1,False,residential,Chiswick Drive,193.173,,,,,,,,,,,20118365,
+212723563,212744689,0,False,residential,Alicia Circle,116.798,,,,,,,,,,,20120269,
+212733334,212629065,0,False,residential,"['Savage Road', 'Baker Street']",1771.713,,,,,,,,,,,"[20115434, 20119126]",
+212733334,212834966,0,False,secondary,East Buffalo Street,185.939,,,,,,,,,,,145640654,NY 33; NY 36
+212733334,212712131,0,False,secondary,East Buffalo Street,261.277,,,,,,,yes,,,,"[20129142, 145640654, 145640655]",NY 33; NY 36
+212733379,212733396,0,False,tertiary,Palmer Road,1725.0,,,,,,,,,,,20119132,CR 184
+212733379,212799324,0,False,residential,Robertson Road,1293.815,,,,,,,,,,,20126000,
+212733379,212629054,0,False,residential,Robertson Road,682.32,,,,,,,,,,,20126000,
+212733396,212733406,0,False,tertiary,Palmer Road,1046.417,,,,,,,,,,,20119132,CR 184
+212733396,212733379,0,False,tertiary,Palmer Road,1725.0,,,,,,,,,,,20119132,CR 184
+212733396,212799324,0,False,tertiary,Attridge Road,2495.277,,,,,,,,,,,38686253,CR 194
+212733396,212790359,0,False,secondary,Chili Riga Center Road,1581.678,,,,,,,,,,,135262715,NY 33A
+212733396,212790329,0,False,secondary,Chili Riga Center Road,1410.054,,,,,,,,,,,135262715,NY 33A
+212733406,212676264,0,False,tertiary,Palmer Road,2209.009,,,,,,,,,,,20119132,CR 184
+212733406,212733396,0,False,tertiary,Palmer Road,1046.417,,,,,,,,,,,20119132,CR 184
+212733406,212844813,0,False,tertiary,Griffin Road,1578.722,,,,,,,,,,,20130000,CR 155
+212733406,212780245,0,False,tertiary,Griffin Road,1602.818,,,,,,,,,,,20130000,CR 155
+212734750,212757782,0,False,tertiary,Westside Drive,1152.661,,,,,,,,,,,20141611,CR 119
+212735945,4103337878,0,False,secondary,Chili Riga Center Road,331.253,,,,,,,,,,,135262715,NY 33A
+212735945,212667727,0,False,tertiary,Bettridge Road,775.699,,,,,,,,,,,20119351,CR 192
+212735973,212667727,0,False,tertiary,Bettridge Road,1287.841,,,,,,,,,,,20119351,CR 192
+212735973,212780245,0,False,tertiary,Griffin Road,739.849,,,,,,,,,,,20130000,CR 155
+212735973,212772854,0,False,tertiary,Griffin Road,886.619,,,,,,,,,,,20130000,CR 155
+212738422,212738428,0,True,motorway,,549.646,2,,,65 mph,,,,,,,20119682,I 490
+212738422,212738428,1,True,motorway_link,,552.092,,,,,no,,,,,,104191552,
+212739846,212615099,0,True,motorway,,397.092,2,,,65 mph,,,,,,,44075968,I 490
+212739848,212739846,0,True,motorway,,472.964,2,,,65 mph,,,,,,,44075968,I 490
+212739848,212739846,1,True,motorway_link,,479.331,,,,,no,,,,,,104191557,
+212744689,212723563,0,False,residential,Alicia Circle,116.798,,,,,,,,,,,20120269,
+212744689,212744689,0,False,residential,Alicia Circle,100.899,,,,,,,,,,,20120272,
+212744689,212744689,1,False,residential,Alicia Circle,100.899,,,,,,,,,,,20120272,
+212748962,212712131,0,False,tertiary,North Main Street,357.285,,,,,,,,,,,20120740,CR 268
+212748962,212748976,0,False,tertiary,North Main Street,756.416,,,,,,,yes,,,,"[313016440, 313016441, 20120740]",CR 268
+212748962,212824521,0,False,residential,Park Road,605.915,,,,,,,,,,,20128155,
+212748976,212661212,0,False,tertiary,North Main Street,245.436,,,,,,,,,,,313016441,CR 268
+212748976,212751359,0,False,residential,Gilman Road,313.943,,,,,,,,,,,20120951,
+212748976,212772239,0,False,residential,Kendall Road,1184.808,,,,,,,,,,,20123576,
+212748976,212748962,0,False,tertiary,North Main Street,756.416,,,,,,,yes,,,,"[313016440, 313016441, 20120740]",CR 268
+212751325,212751331,0,False,residential,Gilman Road,497.656,,,,,,,,,,,20120951,
+212751325,212834975,0,False,secondary,Washington Street,417.565,,,,,,,,,,,139486959,NY 36
+212751325,212870442,0,False,secondary,Washington Street,237.599,,,,,,,,,,,139486959,NY 36
+212751331,212751348,0,False,residential,Gilman Road,315.516,,,,,,,,,,,20120951,
+212751331,212751325,0,False,residential,Gilman Road,497.656,,,,,,,,,,,20120951,
+212751331,212761333,0,False,residential,Ridgefield Drive,676.768,,,,,,,,,,,20122189,
+212751348,212751359,0,False,residential,Gilman Road,146.679,,,,,,,,,,,20120951,
+212751348,212751359,1,False,residential,,184.428,,,,,,,,,,,313016446,
+212751348,212751331,0,False,residential,Gilman Road,315.516,,,,,,,,,,,20120951,
+212751359,212748976,0,False,residential,Gilman Road,313.943,,,,,,,,,,,20120951,
+212751359,212751348,0,False,residential,Gilman Road,146.679,,,,,,,,,,,20120951,
+212751359,212751348,1,False,residential,,184.428,,,,,,,,,,,313016446,
+212753223,212753227,0,False,residential,Toed Drive,275.544,,,,,,,,,,,20121132,
+212753227,212753223,0,False,residential,Toed Drive,275.544,,,,,,,,,,,20121132,
+212753227,212821363,0,False,secondary,Riga Mumford Road,633.721,,,,,,,,,,,43675264,NY 36
+212754734,212834968,0,False,secondary,East Buffalo Street,156.38,,,,,,,,,,,145640654,NY 33; NY 36
+212754734,212834966,0,False,secondary,East Buffalo Street,161.907,,,,,,,,,,,145640654,NY 33; NY 36
+212754734,212754759,0,False,residential,Creekside Drive,217.01,,,,,,,,,,,20121341,
+212754759,212754734,0,False,residential,Creekside Drive,217.01,,,,,,,,,,,20121341,
+212757780,212757782,0,False,tertiary,Westside Drive,22.817,,,,,,,,,,,20121735,CR 119
+212757780,212621818,0,False,residential,Fairbanks Road,1227.889,,,,,,,,,,,20129200,
+212757782,212757780,0,False,tertiary,Westside Drive,22.817,,,,,,,,,,,20121735,CR 119
+212757782,212734750,0,False,tertiary,Westside Drive,1152.661,,,,,,,,,,,20141611,CR 119
+212760128,212760181,0,False,tertiary,Bromley Road,2167.928,,,,,,,,,,,20122044,CR 161
+212760128,212834975,0,False,secondary,"['East Buffalo Street', 'Buffalo Road']",390.739,,,,,,,,,,,"[48686024, 395182935]",NY 33
+212760128,212770792,0,False,secondary,Buffalo Road,2212.002,,,,,,,,,,,395182935,NY 33
+212760181,212760189,0,False,tertiary,Bromley Road,1572.931,,,,,,,,,,,20122044,CR 161
+212760181,212760128,0,False,tertiary,Bromley Road,2167.928,,,,,,,,,,,20122044,CR 161
+212760181,212770792,0,False,residential,Percy Road,657.387,,,,,,,,,,,20124720,
+212760189,212760181,0,False,tertiary,Bromley Road,1572.931,,,,,,,,,,,20122044,CR 161
+212760189,212673935,0,False,tertiary,Attridge Road,1470.811,,,,,,,,,,,20132929,CR 194
+212761333,212834968,0,False,secondary,East Buffalo Street,90.369,,,,,,,,,,,145640654,NY 33; NY 36
+212761333,212751331,0,False,residential,Ridgefield Drive,676.768,,,,,,,,,,,20122189,
+212761333,212801149,0,False,secondary,East Buffalo Street,168.929,,,,,,,,,,,145640654,NY 33; NY 36
+212764869,212799324,0,False,tertiary,Attridge Road,640.871,,,,,,,,,,,38686253,CR 194
+212764869,212680114,0,False,tertiary,Attridge Road,797.593,,,,,,,yes,,,,"[20132929, 38686251, 38686253, 38686255, 38686256]",CR 194
+212770792,212760181,0,False,residential,Percy Road,657.387,,,,,,,,,,,20124720,
+212770792,212760128,0,False,secondary,Buffalo Road,2212.002,,,,,,,,,,,395182935,NY 33
+212770792,212621818,0,False,secondary,Buffalo Road,858.118,,,,,,,,,,,395182935,NY 33
+212772239,221698859,0,False,residential,Kendall Road,1297.461,,,,,,,,,,,20123576,
+212772239,212748976,0,False,residential,Kendall Road,1184.808,,,,,,,,,,,20123576,
+212772854,212735973,0,False,tertiary,Griffin Road,886.619,,,,,,,,,,,20130000,CR 155
+212772854,212667738,0,False,residential,"['Chili Riga Townline Road', 'Green Road']",1631.562,,,,,,,,,,,"[327959835, 327959836, 20123660]",
+212772854,212772861,0,False,tertiary,Chili Riga Townline Road,622.03,,,,,,,,,,,329133048,CR 190
+212772861,212676283,0,False,tertiary,"['Hosmer Road', 'Chili Riga Townline Road']",1589.741,,,,,,,,,,,"[329133048, 20128530]","['CR 190', 'CR 151']"
+212772861,212772854,0,False,tertiary,Chili Riga Townline Road,622.03,,,,,,,,,,,329133048,CR 190
+212780245,212676280,0,False,residential,Stearns Road,2172.129,,,,,,,,,,,20124358,
+212780245,212733406,0,False,tertiary,Griffin Road,1602.818,,,,,,,,,,,20130000,CR 155
+212780245,212735973,0,False,tertiary,Griffin Road,739.849,,,,,,,,,,,20130000,CR 155
+212783198,212650218,0,False,residential,Sheridan Road,1203.482,,,,,,,yes,,,,"[38688334, 38688333, 20124622]",
+212783198,212711042,0,False,secondary,West Buffalo Road,927.716,,,,,,,yes,,,,"[53785985, 53785987, 20137709]",NY 33
+212784429,212784451,0,False,residential,Gough Road,1189.764,,,,,,,,,,,20124722,
+212784429,212711042,0,False,secondary,West Buffalo Road,745.123,,,,,,,,,,,20137709,NY 33
+212784429,212689286,0,False,secondary,West Buffalo Road,1037.169,,,,,,,,,,,20137709,NY 33
+212784451,212784429,0,False,residential,Gough Road,1189.764,,,,,,,,,,,20124722,
+212790329,212798328,0,False,residential,Vanessa Lane,267.173,,,,,,,,,,,20125916,
+212790329,212733396,0,False,secondary,Chili Riga Center Road,1410.054,,,,,,,,,,,135262715,NY 33A
+212790329,4103337872,0,False,secondary,Chili Riga Center Road,1159.123,,,,,,,,,,,135262715,NY 33A
+212790359,212844813,0,False,secondary,Riga Mumford Road,1049.793,,,,,,,,,,,43675264,NY 36
+212790359,212790361,0,False,secondary,Chili Riga Center Road,383.492,,,,,,,,,,,48700130,NY 33A; NY 36
+212790359,212733396,0,False,secondary,Chili Riga Center Road,1581.678,,,,,,,,,,,135262715,NY 33A
+212790361,212790363,0,False,secondary,Chili Riga Center Road,460.813,,,,,,,,,,,48700129,NY 33A
+212790361,212790359,0,False,secondary,Chili Riga Center Road,383.492,,,,,,,,,,,48700130,NY 33A; NY 36
+212790361,212689996,0,False,secondary,Churchville Riga Road,1040.873,,,,,,,,,,,38686263,NY 36
+212790363,212885022,0,False,residential,Lentine Drive,305.251,,,,,,,,,,,20133869,
+212790363,212790361,0,False,secondary,Chili Riga Center Road,460.813,,,,,,,,,,,48700129,NY 33A
+212790363,212705330,0,False,secondary,Chili Riga Center Road,719.701,,,,,,,,,,,48700129,NY 33A
+212790376,212650277,0,False,residential,Appletree Road,605.093,,,,,,,,,,,20136036,
+212790376,212650274,0,False,secondary,Chili Riga Center Road,773.821,,,,,,,,,,,48700129,NY 33A
+212790376,212705330,0,False,secondary,Chili Riga Center Road,898.663,,,,,,,,,,,48700129,NY 33A
+212790457,2649189109,0,False,residential,Brew Road,1039.71,,,,,,,,,,,20137121,
+212790457,583093917,0,False,secondary,Chili Riga Center Road,80.95,,,,,,,,,,,48700129,NY 33A
+212790457,212650274,0,False,secondary,Chili Riga Center Road,1109.434,,,,,,,,,,,48700129,NY 33A
+212798328,212790329,0,False,residential,Vanessa Lane,267.173,,,,,,,,,,,20125916,
+212799262,212629054,0,False,residential,Robertson Road,1501.654,,,,,,,,,,,20126000,
+212799262,212689996,0,False,secondary,Churchville Riga Road,1107.694,,,,,,,,,,,38686263,NY 36
+212799262,212689906,0,False,secondary,Churchville Riga Road,368.401,,,,,,,,,,,38686263,NY 36
+212799324,212733379,0,False,residential,Robertson Road,1293.815,,,,,,,,,,,20126000,
+212799324,212733396,0,False,tertiary,Attridge Road,2495.277,,,,,,,,,,,38686253,CR 194
+212799324,212764869,0,False,tertiary,Attridge Road,640.871,,,,,,,,,,,38686253,CR 194
+212801062,212834975,0,False,secondary,East Buffalo Street,105.734,,,,,,,,,,,145640654,NY 33; NY 36
+212801062,212801149,0,False,secondary,East Buffalo Street,214.148,,,,,,,,,,,145640654,NY 33; NY 36
+212801062,212801149,1,False,residential,Greenway Boulevard,619.272,,,,,,,,,,,20126141,
+212801062,212873755,0,False,residential,"['Parnell Drive', 'Parnell Drive East']",170.15,,,,,,,,,,,"[20132705, 20126838]",
+212801149,212801062,0,False,secondary,East Buffalo Street,214.148,,,,,,,,,,,145640654,NY 33; NY 36
+212801149,212801062,1,False,residential,Greenway Boulevard,619.272,,,,,,,,,,,20126141,
+212801149,212761333,0,False,secondary,East Buffalo Street,168.929,,,,,,,,,,,145640654,NY 33; NY 36
+212801905,212712156,0,False,residential,Tower Lane,277.637,,,,,,,,,,,20126213,
+212813260,212813264,0,False,residential,Richmond Avenue,156.238,,,,,,,,,,,20127214,
+212813260,212823933,0,False,secondary,West Buffalo Street,54.667,,,,,,,,,,,20136591,NY 33
+212813260,212685573,0,False,secondary,West Buffalo Street,184.869,,,,,,,,,,,20136591,NY 33
+212813264,212813260,0,False,residential,Richmond Avenue,156.238,,,,,,,,,,,20127214,
+212821363,212705338,0,False,tertiary,Bridgeman Road,1552.459,,,,,,,,,,,20127872,CR 153
+212821363,212844813,0,False,secondary,Riga Mumford Road,526.468,,,,,,,,,,,43675264,NY 36
+212821363,212753227,0,False,secondary,Riga Mumford Road,633.721,,,,,,,,,,,43675264,NY 36
+212823907,212823929,0,False,residential,Park Road,62.727,,,,,,,,,,,20128120,
+212823907,212823961,0,False,residential,Park Road,290.188,,,,,,,,,,,"[20128128, 20128155]",
+212823907,212824521,0,False,residential,Park Road,84.89,,,,,,,,,,,20128155,
+212823929,212823933,0,False,residential,Park Road,172.491,,,,,,,,,,,20128120,
+212823929,212823907,0,False,residential,Park Road,62.727,,,,,,,,,,,20128120,
+212823929,212824521,0,False,residential,Park Road,72.385,,,,,,,,,,,20128173,
+212823933,212823929,0,False,residential,Park Road,172.491,,,,,,,,,,,20128120,
+212823933,212813260,0,False,secondary,West Buffalo Street,54.667,,,,,,,,,,,20136591,NY 33
+212823933,665610067,0,False,secondary,West Buffalo Street,224.675,,,,,,,,,,,20136591,NY 33
+212823961,212823988,0,False,residential,Park Road,77.505,,,,,,,,,,,20128128,
+212823961,212823988,1,False,residential,Park Road,75.476,,,,,,,,,,,20128128,
+212823961,212823907,0,False,residential,Park Road,290.188,,,,,,,,,,,"[20128128, 20128155]",
+212823988,212823961,0,False,residential,Park Road,75.476,,,,,,,,,,,20128128,
+212823988,212823961,1,False,residential,Park Road,77.505,,,,,,,,,,,20128128,
+212823988,212824765,0,False,residential,Park Road,239.872,,,,,,,,,,,20128175,
+212824521,212823907,0,False,residential,Park Road,84.89,,,,,,,,,,,20128155,
+212824521,212748962,0,False,residential,Park Road,605.915,,,,,,,,,,,20128155,
+212824521,212823929,0,False,residential,Park Road,72.385,,,,,,,,,,,20128173,
+212824765,212823988,0,False,residential,Park Road,239.872,,,,,,,,,,,20128175,
+212828827,212712150,0,False,residential,Shelter Cove,117.645,,,,,,,,,,,20128520,
+212834966,212754734,0,False,secondary,East Buffalo Street,161.907,,,,,,,,,,,145640654,NY 33; NY 36
+212834966,212873840,0,False,residential,Cloverleaf Drive,115.538,,,,,,,,,,,20139457,
+212834966,212733334,0,False,secondary,East Buffalo Street,185.939,,,,,,,,,,,145640654,NY 33; NY 36
+212834968,212761333,0,False,secondary,East Buffalo Street,90.369,,,,,,,,,,,145640654,NY 33; NY 36
+212834968,212754734,0,False,secondary,East Buffalo Street,156.38,,,,,,,,,,,145640654,NY 33; NY 36
+212834968,212863294,0,False,residential,Willowbank Drive,502.701,,,,,,,,,,,20131719,
+212834975,212801062,0,False,secondary,East Buffalo Street,105.734,,,,,,,,,,,145640654,NY 33; NY 36
+212834975,212760128,0,False,secondary,"['East Buffalo Street', 'Buffalo Road']",390.739,,,,,,,,,,,"[48686024, 395182935]",NY 33
+212834975,212751325,0,False,secondary,Washington Street,417.565,,,,,,,,,,,139486959,NY 36
+212844813,212790359,0,False,secondary,Riga Mumford Road,1049.793,,,,,,,,,,,43675264,NY 36
+212844813,212733406,0,False,tertiary,Griffin Road,1578.722,,,,,,,,,,,20130000,CR 155
+212844813,212821363,0,False,secondary,Riga Mumford Road,526.468,,,,,,,,,,,43675264,NY 36
+212853079,212853120,0,False,residential,Royce Drive,264.597,,,,,,,,,,,20130778,
+212853079,212873840,0,False,residential,Parnell Drive,292.719,,,,,,,,,,,20132705,
+212853079,212873755,0,False,residential,Parnell Drive,550.717,,,,,,,,,,,20132705,
+212853079,212873755,1,False,residential,Redfern Drive,502.522,,,,,,,,,,,20135686,
+212853120,212853079,0,False,residential,Royce Drive,264.597,,,,,,,,,,,20130778,
+212853120,212853120,0,False,residential,Royce Drive,81.305,,,,,,,,,,,20130785,
+212853120,212853120,1,False,residential,Royce Drive,81.305,,,,,,,,,,,20130785,
+212860741,212860744,0,False,residential,Evergreen Drive,174.147,,,,,,,,,,,20131503,
+212860741,212712131,0,False,secondary,West Buffalo Street,156.041,,,,,,,,,,,20136591,NY 33
+212860741,212685573,0,False,secondary,West Buffalo Street,140.78,,,,,,,,,,,20136591,NY 33
+212860744,212860741,0,False,residential,Evergreen Drive,174.147,,,,,,,,,,,20131503,
+212863294,212834968,0,False,residential,Willowbank Drive,502.701,,,,,,,,,,,20131719,
+212870442,212870477,0,False,residential,Leibeck Road,863.107,,,,,,,,,,,20132418,
+212870442,212870477,1,False,secondary,Washington Street,728.66,,,,,,,,,,,139486959,NY 36
+212870442,212751325,0,False,secondary,Washington Street,237.599,,,,,,,,,,,139486959,NY 36
+212870477,212870442,0,False,residential,Leibeck Road,863.107,,,,,,,,,,,20132418,
+212870477,212870442,1,False,secondary,Washington Street,728.66,,,,,,,,,,,139486959,NY 36
+212873755,212853079,0,False,residential,Parnell Drive,550.717,,,,,,,,,,,20132705,
+212873755,212853079,1,False,residential,Redfern Drive,502.522,,,,,,,,,,,20135686,
+212873755,212801062,0,False,residential,"['Parnell Drive', 'Parnell Drive East']",170.15,,,,,,,,,,,"[20132705, 20126838]",
+212873840,212873871,0,False,residential,Parnell Drive,110.212,,,,,,,,,,,20132705,
+212873840,212853079,0,False,residential,Parnell Drive,292.719,,,,,,,,,,,20132705,
+212873840,212834966,0,False,residential,Cloverleaf Drive,115.538,,,,,,,,,,,20139457,
+212873871,212873840,0,False,residential,Parnell Drive,110.212,,,,,,,,,,,20132705,
+212873871,212873871,0,False,residential,Parnell Drive,78.072,,,,,,,,,,,20132709,
+212873871,212873871,1,False,residential,Parnell Drive,78.072,,,,,,,,,,,20132709,
+212885022,212790363,0,False,residential,Lentine Drive,305.251,,,,,,,,,,,20133869,
+212896849,212712146,0,False,residential,Carrol Street,176.22,,,,,,,,,,,20135059,
+212927472,212688256,0,False,residential,Blue Road,885.736,,,,,,,,,,,20137454,
+221698859,212772239,0,False,residential,Kendall Road,1297.461,,,,,,,,,,,20123576,
+583093904,583093957,0,True,motorway,,501.384,2,,,65 mph,,,,,,,20119682,I 490
+583093904,583093917,0,True,motorway_link,,601.163,,,,,,,,,,,45801627,
+583093917,583093958,0,False,primary,Chili Riga Center Road,31.634,,,,,,,,,,,593517671,NY 33A
+583093917,212790457,0,False,secondary,Chili Riga Center Road,80.95,,,,,,,,,,,48700129,NY 33A
+583093920,583093957,0,True,motorway_link,,428.523,,,,,,,,,,,45801633,
+583093920,583093958,0,False,primary,Chili Riga Center Road,103.707,,,,,,,,,,,385022628,NY 33A
+583093957,583093975,0,True,motorway,,457.861,2,,,65 mph,,,,,,,20119682,I 490
+583093958,583093917,0,False,primary,Chili Riga Center Road,31.634,,,,,,,,,,,593517671,NY 33A
+583093958,583093975,0,True,motorway_link,,472.93,,,,,,,,,,,45801634,
+583093958,583093920,0,False,primary,Chili Riga Center Road,103.707,,,,,,,,,,,385022628,NY 33A
+583093975,212607238,0,True,motorway,,4033.759,2,,,65 mph,,,,,,,20119682,I 490
+583094128,583094128,0,False,residential,Johnson Rd,124.94,,,,,,,,,,,45801640,
+583094128,583094128,1,False,residential,Johnson Rd,124.94,,,,,,,,,,,45801640,
+665610066,665610067,0,False,unclassified,West Shore Trail,252.453,,,,,,,,,,,469619628,
+665610067,665610066,0,False,unclassified,West Shore Trail,252.453,,,,,,,,,,,469619628,
+665610067,212689286,0,False,secondary,West Buffalo Street,70.127,,,,,,,,,,,20136591,NY 33
+665610067,212823933,0,False,secondary,West Buffalo Street,224.675,,,,,,,,,,,20136591,NY 33
+665610067,665610068,0,False,unclassified,West Shore Trail,413.406,,,,,,,,,,,469619628,
+665610068,212712136,0,False,residential,Howard Avenue,429.275,,,,,,,,,,,20135281,
+665610068,212685575,0,False,residential,Howard Avenue,78.317,,,,,,,,,,,20135281,
+665610068,665610067,0,False,unclassified,West Shore Trail,413.406,,,,,,,,,,,469619628,
+1937571788,212615093,0,False,secondary,Churchville Riga Road,57.348,,,,,,,,,,,20130983,NY 36
+1937571788,212689286,0,False,residential,Sanford Road North,2054.045,,,,,,,,,,,"[20116049, 20116051]",
+1937571788,212712158,0,False,secondary,"['Churchville Riga Road', 'South Main Street']",203.077,,,,,,,,,,,"[20117471, 20130983]",NY 36
+2095789553,2095789553,0,False,residential,Burnt Mill Road,177.584,,,,,,,,,,,20112027,
+2095789553,2095789553,1,False,residential,Burnt Mill Road,177.584,,,,,,,,,,,20112027,
+2095789553,212629054,0,False,residential,Burnt Mill Road,1096.879,,,,,,,,,,,20112027,
+2095789566,212629065,0,False,residential,Burnt Mill Road,46.769,,,,,,,,,,,20112029,
+2157105443,212661212,0,False,"['residential', 'tertiary']","['Bangs Road', 'North Main Street']",1511.132,,,,,,,,,,,"[313016441, 20129172]",CR 268
+2649189109,212790457,0,False,residential,Brew Road,1039.71,,,,,,,,,,,20137121,
+3347783266,212667738,0,False,residential,Greenvale Woods,199.743,,,,,,,,,,,20141178,
+3347783266,212667735,0,False,residential,Greenvale Woods,356.922,,,,,,,,,,,20141178,
+3347783266,3347783281,0,False,residential,,212.197,,,,,,,,,,,327959837,
+3347783281,3347783266,0,False,residential,,212.197,,,,,,,,,,,327959837,
+4103337838,4103337840,0,False,residential,,56.365,,,,,,,,,,,408396419,
+4103337840,4103337849,0,False,residential,,102.406,,,,,,,,,,,408396413,
+4103337840,4103337844,0,False,residential,,51.93,,,,,,,,,,,408396419,
+4103337840,4103337838,0,False,residential,,56.365,,,,,,,,,,,408396419,
+4103337844,4103337864,0,False,residential,,104.321,,,,,,,,,,,408396407,
+4103337844,4103337840,0,False,residential,,51.93,,,,,,,,,,,408396419,
+4103337844,4103337870,0,False,residential,,151.6,,,,,,,,,,,408396419,
+4103337849,4103337840,0,False,residential,,102.406,,,,,,,,,,,408396413,
+4103337849,4103337851,0,False,residential,,93.268,,,,,,,,,,,408396400,
+4103337849,4103337864,0,False,residential,,51.373,,,,,,,,,,,408396400,
+4103337851,4103337875,0,False,residential,,155.831,,,,,,,,,,,408396400,
+4103337851,4103337849,0,False,residential,,93.268,,,,,,,,,,,408396400,
+4103337851,4103337855,0,False,residential,,34.582,,,,,,,,,,,408396402,
+4103337855,4103337876,0,False,residential,,141.165,,,,,,,,,,,408396416,
+4103337855,4103337861,0,False,residential,,40.395,,,,,,,,,,,408396402,
+4103337855,4103337851,0,False,residential,,34.582,,,,,,,,,,,408396402,
+4103337861,4103337879,0,False,residential,,147.658,,,,,,,,,,,408396411,
+4103337861,4103337869,0,False,residential,,59.943,,,,,,,,,,,408396402,
+4103337861,4103337855,0,False,residential,,40.395,,,,,,,,,,,408396402,
+4103337864,4103337870,0,False,residential,,52.243,,,,,,,,,,,408396400,
+4103337864,4103337844,0,False,residential,,104.321,,,,,,,,,,,408396407,
+4103337864,4103337849,0,False,residential,,51.373,,,,,,,,,,,408396400,
+4103337869,4103337873,0,False,residential,,46.322,,,,,,,,,,,408396402,
+4103337869,4103337871,0,False,residential,,39.888,,,,,,,,,,,408396409,
+4103337869,4103337861,0,False,residential,,59.943,,,,,,,,,,,408396402,
+4103337870,4103337864,0,False,residential,,52.243,,,,,,,,,,,408396400,
+4103337870,4103337872,0,False,residential,,24.403,,,,,,,,,,,408396400,
+4103337870,4103337844,0,False,residential,,151.6,,,,,,,,,,,408396419,
+4103337871,4103337869,0,False,residential,,39.888,,,,,,,,,,,408396409,
+4103337872,4103337875,0,False,secondary,Chili Riga Center Road,51.567,,,,,,,,,,,135262715,NY 33A
+4103337872,4103337870,0,False,residential,,24.403,,,,,,,,,,,408396400,
+4103337872,212790329,0,False,secondary,Chili Riga Center Road,1159.123,,,,,,,,,,,135262715,NY 33A
+4103337873,4103337877,0,False,residential,,41.426,,,,,,,,,,,408396402,
+4103337873,4103337869,0,False,residential,,46.322,,,,,,,,,,,408396402,
+4103337873,4103337874,0,False,residential,,41.267,,,,,,,,,,,408396414,
+4103337874,4103337873,0,False,residential,,41.267,,,,,,,,,,,408396414,
+4103337875,4103337872,0,False,secondary,Chili Riga Center Road,51.567,,,,,,,,,,,135262715,NY 33A
+4103337875,4103337878,0,False,secondary,Chili Riga Center Road,36.034,,,,,,,,,,,135262715,NY 33A
+4103337875,4103337851,0,False,residential,,155.831,,,,,,,,,,,408396400,
+4103337876,4103337855,0,False,residential,,141.165,,,,,,,,,,,408396416,
+4103337876,4103337878,0,False,residential,,24.577,,,,,,,,,,,408396416,
+4103337876,4103337879,0,False,residential,,37.438,,,,,,,,,,,408396418,
+4103337877,4103337881,0,False,residential,,42.423,,,,,,,,,,,408396402,
+4103337877,4103337873,0,False,residential,,41.426,,,,,,,,,,,408396402,
+4103337877,4103337880,0,False,residential,,41.614,,,,,,,,,,,408396405,
+4103337878,4103337875,0,False,secondary,Chili Riga Center Road,36.034,,,,,,,,,,,135262715,NY 33A
+4103337878,212735945,0,False,secondary,Chili Riga Center Road,331.253,,,,,,,,,,,135262715,NY 33A
+4103337878,4103337876,0,False,residential,,24.577,,,,,,,,,,,408396416,
+4103337879,4103337861,0,False,residential,,147.658,,,,,,,,,,,408396411,
+4103337879,4103337881,0,False,residential,,41.613,,,,,,,,,,,408396418,
+4103337879,4103337876,0,False,residential,,37.438,,,,,,,,,,,408396418,
+4103337880,4103337877,0,False,residential,,41.614,,,,,,,,,,,408396405,
+4103337881,4103337877,0,False,residential,,42.423,,,,,,,,,,,408396402,
+4103337881,4103337882,0,False,residential,,39.317,,,,,,,,,,,408396418,
+4103337881,4103337879,0,False,residential,,41.613,,,,,,,,,,,408396418,
+4103337882,4103337881,0,False,residential,,39.317,,,,,,,,,,,408396418,

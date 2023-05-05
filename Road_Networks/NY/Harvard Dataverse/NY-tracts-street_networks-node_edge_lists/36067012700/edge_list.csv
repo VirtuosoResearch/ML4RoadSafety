@@ -1,0 +1,273 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+212714001,212714037,0,False,residential,Signal Ridge,279.848,,,,,,,,,,,20117619,
+212714001,212970722,0,False,residential,Weathervane Way,54.246,,,,,,,,,,,20147753,
+212714001,213063705,0,False,residential,Weathervane Way,109.815,,,,,,,,,,,20147753,
+212714037,212714001,0,False,residential,Signal Ridge,279.848,,,,,,,,,,,20117619,
+212714037,212868521,0,False,residential,Lookout Circle,80.752,,,,,,,,,,,20132193,
+212714037,212868512,0,False,residential,Lookout Circle,119.748,,,,,,,,,,,20132193,
+212715353,212717415,0,False,secondary,Warners Road,10.114,3,,,35 mph,,,,,,,318103955,NY 173
+212715353,212715385,0,True,motorway_link,,320.27,1,,,,,,,,,,20117720,
+212715353,212987331,0,False,secondary,Warners Road,118.263,2,,,35 mph,,,,,,,293213009,NY 173
+212715385,212767384,0,True,motorway,,710.675,4,,,65 mph,,,,,,,123617800,NY 5
+212717415,212715353,0,False,secondary,Warners Road,10.114,3,,,35 mph,,,,,,,318103955,NY 173
+212717415,212987343,0,False,secondary,Warners Road,396.789,"['2', '3']",,,35 mph,,,,,,,"[318103955, 318103956]",NY 173
+212717455,212717415,0,True,motorway_link,,215.163,"['2', '1']",,,,,,,,,,"[20117882, 318160516]",
+212717455,212715385,0,True,motorway,,417.256,4,,,65 mph,,,,,,,123617800,NY 5
+212737900,212737903,0,True,motorway_link,,29.774,1,,,,,,,,,,20119499,
+212737900,213075726,0,False,tertiary,Hinsdale Road,49.562,3,,,30 mph,,,,,,,318962575,
+212737900,212767364,0,False,tertiary,Hinsdale Road,109.659,3,,,30 mph,,,,,,,318962575,
+212737903,212737925,0,True,motorway_link,,319.312,1,,,,,,,,,,20119499,
+212737925,212751018,0,True,motorway,,1775.599,"['4', '3']",,,65 mph,,,,,,,"[44873098, 123617803]",NY 5
+212746336,212717455,0,True,motorway,,640.489,4,,,65 mph,,,,,,,123617800,NY 5
+212746378,212746336,0,True,motorway_link,,742.683,2,,,65 mph,,,,,,,20120478,
+212746378,212822058,0,True,motorway_link,,699.81,2,,,,,,yes,,,,"[44873088, 44873089, 44873090, 45368090, 44873086, 44873087]",
+212751018,212751054,0,True,motorway_link,,874.453,2,,,65 mph,,,,,,,20120926,
+212751018,212822058,0,True,motorway,,655.017,2,,,,,,yes,,,,"[123617789, 44873085]",NY 5
+212751054,212766357,0,True,motorway,,502.089,3,,,65 mph,,,,,,,45368089,NY 695
+212755009,212987282,0,False,secondary,Warners Road,113.134,2,,,30 mph,,,,,,,293213008,NY 173
+212755009,212987288,0,False,secondary,Warners Road,400.232,2,,,30 mph,,,,,,,"[293213008, 293213007]",NY 173
+212766382,212766357,0,True,motorway_link,,306.116,1,,,,,,,,,,20122864,
+212766382,212852359,0,False,residential,Horan Road,714.886,,,,,,,,,,,20137789,
+212766382,212872890,0,False,residential,Horan Road,793.508,,,,30 mph,,,,,,,378588006,
+212767261,212852369,0,False,residential,Gerelock Road,54.755,,,,,,,,,,,20130713,
+212767261,212852359,0,False,residential,Gerelock Road,157.168,,,,,,,,,,,20130713,
+212767364,212987295,0,False,tertiary,Hinsdale Road,480.813,2,,,30 mph,,,,,,,286535250,
+212767364,212737900,0,False,tertiary,Hinsdale Road,109.659,3,,,30 mph,,,,,,,318962575,
+212767384,212767364,0,True,motorway_link,,413.242,"['1', '3']",,,,,,,,,,"[295417791, 20123007]",
+212769586,213072487,0,False,residential,Oakley Road,70.52,,,,,,,,,,,20148229,
+212769586,213072484,0,False,residential,Oakley Road,95.455,,,,,,,,,,,20148229,
+212769586,212769592,0,False,residential,Westover Street,127.065,,,,,,,,,,,20123300,
+212769586,213071567,0,False,residential,"['Westover Street', 'Maplegrove Road']",317.263,,,,,,,,,,,"[20123300, 20148175]",
+212769592,212769586,0,False,residential,Westover Street,127.065,,,,,,,,,,,20123300,
+212773707,212933164,0,False,residential,Gifford Drive,105.21,,,,,,,,,,,20142921,
+212773707,212871869,0,False,secondary,Onondaga Road,155.478,"['4', '2']",,,35 mph,,,,,,,"[318103954, 318103957]",NY 173
+212773707,212773783,0,False,secondary,Onondaga Road,217.256,2,,,35 mph,,,,,,,318103957,NY 173
+212773732,212773783,0,False,residential,Milo Lane,19.751,,,,,,,,,,,20123748,
+212773732,212773765,0,False,residential,Milo Lane,76.639,,,,,,,,,,,200352480,
+212773765,212872952,0,False,residential,Box Car Lane,56.667,,,,,,,,,,,20135142,
+212773765,212773732,0,False,residential,Milo Lane,76.639,,,,,,,,,,,200352480,
+212773783,212773732,0,False,residential,Milo Lane,19.751,,,,,,,,,,,20123748,
+212773783,213052995,0,False,residential,Myron Road,97.594,,,,,,,,,,,20147037,
+212773783,212773707,0,False,secondary,Onondaga Road,217.256,2,,,35 mph,,,,,,,318103957,NY 173
+212773783,212872937,0,False,secondary,Onondaga Road,100.164,"['2', '3']",,,35 mph,,,,,,,"[318103957, 318103951]",NY 173
+212787727,212873220,0,False,tertiary,Milton Avenue,119.466,2,,,40 mph,,,,,,,318962583,
+212787727,212873218,0,False,tertiary,Milton Avenue,115.642,2,,,40 mph,,,,,,,318962583,
+212822472,212751054,0,True,motorway_link,,648.506,2,,,,,,yes,,,,"[44873081, 38605414]",
+212822472,212746336,0,True,motorway,,702.304,2,,,65 mph,,,yes,,,,"[123617792, 44873091, 44873092, 44873095]",NY 5
+212829181,212829204,0,False,tertiary,Milton Avenue,66.316,2,,,40 mph,,,,,,,318962583,
+212829204,212873213,0,False,tertiary,Milton Avenue,128.655,2,,,40 mph,,,,,,,318962583,
+212829204,212829181,0,False,tertiary,Milton Avenue,66.316,2,,,40 mph,,,,,,,318962583,
+212852359,212767261,0,False,residential,Gerelock Road,157.168,,,,,,,,,,,20130713,
+212852359,212766382,0,False,residential,Horan Road,714.886,,,,,,,,,,,20137789,
+212852369,212767261,0,False,residential,Gerelock Road,54.755,,,,,,,,,,,20130713,
+212852369,212855870,0,False,residential,Frontage Road,358.862,,,,,,,,,,,20131087,
+212852369,212852389,0,False,residential,Gerelock Road,369.028,,,,,,,,,,,247645372,
+212852389,212852369,0,False,residential,Gerelock Road,369.028,,,,,,,,,,,247645372,
+212853427,212853465,0,False,residential,Olin Drive,202.388,,,,,,,,,,,20130826,
+212853427,212990128,0,False,residential,Westlind Road,351.714,,,,,,,,,,,20141952,
+212853465,212853427,0,False,residential,Olin Drive,202.388,,,,,,,,,,,20130826,
+212854205,212854215,0,False,residential,Myrtis Road,149.963,,,,,,,,,,,20130899,
+212854205,212871869,0,False,secondary,West Genesee Street,383.189,"['4', '5']",,,35 mph,,,,,,,"[310012481, 44873077]",
+212854205,212871847,0,False,secondary,West Genesee Street,183.47,4,,,35 mph,,,,,,,44873077,
+212854215,213003022,0,False,residential,Gifford Drive,112.737,,,,,,,,,,,20142921,
+212854215,212854205,0,False,residential,Myrtis Road,149.963,,,,,,,,,,,20130899,
+212854215,212933135,0,False,residential,Gifford Drive,155.847,,,,,,,,,,,20142921,
+212855870,212852369,0,False,residential,Frontage Road,358.862,,,,,,,,,,,20131087,
+212855870,3834066466,0,False,unclassified,"['Thomas Avenue', 'Belle Isle Road']",1920.508,2,,,,,,,,,,"[20141945, 20137055]",
+212855870,213071189,0,False,residential,James Avenue,316.755,,,,,,,,,,,20148153,
+212868394,212868410,0,False,residential,Hornview Way,126.458,,,,,,,,,,,20132165,
+212868394,212990031,0,False,unclassified,Belle Isle Road,179.2,2,,,,,,,,,,20141945,
+212868394,212987343,0,False,unclassified,Belle Isle Road,241.012,2,,,,,,,,,,20141945,
+212868410,212868394,0,False,residential,Hornview Way,126.458,,,,,,,,,,,20132165,
+212868410,213063705,0,False,residential,Hornaday Drive,127.986,,,,,,,,,,,20150729,
+212868410,213063736,0,False,residential,Hornaday Drive,147.126,,,,,,,,,,,20150729,
+212868512,212714037,0,False,residential,Lookout Circle,119.748,,,,,,,,,,,20132193,
+212868512,212970756,0,False,residential,Sizzano Trail,50.509,,,,,,,,,,,20140611,
+212868512,212970744,0,False,residential,Sizzano Trail,148.299,,,,,,,,,,,20140611,
+212868521,212868521,0,False,residential,Lookout Circle,433.395,,,,,,,,,,,20132193,
+212868521,212868521,1,False,residential,Lookout Circle,433.395,,,,,,,,,,,20132193,
+212868521,212714037,0,False,residential,Lookout Circle,80.752,,,,,,,,,,,20132193,
+212871847,212933132,0,False,residential,Sunnybrook Drive,254.756,,,,,,,,,,,20148415,
+212871847,212854205,0,False,secondary,West Genesee Street,183.47,4,,,35 mph,,,,,,,44873077,
+212871869,212854205,0,False,secondary,West Genesee Street,383.189,"['4', '5']",,,35 mph,,,,,,,"[310012481, 44873077]",
+212871869,212773707,0,False,secondary,Onondaga Road,155.478,"['4', '2']",,,35 mph,,,,,,,"[318103954, 318103957]",NY 173
+212872886,212872890,0,False,secondary,Milton Avenue,114.125,2,,,30 mph,,,,,,,226071826,NY 297
+212872890,212872886,0,False,secondary,Milton Avenue,114.125,2,,,30 mph,,,,,,,226071826,NY 297
+212872890,212872909,0,False,secondary,Milton Avenue,229.018,2,,,30 mph,,,,,,,226071826,NY 297
+212872890,212766382,0,False,residential,Horan Road,793.508,,,,30 mph,,,,,,,378588006,
+212872909,212898169,0,False,residential,Box Car Lane,192.07,,,,,,,,,,,20135137,
+212872909,212872921,0,False,secondary,Milton Avenue,248.942,2,,,30 mph,,,,,,,226071826,NY 297
+212872909,212872890,0,False,secondary,Milton Avenue,229.018,2,,,30 mph,,,,,,,226071826,NY 297
+212872921,212922588,0,False,residential,Jones Street,68.34,,,,,,,,,,,20137105,
+212872921,212872927,0,False,secondary,Milton Avenue,242.34,2,,,30 mph,,,,,,,226071826,NY 297
+212872921,212872909,0,False,secondary,Milton Avenue,248.942,2,,,30 mph,,,,,,,226071826,NY 297
+212872927,213035675,0,False,residential,Cotton Street,72.884,,,,,,,,,,,20151052,
+212872927,212872932,0,False,secondary,Milton Avenue,95.202,2,,,30 mph,,,,,,,226071826,NY 297
+212872927,212872921,0,False,secondary,Milton Avenue,242.34,2,,,30 mph,,,,,,,226071826,NY 297
+212872932,213052995,0,False,residential,Sawyer Street,132.562,,,,,,,,,,,20149737,
+212872932,212872937,0,False,secondary,Milton Avenue,92.909,2,,,30 mph,,,,,,,226071826,NY 297
+212872932,212872927,0,False,secondary,Milton Avenue,95.202,2,,,30 mph,,,,,,,226071826,NY 297
+212872937,212872952,0,False,secondary,Milton Avenue,33.423,2,,,30 mph,,,,,,,226071826,NY 297
+212872937,212872932,0,False,secondary,Milton Avenue,92.909,2,,,30 mph,,,,,,,226071826,NY 297
+212872937,212773783,0,False,secondary,Onondaga Road,100.164,"['2', '3']",,,35 mph,,,,,,,"[318103957, 318103951]",NY 173
+212872937,212987343,0,False,secondary,Warners Road,411.71,"['2', '3']",,,35 mph,,,yes,,,,"[318103952, 318103956, 44873093, 44873094]",NY 173
+212872952,212873233,0,False,tertiary,Milton Avenue,250.142,2,,,30 mph,,,,,,,"[233931744, 20135132]",
+212872952,212773765,0,False,residential,Box Car Lane,56.667,,,,,,,,,,,20135142,
+212872952,212872937,0,False,secondary,Milton Avenue,33.423,2,,,30 mph,,,,,,,226071826,NY 297
+212873213,212873215,0,False,tertiary,Milton Avenue,287.383,2,,,40 mph,,,,,,,318962583,
+212873213,212829204,0,False,tertiary,Milton Avenue,128.655,2,,,40 mph,,,,,,,318962583,
+212873215,212873218,0,False,tertiary,Milton Avenue,98.182,2,,,40 mph,,,,,,,318962583,
+212873215,212873213,0,False,tertiary,Milton Avenue,287.383,2,,,40 mph,,,,,,,318962583,
+212873218,212787727,0,False,tertiary,Milton Avenue,115.642,2,,,40 mph,,,,,,,318962583,
+212873218,212873215,0,False,tertiary,Milton Avenue,98.182,2,,,40 mph,,,,,,,318962583,
+212873220,212873223,0,False,tertiary,Milton Avenue,89.722,2,,,30 mph,,,,,,,233931744,
+212873220,212787727,0,False,tertiary,Milton Avenue,119.466,2,,,40 mph,,,,,,,318962583,
+212873223,212873225,0,False,tertiary,Milton Avenue,79.807,2,,,30 mph,,,,,,,233931744,
+212873223,212873220,0,False,tertiary,Milton Avenue,89.722,2,,,30 mph,,,,,,,233931744,
+212873225,212873226,0,False,tertiary,Milton Avenue,84.275,2,,,30 mph,,,,,,,233931744,
+212873225,212873223,0,False,tertiary,Milton Avenue,79.807,2,,,30 mph,,,,,,,233931744,
+212873226,212873233,0,False,tertiary,Milton Avenue,79.965,2,,,30 mph,,,,,,,233931744,
+212873226,212873225,0,False,tertiary,Milton Avenue,84.275,2,,,30 mph,,,,,,,233931744,
+212873233,212873226,0,False,tertiary,Milton Avenue,79.965,2,,,30 mph,,,,,,,233931744,
+212873233,212872952,0,False,tertiary,Milton Avenue,250.142,2,,,30 mph,,,,,,,"[233931744, 20135132]",
+212874797,212987327,0,False,secondary,Warners Road,228.863,2,,,35 mph,,,,,,,293213009,NY 173
+212874797,213071567,0,False,residential,"['Mabel Road', 'Westfall Street']",317.282,,,,,,,,,,,"[20150116, 20132773]",
+212874797,212987331,0,False,secondary,Warners Road,62.367,2,,,35 mph,,,,,,,293213009,NY 173
+212898169,212872909,0,False,residential,Box Car Lane,192.07,,,,,,,,,,,20135137,
+212898169,212898169,0,False,residential,Box Car Lane,73.587,,,,,,,,,,,20135141,
+212898169,212898169,1,False,residential,Box Car Lane,73.587,,,,,,,,,,,20135141,
+212905654,212987282,0,False,secondary,Warners Road,148.17,2,,,30 mph,,,,,,,293213008,NY 173
+212905654,212987276,0,False,secondary,Warners Road,351.42,2,,,30 mph,,,,,,,"[216269311, 546173327]",NY 173
+212922588,212922590,0,False,residential,Jones Street,94.791,,,,,,,,,,,20137105,
+212922588,212872921,0,False,residential,Jones Street,68.34,,,,,,,,,,,20137105,
+212922588,213053007,0,False,residential,"['Garland Road', 'Sunnybrook Drive']",430.378,,,,,,,,,,,"[20144001, 20148415]",
+212922590,212922592,0,False,residential,Jones Street,94.944,,,,,,,,,,,20137105,
+212922590,212922588,0,False,residential,Jones Street,94.791,,,,,,,,,,,20137105,
+212922590,213035696,0,False,residential,Wilmont Road,172.739,,,,,,,,,,,20145600,
+212922590,213035675,0,False,residential,Wilmont Road,210.576,,,,,,,,,,,20145600,
+212922592,212922594,0,False,residential,Jones Street,102.794,,,,,,,,,,,20137105,
+212922592,212922590,0,False,residential,Jones Street,94.944,,,,,,,,,,,20137105,
+212922592,213052998,0,False,residential,Myron Road,190.264,,,,,,,,,,,20147037,
+212922592,213053007,0,False,residential,Myron Road,241.566,,,,,,,,,,,20147037,
+212922594,212922592,0,False,residential,Jones Street,102.794,,,,,,,,,,,20137105,
+212922594,212933141,0,False,residential,Sherry Drive,53.713,,,,,,,,,,,20137892,
+212922594,212933135,0,False,residential,Sherry Drive,128.11,,,,,,,,,,,20137892,
+212933132,212933135,0,False,residential,Sherry Drive,114.188,,,,,,,,,,,20137892,
+212933132,213053007,0,False,residential,Sunnybrook Drive,96.118,,,,,,,,,,,20148415,
+212933132,212871847,0,False,residential,Sunnybrook Drive,254.756,,,,,,,,,,,20148415,
+212933135,212933132,0,False,residential,Sherry Drive,114.188,,,,,,,,,,,20137892,
+212933135,212922594,0,False,residential,Sherry Drive,128.11,,,,,,,,,,,20137892,
+212933135,212854215,0,False,residential,Gifford Drive,155.847,,,,,,,,,,,20142921,
+212933141,212922594,0,False,residential,Sherry Drive,53.713,,,,,,,,,,,20137892,
+212933141,212933164,0,False,residential,Sherry Drive,279.502,,,,,,,,,,,20137892,
+212933141,213003022,0,False,residential,James Road,94.042,,,,,,,,,,,20151111,
+212933164,212933141,0,False,residential,Sherry Drive,279.502,,,,,,,,,,,20137892,
+212933164,212773707,0,False,residential,Gifford Drive,105.21,,,,,,,,,,,20142921,
+212933164,213003022,0,False,residential,Gifford Drive,182.275,,,,,,,,,,,20142921,
+212946917,212946958,0,False,tertiary,Airport Road,391.622,2,,,,,,,,,,20138741,
+212946917,212987276,0,False,tertiary,Airport Road,42.634,2,,,,,,,,,,20138741,
+212946917,212948282,0,False,residential,Finger Lakes Drive,193.654,,,,,,,,,,,20138846,
+212946958,212946917,0,False,tertiary,Airport Road,391.622,2,,,,,,,,,,20138741,
+212946958,213057152,0,False,residential,Duprey Road,34.528,,,,,,,,,,,20147269,
+212948282,212946917,0,False,residential,Finger Lakes Drive,193.654,,,,,,,,,,,20138846,
+212970722,212970744,0,False,residential,Sizzano Trail,178.697,,,,,,,,,,,20140611,
+212970722,213063736,0,False,residential,Weathervane Way,72.734,,,,,,,,,,,20147753,
+212970722,212714001,0,False,residential,Weathervane Way,54.246,,,,,,,,,,,20147753,
+212970744,212868512,0,False,residential,Sizzano Trail,148.299,,,,,,,,,,,20140611,
+212970744,212970722,0,False,residential,Sizzano Trail,178.697,,,,,,,,,,,20140611,
+212970744,213063736,0,False,residential,Hornaday Drive,298.204,,,,,,,,,,,20150729,
+212970756,212868512,0,False,residential,Sizzano Trail,50.509,,,,,,,,,,,20140611,
+212987276,212946917,0,False,tertiary,Airport Road,42.634,2,,,,,,,,,,20138741,
+212987276,212905654,0,False,secondary,Warners Road,351.42,2,,,30 mph,,,,,,,"[546173327, 216269311]",NY 173
+212987282,212755009,0,False,secondary,Warners Road,113.134,2,,,30 mph,,,,,,,293213008,NY 173
+212987282,212905654,0,False,secondary,Warners Road,148.17,2,,,30 mph,,,,,,,293213008,NY 173
+212987288,213062736,0,False,residential,Bennett Road,258.481,,,,,,,,,,,247147536,
+212987288,212987295,0,False,secondary,Warners Road,204.86,2,,,30 mph,,,,,,,293213007,NY 173
+212987288,212755009,0,False,secondary,Warners Road,400.232,2,,,30 mph,,,,,,,"[293213008, 293213007]",NY 173
+212987295,212767364,0,False,tertiary,Hinsdale Road,480.813,2,,,30 mph,,,,,,,286535250,
+212987295,212987318,0,False,secondary,Warners Road,874.089,2,,,"['35 mph', '30 mph']",,,,,,,"[293213009, 293213007]",NY 173
+212987295,212987288,0,False,secondary,Warners Road,204.86,2,,,30 mph,,,,,,,293213007,NY 173
+212987318,213072484,0,False,residential,Oakley Road,100.601,,,,,,,,,,,20148229,
+212987318,212987327,0,False,secondary,Warners Road,231.921,2,,,35 mph,,,,,,,293213009,NY 173
+212987318,212987295,0,False,secondary,Warners Road,874.089,2,,,"['35 mph', '30 mph']",,,,,,,"[293213009, 293213007]",NY 173
+212987327,212874797,0,False,secondary,Warners Road,228.863,2,,,35 mph,,,,,,,293213009,NY 173
+212987327,213071567,0,False,residential,Maplegrove Road,99.062,,,,,,,,,,,20148175,
+212987327,2103425221,0,False,residential,Aries Way,284.605,,,,,,,,,,,200352484,
+212987327,212987318,0,False,secondary,Warners Road,231.921,2,,,35 mph,,,,,,,293213009,NY 173
+212987331,1313580021,0,False,residential,Stellium Drive,262.593,,,,,,,,,,,239949995,
+212987331,212715353,0,False,secondary,Warners Road,118.263,2,,,35 mph,,,,,,,293213009,NY 173
+212987331,212874797,0,False,secondary,Warners Road,62.367,2,,,35 mph,,,,,,,293213009,NY 173
+212987343,212868394,0,False,unclassified,Belle Isle Road,241.012,2,,,,,,,,,,20141945,
+212987343,212872937,0,False,secondary,Warners Road,411.71,"['2', '3']",,,35 mph,,,yes,,,,"[318103952, 318103956, 44873093, 44873094]",NY 173
+212987343,212717415,0,False,secondary,Warners Road,396.789,"['2', '3']",,,35 mph,,,,,,,"[318103955, 318103956]",NY 173
+212990031,3834066466,0,False,unclassified,Belle Isle Road,193.326,2,,,,,,,,,,20141945,
+212990031,212868394,0,False,unclassified,Belle Isle Road,179.2,2,,,,,,,,,,20141945,
+212990031,213063705,0,False,residential,Weathervane Way,68.543,,,,,,,,,,,20147753,
+212990128,212853427,0,False,residential,Westlind Road,351.714,,,,,,,,,,,20141952,
+212990128,213083750,0,False,residential,Blackstone Way,98.301,,,,,,,,,,,20148930,
+213003022,212854215,0,False,residential,Gifford Drive,112.737,,,,,,,,,,,20142921,
+213003022,212933164,0,False,residential,Gifford Drive,182.275,,,,,,,,,,,20142921,
+213003022,212933141,0,False,residential,James Road,94.042,,,,,,,,,,,20151111,
+213035675,212922590,0,False,residential,Wilmont Road,210.576,,,,,,,,,,,20145600,
+213035675,213052998,0,False,residential,Cotton Street,94.972,,,,,,,,,,,20151052,
+213035675,212872927,0,False,residential,Cotton Street,72.884,,,,,,,,,,,20151052,
+213035696,212922590,0,False,residential,Wilmont Road,172.739,,,,,,,,,,,20145600,
+213052995,213052998,0,False,residential,Myron Road,96.507,,,,,,,,,,,20147037,
+213052995,212773783,0,False,residential,Myron Road,97.594,,,,,,,,,,,20147037,
+213052995,212872932,0,False,residential,Sawyer Street,132.562,,,,,,,,,,,20149737,
+213052998,212922592,0,False,residential,Myron Road,190.264,,,,,,,,,,,20147037,
+213052998,213052995,0,False,residential,Myron Road,96.507,,,,,,,,,,,20147037,
+213052998,213035675,0,False,residential,Cotton Street,94.972,,,,,,,,,,,20151052,
+213053007,212933132,0,False,residential,Sunnybrook Drive,96.118,,,,,,,,,,,20148415,
+213053007,212922592,0,False,residential,Myron Road,241.566,,,,,,,,,,,20147037,
+213053007,212922588,0,False,residential,"['Garland Road', 'Sunnybrook Drive']",430.378,,,,,,,,,,,"[20144001, 20148415]",
+213057152,212946958,0,False,residential,Duprey Road,34.528,,,,,,,,,,,20147269,
+213062736,212987288,0,False,residential,Bennett Road,258.481,,,,,,,,,,,247147536,
+213063705,212714001,0,False,residential,Weathervane Way,109.815,,,,,,,,,,,20147753,
+213063705,212990031,0,False,residential,Weathervane Way,68.543,,,,,,,,,,,20147753,
+213063705,212868410,0,False,residential,Hornaday Drive,127.986,,,,,,,,,,,20150729,
+213063736,212970722,0,False,residential,Weathervane Way,72.734,,,,,,,,,,,20147753,
+213063736,212868410,0,False,residential,Hornaday Drive,147.126,,,,,,,,,,,20150729,
+213063736,212970744,0,False,residential,Hornaday Drive,298.204,,,,,,,,,,,20150729,
+213071189,212855870,0,False,residential,James Avenue,316.755,,,,,,,,,,,20148153,
+213071567,212769586,0,False,residential,"['Westover Street', 'Maplegrove Road']",317.263,,,,,,,,,,,"[20123300, 20148175]",
+213071567,212987327,0,False,residential,Maplegrove Road,99.062,,,,,,,,,,,20148175,
+213071567,213072484,0,False,residential,Westfall Street,230.891,,,,,,,,,,,20150116,
+213071567,212874797,0,False,residential,"['Mabel Road', 'Westfall Street']",317.282,,,,,,,,,,,"[20150116, 20132773]",
+213072484,212769586,0,False,residential,Oakley Road,95.455,,,,,,,,,,,20148229,
+213072484,212987318,0,False,residential,Oakley Road,100.601,,,,,,,,,,,20148229,
+213072484,213104109,0,False,residential,Westfall Street,139.293,,,,,,,,,,,20150116,
+213072484,213071567,0,False,residential,Westfall Street,230.891,,,,,,,,,,,20150116,
+213072487,212769586,0,False,residential,Oakley Road,70.52,,,,,,,,,,,20148229,
+213075726,212737900,0,False,tertiary,Hinsdale Road,49.562,3,,,30 mph,,,,,,,318962575,
+213075726,212737903,0,True,motorway_link,,62.947,1,,,,,,,,,,555520895,
+213083750,212990128,0,False,residential,Blackstone Way,98.301,,,,,,,,,,,20148930,
+213104109,213072484,0,False,residential,Westfall Street,139.293,,,,,,,,,,,20150116,
+1313579992,1313580033,0,False,residential,Venus Path,121.983,,,,,,,,,,,200352486,
+1313579992,1313579994,0,False,residential,Pegasus Circle,353.131,,,,,,,,,,,200352485,
+1313579992,3834066466,0,False,residential,"['Malibu Hills Drive', 'Venus Path']",927.525,,,,,,,,,,,"[200352483, 200352486]",
+1313579994,1313580033,0,False,residential,Neptune Lane,254.502,,,,,,,,,,,116542029,
+1313579994,2571781295,0,False,residential,Pegasus Circle,132.211,,,,,,,,,,,200352485,
+1313579994,1313579992,0,False,residential,Pegasus Circle,353.131,,,,,,,,,,,200352485,
+1313580021,1313580039,0,False,residential,Pegasus Circle,134.303,,,,,,,,,,,200352485,
+1313580021,2571781295,0,False,residential,Pegasus Circle,113.143,,,,,,,,,,,200352485,
+1313580021,212987331,0,False,residential,Stellium Drive,262.593,,,,,,,,,,,239949995,
+1313580033,1313579994,0,False,residential,Neptune Lane,254.502,,,,,,,,,,,116542029,
+1313580033,1313579992,0,False,residential,Venus Path,121.983,,,,,,,,,,,200352486,
+1313580033,1313580039,0,False,residential,Venus Path,105.79,,,,,,,,,,,200352486,
+1313580039,1313580021,0,False,residential,Pegasus Circle,134.303,,,,,,,,,,,200352485,
+1313580039,2103425221,0,False,residential,Pegasus Circle,227.912,,,,,,,,,,,200352485,
+1313580039,1313580033,0,False,residential,Venus Path,105.79,,,,,,,,,,,200352486,
+2103425221,212987327,0,False,residential,Aries Way,284.605,,,,,,,,,,,200352484,
+2103425221,2103425223,0,False,residential,Pegasus Circle,182.839,,,,,,,,,,,200352485,
+2103425221,1313580039,0,False,residential,Pegasus Circle,227.912,,,,,,,,,,,200352485,
+2103425223,2103425221,0,False,residential,Pegasus Circle,182.839,,,,,,,,,,,200352485,
+2571781291,2571781291,0,False,residential,Vertex Path,243.607,,,,,,,,,,,250813496,
+2571781291,2571781291,1,False,residential,Vertex Path,243.607,,,,,,,,,,,250813496,
+2571781291,2571781295,0,False,residential,Vertex Path,64.567,,,,,,,,,,,250813496,
+2571781295,1313580021,0,False,residential,Pegasus Circle,113.143,,,,,,,,,,,200352485,
+2571781295,1313579994,0,False,residential,Pegasus Circle,132.211,,,,,,,,,,,200352485,
+2571781295,2571781291,0,False,residential,Vertex Path,64.567,,,,,,,,,,,250813496,
+3834066466,212855870,0,False,unclassified,"['Thomas Avenue', 'Belle Isle Road']",1920.508,2,,,,,,,,,,"[20141945, 20137055]",
+3834066466,212990031,0,False,unclassified,Belle Isle Road,193.326,2,,,,,,,,,,20141945,
+3834066466,1313579992,0,False,residential,"['Malibu Hills Drive', 'Venus Path']",927.525,,,,,,,,,,,"[200352483, 200352486]",

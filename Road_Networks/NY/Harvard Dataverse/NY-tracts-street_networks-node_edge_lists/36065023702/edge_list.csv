@@ -1,0 +1,407 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+212842577,212842591,0,False,residential,,113.072,,,,,,,,,,,20129796,
+212842577,212936664,0,False,tertiary,Mill Street,171.816,,,,,,,,,,,20139406,CR 39
+212842591,212842601,0,False,residential,,90.384,,,,,,,,,,,20129796,
+212842591,212842601,1,False,residential,,49.61,,,,,,,,,,,20132900,
+212842591,212842577,0,False,residential,,113.072,,,,,,,,,,,20129796,
+212842601,212842615,0,False,residential,,158.485,,,,,,,,,,,20129796,
+212842601,212842591,0,False,residential,,90.384,,,,,,,,,,,20129796,
+212842601,212842591,1,False,residential,,49.61,,,,,,,,,,,20132900,
+212842615,212936664,0,False,primary,State Highway 365,66.224,2,,,,,,,,,,20138040,NY 365
+212842615,212842601,0,False,residential,,158.485,,,,,,,,,,,20129796,
+212842615,212936649,0,False,primary,State Highway 365,1232.11,2,,,,,,,,,,20138040,NY 365
+212844177,212844191,0,False,residential,,105.859,,,,,,,,,,,20129936,
+212844177,213004626,0,False,primary,New Floyd Road,774.113,2,,,,,,,,,,442522170,NY 365
+212844177,213004607,0,False,"['secondary', 'primary']",New Floyd Road,529.23,2,,,,,,yes,,,,"[442522169, 442522170, 20143028]",NY 365
+212844191,212844177,0,False,residential,,105.859,,,,,,,,,,,20129936,
+212846927,212846942,0,False,residential,,275.279,,,,,,,,,,,20130199,
+212846927,213004626,0,False,residential,Mc Kern Road,82.758,,,,,,,,,,,20150656,
+212846927,212905405,0,False,residential,Mc Kern Road,239.278,,,,,,,,,,,20150656,
+212846942,212846927,0,False,residential,,275.279,,,,,,,,,,,20130199,
+212848246,212848248,0,False,residential,,104.719,,,,,,,,,,,20130315,
+212848246,213004639,0,False,primary,New Floyd Road,201.326,2,,,,,,,,,,442522170,NY 365
+212848246,212848261,0,False,primary,New Floyd Road,82.134,2,,,,,,,,,,442522170,NY 365
+212848248,212848246,0,False,residential,,104.719,,,,,,,,,,,20130315,
+212848248,212848259,0,False,residential,,60.927,,,,,,,,,,,20130320,
+212848248,212848259,1,False,residential,,142.312,,,,,,,,,,,20130315,
+212848259,212848261,0,False,residential,,100.947,,,,,,,,,,,20130315,
+212848259,212848248,0,False,residential,,60.927,,,,,,,,,,,20130320,
+212848259,212848248,1,False,residential,,142.312,,,,,,,,,,,20130315,
+212848261,212848259,0,False,residential,,100.947,,,,,,,,,,,20130315,
+212848261,213004645,0,False,primary,New Floyd Road,32.652,2,,,,,,,,,,442522170,NY 365
+212848261,212848246,0,False,primary,New Floyd Road,82.134,2,,,,,,,,,,442522170,NY 365
+212869864,212869867,0,False,residential,,215.683,,,,,,,,,,,20132357,
+212869864,213059800,0,False,residential,Edwards Road,19.212,,,,,,,,,,,20147473,
+212869864,212975982,0,False,residential,Edwards Road,1025.8,,,,,,,,,,,20147473,
+212869867,212869864,0,False,residential,,215.683,,,,,,,,,,,20132357,
+212881399,213004626,0,False,primary,New Floyd Road,24.292,2,,,,,,,,,,442522170,NY 365
+212881399,212881405,0,False,residential,,137.051,,,,,,,,,,,20133493,
+212881399,212929577,0,False,primary,New Floyd Road,1256.933,2,,,,,,,,,,442522170,NY 365
+212881405,212881399,0,False,residential,,137.051,,,,,,,,,,,20133493,
+212886554,212886577,0,False,residential,Mc Kern Road,68.267,,,,,,,,,,,20150656,
+212886554,212886577,1,False,residential,,413.543,,,,,,,,,,,20134039,
+212886554,212905405,0,False,residential,Mc Kern Road,125.68,,,,,,,,,,,20150656,
+212886577,212886554,0,False,residential,Mc Kern Road,68.267,,,,,,,,,,,20150656,
+212886577,212886554,1,False,residential,,413.543,,,,,,,,,,,20134039,
+212886577,213074941,0,False,residential,Mc Kern Road,742.378,,,,,,,,,,,20150656,
+212889191,212889213,0,False,residential,,192.885,,,,,,,,,,,20134332,
+212889191,212889213,1,False,tertiary,Camroden Road,72.495,,,,,,,,,,,20148659,CR 58
+212889191,213072042,0,False,tertiary,Camroden Road,1310.356,,,,,,,,,,,20148659,CR 58
+212889213,212889191,0,False,residential,,192.885,,,,,,,,,,,20134332,
+212889213,212889191,1,False,tertiary,Camroden Road,72.495,,,,,,,,,,,20148659,CR 58
+212889213,213034933,0,False,tertiary,Camroden Road,850.498,,,,,,,,,,,20148659,CR 58
+212893636,212893638,0,False,residential,,36.716,,,,,,,,,,,20134772,
+212893636,213059800,0,False,residential,Edwards Road,1103.506,,,,,,,,,,,20147473,
+212893636,213034835,0,False,residential,Edwards Road,163.734,,,,,,,,,,,20147473,
+212893638,212893636,0,False,residential,,36.716,,,,,,,,,,,20134772,
+212898136,212898137,0,False,residential,Kilbourn Road,40.951,,,,,,,,,,,20135133,
+212898136,212918238,0,False,tertiary,River Road,352.248,,,,,,,,,,,121963454,CR 88
+212898137,212898136,0,False,residential,Kilbourn Road,40.951,,,,,,,,,,,20135133,
+212900027,212975849,0,False,tertiary,Soule Road,62.612,,,,,,,,,,,20140927,CR 74
+212900027,212900035,0,False,residential,1st Avenue,118.553,,,,,,,,,,,20135289,
+212900027,212936620,0,False,tertiary,Soule Road,207.722,,,,,,,,,,,20140927,CR 74
+212900035,212900027,0,False,residential,1st Avenue,118.553,,,,,,,,,,,20135289,
+212903188,212903207,0,False,residential,Kilbourne Road,31.235,,,,,,,,,,,20136783,
+212903188,212903207,1,False,residential,Kriswood Circle,109.732,,,,,,,,,,,20135526,
+212903188,212918189,0,False,residential,Kilbourne Road,60.935,,,,,,,,,,,20136783,
+212903207,212918194,0,False,residential,Kilbourne Road,54.5,,,,,,,,,,,20136783,
+212903207,212903188,0,False,residential,Kilbourne Road,31.235,,,,,,,,,,,20136783,
+212903207,212903188,1,False,residential,Kriswood Circle,109.732,,,,,,,,,,,20135526,
+212903679,212903687,0,False,residential,North Street,116.336,,,,,,,,,,,20135563,
+212903679,213120170,0,False,residential,Sunset Drive,120.307,,,,,,,,,,,20151150,
+212903679,213120142,0,False,residential,Sunset Drive,161.911,,,,,,,,,,,20151150,
+212903687,212903679,0,False,residential,North Street,116.336,,,,,,,,,,,20135563,
+212903687,213173503,0,False,residential,Starlane Drive,137.499,,,,,,,,,,,20155185,
+212903687,213120170,0,False,residential,Starlane Drive,274.04,,,,,,,,,,,20155185,
+212905405,212905411,0,False,residential,Hillside Court,244.347,,,,,,,,,,,20135697,
+212905405,212846927,0,False,residential,Mc Kern Road,239.278,,,,,,,,,,,20150656,
+212905405,212886554,0,False,residential,Mc Kern Road,125.68,,,,,,,,,,,20150656,
+212905411,212905432,0,False,residential,Hillside Court,174.822,,,,,,,,,,,20135697,
+212905411,212905405,0,False,residential,Hillside Court,244.347,,,,,,,,,,,20135697,
+212905411,213010749,0,False,residential,Oakview Terrace,269.943,,,,,,,,,,,20143482,
+212905432,212905411,0,False,residential,Hillside Court,174.822,,,,,,,,,,,20135697,
+212905432,212905432,0,False,residential,Hillside Court,110.994,,,,,,,,,,,20135703,
+212905432,212905432,1,False,residential,Hillside Court,110.994,,,,,,,,,,,20135703,
+212912373,212945375,0,False,residential,Ritchie Road,24.692,,,,,,,,,,,412460233,
+212912373,212912380,0,False,residential,Simpson Lane,97.407,,,,,,,,,,,20136305,
+212912373,212917502,0,False,residential,Ritchie Road,339.253,,,,,,,,,,,412460233,
+212912380,212970702,0,False,residential,Smith's Circle,14.388,,,,,,,,,,,20140609,
+212912380,212970702,1,False,residential,Smith's Circle,869.79,,,,,,,,,,,20140609,
+212912380,212912373,0,False,residential,Simpson Lane,97.407,,,,,,,,,,,20136305,
+212915241,213096006,0,False,residential,Stearns Road,38.326,,,,,,,,,,,20153942,
+212915241,212915277,0,False,residential,Birch Drive,405.591,,,,,,,,,,,20136551,
+212915241,213081189,0,False,residential,Stearns Road,589.684,,,,,,,,,,,20153942,
+212915277,212915287,0,False,residential,Birch Drive,30.199,,,,,,,,,,,20136551,
+212915277,212915287,1,False,residential,Birch Drive,290.16,,,,,,,,,,,20136551,
+212915277,212915241,0,False,residential,Birch Drive,405.591,,,,,,,,,,,20136551,
+212915287,212915277,0,False,residential,Birch Drive,290.16,,,,,,,,,,,20136551,
+212915287,212915277,1,False,residential,Birch Drive,30.199,,,,,,,,,,,20136551,
+212915287,212918663,0,False,residential,Twin Ponds Estates,64.76,,,,,,,,,,,20136812,
+212917502,212912373,0,False,residential,Ritchie Road,339.253,,,,,,,,,,,412460233,
+212917502,212936649,0,False,residential,Ritchie Road,641.648,,,,,,,,,,,412460233,
+212918172,212918189,0,False,residential,Kilbourne Road,231.919,,,,,,,,,,,20136783,
+212918172,213009822,0,False,residential,Hurlbut Lane,227.329,,,,,,,,,,,20143387,
+212918189,213004607,0,False,secondary,New Floyd Road,186.911,2,,,,,,,,,,20143028,NY 365
+212918189,212903188,0,False,residential,Kilbourne Road,60.935,,,,,,,,,,,20136783,
+212918189,212918172,0,False,residential,Kilbourne Road,231.919,,,,,,,,,,,20136783,
+212918189,212960375,0,False,secondary,New Floyd Road,135.738,2,,,,,,,,,,20143028,NY 365
+212918194,212903207,0,False,residential,Kilbourne Road,54.5,,,,,,,,,,,20136783,
+212918194,212918200,0,False,residential,Kilbourne Road,174.943,,,,,,,,,,,20136783,
+212918194,212960340,0,False,residential,Kriswood Drive,276.319,,,,,,,,,,,20139777,
+212918200,213141471,0,False,residential,Sandy Circle,59.186,,,,,,,,,,,20152522,
+212918200,212918238,0,False,residential,Kilbourne Road,579.768,,,,,,,,,,,20136783,
+212918200,212918194,0,False,residential,Kilbourne Road,174.943,,,,,,,,,,,20136783,
+212918238,212918200,0,False,residential,Kilbourne Road,579.768,,,,,,,,,,,20136783,
+212918238,213028689,0,False,tertiary,River Road,720.109,,,,,,,yes,,,,"[442522174, 442522173, 121963454]",CR 88
+212918238,212898136,0,False,tertiary,River Road,352.248,,,,,,,,,,,121963454,CR 88
+212918648,212918650,0,False,residential,Twin Ponds Estates,27.611,,,,,,,,,,,20136811,
+212918648,213114105,0,False,residential,Stearns Road,210.779,,,,,,,,,,,20153942,
+212918648,213096006,0,False,residential,Stearns Road,721.49,,,,,,,,,,,20153942,
+212918650,212918648,0,False,residential,Twin Ponds Estates,27.611,,,,,,,,,,,20136811,
+212918663,212915287,0,False,residential,Twin Ponds Estates,64.76,,,,,,,,,,,20136812,
+212920216,212920227,0,False,residential,Thomas Circle,17.092,,,,,,,,,,,20136940,
+212920216,212920223,0,False,residential,Thomas Circle,69.637,,,,,,,,,,,20136940,
+212920223,212920216,0,False,residential,Thomas Circle,69.637,,,,,,,,,,,20136940,
+212920223,212920300,0,False,residential,Thomas Circle,31.382,,,,,,,,,,,20136940,
+212920227,212920230,0,False,residential,Thomas Circle,62.091,,,,,,,,,,,20136940,
+212920227,212920216,0,False,residential,Thomas Circle,17.092,,,,,,,,,,,20136940,
+212920230,212920234,0,False,residential,Thomas Circle,50.82,,,,,,,,,,,20136940,
+212920230,212920227,0,False,residential,Thomas Circle,62.091,,,,,,,,,,,20136940,
+212920234,212920238,0,False,residential,Thomas Circle,12.07,,,,,,,,,,,20136940,
+212920234,212920230,0,False,residential,Thomas Circle,50.82,,,,,,,,,,,20136940,
+212920238,212920241,0,False,residential,Thomas Circle,5.778,,,,,,,,,,,20136940,
+212920238,212920234,0,False,residential,Thomas Circle,12.07,,,,,,,,,,,20136940,
+212920241,212920245,0,False,residential,Thomas Circle,14.806,,,,,,,,,,,20136940,
+212920241,212920238,0,False,residential,Thomas Circle,5.778,,,,,,,,,,,20136940,
+212920245,212920247,0,False,residential,Thomas Circle,15.941,,,,,,,,,,,20136940,
+212920245,212920241,0,False,residential,Thomas Circle,14.806,,,,,,,,,,,20136940,
+212920247,212920249,0,False,residential,Thomas Circle,10.713,,,,,,,,,,,20136940,
+212920247,212920245,0,False,residential,Thomas Circle,15.941,,,,,,,,,,,20136940,
+212920249,212920252,0,False,residential,Thomas Circle,14.662,,,,,,,,,,,20136940,
+212920249,212920247,0,False,residential,Thomas Circle,10.713,,,,,,,,,,,20136940,
+212920252,212920253,0,False,residential,Thomas Circle,27.516,,,,,,,,,,,20136940,
+212920252,212920249,0,False,residential,Thomas Circle,14.662,,,,,,,,,,,20136940,
+212920253,212920256,0,False,residential,Thomas Circle,104.913,,,,,,,,,,,20136940,
+212920253,212920252,0,False,residential,Thomas Circle,27.516,,,,,,,,,,,20136940,
+212920256,212920259,0,False,residential,Thomas Circle,6.637,,,,,,,,,,,20136940,
+212920256,212920253,0,False,residential,Thomas Circle,104.913,,,,,,,,,,,20136940,
+212920259,212920262,0,False,residential,Thomas Circle,7.456,,,,,,,,,,,20136940,
+212920259,212920256,0,False,residential,Thomas Circle,6.637,,,,,,,,,,,20136940,
+212920262,212920268,0,False,residential,Thomas Circle,4.603,,,,,,,,,,,20136940,
+212920262,212920259,0,False,residential,Thomas Circle,7.456,,,,,,,,,,,20136940,
+212920268,212920272,0,False,residential,Thomas Circle,10.956,,,,,,,,,,,20136940,
+212920268,212920262,0,False,residential,Thomas Circle,4.603,,,,,,,,,,,20136940,
+212920272,212920275,0,False,residential,Thomas Circle,63.062,,,,,,,,,,,20136940,
+212920272,212920268,0,False,residential,Thomas Circle,10.956,,,,,,,,,,,20136940,
+212920275,212920276,0,False,residential,Thomas Circle,36.541,,,,,,,,,,,20136940,
+212920275,212920272,0,False,residential,Thomas Circle,63.062,,,,,,,,,,,20136940,
+212920276,212920279,0,False,residential,Thomas Circle,7.639,,,,,,,,,,,20136940,
+212920276,212920275,0,False,residential,Thomas Circle,36.541,,,,,,,,,,,20136940,
+212920279,212920281,0,False,residential,Thomas Circle,5.205,,,,,,,,,,,20136940,
+212920279,212920276,0,False,residential,Thomas Circle,7.639,,,,,,,,,,,20136940,
+212920281,212920284,0,False,residential,Thomas Circle,8.171,,,,,,,,,,,20136940,
+212920281,212920279,0,False,residential,Thomas Circle,5.205,,,,,,,,,,,20136940,
+212920284,212920286,0,False,residential,Thomas Circle,13.427,,,,,,,,,,,20136940,
+212920284,212920281,0,False,residential,Thomas Circle,8.171,,,,,,,,,,,20136940,
+212920286,212920289,0,False,residential,Thomas Circle,40.278,,,,,,,,,,,20136940,
+212920286,212920284,0,False,residential,Thomas Circle,13.427,,,,,,,,,,,20136940,
+212920289,212920295,0,False,residential,Thomas Circle,3.202,,,,,,,,,,,20136940,
+212920289,212920286,0,False,residential,Thomas Circle,40.278,,,,,,,,,,,20136940,
+212920295,212920300,0,False,residential,Thomas Circle,28.484,,,,,,,,,,,20136940,
+212920295,212920289,0,False,residential,Thomas Circle,3.202,,,,,,,,,,,20136940,
+212920300,212920223,0,False,residential,Thomas Circle,31.382,,,,,,,,,,,20136940,
+212920300,212920295,0,False,residential,Thomas Circle,28.484,,,,,,,,,,,20136940,
+212921308,212976054,0,False,tertiary,Soule Road,444.173,,,,,,,,,,,20140927,CR 74
+212923776,212923798,0,False,residential,Lewicki Road,613.037,,,,,,,,,,,20137197,
+212923776,213009047,0,False,residential,Rickmyer Road,1159.711,,,,,,,,,,,442522172,
+212923776,212929503,0,False,residential,Rickmyer Road,319.202,,,,,,,,,,,442522172,
+212923798,212923776,0,False,residential,Lewicki Road,613.037,,,,,,,,,,,20137197,
+212924003,212924006,0,False,secondary,Town Barn Road,25.829,,,,,,,,,,,20137233,NY 274
+212924003,213142601,0,False,tertiary,East Floyd Road,402.69,,,,,,,,,,,20148662,CR 47
+212924006,212924003,0,False,secondary,Town Barn Road,25.829,,,,,,,,,,,20137233,NY 274
+212929503,212929541,0,False,residential,Middle Road,1376.151,,,,,,,,,,,20137630,
+212929503,212923776,0,False,residential,Rickmyer Road,319.202,,,,,,,,,,,442522172,
+212929503,213074941,0,False,residential,Rickmyer Road,566.928,,,,,,,,,,,442522172,
+212929541,212929577,0,False,residential,Middle Road,988.476,,,,,,,,,,,20137630,
+212929541,212929503,0,False,residential,Middle Road,1376.151,,,,,,,,,,,20137630,
+212929541,213014713,0,False,residential,Glenwood Drive,512.277,,,,,,,,,,,20143796,
+212929577,212929591,0,False,residential,Middle Road,268.187,,,,,,,,,,,20137630,
+212929577,212929541,0,False,residential,Middle Road,988.476,,,,,,,,,,,20137630,
+212929577,213004639,0,False,primary,New Floyd Road,1194.018,2,,,,,,,,,,442522170,NY 365
+212929577,212881399,0,False,primary,New Floyd Road,1256.933,2,,,,,,,,,,442522170,NY 365
+212929591,213108572,0,False,residential,Stearns Road,36.812,,,,,,,,,,,20153942,
+212929591,212929577,0,False,residential,Middle Road,268.187,,,,,,,,,,,20137630,
+212929591,213010161,0,False,residential,Stearns Road,1002.488,,,,,,,,,,,20153942,
+212936620,212936649,0,False,primary,State Highway 365,1029.396,2,,,,,,,,,,20138040,NY 365
+212936620,212900027,0,False,tertiary,Soule Road,207.722,,,,,,,,,,,20140927,CR 74
+212936620,212991083,0,False,residential,Davis Road,462.092,,,,,,,,,,,20142027,
+212936620,213004650,0,False,primary,New Floyd Road,496.311,2,,,,,,,,,,442522170,NY 365
+212936649,212842615,0,False,primary,State Highway 365,1232.11,2,,,,,,,,,,20138040,NY 365
+212936649,212936620,0,False,primary,State Highway 365,1029.396,2,,,,,,,,,,20138040,NY 365
+212936649,212917502,0,False,residential,Ritchie Road,641.648,,,,,,,,,,,412460233,
+212936664,212842615,0,False,primary,State Highway 365,66.224,2,,,,,,,,,,20138040,NY 365
+212936664,212842577,0,False,tertiary,Mill Street,171.816,,,,,,,,,,,20139406,CR 39
+212939105,212939181,0,False,residential,Kirkland Road,213.955,,,,,,,,,,,20138207,
+212939105,213142601,0,False,tertiary,East Floyd Road,1023.863,,,,,,,,,,,20148662,CR 47
+212939105,213109135,0,False,tertiary,East Floyd Road,1225.566,,,,,,,,,,,20148662,CR 47
+212939181,212939105,0,False,residential,Kirkland Road,213.955,,,,,,,,,,,20138207,
+212945375,212912373,0,False,residential,Ritchie Road,24.692,,,,,,,,,,,412460233,
+212945375,212970702,0,False,residential,Smith's Circle,91.419,,,,,,,,,,,20140612,
+212945375,212945384,0,False,residential,Ritchie Road,567.588,,,,,,,,,,,412460233,
+212945384,212945389,0,False,residential,Colonial Trail,117.024,,,,,,,,,,,20152538,
+212945384,212945389,1,False,residential,Ritchie Road,46.608,,,,,,,,,,,412460233,
+212945384,212945375,0,False,residential,Ritchie Road,567.588,,,,,,,,,,,412460233,
+212945389,212945384,0,False,residential,Colonial Trail,117.024,,,,,,,,,,,20152538,
+212945389,212945384,1,False,residential,Ritchie Road,46.608,,,,,,,,,,,412460233,
+212945389,212945404,0,False,residential,Ritchie Road,178.623,,,,,,,,,,,412460233,
+212945404,212978031,0,False,residential,Davis Road,1132.151,,,,,,,,,,,20142027,
+212945404,212992728,0,False,residential,Hemlock Lane,199.289,,,,,,,,,,,20142105,
+212945404,212945389,0,False,residential,Ritchie Road,178.623,,,,,,,,,,,412460233,
+212960320,212960375,0,False,secondary,New Floyd Road,36.256,2,,,,,,,,,,20143028,NY 365
+212960320,212960340,0,False,residential,Kriswood Drive,168.32,,,,,,,,,,,20139777,
+212960340,212960375,0,False,residential,Kriswood Drive,171.161,,,,,,,,,,,20139778,
+212960340,212918194,0,False,residential,Kriswood Drive,276.319,,,,,,,,,,,20139777,
+212960340,212960320,0,False,residential,Kriswood Drive,168.32,,,,,,,,,,,20139777,
+212960375,212960340,0,False,residential,Kriswood Drive,171.161,,,,,,,,,,,20139778,
+212960375,212960320,0,False,secondary,New Floyd Road,36.256,2,,,,,,,,,,20143028,NY 365
+212960375,212918189,0,False,secondary,New Floyd Road,135.738,2,,,,,,,,,,20143028,NY 365
+212962878,212962964,0,False,residential,Smith Road,2042.062,,,,,,,,,,,20139983,
+212962878,213035565,0,False,residential,Wynn Road,1795.785,,,,,,,,,,,20146186,
+212962964,213072042,0,False,tertiary,Camroden Road,23.875,,,,,,,,,,,20148659,CR 58
+212962964,212962878,0,False,residential,Smith Road,2042.062,,,,,,,,,,,20139983,
+212970702,212912380,0,False,residential,Smith's Circle,14.388,,,,,,,,,,,20140609,
+212970702,212912380,1,False,residential,Smith's Circle,869.79,,,,,,,,,,,20140609,
+212970702,212945375,0,False,residential,Smith's Circle,91.419,,,,,,,,,,,20140612,
+212975849,212975853,0,False,tertiary,Soule Road,58.485,,,,,,,,,,,20140927,CR 74
+212975849,212900027,0,False,tertiary,Soule Road,62.612,,,,,,,,,,,20140927,CR 74
+212975849,212997872,0,False,residential,2nd Avenue,120.553,,,,,,,,,,,20142505,
+212975853,212975849,0,False,tertiary,Soule Road,58.485,,,,,,,,,,,20140927,CR 74
+212975853,212975865,0,False,tertiary,Soule Road,247.065,,,,,,,,,,,20140927,CR 74
+212975853,213094892,0,False,residential,3rd Avenue,123.485,,,,,,,,,,,20149524,
+212975865,212975969,0,False,tertiary,Soule Road,2647.04,,,,,,,,,,,20140927,CR 74
+212975865,212975853,0,False,tertiary,Soule Road,247.065,,,,,,,,,,,20140927,CR 74
+212975865,213059800,0,False,residential,"['Streiff Road', 'Upper Streiff Road', 'Lower Streiff Road']",2960.026,,,,,,,,,,,"[20143216, 20154593, 20148828]",
+212975969,212975982,0,False,tertiary,Soule Road,234.806,,,,,,,,,,,20140927,CR 74
+212975969,212975865,0,False,tertiary,Soule Road,2647.04,,,,,,,,,,,20140927,CR 74
+212975969,213075432,0,False,residential,"['Boak Road', 'Boak Road West']",814.844,,,,,,,,,,,"[20147672, 20148386]",
+212975982,212976054,0,False,tertiary,Soule Road,1555.062,,,,,,,,,,,20140927,CR 74
+212975982,212975969,0,False,tertiary,Soule Road,234.806,,,,,,,,,,,20140927,CR 74
+212975982,212869864,0,False,residential,Edwards Road,1025.8,,,,,,,,,,,20147473,
+212976054,212921308,0,False,tertiary,Soule Road,444.173,,,,,,,,,,,20140927,CR 74
+212976054,212975982,0,False,tertiary,Soule Road,1555.062,,,,,,,,,,,20140927,CR 74
+212976054,213034779,0,False,tertiary,East Floyd Road,2256.092,,,,,,,,,,,20145507,CR 47
+212976054,213109135,0,False,tertiary,East Floyd Road,1386.243,,,,,,,,,,,20148662,CR 47
+212978031,212978034,0,False,residential,Silver Mine Road,133.09,,,,,,,,,,,20141058,
+212978031,212945404,0,False,residential,Davis Road,1132.151,,,,,,,,,,,20142027,
+212978031,212991083,0,False,residential,Davis Road,1090.029,,,,,,,,,,,20142027,
+212978034,212978031,0,False,residential,Silver Mine Road,133.09,,,,,,,,,,,20141058,
+212991083,212978031,0,False,residential,Davis Road,1090.029,,,,,,,,,,,20142027,
+212991083,212936620,0,False,residential,Davis Road,462.092,,,,,,,,,,,20142027,
+212991083,213004650,0,False,residential,Charles Road,683.313,,,,,,,,,,,20150687,
+212992728,212992740,0,False,residential,Hemlock Lane,39.913,,,,,,,,,,,20142105,
+212992728,212992740,1,False,residential,Hemlock Lane,116.924,,,,,,,,,,,20142113,
+212992728,212945404,0,False,residential,Hemlock Lane,199.289,,,,,,,,,,,20142105,
+212992740,212992746,0,False,residential,Hemlock Lane,41.588,,,,,,,,,,,20142105,
+212992740,212992728,0,False,residential,Hemlock Lane,39.913,,,,,,,,,,,20142105,
+212992740,212992728,1,False,residential,Hemlock Lane,116.924,,,,,,,,,,,20142113,
+212992746,212992740,0,False,residential,Hemlock Lane,41.588,,,,,,,,,,,20142105,
+212997872,212975849,0,False,residential,2nd Avenue,120.553,,,,,,,,,,,20142505,
+213004607,212918189,0,False,secondary,New Floyd Road,186.911,2,,,,,,,,,,20143028,NY 365
+213004607,212844177,0,False,"['primary', 'secondary']",New Floyd Road,529.23,2,,,,,,yes,,,,"[442522169, 442522170, 20143028]",NY 365
+213004607,213120142,0,False,residential,Sunset Drive,72.266,,,,,,,,,,,20151150,
+213004626,212881399,0,False,primary,New Floyd Road,24.292,2,,,,,,,,,,442522170,NY 365
+213004626,213111981,0,False,residential,Mc Kern Road,307.943,,,,,,,,,,,20150656,
+213004626,212846927,0,False,residential,Mc Kern Road,82.758,,,,,,,,,,,20150656,
+213004626,212844177,0,False,primary,New Floyd Road,774.113,2,,,,,,,,,,442522170,NY 365
+213004639,212848246,0,False,primary,New Floyd Road,201.326,2,,,,,,,,,,442522170,NY 365
+213004639,213010161,0,False,tertiary,Koenig Road,302.681,,,,,,,,,,,277933974,CR 58
+213004639,213010127,0,False,tertiary,Koenig Road,85.172,,,,,,,,,,,277933974,CR 58
+213004639,212929577,0,False,primary,New Floyd Road,1194.018,2,,,,,,,,,,442522170,NY 365
+213004645,212848261,0,False,primary,New Floyd Road,32.652,2,,,,,,,,,,442522170,NY 365
+213004645,213009166,0,False,tertiary,Old Floyd Road,263.326,,,,,,,,,,,277746831,CR 93
+213004645,213004650,0,False,primary,New Floyd Road,60.172,2,,,,,,,,,,442522170,NY 365
+213004650,212991083,0,False,residential,Charles Road,683.313,,,,,,,,,,,20150687,
+213004650,212936620,0,False,primary,New Floyd Road,496.311,2,,,,,,,,,,442522170,NY 365
+213004650,213004645,0,False,primary,New Floyd Road,60.172,2,,,,,,,,,,442522170,NY 365
+213009047,213009096,0,False,unclassified,Old Floyd Road,1226.946,,,,,,,,,,,20143356,
+213009047,212923776,0,False,residential,Rickmyer Road,1159.711,,,,,,,,,,,442522172,
+213009096,213009047,0,False,unclassified,Old Floyd Road,1226.946,,,,,,,,,,,20143356,
+213009096,213009158,0,False,tertiary,Old Floyd Road,2715.983,,,,,,,,,,,277746831,CR 93
+213009158,213034933,0,False,tertiary,Camroden Road,3950.692,,,,,,,,,,,20148659,CR 58
+213009158,213010127,0,False,tertiary,Camroden Road,111.446,,,,,,,,,,,20148659,CR 58
+213009158,213009166,0,False,tertiary,Old Floyd Road,91.244,,,,,,,,,,,277746831,CR 93
+213009158,213009096,0,False,tertiary,Old Floyd Road,2715.983,,,,,,,,,,,277746831,CR 93
+213009166,213010127,0,False,tertiary,Koenig Road,65.644,,,,,,,,,,,20143435,CR 58
+213009166,213004645,0,False,tertiary,Old Floyd Road,263.326,,,,,,,,,,,277746831,CR 93
+213009166,213009158,0,False,tertiary,Old Floyd Road,91.244,,,,,,,,,,,277746831,CR 93
+213009822,212918172,0,False,residential,Hurlbut Lane,227.329,,,,,,,,,,,20143387,
+213010127,213009166,0,False,tertiary,Koenig Road,65.644,,,,,,,,,,,20143435,CR 58
+213010127,213009158,0,False,tertiary,Camroden Road,111.446,,,,,,,,,,,20148659,CR 58
+213010127,213004639,0,False,tertiary,Koenig Road,85.172,,,,,,,,,,,277933974,CR 58
+213010161,212929591,0,False,residential,Stearns Road,1002.488,,,,,,,,,,,20153942,
+213010161,213010340,0,False,tertiary,Koenig Road,3032.647,,,,,,,,,,,277933974,CR 58
+213010161,213004639,0,False,tertiary,Koenig Road,302.681,,,,,,,,,,,277933974,CR 58
+213010340,213010161,0,False,tertiary,Koenig Road,3032.647,,,,,,,,,,,277933974,CR 58
+213010340,213028689,0,False,tertiary,River Road,2450.291,,,,,,,,,,,442522174,CR 88
+213010749,213010749,0,False,residential,Oakview Terrace,111.21,,,,,,,,,,,20143480,
+213010749,213010749,1,False,residential,Oakview Terrace,111.21,,,,,,,,,,,20143480,
+213010749,212905411,0,False,residential,Oakview Terrace,269.943,,,,,,,,,,,20143482,
+213014713,212929541,0,False,residential,Glenwood Drive,512.277,,,,,,,,,,,20143796,
+213014713,213014713,0,False,residential,Glenwood Drive,208.031,,,,,,,,,,,20143801,
+213014713,213014713,1,False,residential,Glenwood Drive,208.031,,,,,,,,,,,20143801,
+213027221,213027231,0,False,residential,Scott Lane,199.478,,,,,,,,,,,20144844,
+213027221,213034779,0,False,tertiary,East Floyd Road,1241.559,,,,,,,,,,,277939567,CR 47
+213027221,213034844,0,False,tertiary,East Floyd Road,457.483,,,,,,,,,,,277939567,CR 47
+213027231,213027221,0,False,residential,Scott Lane,199.478,,,,,,,,,,,20144844,
+213028689,213114105,0,False,residential,Stearns Road,250.074,,,,,,,,,,,20153942,
+213028689,213010340,0,False,tertiary,River Road,2450.291,,,,,,,,,,,442522174,CR 88
+213028689,212918238,0,False,tertiary,River Road,720.109,,,,,,,yes,,,,"[121963454, 442522173, 442522174]",CR 88
+213034779,212976054,0,False,tertiary,East Floyd Road,2256.092,,,,,,,,,,,20145507,CR 47
+213034779,213071990,0,False,residential,Price Road,832.4,,,,,,,,,,,20148199,
+213034779,213027221,0,False,tertiary,East Floyd Road,1241.559,,,,,,,,,,,277939567,CR 47
+213034835,213034844,0,False,residential,East Floyd Road,77.296,,,,,,,,,,,20145514,
+213034835,212893636,0,False,residential,Edwards Road,163.734,,,,,,,,,,,20147473,
+213034835,213034966,0,False,residential,East Floyd Road,80.039,,,,,,,,,,,277939563,
+213034844,213034835,0,False,residential,East Floyd Road,77.296,,,,,,,,,,,20145514,
+213034844,213027221,0,False,tertiary,East Floyd Road,457.483,,,,,,,,,,,277939567,CR 47
+213034844,213034966,0,False,tertiary,East Floyd Road,94.706,,,,,,,,,,,277939567,CR 47
+213034933,213073247,0,False,tertiary,Watson Hollow Road,2433.908,,,,55 mph,,,,,,,20148273,CR 47
+213034933,212889213,0,False,tertiary,Camroden Road,850.498,,,,,,,,,,,20148659,CR 58
+213034933,213009158,0,False,tertiary,Camroden Road,3950.692,,,,,,,,,,,20148659,CR 58
+213034933,213034966,0,False,tertiary,East Floyd Road,818.053,,,,,,,,,,,277939567,CR 47
+213034966,213034835,0,False,residential,East Floyd Road,80.039,,,,,,,,,,,277939563,
+213034966,213034844,0,False,tertiary,East Floyd Road,94.706,,,,,,,,,,,277939567,CR 47
+213034966,213034933,0,False,tertiary,East Floyd Road,818.053,,,,,,,,,,,277939567,CR 47
+213035554,213035565,0,False,residential,Townline Road,403.365,,,,,,,,,,,20145584,
+213035565,213035554,0,False,residential,Townline Road,403.365,,,,,,,,,,,20145584,
+213035565,212962878,0,False,residential,Wynn Road,1795.785,,,,,,,,,,,20146186,
+213059800,212869864,0,False,residential,Edwards Road,19.212,,,,,,,,,,,20147473,
+213059800,212893636,0,False,residential,Edwards Road,1103.506,,,,,,,,,,,20147473,
+213059800,212975865,0,False,residential,"['Lower Streiff Road', 'Upper Streiff Road', 'Streiff Road']",2960.026,,,,,,,,,,,"[20143216, 20154593, 20148828]",
+213062765,213062772,0,False,residential,Boak Road,254.603,,,,,,,,,,,20147676,
+213062772,213062788,0,False,residential,Boak Road,623.658,,,,,,,,,,,20147676,
+213062772,213062765,0,False,residential,Boak Road,254.603,,,,,,,,,,,20147676,
+213062772,213109135,0,False,residential,Goggins Road,1833.072,,,,,,,,,,,20150465,
+213062788,213062772,0,False,residential,Boak Road,623.658,,,,,,,,,,,20147676,
+213062788,213158152,0,False,residential,Benson Road,899.12,,,,,,,,,,,20153739,
+213071990,213072042,0,False,residential,Price Road,1281.11,,,,,,,,,,,20148199,
+213071990,213034779,0,False,residential,Price Road,832.4,,,,,,,,,,,20148199,
+213071990,213081709,0,False,residential,Skutnik Road,2194.218,,,,,,,,,,,20148800,
+213072042,212962964,0,False,tertiary,Camroden Road,23.875,,,,,,,,,,,20148659,CR 58
+213072042,213071990,0,False,residential,Price Road,1281.11,,,,,,,,,,,20148199,
+213072042,212889191,0,False,tertiary,Camroden Road,1310.356,,,,,,,,,,,20148659,CR 58
+213073247,213034933,0,False,tertiary,Watson Hollow Road,2433.908,,,,55 mph,,,,,,,20148273,CR 47
+213073247,213175250,0,False,residential,Cady Road,217.07,,,,,,,,,,,20155408,
+213074941,212886577,0,False,residential,Mc Kern Road,742.378,,,,,,,,,,,20150656,
+213074941,212929503,0,False,residential,Rickmyer Road,566.928,,,,,,,,,,,442522172,
+213075432,212975969,0,False,residential,"['Boak Road', 'Boak Road West']",814.844,,,,,,,,,,,"[20147672, 20148386]",
+213081189,213081191,0,False,residential,Breezy Acres Road,175.586,,,,,,,,,,,20148766,
+213081189,213108572,0,False,residential,Stearns Road,439.75,,,,,,,,,,,20153942,
+213081189,212915241,0,False,residential,Stearns Road,589.684,,,,,,,,,,,20153942,
+213081191,213081189,0,False,residential,Breezy Acres Road,175.586,,,,,,,,,,,20148766,
+213081709,213071990,0,False,residential,Skutnik Road,2194.218,,,,,,,,,,,20148800,
+213094892,212975853,0,False,residential,3rd Avenue,123.485,,,,,,,,,,,20149524,
+213096006,212915241,0,False,residential,Stearns Road,38.326,,,,,,,,,,,20153942,
+213096006,213096011,0,False,residential,Collins Drive,178.047,,,,,,,,,,,20149624,
+213096006,212918648,0,False,residential,Stearns Road,721.49,,,,,,,,,,,20153942,
+213096011,213096006,0,False,residential,Collins Drive,178.047,,,,,,,,,,,20149624,
+213108572,213081189,0,False,residential,Stearns Road,439.75,,,,,,,,,,,20153942,
+213108572,212929591,0,False,residential,Stearns Road,36.812,,,,,,,,,,,20153942,
+213108572,213108577,0,False,residential,Bunal Drive,196.652,,,,,,,,,,,20150423,
+213108577,213169212,0,False,residential,Bunal Boulevard,108.549,,,,,,,,,,,20154711,
+213108577,213108572,0,False,residential,Bunal Drive,196.652,,,,,,,,,,,20150423,
+213108577,213169202,0,False,residential,Bunal Boulevard,109.347,,,,,,,,,,,20154711,
+213109135,212939105,0,False,tertiary,East Floyd Road,1225.566,,,,,,,,,,,20148662,CR 47
+213109135,212976054,0,False,tertiary,East Floyd Road,1386.243,,,,,,,,,,,20148662,CR 47
+213109135,213062772,0,False,residential,Goggins Road,1833.072,,,,,,,,,,,20150465,
+213111981,213004626,0,False,residential,Mc Kern Road,307.943,,,,,,,,,,,20150656,
+213114100,213114105,0,False,residential,Woodside Trail Park,109.769,,,,,,,,,,,20150793,
+213114105,213114100,0,False,residential,Woodside Trail Park,109.769,,,,,,,,,,,20150793,
+213114105,212918648,0,False,residential,Stearns Road,210.779,,,,,,,,,,,20153942,
+213114105,213028689,0,False,residential,Stearns Road,250.074,,,,,,,,,,,20153942,
+213120142,212903679,0,False,residential,Sunset Drive,161.911,,,,,,,,,,,20151150,
+213120142,213004607,0,False,residential,Sunset Drive,72.266,,,,,,,,,,,20151150,
+213120142,213173503,0,False,residential,Starlane Drive,78.043,,,,,,,,,,,20155180,
+213120170,212903679,0,False,residential,Sunset Drive,120.307,,,,,,,,,,,20151150,
+213120170,213142760,0,False,residential,Mag-Archie Lane,215.015,,,,,,,,,,,20152617,
+213120170,212903687,0,False,residential,Starlane Drive,274.04,,,,,,,,,,,20155185,
+213141471,212918200,0,False,residential,Sandy Circle,59.186,,,,,,,,,,,20152522,
+213141471,213141471,0,False,residential,Sandy Circle,449.978,,,,,,,,,,,20152517,
+213141471,213141471,1,False,residential,Sandy Circle,449.978,,,,,,,,,,,20152517,
+213142601,212924003,0,False,tertiary,East Floyd Road,402.69,,,,,,,,,,,20148662,CR 47
+213142601,212939105,0,False,tertiary,East Floyd Road,1023.863,,,,,,,,,,,20148662,CR 47
+213142760,213120170,0,False,residential,Mag-Archie Lane,215.015,,,,,,,,,,,20152617,
+213158152,213062788,0,False,residential,Benson Road,899.12,,,,,,,,,,,20153739,
+213169202,213108577,0,False,residential,Bunal Boulevard,109.347,,,,,,,,,,,20154711,
+213169202,213169202,0,False,residential,Bunal Boulevard,171.723,,,,,,,,,,,20154723,
+213169202,213169202,1,False,residential,Bunal Boulevard,171.723,,,,,,,,,,,20154723,
+213169212,213108577,0,False,residential,Bunal Boulevard,108.549,,,,,,,,,,,20154711,
+213169212,213169212,0,False,residential,Bunal Boulevard,171.607,,,,,,,,,,,20154717,
+213169212,213169212,1,False,residential,Bunal Boulevard,171.607,,,,,,,,,,,20154717,
+213173497,213173503,0,False,residential,Starlane Drive,55.862,,,,,,,,,,,20155180,
+213173503,213120142,0,False,residential,Starlane Drive,78.043,,,,,,,,,,,20155180,
+213173503,213173497,0,False,residential,Starlane Drive,55.862,,,,,,,,,,,20155180,
+213173503,212903687,0,False,residential,Starlane Drive,137.499,,,,,,,,,,,20155185,
+213175250,213175250,0,False,residential,Cady Road,94.152,,,,,,,,,,,20155395,
+213175250,213175250,1,False,residential,Cady Road,94.152,,,,,,,,,,,20155395,
+213175250,213073247,0,False,residential,Cady Road,217.07,,,,,,,,,,,20155408,

@@ -1,0 +1,53 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+61341299,3049393893,0,False,residential,Back Street,206.852,1,4.9,,25 mph,,,,,,,48917529,
+61341715,61349583,0,True,secondary,Beacon Street,32.199,4,21.6,,,,,,,,,485271439,
+61341715,61376973,0,True,secondary,Charlesgate East,77.091,2,18.3,,,,,,,,,8642292,
+61342087,61342088,0,True,residential,Kenmore Street,35.008,2,12.8,,25 mph,,,,,,,105961646,
+61342087,61342396,0,True,primary,Commonwealth Avenue,175.325,3,59.1,,,,,,,,,"[485271437, 591236214]",MA 2
+61342088,61378300,0,True,residential,,24.953,,,,25 mph,,,,,,,8651363,
+61342088,61358060,0,True,primary,Commonwealth Avenue,72.759,2,59.1,,,,,,,,,"[86479790, 591236207]",MA 2
+61342303,1005026944,0,True,secondary,Charlesgate East,29.29,2,18.3,,,,,,,,,8642292,
+61342386,61342088,0,True,primary,Commonwealth Avenue,175.824,2,59.1,,,,,,,,,86479790,MA 2
+61342386,61342396,0,True,secondary,Charlesgate West,37.243,2,21.3,,,,,,,,,242515006,
+61342396,61383244,0,True,secondary_link,,134.637,1,15.2,,,,,yes,,,,"[8646801, 86479793]",
+61342396,61506502,0,True,residential,"['Newbury Street', 'Charlesgate West']",258.432,2,"['18.3', '13.1']",,25 mph,,,,,,,"[8651404, 8649389]",
+61342396,61349180,0,True,primary,Commonwealth Avenue,102.671,"['4', '3']","['59.1', '24.4']",,,,,yes,,,,"[426831018, 426831435, 485271437, 86479791]",MA 2
+61349180,61409547,0,True,secondary,Charlesgate East,38.977,2,18.3,,,,,,,,,426831433,
+61349180,61349182,0,True,primary,Commonwealth Avenue,79.559,2,24.4,,,,,,,,,531920582,MA 2
+61349184,61342087,0,True,primary,Commonwealth Avenue,180.021,3,59.1,,,,,,,,,"[8637705, 591236214]",MA 2
+61349184,61351869,0,False,secondary,Brookline Avenue,63.602,2,19.5,,,,,,,,,240745678,
+61349583,61349591,0,True,secondary,Beacon Street,76.997,4,21.6,,,,,yes,,,,"[426831016, 241028355, 485271439]",
+61349591,61378300,0,True,secondary,Beacon Street,186.701,4,21.6,,,,,,,,,241028354,
+61349591,61378241,0,True,residential,Bay State Road,201.125,1,16.5,,25 mph,,,,,,,8647328,
+61349591,61342386,0,True,secondary,Charlesgate West,84.744,2,21.3,,,,,,,,,242515006,
+61349643,61349600,0,True,trunk_link,,264.992,2,33.5,,,,,yes,,,,"[86480333, 86480023]",
+61351810,61349643,0,True,secondary,Bowker Overpass,221.949,2,33.5,,,,,yes,,,,86479062,
+61351810,61349180,0,True,secondary_link,,141.937,1,15.2,,,,,yes,,,,"[86479792, 8650761]",
+61351869,61349184,0,False,secondary,Brookline Avenue,63.602,2,19.5,,,,,,,,,240745678,
+61353262,61349591,0,True,secondary,Charlesgate West,42.337,2,21.3,,,,,,,,,242515006,
+61358060,61450302,0,True,primary,Beacon Street,92.078,"['4', '3']",30.2,,,,,,,,,"[426830723, 426830724, 240745676]",MA 2
+61358074,61409547,0,True,primary,Commonwealth Avenue,75.356,2,24.4,,,,,,,,,531920581,MA 2
+61374595,2268780755,0,True,trunk,Storrow Drive,90.747,2,30.2,,,,,,,,,8636729,
+61374595,61385541,0,True,trunk_link,,224.558,1,18.3,,,,,,,,,86479794,
+61376973,61349600,0,True,trunk_link,,99.463,2,18.3,,,,,,,,,242514638,
+61378241,3049393893,0,True,residential,Raleigh Street,49.922,2,11.6,,25 mph,,,,,,,105958885,
+61378241,61378300,0,False,residential,Raleigh Street,74.225,1,11.6,,25 mph,,,,,,,8650367,
+61378300,61378241,0,False,residential,Raleigh Street,74.225,1,11.6,,25 mph,,,,,,,8650367,
+61378300,61358060,0,True,secondary,Beacon Street,76.163,4,21.6,,,,,,,,,485271438,
+61379062,2484568638,0,False,secondary,Beacon Street,104.27,4,30.2,,,,,,,,,240745552,MA 2
+61379062,61349184,0,True,secondary,Beacon Street,100.011,2,30.2,,,,,,,,,240745553,MA 2
+61385541,3049393893,0,False,residential,Back Street,187.629,1,4.9,,25 mph,,,,,,,48917529,
+61385541,61353262,0,True,secondary,Charlesgate West,24.045,2,21.3,,,,,,,,,242515006,
+61409312,61383244,0,True,secondary,Bowker Overpass,196.15,2,33.5,,,,,yes,,,,93120175,
+61409547,61342303,0,True,secondary,Charlesgate East,57.069,2,18.3,,,,,,,,,8642292,
+61409547,61342386,0,True,primary,Commonwealth Avenue,103.364,2,"['59.1', '24.4']",,,,,yes,,,,"[86479796, 531920581, 86479790]",MA 2
+61450302,2273088924,0,True,primary,Beacon Street,7.899,2,30.2,,,,,,,,,240745675,MA 2
+61506502,61342087,0,True,residential,Kenmore Street,85.463,2,12.8,,25 mph,,,,,,,8644117,
+61506502,61351869,0,True,residential,Newbury Street,209.989,2,13.1,,25 mph,,,,,,,8651404,
+1005026944,61341715,0,True,secondary,Charlesgate East,33.695,2,18.3,,,,,,,,,8642292,
+1005026944,61349583,0,True,secondary_link,,40.765,1,21.3,,,,,,,,,8646227,
+2268780755,61409312,0,True,trunk_link,,280.214,2,33.5,,,,,yes,,,,"[8642545, 86480021]",
+2273088924,61349184,0,True,secondary,Brookline Avenue,18.183,1,,,,,,,,,,8650084,
+2484568638,61379062,0,False,secondary,Beacon Street,104.27,4,30.2,,,,,,,,,240745552,MA 2
+3049393893,61385541,0,False,residential,Back Street,187.629,1,4.9,,25 mph,,,,,,,48917529,
+3049393893,61341299,0,False,residential,Back Street,206.852,1,4.9,,25 mph,,,,,,,48917529,

@@ -1,0 +1,602 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+41828250,41828281,0,False,residential,North Creek Mobile Village,149.785,,,,,,,,,,,5627756,
+41828281,41828250,0,False,residential,North Creek Mobile Village,149.785,,,,,,,,,,,5627756,
+41828526,41828599,0,False,secondary,,14.809,,,,,,,,,,,5650439,NY 9N
+41828526,42047310,0,False,secondary,,1226.792,,,,,,,,,,,5650439,NY 9N
+41828527,41828596,0,False,unclassified,,14.502,,,,,,,,,,,5627851,
+41828527,41828526,0,True,residential,Ericson Drive,71.813,,,,,,,,,,,252706980,
+41828529,41828592,0,False,unclassified,,14.895,,,,,,,,,,,5630239,
+41828529,41828527,0,True,residential,Ericson Drive,60.289,,,,,,,,,,,252706980,
+41828536,42042872,0,False,residential,"['Adams Road', 'McAlister Drive']",140.124,,,,,,,,,,,"[5657481, 5651046]",
+41828536,41828586,0,False,residential,Adams Road,14.323,,,,,,,,,,,5657481,
+41828536,41828529,0,True,residential,Ericson Drive,64.694,,,,,,,,,,,252706980,
+41828543,41828545,0,False,residential,Ericson Drive,36.362,,,,,,,,,,,5627767,
+41828543,41828536,0,True,residential,Ericson Drive,27.438,,,,,,,,,,,252706980,
+41828545,41828543,0,False,residential,Ericson Drive,36.362,,,,,,,,,,,5627767,
+41828545,41828575,0,False,residential,Ericson Drive,272.861,,,,,,,,,,,5627767,
+41828545,41828575,1,False,residential,Walker Road,575.445,,,,,,,,,,,5656782,
+41828575,41828545,0,False,residential,Ericson Drive,272.861,,,,,,,,,,,5627767,
+41828575,41828545,1,False,residential,Walker Road,575.445,,,,,,,,,,,5656782,
+41828575,42042851,0,False,residential,Walker Road,141.871,,,,,,,,,,,5656782,
+41828586,41828543,0,True,residential,Ericson Drive,25.872,,,,,,,,,,,5627768,
+41828586,41828536,0,False,residential,Adams Road,14.323,,,,,,,,,,,5657481,
+41828592,41828529,0,False,unclassified,,14.895,,,,,,,,,,,5630239,
+41828592,41828586,0,True,residential,Ericson Drive,66.34,,,,,,,,,,,5627768,
+41828596,41828592,0,True,residential,Ericson Drive,59.77,,,,,,,,,,,5627768,
+41828596,41828527,0,False,unclassified,,14.502,,,,,,,,,,,5627851,
+41828599,41828596,0,True,residential,Ericson Drive,71.944,,,,,,,,,,,5627768,
+41828599,41828526,0,False,secondary,,14.809,,,,,,,,,,,5650439,NY 9N
+41828599,42103479,0,False,secondary,,320.527,,,,,,,,,,,5650439,NY 9N
+41830360,41860278,0,False,residential,Allen Road,159.009,,,,,,,,,,,5649366,
+41830360,41830366,0,False,residential,,99.389,,,,,,,,,,,5627998,
+41830360,42075043,0,False,residential,Allen Road,2129.321,,,,,,,,,,,5649366,
+41830366,41830360,0,False,residential,,99.389,,,,,,,,,,,5627998,
+41831091,42170933,0,False,residential,Darlyne Drive,215.351,,,,,,,,,,,"[5652984, 5628094]",
+41838664,41933058,0,False,residential,Canty Road,28.771,,,,,,,,,,,5652593,
+41838664,41838667,0,False,residential,,59.331,,,,,,,,,,,5629002,
+41838664,42103225,0,False,residential,Canty Road,730.746,,,,,,,,,,,5652593,
+41838667,41838664,0,False,residential,,59.331,,,,,,,,,,,5629002,
+41838667,41933212,0,False,unclassified,Grange Road,1194.646,,,,,,,,,,,5639410,
+41838667,41933058,0,False,unclassified,Grange Road,30.583,,,,,,,,,,,5639410,
+41839978,41881179,0,False,residential,Plank Road,1004.06,,,,,,,,,,,5635030,
+41839978,41881066,0,False,residential,Plank Road,948.998,,,,,,,,,,,5635030,
+41839978,42191965,0,False,residential,Ridge Road,225.67,,,,,,,,,,,5653791,
+41839978,42071506,0,False,residential,Ridge Road,2911.411,,,,,,,,,,,5653791,
+41842093,41842098,0,False,residential,,71.449,,,,,,,,,,,5629477,
+41842093,42060317,0,False,tertiary,North Creek Road,300.636,,,,,,,,,,,5648550,CR 19
+41842093,42060118,0,False,tertiary,North Creek Road,1860.387,,,,,,,,,,,5648550,CR 19
+41842098,41842093,0,False,residential,,71.449,,,,,,,,,,,5629477,
+41842102,41842103,0,False,residential,,132.004,,,,,,,,,,,5629479,
+41842102,41842107,0,False,residential,Wilsey Road,28.423,,,,,,,,,,,5649910,
+41842102,41871863,0,False,residential,Wilsey Road,291.99,,,,,,,,,,,5649910,
+41842103,41842102,0,False,residential,,132.004,,,,,,,,,,,5629479,
+41842107,41842110,0,False,residential,,137.219,,,,,,,,,,,5629480,
+41842107,41842102,0,False,residential,Wilsey Road,28.423,,,,,,,,,,,5649910,
+41842107,42060118,0,False,residential,Wilsey Road,1284.791,,,,,,,,,,,5649910,
+41842110,41842107,0,False,residential,,137.219,,,,,,,,,,,5629480,
+41845799,41845824,0,False,residential,,131.606,,,,,,,,,,,5629888,
+41845799,41997591,0,False,residential,Young Road,375.454,,,,,,,,,,,5649725,
+41845799,42084722,0,False,residential,Young Road,538.611,,,,,,,,,,,5649725,
+41845824,41845799,0,False,residential,,131.606,,,,,,,,,,,5629888,
+41847235,41847243,0,False,residential,,173.22,,,,,,,,,,,5630101,
+41847235,42173833,0,False,residential,Ormsbee Road,2287.287,,,,,,,,,,,5653084,
+41847235,41881041,0,False,residential,Ormsbee Road,170.889,,,,,,,,,,,5653084,
+41847243,41847235,0,False,residential,,173.22,,,,,,,,,,,5630101,
+41852489,41852491,0,False,residential,,256.822,,,,,,,,,,,5630906,
+41852489,41871850,0,False,residential,Goose Hollow Road,21.343,,,,,,,,,,,5633884,
+41852489,41871863,0,False,residential,Goose Hollow Road,286.471,,,,,,,,,,,5633884,
+41852491,41852489,0,False,residential,,256.822,,,,,,,,,,,5630906,
+41852494,41852501,0,False,residential,,166.528,,,,,,,,,,,5630910,
+41852494,42060100,0,False,residential,Sand Hill Road,127.313,,,,,,,,,,,5652081,
+41852494,41852506,0,False,residential,Sand Hill Road,85.287,,,,,,,,,,,5652081,
+41852501,41852494,0,False,residential,,166.528,,,,,,,,,,,5630910,
+41852506,41852593,0,False,residential,,674.584,,,,,,,,,,,5630922,
+41852506,41852494,0,False,residential,Sand Hill Road,85.287,,,,,,,,,,,5652081,
+41852506,42020155,0,False,residential,Sand Hill Road,763.611,,,,,,,,,,,5652081,
+41852593,41852506,0,False,residential,,674.584,,,,,,,,,,,5630922,
+41854707,42173833,0,False,residential,Ormsbee Road,3304.497,,,,,,,,,,,"[5653084, 5653086, 5653071]",
+41857569,42130239,0,False,residential,Older Mountain Road,404.048,,,,,,,,,,,5651303,
+41857603,42059862,0,False,tertiary,North Creek Road,69.564,,,,,,,,,,,5648533,CR 19
+41857603,41857619,0,False,residential,,55.715,,,,,,,,,,,5631625,
+41857603,41881022,0,False,tertiary,North Creek Road,71.414,,,,,,,,,,,5648533,CR 19
+41857619,41857603,0,False,residential,,55.715,,,,,,,,,,,5631625,
+41857670,41857672,0,False,residential,,141.202,,,,,,,,,,,5631635,
+41857670,41881022,0,False,tertiary,North Creek Road,872.949,,,,,,,,,,,5648533,CR 19
+41857670,42059738,0,False,tertiary,North Creek Road,789.223,,,,,,,,,,,5648533,CR 19
+41857672,41857670,0,False,residential,,141.202,,,,,,,,,,,5631635,
+41859152,41859157,0,False,residential,,72.655,,,,,,,,,,,5631886,
+41859152,41916691,0,False,residential,Boeckes Road,643.811,,,,,,,,,,,5647948,
+41859152,42047310,0,False,residential,Boeckes Road,901.322,,,,,,,,,,,5647948,
+41859157,41859160,0,False,residential,,44.333,,,,,,,,,,,5631886,
+41859157,41859165,0,False,residential,,32.554,,,,,,,,,,,5631887,
+41859157,41859152,0,False,residential,,72.655,,,,,,,,,,,5631886,
+41859160,41859157,0,False,residential,,44.333,,,,,,,,,,,5631886,
+41859165,41859157,0,False,residential,,32.554,,,,,,,,,,,5631887,
+41860278,41860280,0,False,residential,,77.003,,,,,,,,,,,5632092,
+41860278,41830360,0,False,residential,Allen Road,159.009,,,,,,,,,,,5649366,
+41860278,41948238,0,False,residential,Allen Road,246.018,,,,,,,,,,,5649366,
+41860280,41860278,0,False,residential,,77.003,,,,,,,,,,,5632092,
+41861221,41861238,0,False,residential,,195.997,,,,,,,,,,,5632245,
+41861221,41861252,0,False,residential,Wing Road,548.652,,,,,,,,,,,5639498,
+41861221,41935101,0,False,residential,Wing Road,343.235,,,,,,,,,,,5639498,
+41861238,41861221,0,False,residential,,195.997,,,,,,,,,,,5632245,
+41861252,41861266,0,False,residential,,123.454,,,,,,,,,,,5632247,
+41861252,41933212,0,False,residential,Wing Road,377.636,,,,,,,,,,,5639498,
+41861252,41861221,0,False,residential,Wing Road,548.652,,,,,,,,,,,5639498,
+41861266,41861252,0,False,residential,,123.454,,,,,,,,,,,5632247,
+41862458,41862466,0,False,residential,,56.977,,,,,,,,,,,5632413,
+41862458,41916624,0,False,tertiary,South Greenfield Road,114.297,,,,,,,,,,,5653190,
+41862458,42171841,0,False,tertiary,South Greenfield Road,513.037,,,,,,,,,,,5653190,
+41862466,41862458,0,False,residential,,56.977,,,,,,,,,,,5632413,
+41862480,41862482,0,False,residential,,188.857,,,,,,,,,,,5632418,
+41862480,42071532,0,False,residential,Sand Hill Road,1303.831,,,,,,,,,,,199582105,
+41862480,42148904,0,False,residential,Sand Hill Road,838.195,,,,,,,,,,,199582105,
+41862482,41862480,0,False,residential,,188.857,,,,,,,,,,,5632418,
+41868397,41873561,0,False,residential,Kircher Road,44.949,,,,,,,,,,,5652586,
+41868397,41868411,0,False,residential,,193.51,,,,,,,,,,,5633345,
+41868397,41920345,0,False,residential,Kircher Road,925.88,,,,,,,,,,,5652586,
+41868411,41868397,0,False,residential,,193.51,,,,,,,,,,,5633345,
+41871054,41871062,0,False,tertiary,Lake Desolation Road,281.326,,,,,,,,,,,5633793,CR 12
+41871054,41997233,0,False,tertiary,Middle Grove Road,395.067,,,,,,,,,,,5643985,CR 21
+41871054,41997207,0,False,tertiary,Middle Grove Road,85.326,,,,,,,,,,,5643985,CR 21
+41871062,41871075,0,False,tertiary,Lake Desolation Road,236.005,,,,,,,yes,,,,"[199582112, 5633793, 199582116]",CR 12
+41871062,41871054,0,False,tertiary,Lake Desolation Road,281.326,,,,,,,,,,,5633793,CR 12
+41871062,41928288,0,False,residential,Mill Street,409.377,,,,,,,,,,,5638951,
+41871075,2491891589,0,False,residential,Young Road,624.776,,,,,,,,,,,5649725,
+41871075,41871110,0,False,tertiary,Lake Desolation Road,1173.474,,,,,,,,,,,199582116,CR 12
+41871075,41871062,0,False,tertiary,Lake Desolation Road,236.005,,,,,,,yes,,,,"[199582112, 5633793, 199582116]",CR 12
+41871110,41888037,0,False,residential,Kilmer Road,700.963,,,,,,,,,,,5635843,
+41871110,42039641,0,False,residential,Daketown Road,1263.058,,,,,,,,,,,5654665,
+41871110,41871118,0,False,tertiary,Lake Desolation Road,317.939,,,,,,,,,,,199582116,CR 12
+41871110,41871075,0,False,tertiary,Lake Desolation Road,1173.474,,,,,,,,,,,199582116,CR 12
+41871118,42071506,0,False,residential,Coy Road,2726.715,,,,,,,,,,,5649162,
+41871118,41871173,0,False,tertiary,Lake Desolation Road,1148.224,,,,,,,,,,,199582116,CR 12
+41871118,41871110,0,False,tertiary,Lake Desolation Road,317.939,,,,,,,,,,,199582116,CR 12
+41871173,41871176,0,False,tertiary,Lake Desolation Road,53.162,,,,,,,,,,,199582116,CR 12
+41871173,41871118,0,False,tertiary,Lake Desolation Road,1148.224,,,,,,,,,,,199582116,CR 12
+41871173,41871178,0,False,tertiary,Lake Desolation Road,100.334,,,,,,,,,,,418452579,
+41871176,41871178,0,False,tertiary,Lake Desolation Road,62.442,,,,,,,,,,,418452578,CR 12
+41871176,41888014,0,False,residential,Kilmer Road,551.113,,,,,,,,,,,5635841,
+41871176,42216186,0,False,residential,Barney Road,856.782,,,,,,,,,,,5655186,
+41871176,41871173,0,False,tertiary,Lake Desolation Road,53.162,,,,,,,,,,,199582116,CR 12
+41871178,41871176,0,False,tertiary,Lake Desolation Road,62.442,,,,,,,,,,,418452578,CR 12
+41871178,41871482,0,False,tertiary,Lake Desolation Road,4094.694,,,,,,,,,,,5633857,
+41871178,41871173,0,False,tertiary,Lake Desolation Road,100.334,,,,,,,,,,,418452579,
+41871482,41871178,0,False,tertiary,Lake Desolation Road,4094.694,,,,,,,,,,,5633857,
+41871482,42107941,0,False,residential,Main Street,281.369,,,,,,,,,,,5650580,
+41871848,41871850,0,False,residential,Goose Hollow Road,24.147,,,,,,,,,,,5633884,
+41871848,41871892,0,False,residential,Hyspot Road,21.74,,,,,,,,,,,5640517,
+41871848,41952229,0,False,residential,Hyspot Road,1174.438,,,,,,,,,,,5640517,
+41871850,41852489,0,False,residential,Goose Hollow Road,21.343,,,,,,,,,,,5633884,
+41871850,41871848,0,False,residential,Goose Hollow Road,24.147,,,,,,,,,,,5633884,
+41871850,41871892,0,False,residential,Goose Hollow Road,29.064,,,,,,,,,,,5633887,
+41871863,41871888,0,False,residential,Goose Hollow Road,810.113,,,,,,,,,,,5633884,
+41871863,41852489,0,False,residential,Goose Hollow Road,286.471,,,,,,,,,,,5633884,
+41871863,41842102,0,False,residential,Wilsey Road,291.99,,,,,,,,,,,5649910,
+41871888,41871863,0,False,residential,Goose Hollow Road,810.113,,,,,,,,,,,5633884,
+41871888,42085997,0,False,residential,Russell Road,1479.131,,,,,,,,,,,5653020,
+41871888,41952229,0,False,residential,Russell Road,490.193,,,,,,,,,,,5653020,
+41871892,41871848,0,False,residential,Hyspot Road,21.74,,,,,,,,,,,5640517,
+41871892,41871850,0,False,residential,Goose Hollow Road,29.064,,,,,,,,,,,5633887,
+41871892,41952141,0,False,residential,Hyspot Road,334.674,,,,,,,,,,,5640517,
+41873561,41868397,0,False,residential,Kircher Road,44.949,,,,,,,,,,,5652586,
+41873561,41873584,0,False,tertiary,North Milton Road,716.964,,,,,,,,,,,5634117,
+41873584,41873561,0,False,tertiary,North Milton Road,716.964,,,,,,,,,,,5634117,
+41873584,41941317,0,False,tertiary,Middle Grove Road,1350.417,,,,,,,,,,,5643985,CR 21
+41873584,41933001,0,False,tertiary,Middle Grove Road,1192.915,,,,,,,,,,,5643985,CR 21
+41873584,42082399,0,False,tertiary,South Greenfield Road,1295.436,,,,,,,,,,,5653190,
+41880053,41941732,0,False,secondary,,134.821,,,,,,,,,,,5650439,NY 9N
+41880053,42061468,0,False,secondary,,351.118,,,,,,,,,,,5650439,NY 9N
+41880053,41916624,0,False,tertiary,South Greenfield Road,1583.661,,,,,,,,,,,5653190,
+41881022,41881041,0,False,residential,Plank Road,533.602,,,,,,,,,,,5635030,
+41881022,41857603,0,False,tertiary,North Creek Road,71.414,,,,,,,,,,,5648533,CR 19
+41881022,41857670,0,False,tertiary,North Creek Road,872.949,,,,,,,,,,,5648533,CR 19
+41881041,41881066,0,False,residential,Plank Road,752.643,,,,,,,,,,,5635030,
+41881041,41881022,0,False,residential,Plank Road,533.602,,,,,,,,,,,5635030,
+41881041,41847235,0,False,residential,Ormsbee Road,170.889,,,,,,,,,,,5653084,
+41881066,41839978,0,False,residential,Plank Road,948.998,,,,,,,,,,,5635030,
+41881066,41881041,0,False,residential,Plank Road,752.643,,,,,,,,,,,5635030,
+41881066,41936923,0,False,residential,Medbury Road,1509.151,,,,,,,,,,,5639612,
+41881179,41839978,0,False,residential,Plank Road,1004.06,,,,,,,,,,,5635030,
+41881786,41881852,0,False,residential,Maple Drive,43.545,,,,,,,,,,,5635069,
+41881786,41881786,0,False,residential,Maple Drive,103.283,,,,,,,,,,,5635066,
+41881786,41881786,1,False,residential,Maple Drive,103.283,,,,,,,,,,,5635066,
+41881826,41881852,0,False,residential,Maple Drive,202.28,,,,,,,,,,,5635069,
+41881826,41977369,0,False,residential,Coy Road,628.89,,,,,,,,,,,5649162,
+41881826,42071532,0,False,residential,Coy Road,571.535,,,,,,,,,,,5649162,
+41881852,41881786,0,False,residential,Maple Drive,43.545,,,,,,,,,,,5635069,
+41881852,41881826,0,False,residential,Maple Drive,202.28,,,,,,,,,,,5635069,
+41881852,42081337,0,False,residential,Acer Drive,237.587,,,,,,,,,,,5649675,
+41885241,42135719,0,False,residential,"['Old Route 9N', 'Old Rt 9N']",227.013,,,,,,,,,,,"[5635472, 5651519]",
+41885241,42135719,1,False,residential,Old Route 9N,168.816,,,,,,,,,,,5651517,
+41885241,42103479,0,False,residential,Old Route 9N,123.531,,,,,,,,,,,5651517,
+41888014,41888037,0,False,residential,Kilmer Road,679.713,,,,,,,,,,,5635841,
+41888014,41871176,0,False,residential,Kilmer Road,551.113,,,,,,,,,,,5635841,
+41888014,42216186,0,False,residential,Lester's Lane,1047.046,,,,,,,,,,,5657473,
+41888037,41888014,0,False,residential,Kilmer Road,679.713,,,,,,,,,,,5635841,
+41888037,41871110,0,False,residential,Kilmer Road,700.963,,,,,,,,,,,5635843,
+41888037,41900956,0,False,residential,Boyhaven Road,1195.441,,,,,,,,,,,5637271,
+41893600,41948320,0,False,tertiary,North Greenfield Road,153.768,,,,,,,,,,,5640321,CR 19
+41893600,41991241,0,False,secondary,,1811.093,,,,,,,,,,,5650439,NY 9N
+41893600,42103529,0,False,secondary,,1263.979,,,,,,,,,,,5650439,NY 9N
+41898091,41995897,0,False,residential,Old State Road,365.356,,,,,,,,,,,5643884,
+41898091,41898101,0,False,secondary,Church Street,225.711,,,,,,,,,,,96113003,NY 9N
+41898101,41898091,0,False,secondary,Church Street,225.711,,,,,,,,,,,96113003,NY 9N
+41900890,41900956,0,False,residential,Boyhaven Road,770.855,,,,,,,,,,,5637271,
+41900890,41992427,0,False,tertiary,Middle Grove Road,2303.773,,,,,,,,,,,199582120,CR 21
+41900890,41983896,0,False,tertiary,Middle Grove Road,1236.798,,,,,,,yes,,,,"[199582120, 5643985, 199582119]",CR 21
+41900956,41888037,0,False,residential,Boyhaven Road,1195.441,,,,,,,,,,,5637271,
+41900956,41900890,0,False,residential,Boyhaven Road,770.855,,,,,,,,,,,5637271,
+41900956,42084692,0,False,residential,Young Road,1905.295,,,,,,,,,,,5649725,
+41900956,2491891519,0,False,residential,Young Road,499.109,,,,,,,,,,,5649725,
+41908665,41908796,0,False,residential,High Trek Drive,586.505,,,,,,,,,,,5637706,
+41908665,42216186,0,False,residential,Barney Road,123.004,,,,,,,,,,,5655186,
+41908796,41908665,0,False,residential,High Trek Drive,586.505,,,,,,,,,,,5637706,
+41911098,41911106,0,False,residential,Cedar Lane,22.869,,,,,,,,,,,5637818,
+41911098,41933212,0,False,residential,Wing Road,397.669,,,,,,,,,,,5639498,
+41911098,42103352,0,False,secondary,,805.068,,,,,,,,,,,5650439,NY 9N
+41911098,42103275,0,False,secondary,,188.481,,,,,,,,,,,5650439,NY 9N
+41911106,41911151,0,False,residential,Cedar Lane,231.629,,,,,,,,,,,5637818,
+41911106,41911098,0,False,residential,Cedar Lane,22.869,,,,,,,,,,,5637818,
+41911106,42000892,0,False,residential,Ironwood Drive,31.398,,,,,,,,,,,5651408,
+41911151,41911106,0,False,residential,Cedar Lane,231.629,,,,,,,,,,,5637818,
+41914148,41914180,0,False,residential,Stonewall Lane,231.388,,,,,,,,,,,5638008,
+41914148,41947377,0,False,residential,Hemlock Drive,352.051,,,,,,,,,,,5645883,
+41914148,42020155,0,False,residential,Hemlock Drive,317.636,,,,,,,,,,,5645883,
+41914180,41947479,0,False,residential,Southwest,47.611,,,,,,,,,,,5640285,
+41914180,41914148,0,False,residential,Stonewall Lane,231.388,,,,,,,,,,,5638008,
+41914180,41974640,0,False,residential,Southwest Pass,199.363,,,,,,,,,,,5642052,
+41916624,41916691,0,False,residential,Bump Hill Road,1214.353,,,,,,,,,,,5638189,
+41916624,41880053,0,False,tertiary,South Greenfield Road,1583.661,,,,,,,,,,,5653190,
+41916624,41862458,0,False,tertiary,South Greenfield Road,114.297,,,,,,,,,,,5653190,
+41916691,41916624,0,False,residential,Bump Hill Road,1214.353,,,,,,,,,,,5638189,
+41916691,42047465,0,False,residential,Boeckes Road,738.061,,,,,,,,,,,5647948,
+41916691,41859152,0,False,residential,Boeckes Road,643.811,,,,,,,,,,,5647948,
+41920345,42161160,0,False,residential,Kircher Road,28.258,,,,,,,,,,,5652586,
+41920345,41920457,0,False,residential,Brandell Lane,548.903,,,,,,,,,,,5638418,
+41920345,41868397,0,False,residential,Kircher Road,925.88,,,,,,,,,,,5652586,
+41920457,41920345,0,False,residential,Brandell Lane,548.903,,,,,,,,,,,5638418,
+41920457,41941317,0,False,unclassified,Stone Church Road,312.026,,,,,,,,,,,5644583,
+41928288,41997207,0,False,tertiary,North Creek Road,72.01,,,,,,,,,,,5648550,CR 19
+41928288,41871062,0,False,residential,Mill Street,409.377,,,,,,,,,,,5638951,
+41928288,42060100,0,False,tertiary,North Creek Road,2170.801,,,,,,,,,,,5648550,CR 19
+41931409,41931463,0,False,residential,Humes Road,736.774,,,,,,,,,,,5639265,
+41931409,42071532,0,False,residential,Coy Road,124.226,,,,,,,,,,,5649162,
+41931409,42071506,0,False,residential,Coy Road,434.613,,,,,,,,,,,5649162,
+41931463,41931409,0,False,residential,Humes Road,736.774,,,,,,,,,,,5639265,
+41933001,41933058,0,False,unclassified,Grange Road,548.746,,,,,,,,,,,5639410,
+41933001,41873584,0,False,tertiary,Middle Grove Road,1192.915,,,,,,,,,,,5643985,CR 21
+41933001,41996817,0,False,tertiary,Middle Grove Road,742.98,,,,,,,,,,,5643985,CR 21
+41933001,42144911,0,False,unclassified,Lester Park Road,578.409,,,,,,,,,,,5651916,
+41933058,41838664,0,False,residential,Canty Road,28.771,,,,,,,,,,,5652593,
+41933058,41838667,0,False,unclassified,Grange Road,30.583,,,,,,,,,,,5639410,
+41933058,41933001,0,False,unclassified,Grange Road,548.746,,,,,,,,,,,5639410,
+41933212,41933286,0,False,unclassified,Grange Road,879.169,,,,,,,,,,,5639410,
+41933212,41838667,0,False,unclassified,Grange Road,1194.646,,,,,,,,,,,5639410,
+41933212,41911098,0,False,residential,Wing Road,397.669,,,,,,,,,,,5639498,
+41933212,41861252,0,False,residential,Wing Road,377.636,,,,,,,,,,,5639498,
+41933286,41933396,0,False,unclassified,Grange Road,957.51,,,,,,,,,,,5639410,
+41933286,41933212,0,False,unclassified,Grange Road,879.169,,,,,,,,,,,5639410,
+41933286,42063813,0,False,residential,Anna Crest Drive,265.094,,,,,,,,,,,5648760,
+41933396,41941732,0,False,secondary,,11.809,,,,,,,,,,,5650439,NY 9N
+41933396,41933286,0,False,unclassified,Grange Road,957.51,,,,,,,,,,,5639410,
+41933396,42063813,0,False,secondary,,882.518,,,,,,,,,,,5650439,NY 9N
+41935101,42170933,0,False,tertiary,South Greenfield Road,102.747,,,,,,,,,,,5653190,
+41935101,41861221,0,False,residential,Wing Road,343.235,,,,,,,,,,,5639498,
+41935101,42082399,0,False,tertiary,South Greenfield Road,406.406,,,,,,,,,,,5653190,
+41936923,42060358,0,False,residential,Coy Road,19.664,,,,,,,,,,,5649162,
+41936923,41881066,0,False,residential,Medbury Road,1509.151,,,,,,,,,,,5639612,
+41936923,41977369,0,False,residential,Coy Road,421.001,,,,,,,,,,,5649162,
+41941317,41941462,0,False,unclassified,King Road,1515.744,,,,,,,,,,,5639922,
+41941317,41997012,0,False,tertiary,Middle Grove Road,433.039,,,,,,,,,,,5643985,CR 21
+41941317,41873584,0,False,tertiary,Middle Grove Road,1350.417,,,,,,,,,,,5643985,CR 21
+41941317,41920457,0,False,unclassified,Stone Church Road,312.026,,,,,,,,,,,5644583,
+41941462,41941317,0,False,unclassified,King Road,1515.744,,,,,,,,,,,5639922,
+41941462,42082399,0,False,residential,Dunham Pond Road,1023.022,,,,,,,,,,,5649694,
+41941462,41952141,0,False,residential,Dunham Pond Road,562.632,,,,,,,,,,,5649694,
+41941732,41880053,0,False,secondary,,134.821,,,,,,,,,,,5650439,NY 9N
+41941732,41933396,0,False,secondary,,11.809,,,,,,,,,,,5650439,NY 9N
+41947359,41947372,0,False,residential,Southwest,206.874,,,,,,,,,,,5640285,
+41947372,41947377,0,False,residential,Southwest,43.248,,,,,,,,,,,5640285,
+41947372,42129846,0,False,residential,Pineridge Court,125.481,,,,,,,,,,,5651286,
+41947372,41947359,0,False,residential,Southwest,206.874,,,,,,,,,,,5640285,
+41947377,41947479,0,False,residential,Southwest,102.491,,,,,,,,,,,5640285,
+41947377,41947372,0,False,residential,Southwest,43.248,,,,,,,,,,,5640285,
+41947377,41914148,0,False,residential,Hemlock Drive,352.051,,,,,,,,,,,5645883,
+41947479,41914180,0,False,residential,Southwest,47.611,,,,,,,,,,,5640285,
+41947479,41947377,0,False,residential,Southwest,102.491,,,,,,,,,,,5640285,
+41947479,42203437,0,False,residential,White Oak Court,93.968,,,,,,,,,,,5654305,
+41948238,41948303,0,False,tertiary,North Greenfield Road,437.567,,,,,,,,,,,5640321,CR 19
+41948238,42085756,0,False,tertiary,North Greenfield Road,1126.317,,,,,,,,,,,5640321,CR 19
+41948238,41860278,0,False,residential,Allen Road,246.018,,,,,,,,,,,5649366,
+41948303,42188290,0,False,tertiary,North Greenfield Road,92.351,,,,,,,,,,,5640321,CR 19
+41948303,41948238,0,False,tertiary,North Greenfield Road,437.567,,,,,,,,,,,5640321,CR 19
+41948303,42027584,0,False,residential,Chandler Lane,521.996,,,,,,,,,,,5646448,
+41948320,41893600,0,False,tertiary,North Greenfield Road,153.768,,,,,,,,,,,5640321,CR 19
+41948320,42188290,0,False,tertiary,North Greenfield Road,140.826,,,,,,,,,,,5640321,CR 19
+41948320,42188290,1,False,residential,Greenfield Manor Road,680.833,,,,,,,,,,,5653671,
+41948589,41948591,0,False,residential,Stephen Lane,59.3,,,,,,,,,,,5640342,
+41948591,41948599,0,False,residential,Stephen Lane,48.045,,,,,,,,,,,5640342,
+41948591,41948589,0,False,residential,Stephen Lane,59.3,,,,,,,,,,,5640342,
+41948591,42167302,0,False,residential,Walker Road,59.78,,,,,,,,,,,5656782,
+41948599,41948591,0,False,residential,Stephen Lane,48.045,,,,,,,,,,,5640342,
+41950180,41950220,0,False,residential,Hall Road,115.642,,,,,,,,,,,5640411,
+41950180,42103529,0,False,residential,Porter Corners Road,2113.875,,,,,,,,,,,5652150,
+41950180,42047603,0,False,residential,Porter Corners Road,399.633,,,,,,,,,,,5652150,
+41950220,41950256,0,False,residential,Hall Road,107.577,,,,,,,,,,,5640413,
+41950220,41950246,0,False,residential,Hall Road,120.802,,,,,,,,,,,5640411,
+41950220,41950180,0,False,residential,Hall Road,115.642,,,,,,,,,,,5640411,
+41950246,41950220,0,False,residential,Hall Road,120.802,,,,,,,,,,,5640411,
+41950256,41950220,0,False,residential,Hall Road,107.577,,,,,,,,,,,5640413,
+41952027,41952035,0,False,residential,Hyspot Road,241.077,,,,,,,,,,,5640517,
+41952027,41997147,0,False,tertiary,Middle Grove Road,354.505,,,,,,,,,,,5643985,CR 21
+41952027,41997085,0,False,tertiary,Middle Grove Road,303.698,,,,,,,,,,,5643985,CR 21
+41952035,41952141,0,False,residential,Hyspot Road,1786.02,,,,,,,,,,,5640517,
+41952035,41952027,0,False,residential,Hyspot Road,241.077,,,,,,,,,,,5640517,
+41952035,41997085,0,False,residential,Ashlor Drive,579.283,,,,,,,,,,,5646558,
+41952141,41871892,0,False,residential,Hyspot Road,334.674,,,,,,,,,,,5640517,
+41952141,41952035,0,False,residential,Hyspot Road,1786.02,,,,,,,,,,,5640517,
+41952141,41941462,0,False,residential,Dunham Pond Road,562.632,,,,,,,,,,,5649694,
+41952229,41871848,0,False,residential,Hyspot Road,1174.438,,,,,,,,,,,5640517,
+41952229,41871888,0,False,residential,Russell Road,490.193,,,,,,,,,,,5653020,
+41952229,42171841,0,False,residential,Russell Road,566.53,,,,,,,,,,,5653020,
+41969031,41969036,0,False,residential,Highview Avenue,130.439,,,,,,,,,,,5641686,
+41969036,41969031,0,False,residential,Highview Avenue,130.439,,,,,,,,,,,5641686,
+41974640,41991661,0,False,residential,Sand Hill Road,120.066,,,,,,,,,,,5652081,
+41974640,41991707,0,False,residential,Sand Hill Road,320.644,,,,,,,,,,,5652081,
+41974640,41914180,0,False,residential,Southwest Pass,199.363,,,,,,,,,,,5642052,
+41977369,41977470,0,False,residential,Peacock Road,770.354,,,,,,,,,,,5642252,
+41977369,41936923,0,False,residential,Coy Road,421.001,,,,,,,,,,,5649162,
+41977369,41881826,0,False,residential,Coy Road,628.89,,,,,,,,,,,5649162,
+41977470,41977369,0,False,residential,Peacock Road,770.354,,,,,,,,,,,5642252,
+41977470,42059724,0,False,tertiary,North Creek Road,540.406,,,,,,,,,,,199582099,CR 19
+41977470,42060317,0,False,tertiary,North Creek Road,380.973,,,,,,,yes,,,,"[199582099, 199582117, 5648550]",CR 19
+41983896,41900890,0,False,tertiary,Middle Grove Road,1236.798,,,,,,,yes,,,,"[199582120, 5643985, 199582119]",CR 21
+41983896,41997233,0,False,tertiary,Middle Grove Road,238.188,,,,,,,,,,,5643985,CR 21
+41991241,41991312,0,False,residential,Alpine Meadows Road,1579.532,,,,,,,,,,,5643515,
+41991241,41893600,0,False,secondary,,1811.093,,,,,,,,,,,5650439,NY 9N
+41991312,41991241,0,False,residential,Alpine Meadows Road,1579.532,,,,,,,,,,,5643515,
+41991312,41991486,0,False,residential,Alpine Meadows Road,2217.075,,,,,,,,,,,5643537,
+41991486,41991526,0,False,residential,Alpine Meadows Road,539.307,,,,,,,,,,,5643537,
+41991486,41991312,0,False,residential,Alpine Meadows Road,2217.075,,,,,,,,,,,5643537,
+41991486,42175252,0,False,residential,Miner Road,1106.88,,,,,,,,,,,5658053,
+41991526,41991486,0,False,residential,Alpine Meadows Road,539.307,,,,,,,,,,,5643537,
+41991661,41974640,0,False,residential,Sand Hill Road,120.066,,,,,,,,,,,5652081,
+41991661,41991707,0,False,residential,Beaver Run,586.504,,,,,,,,,,,5643554,
+41991661,42020155,0,False,residential,Sand Hill Road,123.657,,,,,,,,,,,5652081,
+41991707,41974640,0,False,residential,Sand Hill Road,320.644,,,,,,,,,,,5652081,
+41991707,41991661,0,False,residential,Beaver Run,586.504,,,,,,,,,,,5643554,
+41991707,41997147,0,False,residential,Sand Hill Road,402.97,,,,,,,,,,,5652081,
+41992427,41992455,0,False,tertiary,Middle Grove Road,64.564,,,,,,,,,,,199582120,CR 21
+41992427,41900890,0,False,tertiary,Middle Grove Road,2303.773,,,,,,,,,,,199582120,CR 21
+41992455,41997591,0,False,tertiary,Middle Grove Road,61.378,,,,,,,,,,,199582120,CR 21
+41992455,41992427,0,False,tertiary,Middle Grove Road,64.564,,,,,,,,,,,199582120,CR 21
+41995897,41898091,0,False,residential,Old State Road,365.356,,,,,,,,,,,5643884,
+41995897,42136687,0,False,residential,Hickock Road,173.483,,,,,,,,,,,5647247,
+41996817,41933001,0,False,tertiary,Middle Grove Road,742.98,,,,,,,,,,,5643985,CR 21
+41996817,42136687,0,False,residential,Mill Road,740.093,,,,,,,,,,,5651552,
+41997012,2491895258,0,False,tertiary,Middle Grove Road,271.218,,,,,,,,,,,5643985,CR 21
+41997012,41941317,0,False,tertiary,Middle Grove Road,433.039,,,,,,,,,,,5643985,CR 21
+41997012,42232895,0,False,residential,Moore Road,364.946,,,,,,,,,,,5656227,
+41997085,41952027,0,False,tertiary,Middle Grove Road,303.698,,,,,,,,,,,5643985,CR 21
+41997085,2491895258,0,False,tertiary,Middle Grove Road,575.705,,,,,,,,,,,5643985,CR 21
+41997085,41952035,0,False,residential,Ashlor Drive,579.283,,,,,,,,,,,5646558,
+41997147,41997207,0,False,tertiary,Middle Grove Road,1299.785,,,,,,,,,,,5643985,CR 21
+41997147,41952027,0,False,tertiary,Middle Grove Road,354.505,,,,,,,,,,,5643985,CR 21
+41997147,41991707,0,False,residential,Sand Hill Road,402.97,,,,,,,,,,,5652081,
+41997207,41928288,0,False,tertiary,North Creek Road,72.01,,,,,,,,,,,5648550,CR 19
+41997207,41871054,0,False,tertiary,Middle Grove Road,85.326,,,,,,,,,,,5643985,CR 21
+41997207,41997147,0,False,tertiary,Middle Grove Road,1299.785,,,,,,,,,,,5643985,CR 21
+41997233,41983896,0,False,tertiary,Middle Grove Road,238.188,,,,,,,,,,,5643985,CR 21
+41997233,41871054,0,False,tertiary,Middle Grove Road,395.067,,,,,,,,,,,5643985,CR 21
+41997591,41845799,0,False,residential,Young Road,375.454,,,,,,,,,,,5649725,
+41997591,41992455,0,False,tertiary,Middle Grove Road,61.378,,,,,,,,,,,199582120,CR 21
+42000892,41911106,0,False,residential,Ironwood Drive,31.398,,,,,,,,,,,5651408,
+42000918,42103275,0,False,residential,Parkwood,53.613,,,,,,,,,,,5658220,
+42020155,41914148,0,False,residential,Hemlock Drive,317.636,,,,,,,,,,,5645883,
+42020155,41852506,0,False,residential,Sand Hill Road,763.611,,,,,,,,,,,5652081,
+42020155,41991661,0,False,residential,Sand Hill Road,123.657,,,,,,,,,,,5652081,
+42027325,42049667,0,False,residential,"['Forest Road', 'North Main Street']",1181.138,,,,,,,,,,,"[5648041, 5646426]",
+42027584,41948303,0,False,residential,Chandler Lane,521.996,,,,,,,,,,,5646448,
+42039640,42039641,0,False,residential,Old Daketown Road,86.044,,,,,,,,,,,5647632,
+42039640,42039721,0,False,residential,Old Daketown Road,93.708,,,,,,,,,,,5647634,
+42039640,42039651,0,False,residential,Old Daketown Road,597.741,,,,,,,,,,,5647634,
+42039641,42039640,0,False,residential,Old Daketown Road,86.044,,,,,,,,,,,5647632,
+42039641,42039651,0,False,residential,Daketown Road,552.302,,,,,,,,,,,5654665,
+42039641,41871110,0,False,residential,Daketown Road,1263.058,,,,,,,,,,,5654665,
+42039651,42039640,0,False,residential,Old Daketown Road,597.741,,,,,,,,,,,5647634,
+42039651,42148904,0,False,residential,Daketown Road,57.679,,,,,,,,,,,5654665,
+42039651,42039641,0,False,residential,Daketown Road,552.302,,,,,,,,,,,5654665,
+42039721,42039640,0,False,residential,Old Daketown Road,93.708,,,,,,,,,,,5647634,
+42042851,42167302,0,False,residential,Walker Road,91.746,,,,,,,,,,,5656782,
+42042851,42042872,0,False,residential,Christopher Lane,310.848,,,,,,,,,,,5647781,
+42042851,41828575,0,False,residential,Walker Road,141.871,,,,,,,,,,,5656782,
+42042872,42042904,0,False,residential,Christopher Lane,270.616,,,,,,,,,,,5647781,
+42042872,42042851,0,False,residential,Christopher Lane,310.848,,,,,,,,,,,5647781,
+42042872,41828536,0,False,residential,"['Adams Road', 'McAlister Drive']",140.124,,,,,,,,,,,"[5657481, 5651046]",
+42042904,42042872,0,False,residential,Christopher Lane,270.616,,,,,,,,,,,5647781,
+42042904,42042930,0,False,residential,Christopher Lane,62.94,,,,,,,,,,,5647783,
+42042904,42042911,0,False,residential,Christopher Lane,248.959,,,,,,,,,,,5647783,
+42042911,42042904,0,False,residential,Christopher Lane,248.959,,,,,,,,,,,5647783,
+42042930,42042904,0,False,residential,Christopher Lane,62.94,,,,,,,,,,,5647783,
+42047310,41859152,0,False,residential,Boeckes Road,901.322,,,,,,,,,,,5647948,
+42047310,41828526,0,False,secondary,,1226.792,,,,,,,,,,,5650439,NY 9N
+42047310,42066151,0,False,secondary,,125.056,,,,,,,,,,,5650439,NY 9N
+42047465,42047603,0,False,residential,Boeckes Road,1655.301,,,,,,,,,,,5647948,
+42047465,41916691,0,False,residential,Boeckes Road,738.061,,,,,,,,,,,5647948,
+42047465,42085997,0,False,residential,Squashville Road,679.973,,,,,,,,,,,5649761,
+42047603,42047465,0,False,residential,Boeckes Road,1655.301,,,,,,,,,,,5647948,
+42047603,41950180,0,False,residential,Porter Corners Road,399.633,,,,,,,,,,,5652150,
+42047603,42059862,0,False,residential,Porter Corners Road,411.29,,,,,,,,,,,5652150,
+42049667,42027325,0,False,residential,"['Forest Road', 'North Main Street']",1181.138,,,,,,,,,,,"[5648041, 5646426]",
+42059724,42059738,0,False,tertiary,North Creek Road,97.424,,,,,,,,,,,5648533,CR 19
+42059724,42060358,0,False,tertiary,North Creek Road,60.215,,,,,,,,,,,199582099,CR 19
+42059724,41977470,0,False,tertiary,North Creek Road,540.406,,,,,,,,,,,199582099,CR 19
+42059738,41857670,0,False,tertiary,North Creek Road,789.223,,,,,,,,,,,5648533,CR 19
+42059738,42059724,0,False,tertiary,North Creek Road,97.424,,,,,,,,,,,5648533,CR 19
+42059738,42060358,0,False,residential,"['North Creek Road', 'Coy Road']",75.884,,,,,,,,,,,"[5648554, 5649162]",
+42059862,41857603,0,False,tertiary,North Creek Road,69.564,,,,,,,,,,,5648533,CR 19
+42059862,42085756,0,False,tertiary,North Greenfield Road,926.66,,,,,,,,,,,5640321,CR 19
+42059862,42075043,0,False,residential,Allen Road,1575.148,,,,,,,,,,,5649366,
+42059862,42047603,0,False,residential,Porter Corners Road,411.29,,,,,,,,,,,5652150,
+42060100,42060118,0,False,tertiary,North Creek Road,471.832,,,,,,,,,,,5648550,CR 19
+42060100,41928288,0,False,tertiary,North Creek Road,2170.801,,,,,,,,,,,5648550,CR 19
+42060100,42148904,0,False,residential,Sand Hill Road,416.471,,,,,,,yes,,,,"[5652081, 199582105, 199582115]",
+42060100,41852494,0,False,residential,Sand Hill Road,127.313,,,,,,,,,,,5652081,
+42060118,41842093,0,False,tertiary,North Creek Road,1860.387,,,,,,,,,,,5648550,CR 19
+42060118,42060100,0,False,tertiary,North Creek Road,471.832,,,,,,,,,,,5648550,CR 19
+42060118,41842107,0,False,residential,Wilsey Road,1284.791,,,,,,,,,,,5649910,
+42060317,41977470,0,False,tertiary,North Creek Road,380.973,,,,,,,yes,,,,"[199582099, 199582117, 5648550]",CR 19
+42060317,41842093,0,False,tertiary,North Creek Road,300.636,,,,,,,,,,,5648550,CR 19
+42060317,42085997,0,False,residential,Squashville Road,1193.395,,,,,,,,,,,5649761,
+42060358,41936923,0,False,residential,Coy Road,19.664,,,,,,,,,,,5649162,
+42060358,42059738,0,False,residential,"['North Creek Road', 'Coy Road']",75.884,,,,,,,,,,,"[5648554, 5649162]",
+42060358,42059724,0,False,tertiary,North Creek Road,60.215,,,,,,,,,,,199582099,CR 19
+42061468,42066151,0,False,secondary,,352.143,,,,,,,,,,,5650439,NY 9N
+42061468,41880053,0,False,secondary,,351.118,,,,,,,,,,,5650439,NY 9N
+42063813,42103352,0,False,secondary,,54.866,,,,,,,,,,,5650439,NY 9N
+42063813,41933286,0,False,residential,Anna Crest Drive,265.094,,,,,,,,,,,5648760,
+42063813,41933396,0,False,secondary,,882.518,,,,,,,,,,,5650439,NY 9N
+42066151,42047310,0,False,secondary,,125.056,,,,,,,,,,,5650439,NY 9N
+42066151,42061468,0,False,secondary,,352.143,,,,,,,,,,,5650439,NY 9N
+42071506,41931409,0,False,residential,Coy Road,434.613,,,,,,,,,,,5649162,
+42071506,41871118,0,False,residential,Coy Road,2726.715,,,,,,,,,,,5649162,
+42071506,41839978,0,False,residential,Ridge Road,2911.411,,,,,,,,,,,5653791,
+42071532,41881826,0,False,residential,Coy Road,571.535,,,,,,,,,,,5649162,
+42071532,41931409,0,False,residential,Coy Road,124.226,,,,,,,,,,,5649162,
+42071532,41862480,0,False,residential,Sand Hill Road,1303.831,,,,,,,,,,,199582105,
+42075043,42059862,0,False,residential,Allen Road,1575.148,,,,,,,,,,,5649366,
+42075043,41830360,0,False,residential,Allen Road,2129.321,,,,,,,,,,,5649366,
+42075043,42175252,0,False,residential,Ballou Road,1627.928,,,,,,,,,,,5653123,
+42080831,42080885,0,False,residential,Ivy Lane,281.942,,,,,,,,,,,5649654,
+42080831,42080885,1,False,residential,Mia Way,340.355,,,,,,,,,,,5649756,
+42080831,42085845,0,False,residential,Mia Way,153.024,,,,,,,,,,,5649756,
+42080885,42080831,0,False,residential,Ivy Lane,281.942,,,,,,,,,,,5649654,
+42080885,42080831,1,False,residential,Mia Way,340.355,,,,,,,,,,,5649756,
+42080885,42085756,0,False,residential,Mia Way,162.325,,,,,,,,,,,5649756,
+42081337,42081337,0,False,residential,Acer Drive,118.082,,,,,,,,,,,5649674,
+42081337,42081337,1,False,residential,Acer Drive,118.082,,,,,,,,,,,5649674,
+42081337,41881852,0,False,residential,Acer Drive,237.587,,,,,,,,,,,5649675,
+42082399,41941462,0,False,residential,Dunham Pond Road,1023.022,,,,,,,,,,,5649694,
+42082399,41935101,0,False,tertiary,South Greenfield Road,406.406,,,,,,,,,,,5653190,
+42082399,41873584,0,False,tertiary,South Greenfield Road,1295.436,,,,,,,,,,,5653190,
+42084692,42084722,0,False,residential,Young Road,670.936,,,,,,,,,,,5649725,
+42084692,41900956,0,False,residential,Young Road,1905.295,,,,,,,,,,,5649725,
+42084722,41845799,0,False,residential,Young Road,538.611,,,,,,,,,,,5649725,
+42084722,42084692,0,False,residential,Young Road,670.936,,,,,,,,,,,5649725,
+42085756,41948238,0,False,tertiary,North Greenfield Road,1126.317,,,,,,,,,,,5640321,CR 19
+42085756,42059862,0,False,tertiary,North Greenfield Road,926.66,,,,,,,,,,,5640321,CR 19
+42085756,42080885,0,False,residential,Mia Way,162.325,,,,,,,,,,,5649756,
+42085845,42080831,0,False,residential,Mia Way,153.024,,,,,,,,,,,5649756,
+42085845,42085845,0,False,residential,Mia Way,104.347,,,,,,,,,,,5649757,
+42085845,42085845,1,False,residential,Mia Way,104.347,,,,,,,,,,,5649757,
+42085997,42047465,0,False,residential,Squashville Road,679.973,,,,,,,,,,,5649761,
+42085997,42060317,0,False,residential,Squashville Road,1193.395,,,,,,,,,,,5649761,
+42085997,41871888,0,False,residential,Russell Road,1479.131,,,,,,,,,,,5653020,
+42103210,42103225,0,False,secondary,,407.008,,,,,,,,,,,5650439,NY 9N
+42103225,42103275,0,False,secondary,,897.562,,,,,,,,,,,5650439,NY 9N
+42103225,42103210,0,False,secondary,,407.008,,,,,,,,,,,5650439,NY 9N
+42103225,41838664,0,False,residential,Canty Road,730.746,,,,,,,,,,,5652593,
+42103275,41911098,0,False,secondary,,188.481,,,,,,,,,,,5650439,NY 9N
+42103275,42103225,0,False,secondary,,897.562,,,,,,,,,,,5650439,NY 9N
+42103275,42000918,0,False,residential,Parkwood,53.613,,,,,,,,,,,5658220,
+42103352,42063813,0,False,secondary,,54.866,,,,,,,,,,,5650439,NY 9N
+42103352,41911098,0,False,secondary,,805.068,,,,,,,,,,,5650439,NY 9N
+42103479,42103500,0,False,secondary,,285.464,,,,,,,,,,,5650439,NY 9N
+42103479,41828599,0,False,secondary,,320.527,,,,,,,,,,,5650439,NY 9N
+42103479,41885241,0,False,residential,Old Route 9N,123.531,,,,,,,,,,,5651517,
+42103500,42103479,0,False,secondary,,285.464,,,,,,,,,,,5650439,NY 9N
+42103500,42135719,0,False,residential,Old Route 9N,45.545,,,,,,,,,,,5651517,
+42103529,41893600,0,False,secondary,,1263.979,,,,,,,,,,,5650439,NY 9N
+42103529,41950180,0,False,residential,Porter Corners Road,2113.875,,,,,,,,,,,5652150,
+42107941,41871482,0,False,residential,Main Street,281.369,,,,,,,,,,,5650580,
+42107944,42143729,0,False,residential,Clark Avenue,25.697,,,,,,,,,,,5651858,
+42108649,42108699,0,False,residential,Park Place Mobile,151.647,,,,,,,,,,,5650587,
+42108699,42108649,0,False,residential,Park Place Mobile,151.647,,,,,,,,,,,5650587,
+42112905,42112907,0,False,residential,Mt View Road,60.958,,,,,,,,,,,5650738,
+42112905,42143729,0,False,residential,Clark Avenue,23.468,,,,,,,,,,,5651858,
+42112905,42143690,0,False,residential,"['Hoffman Road', 'Clark Avenue']",90.204,,,,,,,,,,,"[5655928, 5651858]",
+42112907,42112905,0,False,residential,Mt View Road,60.958,,,,,,,,,,,5650738,
+42129846,41947372,0,False,residential,Pineridge Court,125.481,,,,,,,,,,,5651286,
+42129846,42129846,0,False,residential,Pineridge Court,79.055,,,,,,,,,,,5651285,
+42129846,42129846,1,False,residential,Pineridge Court,79.055,,,,,,,,,,,5651285,
+42130239,41857569,0,False,residential,Older Mountain Road,404.048,,,,,,,,,,,5651303,
+42135719,41885241,0,False,residential,Old Route 9N,168.816,,,,,,,,,,,5651517,
+42135719,41885241,1,False,residential,"['Old Route 9N', 'Old Rt 9N']",227.013,,,,,,,,,,,"[5635472, 5651519]",
+42135719,42103500,0,False,residential,Old Route 9N,45.545,,,,,,,,,,,5651517,
+42136687,42144891,0,False,residential,Hickock Road,1313.997,,,,,,,,,,,5647247,
+42136687,41995897,0,False,residential,Hickock Road,173.483,,,,,,,,,,,5647247,
+42136687,41996817,0,False,residential,Mill Road,740.093,,,,,,,,,,,5651552,
+42143690,42112905,0,False,residential,"['Hoffman Road', 'Clark Avenue']",90.204,,,,,,,,,,,"[5655928, 5651858]",
+42143729,42112905,0,False,residential,Clark Avenue,23.468,,,,,,,,,,,5651858,
+42143729,42107944,0,False,residential,Clark Avenue,25.697,,,,,,,,,,,5651858,
+42143729,42221933,0,False,residential,Park Avenue,316.314,,,,,,,,,,,5655503,
+42144891,42188755,0,False,residential,Dunham Road,76.85,,,,,,,,,,,5653685,
+42144891,42136687,0,False,residential,Hickock Road,1313.997,,,,,,,,,,,5647247,
+42144891,2705436757,0,False,unclassified,Lester Park Road,152.808,,,,,,,,,,,5651916,
+42144911,41933001,0,False,unclassified,Lester Park Road,578.409,,,,,,,,,,,5651916,
+42144911,2705436757,0,False,unclassified,Lester Park Road,31.262,,,,,,,,,,,5651916,
+42144911,2705436767,0,True,residential,Old Stone Ridge Road,183.664,,,,,,,,,,,264892439,
+42148904,42039651,0,False,residential,Daketown Road,57.679,,,,,,,,,,,5654665,
+42148904,41862480,0,False,residential,Sand Hill Road,838.195,,,,,,,,,,,199582105,
+42148904,42060100,0,False,residential,Sand Hill Road,416.471,,,,,,,yes,,,,"[199582105, 199582115, 5652081]",
+42161160,41920345,0,False,residential,Kircher Road,28.258,,,,,,,,,,,5652586,
+42167302,41948591,0,False,residential,Walker Road,59.78,,,,,,,,,,,5656782,
+42167302,42042851,0,False,residential,Walker Road,91.746,,,,,,,,,,,5656782,
+42167302,42167369,0,False,residential,Nat Hill Road,365.967,,,,,,,,,,,5652855,
+42167369,42167302,0,False,residential,Nat Hill Road,365.967,,,,,,,,,,,5652855,
+42170933,41935101,0,False,tertiary,South Greenfield Road,102.747,,,,,,,,,,,5653190,
+42170933,41831091,0,False,residential,Darlyne Drive,215.351,,,,,,,,,,,"[5652984, 5628094]",
+42170933,42171841,0,False,tertiary,South Greenfield Road,557.116,,,,,,,,,,,5653190,
+42171841,41952229,0,False,residential,Russell Road,566.53,,,,,,,,,,,5653020,
+42171841,41862458,0,False,tertiary,South Greenfield Road,513.037,,,,,,,,,,,5653190,
+42171841,42170933,0,False,tertiary,South Greenfield Road,557.116,,,,,,,,,,,5653190,
+42173833,41854707,0,False,residential,Ormsbee Road,3304.497,,,,,,,,,,,"[5653084, 5653086, 5653071]",
+42173833,41847235,0,False,residential,Ormsbee Road,2287.287,,,,,,,,,,,5653084,
+42173833,42175252,0,False,residential,Ballou Road,898.181,,,,,,,,,,,5653123,
+42173833,42175160,0,False,residential,Ballou Road,785.718,,,,,,,,,,,5653123,
+42175160,42173833,0,False,residential,Ballou Road,785.718,,,,,,,,,,,5653123,
+42175252,42075043,0,False,residential,Ballou Road,1627.928,,,,,,,,,,,5653123,
+42175252,42173833,0,False,residential,Ballou Road,898.181,,,,,,,,,,,5653123,
+42175252,41991486,0,False,residential,Miner Road,1106.88,,,,,,,,,,,5658053,
+42188290,41948320,0,False,tertiary,North Greenfield Road,140.826,,,,,,,,,,,5640321,CR 19
+42188290,41948320,1,False,residential,Greenfield Manor Road,680.833,,,,,,,,,,,5653671,
+42188290,41948303,0,False,tertiary,North Greenfield Road,92.351,,,,,,,,,,,5640321,CR 19
+42188755,42144891,0,False,residential,Dunham Road,76.85,,,,,,,,,,,5653685,
+42191965,41839978,0,False,residential,Ridge Road,225.67,,,,,,,,,,,5653791,
+42203437,41947479,0,False,residential,White Oak Court,93.968,,,,,,,,,,,5654305,
+42203437,42203437,0,False,residential,White Oak Court,92.535,,,,,,,,,,,5654304,
+42203437,42203437,1,False,residential,White Oak Court,92.535,,,,,,,,,,,5654304,
+42216186,41871176,0,False,residential,Barney Road,856.782,,,,,,,,,,,5655186,
+42216186,41908665,0,False,residential,Barney Road,123.004,,,,,,,,,,,5655186,
+42216186,41888014,0,False,residential,Lester's Lane,1047.046,,,,,,,,,,,5657473,
+42221933,42143729,0,False,residential,Park Avenue,316.314,,,,,,,,,,,5655503,
+42226841,42226892,0,False,residential,Della Mobile Estates,169.963,,,,,,,,,,,5655824,
+42226892,42226841,0,False,residential,Della Mobile Estates,169.963,,,,,,,,,,,5655824,
+42232895,41997012,0,False,residential,Moore Road,364.946,,,,,,,,,,,5656227,
+2491891519,2491891589,0,False,residential,Young Road,12.814,,,,,,,,,,,5649725,
+2491891519,41900956,0,False,residential,Young Road,499.109,,,,,,,,,,,5649725,
+2491891519,2491891590,0,True,residential,Rebecca Drive,162.956,,,,,,,,,,,241578827,
+2491891540,2491891559,0,True,residential,Rebecca Drive,74.562,,,,,,,,,,,241578828,
+2491891559,2491891603,0,True,residential,Rebecca Drive,16.632,,,,,,,,,,,241578829,
+2491891559,2491891540,0,True,residential,Rebecca Drive,11.402,,,,,,,,,,,241578828,
+2491891565,2491891596,0,False,unclassified,,11.82,,,,,,,,,,,241578833,
+2491891565,2491891595,0,True,residential,Rebecca Drive,148.756,,,,,,,,,,,241578829,
+2491891589,2491891519,0,False,residential,Young Road,12.814,,,,,,,,,,,5649725,
+2491891589,41871075,0,False,residential,Young Road,624.776,,,,,,,,,,,5649725,
+2491891590,2491891591,0,False,unclassified,,12.435,,,,,,,,,,,241578830,
+2491891590,2491891592,0,True,residential,Rebecca Drive,94.933,,,,,,,,,,,241578827,
+2491891591,2491891590,0,False,unclassified,,12.435,,,,,,,,,,,241578830,
+2491891591,2491891589,0,True,residential,Rebecca Drive,160.018,,,,,,,,,,,241578829,
+2491891592,2491891593,0,False,unclassified,,12.138,,,,,,,,,,,241578831,
+2491891592,2491891594,0,True,residential,Rebecca Drive,111.264,,,,,,,,,,,241578827,
+2491891593,2491891592,0,False,unclassified,,12.138,,,,,,,,,,,241578831,
+2491891593,2491891591,0,True,residential,Rebecca Drive,101.468,,,,,,,,,,,241578829,
+2491891594,2491891595,0,False,unclassified,,11.553,,,,,,,,,,,241578832,
+2491891594,2491891596,0,True,residential,Rebecca Drive,147.222,,,,,,,,,,,241578827,
+2491891595,2491891594,0,False,unclassified,,11.553,,,,,,,,,,,241578832,
+2491891595,2491891593,0,True,residential,Rebecca Drive,110.849,,,,,,,,,,,241578829,
+2491891596,2491891565,0,False,unclassified,,11.82,,,,,,,,,,,241578833,
+2491891596,2491891598,0,True,residential,Rebecca Drive,101.354,,,,,,,,,,,241578827,
+2491891598,2491891540,0,True,residential,Rebecca Drive,14.303,,,,,,,,,,,241578827,
+2491891598,2491891603,0,True,unclassified,,15.139,,,,,,,,,,,241578834,
+2491891603,2491891565,0,True,residential,Rebecca Drive,105.004,,,,,,,,,,,241578829,
+2491895258,41997085,0,False,tertiary,Middle Grove Road,575.705,,,,,,,,,,,5643985,CR 21
+2491895258,41997012,0,False,tertiary,Middle Grove Road,271.218,,,,,,,,,,,5643985,CR 21
+2491895258,2491895280,0,False,residential,Moss Creek Road,317.285,,,,,,,,,,,241579416,
+2491895280,2491895258,0,False,residential,Moss Creek Road,317.285,,,,,,,,,,,241579416,
+2491895280,2491895280,0,False,residential,Moss Creek Road,164.144,,,,,,,,,,,241579417,
+2491895280,2491895280,1,False,residential,Moss Creek Road,164.144,,,,,,,,,,,241579417,
+2705436757,42144911,0,False,unclassified,Lester Park Road,31.262,,,,,,,,,,,5651916,
+2705436757,42144891,0,False,unclassified,Lester Park Road,152.808,,,,,,,,,,,5651916,
+2705436767,2705436791,0,False,residential,Lower Meadow Lane,23.433,,,,,,,,,,,264892443,
+2705436767,2705436781,0,True,residential,Old Stone Ridge Road,130.881,,,,,,,,,,,264892439,
+2705436781,2705436791,0,True,residential,Old Stone Ridge Road,109.909,,,,,,,,,,,264892440,
+2705436781,2705436824,0,False,residential,Old Stone Ridge Road,365.886,,,,,,,,,,,264892441,
+2705436791,2705436767,0,False,residential,Lower Meadow Lane,23.433,,,,,,,,,,,264892443,
+2705436791,2705436757,0,True,residential,Old Stone Ridge Road,198.201,,,,,,,,,,,264892440,
+2705436791,2705436924,0,False,residential,Lower Meadow Lane,220.874,,,,,,,,,,,264892443,
+2705436824,2705436781,0,False,residential,Old Stone Ridge Road,365.886,,,,,,,,,,,264892441,
+2705436824,2705436824,0,True,residential,Old Stone Ridge Road,481.667,,,,,,,,,,,264892442,
+2705436924,2705436791,0,False,residential,Lower Meadow Lane,220.874,,,,,,,,,,,264892443,
+2705436924,2705436924,0,True,residential,Lower Meadow Lane,253.902,,,,,,,,,,,264892444,

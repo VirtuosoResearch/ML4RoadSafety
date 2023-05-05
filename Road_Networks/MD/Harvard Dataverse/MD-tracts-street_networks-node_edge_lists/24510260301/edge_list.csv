@@ -1,0 +1,163 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+49412628,49412629,0,False,residential,Cliftmont Avenue,12.597,2,,,25 mph,,,,,,,5995849,
+49412629,49412628,0,False,residential,Cliftmont Avenue,12.597,2,,,25 mph,,,,,,,5995849,
+49412629,49477222,0,True,primary,Erdman Avenue,28.915,2,,,30 mph,,,,,,,115240996,MD 151;US 40 Truck
+49417877,49500032,0,False,residential,"['Pelham Avenue', 'Findlay Road']",32.081,2,,,25 mph,,,,,,,"[6012144, 6008089]",
+49420924,5296574458,0,False,tertiary,Mannasota Avenue,20.161,2,,,30 mph,,,,,,,549627974,
+49420924,49546021,0,True,tertiary,Mannasota Avenue,45.164,"['2', '1']",,,30 mph,,,,,,,"[548248512, 6018596]",
+49420924,5296574464,0,True,residential,Brehms Lane,56.188,1,,,25 mph,,,,,,,548248510,
+49420925,49420924,0,True,tertiary,Mannasota Avenue,39.902,1,,,30 mph,,,,,,,98057879,
+49420925,49546021,0,True,primary,Erdman Avenue,14.034,3,,,30 mph,,,,,,,499207034,MD 151;US 40 Truck
+49420926,49420925,0,True,secondary,Edison Highway,13.584,1,,,30 mph,,,,,,,424991227,
+49420926,49450401,0,True,primary,Erdman Avenue,144.504,2,,,30 mph,,,,,,,335293418,MD 151;US 40 Truck
+49431944,49487383,0,False,residential,Kavon Avenue,40.522,2,,,25 mph,,,,,,,6006766,
+49438473,49468809,0,False,residential,Findlay Road,57.826,2,,,25 mph,,,,,,,581463296,
+49450401,49450403,0,False,residential,Lawnview Avenue,13.366,2,,,,,,,,,,6002114,
+49450401,49412628,0,True,primary,Erdman Avenue,71.898,2,,,30 mph,,,,,,,335293418,MD 151;US 40 Truck
+49450403,49450401,0,False,residential,Lawnview Avenue,13.366,2,,,,,,,,,,6002114,
+49450403,49420925,0,True,primary,Erdman Avenue,145.534,2,,,30 mph,,,,,,,115240996,MD 151;US 40 Truck
+49468808,49502486,0,False,primary,Belair Road,109.139,4,,,30 mph,,,,,,,47986431,US 1
+49468808,49531694,0,False,primary,Belair Road,56.046,"['4', '3']",,,30 mph,,,,,,,"[548202865, 47986431]",US 1
+49468809,49468810,0,True,residential,Lake Avenue,107.525,1,,,25 mph,,,,,,,6004371,
+49468809,49502497,0,False,residential,Findlay Road,69.916,2,,,25 mph,,,,,,,6012144,
+49468809,49438473,0,False,residential,Findlay Road,57.826,2,,,25 mph,,,,,,,581463296,
+49468810,49468811,0,True,residential,Lake Avenue,80.411,1,,,25 mph,,,,,,,6004371,
+49468810,49502499,0,False,tertiary,Mannasota Avenue,72.89,2,,,30 mph,,,,,,,6013307,
+49468810,49531702,0,False,tertiary,Mannasota Avenue,98.404,2,,,30 mph,,,,,,,6013307,
+49468811,49502508,0,False,residential,Brehms Lane,79.283,2,,,25 mph,,,,,,,501281713,
+49468811,49531731,0,False,residential,Brehms Lane,85.945,2,,,25 mph,,,,,,,501281713,
+49474001,5085099249,0,False,residential,,12.655,,,,,,,,,,,521983440,
+49477222,49450403,0,True,primary,Erdman Avenue,43.271,2,,,30 mph,,,,,,,115240996,MD 151;US 40 Truck
+49477248,49501128,0,False,residential,Chesterfield Avenue,190.841,2,,,25 mph,,,,,,,6008257,
+49477258,49561199,0,False,residential,Dudley Avenue,271.035,2,,,25 mph,,,,,,,6021448,
+49477258,49477261,0,False,residential,Cliftmont Avenue,102.775,2,,,25 mph,,,,,,,138422194,
+49477261,49477263,0,False,residential,Cliftmont Avenue,47.122,2,,,25 mph,,,,,,,138422194,
+49477261,49556550,0,False,residential,Shannon Drive,43.905,2,,,25 mph,,,,,,,540072429,
+49477261,49477258,0,False,residential,Cliftmont Avenue,102.775,2,,,25 mph,,,,,,,138422194,
+49477263,49477261,0,False,residential,Cliftmont Avenue,47.122,2,,,25 mph,,,,,,,138422194,
+49477263,49556550,0,True,residential,Shannon Drive,66.108,,,,,,,,,,,6017352,
+49487383,49431944,0,False,residential,Kavon Avenue,40.522,2,,,25 mph,,,,,,,6006766,
+49487383,49487384,0,False,residential,Kavon Avenue,70.582,2,,,25 mph,,,,,,,6006766,
+49487383,49502486,0,True,residential,Brendan Avenue,88.882,1,,,25 mph,,,,,,,6008506,
+49487384,49529378,0,True,residential,Kentucky Avenue,89.967,1,,,25 mph,,,,,,,6012285,
+49487384,49487385,0,False,residential,Kavon Avenue,61.592,2,,,25 mph,,,,,,,6006766,
+49487384,49487383,0,False,residential,Kavon Avenue,70.582,2,,,25 mph,,,,,,,6006766,
+49487385,49487392,0,True,residential,Pelham Avenue,56.174,,,,25 mph,,,,,,,182790898,
+49487385,49487384,0,False,residential,Kavon Avenue,61.592,2,,,25 mph,,,,,,,6006766,
+49487392,49500032,0,True,residential,Pelham Avenue,30.729,2,,,25 mph,,,,,,,273206830,
+49487392,49487394,0,False,residential,Kavon Avenue,70.641,2,,,25 mph,,,,,,,6006768,
+49487394,49487397,0,False,residential,Kavon Avenue,75.865,2,,,25 mph,,,,,,,6006768,
+49487394,49487392,0,False,residential,Kavon Avenue,70.641,2,,,25 mph,,,,,,,6006768,
+49487394,49501164,0,True,residential,Chesterfield Avenue,145.526,1,,,25 mph,,,,,,,6008261,
+49487397,49487399,0,False,residential,Kavon Avenue,79.888,2,,,25 mph,,,,,,,6006768,
+49487397,49487394,0,False,residential,Kavon Avenue,75.865,2,,,25 mph,,,,,,,6006768,
+49487397,49515148,0,True,residential,Kenyon Avenue,218.589,1,,,25 mph,,,,,,,6010381,
+49487399,49556495,0,True,residential,Shannon Drive,27.698,2,,,25 mph,,,,,,,6017350,
+49487399,49487397,0,False,residential,Kavon Avenue,79.888,2,,,25 mph,,,,,,,6006768,
+49492369,49492371,0,True,residential,Ramona Avenue,154.769,1,,,25 mph,,,,,,,6007391,
+49492369,49536928,0,True,residential,Shannon Drive,208.85,1,,,25 mph,,,,,,,182790892,
+49492371,49492380,0,True,residential,Ramona Avenue,202.934,1,,,25 mph,,,,,,,6007391,
+49492371,49536928,0,False,tertiary,Mannasota Avenue,82.569,2,,,30 mph,,,,,,,6013307,
+49492371,49536918,0,False,tertiary,Mannasota Avenue,76.85,2,,,30 mph,,,,,,,6013307,
+49492380,49556527,0,False,residential,Brehms Lane,73.652,2,,,25 mph,,,,,,,98057880,
+49492380,49561199,0,False,residential,Brehms Lane,74.607,2,,,25 mph,,,,,,,98057880,
+49499995,49500028,0,False,primary,Belair Road,8.048,4,,,30 mph,,,,,,,47986431,US 1
+49499995,49501164,0,False,primary,Belair Road,62.441,4,,,30 mph,,,,,,,47986431,US 1
+49500003,49501170,0,False,residential,Brehms Lane,48.441,2,,,25 mph,,,,,,,501281713,
+49500003,49530600,0,False,residential,Brehms Lane,130.357,2,,,25 mph,,,,,,,501281713,
+49500028,49499995,0,False,primary,Belair Road,8.048,4,,,30 mph,,,,,,,47986431,US 1
+49500028,49487385,0,True,residential,Pelham Avenue,89.492,2,,,25 mph,,,,,,,6008091,
+49500028,49530575,0,False,primary,Belair Road,63.038,4,,,30 mph,,,,,,,47986431,US 1
+49500032,49500039,0,False,residential,Pelham Avenue,151.943,2,,,25 mph,,,,,,,581463293,
+49500032,49417877,0,False,residential,"['Pelham Avenue', 'Findlay Road']",32.081,2,,,25 mph,,,,,,,"[6012144, 6008089]",
+49500032,49529378,0,False,residential,Findlay Road,64.001,2,,,25 mph,,,,,,,6012144,
+49500039,49500032,0,False,residential,Pelham Avenue,151.943,2,,,25 mph,,,,,,,581463293,
+49500039,49501166,0,False,tertiary,Mannasota Avenue,72.265,2,,,30 mph,,,,,,,6013307,
+49500039,49530580,0,False,tertiary,Mannasota Avenue,68.343,2,,,30 mph,,,,,,,6013307,
+49501128,49501170,0,False,residential,Brehms Lane,33.404,2,,,25 mph,,,,,,,501281713,
+49501128,49477248,0,False,residential,Chesterfield Avenue,190.841,2,,,25 mph,,,,,,,6008257,
+49501128,49515150,0,False,residential,Brehms Lane,51.601,2,,,25 mph,,,,,,,98057880,
+49501164,49501184,0,False,primary,Belair Road,24.426,4,,,30 mph,,,,,,,47986431,US 1
+49501164,49499995,0,False,primary,Belair Road,62.441,4,,,30 mph,,,,,,,47986431,US 1
+49501166,49487394,0,True,residential,Chesterfield Avenue,200.82,1,,,25 mph,,,,,,,6008261,
+49501166,49515148,0,False,tertiary,Mannasota Avenue,77.653,2,,,30 mph,,,,,,,6013307,
+49501166,49500039,0,False,tertiary,Mannasota Avenue,72.265,2,,,30 mph,,,,,,,6013307,
+49501170,49501128,0,False,residential,Brehms Lane,33.404,2,,,25 mph,,,,,,,501281713,
+49501170,49501166,0,True,residential,Chesterfield Avenue,228.7,1,,,25 mph,,,,,,,6008261,
+49501170,49500003,0,False,residential,Brehms Lane,48.441,2,,,25 mph,,,,,,,501281713,
+49501184,49515126,0,False,primary,Belair Road,51.565,4,,,30 mph,,,,,,,47986431,US 1
+49501184,49501164,0,False,primary,Belair Road,24.426,4,,,30 mph,,,,,,,47986431,US 1
+49502486,49468808,0,False,primary,Belair Road,109.139,4,,,30 mph,,,,,,,47986431,US 1
+49502486,49530575,0,False,primary,Belair Road,72.084,4,,,30 mph,,,,,,,47986431,US 1
+49502497,49487383,0,True,residential,Brendan Avenue,87.843,1,,,25 mph,,,,,,,6008506,
+49502497,49529378,0,False,residential,Findlay Road,70.067,2,,,25 mph,,,,,,,6012144,
+49502497,49468809,0,False,residential,Findlay Road,69.916,2,,,25 mph,,,,,,,6012144,
+49502499,49502497,0,True,residential,Brendan Avenue,123.288,1,,,25 mph,,,,,,,6008506,
+49502499,49530580,0,False,tertiary,Mannasota Avenue,71.022,2,,,30 mph,,,,,,,6013307,
+49502499,49468810,0,False,tertiary,Mannasota Avenue,72.89,2,,,30 mph,,,,,,,6013307,
+49502500,49502499,0,True,residential,Brendan Avenue,118.435,1,,,25 mph,,,,,,,6008506,
+49502500,49502508,0,False,residential,Brehms Lane,11.107,2,,,25 mph,,,,,,,501281713,
+49502500,49530600,0,False,residential,Brehms Lane,81.576,2,,,25 mph,,,,,,,501281713,
+49502508,49502500,0,False,residential,Brehms Lane,11.107,2,,,25 mph,,,,,,,501281713,
+49502508,49468811,0,False,residential,Brehms Lane,79.283,2,,,25 mph,,,,,,,501281713,
+49515126,49556492,0,False,primary,Belair Road,77.778,4,,,30 mph,,,,,,,47986431,US 1
+49515126,49501184,0,False,primary,Belair Road,51.565,4,,,30 mph,,,,,,,47986431,US 1
+49515126,49487397,0,True,residential,Kenyon Avenue,147.32,1,,,25 mph,,,,,,,6010381,
+49515148,49515150,0,True,residential,Kenyon Avenue,247.076,1,,,25 mph,,,,,,,6010381,
+49515148,49536918,0,False,tertiary,Mannasota Avenue,84.535,2,,,30 mph,,,,,,,6013307,
+49515148,49501166,0,False,tertiary,Mannasota Avenue,77.653,2,,,30 mph,,,,,,,6013307,
+49515150,49561199,0,False,residential,Brehms Lane,83.914,2,,,25 mph,,,,,,,98057880,
+49515150,49501128,0,False,residential,Brehms Lane,51.601,2,,,25 mph,,,,,,,98057880,
+49529378,49530580,0,True,residential,Kentucky Avenue,136.184,1,,,25 mph,,,,,,,6012285,
+49529378,49500032,0,False,residential,Findlay Road,64.001,2,,,25 mph,,,,,,,6012144,
+49529378,49502497,0,False,residential,Findlay Road,70.067,2,,,25 mph,,,,,,,6012144,
+49530575,49487384,0,True,residential,Kentucky Avenue,86.98,1,,,25 mph,,,,,,,6012285,
+49530575,49500028,0,False,primary,Belair Road,63.038,4,,,30 mph,,,,,,,47986431,US 1
+49530575,49502486,0,False,primary,Belair Road,72.084,4,,,30 mph,,,,,,,47986431,US 1
+49530580,49530600,0,True,residential,Kentucky Avenue,152.181,1,,,25 mph,,,,,,,6012285,
+49530580,49500039,0,False,tertiary,Mannasota Avenue,68.343,2,,,30 mph,,,,,,,6013307,
+49530580,49502499,0,False,tertiary,Mannasota Avenue,71.022,2,,,30 mph,,,,,,,6013307,
+49530600,49500003,0,False,residential,Brehms Lane,130.357,2,,,25 mph,,,,,,,501281713,
+49530600,49502500,0,False,residential,Brehms Lane,81.576,2,,,25 mph,,,,,,,501281713,
+49531694,49531720,0,False,primary,Belair Road,17.814,3,,,30 mph,,,,,,,548202860,US 1
+49531694,49531702,0,True,residential,Mayfield Avenue,270.071,1,,,25 mph,,,,,,,6012366,
+49531694,49468808,0,False,primary,Belair Road,56.046,"['4', '3']",,,30 mph,,,,,,,"[548202865, 47986431]",US 1
+49531702,49531706,0,False,residential,Mayfield Avenue,30.089,2,,,25 mph,,,,,,,182790895,
+49531702,49468810,0,False,tertiary,Mannasota Avenue,98.404,2,,,30 mph,,,,,,,6013307,
+49531702,5296574458,0,False,tertiary,Mannasota Avenue,44.531,2,,,30 mph,,,,,,,501281597,
+49531706,49531702,0,False,residential,Mayfield Avenue,30.089,2,,,25 mph,,,,,,,182790895,
+49531706,49531731,0,False,residential,Brehms Lane,36.003,2,,,25 mph,,,,,,,501281713,
+49531706,5296574464,0,False,residential,Brehms Lane,19.294,2,,,25 mph,,,,,,,501281713,
+49531720,49531694,0,False,primary,Belair Road,17.814,3,,,30 mph,,,,,,,548202860,US 1
+49531720,49546031,0,False,primary,Belair Road,96.44,"['4', '5', '3']",,,30 mph,,,,,,,"[548202860, 501281598, 548202855]",US 1
+49531731,49531706,0,False,residential,Brehms Lane,36.003,2,,,25 mph,,,,,,,501281713,
+49531731,49531766,0,False,residential,Mayfield Avenue,184.156,2,,,25 mph,,,,,,,6012373,
+49531731,49468811,0,False,residential,Brehms Lane,85.945,2,,,25 mph,,,,,,,501281713,
+49531766,49531731,0,False,residential,Mayfield Avenue,184.156,2,,,25 mph,,,,,,,6012373,
+49536918,49492371,0,False,tertiary,Mannasota Avenue,76.85,2,,,30 mph,,,,,,,6013307,
+49536918,49515148,0,False,tertiary,Mannasota Avenue,84.535,2,,,30 mph,,,,,,,6013307,
+49536918,49556495,0,True,residential,Dudley Avenue,211.46,1,,,25 mph,,,,,,,540072430,
+49536928,49492371,0,False,tertiary,Mannasota Avenue,82.569,2,,,30 mph,,,,,,,6013307,
+49536928,49556527,0,True,residential,Shannon Drive,183.595,1,,,25 mph,,,,,,,182790892,
+49545732,49546031,0,False,primary,Belair Road,9.623,4,,,30 mph,,,,,,,6019391,US 1;US 40 Truck
+49545732,49474001,0,True,primary,Erdman Avenue,107.788,3,,,30 mph,,,,,,,47986434,MD 151;US 40 Truck
+49546021,5085099249,0,True,primary,Erdman Avenue,126.684,3,,,30 mph,,,,,,,335293422,MD 151;US 40 Truck
+49546031,49545732,0,False,primary,Belair Road,9.623,4,,,30 mph,,,,,,,6019391,US 1;US 40 Truck
+49546031,49531720,0,False,primary,Belair Road,96.44,"['4', '5', '3']",,,30 mph,,,,,,,"[548202860, 501281598, 548202855]",US 1
+49556492,49515126,0,False,primary,Belair Road,77.778,4,,,30 mph,,,,,,,47986431,US 1
+49556492,49487399,0,True,residential,Shannon Drive,147.37,2,,,25 mph,,,,,,,6017350,
+49556495,49492369,0,True,residential,Shannon Drive,105.196,2,,,25 mph,,,,,,,6017350,
+49556527,49492380,0,False,residential,Brehms Lane,73.652,2,,,25 mph,,,,,,,98057880,
+49556527,49556550,0,False,residential,Shannon Drive,292.575,2,,,25 mph,,,,,,,540072429,
+49556550,49477261,0,False,residential,Shannon Drive,43.905,2,,,25 mph,,,,,,,540072429,
+49556550,49556527,0,False,residential,Shannon Drive,292.575,2,,,25 mph,,,,,,,540072429,
+49561199,49477258,0,False,residential,Dudley Avenue,271.035,2,,,25 mph,,,,,,,6021448,
+49561199,49492380,0,False,residential,Brehms Lane,74.607,2,,,25 mph,,,,,,,98057880,
+49561199,49515150,0,False,residential,Brehms Lane,83.914,2,,,25 mph,,,,,,,98057880,
+49561199,49536918,0,True,residential,Dudley Avenue,223.768,1,,,25 mph,,,,,,,540072430,
+5085099249,49474001,0,False,residential,,12.655,,,,,,,,,,,521983440,
+5085099249,49546031,0,True,primary,Erdman Avenue,107.056,3,,,30 mph,,,,,,,"[521983442, 424991231]",MD 151;US 40 Truck
+5296574458,49420924,0,False,tertiary,Mannasota Avenue,20.161,2,,,30 mph,,,,,,,549627974,
+5296574458,49531702,0,False,tertiary,Mannasota Avenue,44.531,2,,,30 mph,,,,,,,501281597,
+5296574464,49531706,0,False,residential,Brehms Lane,19.294,2,,,25 mph,,,,,,,501281713,
+5296574464,5296574458,0,True,residential,Brehms Lane,40.335,1,,,25 mph,,,,,,,548248511,

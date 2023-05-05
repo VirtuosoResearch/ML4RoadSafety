@@ -1,0 +1,105 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+212521586,212521588,0,False,secondary,Lake Avenue,312.916,,,,,,,,,,,20103828,NY 15A
+212521586,212548801,0,False,residential,"['Community Drive', 'Evergreen Street']",1314.561,,,,,,,,,,,"[20106560, 20105996]",
+212521588,212521594,0,False,secondary,Lake Avenue,299.189,,,,,,,,,,,20103828,NY 15A
+212521588,212521586,0,False,secondary,Lake Avenue,312.916,,,,,,,,,,,20103828,NY 15A
+212521588,212548801,0,False,residential,"['Dublin Street', 'Buell Avenue']",245.15,,,,,,,,,,,"[20107074, 20108567]",
+212521588,212581152,0,False,residential,Kober Drive,461.304,,,,,,,,,,,20108956,
+212521594,212546553,0,False,primary,West Main Street,161.734,2,,,30 mph,,,,,,,20106327,US 20;NY 5
+212521594,212553503,0,False,primary,East Main Street,138.673,2,,,30 mph,,,,,,,429550019,US 20;NY 5
+212521594,212521588,0,False,secondary,Lake Avenue,299.189,,,,,,,,,,,20103828,NY 15A
+212521594,212551522,0,False,secondary,Rochester Street,410.302,,,,,,,,,,,20109704,NY 15A
+212521929,212552570,0,False,residential,High Street,245.811,,,,,,,,,,,20106967,
+212521929,212521936,0,False,residential,Harrison Avenue,156.821,,,,,,,,,,,20103843,
+212521929,212555131,0,False,residential,"['Hill Terrace', 'Harrison Avenue']",269.499,,,,,,,,,,,"[20108456, 20103843]",
+212521936,212521929,0,False,residential,Harrison Avenue,156.821,,,,,,,,,,,20103843,
+212521936,212551527,0,False,residential,College Street,234.388,,,,,,,,,,,"[20106833, 20106835]",
+212523200,2005873713,0,False,residential,Eastwood Circle,206.423,,,,,,,,,,,20103923,
+212523200,212552570,0,False,residential,Eastwood Drive,120.528,,,,,,,,,,,20108377,
+212544934,212551524,0,False,residential,College Street,45.563,,,,,,,,,,,20106835,
+212544934,212551522,0,False,residential,College Street,152.03,,,,,,,,,,,20106835,
+212544934,212558166,0,False,residential,"['Maplewood Avenue', 'Mill Street']",230.87,,,,,,,,,,,"[20106153, 20107564]",
+212544947,212545725,0,False,residential,Seneca Avenue,161.499,,,,,,,,,,,20106249,
+212545717,212551520,0,False,residential,"['Seneca Avenue', 'Elm Street']",209.276,,,,,,,,,,,"[20107105, 20106247]",
+212545717,212545725,0,False,residential,Seneca Avenue,239.168,,,,,,,,,,,20106249,
+212545717,212555513,0,False,residential,Parkside Place,228.88,,,,,,,,,,,20107318,
+212545725,212544947,0,False,residential,Seneca Avenue,161.499,,,,,,,,,,,20106249,
+212545725,212583476,0,False,secondary,Rochester Street,194.948,,,,,,,,,,,20109704,NY 15A
+212545725,212558166,0,False,secondary,Rochester Street,99.041,,,,,,,,,,,20109704,NY 15A
+212545725,212545717,0,False,residential,Seneca Avenue,239.168,,,,,,,,,,,20106249,
+212546543,212567441,0,False,residential,Michigan Avenue,430.121,,,,,,,,,,,20109231,
+212546543,212546550,0,False,primary,West Main Street,514.816,2,,,30 mph,,,,,,,20106327,US 20;NY 5
+212546550,212546553,0,False,primary,West Main Street,118.643,2,,,30 mph,,,,,,,20106327,US 20;NY 5
+212546550,212546543,0,False,primary,West Main Street,514.816,2,,,30 mph,,,,,,,20106327,US 20;NY 5
+212546550,212555131,0,False,residential,Livingston Street,256.754,,,,,,,,,,,20107269,
+212546553,212521594,0,False,primary,West Main Street,161.734,2,,,30 mph,,,,,,,20106327,US 20;NY 5
+212546553,212546550,0,False,primary,West Main Street,118.643,2,,,30 mph,,,,,,,20106327,US 20;NY 5
+212546553,212551712,0,False,residential,Genesee Street,320.466,,,,,,,,,,,20109308,
+212548801,212521586,0,False,residential,"['Community Drive', 'Evergreen Street']",1314.561,,,,,,,,,,,"[20106560, 20105996]",
+212548801,212553503,0,False,residential,Buell Avenue,278.056,,,,,,,,,,,20107074,
+212548801,212521588,0,False,residential,"['Dublin Street', 'Buell Avenue']",245.15,,,,,,,,,,,"[20107074, 20108567]",
+212551513,212551520,0,False,residential,College Street,368.226,,,,,,,,,,,20106835,
+212551513,212553724,0,False,primary,East Main Street,332.334,2,,,30 mph,,,,,,,429550019,US 20;NY 5
+212551520,212551522,0,False,residential,College Street,330.026,,,,,,,,,,,20106835,
+212551520,212551513,0,False,residential,College Street,368.226,,,,,,,,,,,20106835,
+212551520,212545717,0,False,residential,"['Seneca Avenue', 'Elm Street']",209.276,,,,,,,,,,,"[20107105, 20106247]",
+212551520,212553724,0,False,residential,Elm Street,215.489,,,,,,,,,,,20107105,
+212551522,212544934,0,False,residential,College Street,152.03,,,,,,,,,,,20106835,
+212551522,212551520,0,False,residential,College Street,330.026,,,,,,,,,,,20106835,
+212551522,212558166,0,False,secondary,Rochester Street,88.14,,,,,,,,,,,20109704,NY 15A
+212551522,212521594,0,False,secondary,Rochester Street,410.302,,,,,,,,,,,20109704,NY 15A
+212551524,212551527,0,False,residential,College Street,117.279,,,,,,,,,,,20106835,
+212551524,212544934,0,False,residential,College Street,45.563,,,,,,,,,,,20106835,
+212551524,212551712,0,False,residential,Genesee Street,118.641,,,,,,,,,,,20109308,
+212551527,212551524,0,False,residential,College Street,117.279,,,,,,,,,,,20106835,
+212551527,212521936,0,False,residential,College Street,234.388,,,,,,,,,,,"[20106833, 20106835]",
+212551527,212551709,0,False,residential,Livingston Street,117.638,,,,,,,,,,,20107269,
+212551709,212551712,0,False,residential,Park Street,114.724,,,,,,,,,,,20106866,
+212551709,212555131,0,False,residential,Livingston Street,81.856,,,,,,,,,,,20107269,
+212551709,212551527,0,False,residential,Livingston Street,117.638,,,,,,,,,,,20107269,
+212551712,212551709,0,False,residential,Park Street,114.724,,,,,,,,,,,20106866,
+212551712,212551524,0,False,residential,Genesee Street,118.641,,,,,,,,,,,20109308,
+212551712,212546553,0,False,residential,Genesee Street,320.466,,,,,,,,,,,20109308,
+212552570,212521929,0,False,residential,High Street,245.811,,,,,,,,,,,20106967,
+212552570,212523200,0,False,residential,Eastwood Drive,120.528,,,,,,,,,,,20108377,
+212553503,212521594,0,False,primary,East Main Street,138.673,2,,,30 mph,,,,,,,429550019,US 20;NY 5
+212553503,212548801,0,False,residential,Buell Avenue,278.056,,,,,,,,,,,20107074,
+212553503,212553724,0,False,primary,East Main Street,344.818,2,,,30 mph,,,,,,,429550019,US 20;NY 5
+212553724,212551520,0,False,residential,Elm Street,215.489,,,,,,,,,,,20107105,
+212553724,212553503,0,False,primary,East Main Street,344.818,2,,,30 mph,,,,,,,429550019,US 20;NY 5
+212553724,212551513,0,False,primary,East Main Street,332.334,2,,,30 mph,,,,,,,429550019,US 20;NY 5
+212555131,212551709,0,False,residential,Livingston Street,81.856,,,,,,,,,,,20107269,
+212555131,212546550,0,False,residential,Livingston Street,256.754,,,,,,,,,,,20107269,
+212555131,212521929,0,False,residential,"['Hill Terrace', 'Harrison Avenue']",269.499,,,,,,,,,,,"[20108456, 20103843]",
+212555513,212555513,0,False,residential,Parkside Place,326.344,,,,,,,,,,,20107317,
+212555513,212555513,1,False,residential,Parkside Place,326.344,,,,,,,,,,,20107317,
+212555513,212545717,0,False,residential,Parkside Place,228.88,,,,,,,,,,,20107318,
+212558166,212545725,0,False,secondary,Rochester Street,99.041,,,,,,,,,,,20109704,NY 15A
+212558166,212551522,0,False,secondary,Rochester Street,88.14,,,,,,,,,,,20109704,NY 15A
+212558166,212544934,0,False,residential,"['Maplewood Avenue', 'Mill Street']",230.87,,,,,,,,,,,"[20106153, 20107564]",
+212561896,212561930,0,False,residential,Ziegler Drive,545.276,,,,,,,,,,,20107763,
+212561896,212583476,0,False,secondary,Rochester Street,389.809,,,,,,,,,,,20109704,NY 15A
+212561930,212561896,0,False,residential,Ziegler Drive,545.276,,,,,,,,,,,20107763,
+212567441,212546543,0,False,residential,Michigan Avenue,430.121,,,,,,,,,,,20109231,
+212567441,212567447,0,False,residential,Meadow View Drive,392.438,,,,,,,,,,,20108112,
+212567447,212567450,0,False,residential,Meadow View Drive,36.965,,,,,,,,,,,20108112,
+212567447,212567441,0,False,residential,Meadow View Drive,392.438,,,,,,,,,,,20108112,
+212567450,212567447,0,False,residential,Meadow View Drive,36.965,,,,,,,,,,,20108112,
+212581152,2005873691,0,False,residential,Kober Drive,23.779,,,,,,,,,,,20108956,
+212581152,2005873691,1,False,residential,Kober Drive,56.927,,,,,,,,,,,189980594,
+212581152,212521588,0,False,residential,Kober Drive,461.304,,,,,,,,,,,20108956,
+212583476,212583479,0,False,residential,McDonald Drive,219.745,,,,,,,,,,,20109098,
+212583476,212545725,0,False,secondary,Rochester Street,194.948,,,,,,,,,,,20109704,NY 15A
+212583476,212561896,0,False,secondary,Rochester Street,389.809,,,,,,,,,,,20109704,NY 15A
+212583479,212583476,0,False,residential,McDonald Drive,219.745,,,,,,,,,,,20109098,
+2005873686,2005873687,0,False,residential,Kober Drive,24.275,,,,,,,,,,,189980593,
+2005873686,2005873687,1,False,residential,Kober Drive,54.825,,,,,,,,,,,20108956,
+2005873686,2005873691,0,False,residential,Kober Drive,100.823,,,,,,,,,,,20108956,
+2005873687,2005873688,0,False,residential,Kober Drive,8.929,,,,,,,,,,,189980593,
+2005873687,2005873686,0,False,residential,Kober Drive,24.275,,,,,,,,,,,189980593,
+2005873687,2005873686,1,False,residential,Kober Drive,54.825,,,,,,,,,,,20108956,
+2005873688,2005873687,0,False,residential,Kober Drive,8.929,,,,,,,,,,,189980593,
+2005873691,2005873686,0,False,residential,Kober Drive,100.823,,,,,,,,,,,20108956,
+2005873691,212581152,0,False,residential,Kober Drive,23.779,,,,,,,,,,,20108956,
+2005873691,212581152,1,False,residential,Kober Drive,56.927,,,,,,,,,,,189980594,
+2005873713,212523200,0,False,residential,Eastwood Circle,206.423,,,,,,,,,,,20103923,

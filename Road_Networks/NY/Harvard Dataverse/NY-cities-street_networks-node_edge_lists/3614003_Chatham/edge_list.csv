@@ -1,0 +1,285 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+211853381,211853409,0,False,residential,,237.389,,,,,,,,,,,20059319,
+211853409,211853381,0,False,residential,,237.389,,,,,,,,,,,20059319,
+211853409,211961841,0,False,residential,Kinderhook Street,66.629,,,,,,,,,,,20070739,
+211853409,211945437,0,False,residential,Kinderhook Street,45.58,,,,,,,,,,,20070739,
+211860815,211860821,0,False,residential,,53.17,,,,,,,,,,,20060043,
+211860815,212036292,0,False,secondary,Hudson Avenue,68.704,,,,30 mph,,,,,,,20072501,NY 66
+211860815,212046182,0,False,secondary,Hudson Avenue,47.561,,,,30 mph,,,,,,,20072501,NY 66
+211860821,211860815,0,False,residential,,53.17,,,,,,,,,,,20060043,
+211866276,211867565,0,False,residential,,37.709,,,,,,,,,,,20060477,
+211866276,212015286,0,False,residential,1st Street,84.38,,,,,,,,,,,20071760,
+211867565,211867571,0,False,residential,,30.801,,,,,,,,,,,20060477,
+211867565,211866276,0,False,residential,,37.709,,,,,,,,,,,20060477,
+211867565,211895693,0,False,residential,,232.351,,,,,,,,,,,20063367,
+211867571,211906454,0,False,residential,,201.967,,,,,,,,,,,20062546,
+211867571,211867565,0,False,residential,,30.801,,,,,,,,,,,20060477,
+211867571,211895702,0,False,residential,,56.862,,,,,,,,,,,20062546,
+211870446,212047508,0,False,residential,Murray Street,73.361,,,,,,,,,,,20078284,
+211870446,212124347,0,False,residential,Murray Street,71.322,,,,,,,,,,,20078284,
+211870446,212119607,0,False,residential,Line Street,105.667,,,,,,,,,,,20078361,
+211871964,211941018,0,False,secondary,Hudson Avenue,38.277,,,,,,,,,,,45287081,NY 66
+211871964,211918747,0,False,secondary,Hudson Avenue,46.613,,,,,,,,,,,45287081,NY 66
+211871964,211871970,0,False,residential,,76.885,,,,,,,,,,,20060831,
+211871970,211871964,0,False,residential,,76.885,,,,,,,,,,,20060831,
+211877694,211932648,0,False,residential,Fairview Avenue,369.083,,,,,,,,,,,20065301,
+211892540,211892546,0,False,residential,,39.233,,,,,,,,,,,20062328,
+211892540,1986062894,0,False,residential,Depot Square,247.237,,,,,,,,,,,20068358,
+211892540,212027030,0,False,residential,Park Row,122.57,,,,,,,,,,,20072124,
+211892540,212042488,0,False,residential,Park Row,27.563,,,,,,,,,,,20072124,
+211892546,211892540,0,False,residential,,39.233,,,,,,,,,,,20062328,
+211892546,212025714,0,False,secondary,Main Street,182.781,,,,,,,,,,,20070670,NY 66
+211892546,212042488,0,False,secondary,"['Main Street', 'Hudson Avenue']",50.542,,,,,,,,,,,"[45287081, 20070670]",NY 66
+211895693,211906454,0,False,residential,,49.021,,,,,,,,,,,20062546,
+211895693,211906454,1,False,residential,,49.021,,,,,,,,,,,20063337,
+211895693,211867565,0,False,residential,,232.351,,,,,,,,,,,20063367,
+211895702,211867571,0,False,residential,,56.862,,,,,,,,,,,20062546,
+211895702,211906454,0,False,residential,,234.13,,,,,,,,,,,20063337,
+211895702,211980775,0,False,residential,Cottage Place,147.472,,,,,,,,,,,20067818,
+211896801,211896804,0,False,residential,,40.202,,,,,,,,,,,20062642,
+211896801,212046174,0,False,residential,Dardess Drive,20.432,,,,,,,,,,,20075669,
+211896801,212078584,0,False,residential,Dardess Drive,256.81,,,,,,,,,,,20075669,
+211896804,211896801,0,False,residential,,40.202,,,,,,,,,,,20062642,
+211896804,212015337,0,False,residential,Houseman Avenue,20.452,,,,,,,,,,,20069796,
+211906454,211867571,0,False,residential,,201.967,,,,,,,,,,,20062546,
+211906454,211895693,0,False,residential,,49.021,,,,,,,,,,,20062546,
+211906454,211895693,1,False,residential,,49.021,,,,,,,,,,,20063337,
+211906454,211895702,0,False,residential,,234.13,,,,,,,,,,,20063337,
+211918747,211871964,0,False,secondary,Hudson Avenue,46.613,,,,,,,,,,,45287081,NY 66
+211918747,211973205,0,False,secondary,Hudson Avenue,97.983,,,,,,,,,,,45287081,NY 66
+211918747,211918777,0,False,residential,,231.919,,,,,,,,,,,20064291,
+211918777,211918747,0,False,residential,,231.919,,,,,,,,,,,20064291,
+211932648,212086226,0,False,secondary,Center Street,110.016,,,,,,,,,,,187973034,NY 66
+211932648,211877694,0,False,residential,Fairview Avenue,369.083,,,,,,,,,,,20065301,
+211932648,211965304,0,False,secondary,Center Street,181.158,,,,,,,yes,,,,"[20077875, 187973034, 187973035]",NY 66
+211935400,212046206,0,False,secondary,Hudson Avenue,50.5,,,,,,,,,,,45287081,NY 66
+211935400,4053651636,0,False,secondary,Railroad Avenue,47.541,,,,,,,,,,,20065427,NY 295
+211935400,212042488,0,False,secondary,Hudson Avenue,51.715,,,,,,,,,,,45287081,NY 66
+211935414,211935420,0,False,secondary,Railroad Avenue,20.099,,,,,,,,,,,20065427,NY 295
+211935414,4053651636,0,False,secondary,Railroad Avenue,195.307,,,,,,,,,,,20065427,NY 295
+211935414,212070781,0,False,residential,Thomas Street,267.563,,,,,,,,,,,20077364,
+211935420,211935428,0,False,secondary,Railroad Avenue,191.761,,,,,,,,,,,20065427,NY 295
+211935420,211935414,0,False,secondary,Railroad Avenue,20.099,,,,,,,,,,,20065427,NY 295
+211935420,212124357,0,False,residential,Murray Street,16.368,,,,,,,,,,,20078284,
+211935428,212079770,0,False,residential,Austerlitz Street,10.933,,,,,,,,,,,20075757,
+211935428,211935420,0,False,secondary,Railroad Avenue,191.761,,,,,,,,,,,20065427,NY 295
+211935428,211939455,0,False,secondary,Spring Street,297.39,,,,,,,,,,,20065596,NY 295
+211935428,212069432,0,False,residential,Austerlitz Street,165.247,,,,,,,,,,,20075757,
+211939455,211939458,0,False,secondary,Spring Street,76.102,,,,,,,,,,,20065596,NY 295
+211939455,211935428,0,False,secondary,Spring Street,297.39,,,,,,,,,,,20065596,NY 295
+211939455,211948364,0,False,residential,Prospect Street,99.289,,,,,,,,,,,20074762,
+211939458,211939455,0,False,secondary,Spring Street,76.102,,,,,,,,,,,20065596,NY 295
+211939458,211939490,0,False,secondary,Spring Street,302.073,,,,,,,,,,,20065596,NY 295
+211939458,211948370,0,False,residential,Grove Street,100.231,,,,,,,,,,,20075892,
+211939490,211948388,0,False,residential,Daley Avenue,38.066,,,,,,,,,,,20074254,
+211939490,211939500,0,False,secondary,Spring Street,161.628,,,,,,,,,,,20065596,NY 295
+211939490,211939458,0,False,secondary,Spring Street,302.073,,,,,,,,,,,20065596,NY 295
+211939500,211939490,0,False,secondary,Spring Street,161.628,,,,,,,,,,,20065596,NY 295
+211939500,211948388,0,False,residential,Locust Street,177.965,,,,,,,,,,,20065949,
+211941018,211871964,0,False,secondary,Hudson Avenue,38.277,,,,,,,,,,,45287081,NY 66
+211941018,211941032,0,False,residential,Hoffman Street,134.425,,,,,,,,,,,20065673,
+211941018,212046188,0,False,secondary,Hudson Avenue,109.02,,,,,,,,,,,45287081,NY 66
+211941032,211969417,0,False,residential,Washington Avenue,195.651,,,,,,,,,,,20067123,
+211941032,211941041,0,False,residential,Hoffman Street,165.3,,,,,,,,,,,20065673,
+211941032,211941018,0,False,residential,Hoffman Street,134.425,,,,,,,,,,,20065673,
+211941041,211941032,0,False,residential,Hoffman Street,165.3,,,,,,,,,,,20065673,
+211941041,211961825,0,False,residential,Woodbridge Avenue,55.843,,,,,,,,,,,20066558,
+211941041,211961809,0,False,residential,Woodbridge Avenue,176.777,,,,,,,,,,,20066558,
+211945437,212027009,0,False,residential,Kinderhook Street,4.783,,,,,,,,,,,20070739,
+211945437,211945450,0,False,residential,Shore Road,138.087,,,,,,,,,,,20065839,
+211945437,211853409,0,False,residential,Kinderhook Street,45.58,,,,,,,,,,,20070739,
+211945450,211961836,0,False,residential,Eaton Avenue,111.903,,,,,,,,,,,20077597,
+211945450,211961825,0,False,residential,Shore Road,337.715,,,,,,,,,,,"[20076437, 20065839]",
+211945450,211945437,0,False,residential,Shore Road,138.087,,,,,,,,,,,20065839,
+211945569,211945584,0,False,residential,Dinnegar Avenue,115.159,,,,,,,,,,,20065846,
+211945569,212119607,0,False,residential,High Street,140.408,,,,,,,,,,,20078071,
+211945569,212119597,0,False,residential,High Street,232.37,,,,,,,,,,,20078071,
+211945584,211945569,0,False,residential,Dinnegar Avenue,115.159,,,,,,,,,,,20065846,
+211948354,211948364,0,False,residential,Locust Street,143.693,,,,,,,,,,,20065949,
+211948354,211965286,0,False,residential,River Street,129.354,,,,,,,,,,,20074954,
+211948364,211948370,0,False,residential,Locust Street,80.882,,,,,,,,,,,20065949,
+211948364,211948354,0,False,residential,Locust Street,143.693,,,,,,,,,,,20065949,
+211948364,211939455,0,False,residential,Prospect Street,99.289,,,,,,,,,,,20074762,
+211948370,211948376,0,False,residential,Locust Street,171.143,,,,,,,,,,,20065949,
+211948370,211948364,0,False,residential,Locust Street,80.882,,,,,,,,,,,20065949,
+211948370,211939458,0,False,residential,Grove Street,100.231,,,,,,,,,,,20075892,
+211948376,211948388,0,False,residential,Locust Street,112.534,,,,,,,,,,,20065949,
+211948376,211948370,0,False,residential,Locust Street,171.143,,,,,,,,,,,20065949,
+211948376,212062820,0,False,residential,Daley Avenue,83.964,,,,,,,,,,,20074257,
+211948388,211939490,0,False,residential,Daley Avenue,38.066,,,,,,,,,,,20074254,
+211948388,211939500,0,False,residential,Locust Street,177.965,,,,,,,,,,,20065949,
+211948388,211948376,0,False,residential,Locust Street,112.534,,,,,,,,,,,20065949,
+211954309,211954312,0,False,residential,Library Place,47.817,,,,,,,,,,,20066215,
+211954309,211954322,0,False,residential,Academy Place,63.273,,,,,,,,,,,20076253,
+211954309,212027018,0,False,residential,"['Kinderhook Street', 'Library Place']",115.435,,,,,,,,,,,"[20070740, 20066215]",
+211954312,211954309,0,False,residential,Library Place,47.817,,,,,,,,,,,20066215,
+211954318,211954322,0,False,residential,Library Place,7.888,,,,,,,,,,,20066216,
+211954322,211954318,0,False,residential,Library Place,7.888,,,,,,,,,,,20066216,
+211954322,211954309,0,False,residential,Academy Place,63.273,,,,,,,,,,,20076253,
+211954322,212086574,0,False,residential,Academy Place,34.864,,,,,,,,,,,20076251,
+211961809,211941041,0,False,residential,Woodbridge Avenue,176.777,,,,,,,,,,,20066558,
+211961809,211998828,0,False,secondary,Church Street,209.973,,,,30 mph,,,,,,,20068666,NY 203
+211961809,211980775,0,False,secondary,Church Street,48.596,,,,30 mph,,,,,,,20068666,NY 203
+211961825,211961836,0,False,residential,Woodbridge Avenue,260.336,,,,,,,,,,,20066558,
+211961825,211941041,0,False,residential,Woodbridge Avenue,55.843,,,,,,,,,,,20066558,
+211961825,211945450,0,False,residential,Shore Road,337.715,,,,,,,,,,,"[20076437, 20065839]",
+211961836,211945450,0,False,residential,Eaton Avenue,111.903,,,,,,,,,,,20077597,
+211961836,211961841,0,False,residential,Woodbridge Avenue,115.446,,,,,,,,,,,20066558,
+211961836,211961825,0,False,residential,Woodbridge Avenue,260.336,,,,,,,,,,,20066558,
+211961841,211961836,0,False,residential,Woodbridge Avenue,115.446,,,,,,,,,,,20066558,
+211961841,212027018,0,False,residential,Kinderhook Street,78.664,,,,,,,,,,,20070739,
+211961841,211853409,0,False,residential,Kinderhook Street,66.629,,,,,,,,,,,20070739,
+211963029,211973184,0,False,secondary,"['State Highway 203', 'Coleman Street']",461.445,,,,,,,,,,,"[20067386, 20066701]",NY 203
+211965286,211965304,0,False,residential,Mill Street,255.259,,,,,,,,,,,20066807,
+211965286,211948354,0,False,residential,River Street,129.354,,,,,,,,,,,20074954,
+211965286,212069432,0,False,residential,River Street,146.593,,,,,,,,,,,20074954,
+211965304,211965286,0,False,residential,Mill Street,255.259,,,,,,,,,,,20066807,
+211965304,211932648,0,False,secondary,Center Street,181.158,,,,,,,yes,,,,"[187973034, 20077875, 187973035]",NY 66
+211965304,212114629,0,False,secondary,Center Street,163.95,,,,,,,,,,,20077875,NY 66
+211969417,211941032,0,False,residential,Washington Avenue,195.651,,,,,,,,,,,20067123,
+211969417,211980775,0,False,secondary,Church Street,111.499,,,,30 mph,,,,,,,20068666,NY 203
+211969417,211973205,0,False,secondary,Church Street,123.172,,,,30 mph,,,,,,,20068666,NY 203
+211973184,211973205,0,False,secondary,Coleman Street,186.784,,,,,,,,,,,20067386,NY 203
+211973184,211963029,0,False,secondary,"['State Highway 203', 'Coleman Street']",461.445,,,,,,,,,,,"[20067386, 20066701]",NY 203
+211973184,212123124,0,False,residential,Payn Avenue,390.938,,,,,,,,,,,20078233,
+211973205,211918747,0,False,secondary,Hudson Avenue,97.983,,,,,,,,,,,45287081,NY 66
+211973205,211973184,0,False,secondary,Coleman Street,186.784,,,,,,,,,,,20067386,NY 203
+211973205,211969417,0,False,secondary,Church Street,123.172,,,,30 mph,,,,,,,20068666,NY 203
+211973205,212036292,0,False,secondary,Hudson Avenue,317.611,,,,30 mph,,,,,,,20072501,NY 66
+211980775,211895702,0,False,residential,Cottage Place,147.472,,,,,,,,,,,20067818,
+211980775,211961809,0,False,secondary,Church Street,48.596,,,,30 mph,,,,,,,20068666,NY 203
+211980775,211969417,0,False,secondary,Church Street,111.499,,,,30 mph,,,,,,,20068666,NY 203
+211994422,211994427,0,False,residential,Jones Avenue,114.006,,,,,,,,,,,20068427,
+211994427,211994431,0,False,residential,Jones Avenue,167.588,,,,,,,,,,,20068427,
+211994427,211994422,0,False,residential,Jones Avenue,114.006,,,,,,,,,,,20068427,
+211994427,212009566,0,False,residential,Cottage Avenue,173.065,,,,,,,,,,,20069305,
+211994431,211994427,0,False,residential,Jones Avenue,167.588,,,,,,,,,,,20068427,
+211994431,212079770,0,False,residential,Austerlitz Street,200.944,,,,,,,,,,,20075757,
+211994431,212079751,0,False,residential,Austerlitz Street,136.6,,,,,,,,,,,20075757,
+211998828,211998830,0,False,secondary,Church Street,11.59,,,,30 mph,,,,,,,20068666,NY 203
+211998828,212015286,0,False,residential,Houseman Avenue,140.083,,,,,,,,,,,20069792,
+211998828,211961809,0,False,secondary,Church Street,209.973,,,,30 mph,,,,,,,20068666,NY 203
+211998830,211998828,0,False,secondary,Church Street,11.59,,,,30 mph,,,,,,,20068666,NY 203
+211998830,212015377,0,False,residential,Houseman Avenue,134.111,,,,,,,,,,,20069798,
+211999546,211999576,0,False,residential,Cemetery Road,194.808,,,,,,,,,,,20068711,
+211999546,212046200,0,False,residential,Hudson Avenue,64.378,,,,,,,,,,,45287080,
+211999546,212046188,0,False,residential,Hudson Avenue,121.912,,,,,,,,,,,45287080,
+211999576,211999546,0,False,residential,Cemetery Road,194.808,,,,,,,,,,,20068711,
+212009566,211994427,0,False,residential,Cottage Avenue,173.065,,,,,,,,,,,20069305,
+212009566,212079751,0,False,residential,Austerlitz Street,150.512,,,,,,,,,,,20075757,
+212015286,211998828,0,False,residential,Houseman Avenue,140.083,,,,,,,,,,,20069792,
+212015286,212015377,0,False,residential,1st Street,10.066,,,,,,,,,,,20071760,
+212015286,211866276,0,False,residential,1st Street,84.38,,,,,,,,,,,20071760,
+212015337,211896804,0,False,residential,Houseman Avenue,20.452,,,,,,,,,,,20069796,
+212015337,212024210,0,False,secondary,Hudson Avenue,156.012,,,,30 mph,,,,,,,20072501,NY 66
+212015337,212046174,0,False,secondary,Hudson Avenue,35.704,,,,30 mph,,,,,,,20072501,NY 66
+212015377,212015286,0,False,residential,1st Street,10.066,,,,,,,,,,,20071760,
+212015377,211998830,0,False,residential,Houseman Avenue,134.111,,,,,,,,,,,20069798,
+212024210,212046182,0,False,secondary,Hudson Avenue,108.341,,,,30 mph,,,,,,,20072501,NY 66
+212024210,212024220,0,False,residential,Bushnell Avenue,166.595,,,,,,,,,,,20070534,
+212024210,212015337,0,False,secondary,Hudson Avenue,156.012,,,,30 mph,,,,,,,20072501,NY 66
+212024220,212024223,0,False,residential,Bushnell Avenue,110.064,,,,,,,,,,,20070534,
+212024220,212036281,0,False,residential,Moore Avenue,233.626,,,,,,,,,,,20071541,
+212024220,212024210,0,False,residential,Bushnell Avenue,166.595,,,,,,,,,,,20070534,
+212024223,212024220,0,False,residential,Bushnell Avenue,110.064,,,,,,,,,,,20070534,
+212025714,211892546,0,False,secondary,Main Street,182.781,,,,,,,,,,,20070670,NY 66
+212025714,212069429,0,True,secondary,,29.523,,,,,,,,,,roundabout,45287079,NY 66
+212027009,211945437,0,False,residential,Kinderhook Street,4.783,,,,,,,,,,,20070739,
+212027018,212027027,0,False,residential,Kinderhook Street,207.234,,,,,,,,,,,20070739,
+212027018,211961841,0,False,residential,Kinderhook Street,78.664,,,,,,,,,,,20070739,
+212027018,211954309,0,False,residential,"['Kinderhook Street', 'Library Place']",115.435,,,,,,,,,,,"[20070740, 20066215]",
+212027027,212056699,0,False,residential,Jail Street,60.15,,,,,,,,,,,20073605,
+212027027,212027030,0,False,residential,Kinderhook Street,147.221,,,,,,,,,,,20070739,
+212027027,212027018,0,False,residential,Kinderhook Street,207.234,,,,,,,,,,,20070739,
+212027030,575197369,0,False,residential,Kinderhook Street,187.69,,,,,,,,,,,20070739,
+212027030,212027027,0,False,residential,Kinderhook Street,147.221,,,,,,,,,,,20070739,
+212027030,211892540,0,False,residential,Park Row,122.57,,,,,,,,,,,20072124,
+212036281,212036284,0,False,residential,Moore Avenue,70.928,,,,,,,,,,,20071541,
+212036281,212024220,0,False,residential,Moore Avenue,233.626,,,,,,,,,,,20071541,
+212036281,212036292,0,False,residential,Moore Avenue,168.295,,,,,,,,,,,20071546,
+212036284,212036281,0,False,residential,Moore Avenue,70.928,,,,,,,,,,,20071541,
+212036292,211860815,0,False,secondary,Hudson Avenue,68.704,,,,30 mph,,,,,,,20072501,NY 66
+212036292,212036281,0,False,residential,Moore Avenue,168.295,,,,,,,,,,,20071546,
+212036292,211973205,0,False,secondary,Hudson Avenue,317.611,,,,30 mph,,,,,,,20072501,NY 66
+212042488,211892540,0,False,residential,Park Row,27.563,,,,,,,,,,,20072124,
+212042488,211892546,0,False,secondary,"['Main Street', 'Hudson Avenue']",50.542,,,,,,,,,,,"[45287081, 20070670]",NY 66
+212042488,211935400,0,False,secondary,Hudson Avenue,51.715,,,,,,,,,,,45287081,NY 66
+212042488,4053651636,0,False,unclassified,,28.743,,,,,,,,,,,402968588,
+212046172,212046174,0,False,secondary,Hudson Avenue,180.266,,,,30 mph,,,,,,,20072501,NY 66
+212046172,212123124,0,False,residential,Payn Avenue,589.585,,,,,,,,,,,20078233,
+212046172,212123081,0,False,residential,Payn Avenue,112.864,,,,,,,,,,,20078233,
+212046174,211896801,0,False,residential,Dardess Drive,20.432,,,,,,,,,,,20075669,
+212046174,212015337,0,False,secondary,Hudson Avenue,35.704,,,,30 mph,,,,,,,20072501,NY 66
+212046174,212046172,0,False,secondary,Hudson Avenue,180.266,,,,30 mph,,,,,,,20072501,NY 66
+212046182,211860815,0,False,secondary,Hudson Avenue,47.561,,,,30 mph,,,,,,,20072501,NY 66
+212046182,212024210,0,False,secondary,Hudson Avenue,108.341,,,,30 mph,,,,,,,20072501,NY 66
+212046182,212123124,0,False,residential,Elm Street,147.305,,,,,,,,,,,20078522,
+212046188,211999546,0,False,residential,Hudson Avenue,121.912,,,,,,,,,,,45287080,
+212046188,212046204,0,False,secondary,Hudson Avenue,218.019,,,,,,,,,,,45287081,NY 66
+212046188,211941018,0,False,secondary,Hudson Avenue,109.02,,,,,,,,,,,45287081,NY 66
+212046200,212063619,0,False,residential,Maiden Lane,122.028,,,,,,,,,,,20074341,
+212046200,212046204,0,False,residential,Hudson Avenue,34.672,,,,,,,,,,,45287080,
+212046200,211999546,0,False,residential,Hudson Avenue,64.378,,,,,,,,,,,45287080,
+212046204,212046206,0,False,secondary,Hudson Avenue,85.468,,,,,,,,,,,45287081,NY 66
+212046204,212046200,0,False,residential,Hudson Avenue,34.672,,,,,,,,,,,45287080,
+212046204,212046188,0,False,secondary,Hudson Avenue,218.019,,,,,,,,,,,45287081,NY 66
+212046206,211935400,0,False,secondary,Hudson Avenue,50.5,,,,,,,,,,,45287081,NY 66
+212046206,212046204,0,False,secondary,Hudson Avenue,85.468,,,,,,,,,,,45287081,NY 66
+212046206,212070781,0,False,residential,School Street,162.945,,,,,,,,,,,20075123,
+212047506,212047508,0,False,residential,Wentworth Court,55.042,,,,,,,,,,,20072644,
+212047508,212047506,0,False,residential,Wentworth Court,55.042,,,,,,,,,,,20072644,
+212047508,211870446,0,False,residential,Murray Street,73.361,,,,,,,,,,,20078284,
+212047508,212124357,0,False,residential,Murray Street,32.985,,,,,,,,,,,20078284,
+212056699,212027027,0,False,residential,Jail Street,60.15,,,,,,,,,,,20073605,
+212062820,211948376,0,False,residential,Daley Avenue,83.964,,,,,,,,,,,20074257,
+212063619,212046200,0,False,residential,Maiden Lane,122.028,,,,,,,,,,,20074341,
+212069429,212069432,0,False,residential,River Street,13.205,,,,,,,,,,,20074954,
+212069429,212114629,0,True,secondary,,26.62,,,,,,,,,,roundabout,45287079,NY 66
+212069432,212069429,0,False,residential,River Street,13.205,,,,,,,,,,,20074954,
+212069432,211965286,0,False,residential,River Street,146.593,,,,,,,,,,,20074954,
+212069432,211935428,0,False,residential,Austerlitz Street,165.247,,,,,,,,,,,20075757,
+212070781,212070783,0,False,residential,School Street,5.947,,,,,,,,,,,20075118,
+212070781,212046206,0,False,residential,School Street,162.945,,,,,,,,,,,20075123,
+212070781,211935414,0,False,residential,Thomas Street,267.563,,,,,,,,,,,20077364,
+212070783,212070781,0,False,residential,School Street,5.947,,,,,,,,,,,20075118,
+212070783,212070789,0,False,residential,School Street,47.385,,,,,,,,,,,20075120,
+212070783,212101957,0,False,residential,Thomas Street,172.284,,,,,,,,,,,20077362,
+212070789,212070783,0,False,residential,School Street,47.385,,,,,,,,,,,20075120,
+212078584,211896801,0,False,residential,Dardess Drive,256.81,,,,,,,,,,,20075669,
+212079751,211994431,0,False,residential,Austerlitz Street,136.6,,,,,,,,,,,20075757,
+212079751,212009566,0,False,residential,Austerlitz Street,150.512,,,,,,,,,,,20075757,
+212079770,211935428,0,False,residential,Austerlitz Street,10.933,,,,,,,,,,,20075757,
+212079770,211994431,0,False,residential,Austerlitz Street,200.944,,,,,,,,,,,20075757,
+212079770,212119607,0,False,residential,High Street,284.583,,,,,,,,,,,20078071,
+212086208,212086226,0,False,residential,Brookside Avenue,238.162,,,,,,,,,,,20076234,
+212086226,211932648,0,False,secondary,Center Street,110.016,,,,,,,,,,,187973034,NY 66
+212086226,212086208,0,False,residential,Brookside Avenue,238.162,,,,,,,,,,,20076234,
+212086574,211954322,0,False,residential,Academy Place,34.864,,,,,,,,,,,20076251,
+212086574,212086574,0,False,residential,Academy Place,82.539,,,,,,,,,,,20076256,
+212086574,212086574,1,False,residential,Academy Place,82.539,,,,,,,,,,,20076256,
+212101957,212070783,0,False,residential,Thomas Street,172.284,,,,,,,,,,,20077362,
+212114629,211965304,0,False,secondary,Center Street,163.95,,,,,,,,,,,20077875,NY 66
+212114629,575197369,0,True,secondary,,13.015,,,,,,,,,,roundabout,67968822,NY 66
+212119597,211945569,0,False,residential,High Street,232.37,,,,,,,,,,,20078071,
+212119607,212079770,0,False,residential,High Street,284.583,,,,,,,,,,,20078071,
+212119607,211945569,0,False,residential,High Street,140.408,,,,,,,,,,,20078071,
+212119607,212124375,0,False,residential,Murray Street,34.143,,,,,,,,,,,20078285,
+212119607,211870446,0,False,residential,Line Street,105.667,,,,,,,,,,,20078361,
+212123081,212046172,0,False,residential,Payn Avenue,112.864,,,,,,,,,,,20078233,
+212123124,212046182,0,False,residential,Elm Street,147.305,,,,,,,,,,,20078522,
+212123124,211973184,0,False,residential,Payn Avenue,390.938,,,,,,,,,,,20078233,
+212123124,212046172,0,False,residential,Payn Avenue,589.585,,,,,,,,,,,20078233,
+212123124,212130811,0,False,residential,Elm Street,257.786,,,,,,,,,,,20078522,
+212124347,211870446,0,False,residential,Murray Street,71.322,,,,,,,,,,,20078284,
+212124357,211935420,0,False,residential,Murray Street,16.368,,,,,,,,,,,20078284,
+212124357,212047508,0,False,residential,Murray Street,32.985,,,,,,,,,,,20078284,
+212124357,212124391,0,False,residential,Murray Street,48.801,,,,,,,,,,,20078287,
+212124375,212119607,0,False,residential,Murray Street,34.143,,,,,,,,,,,20078285,
+212124391,212124357,0,False,residential,Murray Street,48.801,,,,,,,,,,,20078287,
+212130811,212123124,0,False,residential,Elm Street,257.786,,,,,,,,,,,20078522,
+575197369,212027030,0,False,residential,Kinderhook Street,187.69,,,,,,,,,,,20070739,
+575197369,212025714,0,True,secondary,,10.028,,,,,,,,,,roundabout,67968822,NY 66
+1986062894,211892540,0,False,residential,Depot Square,247.237,,,,,,,,,,,20068358,
+4053651636,211935414,0,False,secondary,Railroad Avenue,195.307,,,,,,,,,,,20065427,NY 295
+4053651636,211935400,0,False,secondary,Railroad Avenue,47.541,,,,,,,,,,,20065427,NY 295
+4053651636,212042488,0,False,unclassified,,28.743,,,,,,,,,,,402968588,

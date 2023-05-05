@@ -1,0 +1,203 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+212522050,212544522,0,False,secondary,North Street,88.755,,,,,,,,,,,20106104,NY 36
+212522050,212544520,0,False,secondary,North Street,10.336,,,,,,,,,,,20106104,NY 36
+212522050,212522066,0,False,residential,Pioneer Road,266.933,,,,,,,,,,,20103855,
+212522066,212544524,0,False,primary,Main Street,173.692,,,,,,,,,,,49641100,NY 5;NY 36
+212522066,212557709,0,False,primary,Main Street,295.454,,,,,,,,,,,49641100,NY 5;NY 36
+212522066,212522050,0,False,residential,Pioneer Road,266.933,,,,,,,,,,,20103855,
+212522066,212583403,0,False,residential,Center Street,234.128,,,,,,,,,,,"[139780196, 20109087]",
+212522075,212544516,0,False,secondary,North Street,22.229,,,,,,,,,,,20106104,NY 36
+212522075,212522081,0,False,residential,Lehigh Street,489.058,,,,,,,,,,,20103856,
+212522075,212544511,0,False,secondary,North Street,312.826,,,,,,,,,,,20106104,NY 36
+212522081,212522075,0,False,residential,Lehigh Street,489.058,,,,,,,,,,,20103856,
+212524618,212524621,0,False,residential,,28.473,,,,,,,,,,,20104049,
+212524618,212556239,0,False,secondary,Leicester Street,58.621,,,,,,,,,,,20107378,NY 36
+212524618,212535320,0,False,secondary,Leicester Street,152.792,,,,,,,,,,,20107378,NY 36
+212524621,212524618,0,False,residential,,28.473,,,,,,,,,,,20104049,
+212524621,212524628,0,False,residential,,243.247,,,,,,,,,,,20104049,
+212524621,212535335,0,False,residential,,117.299,,,,,,,,,,,20105003,
+212524628,212524631,0,False,residential,,92.25,,,,,,,,,,,20104049,
+212524628,212535320,0,False,residential,,188.49,,,,,,,,,,,20104996,
+212524628,212524621,0,False,residential,,243.247,,,,,,,,,,,20104049,
+212524631,212524628,0,False,residential,,92.25,,,,,,,,,,,20104049,
+212524631,212524654,0,False,residential,,186.6,,,,,,,,,,,20104049,
+212524631,212524654,1,False,residential,,69.084,,,,,,,,,,,20104049,
+212524654,212524631,0,False,residential,,69.084,,,,,,,,,,,20104049,
+212524654,212524631,1,False,residential,,186.6,,,,,,,,,,,20104049,
+212524654,212535317,0,False,residential,,325.983,,,,,,,,,,,20104992,
+212535317,212535320,0,False,secondary,Leicester Street,47.119,,,,,,,,,,,20107378,NY 36
+212535317,212524654,0,False,residential,,325.983,,,,,,,,,,,20104992,
+212535317,212553039,0,False,secondary,"['Leicester Road', 'Leicester Street']",289.99,,,,,,,,,,,"[20107378, 20107019]",NY 36
+212535320,212524628,0,False,residential,,188.49,,,,,,,,,,,20104996,
+212535320,212535317,0,False,secondary,Leicester Street,47.119,,,,,,,,,,,20107378,NY 36
+212535320,212524618,0,False,secondary,Leicester Street,152.792,,,,,,,,,,,20107378,NY 36
+212535335,212535335,0,False,residential,,844.361,,,,,,,,,,,20105002,
+212535335,212535335,1,False,residential,,844.361,,,,,,,,,,,20105002,
+212535335,212524621,0,False,residential,,117.299,,,,,,,,,,,20105003,
+212535436,212565319,0,False,primary,State Street,200.831,,,,,,,,,,,20109844,NY 5
+212535436,212583403,0,False,residential,"['Technology Place', 'Maple Street']",719.273,,,,,,,,,,,"[20106634, 20109471]",
+212535436,4081912292,0,False,primary,State Street,294.176,,,,,,,,,,,20109844,NY 5
+212544104,212565179,0,False,residential,Sand Hill Road,265.119,,,,,,,,,,,20107963,
+212544104,212583403,0,False,residential,Center Street,328.666,,,,,,,,,,,139780196,
+212544505,3725027296,0,False,secondary,North Street,127.68,,,,,,,,,,,20106104,NY 36
+212544505,212574749,0,False,residential,Pamela Way,170.856,,,,,,,,,,,20108566,
+212544507,3725027275,0,False,secondary,North Street,112.551,,,,,,,,,,,20106104,NY 36
+212544507,3725027296,0,False,secondary,North Street,281.436,,,,,,,,,,,20106104,NY 36
+212544507,212550289,0,False,residential,Mc Kenzie Place,257.963,,,,,,,,,,,20108569,
+212544511,212554311,0,False,residential,Jennifer Lane,136.071,,,,,,,,,,,20107220,
+212544511,212522075,0,False,secondary,North Street,312.826,,,,,,,,,,,20106104,NY 36
+212544511,3725027275,0,False,secondary,North Street,204.898,,,,,,,,,,,20106104,NY 36
+212544516,212522075,0,False,secondary,North Street,22.229,,,,,,,,,,,20106104,NY 36
+212544516,212544520,0,False,secondary,North Street,197.834,,,,,,,,,,,20106104,NY 36
+212544516,212544829,0,False,residential,Mill Street,409.442,,,,,,,,,,,20106140,
+212544520,212522050,0,False,secondary,North Street,10.336,,,,,,,,,,,20106104,NY 36
+212544520,212544516,0,False,secondary,North Street,197.834,,,,,,,,,,,20106104,NY 36
+212544520,212562972,0,False,residential,Church Street,389.345,,,,,,,,,,,20109071,
+212544522,212522050,0,False,secondary,North Street,88.755,,,,,,,,,,,20106104,NY 36
+212544522,212580886,0,False,residential,Jane Street,348.15,,,,,,,,,,,20109206,
+212544522,4081912290,0,False,secondary,North Street,90.405,,,,,,,,,,,20106104,NY 36
+212544524,212522066,0,False,primary,Main Street,173.692,,,,,,,,,,,49641100,NY 5;NY 36
+212544524,4081912292,0,True,primary,,32.678,,,,,,,,,,roundabout,406073176,
+212544829,212544516,0,False,residential,Mill Street,409.442,,,,,,,,,,,20106140,
+212544829,212557709,0,False,residential,Spring Street,277.651,,,,,,,,,,,20107522,
+212545206,212545207,0,False,residential,Park Place,210.081,,,,,,,,,,,20106189,
+212545206,212562980,0,False,residential,Iroquois Road,156.707,,,,,,,,,,,20107836,
+212545207,212545209,0,False,residential,Park Place,255.553,,,,,,,,,,,20106189,
+212545207,212545206,0,False,residential,Park Place,210.081,,,,,,,,,,,20106189,
+212545207,212545655,0,False,residential,East Avenue,134.704,,,,,,,,,,,20106238,
+212545209,212545212,0,False,residential,Park Place,127.485,,,,,,,,,,,20106189,
+212545209,212545207,0,False,residential,Park Place,255.553,,,,,,,,,,,20106189,
+212545209,212559346,0,False,residential,Stanton Parkway,168.342,,,,,,,,,,,168754082,
+212545212,212545209,0,False,residential,Park Place,127.485,,,,,,,,,,,20106189,
+212545212,212545215,0,False,residential,Park Place,151.053,,,,,,,,,,,20106189,
+212545212,212570321,0,False,residential,Weitzel Lane,121.105,,,,,,,,,,,20108265,
+212545212,212563882,0,False,residential,South Drive,269.072,,,,,,,,,,,20109236,
+212545215,212545217,0,False,residential,Park Place,186.325,,,,,,,,,,,20106189,
+212545215,212545212,0,False,residential,Park Place,151.053,,,,,,,,,,,20106189,
+212545215,212551218,0,False,residential,Keenan Place,194.522,,,,,,,,,,,20106810,
+212545217,212545220,0,False,residential,Park Place,102.581,,,,,,,,,,,20106189,
+212545217,212545215,0,False,residential,Park Place,186.325,,,,,,,,,,,20106189,
+212545217,212551218,0,False,residential,Clover Street,269.241,,,,,,,,,,,20109546,
+212545220,212545577,0,False,primary,State Street,34.089,,,,,,,,,,,20109844,NY 5
+212545220,212545217,0,False,residential,Park Place,102.581,,,,,,,,,,,20106189,
+212545220,212551135,0,False,primary,State Street,159.061,,,,,,,,,,,20109844,NY 5
+212545577,212545580,0,False,residential,Ellen Place,229.433,,,,,,,,,,,20106231,
+212545577,212545220,0,False,primary,State Street,34.089,,,,,,,,,,,20109844,NY 5
+212545577,212586627,0,False,primary,State Street,112.664,,,,,,,,,,,20109844,NY 5
+212545580,212545577,0,False,residential,Ellen Place,229.433,,,,,,,,,,,20106231,
+212545645,212545647,0,False,residential,East Avenue,205.527,,,,,,,,,,,20106238,
+212545645,4081912291,0,False,residential,East Avenue,95.331,,,,,,,,,,,20106238,
+212545645,212555224,0,False,residential,Crescent Parkway,346.684,,,,,,,,,,,20107277,
+212545647,212545652,0,False,residential,East Avenue,100.537,,,,,,,,,,,20106238,
+212545647,212545645,0,False,residential,East Avenue,205.527,,,,,,,,,,,20106238,
+212545647,212580886,0,False,residential,Jersey Street,107.326,,,,,,,,,,,20108933,
+212545652,212545655,0,False,residential,East Avenue,133.802,,,,,,,,,,,20106238,
+212545652,212545647,0,False,residential,East Avenue,100.537,,,,,,,,,,,20106238,
+212545652,212555224,0,False,residential,Grand Avenue,162.877,,,,,,,,,,,20107887,
+212545655,212545207,0,False,residential,East Avenue,134.704,,,,,,,,,,,20106238,
+212545655,212545652,0,False,residential,East Avenue,133.802,,,,,,,,,,,20106238,
+212545655,212559346,0,False,residential,Armstrong Place,225.845,,,,,,,,,,,20107631,
+212548610,212548610,0,False,residential,Woodbine Circle,69.91,,,,,,,,,,,"[20106536, 20106535]",
+212548610,212548610,1,False,residential,Woodbine Circle,69.91,,,,,,,,,,,"[20106536, 20106535]",
+212548610,212551218,0,False,residential,Clover Street,74.605,,,,,,,,,,,20109546,
+212550289,212544507,0,False,residential,Mc Kenzie Place,257.963,,,,,,,,,,,20108569,
+212551130,212551135,0,False,residential,Brown Road,324.333,,,,,,,,,,,20106795,
+212551135,212551130,0,False,residential,Brown Road,324.333,,,,,,,,,,,20106795,
+212551135,212545220,0,False,primary,State Street,159.061,,,,,,,,,,,20109844,NY 5
+212551211,212574688,0,False,residential,Philmore Avenue,427.687,,,,,,,,,,,20108562,
+212551211,212586627,0,False,primary,State Street,119.693,,,,,,,,,,,20109844,NY 5
+212551211,212565319,0,False,primary,State Street,112.209,,,,,,,,,,,20109844,NY 5
+212551211,212551218,0,False,residential,Keenan Place,103.439,,,,,,,,,,,20106810,
+212551218,212545215,0,False,residential,Keenan Place,194.522,,,,,,,,,,,20106810,
+212551218,212551211,0,False,residential,Keenan Place,103.439,,,,,,,,,,,20106810,
+212551218,212548610,0,False,residential,Clover Street,74.605,,,,,,,,,,,20109546,
+212551218,212545217,0,False,residential,Clover Street,269.241,,,,,,,,,,,20109546,
+212553038,212553039,0,False,secondary,Leicester Road,107.458,,,,,,,,,,,20107019,NY 36
+212553038,212565179,0,False,residential,Idas Lane,480.675,,,,,,,,,,,20108028,
+212553039,212553038,0,False,secondary,Leicester Road,107.458,,,,,,,,,,,20107019,NY 36
+212553039,212535317,0,False,secondary,"['Leicester Road', 'Leicester Street']",289.99,,,,,,,,,,,"[20107378, 20107019]",NY 36
+212554311,212544511,0,False,residential,Jennifer Lane,136.071,,,,,,,,,,,20107220,
+212554311,212554320,0,False,residential,North Meadow Drive,244.061,,,,,,,,,,,20107173,
+212554311,212554328,0,False,residential,North Meadow Drive,261.04,,,,,,,,,,,20107173,
+212554320,212554311,0,False,residential,North Meadow Drive,244.061,,,,,,,,,,,20107173,
+212554328,212554311,0,False,residential,North Meadow Drive,261.04,,,,,,,,,,,20107173,
+212555224,212563866,0,False,residential,Grand Avenue,53.087,,,,,,,,,,,20107887,
+212555224,212545652,0,False,residential,Grand Avenue,162.877,,,,,,,,,,,20107887,
+212555224,212545645,0,False,residential,Crescent Parkway,346.684,,,,,,,,,,,20107277,
+212556239,212524618,0,False,secondary,Leicester Street,58.621,,,,,,,,,,,20107378,NY 36
+212556239,212580963,0,False,residential,West Street,76.82,,,,,,,,,,,20108944,
+212556239,212556246,0,False,secondary,Leicester Street,132.444,,,,,,,,,,,20107378,NY 36
+212556246,212573555,0,False,primary,Main Street,767.534,,,,,,,,,,,20108493,NY 5
+212556246,212556239,0,False,secondary,Leicester Street,132.444,,,,,,,,,,,20107378,NY 36
+212556246,212557709,0,False,primary,Main Street,145.467,,,,,,,,,,,49641100,NY 5;NY 36
+212557709,212522066,0,False,primary,Main Street,295.454,,,,,,,,,,,49641100,NY 5;NY 36
+212557709,212544829,0,False,residential,Spring Street,277.651,,,,,,,,,,,20107522,
+212557709,212556246,0,False,primary,Main Street,145.467,,,,,,,,,,,49641100,NY 5;NY 36
+212559346,212545209,0,False,residential,Stanton Parkway,168.342,,,,,,,,,,,168754082,
+212559346,212545655,0,False,residential,Armstrong Place,225.845,,,,,,,,,,,20107631,
+212559346,212563866,0,False,residential,Stanton Parkway,97.163,,,,,,,,,,,20108366,
+212562972,212562976,0,False,residential,Iroquois Road,197.381,,,,,,,,,,,20107836,
+212562972,212580886,0,False,residential,Jersey Street,105.731,,,,,,,,,,,20108933,
+212562972,212544520,0,False,residential,Church Street,389.345,,,,,,,,,,,20109071,
+212562976,212562980,0,False,residential,Iroquois Road,11.348,,,,,,,,,,,20107836,
+212562976,212562972,0,False,residential,Iroquois Road,197.381,,,,,,,,,,,20107836,
+212562976,212568553,0,False,residential,Hardwood Avenue,121.875,,,,,,,,,,,20108160,
+212562980,212545206,0,False,residential,Iroquois Road,156.707,,,,,,,,,,,20107836,
+212562980,212562976,0,False,residential,Iroquois Road,11.348,,,,,,,,,,,20107836,
+212562980,212589353,0,False,residential,Fairview Place,98.229,,,,,,,,,,,20109447,
+212563866,212563875,0,False,residential,Grand Avenue,39.193,,,,,,,,,,,20107887,
+212563866,212555224,0,False,residential,Grand Avenue,53.087,,,,,,,,,,,20107887,
+212563866,212559346,0,False,residential,Stanton Parkway,97.163,,,,,,,,,,,20108366,
+212563875,212563882,0,False,residential,Grand Avenue,69.206,,,,,,,,,,,20107887,
+212563875,212563882,1,False,residential,Grand Circle,134.983,,,,,,,,,,,20108749,
+212563875,212563866,0,False,residential,Grand Avenue,39.193,,,,,,,,,,,20107887,
+212563882,212563875,0,False,residential,Grand Avenue,69.206,,,,,,,,,,,20107887,
+212563882,212563875,1,False,residential,Grand Circle,134.983,,,,,,,,,,,20108749,
+212563882,212545212,0,False,residential,South Drive,269.072,,,,,,,,,,,20109236,
+212565179,212544104,0,False,residential,Sand Hill Road,265.119,,,,,,,,,,,20107963,
+212565179,212553038,0,False,residential,Idas Lane,480.675,,,,,,,,,,,20108028,
+212565319,212565324,0,False,residential,Hambro Park,180.867,,,,,,,,,,,20107970,
+212565319,212551211,0,False,primary,State Street,112.209,,,,,,,,,,,20109844,NY 5
+212565319,212535436,0,False,primary,State Street,200.831,,,,,,,,,,,20109844,NY 5
+212565324,212565319,0,False,residential,Hambro Park,180.867,,,,,,,,,,,20107970,
+212568553,212562976,0,False,residential,Hardwood Avenue,121.875,,,,,,,,,,,20108160,
+212570321,212570324,0,False,residential,Weitzel Lane,90.967,,,,,,,,,,,20108265,
+212570321,212574098,0,False,residential,Country Club Drive,59.699,,,,,,,,,,,20108522,
+212570321,212545212,0,False,residential,Weitzel Lane,121.105,,,,,,,,,,,20108265,
+212570324,212570321,0,False,residential,Weitzel Lane,90.967,,,,,,,,,,,20108265,
+212573555,212556246,0,False,primary,Main Street,767.534,,,,,,,,,,,20108493,NY 5
+212573555,212590240,0,False,residential,Borst Cottage Lane,31.725,,,,,,,,,,,20109525,
+212574098,212570321,0,False,residential,Country Club Drive,59.699,,,,,,,,,,,20108522,
+212574688,212551211,0,False,residential,Philmore Avenue,427.687,,,,,,,,,,,20108562,
+212574749,212574749,0,False,residential,"['Pamela Way', 'Stoney Oak Circle']",546.865,,,,,,,,,,,"[20109641, 20108566]",
+212574749,212574749,1,False,residential,"['Pamela Way', 'Stoney Oak Circle']",546.865,,,,,,,,,,,"[20109641, 20108566]",
+212574749,212544505,0,False,residential,Pamela Way,170.856,,,,,,,,,,,20108566,
+212580886,212545647,0,False,residential,Jersey Street,107.326,,,,,,,,,,,20108933,
+212580886,212562972,0,False,residential,Jersey Street,105.731,,,,,,,,,,,20108933,
+212580886,212544522,0,False,residential,Jane Street,348.15,,,,,,,,,,,20109206,
+212580963,212556239,0,False,residential,West Street,76.82,,,,,,,,,,,20108944,
+212583403,212535436,0,False,residential,"['Technology Place', 'Maple Street']",719.273,,,,,,,,,,,"[20106634, 20109471]",
+212583403,212544104,0,False,residential,Center Street,328.666,,,,,,,,,,,139780196,
+212583403,212522066,0,False,residential,Center Street,234.128,,,,,,,,,,,"[139780196, 20109087]",
+212586627,212586629,0,False,residential,Cameron Place,214.196,,,,,,,,,,,20109273,
+212586627,212545577,0,False,primary,State Street,112.664,,,,,,,,,,,20109844,NY 5
+212586627,212551211,0,False,primary,State Street,119.693,,,,,,,,,,,20109844,NY 5
+212586629,212586627,0,False,residential,Cameron Place,214.196,,,,,,,,,,,20109273,
+212589353,212562980,0,False,residential,Fairview Place,98.229,,,,,,,,,,,20109447,
+212590240,212573555,0,False,residential,Borst Cottage Lane,31.725,,,,,,,,,,,20109525,
+3725027275,212544507,0,False,secondary,North Street,112.551,,,,,,,,,,,20106104,NY 36
+3725027275,212544511,0,False,secondary,North Street,204.898,,,,,,,,,,,20106104,NY 36
+3725027275,3725027278,0,False,unclassified,Freeman Drive,496.704,,,,,,,,,,,368651500,
+3725027278,3725027275,0,False,unclassified,Freeman Drive,496.704,,,,,,,,,,,368651500,
+3725027296,212544505,0,False,secondary,North Street,127.68,,,,,,,,,,,20106104,NY 36
+3725027296,212544507,0,False,secondary,North Street,281.436,,,,,,,,,,,20106104,NY 36
+3725027296,3725027298,0,False,unclassified,Hinsdale Drive,188.144,,,,,,,,,,,368651503,
+3725027298,3725027298,0,False,unclassified,Hinsdale Drive,253.479,,,,,,,,,,,368651503,
+3725027298,3725027298,1,False,unclassified,Hinsdale Drive,253.479,,,,,,,,,,,368651503,
+3725027298,3725027296,0,False,unclassified,Hinsdale Drive,188.144,,,,,,,,,,,368651503,
+4081912290,212544522,0,False,secondary,North Street,90.405,,,,,,,,,,,20106104,NY 36
+4081912290,212544524,0,True,primary,,18.998,,,,,,,,,,roundabout,406073178,
+4081912291,212545645,0,False,residential,East Avenue,95.331,,,,,,,,,,,20106238,
+4081912291,4081912290,0,True,primary,,18.616,,,,,,,,,,roundabout,406073177,
+4081912292,212535436,0,False,primary,State Street,294.176,,,,,,,,,,,20109844,NY 5
+4081912292,4081912291,0,True,primary,,18.235,,,,,,,,,,roundabout,406073177,

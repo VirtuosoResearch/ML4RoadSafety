@@ -1,0 +1,487 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+103011516,103047039,0,False,residential,Della Lane,41.023,,,,,,,,,,,11557126,
+103011516,103047022,0,False,residential,Della Lane,80.566,,,,,,,,,,,11557126,
+103011516,103011517,0,False,residential,Graystone Drive,253.652,,,,,,,,,,,11552880,
+103011517,103011516,0,False,residential,Graystone Drive,253.652,,,,,,,,,,,11552880,
+103011517,1801936318,0,False,residential,Winner Lane,46.349,,,,,,,,,,,11560644,
+103011517,103049245,0,False,residential,Winner Lane,105.262,,,,,,,,,,,11560644,
+103011652,103046967,0,False,residential,"['Della Lane', 'Stouffer Avenue']",464.52,,,,,,,,,,,"[11552892, 11557126]",
+103011652,1801936258,0,False,primary,North Main Street,241.167,2,,,,,,,,,,11557025,US 40 Alternate
+103011652,103045917,0,False,primary,North Main Street,101.35,2,,,,,,,,,,11557025,US 40 Alternate
+103014963,103033592,0,False,residential,Appletown Road,293.362,,,,,,,,,,,11561027,
+103014963,103021875,0,False,residential,Appletown Road,83.024,,,,,,,,,,,11561027,
+103014963,1801935212,0,False,residential,,277.598,,,,,,,,,,,11553254,
+103021874,103021875,0,False,unclassified,,43.463,,,,,,,,,,,11554200,
+103021874,103033590,0,False,primary,Rohrersville Road,377.426,2,,,,,,,,,,115240906,MD 67
+103021875,103021874,0,False,unclassified,,43.463,,,,,,,,,,,11554200,
+103021875,103014963,0,False,residential,Appletown Road,83.024,,,,,,,,,,,11561027,
+103021875,103082161,0,False,residential,Appletown Road,167.513,,,,,,,,,,,11561027,
+103026416,103026431,0,False,residential,,271.502,,,,,,,,,,,11554710,
+103026431,103026416,0,False,residential,,271.502,,,,,,,,,,,11554710,
+103031204,103031222,0,False,residential,,440.389,,,,,,,,,,,11555234,
+103031204,103037969,0,False,secondary,Lappans Road,1132.293,,,,,,,yes,,,,"[277933140, 277933141, 11556198]",MD 68
+103031222,103031204,0,False,residential,,440.389,,,,,,,,,,,11555234,
+103033590,103033592,0,False,residential,King Road,57.053,,,,,,,,,,,11555608,
+103033590,103053082,0,False,primary,Rohrersville Road,666.654,2,,,,,,,,,,115240906,MD 67
+103033590,103021874,0,False,primary,Rohrersville Road,377.426,2,,,,,,,,,,115240906,MD 67
+103033592,103033590,0,False,residential,King Road,57.053,,,,,,,,,,,11555608,
+103033592,103014963,0,False,residential,Appletown Road,293.362,,,,,,,,,,,11561027,
+103033592,103053076,0,False,residential,Appletown Road,669.501,,,,,,,,,,,11561027,
+103035933,103035935,0,False,residential,Boone Place,100.212,,,,,,,,,,,11555987,
+103035933,103045917,0,False,residential,Park Lane,180.275,,,,,,,,,,,11559234,
+103035933,103066473,0,False,residential,Park Lane,48.128,,,,,,,,,,,11559234,
+103035935,103035933,0,False,residential,Boone Place,100.212,,,,,,,,,,,11555987,
+103035935,103045914,0,False,primary,North Main Street,29.278,2,,,,,,,,,,11557025,US 40 Alternate
+103035935,103045906,0,False,primary,North Main Street,48.962,2,,,,,,,,,,11557025,US 40 Alternate
+103037969,103031204,0,False,secondary,Lappans Road,1132.293,,,,,,,yes,,,,"[277933140, 277933141, 11556198]",MD 68
+103037969,103038258,0,False,secondary,Lappans Road,851.421,,,,,,,,,,,11556204,MD 68
+103037969,103062966,0,False,residential,Rustic Lane,184.826,,,,,,,,,,,11558813,
+103038204,3759083398,0,False,secondary,Lappans Road,1101.168,,,,,,,,,,,11556204,MD 68
+103038204,4042818272,0,False,primary,Old National Pike,1296.605,2,,,,,,,,,,11557022,US 40 Alternate
+103038204,103045936,0,False,primary,North Main Street,668.273,2,,,,,,,,,,11557025,US 40 Alternate
+103038204,1801936612,0,False,unclassified,Chase Six Boulevard,121.335,,,,,,,,,,,51829752,
+103038218,3759083398,0,False,secondary,Lappans Road,71.607,,,,,,,,,,,11556204,MD 68
+103038218,2823703931,0,False,secondary,Lappans Road,123.703,,,,,,,,,,,11556204,MD 68
+103038218,103062127,0,False,residential,Monroe Road,1182.261,,,,,,,,,,,"[11558701, 437868727]",
+103038237,103038246,0,False,secondary,Lappans Road,532.741,,,,,,,,,,,11556204,MD 68
+103038237,2823703931,0,False,secondary,Lappans Road,704.41,,,,,,,,,,,11556204,MD 68
+103038237,103038269,0,False,residential,Lappans Road,257.024,,,,,,,,,,,11556205,
+103038246,103038258,0,False,secondary,Lappans Road,520.614,,,,,,,,,,,11556204,MD 68
+103038246,103038237,0,False,secondary,Lappans Road,532.741,,,,,,,,,,,11556204,MD 68
+103038246,103045844,0,False,residential,Mill Point Road,1642.566,,,,,,,,,,,11560939,
+103038246,2142173622,0,False,residential,Mill Point Road,764.99,,,,,,,,,,,11560939,
+103038258,103037969,0,False,secondary,Lappans Road,851.421,,,,,,,,,,,11556204,MD 68
+103038258,103038246,0,False,secondary,Lappans Road,520.614,,,,,,,,,,,11556204,MD 68
+103038258,103057625,0,False,residential,Barnes Road,1767.518,,,,,,,yes,,,,"[467622701, 11558213, 467622702]",
+103038269,103038237,0,False,residential,Lappans Road,257.024,,,,,,,,,,,11556205,
+103038405,103040867,0,False,primary,Old National Pike,318.316,2,,,,,,,,,,11557009,US 40 Alternate
+103038471,103047260,0,False,residential,Young Avenue,366.822,,,,,,,,,,,11557138,
+103040764,103040786,0,False,residential,Mousetown Road,1065.949,,,,,,,yes,,,,"[11556465, 169018682, 169018681]",
+103040764,103045705,0,False,unclassified,Gilardi Road,1368.414,,,,,,,,,,,11558369,
+103040764,103059444,0,False,"['unclassified', 'residential']",Gilardi Road,2003.985,,,,,,,,,,,"[169018672, 169018673]",
+103040786,1801936133,0,False,unclassified,Mariah Furnace Road,655.313,,,,,,,,,,,11558798,
+103040786,103040798,0,False,residential,Mousetown Road,692.262,,,,,,,,,,,169018682,
+103040786,103040764,0,False,residential,Mousetown Road,1065.949,,,,,,,yes,,,,"[169018681, 169018682, 11556465]",
+103040798,103058283,0,False,primary,South Main Street,449.316,2,,,,,,,,,,11558225,US 40 Alternate
+103040798,103045720,0,False,primary,South Main Street,486.16,2,,,,,,,,,,11558225,US 40 Alternate
+103040798,103040786,0,False,residential,Mousetown Road,692.262,,,,,,,,,,,169018682,
+103040867,103045606,0,False,primary,Old National Pike,550.294,2,,,,,,,,,,11557009,US 40 Alternate
+103040867,103038405,0,False,primary,Old National Pike,318.316,2,,,,,,,,,,11557009,US 40 Alternate
+103040930,103045749,0,False,primary,Old National Pike,898.499,2,,,,,,,,,,467620390,US 40 Alternate
+103041044,5074125791,0,False,unclassified,Rodeo Drive,543.553,,,,,,,,,,,11556489,
+103041768,103047260,0,False,residential,"['Monument Drive', 'Young Avenue']",298.216,,,,,,,,,,,"[11557138, 11556564]",
+103041768,103073416,0,False,secondary,Potomac Street,189.973,,,,,,,,,,,11559909,MD 34
+103041768,103073412,0,False,secondary,Potomac Street,129.004,,,,,,,,,,,11559909,MD 34
+103042096,103042097,0,False,residential,Weldon Circle,36.407,,,,,,,,,,,11556593,
+103042096,103050553,0,False,residential,Weldon Drive,95.871,,,,,,,,,,,11558275,
+103042096,103058681,0,False,residential,Weldon Drive,165.595,,,,,,,,,,,11558275,
+103042097,103042096,0,False,residential,Weldon Circle,36.407,,,,,,,,,,,11556593,
+103043592,103043610,0,False,unclassified,Roxbury Road,1327.173,,,,,,,yes,,,,"[467620387, 11556803, 467620388]",
+103043592,103045875,0,False,primary,Old National Pike,281.801,2,,,,,,yes,,,,"[524148689, 467620389, 467620390]",US 40 Alternate
+103043592,5101216008,0,False,primary,Old National Pike,111.845,2,,,,,,,,,,524148689,US 40 Alternate
+103043610,103043612,0,False,unclassified,Roxbury Road,391.342,,,,,,,,,,,467620387,
+103043610,103045134,0,False,residential,Bettys Avenue,429.827,,,,,,,,,,,11556954,
+103043610,103043592,0,False,unclassified,Roxbury Road,1327.173,,,,,,,yes,,,,"[467620387, 467620388, 11556803]",
+103043612,103043610,0,False,unclassified,Roxbury Road,391.342,,,,,,,,,,,467620387,
+103043612,103058178,0,False,residential,Barnes Road,692.937,,,,,,,,,,,467622702,
+103043685,1801936051,0,False,secondary,Potomac Street,88.455,,,,,,,,,,,11559909,MD 34
+103043685,103043689,0,False,secondary,Saint Paul Street,93.212,,,,,,,,,,,11556806,
+103043685,103045901,0,False,primary,North Main Street,148.449,2,,,,,,,,,,11557025,US 40 Alternate
+103043685,103058286,0,False,primary,South Main Street,180.437,2,,,,,,,,,,11558225,US 40 Alternate
+103043689,103043691,0,False,secondary,Saint Paul Street,81.518,,,,,,,,,,,11556806,
+103043689,103043685,0,False,secondary,Saint Paul Street,93.212,,,,,,,,,,,11556806,
+103043689,103054155,0,False,residential,Center Street,148.346,,,,,,,,,,,11561005,
+103043691,103047208,0,False,secondary,Saint Paul Street,296.814,,,,,,,,,,,11556806,
+103043691,103043689,0,False,secondary,Saint Paul Street,81.518,,,,,,,,,,,11556806,
+103043691,103058283,0,False,residential,High Street,353.772,,,,,,,,,,,11561118,
+103043828,103043880,0,False,residential,Clevelandtown Road,1623.25,,,,,,,,,,,11556815,
+103043828,103046315,0,False,tertiary,Reno Monument Road,1003.528,,,,,,,,,,,410955612,
+103043880,103043897,0,False,residential,Clevelandtown Road,457.911,,,,,,,,,,,11556815,
+103043880,103043828,0,False,residential,Clevelandtown Road,1623.25,,,,,,,,,,,11556815,
+103043880,103053067,0,False,residential,Netz Road,304.799,,,,,,,,,,,11557674,
+103043897,103043880,0,False,residential,Clevelandtown Road,457.911,,,,,,,,,,,11556815,
+103043897,103045705,0,False,primary,Old National Pike,268.049,2,,,,,,,,,,11557009,US 40 Alternate
+103043897,103045606,0,False,primary,Old National Pike,840.253,2,,,,,,,,,,11557009,US 40 Alternate
+103045134,103045135,0,False,residential,Bettys Avenue,389.342,,,,,,,,,,,11556954,
+103045134,103043610,0,False,residential,Bettys Avenue,429.827,,,,,,,,,,,11556954,
+103045134,103053157,0,False,residential,Maggies Court,453.844,,,,,,,,,,,11559356,
+103045135,103045134,0,False,residential,Bettys Avenue,389.342,,,,,,,,,,,11556954,
+103045606,103043897,0,False,primary,Old National Pike,840.253,2,,,,,,,,,,11557009,US 40 Alternate
+103045606,103040867,0,False,primary,Old National Pike,550.294,2,,,,,,,,,,11557009,US 40 Alternate
+103045705,103045720,0,False,primary,Old National Pike,700.306,2,,,,,,,,,,11557009,US 40 Alternate
+103045705,103043897,0,False,primary,Old National Pike,268.049,2,,,,,,,,,,11557009,US 40 Alternate
+103045705,103040764,0,False,unclassified,Gilardi Road,1368.414,,,,,,,,,,,11558369,
+103045720,103045705,0,False,primary,Old National Pike,700.306,2,,,,,,,,,,11557009,US 40 Alternate
+103045720,103040798,0,False,primary,South Main Street,486.16,2,,,,,,,,,,11558225,US 40 Alternate
+103045720,103076041,0,False,primary,Rohrersville Road,622.212,2,,,,,,,,,,115240906,MD 67
+103045749,103064532,0,False,unclassified,Toms Road,256.823,,,,,,,,,,,11559041,
+103045749,103040930,0,False,primary,Old National Pike,898.499,2,,,,,,,,,,467620390,US 40 Alternate
+103045749,103045875,0,False,primary,Old National Pike,659.371,2,,,,,,,,,,467620390,US 40 Alternate
+103045844,3729943327,0,False,primary,Old National Pike,984.501,2,,,,,,,,,,11557022,US 40 Alternate
+103045844,4042818272,0,False,primary,Old National Pike,612.685,2,,,,,,,,,,11557022,US 40 Alternate
+103045844,103081533,0,False,residential,Mill Point Road,819.409,,,,,,,,,,,11560939,
+103045844,103038246,0,False,residential,Mill Point Road,1642.566,,,,,,,,,,,11560939,
+103045854,103045867,0,False,primary,Old National Pike,478.795,2,,,,,,yes,,,,"[524148689, 524148690, 11557022]",US 40 Alternate
+103045854,3729943327,0,False,primary,Old National Pike,274.279,2,,,,,,,,,,11557022,US 40 Alternate
+103045854,103049033,0,False,tertiary,Benevola Church Road,210.478,,,,,,,,,,,11557318,
+103045854,103057625,0,False,residential,Benevola Newcomer Road,2028.172,,,,,,,yes,,,,"[467622699, 467622700, 11558142]",
+103045867,103051953,0,False,unclassified,Friendship Lane,176.874,,,,,,,,,,,11557583,
+103045867,5101216008,0,False,primary,Old National Pike,42.246,2,,,,,,,,,,524148689,US 40 Alternate
+103045867,103045854,0,False,primary,Old National Pike,478.795,2,,,,,,yes,,,,"[524148689, 524148690, 11557022]",US 40 Alternate
+103045875,103081427,0,False,residential,Marcia Court,174.593,,,,,,,,,,,11560929,
+103045875,103045749,0,False,primary,Old National Pike,659.371,2,,,,,,,,,,467620390,US 40 Alternate
+103045875,103043592,0,False,primary,Old National Pike,281.801,2,,,,,,yes,,,,"[524148689, 467620389, 467620390]",US 40 Alternate
+103045901,103045906,0,False,primary,North Main Street,72.132,2,,,,,,,,,,11557025,US 40 Alternate
+103045901,103054155,0,False,residential,Lakin Avenue,93.516,,,,,,,,,,,11557772,
+103045901,103043685,0,False,primary,North Main Street,148.449,2,,,,,,,,,,11557025,US 40 Alternate
+103045906,103035935,0,False,primary,North Main Street,48.962,2,,,,,,,,,,11557025,US 40 Alternate
+103045906,103045901,0,False,primary,North Main Street,72.132,2,,,,,,,,,,11557025,US 40 Alternate
+103045906,103066473,0,False,residential,Park Drive,98.812,,,,,,,,,,,351678904,
+103045914,103045917,0,False,primary,North Main Street,91.548,2,,,,,,,,,,11557025,US 40 Alternate
+103045914,103035935,0,False,primary,North Main Street,29.278,2,,,,,,,,,,11557025,US 40 Alternate
+103045914,103049935,0,False,residential,Ford Avenue,94.249,,,,,,,,,,,11557405,
+103045917,103045914,0,False,primary,North Main Street,91.548,2,,,,,,,,,,11557025,US 40 Alternate
+103045917,103081492,0,False,tertiary,Orchard Drive,100.765,,,,,,,,,,,11560937,
+103045917,103011652,0,False,primary,North Main Street,101.35,2,,,,,,,,,,11557025,US 40 Alternate
+103045917,103035933,0,False,residential,Park Lane,180.275,,,,,,,,,,,11559234,
+103045924,103045927,0,False,primary,North Main Street,54.755,2,,,,,,,,,,11557025,US 40 Alternate
+103045924,1801936258,0,False,primary,North Main Street,23.674,2,,,,,,,,,,11557025,US 40 Alternate
+103045924,103065567,0,False,secondary,Maple Avenue,33.649,,,,,,,,,,,11559139,MD 66
+103045927,103045936,0,False,primary,North Main Street,204.872,2,,,,,,,,,,11557025,US 40 Alternate
+103045927,103045924,0,False,primary,North Main Street,54.755,2,,,,,,,,,,11557025,US 40 Alternate
+103045927,103046967,0,False,residential,Thomas LNE,148.172,,,,,,,,,,,11560992,
+103045936,103045927,0,False,primary,North Main Street,204.872,2,,,,,,,,,,11557025,US 40 Alternate
+103045936,103062300,0,False,residential,Knode Circle,62.368,,,,,,,,,,,11558718,
+103045936,103038204,0,False,primary,North Main Street,668.273,2,,,,,,,,,,11557025,US 40 Alternate
+103045987,1801936258,0,False,residential,School House Court,151.32,,,,,,,,,,,11557033,
+103045987,103071599,0,False,residential,Center Street,48.202,,,,,,,,,,,11561005,
+103045987,1801936214,0,False,residential,School House Court,179.022,,,,,,,,,,,11557033,
+103045987,103077594,0,False,residential,Center Street,173.558,,,,,,,,,,,11561005,
+103046315,103043828,0,False,tertiary,Reno Monument Road,1003.528,,,,,,,,,,,410955612,
+103046967,103081711,0,False,residential,Della Lane,2.417,,,,,,,,,,,11557126,
+103046967,103011652,0,False,residential,"['Della Lane', 'Stouffer Avenue']",464.52,,,,,,,,,,,"[11552892, 11557126]",
+103046967,103045927,0,False,residential,Thomas LNE,148.172,,,,,,,,,,,11560992,
+103046969,103081711,0,False,residential,Della Lane,232.857,,,,,,,,,,,11557126,
+103046969,103049245,0,False,residential,Winner Lane,92.307,,,,,,,,,,,11560644,
+103046969,103047022,0,False,residential,Della Lane,299.512,,,,,,,,,,,11557126,
+103047022,103011516,0,False,residential,Della Lane,80.566,,,,,,,,,,,11557126,
+103047022,103049245,0,False,residential,David Drive,242.014,,,,,,,,,,,11557342,
+103047022,103046969,0,False,residential,Della Lane,299.512,,,,,,,,,,,11557126,
+103047039,103011516,0,False,residential,Della Lane,41.023,,,,,,,,,,,11557126,
+103047208,103054155,0,False,residential,Lakin Avenue,317.378,,,,,,,,,,,11557772,
+103047208,103047212,0,False,secondary,Saint Paul Street,183.164,,,,,,,,,,,11556806,
+103047208,103043691,0,False,secondary,Saint Paul Street,296.814,,,,,,,,,,,11556806,
+103047212,103047217,0,False,secondary,Saint Paul Street,183.071,,,,,,,,,,,11556806,
+103047212,103047208,0,False,secondary,Saint Paul Street,183.164,,,,,,,,,,,11556806,
+103047212,103049935,0,False,residential,Ford Avenue,442.779,,,,,,,,,,,11557405,
+103047217,103047212,0,False,secondary,Saint Paul Street,183.071,,,,,,,,,,,11556806,
+103047217,103047219,0,False,secondary,Saint Paul Street,47.221,,,,,,,,,,,11556806,
+103047217,103060499,0,False,tertiary,Orchard Drive,75.567,,,,,,,,,,,11560937,
+103047219,103047223,0,False,secondary,Saint Paul Street,95.743,,,,,,,,,,,11556806,
+103047219,103047217,0,False,secondary,Saint Paul Street,47.221,,,,,,,,,,,11556806,
+103047219,103083685,0,False,residential,Valley View Court,171.986,,,,,,,,,,,11561262,
+103047223,103047219,0,False,secondary,Saint Paul Street,95.743,,,,,,,,,,,11556806,
+103047223,103075349,0,False,secondary,Boonsboro Mountain Road,548.665,,,,,,,,,,,11560212,
+103047223,103053173,0,False,tertiary,Mountain Laurel Road,1628.474,,,,,,,,,,,11560793,
+103047260,103038471,0,False,residential,Young Avenue,366.822,,,,,,,,,,,11557138,
+103047260,103041768,0,False,residential,"['Young Avenue', 'Monument Drive']",298.216,,,,,,,,,,,"[11557138, 11556564]",
+103047260,103073416,0,False,residential,Sinnesin Drive,112.232,,,,,,,,,,,11559910,
+103049016,103049059,0,False,tertiary,Benevola Church Road,1222.385,,,,,,,,,,,11557318,
+103049016,103049033,0,False,tertiary,Benevola Church Road,1134.281,,,,,,,,,,,11557318,
+103049016,103051151,0,False,unclassified,Toms Road,1609.667,,,,,,,yes,,,,"[11559041, 181050242, 181050219, 181050223, 181050238]",
+103049033,103049016,0,False,tertiary,Benevola Church Road,1134.281,,,,,,,,,,,11557318,
+103049033,103045854,0,False,tertiary,Benevola Church Road,210.478,,,,,,,,,,,11557318,
+103049033,3729943327,0,False,unclassified,Toll Pass Lane,274.426,,,,,,,,,,,11559233,
+103049059,103049016,0,False,tertiary,Benevola Church Road,1222.385,,,,,,,,,,,11557318,
+103049059,103063834,0,False,unclassified,Fahrneys Church Road,649.796,,,,,,,,,,,11561060,
+103049245,103047022,0,False,residential,David Drive,242.014,,,,,,,,,,,11557342,
+103049245,103046969,0,False,residential,Winner Lane,92.307,,,,,,,,,,,11560644,
+103049245,103049248,0,False,residential,David Drive,202.923,,,,,,,,,,,11557342,
+103049245,103011517,0,False,residential,Winner Lane,105.262,,,,,,,,,,,11560644,
+103049248,103049245,0,False,residential,David Drive,202.923,,,,,,,,,,,11557342,
+103049248,103081703,0,False,residential,Kerns Drive,76.16,,,,,,,,,,,11560951,
+103049248,103063361,0,False,residential,Kerns Drive,45.786,,,,,,,,,,,11560951,
+103049496,103063834,0,False,secondary,Mapleville Road,362.759,,,,,,,,,,,11558964,MD 66
+103049578,103063822,0,False,secondary,Mapleville Road,252.16,,,,,,,,,,,11558964,MD 66
+103049578,5074125658,0,False,unclassified,Jessie Lane,433.431,,,,,,,,,,,11557371,
+103049578,5074125791,0,False,secondary,Mapleville Road,737.559,,,,,,,,,,,11558964,MD 66
+103049935,103045914,0,False,residential,Ford Avenue,94.249,,,,,,,,,,,11557405,
+103049935,103081492,0,False,residential,Center Street,95.537,,,,,,,,,,,11561005,
+103049935,103047212,0,False,residential,Ford Avenue,442.779,,,,,,,,,,,11557405,
+103049935,103054155,0,False,residential,Center Street,149.062,,,,,,,,,,,11561005,
+103050548,103065787,0,False,residential,Carroll Avenue,94.853,,,,,,,,,,,11560490,
+103050548,103050553,0,False,residential,Lanafield Circle,89.494,,,,,,,,,,,11557462,
+103050548,103050585,0,False,residential,Lanafield Circle,96.081,,,,,,,,,,,11557462,
+103050548,103055093,0,False,residential,Lanafield Drive,136.368,,,,,,,,,,,11557892,
+103050553,103042096,0,False,residential,Weldon Drive,95.871,,,,,,,,,,,11558275,
+103050553,103050585,0,False,residential,Lanafield Circle,493.318,,,,,,,,,,,11557462,
+103050553,103050548,0,False,residential,Lanafield Circle,89.494,,,,,,,,,,,11557462,
+103050585,103050548,0,False,residential,Lanafield Circle,96.081,,,,,,,,,,,11557462,
+103050585,103050553,0,False,residential,Lanafield Circle,493.318,,,,,,,,,,,11557462,
+103050585,103063372,0,False,residential,Lanafield Court,92.511,,,,,,,,,,,11558871,
+103051151,103051166,0,False,residential,Irma Court,199.371,,,,,,,,,,,11557503,
+103051151,103049016,0,False,unclassified,Toms Road,1609.667,,,,,,,yes,,,,"[11559041, 181050242, 181050219, 181050223, 181050238]",
+103051151,103064532,0,False,unclassified,Toms Road,144.883,,,,,,,,,,,11559041,
+103051166,103051151,0,False,residential,Irma Court,199.371,,,,,,,,,,,11557503,
+103051953,103045867,0,False,unclassified,Friendship Lane,176.874,,,,,,,,,,,11557583,
+103052346,103052355,0,False,secondary,Shepherdstown Pike,464.364,,,,,,,,,,,281012746,MD 34
+103052355,103073412,0,False,secondary,Potomac Street,401.541,,,,,,,,,,,11559909,MD 34
+103052355,103052346,0,False,secondary,Shepherdstown Pike,464.364,,,,,,,,,,,281012746,MD 34
+103053067,103053076,0,False,residential,Netz Road,585.608,,,,,,,,,,,11557674,
+103053067,103043880,0,False,residential,Netz Road,304.799,,,,,,,,,,,11557674,
+103053067,103070175,0,False,residential,Castle Rock Drive,187.574,,,,,,,,,,,11559559,
+103053076,103053082,0,False,residential,Netz Road,147.303,,,,,,,,,,,11557674,
+103053076,103053067,0,False,residential,Netz Road,585.608,,,,,,,,,,,11557674,
+103053076,1194869344,0,False,residential,Appletown Road,382.346,,,,,,,,,,,11561027,
+103053076,103033592,0,False,residential,Appletown Road,669.501,,,,,,,,,,,11561027,
+103053082,103033590,0,False,primary,Rohrersville Road,666.654,2,,,,,,,,,,115240906,MD 67
+103053082,103053076,0,False,residential,Netz Road,147.303,,,,,,,,,,,11557674,
+103053082,103076041,0,False,primary,Rohrersville Road,488.426,2,,,,,,,,,,115240906,MD 67
+103053157,103053162,0,False,residential,Jans Court,70.579,,,,,,,,,,,11557686,
+103053157,103058753,0,False,residential,Maggies Court,46.106,,,,,,,,,,,11559356,
+103053157,103045134,0,False,residential,Maggies Court,453.844,,,,,,,,,,,11559356,
+103053162,103053157,0,False,residential,Jans Court,70.579,,,,,,,,,,,11557686,
+103053173,103053174,0,False,residential,El Rancho Road,301.724,,,,,,,,,,,11557688,
+103053173,103080039,0,False,tertiary,Mountain Laurel Road,582.791,,,,,,,,,,,11560793,
+103053173,103047223,0,False,tertiary,Mountain Laurel Road,1628.474,,,,,,,,,,,11560793,
+103053174,103053173,0,False,residential,El Rancho Road,301.724,,,,,,,,,,,11557688,
+103053174,103055093,0,False,secondary,"['Maple Avenue', 'Mapleville Road']",860.268,,,,,,,,,,,"[11559139, 11558964]",MD 66
+103053174,103063822,0,False,secondary,Mapleville Road,1032.177,,,,,,,,,,,11558964,MD 66
+103053242,5058794583,0,False,residential,Hillcrest Road,12.824,,,,,,,,,,,11557699,
+103053242,103053245,0,False,residential,Hillcrest Road,181.8,,,,,,,,,,,11557699,
+103053242,5058794578,0,False,residential,Meadow Lane,91.787,,,,,,,,,,,11558980,
+103053245,103053242,0,False,residential,Hillcrest Road,181.8,,,,,,,,,,,11557699,
+103053245,103053247,0,False,residential,"['Mountain View Drive', 'Hillcrest Road']",254.974,,,,,,,,,,,"[11557699, 11558975]",
+103053245,5058794574,0,False,residential,Sunrise Circle,68.8,,,,,,,,,,,11558202,
+103053247,5058794566,0,False,residential,Blue Ridge Drive,146.201,,,,,,,,,,,11558918,
+103053247,103053245,0,False,residential,"['Mountain View Drive', 'Hillcrest Road']",254.974,,,,,,,,,,,"[11557699, 11558975]",
+103054155,103047208,0,False,residential,Lakin Avenue,317.378,,,,,,,,,,,11557772,
+103054155,103045901,0,False,residential,Lakin Avenue,93.516,,,,,,,,,,,11557772,
+103054155,103049935,0,False,residential,Center Street,149.062,,,,,,,,,,,11561005,
+103054155,103043689,0,False,residential,Center Street,148.346,,,,,,,,,,,11561005,
+103055093,103050548,0,False,residential,Lanafield Drive,136.368,,,,,,,,,,,11557892,
+103055093,103053174,0,False,secondary,"['Maple Avenue', 'Mapleville Road']",860.268,,,,,,,,,,,"[11559139, 11558964]",MD 66
+103055093,103065507,0,False,secondary,Maple Avenue,397.606,,,,,,,,,,,11559139,MD 66
+103057625,103058178,0,False,residential,Barnes Road,97.696,,,,,,,,,,,467622702,
+103057625,103045854,0,False,residential,Benevola Newcomer Road,2028.172,,,,,,,yes,,,,"[467622699, 467622700, 11558142]",
+103057625,103038258,0,False,residential,Barnes Road,1767.518,,,,,,,yes,,,,"[11558213, 467622701, 467622702]",
+103058178,103057625,0,False,residential,Barnes Road,97.696,,,,,,,,,,,467622702,
+103058178,103063666,0,False,residential,Swinging Bridge Road,470.703,,,,,,,,,,,11558931,
+103058178,103043612,0,False,residential,Barnes Road,692.937,,,,,,,,,,,467622702,
+103058206,1801936598,0,False,residential,Apple Drive,563.335,,,,,,,,,,,11558214,
+103058206,103059444,0,False,secondary,Boonsboro Mountain Road,70.362,,,,,,,,,,,11560212,
+103058206,103075349,0,False,secondary,Boonsboro Mountain Road,782.952,,,,,,,,,,,11560212,
+103058283,103058286,0,False,primary,South Main Street,62.411,2,,,,,,,,,,11558225,US 40 Alternate
+103058283,103040798,0,False,primary,South Main Street,449.316,2,,,,,,,,,,11558225,US 40 Alternate
+103058283,103043691,0,False,residential,High Street,353.772,,,,,,,,,,,11561118,
+103058286,1801935858,0,False,residential,Cemetary Lane,91.327,,,,,,,,,,,169018670,
+103058286,103043685,0,False,primary,South Main Street,180.437,2,,,,,,,,,,11558225,US 40 Alternate
+103058286,103058283,0,False,primary,South Main Street,62.411,2,,,,,,,,,,11558225,US 40 Alternate
+103058355,103072938,0,False,residential,Stone Wall Drive,334.438,,,,,,,,,,,11559853,
+103058681,103061960,0,False,residential,Southgate Drive,168.741,,,,,,,,,,,11558655,
+103058681,103066003,0,False,residential,Weldon Court,37.935,,,,,,,,,,,11559177,
+103058681,103042096,0,False,residential,Weldon Drive,165.595,,,,,,,,,,,11558275,
+103058753,103058755,0,False,residential,Kays Court,86.205,,,,,,,,,,,11558282,
+103058753,103067465,0,False,residential,Maggies Court,143.89,,,,,,,,,,,11559356,
+103058753,103053157,0,False,residential,Maggies Court,46.106,,,,,,,,,,,11559356,
+103058755,103058753,0,False,residential,Kays Court,86.205,,,,,,,,,,,11558282,
+103059444,103075311,0,False,secondary,Boonsboro Mountain Road,1268.756,,,,,,,,,,,11560212,
+103059444,103058206,0,False,secondary,Boonsboro Mountain Road,70.362,,,,,,,,,,,11560212,
+103059444,103040764,0,False,"['unclassified', 'residential']",Gilardi Road,2003.985,,,,,,,,,,,"[169018672, 169018673]",
+103060499,1801936317,0,False,residential,Orchard Manor Drive,269.259,,,,,,,,,,,11558482,
+103060499,103047217,0,False,tertiary,Orchard Drive,75.567,,,,,,,,,,,11560937,
+103060499,103081492,0,False,tertiary,Orchard Drive,495.199,,,,,,,,,,,11560937,
+103061960,103058681,0,False,residential,Southgate Drive,168.741,,,,,,,,,,,11558655,
+103061960,103077769,0,False,residential,Carroll Avenue,23.306,,,,,,,,,,,11560490,
+103061960,103065787,0,False,residential,Carroll Avenue,96.26,,,,,,,,,,,11560490,
+103062127,4356473532,0,False,residential,Monroe Road,1000.319,,,,,,,,,,,11558698,
+103062127,103038218,0,False,residential,Monroe Road,1182.261,,,,,,,,,,,"[11558701, 437868727]",
+103062300,103045936,0,False,residential,Knode Circle,62.368,,,,,,,,,,,11558718,
+103062300,103062310,0,False,residential,Knode Circle,127.013,,,,,,,,,,,11558718,
+103062300,103062310,1,False,residential,Knode Circle,98.957,,,,,,,,,,,11558721,
+103062300,103062316,0,False,residential,Knode Circle,285.298,,,,,,,,,,,11558719,
+103062310,103062300,0,False,residential,Knode Circle,127.013,,,,,,,,,,,11558718,
+103062310,103062300,1,False,residential,Knode Circle,98.957,,,,,,,,,,,11558721,
+103062310,103062316,0,False,residential,Knode Circle,126.346,,,,,,,,,,,11558721,
+103062316,103062340,0,False,residential,Knode Circle,61.582,,,,,,,,,,,11558721,
+103062316,103062300,0,False,residential,Knode Circle,285.298,,,,,,,,,,,11558719,
+103062316,103062310,0,False,residential,Knode Circle,126.346,,,,,,,,,,,11558721,
+103062340,103062316,0,False,residential,Knode Circle,61.582,,,,,,,,,,,11558721,
+103062340,103065567,0,False,secondary,Maple Avenue,320.37,,,,,,,,,,,11559139,MD 66
+103062340,103065507,0,False,secondary,Maple Avenue,226.755,,,,,,,,,,,11559139,MD 66
+103062966,103037969,0,False,residential,Rustic Lane,184.826,,,,,,,,,,,11558813,
+103063361,1801936173,0,False,residential,Thompson Court,210.049,,,,,,,,,,,11558870,
+103063361,103049248,0,False,residential,Kerns Drive,45.786,,,,,,,,,,,11560951,
+103063361,103081711,0,False,residential,Kerns Drive,94.199,,,,,,,,,,,11560951,
+103063372,103050585,0,False,residential,Lanafield Court,92.511,,,,,,,,,,,11558871,
+103063666,103058178,0,False,residential,Swinging Bridge Road,470.703,,,,,,,,,,,11558931,
+103063822,103049578,0,False,secondary,Mapleville Road,252.16,,,,,,,,,,,11558964,MD 66
+103063822,103053174,0,False,secondary,Mapleville Road,1032.177,,,,,,,,,,,11558964,MD 66
+103063822,103081533,0,False,residential,Mill Point Road,1148.717,,,,,,,,,,,11560939,
+103063822,103080039,0,False,residential,Keadle Road,1127.738,,,,,,,,,,,175680194,
+103063834,5074125791,0,False,secondary,Mapleville Road,404.092,,,,,,,,,,,11558964,MD 66
+103063834,103049496,0,False,secondary,Mapleville Road,362.759,,,,,,,,,,,11558964,MD 66
+103063834,103049059,0,False,unclassified,Fahrneys Church Road,649.796,,,,,,,,,,,11561060,
+103064532,103051151,0,False,unclassified,Toms Road,144.883,,,,,,,,,,,11559041,
+103064532,103045749,0,False,unclassified,Toms Road,256.823,,,,,,,,,,,11559041,
+103065507,103055093,0,False,secondary,Maple Avenue,397.606,,,,,,,,,,,11559139,MD 66
+103065507,103062340,0,False,secondary,Maple Avenue,226.755,,,,,,,,,,,11559139,MD 66
+103065507,103071599,0,False,residential,Campus Avenue,1069.545,,,,,,,,,,,11559718,
+103065567,103062340,0,False,secondary,Maple Avenue,320.37,,,,,,,,,,,11559139,MD 66
+103065567,103071599,0,False,residential,Campus Avenue,156.176,,,,,,,,,,,11559718,
+103065567,103045924,0,False,secondary,Maple Avenue,33.649,,,,,,,,,,,11559139,MD 66
+103065787,103065789,0,False,residential,Carroll Court,83.254,,,,,,,,,,,11559161,
+103065787,103061960,0,False,residential,Carroll Avenue,96.26,,,,,,,,,,,11560490,
+103065787,103050548,0,False,residential,Carroll Avenue,94.853,,,,,,,,,,,11560490,
+103065789,103065787,0,False,residential,Carroll Court,83.254,,,,,,,,,,,11559161,
+103066003,103058681,0,False,residential,Weldon Court,37.935,,,,,,,,,,,11559177,
+103066466,103066470,0,False,residential,Park Lane,47.188,,,,,,,,,,,11559234,
+103066466,103076472,0,False,residential,McKeldin Drive,139.438,,,,,,,,,,,11560301,
+103066466,1801936051,0,False,residential,Park Lane,120.037,,,,,,,,,,,11559234,
+103066470,103066473,0,False,residential,Park Lane,55.608,,,,,,,,,,,11559234,
+103066470,103066466,0,False,residential,Park Lane,47.188,,,,,,,,,,,11559234,
+103066470,1801936076,0,False,residential,Park Drive,146.585,,,,,,,,,,,"[11560547, 11560550]",
+103066473,103066470,0,False,residential,Park Lane,55.608,,,,,,,,,,,11559234,
+103066473,103045906,0,False,residential,Park Drive,98.812,,,,,,,,,,,351678904,
+103066473,103035933,0,False,residential,Park Lane,48.128,,,,,,,,,,,11559234,
+103067465,103058753,0,False,residential,Maggies Court,143.89,,,,,,,,,,,11559356,
+103067709,1801936076,0,False,residential,Park View Drive,83.89,,,,,,,,,,,11559378,
+103070175,103053067,0,False,residential,Castle Rock Drive,187.574,,,,,,,,,,,11559559,
+103071599,103065567,0,False,residential,Campus Avenue,156.176,,,,,,,,,,,11559718,
+103071599,103045987,0,False,residential,Center Street,48.202,,,,,,,,,,,11561005,
+103071599,103065507,0,False,residential,Campus Avenue,1069.545,,,,,,,,,,,11559718,
+103072938,103058355,0,False,residential,Stone Wall Drive,334.438,,,,,,,,,,,11559853,
+103072938,103081843,0,False,residential,Overlook Drive,228.303,,,,,,,,,,,11560965,
+103072938,103081827,0,False,residential,Overlook Drive,425.957,,,,,,,,,,,11560965,
+103073412,103041768,0,False,secondary,Potomac Street,129.004,,,,,,,,,,,11559909,MD 34
+103073412,103052355,0,False,secondary,Potomac Street,401.541,,,,,,,,,,,11559909,MD 34
+103073416,103073419,0,False,secondary,Potomac Street,223.188,,,,,,,,,,,11559909,MD 34
+103073416,103041768,0,False,secondary,Potomac Street,189.973,,,,,,,,,,,11559909,MD 34
+103073416,103047260,0,False,residential,Sinnesin Drive,112.232,,,,,,,,,,,11559910,
+103073419,1801936051,0,False,secondary,Potomac Street,142.595,,,,,,,,,,,11559909,MD 34
+103073419,103073416,0,False,secondary,Potomac Street,223.188,,,,,,,,,,,11559909,MD 34
+103073419,103076472,0,False,residential,Park Drive,117.971,,,,,,,,,,,11560547,
+103075311,103059444,0,False,secondary,Boonsboro Mountain Road,1268.756,,,,,,,,,,,11560212,
+103075349,103058206,0,False,secondary,Boonsboro Mountain Road,782.952,,,,,,,,,,,11560212,
+103075349,103047223,0,False,secondary,Boonsboro Mountain Road,548.665,,,,,,,,,,,11560212,
+103075349,103083708,0,False,residential,Valley View Court,223.371,,,,,,,,,,,11561265,
+103075920,2823703931,0,False,residential,Limousine Lane,206.666,,,,,,,,,,,11560278,
+103076041,103082215,0,False,residential,Appletown Road,371.126,,,,,,,,,,,11561030,
+103076041,103045720,0,False,primary,Rohrersville Road,622.212,2,,,,,,,,,,115240906,MD 67
+103076041,103053082,0,False,primary,Rohrersville Road,488.426,2,,,,,,,,,,115240906,MD 67
+103076472,103066466,0,False,residential,McKeldin Drive,139.438,,,,,,,,,,,11560301,
+103076472,1801936076,0,False,residential,Park Drive,36.766,,,,,,,,,,,11560547,
+103076472,103073419,0,False,residential,Park Drive,117.971,,,,,,,,,,,11560547,
+103077594,1801936213,0,False,residential,Grove Lane,224.31,,,,,,,,,,,11560470,
+103077594,103045987,0,False,residential,Center Street,173.558,,,,,,,,,,,11561005,
+103077594,103081492,0,False,residential,Center Street,103.877,,,,,,,,,,,11561005,
+103077769,103061960,0,False,residential,Carroll Avenue,23.306,,,,,,,,,,,11560490,
+103080039,103053173,0,False,tertiary,Mountain Laurel Road,582.791,,,,,,,,,,,11560793,
+103080039,103063822,0,False,residential,Keadle Road,1127.738,,,,,,,,,,,175680194,
+103081427,103045875,0,False,residential,Marcia Court,174.593,,,,,,,,,,,11560929,
+103081492,103045917,0,False,tertiary,Orchard Drive,100.765,,,,,,,,,,,11560937,
+103081492,103049935,0,False,residential,Center Street,95.537,,,,,,,,,,,11561005,
+103081492,103060499,0,False,tertiary,Orchard Drive,495.199,,,,,,,,,,,11560937,
+103081492,103077594,0,False,residential,Center Street,103.877,,,,,,,,,,,11561005,
+103081533,103063822,0,False,residential,Mill Point Road,1148.717,,,,,,,,,,,11560939,
+103081533,103045844,0,False,residential,Mill Point Road,819.409,,,,,,,,,,,11560939,
+103081533,103082682,0,False,residential,Arcadia Lane,460.89,,,,,,,,,,,11561106,
+103081703,103049248,0,False,residential,Kerns Drive,76.16,,,,,,,,,,,11560951,
+103081711,103046969,0,False,residential,Della Lane,232.857,,,,,,,,,,,11557126,
+103081711,103046967,0,False,residential,Della Lane,2.417,,,,,,,,,,,11557126,
+103081711,103063361,0,False,residential,Kerns Drive,94.199,,,,,,,,,,,11560951,
+103081827,103072938,0,False,residential,Overlook Drive,425.957,,,,,,,,,,,11560965,
+103081843,103072938,0,False,residential,Overlook Drive,228.303,,,,,,,,,,,11560965,
+103082161,103021875,0,False,residential,Appletown Road,167.513,,,,,,,,,,,11561027,
+103082215,103076041,0,False,residential,Appletown Road,371.126,,,,,,,,,,,11561030,
+103082682,103081533,0,False,residential,Arcadia Lane,460.89,,,,,,,,,,,11561106,
+103083685,103047219,0,False,residential,Valley View Court,171.986,,,,,,,,,,,11561262,
+103083708,103075349,0,False,residential,Valley View Court,223.371,,,,,,,,,,,11561265,
+661166245,968849814,0,False,unclassified,Chase Six Boulevard,59.983,,,,,,,,,,,51829752,
+968849791,968849814,0,False,unclassified,Chase Six Boulevard,134.078,,,,,,,,,,,51829752,
+968849791,1801936612,0,False,unclassified,Chase Six Boulevard,196.362,,,,,,,,,,,51829752,
+968849791,968849819,0,False,residential,Burton Way,255.638,,,,,,,,,,,83272768,
+968849807,968849819,0,False,residential,Burton Way,87.376,,,,,,,,,,,83272768,
+968849814,661166245,0,False,unclassified,Chase Six Boulevard,59.983,,,,,,,,,,,51829752,
+968849814,968849791,0,False,unclassified,Chase Six Boulevard,134.078,,,,,,,,,,,51829752,
+968849814,968849819,0,False,residential,Stuart Place,89.559,,,,,,,,,,,83272769,
+968849819,968849807,0,False,residential,Burton Way,87.376,,,,,,,,,,,83272768,
+968849819,968849791,0,False,residential,Burton Way,255.638,,,,,,,,,,,83272768,
+968849819,968849814,0,False,residential,Stuart Place,89.559,,,,,,,,,,,83272769,
+1194869344,103053076,0,False,residential,Appletown Road,382.346,,,,,,,,,,,11561027,
+1801935212,103014963,0,False,residential,,277.598,,,,,,,,,,,11553254,
+1801935858,103058286,0,False,residential,Cemetary Lane,91.327,,,,,,,,,,,169018670,
+1801936051,103043685,0,False,secondary,Potomac Street,88.455,,,,,,,,,,,11559909,MD 34
+1801936051,103066466,0,False,residential,Park Lane,120.037,,,,,,,,,,,11559234,
+1801936051,103073419,0,False,secondary,Potomac Street,142.595,,,,,,,,,,,11559909,MD 34
+1801936076,103067709,0,False,residential,Park View Drive,83.89,,,,,,,,,,,11559378,
+1801936076,103076472,0,False,residential,Park Drive,36.766,,,,,,,,,,,11560547,
+1801936076,103066470,0,False,residential,Park Drive,146.585,,,,,,,,,,,"[11560547, 11560550]",
+1801936133,103040786,0,False,unclassified,Mariah Furnace Road,655.313,,,,,,,,,,,11558798,
+1801936173,103063361,0,False,residential,Thompson Court,210.049,,,,,,,,,,,11558870,
+1801936213,103077594,0,False,residential,Grove Lane,224.31,,,,,,,,,,,11560470,
+1801936214,103045987,0,False,residential,School House Court,179.022,,,,,,,,,,,11557033,
+1801936258,103045924,0,False,primary,North Main Street,23.674,2,,,,,,,,,,11557025,US 40 Alternate
+1801936258,103045987,0,False,residential,School House Court,151.32,,,,,,,,,,,11557033,
+1801936258,103011652,0,False,primary,North Main Street,241.167,2,,,,,,,,,,11557025,US 40 Alternate
+1801936317,1801936317,0,False,residential,Orchard Manor Drive,84.813,,,,,,,,,,,11558482,
+1801936317,1801936317,1,False,residential,Orchard Manor Drive,84.813,,,,,,,,,,,11558482,
+1801936317,103060499,0,False,residential,Orchard Manor Drive,269.259,,,,,,,,,,,11558482,
+1801936318,103011517,0,False,residential,Winner Lane,46.349,,,,,,,,,,,11560644,
+1801936598,103058206,0,False,residential,Apple Drive,563.335,,,,,,,,,,,11558214,
+1801936612,968849791,0,False,unclassified,Chase Six Boulevard,196.362,,,,,,,,,,,51829752,
+1801936612,103038204,0,False,unclassified,Chase Six Boulevard,121.335,,,,,,,,,,,51829752,
+1801936612,1801936632,0,False,residential,Tiger Way,144.413,,,,,,,,,,,169018683,
+1801936632,1801936658,0,False,residential,Green Fern Circle,95.355,,,,,,,,,,,169018675,
+1801936632,1801936656,0,False,residential,Tiger Way,130.4,,,,,,,,,,,169018683,
+1801936632,1801936612,0,False,residential,Tiger Way,144.413,,,,,,,,,,,169018683,
+1801936655,1801936661,0,False,residential,Green Fern Circle,29.78,,,,,,,,,,,169018675,
+1801936656,1801936694,0,False,residential,Zachary Court,247.383,,,,,,,,,,,169018686,
+1801936656,1801936681,0,False,residential,Tiger Way,180.062,,,,,,,,,,,169018683,
+1801936656,1801936632,0,False,residential,Tiger Way,130.4,,,,,,,,,,,169018683,
+1801936658,1801936661,0,False,residential,Green Fern Circle,212.827,,,,,,,,,,,169018674,
+1801936658,1801936661,1,False,residential,Green Fern Circle,222.806,,,,,,,,,,,169018675,
+1801936658,1801936632,0,False,residential,Green Fern Circle,95.355,,,,,,,,,,,169018675,
+1801936661,1801936655,0,False,residential,Green Fern Circle,29.78,,,,,,,,,,,169018675,
+1801936661,1801936658,0,False,residential,Green Fern Circle,212.827,,,,,,,,,,,169018674,
+1801936661,1801936658,1,False,residential,Green Fern Circle,222.806,,,,,,,,,,,169018675,
+1801936681,1801936714,0,False,residential,Holder Court,151.98,,,,,,,,,,,169018676,
+1801936681,1801936729,0,False,residential,Tiger Way,143.391,,,,,,,,,,,169018683,
+1801936681,1801936656,0,False,residential,Tiger Way,180.062,,,,,,,,,,,169018683,
+1801936694,1801936656,0,False,residential,Zachary Court,247.383,,,,,,,,,,,169018686,
+1801936714,1801936681,0,False,residential,Holder Court,151.98,,,,,,,,,,,169018676,
+1801936729,1801936681,0,False,residential,Tiger Way,143.391,,,,,,,,,,,169018683,
+2142173601,2142173622,0,False,residential,Waneta Drive,334.531,,,,,,,,,,,204197041,
+2142173622,103038246,0,False,residential,Mill Point Road,764.99,,,,,,,,,,,11560939,
+2142173622,4356473536,0,False,residential,Mill Point Road,575.06,,,,,,,,,,,11560939,
+2142173622,2142173601,0,False,residential,Waneta Drive,334.531,,,,,,,,,,,204197041,
+2823703931,103038237,0,False,secondary,Lappans Road,704.41,,,,,,,,,,,11556204,MD 68
+2823703931,103038218,0,False,secondary,Lappans Road,123.703,,,,,,,,,,,11556204,MD 68
+2823703931,103075920,0,False,residential,Limousine Lane,206.666,,,,,,,,,,,11560278,
+3729943327,103045854,0,False,primary,Old National Pike,274.279,2,,,,,,,,,,11557022,US 40 Alternate
+3729943327,103045844,0,False,primary,Old National Pike,984.501,2,,,,,,,,,,11557022,US 40 Alternate
+3729943327,103049033,0,False,unclassified,Toll Pass Lane,274.426,,,,,,,,,,,11559233,
+3759083396,3759083398,0,False,residential,Steer Court,126.834,,,,,,,,,,,372352463,
+3759083398,103038218,0,False,secondary,Lappans Road,71.607,,,,,,,,,,,11556204,MD 68
+3759083398,103038204,0,False,secondary,Lappans Road,1101.168,,,,,,,,,,,11556204,MD 68
+3759083398,3759083396,0,False,residential,Steer Court,126.834,,,,,,,,,,,372352463,
+4042818264,4042818272,0,False,residential,Scenic View Court,388.024,,,,,,,,,,,401872981,
+4042818272,103045844,0,False,primary,Old National Pike,612.685,2,,,,,,,,,,11557022,US 40 Alternate
+4042818272,103038204,0,False,primary,Old National Pike,1296.605,2,,,,,,,,,,11557022,US 40 Alternate
+4042818272,4042818264,0,False,residential,Scenic View Court,388.024,,,,,,,,,,,401872981,
+4356473532,103062127,0,False,residential,Monroe Road,1000.319,,,,,,,,,,,11558698,
+4356473532,4356473536,0,False,residential,Mill Point Road,19.546,,,,,,,,,,,437868722,
+4356473536,2142173622,0,False,residential,Mill Point Road,575.06,,,,,,,,,,,11560939,
+4356473536,4356473532,0,False,residential,Mill Point Road,19.546,,,,,,,,,,,437868722,
+5058794566,103053247,0,False,residential,Blue Ridge Drive,146.201,,,,,,,,,,,11558918,
+5058794574,103053245,0,False,residential,Sunrise Circle,68.8,,,,,,,,,,,11558202,
+5058794578,103053242,0,False,residential,Meadow Lane,91.787,,,,,,,,,,,11558980,
+5058794583,103053242,0,False,residential,Hillcrest Road,12.824,,,,,,,,,,,11557699,
+5074125658,103049578,0,False,unclassified,Jessie Lane,433.431,,,,,,,,,,,11557371,
+5074125791,103041044,0,False,unclassified,Rodeo Drive,543.553,,,,,,,,,,,11556489,
+5074125791,103049578,0,False,secondary,Mapleville Road,737.559,,,,,,,,,,,11558964,MD 66
+5074125791,103063834,0,False,secondary,Mapleville Road,404.092,,,,,,,,,,,11558964,MD 66
+5101215996,5101216008,0,False,unclassified,Harmony Hill Lane,214.024,,,,,,,,,,,524148656,
+5101216008,5101215996,0,False,unclassified,Harmony Hill Lane,214.024,,,,,,,,,,,524148656,
+5101216008,103043592,0,False,primary,Old National Pike,111.845,2,,,,,,,,,,524148689,US 40 Alternate
+5101216008,103045867,0,False,primary,Old National Pike,42.246,2,,,,,,,,,,524148689,US 40 Alternate

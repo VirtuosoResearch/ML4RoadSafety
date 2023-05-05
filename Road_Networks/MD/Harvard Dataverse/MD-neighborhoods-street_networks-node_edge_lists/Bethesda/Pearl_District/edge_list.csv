@@ -1,0 +1,10 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+49257673,393464125,0,False,residential,Chelton Road,81.989,,,,,,,,,,,5977510,
+49335347,567471737,0,True,primary_link,,47.59,,,,,,,,,,,50532457,
+49335347,567471853,0,True,primary,Montgomery Avenue,78.455,2,,,35 mph,,,,,,,130544756,MD 410
+393464125,49257673,0,False,residential,Chelton Road,81.989,,,,,,,,,,,5977510,
+393464125,393464309,0,False,residential,Chelton Road,96.589,,,,,,,,,,,5977510,
+393464309,393464125,0,False,residential,Chelton Road,96.589,,,,,,,,,,,5977510,
+393464309,49267298,0,True,primary,East-West Highway,293.627,"['2', '3']",,,25 mph,,,,,,,"[114850088, 48475721]",MD 410
+567471737,393464309,0,True,primary,East-West Highway,55.696,2,,,25 mph,,,,,,,48475721,MD 410
+567471853,567471737,0,True,primary,East-West Highway,89.259,2,,,25 mph,,,,,,,48475721,MD 410

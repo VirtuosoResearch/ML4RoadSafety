@@ -1,0 +1,513 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+212525359,2758193077,0,True,motorway_link,,12.148,,,,,,,,,,,379089114,
+212525359,2758193055,0,True,primary,East Avon Lima Road,172.015,2,,,,,,,,,,270851495,US 20;NY 5
+212525388,212525359,0,True,primary,East Avon Lima Road,127.422,2,,,,,,,,,,270851495,US 20;NY 5
+212525388,301935078,0,True,motorway_link,,449.39,,,,,,,,,,,20104114,
+212528466,212555117,0,False,residential,Cemetary Road,41.577,,,,,,,,,,,20107266,
+212528466,212528469,0,False,residential,,98.385,,,,,,,,,,,20104376,
+212528466,212555101,0,False,residential,Cemetary Road,321.913,,,,,,,,,,,20107266,
+212528469,212528466,0,False,residential,,98.385,,,,,,,,,,,20104376,
+212528476,212528497,0,False,residential,,540.397,,,,,,,,,,,20104377,
+212528476,212546626,0,False,tertiary,Bronson Hill Road,1442.391,,,,55 mph,,,,,,,20106334,CR 62
+212528476,212546611,0,False,tertiary,Bronson Hill Road,672.562,,,,55 mph,,,,,,,20106334,CR 62
+212528497,212528476,0,False,residential,,540.397,,,,,,,,,,,20104377,
+212529369,212529369,0,False,residential,,371.296,,,,,,,,,,,20104456,
+212529369,212529369,1,False,residential,,371.296,,,,,,,,,,,20104456,
+212529369,212529410,0,False,residential,,136.827,,,,,,,,,,,20104457,
+212529369,212529390,0,False,residential,,234.379,,,,,,,,,,,20104457,
+212529390,212529369,0,False,residential,,234.379,,,,,,,,,,,20104457,
+212529390,212552717,0,False,primary,Lakeville Road,306.721,2,,,35 mph,,,,,,,20109216,US 20A
+212529390,3808467148,0,False,primary,Lakeville Road,257.072,2,,,35 mph,,,,,,,20109216,US 20A
+212529410,212538813,0,False,residential,,37.577,,,,,,,,,,,20105435,
+212529410,212538813,1,False,residential,,63.959,,,,,,,,,,,20105435,
+212529410,212529369,0,False,residential,,136.827,,,,,,,,,,,20104457,
+212530401,212530405,0,True,motorway_link,,726.002,,,,,,,,,,,20104522,
+212530401,212530413,0,True,motorway,Genesee Expressway,1203.373,2,,,65 mph,,,,,,,27502010,I 390
+212530405,212556781,0,False,primary,Lakeville Road,170.766,2,,,55 mph,,,,,,,548241176,US 20A
+212530405,212530413,0,True,motorway_link,,494.87,,,,,,,,,,,379089124,
+212530405,212539347,0,False,primary,Lakeville Road,224.591,2,,,55 mph,,,yes,,,,"[548241176, 38654233, 38654234]",US 20A
+212534005,212549265,0,False,residential,Huckleberry Hill,1166.078,,,,,,,,,,,"[20109770, 20104863]",
+212534287,212534291,0,False,residential,,129.926,,,,,,,,,,,20104892,
+212534287,212548718,0,False,residential,Parkview Drive,85.655,,,,,,,,,,,20108733,
+212534287,212567082,0,False,residential,Parkview Drive,110.062,,,,,,,,,,,20108734,
+212534291,212534287,0,False,residential,,129.926,,,,,,,,,,,20104892,
+212535718,212535828,0,True,motorway_link,,555.474,,,,,,,,,,,20105056,
+212535718,212525388,0,True,primary,East Avon Lima Road,244.398,2,,,,,,yes,,,,"[270851495, 270851499, 38654247]",US 20;NY 5
+212535828,429486713,0,True,motorway,Genesee Expressway,4002.029,2,,,65 mph,,,,,,,27501918,I 390
+212538813,212529410,0,False,residential,,37.577,,,,,,,,,,,20105435,
+212538813,212529410,1,False,residential,,63.959,,,,,,,,,,,20105435,
+212538813,2079148064,0,False,residential,,113.792,,,,,,,,,,,197709665,
+212539347,212530405,0,False,primary,Lakeville Road,224.591,2,,,55 mph,,,yes,,,,"[548241176, 38654233, 38654234]",US 20A
+212539347,212568341,0,False,primary,Lakeville Road,1401.028,2,,,,,,,,,,139199341,US 20A
+212539347,429488301,0,True,motorway_link,,577.413,,,,,,,,,,,379089110,
+212540959,212569697,0,False,secondary,West Lake Road,132.7,,,,,,,,,,,303266779,NY 256
+212540959,212548353,0,False,secondary,West Lake Road,141.617,,,,,,,,,,,"[20108233, 303266779]",NY 256
+212543056,892562858,0,False,secondary,Lakeville Road,197.814,,,,,,,,,,,38654242,NY 15
+212543056,212562577,0,False,residential,Sutton Road,127.554,,,,,,,,,,,38654246,
+212543056,212543085,0,False,residential,Lake Road,2032.735,,,,,,,,,,,20105971,
+212543056,212549312,0,False,secondary,Lakeville Road,2463.853,,,,,,,,,,,38654242,NY 15
+212543085,212543056,0,False,residential,Lake Road,2032.735,,,,,,,,,,,20105971,
+212543085,212556828,0,False,residential,Pole Bridge Road,1199.335,,,,,,,,,,,131432823,
+212543687,212543689,0,False,residential,Suburban Drive,34.531,,,,,,,,,,,20106025,
+212543689,212543691,0,False,residential,Suburban Drive,74.88,,,,,,,,,,,20106025,
+212543689,212543687,0,False,residential,Suburban Drive,34.531,,,,,,,,,,,20106025,
+212543689,212565759,0,False,residential,Hillside Drive,376.934,,,,,,,,,,,20107989,
+212543691,212543689,0,False,residential,Suburban Drive,74.88,,,,,,,,,,,20106025,
+212543691,212549281,0,False,residential,Harper Parkway,67.226,,,,,,,,,,,20108979,
+212543691,212567107,0,False,residential,Harper Parkway,73.562,,,,,,,,,,,20108979,
+212543691,212543697,0,False,residential,Suburban Drive,155.741,,,,,,,,,,,20106025,
+212543697,212543691,0,False,residential,Suburban Drive,155.741,,,,,,,,,,,20106025,
+212545104,212545124,0,False,residential,Barber Road,2859.137,,,,,,,,,,,20106176,
+212545104,212589472,0,False,secondary,West Henrietta Road,2173.918,,,,,,,,,,,20109466,NY 15
+212545104,212551156,0,False,residential,North Avon Road,1482.799,,,,,,,yes,,,,"[38654249, 38654250, 20109658]",
+212545124,212545104,0,False,residential,Barber Road,2859.137,,,,,,,,,,,20106176,
+212545441,212545449,0,False,residential,Wadsworth Cove,213.981,,,,,,,,,,,20106217,
+212545441,212557930,0,False,secondary,West Lake Road,195.601,,,,,,,,,,,20108219,NY 256
+212545441,212550089,0,False,secondary,West Lake Road,267.739,,,,,,,,,,,20108219,NY 256
+212545449,212557930,0,False,residential,Westwood Drive,34.152,,,,,,,,,,,20107545,
+212545449,212545441,0,False,residential,Wadsworth Cove,213.981,,,,,,,,,,,20106217,
+212545449,212557944,0,False,residential,Westwood Drive,236.819,,,,,,,,,,,20107546,
+212545472,212574313,0,False,residential,Reservoir Road,1189.826,,,,,,,,,,,20109255,
+212545472,212545487,0,False,residential,Blue Heron Drive,329.219,,,,,,,,,,,20106221,
+212545472,212545487,1,False,secondary,West Lake Road,220.858,,,,,,,,,,,20108219,NY 256
+212545472,212557930,0,False,secondary,West Lake Road,868.743,,,,,,,,,,,20108219,NY 256
+212545487,212545472,0,False,residential,Blue Heron Drive,329.219,,,,,,,,,,,20106221,
+212545487,212545472,1,False,secondary,West Lake Road,220.858,,,,,,,,,,,20108219,NY 256
+212545487,212569560,0,False,secondary,West Lake Road,260.444,,,,,,,,,,,20108219,NY 256
+212545585,212545594,0,False,tertiary,Triphammer Road,1857.957,,,,,,,yes,,,,"[44136184, 20106235, 303266109, 44136183]",CR 52
+212545585,302074516,0,False,secondary,Lakeville Road,1329.565,,,,,,,,,,,20109214,NY 15
+212545585,212553999,0,False,tertiary,South Lima Road,1003.75,,,,,,,,,,,303266110,CR 19
+212545594,212556817,0,False,residential,Pole Bridge Road,1301.488,,,,,,,yes,,,,"[20107451, 131432821, 131432823]",
+212545594,212556786,0,False,residential,Pole Bridge Road,1605.556,,,,,,,,,,,20107451,
+212545594,212545642,0,False,tertiary,Triphammer Road,2949.688,,,,55 mph,,,,,,,"[303266107, 44136183]",CR 52
+212545594,212545585,0,False,tertiary,Triphammer Road,1857.957,,,,,,,yes,,,,"[44136184, 20106235, 303266109, 44136183]",CR 52
+212545642,212545594,0,False,tertiary,Triphammer Road,2949.688,,,,55 mph,,,,,,,"[303266107, 44136183]",CR 52
+212545815,212545823,0,False,residential,Lyeth Lane,247.186,,,,,,,,,,,20106259,
+212545815,212546606,0,False,tertiary,Bronson Hill Road,2358.856,,,,55 mph,,,,,,,20106334,CR 62
+212545815,212546587,0,False,tertiary,Bronson Hill Road,519.708,,,,55 mph,,,,,,,20106334,CR 62
+212545823,212545815,0,False,residential,Lyeth Lane,247.186,,,,,,,,,,,20106259,
+212546587,212553999,0,False,tertiary,South Lima Road,1037.365,,,,,,,,,,,303266110,CR 19
+212546587,212555346,0,False,tertiary,South Lima Road,408.442,,,,,,,,,,,303266110,CR 19
+212546587,212545815,0,False,tertiary,Bronson Hill Road,519.708,,,,55 mph,,,,,,,20106334,CR 62
+212546606,212546608,0,False,tertiary,Bronson Hill Road,18.254,,,,55 mph,,,,,,,20106334,CR 62
+212546606,212545815,0,False,tertiary,Bronson Hill Road,2358.856,,,,55 mph,,,,,,,20106334,CR 62
+212546606,212554920,0,False,residential,Marshall Road,2405.012,,,,,,,yes,,,,"[38654243, 38654244, 20107238]",
+212546608,212546606,0,False,tertiary,Bronson Hill Road,18.254,,,,55 mph,,,,,,,20106334,CR 62
+212546608,212546611,0,False,tertiary,Bronson Hill Road,421.863,,,,55 mph,,,,,,,20106334,CR 62
+212546608,212587731,0,False,residential,Dutch Hollow Road,577.685,,,,,,,,,,,20109393,
+212546611,212528476,0,False,tertiary,Bronson Hill Road,672.562,,,,55 mph,,,,,,,20106334,CR 62
+212546611,212546608,0,False,tertiary,Bronson Hill Road,421.863,,,,55 mph,,,,,,,20106334,CR 62
+212546611,212562577,0,False,residential,Sutton Road,1863.208,,,,,,,yes,,,,"[20109408, 38654245, 38654246]",
+212546626,212549282,0,False,primary,East Avon Lima Road,402.136,2,,,55 mph,,,,,,,20106620,US 20;NY 5
+212546626,212549281,0,False,primary,East Avon Lima Road,281.643,2,,,55 mph,,,,,,,20106620,US 20;NY 5
+212546626,212528476,0,False,tertiary,Bronson Hill Road,1442.391,,,,55 mph,,,,,,,20106334,CR 62
+212548198,212548201,0,False,residential,Stapley Road,812.486,,,,,,,,,,,20106489,
+212548198,212568166,0,False,tertiary,Lakeville Groveland Road,820.903,,,,,,,,,,,20108144,CR 48
+212548201,212548198,0,False,residential,Stapley Road,812.486,,,,,,,,,,,20106489,
+212548201,212578925,0,False,residential,Warner Road,2686.286,,,,,,,,,,,20108808,
+212548287,212585612,0,False,primary,Lakeville Road,735.808,2,,,45 mph,,,,,,,548241172,US 20A
+212548287,212585645,0,False,primary,Lakeville Road,2234.998,2,,,55 mph,,,,,,,548241176,US 20A
+212548353,212540959,0,False,secondary,West Lake Road,141.617,,,,,,,,,,,"[20108233, 303266779]",NY 256
+212548353,212569570,0,False,secondary,West Lake Road,1109.448,,,,,,,,,,,20108233,NY 256
+212548709,212574677,0,False,residential,Gaywood Drive,86.791,,,,,,,,,,,20108561,
+212548709,212574675,0,False,residential,Gaywood Drive,291.695,,,,,,,,,,,20108561,
+212548709,212548718,0,False,residential,Crestline Drive,363.445,,,,,,,,,,,20106546,
+212548718,212574675,0,False,residential,Parkview Drive,72.896,,,,,,,,,,,20108733,
+212548718,212548709,0,False,residential,Crestline Drive,363.445,,,,,,,,,,,20106546,
+212548718,212534287,0,False,residential,Parkview Drive,85.655,,,,,,,,,,,20108733,
+212549256,212567421,0,False,residential,"['Creekside Drive', 'Creekside Lane']",128.774,,,,,,,,,,,"[20106612, 20108111]",
+212549265,212549270,0,False,primary,East Avon Lima Road,240.549,2,,,55 mph,,,,,,,20106620,US 20;NY 5
+212549265,212534005,0,False,residential,Huckleberry Hill,1166.078,,,,,,,,,,,"[20109770, 20104863]",
+212549270,212549275,0,False,primary,East Avon Lima Road,601.0,2,,,55 mph,,,,,,,20106620,US 20;NY 5
+212549270,212549265,0,False,primary,East Avon Lima Road,240.549,2,,,55 mph,,,,,,,20106620,US 20;NY 5
+212549270,212588597,0,False,tertiary,Oak Openings Road,2895.874,,,,,,,,,,,20109390,CR 65
+212549275,212549281,0,False,primary,East Avon Lima Road,566.4,2,,,55 mph,,,,,,,20106620,US 20;NY 5
+212549275,212549270,0,False,primary,East Avon Lima Road,601.0,2,,,55 mph,,,,,,,20106620,US 20;NY 5
+212549275,212551080,0,False,residential,Dutch Hollow Road,517.986,,,,,,,,,,,20109393,
+212549281,212546626,0,False,primary,East Avon Lima Road,281.643,2,,,55 mph,,,,,,,20106620,US 20;NY 5
+212549281,212543691,0,False,residential,Harper Parkway,67.226,,,,,,,,,,,20108979,
+212549281,212549275,0,False,primary,East Avon Lima Road,566.4,2,,,55 mph,,,,,,,20106620,US 20;NY 5
+212549282,212546626,0,False,primary,East Avon Lima Road,402.136,2,,,55 mph,,,,,,,20106620,US 20;NY 5
+212549282,2758193055,0,False,primary,East Avon Lima Road,238.148,2,,,55 mph,,,,,,,"[20106620, 429550015]",US 20;NY 5
+212549282,212551156,0,False,residential,Jenks Road,2924.074,,,,,,,,,,,20106799,
+212549300,212592924,0,False,residential,Athena Drive,319.483,,,,,,,,,,,20109738,
+212549300,212549306,0,False,primary,East Avon Lima Road,178.579,2,,,,,,,,,,270851498,US 20;NY 5
+212549300,2758193067,0,False,primary,East Avon Lima Road,186.321,2,,,,,,,,,,270851498,US 20;NY 5
+212549306,212549310,0,False,primary,East Avon Lima Road,105.306,2,,,,,,,,,,270851498,US 20;NY 5
+212549306,212586388,0,False,residential,Tajmahal Park,141.339,,,,,,,,,,,20109257,
+212549306,212549300,0,False,primary,East Avon Lima Road,178.579,2,,,,,,,,,,270851498,US 20;NY 5
+212549310,212549312,0,False,primary,East Avon Lima Road,220.721,2,,,,,,,,,,270851498,US 20;NY 5
+212549310,212549306,0,False,primary,East Avon Lima Road,105.306,2,,,,,,,,,,270851498,US 20;NY 5
+212549310,212572318,0,False,residential,Nune Pk,320.119,,,,,,,,,,,20108421,
+212549312,212589472,0,False,secondary,West Henrietta Road,411.235,,,,,,,,,,,20109466,NY 15
+212549312,212549310,0,False,primary,East Avon Lima Road,220.721,2,,,,,,,,,,270851498,US 20;NY 5
+212549312,212543056,0,False,secondary,Lakeville Road,2463.853,,,,,,,,,,,38654242,NY 15
+212550089,212550106,0,False,residential,North Point Drive,259.223,,,,,,,,,,,20106689,
+212550089,212545441,0,False,secondary,West Lake Road,267.739,,,,,,,,,,,20108219,NY 256
+212550089,212569512,0,False,secondary,West Lake Road,142.063,,,,,,,,,,,20108219,NY 256
+212550106,212550089,0,False,residential,North Point Drive,259.223,,,,,,,,,,,20106689,
+212551080,212551084,0,False,residential,Meadowlark Drive,152.0,,,,,,,,,,,20106789,
+212551080,212549275,0,False,residential,Dutch Hollow Road,517.986,,,,,,,,,,,20109393,
+212551080,212588646,0,False,residential,Dutch Hollow Road,1031.732,,,,,,,,,,,20109393,
+212551084,212551086,0,False,residential,Meadowlark Drive,377.951,,,,,,,,,,,20106789,
+212551084,212551080,0,False,residential,Meadowlark Drive,152.0,,,,,,,,,,,20106789,
+212551084,212574675,0,False,residential,Parkview Drive,72.012,,,,,,,,,,,20108733,
+212551084,212565766,0,False,residential,Parkview Drive,75.201,,,,,,,,,,,20108733,
+212551086,212551084,0,False,residential,Meadowlark Drive,377.951,,,,,,,,,,,20106789,
+212551086,212574677,0,False,residential,Harper Parkway,75.385,,,,,,,,,,,20108979,
+212551086,212565743,0,False,residential,Harper Parkway,71.168,,,,,,,,,,,20108979,
+212551156,212549282,0,False,residential,Jenks Road,2924.074,,,,,,,,,,,20106799,
+212551156,212545104,0,False,residential,North Avon Road,1482.799,,,,,,,yes,,,,"[38654249, 20109658, 38654250]",
+212551156,212558737,0,False,residential,North Avon Road,444.538,,,,,,,,,,,20109658,
+212551582,212558128,0,False,residential,Sackett Road,53.77,,,,,,,,,,,20107562,
+212551582,212558122,0,False,residential,Sackett Road,126.94,,,,,,,,,,,20107562,
+212551582,212551595,0,False,residential,Jones Lane,105.403,,,,,,,,,,,20106846,
+212551595,212551582,0,False,residential,Jones Lane,105.403,,,,,,,,,,,20106846,
+212551595,212558122,0,False,residential,Littleville Road,74.997,,,,,,,,,,,20109220,
+212551595,212555117,0,False,residential,Littleville Road,171.854,,,,,,,,,,,20109220,
+212551603,212551611,0,False,residential,Jones Lane,488.482,,,,,,,,,,,20106848,
+212551611,212551603,0,False,residential,Jones Lane,488.482,,,,,,,,,,,20106848,
+212551611,212574594,0,False,residential,North Littleville Road,385.022,,,,,,,,,,,20108672,
+212551611,212559504,0,False,residential,North Littleville Road,135.174,,,,,,,,,,,20108672,
+212551825,1351593508,0,False,primary,Genesee Street,14.814,,,,45 mph,,,,,,,131640049,NY 63
+212551825,212551838,0,False,residential,Big Tree Lane,1543.099,,,,,,,,,,,20106885,
+212551825,212572219,0,False,primary,Genesee Street,196.177,,,,45 mph,,,,,,,131640049,NY 63
+212551838,212551825,0,False,residential,Big Tree Lane,1543.099,,,,,,,,,,,20106885,
+212552717,2079148164,0,False,residential,Ryan Drive,477.33,,,,,,,,,,,20106982,
+212552717,212585609,0,False,primary,Lakeville Road,238.998,2,,,35 mph,,,,,,,20109216,US 20A
+212552717,212529390,0,False,primary,Lakeville Road,306.721,2,,,35 mph,,,,,,,20109216,US 20A
+212553705,212553708,0,False,residential,Gray Road,674.689,,,,,,,,,,,20107101,
+212553705,212569706,0,False,secondary,West Lake Road,332.935,,,,,,,,,,,303266779,NY 256
+212553708,212553705,0,False,residential,Gray Road,674.689,,,,,,,,,,,20107101,
+212553708,212568341,0,False,tertiary,Lakeville Groveland Road,1926.01,,,,,,,,,,,304080208,CR 28
+212553708,212568215,0,False,tertiary,Lakeville Groveland Road,3183.951,,,,,,,,,,,304080208,CR 28
+212553999,212546587,0,False,tertiary,South Lima Road,1037.365,,,,,,,,,,,303266110,CR 19
+212553999,212545585,0,False,tertiary,South Lima Road,1003.75,,,,,,,,,,,303266110,CR 19
+212554422,212554467,0,False,residential,Lower Court Street,510.153,,,,,,,,,,,20107188,
+212554467,212554422,0,False,residential,Lower Court Street,510.153,,,,,,,,,,,20107188,
+212554705,212569470,0,False,residential,Booher Hill Road,317.923,,,,,,,,,,,20108398,
+212554705,212554707,0,False,residential,Lakeview Drive,237.403,,,,,,,,,,,20107210,
+212554705,212568166,0,False,residential,Booher Hill Road,2111.531,,,,,,,,,,,20108398,
+212554707,212554705,0,False,residential,Lakeview Drive,237.403,,,,,,,,,,,20107210,
+212554920,212571402,0,False,secondary,Lakeville Road,188.937,,,,,,,,,,,38654242,NY 15
+212554920,212546606,0,False,residential,Marshall Road,2405.012,,,,,,,yes,,,,"[38654243, 38654244, 20107238]",
+212554920,892562858,0,False,secondary,Lakeville Road,1423.618,,,,,,,,,,,38654242,NY 15
+212555101,212558122,0,False,residential,Littleville Road,66.998,,,,,,,,,,,20109220,
+212555101,212528466,0,False,residential,Cemetary Road,321.913,,,,,,,,,,,20107266,
+212555117,212528466,0,False,residential,Cemetary Road,41.577,,,,,,,,,,,20107266,
+212555117,212559504,0,False,residential,North Littleville Road,394.7,,,,,,,,,,,20108672,
+212555117,212551595,0,False,residential,Littleville Road,171.854,,,,,,,,,,,20109220,
+212555117,212559543,0,False,residential,Littleville Road,160.285,,,,,,,,,,,20109225,
+212555346,212546587,0,False,tertiary,South Lima Road,408.442,,,,,,,,,,,303266110,CR 19
+212555684,3808467148,0,False,primary,Lakeville Road,251.127,2,,,35 mph,,,,,,,20109216,US 20A
+212555684,3808467155,0,False,residential,Reservoir Road,273.721,,,,,,,,,,,44160135,
+212555766,212556888,0,False,tertiary,Lakeville Groveland Road,155.565,,,,,,,,,,,304080208,CR 28
+212555766,212555769,0,False,residential,Burbank Drive,593.386,,,,,,,,,,,20107345,
+212555766,212568201,0,False,tertiary,Lakeville Groveland Road,695.67,,,,,,,,,,,304080208,CR 28
+212555769,212555766,0,False,residential,Burbank Drive,593.386,,,,,,,,,,,20107345,
+212556781,212530405,0,False,primary,Lakeville Road,170.766,2,,,55 mph,,,,,,,548241176,US 20A
+212556781,4121749781,0,False,primary,Lakeville Road,43.395,2,,,55 mph,,,,,,,548241176,US 20A
+212556781,212556786,0,False,residential,Pole Bridge Road,1907.176,,,,,,,,,,,20107451,
+212556786,212545594,0,False,residential,Pole Bridge Road,1605.556,,,,,,,,,,,20107451,
+212556786,212556781,0,False,residential,Pole Bridge Road,1907.176,,,,,,,,,,,20107451,
+212556786,212558530,0,False,residential,Lima Road,2236.085,,,,,,,yes,,,,"[38654235, 20107588, 38654236]",
+212556817,212556818,0,False,residential,Pole Bridge Road,43.713,,,,,,,,,,,131432823,
+212556817,212556994,0,False,residential,Papermill Road,1005.419,,,,,,,,,,,20107464,
+212556817,212545594,0,False,residential,Pole Bridge Road,1301.488,,,,,,,yes,,,,"[20107451, 131432821, 131432823]",
+212556818,212556817,0,False,residential,Pole Bridge Road,43.713,,,,,,,,,,,131432823,
+212556818,212571402,0,False,residential,Agar Road,2222.49,,,,,,,,,,,20108358,
+212556818,212556828,0,False,residential,Pole Bridge Road,1587.914,,,,,,,,,,,131432823,
+212556828,212585757,0,False,residential,Littleville Road,1096.234,,,,,,,,,,,20109225,
+212556828,892562858,0,False,residential,Henty Road,2321.1,,,,,,,,,,,20109712,
+212556828,212543085,0,False,residential,Pole Bridge Road,1199.335,,,,,,,,,,,131432823,
+212556828,212556818,0,False,residential,Pole Bridge Road,1587.914,,,,,,,,,,,131432823,
+212556888,212555766,0,False,tertiary,Lakeville Groveland Road,155.565,,,,,,,,,,,304080208,CR 28
+212556888,212556892,0,False,residential,Porter Road,397.332,,,,,,,,,,,20107454,
+212556888,212568215,0,False,tertiary,Lakeville Groveland Road,507.036,,,,,,,,,,,304080208,CR 28
+212556892,212556888,0,False,residential,Porter Road,397.332,,,,,,,,,,,20107454,
+212556892,212557950,0,False,residential,Carmichael Lane,589.085,,,,,,,,,,,20107547,
+212556892,212586303,0,False,residential,Reservoir Road,758.849,,,,,,,yes,,,,"[44160135, 44160137, 20109255]",
+212556892,212568215,0,False,residential,Reservoir Road,405.528,,,,,,,,,,,20109255,
+212556994,212556817,0,False,residential,Papermill Road,1005.419,,,,,,,,,,,20107464,
+212556994,212585757,0,False,residential,Reservoir Road,1953.501,,,,,,,,,,,20109256,
+212557930,212545449,0,False,residential,Westwood Drive,34.152,,,,,,,,,,,20107545,
+212557930,212545472,0,False,secondary,West Lake Road,868.743,,,,,,,,,,,20108219,NY 256
+212557930,212545441,0,False,secondary,West Lake Road,195.601,,,,,,,,,,,20108219,NY 256
+212557944,212545449,0,False,residential,Westwood Drive,236.819,,,,,,,,,,,20107546,
+212557950,212557950,0,False,residential,Carmichael Lane,129.435,,,,,,,,,,,"[20107547, 20107550]",
+212557950,212557950,1,False,residential,Carmichael Lane,129.435,,,,,,,,,,,"[20107547, 20107550]",
+212557950,212556892,0,False,residential,Carmichael Lane,589.085,,,,,,,,,,,20107547,
+212558122,212551582,0,False,residential,Sackett Road,126.94,,,,,,,,,,,20107562,
+212558122,212555101,0,False,residential,Littleville Road,66.998,,,,,,,,,,,20109220,
+212558122,212551595,0,False,residential,Littleville Road,74.997,,,,,,,,,,,20109220,
+212558128,212558132,0,False,residential,Sackett Road,40.877,,,,,,,,,,,20107562,
+212558128,212551582,0,False,residential,Sackett Road,53.77,,,,,,,,,,,20107562,
+212558128,212558135,0,False,residential,Meadow Circle,432.838,,,,,,,,,,,20109269,
+212558132,212558135,0,False,residential,Sackett Road,30.766,,,,,,,,,,,20107562,
+212558132,212558128,0,False,residential,Sackett Road,40.877,,,,,,,,,,,20107562,
+212558132,212572281,0,False,residential,Cherry Hill Drive,83.883,,,,,,,,,,,20108416,
+212558135,212558132,0,False,residential,Sackett Road,30.766,,,,,,,,,,,20107562,
+212558135,212558128,0,False,residential,Meadow Circle,432.838,,,,,,,,,,,20109269,
+212558530,212556786,0,False,residential,Lima Road,2236.085,,,,,,,yes,,,,"[38654235, 38654236, 20107588]",
+212558737,212551156,0,False,residential,North Avon Road,444.538,,,,,,,,,,,20109658,
+212558737,212588597,0,False,residential,North Avon Road,2094.117,,,,,,,,,,,20109658,
+212559504,212559543,0,False,residential,Antonio Drive,618.973,,,,,,,,,,,20107652,
+212559504,212551611,0,False,residential,North Littleville Road,135.174,,,,,,,,,,,20108672,
+212559504,212555117,0,False,residential,North Littleville Road,394.7,,,,,,,,,,,20108672,
+212559543,212559504,0,False,residential,Antonio Drive,618.973,,,,,,,,,,,20107652,
+212559543,212555117,0,False,residential,Littleville Road,160.285,,,,,,,,,,,20109225,
+212559543,212585782,0,False,residential,Littleville Road,211.952,,,,,,,,,,,20109225,
+212562577,212562585,0,False,residential,Rolling Ridgee Drive,216.847,,,,,,,,,,,20107807,
+212562577,212543056,0,False,residential,Sutton Road,127.554,,,,,,,,,,,38654246,
+212562577,212546611,0,False,residential,Sutton Road,1863.208,,,,,,,yes,,,,"[20109408, 38654245, 38654246]",
+212562585,212562577,0,False,residential,Rolling Ridgee Drive,216.847,,,,,,,,,,,20107807,
+212564912,212564932,0,False,tertiary,Groveland Road,406.166,,,,,,,,,,,20107946,CR 10
+212564932,212564990,0,False,tertiary,Groveland Road,2346.36,,,,,,,yes,,,,"[20107946, 38654229, 38654230]",CR 10
+212564932,212564912,0,False,tertiary,Groveland Road,406.166,,,,,,,,,,,20107946,CR 10
+212564932,212566769,0,False,residential,Jones Bridge Road,2491.771,,,,,,,,,,,20108073,
+212564990,212564932,0,False,tertiary,Groveland Road,2346.36,,,,,,,yes,,,,"[20107946, 38654229, 38654230]",CR 10
+212564990,212578925,0,False,tertiary,Long Point Road,2567.621,,,,,,,yes,,,,"[38654232, 20109745, 38654231]",CR 32
+212565743,212565766,0,False,residential,Hillside Drive,378.359,,,,,,,,,,,20107991,
+212565743,212565766,1,False,residential,"['Harper Parkway', 'Ashmoor Drive', 'Parkview Drive']",521.101,,,,,,,,,,,"[20107864, 20108979, 20108733]",
+212565743,212551086,0,False,residential,Harper Parkway,71.168,,,,,,,,,,,20108979,
+212565743,212565759,0,False,residential,Hillside Drive,218.655,,,,,,,,,,,20107989,
+212565759,212543689,0,False,residential,Hillside Drive,376.934,,,,,,,,,,,20107989,
+212565759,212565743,0,False,residential,Hillside Drive,218.655,,,,,,,,,,,20107989,
+212565759,212580896,0,False,residential,Springdale Drive,148.784,,,,,,,,,,,20108934,
+212565766,212565743,0,False,residential,Hillside Drive,378.359,,,,,,,,,,,20107991,
+212565766,212565743,1,False,residential,"['Harper Parkway', 'Ashmoor Drive', 'Parkview Drive']",521.101,,,,,,,,,,,"[20107864, 20108979, 20108733]",
+212565766,212551084,0,False,residential,Parkview Drive,75.201,,,,,,,,,,,20108733,
+212566747,212566769,0,False,residential,Jones Bridge Road,1446.235,,,,,,,,,,,20108073,
+212566769,212564932,0,False,residential,Jones Bridge Road,2491.771,,,,,,,,,,,20108073,
+212566769,212566747,0,False,residential,Jones Bridge Road,1446.235,,,,,,,,,,,20108073,
+212567082,212567086,0,False,residential,Sycamore Drive,73.416,,,,,,,,,,,20108089,
+212567082,212577664,0,False,residential,Parkview Drive,269.947,,,,,,,,,,,20108734,
+212567082,212534287,0,False,residential,Parkview Drive,110.062,,,,,,,,,,,20108734,
+212567086,212567082,0,False,residential,Sycamore Drive,73.416,,,,,,,,,,,20108089,
+212567086,212581444,0,False,residential,Valleyview Drive,269.029,,,,,,,,,,,20109183,
+212567086,212567107,0,False,residential,Sycamore Drive,338.619,,,,,,,,,,,20108089,
+212567107,212543691,0,False,residential,Harper Parkway,73.562,,,,,,,,,,,20108979,
+212567107,212581444,0,False,residential,Harper Parkway,73.607,,,,,,,,,,,20108979,
+212567107,212567086,0,False,residential,Sycamore Drive,338.619,,,,,,,,,,,20108089,
+212567421,212569512,0,False,secondary,West Lake Road,72.076,,,,,,,,,,,20108219,NY 256
+212567421,212549256,0,False,residential,"['Creekside Drive', 'Creekside Lane']",128.774,,,,,,,,,,,"[20106612, 20108111]",
+212567421,212569500,0,False,secondary,West Lake Road,228.549,,,,,,,,,,,20108219,NY 256
+212568166,212568201,0,False,tertiary,Lakeville Groveland Road,2047.376,,,,,,,,,,,20108144,CR 48
+212568166,212548198,0,False,tertiary,Lakeville Groveland Road,820.903,,,,,,,,,,,20108144,CR 48
+212568166,212554705,0,False,residential,Booher Hill Road,2111.531,,,,,,,,,,,20108398,
+212568201,212568166,0,False,tertiary,Lakeville Groveland Road,2047.376,,,,,,,,,,,20108144,CR 48
+212568201,212578925,0,False,tertiary,Long Point Road,1239.543,,,,,,,,,,,20109745,CR 32
+212568201,212569512,0,False,tertiary,Long Point Road,2463.131,,,,,,,,,,,20109745,CR 32
+212568201,212555766,0,False,tertiary,Lakeville Groveland Road,695.67,,,,,,,,,,,304080208,CR 28
+212568215,212574313,0,False,residential,Reservoir Road,982.711,,,,,,,,,,,20109255,
+212568215,212556892,0,False,residential,Reservoir Road,405.528,,,,,,,,,,,20109255,
+212568215,212553708,0,False,tertiary,Lakeville Groveland Road,3183.951,,,,,,,,,,,304080208,CR 28
+212568215,212556888,0,False,tertiary,Lakeville Groveland Road,507.036,,,,,,,,,,,304080208,CR 28
+212568341,2079148332,0,False,primary,Lakeville Road,301.21,2,,,,,,,,,,139199341,US 20A
+212568341,212539347,0,False,primary,Lakeville Road,1401.028,2,,,,,,,,,,139199341,US 20A
+212568341,212553708,0,False,tertiary,Lakeville Groveland Road,1926.01,,,,,,,,,,,304080208,CR 28
+212569470,212554705,0,False,residential,Booher Hill Road,317.923,,,,,,,,,,,20108398,
+212569470,212569500,0,False,secondary,West Lake Road,1538.289,,,,,,,,,,,20108219,NY 256
+212569500,212586139,0,False,residential,Stone House Drive,45.431,,,,,,,,,,,20109249,
+212569500,212567421,0,False,secondary,West Lake Road,228.549,,,,,,,,,,,20108219,NY 256
+212569500,212569470,0,False,secondary,West Lake Road,1538.289,,,,,,,,,,,20108219,NY 256
+212569512,212567421,0,False,secondary,West Lake Road,72.076,,,,,,,,,,,20108219,NY 256
+212569512,212550089,0,False,secondary,West Lake Road,142.063,,,,,,,,,,,20108219,NY 256
+212569512,212572179,0,False,residential,Long Point Park,188.915,,,,,,,,,,,"[20108403, 20108404]",
+212569512,212568201,0,False,tertiary,Long Point Road,2463.131,,,,,,,,,,,20109745,CR 32
+212569560,212569570,0,False,secondary,West Lake Road,325.317,,,,,,,,,,,20108219,NY 256
+212569560,212569570,1,False,residential,Eagle Point Drive,444.911,,,,,,,,,,,20108520,
+212569560,212545487,0,False,secondary,West Lake Road,260.444,,,,,,,,,,,20108219,NY 256
+212569570,212569560,0,False,secondary,West Lake Road,325.317,,,,,,,,,,,20108219,NY 256
+212569570,212569560,1,False,residential,Eagle Point Drive,444.911,,,,,,,,,,,20108520,
+212569570,212548353,0,False,secondary,West Lake Road,1109.448,,,,,,,,,,,20108233,NY 256
+212569697,212540959,0,False,secondary,West Lake Road,132.7,,,,,,,,,,,303266779,NY 256
+212569706,212569710,0,False,secondary,West Lake Road,489.448,,,,,,,,,,,303266779,NY 256
+212569706,212553705,0,False,secondary,West Lake Road,332.935,,,,,,,,,,,303266779,NY 256
+212569710,212569706,0,False,secondary,West Lake Road,489.448,,,,,,,,,,,303266779,NY 256
+212569733,2079148387,0,False,residential,,121.567,,,,,,,,,,,197709640,
+212571402,212554920,0,False,secondary,Lakeville Road,188.937,,,,,,,,,,,38654242,NY 15
+212571402,302074524,0,False,secondary,Lakeville Road,225.951,,,,,,,,,,,38654242,NY 15
+212571402,212556818,0,False,residential,Agar Road,2222.49,,,,,,,,,,,20108358,
+212572179,212569512,0,False,residential,Long Point Park,188.915,,,,,,,,,,,"[20108403, 20108404]",
+212572219,212579276,0,False,primary,Genesee Street,825.129,,,,45 mph,,,,,,,131640049,NY 63
+212572219,212551825,0,False,primary,Genesee Street,196.177,,,,45 mph,,,,,,,131640049,NY 63
+212572281,212558132,0,False,residential,Cherry Hill Drive,83.883,,,,,,,,,,,20108416,
+212572318,212549310,0,False,residential,Nune Pk,320.119,,,,,,,,,,,20108421,
+212574313,212568215,0,False,residential,Reservoir Road,982.711,,,,,,,,,,,20109255,
+212574313,212545472,0,False,residential,Reservoir Road,1189.826,,,,,,,,,,,20109255,
+212574313,212574325,0,False,residential,Johnson Road,395.366,,,,,,,,,,,20108535,
+212574325,212574313,0,False,residential,Johnson Road,395.366,,,,,,,,,,,20108535,
+212574594,212574600,0,False,residential,Mary Jane Lane,188.562,,,,,,,,,,,20108555,
+212574594,212551611,0,False,residential,North Littleville Road,385.022,,,,,,,,,,,20108672,
+212574600,212574594,0,False,residential,Mary Jane Lane,188.562,,,,,,,,,,,20108555,
+212574675,212548709,0,False,residential,Gaywood Drive,291.695,,,,,,,,,,,20108561,
+212574675,212548718,0,False,residential,Parkview Drive,72.896,,,,,,,,,,,20108733,
+212574675,212551084,0,False,residential,Parkview Drive,72.012,,,,,,,,,,,20108733,
+212574677,212548709,0,False,residential,Gaywood Drive,86.791,,,,,,,,,,,20108561,
+212574677,212551086,0,False,residential,Harper Parkway,75.385,,,,,,,,,,,20108979,
+212574677,212577664,0,False,residential,Harper Parkway,158.806,,,,,,,,,,,20108979,
+212577664,212567082,0,False,residential,Parkview Drive,269.947,,,,,,,,,,,20108734,
+212577664,212581444,0,False,residential,Harper Parkway,72.756,,,,,,,,,,,20108979,
+212577664,212574677,0,False,residential,Harper Parkway,158.806,,,,,,,,,,,20108979,
+212578925,212548201,0,False,residential,Warner Road,2686.286,,,,,,,,,,,20108808,
+212578925,212564990,0,False,tertiary,Long Point Road,2567.621,,,,,,,yes,,,,"[38654232, 20109745, 38654231]",CR 32
+212578925,212568201,0,False,tertiary,Long Point Road,1239.543,,,,,,,,,,,20109745,CR 32
+212579276,212572219,0,False,primary,Genesee Street,825.129,,,,45 mph,,,,,,,131640049,NY 63
+212580896,212565759,0,False,residential,Springdale Drive,148.784,,,,,,,,,,,20108934,
+212581444,212567107,0,False,residential,Harper Parkway,73.607,,,,,,,,,,,20108979,
+212581444,212577664,0,False,residential,Harper Parkway,72.756,,,,,,,,,,,20108979,
+212581444,212567086,0,False,residential,Valleyview Drive,269.029,,,,,,,,,,,20109183,
+212585609,212552717,0,False,primary,Lakeville Road,238.998,2,,,35 mph,,,,,,,20109216,US 20A
+212585609,212585612,0,False,primary,Lakeville Road,345.483,2,,,45 mph,,,,,,,548241172,US 20A
+212585612,2079148038,0,False,residential,,424.889,,,,,,,,,,,197709683,
+212585612,212548287,0,False,primary,Lakeville Road,735.808,2,,,45 mph,,,,,,,548241172,US 20A
+212585612,212585609,0,False,primary,Lakeville Road,345.483,2,,,45 mph,,,,,,,548241172,US 20A
+212585645,212586303,0,False,residential,North Road,2936.806,,,,,,,,,,,"[20109795, 20109788]",
+212585645,4121749781,0,False,primary,Lakeville Road,1332.732,2,,,55 mph,,,,,,,548241176,US 20A
+212585645,212548287,0,False,primary,Lakeville Road,2234.998,2,,,55 mph,,,,,,,548241176,US 20A
+212585757,212585782,0,False,residential,Littleville Road,1195.66,,,,,,,,,,,20109225,
+212585757,212556828,0,False,residential,Littleville Road,1096.234,,,,,,,,,,,20109225,
+212585757,212556994,0,False,residential,Reservoir Road,1953.501,,,,,,,,,,,20109256,
+212585782,212559543,0,False,residential,Littleville Road,211.952,,,,,,,,,,,20109225,
+212585782,212585757,0,False,residential,Littleville Road,1195.66,,,,,,,,,,,20109225,
+212585782,212594238,0,False,residential,Darby Road,981.468,,,,,,,,,,,20109830,
+212586135,212586139,0,False,residential,Stone House Drive,27.155,,,,,,,,,,,20109248,
+212586139,212586135,0,False,residential,Stone House Drive,27.155,,,,,,,,,,,20109248,
+212586139,212569500,0,False,residential,Stone House Drive,45.431,,,,,,,,,,,20109249,
+212586139,212586147,0,False,residential,Stone House Drive,219.975,,,,,,,,,,,20109248,
+212586147,212586139,0,False,residential,Stone House Drive,219.975,,,,,,,,,,,20109248,
+212586303,212585645,0,False,residential,North Road,2936.806,,,,,,,,,,,"[20109795, 20109788]",
+212586303,212586308,0,False,residential,Reservoir Road,1234.364,,,,,,,,,,,44160135,
+212586303,212556892,0,False,residential,Reservoir Road,758.849,,,,,,,yes,,,,"[44160137, 20109255, 44160135]",
+212586308,3808467155,0,False,residential,Reservoir Road,1241.464,,,,,,,,,,,44160135,
+212586308,212586303,0,False,residential,Reservoir Road,1234.364,,,,,,,,,,,44160135,
+212586308,5297861552,0,False,residential,,330.979,,,,,,,,,,,197709683,
+212586388,212549306,0,False,residential,Tajmahal Park,141.339,,,,,,,,,,,20109257,
+212586729,212588646,0,False,residential,Dutch Hollow Road,282.318,,,,,,,,,,,20109393,
+212586729,212587731,0,False,residential,Dutch Hollow Road,737.396,,,,,,,,,,,20109393,
+212587731,212586729,0,False,residential,Dutch Hollow Road,737.396,,,,,,,,,,,20109393,
+212587731,212546608,0,False,residential,Dutch Hollow Road,577.685,,,,,,,,,,,20109393,
+212588597,212549270,0,False,tertiary,Oak Openings Road,2895.874,,,,,,,,,,,20109390,CR 65
+212588597,212558737,0,False,residential,North Avon Road,2094.117,,,,,,,,,,,20109658,
+212588646,212589361,0,False,residential,Deer Run,168.848,,,,,,,,,,,20109449,
+212588646,212551080,0,False,residential,Dutch Hollow Road,1031.732,,,,,,,,,,,20109393,
+212588646,212586729,0,False,residential,Dutch Hollow Road,282.318,,,,,,,,,,,20109393,
+212589361,212588646,0,False,residential,Deer Run,168.848,,,,,,,,,,,20109449,
+212589472,212549312,0,False,secondary,West Henrietta Road,411.235,,,,,,,,,,,20109466,NY 15
+212589472,212545104,0,False,secondary,West Henrietta Road,2173.918,,,,,,,,,,,20109466,NY 15
+212589472,3045674411,0,False,unclassified,Tec Drive,485.849,,,,,,,,,,,300490473,
+212592914,2011754649,0,False,residential,Athena Drive,83.14,,,,,,,,,,,20109738,
+212592924,2011754658,0,False,residential,Athena Drive,110.776,,,,,,,,,,,20109738,
+212592924,212549300,0,False,residential,Athena Drive,319.483,,,,,,,,,,,20109738,
+212592924,2011754656,0,False,residential,Demitrios Way,318.254,,,,,,,,,,,190530336,
+212594238,212585782,0,False,residential,Darby Road,981.468,,,,,,,,,,,20109830,
+301935078,301934991,0,True,motorway,Genesee Expressway,409.406,2,,,65 mph,,,,,,,38654240,I 390
+302070147,302070148,0,True,motorway,Genesee Expressway,773.112,2,,,65 mph,,,,,,,38654240,I 390
+302070147,302074516,0,True,motorway_link,,366.467,,,,,,,,,,,379089112,
+302070148,319255385,0,True,motorway,Genesee Expressway,3998.073,2,,,65 mph,,,,,,,38654240,I 390
+302074516,302074524,0,False,secondary,Lakeville Road,147.748,,,,,,,yes,,,,"[38654241, 38654242, 20109214]",NY 15
+302074516,212545585,0,False,secondary,Lakeville Road,1329.565,,,,,,,,,,,20109214,NY 15
+302074516,302070148,0,True,motorway_link,,413.328,,,,,,,,,,,27515908,
+302074524,212571402,0,False,secondary,Lakeville Road,225.951,,,,,,,,,,,38654242,NY 15
+302074524,429486775,0,True,motorway_link,,414.318,,,,,,,,,,,27515918,
+302074524,302074516,0,False,secondary,Lakeville Road,147.748,,,,,,,yes,,,,"[38654241, 38654242, 20109214]",NY 15
+319255385,212525359,0,True,motorway_link,,550.289,,,,,,,,,,,20104965,
+319255385,301935078,0,True,motorway,Genesee Expressway,571.174,2,,,65 mph,,,,,,,38654240,I 390
+429484097,212535828,0,True,motorway,Genesee Expressway,923.778,2,,,65 mph,,,,,,,27501918,I 390
+429484097,2758193069,0,True,motorway_link,,369.697,,,,,,,,,,,379089119,
+429486713,429486775,0,True,motorway,Genesee Expressway,822.75,2,,,65 mph,,,,,,,27501918,I 390
+429486713,302074524,0,True,motorway_link,,416.288,,,,,,,,,,,379089115,
+429486775,212530401,0,True,motorway,Genesee Expressway,4557.109,2,,,65 mph,,,yes,,,,"[38654237, 27501918, 38654238]",I 390
+429488137,212539347,0,True,motorway_link,,543.719,,,,,,,,,,,20105490,
+429488137,429488301,0,True,motorway,Genesee Expressway,1102.203,2,,,65 mph,,,,,,,38653883,I 390
+429488301,302070147,0,True,motorway,Genesee Expressway,4494.708,2,,,65 mph,,,yes,,,,"[38654240, 38653883, 38654239]",I 390
+892562858,212543056,0,False,secondary,Lakeville Road,197.814,,,,,,,,,,,38654242,NY 15
+892562858,212556828,0,False,residential,Henty Road,2321.1,,,,,,,,,,,20109712,
+892562858,212554920,0,False,secondary,Lakeville Road,1423.618,,,,,,,,,,,38654242,NY 15
+1300353995,2079399361,0,False,primary,Mount Morris Road,79.709,2,,,55 mph,,,,,,,480162150,US 20A; NY 39; NY 63
+1300353995,1300353996,0,False,primary,Genesee Street,75.446,,,,55 mph,,,,,,,480162149,NY 63
+1300353996,2079399361,0,True,primary_link,,141.445,,,,,,,,,,,197730631,
+1300353996,1300353995,0,False,primary,Genesee Street,75.446,,,,55 mph,,,,,,,480162149,NY 63
+1351593508,212551825,0,False,primary,Genesee Street,14.814,,,,45 mph,,,,,,,131640049,NY 63
+2011754648,2011754649,0,False,residential,Yanni Court,76.666,,,,,,,,,,,190530340,
+2011754649,2011754648,0,False,residential,Yanni Court,76.666,,,,,,,,,,,190530340,
+2011754649,3045674384,0,False,residential,Athena Drive,235.627,,,,,,,,,,,20109738,
+2011754649,212592914,0,False,residential,Athena Drive,83.14,,,,,,,,,,,20109738,
+2011754650,2011754656,0,False,residential,Eleni Court,314.685,,,,,,,,,,,190530334,
+2011754656,2011754658,0,False,residential,Eleni Court,95.577,,,,,,,,,,,190530334,
+2011754656,2011754650,0,False,residential,Eleni Court,314.685,,,,,,,,,,,190530334,
+2011754656,212592924,0,False,residential,Demitrios Way,318.254,,,,,,,,,,,190530336,
+2011754658,212592924,0,False,residential,Athena Drive,110.776,,,,,,,,,,,20109738,
+2011754658,3045674384,0,False,residential,Athena Drive,118.681,,,,,,,,,,,20109738,
+2011754658,2011754656,0,False,residential,Eleni Court,95.577,,,,,,,,,,,190530334,
+2079148038,5297861552,0,False,residential,,54.79,,,,,,,,,,,197709683,
+2079148038,5297861552,1,False,residential,Clearview Drive,277.103,,,,,,,,,,,548390161,
+2079148038,212585612,0,False,residential,,424.889,,,,,,,,,,,197709683,
+2079148064,212538813,0,False,residential,,113.792,,,,,,,,,,,197709665,
+2079148164,212552717,0,False,residential,Ryan Drive,477.33,,,,,,,,,,,20106982,
+2079148332,212568341,0,False,primary,Lakeville Road,301.21,2,,,,,,,,,,139199341,US 20A
+2079148332,2079148346,0,False,residential,,107.469,,,,,,,,,,,197709679,
+2079148346,2079148351,0,False,residential,,77.585,,,,,,,,,,,197709640,
+2079148346,2079148381,0,False,residential,,204.41,,,,,,,,,,,197709679,
+2079148346,2079148332,0,False,residential,,107.469,,,,,,,,,,,197709679,
+2079148351,2079148387,0,False,residential,,202.465,,,,,,,,,,,197709640,
+2079148351,2079148346,0,False,residential,,77.585,,,,,,,,,,,197709640,
+2079148351,2079148383,0,False,residential,,172.258,,,,,,,,,,,197709664,
+2079148373,2079148375,0,False,residential,,35.434,,,,,,,,,,,197709678,
+2079148375,2079148373,0,False,residential,,35.434,,,,,,,,,,,197709678,
+2079148375,2079148391,0,False,residential,,112.649,,,,,,,,,,,197709667,
+2079148375,2079148381,0,False,residential,,94.952,,,,,,,,,,,197709678,
+2079148381,2079148383,0,False,residential,,94.857,,,,,,,,,,,197709678,
+2079148381,2079148375,0,False,residential,,94.952,,,,,,,,,,,197709678,
+2079148381,2079148346,0,False,residential,,204.41,,,,,,,,,,,197709679,
+2079148383,2079148381,0,False,residential,,94.857,,,,,,,,,,,197709678,
+2079148383,2079148387,0,False,residential,,77.412,,,,,,,,,,,197709678,
+2079148383,2079148351,0,False,residential,,172.258,,,,,,,,,,,197709664,
+2079148387,2079148383,0,False,residential,,77.412,,,,,,,,,,,197709678,
+2079148387,212569733,0,False,residential,,121.567,,,,,,,,,,,197709640,
+2079148387,2079148351,0,False,residential,,202.465,,,,,,,,,,,197709640,
+2079148391,2079148375,0,False,residential,,112.649,,,,,,,,,,,197709667,
+2079399354,2079399361,0,False,primary,Mount Morris Road,321.307,2,,,55 mph,,,,,,,20109822,US 20A; NY 39; NY 63
+2079399354,2079399340,0,True,primary_link,,181.094,,,,,,,,,,,197730627,
+2079399361,2079399354,0,False,primary,Mount Morris Road,321.307,2,,,55 mph,,,,,,,20109822,US 20A; NY 39; NY 63
+2079399361,1300353995,0,False,primary,Mount Morris Road,79.709,2,,,55 mph,,,,,,,480162150,US 20A; NY 39; NY 63
+2758193053,301934991,0,True,motorway_link,,503.614,,,,,,,,,,,20104111,
+2758193053,2758193069,0,True,primary,East Avon Lima Road,307.09,2,,,,,,yes,,,,"[270851496, 270851497, 38654248]",US 20;NY 5
+2758193055,2758193077,0,True,primary,East Avon Lima Road,171.038,2,,,,,,,,,,270851496,US 20;NY 5
+2758193055,212549282,0,False,primary,East Avon Lima Road,238.148,2,,,55 mph,,,,,,,"[20106620, 429550015]",US 20;NY 5
+2758193067,212549300,0,False,primary,East Avon Lima Road,186.321,2,,,,,,,,,,270851498,US 20;NY 5
+2758193067,212535718,0,True,primary,East Avon Lima Road,164.056,2,,,,,,,,,,270851499,US 20;NY 5
+2758193069,212535718,0,True,motorway_link,,12.78,,,,,,,,,,,379089113,
+2758193069,2758193067,0,True,primary,East Avon Lima Road,160.844,2,,,,,,,,,,38654248,US 20;NY 5
+2758193077,2758193053,0,True,primary,East Avon Lima Road,66.549,2,,,,,,,,,,270851496,US 20;NY 5
+3045674384,2011754658,0,False,residential,Athena Drive,118.681,,,,,,,,,,,20109738,
+3045674384,3045674385,0,False,residential,Tasos Run,65.544,,,,,,,,,,,300490471,
+3045674384,2011754649,0,False,residential,Athena Drive,235.627,,,,,,,,,,,20109738,
+3045674385,3045674384,0,False,residential,Tasos Run,65.544,,,,,,,,,,,300490471,
+3045674411,212589472,0,False,unclassified,Tec Drive,485.849,,,,,,,,,,,300490473,
+3808467148,3808467149,0,False,unclassified,,31.862,,,,,,,,,,,377472487,
+3808467148,212529390,0,False,primary,Lakeville Road,257.072,2,,,35 mph,,,,,,,20109216,US 20A
+3808467148,212555684,0,False,primary,Lakeville Road,251.127,2,,,35 mph,,,,,,,20109216,US 20A
+3808467149,3808467148,0,False,unclassified,,31.862,,,,,,,,,,,377472487,
+3808467149,3808467152,0,False,unclassified,,73.242,,,,,,,,,,,377472487,
+3808467149,3808467152,1,False,unclassified,,68.336,,,,,,,,,,,417621486,
+3808467152,3808467155,0,False,unclassified,,38.877,,,,,,,,,,,417621486,
+3808467152,3808467149,0,False,unclassified,,73.242,,,,,,,,,,,377472487,
+3808467152,3808467149,1,False,unclassified,,68.336,,,,,,,,,,,417621486,
+3808467155,3808467152,0,False,unclassified,,38.877,,,,,,,,,,,417621486,
+3808467155,212555684,0,False,residential,Reservoir Road,273.721,,,,,,,,,,,44160135,
+3808467155,212586308,0,False,residential,Reservoir Road,1241.464,,,,,,,,,,,44160135,
+3808889282,3808889285,0,False,unclassified,,121.235,,,,,,,,,,,377514710,
+3808889282,3808889285,1,False,unclassified,,164.104,,,,,,,,,,,443254169,
+3808889282,4121749781,0,False,unclassified,,248.517,,,,,,,,,,,377514710,
+3808889285,3808889286,0,False,unclassified,,11.301,,,,,,,,,,,377514710,
+3808889285,3808889282,0,False,unclassified,,121.235,,,,,,,,,,,377514710,
+3808889285,3808889282,1,False,unclassified,,164.104,,,,,,,,,,,443254169,
+3808889286,3808889285,0,False,unclassified,,11.301,,,,,,,,,,,377514710,
+4121749781,212556781,0,False,primary,Lakeville Road,43.395,2,,,55 mph,,,,,,,548241176,US 20A
+4121749781,3808889282,0,False,unclassified,,248.517,,,,,,,,,,,377514710,
+4121749781,212585645,0,False,primary,Lakeville Road,1332.732,2,,,55 mph,,,,,,,548241176,US 20A
+5297861552,2079148038,0,False,residential,,54.79,,,,,,,,,,,197709683,
+5297861552,2079148038,1,False,residential,Clearview Drive,277.103,,,,,,,,,,,548390161,
+5297861552,212586308,0,False,residential,,330.979,,,,,,,,,,,197709683,

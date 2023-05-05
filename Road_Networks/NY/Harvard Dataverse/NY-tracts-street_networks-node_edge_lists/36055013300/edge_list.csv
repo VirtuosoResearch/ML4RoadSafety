@@ -1,0 +1,409 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+212601753,212601763,0,True,motorway_link,,480.143,,,,,,,,,,,20110204,
+212601753,212601771,0,True,motorway,Genesee Expressway,1250.286,2,,,65 mph,,,,,,,44136182,I 390
+212601763,212655567,0,False,secondary,Rush Scottsville Road,137.321,,,,,,,,,,,38654504,NY 251
+212601763,212614055,0,False,secondary,Rush Scottsville Road,189.771,,,,,,,yes,,,,"[38654504, 426077208, 38654500]",NY 251
+212601763,212601766,0,True,secondary_link,,274.148,,,,,,,,,,,75728017,
+212601766,3723719418,0,True,motorway_link,,40.192,,,,,,,,,,,480179668,
+212601766,3723719417,0,False,secondary,West Henrietta Road,43.869,,,,,,,,,,,480179669,NY 15
+212601766,212614073,0,False,secondary,West Henrietta Road,231.044,,,,,,,yes,,,,"[38654505, 109306033, 480179670]",NY 15
+212614055,3723719639,0,True,motorway_link,,24.587,,,,,,,,,,,183385284,
+212614055,3723719638,0,False,secondary,Rush Scottsville Road,26.594,,,,,,,,,,,426077208,NY 251
+212614055,212601763,0,False,secondary,Rush Scottsville Road,189.771,,,,,,,yes,,,,"[426077208, 38654504, 38654500]",NY 251
+212614073,3283603174,0,False,secondary,West Henrietta Road,53.326,,,,,,,,,,,109306033,NY 15
+212614073,3723719640,0,True,secondary_link,,533.585,,,,,,,,,,,27515952,
+212614073,212601766,0,False,secondary,West Henrietta Road,231.044,,,,,,,yes,,,,"[109306033, 480179670, 38654505]",NY 15
+212614081,3283603169,0,True,motorway_link,,390.361,,,,,,,,,,,20111015,
+212614081,212614052,0,True,motorway,Genesee Expressway,1438.053,2,,,65 mph,,,,,,,38654508,I 390
+212621614,212787724,0,False,secondary,Rush Lima Road,894.799,,,,,,,,,,,20134825,NY 15A
+212625958,212625974,0,False,residential,Kavanaugh Road,1854.568,,,,,,,,,,,20111825,
+212625958,5280179377,0,False,residential,Stonybrook Road,810.645,,,,,,,,,,,20133148,
+212625958,5266711885,0,False,residential,Stonybrook Road,2393.791,,,,,,,,,,,20133148,
+212625974,212625958,0,False,residential,Kavanaugh Road,1854.568,,,,,,,,,,,20111825,
+212625974,2380269904,0,False,tertiary,Works Road,350.103,,,,,,,,,,,20113032,CR 78
+212625974,3088968513,0,False,tertiary,Works Road,444.081,,,,,,,,,,,20113032,CR 78
+212640224,5280179377,0,False,residential,Five Points Road,2412.28,,,,,,,,,,,20112707,
+212640224,212717376,0,False,residential,Rush West Rush Road,250.485,,,,,,,,,,,20141631,
+212640224,212655602,0,False,residential,Rush West Rush Road,760.607,,,,,,,,,,,20141631,
+212640281,212690697,0,False,tertiary,Honeoye Falls 6 Road,306.628,,,,,,,,,,,38654490,CR 63
+212640281,5280179377,0,False,residential,Five Points Road,1607.669,,,,,,,,,,,20112707,
+212640281,212645048,0,False,tertiary,Honeoye Falls 6 Road,1429.3,,,,,,,,,,,38654490,CR 63
+212640722,212640724,0,False,residential,Ryder Hill Road,219.804,,,,,,,,,,,133755781,
+212640722,212912264,0,False,residential,"['Centennial Drive', 'Cottage Street']",903.53,,,,,,,,,,,"[112549329, 20126170]",
+212640722,1278927577,0,False,residential,Ryder Hill Road,1451.099,,,,,,,,,,,133755781,
+212640724,212640722,0,False,residential,Ryder Hill Road,219.804,,,,,,,,,,,133755781,
+212640724,212640738,0,False,residential,Ryder Hill Road,396.497,,,,,,,,,,,133755781,
+212640724,212765747,0,False,road,School Street,252.944,,,,,,,,,,,277462995,
+212640738,212640752,0,False,residential,Ryder Hill Road,218.581,,,,,,,,,,,133755781,
+212640738,212640724,0,False,residential,Ryder Hill Road,396.497,,,,,,,,,,,133755781,
+212640738,212786102,0,False,residential,"['School Street', 'Chapel Drive']",330.152,,,,,,,,,,,"[160654293, 160654327]",
+212640752,212793493,0,False,secondary,Rush Scottsville Road,434.503,,,,,,,,,,,426077208,NY 251
+212640752,212786102,0,False,secondary,Rush Scottsville Road,226.391,,,,,,,,,,,426077208,NY 251
+212640752,212640738,0,False,residential,Ryder Hill Road,218.581,,,,,,,,,,,133755781,
+212642507,3088968513,0,False,residential,Phelps Road,607.138,,,,,,,,,,,20112876,
+212642507,212787724,0,False,residential,Keyes Road,1665.481,,,,,,,,,,,20139467,
+212642529,3088968513,0,False,tertiary,Phelps Road,2199.787,,,,,,,,,,,20112882,CR 76
+212642529,212787724,0,False,secondary,Rush Lima Road,772.063,,,,,,,,,,,20134825,NY 15A
+212642529,212847449,0,False,secondary,Rush Lima Road,662.623,,,,,,,,,,,20134825,NY 15A
+212645037,2380269904,0,False,tertiary,Works Road,407.928,,,,,,,,,,,20113032,CR 78
+212645037,212645048,0,False,tertiary,Works Road,1718.705,,,,,,,,,,,20113032,CR 78
+212645037,5280179377,0,False,residential,Honeoye Falls Five Pt Road,2013.985,,,,,,,,,,,20130239,
+212645048,212645037,0,False,tertiary,Works Road,1718.705,,,,,,,,,,,20113032,CR 78
+212645048,212640281,0,False,tertiary,Honeoye Falls 6 Road,1429.3,,,,,,,,,,,38654490,CR 63
+212647631,212647634,0,False,residential,Rush Mendon Townline Road,1165.939,,,,,,,,,,,20113175,
+212647631,212655194,0,False,residential,Lyons Road,666.519,,,,,,,,,,,20113632,
+212647634,212647631,0,False,residential,Rush Mendon Townline Road,1165.939,,,,,,,,,,,20113175,
+212647634,212669676,0,False,secondary,Rush Mendon Road,1599.282,2,,,,,,,,,,139456806,NY 251
+212653317,212653319,0,False,residential,Nelson Parkway,78.234,,,,,,,,,,,20113537,
+212653317,212669676,0,False,secondary,Rush Mendon Road,1169.183,2,,,,,,,,,,139456806,NY 251
+212653317,212755968,0,False,secondary,Rush Mendon Road,273.638,2,,,,,,,,,,139456806,NY 251
+212653319,212653317,0,False,residential,Nelson Parkway,78.234,,,,,,,,,,,20113537,
+212653319,212653319,0,False,residential,Nelson Parkway,135.871,,,,,,,,,,,20113539,
+212653319,212653319,1,False,residential,Nelson Parkway,135.871,,,,,,,,,,,20113539,
+212655188,212655194,0,False,residential,Lyons Road,980.857,,,,,,,,,,,20113632,
+212655188,212669676,0,False,tertiary,Pinnacle Road,940.014,,,,,,,,,,,38173714,CR 92
+212655188,212669591,0,False,tertiary,Pinnacle Road,384.089,,,,,,,,,,,38173714,CR 92
+212655194,212647631,0,False,residential,Lyons Road,666.519,,,,,,,,,,,20113632,
+212655194,212655188,0,False,residential,Lyons Road,980.857,,,,,,,,,,,20113632,
+212655544,5277917430,0,False,residential,Rush Henrietta Townline Road,493.124,,,,,,,,,,,20126779,
+212655544,212808800,0,False,residential,Rush Henrietta Townline Road,2129.201,,,,,,,,,,,20126779,
+212655544,212655548,0,False,secondary,West Henrietta Road,378.533,,,,,,,,,,,109306033,NY 15
+212655548,5277917430,0,False,residential,High Tech Drive,739.63,,,,,,,,,,,20129779,
+212655548,3283603174,0,False,secondary,West Henrietta Road,736.91,,,,,,,,,,,109306033,NY 15
+212655548,212655544,0,False,secondary,West Henrietta Road,378.533,,,,,,,,,,,109306033,NY 15
+212655567,212601763,0,False,secondary,Rush Scottsville Road,137.321,,,,,,,,,,,38654504,NY 251
+212655567,212793513,0,False,secondary,Rush Scottsville Road,741.577,,,,,,,,,,,38654504,NY 251
+212655567,5452232836,0,False,secondary,West Henrietta Road,114.07,,,,,,,,,,,38654506,NY 15
+212655567,3723719417,0,False,secondary,West Henrietta Road,199.115,,,,,,,,,,,38654506,NY 15
+212655586,212689463,0,False,residential,Fishell Road,2648.283,,,,,,,,,,,20116064,
+212655586,212655597,0,False,secondary,West Henrietta Road,167.438,,,,,,,yes,,,,"[38654506, 297132084, 297132085]",NY 15
+212655586,5452232836,0,False,secondary,West Henrietta Road,1671.628,,,,,,,,,,,38654506,NY 15
+212655597,212689434,0,False,residential,Fishell Road,306.351,,,,,,,,,,,20116061,
+212655597,212655602,0,False,secondary,West Henrietta Road,698.708,,,,,,,,,,,297132084,NY 15
+212655597,212655586,0,False,secondary,West Henrietta Road,167.438,,,,,,,yes,,,,"[38654506, 297132084, 297132085]",NY 15
+212655602,212640224,0,False,residential,Rush West Rush Road,760.607,,,,,,,,,,,20141631,
+212655602,212928285,0,False,residential,Rush West Rush Road,1016.102,,,,,,,,,,,20141631,
+212655602,212655609,0,False,secondary,West Henrietta Road,1487.817,,,,,,,,,,,297132084,NY 15
+212655602,212655597,0,False,secondary,West Henrietta Road,698.708,,,,,,,,,,,297132084,NY 15
+212655609,5280179377,0,False,residential,Honeoye Falls Five Pt Road,1690.407,,,,,,,,,,,20130239,
+212655609,212655639,0,False,secondary,West Henrietta Road,2596.537,,,,,,,yes,,,,"[38654488, 297132084, 38654487]",NY 15
+212655609,212655602,0,False,secondary,West Henrietta Road,1487.817,,,,,,,,,,,297132084,NY 15
+212655639,212699406,0,False,tertiary,Honeoye Falls 6 Road,890.276,,,,,,,,,,,20116605,CR 63
+212655639,212655655,0,False,secondary,West Henrietta Road,253.831,,,,,,,,,,,38654488,NY 15
+212655639,212655609,0,False,secondary,West Henrietta Road,2596.537,,,,,,,yes,,,,"[38654488, 297132084, 38654487]",NY 15
+212655639,212690697,0,False,tertiary,Honeoye Falls 6 Road,2468.602,,,,,,,yes,,,,"[38654489, 38654490, 139602484]",CR 63
+212655655,212947529,0,False,residential,Hartwell Road,1206.844,,,,,,,,,,,20138787,
+212655655,212655639,0,False,secondary,West Henrietta Road,253.831,,,,,,,,,,,38654488,NY 15
+212669587,212869556,0,False,residential,Jeffords Road,479.249,,,,,,,,,,,20132311,
+212669587,212669591,0,False,tertiary,Pinnacle Road,465.771,,,,,,,,,,,38173714,CR 92
+212669591,212880826,0,False,residential,Pheasant Run,390.219,,,,,,,,,,,20133430,
+212669591,212655188,0,False,tertiary,Pinnacle Road,384.089,,,,,,,,,,,38173714,CR 92
+212669591,212669587,0,False,tertiary,Pinnacle Road,465.771,,,,,,,,,,,38173714,CR 92
+212669676,212655188,0,False,tertiary,Pinnacle Road,940.014,,,,,,,,,,,38173714,CR 92
+212669676,212647634,0,False,secondary,Rush Mendon Road,1599.282,2,,,,,,,,,,139456806,NY 251
+212669676,212653317,0,False,secondary,Rush Mendon Road,1169.183,2,,,,,,,,,,139456806,NY 251
+212671217,212919932,0,False,residential,"['Meadowood Estates', 'Stull Road']",1128.53,,,,,,,,,,,"[20114713, 20136921]",
+212671217,212699363,0,False,tertiary,East River Road,897.123,,,,,,,,,,,525919953,CR 84
+212671217,212843803,0,False,tertiary,East River Road,1840.84,,,,,,,,,,,525919953,CR 84
+212676960,212676987,0,False,residential,Maple Street,257.483,,,,,,,,,,,20115239,
+212676960,212912359,0,False,residential,Centennial Drive,215.183,,,,,,,,,,,160654291,
+212676960,212912318,0,False,residential,Centennial Drive,347.26,,,,,,,,,,,160654291,
+212676987,212676992,0,False,residential,Maple Street,118.754,,,,,,,,,,,20115239,
+212676987,212676960,0,False,residential,Maple Street,257.483,,,,,,,,,,,20115239,
+212676987,212765747,0,False,residential,Scout Road,123.749,,,,,,,,,,,20122779,
+212676992,212866493,0,False,residential,"['Chapel Drive', 'School Street', 'Maple Street']",274.374,,,,,,,,,,,"[160654330, 20137347, 20115239]",
+212676992,212866493,1,False,residential,Central Drive,145.808,,,,,,,,,,,20137762,
+212676992,212676987,0,False,residential,Maple Street,118.754,,,,,,,,,,,20115239,
+212676992,212912359,0,False,residential,Central Drive,149.239,,,,,,,,,,,20137762,
+212676999,1726928953,0,False,residential,Maple Street,105.23,,,,,,,,,,,160654311,
+212676999,212786102,0,False,secondary,Rush Scottsville Road,158.901,,,,,,,,,,,426077208,NY 251
+212676999,212783328,0,False,secondary,Rush Scottsville Road,137.673,,,,,,,,,,,426077208,NY 251
+212688851,212688886,0,False,residential,Golah Road,1472.284,,,,,,,,,,,20116018,
+212688886,212688851,0,False,residential,Golah Road,1472.284,,,,,,,,,,,20116018,
+212688886,212843803,0,False,tertiary,East River Road,303.072,,,,,,,,,,,525919953,CR 84
+212688886,212890259,0,False,tertiary,East River Road,489.758,,,,,,,,,,,525919953,CR 84
+212689434,212713334,0,False,residential,Delia Trail,211.836,,,,,,,,,,,20117565,
+212689434,212689453,0,False,residential,Fishell Road,323.134,,,,,,,,,,,20116061,
+212689434,212655597,0,False,residential,Fishell Road,306.351,,,,,,,,,,,20116061,
+212689453,212689434,0,False,residential,Fishell Road,323.134,,,,,,,,,,,20116061,
+212689453,5266711885,0,False,residential,Rush West Rush Road,836.646,,,,,,,,,,,20141631,
+212689453,212717376,0,False,residential,Rush West Rush Road,158.801,,,,,,,,,,,20141631,
+212689463,212655586,0,False,residential,Fishell Road,2648.283,,,,,,,,,,,20116064,
+212689463,212890226,0,False,tertiary,East River Road,826.762,,,,,,,,,,,75665682,CR 84
+212689463,212798050,0,False,tertiary,East River Road,299.509,,,,,,,,,,,75665682,CR 84
+212690697,212640281,0,False,tertiary,Honeoye Falls 6 Road,306.628,,,,,,,,,,,38654490,CR 63
+212690697,212655639,0,False,tertiary,Honeoye Falls 6 Road,2468.602,,,,,,,yes,,,,"[38654489, 38654490, 139602484]",CR 63
+212694440,212694445,0,False,residential,Pine Knoll Street,80.521,,,,,,,,,,,20116332,
+212694440,212694445,1,False,residential,Roswall Lane,984.243,,,,,,,,,,,20130028,
+212694440,212845013,0,False,residential,Roswall Lane,22.806,,,,,,,,,,,20130028,
+212694445,212694440,0,False,residential,Pine Knoll Street,80.521,,,,,,,,,,,20116332,
+212694445,212694440,1,False,residential,Roswall Lane,984.243,,,,,,,,,,,20130028,
+212694445,212783330,0,False,residential,Roswall Lane,102.722,,,,,,,,,,,20130028,
+212699363,212699379,0,False,tertiary,Honeoye Falls 6 Road,63.912,,,,,,,,,,,20116605,CR 63
+212699363,212730974,0,False,tertiary,East River Road,604.795,,,,,,,,,,,525919953,CR 84
+212699363,212671217,0,False,tertiary,East River Road,897.123,,,,,,,,,,,525919953,CR 84
+212699379,212699406,0,False,tertiary,Honeoye Falls 6 Road,1162.302,,,,,,,,,,,20116605,CR 63
+212699379,212699363,0,False,tertiary,Honeoye Falls 6 Road,63.912,,,,,,,,,,,20116605,CR 63
+212699379,212730974,0,False,residential,Old East River Road,669.649,,,,,,,,,,,20118898,
+212699406,212655639,0,False,tertiary,Honeoye Falls 6 Road,890.276,,,,,,,,,,,20116605,CR 63
+212699406,212699379,0,False,tertiary,Honeoye Falls 6 Road,1162.302,,,,,,,,,,,20116605,CR 63
+212699406,212843803,0,False,residential,Woodruff Road,2269.62,,,,,,,,,,,20129893,
+212713334,212689434,0,False,residential,Delia Trail,211.836,,,,,,,,,,,20117565,
+212713334,5266304800,0,False,residential,Biondo Court,116.135,,,,,,,,,,,20117878,
+212713334,212717376,0,False,residential,Biondo Court,244.381,,,,,,,,,,,20117878,
+212717376,212713334,0,False,residential,Biondo Court,244.381,,,,,,,,,,,20117878,
+212717376,212689453,0,False,residential,Rush West Rush Road,158.801,,,,,,,,,,,20141631,
+212717376,212640224,0,False,residential,Rush West Rush Road,250.485,,,,,,,,,,,20141631,
+212721263,212808814,0,False,residential,Pine Tree Trail,147.904,,,,,,,,,,,20129170,
+212721263,212721280,0,False,residential,Pine Tree Circle,304.114,,,,,,,,,,,20118209,
+212721263,212835226,0,False,residential,Pine Tree Trail,107.838,,,,,,,,,,,20129170,
+212721280,212808814,0,False,residential,Rush Henrietta Townline Road,158.874,,,,,,,,,,,20126779,
+212721280,212721263,0,False,residential,Pine Tree Circle,304.114,,,,,,,,,,,20118209,
+212721280,212794354,0,False,residential,Rush Henrietta Townline Road,652.168,,,,,,,,,,,20126779,
+212730974,212699379,0,False,residential,Old East River Road,669.649,,,,,,,,,,,20118898,
+212730974,212699363,0,False,tertiary,East River Road,604.795,,,,,,,,,,,525919953,CR 84
+212752516,212833979,0,False,residential,Industry Rd No 11,354.307,,,,,,,,,,,20129035,
+212752519,212786208,0,False,residential,Forest Lane,884.481,,,,,,,,,,,160654307,
+212752577,212912359,0,False,residential,Central Drive,129.389,,,,,,,,,,,20137762,
+212754701,3009794793,0,False,residential,Rush West Rush Road,34.188,,,,,,,,,,,20141631,
+212754701,3009794798,0,False,residential,Creekside Drive,38.967,,,,,,,,,,,20121333,
+212754701,212890255,0,False,residential,Rush West Rush Road,63.795,,,,,,,,,,,20141631,
+212754706,3009794798,0,False,residential,Creekside Drive,101.367,,,,,,,,,,,20121333,
+212754706,212805730,0,False,residential,Mill Road,289.154,,,,,,,,,,,20126527,
+212754706,212805709,0,False,residential,Mill Road,105.971,,,,,,,,,,,20126527,
+212755690,212755693,0,False,residential,Botwood Lane,47.824,,,,,,,,,,,20121467,
+212755690,212776825,0,False,residential,Farmcrest Drive,589.082,,,,,,,,,,,20141715,
+212755690,212885378,0,False,residential,Farmcrest Drive,169.062,,,,,,,,,,,20141715,
+212755693,212755690,0,False,residential,Botwood Lane,47.824,,,,,,,,,,,20121467,
+212755953,212755968,0,True,secondary_link,,40.217,,,,,,,,,,,20121522,
+212755953,5258090485,0,False,secondary,East Henrietta Road,435.115,,,,,,,yes,,,,"[160654305, 160654306, 139282932]",NY 15A
+212755953,212793593,0,False,secondary,East Henrietta Road,31.978,,,,,,,,,,,139282932,NY 15A
+212755968,212653317,0,False,secondary,Rush Mendon Road,273.638,2,,,,,,,,,,139456806,NY 251
+212755968,212793593,0,False,secondary,Rush Mendon Road,35.952,2,,,,,,,,,,139456806,NY 251
+212765747,212676987,0,False,residential,Scout Road,123.749,,,,,,,,,,,20122779,
+212765747,212866493,0,False,residential,School Street,135.643,,,,,,,,,,,160654330,
+212765747,212640724,0,False,road,School Street,252.944,,,,,,,,,,,277462995,
+212776823,212776825,0,False,residential,Harvest Lane,143.748,,,,,,,,,,,20124003,
+212776823,212793513,0,False,tertiary,Middle Road,162.041,,,,,,,,,,,33481938,
+212776823,212885378,0,False,tertiary,Middle Road,614.842,,,,,,,,,,,33481938,
+212776825,212776829,0,False,residential,Harvest Lane,45.108,,,,,,,,,,,20124003,
+212776825,212776823,0,False,residential,Harvest Lane,143.748,,,,,,,,,,,20124003,
+212776825,212755690,0,False,residential,Farmcrest Drive,589.082,,,,,,,,,,,20141715,
+212776829,212776825,0,False,residential,Harvest Lane,45.108,,,,,,,,,,,20124003,
+212778349,212778363,0,False,residential,Sylvan Knolls,424.34,,,,,,,,,,,20124155,
+212778363,212778349,0,False,residential,Sylvan Knolls,424.34,,,,,,,,,,,20124155,
+212778363,212885378,0,False,tertiary,Middle Road,481.703,,,,,,,,,,,33481938,
+212783328,212676999,0,False,secondary,Rush Scottsville Road,137.673,,,,,,,,,,,426077208,NY 251
+212783328,212783330,0,False,residential,Roswell Lane,263.09,,,,,,,,,,,20124627,
+212783328,212912359,0,False,residential,Centennial Drive,195.126,,,,,,,,,,,160654291,
+212783330,212694445,0,False,residential,Roswall Lane,102.722,,,,,,,,,,,20130028,
+212783330,212783328,0,False,residential,Roswell Lane,263.09,,,,,,,,,,,20124627,
+212783330,212845013,0,False,residential,Roswall Lane,94.388,,,,,,,,,,,20130023,
+212786102,212640752,0,False,secondary,Rush Scottsville Road,226.391,,,,,,,,,,,426077208,NY 251
+212786102,212676999,0,False,secondary,Rush Scottsville Road,158.901,,,,,,,,,,,426077208,NY 251
+212786102,212786108,0,False,residential,Forest Lane,246.002,,,,,,,,,,,20124891,
+212786102,212640738,0,False,residential,"['School Street', 'Chapel Drive']",330.152,,,,,,,,,,,"[160654293, 160654327]",
+212786108,212786102,0,False,residential,Forest Lane,246.002,,,,,,,,,,,20124891,
+212786208,212752519,0,False,residential,Forest Lane,884.481,,,,,,,,,,,160654307,
+212787724,212621614,0,False,secondary,Rush Lima Road,894.799,,,,,,,,,,,20134825,NY 15A
+212787724,212642529,0,False,secondary,Rush Lima Road,772.063,,,,,,,,,,,20134825,NY 15A
+212787724,212642507,0,False,residential,Keyes Road,1665.481,,,,,,,,,,,20139467,
+212792644,212792682,0,False,residential,River Forest Trail,355.409,,,,,,,,,,,20125433,
+212792644,212798050,0,False,tertiary,East River Road,879.595,,,,,,,,,,,75665682,CR 84
+212792644,212793493,0,False,tertiary,East River Road,423.747,,,,,,,,,,,75665682,CR 84
+212792682,212792644,0,False,residential,River Forest Trail,355.409,,,,,,,,,,,20125433,
+212793493,212640752,0,False,secondary,Rush Scottsville Road,434.503,,,,,,,,,,,426077208,NY 251
+212793493,212792644,0,False,tertiary,East River Road,423.747,,,,,,,,,,,75665682,CR 84
+212793493,212815939,0,False,tertiary,East River Road,396.064,,,,45 mph,,,,,,,390635545,CR 84
+212793493,3723719679,0,False,secondary,Rush Scottsville Road,2186.208,,,,,,,,,,,426077208,NY 251
+212793513,212776823,0,False,tertiary,Middle Road,162.041,,,,,,,,,,,33481938,
+212793513,212793582,0,False,secondary,Rush Scottsville Road,964.49,,,,,,,,,,,38654504,NY 251
+212793513,212655567,0,False,secondary,Rush Scottsville Road,741.577,,,,,,,,,,,38654504,NY 251
+212793582,212813663,0,False,residential,Hanlon Drive,104.7,,,,,,,,,,,20127246,
+212793582,212793593,0,False,secondary,Rush Scottsville Road,373.605,,,,,,,,,,,38654504,NY 251
+212793582,212793513,0,False,secondary,Rush Scottsville Road,964.49,,,,,,,,,,,38654504,NY 251
+212793593,212927093,0,False,secondary,East Henrietta Road,176.281,,,,,,,,,,,38173716,NY 15A
+212793593,212793582,0,False,secondary,Rush Scottsville Road,373.605,,,,,,,,,,,38654504,NY 251
+212793593,212755953,0,False,secondary,East Henrietta Road,31.978,,,,,,,,,,,139282932,NY 15A
+212793593,212755968,0,False,secondary,Rush Mendon Road,35.952,2,,,,,,,,,,139456806,NY 251
+212794354,212794391,0,False,residential,Aprille Lane,276.352,,,,,,,,,,,20125564,
+212794354,212808817,0,False,residential,Rush Henrietta Townline Road,148.196,,,,,,,,,,,20126779,
+212794354,212721280,0,False,residential,Rush Henrietta Townline Road,652.168,,,,,,,,,,,20126779,
+212794391,212794354,0,False,residential,Aprille Lane,276.352,,,,,,,,,,,20125564,
+212798050,212798066,0,False,residential,Perry Hill Road,718.706,,,,,,,,,,,20125889,
+212798050,212689463,0,False,tertiary,East River Road,299.509,,,,,,,,,,,75665682,CR 84
+212798050,212792644,0,False,tertiary,East River Road,879.595,,,,,,,,,,,75665682,CR 84
+212798066,212798050,0,False,residential,Perry Hill Road,718.706,,,,,,,,,,,20125889,
+212805709,212754706,0,False,residential,Mill Road,105.971,,,,,,,,,,,20126527,
+212805709,212890255,0,False,tertiary,East River Road,79.314,,,,,,,,,,,525919953,CR 84
+212805709,212890226,0,False,tertiary,East River Road,543.061,2,,,,,,yes,,,,"[525919953, 525919946, 75665682]",CR 84
+212805730,212754706,0,False,residential,Mill Road,289.154,,,,,,,,,,,20126527,
+212808793,212808800,0,False,residential,Rush Henrietta Townline Road,1203.67,,,,,,,,,,,20126779,
+212808793,212833979,0,False,tertiary,East River Road,1053.871,,,,55 mph,,,,,,,390635543,CR 84
+212808800,212655544,0,False,residential,Rush Henrietta Townline Road,2129.201,,,,,,,,,,,20126779,
+212808800,212808793,0,False,residential,Rush Henrietta Townline Road,1203.67,,,,,,,,,,,20126779,
+212808800,212815939,0,False,residential,Telephone Road,1534.717,,,,,,,,,,,20127503,
+212808814,212721280,0,False,residential,Rush Henrietta Townline Road,158.874,,,,,,,,,,,20126779,
+212808814,212721263,0,False,residential,Pine Tree Trail,147.904,,,,,,,,,,,20129170,
+212808817,212794354,0,False,residential,Rush Henrietta Townline Road,148.196,,,,,,,,,,,20126779,
+212808817,212869551,0,False,secondary,East Henrietta Road,971.253,,,,,,,,,,,38173716,NY 15A
+212813663,212793582,0,False,residential,Hanlon Drive,104.7,,,,,,,,,,,20127246,
+212813663,1726928896,0,False,residential,Hanlon Drive,194.574,,,,,,,,,,,20127246,
+212813663,212927093,0,False,residential,Pleasant Drive,267.47,,,,,,,,,,,20137423,
+212815939,1726929028,0,False,residential,Telephone Road,137.496,,,,,,,,,,,390635544,
+212815939,212808800,0,False,residential,Telephone Road,1534.717,,,,,,,,,,,20127503,
+212815939,212833979,0,False,tertiary,East River Road,161.369,,,,55 mph,,,,,,,390635543,CR 84
+212815939,212793493,0,False,tertiary,East River Road,396.064,,,,45 mph,,,,,,,390635545,CR 84
+212833979,212752516,0,False,residential,Industry Rd No 11,354.307,,,,,,,,,,,20129035,
+212833979,212815939,0,False,tertiary,East River Road,161.369,,,,55 mph,,,,,,,390635543,CR 84
+212833979,212808793,0,False,tertiary,East River Road,1053.871,,,,55 mph,,,,,,,390635543,CR 84
+212835226,212721263,0,False,residential,Pine Tree Trail,107.838,,,,,,,,,,,20129170,
+212835998,5256038232,0,False,residential,Birchstone Hill Road,474.292,,,,,,,,,,,20129206,
+212835998,212869556,0,False,residential,Jeffords Road,405.875,,,,,,,,,,,20132311,
+212835998,212869551,0,False,residential,Jeffords Road,805.785,,,,,,,,,,,20132311,
+212843803,212699406,0,False,residential,Woodruff Road,2269.62,,,,,,,,,,,20129893,
+212843803,212671217,0,False,tertiary,East River Road,1840.84,,,,,,,,,,,525919953,CR 84
+212843803,212688886,0,False,tertiary,East River Road,303.072,,,,,,,,,,,525919953,CR 84
+212845013,212694440,0,False,residential,Roswall Lane,22.806,,,,,,,,,,,20130028,
+212845013,212958088,0,False,residential,Five Nations Road,138.587,,,,,,,,,,,20139593,
+212845013,212783330,0,False,residential,Roswall Lane,94.388,,,,,,,,,,,20130023,
+212847449,212847505,0,False,residential,Boulder Creek Drive,967.19,,,,,,,,,,,20130234,
+212847449,212642529,0,False,secondary,Rush Lima Road,662.623,,,,,,,,,,,20134825,NY 15A
+212847449,212881174,0,False,secondary,Rush Lima Road,365.573,,,,,,,,,,,20134825,NY 15A
+212847505,212847449,0,False,residential,Boulder Creek Drive,967.19,,,,,,,,,,,20130234,
+212847505,212847505,0,False,residential,Boulder Creek Drive,138.174,,,,,,,,,,,321605866,
+212847505,212847505,1,False,residential,Boulder Creek Drive,138.174,,,,,,,,,,,321605866,
+212866493,212676992,0,False,residential,Central Drive,145.808,,,,,,,,,,,20137762,
+212866493,212676992,1,False,residential,"['Maple Street', 'School Street', 'Chapel Drive']",274.374,,,,,,,,,,,"[160654330, 20137347, 20115239]",
+212866493,212765747,0,False,residential,School Street,135.643,,,,,,,,,,,160654330,
+212869551,212835998,0,False,residential,Jeffords Road,805.785,,,,,,,,,,,20132311,
+212869551,212927093,0,False,secondary,East Henrietta Road,1424.412,,,,,,,,,,,38173716,NY 15A
+212869551,212808817,0,False,secondary,East Henrietta Road,971.253,,,,,,,,,,,38173716,NY 15A
+212869556,212669587,0,False,residential,Jeffords Road,479.249,,,,,,,,,,,20132311,
+212869556,212835998,0,False,residential,Jeffords Road,405.875,,,,,,,,,,,20132311,
+212869556,212871431,0,False,residential,Rush Hills Drive,91.035,,,,,,,,,,,20141736,
+212871431,212871448,0,False,residential,Hillock Road,131.099,,,,,,,,,,,20132523,
+212871431,212986654,0,False,residential,Rush Hills Drive,150.659,,,,,,,,,,,20141736,
+212871431,212869556,0,False,residential,Rush Hills Drive,91.035,,,,,,,,,,,20141736,
+212871448,212871448,0,False,residential,Hillock Road,69.266,,,,,,,,,,,20132523,
+212871448,212871448,1,False,residential,Hillock Road,69.266,,,,,,,,,,,20132523,
+212871448,212871431,0,False,residential,Hillock Road,131.099,,,,,,,,,,,20132523,
+212874237,212874252,0,False,residential,Memory Lane,223.671,,,,,,,,,,,20132733,
+212874237,212928285,0,False,residential,Rush West Rush Road,304.446,,,,,,,,,,,20141631,
+212874237,3009794793,0,False,residential,Rush West Rush Road,553.252,,,,,,,,,,,20141631,
+212874252,212874237,0,False,residential,Memory Lane,223.671,,,,,,,,,,,20132733,
+212880826,212669591,0,False,residential,Pheasant Run,390.219,,,,,,,,,,,20133430,
+212881174,5258090503,0,False,residential,Lehigh Street,265.081,,,,,,,,,,,"[20133472, 543937219]",
+212881174,212847449,0,False,secondary,Rush Lima Road,365.573,,,,,,,,,,,20134825,NY 15A
+212881174,212893929,0,False,secondary,Rush Lima Road,103.054,,,,,,,,,,,20134825,NY 15A
+212885378,212776823,0,False,tertiary,Middle Road,614.842,,,,,,,,,,,33481938,
+212885378,212755690,0,False,residential,Farmcrest Drive,169.062,,,,,,,,,,,20141715,
+212885378,212778363,0,False,tertiary,Middle Road,481.703,,,,,,,,,,,33481938,
+212890226,212950371,0,False,residential,Hamilton Road,301.028,,,,,,,,,,,20138997,
+212890226,212805709,0,False,tertiary,East River Road,543.061,2,,,,,,yes,,,,"[525919946, 75665682, 525919953]",CR 84
+212890226,212689463,0,False,tertiary,East River Road,826.762,,,,,,,,,,,75665682,CR 84
+212890255,212890259,0,False,tertiary,East River Road,278.277,,,,,,,,,,,525919953,CR 84
+212890255,212754701,0,False,residential,Rush West Rush Road,63.795,,,,,,,,,,,20141631,
+212890255,212805709,0,False,tertiary,East River Road,79.314,,,,,,,,,,,525919953,CR 84
+212890259,212890255,0,False,tertiary,East River Road,278.277,,,,,,,,,,,525919953,CR 84
+212890259,212977578,0,False,residential,Rotzel Road,169.787,,,,,,,,,,,20141028,
+212890259,212688886,0,False,tertiary,East River Road,489.758,,,,,,,,,,,525919953,CR 84
+212893923,212893929,0,False,secondary,Rush Lima Road,4.39,,,,,,,,,,,20134825,NY 15A
+212893923,3092025434,0,False,residential,Rush West Rush Road,40.613,,,,,,,,,,,20141631,
+212893923,3092025429,0,False,secondary,East Henrietta Road,40.375,,,,,,,,,,,160654305,NY 15A
+212893929,212893923,0,False,secondary,Rush Lima Road,4.39,,,,,,,,,,,20134825,NY 15A
+212893929,212881174,0,False,secondary,Rush Lima Road,103.054,,,,,,,,,,,20134825,NY 15A
+212893929,5258090503,0,False,residential,Park Lane,118.367,,,,,,,,,,,20136935,
+212912264,212640722,0,False,residential,"['Centennial Drive', 'Cottage Street']",903.53,,,,,,,,,,,"[112549329, 20126170]",
+212912318,212676960,0,False,residential,Centennial Drive,347.26,,,,,,,,,,,160654291,
+212912359,212676992,0,False,residential,Central Drive,149.239,,,,,,,,,,,20137762,
+212912359,212752577,0,False,residential,Central Drive,129.389,,,,,,,,,,,20137762,
+212912359,212783328,0,False,residential,Centennial Drive,195.126,,,,,,,,,,,160654291,
+212912359,212676960,0,False,residential,Centennial Drive,215.183,,,,,,,,,,,160654291,
+212919932,212671217,0,False,residential,"['Meadowood Estates', 'Stull Road']",1128.53,,,,,,,,,,,"[20136921, 20114713]",
+212927093,212813663,0,False,residential,Pleasant Drive,267.47,,,,,,,,,,,20137423,
+212927093,212793593,0,False,secondary,East Henrietta Road,176.281,,,,,,,,,,,38173716,NY 15A
+212927093,212869551,0,False,secondary,East Henrietta Road,1424.412,,,,,,,,,,,38173716,NY 15A
+212928277,212928285,0,False,residential,Chapman Road,478.773,,,,,,,,,,,20137510,
+212928285,212928277,0,False,residential,Chapman Road,478.773,,,,,,,,,,,20137510,
+212928285,212655602,0,False,residential,Rush West Rush Road,1016.102,,,,,,,,,,,20141631,
+212928285,212874237,0,False,residential,Rush West Rush Road,304.446,,,,,,,,,,,20141631,
+212947529,212655655,0,False,residential,Hartwell Road,1206.844,,,,,,,,,,,20138787,
+212950371,212890226,0,False,residential,Hamilton Road,301.028,,,,,,,,,,,20138997,
+212952785,212952858,0,False,residential,Thunder Ridge Drive,1013.569,,,,,,,,,,,20139152,
+212952785,3092025434,0,False,residential,Rush West Rush Road,61.778,,,,,,,,,,,20141631,
+212952785,5266711885,0,False,residential,Rush West Rush Road,889.898,,,,,,,,,,,20141631,
+212952858,212952785,0,False,residential,Thunder Ridge Drive,1013.569,,,,,,,,,,,20139152,
+212952858,212952858,0,False,residential,Thunder Ridge Drive,138.885,,,,,,,,,,,321605865,
+212952858,212952858,1,False,residential,Thunder Ridge Drive,138.885,,,,,,,,,,,321605865,
+212958088,212845013,0,False,residential,Five Nations Road,138.587,,,,,,,,,,,20139593,
+212977578,212890259,0,False,residential,Rotzel Road,169.787,,,,,,,,,,,20141028,
+212986654,212871431,0,False,residential,Rush Hills Drive,150.659,,,,,,,,,,,20141736,
+1278927577,212640722,0,False,residential,Ryder Hill Road,1451.099,,,,,,,,,,,133755781,
+1726928896,212813663,0,False,residential,Hanlon Drive,194.574,,,,,,,,,,,20127246,
+1726928953,212676999,0,False,residential,Maple Street,105.23,,,,,,,,,,,160654311,
+1726929028,212815939,0,False,residential,Telephone Road,137.496,,,,,,,,,,,390635544,
+2380269896,2380269904,0,False,residential,Grana Driveway,208.378,,,,,,,,,,,229426650,
+2380269904,212645037,0,False,tertiary,Works Road,407.928,,,,,,,,,,,20113032,CR 78
+2380269904,212625974,0,False,tertiary,Works Road,350.103,,,,,,,,,,,20113032,CR 78
+2380269904,2380269896,0,False,residential,Grana Driveway,208.378,,,,,,,,,,,229426650,
+3009794793,212754701,0,False,residential,Rush West Rush Road,34.188,,,,,,,,,,,20141631,
+3009794793,212874237,0,False,residential,Rush West Rush Road,553.252,,,,,,,,,,,20141631,
+3009794793,3009794798,0,False,residential,Creekside Drive,41.075,,,,,,,,,,,297132080,
+3009794798,212754706,0,False,residential,Creekside Drive,101.367,,,,,,,,,,,20121333,
+3009794798,212754701,0,False,residential,Creekside Drive,38.967,,,,,,,,,,,20121333,
+3009794798,3009794793,0,False,residential,Creekside Drive,41.075,,,,,,,,,,,297132080,
+3088968513,212642507,0,False,residential,Phelps Road,607.138,,,,,,,,,,,20112876,
+3088968513,212642529,0,False,tertiary,Phelps Road,2199.787,,,,,,,,,,,20112882,CR 76
+3088968513,212625974,0,False,tertiary,Works Road,444.081,,,,,,,,,,,20113032,CR 78
+3092025429,212893923,0,False,secondary,East Henrietta Road,40.375,,,,,,,,,,,160654305,NY 15A
+3092025429,5258090485,0,False,secondary,East Henrietta Road,86.496,,,,,,,,,,,160654305,NY 15A
+3092025429,3092025434,0,True,residential,,35.84,,,,,,,,,,,304627925,
+3092025434,212893923,0,False,residential,Rush West Rush Road,40.613,,,,,,,,,,,20141631,
+3092025434,212952785,0,False,residential,Rush West Rush Road,61.778,,,,,,,,,,,20141631,
+3283603169,3283603174,0,True,motorway_link,,47.283,,,,,,,,,,,321605868,
+3283603169,212614073,0,True,motorway_link,,48.441,,,,,,,,,,,379089116,
+3283603174,212614073,0,False,secondary,West Henrietta Road,53.326,,,,,,,,,,,109306033,NY 15
+3283603174,212655548,0,False,secondary,West Henrietta Road,736.91,,,,,,,,,,,109306033,NY 15
+3723719417,3723719418,0,True,motorway_link,,80.976,,,,,,,,,,,368512506,
+3723719417,212601766,0,False,secondary,West Henrietta Road,43.869,,,,,,,,,,,480179669,NY 15
+3723719417,212655567,0,False,secondary,West Henrietta Road,199.115,,,,,,,,,,,38654506,NY 15
+3723719418,212601771,0,True,motorway_link,,461.56,,,,,,,,,,,27515953,
+3723719638,3723719639,0,True,motorway_link,,30.024,,,,,,,,,,,368512508,
+3723719638,212614055,0,False,secondary,Rush Scottsville Road,26.594,,,,,,,,,,,426077208,NY 251
+3723719638,3723719668,0,False,secondary,Rush Scottsville Road,465.654,,,,,,,,,,,426077208,NY 251
+3723719639,212614052,0,True,motorway_link,,430.658,,,,,,,,,,,183385284,
+3723719640,212614055,0,True,secondary_link,,33.152,,,,,,,,,,,27515952,
+3723719640,3723719638,0,True,secondary_link,,49.238,,,,,,,,,,,368512509,
+3723719658,3723719668,0,False,road,,240.961,,,,,,,,,,,368512516,
+3723719668,3723719679,0,False,secondary,Rush Scottsville Road,178.908,,,,,,,,,,,426077208,NY 251
+3723719668,3723719658,0,False,road,,240.961,,,,,,,,,,,368512516,
+3723719668,3723719638,0,False,secondary,Rush Scottsville Road,465.654,,,,,,,,,,,426077208,NY 251
+3723719669,3723719679,0,False,road,,278.759,,,,,,,,,,,368512517,
+3723719679,3723719668,0,False,secondary,Rush Scottsville Road,178.908,,,,,,,,,,,426077208,NY 251
+3723719679,3723719669,0,False,road,,278.759,,,,,,,,,,,368512517,
+3723719679,212793493,0,False,secondary,Rush Scottsville Road,2186.208,,,,,,,,,,,426077208,NY 251
+5256038232,5256038232,0,False,residential,Birchstone Hill Road,115.799,,,,,,,,,,,20129206,
+5256038232,5256038232,1,False,residential,Birchstone Hill Road,115.799,,,,,,,,,,,20129206,
+5256038232,212835998,0,False,residential,Birchstone Hill Road,474.292,,,,,,,,,,,20129206,
+5258090485,5258090503,0,False,residential,Park Lane,27.594,,,,,,,,,,,20136935,
+5258090485,3092025429,0,False,secondary,East Henrietta Road,86.496,,,,,,,,,,,160654305,NY 15A
+5258090485,212755953,0,False,secondary,East Henrietta Road,435.115,,,,,,,yes,,,,"[160654305, 160654306, 139282932]",NY 15A
+5258090503,5258090485,0,False,residential,Park Lane,27.594,,,,,,,,,,,20136935,
+5258090503,212893929,0,False,residential,Park Lane,118.367,,,,,,,,,,,20136935,
+5258090503,212881174,0,False,residential,Lehigh Street,265.081,,,,,,,,,,,"[20133472, 543937219]",
+5266304800,212713334,0,False,residential,Biondo Court,116.135,,,,,,,,,,,20117878,
+5266711885,212625958,0,False,residential,Stonybrook Road,2393.791,,,,,,,,,,,20133148,
+5266711885,212952785,0,False,residential,Rush West Rush Road,889.898,,,,,,,,,,,20141631,
+5266711885,212689453,0,False,residential,Rush West Rush Road,836.646,,,,,,,,,,,20141631,
+5277917430,212655544,0,False,residential,Rush Henrietta Townline Road,493.124,,,,,,,,,,,20126779,
+5277917430,212655548,0,False,residential,High Tech Drive,739.63,,,,,,,,,,,20129779,
+5280179377,212640281,0,False,residential,Five Points Road,1607.669,,,,,,,,,,,20112707,
+5280179377,212640224,0,False,residential,Five Points Road,2412.28,,,,,,,,,,,20112707,
+5280179377,212645037,0,False,residential,Honeoye Falls Five Pt Road,2013.985,,,,,,,,,,,20130239,
+5280179377,212655609,0,False,residential,Honeoye Falls Five Pt Road,1690.407,,,,,,,,,,,20130239,
+5280179377,212625958,0,False,residential,Stonybrook Road,810.645,,,,,,,,,,,20133148,
+5452232836,212655586,0,False,secondary,West Henrietta Road,1671.628,,,,,,,,,,,38654506,NY 15
+5452232836,212655567,0,False,secondary,West Henrietta Road,114.07,,,,,,,,,,,38654506,NY 15
+5452232836,5452232844,0,False,residential,,99.73,,,,,,,,,,,566215879,
+5452232844,5452232836,0,False,residential,,99.73,,,,,,,,,,,566215879,

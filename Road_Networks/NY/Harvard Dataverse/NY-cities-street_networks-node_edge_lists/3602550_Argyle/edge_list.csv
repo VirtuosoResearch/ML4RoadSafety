@@ -1,0 +1,23 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+221438122,221438154,0,False,residential,Mill Street,298.518,,,,,,,,,,,20628340,
+221438122,221511743,0,False,secondary,Main Street,250.025,,,,30 mph,,,yes,,,,"[444286010, 44873515, 444286007]",NY 197
+221438154,221438122,0,False,residential,Mill Street,298.518,,,,,,,,,,,20628340,
+221438154,221438154,0,False,residential,Mill Street,84.455,,,,,,,,,,,20628343,
+221438154,221438154,1,False,residential,Mill Street,84.455,,,,,,,,,,,20628343,
+221474188,221573726,0,False,secondary,"['Sheridan Street', 'Salem Street']",254.223,,,,,,,,,,,"[20644496, 20631383]",NY 40
+221511729,221511737,0,False,secondary,Main Street,128.961,,,,30 mph,,,,,,,20634547,NY 40
+221511737,221511740,0,False,secondary,Main Street,184.175,,,,30 mph,,,,,,,20634547,NY 40
+221511737,221511729,0,False,secondary,Main Street,128.961,,,,30 mph,,,,,,,20634547,NY 40
+221511737,221573720,0,False,residential,"['Barkley Avenue', 'East Street']",363.911,,,,,,,,,,,"[20645880, 20639331]",
+221511740,221511743,0,False,secondary,Main Street,167.807,,,,30 mph,,,,,,,20634547,NY 40
+221511740,221511737,0,False,secondary,Main Street,184.175,,,,30 mph,,,,,,,20634547,NY 40
+221511740,221573720,0,False,residential,Elm Street,200.683,,,,,,,,,,,20646016,
+221511743,221511740,0,False,secondary,Main Street,167.807,,,,30 mph,,,,,,,20634547,NY 40
+221511743,221573726,0,False,secondary,Sheridan Street,203.569,,,,,,,,,,,20644496,NY 40
+221511743,221438122,0,False,secondary,Main Street,250.025,,,,30 mph,,,yes,,,,"[444286010, 44873515, 444286007]",NY 197
+221573720,221573726,0,False,residential,East Street,216.22,,,,,,,,,,,20639331,
+221573720,221511737,0,False,residential,"['Barkley Avenue', 'East Street']",363.911,,,,,,,,,,,"[20645880, 20639331]",
+221573720,221511740,0,False,residential,Elm Street,200.683,,,,,,,,,,,20646016,
+221573726,221573720,0,False,residential,East Street,216.22,,,,,,,,,,,20639331,
+221573726,221474188,0,False,secondary,"['Sheridan Street', 'Salem Street']",254.223,,,,,,,,,,,"[20644496, 20631383]",NY 40
+221573726,221511743,0,False,secondary,Sheridan Street,203.569,,,,,,,,,,,20644496,NY 40

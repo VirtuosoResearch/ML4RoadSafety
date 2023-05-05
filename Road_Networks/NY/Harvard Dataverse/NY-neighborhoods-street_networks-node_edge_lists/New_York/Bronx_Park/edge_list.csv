@@ -1,0 +1,69 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+42720413,471201428,0,True,motorway,Bronx River Parkway,51.159,3,,,50 mph,,,yes,,,,49590916,BRP
+42720445,471202021,0,True,trunk,Bronx and Pelham Parkway,42.459,3,,,30 mph,,,,,,,116775509,US 1
+42722172,630660880,0,True,motorway,Bronx River Parkway,93.85,3,,,50 mph,,,yes,,,,"[49590921, 49590908]",BRP
+42725187,103012237,0,True,motorway_link,,433.611,1,,,,,,,,,,5695922,
+42725187,103016510,0,True,motorway,Bronx River Parkway,245.942,3,,,50 mph,,,,,,,10252956,BRP
+42725664,42725187,0,True,motorway,Bronx River Parkway,592.202,3,,,50 mph,,,,,,,10252956,BRP
+42726810,42732770,0,False,primary,Boston Road,91.745,,,,,,,,yes,,,"[46594508, 587061804, 323906908]",
+42726881,2757465911,0,True,motorway_link,,254.831,,,,,,,,,,,5696033,
+42726881,42722172,0,True,motorway,Bronx River Parkway,236.317,3,,,50 mph,,,,,,,49590908,BRP
+42726922,42720501,0,True,motorway_link,,353.361,,,,,,,,,,,5695636,
+42726922,103021419,0,True,trunk,Dr Theodore Kazimiroff Boulevard,125.026,2,,,,,,,,,,5696037,MP
+42727735,2327848917,0,True,trunk_link,,33.986,,,,,,,,,,,5696094,
+42727735,2327848921,0,True,trunk,Doctor Theodore Kazimiroff Boulevard,168.732,1,,,,,,,,,,270749728,MP
+42729424,42720413,0,True,motorway,Bronx River Parkway,256.539,3,,,50 mph,,,yes,,,,"[49590913, 49590919]",BRP
+42732770,471213649,0,False,motorway_link,,142.54,,,,,,,,,,,5696448,
+42732770,471213783,0,False,residential,Boston Road,31.688,,,,,,,,,,,5698698,
+42732770,42726810,0,False,primary,Boston Road,91.745,,,,,,,,yes,,,"[46594508, 587061804, 323906908]",
+42744136,585601840,0,True,trunk,Doctor Theodore Kazimiroff Boulevard,60.458,2,,,,,,,,,,5697224,
+42744136,2757485457,0,False,tertiary,Bedford Park Boulevard,11.284,,,,,,,,,,,270749740,
+42755256,42767053,0,False,secondary,Southern Boulevard,128.266,,,,,,,,,,,225980842,
+42755256,42767057,0,False,secondary,Southern Boulevard,131.919,,,,,,,,,,,225980842,
+42756498,42726881,0,True,motorway,Bronx River Parkway,361.951,3,,,50 mph,,,,,,,49590908,BRP
+42758189,471204852,0,False,residential,Bronx Park Road,149.386,,,,,designated,,,,,,5698045,
+42758250,4405574823,0,False,residential,Bronx Park Road,1202.589,,,,,,,yes,,,,"[75888496, 158307017, 75888497, 293763547]",
+42758383,1705249027,0,False,residential,Garden Way,385.429,,,,,,,,,,,5698047,
+42767053,42755256,0,False,secondary,Southern Boulevard,128.266,,,,,,,,,,,225980842,
+42767057,42755256,0,False,secondary,Southern Boulevard,131.919,,,,,,,,,,,225980842,
+85190103,85191908,0,True,motorway,Bronx River Parkway,827.043,3,,,50 mph,,,,,,,332668328,BRP
+85191908,2757465929,0,True,motorway_link,,278.148,,,,,,,,,,,5695635,
+85191908,42725664,0,True,motorway,Bronx River Parkway,518.453,3,,,50 mph,,,yes,,,,"[332668328, 49590914, 49590907, 10252956]",BRP
+103008429,471213649,0,True,motorway_link,,137.022,,,,,,,,,,,39332448,
+103008429,103028462,0,True,motorway,Bronx River Parkway,182.269,3,,,50 mph,,,,,,,49590910,BRP
+103008432,103008429,0,True,motorway,Bronx River Parkway,94.502,3,,,50 mph,,,,,,,49590910,BRP
+103012237,471205229,0,True,trunk,"['East Fordham Road', 'Bronx and Pelham Parkway']",281.202,2,,,,,,yes,,,,"[331031064, 116775562, 331031066, 5697130]",US 1
+103012242,103016510,0,True,motorway_link,,254.456,1,,,,,,,,,,5696199,
+103012242,103012237,0,True,trunk,Bronx and Pelham Parkway,243.237,2,,,,,,,,,,116775562,US 1
+103012243,103012242,0,True,trunk,Bronx and Pelham Parkway,48.508,2,,,,,,,,,,116775562,US 1
+103016510,103018466,0,True,motorway,Bronx River Parkway,48.204,3,,,50 mph,,,yes,,,,49590915,BRP
+103018466,42720445,0,True,motorway_link,,291.545,1,,,,,,,,,,11552469,
+103018466,103008432,0,True,motorway,Bronx River Parkway,256.289,3,,,50 mph,,,yes,,,,"[49590912, 49590918]",BRP
+103021419,2757465929,0,True,trunk,Doctor Theodore Kazimiroff Boulevard,174.943,1,,,,,,,,,,221300966,MP
+471201428,103012243,0,True,motorway_link,,259.937,1,,,,,,,,,,5695631,
+471201428,42756498,0,True,motorway,Bronx River Parkway,386.672,3,,,50 mph,,,,,,,49590908,BRP
+471202008,103008432,0,True,motorway_link,,402.278,1,,,,,,yes,,,,"[5695921, 49590909]",
+471202008,42720445,0,True,trunk,Bronx and Pelham Parkway,246.243,"['2', '3']",,,30 mph,,,,,,,"[331031065, 116775509]",US 1
+471202021,42720413,0,True,motorway_link,,274.89,1,,,,,,,,,,11552473,
+471204459,42756498,0,True,motorway_link,,271.267,1,,,,,,,,,,5695955,
+471204852,42758189,0,False,residential,Bronx Park Road,149.386,,,,,designated,,,,,,5698045,
+471204852,471202008,0,True,trunk,Bronx and Pelham Parkway,164.57,2,,,,,,yes,,,,"[12373800, 331031065, 331031063]",US 1
+471206036,471204852,0,True,trunk,East Fordham Road,74.401,2,,,,,,,,,,116775681,US 1
+471213649,42732770,0,False,motorway_link,,142.54,,,,,,,,,,,5696448,
+471213649,103028462,0,True,motorway_link,,156.562,,,,,,,,,,,39332455,
+471213783,42732770,0,False,residential,Boston Road,31.688,,,,,,,,,,,5698698,
+630660880,103021419,0,True,motorway_link,,208.863,,,,,,,,,,,5695916,
+630660880,42720501,0,True,motorway,Bronx River Parkway,217.007,3,,,50 mph,,,,,,,49590906,BRP
+1705249027,42758383,0,False,residential,Garden Way,385.429,,,,,,,,,,,5698047,
+2327848917,2757465926,0,True,trunk,Doctor Theodore Kazimiroff Boulevard,298.989,"['1', '2']",,,,,,yes,,,,"[270745632, 270745634, 270745636]",MP
+2327848921,2327848917,0,True,trunk,Doctor Theodore Kazimiroff Boulevard,166.581,1,,,,,,,,,,270745634,MP
+2757465914,42722172,0,True,motorway_link,,153.013,,,,,,,,,,,5695706,
+2757465914,2757465911,0,True,trunk,Doctor Theodore Kazimiroff Boulevard,38.957,2,,,,,,,,,,270745636,MP
+2757465926,42725664,0,True,motorway_link,,320.092,,,,,,,,,,,5695954,
+2757465926,2757465914,0,True,trunk,Doctor Theodore Kazimiroff Boulevard,240.876,2,,,,,,,,,,270745636,MP
+2757465929,42727735,0,True,trunk,Doctor Theodore Kazimiroff Boulevard,282.663,"['1', '2']",,,,,,yes,,,,"[46627280, 118714442, 420885160, 221300966]",MP
+2757485457,42744136,0,False,tertiary,Bedford Park Boulevard,11.284,,,,,,,,,,,270749740,
+2757485457,42722720,0,True,trunk,Doctor Theodore Kazimiroff Boulevard,105.664,2,,,,,,,,,,270749730,
+2757485457,42722720,1,True,trunk_link,,103.808,,,,,,,,,,,326405373,
+3306795040,42729424,0,True,motorway,Bronx River Parkway,27.028,3,,,50 mph,,,,,,,587061806,BRP
+4405574823,42758250,0,False,residential,Bronx Park Road,1202.589,,,,,,,yes,,,,"[75888496, 75888497, 293763547, 158307017]",

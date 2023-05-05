@@ -1,0 +1,149 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+212379640,212379654,0,False,residential,School Drive,176.106,,,,,,,,,,,20094300,
+212379640,212554283,0,True,residential,Institute Street,130.823,,,,,,,,,,,20112540,
+212379654,212434926,0,False,residential,Wardwell Street,40.705,,,,,,,,,,,20102542,
+212379654,212379640,0,False,residential,School Drive,176.106,,,,,,,,,,,20094300,
+212379654,212493652,0,False,residential,Wardwell Street,534.287,,,,,,,,,,,20102542,
+212381482,212381502,0,False,residential,Farm-to-Market Road Clarke,224.516,,,,,,,,,,,20094353,
+212381482,212415002,0,False,primary,South Main Street,101.416,2,,,,,,,,,,20104057,US 11
+212381502,212381482,0,False,residential,Farm-to-Market Road Clarke,224.516,,,,,,,,,,,20094353,
+212385817,212394498,0,False,secondary,West Church Street,8.568,2,,,35 mph,,,,,,,20111838,NY 178
+212385817,212422598,0,False,secondary,West Church Street,379.904,2,,,35 mph,,,,,,,20111838,NY 178
+212385863,212385817,0,True,motorway_link,,539.753,1,,,,,,,,,,20094652,
+212385863,212394468,0,True,motorway,,629.984,2,,,65 mph,,,,,,,322291119,I 81
+212394498,212385817,0,False,secondary,West Church Street,8.568,2,,,35 mph,,,,,,,20111838,NY 178
+212394498,212394468,0,True,motorway_link,,725.003,,,,,,,,,,,20095246,
+212394498,212573550,0,False,secondary,West Church Street,140.64,2,,,35 mph,,,,,,,20111838,NY 178
+212395544,212395548,0,False,residential,,46.099,,,,,,,,,,,20095315,
+212395544,212440344,0,False,unclassified,Liberty Street,751.402,,,,,,,,,,,20105874,
+212395548,212395544,0,False,residential,,46.099,,,,,,,,,,,20095315,
+212410430,212410434,0,False,residential,Shirley Drive,270.266,,,,,,,,,,,20096455,
+212410434,212536364,0,False,residential,Valley Park Drive,144.714,,,,,,,,,,,20111156,
+212410434,4346128673,0,False,residential,Valley Park Drive,44.384,,,,,,,,,,,436737102,
+212410434,212410430,0,False,residential,Shirley Drive,270.266,,,,,,,,,,,20096455,
+212414996,212524715,0,False,primary,South Main Street,97.054,2,,,,,,,,,,20104057,US 11
+212414996,4346128686,0,False,unclassified,,481.977,,,,,,,,,,,"[20096779, 436737103]",
+212414996,212415002,0,False,primary,South Main Street,84.443,2,,,,,,,,,,20104057,US 11
+212415002,4346128687,0,False,unclassified,,23.129,,,,,,,,,,,436737103,
+212415002,212381482,0,False,primary,South Main Street,101.416,2,,,,,,,,,,20104057,US 11
+212415002,212414996,0,False,primary,South Main Street,84.443,2,,,,,,,,,,20104057,US 11
+212422598,212425334,0,False,secondary,West Church Street,8.427,2,,,35 mph,,,,,,,20111838,NY 178
+212422598,212422675,0,True,motorway_link,,766.508,,,,,,,,,,,20097386,
+212422598,212385817,0,False,secondary,West Church Street,379.904,2,,,35 mph,,,,,,,20111838,NY 178
+212425334,212422598,0,False,secondary,West Church Street,8.427,2,,,35 mph,,,,,,,20111838,NY 178
+212427547,212427549,0,False,residential,,23.776,,,,,,,,,,,20097861,
+212427547,212520683,0,False,residential,5th Street,47.387,,,,,,,,,,,20103764,
+212427547,212520667,0,False,residential,5th Street,96.836,,,,,,,,,,,20103764,
+212427549,212427547,0,False,residential,,23.776,,,,,,,,,,,20097861,
+212434926,212434927,0,False,residential,Bond Street,110.989,,,,,,,,,,,20098351,
+212434926,212500011,0,False,residential,Wardwell Street,20.356,,,,,,,,,,,20102542,
+212434926,212379654,0,False,residential,Wardwell Street,40.705,,,,,,,,,,,20102542,
+212434927,212434926,0,False,residential,Bond Street,110.989,,,,,,,,,,,20098351,
+212434927,212493661,0,False,residential,North Park Street,144.91,,,,,,,,,,,20102124,
+212434927,212493658,0,False,residential,North Park Street,172.937,,,,,,,,,,,20102124,
+212436304,212493652,0,False,residential,North Park Street,256.649,,,,,,,,,,,20102124,
+212436304,212493634,0,False,residential,North Park Street,304.419,,,,,,,,,,,20102124,
+212440314,212440319,0,False,residential,Spring Street,94.749,,,,,,,,,,,20098611,
+212440314,212585773,0,False,residential,South Park Street,132.154,,,,,,,yes,,,,"[221560468, 221560469, 20109223]",
+212440319,212470151,0,False,residential,Cemetery Street,182.242,,,,,,,,,,,20100784,
+212440319,212440344,0,False,residential,Spring Street,312.465,,,,,,,,,,,20098611,
+212440319,212440314,0,False,residential,Spring Street,94.749,,,,,,,,,,,20098611,
+212440344,212440319,0,False,residential,Spring Street,312.465,,,,,,,,,,,20098611,
+212440344,212524715,0,False,primary,South Main Street,148.812,2,,,,,,,,,,20104057,US 11
+212440344,212395544,0,False,unclassified,Liberty Street,751.402,,,,,,,,,,,20105874,
+212440344,212530731,0,False,primary,Main Street,108.383,2,,,,,,yes,,,,"[221560449, 221560450, 20104556]",US 11
+212470151,212440319,0,False,residential,Cemetery Street,182.242,,,,,,,,,,,20100784,
+212472810,212615977,0,False,residential,"['Wright Street', 'Wright Street Road']",287.663,,,,,,,,,,,"[20113097, 20100999]",
+212472810,212502355,0,False,tertiary,East Church Street,267.356,,,,,,,,,,,20102657,
+212493634,212436304,0,False,residential,North Park Street,304.419,,,,,,,,,,,20102124,
+212493652,212493658,0,False,residential,North Park Street,308.716,,,,,,,,,,,20102124,
+212493652,212436304,0,False,residential,North Park Street,256.649,,,,,,,,,,,20102124,
+212493652,212379654,0,False,residential,Wardwell Street,534.287,,,,,,,,,,,20102542,
+212493658,212434927,0,False,residential,North Park Street,172.937,,,,,,,,,,,20102124,
+212493658,212493652,0,False,residential,North Park Street,308.716,,,,,,,,,,,20102124,
+212493658,212502355,0,False,residential,"['Roberts Street', 'Hungerford Avenue']",674.082,,,,,,,,,,,"[20109555, 20110844]",
+212493661,212434927,0,False,residential,North Park Street,144.91,,,,,,,,,,,20102124,
+212493661,212502347,0,False,tertiary,East Church Street,6.661,,,,,,,,,,,20102657,
+212493661,212500013,0,False,tertiary,East Church Street,108.896,,,,,,,,,,,20102657,
+212500011,212500013,0,False,residential,Wardwell Street,123.939,,,,,,,,,,,20102542,
+212500011,212434926,0,False,residential,Wardwell Street,20.356,,,,,,,,,,,20102542,
+212500011,212379640,0,True,residential,Institute Street,101.798,,,,,,,,,,,20112540,
+212500013,212500011,0,False,residential,Wardwell Street,123.939,,,,,,,,,,,20102542,
+212500013,212493661,0,False,tertiary,East Church Street,108.896,,,,,,,,,,,20102657,
+212500013,212502344,0,False,tertiary,East Church Street,243.55,,,,,,,,,,,20102657,
+212502342,212530731,0,False,primary,Main Street,66.592,2,,,,,,,,,,20104556,US 11
+212502342,212502344,0,False,tertiary,East Church Street,29.614,,,,,,,,,,,20102657,
+212502342,212554283,0,False,primary,North Main Street,141.746,2,,,,,,,,,,20107163,US 11
+212502342,212548090,0,False,secondary,West Church Street,216.597,2,,,35 mph,,,,,,,20111838,NY 178
+212502344,212500013,0,False,tertiary,East Church Street,243.55,,,,,,,,,,,20102657,
+212502344,212502342,0,False,tertiary,East Church Street,29.614,,,,,,,,,,,20102657,
+212502344,212563572,0,False,unclassified,J. Sterling Morton Lane,76.339,,,,,,,,,,,20107865,
+212502347,212493661,0,False,tertiary,East Church Street,6.661,,,,,,,,,,,20102657,
+212502347,212502355,0,False,tertiary,East Church Street,376.897,,,,,,,,,,,20102657,
+212502347,212585773,0,False,residential,South Park Street,176.97,,,,,,,,,,,20109223,
+212502355,212472810,0,False,tertiary,East Church Street,267.356,,,,,,,,,,,20102657,
+212502355,212502347,0,False,tertiary,East Church Street,376.897,,,,,,,,,,,20102657,
+212502355,212493658,0,False,residential,"['Roberts Street', 'Hungerford Avenue']",674.082,,,,,,,,,,,"[20109555, 20110844]",
+212507208,212507217,0,False,residential,Phelps Street,106.206,,,,,,,,,,,20102969,
+212507217,212548090,0,False,residential,Clay Street,157.281,,,,,,,,,,,20106477,
+212507217,212507223,0,False,residential,Phelps Street,112.579,,,,,,,,,,,20102969,
+212507217,212507208,0,False,residential,Phelps Street,106.206,,,,,,,,,,,20102969,
+212507217,212548088,0,False,residential,Clay Street,235.933,,,,,,,,,,,20106477,
+212507223,212507217,0,False,residential,Phelps Street,112.579,,,,,,,,,,,20102969,
+212520667,212548090,0,False,secondary,West Church Street,55.528,2,,,35 mph,,,,,,,20111838,NY 178
+212520667,212427547,0,False,residential,5th Street,96.836,,,,,,,,,,,20103764,
+212520667,212573550,0,False,secondary,West Church Street,249.309,2,,,35 mph,,,,,,,20111838,NY 178
+212520667,212630363,0,False,residential,Railroad Street,153.967,,,,,,,,,,,20112108,
+212520683,212427547,0,False,residential,5th Street,47.387,,,,,,,,,,,20103764,
+212524715,212414996,0,False,primary,South Main Street,97.054,2,,,,,,,,,,20104057,US 11
+212524715,212440344,0,False,primary,South Main Street,148.812,2,,,,,,,,,,20104057,US 11
+212530731,212502342,0,False,primary,Main Street,66.592,2,,,,,,,,,,20104556,US 11
+212530731,212563572,0,False,residential,Grange Avenue,39.253,,,,,,,,,,,20111146,
+212530731,212440344,0,False,primary,Main Street,108.383,2,,,,,,yes,,,,"[221560449, 221560450, 20104556]",US 11
+212536364,212536367,0,False,residential,Arbor Drive,110.493,,,,,,,,,,,20105115,
+212536364,212410434,0,False,residential,Valley Park Drive,144.714,,,,,,,,,,,20111156,
+212536364,212619805,0,False,residential,Carol Drive,373.091,,,,,,,,,,,20111455,
+212536364,212615977,0,False,residential,Valley Park Drive,128.363,,,,,,,,,,,20111156,
+212536367,212536364,0,False,residential,Arbor Drive,110.493,,,,,,,,,,,20105115,
+212536367,212536367,0,False,residential,Arbor Drive,199.359,,,,,,,,,,,20105122,
+212536367,212536367,1,False,residential,Arbor Drive,199.359,,,,,,,,,,,20105122,
+212548088,212574315,0,False,residential,High Street,106.291,,,,,,,,,,,20113148,
+212548088,212507217,0,False,residential,Clay Street,235.933,,,,,,,,,,,20106477,
+212548088,212647137,0,False,residential,High Street,189.072,,,,,,,,,,,20113148,
+212548090,212507217,0,False,residential,Clay Street,157.281,,,,,,,,,,,20106477,
+212548090,212520667,0,False,secondary,West Church Street,55.528,2,,,35 mph,,,,,,,20111838,NY 178
+212548090,212502342,0,False,secondary,West Church Street,216.597,2,,,35 mph,,,,,,,20111838,NY 178
+212554253,212554276,0,False,primary,North Main Street,383.327,2,,,,,,,,,,20107163,US 11
+212554253,212574315,0,False,residential,Prospect Street,235.58,,,,,,,,,,,20108537,
+212554276,212554283,0,False,primary,North Main Street,117.178,2,,,,,,,,,,20107163,US 11
+212554276,212554253,0,False,primary,North Main Street,383.327,2,,,,,,,,,,20107163,US 11
+212554276,212574315,0,False,residential,Prospect Street,239.692,,,,,,,,,,,20108537,
+212554283,212502342,0,False,primary,North Main Street,141.746,2,,,,,,,,,,20107163,US 11
+212554283,212554276,0,False,primary,North Main Street,117.178,2,,,,,,,,,,20107163,US 11
+212563572,212530731,0,False,residential,Grange Avenue,39.253,,,,,,,,,,,20111146,
+212563572,212502344,0,False,unclassified,J. Sterling Morton Lane,76.339,,,,,,,,,,,20107865,
+212563572,212585773,0,False,residential,Grange Avenue,370.855,,,,,,,,,,,20111146,
+212573544,212573550,0,False,residential,Elmwood Avenue,289.783,,,,,,,,,,,20108492,
+212573550,212573544,0,False,residential,Elmwood Avenue,289.783,,,,,,,,,,,20108492,
+212573550,212520667,0,False,secondary,West Church Street,249.309,2,,,35 mph,,,,,,,20111838,NY 178
+212573550,212394498,0,False,secondary,West Church Street,140.64,2,,,35 mph,,,,,,,20111838,NY 178
+212574315,212548088,0,False,residential,High Street,106.291,,,,,,,,,,,20113148,
+212574315,212554276,0,False,residential,Prospect Street,239.692,,,,,,,,,,,20108537,
+212574315,212554253,0,False,residential,Prospect Street,235.58,,,,,,,,,,,20108537,
+212585773,212615811,0,False,residential,Grange Avenue,42.987,,,,,,,,,,,20111146,
+212585773,212440314,0,False,residential,South Park Street,132.154,,,,,,,yes,,,,"[221560468, 221560469, 20109223]",
+212585773,212502347,0,False,residential,South Park Street,176.97,,,,,,,,,,,20109223,
+212585773,212563572,0,False,residential,Grange Avenue,370.855,,,,,,,,,,,20111146,
+212615811,212585773,0,False,residential,Grange Avenue,42.987,,,,,,,,,,,20111146,
+212615977,212536364,0,False,residential,Valley Park Drive,128.363,,,,,,,,,,,20111156,
+212615977,212472810,0,False,residential,"['Wright Street', 'Wright Street Road']",287.663,,,,,,,,,,,"[20113097, 20100999]",
+212619805,212536364,0,False,residential,Carol Drive,373.091,,,,,,,,,,,20111455,
+212630363,212520667,0,False,residential,Railroad Street,153.967,,,,,,,,,,,20112108,
+212647137,212548088,0,False,residential,High Street,189.072,,,,,,,,,,,20113148,
+4346128673,212410434,0,False,residential,Valley Park Drive,44.384,,,,,,,,,,,436737102,
+4346128686,4346128687,0,False,unclassified,,92.634,,,,,,,,,,,436737103,
+4346128686,4346128687,1,False,unclassified,,209.981,,,,,,,,,,,"[436737104, 436737105]",
+4346128686,212414996,0,False,unclassified,,481.977,,,,,,,,,,,"[20096779, 436737103]",
+4346128687,212415002,0,False,unclassified,,23.129,,,,,,,,,,,436737103,
+4346128687,4346128686,0,False,unclassified,,92.634,,,,,,,,,,,436737103,
+4346128687,4346128686,1,False,unclassified,,209.981,,,,,,,,,,,"[436737104, 436737105]",

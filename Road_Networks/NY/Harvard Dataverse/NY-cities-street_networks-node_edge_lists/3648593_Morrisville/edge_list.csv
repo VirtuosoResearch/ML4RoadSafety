@@ -1,0 +1,107 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+212534307,212534357,0,False,residential,Amherst Circle,285.118,,,,,,,,,,,20104899,
+212534307,212534357,1,False,residential,Cambridge Avenue,140.522,,,,,,,,,,,20112849,
+212534307,212572320,0,False,residential,Cambridge Avenue,160.267,,,,,,,,,,,20112849,
+212534357,212534307,0,False,residential,Amherst Circle,285.118,,,,,,,,,,,20104899,
+212534357,212534307,1,False,residential,Cambridge Avenue,140.522,,,,,,,,,,,20112849,
+212534357,212566260,0,False,residential,Williams Street,146.941,,,,,,,,,,,20112270,
+212534357,212566260,1,False,residential,"['Cambridge Avenue', 'Radnor Lane']",467.888,,,,,,,,,,,"[20112849, 20108027]",
+212539306,212539312,0,False,residential,,144.635,,,,,,,,,,,20105486,
+212539306,212562720,0,False,primary,Main Street,180.271,2,,,35 mph,,,,,,,20113182,US 20
+212539306,212642635,0,False,primary,Main Street,58.44,2,,,35 mph,,,,,,,20113182,US 20
+212539312,212539306,0,False,residential,,144.635,,,,,,,,,,,20105486,
+212546891,212546904,0,False,residential,,103.334,,,,,,,,,,,20106363,
+212546891,212562706,0,False,tertiary,Eaton Street,303.842,,,,,,,,,,,20107818,CR 105
+212546891,212546911,0,False,tertiary,Eaton Street,143.332,,,,,,,,,,,20107818,CR 105
+212546904,212546891,0,False,residential,,103.334,,,,,,,,,,,20106363,
+212546911,212546916,0,False,residential,,78.983,,,,,,,,,,,20106365,
+212546911,212546891,0,False,tertiary,Eaton Street,143.332,,,,,,,,,,,20107818,CR 105
+212546911,212562677,0,False,tertiary,Eaton Street,60.564,,,,,,,,,,,20107818,CR 105
+212546916,212546911,0,False,residential,,78.983,,,,,,,,,,,20106365,
+212562677,212546911,0,False,tertiary,Eaton Street,60.564,,,,,,,,,,,20107818,CR 105
+212562677,212580252,0,False,residential,Madison Road,302.408,,,,,,,,,,,20108892,
+212562706,212562720,0,False,tertiary,Eaton Street,263.851,,,,,,,,,,,20107818,CR 105
+212562706,212546891,0,False,tertiary,Eaton Street,303.842,,,,,,,,,,,20107818,CR 105
+212562706,212642635,0,False,residential,"['Maple Avenue East', 'Union Street']",415.056,,,,,,,,,,,"[20112886, 20110775]",
+212562706,212621291,0,False,residential,Maple Avenue West,80.439,,,,,,,,,,,20111557,
+212562720,212580836,0,False,primary,Main Street,33.274,2,,,35 mph,,,,,,,20113182,US 20
+212562720,212562706,0,False,tertiary,Eaton Street,263.851,,,,,,,,,,,20107818,CR 105
+212562720,212539306,0,False,primary,Main Street,180.271,2,,,35 mph,,,,,,,20113182,US 20
+212565865,212565868,0,False,tertiary,North Street,12.123,,,,,,,,,,,20108003,CR 45
+212565865,212618842,0,False,primary,East Main Street,18.469,2,,,35 mph,,,,,,,20111377,US 20
+212565865,212642635,0,False,primary,Main Street,244.675,2,,,35 mph,,,,,,,20113182,US 20
+212565868,212565865,0,False,tertiary,North Street,12.123,,,,,,,,,,,20108003,CR 45
+212565868,212682172,0,False,residential,East Main,152.902,,,,,,,,,,,20115583,
+212566260,212534357,0,False,residential,"['Cambridge Avenue', 'Radnor Lane']",467.888,,,,,,,,,,,"[20112849, 20108027]",
+212566260,212534357,1,False,residential,Williams Street,146.941,,,,,,,,,,,20112270,
+212566260,212580860,0,False,residential,Williams Street,127.455,,,,,,,,,,,20112270,
+212566757,212566760,0,False,residential,Mill Street,79.151,,,,,,,,,,,20108072,
+212566757,212621291,0,False,residential,"['Maple Avenue West', 'Mill Street']",225.138,,,,,,,,,,,"[20108072, 20111557]",
+212566757,212572316,0,False,residential,Jefferson Avenue,159.538,,,,,,,,,,,20113479,
+212566760,212566757,0,False,residential,Mill Street,79.151,,,,,,,,,,,20108072,
+212566760,212572316,0,False,primary,Main Street,90.953,2,,,35 mph,,,,,,,20113182,US 20
+212566760,212580836,0,False,primary,Main Street,61.823,2,,,35 mph,,,,,,,20113182,US 20
+212572277,212669980,0,False,residential,Callahan Drive,418.031,,,,,,,,,,,20114598,
+212572277,212572329,0,False,residential,Reservoir Road,54.486,,,,,,,,,,,20115384,
+212572277,212679508,0,False,residential,Reservoir Road,218.153,,,,,,,,,,,20115384,
+212572316,212572319,0,False,primary,West Main Street,141.247,2,,,35 mph,,,,,,,20108424,US 20
+212572316,212566760,0,False,primary,Main Street,90.953,2,,,35 mph,,,,,,,20113182,US 20
+212572316,212566757,0,False,residential,Jefferson Avenue,159.538,,,,,,,,,,,20113479,
+212572319,212572320,0,False,primary,West Main Street,103.398,2,,,35 mph,,,,,,,20108424,US 20
+212572319,212572316,0,False,primary,West Main Street,141.247,2,,,35 mph,,,,,,,20108424,US 20
+212572319,212598398,0,False,residential,Cross Avenue,192.799,,,,,,,,,,,20110020,
+212572320,212572319,0,False,primary,West Main Street,103.398,2,,,35 mph,,,,,,,20108424,US 20
+212572320,212572329,0,False,primary,West Main Street,125.65,2,,,35 mph,,,yes,,,,"[20108424, 219060944, 219060943]",US 20
+212572320,212534307,0,False,residential,Cambridge Avenue,160.267,,,,,,,,,,,20112849,
+212572329,212572332,0,False,primary,West Main Street,10.485,2,,,35 mph,,,,,,,219060944,US 20
+212572329,212572277,0,False,residential,Reservoir Road,54.486,,,,,,,,,,,20115384,
+212572329,212572320,0,False,primary,West Main Street,125.65,2,,,35 mph,,,yes,,,,"[219060944, 20108424, 219060943]",US 20
+212572332,212572329,0,False,primary,West Main Street,10.485,2,,,35 mph,,,,,,,219060944,US 20
+212572332,212640221,0,True,primary,,160.003,"['1', '2']",,,55 mph,,,,,,,"[20113644, 121772588]",US 20
+212577207,212577289,0,False,residential,Skyline Drive,505.576,,,,,,,,,,,20108712,
+212577289,212600801,0,False,primary,Main Street,34.876,3,,,35 mph,,,,,,,85376999,US 20
+212577289,212577207,0,False,residential,Skyline Drive,505.576,,,,,,,,,,,20108712,
+212577289,212618842,0,False,primary,Main Street,180.335,2,,,35 mph,,,,,,,20113179,US 20
+212580252,212562677,0,False,residential,Madison Road,302.408,,,,,,,,,,,20108892,
+212580836,212566760,0,False,primary,Main Street,61.823,2,,,35 mph,,,,,,,20113182,US 20
+212580836,212562720,0,False,primary,Main Street,33.274,2,,,35 mph,,,,,,,20113182,US 20
+212580836,212580860,0,False,tertiary,Cedar Street,491.057,,,,,,,,,,,20108929,CR 101
+212580860,212580836,0,False,tertiary,Cedar Street,491.057,,,,,,,,,,,20108929,CR 101
+212580860,212566260,0,False,residential,Williams Street,127.455,,,,,,,,,,,20112270,
+212594814,212594829,0,False,residential,Chenango Road,147.294,,,,,,,,,,,20109872,
+212594814,212618862,0,False,tertiary,South Street,315.005,,,,,,,,,,,20111642,CR 106
+212594814,212622533,0,False,tertiary,South Street,128.688,,,,,,,,,,,20111642,CR 106
+212594829,212594814,0,False,residential,Chenango Road,147.294,,,,,,,,,,,20109872,
+212598398,212572319,0,False,residential,Cross Avenue,192.799,,,,,,,,,,,20110020,
+212600801,212577289,0,False,primary,Main Street,34.876,3,,,35 mph,,,,,,,85376999,US 20
+212607217,212607242,0,False,residential,Kerry Lane,114.325,,,,,,,,,,,20110521,
+212607217,212679508,0,False,residential,Marshall Hts,21.402,,,,,,,,,,,20116208,
+212607217,212691888,0,False,residential,Marshall Hts,319.804,,,,,,,,,,,20116208,
+212607242,212607217,0,False,residential,Kerry Lane,114.325,,,,,,,,,,,20110521,
+212618842,212565865,0,False,primary,East Main Street,18.469,2,,,35 mph,,,,,,,20111377,US 20
+212618842,212618862,0,False,tertiary,South Street,23.138,,,,,,,,,,,20111642,CR 106
+212618842,212577289,0,False,primary,Main Street,180.335,2,,,35 mph,,,,,,,20113179,US 20
+212618862,212618842,0,False,tertiary,South Street,23.138,,,,,,,,,,,20111642,CR 106
+212618862,212618870,0,False,residential,East Main Street,166.77,,,,,,,,,,,20111383,
+212618862,212594814,0,False,tertiary,South Street,315.005,,,,,,,,,,,20111642,CR 106
+212618870,212618862,0,False,residential,East Main Street,166.77,,,,,,,,,,,20111383,
+212621291,212566757,0,False,residential,"['Mill Street', 'Maple Avenue West']",225.138,,,,,,,,,,,"[20108072, 20111557]",
+212621291,212562706,0,False,residential,Maple Avenue West,80.439,,,,,,,,,,,20111557,
+212621291,212631996,0,False,residential,Brookside Drive,152.149,,,,,,,,,,,20112203,
+212622529,212622533,0,False,tertiary,South Street,170.16,,,,,,,,,,,20111642,CR 106
+212622529,212622533,1,False,residential,South Circle Road,710.282,,,,,,,,,,,20112933,
+212622533,212594814,0,False,tertiary,South Street,128.688,,,,,,,,,,,20111642,CR 106
+212622533,212622529,0,False,tertiary,South Street,170.16,,,,,,,,,,,20111642,CR 106
+212622533,212622529,1,False,residential,South Circle Road,710.282,,,,,,,,,,,20112933,
+212631996,212621291,0,False,residential,Brookside Drive,152.149,,,,,,,,,,,20112203,
+212640214,212640221,0,False,residential,Connecting Road,15.708,,,,,,,,,,,20112701,
+212640214,212572332,0,True,primary,,161.016,1,,,55 mph,,,,,,,121772587,US 20
+212640221,212640214,0,False,residential,Connecting Road,15.708,,,,,,,,,,,20112701,
+212642635,212562706,0,False,residential,"['Maple Avenue East', 'Union Street']",415.056,,,,,,,,,,,"[20112886, 20110775]",
+212642635,212539306,0,False,primary,Main Street,58.44,2,,,35 mph,,,,,,,20113182,US 20
+212642635,212565865,0,False,primary,Main Street,244.675,2,,,35 mph,,,,,,,20113182,US 20
+212669980,212572277,0,False,residential,Callahan Drive,418.031,,,,,,,,,,,20114598,
+212679508,212572277,0,False,residential,Reservoir Road,218.153,,,,,,,,,,,20115384,
+212679508,212607217,0,False,residential,Marshall Hts,21.402,,,,,,,,,,,20116208,
+212682172,212565868,0,False,residential,East Main,152.902,,,,,,,,,,,20115583,
+212691888,212607217,0,False,residential,Marshall Hts,319.804,,,,,,,,,,,20116208,

@@ -1,0 +1,159 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+42720264,471214126,0,True,motorway_link,,203.594,,,,,,,,,,,5695626,
+42720264,3306795040,0,True,motorway,Bronx River Parkway,211.985,3,,,50 mph,,,,,,,587061806,BRP
+42720413,471201428,0,True,motorway,Bronx River Parkway,51.159,3,,,50 mph,,,yes,,,,49590916,BRP
+42720445,471202021,0,True,trunk,Bronx and Pelham Parkway,42.459,3,,,30 mph,,,,,,,116775509,US 1
+42720501,42722100,0,True,motorway,Bronx River Parkway,923.045,3,,,50 mph,,,,,,,49590906,BRP
+42722100,42722702,0,True,motorway_link,,223.977,,,,,,,,,,,5695743,
+42722172,630660880,0,True,motorway,Bronx River Parkway,93.85,3,,,50 mph,,,yes,,,,"[49590921, 49590908]",BRP
+42722291,471214126,0,False,motorway_link,,74.383,,,,,,,,,,,39331221,
+42722291,42722301,0,True,motorway_link,,40.191,,,,,,,,,,,39332301,
+42722301,42744845,0,False,primary,Boston Road,155.523,,,,,,,,,,,323906909,
+42722301,42726810,0,False,primary,Boston Road,38.965,,,,,,,,,,,587061804,
+42722702,546971192,0,False,secondary,East Gun Hill Road,50.298,,,,,,,yes,,,,"[420565674, 49590924, 49590925]",
+42722720,42727720,0,True,trunk,Doctor Theodore Kazimiroff Boulevard,61.511,2,,,,,,,,,,118714331,
+42722720,42744191,0,False,trunk,Doctor Theodore Kazimiroff Boulevard,164.589,2,,,,,,,,,,"[294035978, 221300965]",
+42724404,42769581,0,False,primary,Boston Road,69.286,7,,,,,,,,,,43671522,US 1
+42724404,42744845,0,False,primary,Boston Road,148.579,,,,,,,,,,,42701895,
+42725187,103012237,0,True,motorway_link,,433.611,1,,,,,,,,,,5695922,
+42725187,103016510,0,True,motorway,Bronx River Parkway,245.942,3,,,50 mph,,,,,,,10252956,BRP
+42725664,42725187,0,True,motorway,Bronx River Parkway,592.202,3,,,50 mph,,,,,,,10252956,BRP
+42725700,471204459,0,True,motorway_link,,199.368,1,,,,,,,,,,5695955,
+42725700,103012243,0,True,trunk,Bronx and Pelham Parkway,217.207,2,,,,,,,,,,116775562,US 1
+42726810,42722291,0,True,motorway_link,,56.933,,,,,,,,,,,5696027,
+42726810,42732770,0,False,primary,Boston Road,91.745,,,,,,,,yes,,,"[46594508, 587061804, 323906908]",
+42726810,42722301,0,False,primary,Boston Road,38.965,,,,,,,,,,,587061804,
+42726881,2757465911,0,True,motorway_link,,254.831,,,,,,,,,,,5696033,
+42726881,42722172,0,True,motorway,Bronx River Parkway,236.317,3,,,50 mph,,,,,,,49590908,BRP
+42726922,42720501,0,True,motorway_link,,353.361,,,,,,,,,,,5695636,
+42726922,103021419,0,True,trunk,Dr Theodore Kazimiroff Boulevard,125.026,2,,,,,,,,,,5696037,MP
+42727720,42744136,0,True,trunk,Doctor Theodore Kazimiroff Boulevard,48.614,2,,,,,,,,,,223943432,
+42727735,2327848917,0,True,trunk_link,,33.986,,,,,,,,,,,5696094,
+42727735,2327848921,0,True,trunk,Doctor Theodore Kazimiroff Boulevard,168.732,1,,,,,,,,,,270749728,MP
+42729424,42724404,0,True,motorway_link,,418.714,1,,,,,,yes,,,,"[5696210, 49590917]",
+42729424,42720413,0,True,motorway,Bronx River Parkway,256.539,3,,,50 mph,,,yes,,,,"[49590913, 49590919]",BRP
+42730752,42747140,0,False,residential,Bronx Park South,99.743,,,,,,,,,,,5697417,
+42730752,42734926,0,True,residential,Crotona Parkway,139.623,,,,,,,,,,,38796442,
+42732770,471213649,0,False,motorway_link,,142.54,,,,,,,,,,,5696448,
+42732770,471213783,0,False,residential,Boston Road,31.688,,,,,,,,,,,5698698,
+42732770,42726810,0,False,primary,Boston Road,91.745,,,,,,,,yes,,,"[46594508, 587061804, 323906908]",
+42734579,42744805,0,False,residential,Bronx Park East,207.834,,,,,,,,,,,132500832,
+42734926,42767045,0,False,secondary,Southern Boulevard,13.52,,,,,,,,,,,225980842,
+42737772,2757485463,0,False,trunk,Mosholu Parkway,7.918,3,,,,,,,,,,50512599,MP
+42737772,42737774,0,False,trunk,Mosholu Parkway,40.808,3,,,,,,,,,,50512599,MP
+42737772,42744191,0,True,trunk,Doctor Theodore Kazimiroff Boulevard,62.073,1,,,,,,,,,,221300964,
+42737774,42737772,0,False,trunk,Mosholu Parkway,40.808,3,,,,,,,,,,50512599,MP
+42737926,42737772,0,True,trunk,Doctor Theodore Kazimiroff Boulevard,30.286,1,,,,,,,,,,221300964,
+42737926,42737774,0,True,trunk_link,,46.48,1,,,,,,,,,,5696790,MP
+42739662,42755833,0,False,residential,Bronx Boulevard,228.68,,,,,,,,,,,5697900,
+42739662,42742785,0,False,residential,Bronx Boulevard,197.533,,,,,,,,,,,5697900,
+42742785,42744819,0,False,residential,Bronx Park East,204.832,,,,,,,,,,,132500832,
+42742785,42739662,0,False,residential,Bronx Boulevard,197.533,,,,,,,,,,,5697900,
+42744136,2757485457,0,False,tertiary,Bedford Park Boulevard,11.284,,,,,,,,,,,270749740,
+42744191,42722720,0,False,trunk,Doctor Theodore Kazimiroff Boulevard,164.589,2,,,,,,,,,,"[294035978, 221300965]",
+42744191,2757485463,0,True,trunk,Doctor Theodore Kazimiroff Boulevard,58.614,2,,,,,,,,,,"[420885157, 270749727]",
+42744801,42744805,0,False,residential,Bronx Park East,280.275,,,,,,,,,,,132500832,
+42744805,42734579,0,False,residential,Bronx Park East,207.834,,,,,,,,,,,132500832,
+42744805,42744801,0,False,residential,Bronx Park East,280.275,,,,,,,,,,,132500832,
+42744819,42742785,0,False,residential,Bronx Park East,204.832,,,,,,,,,,,132500832,
+42744829,42744834,0,False,secondary,Bronx Park East,38.551,,,,,,,,,,,278105549,
+42744829,42739938,0,True,secondary,Bronx Park East,134.388,,,,,,,,,,,5697265,
+42744834,42744838,0,False,secondary,Bronx Park East,145.234,,,,,,,,,,,278105549,
+42744834,42744829,0,False,secondary,Bronx Park East,38.551,,,,,,,,,,,278105549,
+42744838,42744841,0,False,secondary,Bronx Park East,66.868,,,,,,,,,,,278105549,
+42744838,42744834,0,False,secondary,Bronx Park East,145.234,,,,,,,,,,,278105549,
+42744841,42744838,0,False,secondary,Bronx Park East,66.868,,,,,,,,,,,278105549,
+42744841,42744845,0,False,secondary,Bronx Park East,140.356,,,,,,,,,,,278105549,
+42744845,42724404,0,False,primary,Boston Road,148.579,,,,,,,,,,,42701895,
+42744845,42744841,0,False,secondary,Bronx Park East,140.356,,,,,,,,,,,278105549,
+42744845,42722301,0,False,primary,Boston Road,155.523,,,,,,,,,,,323906909,
+42745318,3881994564,0,False,tertiary,East 180th Street,139.703,,,,,,,,,,,219926582,
+42747062,42747146,0,False,residential,Bronx Park South,65.732,,,,,,,,,,,5697417,
+42747062,42747151,0,False,residential,Bronx Park South,145.379,,,,,,,,,,,5697417,
+42747140,42747146,0,False,residential,Bronx Park South,106.577,,,,,,,,,,,5697417,
+42747140,42730752,0,False,residential,Bronx Park South,99.743,,,,,,,,,,,5697417,
+42747146,42747062,0,False,residential,Bronx Park South,65.732,,,,,,,,,,,5697417,
+42747146,42747140,0,False,residential,Bronx Park South,106.577,,,,,,,,,,,5697417,
+42747151,42747155,0,False,residential,Bronx Park South,136.498,,,,,,,,,,,5697417,
+42747151,42747062,0,False,residential,Bronx Park South,145.379,,,,,,,,,,,5697417,
+42747155,42753842,0,False,"['secondary', 'residential']","['Bronx Park South', 'Boston Road']",248.553,,,,,,,,,,,"[219926568, 5697417]",
+42747155,42747151,0,False,residential,Bronx Park South,136.498,,,,,,,,,,,5697417,
+42753842,42747155,0,False,"['secondary', 'residential']","['Bronx Park South', 'Boston Road']",248.553,,,,,,,,,,,"[219926568, 5697417]",
+42753842,3881994564,0,False,tertiary,East 180th Street,186.357,,,,,,,yes,,,,"[276028104, 276028105, 219926572]",
+42755256,42767053,0,False,secondary,Southern Boulevard,128.266,,,,,,,,,,,225980842,
+42755256,42767057,0,False,secondary,Southern Boulevard,131.919,,,,,,,,,,,225980842,
+42755833,42755837,0,False,residential,Bronx Boulevard,30.66,,,,,,,,,,,5697900,
+42755833,42739662,0,False,residential,Bronx Boulevard,228.68,,,,,,,,,,,5697900,
+42755837,42755833,0,False,residential,Bronx Boulevard,30.66,,,,,,,,,,,5697900,
+42756498,42726881,0,True,motorway,Bronx River Parkway,361.951,3,,,50 mph,,,,,,,49590908,BRP
+42758189,471204852,0,False,residential,Bronx Park Road,149.386,,,,,designated,,,,,,5698045,
+42758250,4405574823,0,False,residential,Bronx Park Road,1202.589,,,,,,,yes,,,,"[75888496, 158307017, 75888497, 293763547]",
+42758383,1705249027,0,False,residential,Garden Way,385.429,,,,,,,,,,,5698047,
+42767045,42767049,0,False,secondary,Southern Boulevard,117.638,,,,,,,,,,,225980842,
+42767045,42734926,0,False,secondary,Southern Boulevard,13.52,,,,,,,,,,,225980842,
+42767049,42767053,0,False,secondary,Southern Boulevard,94.77,,,,,,,,,,,225980842,
+42767049,42767045,0,False,secondary,Southern Boulevard,117.638,,,,,,,,,,,225980842,
+42767053,42755256,0,False,secondary,Southern Boulevard,128.266,,,,,,,,,,,225980842,
+42767053,42767049,0,False,secondary,Southern Boulevard,94.77,,,,,,,,,,,225980842,
+42767057,42755256,0,False,secondary,Southern Boulevard,131.919,,,,,,,,,,,225980842,
+42769581,42724404,0,False,primary,Boston Road,69.286,7,,,,,,,,,,43671522,US 1
+42769581,42725700,0,True,trunk,Bronx and Pelham Parkway,75.842,3,,,,,,,,,,11552912,US 1
+85190103,85191908,0,True,motorway,Bronx River Parkway,827.043,3,,,50 mph,,,,,,,332668328,BRP
+85191908,2757465929,0,True,motorway_link,,278.148,,,,,,,,,,,5695635,
+85191908,42725664,0,True,motorway,Bronx River Parkway,518.453,3,,,50 mph,,,yes,,,,"[332668328, 49590914, 49590907, 10252956]",BRP
+103008429,471213649,0,True,motorway_link,,137.022,,,,,,,,,,,39332448,
+103008429,103028462,0,True,motorway,Bronx River Parkway,182.269,3,,,50 mph,,,,,,,49590910,BRP
+103008432,103008429,0,True,motorway,Bronx River Parkway,94.502,3,,,50 mph,,,,,,,49590910,BRP
+103012237,471205229,0,True,trunk,"['East Fordham Road', 'Bronx and Pelham Parkway']",281.202,2,,,,,,yes,,,,"[331031064, 116775562, 331031066, 5697130]",US 1
+103012242,103016510,0,True,motorway_link,,254.456,1,,,,,,,,,,5696199,
+103012242,103012237,0,True,trunk,Bronx and Pelham Parkway,243.237,2,,,,,,,,,,116775562,US 1
+103012243,103012242,0,True,trunk,Bronx and Pelham Parkway,48.508,2,,,,,,,,,,116775562,US 1
+103016510,103018466,0,True,motorway,Bronx River Parkway,48.204,3,,,50 mph,,,yes,,,,49590915,BRP
+103018466,42720445,0,True,motorway_link,,291.545,1,,,,,,,,,,11552469,
+103018466,103008432,0,True,motorway,Bronx River Parkway,256.289,3,,,50 mph,,,yes,,,,"[49590912, 49590918]",BRP
+103021419,2757465929,0,True,trunk,Doctor Theodore Kazimiroff Boulevard,174.943,1,,,,,,,,,,221300966,MP
+471201428,103012243,0,True,motorway_link,,259.937,1,,,,,,,,,,5695631,
+471201428,42756498,0,True,motorway,Bronx River Parkway,386.672,3,,,50 mph,,,,,,,49590908,BRP
+471202008,103008432,0,True,motorway_link,,402.278,1,,,,,,yes,,,,"[5695921, 49590909]",
+471202008,42720445,0,True,trunk,Bronx and Pelham Parkway,246.243,"['3', '2']",,,30 mph,,,,,,,"[331031065, 116775509]",US 1
+471202021,42720413,0,True,motorway_link,,274.89,1,,,,,,,,,,11552473,
+471202021,42724404,0,True,trunk,Bronx and Pelham Parkway,247.81,3,,,30 mph,,,,,,,116775509,US 1
+471204459,42756498,0,True,motorway_link,,271.267,1,,,,,,,,,,5695955,
+471204852,42758189,0,False,residential,Bronx Park Road,149.386,,,,,designated,,,,,,5698045,
+471204852,471202008,0,True,trunk,Bronx and Pelham Parkway,164.57,2,,,,,,yes,,,,"[12373800, 331031065, 331031063]",US 1
+471205229,2757492815,0,True,trunk,East Fordham Road,246.648,2,,,,,,,,,,5697124,
+471206036,471204852,0,True,trunk,East Fordham Road,74.401,2,,,,,,,,,,116775681,US 1
+471213649,42732770,0,False,motorway_link,,142.54,,,,,,,,,,,5696448,
+471213649,103028462,0,True,motorway_link,,156.562,,,,,,,,,,,39332455,
+471213783,42732770,0,False,residential,Boston Road,31.688,,,,,,,,,,,5698698,
+471214126,3306795040,0,True,motorway_link,,113.165,,,,,,,,,,,5696254,
+471214126,42722291,0,False,motorway_link,,74.383,,,,,,,,,,,39331221,
+546971192,85190103,0,True,motorway_link,,266.659,,,,,,,,,,,10253087,
+546971192,42722702,0,False,secondary,East Gun Hill Road,50.298,,,,,,,yes,,,,"[420565674, 49590924, 49590925]",
+630660880,103021419,0,True,motorway_link,,208.863,,,,,,,,,,,5695916,
+630660880,42720501,0,True,motorway,Bronx River Parkway,217.007,3,,,50 mph,,,,,,,49590906,BRP
+1705249027,42758383,0,False,residential,Garden Way,385.429,,,,,,,,,,,5698047,
+2327848911,42737926,0,True,trunk,Doctor Theodore Kazimiroff Boulevard,108.456,"['2', '1']",,,,,,,,,,"[270754273, 421836203]",MP
+2327848911,2327848921,0,False,trunk,Doctor Theodore Kazimiroff Boulevard,88.623,2,,,,,,,,,,270754274,MP
+2327848917,2757465926,0,True,trunk,Doctor Theodore Kazimiroff Boulevard,298.989,"['2', '1']",,,,,,yes,,,,"[270745632, 270745634, 270745636]",MP
+2327848921,2327848917,0,True,trunk,Doctor Theodore Kazimiroff Boulevard,166.581,1,,,,,,,,,,270745634,MP
+2327848921,2327848911,0,False,trunk,Doctor Theodore Kazimiroff Boulevard,88.623,2,,,,,,,,,,270754274,MP
+2449849365,2757485457,0,True,trunk,"['Southern Boulevard', 'Doctor Theodore Kazimiroff Boulevard']",718.635,2,,,,,,,,,,"[586133525, 270749732, 584971373, 270749734]",
+2449849365,1705248996,0,True,trunk_link,,83.405,,,,,,,,,,,326482112,
+2757465914,42722172,0,True,motorway_link,,153.013,,,,,,,,,,,5695706,
+2757465914,2757465911,0,True,trunk,Doctor Theodore Kazimiroff Boulevard,38.957,2,,,,,,,,,,270745636,MP
+2757465926,42725664,0,True,motorway_link,,320.092,,,,,,,,,,,5695954,
+2757465926,2757465914,0,True,trunk,Doctor Theodore Kazimiroff Boulevard,240.876,2,,,,,,,,,,270745636,MP
+2757465929,42727735,0,True,trunk,Doctor Theodore Kazimiroff Boulevard,282.663,"['2', '1']",,,,,,yes,,,,"[46627280, 118714442, 420885160, 221300966]",MP
+2757485457,42744136,0,False,tertiary,Bedford Park Boulevard,11.284,,,,,,,,,,,270749740,
+2757485457,42722720,0,True,trunk,Doctor Theodore Kazimiroff Boulevard,105.664,2,,,,,,,,,,270749730,
+2757485457,42722720,1,True,trunk_link,,103.808,,,,,,,,,,,326405373,
+2757485463,42737772,0,False,trunk,Mosholu Parkway,7.918,3,,,,,,,,,,50512599,MP
+2757485463,2327848911,0,True,trunk,Doctor Theodore Kazimiroff Boulevard,144.514,"['2', '1']",,,,,,,,,,"[420885156, 586133526]",MP
+2757492815,2449849365,0,True,trunk,Southern Boulevard,369.922,2,,,,,,,,,,"[270752985, 270752986, 270749734]",
+3306795040,42729424,0,True,motorway,Bronx River Parkway,27.028,3,,,50 mph,,,,,,,587061806,BRP
+3656081808,3656081813,0,True,motorway,Bronx River Parkway,49.386,3,,,50 mph,,,,,,,45603466,BRP
+3656081813,42720264,0,True,motorway,Bronx River Parkway,470.627,3,,,50 mph,,,,,,,45603466,BRP
+3881994564,42745318,0,False,tertiary,East 180th Street,139.703,,,,,,,,,,,219926582,
+3881994564,42753842,0,False,tertiary,East 180th Street,186.357,,,,,,,yes,,,,"[276028104, 276028105, 219926572]",
+4405574823,42758250,0,False,residential,Bronx Park Road,1202.589,,,,,,,yes,,,,"[75888496, 75888497, 293763547, 158307017]",

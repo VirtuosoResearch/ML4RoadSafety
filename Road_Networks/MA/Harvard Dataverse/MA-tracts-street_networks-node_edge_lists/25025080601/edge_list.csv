@@ -1,0 +1,107 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+61342986,61342992,0,True,residential,Marvin Street,94.707,2,12.2,,25 mph,,,,,,,8650738,
+61342986,61345570,0,True,secondary,Washington Street,35.931,2,19.8,,,,,,,,,"[279666415, 591252079]",
+61342992,61475058,0,True,tertiary,Shawmut Avenue,101.517,2,17.1,,,,,,,,,591236167,
+61343517,61343519,0,False,tertiary,Columbus Avenue,55.887,2,24.4,,25 mph,,,,,,,301736990,MA 28
+61343519,61357854,0,False,tertiary,Columbus Avenue,53.691,2,24.4,,25 mph,,,,,,,301736990,MA 28
+61343519,61343517,0,False,tertiary,Columbus Avenue,55.887,2,24.4,,25 mph,,,,,,,301736990,MA 28
+61344902,61363912,0,False,tertiary,Columbus Avenue,58.671,2,24.4,,25 mph,,,,,,,301736990,MA 28
+61344953,61345827,0,True,residential,Lambert Avenue,91.44,2,9.8,,25 mph,,,,,,,8648898,
+61344953,61346475,0,True,residential,Bartlett Street,217.307,2,12.2,,25 mph,,,,,,,8644813,
+61344982,61342986,0,True,secondary,Washington Street,57.701,2,19.8,,,,,,,,,279666416,
+61345002,61342992,0,True,tertiary,Shawmut Avenue,28.841,2,17.1,,,,,,,,,591236167,
+61345002,61547220,0,False,residential,Madison Park Court,182.927,,,,25 mph,,,,,,,"[8648906, 301854758]",
+61345019,61378157,0,True,tertiary,Roxbury Street,63.733,2,18.3,,,,,,,,,8644398,
+61345019,61345079,0,False,secondary,Malcolm X Boulevard,392.122,4,24.4,,,,,,,,,301814875,
+61345019,61353286,0,False,secondary,Malcolm X Boulevard,52.381,4,24.4,,,,,,,,,591252078,
+61345079,61345234,0,False,secondary,Malcolm X Boulevard,73.56,4,24.4,,,,,,,,,301814875,
+61345079,61345019,0,False,secondary,Malcolm X Boulevard,392.122,4,24.4,,,,,,,,,301814875,
+61345140,61345489,0,True,tertiary,Dudley Street,21.605,1,15.2,,,,,,,,,591278010,
+61345166,61429703,0,True,secondary,Warren Street,45.366,2,17.1,,,,,,,,,8648388,
+61345234,61371388,0,True,secondary_link,,50.45,,,,,,,,,,,8648112,
+61345234,61345238,0,False,secondary,Malcolm X Boulevard,47.643,4,24.4,,,,,,,,,8650531,
+61345234,61345079,0,False,secondary,Malcolm X Boulevard,73.56,4,24.4,,,,,,,,,301814875,
+61345238,61371388,0,True,secondary,Tremont Street,40.23,3,28.7,,,,,,,,,8641527,MA 28
+61345238,61348296,0,False,secondary,Tremont Street,18.163,2,20.1,,,,,,,,,301820168,
+61345238,61345234,0,False,secondary,Malcolm X Boulevard,47.643,4,24.4,,,,,,,,,8650531,
+61345489,61358207,0,True,tertiary,Dudley Street,89.948,1,15.2,,,,,,,,,8640517,
+61345498,61495514,0,False,tertiary,Shawmut Avenue,47.12,2,17.1,,,,,,,,,591252067,
+61345498,61346489,0,False,tertiary,Shawmut Avenue,61.528,2,17.1,,,,,,,,,8642305,
+61345500,61345498,0,True,tertiary,Dudley Street,56.699,1,15.2,,,,,,,,,8640517,
+61345528,61345166,0,True,secondary,Warren Street,77.967,2,17.1,,,,,,,,,"[278429355, 8651092, 591136311]",
+61345570,61345573,0,True,secondary,Washington Street,81.824,2,19.8,,,,,,,,,279666415,
+61345573,61463793,0,False,secondary,Washington Street,12.089,2,19.8,,,,,,,,,591252065,
+61345573,61475070,0,True,secondary,Malcolm X Boulevard,78.673,2,24.4,,,,,,,,,8647200,
+61345827,61521847,0,True,tertiary,Dudley Street,57.173,1,15.2,,,,,,,,,8640517,
+61345827,61345500,0,True,residential,Kenilworth Street,201.583,2,14.0,,25 mph,,,,,,,8646586,
+61345830,61344953,0,True,residential,Bartlett Street,56.413,2,12.2,,25 mph,,,,,,,8644813,
+61346475,61346489,0,False,tertiary,Washington Street,105.593,2,19.8,,,,,,,,,485257985,
+61346489,61345498,0,False,tertiary,Shawmut Avenue,61.528,2,17.1,,,,,,,,,8642305,
+61346489,61346475,0,False,tertiary,Washington Street,105.593,2,19.8,,,,,,,,,485257985,
+61346489,61463793,0,False,tertiary,Washington Street,93.31,2,19.8,,,,,,,,,485257985,
+61348296,61345238,0,False,secondary,Tremont Street,18.163,2,20.1,,,,,,,,,301820168,
+61348878,61355036,0,False,secondary,Tremont Street,50.485,4,28.7,,,,,,,,,88298147,
+61352171,61352173,0,True,secondary,Warren Street,20.383,2,17.1,,,,,,,,,278429357,
+61352173,61352500,0,True,secondary,Washington Street,39.07,2,19.8,,,,,,,,,591252037,
+61352500,61344982,0,True,secondary,Washington Street,66.458,2,19.8,,,,,,,,,279666417,
+61353286,61495514,0,True,secondary,Malcolm X Boulevard,181.559,2,24.4,,,,,,,,,8648111,
+61353286,61345019,0,False,secondary,Malcolm X Boulevard,52.381,4,24.4,,,,,,,,,591252078,
+61355036,61348878,0,False,secondary,Tremont Street,50.485,4,28.7,,,,,,,,,88298147,
+61355334,61357851,0,False,secondary,Tremont Street,37.583,4,28.7,,,,,,,,,88298147,
+61357851,61355334,0,False,secondary,Tremont Street,37.583,4,28.7,,,,,,,,,88298147,
+61357851,61494029,0,False,secondary,Tremont Street,52.171,4,28.7,,,,,,,,,88298147,
+61357851,61357854,0,True,residential,Benton Street,117.884,2,10.4,,25 mph,,,,,,,8652008,
+61357854,61343519,0,False,tertiary,Columbus Avenue,53.691,2,24.4,,25 mph,,,,,,,301736990,MA 28
+61357854,61412721,0,False,tertiary,Columbus Avenue,52.717,2,24.4,,25 mph,,,,,,,301736990,MA 28
+61357953,61345827,0,True,tertiary,Dudley Street,37.981,1,15.2,,,,,,,,,8640517,
+61358207,61357953,0,True,tertiary,Dudley Street,102.492,1,15.2,,,,,,,,,8640517,
+61358207,61345830,0,True,residential,Bartlett Street,70.066,2,12.2,,25 mph,,,,,,,8644813,
+61363910,61363912,0,True,residential,Saint Cyprians Place,102.686,2,11.0,,25 mph,,,,,,,8639410,
+61363910,61378496,0,False,secondary,Tremont Street,50.599,4,28.7,,,,,,,,,88298147,
+61363912,61483055,0,False,tertiary,Columbus Avenue,49.978,2,24.4,,25 mph,,,,,,,301736990,MA 28
+61363912,61344902,0,False,tertiary,Columbus Avenue,58.671,2,24.4,,25 mph,,,,,,,301736990,MA 28
+61371388,61371410,0,True,secondary,Tremont Street,195.497,3,28.7,,,,,,,,,301814874,MA 28
+61371410,61376128,0,False,residential,Prentiss Street,10.129,2,12.2,,25 mph,,,,,,,8651628,
+61371410,3097496493,0,True,secondary,Tremont Street,295.189,3,28.7,,,,,,,,,301814874,MA 28
+61376128,61371410,0,False,residential,Prentiss Street,10.129,2,12.2,,25 mph,,,,,,,8651628,
+61376128,61348296,0,True,secondary,Tremont Street,247.991,3,28.7,,,,,,,,,301820166,MA 28
+61376312,61345140,0,True,tertiary,Roxbury Street,23.875,1,18.3,,,,,,,,,426461140,
+61376312,61345489,0,True,tertiary,Roxbury Street,18.988,1,,,,,,,,,,312003565,
+61378157,61376312,0,True,tertiary,Roxbury Street,190.526,2,18.3,,,,,,,,,"[426461142, 8644398]",
+61378157,61357953,0,True,residential,Putnam Street,104.08,2,11.0,,25 mph,,,,,,,8650415,
+61378496,61516466,0,False,secondary,Tremont Street,54.776,4,28.7,,,,,,,,,88298147,
+61378496,61363910,0,False,secondary,Tremont Street,50.599,4,28.7,,,,,,,,,88298147,
+61412721,61494029,0,True,residential,Burke Street,113.64,2,10.4,,25 mph,,,,,,,8651332,
+61412721,61357854,0,False,tertiary,Columbus Avenue,52.717,2,24.4,,25 mph,,,,,,,301736990,MA 28
+61412721,61516499,0,False,tertiary,Columbus Avenue,54.309,2,24.4,,25 mph,,,,,,,301736990,MA 28
+61429703,61352171,0,True,secondary,Warren Street,17.229,2,17.1,,,,,,,,,278429357,
+61429703,61352500,0,True,secondary,Warren Street,23.451,,17.1,,,,,,,,,8650228,
+61455791,3097496493,0,False,secondary,Ruggles Street,14.493,3,,,,,,,,,,301820167,
+61455791,61376128,0,True,secondary,Tremont Street,296.381,3,28.7,,,,,,,,,301820166,MA 28
+61463793,61345573,0,False,secondary,Washington Street,12.089,2,19.8,,,,,,,,,591252065,
+61463793,61346489,0,False,tertiary,Washington Street,93.31,2,19.8,,,,,,,,,485257985,
+61475058,61495514,0,True,tertiary,Shawmut Avenue,18.485,2,17.1,,,,,,,,,591236167,
+61475058,61353286,0,True,secondary,Malcolm X Boulevard,167.368,2,24.4,,,,,,,,,8647200,
+61475070,61475058,0,True,secondary,Malcolm X Boulevard,28.924,2,24.4,,,,,,,,,8647200,
+61475070,61345570,0,True,residential,Roxbury Street,95.357,1,15.2,,25 mph,,,,,,,8645126,
+61483055,61516499,0,False,tertiary,Columbus Avenue,56.117,2,24.4,,25 mph,,,,,,,301736990,MA 28
+61483055,61363912,0,False,tertiary,Columbus Avenue,49.978,2,24.4,,25 mph,,,,,,,301736990,MA 28
+61483055,61378496,0,True,residential,Cunard Street,106.112,2,16.5,,25 mph,,,,,,,8648224,
+61494029,61357851,0,False,secondary,Tremont Street,52.171,4,28.7,,,,,,,,,88298147,
+61494029,61516466,0,False,secondary,Tremont Street,54.392,4,28.7,,,,,,,,,88298147,
+61495514,61345498,0,False,tertiary,Shawmut Avenue,47.12,2,17.1,,,,,,,,,591252067,
+61495514,61475070,0,True,residential,Roxbury Street,18.028,1,15.2,,25 mph,,,,,,,8645126,
+61495514,61463793,0,True,secondary,Malcolm X Boulevard,90.801,2,24.4,,,,,,,,,591252066,
+61516466,61378496,0,False,secondary,Tremont Street,54.776,4,28.7,,,,,,,,,88298147,
+61516466,61516499,0,True,residential,Coventry Street,109.932,2,10.4,,25 mph,,,,,,,8646060,
+61516466,61494029,0,False,secondary,Tremont Street,54.392,4,28.7,,,,,,,,,88298147,
+61516499,61483055,0,False,tertiary,Columbus Avenue,56.117,2,24.4,,25 mph,,,,,,,301736990,MA 28
+61516499,61412721,0,False,tertiary,Columbus Avenue,54.309,2,24.4,,25 mph,,,,,,,301736990,MA 28
+61521847,61521848,0,False,residential,Dudley Place,32.291,2,4.9,,25 mph,,,,,,,8648675,
+61521847,61345500,0,True,tertiary,Dudley Street,93.669,1,15.2,,,,,,,,,8640517,
+61521848,61521847,0,False,residential,Dudley Place,32.291,2,4.9,,25 mph,,,,,,,8648675,
+61547220,61345002,0,False,residential,Madison Park Court,182.927,,,,25 mph,,,,,,,"[8648906, 301854758]",
+3097496493,61455791,0,False,secondary,Ruggles Street,14.493,3,,,,,,,,,,301820167,
+3097496493,3097496492,0,True,secondary,Tremont Street,91.921,3,28.7,,,,,,,,,591236188,MA 28
+4257771900,61345528,0,True,secondary,Warren Street,85.243,2,17.1,,,,,,,,,8651092,
+4257771900,61345573,0,True,secondary,Dudley Street,136.47,3,19.8,,,,,,,,,"[301820169, 351888178, 521734148, 8649570]",

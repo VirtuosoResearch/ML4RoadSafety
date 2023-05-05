@@ -1,0 +1,53 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+116223463,116531622,0,False,secondary,Main Street,32.192,,,,,,,,,,,96952054,NY 79
+116223463,116560694,0,False,residential,Hubbard Street,100.289,,,,,,,,,,,12773289,
+116223463,116531632,0,False,secondary,Main Street,153.0,,,,,,,,,,,96952054,NY 79
+116358275,116592105,0,False,residential,Cortland Street,50.37,,,,,,,,,,,12754210,
+116358275,116358303,0,False,residential,Northrup Avenue North,149.918,,,,,,,,,,,12726302,
+116358275,116629045,0,False,residential,Cortland Street,241.89,,,,,,,,,,,12754210,
+116358303,116358309,0,False,residential,Northrup Avenue North,53.972,,,,,,,,,,,12726302,
+116358303,116358275,0,False,residential,Northrup Avenue North,149.918,,,,,,,,,,,12726302,
+116358303,116629045,0,False,residential,Walker Road,115.746,,,,,,,,,,,12768127,
+116358303,116531632,0,False,residential,Walker Road,180.907,,,,,,,,,,,12768127,
+116358309,116358303,0,False,residential,Northrup Avenue North,53.972,,,,,,,,,,,12726302,
+116387304,4698319331,0,False,tertiary,River Road,6.915,,,,,,,,,,,12762852,
+116531579,116711477,0,False,tertiary,River Road,29.507,,,,,,,,,,,12762852,
+116531579,116531622,0,False,secondary,Main Street,193.868,,,,,,,,,,,96952054,NY 79
+116531622,116223463,0,False,secondary,Main Street,32.192,,,,,,,,,,,96952054,NY 79
+116531622,116556930,0,False,residential,Railroad Avenue,165.925,,,,,,,,,,,12742580,
+116531622,116531579,0,False,secondary,Main Street,193.868,,,,,,,,,,,96952054,NY 79
+116531632,116358303,0,False,residential,Walker Road,180.907,,,,,,,,,,,12768127,
+116531632,116531644,0,False,secondary,Main Street,127.56,,,,,,,,,,,96952054,NY 79
+116531632,116223463,0,False,secondary,Main Street,153.0,,,,,,,,,,,96952054,NY 79
+116531644,116592105,0,False,residential,Cortland Street,57.074,,,,,,,,,,,12754210,
+116531644,116531632,0,False,secondary,Main Street,127.56,,,,,,,,,,,96952054,NY 79
+116556930,116531622,0,False,residential,Railroad Avenue,165.925,,,,,,,,,,,12742580,
+116556930,116711477,0,False,residential,High Street,123.908,,,,,,,,,,,12771283,
+116560694,116560723,0,False,residential,Northrup East Avenue,104.569,,,,,,,,,,,12743448,
+116560694,116834026,0,False,residential,Hubbard Street,125.591,,,,,,,,,,,12773289,
+116560694,116223463,0,False,residential,Hubbard Street,100.289,,,,,,,,,,,12773289,
+116560723,116560694,0,False,residential,Northrup East Avenue,104.569,,,,,,,,,,,12743448,
+116568622,116569048,0,False,residential,Owen Hill Road,308.834,,,,,,,,,,,96952076,
+116569048,116569057,0,False,residential,Whiting Hill Road,233.004,,,,,,,,,,,12745066,
+116569048,116568622,0,False,residential,Owen Hill Road,308.834,,,,,,,,,,,96952076,
+116569048,116629045,0,False,residential,"['Walker Road', 'Owen Hill Road']",145.445,,,,,,,yes,,,,"[12766644, 96952090, 96952076, 12768127]",
+116569057,116569048,0,False,residential,Whiting Hill Road,233.004,,,,,,,,,,,12745066,
+116592105,116358275,0,False,residential,Cortland Street,50.37,,,,,,,,,,,12754210,
+116592105,116531644,0,False,residential,Cortland Street,57.074,,,,,,,,,,,12754210,
+116592105,116592169,0,False,residential,Collier Street,158.978,,,,,,,,,,,12749575,
+116592169,116592105,0,False,residential,Collier Street,158.978,,,,,,,,,,,12749575,
+116629045,116358275,0,False,residential,Cortland Street,241.89,,,,,,,,,,,12754210,
+116629045,116569048,0,False,residential,"['Walker Road', 'Owen Hill Road']",145.445,,,,,,,yes,,,,"[96952090, 12766644, 96952076, 12768127]",
+116629045,116358303,0,False,residential,Walker Road,115.746,,,,,,,,,,,12768127,
+116711470,116711477,0,False,tertiary,River Road,17.962,,,,,,,,,,,12762852,
+116711470,116811272,0,False,residential,High Street,32.886,,,,,,,,,,,12771298,
+116711470,4698319331,0,False,tertiary,River Road,394.66,,,,,,,,,,,12762852,
+116711477,116711470,0,False,tertiary,River Road,17.962,,,,,,,,,,,12762852,
+116711477,116531579,0,False,tertiary,River Road,29.507,,,,,,,,,,,12762852,
+116711477,116556930,0,False,residential,High Street,123.908,,,,,,,,,,,12771283,
+116811272,116711470,0,False,residential,High Street,32.886,,,,,,,,,,,12771298,
+116834026,116560694,0,False,residential,Hubbard Street,125.591,,,,,,,,,,,12773289,
+4698319331,116387304,0,False,tertiary,River Road,6.915,,,,,,,,,,,12762852,
+4698319331,116711470,0,False,tertiary,River Road,394.66,,,,,,,,,,,12762852,
+4698319331,4698319332,0,False,unclassified,,38.413,,,,,,,,,,,"[476192622, 476192623]",
+4698319332,4698319331,0,False,unclassified,,38.413,,,,,,,,,,,"[476192622, 476192623]",

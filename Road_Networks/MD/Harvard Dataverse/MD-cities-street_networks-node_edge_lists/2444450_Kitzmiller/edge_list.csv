@@ -1,0 +1,61 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+182638080,182638275,0,False,secondary,Kitzmiller Road,33.712,,,,,,,,,,,66984804,MD 38
+182638080,182690432,0,False,residential,State Street,98.941,,,,,,,,,,,17642809,
+182638080,182638083,0,False,secondary,Kitzmiller Road,142.378,,,,,,,,,,,66984804,MD 38
+182638083,182690432,0,False,residential,State Street,111.326,,,,,,,,,,,17642808,
+182638083,182638080,0,False,secondary,Kitzmiller Road,142.378,,,,,,,,,,,66984804,MD 38
+182638083,1490736869,0,False,secondary,Kitzmiller Road,147.01,,,,,,,,,,,66984804,MD 38
+182638089,1490736869,0,False,secondary,Kitzmiller Road,116.069,,,,,,,,,,,66984804,MD 38
+182638266,182656002,0,False,unclassified,West Center Street,211.276,,,,,,,,,,,17641023,
+182638266,182664784,0,False,"['unclassified', 'residential']","['East Center Street', 'Union Street']",148.569,,,,,,,,,,,"[17639399, 17642711]",
+182638266,182638272,0,False,secondary,Kitzmiller Road,75.109,,,,,,,,,,,66984804,MD 38
+182638272,182638275,0,False,secondary,Kitzmiller Road,76.403,,,,,,,,,,,66984804,MD 38
+182638272,182638798,0,False,tertiary,West Main Street,171.285,,,,,,,,,,,17635545,
+182638272,182664784,0,False,unclassified,East Main Street,110.198,,,,,,,,,,,17637885,
+182638272,182638266,0,False,secondary,Kitzmiller Road,75.109,,,,,,,,,,,66984804,MD 38
+182638275,182638272,0,False,secondary,Kitzmiller Road,76.403,,,,,,,,,,,66984804,MD 38
+182638275,182638080,0,False,secondary,Kitzmiller Road,33.712,,,,,,,,,,,66984804,MD 38
+182638275,182695069,0,False,residential,Hedge Lane,107.358,,,,,,,,,,,17640786,
+182638798,182638800,0,False,tertiary,West Main Street,89.424,,,,,,,,,,,17635545,
+182638798,182638272,0,False,tertiary,West Main Street,171.285,,,,,,,,,,,17635545,
+182638798,182656002,0,False,residential,2nd Street,89.131,,,,,,,,,,,17637062,
+182638800,182638802,0,False,tertiary,West Main Street,69.626,,,,,,,,,,,17635545,
+182638800,182638798,0,False,tertiary,West Main Street,89.424,,,,,,,,,,,17635545,
+182638800,182638805,0,False,residential,"['4th Street', 'Race Street']",280.763,,,,,,,,,,,"[17637115, 17635886]",
+182638802,182638805,0,False,tertiary,West Main Street,123.725,,,,,,,,,,,17635545,
+182638802,182638800,0,False,tertiary,West Main Street,69.626,,,,,,,,,,,17635545,
+182638802,182667811,0,False,residential,3rd Street,73.06,,,,,,,,,,,17638113,
+182638805,182638808,0,False,tertiary,West Main Street,17.291,,,,,,,,,,,17635545,
+182638805,182638802,0,False,tertiary,West Main Street,123.725,,,,,,,,,,,17635545,
+182638805,182638800,0,False,residential,"['4th Street', 'Race Street']",280.763,,,,,,,,,,,"[17637115, 17635886]",
+182638808,182638805,0,False,tertiary,West Main Street,17.291,,,,,,,,,,,17635545,
+182638808,182667811,0,False,residential,"['4th Street', 'Church Street']",216.307,,,,,,,,,,,"[17635883, 17640775]",
+182656002,182638798,0,False,residential,2nd Street,89.131,,,,,,,,,,,17637062,
+182656002,182667811,0,False,"['unclassified', 'residential']","['3rd Street', 'West Center Street']",227.828,,,,,,,,,,,"[17638113, 17641023]",
+182656002,182638266,0,False,unclassified,West Center Street,211.276,,,,,,,,,,,17641023,
+182661342,182661346,0,False,residential,Spring Street,74.235,,,,,,,,,,,17637563,
+182661342,1490736869,0,False,residential,Spring Street,285.309,,,,,,,,,,,17637563,
+182661342,1490737272,0,False,residential,Hazel Street,164.893,,,,,,,,,,,17641480,
+182661346,182661342,0,False,residential,Spring Street,74.235,,,,,,,,,,,17637563,
+182661346,182713756,0,False,residential,Homestead Street,83.841,,,,,,,,,,,17642677,
+182661346,182690432,0,False,residential,"['Homestead Street', 'Willow Street']",161.415,,,,,,,,,,,"[17640272, 17642677]",
+182664784,182664808,0,False,unclassified,East Main Street,467.527,,,,,,,,,,,17637885,
+182664784,182638272,0,False,unclassified,East Main Street,110.198,,,,,,,,,,,17637885,
+182664784,182638266,0,False,"['unclassified', 'residential']","['East Center Street', 'Union Street']",148.569,,,,,,,,,,,"[17642711, 17639399]",
+182664808,182664833,0,False,unclassified,East Main Street,421.278,,,,,,,,,,,17637885,
+182664808,182664784,0,False,unclassified,East Main Street,467.527,,,,,,,,,,,17637885,
+182664808,182700029,0,False,residential,Orchard Street,148.537,,,,,,,,,,,17641311,
+182664833,182664808,0,False,unclassified,East Main Street,421.278,,,,,,,,,,,17637885,
+182667811,182638802,0,False,residential,3rd Street,73.06,,,,,,,,,,,17638113,
+182667811,182656002,0,False,"['unclassified', 'residential']","['3rd Street', 'West Center Street']",227.828,,,,,,,,,,,"[17638113, 17641023]",
+182667811,182638808,0,False,residential,"['4th Street', 'Church Street']",216.307,,,,,,,,,,,"[17635883, 17640775]",
+182690432,182661346,0,False,residential,"['Homestead Street', 'Willow Street']",161.415,,,,,,,,,,,"[17640272, 17642677]",
+182690432,182638083,0,False,residential,State Street,111.326,,,,,,,,,,,17642808,
+182690432,182638080,0,False,residential,State Street,98.941,,,,,,,,,,,17642809,
+182695069,182638275,0,False,residential,Hedge Lane,107.358,,,,,,,,,,,17640786,
+182700029,182664808,0,False,residential,Orchard Street,148.537,,,,,,,,,,,17641311,
+182713756,182661346,0,False,residential,Homestead Street,83.841,,,,,,,,,,,17642677,
+1490736869,182661342,0,False,residential,Spring Street,285.309,,,,,,,,,,,17637563,
+1490736869,182638083,0,False,secondary,Kitzmiller Road,147.01,,,,,,,,,,,66984804,MD 38
+1490736869,182638089,0,False,secondary,Kitzmiller Road,116.069,,,,,,,,,,,66984804,MD 38
+1490737272,182661342,0,False,residential,Hazel Street,164.893,,,,,,,,,,,17641480,

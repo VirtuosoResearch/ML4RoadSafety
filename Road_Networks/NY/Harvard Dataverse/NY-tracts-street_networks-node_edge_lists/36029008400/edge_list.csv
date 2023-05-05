@@ -1,0 +1,352 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+26496236,261499832,0,True,motorway,Niagara Thruway,967.025,2,,,55 mph,,,,,,,139470173,I 190
+111246784,111517810,0,False,primary,Grand Island Boulevard,62.039,,,,,,,,,,,12320725,NY 324
+111246784,261501613,0,True,motorway_link,,357.155,,,,,,,,,,,49607454,
+111246784,111652829,0,False,primary,Grand Island Boulevard,183.668,,,,,,,,,,,"[139470112, 93964117]",NY 324
+111246795,111271763,0,False,tertiary,Kenmore Avenue,205.02,2,,,30 mph,yes,,,,,,49601031,CR 189
+111246795,111514136,0,False,tertiary,Kenmore Avenue,412.99,2,,,30 mph,yes,,,,,,49601031,CR 189
+111246795,111526436,0,False,tertiary,Sawyer Avenue,1122.192,2,,,30 mph,yes,,,,,,198678997,CR 170
+111271763,111246795,0,False,tertiary,Kenmore Avenue,205.02,2,,,30 mph,yes,,,,,,49601031,CR 189
+111271763,111651270,0,False,residential,Ritchie Avenue,236.597,,,,,,,,,,,12320495,
+111271763,111652829,0,False,tertiary,Kenmore Avenue,46.885,2,,,30 mph,yes,,,,,,49601031,CR 189
+111274709,111513953,0,False,tertiary,Kenmore Avenue,231.458,3,,,30 mph,yes,,,,,,368276961,CR 189
+111274709,111514123,0,False,tertiary,Kenmore Avenue,1276.268,"['3', '4']",,,30 mph,yes,,,,,,"[12275704, 198690395, 198690637, 198691447]",CR 189
+111294947,111328208,0,False,unclassified,James Avenue,170.268,,,,,,,,,,,98032491,
+111294947,111424445,0,False,unclassified,Cherry Avenue,82.508,2,,,30 mph,yes,,,,,,198680752,
+111294947,111294964,0,False,unclassified,"['James Avenue', 'Mildred Street']",248.624,2,,,30 mph,yes,,,,,,"[98032491, 198680750]",
+111294964,111424445,0,False,residential,Kaufman Avenue,170.892,2,,,30 mph,yes,,,,,,12293764,
+111294964,111526436,0,False,residential,Mildred Street,77.928,2,,,30 mph,yes,,,,,,12317466,
+111294964,111294947,0,False,unclassified,"['James Avenue', 'Mildred Street']",248.624,2,,,30 mph,yes,,,,,,"[98032491, 198680750]",
+111301494,111414254,0,False,residential,Riverview Boulevard,161.342,,,,,,,,,,,12292700,
+111301494,1694845628,0,False,residential,Riverview Boulevard,174.954,,,,,,,,,,,12292700,
+111301494,111368430,0,False,residential,Woodward Avenue,713.023,,,,,,,,,,,"[49667876, 139645053]",
+111302363,111414254,0,False,residential,Riverview Boulevard,64.498,,,,,,,,,,,12292700,
+111302363,111348132,0,False,residential,Dunlop Avenue,456.555,,,,,,,,,,,12315736,
+111302363,111302369,0,False,residential,,54.968,,,,,,,,,,,12279339,
+111302363,111414260,0,False,residential,Riverview Boulevard,100.435,,,,,,,,,,,12292700,
+111302369,111302363,0,False,residential,,54.968,,,,,,,,,,,12279339,
+111303370,111336315,0,False,residential,Flyder Avenue,101.247,,,,,,,,,,,12283962,
+111303370,2195189518,0,False,primary,Grand Island Boulevard,82.696,,,,,,,,,,,139470112,NY 324
+111303370,111331676,0,False,primary,Grand Island Boulevard,218.124,,,,,,,,,,,139470112,NY 324
+111328206,111328208,0,False,unclassified,James Avenue,185.004,,,,,,,,,,,98032491,
+111328206,111338287,0,False,primary,River Road,2460.058,"['2', '4']",,,"['55 mph', '45 mph']",yes,,,,,,"[197881392, 50761252, 50761253]",NY 266
+111328206,111338177,0,False,primary,River Road,84.104,2,,,45 mph,yes,,,,,,50761253,NY 266
+111328208,111294947,0,False,unclassified,James Avenue,170.268,,,,,,,,,,,98032491,
+111328208,111328206,0,False,unclassified,James Avenue,185.004,,,,,,,,,,,98032491,
+111328208,111424442,0,False,unclassified,Gelley Street,83.03,2,,,30 mph,yes,,,,,,198680751,
+111331676,111331680,0,False,residential,George Avenue,94.164,,,,,,,,,,,12283349,
+111331676,111303370,0,False,primary,Grand Island Boulevard,218.124,,,,,,,,,,,139470112,NY 324
+111331676,111652829,0,False,primary,Grand Island Boulevard,59.009,,,,,,,,,,,139470112,NY 324
+111331680,111331676,0,False,residential,George Avenue,94.164,,,,,,,,,,,12283349,
+111333596,111387724,0,False,tertiary,Vulcan Street,97.153,,,,,,,,,,,12303729,
+111336315,111303370,0,False,residential,Flyder Avenue,101.247,,,,,,,,,,,12283962,
+111338148,369752692,0,False,primary,River Road,9.878,4,,,40 mph,yes,,,,,,48690341,NY 266
+111338148,111339633,0,False,primary,Sheridan Drive,1068.093,,,,55 mph,,,,,,,12284431,NY 325
+111338148,630265863,0,False,unclassified,Aqua Lane,577.591,2,,,30 mph,yes,,,,,,49552543,
+111338148,111338173,0,False,primary,River Road,971.547,2,,,45 mph,yes,,,,,,50761253,NY 266
+111338173,111526425,0,False,tertiary,Sawyer Avenue,151.75,2,,,30 mph,yes,,,,,,49601951,CR 170
+111338173,111338177,0,False,primary,River Road,99.488,2,,,45 mph,yes,,,,,,50761253,NY 266
+111338173,111338148,0,False,primary,River Road,971.547,2,,,45 mph,yes,,,,,,50761253,NY 266
+111338177,111424442,0,False,residential,Kaufman Avenue,167.08,2,,,30 mph,yes,,,,,,12293764,
+111338177,111338173,0,False,primary,River Road,99.488,2,,,45 mph,yes,,,,,,50761253,NY 266
+111338177,111328206,0,False,primary,River Road,84.104,2,,,45 mph,yes,,,,,,50761253,NY 266
+111338287,1134365900,0,False,primary,River Road,43.739,4,,,55 mph,yes,,,,,,480343252,NY 266;NY 324
+111338287,1134365903,0,False,primary,Grand Island Boulevard,43.226,2,,,,,,,,,,480343253,NY 324
+111338287,111328206,0,False,primary,River Road,2460.058,"['2', '4']",,,"['55 mph', '45 mph']",yes,,,,,,"[197881392, 50761252, 50761253]",NY 266
+111339633,111338148,0,False,primary,Sheridan Drive,1068.093,,,,55 mph,,,,,,,12284431,NY 325
+111339633,1316447867,0,True,primary,Sheridan Drive,206.334,,,,55 mph,,,,,,,49612720,NY 325
+111339645,111514136,0,False,tertiary,Kenmore Avenue,47.08,2,,,30 mph,yes,,,,,,49601031,CR 189
+111339645,111339646,0,False,primary,Sheridan Drive,55.054,,,,55 mph,,,,,,,49612587,NY 325
+111339645,111514123,0,False,tertiary,Kenmore Avenue,40.147,4,,,,yes,,,,,,12275704,CR 189
+111339645,111339633,0,True,primary,Sheridan Drive,340.104,,,,55 mph,,,,,,,49612719,NY 325
+111339646,111348132,0,False,residential,Dunlop Avenue,408.273,,,,,,,,,,,12315736,
+111339646,111339645,0,False,primary,Sheridan Drive,55.054,,,,55 mph,,,,,,,49612587,NY 325
+111339646,111339648,0,False,primary,Sheridan Drive,147.549,,,,45 mph,,,,,,,50557052,NY 325
+111339648,111348134,0,False,residential,Dupont Avenue,300.071,,,,,,,,,,,12309491,
+111339648,111376076,0,False,residential,Dupont Avenue,152.447,,,,,,,,,,,12309491,
+111339648,111339651,0,False,primary,Sheridan Drive,136.539,,,,45 mph,,,,,,,50557052,NY 325
+111339648,111339646,0,False,primary,Sheridan Drive,147.549,,,,45 mph,,,,,,,50557052,NY 325
+111339651,111348137,0,False,residential,Parkedge Avenue,199.2,,,,,,,,,,,12317631,
+111339651,111376072,0,False,residential,Parkedge Avenue,229.056,,,,,,,,,,,12317631,
+111339651,111339654,0,False,primary,Sheridan Drive,139.691,,,,45 mph,,,,,,,50557052,NY 325
+111339651,111339648,0,False,primary,Sheridan Drive,136.539,,,,45 mph,,,,,,,50557052,NY 325
+111339654,111348143,0,False,residential,Desmond Drive,96.521,,,,,,,,,,,12287920,
+111339654,111339657,0,False,primary,Sheridan Drive,206.618,,,,45 mph,,,,,,,50557052,NY 325
+111339654,111339651,0,False,primary,Sheridan Drive,139.691,,,,45 mph,,,,,,,50557052,NY 325
+111339654,111370703,0,False,residential,Desmond Drive,299.846,,,,,,,,,,,12287920,
+111339657,643381875,0,False,primary,Sheridan Drive,176.276,,,,45 mph,,,,,,,50557052,NY 325
+111339657,111339654,0,False,primary,Sheridan Drive,206.618,,,,45 mph,,,,,,,50557052,NY 325
+111339657,111440007,0,False,residential,Mapleview Drive,126.553,,,,,,,,,,,12297176,
+111339657,111376069,0,False,residential,Oakview Drive,437.879,,,,,,,,,,,12298348,
+111339674,643381906,0,False,primary,Grand Island Boulevard,53.281,,,,,,,,,,,12320725,NY 324
+111339674,1599479238,0,False,primary,Sheridan Drive,23.834,,,,,,,,,,,49592050,NY 324
+111339674,643381875,0,False,primary,Sheridan Drive,52.604,,,,45 mph,,,,,,,50557052,NY 325
+111339681,111339685,0,False,primary,Sheridan Drive,303.398,,,,,,,yes,,,,"[49592050, 93964122, 93964095]",NY 324
+111339681,1599479234,0,False,primary,Sheridan Drive,50.089,,,,,,,,,,,49592050,NY 324
+111339681,111414276,0,False,residential,Riverview Boulevard,105.674,,,,,,,,,,,157273114,
+111339685,111339689,0,False,primary,Sheridan Drive,234.806,,,,,,,,,,,93964122,NY 324
+111339685,111339681,0,False,primary,Sheridan Drive,303.398,,,,,,,yes,,,,"[49592050, 93964122, 93964095]",NY 324
+111339685,111637510,0,False,residential,East Park Drive,156.608,,,,,,,,,,,230626530,
+111339689,111339685,0,False,primary,Sheridan Drive,234.806,,,,,,,,,,,93964122,NY 324
+111339689,111339702,0,False,primary,Sheridan Drive,387.931,,,,,,,,,,,"[93964122, 93964110]",NY 324
+111339702,630949595,0,True,primary,Sheridan Drive,204.247,,,,,,,,,,,"[49617794, 49615683]",NY 324
+111339702,111339689,0,False,primary,Sheridan Drive,387.931,,,,,,,,,,,"[93964122, 93964110]",NY 324
+111348132,111348134,0,False,residential,Wood Avenue,100.783,,,,,,,,,,,12285392,
+111348132,111302363,0,False,residential,Dunlop Avenue,456.555,,,,,,,,,,,12315736,
+111348132,111339646,0,False,residential,Dunlop Avenue,408.273,,,,,,,,,,,12315736,
+111348134,111348132,0,False,residential,Wood Avenue,100.783,,,,,,,,,,,12285392,
+111348134,111414260,0,False,residential,Dupont Avenue,457.351,,,,,,,,,,,12309491,
+111348134,111339648,0,False,residential,Dupont Avenue,300.071,,,,,,,,,,,12309491,
+111348134,111348137,0,False,residential,Wood Avenue,92.135,,,,,,,,,,,12285392,
+111348137,111339651,0,False,residential,Parkedge Avenue,199.2,,,,,,,,,,,12317631,
+111348137,111348143,0,False,residential,Wood Avenue,95.123,,,,,,,,,,,12285392,
+111348137,111348134,0,False,residential,Wood Avenue,92.135,,,,,,,,,,,12285392,
+111348137,111414265,0,False,residential,Parkedge Avenue,457.026,,,,,,,,,,,12317631,
+111348143,111339654,0,False,residential,Desmond Drive,96.521,,,,,,,,,,,12287920,
+111348143,111348137,0,False,residential,Wood Avenue,95.123,,,,,,,,,,,12285392,
+111348143,111370713,0,False,residential,Desmond Drive,456.1,,,,,,,,,,,12287920,
+111350172,111382380,0,False,secondary,Military Road,90.735,,,,,,,,,,,368276965,NY 265
+111350172,111350177,0,False,residential,Mayville Avenue,84.195,,,,,,,,,,,12285640,
+111350172,111366583,0,False,secondary,Military Road,91.3,,,,,,,,,,,"[139456763, 368276965]",NY 265
+111350177,111350172,0,False,residential,Mayville Avenue,84.195,,,,,,,,,,,12285640,
+111357544,443516620,0,False,residential,Beaver Street,135.092,,,,,,,,,,,49668014,
+111357544,111382363,0,False,residential,Ontario Street,268.428,,,,,,,,,,,139645017,
+111357544,111362057,0,False,residential,Ontario Street,198.256,,,,,,,,,,,139645017,
+111358163,111387724,0,False,tertiary,Vulcan Street,89.123,,,,,,,,,,,12303729,
+111358163,111511881,0,False,tertiary,Vulcan Street,90.453,,,,,,,,,,,12303729,
+111362057,111429173,0,False,residential,Ontario Street,132.912,,,,,,,,,,,12294302,
+111362057,111357544,0,False,residential,Ontario Street,198.256,,,,,,,,,,,139645017,
+111366583,111382371,0,False,secondary,Military Road,93.539,,,,,,,,,,,139456763,NY 265
+111366583,111350172,0,False,secondary,Military Road,91.3,,,,,,,,,,,"[139456763, 368276965]",NY 265
+111368430,111380506,0,False,residential,Walsh Avenue,140.751,,,,,,,,,,,12289144,
+111368430,111301494,0,False,residential,Woodward Avenue,713.023,,,,,,,,,,,"[49667876, 139645053]",
+111370282,1423542899,0,False,tertiary,Vulcan Street,90.301,,,,,,,,,,,12303729,
+111370282,111511881,0,False,tertiary,Vulcan Street,90.166,,,,,,,,,,,12303729,
+111370703,111339654,0,False,residential,Desmond Drive,299.846,,,,,,,,,,,12287920,
+111370703,111376069,0,False,tertiary,Two Mile Creek Road,124.271,2,,,30 mph,yes,,,,,,49607400,CR 524
+111370703,111376072,0,False,tertiary,Two Mile Creek Road,100.545,2,,,30 mph,yes,,,,,,49607400,CR 524
+111370713,111388856,0,False,residential,Desmond Court,103.823,,,,,,,,,,,12290058,
+111370713,111414271,0,False,residential,Riverview Boulevard,96.224,,,,,,,,,,,157273114,
+111370713,111348143,0,False,residential,Desmond Drive,456.1,,,,,,,,,,,12287920,
+111370713,111414265,0,False,residential,Riverview Boulevard,94.597,,,,,,,,,,,157273114,
+111376069,111464790,0,False,residential,Oakview Drive,61.714,,,,,,,,,,,12298348,
+111376069,111339657,0,False,residential,Oakview Drive,437.879,,,,,,,,,,,12298348,
+111376069,111370703,0,False,tertiary,Two Mile Creek Road,124.271,2,,,30 mph,yes,,,,,,49607400,CR 524
+111376072,111339651,0,False,residential,Parkedge Avenue,229.056,,,,,,,,,,,12317631,
+111376072,111376076,0,False,tertiary,Two Mile Creek Road,95.949,2,,,30 mph,yes,,,,,,49607400,CR 524
+111376072,111370703,0,False,tertiary,Two Mile Creek Road,100.545,2,,,30 mph,yes,,,,,,49607400,CR 524
+111376076,111339648,0,False,residential,Dupont Avenue,152.447,,,,,,,,,,,12309491,
+111376076,111376072,0,False,tertiary,Two Mile Creek Road,95.949,2,,,30 mph,yes,,,,,,49607400,CR 524
+111376076,111514136,0,False,tertiary,Two Mile Creek Road,106.551,2,,,30 mph,yes,,,,,,49607400,CR 524
+111380506,111368430,0,False,residential,Walsh Avenue,140.751,,,,,,,,,,,12289144,
+111382354,443516653,0,False,secondary,Military Road,90.791,,,,,,,,,,,139456763,NY 265
+111382354,443516620,0,False,secondary,Military Road,40.575,,,,,,,,,,,139456763,NY 265
+111382363,111382365,0,False,secondary,Military Road,97.07,,,,,,,,,,,139456763,NY 265
+111382363,443516653,0,False,secondary,Military Road,87.663,,,,,,,,,,,139456763,NY 265
+111382363,111357544,0,False,residential,Ontario Street,268.428,,,,,,,,,,,139645017,
+111382365,111530689,0,False,residential,Toisul Street,142.347,,,,,,,,,,,12305861,
+111382365,111382371,0,False,secondary,Military Road,97.955,,,,,,,,,,,139456763,NY 265
+111382365,111382363,0,False,secondary,Military Road,97.07,,,,,,,,,,,139456763,NY 265
+111382371,111366583,0,False,secondary,Military Road,93.539,,,,,,,,,,,139456763,NY 265
+111382371,111382365,0,False,secondary,Military Road,97.955,,,,,,,,,,,139456763,NY 265
+111382380,111382382,0,False,secondary,Military Road,82.118,,,,,,,,,,,368276965,NY 265
+111382380,111350172,0,False,secondary,Military Road,90.735,,,,,,,,,,,368276965,NY 265
+111382382,111382385,0,False,secondary,Military Road,80.615,,,,,,,,,,,368276965,NY 265
+111382382,111382380,0,False,secondary,Military Road,82.118,,,,,,,,,,,368276965,NY 265
+111382385,111479223,0,False,residential,Henderson Avenue,254.275,,,,,,,,,,,12299964,
+111382385,111382388,0,False,secondary,Military Road,6.369,,,,,,,,,,,368276965,NY 265
+111382385,111382382,0,False,secondary,Military Road,80.615,,,,,,,,,,,368276965,NY 265
+111382388,111382390,0,False,secondary,Military Road,86.522,,,,,,,,,,,368276965,NY 265
+111382388,111382385,0,False,secondary,Military Road,6.369,,,,,,,,,,,368276965,NY 265
+111382390,111382388,0,False,secondary,Military Road,86.522,,,,,,,,,,,368276965,NY 265
+111382390,111561479,0,False,residential,Pullman Avenue,137.312,,,,,,,,,,,12309247,
+111382393,111382398,0,False,secondary,Military Road,95.921,,,,,,,,,,,368276965,NY 265
+111382398,111382402,0,False,secondary,Military Road,95.57,,,,,,,,,,,368276965,NY 265
+111382398,111382393,0,False,secondary,Military Road,95.921,,,,,,,,,,,368276965,NY 265
+111382402,111382398,0,False,secondary,Military Road,95.57,,,,,,,,,,,368276965,NY 265
+111382402,111382407,0,False,secondary,Military Road,297.314,,,,,,,,,,,368276965,NY 265
+111382407,630949595,0,False,secondary,Military Road,196.762,,,,,,,,,,,368276965,NY 265
+111382407,111382402,0,False,secondary,Military Road,297.314,,,,,,,,,,,368276965,NY 265
+111387724,111358163,0,False,tertiary,Vulcan Street,89.123,,,,,,,,,,,12303729,
+111387724,111333596,0,False,tertiary,Vulcan Street,97.153,,,,,,,,,,,12303729,
+111388856,111370713,0,False,residential,Desmond Court,103.823,,,,,,,,,,,12290058,
+111414254,111302363,0,False,residential,Riverview Boulevard,64.498,,,,,,,,,,,12292700,
+111414254,111301494,0,False,residential,Riverview Boulevard,161.342,,,,,,,,,,,12292700,
+111414254,111514123,0,False,residential,Woodward Avenue West,877.708,,,,,,,,,,,12319611,
+111414260,111348134,0,False,residential,Dupont Avenue,457.351,,,,,,,,,,,12309491,
+111414260,111302363,0,False,residential,Riverview Boulevard,100.435,,,,,,,,,,,12292700,
+111414260,1694845627,0,False,residential,Dupont Avenue,110.976,,,,,,,,,,,157273110,
+111414260,111414265,0,False,residential,Riverview Boulevard,91.98,,,,,,,,,,,157273114,
+111414265,111621521,0,False,residential,Parkedge Court,103.928,,,,,,,,,,,12316470,
+111414265,111348137,0,False,residential,Parkedge Avenue,457.026,,,,,,,,,,,12317631,
+111414265,111370713,0,False,residential,Riverview Boulevard,94.597,,,,,,,,,,,157273114,
+111414265,111414260,0,False,residential,Riverview Boulevard,91.98,,,,,,,,,,,157273114,
+111414271,111440007,0,False,residential,Mapleview Drive,291.122,,,,,,,,,,,12297176,
+111414271,111414276,0,False,residential,Riverview Boulevard,91.449,,,,,,,,,,,157273114,
+111414271,111370713,0,False,residential,Riverview Boulevard,96.224,,,,,,,,,,,157273114,
+111414271,111455581,0,False,residential,Mapleview Drive,121.146,,,,,,,,,,,157273117,
+111414276,111414271,0,False,residential,Riverview Boulevard,91.449,,,,,,,,,,,157273114,
+111414276,111440007,0,False,residential,Elmview Drive,326.404,,,,,,,,,,,12295397,
+111414276,111440023,0,False,residential,Elmview Drive,116.395,,,,,,,,,,,157273104,
+111414276,111339681,0,False,residential,Riverview Boulevard,105.674,,,,,,,,,,,157273114,
+111424442,111424445,0,False,residential,Kaufman Avenue,171.343,2,,,30 mph,yes,,,,,,12293764,
+111424442,111338177,0,False,residential,Kaufman Avenue,167.08,2,,,30 mph,yes,,,,,,12293764,
+111424442,111526425,0,False,residential,Gelley Street,92.27,2,,,30 mph,yes,,,,,,12308706,
+111424442,111328208,0,False,unclassified,Gelley Street,83.03,2,,,30 mph,yes,,,,,,198680751,
+111424445,111294964,0,False,residential,Kaufman Avenue,170.892,2,,,30 mph,yes,,,,,,12293764,
+111424445,111424442,0,False,residential,Kaufman Avenue,171.343,2,,,30 mph,yes,,,,,,12293764,
+111424445,111526431,0,False,residential,Cherry Avenue,85.083,2,,,30 mph,yes,,,,,,12320599,
+111424445,111294947,0,False,unclassified,Cherry Avenue,82.508,2,,,30 mph,yes,,,,,,198680752,
+111429173,111362057,0,False,residential,Ontario Street,132.912,,,,,,,,,,,12294302,
+111438196,111455745,0,False,tertiary,Kenmore Avenue,86.701,4,,,30 mph,yes,,,,,,198691448,CR 189
+111440007,111414271,0,False,residential,Mapleview Drive,291.122,,,,,,,,,,,12297176,
+111440007,111414276,0,False,residential,Elmview Drive,326.404,,,,,,,,,,,12295397,
+111440007,111339657,0,False,residential,Mapleview Drive,126.553,,,,,,,,,,,12297176,
+111440023,111414276,0,False,residential,Elmview Drive,116.395,,,,,,,,,,,157273104,
+111455581,111414271,0,False,residential,Mapleview Drive,121.146,,,,,,,,,,,157273117,
+111455745,111438196,0,False,tertiary,Kenmore Avenue,86.701,4,,,30 mph,yes,,,,,,198691448,CR 189
+111455745,111513953,0,False,tertiary,Kenmore Avenue,240.666,4,,,30 mph,yes,,,,,,198691448,CR 189
+111464790,111376069,0,False,residential,Oakview Drive,61.714,,,,,,,,,,,12298348,
+111479012,111511856,0,False,tertiary,Vulcan Street,16.075,,,,,,,,,,,12303729,
+111479012,111511862,0,False,tertiary,Vulcan Street,90.567,,,,,,,,,,,12303729,
+111479223,111382385,0,False,residential,Henderson Avenue,254.275,,,,,,,,,,,12299964,
+111511849,262243472,0,False,tertiary,Vulcan Street,100.176,,,,,,,,,,,12303729,
+111511849,111511856,0,False,tertiary,Vulcan Street,94.377,,,,,,,,,,,12303729,
+111511856,111479012,0,False,tertiary,Vulcan Street,16.075,,,,,,,,,,,12303729,
+111511856,111511849,0,False,tertiary,Vulcan Street,94.377,,,,,,,,,,,12303729,
+111511862,111479012,0,False,tertiary,Vulcan Street,90.567,,,,,,,,,,,12303729,
+111511862,1423542899,0,False,tertiary,Vulcan Street,91.313,,,,,,,,,,,12303729,
+111511881,111370282,0,False,tertiary,Vulcan Street,90.166,,,,,,,,,,,12303729,
+111511881,111358163,0,False,tertiary,Vulcan Street,90.453,,,,,,,,,,,12303729,
+111513953,111274709,0,False,tertiary,Kenmore Avenue,231.458,3,,,30 mph,yes,,,,,,368276961,CR 189
+111513953,111455745,0,False,tertiary,Kenmore Avenue,240.666,4,,,30 mph,yes,,,,,,198691448,CR 189
+111514123,111274709,0,False,tertiary,Kenmore Avenue,1276.268,"['3', '4']",,,30 mph,yes,,,,,,"[12275704, 198690395, 198690637, 198691447]",CR 189
+111514123,111339645,0,False,tertiary,Kenmore Avenue,40.147,4,,,,yes,,,,,,12275704,CR 189
+111514123,111414254,0,False,residential,Woodward Avenue West,877.708,,,,,,,,,,,12319611,
+111514136,111339645,0,False,tertiary,Kenmore Avenue,47.08,2,,,30 mph,yes,,,,,,49601031,CR 189
+111514136,111376076,0,False,tertiary,Two Mile Creek Road,106.551,2,,,30 mph,yes,,,,,,49607400,CR 524
+111514136,111246795,0,False,tertiary,Kenmore Avenue,412.99,2,,,30 mph,yes,,,,,,49601031,CR 189
+111515871,111515873,0,False,residential,Riverdale Avenue,208.445,,,,30 mph,,,,,,,12304228,
+111515871,111559851,0,False,primary,River Road,101.83,4,,,40 mph,yes,,,,,,50592299,NY 266
+111515871,111559850,0,False,primary,River Road,99.534,4,,,40 mph,yes,,,,,,50592299,NY 266
+111515873,111515871,0,False,residential,Riverdale Avenue,208.445,,,,30 mph,,,,,,,12304228,
+111515873,111600105,0,False,residential,Grover Place,100.649,,,,30 mph,,,,,,,12319558,
+111515873,111621131,0,False,residential,Grover Place,100.089,,,,30 mph,,,,,,,12319558,
+111515873,111515878,0,False,residential,Riverdale Avenue,199.613,,,,30 mph,,,,,,,12304228,
+111515878,111600111,0,False,residential,Tonawanda Street,99.931,,,,30 mph,,,,,,,12315750,
+111515878,111616023,0,False,residential,Tonawanda Street,100.963,,,,30 mph,,,,,,,12315750,
+111515878,111515884,0,False,residential,Riverdale Avenue,195.96,,,,30 mph,,,,,,,12304228,
+111515878,111515873,0,False,residential,Riverdale Avenue,199.613,,,,30 mph,,,,,,,12304228,
+111515884,111621136,0,False,residential,Irene Street,100.275,,,,30 mph,,,,,,,12317123,
+111515884,111515878,0,False,residential,Riverdale Avenue,195.96,,,,30 mph,,,,,,,12304228,
+111515884,111600111,0,True,residential,"['Irene Street', 'Edgar Avenue']",297.307,,,,30 mph,,,,,,,"[586350196, 586350197]",
+111517810,111246784,0,False,primary,Grand Island Boulevard,62.039,,,,,,,,,,,12320725,NY 324
+111526425,111424442,0,False,residential,Gelley Street,92.27,2,,,30 mph,yes,,,,,,12308706,
+111526425,111526431,0,False,tertiary,Sawyer Avenue,168.407,2,,,30 mph,yes,,,,,,49601951,CR 170
+111526425,111338173,0,False,tertiary,Sawyer Avenue,151.75,2,,,30 mph,yes,,,,,,49601951,CR 170
+111526431,111424445,0,False,residential,Cherry Avenue,85.083,2,,,30 mph,yes,,,,,,12320599,
+111526431,111526436,0,False,tertiary,Sawyer Avenue,174.226,2,,,30 mph,yes,,,,,,49601951,CR 170
+111526431,111526425,0,False,tertiary,Sawyer Avenue,168.407,2,,,30 mph,yes,,,,,,49601951,CR 170
+111526436,111294964,0,False,residential,Mildred Street,77.928,2,,,30 mph,yes,,,,,,12317466,
+111526436,111526431,0,False,tertiary,Sawyer Avenue,174.226,2,,,30 mph,yes,,,,,,49601951,CR 170
+111526436,111246795,0,False,tertiary,Sawyer Avenue,1122.192,2,,,30 mph,yes,,,,,,198678997,CR 170
+111530689,111382365,0,False,residential,Toisul Street,142.347,,,,,,,,,,,12305861,
+111555956,111555963,0,False,residential,Huetter Avenue,198.223,,,,30 mph,,,,,,,12308667,
+111555956,111559850,0,False,primary,River Road,83.557,4,,,40 mph,yes,,,,,,50592299,NY 266
+111555956,630297007,0,False,primary,River Road,77.487,4,,,40 mph,yes,,,,,,50592299,NY 266
+111555963,111555956,0,False,residential,Huetter Avenue,198.223,,,,30 mph,,,,,,,12308667,
+111555963,111621131,0,False,residential,Grover Place,83.046,,,,30 mph,,,,,,,12319558,
+111555963,111555970,0,False,residential,Huetter Avenue,200.072,,,,30 mph,,,,,,,12308667,
+111555970,111616023,0,False,residential,Tonawanda Street,82.631,,,,30 mph,,,,,,,12315750,
+111555970,111555963,0,False,residential,Huetter Avenue,200.072,,,,30 mph,,,,,,,12308667,
+111555970,262243472,0,False,residential,Tonawanda Street,77.928,,,,30 mph,,,,,,,12315750,
+111559850,111515871,0,False,primary,River Road,99.534,4,,,40 mph,yes,,,,,,50592299,NY 266
+111559850,111555956,0,False,primary,River Road,83.557,4,,,40 mph,yes,,,,,,50592299,NY 266
+111559850,111621131,0,False,residential,Roswell Avenue,202.556,,,,30 mph,,,,,,,12316424,
+111559851,111600105,0,False,residential,Edgar Avenue,214.08,,,,30 mph,,,,,,,12313822,
+111559851,111515871,0,False,primary,River Road,101.83,4,,,40 mph,yes,,,,,,50592299,NY 266
+111559851,1316447973,0,False,primary,River Road,930.745,4,,,40 mph,yes,,yes,,,,"[197877672, 50592299, 49552539, 48690341]",NY 266
+111561479,111382390,0,False,residential,Pullman Avenue,137.312,,,,,,,,,,,12309247,
+111565666,643381906,0,False,primary,Grand Island Boulevard,150.25,,,,,,,,,,,12320725,NY 324
+111600105,111559851,0,False,residential,Edgar Avenue,214.08,,,,30 mph,,,,,,,12313822,
+111600105,111515873,0,False,residential,Grover Place,100.649,,,,30 mph,,,,,,,12319558,
+111600105,111600111,0,False,residential,Edgar Avenue,199.7,,,,30 mph,,,,,,,12313822,
+111600111,111515878,0,False,residential,Tonawanda Street,99.931,,,,30 mph,,,,,,,12315750,
+111600111,111600105,0,False,residential,Edgar Avenue,199.7,,,,30 mph,,,,,,,12313822,
+111616023,111515878,0,False,residential,Tonawanda Street,100.963,,,,30 mph,,,,,,,12315750,
+111616023,111555970,0,False,residential,Tonawanda Street,82.631,,,,30 mph,,,,,,,12315750,
+111616023,111621131,0,False,residential,Roswell Avenue,199.54,,,,30 mph,,,,,,,12316424,
+111616023,111621136,0,False,residential,Roswell Avenue,195.271,,,,30 mph,,,,,,,12316424,
+111621131,111616023,0,False,residential,Roswell Avenue,199.54,,,,30 mph,,,,,,,12316424,
+111621131,111515873,0,False,residential,Grover Place,100.089,,,,30 mph,,,,,,,12319558,
+111621131,111555963,0,False,residential,Grover Place,83.046,,,,30 mph,,,,,,,12319558,
+111621131,111559850,0,False,residential,Roswell Avenue,202.556,,,,30 mph,,,,,,,12316424,
+111621136,111515884,0,False,residential,Irene Street,100.275,,,,30 mph,,,,,,,12317123,
+111621136,111626800,0,False,residential,Irene Street,50.859,,,,30 mph,,,,,,,12317123,
+111621136,111616023,0,False,residential,Roswell Avenue,195.271,,,,30 mph,,,,,,,12316424,
+111621521,111414265,0,False,residential,Parkedge Court,103.928,,,,,,,,,,,12316470,
+111626800,111621136,0,False,residential,Irene Street,50.859,,,,30 mph,,,,,,,12317123,
+111637510,111339685,0,False,residential,East Park Drive,156.608,,,,,,,,,,,230626530,
+111651270,111271763,0,False,residential,Ritchie Avenue,236.597,,,,,,,,,,,12320495,
+111652829,111271763,0,False,tertiary,Kenmore Avenue,46.885,2,,,30 mph,yes,,,,,,49601031,CR 189
+111652829,111331676,0,False,primary,Grand Island Boulevard,59.009,,,,,,,,,,,139470112,NY 324
+111652829,111246784,0,False,primary,Grand Island Boulevard,183.668,,,,,,,,,,,"[139470112, 93964117]",NY 324
+256182153,256182166,0,True,motorway,Niagara Thruway,1243.085,2,,,55 mph,,,yes,,,,"[25832420, 25832422, 25832430, 25832750, 25832335, 25832336, 25832434]",I 190
+256182153,1316447867,0,True,motorway_link,,388.748,,,,,,,,,,,32813888,
+256182166,261501613,0,True,motorway_link,,212.479,2,,,,,,,,,,24137110,
+256182166,256182100,0,True,motorway,Niagara Thruway,721.407,2,,,55 mph,,,,,,,25832336,I 190
+261499751,369752691,0,True,motorway,Niagara Thruway,1944.214,2,,,55 mph,,,yes,,,,"[25832448, 25832450, 25832405, 25832408, 25832379]",I 190
+261499751,111246795,0,True,motorway_link,,226.07,,,,,,,,,,,26769247,
+261499832,261499751,0,True,motorway,Niagara Thruway,279.603,2,,,55 mph,,,yes,,,,"[25832378, 25832379, 139470173]",I 190
+262243472,111511849,0,False,tertiary,Vulcan Street,100.176,,,,,,,,,,,12303729,
+262243472,630297007,0,False,tertiary,Vulcan Street,387.93,,,,,,,,,,,12303729,
+262243472,111555970,0,False,residential,Tonawanda Street,77.928,,,,30 mph,,,,,,,12315750,
+281679057,26496236,0,True,motorway,Niagara Thruway,858.695,2,,,55 mph,,,,,,,139470173,I 190
+369752691,261499775,0,True,motorway,Niagara Thruway,297.04,2,,,55 mph,,,,,,,25832450,I 190
+369752692,111338148,0,False,primary,River Road,9.878,4,,,40 mph,yes,,,,,,48690341,NY 266
+369752692,1316447973,0,False,primary,River Road,48.523,4,,,40 mph,yes,,,,,,48690341,NY 266
+369752692,261499775,0,True,motorway_link,,350.64,1,,,,,,,,,,32813773,
+369755674,1294003326,0,True,motorway_link,,72.288,1,,,,,,,,,,32814319,NY 324
+369755674,281679057,0,True,motorway,Niagara Thruway,201.598,2,,,55 mph,,,,,,,139470173,I 190
+369755689,281679057,0,True,motorway_link,,62.558,,,,,,,,,,,32814320,
+369755689,1391472460,0,False,secondary,Grand Island Boulevard,1578.338,,,,,,,,,,,183370996,NY 324
+369755689,1294003326,0,False,primary,Grand Island Boulevard,131.012,,,,,,,,,,,183370997,NY 324
+443516620,111357544,0,False,residential,Beaver Street,135.092,,,,,,,,,,,49668014,
+443516620,111382354,0,False,secondary,Military Road,40.575,,,,,,,,,,,139456763,NY 265
+443516653,111382363,0,False,secondary,Military Road,87.663,,,,,,,,,,,139456763,NY 265
+443516653,111382354,0,False,secondary,Military Road,90.791,,,,,,,,,,,139456763,NY 265
+630265863,111338148,0,False,unclassified,Aqua Lane,577.591,2,,,30 mph,yes,,,,,,49552543,
+630297007,111555956,0,False,primary,River Road,77.487,4,,,40 mph,yes,,,,,,50592299,NY 266
+630297007,262243472,0,False,tertiary,Vulcan Street,387.93,,,,,,,,,,,12303729,
+630949595,111382407,0,False,secondary,Military Road,196.762,,,,,,,,,,,368276965,NY 265
+643381875,111339674,0,False,primary,Sheridan Drive,52.604,,,,45 mph,,,,,,,50557052,NY 325
+643381875,111339657,0,False,primary,Sheridan Drive,176.276,,,,45 mph,,,,,,,50557052,NY 325
+643381906,111565666,0,False,primary,Grand Island Boulevard,150.25,,,,,,,,,,,12320725,NY 324
+643381906,111339674,0,False,primary,Grand Island Boulevard,53.281,,,,,,,,,,,12320725,NY 324
+643381906,643381875,0,True,primary_link,,40.246,,,,,,,,,,,50558143,
+1134365900,111338287,0,False,primary,River Road,43.739,4,,,55 mph,yes,,,,,,480343252,NY 266;NY 324
+1134365903,111338287,0,False,primary,Grand Island Boulevard,43.226,2,,,,,,,,,,480343253,NY 324
+1134365903,1294003326,0,False,primary,Grand Island Boulevard,282.094,2,,,,,,,,,,12320711,NY 324
+1134365903,1134365900,0,True,primary_link,,67.129,1,,,,,,,,,,98032496,
+1294003326,1134365903,0,False,primary,Grand Island Boulevard,282.094,2,,,,,,,,,,12320711,NY 324
+1294003326,369755689,0,False,primary,Grand Island Boulevard,131.012,,,,,,,,,,,183370997,NY 324
+1316447867,111339645,0,True,primary,Sheridan Drive,133.7,,,,55 mph,,,,,,,49612720,NY 325
+1316447973,369752692,0,False,primary,River Road,48.523,4,,,40 mph,yes,,,,,,48690341,NY 266
+1316447973,369752691,0,True,motorway_link,,199.612,,,,,,,,,,,32813766,
+1316447973,111559851,0,False,primary,River Road,930.745,4,,,40 mph,yes,,yes,,,,"[197877672, 50592299, 49552539, 48690341]",NY 266
+1391472418,261499832,0,True,motorway_link,,216.562,,,,,,,,,,,85087671,
+1391472460,369755689,0,False,secondary,Grand Island Boulevard,1578.338,,,,,,,,,,,183370996,NY 324
+1391472460,2195189526,0,True,motorway_link,,27.681,,,,,,,,,,,480208912,
+1391472460,2195189518,0,False,primary,Grand Island Boulevard,47.261,,,,,,,,,,,480208913,NY 324
+1423542899,111511862,0,False,tertiary,Vulcan Street,91.313,,,,,,,,,,,12303729,
+1423542899,111370282,0,False,tertiary,Vulcan Street,90.301,,,,,,,,,,,12303729,
+1599479234,1599479238,0,False,primary,Sheridan Drive,159.382,,,,,,,,,,,49592050,NY 324
+1599479234,111339681,0,False,primary,Sheridan Drive,50.089,,,,,,,,,,,49592050,NY 324
+1599479238,1599479234,0,False,primary,Sheridan Drive,159.382,,,,,,,,,,,49592050,NY 324
+1599479238,111339674,0,False,primary,Sheridan Drive,23.834,,,,,,,,,,,49592050,NY 324
+1694845627,111414260,0,False,residential,Dupont Avenue,110.976,,,,,,,,,,,157273110,
+1694845628,111301494,0,False,residential,Riverview Boulevard,174.954,,,,,,,,,,,12292700,
+2195189518,111303370,0,False,primary,Grand Island Boulevard,82.696,,,,,,,,,,,139470112,NY 324
+2195189518,2195189526,0,True,motorway_link,,57.253,,,,,,,,,,,209294526,
+2195189518,1391472460,0,False,primary,Grand Island Boulevard,47.261,,,,,,,,,,,480208913,NY 324
+2195189526,1391472418,0,True,motorway_link,,71.937,,,,,,,,,,,12279489,

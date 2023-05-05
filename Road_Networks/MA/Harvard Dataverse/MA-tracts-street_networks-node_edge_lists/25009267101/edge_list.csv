@@ -1,0 +1,412 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+74582677,74585453,0,False,residential,Sixteenth Street,142.088,2,9.1,,,,,,,,,9596821,
+74582984,74603999,0,False,residential,,47.486,,,,,,,,,,,9596658,
+74582984,74603999,1,False,residential,,50.808,,,,,,,,,,,9596658,
+74582984,74597097,0,False,residential,,204.713,,,,,,,,,,,9596658,
+74583237,74597602,0,False,residential,Ocean Street,40.471,2,12.2,,,,,,,,,9596771,
+74583237,74598749,0,False,residential,Ocean Street,76.966,2,12.2,,,,,,,,,9596771,
+74583237,74595125,0,True,residential,Atlantic Avenue,154.12,2,12.2,,,,,,,,,570169003,
+74583330,74607319,0,False,residential,Meaders Lane,232.484,2,12.2,,,,,,,,,9596476,
+74583447,5100203893,0,False,secondary,North End Boulevard,55.157,2,16.8,,,,,,,,,9596457,MA 1A
+74583447,74584575,0,False,secondary,North End Boulevard,227.176,2,16.8,,,,,,,,,9596457,MA 1A
+74583447,74584575,1,False,residential,Old Town Way,241.01,2,9.1,,,,,,,,,9596892,
+74583993,74585453,0,False,secondary,North End Boulevard,74.283,2,16.8,,,,,,,,,9596457,MA 1A
+74583993,74591263,0,False,secondary,North End Boulevard,75.402,2,16.8,,,,,,,,,9596457,MA 1A
+74583993,74609616,0,False,residential,Seventeenth Street,144.825,2,9.1,,,,,,,,,9596567,
+74584282,5530804600,0,True,tertiary,State Beach Road,1628.619,"['2', '1']",30.5,,,,,,,,,"[9596790, 9596438]",
+74584282,5329970469,0,False,residential,Access Road,928.408,2,12.2,,,,,,,,,9596863,
+74584362,74601720,0,False,secondary,North End Boulevard,48.824,2,16.8,,,,,,,,,9596457,MA 1A
+74584362,74609191,0,False,residential,Florence Avenue,122.253,2,9.1,,,,,,,,,9596451,
+74584362,74601325,0,False,secondary,North End Boulevard,122.443,2,16.8,,,,,,,,,9596457,MA 1A
+74584469,74585393,0,False,tertiary,Ferry Road,75.937,2,12.2,,,,,,,,,9596525,
+74584469,74603375,0,False,tertiary,Ferry Road,272.856,2,12.2,,,,,,,,,295307360,
+74584568,74592913,0,False,residential,,41.831,,,,,,,,,,,9596659,
+74584568,5100203877,0,False,secondary,Beach Road,63.885,2,15.2,,,,,,,,,132173812,MA 1A
+74584568,74584975,0,False,secondary,Beach Road,182.914,2,15.2,,,,,,,,,132173812,MA 1A
+74584575,74593322,0,False,secondary,North End Boulevard,339.54,2,16.8,,,,,,,,,9596457,MA 1A
+74584575,74583447,0,False,secondary,North End Boulevard,227.176,2,16.8,,,,,,,,,9596457,MA 1A
+74584575,74583447,1,False,residential,Old Town Way,241.01,2,9.1,,,,,,,,,9596892,
+74584640,74597884,0,False,residential,"['Fourth Street', 'Third Street']",218.405,2,9.1,,,,,,,,,"[9596896, 9596555]",
+74584640,74597884,1,False,residential,"['First Street', 'Second Street']",210.539,2,"['12.2', '9.1']",,,,,,,,,"[9596817, 9596754]",
+74584640,74585076,0,False,residential,Second Street,160.358,2,12.2,,,,,,,,,9596754,
+74584750,74605081,0,False,residential,,113.499,,,,,,,,,,,9596671,
+74584750,74600569,0,False,secondary,Beach Road,223.158,2,15.2,,,,,,,,,132173812,MA 1A
+74584750,74599957,0,False,secondary,Beach Road,574.048,2,15.2,,,,,,,,,132173812,MA 1A
+74584771,74604454,0,False,residential,County Road,150.558,2,9.1,,,,,,,,,9596775,
+74584771,74592156,0,False,secondary,Beach Road,97.261,2,15.2,,,,,,,,,132173812,MA 1A
+74584771,74600428,0,False,secondary,Beach Road,36.031,2,15.2,,,,,,,,,132173812,MA 1A
+74584975,74592913,0,False,residential,,228.154,,,,,,,,,,,"[9596657, 9596673]",
+74584975,74584568,0,False,secondary,Beach Road,182.914,2,15.2,,,,,,,,,132173812,MA 1A
+74584975,74590405,0,False,secondary,Beach Road,33.19,2,15.2,,,,,,,,,132173812,MA 1A
+74585076,74595524,0,False,tertiary,Ferry Road,1378.271,2,12.2,,,,,,,,,9596525,
+74585076,74584640,0,False,residential,Second Street,160.358,2,12.2,,,,,,,,,9596754,
+74585256,74598269,0,False,residential,Brissette Avenue,84.499,1,4.9,,,,,,,,,9596798,
+74585256,74606621,0,False,residential,Fowler Street,30.865,2,10.7,,,,,,,,,9596830,
+74585256,74591969,0,False,residential,Brissette Avenue,370.811,1,4.9,,,,,,,,,9596798,
+74585256,74605586,0,False,residential,Fowler Street,48.399,2,10.7,,,,,,,,,9596830,
+74585362,74608036,0,False,secondary,Beach Road,23.178,2,15.2,,,,,,,,,132173812,MA 1A
+74585362,74607026,0,False,residential,Dock Lane,72.47,2,9.1,,,,,,,,,9596874,
+74585362,74599957,0,False,secondary,Beach Road,81.05,2,15.2,,,,,,,,,132173812,MA 1A
+74585393,74584469,0,False,tertiary,Ferry Road,75.937,2,12.2,,,,,,,,,9596525,
+74585393,74598097,0,False,tertiary,Ferry Road,88.462,2,12.2,,,,,,,,,9596525,
+74585393,5477376326,0,False,residential,,168.955,,,,,,,,,,,569565296,
+74585420,74593143,0,False,residential,Lynne Avenue,235.328,2,12.2,,,,,,,,,9596862,
+74585453,74583993,0,False,secondary,North End Boulevard,74.283,2,16.8,,,,,,,,,9596457,MA 1A
+74585453,74582677,0,False,residential,Sixteenth Street,142.088,2,9.1,,,,,,,,,9596821,
+74585453,74598454,0,False,secondary,North End Boulevard,410.135,2,16.8,,,,,,,,,9596457,MA 1A
+74585514,74599950,0,False,residential,Meaders Lane,139.845,2,12.2,,,,,,,,,9596523,
+74585514,74605576,0,False,residential,"['Short Lane', 'Sandy Lane']",303.911,2,12.2,,,,,,,,,"[9596481, 9596867]",
+74585514,74605576,1,False,residential,Meaders Lane,71.945,2,12.2,,,,,,,,,9596523,
+74585706,74600569,0,False,secondary,Beach Road,19.478,2,15.2,,,,,,,,,132173812,MA 1A
+74585706,74603999,0,False,residential,,31.597,,,,,,,,,,,9596669,
+74585706,74600428,0,False,secondary,Beach Road,85.53,2,15.2,,,,,,,,,132173812,MA 1A
+74586672,74599011,0,False,secondary,North End Boulevard,77.286,2,16.8,,,,,,,,,9596457,MA 1A
+74586672,74588098,0,False,residential,Twelfth Street,91.309,2,9.1,,,,,,,,,9596810,
+74586672,74601720,0,False,secondary,North End Boulevard,74.734,2,16.8,,,,,,,,,9596457,MA 1A
+74586840,74593765,0,False,residential,,236.167,,,,,,,,,,,9596602,
+74586840,74593344,0,False,residential,Sandhill Road,801.686,2,9.1,,,,,,,,,"[9596890, 9596602]",
+74586840,74587811,0,False,residential,,120.374,,,,,,,,,,,9596603,
+74586857,74600890,0,False,residential,Second Avenue,66.026,2,,,,,,,,,,9596528,
+74587020,74590013,0,False,residential,County Road,15.782,2,9.1,,,,,,,,,9596775,
+74587020,74594822,0,True,secondary,Beach Road,145.784,2,30.5,,,,,,,,,9596773,MA 1A
+74587020,74604454,0,False,residential,County Road,1070.523,2,9.1,,,,,,,,,9596775,
+74587106,74593344,0,False,residential,Glenwood Avenue,23.743,2,12.2,,,,,,,,,9596828,
+74587106,74608036,0,False,secondary,Beach Road,172.197,2,15.2,,,,,,,,,132173812,MA 1A
+74587106,74599950,0,False,secondary,Beach Road,299.378,2,15.2,,,,,,,,,132173812,MA 1A
+74587733,74597781,0,False,secondary,North End Boulevard,74.18,2,16.8,,,,,,,,,9596457,MA 1A
+74587733,74591625,0,False,secondary,North End Boulevard,404.98,2,16.8,,,,,,,,,9596457,MA 1A
+74587733,74601704,0,False,residential,Ninth Street,90.117,2,9.1,,,,,,,,,9596920,
+74587811,74586840,0,False,residential,,120.374,,,,,,,,,,,9596603,
+74588098,74586672,0,False,residential,Twelfth Street,91.309,2,9.1,,,,,,,,,9596810,
+74588098,74590557,0,False,residential,"['Eleventh Street', 'Twelfth Street']",458.434,2,9.1,,,,,,,,,"[9596536, 9596810]",
+74588098,74590557,1,False,residential,Carter Avenue,74.633,2,9.1,,,,,,,,,9596929,
+74588098,74589814,0,False,residential,Carter Avenue,75.182,2,9.1,,,,,,,,,9596929,
+74588454,74601795,0,False,residential,Lincoln Avenue,317.304,2,12.2,,,,,,,,,9596459,
+74588454,74604264,0,False,residential,Howard George Court,30.904,2,,,,,,,,,,9596809,
+74588454,74595015,0,False,residential,Howard George Court,126.307,2,,,,,,,,,,9596809,
+74589814,74596052,0,False,residential,Lewis Avenue,48.415,2,10.7,,,,,,,,,9596848,
+74589814,74601720,0,False,residential,Lewis Avenue,83.526,2,10.7,,,,,,,,,9596848,
+74589814,74588098,0,False,residential,Carter Avenue,75.182,2,9.1,,,,,,,,,9596929,
+74589932,74597347,0,False,residential,Driftway,66.026,2,12.2,,,,,,,,,9596513,
+74589932,5100203893,0,True,secondary,North End Boulevard,13.515,2,16.8,,,,,,,,,576744921,MA 1A
+74590013,74587020,0,False,residential,County Road,15.782,2,9.1,,,,,,,,,9596775,
+74590013,74599725,0,False,tertiary,State Beach Road,66.477,2,18.3,,,,,,,,,9596843,
+74590013,74593077,0,True,secondary,Beach Road,53.787,2,30.5,,,,,,,,,91824994,MA 1A
+74590039,74597347,0,False,residential,Driftway,29.994,2,12.2,,,,,,,,,9596513,
+74590039,74600942,0,False,residential,Central Avenue,44.805,2,15.2,,,,,,,,,9596869,
+74590039,5477931842,0,False,residential,Driftway,66.843,2,12.2,,,,,,,,,9596513,
+74590039,74608653,0,False,residential,Central Avenue,98.52,2,15.2,,,,,,,,,9596869,
+74590405,74597090,0,False,residential,Hayes Street,89.545,1,9.1,,,,,,,,,9596865,
+74590405,74584975,0,False,secondary,Beach Road,33.19,2,15.2,,,,,,,,,132173812,MA 1A
+74590405,74592156,0,False,secondary,Beach Road,65.727,2,15.2,,,,,,,,,132173812,MA 1A
+74590557,74599011,0,False,residential,Eleventh Street,101.252,2,9.1,,,,,,,,,9596536,
+74590557,74588098,0,False,residential,"['Eleventh Street', 'Twelfth Street']",458.434,2,9.1,,,,,,,,,"[9596536, 9596810]",
+74590557,74588098,1,False,residential,Carter Avenue,74.633,2,9.1,,,,,,,,,9596929,
+74590557,74597781,0,False,residential,"['Tenth Street', 'Carter Avenue']",185.336,2,9.1,,,,,,,,,"[9596929, 9596466]",
+74591091,74599077,0,False,tertiary,Seabrook Road,53.323,2,9.1,,,,,,,,,9596834,
+74591263,74600684,0,False,residential,,57.316,,,,,,,,,,,9596750,
+74591263,74583993,0,False,secondary,North End Boulevard,75.402,2,16.8,,,,,,,,,9596457,MA 1A
+74591263,74593322,0,False,secondary,North End Boulevard,189.783,2,16.8,,,,,,,,,9596457,MA 1A
+74591416,74599077,0,False,primary,Lafayette Road,191.355,2,18.3,,,,,,,,,91828371,US 1
+74591416,74591635,0,False,primary,Lafayette Road,63.349,2,18.3,,,,,,,,,91828371,US 1
+74591464,5530886910,0,True,residential,Broadway,46.379,2,15.2,,,,,,,,,9596512,
+74591464,74598749,0,False,residential,Railroad Avenue East,204.843,2,13.7,,,,,,,,,9596805,
+74591539,74600569,0,False,residential,Adams Street,75.011,1,9.1,,,,,,,,,9596497,
+74591539,74606543,0,False,residential,"['Taft Street', 'Garfield Street']",187.801,2,9.1,,,,,,,,,"[9596490, 9596547]",
+74591539,74591997,0,False,residential,Garfield Street,54.662,2,9.1,,,,,,,,,9596547,
+74591625,74608646,0,False,residential,Brookline Avenue,51.432,2,10.7,,,,,,,,,9596815,
+74591625,74604742,0,False,secondary,North End Boulevard,176.259,2,16.8,,,,,,,,,9596457,MA 1A
+74591625,74587733,0,False,secondary,North End Boulevard,404.98,2,16.8,,,,,,,,,9596457,MA 1A
+74591635,74596751,0,False,primary,Lafayette Road,13.628,2,18.3,,,,,,,,,91828371,US 1
+74591635,74591416,0,False,primary,Lafayette Road,63.349,2,18.3,,,,,,,,,91828371,US 1
+74591945,74596858,0,False,residential,Sacks Way,87.771,2,15.9,,25 mph,,,,,,,9596542,
+74591945,74599950,0,False,secondary,Beach Road,86.043,2,15.2,,,,,,,,,132173812,MA 1A
+74591945,74593143,0,False,secondary,Beach Road,103.603,2,15.2,,,,,,,,,132173812,MA 1A
+74591969,74606786,0,False,residential,Murray Street,53.78,2,,,,,,,,,,9596503,
+74591969,74605586,0,False,residential,"['Murray Street', 'Cable Avenue']",411.112,2,9.1,,,,,,,,,"[9596563, 9596503]",
+74591969,74585256,0,False,residential,Brissette Avenue,370.811,1,4.9,,,,,,,,,9596798,
+74591997,74591539,0,False,residential,Garfield Street,54.662,2,9.1,,,,,,,,,9596547,
+74592044,74598454,0,False,residential,Liberty Street,220.131,2,9.1,,,,,,,,,9596860,
+74592156,74599206,0,False,residential,,77.045,,,,,,,,,,,9596609,
+74592156,74590405,0,False,secondary,Beach Road,65.727,2,15.2,,,,,,,,,132173812,MA 1A
+74592156,74584771,0,False,secondary,Beach Road,97.261,2,15.2,,,,,,,,,132173812,MA 1A
+74592687,74601795,0,False,secondary,Beach Road,45.549,2,15.2,,,,,,,,,193254933,MA 1A
+74592687,2037736436,0,True,secondary,Beach Road,53.145,2,15.2,,,,,,,,,193254935,MA 1A
+74592913,74584568,0,False,residential,,41.831,,,,,,,,,,,9596659,
+74592913,5100203891,0,False,residential,,32.228,,,,,,,,,,,9596659,
+74592913,74584975,0,False,residential,,228.154,,,,,,,,,,,"[9596673, 9596657]",
+74593077,74607177,0,True,secondary,Beach Road,191.906,2,30.5,,,,,,,,,91824994,MA 1A
+74593143,74585420,0,False,residential,Lynne Avenue,235.328,2,12.2,,,,,,,,,9596862,
+74593143,74591945,0,False,secondary,Beach Road,103.603,2,15.2,,,,,,,,,132173812,MA 1A
+74593143,74609511,0,False,secondary,Beach Road,138.928,2,15.2,,,,,,,,,132173812,MA 1A
+74593322,74598585,0,False,residential,,86.478,,,,,,,,,,,9596748,
+74593322,74608653,0,False,residential,Central Avenue,530.933,2,15.2,,,,,,,,,9596869,
+74593322,74591263,0,False,secondary,North End Boulevard,189.783,2,16.8,,,,,,,,,9596457,MA 1A
+74593322,74584575,0,False,secondary,North End Boulevard,339.54,2,16.8,,,,,,,,,9596457,MA 1A
+74593344,74587106,0,False,residential,Glenwood Avenue,23.743,2,12.2,,,,,,,,,9596828,
+74593344,74602680,0,False,residential,Glenwood Avenue,353.747,2,12.2,,,,,,,,,9596828,
+74593344,74586840,0,False,residential,Sandhill Road,801.686,2,9.1,,,,,,,,,"[9596602, 9596890]",
+74593523,74609363,0,False,tertiary,Ferry Road,333.301,2,12.2,,,,,,,,,9596525,
+74593523,74599052,0,False,tertiary,Ferry Road,185.982,2,12.2,,,,,,,,,9596525,
+74593765,74586840,0,False,residential,,236.167,,,,,,,,,,,9596602,
+74594822,74607578,0,True,secondary,Beach Road,86.403,2,30.5,,,,,,,,,91824994,MA 1A
+74594822,5477923949,0,False,secondary,Beach Road,15.172,2,15.2,,,,,,,,,132173812,MA 1A
+74595015,74588454,0,False,residential,Howard George Court,126.307,2,,,,,,,,,,9596809,
+74595125,74606573,0,True,residential,Atlantic Avenue,123.951,2,12.2,,,,,,,,,9596758,
+74595125,74602250,0,False,residential,Vermont Street,76.329,2,15.2,,,,,,,,,9596477,
+74595125,74605247,0,False,residential,Vermont Street,40.144,2,15.2,,,,,,,,,570169002,
+74595210,74607026,0,False,residential,Dock Lane,917.983,2,9.1,,,,,,,,,9596874,
+74595524,74599052,0,False,tertiary,Ferry Road,140.155,2,12.2,,,,,,,,,9596525,
+74595524,74585076,0,False,tertiary,Ferry Road,1378.271,2,12.2,,,,,,,,,9596525,
+74595524,74607423,0,False,residential,Sweet Apple Street Lane,591.871,1,9.1,,,,,,,,,9596832,
+74596052,74589814,0,False,residential,Lewis Avenue,48.415,2,10.7,,,,,,,,,9596848,
+74596056,74607661,0,False,secondary,North End Boulevard,54.983,2,16.8,,,,,,,,,9596457,MA 1A
+74596056,74607661,1,False,residential,,152.797,,,,,,,,,,,9596683,
+74596056,74598454,0,False,secondary,North End Boulevard,345.226,2,16.8,,,,,,,,,9596457,MA 1A
+74596307,74607177,0,True,residential,,49.032,,,,,,,,,,,9596570,
+74596307,74587020,0,True,secondary,Beach Road,290.618,2,30.5,,,,,,,,,9596773,MA 1A
+74596751,74591635,0,False,primary,Lafayette Road,13.628,2,18.3,,,,,,,,,91828371,US 1
+74596751,74604318,0,False,residential,Warren Avenue,116.449,2,12.2,,,,,,,,,9596876,
+74596751,2037736436,0,False,primary,Lafayette Road,129.618,2,18.3,,,,,,,,,91828371,US 1
+74596858,74596858,0,False,residential,Sacks Way,82.282,2,15.9,,25 mph,,,,,,,9596542,
+74596858,74596858,1,False,residential,Sacks Way,82.282,2,15.9,,25 mph,,,,,,,9596542,
+74596858,74591945,0,False,residential,Sacks Way,87.771,2,15.9,,25 mph,,,,,,,9596542,
+74597090,74590405,0,False,residential,Hayes Street,89.545,1,9.1,,,,,,,,,9596865,
+74597090,74599206,0,False,residential,Washington Street,65.705,2,9.1,,,,,,,,,9596493,
+74597090,74602398,0,False,residential,Hayes Street,369.283,1,9.1,,,,,,,,,9596865,
+74597097,74582984,0,False,residential,,204.713,,,,,,,,,,,9596658,
+74597347,74590039,0,False,residential,Driftway,29.994,2,12.2,,,,,,,,,9596513,
+74597347,74589932,0,False,residential,Driftway,66.026,2,12.2,,,,,,,,,9596513,
+74597347,74608653,0,False,residential,Shea Street,122.42,2,9.1,,,,,,,,,9596927,
+74597602,74583237,0,False,residential,Ocean Street,40.471,2,12.2,,,,,,,,,9596771,
+74597602,74598832,0,False,residential,Ocean Front,267.976,2,12.2,,,,,,,,,9596450,
+74597602,74605247,0,True,residential,Ocean Front,149.222,2,12.2,,,,,,,,,576735089,
+74597781,74587733,0,False,secondary,North End Boulevard,74.18,2,16.8,,,,,,,,,9596457,MA 1A
+74597781,74599011,0,False,secondary,North End Boulevard,76.845,2,16.8,,,,,,,,,9596457,MA 1A
+74597781,74590557,0,False,residential,"['Carter Avenue', 'Tenth Street']",185.336,2,9.1,,,,,,,,,"[9596929, 9596466]",
+74597884,74584640,0,False,residential,"['First Street', 'Second Street']",210.539,2,"['12.2', '9.1']",,,,,,,,,"[9596817, 9596754]",
+74597884,74584640,1,False,residential,"['Fourth Street', 'Third Street']",218.405,2,9.1,,,,,,,,,"[9596896, 9596555]",
+74597919,74606786,0,False,residential,Railroad Avenue East,53.015,2,13.7,,,,,,,,,9596805,
+74597919,74600742,0,False,residential,Atlantic Avenue,393.994,2,12.2,,,,,,,,,586576634,
+74598097,74585393,0,False,tertiary,Ferry Road,88.462,2,12.2,,,,,,,,,9596525,
+74598097,74602403,0,False,tertiary,Ferry Road,233.146,2,12.2,,,,,,,,,9596525,
+74598269,74585256,0,False,residential,Brissette Avenue,84.499,1,4.9,,,,,,,,,9596798,
+74598449,74608036,0,False,residential,,95.43,,,,,,,,,,,9596717,
+74598454,74592044,0,False,residential,Liberty Street,220.131,2,9.1,,,,,,,,,9596860,
+74598454,74596056,0,False,secondary,North End Boulevard,345.226,2,16.8,,,,,,,,,9596457,MA 1A
+74598454,74585453,0,False,secondary,North End Boulevard,410.135,2,16.8,,,,,,,,,9596457,MA 1A
+74598585,74593322,0,False,residential,,86.478,,,,,,,,,,,9596748,
+74598749,74599575,0,False,residential,Ocean Street,60.277,2,9.1,,,,,,,,,9596955,
+74598749,74583237,0,False,residential,Ocean Street,76.966,2,12.2,,,,,,,,,9596771,
+74598749,74591464,0,False,residential,Railroad Avenue East,204.843,2,13.7,,,,,,,,,9596805,
+74598749,74602250,0,False,residential,Railroad Avenue East,155.229,2,13.7,,,,,,,,,9596805,
+74598832,74597602,0,False,residential,Ocean Front,267.976,2,12.2,,,,,,,,,9596450,
+74598931,74598931,0,False,residential,,65.086,,,,,,,,,,,9596600,
+74598931,74598931,1,False,residential,,65.086,,,,,,,,,,,9596600,
+74598931,74609511,0,False,residential,,164.626,,,,,,,,,,,9596600,
+74599011,74586672,0,False,secondary,North End Boulevard,77.286,2,16.8,,,,,,,,,9596457,MA 1A
+74599011,74597781,0,False,secondary,North End Boulevard,76.845,2,16.8,,,,,,,,,9596457,MA 1A
+74599011,74590557,0,False,residential,Eleventh Street,101.252,2,9.1,,,,,,,,,9596536,
+74599052,74593523,0,False,tertiary,Ferry Road,185.982,2,12.2,,,,,,,,,9596525,
+74599052,74595524,0,False,tertiary,Ferry Road,140.155,2,12.2,,,,,,,,,9596525,
+74599077,74591091,0,False,tertiary,Seabrook Road,53.323,2,9.1,,,,,,,,,9596834,
+74599077,74591416,0,False,primary,Lafayette Road,191.355,2,18.3,,,,,,,,,91828371,US 1
+74599206,74597090,0,False,residential,Washington Street,65.705,2,9.1,,,,,,,,,9596493,
+74599206,74606543,0,False,residential,Washington Street,136.725,2,9.1,,,,,,,,,9596493,
+74599206,74592156,0,False,residential,,77.045,,,,,,,,,,,9596609,
+74599575,74598749,0,False,residential,Ocean Street,60.277,2,9.1,,,,,,,,,9596955,
+74599575,74603041,0,False,residential,Cable Avenue,207.094,2,9.1,,,,,,,,,9596563,
+74599575,74605586,0,False,residential,Cable Avenue,280.676,2,9.1,,,,,,,,,9596563,
+74599725,74590013,0,False,tertiary,State Beach Road,66.477,2,18.3,,,,,,,,,9596843,
+74599725,74593077,0,True,tertiary,,72.899,,18.3,,,,,,,,,9596456,
+74599725,74603311,0,False,tertiary,State Beach Road,837.183,2,18.3,,,,,,,,,9596843,
+74599762,74609363,0,False,residential,,141.901,,,,,,,,,,,9596679,
+74599950,74585514,0,False,residential,Meaders Lane,139.845,2,12.2,,,,,,,,,9596523,
+74599950,74587106,0,False,secondary,Beach Road,299.378,2,15.2,,,,,,,,,132173812,MA 1A
+74599950,74591945,0,False,secondary,Beach Road,86.043,2,15.2,,,,,,,,,132173812,MA 1A
+74599957,74607026,0,False,residential,Dock Lane,28.49,,9.1,,,,,,,,,9596904,
+74599957,74584750,0,False,secondary,Beach Road,574.048,2,15.2,,,,,,,,,132173812,MA 1A
+74599957,74585362,0,False,secondary,Beach Road,81.05,2,15.2,,,,,,,,,132173812,MA 1A
+74600428,74606543,0,False,residential,Taft Street,23.452,2,9.1,,,,,,,,,9596490,
+74600428,74584771,0,False,secondary,Beach Road,36.031,2,15.2,,,,,,,,,132173812,MA 1A
+74600428,74585706,0,False,secondary,Beach Road,85.53,2,15.2,,,,,,,,,132173812,MA 1A
+74600442,74604454,0,False,residential,Michaels Way,132.183,2,15.2,,25 mph,,,,,,,9596812,
+74600442,74600442,0,True,residential,Michaels Way,100.04,2,15.2,,25 mph,,,,,,,278566518,
+74600569,74585706,0,False,secondary,Beach Road,19.478,2,15.2,,,,,,,,,132173812,MA 1A
+74600569,74591539,0,False,residential,Adams Street,75.011,1,9.1,,,,,,,,,9596497,
+74600569,74584750,0,False,secondary,Beach Road,223.158,2,15.2,,,,,,,,,132173812,MA 1A
+74600662,74603375,0,True,tertiary_link,,111.009,1,12.2,,,,,,,,,9596522,
+74600662,74609511,0,False,secondary,Beach Road,61.145,2,15.2,,,,,,,,,193254933,MA 1A
+74600684,74591263,0,False,residential,,57.316,,,,,,,,,,,9596750,
+74600742,74597919,0,False,residential,Atlantic Avenue,393.994,2,12.2,,,,,,,,,586576634,
+74600890,74586857,0,False,residential,Second Avenue,66.026,2,,,,,,,,,,9596528,
+74600890,74604742,0,False,secondary,North End Boulevard,152.911,2,16.8,,,,,,,,,9596457,MA 1A
+74600942,5530886910,0,False,residential,Central Avenue,25.654,2,15.2,,,,,,,,,9596869,
+74600942,74590039,0,False,residential,Central Avenue,44.805,2,15.2,,,,,,,,,9596869,
+74600942,74603930,0,True,residential,Broadway,94.531,2,15.2,,,,,,,,,9596512,
+74601325,74584362,0,False,secondary,North End Boulevard,122.443,2,16.8,,,,,,,,,9596457,MA 1A
+74601325,74607661,0,False,secondary,North End Boulevard,161.423,2,16.8,,,,,,,,,9596457,MA 1A
+74601325,74604125,0,False,residential,Wyman Greely Street,93.664,2,,,,,,,,,,9596781,
+74601704,74587733,0,False,residential,Ninth Street,90.117,2,9.1,,,,,,,,,9596920,
+74601720,74584362,0,False,secondary,North End Boulevard,48.824,2,16.8,,,,,,,,,9596457,MA 1A
+74601720,74586672,0,False,secondary,North End Boulevard,74.734,2,16.8,,,,,,,,,9596457,MA 1A
+74601720,74589814,0,False,residential,Lewis Avenue,83.526,2,10.7,,,,,,,,,9596848,
+74601795,74592687,0,False,secondary,Beach Road,45.549,2,15.2,,,,,,,,,193254933,MA 1A
+74601795,74588454,0,False,residential,Lincoln Avenue,317.304,2,12.2,,,,,,,,,9596459,
+74602250,74606621,0,False,residential,Railroad Avenue East,125.445,2,13.7,,,,,,,,,9596805,
+74602250,74595125,0,False,residential,Vermont Street,76.329,2,15.2,,,,,,,,,9596477,
+74602250,74598749,0,False,residential,Railroad Avenue East,155.229,2,13.7,,,,,,,,,9596805,
+74602398,74597090,0,False,residential,Hayes Street,369.283,1,9.1,,,,,,,,,9596865,
+74602403,74598097,0,False,tertiary,Ferry Road,233.146,2,12.2,,,,,,,,,9596525,
+74602403,74607369,0,False,tertiary,Ferry Road,63.069,2,12.2,,,,,,,,,9596525,
+74602680,74593344,0,False,residential,Glenwood Avenue,353.747,2,12.2,,,,,,,,,9596828,
+74603041,74591464,0,True,residential,Broadway,42.887,2,15.2,,,,,,,,,9596512,
+74603041,74599575,0,False,residential,Cable Avenue,207.094,2,9.1,,,,,,,,,9596563,
+74603041,74603930,0,True,secondary,North End Boulevard,26.557,2,16.8,,,,,,,,,576744921,MA 1A
+74603311,74599725,0,False,tertiary,State Beach Road,837.183,2,18.3,,,,,,,,,9596843,
+74603311,5530804586,0,True,tertiary,State Beach Road,83.715,1,30.5,,,,,,,,,576734202,
+74603375,74609511,0,False,tertiary,Ferry Road,72.23,2,12.2,,,,,,,,,295307360,
+74603375,74584469,0,False,tertiary,Ferry Road,272.856,2,12.2,,,,,,,,,295307360,
+74603930,74589932,0,True,secondary,North End Boulevard,38.919,2,16.8,,,,,,,,,576744921,MA 1A
+74603930,5100203900,0,True,secondary,Beach Road,52.434,2,30.5,,,,,,,,,592158102,
+74603999,74582984,0,False,residential,,50.808,,,,,,,,,,,9596658,
+74603999,74582984,1,False,residential,,47.486,,,,,,,,,,,9596658,
+74603999,74585706,0,False,residential,,31.597,,,,,,,,,,,9596669,
+74604059,74597919,0,True,residential,Atlantic Avenue,50.059,2,12.2,,,,,,,,,9596758,
+74604059,74606786,0,False,residential,Murray Street,28.448,2,,,,,,,,,,9596503,
+74604125,74601325,0,False,residential,Wyman Greely Street,93.664,2,,,,,,,,,,9596781,
+74604264,74588454,0,False,residential,Howard George Court,30.904,2,,,,,,,,,,9596809,
+74604318,74596751,0,False,residential,Warren Avenue,116.449,2,12.2,,,,,,,,,9596876,
+74604454,74587020,0,False,residential,County Road,1070.523,2,9.1,,,,,,,,,9596775,
+74604454,74584771,0,False,residential,County Road,150.558,2,9.1,,,,,,,,,9596775,
+74604454,74600442,0,False,residential,Michaels Way,132.183,2,15.2,,25 mph,,,,,,,9596812,
+74604742,74608773,0,False,residential,Beacon Street,62.852,2,10.7,,,,,,,,,9596917,
+74604742,74600890,0,False,secondary,North End Boulevard,152.911,2,16.8,,,,,,,,,9596457,MA 1A
+74604742,74591625,0,False,secondary,North End Boulevard,176.259,2,16.8,,,,,,,,,9596457,MA 1A
+74605081,74584750,0,False,residential,,113.499,,,,,,,,,,,9596671,
+74605247,74595125,0,False,residential,Vermont Street,40.144,2,15.2,,,,,,,,,570169002,
+74605541,74607319,0,False,residential,Gove Lane,114.099,2,12.2,,,,,,,,,9596818,
+74605576,74607319,0,False,residential,Meaders Lane,75.264,2,12.2,,,,,,,,,9596523,
+74605576,74585514,0,False,residential,Meaders Lane,71.945,2,12.2,,,,,,,,,9596523,
+74605576,74585514,1,False,residential,"['Short Lane', 'Sandy Lane']",303.911,2,12.2,,,,,,,,,"[9596481, 9596867]",
+74605586,74599575,0,False,residential,Cable Avenue,280.676,2,9.1,,,,,,,,,9596563,
+74605586,74591969,0,False,residential,"['Cable Avenue', 'Murray Street']",411.112,2,9.1,,,,,,,,,"[9596563, 9596503]",
+74605586,74585256,0,False,residential,Fowler Street,48.399,2,10.7,,,,,,,,,9596830,
+74605976,5100203891,0,False,residential,,51.153,,,,,,,,,,,9596659,
+74606046,74608646,0,False,residential,Commonwealth Avenue,33.891,2,10.7,,,,,,,,,9596849,
+74606543,74591539,0,False,residential,"['Taft Street', 'Garfield Street']",187.801,2,9.1,,,,,,,,,"[9596490, 9596547]",
+74606543,74600428,0,False,residential,Taft Street,23.452,2,9.1,,,,,,,,,9596490,
+74606543,74599206,0,False,residential,Washington Street,136.725,2,9.1,,,,,,,,,9596493,
+74606573,74604059,0,True,residential,Atlantic Avenue,363.316,2,12.2,,,,,,,,,9596758,
+74606573,74606621,0,False,residential,Fowler Street,77.207,2,10.7,,,,,,,,,9596830,
+74606621,74602250,0,False,residential,Railroad Avenue East,125.445,2,13.7,,,,,,,,,9596805,
+74606621,74585256,0,False,residential,Fowler Street,30.865,2,10.7,,,,,,,,,9596830,
+74606621,74606786,0,False,residential,Railroad Avenue East,371.632,2,13.7,,,,,,,,,9596805,
+74606621,74606573,0,False,residential,Fowler Street,77.207,2,10.7,,,,,,,,,9596830,
+74606786,74591969,0,False,residential,Murray Street,53.78,2,,,,,,,,,,9596503,
+74606786,74604059,0,False,residential,Murray Street,28.448,2,,,,,,,,,,9596503,
+74606786,74606621,0,False,residential,Railroad Avenue East,371.632,2,13.7,,,,,,,,,9596805,
+74606786,74597919,0,False,residential,Railroad Avenue East,53.015,2,13.7,,,,,,,,,9596805,
+74607026,74595210,0,False,residential,Dock Lane,917.983,2,9.1,,,,,,,,,9596874,
+74607026,74585362,0,False,residential,Dock Lane,72.47,2,9.1,,,,,,,,,9596874,
+74607026,74599957,0,False,residential,Dock Lane,28.49,,9.1,,,,,,,,,9596904,
+74607177,74603041,0,True,secondary,Beach Road,155.171,2,30.5,,,,,,,,,91824994,MA 1A
+74607319,74605541,0,False,residential,Gove Lane,114.099,2,12.2,,,,,,,,,9596818,
+74607319,74583330,0,False,residential,Meaders Lane,232.484,2,12.2,,,,,,,,,9596476,
+74607319,74605576,0,False,residential,Meaders Lane,75.264,2,12.2,,,,,,,,,9596523,
+74607369,74602403,0,False,tertiary,Ferry Road,63.069,2,12.2,,,,,,,,,9596525,
+74607369,74609363,0,False,tertiary,Ferry Road,194.481,2,12.2,,,,,,,,,9596525,
+74607369,74607389,0,False,residential,Robert Road,404.456,2,,,,,,,,,,9596534,
+74607389,74607369,0,False,residential,Robert Road,404.456,2,,,,,,,,,,9596534,
+74607423,74595524,0,False,residential,Sweet Apple Street Lane,591.871,1,9.1,,,,,,,,,9596832,
+74607578,74599725,0,True,tertiary_link,,109.351,,18.3,,,,,,,,,9596454,
+74607578,74590013,0,True,secondary,Beach Road,64.727,2,30.5,,,,,,,,,91824994,MA 1A
+74607661,74596056,0,False,secondary,North End Boulevard,54.983,2,16.8,,,,,,,,,9596457,MA 1A
+74607661,74596056,1,False,residential,,152.797,,,,,,,,,,,9596683,
+74607661,74601325,0,False,secondary,North End Boulevard,161.423,2,16.8,,,,,,,,,9596457,MA 1A
+74608036,74585362,0,False,secondary,Beach Road,23.178,2,15.2,,,,,,,,,132173812,MA 1A
+74608036,74598449,0,False,residential,,95.43,,,,,,,,,,,9596717,
+74608036,74587106,0,False,secondary,Beach Road,172.197,2,15.2,,,,,,,,,132173812,MA 1A
+74608646,74591625,0,False,residential,Brookline Avenue,51.432,2,10.7,,,,,,,,,9596815,
+74608646,74606046,0,False,residential,Commonwealth Avenue,33.891,2,10.7,,,,,,,,,9596849,
+74608646,74608773,0,False,residential,Commonwealth Avenue,179.823,2,10.7,,,,,,,,,9596849,
+74608653,74593322,0,False,residential,Central Avenue,530.933,2,15.2,,,,,,,,,9596869,
+74608653,74590039,0,False,residential,Central Avenue,98.52,2,15.2,,,,,,,,,9596869,
+74608653,74597347,0,False,residential,Shea Street,122.42,2,9.1,,,,,,,,,9596927,
+74608773,74604742,0,False,residential,Beacon Street,62.852,2,10.7,,,,,,,,,9596917,
+74608773,74608646,0,False,residential,Commonwealth Avenue,179.823,2,10.7,,,,,,,,,9596849,
+74609191,74584362,0,False,residential,Florence Avenue,122.253,2,9.1,,,,,,,,,9596451,
+74609363,74607369,0,False,tertiary,Ferry Road,194.481,2,12.2,,,,,,,,,9596525,
+74609363,74593523,0,False,tertiary,Ferry Road,333.301,2,12.2,,,,,,,,,9596525,
+74609363,74599762,0,False,residential,,141.901,,,,,,,,,,,9596679,
+74609511,74603375,0,False,tertiary,Ferry Road,72.23,2,12.2,,,,,,,,,295307360,
+74609511,74598931,0,False,residential,,164.626,,,,,,,,,,,9596600,
+74609511,74593143,0,False,secondary,Beach Road,138.928,2,15.2,,,,,,,,,132173812,MA 1A
+74609511,74600662,0,False,secondary,Beach Road,61.145,2,15.2,,,,,,,,,193254933,MA 1A
+74609616,74583993,0,False,residential,Seventeenth Street,144.825,2,9.1,,,,,,,,,9596567,
+1067028447,2037736436,0,False,primary,Lafayette Road,11.811,2,18.3,,,,,,,,,193254936,US 1;MA 1A
+1067028447,74592687,0,True,secondary,Beach Road,51.195,2,15.2,,,,,,,,,91825001,MA 1A
+2037736436,1067028447,0,False,primary,Lafayette Road,11.811,2,18.3,,,,,,,,,193254936,US 1;MA 1A
+2037736436,74596751,0,False,primary,Lafayette Road,129.618,2,18.3,,,,,,,,,91828371,US 1
+5100203877,74584568,0,False,secondary,Beach Road,63.885,2,15.2,,,,,,,,,132173812,MA 1A
+5100203877,5100203886,0,False,residential,,56.835,,,,,,,,,,,524018420,
+5100203877,5100203878,0,False,secondary,Beach Road,58.628,2,15.2,,,,,,,,,132173812,MA 1A
+5100203878,5477923975,0,False,secondary,Beach Road,164.303,2,15.2,,,,,,,,,132173812,MA 1A
+5100203878,5100203877,0,False,secondary,Beach Road,58.628,2,15.2,,,,,,,,,132173812,MA 1A
+5100203878,5100203886,0,False,residential,,96.669,,,,,,,,,,,524018421,
+5100203886,5100203877,0,False,residential,,56.835,,,,,,,,,,,524018420,
+5100203886,5100203891,0,False,residential,,68.249,,,,,,,,,,,524018419,
+5100203886,5100203878,0,False,residential,,96.669,,,,,,,,,,,524018421,
+5100203891,74592913,0,False,residential,,32.228,,,,,,,,,,,9596659,
+5100203891,74605976,0,False,residential,,51.153,,,,,,,,,,,9596659,
+5100203891,5100203886,0,False,residential,,68.249,,,,,,,,,,,524018419,
+5100203893,74583447,0,False,secondary,North End Boulevard,55.157,2,16.8,,,,,,,,,9596457,MA 1A
+5100203893,5100203900,0,True,secondary_link,,75.336,,,,,,,,,,,524018422,MA 1A
+5100203900,74596307,0,True,secondary,Beach Road,66.575,2,30.5,,,,,,,,,9596773,MA 1A
+5329970469,74584282,0,False,residential,Access Road,928.408,2,12.2,,,,,,,,,9596863,
+5477375720,5477375720,0,False,residential,,74.498,,,,,,,,,,,569565291,
+5477375720,5477375720,1,False,residential,,74.498,,,,,,,,,,,569565291,
+5477375720,5477376326,0,False,residential,,71.055,,,,,,,,,,,569565292,
+5477376326,5477375720,0,False,residential,,71.055,,,,,,,,,,,569565292,
+5477376326,5477376348,0,False,residential,,148.869,,,,,,,,,,,569565296,
+5477376326,74585393,0,False,residential,,168.955,,,,,,,,,,,569565296,
+5477376348,5477376348,0,False,residential,,81.911,,,,,,,,,,,569565294,
+5477376348,5477376348,1,False,residential,,81.911,,,,,,,,,,,569565294,
+5477376348,5477376326,0,False,residential,,148.869,,,,,,,,,,,569565296,
+5477923948,5477923953,0,False,residential,,23.729,,,,,,,,,,,569643752,
+5477923949,74594822,0,False,secondary,Beach Road,15.172,2,15.2,,,,,,,,,132173812,MA 1A
+5477923949,5477923975,0,False,secondary,Beach Road,146.091,2,15.2,,,,,,,,,132173812,MA 1A
+5477923949,5477923953,0,False,residential,,53.009,,,,,,,,,,,569643753,
+5477923953,5477923948,0,False,residential,,23.729,,,,,,,,,,,569643752,
+5477923953,5477923949,0,False,residential,,53.009,,,,,,,,,,,569643753,
+5477923953,5477923955,0,False,residential,,59.872,,,,,,,,,,,569643753,
+5477923955,5477923974,0,False,residential,,110.178,,,,,,,,,,,569643751,
+5477923955,5477923953,0,False,residential,,59.872,,,,,,,,,,,569643753,
+5477923955,5477923963,0,False,residential,,193.281,,,,,,,,,,,569643753,
+5477923963,5477923955,0,False,residential,,193.281,,,,,,,,,,,569643753,
+5477923963,5477923964,0,False,residential,,60.469,,,,,,,,,,,569643756,
+5477923963,5477923974,0,False,residential,,72.238,,,,,,,,,,,569643756,
+5477923964,5477923965,0,False,residential,,21.004,,,,,,,,,,,569643754,
+5477923964,5477923969,0,False,residential,,29.537,,,,,,,,,,,569643756,
+5477923964,5477923963,0,False,residential,,60.469,,,,,,,,,,,569643756,
+5477923965,5477923964,0,False,residential,,21.004,,,,,,,,,,,569643754,
+5477923965,5477923968,0,False,residential,,29.559,,,,,,,,,,,569643755,
+5477923965,5477923966,0,False,residential,,40.99,,,,,,,,,,,569643755,
+5477923966,5477923965,0,False,residential,,40.99,,,,,,,,,,,569643755,
+5477923968,5477923965,0,False,residential,,29.559,,,,,,,,,,,569643755,
+5477923969,5477923964,0,False,residential,,29.537,,,,,,,,,,,569643756,
+5477923974,5477923975,0,False,residential,,53.962,,,,,,,,,,,569643756,
+5477923974,5477923955,0,False,residential,,110.178,,,,,,,,,,,569643751,
+5477923974,5477923963,0,False,residential,,72.238,,,,,,,,,,,569643756,
+5477923975,5477923974,0,False,residential,,53.962,,,,,,,,,,,569643756,
+5477923975,5477923949,0,False,secondary,Beach Road,146.091,2,15.2,,,,,,,,,132173812,MA 1A
+5477923975,5100203878,0,False,secondary,Beach Road,164.303,2,15.2,,,,,,,,,132173812,MA 1A
+5477931842,74590039,0,False,residential,Driftway,66.843,2,12.2,,,,,,,,,9596513,
+5530804576,74584282,0,True,tertiary,State Beach Road,822.367,1,30.5,,,,,,,,,9596790,
+5530804576,5530804600,0,True,tertiary,,38.299,,,,,,,,,,roundabout,576734201,
+5530804586,5530804576,0,True,tertiary,,54.717,,,,,,,,,,roundabout,576734201,
+5530804591,5530804586,0,True,tertiary,,32.839,,,,,,,,,,roundabout,576734201,
+5530804591,74603311,0,True,tertiary,State Beach Road,83.555,2,30.5,,,,,,,,,576734203,
+5530804600,5530804591,0,True,tertiary,,49.247,,,,,,,,,,roundabout,576734201,
+5530886910,74600942,0,False,residential,Central Avenue,25.654,2,15.2,,,,,,,,,9596869,
+5530886910,74600942,1,True,residential,Broadway,129.579,2,15.2,,,,,,,,,9596512,

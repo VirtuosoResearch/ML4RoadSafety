@@ -1,0 +1,38 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+42430677,62915525,0,True,unclassified,West 43rd Street,237.469,,,,,,,,,,,46435621,
+42430680,42430677,0,True,secondary,11th Avenue,78.839,,,,,,,,,,,46525058,
+42430680,42430685,0,False,secondary,11th Avenue,79.813,,,,,,,,,,,420894361,
+42430685,62915527,0,True,secondary,West 45th Street,197.348,,,,,,,,,,,46435596,
+42430685,42430680,0,False,secondary,11th Avenue,79.813,,,,,,,,,,,420894361,
+42430685,42430688,0,False,secondary,11th Avenue,80.209,,,,,,,,,,,420894361,
+42430688,42430691,0,False,secondary,11th Avenue,79.273,,,,,,,,,,,420894361,
+42430688,42430685,0,False,secondary,11th Avenue,80.209,,,,,,,,,,,420894361,
+42430691,42430688,0,False,secondary,11th Avenue,79.273,,,,,,,,,,,420894361,
+42430691,42430694,0,False,secondary,11th Avenue,79.801,,,,,,,,,,,420894361,
+42430691,62915531,0,True,residential,West 47th Street,197.568,,,,,,,,,,,46482592,
+42430694,42430691,0,False,secondary,11th Avenue,79.801,,,,,,,,,,,420894361,
+42430694,42430698,0,False,secondary,11th Avenue,79.457,5,,,,,,,,,,"[420894339, 420894331, 420894357]",
+42430698,62915536,0,True,secondary,West 49th Street,198.504,1,,,,,,,,,,46443656,
+42430698,42430694,0,False,secondary,11th Avenue,79.457,5,,,,,,,,,,"[420894331, 420894339, 420894357]",
+42432605,42443549,0,True,trunk,12th Avenue,79.94,"['4', '5']",,,,,,,,,,"[421852029, 421852031]",NY 9A
+42440253,42432605,0,True,trunk,12th Avenue,79.123,4,,,,,,,,,,421852039,NY 9A
+42443549,62915516,0,True,residential,West 48th Street,19.486,1,,,,,,,,,,464847784,
+42443549,593854257,0,True,trunk,12th Avenue,19.282,4,,,,,,,,,,421852040,NY 9A
+42443570,62915509,0,True,unclassified,West 44th Street,20.307,,,,,,,,,,,464847783,
+42443570,42453548,0,True,trunk,12th Avenue,83.594,4,,,,,,,,,,505777317,NY 9A
+42453555,62915514,0,True,secondary,West 46th Street,21.009,,,,,,,,,,,46435602,
+42453555,42443570,0,True,trunk,12th Avenue,160.291,4,,,,,,,,,,169269031,NY 9A
+62915509,42430680,0,True,unclassified,West 44th Street,212.561,,,,,,,,,,,5671117,
+62915509,62915527,0,True,trunk,12th Avenue,81.546,4,,,,,,,,,,505777310,NY 9A
+62915514,42430688,0,True,secondary,West 46th Street,196.491,,,,,,,,,,,46435602,
+62915514,62915531,0,True,trunk,12th Avenue,79.491,4,,,,,,,,,,169267539,NY 9A
+62915516,42430694,0,True,residential,West 48th Street,197.215,1,,,,,,,,,,5671115,
+62915516,62915536,0,True,trunk,12th Avenue,79.85,4,,,,,,,,,,421852041,NY 9A
+62915525,42453548,0,True,unclassified,West 43rd Street,21.394,,,,,,,,,,,169383512,
+62915525,62915509,0,True,trunk,12th Avenue,83.454,4,,,,,,,,,,505777313,NY 9A
+62915527,62915514,0,True,trunk,12th Avenue,79.824,4,,,,,,,,,,169267539,NY 9A
+62915531,247123109,0,True,trunk,12th Avenue,59.27,"['4', '6']",,,,,,,,,,"[169267539, 421852038]",NY 9A
+62915536,42432605,0,True,secondary,West 49th Street,19.65,1,,,,,,,,,,46443656,
+247123109,593854257,0,True,unclassified,,18.873,1,,,,,,,,,,22941844,
+247123109,62915516,0,True,trunk,12th Avenue,19.685,"['4', '6']",,,,,,,,,,"[481856150, 421852038]",NY 9A
+593854257,42453555,0,True,trunk,12th Avenue,139.238,"['4', '5']",,,,,,,,,,"[464847785, 421852030]",NY 9A

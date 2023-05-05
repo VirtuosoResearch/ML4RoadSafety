@@ -1,0 +1,27 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+212345744,212430417,0,False,residential,Railroad Street,593.553,,,,,,,,,,,"[20103133, 20091773]",
+212391495,212503913,0,False,primary,Cold Brook Street,400.067,,,,,,,,,,,45151899,NY 8
+212392891,212392917,0,False,residential,Mill Street,223.68,,,,,,,,,,,20095130,
+212392891,212430430,0,False,primary,North Main Street,38.382,,,,,,,,,,,20099578,NY 8;NY 28
+212392891,212402880,0,False,primary,North Main Street,86.387,,,,,,,,,,,45151900,NY 8;NY 28
+212392917,212392891,0,False,residential,Mill Street,223.68,,,,,,,,,,,20095130,
+212402854,212402880,0,False,residential,Case Street,175.633,,,,,,,,,,,20095876,
+212402880,212402854,0,False,residential,Case Street,175.633,,,,,,,,,,,20095876,
+212402880,212503913,0,False,residential,"['Millington Avenue', 'Sprague Street']",493.326,,,,,,,,,,,"[20102729, 20096113]",
+212402880,212392891,0,False,primary,North Main Street,86.387,,,,,,,,,,,45151900,NY 8;NY 28
+212430390,212430396,0,False,secondary,South Main Street,212.232,,,,,,,,,,,20098091,NY 28
+212430390,212463980,0,False,residential,Moody Lane,76.734,,,,,,,,,,,20100233,
+212430396,212430417,0,False,secondary,South Main Street,472.312,,,,,,,,,,,20098091,NY 28
+212430396,212430390,0,False,secondary,South Main Street,212.232,,,,,,,,,,,20098091,NY 28
+212430417,212430430,0,False,secondary,South Main Street,299.892,,,,,,,,,,,20098091,NY 28
+212430417,212430396,0,False,secondary,South Main Street,472.312,,,,,,,,,,,20098091,NY 28
+212430417,212345744,0,False,residential,Railroad Street,593.553,,,,,,,,,,,"[20103133, 20091773]",
+212430430,212430417,0,False,secondary,South Main Street,299.892,,,,,,,,,,,20098091,NY 28
+212430430,212392891,0,False,primary,North Main Street,38.382,,,,,,,,,,,20099578,NY 8;NY 28
+212430430,212503901,0,True,primary,Cold Brook Street,89.334,,,,,,,,,,,20102725,NY 8
+212463980,212430390,0,False,residential,Moody Lane,76.734,,,,,,,,,,,20100233,
+212503901,212392891,0,True,primary,Cold Brook Street,85.776,,,,,,,,,,,20102727,NY 8
+212503901,212503913,0,False,primary,Cold Brook Street,301.76,,,,,,,,,,,45151899,NY 8
+212503913,212402880,0,False,residential,"['Millington Avenue', 'Sprague Street']",493.326,,,,,,,,,,,"[20102729, 20096113]",
+212503913,212391495,0,False,primary,Cold Brook Street,400.067,,,,,,,,,,,45151899,NY 8
+212503913,212503901,0,False,primary,Cold Brook Street,301.76,,,,,,,,,,,45151899,NY 8

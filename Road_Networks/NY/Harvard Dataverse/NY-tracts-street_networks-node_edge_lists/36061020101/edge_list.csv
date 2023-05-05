@@ -1,0 +1,12 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+42435362,1506445821,0,False,secondary,Morningside Drive,85.888,2,,,,,,,,,,418371676,
+42437142,1506445821,0,False,residential,West 116th Street,162.161,,,,,,,,,,,5670539,
+42437142,42442577,0,False,secondary,Amsterdam Avenue,163.792,,,,,,,,yes,,,"[327917960, 327917961, 46583484]",
+42437142,42442575,0,False,secondary,Amsterdam Avenue,88.002,,,,,,,,,,,46583484,
+42442575,42435362,0,True,residential,West 115th Street,163.93,,,,,,,,,,,5671452,
+42442575,1506445711,0,False,secondary,Amsterdam Avenue,79.114,,,,,,,,,,,46583484,
+42442575,42437142,0,False,secondary,Amsterdam Avenue,88.002,,,,,,,,,,,46583484,
+42442577,42437142,0,False,secondary,Amsterdam Avenue,163.792,,,,,,,,yes,,,"[327917960, 327917961, 46583484]",
+1506445711,42442575,0,False,secondary,Amsterdam Avenue,79.114,,,,,,,,,,,46583484,
+1506445821,42435362,0,False,secondary,Morningside Drive,85.888,2,,,,,,,,,,418371676,
+1506445821,42437142,0,False,residential,West 116th Street,162.161,,,,,,,,,,,5670539,

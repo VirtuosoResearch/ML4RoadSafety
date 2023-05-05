@@ -1,0 +1,396 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+102838057,102889986,0,False,primary,Woodsboro Pike,543.505,2,,,55 mph,,,,,,,53054648,MD 194
+102838057,103007302,0,False,primary,Woodsboro Pike,473.815,2,,,55 mph,,,,,,,53054648,MD 194
+102847921,103007425,0,False,secondary,North Main Street,35.731,,,,,,,,,,,11556848,
+102847921,103044161,0,False,secondary,North Main Street,107.647,,,,,,,,,,,11556848,
+102847921,2884533552,0,False,residential,Arnold Alley,68.838,,,,,,,,,,,284745855,
+102847921,102980367,0,False,residential,Arnold Alley,90.059,,,,,,,,,,,284745855,
+102852817,103032108,0,False,residential,Scarlet Oak Court,272.892,,,,,,,,,,,11556963,
+102857006,102857007,0,False,tertiary,Gravel Hill Road,6.148,,,,,,,,,,,11559264,
+102857006,103043243,0,False,tertiary,West Elizabeth Street,226.558,,,,,,,,,,,11559345,
+102857006,103043247,0,False,residential,North Adams Street,115.659,,,,,,,,,,,284745858,
+102857007,103044889,0,False,residential,James Street,190.616,,,,,,,,,,,11556927,
+102857007,102857006,0,False,tertiary,Gravel Hill Road,6.148,,,,,,,,,,,11559264,
+102857007,103062806,0,False,tertiary,Gravel Hill Road,75.874,,,,,,,,,,,11559264,
+102857161,102995668,0,False,residential,Bennie Duncan Road,1623.956,,,,,,,,,,,11557112,
+102857161,102897796,0,False,primary,Woodsboro Road,289.612,2,,,,,,,,,,114731253,MD 550
+102857161,102918307,0,False,primary,Woodsboro Road,149.548,2,,,,,,,,,,114731253,MD 550
+102860214,103007491,0,False,primary,Woodsboro Road,27.505,2,,,,,,,,,,45041085,MD 550
+102860214,103007493,0,True,primary_link,,63.951,,,,,,,,,,,11537509,MD 550
+102860214,102860382,0,False,primary,Woodsboro Road,197.528,2,,,,,,,,,,445205022,MD 550
+102860382,102965396,0,False,residential,Council Drive,396.214,,,,,,,,,,,11547730,
+102860382,102860214,0,False,primary,Woodsboro Road,197.528,2,,,,,,,,,,445205022,MD 550
+102860382,103080268,0,False,primary,Woodsboro Road,1168.592,2,,,,,,yes,,,,"[445205028, 114731253, 445205022]",MD 550
+102862543,103007346,0,False,primary,Woodsboro Pike,262.002,2,,,55 mph,,,,,,,53054648,MD 194
+102862543,103007345,0,False,primary,Woodsboro Pike,139.46,2,,,55 mph,,,,,,,53054648,MD 194
+102871923,103043241,0,False,residential,Hildebrand Lane,1836.257,,,,,,,,,,,11538606,
+102871923,102910035,0,False,secondary,South Main Street,401.538,,,,25 mph,,,,,,,"[69343467, 69343468]",
+102871923,103088853,0,False,secondary,South Main Street,178.764,,,,25 mph,,,,,,,69343468,
+102872006,102872010,0,False,residential,3rd Street,45.014,,,,,,,,,,,11538625,
+102872006,102872010,1,False,residential,Rosewood Court,145.689,,,,,,,,,,,284745859,
+102872006,102880771,0,False,residential,Dorsey Alley,90.44,,,,,,,,,,,284745856,
+102872010,102872013,0,False,residential,3rd Street,63.276,,,,,,,,,,,11538625,
+102872010,102872006,0,False,residential,3rd Street,45.014,,,,,,,,,,,11538625,
+102872010,102872006,1,False,residential,Rosewood Court,145.689,,,,,,,,,,,284745859,
+102872013,103016521,0,False,residential,East Elizabeth Street,89.247,,,,,,,,,,,11554570,
+102872013,103016523,0,False,residential,"['3rd Street', 'School Alley']",198.788,,,,,,,,,,,"[284731616, 11538625]",
+102872013,102872010,0,False,residential,3rd Street,63.276,,,,,,,,,,,11538625,
+102877277,102968113,0,False,residential,,21.284,,,,,,,,,,,11548043,
+102877277,103080268,0,False,residential,Hoffman-Seachrist Road,3234.45,,,,,,,,,,,11561680,
+102879983,102919848,0,False,primary,Woodsboro Pike,44.083,2,,,50 mph,,,,,,,11557792,MD 194;MD 550
+102879983,103006330,0,False,primary,Woodsboro Pike,231.084,2,,,50 mph,,,,,,,45041091,MD 194;MD 550
+102879997,102965807,0,False,primary,Woodsboro Pike,11.012,2,,,,,,,,,,114731297,MD 550
+102879997,102879983,0,True,primary_link,,59.341,,,,,,,,,,,11539334,MD 550
+102879997,102919848,0,False,primary,Woodsboro Pike,46.692,2,,,,,,,,,,11552575,MD 550
+102880771,103016521,0,False,residential,North 2nd Street,112.311,,,,,,,,,,,11558180,
+102880771,102980367,0,False,residential,North 2nd Street,110.813,,,,,,,,,,,11558180,
+102880771,103044161,0,False,residential,East Dorcus Alley,89.33,,,,,,,,,,,284745857,
+102880771,102872006,0,False,residential,Dorsey Alley,90.44,,,,,,,,,,,284745856,
+102884665,102884671,0,False,residential,,440.36,,,,,,,,,,,11539765,
+102884671,102884665,0,False,residential,,440.36,,,,,,,,,,,11539765,
+102884671,102897796,0,False,residential,,616.127,,,,,,,,,,,11539767,
+102884671,102884700,0,False,residential,,92.514,,,,,,,,,,,11539767,
+102884700,102884671,0,False,residential,,92.514,,,,,,,,,,,11539767,
+102889986,103007337,0,False,primary,Woodsboro Pike,1436.875,2,,,55 mph,,,,,,,53054648,MD 194
+102889986,102838057,0,False,primary,Woodsboro Pike,543.505,2,,,55 mph,,,,,,,53054648,MD 194
+102897796,102884671,0,False,residential,,616.127,,,,,,,,,,,11539767,
+102897796,103010369,0,False,primary,Woodsboro Road,1600.456,2,,,,,,,,,,114731253,MD 550
+102897796,102857161,0,False,primary,Woodsboro Road,289.612,2,,,,,,,,,,114731253,MD 550
+102906572,102909933,0,False,residential,Legore Bridge Road,784.149,,,,,,,,,,,11542169,
+102908141,102908171,0,False,residential,,783.961,,,,,,,,,,,11542003,
+102908171,102908141,0,False,residential,,783.961,,,,,,,,,,,11542003,
+102908171,103029968,0,False,primary,Woodsboro Creagerstown Road,442.643,2,,,,,,,,,,11558965,MD 550
+102908171,102920929,0,False,primary,Woodsboro Creagerstown Road,1357.746,2,,,,,,,,,,11558965,MD 550
+102908235,103010424,0,False,secondary,South Main Street,42.033,,,,25 mph,,,,,,,69343468,
+102908235,103054351,0,False,residential,Smith Alley,84.84,,,,,,,,,,,11542011,
+102908235,2001723383,0,False,secondary,South Main Street,105.066,,,,25 mph,,,,,,,69343468,
+102909933,102906572,0,False,residential,Legore Bridge Road,784.149,,,,,,,,,,,11542169,
+102909933,102909937,0,False,residential,Legore Bridge Road,135.085,,,,,,,,,,,11542169,
+102909933,103007380,0,False,residential,Legore Bridge Road,35.981,,,,,,,,,,,11555488,
+102909937,102909933,0,False,residential,Legore Bridge Road,135.085,,,,,,,,,,,11542169,
+102909937,103007380,0,False,primary,Woodsboro Pike,123.575,2,,,55 mph,,,,,,,53054648,MD 194
+102909937,102919848,0,False,primary,Woodsboro Pike,554.843,2,,,55 mph,,,,,,,447605965,MD 194
+102910027,102982091,0,False,primary,Woodsboro Pike,77.634,3,,,50 mph,,,,,,,410889579,MD 194
+102910027,102910029,0,False,secondary,South Main Street,41.76,,,,,,,,,,,11542180,
+102910027,102944153,0,False,primary,Woodsboro Pike,140.483,3,,,50 mph,,,,,,,410889579,MD 194
+102910029,102910031,0,False,secondary,South Main Street,11.095,,,,,,,,,,,11542180,
+102910029,102910027,0,False,secondary,South Main Street,41.76,,,,,,,,,,,11542180,
+102910031,102910029,0,False,secondary,South Main Street,11.095,,,,,,,,,,,11542180,
+102910031,102910035,0,False,secondary,South Main Street,46.33,,,,,,,,,,,11542180,
+102910031,102944153,0,True,secondary_link,,168.293,,,,,,,,,,,11545538,
+102910035,102910031,0,False,secondary,South Main Street,46.33,,,,,,,,,,,11542180,
+102910035,103015010,0,False,residential,South Main Street,158.286,,,,,,,,,,,69343466,
+102910035,102871923,0,False,secondary,South Main Street,401.538,,,,25 mph,,,,,,,"[69343467, 69343468]",
+102918305,102918307,0,False,residential,,22.782,,,,,,,,,,,284757266,
+102918307,102918305,0,False,residential,,22.782,,,,,,,,,,,284757266,
+102918307,102857161,0,False,primary,Woodsboro Road,149.548,2,,,,,,,,,,114731253,MD 550
+102918307,103080212,0,False,primary,Woodsboro Road,609.632,2,,,,,,,,,,114731253,MD 550
+102919523,102930188,0,False,residential,Legore Bridge Road,106.246,,,,,,,,,,,11555487,
+102919523,103024330,0,False,residential,Legore Bridge Road,1139.875,,,,,,,,,,,11555487,
+102919523,4211064780,0,False,residential,Steiner Smith Road,539.006,,,,,,,,,,,11561934,
+102919848,102879983,0,False,primary,Woodsboro Pike,44.083,2,,,50 mph,,,,,,,11557792,MD 194;MD 550
+102919848,102879997,0,False,primary,Woodsboro Pike,46.692,2,,,,,,,,,,11552575,MD 550
+102919848,102909937,0,False,primary,Woodsboro Pike,554.843,2,,,55 mph,,,,,,,447605965,MD 194
+102920929,102965807,0,False,primary,Woodsboro Creagerstown Road,379.008,2,,,,,,,,,,11547782,MD 550
+102920929,102965858,0,False,secondary,Creagerstown Road,211.869,,,,,,,,,,,11558963,
+102920929,102908171,0,False,primary,Woodsboro Creagerstown Road,1357.746,2,,,,,,,,,,11558965,MD 550
+102930188,102919523,0,False,residential,Legore Bridge Road,106.246,,,,,,,,,,,11555487,
+102944153,103007259,0,False,primary,Woodsboro Pike,776.463,"['2', '4']",,,50 mph,,,,,,,"[410889574, 410889575]",MD 194
+102944153,102910027,0,False,primary,Woodsboro Pike,140.483,3,,,50 mph,,,,,,,410889579,MD 194
+102950300,102979204,0,False,residential,Copper Oaks Place,208.392,,,,,,,,,,,284731615,
+102961048,2884126088,0,False,residential,Bell Court,34.282,,,,,,,,,,,11560607,
+102965396,102860382,0,False,residential,Council Drive,396.214,,,,,,,,,,,11547730,
+102965807,102879997,0,False,primary,Woodsboro Pike,11.012,2,,,,,,,,,,114731297,MD 550
+102965807,102920929,0,False,primary,Woodsboro Creagerstown Road,379.008,2,,,,,,,,,,11547782,MD 550
+102965807,103006322,0,False,secondary,Woodsboro Pike,237.801,,,,,,,,,,,45041077,
+102965858,103062806,0,False,residential,Mill Road,389.248,,,,,,,,,,,11547793,
+102965858,102920929,0,False,secondary,Creagerstown Road,211.869,,,,,,,,,,,11558963,
+102965858,103044881,0,False,secondary,Creagerstown Road,22.211,,,,,,,,,,,11558963,
+102968113,102877277,0,False,residential,,21.284,,,,,,,,,,,11548043,
+102968113,102995668,0,False,residential,Bennie Duncan Road,1587.131,,,,,,,,,,,11557112,
+102979204,103032108,0,False,residential,Copper Oaks Drive,450.639,,,,,,,,,,,284731609,
+102979204,103032083,0,False,residential,Copper Oaks Drive,270.061,,,,,,,,,,,284731609,
+102979204,102950300,0,False,residential,Copper Oaks Place,208.392,,,,,,,,,,,284731615,
+102980367,102880771,0,False,residential,North 2nd Street,110.813,,,,,,,,,,,11558180,
+102980367,103006324,0,False,residential,North 2nd Street,105.246,,,,,,,,,,,11558180,
+102980367,102847921,0,False,residential,Arnold Alley,90.059,,,,,,,,,,,284745855,
+102982091,102910027,0,False,primary,Woodsboro Pike,77.634,3,,,50 mph,,,,,,,410889579,MD 194
+102982091,102910029,0,True,secondary_link,,100.297,,,,,,,,,,,11549794,
+102982091,4126470959,0,False,primary,Woodsboro Pike,1187.341,2,,,50 mph,,,,,,,"[510493739, 410889580, 410889599]",MD 194
+102995554,103052984,0,False,residential,West Adams Alley,86.92,,,,,,,,,,,11557667,
+102995554,2884126088,0,False,residential,Bell Court,37.782,,,,,,,,,,,11560607,
+102995554,103054351,0,False,residential,Adams Street,104.017,,,,,,,,,,,11559281,
+102995558,2884126088,0,False,residential,Weinberg Court,190.542,,,,,,,,,,,284694866,
+102995668,102968113,0,False,residential,Bennie Duncan Road,1587.131,,,,,,,,,,,11557112,
+102995668,102857161,0,False,residential,Bennie Duncan Road,1623.956,,,,,,,,,,,11557112,
+102995704,2876687868,0,False,residential,Old Links Bridge Road,401.01,,,,,,,,,,,11551659,
+102995704,103032035,0,False,residential,Links Road,1575.15,,,,,,,,,,,11561395,
+102995704,103020177,0,False,tertiary,Dublin Road,1027.138,2,,,,,,,,,,447605952,
+102995704,103024016,0,False,tertiary,Dublin Road,2775.016,2,,,,,,,,,,"[447605952, 447605951]",
+102998036,102998058,0,False,residential,Haughs Church Road,671.82,,,,,,,,,,,11551769,
+102998036,103029975,0,False,secondary,Rocky Ridge Road,1768.047,,,,,,,,,,,53050748,MD 77
+102998058,102998072,0,False,residential,Haughs Church Road,1201.775,,,,,,,,,,,11551769,
+102998058,102998036,0,False,residential,Haughs Church Road,671.82,,,,,,,,,,,11551769,
+102998058,103060304,0,False,residential,Hiney Road,2753.291,,,,,,,,,,,11558973,
+102998072,102998093,0,False,residential,Haughs Church Road,1215.838,,,,,,,,,,,11551769,
+102998072,102998058,0,False,residential,Haughs Church Road,1201.775,,,,,,,,,,,11551769,
+102998072,103007338,0,False,tertiary,Detour Road,2781.372,,,,,,,,,,,11555082,
+102998072,103029975,0,False,tertiary,Detour Road,1561.294,,,,,,,,,,,11555082,
+102998093,102998105,0,False,residential,Haughs Church Road,968.491,,,,,,,,,,,11551769,
+102998093,102998072,0,False,residential,Haughs Church Road,1215.838,,,,,,,,,,,11551769,
+102998093,103007291,0,False,residential,Nicholson Road,1338.833,,,,,,,,,,,11554418,
+102998105,102998093,0,False,residential,Haughs Church Road,968.491,,,,,,,,,,,11551769,
+102998105,103007302,0,False,primary,Woodsboro Pike,416.981,2,,,55 mph,,,,,,,53054648,MD 194
+102998105,103007291,0,False,primary,Woodsboro Pike,760.125,2,,,55 mph,,,,,,,53054648,MD 194
+103000792,103017657,0,False,residential,Dunsife Alley,89.644,,,,,,,,,,,11553610,
+103000792,103043241,0,False,residential,Adams Street,107.817,,,,,,,,,,,11556756,
+103000792,103004840,0,False,residential,Adams Street,107.415,,,,,,,,,,,11559281,
+103000796,103000798,0,False,residential,Cub Hunt Court,76.972,,,,,,,,,,,11551984,
+103000798,103000800,0,False,residential,Cub Hunt Court,165.576,,,,,,,,,,,11551984,
+103000798,103000796,0,False,residential,Cub Hunt Court,76.972,,,,,,,,,,,11551984,
+103000800,103000798,0,False,residential,Cub Hunt Court,165.576,,,,,,,,,,,11551984,
+103001212,103001213,0,False,residential,Short Street,105.319,,,,,,,,,,,11552024,
+103001212,103010425,0,False,residential,South 2nd Street,192.216,,,,,,,,,,,11553428,
+103001212,103004844,0,False,residential,South 2nd Street,66.285,,,,,,,,,,,11553428,
+103001213,103001212,0,False,residential,Short Street,105.319,,,,,,,,,,,11552024,
+103001213,103087820,0,False,residential,Wood Street,59.324,,,,,,,,,,,11561701,
+103001213,103010425,0,False,residential,"['Barricks Lane', 'Wood Street']",311.789,,,,,,,,,,,"[11552733, 11561701]",
+103004840,103004842,0,False,residential,Powell Alley,88.401,,,,,,,,,,,11552361,
+103004840,103057253,0,False,residential,Adams Street,106.858,,,,,,,,,,,11559281,
+103004840,103000792,0,False,residential,Adams Street,107.415,,,,,,,,,,,11559281,
+103004842,103004844,0,False,residential,Powell Alley,87.696,,,,,,,,,,,11552361,
+103004842,103004840,0,False,residential,Powell Alley,88.401,,,,,,,,,,,11552361,
+103004842,2001723383,0,False,secondary,South Main Street,104.475,,,,25 mph,,,,,,,69343468,
+103004842,103017657,0,False,secondary,South Main Street,108.656,,,,25 mph,,,,,,,69343468,
+103004844,103004842,0,False,residential,Powell Alley,87.696,,,,,,,,,,,11552361,
+103004844,103001212,0,False,residential,South 2nd Street,66.285,,,,,,,,,,,11553428,
+103004844,103016525,0,False,residential,South 2nd Street,117.025,,,,,,,,,,,11553428,
+103006322,103006324,0,False,tertiary,Coppermine Road,85.048,,,,,,,,,,,11552534,
+103006322,103007425,0,False,secondary,Woodsboro Pike,69.73,,,,,,,,,,,45041077,
+103006322,102965807,0,False,secondary,Woodsboro Pike,237.801,,,,,,,,,,,45041077,
+103006324,103006322,0,False,tertiary,Coppermine Road,85.048,,,,,,,,,,,11552534,
+103006324,103006330,0,False,tertiary,Coppermine Road,83.356,,,,,,,,,,,11552534,
+103006324,102980367,0,False,residential,North 2nd Street,105.246,,,,,,,,,,,11558180,
+103006330,4126471090,0,False,tertiary,Coppermine Road,127.168,,,,,,,,,,,11552534,
+103006330,103006324,0,False,tertiary,Coppermine Road,83.356,,,,,,,,,,,11552534,
+103006330,103007493,0,False,primary,Woodsboro Pike,555.038,2,,,50 mph,,,,,,,45041091,MD 194;MD 550
+103006330,102879983,0,False,primary,Woodsboro Pike,231.084,2,,,50 mph,,,,,,,45041091,MD 194;MD 550
+103006334,4126471090,0,False,tertiary,Coppermine Road,10.397,,,,,,,,,,,11552534,
+103006334,2884436819,0,False,tertiary,Coppermine Road,497.393,,,,,,,,,,,11552534,
+103006342,2884436819,0,False,tertiary,Coppermine Road,150.434,,,,,,,,,,,11552534,
+103007259,103032035,0,False,residential,Glade Road,2283.349,2,,,,,,yes,,,,"[405402913, 405402914, 11555346]",
+103007259,102944153,0,False,primary,Woodsboro Pike,776.463,"['2', '4']",,,50 mph,,,,,,,"[410889574, 410889575]",MD 194
+103007291,102998093,0,False,residential,Nicholson Road,1338.833,,,,,,,,,,,11554418,
+103007291,102998105,0,False,primary,Woodsboro Pike,760.125,2,,,55 mph,,,,,,,53054648,MD 194
+103007291,103007462,0,False,primary,Woodsboro Pike,830.473,2,,,55 mph,,,,,,,53054648,MD 194
+103007302,102838057,0,False,primary,Woodsboro Pike,473.815,2,,,55 mph,,,,,,,53054648,MD 194
+103007302,102998105,0,False,primary,Woodsboro Pike,416.981,2,,,55 mph,,,,,,,53054648,MD 194
+103007337,103007338,0,False,primary,Woodsboro Pike,150.865,2,,,55 mph,,,,,,,53054648,MD 194
+103007337,102889986,0,False,primary,Woodsboro Pike,1436.875,2,,,55 mph,,,,,,,53054648,MD 194
+103007338,103007337,0,False,primary,Woodsboro Pike,150.865,2,,,55 mph,,,,,,,53054648,MD 194
+103007338,102998072,0,False,tertiary,Detour Road,2781.372,,,,,,,,,,,11555082,
+103007338,103007345,0,False,primary,Woodsboro Pike,275.86,2,,,55 mph,,,,,,,53054648,MD 194
+103007345,103008314,0,False,residential,Legore Road,1043.484,,,,,,,,,,,11558469,
+103007345,102862543,0,False,primary,Woodsboro Pike,139.46,2,,,55 mph,,,,,,,53054648,MD 194
+103007345,103007338,0,False,primary,Woodsboro Pike,275.86,2,,,55 mph,,,,,,,53054648,MD 194
+103007346,102862543,0,False,primary,Woodsboro Pike,262.002,2,,,55 mph,,,,,,,53054648,MD 194
+103007346,103007356,0,False,primary,Woodsboro Pike,522.304,2,,,55 mph,,,,,,,53054648,MD 194
+103007356,103007363,0,False,primary,Woodsboro Pike,773.151,2,,,55 mph,,,,,,,53054648,MD 194
+103007356,103007346,0,False,primary,Woodsboro Pike,522.304,2,,,55 mph,,,,,,,53054648,MD 194
+103007363,103024330,0,False,residential,Oak Hill Road,1287.204,,,,,,,,,,,11554515,
+103007363,103007368,0,False,primary,Woodsboro Pike,648.484,2,,,55 mph,,,,,,,53054648,MD 194
+103007363,103007356,0,False,primary,Woodsboro Pike,773.151,2,,,55 mph,,,,,,,53054648,MD 194
+103007368,103007380,0,False,primary,Woodsboro Pike,648.411,2,,,55 mph,,,,,,,53054648,MD 194
+103007368,103007363,0,False,primary,Woodsboro Pike,648.484,2,,,55 mph,,,,,,,53054648,MD 194
+103007380,102909933,0,False,residential,Legore Bridge Road,35.981,,,,,,,,,,,11555488,
+103007380,102909937,0,False,primary,Woodsboro Pike,123.575,2,,,55 mph,,,,,,,53054648,MD 194
+103007380,103007368,0,False,primary,Woodsboro Pike,648.411,2,,,55 mph,,,,,,,53054648,MD 194
+103007425,102847921,0,False,secondary,North Main Street,35.731,,,,,,,,,,,11556848,
+103007425,103006322,0,False,secondary,Woodsboro Pike,69.73,,,,,,,,,,,45041077,
+103007425,103044881,0,False,secondary,Creagerstown Road,270.498,,,,,,,,,,,11558963,
+103007462,103007291,0,False,primary,Woodsboro Pike,830.473,2,,,55 mph,,,,,,,53054648,MD 194
+103007491,4126470959,0,False,primary,Woodsboro Pike,39.313,2,,,50 mph,,,,,,,11552585,MD 194
+103007491,102860214,0,False,primary,Woodsboro Road,27.505,2,,,,,,,,,,45041085,MD 550
+103007491,4126470954,0,False,secondary,Liberty Road,22.365,,,,,,,,,,,410889601,
+103007491,103007493,0,False,primary,Woodsboro Pike,46.261,2,,,50 mph,,,,,,,114731277,MD 194;MD 550
+103007493,103006330,0,False,primary,Woodsboro Pike,555.038,2,,,50 mph,,,,,,,45041091,MD 194;MD 550
+103007493,103007491,0,False,primary,Woodsboro Pike,46.261,2,,,50 mph,,,,,,,114731277,MD 194;MD 550
+103007493,4126470954,0,True,secondary_link,,47.064,,,,,,,,,,,410889584,
+103008268,103008269,0,False,residential,Clyde Young Road,52.546,,,,,,,,,,,11552630,
+103008268,103029968,0,False,primary,Woodsboro Creagerstown Road,484.63,2,,,,,,,,,,11558965,MD 550
+103008269,103008268,0,False,residential,Clyde Young Road,52.546,,,,,,,,,,,11552630,
+103008269,103008293,0,False,residential,Clyde Young Road,2147.37,,,,,,,,,,,11552630,
+103008269,103008293,1,False,residential,Oak Hill Road,3367.747,,,,,,,,,,,11554515,
+103008293,103008295,0,False,residential,Clyde Young Road,478.294,,,,,,,,,,,11552630,
+103008293,103008269,0,False,residential,Clyde Young Road,2147.37,,,,,,,,,,,11552630,
+103008293,103008269,1,False,residential,Oak Hill Road,3367.747,,,,,,,,,,,11554515,
+103008293,103024330,0,False,residential,Oak Hill Road,595.644,,,,,,,,,,,11554515,
+103008295,103008314,0,False,residential,Clyde Young Road,1564.431,,,,,,,,,,,11552630,
+103008295,103008293,0,False,residential,Clyde Young Road,478.294,,,,,,,,,,,11552630,
+103008295,103024330,0,False,residential,Legore Bridge Road,406.388,,,,,,,,,,,11555487,
+103008295,103032846,0,False,residential,Legore Bridge Road,1483.622,,,,,,,,,,,11555487,
+103008314,103008295,0,False,residential,Clyde Young Road,1564.431,,,,,,,,,,,11552630,
+103008314,103007345,0,False,residential,Legore Road,1043.484,,,,,,,,,,,11558469,
+103008314,103060304,0,False,residential,Legore Road,382.037,,,,,,,,,,,11558469,
+103010369,103080268,0,False,primary,Woodsboro Road,755.315,2,,,,,,,,,,114731253,MD 550
+103010369,102897796,0,False,primary,Woodsboro Road,1600.456,2,,,,,,,,,,114731253,MD 550
+103010424,103010425,0,False,residential,Barricks Lane,86.235,,,,,,,,,,,11552733,
+103010424,103052984,0,False,secondary,South Main Street,64.683,,,,25 mph,,,,,,,69343468,
+103010424,102908235,0,False,secondary,South Main Street,42.033,,,,25 mph,,,,,,,69343468,
+103010425,103010424,0,False,residential,Barricks Lane,86.235,,,,,,,,,,,11552733,
+103010425,103001212,0,False,residential,South 2nd Street,192.216,,,,,,,,,,,11553428,
+103010425,103001213,0,False,residential,"['Barricks Lane', 'Wood Street']",311.789,,,,,,,,,,,"[11561701, 11552733]",
+103015010,102910035,0,False,residential,South Main Street,158.286,,,,,,,,,,,69343466,
+103016521,103016523,0,False,residential,South 2nd Street,111.36,,,,,,,,,,,11553428,
+103016521,103024861,0,False,residential,East Elizabeth Street,89.079,,,,,,,,,,,11554570,
+103016521,102872013,0,False,residential,East Elizabeth Street,89.247,,,,,,,,,,,11554570,
+103016521,102880771,0,False,residential,North 2nd Street,112.311,,,,,,,,,,,11558180,
+103016523,103016521,0,False,residential,South 2nd Street,111.36,,,,,,,,,,,11553428,
+103016523,103088848,0,False,residential,Church Alley,90.975,,,,,,,,,,,284731608,
+103016523,103016525,0,False,residential,South 2nd Street,98.795,,,,,,,,,,,11553428,
+103016523,102872013,0,False,residential,"['3rd Street', 'School Alley']",198.788,,,,,,,,,,,"[284731616, 11538625]",
+103016525,103004844,0,False,residential,South 2nd Street,117.025,,,,,,,,,,,11553428,
+103016525,103080234,0,False,secondary,Liberty Road,89.811,,,,,,,,,,,11560825,
+103016525,103016523,0,False,residential,South 2nd Street,98.795,,,,,,,,,,,11553428,
+103016525,4126470954,0,False,secondary,Liberty Road,184.998,,,,,,,,,,,"[11560825, 510493740]",
+103017657,103000792,0,False,residential,Dunsife Alley,89.644,,,,,,,,,,,11553610,
+103017657,103004842,0,False,secondary,South Main Street,108.656,,,,25 mph,,,,,,,69343468,
+103017657,103080234,0,False,secondary,South Main Street,17.346,,,,25 mph,,,,,,,69343468,
+103020177,103029955,0,False,tertiary,Dublin Road,1884.5,2,,,,,,,,,,11555077,
+103020177,103046328,0,False,tertiary,Gravel Hill Road,910.682,,,,,,,,,,,11559264,
+103020177,102995704,0,False,tertiary,Dublin Road,1027.138,2,,,,,,,,,,447605952,
+103023993,103032035,0,False,residential,Glade Road,2442.466,2,,,,,,,,,,11555346,
+103023993,103024016,0,False,residential,Devilbiss Bridge Road,1500.183,,,,,,,,,,,281470939,
+103024016,103023993,0,False,residential,Devilbiss Bridge Road,1500.183,,,,,,,,,,,281470939,
+103024016,103024022,0,False,residential,Devilbiss Bridge Road,232.166,,,,,,,,,,,447605949,
+103024016,102995704,0,False,tertiary,Dublin Road,2775.016,2,,,,,,,,,,"[447605952, 447605951]",
+103024022,103083847,0,False,residential,Foxhound Court,215.746,,,,,,,,,,,11561277,
+103024022,103024016,0,False,residential,Devilbiss Bridge Road,232.166,,,,,,,,,,,447605949,
+103024330,103007363,0,False,residential,Oak Hill Road,1287.204,,,,,,,,,,,11554515,
+103024330,103008293,0,False,residential,Oak Hill Road,595.644,,,,,,,,,,,11554515,
+103024330,102919523,0,False,residential,Legore Bridge Road,1139.875,,,,,,,,,,,11555487,
+103024330,103008295,0,False,residential,Legore Bridge Road,406.388,,,,,,,,,,,11555487,
+103024861,103016521,0,False,residential,East Elizabeth Street,89.079,,,,,,,,,,,11554570,
+103024861,103044161,0,False,secondary,North Main Street,111.651,,,,,,,,,,,11556848,
+103024861,103088848,0,False,secondary,South Main Street,111.177,,,,25 mph,,,,,,,11561800,
+103024861,103043243,0,False,tertiary,West Elizabeth Street,89.73,,,,,,,,,,,11559345,
+103029955,103029968,0,False,tertiary,Dublin Road,641.542,2,,,,,,,,,,11555077,
+103029955,103020177,0,False,tertiary,Dublin Road,1884.5,2,,,,,,,,,,11555077,
+103029955,103085601,0,False,residential,Geisbert Road,1614.666,,,,,,,,,,,"[11561466, 11561467]",
+103029968,103029955,0,False,tertiary,Dublin Road,641.542,2,,,,,,,,,,11555077,
+103029968,103008268,0,False,primary,Woodsboro Creagerstown Road,484.63,2,,,,,,,,,,11558965,MD 550
+103029968,102908171,0,False,primary,Woodsboro Creagerstown Road,442.643,2,,,,,,,,,,11558965,MD 550
+103029968,4211064780,0,False,residential,Steiner Smith Road,1454.832,,,,,,,,,,,11561934,
+103029975,102998072,0,False,tertiary,Detour Road,1561.294,,,,,,,,,,,11555082,
+103029975,102998036,0,False,secondary,Rocky Ridge Road,1768.047,,,,,,,,,,,53050748,MD 77
+103032035,103023993,0,False,residential,Glade Road,2442.466,2,,,,,,,,,,11555346,
+103032035,103007259,0,False,residential,Glade Road,2283.349,2,,,,,,yes,,,,"[405402913, 11555346, 405402914]",
+103032035,102995704,0,False,residential,Links Road,1575.15,,,,,,,,,,,11561395,
+103032081,103032083,0,False,residential,Copper Oaks Drive,45.606,,,,,,,,,,,284731609,
+103032081,2884436819,0,True,residential,Copper Oaks Drive,64.238,,,,,,,,,,,284731613,
+103032083,103041657,0,False,residential,Autumn Sky Terrace,91.309,,,,,,,,,,,11556552,
+103032083,103032081,0,False,residential,Copper Oaks Drive,45.606,,,,,,,,,,,284731609,
+103032083,102979204,0,False,residential,Copper Oaks Drive,270.061,,,,,,,,,,,284731609,
+103032108,102852817,0,False,residential,Scarlet Oak Court,272.892,,,,,,,,,,,11556963,
+103032108,103082896,0,False,residential,Russet Leaf Terrace,268.591,,,,,,,,,,,11561150,
+103032108,102979204,0,False,residential,Copper Oaks Drive,450.639,,,,,,,,,,,284731609,
+103032846,103008295,0,False,residential,Legore Bridge Road,1483.622,,,,,,,,,,,11555487,
+103032846,103060304,0,False,residential,Legore Road,929.801,,,,,,,,,,,11558469,
+103041657,103032083,0,False,residential,Autumn Sky Terrace,91.309,,,,,,,,,,,11556552,
+103043241,103043243,0,False,residential,Adams Street,107.336,,,,,,,,,,,11556756,
+103043241,103000792,0,False,residential,Adams Street,107.817,,,,,,,,,,,11556756,
+103043241,103088848,0,False,residential,Church Alley,87.757,,,,,,,,,,,284731608,
+103043241,102871923,0,False,residential,Hildebrand Lane,1836.257,,,,,,,,,,,11538606,
+103043243,103043241,0,False,residential,Adams Street,107.336,,,,,,,,,,,11556756,
+103043243,102857006,0,False,tertiary,West Elizabeth Street,226.558,,,,,,,,,,,11559345,
+103043243,103024861,0,False,tertiary,West Elizabeth Street,89.73,,,,,,,,,,,11559345,
+103043243,103043247,0,False,residential,North Adams Street,115.465,,,,,,,,,,,284745858,
+103043247,103044161,0,False,residential,West Dorcus Alley,88.543,,,,,,,,,,,284745860,
+103043247,102857006,0,False,residential,North Adams Street,115.659,,,,,,,,,,,284745858,
+103043247,103043243,0,False,residential,North Adams Street,115.465,,,,,,,,,,,284745858,
+103044161,102847921,0,False,secondary,North Main Street,107.647,,,,,,,,,,,11556848,
+103044161,103024861,0,False,secondary,North Main Street,111.651,,,,,,,,,,,11556848,
+103044161,102880771,0,False,residential,East Dorcus Alley,89.33,,,,,,,,,,,284745857,
+103044161,103043247,0,False,residential,West Dorcus Alley,88.543,,,,,,,,,,,284745860,
+103044881,103044884,0,False,residential,James Street,125.373,,,,,,,,,,,11556926,
+103044881,102965858,0,False,secondary,Creagerstown Road,22.211,,,,,,,,,,,11558963,
+103044881,103007425,0,False,secondary,Creagerstown Road,270.498,,,,,,,,,,,11558963,
+103044884,103044881,0,False,residential,James Street,125.373,,,,,,,,,,,11556926,
+103044889,102857007,0,False,residential,James Street,190.616,,,,,,,,,,,11556927,
+103045638,4211064780,0,False,residential,Barrick Road,133.671,,,,,,,,,,,11557005,
+103046328,103062806,0,False,tertiary,Gravel Hill Road,1957.554,,,,,,,,,,,11559264,
+103046328,103020177,0,False,tertiary,Gravel Hill Road,910.682,,,,,,,,,,,11559264,
+103046328,103071605,0,False,residential,Woodland Drive,72.872,,,,,,,,,,,11559720,
+103052984,102995554,0,False,residential,West Adams Alley,86.92,,,,,,,,,,,11557667,
+103052984,103010424,0,False,secondary,South Main Street,64.683,,,,25 mph,,,,,,,69343468,
+103052984,103088852,0,False,secondary,South Main Street,77.251,,,,25 mph,,,,,,,69343468,
+103054351,102908235,0,False,residential,Smith Alley,84.84,,,,,,,,,,,11542011,
+103054351,102995554,0,False,residential,Adams Street,104.017,,,,,,,,,,,11559281,
+103054351,103057253,0,False,residential,Adams Street,101.876,,,,,,,,,,,11559281,
+103057253,2001723383,0,False,residential,Shriners Alley,85.872,,,,,,,,,,,11539799,
+103057253,103004840,0,False,residential,Adams Street,106.858,,,,,,,,,,,11559281,
+103057253,103054351,0,False,residential,Adams Street,101.876,,,,,,,,,,,11559281,
+103060304,103008314,0,False,residential,Legore Road,382.037,,,,,,,,,,,11558469,
+103060304,103032846,0,False,residential,Legore Road,929.801,,,,,,,,,,,11558469,
+103060304,102998058,0,False,residential,Hiney Road,2753.291,,,,,,,,,,,11558973,
+103062806,102965858,0,False,residential,Mill Road,389.248,,,,,,,,,,,11547793,
+103062806,102857007,0,False,tertiary,Gravel Hill Road,75.874,,,,,,,,,,,11559264,
+103062806,103046328,0,False,tertiary,Gravel Hill Road,1957.554,,,,,,,,,,,11559264,
+103071605,1652061858,0,False,residential,Evelyn Drive,270.676,,,,,,,,,,,152385717,
+103071605,103071609,0,False,residential,Woodland Drive,540.682,,,,,,,,,,,11559720,
+103071605,103046328,0,False,residential,Woodland Drive,72.872,,,,,,,,,,,11559720,
+103071609,103071605,0,False,residential,Woodland Drive,540.682,,,,,,,,,,,11559720,
+103080212,102918307,0,False,primary,Woodsboro Road,609.632,2,,,,,,,,,,114731253,MD 550
+103080234,103016525,0,False,secondary,Liberty Road,89.811,,,,,,,,,,,11560825,
+103080234,103088848,0,False,secondary,South Main Street,90.423,,,,25 mph,,,,,,,11561800,
+103080234,103017657,0,False,secondary,South Main Street,17.346,,,,25 mph,,,,,,,69343468,
+103080268,102877277,0,False,residential,Hoffman-Seachrist Road,3234.45,,,,,,,,,,,11561680,
+103080268,102860382,0,False,primary,Woodsboro Road,1168.592,2,,,,,,yes,,,,"[445205028, 114731253, 445205022]",MD 550
+103080268,103010369,0,False,primary,Woodsboro Road,755.315,2,,,,,,,,,,114731253,MD 550
+103080802,4126471087,0,False,residential,Copper Oaks Court,342.455,,,,,,,,,,,410889597,
+103082896,103032108,0,False,residential,Russet Leaf Terrace,268.591,,,,,,,,,,,11561150,
+103083847,103024022,0,False,residential,Foxhound Court,215.746,,,,,,,,,,,11561277,
+103085601,103029955,0,False,residential,Geisbert Road,1614.666,,,,,,,,,,,"[11561466, 11561467]",
+103087820,103001213,0,False,residential,Wood Street,59.324,,,,,,,,,,,11561701,
+103088848,103080234,0,False,secondary,South Main Street,90.423,,,,25 mph,,,,,,,11561800,
+103088848,103024861,0,False,secondary,South Main Street,111.177,,,,25 mph,,,,,,,11561800,
+103088848,103043241,0,False,residential,Church Alley,87.757,,,,,,,,,,,284731608,
+103088848,103016523,0,False,residential,Church Alley,90.975,,,,,,,,,,,284731608,
+103088852,103088853,0,False,secondary,South Main Street,85.931,,,,25 mph,,,,,,,69343468,
+103088852,2032752879,0,False,residential,Woodbury Drive,120.029,,,,,,,,,,,192741108,
+103088852,103052984,0,False,secondary,South Main Street,77.251,,,,25 mph,,,,,,,69343468,
+103088853,103088852,0,False,secondary,South Main Street,85.931,,,,25 mph,,,,,,,69343468,
+103088853,102871923,0,False,secondary,South Main Street,178.764,,,,25 mph,,,,,,,69343468,
+103088853,2032752879,0,False,residential,Cornell Drive,201.437,,,,,,,,,,,192741103,
+1652061858,103071605,0,False,residential,Evelyn Drive,270.676,,,,,,,,,,,152385717,
+2001723383,103057253,0,False,residential,Shriners Alley,85.872,,,,,,,,,,,11539799,
+2001723383,103004842,0,False,secondary,South Main Street,104.475,,,,25 mph,,,,,,,69343468,
+2001723383,102908235,0,False,secondary,South Main Street,105.066,,,,25 mph,,,,,,,69343468,
+2032752879,103088852,0,False,residential,Woodbury Drive,120.029,,,,,,,,,,,192741108,
+2032752879,2032752886,0,False,residential,Cornell Drive,143.728,,,,,,,,,,,192741103,
+2032752879,103088853,0,False,residential,Cornell Drive,201.437,,,,,,,,,,,192741103,
+2032752886,2032752879,0,False,residential,Cornell Drive,143.728,,,,,,,,,,,192741103,
+2876687868,102995704,0,False,residential,Old Links Bridge Road,401.01,,,,,,,,,,,11551659,
+2884126088,102961048,0,False,residential,Bell Court,34.282,,,,,,,,,,,11560607,
+2884126088,102995554,0,False,residential,Bell Court,37.782,,,,,,,,,,,11560607,
+2884126088,102995558,0,False,residential,Weinberg Court,190.542,,,,,,,,,,,284694866,
+2884436819,103006342,0,False,tertiary,Coppermine Road,150.434,,,,,,,,,,,11552534,
+2884436819,103006334,0,False,tertiary,Coppermine Road,497.393,,,,,,,,,,,11552534,
+2884436819,2884436822,0,False,residential,Angus Way,212.471,,,,,,,,,,,284731607,
+2884436819,103032081,0,True,residential,Copper Oaks Drive,62.567,,,,,,,,,,,284731612,
+2884436822,2884436819,0,False,residential,Angus Way,212.471,,,,,,,,,,,284731607,
+2884533552,102847921,0,False,residential,Arnold Alley,68.838,,,,,,,,,,,284745855,
+4126470954,103007491,0,False,secondary,Liberty Road,22.365,,,,,,,,,,,410889601,
+4126470954,4126470959,0,True,secondary_link,,51.266,,,,,,,,,,,410889585,
+4126470954,103016525,0,False,secondary,Liberty Road,184.998,,,,,,,,,,,"[11560825, 510493740]",
+4126470959,103007491,0,False,primary,Woodsboro Pike,39.313,2,,,50 mph,,,,,,,11552585,MD 194
+4126470959,102860214,0,True,primary_link,,43.106,,,,,,,,,,,410889587,
+4126470959,102982091,0,False,primary,Woodsboro Pike,1187.341,2,,,50 mph,,,,,,,"[510493739, 410889580, 410889599]",MD 194
+4126471087,103080802,0,False,residential,Copper Oaks Court,342.455,,,,,,,,,,,410889597,
+4126471087,103006334,0,True,residential,Copper Oaks Court,59.424,,,,,,,,,,,410889598,
+4126471090,103006334,0,False,tertiary,Coppermine Road,10.397,,,,,,,,,,,11552534,
+4126471090,103006330,0,False,tertiary,Coppermine Road,127.168,,,,,,,,,,,11552534,
+4126471090,4126471087,0,True,residential,Copper Oaks Court,60.793,,,,,,,,,,,11560876,
+4211064780,103045638,0,False,residential,Barrick Road,133.671,,,,,,,,,,,11557005,
+4211064780,102919523,0,False,residential,Steiner Smith Road,539.006,,,,,,,,,,,11561934,
+4211064780,103029968,0,False,residential,Steiner Smith Road,1454.832,,,,,,,,,,,11561934,

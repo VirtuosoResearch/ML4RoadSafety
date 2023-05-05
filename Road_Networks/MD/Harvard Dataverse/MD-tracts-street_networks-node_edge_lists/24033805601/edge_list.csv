@@ -1,0 +1,67 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+50324365,50494065,0,False,residential,Kanawha Street,221.696,,,,,,,,,,,6110466,
+50324365,50494047,0,False,residential,Kanawha Street,15.278,,,,,,,,,,,6110466,
+50339847,50339848,0,True,residential,,104.535,,,,,,,,,,,6097999,
+50339847,50695083,0,False,residential,Edwards Place,13.444,,,,,,,,,,,583954891,
+50339847,1239314709,0,False,residential,Edwards Place,272.84,,,,,,,,,,,6127025,
+50339848,50727403,0,False,residential,14th Avenue,11.295,,,,,,,,,,,6133797,
+50339848,50494047,0,False,residential,14th Avenue,220.098,,,,,,,,,,,6133797,
+50373645,50700523,0,False,residential,Lebanon Street,12.012,,,,,,,,,,,6141638,
+50373645,911545632,0,True,primary,New Hampshire Avenue,164.068,3,,,,,,,,,,115240263,MD 650
+50494047,50324365,0,False,residential,Kanawha Street,15.278,,,,,,,,,,,6110466,
+50494047,50339848,0,False,residential,14th Avenue,220.098,,,,,,,,,,,6133797,
+50494047,4297009981,0,True,residential,14th Avenue,162.168,1,,,,,,,,,,6133800,
+50494065,2433166943,0,False,residential,Kanawha Street,190.192,,,,,,,,,,,6110466,
+50494065,50324365,0,False,residential,Kanawha Street,221.696,,,,,,,,,,,6110466,
+50494065,1414144793,0,False,residential,15th Avenue,159.423,2,,,,,,,,,,6112620,
+50525634,50525700,0,False,residential,15th Avenue,297.075,,,,,,,,,,,6112618,
+50525634,50531729,0,False,residential,Merrimac Drive,62.702,,,,,,,,,,,292817208,
+50525700,50525634,0,False,residential,15th Avenue,297.075,,,,,,,,,,,6112618,
+50525700,50751064,0,False,residential,Quebec Street,193.061,,,,,,,,,,,6142918,
+50531695,50622435,0,False,residential,Tahona Drive,178.851,,,,,,,,,,,6118817,
+50531708,911545631,0,True,primary,New Hampshire Avenue,11.339,3,,,,,,,,,,499384527,MD 650
+50531710,50531708,0,True,residential,Merrimac Drive,13.267,,,,,,,,,,,583956061,
+50531721,50751064,0,False,residential,14th Avenue,394.662,,,,,,,,,,,583956060,
+50531721,50531710,0,True,residential,Merrimac Drive,196.895,,,,,,,,,,,583956061,
+50531729,50531721,0,True,residential,Merrimac Drive,119.687,,,,,,,,,,,77448581,
+50531729,50525634,0,False,residential,Merrimac Drive,62.702,,,,,,,,,,,292817208,
+50622435,50531695,0,False,residential,Tahona Drive,178.851,,,,,,,,,,,6118817,
+50622435,50700523,0,False,residential,Lebanon Street,122.434,,,,,,,,,,,6141638,
+50622435,667222070,0,False,residential,Lebanon Street,118.653,,,,,,,,,,,6141638,
+50654671,50654677,0,False,residential,Jasmine Terrace,83.038,,,,,,,,,,,6122492,
+50654677,50654671,0,False,residential,Jasmine Terrace,83.038,,,,,,,,,,,6122492,
+50695083,50339847,0,False,residential,Edwards Place,13.444,,,,,,,,,,,583954891,
+50695083,2708009875,0,False,residential,Edwards Place,246.074,,,,,,,,,,,583954892,
+50700523,50373645,0,False,residential,Lebanon Street,12.012,,,,,,,,,,,6141638,
+50700523,50622435,0,False,residential,Lebanon Street,122.434,,,,,,,,,,,6141638,
+50700523,1156555720,0,True,primary,New Hampshire Avenue,232.031,"['4', '3']",,,35 mph,,,,,,,"[468892299, 468892300, 468892301, 499384527]",MD 650
+50700527,50531708,0,True,primary,New Hampshire Avenue,402.037,3,,,,,,,,,,499384527,MD 650
+50727403,50695083,0,True,residential,Langley Way,105.136,,,,,,,,,,,6130816,
+50727403,50339848,0,False,residential,14th Avenue,11.295,,,,,,,,,,,6133797,
+50751064,50751080,0,False,residential,Quebec Street,77.37,,,,,,,,,,,6142918,
+50751064,50525700,0,False,residential,Quebec Street,193.061,,,,,,,,,,,6142918,
+50751064,50531721,0,False,residential,14th Avenue,394.662,,,,,,,,,,,583956060,
+50751080,50751064,0,False,residential,Quebec Street,77.37,,,,,,,,,,,6142918,
+648482711,1156555514,0,True,primary,University Boulevard East,45.369,3,,,35 mph,,,,,,,430419930,MD 193
+648482716,1156555627,0,True,primary,New Hampshire Avenue,63.253,3,,,,,,,,,,115240263,MD 650
+648482716,648482711,0,True,primary,University Boulevard East,17.537,3,,,35 mph,,,,,,,430419930,MD 193
+667222070,50622435,0,False,residential,Lebanon Street,118.653,,,,,,,,,,,6141638,
+911545630,911545631,0,True,residential,Merrimac Drive,100.761,,,,,,,,,,,77448586,
+911545631,911545632,0,True,residential,Merrimac Drive,12.889,,,,,,,,,,,77448586,
+911545631,50700523,0,True,primary,New Hampshire Avenue,165.308,3,,,,,,,,,,499384527,MD 650
+911545632,50531710,0,True,primary,New Hampshire Avenue,12.056,3,,,,,,,,,,115240263,MD 650
+1156555514,667222070,0,True,primary,University Boulevard East,261.104,3,,,35 mph,,,,,,,430419930,MD 193
+1156555627,50373645,0,True,primary,New Hampshire Avenue,225.715,3,,,,,,,,,,115240263,MD 650
+1156555688,1156555627,0,True,primary_link,,107.826,,,,,,,,,,,100044965,
+1156555688,648482716,0,True,primary,University Boulevard East,52.754,3,,,35 mph,,,,,,,430419930,MD 193
+1156555720,648482711,0,True,primary,New Hampshire Avenue,47.708,4,,,35 mph,,,,,,,468892300,MD 650
+1156555720,1156555514,0,True,primary_link,,41.416,,,,,,,,,,,100044976,
+1239314709,50339847,0,False,residential,Edwards Place,272.84,,,,,,,,,,,6127025,
+1239314709,1156555688,0,True,primary,University Boulevard East,139.359,3,,,35 mph,,,,,,,"[430419930, 455027669]",MD 193
+1414144793,50494065,0,False,residential,15th Avenue,159.423,2,,,,,,,,,,6112620,
+1414144793,1502342841,0,True,residential,,139.194,1,,,,,,,,,,136941305,
+1414144793,1502342841,1,True,residential,15th Avenue,132.715,1,,,,,,,,,,338611535,
+2433166943,50494065,0,False,residential,Kanawha Street,190.192,,,,,,,,,,,6110466,
+2708009875,50695083,0,False,residential,Edwards Place,246.074,,,,,,,,,,,583954892,
+4297009981,50324365,0,True,residential,,158.887,1,,,,,,,,,,6096725,
+4297009981,1239314709,0,True,primary,University Boulevard East,112.052,3,,,35 mph,,,,,,,455027669,MD 193

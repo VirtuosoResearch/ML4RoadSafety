@@ -1,0 +1,41 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+212543729,212559737,0,False,residential,Smith Park,234.037,,,,,,,,,,,20111137,
+212559737,212559756,0,False,residential,Mechanic Street,204.748,,,,,,,,,,,20107667,
+212559737,212543729,0,False,residential,Smith Park,234.037,,,,,,,,,,,20111137,
+212559737,212636449,0,False,residential,Railroad Street,254.845,,,,,,,,,,,20112469,
+212559756,212673325,0,False,residential,Dewey Street,147.438,,,,,,,,,,,20114885,
+212559756,212559789,0,False,residential,Mechanic Street,308.253,,,,,,,,,,,20107667,
+212559756,212559737,0,False,residential,Mechanic Street,204.748,,,,,,,,,,,20107667,
+212559789,212566671,0,False,secondary,Utica Street,69.429,2,,,,,,,,,,338791303,NY 13
+212559789,212559756,0,False,residential,Mechanic Street,308.253,,,,,,,,,,,20107667,
+212566671,212559789,0,False,secondary,Utica Street,69.429,2,,,,,,,,,,338791303,NY 13
+212566671,212683530,0,False,secondary,Utica Street,88.553,2,,,,,,yes,,,,"[20115682, 338791302, 338791303]",NY 13
+212594784,212661006,0,False,secondary,Utica Street,163.978,2,,,,,,,,,,20115682,NY 13
+212594784,212670530,0,False,secondary,Cortland Street,93.2,2,,,30 mph,,,,,,,424669608,NY 13
+212619773,212636449,0,False,residential,Railroad Street,239.18,,,,,,,,,,,20112469,
+212619773,212670530,0,False,secondary,Cortland Street,426.57,2,,,35 mph,,,,,,,20114639,NY 13
+212636449,212559737,0,False,residential,Railroad Street,254.845,,,,,,,,,,,20112469,
+212636449,212619773,0,False,residential,Railroad Street,239.18,,,,,,,,,,,20112469,
+212636449,212660995,0,False,residential,Seminary Street,203.629,,,,,,,,,,,20113926,
+212660995,212660998,0,False,residential,Seminary Street,189.25,,,,,,,,,,,20113926,
+212660995,212673325,0,False,residential,Dewey Street,104.646,,,,,,,,,,,20114885,
+212660995,212636449,0,False,residential,Seminary Street,203.629,,,,,,,,,,,20113926,
+212660998,212660995,0,False,residential,Seminary Street,189.25,,,,,,,,,,,20113926,
+212660998,212670530,0,False,residential,Division Street,178.444,,,,,,,,,,,20114789,
+212660998,212661006,0,False,residential,Seminary Street,117.22,,,,,,,,,,,20113926,
+212660998,212672234,0,False,residential,Division Street,67.767,,,,,,,,,,,20114789,
+212661006,212683530,0,False,secondary,Utica Street,64.695,2,,,,,,,,,,20115682,NY 13
+212661006,212594784,0,False,secondary,Utica Street,163.978,2,,,,,,,,,,20115682,NY 13
+212661006,212660998,0,False,residential,Seminary Street,117.22,,,,,,,,,,,20113926,
+212670530,212660998,0,False,residential,Division Street,178.444,,,,,,,,,,,20114789,
+212670530,212594784,0,False,secondary,Cortland Street,93.2,2,,,30 mph,,,,,,,424669608,NY 13
+212670530,212619773,0,False,secondary,Cortland Street,426.57,2,,,35 mph,,,,,,,20114639,NY 13
+212672234,212660998,0,False,residential,Division Street,67.767,,,,,,,,,,,20114789,
+212672234,212683530,0,False,residential,Water Street,126.122,,,,,,,,,,,20116070,
+212672234,212673325,0,False,residential,Water Street,194.546,,,,,,,,,,,20116077,
+212673325,212559756,0,False,residential,Dewey Street,147.438,,,,,,,,,,,20114885,
+212673325,212660995,0,False,residential,Dewey Street,104.646,,,,,,,,,,,20114885,
+212673325,212672234,0,False,residential,Water Street,194.546,,,,,,,,,,,20116077,
+212683530,212661006,0,False,secondary,Utica Street,64.695,2,,,,,,,,,,20115682,NY 13
+212683530,212566671,0,False,secondary,Utica Street,88.553,2,,,,,,yes,,,,"[20115682, 338791302, 338791303]",NY 13
+212683530,212672234,0,False,residential,Water Street,126.122,,,,,,,,,,,20116070,

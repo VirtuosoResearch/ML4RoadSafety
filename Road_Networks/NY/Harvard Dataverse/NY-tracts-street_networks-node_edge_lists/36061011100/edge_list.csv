@@ -1,0 +1,28 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+42434427,42437663,0,False,primary,West 34th Street,124.417,6,,,25 mph,yes,,,,,,36806903,
+42434427,1533280147,0,False,primary,Dyer Avenue,84.551,4,,,25 mph,,,,,,,139919706,
+42434429,1533280147,0,True,primary,Dyer Avenue,77.839,3,,,,,,,,,,46492639,
+42434429,427842070,0,True,secondary,West 36th Street,25.118,,,,,,,,,,,542256188,
+42434429,427841053,0,True,motorway_link,,182.076,,,,,,,,,,,36806892,
+42435650,42433620,0,True,secondary,8th Avenue,78.122,3,,,25 mph,,,,,,,194926854,
+42435650,4491359481,0,True,secondary,West 37th Street,274.005,,,,,,,,,,,"[511755381, 542256453]",
+42437663,42434427,0,False,primary,West 34th Street,124.417,6,,,25 mph,yes,,,,,,36806903,
+42444960,4954493920,0,True,unclassified,West 35th Street,92.406,,,,,,,,,,,542255948,
+42444960,42437663,0,True,primary,9th Avenue,84.006,"['4', '5']",,,25 mph,,,,,,,"[420901921, 420901922]",
+42444964,42444960,0,True,primary,9th Avenue,78.145,4,,,,,,,,,,"[420901920, 420901917]",
+427840984,3480679963,0,True,motorway,Lincoln Tunnel Expressway,271.096,2,,,,,,,yes,,,"[589494600, 207542284, 36806670]",NY 495
+427841034,427842140,0,True,motorway_link,,109.867,,,,,,,,,,,36806677,
+427841034,427841050,0,True,motorway,Lincoln Tunnel Expressway,272.84,2,,,,,,,yes,,,"[36806673, 465256869, 36806671]",NY 495
+427841050,427841053,0,True,motorway,West 30th Street,37.442,2,,,,,,,,,,465256868,NY 495
+427842069,3480679963,0,True,motorway_link,,83.411,,,,,,,,,,,36806661,
+427842070,427842069,0,True,motorway_link,,40.214,,,,,,,,,,,36806661,
+427842070,42444964,0,True,secondary,West 36th Street,98.377,,,,,,,,,,,542256188,
+427842140,42434429,0,True,motorway_link,,25.381,,,,,,,,,,,46492010,
+1533280147,42434427,0,False,primary,Dyer Avenue,84.551,4,,,25 mph,,,,,,,139919706,
+1533280147,4954493915,0,True,motorway_link,,39.316,1,,,,,,,,,,139919714,
+4491359481,4785165288,0,True,primary,9th Avenue,10.328,6,,,,,,,,,,420901918,
+4785165288,42444964,0,True,primary,9th Avenue,66.465,4,,,,,,,,,,420901919,
+4785165288,427842069,0,True,motorway_link,,129.247,,,,,,,,,,,485746107,
+4954493915,427842070,0,True,motorway_link,,45.151,1,,,,,,,,,,139919714,
+4954493920,1533280147,0,True,unclassified,West 35th Street,33.542,,,,,,,,,,,542255948,
+4954493920,4954493915,0,True,motorway_link,,42.299,1,,,,,,,,,,505537786,

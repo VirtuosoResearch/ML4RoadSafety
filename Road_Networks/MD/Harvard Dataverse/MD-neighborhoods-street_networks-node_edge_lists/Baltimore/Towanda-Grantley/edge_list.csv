@@ -1,0 +1,66 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+49381907,49547812,0,False,residential,Boarman Avenue,218.425,,,,,,,,,,,6017279,
+49381907,49547811,0,False,"['unclassified', 'residential']","['East Wabash Avenue', 'Grantley Avenue']",255.409,,,,,,,,,,,"[5992154, 6018751]",
+49381907,49381916,0,False,unclassified,East Wabash Avenue,117.082,,,,,,,,,,,5992154,
+49381916,49554744,0,False,primary,West Cold Spring Lane,32.342,3,,,25 mph,,,,,,,425003416,
+49381916,49381907,0,False,unclassified,East Wabash Avenue,117.082,,,,,,,,,,,5992154,
+49461155,49473490,0,False,primary,Reisterstown Road,65.086,4,,,30 mph,,,,,,,451498897,MD 140
+49461155,49473486,0,False,primary,Reisterstown Road,122.236,4,,,30 mph,,,,,,,451498897,MD 140
+49468425,49468426,0,False,residential,Shirley Avenue,72.329,,,,,,,,,,,94669649,
+49468425,49473478,0,False,primary,Reisterstown Road,149.58,4,,,30 mph,,,,,,,451498897,MD 140
+49468426,49468425,0,False,residential,Shirley Avenue,72.329,,,,,,,,,,,94669649,
+49473478,49473480,0,False,primary,Reisterstown Road,21.585,4,,,30 mph,,,,,,,451498897,MD 140
+49473478,49468425,0,False,primary,Reisterstown Road,149.58,4,,,30 mph,,,,,,,451498897,MD 140
+49473478,49526353,0,True,residential,Oswego Avenue,104.949,,,,,,,,,,,6011565,
+49473480,49473482,0,False,primary,Reisterstown Road,48.795,4,,,30 mph,,,,,,,451498897,MD 140
+49473480,49473478,0,False,primary,Reisterstown Road,21.585,4,,,30 mph,,,,,,,451498897,MD 140
+49473482,49473486,0,False,primary,Reisterstown Road,72.363,4,,,30 mph,,,,,,,451498897,MD 140
+49473482,49473480,0,False,primary,Reisterstown Road,48.795,4,,,30 mph,,,,,,,451498897,MD 140
+49473486,49461155,0,False,primary,Reisterstown Road,122.236,4,,,30 mph,,,,,,,451498897,MD 140
+49473486,49473482,0,False,primary,Reisterstown Road,72.363,4,,,30 mph,,,,,,,451498897,MD 140
+49473486,49483002,0,True,residential,Quantico Avenue,104.789,2,,,25 mph,,,,,,,581514455,
+49473490,49550056,0,False,residential,Grantley Avenue,105.882,,,,,,,,,,,6018751,
+49473490,49473492,0,False,primary,Reisterstown Road,64.689,4,,,30 mph,,,,,,,451498897,MD 140
+49473490,49461155,0,False,primary,Reisterstown Road,65.086,4,,,30 mph,,,,,,,451498897,MD 140
+49473492,49473494,0,False,primary,Reisterstown Road,6.027,4,,,30 mph,,,,,,,451498897,MD 140
+49473492,49473490,0,False,primary,Reisterstown Road,64.689,4,,,30 mph,,,,,,,451498897,MD 140
+49473494,49473495,0,False,primary,Reisterstown Road,105.193,4,,,30 mph,,,,,,,451498897,MD 140
+49473494,49473492,0,False,primary,Reisterstown Road,6.027,4,,,30 mph,,,,,,,451498897,MD 140
+49473494,49550062,0,False,residential,Boarman Avenue,106.07,,,,,,,,,,,6017279,
+49473495,49473494,0,False,primary,Reisterstown Road,105.193,4,,,30 mph,,,,,,,451498897,MD 140
+49473495,49473508,0,False,primary,Reisterstown Road,150.825,4,,,30 mph,,,,,,,"[544587274, 128117919]",MD 140
+49473495,49550065,0,False,primary,West Cold Spring Lane,104.573,4,,,25 mph,,,,,,,"[425003412, 10426301]",
+49473508,49473495,0,False,primary,Reisterstown Road,150.825,4,,,30 mph,,,,,,,"[544587274, 128117919]",MD 140
+49483002,49550056,0,False,residential,Towanda Avenue,195.353,,,,,,,,,,,94669648,
+49483002,49512642,0,False,residential,Towanda Avenue,71.429,,,,,,,,,,,94669648,
+49512642,49473482,0,True,residential,Santa Fe Avenue,104.77,,,,,,,,,,,6010035,
+49512642,49483002,0,False,residential,Towanda Avenue,71.429,,,,,,,,,,,94669648,
+49512642,49526353,0,False,residential,Towanda Avenue,70.676,,,,,,,,,,,94669648,
+49526353,49512642,0,False,residential,Towanda Avenue,70.676,,,,,,,,,,,94669648,
+49526353,1099078758,0,False,residential,Towanda Avenue,59.516,,,,,,,,,,,94669648,
+49534346,1516085047,0,False,residential,Dull Street,61.113,,,,,,,,,,,6012754,
+49534346,49541115,0,False,primary,West Cold Spring Lane,75.407,,,,25 mph,,,,,,,10426301,
+49534346,49550065,0,False,primary,West Cold Spring Lane,122.553,,,,25 mph,,,,,,,10426301,
+49541115,49534346,0,False,primary,West Cold Spring Lane,75.407,,,,25 mph,,,,,,,10426301,
+49541115,49541117,0,False,residential,Daytona Avenue,139.875,,,,,,,,,,,6013914,
+49541115,49554744,0,False,primary,West Cold Spring Lane,126.416,,,,25 mph,,,,,,,10426301,
+49541117,49541115,0,False,residential,Daytona Avenue,139.875,,,,,,,,,,,6013914,
+49547811,49550056,0,False,residential,Grantley Avenue,106.826,,,,,,,,,,,6018751,
+49547811,49547812,0,False,residential,Willowdale Avenue,70.879,,,,,,,,,,,6015035,
+49547811,49381907,0,False,"['residential', 'unclassified']","['East Wabash Avenue', 'Grantley Avenue']",255.409,,,,,,,,,,,"[5992154, 6018751]",
+49547812,49381907,0,False,residential,Boarman Avenue,218.425,,,,,,,,,,,6017279,
+49547812,49550062,0,False,residential,Boarman Avenue,102.125,,,,,,,,,,,6017279,
+49547812,49547811,0,False,residential,Willowdale Avenue,70.879,,,,,,,,,,,6015035,
+49550056,49547811,0,False,residential,Grantley Avenue,106.826,,,,,,,,,,,6018751,
+49550056,49473490,0,False,residential,Grantley Avenue,105.882,,,,,,,,,,,6018751,
+49550056,49550062,0,False,residential,Towanda Avenue,70.963,,,,,,,,,,,94669648,
+49550056,49483002,0,False,residential,Towanda Avenue,195.353,,,,,,,,,,,94669648,
+49550062,49547812,0,False,residential,Boarman Avenue,102.125,,,,,,,,,,,6017279,
+49550062,49473494,0,False,residential,Boarman Avenue,106.07,,,,,,,,,,,6017279,
+49550062,49550056,0,False,residential,Towanda Avenue,70.963,,,,,,,,,,,94669648,
+49550065,49534346,0,False,primary,West Cold Spring Lane,122.553,,,,25 mph,,,,,,,10426301,
+49550065,49473495,0,False,primary,West Cold Spring Lane,104.573,4,,,25 mph,,,,,,,"[425003412, 10426301]",
+49554744,49381916,0,False,primary,West Cold Spring Lane,32.342,3,,,25 mph,,,,,,,425003416,
+49554744,49541115,0,False,primary,West Cold Spring Lane,126.416,,,,25 mph,,,,,,,10426301,
+1099078758,49526353,0,False,residential,Towanda Avenue,59.516,,,,,,,,,,,94669648,
+1516085047,49534346,0,False,residential,Dull Street,61.113,,,,,,,,,,,6012754,

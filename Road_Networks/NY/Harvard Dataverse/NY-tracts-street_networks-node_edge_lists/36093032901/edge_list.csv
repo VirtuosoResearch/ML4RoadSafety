@@ -1,0 +1,354 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+41974399,41974470,0,False,residential,Shereen Court,196.69,,,,30 mph,,,,,,,5642034,
+41974432,41974435,0,False,residential,Shereen Court,21.8,,,,30 mph,,,,,,,5642034,
+41974435,41974432,0,False,residential,Shereen Court,21.8,,,,30 mph,,,,,,,5642034,
+41974435,42014758,0,False,residential,Central Avenue,119.495,,,,30 mph,,,,,,,5645383,
+41974435,41974460,0,False,residential,Shereen Court,268.102,,,,30 mph,,,,,,,5642034,
+41974460,42008630,0,False,residential,Sean Drive,67.993,,,,30 mph,,,,,,,5648516,
+41974460,41974470,0,False,residential,Shereen Court,64.309,,,,30 mph,,,,,,,5642034,
+41974460,41974435,0,False,residential,Shereen Court,268.102,,,,30 mph,,,,,,,5642034,
+41974470,41989806,0,False,residential,Long Avenue,154.147,,,,30 mph,,,,,,,5647839,
+41974470,41974399,0,False,residential,Shereen Court,196.69,,,,30 mph,,,,,,,5642034,
+41974470,41974460,0,False,residential,Shereen Court,64.309,,,,30 mph,,,,,,,5642034,
+41974537,41974541,0,False,residential,Louis Road,93.935,,,,30 mph,,,,,,,5642038,
+41974537,42015523,0,False,residential,"['Casella Road', 'Louis Road']",394.689,,,,30 mph,,,,,,,"[5645443, 5642038]",
+41974537,42009755,0,False,residential,Devendorf Road,150.26,,,,30 mph,,,,,,,5648916,
+41974541,41974546,0,False,residential,Louis Road,98.475,,,,30 mph,,,,,,,5642038,
+41974541,41974537,0,False,residential,Louis Road,93.935,,,,30 mph,,,,,,,5642038,
+41974541,42009755,0,False,residential,Dudley Road,200.693,,,,30 mph,,,,,,,5644971,
+41974546,41974541,0,False,residential,Louis Road,98.475,,,,30 mph,,,,,,,5642038,
+41978182,41986568,0,True,motorway,,658.216,"['2', '3']",,,55 mph,,,yes,,,,"[123684777, 42782938, 42782934, 5647862]",I 890;NY 7
+41978184,42051081,0,False,tertiary,Highbridge Road,115.09,,,,30 mph,,,,,,,44028992,CR 48
+41978184,41983318,0,False,tertiary,Highbridge Road,137.06,,,,30 mph,,,yes,,,,"[44028992, 37862637, 5648847]",CR 48
+41978184,41978182,0,True,motorway_link,,368.247,,,,,,,,,,,64609697,
+41978192,41978184,0,True,motorway_link,,332.151,,,,40 mph,,,,,,,5642315,
+41978192,41978182,0,True,motorway,,687.855,2,,,55 mph,,,,,,,5647862,I 890;NY 7
+41981647,442497940,0,True,motorway_link,,481.256,,,,25 mph,,,,,,,5642597,
+41981647,41983309,0,True,motorway,,787.337,"['2', '3']",,,55 mph,,,yes,,,,"[248918673, 248920767, 37862630, 248918671]",I 890;NY 7
+41983309,41983318,0,True,motorway_link,,371.805,,,,40 mph,,,,,,,5642731,
+41983309,2556314999,0,True,motorway,,643.495,2,,,55 mph,,,,,,,248920767,I 890;NY 7
+41983318,41978184,0,False,tertiary,Highbridge Road,137.06,,,,30 mph,,,yes,,,,"[44028992, 37862637, 5648847]",CR 48
+41983318,42056142,0,False,tertiary,Highbridge Road,191.558,,,,30 mph,,,,,,,5648847,CR 48
+41983318,2556314999,0,True,motorway_link,,284.322,,,,,,,,,,,64609696,
+41986568,442497944,0,True,motorway_link,,406.506,,,,40 mph,,,,,,,5643035,NY 7
+41986568,42044994,0,True,motorway,,514.313,3,,,55 mph,,,,,,,37867834,I 890
+41987987,41988010,0,False,residential,Sandra Court,207.238,,,,30 mph,,,,,,,5643179,
+41987987,42046346,0,False,residential,Dianne Court,207.629,,,,30 mph,,,,,,,135713093,
+41987987,42046287,0,False,residential,"['Day Road', 'Dianne Court']",250.022,,,,30 mph,,,,,,,"[135713093, 5647887]",
+41988010,41987987,0,False,residential,Sandra Court,207.238,,,,30 mph,,,,,,,5643179,
+41989806,41989808,0,False,residential,Catherine Street,113.46,,,,30 mph,,,,,,,5643369,
+41989806,42014758,0,False,residential,Long Avenue,47.153,,,,30 mph,,,,,,,5647839,
+41989806,41974470,0,False,residential,Long Avenue,154.147,,,,30 mph,,,,,,,5647839,
+41989808,41989806,0,False,residential,Catherine Street,113.46,,,,30 mph,,,,,,,5643369,
+41990702,42052742,0,False,residential,Fourth Street,106.206,,,,30 mph,,,,,,,5648252,
+41990702,42024378,0,False,residential,Fourth Street,105.889,,,,30 mph,,,,,,,5648252,
+41990702,41990705,0,False,residential,Third Avenue,198.71,,,,30 mph,,,,,,,132340615,
+41990702,42002160,0,False,residential,"['Third Street', 'Third Avenue']",303.792,,,,30 mph,,,,,,,"[5644352, 132340615]",
+41990705,42024981,0,False,residential,Fifth Street,105.104,,,,30 mph,,,,,,,5646255,
+41990705,42024382,0,False,residential,Fifth Street,106.272,,,,30 mph,,,,,,,5646255,
+41990705,41990707,0,False,residential,Third Avenue,181.027,,,,30 mph,,,,,,,132340615,
+41990705,41990702,0,False,residential,Third Avenue,198.71,,,,30 mph,,,,,,,132340615,
+41990707,41995037,0,False,residential,Sixth Street,124.239,,,,30 mph,,,,,,,5643825,
+41990707,41995032,0,False,residential,Sixth Street,122.764,,,,30 mph,,,,,,,5643825,
+41990707,41990705,0,False,residential,Third Avenue,181.027,,,,30 mph,,,,,,,132340615,
+41991262,42006171,0,False,residential,Stoodley Place,97.115,,,,30 mph,,,,,,,5647046,
+41991262,41991265,0,False,residential,Miller Avenue,117.713,,,,30 mph,,,,,,,5643511,
+41991265,41991268,0,False,residential,Miller Avenue,64.5,,,,30 mph,,,,,,,5643511,
+41991265,41991262,0,False,residential,Miller Avenue,117.713,,,,30 mph,,,,,,,5643511,
+41991265,42034133,0,False,residential,Howell Street,301.188,,,,30 mph,,,,,,,5648923,
+41991268,41991265,0,False,residential,Miller Avenue,64.5,,,,30 mph,,,,,,,5643511,
+41993718,41993721,0,False,residential,West Claremont Avenue,136.544,,,,30 mph,,,,,,,5643712,
+41993721,41993718,0,False,residential,West Claremont Avenue,136.544,,,,30 mph,,,,,,,5643712,
+41993721,42025156,0,False,residential,"['Gladstone Street', 'Bryan Avenue']",244.408,,,,30 mph,,,,,,,"[5648370, 5647933]",
+41993721,42056142,0,False,residential,Bryan Avenue,127.352,,,,30 mph,,,,,,,5648370,
+41994702,41994704,0,False,residential,Palmer Avenue,102.899,,,,30 mph,,,,,,,5643798,
+41994702,1473565497,0,False,residential,Palmer Street,197.719,,,,30 mph,,,,,,,5646553,
+41994702,42020277,0,False,residential,East Palmer Avenue,281.931,,,,30 mph,,,,,,,5645884,
+41994704,41994706,0,False,residential,Palmer Avenue,273.217,,,,30 mph,,,,,,,5643798,
+41994704,41994702,0,False,residential,Palmer Avenue,102.899,,,,30 mph,,,,,,,5643798,
+41994704,42002884,0,False,residential,Boxwood Drive,136.79,,,,30 mph,,,,,,,5648801,
+41994706,41994704,0,False,residential,Palmer Avenue,273.217,,,,30 mph,,,,,,,5643798,
+41994706,42051093,0,False,residential,"['Palmer Avenue', 'Sherman Street']",186.059,,,,30 mph,,,,,,,"[5648118, 5643798]",
+41994706,42002884,0,False,residential,Boxwood Drive,284.904,,,,30 mph,,,,,,,5648801,
+41995030,41995032,0,False,residential,Sixth Street,38.25,,,,30 mph,,,,,,,5643825,
+41995030,41997891,0,False,tertiary,East Campbell Road,100.902,,,,30 mph,,,,,,,5649196,CR 67
+41995030,42029340,0,False,tertiary,East Campbell Road,80.844,,,,30 mph,,,,,,,5649196,CR 67
+41995032,41990707,0,False,residential,Sixth Street,122.764,,,,30 mph,,,,,,,5643825,
+41995032,41995030,0,False,residential,Sixth Street,38.25,,,,30 mph,,,,,,,5643825,
+41995032,42024382,0,False,residential,Second Avenue,244.674,,,,30 mph,,,,,,,5646213,
+41995037,41995042,0,False,residential,Sixth Street,33.696,,,,30 mph,,,,,,,5643825,
+41995037,41990707,0,False,residential,Sixth Street,124.239,,,,30 mph,,,,,,,5643825,
+41995037,42024981,0,False,residential,Fourth Avenue,118.243,,,,30 mph,,,,,,,5648208,
+41995042,41995037,0,False,residential,Sixth Street,33.696,,,,30 mph,,,,,,,5643825,
+41997891,41997892,0,False,residential,May Avenue,116.021,,,,30 mph,,,,,,,5643999,
+41997891,42006105,0,False,tertiary,East Campbell Road,146.984,,,,30 mph,,,,,,,5649196,CR 67
+41997891,41995030,0,False,tertiary,East Campbell Road,100.902,,,,30 mph,,,,,,,5649196,CR 67
+41997892,41997891,0,False,residential,May Avenue,116.021,,,,30 mph,,,,,,,5643999,
+41997892,42063849,0,False,residential,Agnes Avenue,124.78,,,,30 mph,,,,,,,5648762,
+41997892,41997911,0,False,residential,May Avenue,257.22,,,,30 mph,,,,,,,5643999,
+41997911,42025156,0,False,residential,McKinley Avenue,201.879,,,,30 mph,,,,,,,5646273,
+41997911,41997892,0,False,residential,May Avenue,257.22,,,,30 mph,,,,,,,5643999,
+41997911,42035169,0,False,residential,McKinley Avenue,387.318,,,,30 mph,,,,,,,5647170,
+42002152,42002160,0,False,residential,Third Street,105.871,,,,30 mph,,,,,,,5644352,
+42002152,42035631,0,False,residential,First Avenue,198.158,,,,30 mph,,,,,,,5647225,
+42002152,42017482,0,False,residential,First Avenue,161.07,,,,30 mph,,,,,,,5647225,
+42002160,42002152,0,False,residential,Third Street,105.871,,,,30 mph,,,,,,,5644352,
+42002160,42024417,0,False,residential,Second Avenue,37.421,,,,30 mph,,,,,,,5646217,
+42002160,42017487,0,False,residential,Second Avenue,161.591,,,,30 mph,,,,,,,5646217,
+42002160,41990702,0,False,residential,"['Third Street', 'Third Avenue']",303.792,,,,30 mph,,,,,,,"[5644352, 132340615]",
+42002884,42002887,0,False,residential,Phyllis Court,128.894,,,,30 mph,,,,,,,5644421,
+42002884,41994706,0,False,residential,Boxwood Drive,284.904,,,,30 mph,,,,,,,5648801,
+42002884,41994704,0,False,residential,Boxwood Drive,136.79,,,,30 mph,,,,,,,5648801,
+42002887,42002884,0,False,residential,Phyllis Court,128.894,,,,30 mph,,,,,,,5644421,
+42006105,1455962295,0,False,tertiary,East Campbell Road,86.042,,,,30 mph,,,,,,,5649196,CR 67
+42006105,41997891,0,False,tertiary,East Campbell Road,146.984,,,,30 mph,,,,,,,5649196,CR 67
+42006171,42034133,0,False,residential,Stoodley Place,171.446,,,,30 mph,,,,,,,5647046,
+42006171,41991262,0,False,residential,Stoodley Place,97.115,,,,30 mph,,,,,,,5647046,
+42006171,42006176,0,False,residential,Eugene Drive,136.345,,,,30 mph,,,,,,,5644691,
+42006176,42006179,0,False,residential,Eugene Drive,238.453,,,,30 mph,,,,,,,5644691,
+42006176,42006171,0,False,residential,Eugene Drive,136.345,,,,30 mph,,,,,,,5644691,
+42006176,42006801,0,False,residential,Knox Drive,256.748,,,,30 mph,,,,,,,5648098,
+42006179,42006176,0,False,residential,Eugene Drive,238.453,,,,30 mph,,,,,,,5644691,
+42006179,42034133,0,False,residential,Riggi Avenue,279.831,,,,30 mph,,,,,,,5647254,
+42006179,42006181,0,False,residential,Eugene Drive,150.675,,,,30 mph,,,,,,,5644691,
+42006181,42033997,0,False,residential,Jerry Avenue,330.7,,,,30 mph,,,,,,,5647029,
+42006181,42006197,0,False,residential,Eugene Drive,270.796,,,,30 mph,,,,,,,5644691,
+42006181,42006179,0,False,residential,Eugene Drive,150.675,,,,30 mph,,,,,,,5644691,
+42006197,42040982,0,False,residential,East Campbell Road Extension,66.427,,,,30 mph,,,,,,,5647717,
+42006197,42006181,0,False,residential,Eugene Drive,270.796,,,,30 mph,,,,,,,5644691,
+42006197,42033999,0,False,residential,East Campbell Road Extension,327.176,,,,30 mph,,,,,,,5647717,
+42006753,42006756,0,False,secondary,Hamburg Street,50.941,,,,35 mph,,,,,,,5644745,NY 146
+42006756,42006768,0,False,secondary,Hamburg Street,48.819,,,,35 mph,,,,,,,5644745,NY 146
+42006756,42006753,0,False,secondary,Hamburg Street,50.941,,,,35 mph,,,,,,,5644745,NY 146
+42006756,42035631,0,False,residential,Fourth Street,132.251,,,,30 mph,,,,,,,5648252,
+42006768,42006772,0,False,secondary,Hamburg Street,150.09,,,,35 mph,,,,,,,5644745,NY 146
+42006768,42006756,0,False,secondary,Hamburg Street,48.819,,,,35 mph,,,,,,,5644745,NY 146
+42006772,42006768,0,False,secondary,Hamburg Street,150.09,,,,35 mph,,,,,,,5644745,NY 146
+42006772,42024974,0,False,residential,Fifth Street,119.127,,,,30 mph,,,,,,,5646255,
+42006797,42006801,0,False,secondary,Hamburg Street,118.548,,,,35 mph,,,,,,,5644745,NY 146
+42006801,42006797,0,False,secondary,Hamburg Street,118.548,,,,35 mph,,,,,,,5644745,NY 146
+42006801,1489247710,0,False,secondary,Hamburg Street,264.197,,,,35 mph,,,,,,,5644745,NY 146
+42006801,42006176,0,False,residential,Knox Drive,256.748,,,,30 mph,,,,,,,5648098,
+42006866,42029011,0,False,residential,Glengary Road,182.013,,,,30 mph,,,,,,,5646566,
+42008627,42008630,0,False,residential,Tower Avenue,115.742,,,,30 mph,,,,,,,5644883,
+42008630,41974460,0,False,residential,Sean Drive,67.993,,,,30 mph,,,,,,,5648516,
+42008630,42008639,0,False,residential,Tower Avenue,362.05,,,,30 mph,,,,,,,5644883,
+42008630,42008627,0,False,residential,Tower Avenue,115.742,,,,30 mph,,,,,,,5644883,
+42008639,42008630,0,False,residential,Tower Avenue,362.05,,,,30 mph,,,,,,,5644883,
+42008639,442497847,0,False,tertiary,Chrisler Avenue,397.71,,,,"['30 mph', '45 mph']",,,,,,,"[118777950, 54967262]",CR 69
+42008639,1433875607,0,False,tertiary,Chrisler Avenue,112.611,,,,30 mph,,,,,,,54967262,CR 69
+42009276,42074101,0,False,residential,St Jude Drive,110.344,,,,30 mph,,,,,,,5649443,
+42009276,42046269,0,False,residential,"['Day Road', 'St Anna Drive']",724.608,,,,30 mph,,,,,,,"[5647885, 5644926]",
+42009276,42046287,0,False,residential,St Jude Drive,299.481,,,,30 mph,,,,,,,5649443,
+42009755,41974541,0,False,residential,Dudley Road,200.693,,,,30 mph,,,,,,,5644971,
+42009755,41974537,0,False,residential,Devendorf Road,150.26,,,,30 mph,,,,,,,5648916,
+42009755,42067005,0,False,residential,Devendorf Road,113.239,,,,30 mph,,,,,,,5648916,
+42014758,41974435,0,False,residential,Central Avenue,119.495,,,,30 mph,,,,,,,5645383,
+42014758,41989806,0,False,residential,Long Avenue,47.153,,,,30 mph,,,,,,,5647839,
+42015523,42067005,0,False,residential,Peter Road,118.992,,,,30 mph,,,,,,,5648917,
+42015523,41974537,0,False,residential,"['Casella Road', 'Louis Road']",394.689,,,,30 mph,,,,,,,"[5645443, 5642038]",
+42015523,42056012,0,False,residential,Peter Road,169.632,,,,30 mph,,,,,,,5648917,
+42017371,42017375,0,False,residential,Bill Road,295.847,,,,30 mph,,,,,,,5645603,
+42017371,42066998,0,False,residential,Devendorf Road,115.535,,,,30 mph,,,,,,,5648916,
+42017371,42067005,0,False,residential,Devendorf Road,116.699,,,,30 mph,,,,,,,5648916,
+42017375,42017371,0,False,residential,Bill Road,295.847,,,,30 mph,,,,,,,5645603,
+42017375,42056012,0,False,residential,Fred Road,122.96,,,,30 mph,,,,,,,5648366,
+42017375,42056005,0,False,residential,Fred Road,118.556,,,,30 mph,,,,,,,5648366,
+42017482,42017487,0,False,residential,Second Street,107.342,,,,30 mph,,,,,,,5645612,
+42017482,42002152,0,False,residential,First Avenue,161.07,,,,30 mph,,,,,,,5647225,
+42017482,42035260,0,False,residential,"['First Avenue', '1st Street']",198.029,,,,30 mph,,,,,,,"[5647185, 5647225]",
+42017487,42017482,0,False,residential,Second Street,107.342,,,,30 mph,,,,,,,5645612,
+42017487,42002160,0,False,residential,Second Avenue,161.591,,,,30 mph,,,,,,,5646217,
+42017487,42024410,0,False,residential,Second Avenue,33.143,,,,30 mph,,,,,,,5646217,
+42020277,42055025,0,False,tertiary,Highbridge Road,55.952,,,,30 mph,,,,,,,44028992,CR 48
+42020277,1473565497,0,False,tertiary,Highbridge Road,146.718,,,,30 mph,,,,,,,44028992,CR 48
+42020277,41994702,0,False,residential,East Palmer Avenue,281.931,,,,30 mph,,,,,,,5645884,
+42024378,42024382,0,False,residential,Second Avenue,197.404,,,,30 mph,,,,,,,5646213,
+42024378,41990702,0,False,residential,Fourth Street,105.889,,,,30 mph,,,,,,,5648252,
+42024378,42035631,0,False,residential,Fourth Street,106.206,,,,30 mph,,,,,,,5648252,
+42024382,41995032,0,False,residential,Second Avenue,244.674,,,,30 mph,,,,,,,5646213,
+42024382,42024378,0,False,residential,Second Avenue,197.404,,,,30 mph,,,,,,,5646213,
+42024382,41990705,0,False,residential,Fifth Street,106.272,,,,30 mph,,,,,,,5646255,
+42024382,42024974,0,False,residential,Fifth Street,106.165,,,,30 mph,,,,,,,5646255,
+42024410,42017487,0,False,residential,Second Avenue,33.143,,,,30 mph,,,,,,,5646217,
+42024417,42002160,0,False,residential,Second Avenue,37.421,,,,30 mph,,,,,,,5646217,
+42024974,42024382,0,False,residential,Fifth Street,106.165,,,,30 mph,,,,,,,5646255,
+42024974,42006772,0,False,residential,Fifth Street,119.127,,,,30 mph,,,,,,,5646255,
+42024974,42029340,0,False,residential,First Avenue,236.553,,,,30 mph,,,,,,,5647225,
+42024974,42035631,0,False,residential,First Avenue,198.033,,,,30 mph,,,,,,,5647225,
+42024981,41990705,0,False,residential,Fifth Street,105.104,,,,30 mph,,,,,,,5646255,
+42024981,41995037,0,False,residential,Fourth Avenue,118.243,,,,30 mph,,,,,,,5648208,
+42024981,42052742,0,False,residential,Fourth Avenue,200.281,,,,30 mph,,,,,,,5648208,
+42025152,42025156,0,False,residential,McKinley Avenue,40.963,,,,30 mph,,,,,,,5646273,
+42025156,41997911,0,False,residential,McKinley Avenue,201.879,,,,30 mph,,,,,,,5646273,
+42025156,42025152,0,False,residential,McKinley Avenue,40.963,,,,30 mph,,,,,,,5646273,
+42025156,41993721,0,False,residential,"['Gladstone Street', 'Bryan Avenue']",244.408,,,,30 mph,,,,,,,"[5648370, 5647933]",
+42028536,42066998,0,False,residential,Devendorf Road,113.853,,,,30 mph,,,,,,,5648916,
+42028536,1473565497,0,False,tertiary,Highbridge Road,10.769,,,,30 mph,,,,,,,44028992,CR 48
+42028536,42065523,0,False,tertiary,Highbridge Road,267.811,,,,30 mph,,,,,,,44028992,CR 48
+42029011,42006866,0,False,residential,Glengary Road,182.013,,,,30 mph,,,,,,,5646566,
+42029011,42069758,0,False,residential,Mount Stuart Road,77.82,,,,30 mph,,,,,,,5649083,
+42029340,42024974,0,False,residential,First Avenue,236.553,,,,30 mph,,,,,,,5647225,
+42029340,41995030,0,False,tertiary,East Campbell Road,80.844,,,,30 mph,,,,,,,5649196,CR 67
+42031258,42039517,0,False,residential,Rome Avenue,19.252,,,,30 mph,,,,,,,5647615,
+42031258,42065569,0,False,tertiary,Highbridge Road,67.179,,,,30 mph,,,,,,,44028992,CR 48
+42031258,42031272,0,False,tertiary,Kings Road,103.469,,,,30 mph,,,,,,,53615321,CR 65
+42031272,42070111,0,False,residential,Sartoli Avenue,157.111,,,,30 mph,,,,,,,5649108,
+42031272,42031291,0,False,tertiary,Kings Road,144.796,,,,30 mph,,,,,,,53615321,CR 65
+42031272,42031258,0,False,tertiary,Kings Road,103.469,,,,30 mph,,,,,,,53615321,CR 65
+42031291,42056012,0,False,residential,Peter Road,91.602,,,,30 mph,,,,,,,5648917,
+42031291,42031272,0,False,tertiary,Kings Road,144.796,,,,30 mph,,,,,,,53615321,CR 65
+42033997,42006181,0,False,residential,Jerry Avenue,330.7,,,,30 mph,,,,,,,5647029,
+42033997,42033999,0,False,residential,Jerry Avenue,100.575,,,,30 mph,,,,,,,5647029,
+42033997,42034133,0,False,residential,Stoodley Place,135.122,,,,30 mph,,,,,,,5647046,
+42033999,42040974,0,False,residential,East Campbell Road Extension,249.821,,,,30 mph,,,,,,,5647717,
+42033999,42033997,0,False,residential,Jerry Avenue,100.575,,,,30 mph,,,,,,,5647029,
+42033999,42006197,0,False,residential,East Campbell Road Extension,327.176,,,,30 mph,,,,,,,5647717,
+42034133,42006171,0,False,residential,Stoodley Place,171.446,,,,30 mph,,,,,,,5647046,
+42034133,42006179,0,False,residential,Riggi Avenue,279.831,,,,30 mph,,,,,,,5647254,
+42034133,42033997,0,False,residential,Stoodley Place,135.122,,,,30 mph,,,,,,,5647046,
+42034133,41991265,0,False,residential,Howell Street,301.188,,,,30 mph,,,,,,,5648923,
+42035037,42035040,0,False,residential,Theodore Road,333.331,,,,30 mph,,,,,,,5647146,
+42035037,42046269,0,False,residential,Peter Road,110.406,,,,30 mph,,,,,,,5648917,
+42035037,42067017,0,False,residential,Peter Road,110.232,,,,30 mph,,,,,,,5648917,
+42035040,42035037,0,False,residential,Theodore Road,333.331,,,,30 mph,,,,,,,5647146,
+42035169,41997911,0,False,residential,McKinley Avenue,387.318,,,,30 mph,,,,,,,5647170,
+42035169,42052742,0,False,residential,George Endries Drive,131.033,,,,30 mph,,,,,,,5648200,
+42035169,42052799,0,False,residential,George Endries Drive,205.096,,,,30 mph,,,,,,,"[5649098, 5648204]",
+42035260,42070448,0,False,residential,Hayes Avenue,45.425,,,,30 mph,,,,,,,5649124,
+42035260,42017482,0,False,residential,"['First Avenue', '1st Street']",198.029,,,,30 mph,,,,,,,"[5647225, 5647185]",
+42035631,42024974,0,False,residential,First Avenue,198.033,,,,30 mph,,,,,,,5647225,
+42035631,42002152,0,False,residential,First Avenue,198.158,,,,30 mph,,,,,,,5647225,
+42035631,42024378,0,False,residential,Fourth Street,106.206,,,,30 mph,,,,,,,5648252,
+42035631,42006756,0,False,residential,Fourth Street,132.251,,,,30 mph,,,,,,,5648252,
+42039517,42031258,0,False,residential,Rome Avenue,19.252,,,,30 mph,,,,,,,5647615,
+42040974,42033999,0,False,residential,East Campbell Road Extension,249.821,,,,30 mph,,,,,,,5647717,
+42040974,1481843082,0,False,tertiary,Highbridge Road,23.89,,,,30 mph,,,,,,,5648847,CR 48
+42040974,1481843107,0,False,tertiary,East Campbell Road,25.112,,,,30 mph,,,,,,,5649196,CR 67
+42040982,42006197,0,False,residential,East Campbell Road Extension,66.427,,,,30 mph,,,,,,,5647717,
+42043615,42067017,0,False,residential,Peter Road,110.532,,,,30 mph,,,,,,,5648917,
+42043615,42043639,0,False,residential,Angelina Road,311.562,,,,30 mph,,,,,,,5647816,
+42043615,42065509,0,False,residential,Peter Road,159.943,,,,30 mph,,,,,,,5648917,
+42043639,42074101,0,False,residential,St Jude Drive,111.967,,,,30 mph,,,,,,,5649443,
+42043639,42043615,0,False,residential,Angelina Road,311.562,,,,30 mph,,,,,,,5647816,
+42043639,42076500,0,False,residential,St Jude Drive,99.347,,,,30 mph,,,,,,,5649443,
+42046261,42046287,0,False,residential,Day Road,20.448,,,,30 mph,,,,,,,5647887,
+42046269,42067005,0,False,residential,Peter Road,54.211,,,,30 mph,,,,,,,5648917,
+42046269,42035037,0,False,residential,Peter Road,110.406,,,,30 mph,,,,,,,5648917,
+42046269,42009276,0,False,residential,"['Day Road', 'St Anna Drive']",724.608,,,,30 mph,,,,,,,"[5647885, 5644926]",
+42046287,42046261,0,False,residential,Day Road,20.448,,,,30 mph,,,,,,,5647887,
+42046287,41987987,0,False,residential,"['Day Road', 'Dianne Court']",250.022,,,,30 mph,,,,,,,"[135713093, 5647887]",
+42046287,42009276,0,False,residential,St Jude Drive,299.481,,,,30 mph,,,,,,,5649443,
+42046346,41987987,0,False,residential,Dianne Court,207.629,,,,30 mph,,,,,,,135713093,
+42047383,42047388,0,False,tertiary,Watt Street,117.831,,,,30 mph,,,,,,,5647942,
+42047388,1422070342,0,False,tertiary,Watt Street,70.614,,,,30 mph,,,,,,,5647942,
+42047388,42047383,0,False,tertiary,Watt Street,117.831,,,,30 mph,,,,,,,5647942,
+42051081,42051083,0,False,residential,Sherman Street,143.466,,,,30 mph,,,,,,,5648118,
+42051081,42065509,0,False,tertiary,Highbridge Road,62.699,,,,30 mph,,,,,,,44028992,CR 48
+42051081,41978184,0,False,tertiary,Highbridge Road,115.09,,,,30 mph,,,,,,,44028992,CR 48
+42051083,42051081,0,False,residential,Sherman Street,143.466,,,,30 mph,,,,,,,5648118,
+42051083,42072511,0,False,residential,East Claremont Avenue,109.51,,,,30 mph,,,,,,,5649216,
+42051083,42051089,0,False,residential,Sherman Street,367.057,,,,30 mph,,,,,,,5648118,
+42051089,42072511,0,False,residential,Mercer Avenue,256.296,,,,30 mph,,,,,,,5649620,
+42051089,42051093,0,False,residential,Sherman Street,109.667,,,,30 mph,,,,,,,5648118,
+42051089,42051093,1,False,residential,Mercer Avenue,415.203,,,,30 mph,,,,,,,5649620,
+42051089,42051083,0,False,residential,Sherman Street,367.057,,,,30 mph,,,,,,,5648118,
+42051093,42067620,0,False,residential,Polsin Drive,258.109,,,,30 mph,,,,,,,5648970,
+42051093,41994706,0,False,residential,"['Palmer Avenue', 'Sherman Street']",186.059,,,,30 mph,,,,,,,"[5648118, 5643798]",
+42051093,42051089,0,False,residential,Sherman Street,109.667,,,,30 mph,,,,,,,5648118,
+42051093,42051089,1,False,residential,Mercer Avenue,415.203,,,,30 mph,,,,,,,5649620,
+42052742,42024981,0,False,residential,Fourth Avenue,200.281,,,,30 mph,,,,,,,5648208,
+42052742,41990702,0,False,residential,Fourth Street,106.206,,,,30 mph,,,,,,,5648252,
+42052742,42035169,0,False,residential,George Endries Drive,131.033,,,,30 mph,,,,,,,5648200,
+42052742,42052799,0,False,residential,"['George Endries Drive', 'Fourth Avenue']",174.809,,,,30 mph,,,,,,,"[5648208, 5648204]",
+42052799,42052742,0,False,residential,"['Fourth Avenue', 'George Endries Drive']",174.809,,,,30 mph,,,,,,,"[5648208, 5648204]",
+42052799,42035169,0,False,residential,George Endries Drive,205.096,,,,30 mph,,,,,,,"[5649098, 5648204]",
+42052799,42069988,0,False,residential,Gina Marie Court,164.986,,,,30 mph,,,,,,,5649101,
+42055025,42055026,0,False,residential,Sherwood Road,110.285,,,,30 mph,,,,,,,5648313,
+42055025,42020277,0,False,tertiary,Highbridge Road,55.952,,,,30 mph,,,,,,,44028992,CR 48
+42055025,42065569,0,False,tertiary,Highbridge Road,228.035,,,,30 mph,,,,,,,44028992,CR 48
+42055026,42055025,0,False,residential,Sherwood Road,110.285,,,,30 mph,,,,,,,5648313,
+42055026,42056005,0,False,residential,Community Road,82.865,,,,30 mph,,,,,,,5649181,
+42055026,42066998,0,False,residential,Community Road,214.59,,,,30 mph,,,,,,,5649181,
+42055476,1457214173,0,False,residential,Mount Stuart Road,58.96,,,,30 mph,,,,,,,5649083,
+42055476,42069758,0,False,residential,Mount Stuart Road,130.38,,,,30 mph,,,,,,,5649083,
+42056005,42017375,0,False,residential,Fred Road,118.556,,,,30 mph,,,,,,,5648366,
+42056005,42065569,0,False,residential,Community Road,74.745,,,,30 mph,,,,,,,5649181,
+42056005,42055026,0,False,residential,Community Road,82.865,,,,30 mph,,,,,,,5649181,
+42056012,42017375,0,False,residential,Fred Road,122.96,,,,30 mph,,,,,,,5648366,
+42056012,42031291,0,False,residential,Peter Road,91.602,,,,30 mph,,,,,,,5648917,
+42056012,42015523,0,False,residential,Peter Road,169.632,,,,30 mph,,,,,,,5648917,
+42056142,1481843082,0,False,tertiary,Highbridge Road,86.726,,,,30 mph,,,,,,,5648847,CR 48
+42056142,41993721,0,False,residential,Bryan Avenue,127.352,,,,30 mph,,,,,,,5648370,
+42056142,41983318,0,False,tertiary,Highbridge Road,191.558,,,,30 mph,,,,,,,5648847,CR 48
+42063849,41997892,0,False,residential,Agnes Avenue,124.78,,,,30 mph,,,,,,,5648762,
+42065509,42065514,0,False,tertiary,Highbridge Road,42.322,,,,30 mph,,,,,,,44028992,CR 48
+42065509,42051081,0,False,tertiary,Highbridge Road,62.699,,,,30 mph,,,,,,,44028992,CR 48
+42065509,42043615,0,False,residential,Peter Road,159.943,,,,30 mph,,,,,,,5648917,
+42065514,42065523,0,False,tertiary,Highbridge Road,114.677,,,,30 mph,,,,,,,44028992,CR 48
+42065514,42065509,0,False,tertiary,Highbridge Road,42.322,,,,30 mph,,,,,,,44028992,CR 48
+42065514,42072511,0,False,residential,Mercer Avenue,182.623,,,,30 mph,,,,,,,5649620,
+42065523,42065514,0,False,tertiary,Highbridge Road,114.677,,,,30 mph,,,,,,,44028992,CR 48
+42065523,42067620,0,False,residential,Polsin Drive,220.36,,,,30 mph,,,,,,,5648970,
+42065523,42028536,0,False,tertiary,Highbridge Road,267.811,,,,30 mph,,,,,,,44028992,CR 48
+42065569,42056005,0,False,residential,Community Road,74.745,,,,30 mph,,,,,,,5649181,
+42065569,42031258,0,False,tertiary,Highbridge Road,67.179,,,,30 mph,,,,,,,44028992,CR 48
+42065569,42055025,0,False,tertiary,Highbridge Road,228.035,,,,30 mph,,,,,,,44028992,CR 48
+42066998,42017371,0,False,residential,Devendorf Road,115.535,,,,30 mph,,,,,,,5648916,
+42066998,42028536,0,False,residential,Devendorf Road,113.853,,,,30 mph,,,,,,,5648916,
+42066998,42055026,0,False,residential,Community Road,214.59,,,,30 mph,,,,,,,5649181,
+42067005,42015523,0,False,residential,Peter Road,118.992,,,,30 mph,,,,,,,5648917,
+42067005,42046269,0,False,residential,Peter Road,54.211,,,,30 mph,,,,,,,5648917,
+42067005,42009755,0,False,residential,Devendorf Road,113.239,,,,30 mph,,,,,,,5648916,
+42067005,42017371,0,False,residential,Devendorf Road,116.699,,,,30 mph,,,,,,,5648916,
+42067017,42035037,0,False,residential,Peter Road,110.232,,,,30 mph,,,,,,,5648917,
+42067017,42043615,0,False,residential,Peter Road,110.532,,,,30 mph,,,,,,,5648917,
+42067017,42074101,0,False,residential,Lucy Road,434.269,,,,30 mph,,,,,,,5649304,
+42067620,42051093,0,False,residential,Polsin Drive,258.109,,,,30 mph,,,,,,,5648970,
+42067620,42072511,0,False,residential,East Claremont Avenue,108.322,,,,30 mph,,,,,,,5649216,
+42067620,42065523,0,False,residential,Polsin Drive,220.36,,,,30 mph,,,,,,,5648970,
+42069758,42055476,0,False,residential,Mount Stuart Road,130.38,,,,30 mph,,,,,,,5649083,
+42069758,42029011,0,False,residential,Mount Stuart Road,77.82,,,,30 mph,,,,,,,5649083,
+42069758,42076196,0,False,residential,Chism Street,27.852,,,,30 mph,,,,,,,5649420,
+42069988,42052799,0,False,residential,Gina Marie Court,164.986,,,,30 mph,,,,,,,5649101,
+42070111,42031272,0,False,residential,Sartoli Avenue,157.111,,,,30 mph,,,,,,,5649108,
+42070448,42035260,0,False,residential,Hayes Avenue,45.425,,,,30 mph,,,,,,,5649124,
+42072511,42051083,0,False,residential,East Claremont Avenue,109.51,,,,30 mph,,,,,,,5649216,
+42072511,42067620,0,False,residential,East Claremont Avenue,108.322,,,,30 mph,,,,,,,5649216,
+42072511,42051089,0,False,residential,Mercer Avenue,256.296,,,,30 mph,,,,,,,5649620,
+42072511,42065514,0,False,residential,Mercer Avenue,182.623,,,,30 mph,,,,,,,5649620,
+42074101,42043639,0,False,residential,St Jude Drive,111.967,,,,30 mph,,,,,,,5649443,
+42074101,42009276,0,False,residential,St Jude Drive,110.344,,,,30 mph,,,,,,,5649443,
+42074101,42067017,0,False,residential,Lucy Road,434.269,,,,30 mph,,,,,,,5649304,
+42076196,42069758,0,False,residential,Chism Street,27.852,,,,30 mph,,,,,,,5649420,
+42076393,42044994,0,True,motorway_link,,438.498,,,,25 mph,,,,,,,5643038,
+42076393,442497924,0,True,trunk,Crosstown Connection,339.334,2,,,45 mph,,,yes,,,,"[37862617, 40501197]",NY 7
+42076500,42043639,0,False,residential,St Jude Drive,99.347,,,,30 mph,,,,,,,5649443,
+42076500,42076500,0,False,residential,St Jude Drive,272.904,,,,30 mph,,,,,,,5649445,
+42076500,42076500,1,False,residential,St Jude Drive,272.904,,,,30 mph,,,,,,,5649445,
+442497847,442497940,0,True,tertiary,Chrisler Avenue,125.721,,,,45 mph,,,,,,,37867800,
+442497847,42008639,0,False,tertiary,Chrisler Avenue,397.71,,,,"['30 mph', '45 mph']",,,,,,,"[54967262, 118777950]",CR 69
+442497924,2556315246,0,True,motorway_link,,494.847,,,,25 mph,,,,,,,5643160,NY 7
+442497924,442497847,0,True,tertiary,Chrisler Avenue,155.877,,,,45 mph,,,,,,,37867804,
+442497940,442497944,0,True,trunk,Crosstown Connection,298.204,2,,,45 mph,,,yes,,,,"[249123952, 42782937, 37862612]",
+820014894,1489247657,0,True,secondary,,12.741,,,,15 mph,,,,,,roundabout,139260180,NY 146;NY 7
+1422070342,42047388,0,False,tertiary,Watt Street,70.614,,,,30 mph,,,,,,,5647942,
+1433875607,42008639,0,False,tertiary,Chrisler Avenue,112.611,,,,30 mph,,,,,,,54967262,CR 69
+1455962295,1481843107,0,False,tertiary,East Campbell Road,146.132,,,,30 mph,,,,,,,5649196,CR 67
+1455962295,42006105,0,False,tertiary,East Campbell Road,86.042,,,,30 mph,,,,,,,5649196,CR 67
+1455962295,1455962297,0,False,residential,Miller Avenue,62.447,,,,30 mph,,,,,,,132340614,
+1455962297,1455962295,0,False,residential,Miller Avenue,62.447,,,,30 mph,,,,,,,132340614,
+1457214173,42055476,0,False,residential,Mount Stuart Road,58.96,,,,30 mph,,,,,,,5649083,
+1473565497,41994702,0,False,residential,Palmer Street,197.719,,,,30 mph,,,,,,,5646553,
+1473565497,42020277,0,False,tertiary,Highbridge Road,146.718,,,,30 mph,,,,,,,44028992,CR 48
+1473565497,42028536,0,False,tertiary,Highbridge Road,10.769,,,,30 mph,,,,,,,44028992,CR 48
+1481843082,42056142,0,False,tertiary,Highbridge Road,86.726,,,,30 mph,,,,,,,5648847,CR 48
+1481843082,42040974,0,False,tertiary,Highbridge Road,23.89,,,,30 mph,,,,,,,5648847,CR 48
+1481843082,1481843107,0,True,tertiary,Highbridge Road,35.576,,,,30 mph,,,,,,,134837925,
+1481843107,42040974,0,False,tertiary,East Campbell Road,25.112,,,,30 mph,,,,,,,5649196,CR 67
+1481843107,1455962295,0,False,tertiary,East Campbell Road,146.132,,,,30 mph,,,,,,,5649196,CR 67
+1489247610,820014894,0,True,secondary,Curry Road,42.233,,,,,,,,,,,135620111,NY 7
+1489247657,1489247710,0,True,secondary,Hamburg Street,69.682,,,,,,,,,,,135620115,NY 146
+1489247710,42006801,0,False,secondary,Hamburg Street,264.197,,,,35 mph,,,,,,,5644745,NY 146
+2556314999,42044871,0,True,motorway,,703.515,2,,,55 mph,,,,,,,248920767,I 890;NY 7
+2556315246,41981647,0,True,motorway,,183.048,3,,,55 mph,,,,,,,248918673,I 890;NY 7

@@ -1,0 +1,635 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+211285310,211287960,0,False,tertiary,Westbury Road,1055.896,,,,,,,,,,,20033728,
+211285310,221548538,0,False,tertiary,Westbury Cutoff Road,1509.201,,,,,,,,,,,20637475,CR 267
+211287960,221557010,0,False,tertiary,Westbury Road,542.239,,,,,,,,,,,20025164,
+211287960,211285310,0,False,tertiary,Westbury Road,1055.896,,,,,,,,,,,20033728,
+211287960,221564417,0,False,primary,State Route 370,597.01,2,,,55 mph,,,,,,,20638634,NY 370
+221507993,221507997,0,False,residential,Edmonds Road,791.287,,,,,,,,,,,20634280,
+221507993,221553843,0,False,"['residential', 'tertiary']","['Preemption Road', 'Wayne Center Road']",2528.779,,,,,,,,,,,"[20640505, 20637826]",CR 248
+221507997,221507993,0,False,residential,Edmonds Road,791.287,,,,,,,,,,,20634280,
+221507997,221518113,0,False,residential,Garlic Road,819.439,,,,,,,,,,,20640261,
+221507997,221508013,0,False,residential,Edmonds Road,996.265,,,,,,,,,,,20634280,
+221508013,221507997,0,False,residential,Edmonds Road,996.265,,,,,,,,,,,20634280,
+221508013,221566297,0,False,residential,Glenmark Road,726.159,,,,,,,,,,,20640996,
+221517953,221532492,0,False,unclassified,Catchpole Road,436.318,,,,,,,,,,,20639801,
+221517953,221518119,0,False,unclassified,Catchpole Road,932.991,,,,,,,,,,,20639801,
+221517953,221517991,0,False,residential,,489.139,,,,,,,,,,,"[20635016, 20635014]",
+221517991,221517953,0,False,residential,,489.139,,,,,,,,,,,"[20635016, 20635014]",
+221518047,221518106,0,False,unclassified,Catchpole Road,157.786,,,,,,,,,,,20639801,
+221518047,221518060,0,False,residential,,134.694,,,,,,,,,,,20635023,
+221518047,221533714,0,False,unclassified,Catchpole Road,1096.022,,,,,,,,,,,20639801,
+221518060,221518047,0,False,residential,,134.694,,,,,,,,,,,20635023,
+221518106,221518119,0,False,unclassified,Catchpole Road,26.596,,,,,,,,,,,20639801,
+221518106,221518047,0,False,unclassified,Catchpole Road,157.786,,,,,,,,,,,20639801,
+221518106,221518113,0,False,residential,,45.701,,,,,,,,,,,20635027,
+221518113,221518119,0,False,residential,,34.397,,,,,,,,,,,20635029,
+221518113,221507997,0,False,residential,Garlic Road,819.439,,,,,,,,,,,20640261,
+221518113,221518106,0,False,residential,,45.701,,,,,,,,,,,20635027,
+221518119,221518113,0,False,residential,,34.397,,,,,,,,,,,20635029,
+221518119,221517953,0,False,unclassified,Catchpole Road,932.991,,,,,,,,,,,20639801,
+221518119,221518106,0,False,unclassified,Catchpole Road,26.596,,,,,,,,,,,20639801,
+221518411,221548147,0,False,tertiary,Wolcott Road,62.802,,,,,,,,,,,20637454,CR 255
+221518411,221518413,0,False,residential,,42.094,,,,,,,,,,,20635056,
+221518411,221542620,0,False,tertiary,Wolcott Road,308.999,,,,,,,,,,,20637454,CR 255
+221518413,221568698,0,False,secondary,State Highway 414,69.207,,,,,,,,,,,20641934,NY 414
+221518413,221518411,0,False,residential,,42.094,,,,,,,,,,,20635056,
+221518413,221548147,0,False,secondary,State Highway 414,40.419,,,,,,,,,,,20641934,NY 414
+221518466,221518470,0,False,residential,,165.419,,,,,,,,,,,20635066,
+221518466,221548745,0,False,residential,Gobblers Knob Road,240.453,,,,,,,,,,,20637496,
+221518466,221548704,0,False,residential,Gobblers Knob Road,1315.832,,,,,,,,,,,20637496,
+221518470,221518466,0,False,residential,,165.419,,,,,,,,,,,20635066,
+221519452,221519471,0,False,tertiary,Salter Road,122.933,,,,,,,,,,,20639587,CR 257
+221519452,221519471,1,False,residential,,251.855,,,,,,,,,,,20635149,
+221519452,221555978,0,False,tertiary,Salter Road,1491.28,,,,,,,,,,,20639587,CR 257
+221519471,221519452,0,False,tertiary,Salter Road,122.933,,,,,,,,,,,20639587,CR 257
+221519471,221519452,1,False,residential,,251.855,,,,,,,,,,,20635149,
+221519471,221564188,0,False,tertiary,Salter Road,215.27,,,,,,,,,,,20639587,CR 257
+221520260,221520288,0,False,residential,,931.366,,,,,,,,,,,20635220,
+221520288,221520260,0,False,residential,,931.366,,,,,,,,,,,20635220,
+221520288,221595052,0,False,residential,Glenmark Road,105.143,,,,,,,,,,,20640981,
+221520288,221564180,0,False,residential,Glenmark Road,1436.304,,,,,,,,,,,20640981,
+221521786,221521798,0,False,residential,,280.914,,,,,,,,,,,20635364,
+221521786,221558104,0,False,residential,Saeli Road,1112.859,,,,,,,,,,,20638363,
+221521786,221521829,0,False,residential,Saeli Road,978.886,,,,,,,,,,,20638363,
+221521798,221521786,0,False,residential,,280.914,,,,,,,,,,,20635364,
+221521829,221521833,0,False,residential,,170.485,,,,,,,,,,,20635366,
+221521829,221521786,0,False,residential,Saeli Road,978.886,,,,,,,,,,,20638363,
+221521829,221524163,0,False,residential,Saeli Road,807.664,,,,,,,,,,,20638363,
+221521833,221521829,0,False,residential,,170.485,,,,,,,,,,,20635366,
+221522087,221522097,0,False,residential,,218.13,,,,,,,,,,,20635391,
+221522087,221575378,0,False,residential,Salter-Colvin Road,415.992,,,,,,,,,,,20639465,
+221522087,221575352,0,False,residential,Salter-Colvin Road,1225.842,,,,,,,,,,,20639465,
+221522097,221522106,0,False,residential,,25.629,,,,,,,,,,,20635391,
+221522097,221522087,0,False,residential,,218.13,,,,,,,,,,,20635391,
+221522097,221522144,0,False,residential,,103.907,,,,,,,,,,,20635392,
+221522106,221522123,0,False,residential,,103.353,,,,,,,,,,,20635391,
+221522106,221522123,1,False,residential,,105.511,,,,,,,,,,,20636497,
+221522106,221522097,0,False,residential,,25.629,,,,,,,,,,,20635391,
+221522123,221522131,0,False,residential,,84.169,,,,,,,,,,,20635391,
+221522123,221522106,0,False,residential,,103.353,,,,,,,,,,,20635391,
+221522123,221522106,1,False,residential,,105.511,,,,,,,,,,,20636497,
+221522131,221522123,0,False,residential,,84.169,,,,,,,,,,,20635391,
+221522131,221575378,0,False,residential,Galen Road,457.085,,,,,,,,,,,306216155,
+221522131,221585605,0,False,residential,Galen Road,950.448,,,,,,,,,,,306216155,
+221522144,221522097,0,False,residential,,103.907,,,,,,,,,,,20635392,
+221522808,221563826,0,False,primary,,1694.137,2,,,55 mph,,,,,,,426038363,NY 104
+221522808,221535746,0,False,primary,,255.337,2,,,55 mph,,,,,,,426038366,NY 104
+221522814,221522808,0,True,primary_link,,372.24,1,,,,,,,,,,20635435,
+221522814,221546908,0,False,secondary,"['Auburn Street', 'State Route 89']",259.608,,,,,,,yes,,,,"[49200539, 20637325, 20637383]",NY 89
+221522814,221545785,0,False,tertiary,Auburn Street,530.533,,,,,,,,,,,"[86939136, 314200379]",
+221524163,221521829,0,False,residential,Saeli Road,807.664,,,,,,,,,,,20638363,
+221524163,221580738,0,False,tertiary,Wolcott Spring Lake Road,2428.356,,,,,,,,,,,20639905,CR 262
+221531919,221531923,0,False,residential,,19.12,,,,,,,,,,,20636256,
+221531923,221531927,0,False,residential,,27.085,,,,,,,,,,,20636256,
+221531923,221531919,0,False,residential,,19.12,,,,,,,,,,,20636256,
+221531923,221567539,0,False,residential,Delf Drive,136.691,,,,,,,,,,,20641419,
+221531927,221531923,0,False,residential,,27.085,,,,,,,,,,,20636256,
+221532492,221517953,0,False,unclassified,Catchpole Road,436.318,,,,,,,,,,,20639801,
+221532492,221566297,0,False,unclassified,Brick Schoolhouse Road,1510.042,,,,,,,,,,,20638778,
+221532492,221559851,0,False,unclassified,Catchpole Road,444.572,,,,,,,,,,,20639801,
+221532511,221532515,0,False,residential,,157.647,,,,,,,,,,,20636307,
+221532511,221579323,0,False,unclassified,Catchpole Road,787.33,,,,,,,,,,,20639801,
+221532511,221579311,0,False,unclassified,Catchpole Road,1658.895,,,,,,,,,,,20639801,
+221532515,221532511,0,False,residential,,157.647,,,,,,,,,,,20636307,
+221532526,221532532,0,False,residential,,131.567,,,,,,,,,,,20636309,
+221532526,221589075,0,False,secondary,State Highway 414,208.017,,,,,,,,,,,20641934,NY 414
+221532526,221568698,0,False,secondary,State Highway 414,903.606,,,,,,,,,,,20641934,NY 414
+221532532,221532526,0,False,residential,,131.567,,,,,,,,,,,20636309,
+221532532,221532532,0,False,residential,,153.499,,,,,,,,,,,20636311,
+221532532,221532532,1,False,residential,,153.499,,,,,,,,,,,20636311,
+221533714,221533727,0,False,residential,,678.383,,,,,,,,,,,20636416,
+221533714,221518047,0,False,unclassified,Catchpole Road,1096.022,,,,,,,,,,,20639801,
+221533714,221553843,0,False,unclassified,Catchpole Road,734.406,,,,,,,,,,,"[20639801, 20639802]",
+221533727,221533714,0,False,residential,,678.383,,,,,,,,,,,20636416,
+221535289,221546774,0,False,tertiary,Butler Center Road,66.854,,,,,,,,,,,20640254,CR 264
+221535289,221535292,0,False,tertiary,,61.615,,,,,,,,,,,20636499,
+221535289,221584803,0,False,tertiary,Butler Center Road,334.819,,,,,,,,,,,20640254,CR 264
+221535292,221546774,0,False,secondary,State Route 89,38.152,,,,,,,,,,,20637383,NY 89
+221535292,221535289,0,False,tertiary,,61.615,,,,,,,,,,,20636499,
+221535292,221546741,0,False,secondary,State Route 89,1059.218,,,,,,,,,,,20637383,NY 89
+221535721,221546908,0,False,secondary,State Route 89,10.803,,,,,,,,,,,20637383,NY 89
+221535721,221546884,0,False,secondary,State Route 89,2137.475,,,,,,,,,,,20637383,NY 89
+221535746,221535721,0,True,primary_link,,654.844,1,,,,,,,,,,20636557,
+221535746,221563778,0,False,primary,,512.615,2,,,55 mph,,,,,,,426038365,NY 104
+221535746,221522808,0,False,primary,,255.337,2,,,55 mph,,,,,,,426038366,NY 104
+221541556,221584723,0,False,tertiary,South Butler Conquest Road,145.562,,,,,,,,,,,20641347,CR 275
+221541556,221561042,0,False,tertiary,South Butler Conquest Road,1191.261,,,,,,,,,,,20641347,CR 275
+221541807,221541815,0,False,residential,Pond Road,1435.114,,,,,,,,,,,20637041,
+221541807,221580816,0,False,tertiary,Butler Center Road,1291.732,,,,,,,,,,,20640255,CR 264
+221541807,221567457,0,False,tertiary,Butler Center Road,123.657,,,,,,,,,,,20640255,CR 264
+221541815,221541807,0,False,residential,Pond Road,1435.114,,,,,,,,,,,20637041,
+221541815,221568078,0,False,tertiary,Wolcott Spring Lake Road,1247.874,,,,,,,,,,,20639911,CR 262
+221541815,221556936,0,False,tertiary,Wolcott Spring Lake Road,786.889,,,,,,,,,,,20639911,CR 262
+221542602,221542607,0,False,residential,Dix Street,116.847,,,,,,,,,,,20637093,
+221542602,221603749,0,False,tertiary,Valley Drive,1338.252,2,,,,,,,,,,20641718,CR 253
+221542602,221583497,0,False,tertiary,Valley Drive,211.434,2,,,,,,,,,,20641718,CR 253
+221542607,221542602,0,False,residential,Dix Street,116.847,,,,,,,,,,,20637093,
+221542607,221542617,0,False,residential,Dix Street,372.878,,,,,,,,,,,20637093,
+221542607,221583500,0,False,residential,School Street,213.943,,,,,,,,,,,20642089,
+221542617,221542620,0,False,residential,Dix Street,36.414,,,,,,,,,,,20637093,
+221542617,221542607,0,False,residential,Dix Street,372.878,,,,,,,,,,,20637093,
+221542617,221542629,0,False,residential,Dix Street,33.808,,,,,,,,,,,20637095,
+221542620,221542617,0,False,residential,Dix Street,36.414,,,,,,,,,,,20637093,
+221542620,221542629,0,False,tertiary,Wolcott Road,53.662,,,,,,,,,,,20637454,CR 255
+221542620,221518411,0,False,tertiary,Wolcott Road,308.999,,,,,,,,,,,20637454,CR 255
+221542629,221542620,0,False,tertiary,Wolcott Road,53.662,,,,,,,,,,,20637454,CR 255
+221542629,221542617,0,False,residential,Dix Street,33.808,,,,,,,,,,,20637095,
+221542629,221548183,0,False,tertiary,Wolcott Road,1342.686,,,,,,,,,,,20637454,CR 255
+221542697,221575391,0,False,residential,Salter-Colvin Road,415.313,,,,,,,,,,,20639465,
+221542697,221542706,0,False,residential,Limekiln Road,791.231,,,,,,,,,,,20637107,
+221542697,221575378,0,False,residential,Salter-Colvin Road,305.617,,,,,,,,,,,20639465,
+221542706,221542708,0,False,residential,Limekiln Road,863.846,,,,,,,,,,,20637107,
+221542706,221542697,0,False,residential,Limekiln Road,791.231,,,,,,,,,,,20637107,
+221542706,221560899,0,False,residential,Buchanan Road,688.706,,,,,,,,,,,20642072,
+221542708,221542706,0,False,residential,Limekiln Road,863.846,,,,,,,,,,,20637107,
+221542708,221563778,0,False,primary,,962.268,2,,,55 mph,,,,,,,426038365,NY 104
+221542708,221542728,0,False,residential,Limekiln Road,1071.499,,,,,,,,,,,20637107,
+221542728,221542708,0,False,residential,Limekiln Road,1071.499,,,,,,,,,,,20637107,
+221542728,221544560,0,False,tertiary,"['New Hartford Street', 'Whiskey Hill Road']",550.744,,,,30 mph,,,,,,,"[139632134, 20637471]",CR 258
+221542728,221563778,0,False,tertiary,Whiskey Hill Road,224.088,,,,,,,,,,,139632134,CR 258
+221543248,221543251,0,False,residential,South Huron Street,61.684,,,,,,,,,,,20637138,
+221543248,221568510,0,False,residential,Maple Avenue,30.254,,,,,,,,,,,20638965,
+221543248,221568516,0,False,residential,Maple Avenue,170.378,,,,,,,,,,,20638966,
+221543251,221543252,0,False,residential,South Huron Street,34.087,,,,,,,,,,,20637138,
+221543251,221543248,0,False,residential,South Huron Street,61.684,,,,,,,,,,,20637138,
+221543251,1029914740,0,False,residential,Warehouse Avenue,135.589,,,,,,,,,,,20640703,
+221543252,221543251,0,False,residential,South Huron Street,34.087,,,,,,,,,,,20637138,
+221544552,221544556,0,False,residential,Wilson Street,88.784,,,,,,,,,,,306097251,
+221544552,3569337182,0,False,residential,Sunset Terrace,242.353,,,,,,,,,,,20638326,
+221544556,221583151,0,False,residential,Draper Street,115.375,,,,,,,,,,,20641540,
+221544556,221544560,0,False,residential,Wilson Street,221.96,,,,,,,,,,,306097251,
+221544556,221544552,0,False,residential,Wilson Street,88.784,,,,,,,,,,,306097251,
+221544560,221548495,0,False,tertiary,New Hartford Street,115.416,,,,30 mph,,,,,,,20637471,
+221544560,221544556,0,False,residential,Wilson Street,221.96,,,,,,,,,,,306097251,
+221544560,221542728,0,False,tertiary,"['New Hartford Street', 'Whiskey Hill Road']",550.744,,,,30 mph,,,,,,,"[139632134, 20637471]",CR 258
+221545785,221567539,0,False,residential,Countryman Road,215.749,,,,,,,,,,,20638876,
+221545785,221522814,0,False,tertiary,Auburn Street,530.533,,,,,,,,,,,"[86939136, 314200379]",
+221546677,221547063,0,False,secondary,State Route 89,102.437,,,,,,,,,,,86939135,NY 89
+221546677,221546697,0,False,secondary,State Route 89,601.95,,,,,,,,,,,20637378,NY 89
+221546677,221556789,0,False,residential,Rural Street,432.948,,,,,,,,,,,20638058,
+221546697,221546700,0,False,secondary,State Route 89,241.766,,,,,,,,,,,20637378,NY 89
+221546697,221546677,0,False,secondary,State Route 89,601.95,,,,,,,,,,,20637378,NY 89
+221546697,221609129,0,False,residential,Foster Mead Road,2820.099,,,,,,,,,,,20642135,
+221546700,221546709,0,False,secondary,State Route 89,108.404,,,,,,,,,,,20637378,NY 89
+221546700,221546697,0,False,secondary,State Route 89,241.766,,,,,,,,,,,20637378,NY 89
+221546700,221546774,0,False,residential,Montana Road,2909.673,,,,,,,,,,,20638729,
+221546709,221546741,0,False,secondary,State Route 89,1281.738,,,,,,,,,,,20637378,NY 89
+221546709,221546741,1,False,residential,Reed Road,1242.127,,,,,,,,,,,20639238,
+221546709,221546700,0,False,secondary,State Route 89,108.404,,,,,,,,,,,20637378,NY 89
+221546741,221546709,0,False,secondary,State Route 89,1281.738,,,,,,,,,,,20637378,NY 89
+221546741,221546709,1,False,residential,Reed Road,1242.127,,,,,,,,,,,20639238,
+221546741,221535292,0,False,secondary,State Route 89,1059.218,,,,,,,,,,,20637383,NY 89
+221546774,221535292,0,False,secondary,State Route 89,38.152,,,,,,,,,,,20637383,NY 89
+221546774,221535289,0,False,tertiary,Butler Center Road,66.854,,,,,,,,,,,20640254,CR 264
+221546774,221546801,0,False,secondary,State Route 89,1030.711,,,,,,,,,,,20637383,NY 89
+221546774,221546700,0,False,residential,Montana Road,2909.673,,,,,,,,,,,20638729,
+221546801,221546884,0,False,secondary,State Route 89,2826.622,,,,,,,,,,,20637383,NY 89
+221546801,221546774,0,False,secondary,State Route 89,1030.711,,,,,,,,,,,20637383,NY 89
+221546801,221557907,0,False,residential,Everhart Road,770.921,,,,,,,,,,,20642049,
+221546884,221562963,0,False,residential,Van Vleck Road,1179.098,,,,,,,,,,,20638530,
+221546884,221535721,0,False,secondary,State Route 89,2137.475,,,,,,,,,,,20637383,NY 89
+221546884,221546801,0,False,secondary,State Route 89,2826.622,,,,,,,,,,,20637383,NY 89
+221546884,221586459,0,False,residential,Smith Road,937.767,,,,,,,,,,,20640350,
+221546908,221535721,0,False,secondary,State Route 89,10.803,,,,,,,,,,,20637383,NY 89
+221546908,221522814,0,False,secondary,"['Auburn Street', 'State Route 89']",259.608,,,,,,,yes,,,,"[49200539, 20637325, 20637383]",NY 89
+221546908,221580832,0,False,tertiary,Wolcott Spring Lake Road,1417.964,,,,,,,,,,,20639911,CR 262
+221547063,221546677,0,False,secondary,State Route 89,102.437,,,,,,,,,,,86939135,NY 89
+221547063,221599695,0,False,tertiary,South Butler Conquest Road,242.671,,,,,,,,,,,20641348,CR 275
+221547063,221556789,0,False,tertiary,South Butler Road,351.206,,,,,,,,,,,20641855,CR 271
+221548017,221562963,0,False,residential,Van Vleck Road,495.239,,,,,,,,,,,20638530,
+221548017,221548047,0,False,residential,Wolcott Road,1080.789,,,,,,,,,,,20637450,
+221548017,221580832,0,False,tertiary,Wolcott Spring Lake Road,1396.268,,,,,,,,,,,20639911,CR 262
+221548017,221580816,0,False,tertiary,Wolcott Spring Lake Road,1173.351,,,,,,,,,,,20639911,CR 262
+221548047,221548065,0,False,residential,Wolcott Road,162.663,,,,,,,,,,,20637450,
+221548047,221548017,0,False,residential,Wolcott Road,1080.789,,,,,,,,,,,20637450,
+221548047,221554257,0,False,residential,Spring Green Road,2887.568,,,,,,,,,,,20637841,
+221548065,221548078,0,False,residential,Wolcott Road,292.177,,,,,,,,,,,20637450,
+221548065,221548047,0,False,residential,Wolcott Road,162.663,,,,,,,,,,,20637450,
+221548065,221568078,0,False,residential,Miller Road,1036.865,,,,,,,,,,,20638927,
+221548078,221548124,0,False,residential,Wolcott Road,1478.7,,,,,,,,,,,20637450,
+221548078,221548065,0,False,residential,Wolcott Road,292.177,,,,,,,,,,,20637450,
+221548124,221548140,0,False,residential,Wolcott Road,848.106,,,,,,,,,,,20637450,
+221548124,221548078,0,False,residential,Wolcott Road,1478.7,,,,,,,,,,,20637450,
+221548124,221551617,0,False,residential,Reitz Road,2693.025,,,,,,,,,,,20637708,
+221548124,221551491,0,False,residential,Reitz Road,1678.658,,,,,,,,,,,20637708,
+221548140,221548124,0,False,residential,Wolcott Road,848.106,,,,,,,,,,,20637450,
+221548140,221551642,0,False,residential,Hogback Road,2641.089,,,,,,,,,,,20638184,
+221548140,221558490,0,False,residential,Hogback Road,737.141,,,,,,,,,,,20638184,
+221548147,221518411,0,False,tertiary,Wolcott Road,62.802,,,,,,,,,,,20637454,CR 255
+221548147,221582704,0,False,secondary,Main Street,158.029,,,,,,,,,,,20640065,NY 414
+221548147,221518413,0,False,secondary,State Highway 414,40.419,,,,,,,,,,,20641934,NY 414
+221548183,221548191,0,False,tertiary,Wolcott Road,452.132,,,,,,,,,,,20637454,CR 255
+221548183,221542629,0,False,tertiary,Wolcott Road,1342.686,,,,,,,,,,,20637454,CR 255
+221548183,221548251,0,False,residential,Rolfe Road,1278.419,,,,,,,,,,,20637456,
+221548191,221548234,0,False,tertiary,Wolcott Road,2186.398,,,,,,,,,,,20637454,CR 255
+221548191,221548183,0,False,tertiary,Wolcott Road,452.132,,,,,,,,,,,20637454,CR 255
+221548191,221575166,0,False,residential,Armstrong Road,1648.808,,,,,,,,,,,20639439,
+221548234,221548191,0,False,tertiary,Wolcott Road,2186.398,,,,,,,,,,,20637454,CR 255
+221548234,221548251,0,False,residential,Lyman Road,2109.492,,,,,,,,,,,20640580,
+221548234,221585594,0,False,tertiary,Lyman Road,179.316,,,,,,,,,,,306216153,CR 255
+221548251,221555958,0,False,residential,Lyman Road,116.634,,,,,,,,,,,20640580,
+221548251,221548183,0,False,residential,Rolfe Road,1278.419,,,,,,,,,,,20637456,
+221548251,221548234,0,False,residential,Lyman Road,2109.492,,,,,,,,,,,20640580,
+221548495,221544560,0,False,tertiary,New Hartford Street,115.416,,,,30 mph,,,,,,,20637471,
+221548495,221583154,0,False,residential,Butler Street,199.87,,,,,,,,,,,20640108,
+221548495,221583151,0,False,residential,Butler Street,221.805,,,,,,,,,,,20640108,
+221548538,211285310,0,False,tertiary,Westbury Cutoff Road,1509.201,,,,,,,,,,,20637475,CR 267
+221548538,221564417,0,False,primary,State Route 370,1579.631,2,,,55 mph,,,,,,,20638634,NY 370
+221548558,221561042,0,False,tertiary,South Butler Conquest Road,376.794,,,,,,,,,,,20641348,CR 275
+221548558,221599695,0,False,tertiary,South Butler Conquest Road,862.113,,,,,,,,,,,20641348,CR 275
+221548690,221559829,0,False,residential,High Street,1285.916,,,,,,,,,,,20638286,
+221548690,221548704,0,False,residential,Gobblers Knob Road,777.257,,,,,,,,,,,20637496,
+221548690,221560044,0,False,residential,High Street,681.932,,,,,,,,,,,20638302,
+221548704,221518466,0,False,residential,Gobblers Knob Road,1315.832,,,,,,,,,,,20637496,
+221548704,221548690,0,False,residential,Gobblers Knob Road,777.257,,,,,,,,,,,20637496,
+221548704,221568687,0,False,residential,Covell Road,1276.378,,,,,,,,,,,20641748,
+221548704,221559026,0,False,residential,Covell Road,420.558,,,,,,,,,,,20641748,
+221548745,221548761,0,False,residential,Gobblers Knob Road,291.402,,,,,,,,,,,20637496,
+221548745,221518466,0,False,residential,Gobblers Knob Road,240.453,,,,,,,,,,,20637496,
+221548745,221568689,0,False,residential,Lovers Lane,996.125,,,,,,,,,,,20639506,
+221548761,221548745,0,False,residential,Gobblers Knob Road,291.402,,,,,,,,,,,20637496,
+221548761,221559036,0,False,tertiary,Lakes Corners-Rose Valley Road,882.756,,,,,,,,,,,20638228,CR 250
+221548761,1218324341,0,False,tertiary,Lakes Corners-Rose Valley Road,2103.179,,,,,,,,,,,20638234,CR 250
+221550237,221553860,0,False,tertiary,Wayne Center Road,1708.282,,,,,,,,,,,20637826,CR 248
+221550237,221560044,0,False,residential,Fox Road,2021.311,,,,,,,,,,,20638638,
+221550267,221557010,0,False,tertiary,Westbury Road,1780.409,,,,,,,,,,,"[20638064, 20033729]",CR 266
+221550267,221556874,0,False,tertiary,Westbury Road,510.023,,,,,,,,,,,20638064,CR 266
+221551491,221548124,0,False,residential,Reitz Road,1678.658,,,,,,,,,,,20637708,
+221551491,221556804,0,False,tertiary,Westbury Road,85.391,,,,,,,,,,,20638062,CR 266
+221551491,221556936,0,False,tertiary,Westbury Road,1268.568,,,,,,,,,,,20638066,CR 266
+221551617,221551642,0,False,residential,Reitz Road,28.438,,,,,,,,,,,20637709,
+221551617,221551628,0,False,residential,Reitz Road,44.467,,,,,,,,,,,20637708,
+221551617,221548124,0,False,residential,Reitz Road,2693.025,,,,,,,,,,,20637708,
+221551628,221551642,0,False,residential,Hogback Road,48.76,,,,,,,,,,,20638184,
+221551628,221551617,0,False,residential,Reitz Road,44.467,,,,,,,,,,,20637708,
+221551642,221551617,0,False,residential,Reitz Road,28.438,,,,,,,,,,,20637709,
+221551642,221551628,0,False,residential,Hogback Road,48.76,,,,,,,,,,,20638184,
+221551642,221548140,0,False,residential,Hogback Road,2641.089,,,,,,,,,,,20638184,
+221553843,221553860,0,False,tertiary,Wayne Center Road,914.338,,,,,,,,,,,20637826,CR 248
+221553843,221507993,0,False,"['residential', 'tertiary']","['Preemption Road', 'Wayne Center Road']",2528.779,,,,,,,,,,,"[20640505, 20637826]",CR 248
+221553843,221533714,0,False,unclassified,Catchpole Road,734.406,,,,,,,,,,,"[20639801, 20639802]",
+221553860,221559829,0,False,tertiary,Wayne Center-Rose Road,2156.628,,,,,,,,,,,20638979,CR 251
+221553860,221550237,0,False,tertiary,Wayne Center Road,1708.282,,,,,,,,,,,20637826,CR 248
+221553860,221553843,0,False,tertiary,Wayne Center Road,914.338,,,,,,,,,,,20637826,CR 248
+221554257,221548047,0,False,residential,Spring Green Road,2887.568,,,,,,,,,,,20637841,
+221554257,221609060,0,False,residential,Deigel Road,398.442,,,,,,,,,,,20642124,
+221555958,221548251,0,False,residential,Lyman Road,116.634,,,,,,,,,,,20640580,
+221555958,221555978,0,False,residential,Brown Road,1739.204,,,,,,,,,,,20637987,
+221555958,221579323,0,False,residential,Lyman Road,1511.906,,,,,,,,,,,20640580,
+221555978,221555958,0,False,residential,Brown Road,1739.204,,,,,,,,,,,20637987,
+221555978,221575352,0,False,tertiary,Salter Road,1329.917,,,,,,,,,,,20639587,CR 257
+221555978,221519452,0,False,tertiary,Salter Road,1491.28,,,,,,,,,,,20639587,CR 257
+221556789,221546677,0,False,residential,Rural Street,432.948,,,,,,,,,,,20638058,
+221556789,221547063,0,False,tertiary,South Butler Road,351.206,,,,,,,,,,,20641855,CR 271
+221556789,221557849,0,False,tertiary,South Butler Road,1205.683,,,,,,,,,,,20641855,CR 271
+221556804,221556837,0,False,tertiary,Westbury Road,970.174,,,,,,,,,,,20638062,CR 266
+221556804,221551491,0,False,tertiary,Westbury Road,85.391,,,,,,,,,,,20638062,CR 266
+221556804,221558045,0,False,residential,Yates Road,1231.289,,,,,,,,,,,20640251,
+221556837,221556841,0,False,tertiary,Westbury Road,55.985,,,,,,,,,,,20638062,CR 266
+221556837,221556804,0,False,tertiary,Westbury Road,970.174,,,,,,,,,,,20638062,CR 266
+221556837,221558490,0,False,residential,Hogback Road,53.457,,,,,,,,,,,20638184,
+221556841,221558490,0,False,residential,Hogback Road,65.844,,,,,,,,,,,20638185,
+221556841,221556858,0,False,tertiary,Westbury Road,865.241,,,,,,,,,,,20638062,CR 266
+221556841,221556837,0,False,tertiary,Westbury Road,55.985,,,,,,,,,,,20638062,CR 266
+221556858,221556874,0,False,tertiary,Westbury Road,851.313,,,,,,,,,,,20638062,CR 266
+221556858,221556841,0,False,tertiary,Westbury Road,865.241,,,,,,,,,,,20638062,CR 266
+221556858,221558104,0,False,residential,Saeli Road,1004.456,,,,,,,,,,,20638363,
+221556874,221556858,0,False,tertiary,Westbury Road,851.313,,,,,,,,,,,20638062,CR 266
+221556874,221550267,0,False,tertiary,Westbury Road,510.023,,,,,,,,,,,20638064,CR 266
+221556936,221551491,0,False,tertiary,Westbury Road,1268.568,,,,,,,,,,,20638066,CR 266
+221556936,221561081,0,False,residential,Slyburg Road,494.294,,,,,,,,,,,20638389,
+221556936,221541815,0,False,tertiary,Wolcott Spring Lake Road,786.889,,,,,,,,,,,20639911,CR 262
+221556936,221580742,0,False,tertiary,Wolcott Spring Lake Road,1319.287,,,,,,,,,,,20639911,CR 262
+221557010,211287960,0,False,tertiary,Westbury Road,542.239,,,,,,,,,,,20025164,
+221557010,221550267,0,False,tertiary,Westbury Road,1780.409,,,,,,,,,,,"[20638064, 20033729]",CR 266
+221557010,221564417,0,False,residential,Lagas Road,850.076,,,,,,,,,,,20640893,
+221557790,221557814,0,False,residential,Livingston Road,930.378,,,,,,,,,,,20638123,
+221557790,221557907,0,False,residential,Livingston Road,1121.568,,,,,,,,,,,20638135,
+221557790,3112346954,0,False,residential,Paylor Road,928.083,,,,,,,,,,,20639570,
+221557814,221557790,0,False,residential,Livingston Road,930.378,,,,,,,,,,,20638123,
+221557814,221594420,0,False,residential,Whiskey Hill Road,993.14,,,,,,,,,,,20640940,
+221557814,221577564,0,False,tertiary,Lasher Road,1083.362,,,,,,,,,,,20641786,CR 259
+221557814,221586459,0,False,tertiary,Whiskey Hill Road,1278.916,,,,,,,,,,,306097253,CR 258
+221557849,221572728,0,False,tertiary,South Butler Road,364.703,,,,,,,,,,,20641855,CR 271
+221557849,221557907,0,False,residential,Livingston Road,4018.687,,,,,,,,,,,20638135,
+221557849,221556789,0,False,tertiary,South Butler Road,1205.683,,,,,,,,,,,20641855,CR 271
+221557907,221557790,0,False,residential,Livingston Road,1121.568,,,,,,,,,,,20638135,
+221557907,221557849,0,False,residential,Livingston Road,4018.687,,,,,,,,,,,20638135,
+221557907,221546801,0,False,residential,Everhart Road,770.921,,,,,,,,,,,20642049,
+221558045,221580742,0,False,residential,Yates Road,350.17,,,,,,,,,,,20640251,
+221558045,221558104,0,False,residential,Wojeski Road,1720.565,,,,,,,,,,,20638148,
+221558045,221556804,0,False,residential,Yates Road,1231.289,,,,,,,,,,,20640251,
+221558104,221558045,0,False,residential,Wojeski Road,1720.565,,,,,,,,,,,20638148,
+221558104,221556858,0,False,residential,Saeli Road,1004.456,,,,,,,,,,,20638363,
+221558104,221521786,0,False,residential,Saeli Road,1112.859,,,,,,,,,,,20638363,
+221558490,221556841,0,False,residential,Hogback Road,65.844,,,,,,,,,,,20638185,
+221558490,221548140,0,False,residential,Hogback Road,737.141,,,,,,,,,,,20638184,
+221558490,221556837,0,False,residential,Hogback Road,53.457,,,,,,,,,,,20638184,
+221559010,221559026,0,False,tertiary,Lakes Crns-Rose Valley Road,1420.182,,,,,,,,,,,20638225,CR 250
+221559010,221560006,0,False,residential,Strong Road,847.565,,,,,,,,,,,20639877,
+221559026,221559010,0,False,tertiary,Lakes Crns-Rose Valley Road,1420.182,,,,,,,,,,,20638225,CR 250
+221559026,221559036,0,False,tertiary,Lakes Corners-Rose Valley Road,1625.615,,,,,,,,,,,20638229,CR 250
+221559026,221548704,0,False,residential,Covell Road,420.558,,,,,,,,,,,20641748,
+221559036,221548761,0,False,tertiary,Lakes Corners-Rose Valley Road,882.756,,,,,,,,,,,20638228,CR 250
+221559036,221559026,0,False,tertiary,Lakes Corners-Rose Valley Road,1625.615,,,,,,,,,,,20638229,CR 250
+221559092,1218324341,0,False,secondary,Main Street,30.081,,,,,,,,,,,20640065,NY 414
+221559092,221583497,0,False,tertiary,Valley Drive,92.106,2,,,,,,,,,,20641718,CR 253
+221559092,221574045,0,False,secondary,State Route 414,2327.712,,,,,,,,,,,20641938,NY 414
+221559829,221548690,0,False,residential,High Street,1285.916,,,,,,,,,,,20638286,
+221559829,221568687,0,False,tertiary,Wayne Center-Rose Road,685.739,,,,,,,,,,,20638979,CR 251
+221559829,221553860,0,False,tertiary,Wayne Center-Rose Road,2156.628,,,,,,,,,,,20638979,CR 251
+221559829,221559851,0,False,residential,High Street,2300.254,,,,,,,,,,,20638286,
+221559851,221559829,0,False,residential,High Street,2300.254,,,,,,,,,,,20638286,
+221559851,221579311,0,False,unclassified,Catchpole Road,1277.33,,,,,,,,,,,20639801,
+221559851,221532492,0,False,unclassified,Catchpole Road,444.572,,,,,,,,,,,20639801,
+221560006,221560044,0,False,residential,High Street,1470.245,,,,,,,,,,,20638302,
+221560006,221559010,0,False,residential,Strong Road,847.565,,,,,,,,,,,20639877,
+221560044,221548690,0,False,residential,High Street,681.932,,,,,,,,,,,20638302,
+221560044,221560006,0,False,residential,High Street,1470.245,,,,,,,,,,,20638302,
+221560044,221550237,0,False,residential,Fox Road,2021.311,,,,,,,,,,,20638638,
+221560899,221542706,0,False,residential,Buchanan Road,688.706,,,,,,,,,,,20642072,
+221560899,221604664,0,False,residential,Buchanan Road,1515.264,,,,,,,,,,,20642072,
+221561042,221561081,0,False,residential,Slyburg Road,3448.131,,,,,,,,,,,20638389,
+221561042,221541556,0,False,tertiary,South Butler Conquest Road,1191.261,,,,,,,,,,,20641347,CR 275
+221561042,221548558,0,False,tertiary,South Butler Conquest Road,376.794,,,,,,,,,,,20641348,CR 275
+221561081,221556936,0,False,residential,Slyburg Road,494.294,,,,,,,,,,,20638389,
+221561081,221561042,0,False,residential,Slyburg Road,3448.131,,,,,,,,,,,20638389,
+221561081,221597288,0,False,residential,McCann Road,1390.639,,,,,,,,,,,20641151,
+221561668,221577891,0,False,residential,Dagel Avenue,111.207,,,,,,,,,,,20639703,
+221561668,221561676,0,False,residential,Elm Street,132.71,,,,,,,,,,,20638434,
+221561668,221594135,0,False,residential,"['South Poplar Street', 'Dagel Avenue']",208.166,,,,,,,,,,,"[20640913, 20639703]",
+221561676,221594135,0,False,residential,Short Street,105.31,,,,,,,,,,,20641227,
+221561676,221561687,0,False,residential,Elm Street,115.095,,,,,,,,,,,20638434,
+221561676,221561668,0,False,residential,Elm Street,132.71,,,,,,,,,,,20638434,
+221561687,221581300,0,False,residential,Storage Avenue,108.939,,,,,,,,,,,20639942,
+221561687,221561676,0,False,residential,Elm Street,115.095,,,,,,,,,,,20638434,
+221561687,221579540,0,False,residential,Storage Avenue,110.456,,,,,,,,,,,20639942,
+221562963,221548017,0,False,residential,Van Vleck Road,495.239,,,,,,,,,,,20638530,
+221562963,221546884,0,False,residential,Van Vleck Road,1179.098,,,,,,,,,,,20638530,
+221562963,221567457,0,False,residential,Crane Road,2466.76,,,,,,,,,,,20638874,
+221563778,221542708,0,False,primary,,962.268,2,,,55 mph,,,,,,,426038365,NY 104
+221563778,221542728,0,False,tertiary,Whiskey Hill Road,224.088,,,,,,,,,,,139632134,CR 258
+221563778,221575411,0,False,tertiary,Whiskey Hill Road,1908.979,,,,,,,,,,,306097253,CR 258
+221563778,221535746,0,False,primary,,512.615,2,,,55 mph,,,,,,,426038365,NY 104
+221563826,221563830,0,False,primary,,215.376,2,,,55 mph,,,,,,,426038363,NY 104
+221563826,221567549,0,False,residential,Countryman Road,407.114,,,,,,,,,,,20638876,
+221563826,221567539,0,False,residential,Countryman Road,1180.295,,,,,,,,,,,20638876,
+221563826,221522808,0,False,primary,,1694.137,2,,,55 mph,,,,,,,426038363,NY 104
+221563830,221563826,0,False,primary,,215.376,2,,,55 mph,,,,,,,426038363,NY 104
+221564180,221564184,0,False,tertiary,Clinton Avenue,174.187,,,,,,,,,,,20638619,CR 257
+221564180,221588818,0,False,secondary,"['State Route 414', 'North Main Street']",815.478,,,,,,,,,,,"[20639856, 20641940]",NY 414
+221564180,221580015,0,False,secondary,North Main Street,185.969,,,,,,,,,,,20639856,NY 414
+221564180,221520288,0,False,residential,Glenmark Road,1436.304,,,,,,,,,,,20640981,
+221564184,221564188,0,False,tertiary,Clinton Avenue,141.39,,,,,,,,,,,20638619,CR 257
+221564184,221564180,0,False,tertiary,Clinton Avenue,174.187,,,,,,,,,,,20638619,CR 257
+221564184,221567811,0,False,residential,Gray Street,92.193,,,,,,,,,,,20638900,
+221564184,221567273,0,False,residential,Gray Street,240.276,,,,,,,,,,,20638900,
+221564188,221564184,0,False,tertiary,Clinton Avenue,141.39,,,,,,,,,,,20638619,CR 257
+221564188,221519471,0,False,tertiary,Salter Road,215.27,,,,,,,,,,,20639587,CR 257
+221564188,221567275,0,False,tertiary,North Huron Street,242.58,,,,,,,,,,,20641327,CR 256
+221564417,221548538,0,False,primary,State Route 370,1579.631,2,,,55 mph,,,,,,,20638634,NY 370
+221564417,211287960,0,False,primary,State Route 370,597.01,2,,,55 mph,,,,,,,20638634,NY 370
+221564417,221557010,0,False,residential,Lagas Road,850.076,,,,,,,,,,,20640893,
+221566297,221566302,0,False,unclassified,Brick Schoolhouse Road,81.001,,,,,,,,,,,20638778,
+221566297,221532492,0,False,unclassified,Brick Schoolhouse Road,1510.042,,,,,,,,,,,20638778,
+221566297,221508013,0,False,residential,Glenmark Road,726.159,,,,,,,,,,,20640996,
+221566302,221566297,0,False,unclassified,Brick Schoolhouse Road,81.001,,,,,,,,,,,20638778,
+221566302,221595082,0,False,residential,Glenmark Road,2811.341,,,,,,,,,,,20640993,
+221567061,221567065,0,False,residential,Willow Lane,122.737,,,,,,,,,,,20638840,
+221567065,221567061,0,False,residential,Willow Lane,122.737,,,,,,,,,,,20638840,
+221567065,221583154,0,False,residential,Jefferson Street,91.094,,,,,,,,,,,20641135,
+221567269,221567273,0,False,residential,Caroline Avenue,129.104,,,,,,,,,,,20638860,
+221567269,221580015,0,False,secondary,North Main Street,59.922,,,,,,,,,,,20639856,NY 414
+221567269,221580007,0,False,secondary,North Main Street,223.79,,,,,,,,,,,20639856,NY 414
+221567273,221567275,0,False,residential,Caroline Avenue,139.535,,,,,,,,,,,20638860,
+221567273,221567269,0,False,residential,Caroline Avenue,129.104,,,,,,,,,,,20638860,
+221567273,221564184,0,False,residential,Gray Street,240.276,,,,,,,,,,,20638900,
+221567273,221567810,0,False,residential,Gray Street,222.693,,,,,,,,,,,20638900,
+221567275,221567273,0,False,residential,Caroline Avenue,139.535,,,,,,,,,,,20638860,
+221567275,221564188,0,False,tertiary,North Huron Street,242.58,,,,,,,,,,,20641327,CR 256
+221567275,221567279,0,False,residential,Caroline Avenue,329.86,,,,,,,,,,,20638860,
+221567275,221567810,0,False,tertiary,"['Railroad Avenue', 'North Huron Street']",352.517,,,,,,,,,,,"[306098253, 20641327]",CR 256
+221567279,221567275,0,False,residential,Caroline Avenue,329.86,,,,,,,,,,,20638860,
+221567457,221584835,0,False,tertiary,Butler Center Road,277.366,,,,,,,,,,,20640255,CR 264
+221567457,221562963,0,False,residential,Crane Road,2466.76,,,,,,,,,,,20638874,
+221567457,221541807,0,False,tertiary,Butler Center Road,123.657,,,,,,,,,,,20640255,CR 264
+221567539,221545785,0,False,residential,Countryman Road,215.749,,,,,,,,,,,20638876,
+221567539,221563826,0,False,residential,Countryman Road,1180.295,,,,,,,,,,,20638876,
+221567539,221531923,0,False,residential,Delf Drive,136.691,,,,,,,,,,,20641419,
+221567549,221563826,0,False,residential,Countryman Road,407.114,,,,,,,,,,,20638876,
+221567549,221578278,0,False,residential,Wager Road,1205.298,,,,,,,,,,,20641602,
+221567810,221567273,0,False,residential,Gray Street,222.693,,,,,,,,,,,20638900,
+221567810,221580007,0,False,tertiary,Railroad Avenue,89.185,,,,,,,,,,,306098253,CR 256
+221567810,221567275,0,False,tertiary,"['Railroad Avenue', 'North Huron Street']",352.517,,,,,,,,,,,"[306098253, 20641327]",CR 256
+221567811,221564184,0,False,residential,Gray Street,92.193,,,,,,,,,,,20638900,
+221568078,221548065,0,False,residential,Miller Road,1036.865,,,,,,,,,,,20638927,
+221568078,221580816,0,False,tertiary,Wolcott Spring Lake Road,453.256,,,,,,,,,,,20639911,CR 262
+221568078,221541815,0,False,tertiary,Wolcott Spring Lake Road,1247.874,,,,,,,,,,,20639911,CR 262
+221568510,221543248,0,False,residential,Maple Avenue,30.254,,,,,,,,,,,20638965,
+221568516,221543248,0,False,residential,Maple Avenue,170.378,,,,,,,,,,,20638966,
+221568516,221579540,0,False,secondary,South Main Street,113.717,,,,,,,,,,,20639812,NY 414
+221568516,221577891,0,False,secondary,South Main Street,123.118,,,,,,,,,,,20639812,NY 414
+221568687,221568689,0,False,tertiary,Wayne Center-Rose Road,1261.81,,,,,,,,,,,20638979,CR 251
+221568687,221559829,0,False,tertiary,Wayne Center-Rose Road,685.739,,,,,,,,,,,20638979,CR 251
+221568687,221589024,0,False,residential,Covell Road,1816.976,,,,,,,,,,,20641748,
+221568687,221548704,0,False,residential,Covell Road,1276.378,,,,,,,,,,,20641748,
+221568689,221568687,0,False,tertiary,Wayne Center-Rose Road,1261.81,,,,,,,,,,,20638979,CR 251
+221568689,221568698,0,False,tertiary,Wayne Center-Rose Road,2395.697,,,,,,,,,,,20638979,CR 251
+221568689,221575906,0,False,residential,Lovers Lane,1520.808,,,,,,,,,,,20639506,
+221568689,221548745,0,False,residential,Lovers Lane,996.125,,,,,,,,,,,20639506,
+221568698,221518413,0,False,secondary,State Highway 414,69.207,,,,,,,,,,,20641934,NY 414
+221568698,221568689,0,False,tertiary,Wayne Center-Rose Road,2395.697,,,,,,,,,,,20638979,CR 251
+221568698,221532526,0,False,secondary,State Highway 414,903.606,,,,,,,,,,,20641934,NY 414
+221572728,221557849,0,False,tertiary,South Butler Road,364.703,,,,,,,,,,,20641855,CR 271
+221572728,221594347,0,False,tertiary,South Butler Road,1139.48,,,,,,,,,,,20641855,CR 271
+221574045,221574056,0,False,residential,Maunder Road,1971.884,,,,,,,,,,,20639357,
+221574045,221559092,0,False,secondary,State Route 414,2327.712,,,,,,,,,,,20641938,NY 414
+221574056,221574063,0,False,residential,Maunder Road,431.413,,,,,,,,,,,20639357,
+221574056,221574045,0,False,residential,Maunder Road,1971.884,,,,,,,,,,,20639357,
+221574056,221591244,0,False,residential,Burley Road,893.882,,,,,,,,,,,20640653,
+221574063,221574056,0,False,residential,Maunder Road,431.413,,,,,,,,,,,20639357,
+221574063,221591244,0,False,residential,Shepard Road,476.405,,,,,,,,,,,20641435,
+221575166,221575175,0,False,residential,Armstrong Road,703.092,,,,,,,,,,,20639439,
+221575166,221548191,0,False,residential,Armstrong Road,1648.808,,,,,,,,,,,20639439,
+221575166,221600871,0,False,residential,Shepard Road,1118.491,,,,,,,,,,,20641435,
+221575175,221575182,0,False,residential,Armstrong Road,1273.397,,,,,,,,,,,20639439,
+221575175,221575166,0,False,residential,Armstrong Road,703.092,,,,,,,,,,,20639439,
+221575175,221585594,0,False,residential,Galen Road,1625.983,,,,,,,,,,,20640285,
+221575175,221581389,0,False,residential,Galen Road,2006.998,,,,,,,,,,,20640285,
+221575182,221575175,0,False,residential,Armstrong Road,1273.397,,,,,,,,,,,20639439,
+221575182,221604601,0,False,residential,Drury Road,826.86,,,,,,,,,,,20641781,
+221575352,221522087,0,False,residential,Salter-Colvin Road,1225.842,,,,,,,,,,,20639465,
+221575352,221555978,0,False,tertiary,Salter Road,1329.917,,,,,,,,,,,20639587,CR 257
+221575352,221585605,0,False,tertiary,Lasher Road,1815.634,,,,,,,,,,,20641786,CR 259
+221575352,221604664,0,False,residential,Lasher Road,840.605,,,,,,,,,,,306097252,
+221575378,221542697,0,False,residential,Salter-Colvin Road,305.617,,,,,,,,,,,20639465,
+221575378,221522087,0,False,residential,Salter-Colvin Road,415.992,,,,,,,,,,,20639465,
+221575378,221522131,0,False,residential,Galen Road,457.085,,,,,,,,,,,306216155,
+221575391,221542697,0,False,residential,Salter-Colvin Road,415.313,,,,,,,,,,,20639465,
+221575391,221577564,0,False,residential,Gaylord Road,1291.706,,,,,,,,,,,20639676,
+221575391,221575411,0,False,residential,Salter-Colvin Road,1130.286,,,,,,,,,,,20639465,
+221575411,221586459,0,False,tertiary,Whiskey Hill Road,88.153,,,,,,,,,,,306097253,CR 258
+221575411,221575391,0,False,residential,Salter-Colvin Road,1130.286,,,,,,,,,,,20639465,
+221575411,221563778,0,False,tertiary,Whiskey Hill Road,1908.979,,,,,,,,,,,306097253,CR 258
+221575906,221568689,0,False,residential,Lovers Lane,1520.808,,,,,,,,,,,20639506,
+221575906,221589075,0,False,residential,Miner Road,2542.776,,,,,,,,,,,20640515,
+221575906,221589024,0,False,residential,Miner Road,500.218,,,,,,,,,,,20640515,
+221577564,221575391,0,False,residential,Gaylord Road,1291.706,,,,,,,,,,,20639676,
+221577564,221604612,0,False,tertiary,Lasher Road,145.827,,,,,,,,,,,20641786,CR 259
+221577564,221557814,0,False,tertiary,Lasher Road,1083.362,,,,,,,,,,,20641786,CR 259
+221577891,221561668,0,False,residential,Dagel Avenue,111.207,,,,,,,,,,,20639703,
+221577891,221568516,0,False,secondary,South Main Street,123.118,,,,,,,,,,,20639812,NY 414
+221577891,221579323,0,False,secondary,South Main Street,1005.934,,,,,,,,,,,20639812,NY 414
+221578087,221578098,0,False,residential,Williams Street,106.094,,,,,,,,,,,20639718,
+221578098,221583154,0,False,residential,Butler Street,112.111,,,,,,,,,,,20640108,
+221578098,221578087,0,False,residential,Williams Street,106.094,,,,,,,,,,,20639718,
+221578252,221578278,0,False,residential,Bassett Road,1297.84,,,,,,,,,,,20639727,
+221578278,221578252,0,False,residential,Bassett Road,1297.84,,,,,,,,,,,20639727,
+221578278,221567549,0,False,residential,Wager Road,1205.298,,,,,,,,,,,20641602,
+221578278,221580832,0,False,residential,Wager Road,751.032,,,,,,,,,,,20641602,
+221579311,221589024,0,False,residential,Covell Road,776.73,,,,,,,,,,,20641748,
+221579311,221532511,0,False,unclassified,Catchpole Road,1658.895,,,,,,,,,,,20639801,
+221579311,221559851,0,False,unclassified,Catchpole Road,1277.33,,,,,,,,,,,20639801,
+221579311,221595052,0,False,residential,Covell Road,2058.981,,,,,,,,,,,20641748,
+221579323,221532511,0,False,unclassified,Catchpole Road,787.33,,,,,,,,,,,20639801,
+221579323,221577891,0,False,secondary,South Main Street,1005.934,,,,,,,,,,,20639812,NY 414
+221579323,221555958,0,False,residential,Lyman Road,1511.906,,,,,,,,,,,20640580,
+221579323,221589075,0,False,secondary,State Highway 414,1269.668,,,,,,,,,,,20641934,NY 414
+221579540,221568516,0,False,secondary,South Main Street,113.717,,,,,,,,,,,20639812,NY 414
+221579540,221580007,0,False,secondary,North Main Street,75.594,,,,,,,,,,,20639856,NY 414
+221579540,221561687,0,False,residential,Storage Avenue,110.456,,,,,,,,,,,20639942,
+221580007,221587842,0,False,residential,Railroad Avenue,163.292,,,,,,,,,,,20641871,
+221580007,221567810,0,False,tertiary,Railroad Avenue,89.185,,,,,,,,,,,306098253,CR 256
+221580007,221567269,0,False,secondary,North Main Street,223.79,,,,,,,,,,,20639856,NY 414
+221580007,221579540,0,False,secondary,North Main Street,75.594,,,,,,,,,,,20639856,NY 414
+221580015,221567269,0,False,secondary,North Main Street,59.922,,,,,,,,,,,20639856,NY 414
+221580015,221564180,0,False,secondary,North Main Street,185.969,,,,,,,,,,,20639856,NY 414
+221580015,221587820,0,False,residential,Aldrich Avenue,150.51,,,,,,,,,,,20641242,
+221580738,221580742,0,False,tertiary,Wolcott Spring Lake Road,51.847,,,,,,,,,,,20639905,CR 262
+221580738,221524163,0,False,tertiary,Wolcott Spring Lake Road,2428.356,,,,,,,,,,,20639905,CR 262
+221580738,221584723,0,False,residential,Yates Road,2982.856,,,,,,,,,,,20640250,
+221580742,221580738,0,False,tertiary,Wolcott Spring Lake Road,51.847,,,,,,,,,,,20639905,CR 262
+221580742,221558045,0,False,residential,Yates Road,350.17,,,,,,,,,,,20640251,
+221580742,221556936,0,False,tertiary,Wolcott Spring Lake Road,1319.287,,,,,,,,,,,20639911,CR 262
+221580816,221548017,0,False,tertiary,Wolcott Spring Lake Road,1173.351,,,,,,,,,,,20639911,CR 262
+221580816,221568078,0,False,tertiary,Wolcott Spring Lake Road,453.256,,,,,,,,,,,20639911,CR 262
+221580816,221541807,0,False,tertiary,Butler Center Road,1291.732,,,,,,,,,,,20640255,CR 264
+221580832,221546908,0,False,tertiary,Wolcott Spring Lake Road,1417.964,,,,,,,,,,,20639911,CR 262
+221580832,221548017,0,False,tertiary,Wolcott Spring Lake Road,1396.268,,,,,,,,,,,20639911,CR 262
+221580832,221578278,0,False,residential,Wager Road,751.032,,,,,,,,,,,20641602,
+221581300,221561687,0,False,residential,Storage Avenue,108.939,,,,,,,,,,,20639942,
+221581300,2699479480,0,False,residential,Storage Avenue,70.049,,,,,,,,,,,20639942,
+221581300,221594135,0,False,residential,South Poplar Street,156.958,,,,,,,,,,,20640913,
+221581387,221581389,0,False,residential,Meehan Road,915.015,,,,,,,,,,,20639950,
+221581387,221600871,0,False,residential,Shepard Road,855.074,,,,,,,,,,,20641435,
+221581387,221591244,0,False,residential,Shepard Road,838.515,,,,,,,,,,,20641435,
+221581389,221581392,0,False,residential,Meehan Road,400.976,,,,,,,,,,,20639950,
+221581389,221581387,0,False,residential,Meehan Road,915.015,,,,,,,,,,,20639950,
+221581389,221575175,0,False,residential,Galen Road,2006.998,,,,,,,,,,,20640285,
+221581392,221581389,0,False,residential,Meehan Road,400.976,,,,,,,,,,,20639950,
+221582704,221548147,0,False,secondary,Main Street,158.029,,,,,,,,,,,20640065,NY 414
+221582704,221583500,0,False,residential,School Street,112.788,,,,,,,,,,,20642089,
+221582704,1218324341,0,False,secondary,Main Street,74.246,,,,,,,,,,,20640065,NY 414
+221583146,221583151,0,False,residential,Butler Street,186.561,,,,,,,,,,,20640108,
+221583151,221548495,0,False,residential,Butler Street,221.805,,,,,,,,,,,20640108,
+221583151,221583146,0,False,residential,Butler Street,186.561,,,,,,,,,,,20640108,
+221583151,221544556,0,False,residential,Draper Street,115.375,,,,,,,,,,,20641540,
+221583154,221578098,0,False,residential,Butler Street,112.111,,,,,,,,,,,20640108,
+221583154,221548495,0,False,residential,Butler Street,199.87,,,,,,,,,,,20640108,
+221583154,221567065,0,False,residential,Jefferson Street,91.094,,,,,,,,,,,20641135,
+221583497,221583500,0,False,residential,Winchell Street,104.653,,,,,,,,,,,20640148,
+221583497,221559092,0,False,tertiary,Valley Drive,92.106,2,,,,,,,,,,20641718,CR 253
+221583497,221542602,0,False,tertiary,Valley Drive,211.434,2,,,,,,,,,,20641718,CR 253
+221583500,221583497,0,False,residential,Winchell Street,104.653,,,,,,,,,,,20640148,
+221583500,221582704,0,False,residential,School Street,112.788,,,,,,,,,,,20642089,
+221583500,221542607,0,False,residential,School Street,213.943,,,,,,,,,,,20642089,
+221584723,221541556,0,False,tertiary,South Butler Conquest Road,145.562,,,,,,,,,,,20641347,CR 275
+221584723,221580738,0,False,residential,Yates Road,2982.856,,,,,,,,,,,20640250,
+221584803,221535289,0,False,tertiary,Butler Center Road,334.819,,,,,,,,,,,20640254,CR 264
+221584803,221584835,0,False,tertiary,Butler Center Road,727.064,,,,,,,,,,,20640255,CR 264
+221584803,221597294,0,False,residential,McCann Road,672.83,,,,,,,,,,,20641151,
+221584835,221567457,0,False,tertiary,Butler Center Road,277.366,,,,,,,,,,,20640255,CR 264
+221584835,221592733,0,False,residential,Washburn Road,348.972,,,,,,,,,,,20640794,
+221584835,221584803,0,False,tertiary,Butler Center Road,727.064,,,,,,,,,,,20640255,CR 264
+221585594,221575175,0,False,residential,Galen Road,1625.983,,,,,,,,,,,20640285,
+221585594,221548234,0,False,tertiary,Lyman Road,179.316,,,,,,,,,,,306216153,CR 255
+221585594,221585605,0,False,tertiary,Galen Road,559.11,,,,,,,,,,,306216154,CR 255
+221585605,221575352,0,False,tertiary,Lasher Road,1815.634,,,,,,,,,,,20641786,CR 259
+221585605,221604612,0,False,tertiary,Lasher Road,1081.676,,,,,,,,,,,20641786,CR 259
+221585605,221585594,0,False,tertiary,Galen Road,559.11,,,,,,,,,,,306216154,CR 255
+221585605,221522131,0,False,residential,Galen Road,950.448,,,,,,,,,,,306216155,
+221586459,221575411,0,False,tertiary,Whiskey Hill Road,88.153,,,,,,,,,,,306097253,CR 258
+221586459,221546884,0,False,residential,Smith Road,937.767,,,,,,,,,,,20640350,
+221586459,221557814,0,False,tertiary,Whiskey Hill Road,1278.916,,,,,,,,,,,306097253,CR 258
+221587800,221587820,0,False,residential,North Poplar Street,135.886,,,,,,,,,,,20640427,
+221587820,221587800,0,False,residential,North Poplar Street,135.886,,,,,,,,,,,20640427,
+221587820,221587842,0,False,residential,North Poplar Street,248.13,,,,,,,,,,,20640429,
+221587820,221580015,0,False,residential,Aldrich Avenue,150.51,,,,,,,,,,,20641242,
+221587842,221580007,0,False,residential,Railroad Avenue,163.292,,,,,,,,,,,20641871,
+221587842,221605781,0,False,residential,Railroad Avenue,105.125,,,,,,,,,,,20641871,
+221587842,221587820,0,False,residential,North Poplar Street,248.13,,,,,,,,,,,20640429,
+221588818,221588836,0,False,residential,Van Sicklen Road,386.861,,,,,,,,,,,20640496,
+221588818,221564180,0,False,secondary,"['State Route 414', 'North Main Street']",815.478,,,,,,,,,,,"[20639856, 20641940]",NY 414
+221588836,221588818,0,False,residential,Van Sicklen Road,386.861,,,,,,,,,,,20640496,
+221588836,221588836,0,False,residential,Van Sicklen Road,172.625,,,,,,,,,,,20640497,
+221588836,221588836,1,False,residential,Van Sicklen Road,172.625,,,,,,,,,,,20640497,
+221589024,221579311,0,False,residential,Covell Road,776.73,,,,,,,,,,,20641748,
+221589024,221575906,0,False,residential,Miner Road,500.218,,,,,,,,,,,20640515,
+221589024,221568687,0,False,residential,Covell Road,1816.976,,,,,,,,,,,20641748,
+221589075,221575906,0,False,residential,Miner Road,2542.776,,,,,,,,,,,20640515,
+221589075,221579323,0,False,secondary,State Highway 414,1269.668,,,,,,,,,,,20641934,NY 414
+221589075,221532526,0,False,secondary,State Highway 414,208.017,,,,,,,,,,,20641934,NY 414
+221591244,221574056,0,False,residential,Burley Road,893.882,,,,,,,,,,,20640653,
+221591244,221581387,0,False,residential,Shepard Road,838.515,,,,,,,,,,,20641435,
+221591244,221574063,0,False,residential,Shepard Road,476.405,,,,,,,,,,,20641435,
+221592733,221584835,0,False,residential,Washburn Road,348.972,,,,,,,,,,,20640794,
+221594135,221561676,0,False,residential,Short Street,105.31,,,,,,,,,,,20641227,
+221594135,221581300,0,False,residential,South Poplar Street,156.958,,,,,,,,,,,20640913,
+221594135,221561668,0,False,residential,"['South Poplar Street', 'Dagel Avenue']",208.166,,,,,,,,,,,"[20640913, 20639703]",
+221594347,221594420,0,False,residential,Whiskey Hill Road,4661.991,,,,,,,,,,,20640940,
+221594347,221572728,0,False,tertiary,South Butler Road,1139.48,,,,,,,,,,,20641855,CR 271
+221594347,3107907421,0,False,tertiary,South Butler Road,510.908,,,,,,,,,,,"[20641853, 20641855]",CR 271
+221594420,221604601,0,False,residential,Fish Road,869.545,,,,,,,,,,,20641825,
+221594420,221557814,0,False,residential,Whiskey Hill Road,993.14,,,,,,,,,,,20640940,
+221594420,221594347,0,False,residential,Whiskey Hill Road,4661.991,,,,,,,,,,,20640940,
+221595052,221520288,0,False,residential,Glenmark Road,105.143,,,,,,,,,,,20640981,
+221595052,221595082,0,False,residential,Glenmark Road,389.925,,,,,,,,,,,20640993,
+221595052,221579311,0,False,residential,Covell Road,2058.981,,,,,,,,,,,20641748,
+221595082,221566302,0,False,residential,Glenmark Road,2811.341,,,,,,,,,,,20640993,
+221595082,221595052,0,False,residential,Glenmark Road,389.925,,,,,,,,,,,20640993,
+221597288,221597294,0,False,residential,McCann Road,24.825,,,,,,,,,,,20641151,
+221597288,221609129,0,False,residential,Foster Mead Road,44.978,,,,,,,,,,,20642137,
+221597288,221561081,0,False,residential,McCann Road,1390.639,,,,,,,,,,,20641151,
+221597294,221597288,0,False,residential,McCann Road,24.825,,,,,,,,,,,20641151,
+221597294,221609129,0,False,residential,Foster Mead Road,38.429,,,,,,,,,,,20642135,
+221597294,221584803,0,False,residential,McCann Road,672.83,,,,,,,,,,,20641151,
+221599695,221601800,0,False,residential,Reed Drive,196.432,,,,,,,,,,,20641518,
+221599695,221548558,0,False,tertiary,South Butler Conquest Road,862.113,,,,,,,,,,,20641348,CR 275
+221599695,221547063,0,False,tertiary,South Butler Conquest Road,242.671,,,,,,,,,,,20641348,CR 275
+221600871,221575166,0,False,residential,Shepard Road,1118.491,,,,,,,,,,,20641435,
+221600871,221581387,0,False,residential,Shepard Road,855.074,,,,,,,,,,,20641435,
+221600871,942474855,0,False,residential,Valley Drive,541.375,2,,,,,,,,,,80825460,CR 253
+221601800,221599695,0,False,residential,Reed Drive,196.432,,,,,,,,,,,20641518,
+221603749,221542602,0,False,tertiary,Valley Drive,1338.252,2,,,,,,,,,,20641718,CR 253
+221604601,221594420,0,False,residential,Fish Road,869.545,,,,,,,,,,,20641825,
+221604601,221604612,0,False,residential,Drury Road,1254.251,,,,,,,,,,,20641781,
+221604601,221575182,0,False,residential,Drury Road,826.86,,,,,,,,,,,20641781,
+221604612,221577564,0,False,tertiary,Lasher Road,145.827,,,,,,,,,,,20641786,CR 259
+221604612,221604601,0,False,residential,Drury Road,1254.251,,,,,,,,,,,20641781,
+221604612,221585605,0,False,tertiary,Lasher Road,1081.676,,,,,,,,,,,20641786,CR 259
+221604664,221560899,0,False,residential,Buchanan Road,1515.264,,,,,,,,,,,20642072,
+221604664,221575352,0,False,residential,Lasher Road,840.605,,,,,,,,,,,306097252,
+221605781,221587842,0,False,residential,Railroad Avenue,105.125,,,,,,,,,,,20641871,
+221609060,221554257,0,False,residential,Deigel Road,398.442,,,,,,,,,,,20642124,
+221609129,221597294,0,False,residential,Foster Mead Road,38.429,,,,,,,,,,,20642135,
+221609129,221597288,0,False,residential,Foster Mead Road,44.978,,,,,,,,,,,20642137,
+221609129,221546697,0,False,residential,Foster Mead Road,2820.099,,,,,,,,,,,20642135,
+942474855,221600871,0,False,residential,Valley Drive,541.375,2,,,,,,,,,,80825460,CR 253
+1029914740,221543251,0,False,residential,Warehouse Avenue,135.589,,,,,,,,,,,20640703,
+1218324341,221559092,0,False,secondary,Main Street,30.081,,,,,,,,,,,20640065,NY 414
+1218324341,221548761,0,False,tertiary,Lakes Corners-Rose Valley Road,2103.179,,,,,,,,,,,20638234,CR 250
+1218324341,221582704,0,False,secondary,Main Street,74.246,,,,,,,,,,,20640065,NY 414
+2699479480,221581300,0,False,residential,Storage Avenue,70.049,,,,,,,,,,,20639942,
+3107907421,221594347,0,False,tertiary,South Butler Road,510.908,,,,,,,,,,,"[20641853, 20641855]",CR 271
+3112346954,221557790,0,False,residential,Paylor Road,928.083,,,,,,,,,,,20639570,
+3569337182,221544552,0,False,residential,Sunset Terrace,242.353,,,,,,,,,,,20638326,

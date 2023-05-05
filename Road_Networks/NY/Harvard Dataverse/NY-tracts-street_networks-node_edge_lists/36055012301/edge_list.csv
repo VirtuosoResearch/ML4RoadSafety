@@ -1,0 +1,518 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+212602975,212722829,0,False,secondary,Clover Street,186.233,,,,40 mph,,,,,,,301011779,NY 65
+212602975,212680643,0,False,residential,Framingham Lane,920.126,,,,,,,,,,,20115483,
+212602975,212657759,0,False,secondary,Clover Street,688.466,,,,"['50 mph', '40 mph']",,,yes,,,,"[301011779, 71496008, 71496014, 71495985, 71495986]",NY 65
+212605241,212636863,0,False,primary,West Jefferson Road,69.014,,,,,,,,,,,20113757,NY 252
+212605241,212605278,0,False,residential,,113.544,,,,,,,,,,,20110401,
+212605241,212605278,1,False,primary,West Jefferson Road,81.69,,,,,,,,,,,20113757,NY 252
+212605278,212605241,0,False,residential,,113.544,,,,,,,,,,,20110401,
+212605278,212605241,1,False,primary,West Jefferson Road,81.69,,,,,,,,,,,20113757,NY 252
+212605278,212657738,0,False,primary,West Jefferson Road,126.936,,,,,,,,,,,20113757,NY 252
+212609936,212712089,0,False,residential,Village Grove,72.402,,,,,,,,,,,20120695,
+212619512,212832469,0,False,residential,Knickerbocker Road,57.507,,,,,,,,,,,20134966,
+212619512,1142574384,0,False,residential,,281.827,,,,,,,,,,,20111440,
+212619512,212834769,0,False,residential,Knickerbocker Road,539.371,,,,,,,,,,,20134966,
+212624192,212727022,0,False,residential,Tobey Court,628.363,,,,,,,,,,,20111714,
+212624893,212624896,0,False,residential,High Point Road,231.003,,,,,,,,,,,20111757,
+212624893,212832469,0,False,residential,Knickerbocker Road,379.228,,,,,,,,,,,20134966,
+212624896,212624893,0,False,residential,High Point Road,231.003,,,,,,,,,,,20111757,
+212626384,212655152,0,False,residential,French Road,80.194,,,,,,,,,,,255176622,
+212626384,212789680,0,False,residential,French Road,286.838,,,,,,,,,,,255176622,
+212634167,212853894,0,False,residential,Sandpiper Lane,138.884,,,,,,,,,,,20140788,
+212634167,212634173,0,False,residential,Cricket Hill Drive,153.256,,,,,,,,,,,20112323,
+212634167,212634202,0,False,residential,Sandpiper Lane,620.501,,,,,,,,,,,20140788,
+212634173,212894809,0,False,residential,Bedford Way,66.91,,,,,,,,,,,20134904,
+212634173,212634199,0,False,residential,Cricket Hill Drive,190.832,,,,,,,,,,,20112323,
+212634173,212634167,0,False,residential,Cricket Hill Drive,153.256,,,,,,,,,,,20112323,
+212634199,212634202,0,False,residential,Cricket Hill Drive,128.744,,,,,,,,,,,20112323,
+212634199,212634173,0,False,residential,Cricket Hill Drive,190.832,,,,,,,,,,,20112323,
+212634199,212957262,0,False,residential,Standish Way,89.312,,,,,,,,,,,20139530,
+212634202,212634220,0,False,residential,Cricket Hill Drive,95.866,,,,,,,,,,,20112323,
+212634202,212634199,0,False,residential,Cricket Hill Drive,128.744,,,,,,,,,,,20112323,
+212634202,212634167,0,False,residential,Sandpiper Lane,620.501,,,,,,,,,,,20140788,
+212634220,1438992073,0,False,residential,Cricket Hill Drive,75.068,,,,,,,,,,,20112323,
+212634220,212634202,0,False,residential,Cricket Hill Drive,95.866,,,,,,,,,,,20112323,
+212634220,212921819,0,False,residential,Meadow Wood Circle,145.64,,,,,,,,,,,20137037,
+212636863,212657744,0,False,primary,West Jefferson Road,141.534,,,,,,,,,,,20113757,NY 252
+212636863,212605241,0,False,primary,West Jefferson Road,69.014,,,,,,,,,,,20113757,NY 252
+212636863,212852493,0,False,residential,"['Courtenay Circle', 'Green Hill Lane']",395.348,,,,,,,,,,,"[20112496, 20130725]",
+212643885,1636662406,0,False,residential,Tobey Bridge,65.215,,,,,,,,,,,20112950,
+212643885,212727035,0,False,residential,Tobey Road,181.85,,,,,,,,,,,20118586,
+212647881,212647902,0,False,residential,Knobb Hill Drive,249.982,,,,30 mph,,,,,,,20113186,
+212647881,212793774,0,False,residential,Crestview Drive,326.466,,,,,yes,,,,,,20125524,
+212647881,212682517,0,False,residential,Crestview Drive,96.408,,,,,yes,,,,,,20125524,
+212647902,212647881,0,False,residential,Knobb Hill Drive,249.982,,,,30 mph,,,,,,,20113186,
+212649426,212916374,0,False,residential,Old Acre Lane,108.789,,,,,,,,,,,20136633,
+212649426,212714698,0,False,secondary,Clover Street,151.521,,,,40 mph,,,,,,,301011779,NY 65
+212649426,212649465,0,False,residential,Larwood Drive,359.824,,,,,,,,,,,20113296,
+212649426,212789680,0,False,secondary,Clover Street,139.785,,,,40 mph,,,,,,,301011779,NY 65
+212649465,212789680,0,False,residential,French Road,231.157,,,,,,,,,,,255176622,
+212649465,212649426,0,False,residential,Larwood Drive,359.824,,,,,,,,,,,20113296,
+212649465,212706923,0,False,residential,French Road,511.388,,,,,,,yes,,,,"[20133038, 255176621, 255176622]",
+212651087,212727061,0,False,residential,Tobey Road,348.413,,,,,,,,,,,20118586,
+212651103,212651112,0,False,residential,Stone Road,209.804,,,,,,,,,,,20113416,
+212651112,212651103,0,False,residential,Stone Road,209.804,,,,,,,,,,,20113416,
+212651112,212711373,0,False,secondary,Pittsford Mendon Road,397.542,,,,,,,,,,,20117433,NY 64
+212651112,212712118,0,False,secondary,South Main Street,140.253,,,,,,,,,,,68167196,NY 64
+212655085,212655087,0,False,residential,Esternay Lane,301.865,,,,,,,,,,,20113628,
+212655085,212756522,0,False,secondary,Clover Street,165.139,,,,40 mph,,,,,,,301011779,NY 65
+212655085,212695870,0,False,secondary,Clover Street,9.043,,,,40 mph,,,,,,,301011779,NY 65
+212655087,212655085,0,False,residential,Esternay Lane,301.865,,,,,,,,,,,20113628,
+212655087,212655122,0,False,residential,Esternay Lane,314.414,,,,,,,,,,,20113628,
+212655087,212725070,0,False,residential,Widewaters Lane,510.448,,,,,,,,,,,20118456,
+212655122,212655152,0,False,residential,Esternay Lane,110.519,,,,,,,,,,,20113628,
+212655122,212655087,0,False,residential,Esternay Lane,314.414,,,,,,,,,,,20113628,
+212655122,212728500,0,False,residential,Pin Hook Lane,378.606,,,,,,,,,,,20123004,
+212655152,212655122,0,False,residential,Esternay Lane,110.519,,,,,,,,,,,20113628,
+212655152,212626384,0,False,residential,French Road,80.194,,,,,,,,,,,255176622,
+212657738,212712089,0,False,secondary,South Main Street,173.275,,,,,,,,,,,68167196,NY 64
+212657738,212605278,0,False,primary,West Jefferson Road,126.936,,,,,,,,,,,20113757,NY 252
+212657738,212712085,0,False,primary,South Main Street,334.825,2,,,,,,,,,,20117470,NY 96
+212657738,212874960,0,False,primary,East Jefferson Road,165.639,,,,,,,,,,,20141071,NY 96
+212657744,212657746,0,False,primary,West Jefferson Road,51.419,,,,,,,,,,,20113757,NY 252
+212657744,212636863,0,False,primary,West Jefferson Road,141.534,,,,,,,,,,,20113757,NY 252
+212657744,2514543000,0,False,residential,Sutherland Street,227.09,,,,,,,,,,,20125371,
+212657746,2514543016,0,False,primary,West Jefferson Road,15.714,,,,,,,,,,,20113757,NY 252
+212657746,212657744,0,False,primary,West Jefferson Road,51.419,,,,,,,,,,,20113757,NY 252
+212657746,212852428,0,False,residential,Heatherhurst Drive,154.461,,,,,,,,,,,20139939,
+212657751,212657759,0,False,primary,West Jefferson Road,1206.995,,,,,,,,,,,20113757,NY 252
+212657751,2514543016,0,False,primary,West Jefferson Road,320.253,,,,,,,,,,,20113757,NY 252
+212657751,212815952,0,False,residential,Sunset Boulevard,445.568,,,,,,,,,,,20130862,
+212657759,212657764,0,False,primary,Jefferson Road,252.968,,,,45 mph,,,,,,,20117291,NY 252
+212657759,212657751,0,False,primary,West Jefferson Road,1206.995,,,,,,,,,,,20113757,NY 252
+212657759,212727012,0,False,secondary,Clover Street,277.47,,,,50 mph,,,,,,,71496008,NY 65
+212657759,212602975,0,False,secondary,Clover Street,688.466,,,,"['50 mph', '40 mph']",,,yes,,,,"[301011779, 71496008, 71496014, 71495985, 71495986]",NY 65
+212657764,212657766,0,False,primary,West Jefferson Road,339.976,,,,45 mph,,,,,,,20113759,NY 252
+212657764,212657759,0,False,primary,Jefferson Road,252.968,,,,45 mph,,,,,,,20117291,NY 252
+212657766,212657764,0,False,primary,West Jefferson Road,339.976,,,,45 mph,,,,,,,20113759,NY 252
+212657766,212709479,0,False,primary,Jefferson Road,222.467,,,,45 mph,,,,,,,20117290,NY 252
+212665523,212665558,0,False,residential,Wood Hill Road,210.625,,,,,,,,,,,20114275,
+212665523,212958233,0,False,residential,Split Rock Road,276.931,,,,,,,,,,,20139612,
+212665523,212958155,0,False,residential,Split Rock Road,66.485,,,,,,,,,,,20139612,
+212665558,212665595,0,False,residential,Wood Hill Road,281.34,,,,,,,,,,,20114275,
+212665558,212665523,0,False,residential,Wood Hill Road,210.625,,,,,,,,,,,20114275,
+212665558,2522735933,0,False,residential,Skytop Lane,243.716,,,,,,,,,,,20141332,
+212665595,212665603,0,False,residential,Wood Hill Road,116.641,,,,,,,,,,,20114275,
+212665595,212665558,0,False,residential,Wood Hill Road,281.34,,,,,,,,,,,20114275,
+212665595,212958155,0,False,residential,Split Rock Road,354.508,,,,,,,,,,,20139612,
+212665603,212665608,0,False,residential,Wood Hill Road,78.867,,,,,,,,,,,20114275,
+212665603,212665595,0,False,residential,Wood Hill Road,116.641,,,,,,,,,,,20114275,
+212665603,212811564,0,False,residential,Brookwood Road,112.879,,,,,,,,,,,20140140,
+212665608,212665603,0,False,residential,Wood Hill Road,78.867,,,,,,,,,,,20114275,
+212668964,2523914083,0,False,residential,Brookwood Road,18.343,,,,,,,,,,,20140140,
+212668964,212958155,0,False,residential,Brookwood Road,258.032,,,,,,,,,,,20140140,
+212670594,212670598,0,False,residential,Wood Street,96.633,,,,,,,,,,,20114649,
+212670594,212693976,0,False,residential,South Street,8.23,,,,,,,,,,,20116304,
+212670594,212693973,0,False,residential,South Street,80.552,,,,,,,,,,,20116304,
+212670598,212670594,0,False,residential,Wood Street,96.633,,,,,,,,,,,20114649,
+212670598,212901168,0,False,residential,Boughton Avenue,81.962,,,,,,,,,,,20135372,
+212670598,212834075,0,False,residential,Boughton Avenue,135.138,,,,,,,,,,,20135372,
+212672781,212793831,0,False,primary,East Jefferson Road,76.884,,,,,,,,,,,20141071,NY 96
+212672781,212694019,0,False,primary,East Jefferson Road,175.803,,,,,,,,,,,20141071,NY 96
+212677007,212874958,0,False,residential,Rand Place,82.36,2,,,,,,,,,,20132807,
+212677007,212767277,0,False,residential,Rand Place,90.551,2,,,,,,,,,,20132807,
+212677007,212677012,0,False,residential,Maple Street,182.459,2,,,,,,,,,,20115240,
+212677012,212677007,0,False,residential,Maple Street,182.459,2,,,,,,,,,,20115240,
+212677012,212694001,0,False,residential,South Street,79.103,,,,,,,,,,,20116304,
+212677012,212693976,0,False,residential,South Street,99.76,,,,,,,,,,,20116304,
+212679854,212712096,0,False,secondary,South Main Street,35.142,,,,,,,,,,,68167196,NY 64
+212679854,212679900,0,False,residential,Reitz Parkway,626.53,,,,,,,,,,,20115415,
+212679854,212712091,0,False,secondary,South Main Street,121.525,,,,,,,,,,,68167196,NY 64
+212679900,212973786,0,False,residential,Reitz Circle,85.78,,,,,,,,,,,20140822,
+212679900,212679957,0,False,residential,Reitz Parkway,285.456,,,,,,,,,,,20115415,
+212679900,212679854,0,False,residential,Reitz Parkway,626.53,,,,,,,,,,,20115415,
+212679957,212679900,0,False,residential,Reitz Parkway,285.456,,,,,,,,,,,20115415,
+212679957,212980282,0,False,residential,School Lane,269.757,,,,,,,,,,,20141265,
+212679957,212694019,0,False,residential,School Lane,46.854,,,,,,,,,,,20141266,
+212680594,212695870,0,False,residential,Falconbridge Drive,128.901,,,,,,,,,,,20116403,
+212680594,212680643,0,False,residential,Framingham Lane,252.295,,,,,,,,,,,20115483,
+212680594,212695875,0,False,residential,Falconbridge Drive,37.275,,,,,,,,,,,20116403,
+212680643,212602975,0,False,residential,Framingham Lane,920.126,,,,,,,,,,,20115483,
+212680643,212680594,0,False,residential,Framingham Lane,252.295,,,,,,,,,,,20115483,
+212680643,212756522,0,False,residential,Prospect Hill Road,245.067,,,,,,,,,,,20121567,
+212682517,212682522,0,False,residential,Sheridan Court,58.93,,,,,,,,,,,20115609,
+212682517,212647881,0,False,residential,Crestview Drive,96.408,,,,,yes,,,,,,20125524,
+212682517,212793666,0,False,residential,Crestview Drive,107.496,,,,,yes,,,,,,20125524,
+212682522,212682517,0,False,residential,Sheridan Court,58.93,,,,,,,,,,,20115609,
+212693973,212670594,0,False,residential,South Street,80.552,,,,,,,,,,,20116304,
+212693973,5225868336,0,False,residential,South Street,105.943,,,,,,,,,,,20116304,
+212693973,212712081,0,False,residential,Church Street,240.426,2,,,,,,,,,,20118107,
+212693976,212670594,0,False,residential,South Street,8.23,,,,,,,,,,,20116304,
+212693976,212677012,0,False,residential,South Street,99.76,,,,,,,,,,,20116304,
+212693976,212767277,0,False,residential,Locust Street,139.516,2,,,,,,,,,,20122989,
+212694001,212694004,0,False,residential,South Street,70.144,,,,,,,,,,,20116304,
+212694001,212677012,0,False,residential,South Street,79.103,,,,,,,,,,,20116304,
+212694001,212813714,0,False,residential,Elmbrook Drive,103.388,,,,,,,,,,,20140590,
+212694004,212694001,0,False,residential,South Street,70.144,,,,,,,,,,,20116304,
+212694004,1008080892,0,False,residential,South Street,329.568,,,,,,,,,,,20116304,
+212694004,212711673,0,False,residential,Boughton Avenue,46.625,,,,,,,,,,,20135372,
+212694019,1008080892,0,False,primary,East Jefferson Road,53.431,,,,,,,,,,,20141071,NY 96
+212694019,212672781,0,False,primary,East Jefferson Road,175.803,,,,,,,,,,,20141071,NY 96
+212694019,212679957,0,False,residential,School Lane,46.854,,,,,,,,,,,20141266,
+212695870,212680594,0,False,residential,Falconbridge Drive,128.901,,,,,,,,,,,20116403,
+212695870,212655085,0,False,secondary,Clover Street,9.043,,,,40 mph,,,,,,,301011779,NY 65
+212695870,212728500,0,False,secondary,Clover Street,132.084,,,,40 mph,,,,,,,301011779,NY 65
+212695875,212695879,0,False,residential,Falconbridge Drive,78.382,,,,,,,,,,,20116403,
+212695875,212680594,0,False,residential,Falconbridge Drive,37.275,,,,,,,,,,,20116403,
+212695875,212728500,0,False,residential,Brakenberry Road,229.229,,,,,,,,,,,20118708,
+212695879,212695875,0,False,residential,Falconbridge Drive,78.382,,,,,,,,,,,20116403,
+212696018,3050221964,0,False,residential,Quaker Road,122.43,,,,,,,,,,,20116412,
+212696018,212863022,0,False,residential,French Road,465.624,,,,,,,,,,,20133038,
+212704759,212704847,0,False,residential,Burncoat Way,452.716,,,,,,,,,,,20116956,
+212704759,212704847,1,False,residential,Crestview Drive,278.607,,,,,yes,,,,,,20125524,
+212704759,212793831,0,False,residential,Crestview Drive,248.355,,,,,yes,,,,,,20125524,
+212704847,212704759,0,False,residential,Burncoat Way,452.716,,,,,,,,,,,20116956,
+212704847,212704759,1,False,residential,Crestview Drive,278.607,,,,,yes,,,,,,20125524,
+212704847,212793774,0,False,residential,Crestview Drive,269.877,,,,,yes,,,,,,20125524,
+212705588,212705639,0,False,residential,Ryder Cup Circle,286.45,,,,,,,,,,,20117019,
+212705588,212709479,0,False,residential,Fairway Crossing,259.633,,,,,,,,,,,20119002,
+212705588,212790178,0,False,residential,Eaglewood Circle,450.726,,,,,,,,,,,20125254,
+212705639,212705588,0,False,residential,Ryder Cup Circle,286.45,,,,,,,,,,,20117019,
+212706923,212707106,0,False,residential,West Brook Road,808.02,,,,,,,,,,,20117089,
+212706923,212649465,0,False,residential,French Road,511.388,,,,,,,yes,,,,"[255176622, 255176621, 20133038]",
+212706923,212863022,0,False,residential,French Road,204.256,,,,,,,,,,,20133038,
+212707106,212706923,0,False,residential,West Brook Road,808.02,,,,,,,,,,,20117089,
+212707106,212787222,0,False,residential,Long Meadow Circle,141.968,,,,,,,,,,,20125000,
+212707106,212787134,0,False,residential,Long Meadow Circle,232.918,,,,,,,,,,,20125000,
+212707371,212707374,0,False,residential,Grove Street,59.994,,,,,,,,,,,329233826,
+212707371,3360757579,0,False,residential,Grove Street,130.288,,,,,,,,,,,20117122,
+212707371,212949609,0,False,residential,"['Grove Street', 'Village Lane']",293.934,,,,,,,,,,,"[329233826, 20138947]",
+212707374,212749114,0,False,residential,Elm Street,154.842,,,,,,,,,,,20122312,
+212707374,212707371,0,False,residential,Grove Street,59.994,,,,,,,,,,,329233826,
+212708207,212708208,0,False,residential,Crofts Road,126.323,,,,,,,,,,,20117181,
+212708207,212840221,0,False,residential,East Brook Road,351.061,,,,,,,,,,,20129595,
+212708207,212787134,0,False,residential,East Brook Road,93.797,,,,,,,,,,,20129595,
+212708208,212708207,0,False,residential,Crofts Road,126.323,,,,,,,,,,,20117181,
+212708208,212733595,0,False,residential,Woodland Road,74.383,,,,,,,,,,,20119153,
+212708208,212916641,0,False,residential,"['Woodland Road', 'Hearthstone Road']",513.591,,,,,,,,,,,"[20119153, 20136651]",
+212709479,212657766,0,False,primary,Jefferson Road,222.467,,,,45 mph,,,,,,,20117290,NY 252
+212709479,212705588,0,False,residential,Fairway Crossing,259.633,,,,,,,,,,,20119002,
+212711373,212651112,0,False,secondary,Pittsford Mendon Road,397.542,,,,,,,,,,,20117433,NY 64
+212711373,212829536,0,False,residential,Knickerbocker Road,349.691,,,,,,,,,,,20134966,
+212711673,212711676,0,False,residential,Austin Park,155.058,,,,,,,,,,,20117443,
+212711673,212901168,0,False,residential,Boughton Avenue,113.878,,,,,,,,,,,20135372,
+212711673,212694004,0,False,residential,Boughton Avenue,46.625,,,,,,,,,,,20135372,
+212711676,212711673,0,False,residential,Austin Park,155.058,,,,,,,,,,,20117443,
+212712079,212712081,0,False,primary,South Main Street,92.029,2,,,,,,,,,,20117470,NY 96
+212712079,212749090,0,False,primary,North Main Street,250.661,,,,,,,yes,,,,"[91609733, 20120751]",NY 96
+212712079,5225868336,0,False,primary,State Street,201.535,,,,30 mph,,,,,,,20129052,NY 31
+212712079,212862981,0,False,primary,Monroe Avenue,157.16,,,,,,,,,,,20131717,NY 31
+212712081,212712083,0,False,primary,South Main Street,59.28,2,,,,,,,,,,20117470,NY 96
+212712081,212712079,0,False,primary,South Main Street,92.029,2,,,,,,,,,,20117470,NY 96
+212712081,212693973,0,False,residential,Church Street,240.426,2,,,,,,,,,,20118107,
+212712083,212712085,0,False,primary,South Main Street,47.173,2,,,,,,,,,,20117470,NY 96
+212712083,212712081,0,False,primary,South Main Street,59.28,2,,,,,,,,,,20117470,NY 96
+212712083,212788605,0,False,residential,Lincoln Avenue,156.197,2,,,,,,,,,,20125134,
+212712085,212712083,0,False,primary,South Main Street,47.173,2,,,,,,,,,,20117470,NY 96
+212712085,212657738,0,False,primary,South Main Street,334.825,2,,,,,,,,,,20117470,NY 96
+212712085,212767277,0,False,residential,Locust Street,134.228,2,,,,,,,,,,20122989,
+212712089,212609936,0,False,residential,Village Grove,72.402,,,,,,,,,,,20120695,
+212712089,212712091,0,False,secondary,South Main Street,63.705,,,,,,,,,,,68167196,NY 64
+212712089,212657738,0,False,secondary,South Main Street,173.275,,,,,,,,,,,68167196,NY 64
+212712091,212712089,0,False,secondary,South Main Street,63.705,,,,,,,,,,,68167196,NY 64
+212712091,212874960,0,False,residential,Rand Place,404.519,2,,,,,,,,,,20132807,
+212712091,212679854,0,False,secondary,South Main Street,121.525,,,,,,,,,,,68167196,NY 64
+212712096,212679854,0,False,secondary,South Main Street,35.142,,,,,,,,,,,68167196,NY 64
+212712096,212732890,0,False,residential,Spruce Lane,220.213,,,,,,,,,,,20119097,
+212712096,212712098,0,False,secondary,South Main Street,75.215,,,,,,,,,,,68167196,NY 64
+212712098,212712100,0,False,secondary,South Main Street,96.038,,,,,,,,,,,68167196,NY 64
+212712098,1636662390,0,False,residential,Parker Drive,330.528,,,,,,,,,,,20118418,
+212712098,212712096,0,False,secondary,South Main Street,75.215,,,,,,,,,,,68167196,NY 64
+212712100,212712098,0,False,secondary,South Main Street,96.038,,,,,,,,,,,68167196,NY 64
+212712100,2601006938,0,False,residential,Sunset Boulevard,81.434,,,,,,,,,,,20130862,
+212712100,212712105,0,False,secondary,South Main Street,201.551,,,,,,,,,,,68167196,NY 64
+212712105,212793666,0,False,residential,Hilltop Drive,113.023,,,,,,,,,,,20134555,
+212712105,212712118,0,False,secondary,South Main Street,260.8,,,,,,,,,,,68167196,NY 64
+212712105,212712100,0,False,secondary,South Main Street,201.551,,,,,,,,,,,68167196,NY 64
+212712118,212904812,0,False,residential,Mile Post Lane,297.711,,,,,,,,,,,20135635,
+212712118,212651112,0,False,secondary,South Main Street,140.253,,,,,,,,,,,68167196,NY 64
+212712118,212712105,0,False,secondary,South Main Street,260.8,,,,,,,,,,,68167196,NY 64
+212714698,212649426,0,False,secondary,Clover Street,151.521,,,,40 mph,,,,,,,301011779,NY 65
+212714698,212789669,0,False,secondary,Clover Street,68.922,,,,40 mph,,,,,,,301011779,NY 65
+212714698,212714729,0,False,residential,Evergreen Lane,184.165,,,,,,,,,,,20117679,
+212714729,212714698,0,False,residential,Evergreen Lane,184.165,,,,,,,,,,,20117679,
+212718725,212741430,0,False,residential,Brook Road,261.489,,,,,,,,,,,20119852,
+212718725,212718746,0,False,residential,East Park Road,434.672,,,,,,,,,,,20117997,
+212718725,212741397,0,False,residential,Brook Road,517.321,,,,,,,,,,,20119852,
+212718746,212718751,0,False,residential,East Park Road,115.873,,,,,,,,,,,20117997,
+212718746,212718725,0,False,residential,East Park Road,434.672,,,,,,,,,,,20117997,
+212718746,212741430,0,False,residential,Brook Road,238.201,,,,,,,,,,,20119852,
+212718751,212718753,0,False,residential,East Park Road,61.639,,,,,,,,,,,20117997,
+212718751,212759179,0,False,residential,Smead Road,112.983,,,,,,,,,,,20130163,
+212718751,212718746,0,False,residential,East Park Road,115.873,,,,,,,,,,,20117997,
+212718753,212718751,0,False,residential,East Park Road,61.639,,,,,,,,,,,20117997,
+212722829,212907748,0,False,residential,Canal Park Place,92.972,,,,,,,,,,,20135901,
+212722829,212602975,0,False,secondary,Clover Street,186.233,,,,40 mph,,,,,,,301011779,NY 65
+212722829,212722854,0,False,residential,Hastings Circle,121.305,,,,,,,,,,,20118323,
+212722829,212756522,0,False,secondary,Clover Street,164.769,,,,40 mph,,,,,,,301011779,NY 65
+212722854,212722829,0,False,residential,Hastings Circle,121.305,,,,,,,,,,,20118323,
+212725070,212655087,0,False,residential,Widewaters Lane,510.448,,,,,,,,,,,20118456,
+212727012,212727022,0,False,residential,Tobey Road,163.393,,,,,,,,,,,20118586,
+212727012,212657759,0,False,secondary,Clover Street,277.47,,,,50 mph,,,,,,,71496008,NY 65
+212727022,212624192,0,False,residential,Tobey Court,628.363,,,,,,,,,,,20111714,
+212727022,212727035,0,False,residential,Tobey Road,99.034,,,,,,,,,,,20118586,
+212727022,212727012,0,False,residential,Tobey Road,163.393,,,,,,,,,,,20118586,
+212727035,212643885,0,False,residential,Tobey Road,181.85,,,,,,,,,,,20118586,
+212727035,212727022,0,False,residential,Tobey Road,99.034,,,,,,,,,,,20118586,
+212727061,212651087,0,False,residential,Tobey Road,348.413,,,,,,,,,,,20118586,
+212728500,212695870,0,False,secondary,Clover Street,132.084,,,,40 mph,,,,,,,301011779,NY 65
+212728500,212695875,0,False,residential,Brakenberry Road,229.229,,,,,,,,,,,20118708,
+212728500,212655122,0,False,residential,Pin Hook Lane,378.606,,,,,,,,,,,20123004,
+212728500,212789680,0,False,secondary,Clover Street,124.562,,,,40 mph,,,,,,,301011779,NY 65
+212729890,212789669,0,False,secondary,Clover Street,181.809,,,,40 mph,,,,,,,301011779,NY 65
+212729890,212789665,0,False,secondary,Clover Street,221.076,,,,40 mph,,,,,,,301011779,NY 65
+212729890,212729922,0,False,residential,Leeward Lane,192.489,,,,,,,,,,,20118798,
+212729922,212729890,0,False,residential,Leeward Lane,192.489,,,,,,,,,,,20118798,
+212730659,212789665,0,False,secondary,Clover Street,81.55,,,,40 mph,,,,,,,301011779,NY 65
+212732890,212712096,0,False,residential,Spruce Lane,220.213,,,,,,,,,,,20119097,
+212733575,5226117703,0,False,primary,Monroe Avenue,171.551,,,,,,,,,,,35539294,NY 31
+212733575,212741397,0,False,primary,Monroe Avenue,7.819,,,,,,,,,,,35539294,NY 31
+212733575,212733595,0,False,residential,Woodland Road,579.382,,,,,,,,,,,20119153,
+212733595,212708208,0,False,residential,Woodland Road,74.383,,,,,,,,,,,20119153,
+212733595,212733575,0,False,residential,Woodland Road,579.382,,,,,,,,,,,20119153,
+212733595,212741430,0,False,residential,Schoen Road,122.897,,,,,,,,,,,20135087,
+212741397,212733575,0,False,primary,Monroe Avenue,7.819,,,,,,,,,,,35539294,NY 31
+212741397,212718725,0,False,residential,Brook Road,517.321,,,,,,,,,,,20119852,
+212741397,5225997329,0,False,primary,Monroe Avenue,451.903,,,,,,,yes,,,,"[20131717, 35539293, 35539294]",NY 31
+212741430,212718725,0,False,residential,Brook Road,261.489,,,,,,,,,,,20119852,
+212741430,212718746,0,False,residential,Brook Road,238.201,,,,,,,,,,,20119852,
+212741430,212733595,0,False,residential,Schoen Road,122.897,,,,,,,,,,,20135087,
+212744596,212744611,0,False,residential,Woods End,90.872,,,,,,,,,,,20120256,
+212744596,212883861,0,False,residential,Greylock Ridge,224.346,,,,,,,,,,,20133763,
+212744596,212772670,0,False,residential,Greylock Ridge,183.317,,,,,,,,,,,20133763,
+212744611,212744596,0,False,residential,Woods End,90.872,,,,,,,,,,,20120256,
+212749090,212712079,0,False,primary,North Main Street,250.661,,,,,,,yes,,,,"[91609733, 20120751]",NY 96
+212749090,212749111,0,False,primary,North Main Street,256.259,,,,,,,,,,,91609734,NY 96
+212749111,212770213,0,False,primary,Washington Road,293.29,,,,,,,,,,,20139869,NY 153
+212749111,212749090,0,False,primary,North Main Street,256.259,,,,,,,,,,,91609734,NY 96
+212749111,212749114,0,False,secondary,North Main Street,76.729,,,,,,,,,,,"[593517652, 76910630]",NY 96
+212749114,212707374,0,False,residential,Elm Street,154.842,,,,,,,,,,,20122312,
+212749114,212749117,0,False,secondary,North Main Street,89.097,,,,,,,,,,,"[76910673, 76910630]",NY 96
+212749114,212749111,0,False,secondary,North Main Street,76.729,,,,,,,,,,,"[593517652, 76910630]",NY 96
+212749117,212749114,0,False,secondary,North Main Street,89.097,,,,,,,,,,,"[76910673, 76910630]",NY 96
+212756522,212655085,0,False,secondary,Clover Street,165.139,,,,40 mph,,,,,,,301011779,NY 65
+212756522,212680643,0,False,residential,Prospect Hill Road,245.067,,,,,,,,,,,20121567,
+212756522,212722829,0,False,secondary,Clover Street,164.769,,,,40 mph,,,,,,,301011779,NY 65
+212759176,212759179,0,False,residential,Beech Road,93.806,,,,,,,,,,,20121928,
+212759179,212759176,0,False,residential,Beech Road,93.806,,,,,,,,,,,20121928,
+212759179,212718751,0,False,residential,Smead Road,112.983,,,,,,,,,,,20130163,
+212759179,212759194,0,False,residential,Beech Road,155.743,,,,,,,,,,,20121928,
+212759194,212759179,0,False,residential,Beech Road,155.743,,,,,,,,,,,20121928,
+212767277,212677007,0,False,residential,Rand Place,90.551,2,,,,,,,,,,20132807,
+212767277,212693976,0,False,residential,Locust Street,139.516,2,,,,,,,,,,20122989,
+212767277,212712085,0,False,residential,Locust Street,134.228,2,,,,,,,,,,20122989,
+212770213,212749111,0,False,primary,Washington Road,293.29,,,,,,,,,,,20139869,NY 153
+212772670,212772693,0,False,residential,Barnswallow Drive,115.801,,,,,,,,,,,20123643,
+212772670,212744596,0,False,residential,Greylock Ridge,183.317,,,,,,,,,,,20133763,
+212772670,212883756,0,False,residential,Greylock Ridge,198.964,,,,,,,,,,,20133763,
+212772693,212772670,0,False,residential,Barnswallow Drive,115.801,,,,,,,,,,,20123643,
+212784857,212784884,0,False,primary,East Jefferson Road,140.308,,,,,,,,,,,20141071,NY 96
+212784857,212784884,1,False,residential,East Jefferson Circle,171.086,,,,,,,,,,,20124773,
+212784857,212813730,0,False,primary,East Jefferson Road,104.347,,,,,,,,,,,20141071,NY 96
+212784884,212784857,0,False,primary,East Jefferson Road,140.308,,,,,,,,,,,20141071,NY 96
+212784884,212784857,1,False,residential,East Jefferson Circle,171.086,,,,,,,,,,,20124773,
+212784884,1008080892,0,False,primary,East Jefferson Road,168.758,,,,,,,,,,,20141071,NY 96
+212787089,212863022,0,False,primary,Monroe Avenue,129.098,,,,,,,,,,,76910645,NY 31
+212787089,212863018,0,False,primary,Monroe Avenue,297.918,,,,,,,,,,,"[76910645, 35539294]",NY 31
+212787089,212787108,0,False,residential,Long Meadow Circle,167.954,,,,,,,,,,,268301972,
+212787108,212787222,0,False,residential,Long Meadow Circle,125.805,,,,,,,,,,,20125000,
+212787108,212787134,0,False,residential,Long Meadow Circle,253.463,,,,,,,,,,,268301972,
+212787108,212787089,0,False,residential,Long Meadow Circle,167.954,,,,,,,,,,,268301972,
+212787134,212707106,0,False,residential,Long Meadow Circle,232.918,,,,,,,,,,,20125000,
+212787134,212708207,0,False,residential,East Brook Road,93.797,,,,,,,,,,,20129595,
+212787134,212787108,0,False,residential,Long Meadow Circle,253.463,,,,,,,,,,,268301972,
+212787222,212838469,0,False,residential,Olson Lane,67.539,,,,,,,,,,,20129433,
+212787222,212787108,0,False,residential,Long Meadow Circle,125.805,,,,,,,,,,,20125000,
+212787222,212707106,0,False,residential,Long Meadow Circle,141.968,,,,,,,,,,,20125000,
+212788605,212862981,0,False,residential,Washington Avenue,175.443,,,,,,,,,,,20135952,
+212788605,212788612,0,False,residential,Lincoln Avenue,241.801,2,,,,,,,,,,20125134,
+212788605,212712083,0,False,residential,Lincoln Avenue,156.197,2,,,,,,,,,,20125134,
+212788605,212908262,0,False,residential,Washington Avenue,132.054,,,,,,,,,,,20135952,
+212788612,212788605,0,False,residential,Lincoln Avenue,241.801,2,,,,,,,,,,20125134,
+212788612,2514543000,0,False,residential,Sutherland Street,170.02,,,,,,,,,,,20125371,
+212788612,212792037,0,False,residential,Sutherland Street,227.313,,,,,,,,,,,20125371,
+212789665,212796679,0,False,residential,Robin Drive,162.607,,,,,permissive,,,,,,20125781,
+212789665,212729890,0,False,secondary,Clover Street,221.076,,,,40 mph,,,,,,,301011779,NY 65
+212789665,212730659,0,False,secondary,Clover Street,81.55,,,,40 mph,,,,,,,301011779,NY 65
+212789669,212937618,0,False,residential,Taylor's Rise,77.167,,,,,,,,,,,20138090,
+212789669,212714698,0,False,secondary,Clover Street,68.922,,,,40 mph,,,,,,,301011779,NY 65
+212789669,212729890,0,False,secondary,Clover Street,181.809,,,,40 mph,,,,,,,301011779,NY 65
+212789680,212649465,0,False,residential,French Road,231.157,,,,,,,,,,,255176622,
+212789680,212626384,0,False,residential,French Road,286.838,,,,,,,,,,,255176622,
+212789680,212728500,0,False,secondary,Clover Street,124.562,,,,40 mph,,,,,,,301011779,NY 65
+212789680,212649426,0,False,secondary,Clover Street,139.785,,,,40 mph,,,,,,,301011779,NY 65
+212790178,212705588,0,False,residential,Eaglewood Circle,450.726,,,,,,,,,,,20125254,
+212792037,5225997329,0,False,primary,Monroe Avenue,105.72,,,,,,,,,,,20131717,NY 31
+212792037,212862981,0,False,primary,Monroe Avenue,227.06,,,,,,,,,,,20131717,NY 31
+212792037,212788612,0,False,residential,Sutherland Street,227.313,,,,,,,,,,,20125371,
+212793666,212682517,0,False,residential,Crestview Drive,107.496,,,,,yes,,,,,,20125524,
+212793666,212712105,0,False,residential,Hilltop Drive,113.023,,,,,,,,,,,20134555,
+212793666,212793774,0,False,residential,Hilltop Drive,682.452,,,,,,,,,,,20134559,
+212793774,212704847,0,False,residential,Crestview Drive,269.877,,,,,yes,,,,,,20125524,
+212793774,212647881,0,False,residential,Crestview Drive,326.466,,,,,yes,,,,,,20125524,
+212793774,212793666,0,False,residential,Hilltop Drive,682.452,,,,,,,,,,,20134559,
+212793831,212672781,0,False,primary,East Jefferson Road,76.884,,,,,,,,,,,20141071,NY 96
+212793831,212704759,0,False,residential,Crestview Drive,248.355,,,,,yes,,,,,,20125524,
+212793831,212883756,0,False,primary,East Jefferson Road,172.273,,,,,,,,,,,20141071,NY 96
+212796059,212796084,0,False,residential,Rustic Pines,256.663,,,,,,,,,,,20125740,
+212796059,212895730,0,False,primary,East Jefferson Road,149.772,,,,,,,,,,,20141071,NY 96
+212796059,212883756,0,False,primary,East Jefferson Road,125.953,,,,,,,,,,,20141071,NY 96
+212796084,212796059,0,False,residential,Rustic Pines,256.663,,,,,,,,,,,20125740,
+212796679,212789665,0,False,residential,Robin Drive,162.607,,,,,permissive,,,,,,20125781,
+212799171,212834769,0,False,residential,Knickerbocker Road,66.365,,,,,,,,,,,20134966,
+212799171,212829536,0,False,residential,Knickerbocker Road,92.541,,,,,,,,,,,20134966,
+212811564,212811566,0,False,residential,Woods Hole Court,61.117,,,,,,,,,,,20127041,
+212811564,2523914083,0,False,residential,Brookwood Road,115.599,,,,,,,,,,,20140140,
+212811564,212665603,0,False,residential,Brookwood Road,112.879,,,,,,,,,,,20140140,
+212811566,212811564,0,False,residential,Woods Hole Court,61.117,,,,,,,,,,,20127041,
+212813714,212813730,0,False,residential,Eastview Terrace,143.132,,,,,,,,,,,20127248,
+212813714,212694001,0,False,residential,Elmbrook Drive,103.388,,,,,,,,,,,20140590,
+212813714,212874958,0,False,residential,Elmbrook Drive,151.34,,,,,,,,,,,20140590,
+212813730,212813731,0,False,residential,Eastview Terrace,165.873,,,,,,,,,,,20127248,
+212813730,212813714,0,False,residential,Eastview Terrace,143.132,,,,,,,,,,,20127248,
+212813730,212784857,0,False,primary,East Jefferson Road,104.347,,,,,,,,,,,20141071,NY 96
+212813730,212874960,0,False,primary,East Jefferson Road,169.621,,,,,,,,,,,20141071,NY 96
+212813731,212813730,0,False,residential,Eastview Terrace,165.873,,,,,,,,,,,20127248,
+212815952,212815983,0,False,residential,Buttermilk Hill Road,360.921,,,,,,,,,,,20127507,
+212815952,212815995,0,False,residential,Sunset Boulevard,509.106,,,,,,,,,,,20130862,
+212815952,212657751,0,False,residential,Sunset Boulevard,445.568,,,,,,,,,,,20130862,
+212815983,212815995,0,False,residential,Buttermilk Hill Road,161.001,,,,,,,,,,,20127507,
+212815983,212815952,0,False,residential,Buttermilk Hill Road,360.921,,,,,,,,,,,20127507,
+212815983,212816006,0,False,residential,Buttermilk Hill Road,35.634,,,,,,,,,,,20127508,
+212815995,212853894,0,False,residential,Sunset Boulevard,10.154,,,,,,,,,,,20130862,
+212815995,212815983,0,False,residential,Buttermilk Hill Road,161.001,,,,,,,,,,,20127507,
+212815995,212815952,0,False,residential,Sunset Boulevard,509.106,,,,,,,,,,,20130862,
+212816006,212815983,0,False,residential,Buttermilk Hill Road,35.634,,,,,,,,,,,20127508,
+212829536,212799171,0,False,residential,Knickerbocker Road,92.541,,,,,,,,,,,20134966,
+212829536,212829577,0,False,residential,Mill Neck Lane,373.59,,,,,,,,,,,20128599,
+212829536,212711373,0,False,residential,Knickerbocker Road,349.691,,,,,,,,,,,20134966,
+212829577,212829536,0,False,residential,Mill Neck Lane,373.59,,,,,,,,,,,20128599,
+212832469,212619512,0,False,residential,Knickerbocker Road,57.507,,,,,,,,,,,20134966,
+212832469,212624893,0,False,residential,Knickerbocker Road,379.228,,,,,,,,,,,20134966,
+212833130,212833154,0,False,residential,Northstone Rise,172.051,,,,,,,,,,,20128953,
+212833130,212833154,1,False,residential,Millrock Drive,489.612,,,,,,,,,,,20130047,
+212833130,212834769,0,False,residential,Millrock Drive,284.82,,,,,,,,,,,20130050,
+212833154,212833130,0,False,residential,Northstone Rise,172.051,,,,,,,,,,,20128953,
+212833154,212833130,1,False,residential,Millrock Drive,489.612,,,,,,,,,,,20130047,
+212833154,212845228,0,False,residential,Millrock Drive,110.067,,,,,,,,,,,20130047,
+212834075,212670598,0,False,residential,Boughton Avenue,135.138,,,,,,,,,,,20135372,
+212834075,5225868336,0,False,primary,State Street,92.536,,,,30 mph,,,,,,,540122069,NY 31
+212834769,212799171,0,False,residential,Knickerbocker Road,66.365,,,,,,,,,,,20134966,
+212834769,212833130,0,False,residential,Millrock Drive,284.82,,,,,,,,,,,20130050,
+212834769,212619512,0,False,residential,Knickerbocker Road,539.371,,,,,,,,,,,20134966,
+212838469,212787222,0,False,residential,Olson Lane,67.539,,,,,,,,,,,20129433,
+212840221,212863012,0,False,primary,Monroe Avenue,98.729,,,,,,,,,,,35539294,NY 31
+212840221,212708207,0,False,residential,East Brook Road,351.061,,,,,,,,,,,20129595,
+212840221,212863018,0,False,primary,Monroe Avenue,106.785,,,,,,,,,,,35539294,NY 31
+212845228,212845253,0,False,residential,Millrock Drive,131.856,,,,,,,,,,,20130047,
+212845228,212833154,0,False,residential,Millrock Drive,110.067,,,,,,,,,,,20130047,
+212845228,212926141,0,False,residential,Lusk Farm Circle,155.653,,,,,,,,,,,20137364,
+212845253,212845228,0,False,residential,Millrock Drive,131.856,,,,,,,,,,,20130047,
+212852428,212852493,0,False,residential,Courtenay Circle,496.437,,,,,,,,,,,20130725,
+212852428,212852493,1,False,residential,Heatherhurst Drive,186.285,,,,,,,,,,,20139940,
+212852428,212657746,0,False,residential,Heatherhurst Drive,154.461,,,,,,,,,,,20139939,
+212852493,212636863,0,False,residential,"['Green Hill Lane', 'Courtenay Circle']",395.348,,,,,,,,,,,"[20112496, 20130725]",
+212852493,212852428,0,False,residential,Courtenay Circle,496.437,,,,,,,,,,,20130725,
+212852493,212852428,1,False,residential,Heatherhurst Drive,186.285,,,,,,,,,,,20139940,
+212853894,212815995,0,False,residential,Sunset Boulevard,10.154,,,,,,,,,,,20130862,
+212853894,212634167,0,False,residential,Sandpiper Lane,138.884,,,,,,,,,,,20140788,
+212853894,2601006938,0,False,residential,Sunset Boulevard,183.464,,,,,,,,,,,20130862,
+212862981,212792037,0,False,primary,Monroe Avenue,227.06,,,,,,,,,,,20131717,NY 31
+212862981,212788605,0,False,residential,Washington Avenue,175.443,,,,,,,,,,,20135952,
+212862981,212712079,0,False,primary,Monroe Avenue,157.16,,,,,,,,,,,20131717,NY 31
+212863012,212840221,0,False,primary,Monroe Avenue,98.729,,,,,,,,,,,35539294,NY 31
+212863012,212927929,0,False,residential,Brittany Lane,454.318,,,,,,,,,,,20137513,
+212863012,5226117703,0,False,primary,Monroe Avenue,219.571,,,,,,,,,,,35539294,NY 31
+212863018,212927916,0,False,residential,Colonial Parkway,375.411,,,,,,,,,,,20137490,
+212863018,212787089,0,False,primary,Monroe Avenue,297.918,,,,,,,,,,,"[76910645, 35539294]",NY 31
+212863018,212840221,0,False,primary,Monroe Avenue,106.785,,,,,,,,,,,35539294,NY 31
+212863022,212787089,0,False,primary,Monroe Avenue,129.098,,,,,,,,,,,76910645,NY 31
+212863022,212706923,0,False,residential,French Road,204.256,,,,,,,,,,,20133038,
+212863022,212696018,0,False,residential,French Road,465.624,,,,,,,,,,,20133038,
+212874958,212677007,0,False,residential,Rand Place,82.36,2,,,,,,,,,,20132807,
+212874958,212874960,0,False,residential,Rand Place,159.624,2,,,,,,,,,,20132807,
+212874958,212813714,0,False,residential,Elmbrook Drive,151.34,,,,,,,,,,,20140590,
+212874960,212712091,0,False,residential,Rand Place,404.519,2,,,,,,,,,,20132807,
+212874960,212874958,0,False,residential,Rand Place,159.624,2,,,,,,,,,,20132807,
+212874960,212813730,0,False,primary,East Jefferson Road,169.621,,,,,,,,,,,20141071,NY 96
+212874960,212657738,0,False,primary,East Jefferson Road,165.639,,,,,,,,,,,20141071,NY 96
+212883756,212772670,0,False,residential,Greylock Ridge,198.964,,,,,,,,,,,20133763,
+212883756,212796059,0,False,primary,East Jefferson Road,125.953,,,,,,,,,,,20141071,NY 96
+212883756,212793831,0,False,primary,East Jefferson Road,172.273,,,,,,,,,,,20141071,NY 96
+212883861,212744596,0,False,residential,Greylock Ridge,224.346,,,,,,,,,,,20133763,
+212894809,212634173,0,False,residential,Bedford Way,66.91,,,,,,,,,,,20134904,
+212895730,212796059,0,False,primary,East Jefferson Road,149.772,,,,,,,,,,,20141071,NY 96
+212901168,212711673,0,False,residential,Boughton Avenue,113.878,,,,,,,,,,,20135372,
+212901168,212670598,0,False,residential,Boughton Avenue,81.962,,,,,,,,,,,20135372,
+212901168,212942850,0,False,residential,Jackson Park,113.036,,,,,,,,,,,20138493,
+212904812,212712118,0,False,residential,Mile Post Lane,297.711,,,,,,,,,,,20135635,
+212907748,212722829,0,False,residential,Canal Park Place,92.972,,,,,,,,,,,20135901,
+212908262,212788605,0,False,residential,Washington Avenue,132.054,,,,,,,,,,,20135952,
+212916374,212649426,0,False,residential,Old Acre Lane,108.789,,,,,,,,,,,20136633,
+212916641,212708208,0,False,residential,"['Woodland Road', 'Hearthstone Road']",513.591,,,,,,,,,,,"[20119153, 20136651]",
+212921819,212634220,0,False,residential,Meadow Wood Circle,145.64,,,,,,,,,,,20137037,
+212926141,212845228,0,False,residential,Lusk Farm Circle,155.653,,,,,,,,,,,20137364,
+212927916,3050221964,0,False,residential,Quaker Road,38.82,,,,,,,,,,,20116412,
+212927916,3050221973,0,False,residential,Colonial Parkway,41.179,,,,,,,,,,,20137490,
+212927916,212863018,0,False,residential,Colonial Parkway,375.411,,,,,,,,,,,20137490,
+212927929,212927943,0,False,residential,Colonial Parkway,75.035,,,,,,,,,,,20137490,
+212927929,3050221973,0,False,residential,Colonial Parkway,40.698,,,,,,,,,,,20137490,
+212927929,212863012,0,False,residential,Brittany Lane,454.318,,,,,,,,,,,20137513,
+212927943,212927929,0,False,residential,Colonial Parkway,75.035,,,,,,,,,,,20137490,
+212937618,212789669,0,False,residential,Taylor's Rise,77.167,,,,,,,,,,,20138090,
+212942850,212901168,0,False,residential,Jackson Park,113.036,,,,,,,,,,,20138493,
+212949609,212707371,0,False,residential,"['Grove Street', 'Village Lane']",293.934,,,,,,,,,,,"[329233826, 20138947]",
+212957262,212634199,0,False,residential,Standish Way,89.312,,,,,,,,,,,20139530,
+212958155,212665523,0,False,residential,Split Rock Road,66.485,,,,,,,,,,,20139612,
+212958155,212665595,0,False,residential,Split Rock Road,354.508,,,,,,,,,,,20139612,
+212958155,212668964,0,False,residential,Brookwood Road,258.032,,,,,,,,,,,20140140,
+212958233,212665523,0,False,residential,Split Rock Road,276.931,,,,,,,,,,,20139612,
+212973786,212679900,0,False,residential,Reitz Circle,85.78,,,,,,,,,,,20140822,
+212980282,212679957,0,False,residential,School Lane,269.757,,,,,,,,,,,20141265,
+212980282,212980282,0,True,unclassified,,234.698,,,,,,,,,,,254281886,
+804137912,804137942,0,False,residential,,139.94,,,,,,,,,,,192483188,
+804137942,804137912,0,False,residential,,139.94,,,,,,,,,,,192483188,
+1008080892,212694019,0,False,primary,East Jefferson Road,53.431,,,,,,,,,,,20141071,NY 96
+1008080892,212694004,0,False,residential,South Street,329.568,,,,,,,,,,,20116304,
+1008080892,212784884,0,False,primary,East Jefferson Road,168.758,,,,,,,,,,,20141071,NY 96
+1142574384,212619512,0,False,residential,,281.827,,,,,,,,,,,20111440,
+1438992069,1438992073,0,False,residential,,245.151,,,,,,,,,,,130727638,
+1438992073,212634220,0,False,residential,Cricket Hill Drive,75.068,,,,,,,,,,,20112323,
+1438992073,1438992069,0,False,residential,,245.151,,,,,,,,,,,130727638,
+1636662390,1636662390,0,False,residential,Parker Drive,175.376,,,,,,,,,,,20118418,
+1636662390,1636662390,1,False,residential,Parker Drive,175.376,,,,,,,,,,,20118418,
+1636662390,212712098,0,False,residential,Parker Drive,330.528,,,,,,,,,,,20118418,
+1636662406,212643885,0,False,residential,Tobey Bridge,65.215,,,,,,,,,,,20112950,
+2514543000,212657744,0,False,residential,Sutherland Street,227.09,,,,,,,,,,,20125371,
+2514543000,212788612,0,False,residential,Sutherland Street,170.02,,,,,,,,,,,20125371,
+2514543000,3656037486,0,False,unclassified,,229.064,,,,,,,,,,,244106844,
+2514543013,2514543016,0,False,unclassified,,35.612,,,,,,,,,,,244106851,
+2514543016,212657746,0,False,primary,West Jefferson Road,15.714,,,,,,,,,,,20113757,NY 252
+2514543016,212657751,0,False,primary,West Jefferson Road,320.253,,,,,,,,,,,20113757,NY 252
+2514543016,2514543013,0,False,unclassified,,35.612,,,,,,,,,,,244106851,
+2522735933,212665558,0,False,residential,Skytop Lane,243.716,,,,,,,,,,,20141332,
+2523914083,212668964,0,False,residential,Brookwood Road,18.343,,,,,,,,,,,20140140,
+2523914083,212811564,0,False,residential,Brookwood Road,115.599,,,,,,,,,,,20140140,
+2601006938,2601006939,0,False,unclassified,,61.366,,,,,yes,,,,,,254313558,
+2601006938,212712100,0,False,residential,Sunset Boulevard,81.434,,,,,,,,,,,20130862,
+2601006938,212853894,0,False,residential,Sunset Boulevard,183.464,,,,,,,,,,,20130862,
+2601006939,2601006938,0,False,unclassified,,61.366,,,,,yes,,,,,,254313558,
+3050221964,212927916,0,False,residential,Quaker Road,38.82,,,,,,,,,,,20116412,
+3050221964,212696018,0,False,residential,Quaker Road,122.43,,,,,,,,,,,20116412,
+3050221964,3050221973,0,False,residential,,39.437,,,,,,,,,,,300919437,
+3050221973,212927929,0,False,residential,Colonial Parkway,40.698,,,,,,,,,,,20137490,
+3050221973,212927916,0,False,residential,Colonial Parkway,41.179,,,,,,,,,,,20137490,
+3050221973,3050221964,0,False,residential,,39.437,,,,,,,,,,,300919437,
+3360757579,212707371,0,False,residential,Grove Street,130.288,,,,,,,,,,,20117122,
+3656037486,2514543000,0,False,unclassified,,229.064,,,,,,,,,,,244106844,
+5225868336,212693973,0,False,residential,South Street,105.943,,,,,,,,,,,20116304,
+5225868336,212712079,0,False,primary,State Street,201.535,,,,30 mph,,,,,,,20129052,NY 31
+5225868336,212834075,0,False,primary,State Street,92.536,,,,30 mph,,,,,,,540122069,NY 31
+5225997329,212792037,0,False,primary,Monroe Avenue,105.72,,,,,,,,,,,20131717,NY 31
+5225997329,212741397,0,False,primary,Monroe Avenue,451.903,,,,,,,yes,,,,"[35539293, 20131717, 35539294]",NY 31
+5225997329,5225997406,0,False,residential,Pittsford Village Green,297.996,2,,,,,,,,,,540139145,
+5225997406,5225997329,0,False,residential,Pittsford Village Green,297.996,2,,,,,,,,,,540139145,
+5226117703,212733575,0,False,primary,Monroe Avenue,171.551,,,,,,,,,,,35539294,NY 31
+5226117703,212863012,0,False,primary,Monroe Avenue,219.571,,,,,,,,,,,35539294,NY 31
+5226117703,5226117707,0,False,unclassified,,261.743,2,,,,,,,,,,540153372,
+5226117707,5226117703,0,False,unclassified,,261.743,2,,,,,,,,,,540153372,

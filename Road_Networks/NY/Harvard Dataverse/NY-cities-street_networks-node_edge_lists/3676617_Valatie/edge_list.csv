@@ -1,0 +1,204 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+211854708,211854712,0,False,primary_link,,94.145,,,,,,,,,,,20059461,
+211854708,212027044,0,False,primary,Kinderhook Street,132.719,2,,,35 mph,,,,,,,20070746,US 9
+211854708,211854810,0,False,primary,Kinderhook Street,264.732,2,,,35 mph,,,,,,,20070746,US 9
+211854712,211854708,0,False,primary_link,,94.145,,,,,,,,,,,20059461,
+211854712,211854727,0,True,primary_link,,87.611,,,,,,,,,,,56695550,
+211854727,211854816,0,True,primary_link,,166.687,,,,,,,,,,,20064728,
+211854727,211879946,0,False,primary,,107.694,4,,,55 mph,,,,,,,35342723,NY 9H
+211854810,1852928526,0,False,primary_link,,44.501,,,,,,,,,,,20059471,
+211854810,211854708,0,False,primary,Kinderhook Street,264.732,2,,,35 mph,,,,,,,20070746,US 9
+211854816,1852928526,0,False,primary_link,,156.819,,,,,,,,,,,20059471,
+211854816,211854843,0,True,primary_link,,55.537,,,,,,,,,,,56695552,
+211854843,211879946,0,False,primary,,56.639,4,,,55 mph,,,,,,,35342723,NY 9H
+211860132,211959392,0,False,secondary,Main Street,73.295,,,,30 mph,,,,,,,241060540,
+211860132,211937177,0,False,secondary,Main Street,159.822,,,,30 mph,,,yes,,,,"[45287082, 241060538, 241060540]",
+211860149,211860132,0,True,primary_link,,98.565,,,,,,,,,,,20059981,
+211860149,212027064,0,False,primary,Kinderhook Street,44.561,2,,,35 mph,,,,,,,20070746,US 9
+211860149,211959392,0,False,primary,Kinderhook Street,60.879,2,,,35 mph,,,,,,,43598833,US 9
+211879946,211854712,0,True,primary_link,,55.841,,,,,,,,,,,20061437,
+211879946,211854727,0,False,primary,,107.694,4,,,55 mph,,,,,,,35342723,NY 9H
+211879946,211854843,0,False,primary,,56.639,4,,,55 mph,,,,,,,35342723,NY 9H
+211897467,211897469,0,False,residential,,53.382,,,,,,,,,,,20062688,
+211897467,211939408,0,False,secondary,Mechanic Street,106.329,,,,30 mph,,,,,,,20068954,NY 203
+211897467,212005484,0,False,secondary,Mechanic Street,233.245,,,,30 mph,,,,,,,20068954,NY 203
+211897469,211897467,0,False,residential,,53.382,,,,,,,,,,,20062688,
+211897475,211897477,0,False,residential,,48.775,,,,,,,,,,,20062689,
+211897475,211939408,0,False,secondary,Mechanic Street,23.738,,,,30 mph,,,,,,,20068954,NY 203
+211897475,212005470,0,False,secondary,Mechanic Street,79.397,,,,30 mph,,,,,,,20068954,NY 203
+211897477,211897475,0,False,residential,,48.775,,,,,,,,,,,20062689,
+211928442,211928445,0,False,residential,,12.007,,,,,,,,,,,20065045,
+211928442,212079954,0,False,residential,Peters Lane,174.428,,,,,,,,,,,20075773,
+211928442,212007140,0,False,residential,Peters Lane,167.158,,,,,,,,,,,20075773,
+211928445,211928442,0,False,residential,,12.007,,,,,,,,,,,20065045,
+211933107,211933114,0,False,residential,Pine Drive,58.413,,,,30 mph,,,,,,,20065322,
+211933107,211959412,0,False,primary,Kinderhook Street,125.991,2,,,35 mph,,,,,,,43598833,US 9
+211933107,212027073,0,False,primary,Kinderhook Street,261.086,2,,,35 mph,,,,,,,43598833,US 9
+211933114,211933122,0,False,residential,Pine Drive,173.82,,,,30 mph,,,,,,,20065322,
+211933114,211933107,0,False,residential,Pine Drive,58.413,,,,30 mph,,,,,,,20065322,
+211933114,212030375,0,False,residential,Spruce Drive,304.644,,,,30 mph,,,,,,,20073654,
+211933122,211933114,0,False,residential,Pine Drive,173.82,,,,30 mph,,,,,,,20065322,
+211933122,212030375,0,False,residential,Ridge Drive,130.354,,,,30 mph,,,,,,,20074314,
+211933122,212027073,0,False,residential,"['Rathbone Avenue', 'Ridge Drive']",365.317,,,,30 mph,,,,,,,"[20074314, 20076583]",
+211937177,211971921,0,False,secondary,Main Street,75.881,,,,30 mph,,,,,,,45287082,
+211937177,211937182,0,False,residential,Lake Street,102.677,,,,,,,,,,,20065512,
+211937177,211860132,0,False,secondary,Main Street,159.822,,,,30 mph,,,yes,,,,"[241060538, 45287082, 241060540]",
+211937182,211978854,0,False,residential,Luther Street,118.329,,,,,,,,,,,20067697,
+211937182,211998419,0,False,residential,"['Lake Street', 'High Street']",191.316,,,,,,,,,,,"[20065512, 20078072]",
+211937182,211937177,0,False,residential,Lake Street,102.677,,,,,,,,,,,20065512,
+211939408,211897467,0,False,secondary,Mechanic Street,106.329,,,,30 mph,,,,,,,20068954,NY 203
+211939408,211897475,0,False,secondary,Mechanic Street,23.738,,,,30 mph,,,,,,,20068954,NY 203
+211939408,211939415,0,True,residential,Spring Street,134.098,,,,30 mph,,,,,,,20065589,
+211939415,211946361,0,False,secondary,Main Street,111.325,,,,30 mph,,,,,,,20070676,NY 203
+211939415,212005484,0,False,residential,New Street,435.127,,,,,,,,,,,20076941,
+211939415,212005470,0,False,secondary,Upper Main Street,129.404,,,,30 mph,,,,,,,45287083,NY 203
+211946329,211946332,0,False,secondary,Chatham Street,212.167,,,,40 mph,,,,,,,20065875,NY 203
+211946329,5292541492,0,False,residential,Genesee Drive,310.155,,,,,,,,,,,20066824,
+211946329,212050334,0,False,residential,Oak Drive,95.214,,,,,,,,,,,20072899,
+211946332,211946329,0,False,secondary,Chatham Street,212.167,,,,40 mph,,,,,,,20065875,NY 203
+211946332,211946350,0,False,secondary,Chatham Street,227.003,,,,"['30 mph', '40 mph']",,,,,,,"[20065875, 191149598]",NY 203
+211946332,212072409,0,False,residential,Cramer Drive,91.861,,,,,,,,,,,20075247,
+211946350,212130803,0,False,residential,Elm Street,223.007,,,,,,,,,,,20078520,
+211946350,211946361,0,False,secondary,Chatham Street,183.481,,,,30 mph,,,yes,,,,"[159234605, 191149598, 159234599]",NY 203
+211946350,211946332,0,False,secondary,Chatham Street,227.003,,,,"['30 mph', '40 mph']",,,,,,,"[20065875, 191149598]",NY 203
+211946361,211939415,0,False,secondary,Main Street,111.325,,,,30 mph,,,,,,,20070676,NY 203
+211946361,212025803,0,False,secondary,Main Street,35.897,,,,30 mph,,,,,,,45287082,
+211946361,211946350,0,False,secondary,Chatham Street,183.481,,,,30 mph,,,yes,,,,"[159234605, 191149598, 159234599]",NY 203
+211949458,212022191,0,False,residential,"['Patti Sue Drive', 'Van Zandt Drive']",339.59,,,,,,,,,,,"[20070392, 20065993]",
+211949458,212005493,0,False,residential,Marion Boulevard,245.495,,,,,,,,,,,20069083,
+211949458,212007149,0,False,residential,Marion Boulevard,321.483,,,,,,,,,,,20069083,
+211952776,211978898,0,False,residential,Williams Street,45.618,,,,30 mph,,,,,,,417281510,
+211952776,212025803,0,False,residential,"['Purcell Lane', 'Merwin Lane']",97.765,,,,30 mph,,,,,,,"[20066144, 20072338]",
+211952776,212025805,0,False,residential,Williams Street,38.717,,,,,no,,,,,,"[417422933, 417281518]",
+211959392,211959412,0,False,residential,Albany Avenue,465.761,,,,30 mph,,,,,,,20066369,
+211959392,212027073,0,False,primary,Kinderhook Street,52.902,2,,,35 mph,,,,,,,43598833,US 9
+211959392,211860149,0,False,primary,Kinderhook Street,60.879,2,,,35 mph,,,,,,,43598833,US 9
+211959392,211860132,0,False,secondary,Main Street,73.295,,,,30 mph,,,,,,,241060540,
+211959412,211959392,0,False,residential,Albany Avenue,465.761,,,,30 mph,,,,,,,20066369,
+211959412,211933107,0,False,primary,Kinderhook Street,125.991,2,,,35 mph,,,,,,,43598833,US 9
+211969657,211969682,0,False,residential,Pump House Road,275.555,,,,,,,,,,,20067138,
+211969657,212011502,0,False,residential,Trolly Lane,139.58,,,,,,,,,,,20069445,
+211969657,212027064,0,False,residential,River Street,365.075,,,,,,,,,,,20074958,
+211969682,211969657,0,False,residential,Pump House Road,275.555,,,,,,,,,,,20067138,
+211971921,211971923,0,False,residential,Diamond Street,38.306,,,,,,,,,,,20067307,
+211971921,211937177,0,False,secondary,Main Street,75.881,,,,30 mph,,,,,,,45287082,
+211971921,211998413,0,False,secondary,Main Street,64.836,,,,30 mph,,,,,,,45287082,
+211971923,211971921,0,False,residential,Diamond Street,38.306,,,,,,,,,,,20067307,
+211975302,211990518,0,False,tertiary,Upper Main Street,697.645,,,,,,,,,,,20073895,
+211978854,211937182,0,False,residential,Luther Street,118.329,,,,,,,,,,,20067697,
+211978854,211978896,0,False,tertiary,Church Street,9.358,,,,30 mph,,,,,,,20068646,
+211978854,211998419,0,False,tertiary,Church Street,91.41,,,,30 mph,,,,,,,20068646,
+211978896,211978898,0,False,residential,Luther Street,77.19,,,,,,,,,,,20067699,
+211978896,211978854,0,False,tertiary,Church Street,9.358,,,,30 mph,,,,,,,20068646,
+211978896,211998413,0,False,tertiary,Church Street,87.634,,,,30 mph,,,,,,,20068646,
+211978898,211978896,0,False,residential,Luther Street,77.19,,,,,,,,,,,20067699,
+211978898,211952776,0,False,residential,Williams Street,45.618,,,,30 mph,,,,,,,417281510,
+211978898,211998422,0,True,residential,Williams Street,236.556,,,,30 mph,,,,,,,20077612,
+211990518,211990530,0,False,residential,Old Mill Road,99.436,,,,,,,,,,,20068264,
+211990518,212005470,0,False,tertiary,Upper Main Street,93.535,,,,,,,,,,,20073895,
+211990518,211975302,0,False,tertiary,Upper Main Street,697.645,,,,,,,,,,,20073895,
+211990530,211990518,0,False,residential,Old Mill Road,99.436,,,,,,,,,,,20068264,
+211994176,212030361,0,False,residential,Ridge Road,60.981,,,,,,,,,,,20070961,
+211998413,211978896,0,False,tertiary,Church Street,87.634,,,,30 mph,,,,,,,20068646,
+211998413,211971921,0,False,secondary,Main Street,64.836,,,,30 mph,,,,,,,45287082,
+211998413,212025805,0,False,secondary,Main Street,79.245,,,,30 mph,,,,,,,45287082,
+211998419,211998422,0,False,tertiary,Church Street,57.163,,,,30 mph,,,,,,,20068646,
+211998419,211978854,0,False,tertiary,Church Street,91.41,,,,30 mph,,,,,,,20068646,
+211998419,211937182,0,False,residential,"['Lake Street', 'High Street']",191.316,,,,,,,,,,,"[20078072, 20065512]",
+211998422,211998419,0,False,tertiary,Church Street,57.163,,,,30 mph,,,,,,,20068646,
+211998422,211998449,0,False,tertiary,Church Street,561.861,,,,30 mph,,,,,,,20068646,
+211998449,212126847,0,False,residential,Horse and Hoe Drive,61.711,,,,,,,,,,,20078362,
+211998449,211998457,0,False,tertiary,Church Street,54.434,,,,30 mph,,,,,,,20068646,
+211998449,211998422,0,False,tertiary,Church Street,561.861,,,,30 mph,,,,,,,20068646,
+211998457,211998449,0,False,tertiary,Church Street,54.434,,,,30 mph,,,,,,,20068646,
+211998457,212005493,0,False,secondary,Mechanic Street,37.688,,,,30 mph,,,,,,,20068954,NY 203
+211998457,211998460,0,False,secondary,Church Street,38.98,,,,30 mph,,,,,,,45287084,NY 203
+211998460,212009117,0,False,residential,Horseshoe Drive,116.742,,,,,,,,,,,20069258,
+211998460,211998457,0,False,secondary,Church Street,38.98,,,,30 mph,,,,,,,45287084,NY 203
+212005470,211897475,0,False,secondary,Mechanic Street,79.397,,,,30 mph,,,,,,,20068954,NY 203
+212005470,211990518,0,False,tertiary,Upper Main Street,93.535,,,,,,,,,,,20073895,
+212005470,211939415,0,False,secondary,Upper Main Street,129.404,,,,30 mph,,,,,,,45287083,NY 203
+212005484,212005487,0,False,secondary,Mechanic Street,169.055,,,,30 mph,,,,,,,20068954,NY 203
+212005484,211897467,0,False,secondary,Mechanic Street,233.245,,,,30 mph,,,,,,,20068954,NY 203
+212005484,211939415,0,False,residential,New Street,435.127,,,,,,,,,,,20076941,
+212005487,212005484,0,False,secondary,Mechanic Street,169.055,,,,30 mph,,,,,,,20068954,NY 203
+212005487,212043412,0,False,residential,Johnson Lane,77.408,,,,,,,,,,,20078420,
+212005487,212005493,0,False,secondary,Mechanic Street,168.872,,,,30 mph,,,,,,,20068954,NY 203
+212005493,211998457,0,False,secondary,Mechanic Street,37.688,,,,30 mph,,,,,,,20068954,NY 203
+212005493,212005487,0,False,secondary,Mechanic Street,168.872,,,,30 mph,,,,,,,20068954,NY 203
+212005493,211949458,0,False,residential,Marion Boulevard,245.495,,,,,,,,,,,20069083,
+212007140,212007149,0,False,residential,Marion Boulevard,100.492,,,,,,,,,,,20069083,
+212007140,211928442,0,False,residential,Peters Lane,167.158,,,,,,,,,,,20075773,
+212007149,211949458,0,False,residential,Marion Boulevard,321.483,,,,,,,,,,,20069083,
+212007149,212007140,0,False,residential,Marion Boulevard,100.492,,,,,,,,,,,20069083,
+212007149,212108164,0,False,residential,Augusta Avenue,78.219,,,,,,,,,,,20077615,
+212009117,211998460,0,False,residential,Horseshoe Drive,116.742,,,,,,,,,,,20069258,
+212011475,212011477,0,False,residential,Trolly Lane,74.847,,,,,,,,,,,20069444,
+212011475,212027044,0,False,residential,St Lukes Drive,38.946,,,,,,,,,,,20071173,
+212011475,212032612,0,False,residential,St Lukes Drive,158.422,,,,,,,,,,,20071173,
+212011477,212011475,0,False,residential,Trolly Lane,74.847,,,,,,,,,,,20069444,
+212011502,211969657,0,False,residential,Trolly Lane,139.58,,,,,,,,,,,20069445,
+212017794,212017797,0,False,residential,Mazal Court,92.897,,,,,,,,,,,20070014,
+212017794,5292541492,0,False,residential,Burnett Street,166.281,,,,,,,,,,,20075816,
+212017794,212080372,0,False,residential,Burnett Street,138.052,,,,,,,,,,,20075816,
+212017797,212017794,0,False,residential,Mazal Court,92.897,,,,,,,,,,,20070014,
+212017797,212017797,0,False,residential,Mazal Court,63.366,,,,,,,,,,,20070014,
+212017797,212017797,1,False,residential,Mazal Court,63.366,,,,,,,,,,,20070014,
+212022191,212079954,0,False,residential,Peters Lane,116.988,,,,,,,,,,,20075773,
+212022191,211949458,0,False,residential,"['Van Zandt Drive', 'Patti Sue Drive']",339.59,,,,,,,,,,,"[20070392, 20065993]",
+212022191,212043412,0,False,residential,Peters Lane,302.176,,,,,,,,,,,20075773,
+212025803,212025805,0,False,secondary,Main Street,70.391,,,,30 mph,,,,,,,45287082,
+212025803,211952776,0,False,residential,"['Purcell Lane', 'Merwin Lane']",97.765,,,,30 mph,,,,,,,"[20066144, 20072338]",
+212025803,211946361,0,False,secondary,Main Street,35.897,,,,30 mph,,,,,,,45287082,
+212025805,211998413,0,False,secondary,Main Street,79.245,,,,30 mph,,,,,,,45287082,
+212025805,212025803,0,False,secondary,Main Street,70.391,,,,30 mph,,,,,,,45287082,
+212025805,211952776,0,False,residential,Williams Street,38.717,,,,,no,,,,,,"[417422933, 417281518]",
+212027044,211854708,0,False,primary,Kinderhook Street,132.719,2,,,35 mph,,,,,,,20070746,US 9
+212027044,212011475,0,False,residential,St Lukes Drive,38.946,,,,,,,,,,,20071173,
+212027044,212027057,0,False,primary,Kinderhook Street,598.181,2,,,35 mph,,,,,,,20070746,US 9
+212027057,212027064,0,False,primary,Kinderhook Street,115.339,2,,,35 mph,,,,,,,20070746,US 9
+212027057,212027044,0,False,primary,Kinderhook Street,598.181,2,,,35 mph,,,,,,,20070746,US 9
+212027057,212060040,0,False,residential,Circle Lane,126.955,,,,,,,,,,,20073941,
+212027064,211860149,0,False,primary,Kinderhook Street,44.561,2,,,35 mph,,,,,,,20070746,US 9
+212027064,212027057,0,False,primary,Kinderhook Street,115.339,2,,,35 mph,,,,,,,20070746,US 9
+212027064,211969657,0,False,residential,River Street,365.075,,,,,,,,,,,20074958,
+212027073,211933122,0,False,residential,"['Rathbone Avenue', 'Ridge Drive']",365.317,,,,30 mph,,,,,,,"[20074314, 20076583]",
+212027073,211933107,0,False,primary,Kinderhook Street,261.086,2,,,35 mph,,,,,,,43598833,US 9
+212027073,211959392,0,False,primary,Kinderhook Street,52.902,2,,,35 mph,,,,,,,43598833,US 9
+212030361,211994176,0,False,residential,Ridge Road,60.981,,,,,,,,,,,20070961,
+212030363,212030375,0,False,residential,Ridge Drive,75.702,,,,30 mph,,,,,,,20074314,
+212030375,212030363,0,False,residential,Ridge Drive,75.702,,,,30 mph,,,,,,,20074314,
+212030375,211933114,0,False,residential,Spruce Drive,304.644,,,,30 mph,,,,,,,20073654,
+212030375,211933122,0,False,residential,Ridge Drive,130.354,,,,30 mph,,,,,,,20074314,
+212032612,212011475,0,False,residential,St Lukes Drive,158.422,,,,,,,,,,,20071173,
+212043404,212043412,0,False,residential,Dunham Circle,63.261,,,,,,,,,,,20072225,
+212043412,212005487,0,False,residential,Johnson Lane,77.408,,,,,,,,,,,20078420,
+212043412,212043404,0,False,residential,Dunham Circle,63.261,,,,,,,,,,,20072225,
+212043412,212022191,0,False,residential,Peters Lane,302.176,,,,,,,,,,,20075773,
+212050334,211946329,0,False,residential,Oak Drive,95.214,,,,,,,,,,,20072899,
+212060040,212027057,0,False,residential,Circle Lane,126.955,,,,,,,,,,,20073941,
+212072409,212072424,0,False,residential,Cramer Drive,250.542,,,,,,,,,,,20075247,
+212072409,212072424,1,False,residential,Burnett Street,431.189,,,,,,,,,,,20075820,
+212072409,211946332,0,False,residential,Cramer Drive,91.861,,,,,,,,,,,20075247,
+212072424,212072409,0,False,residential,Cramer Drive,250.542,,,,,,,,,,,20075247,
+212072424,212072409,1,False,residential,Burnett Street,431.189,,,,,,,,,,,20075820,
+212072424,5292541492,0,False,residential,Burnett Street,168.812,,,,,,,,,,,20075816,
+212079954,212022191,0,False,residential,Peters Lane,116.988,,,,,,,,,,,20075773,
+212079954,211928442,0,False,residential,Peters Lane,174.428,,,,,,,,,,,20075773,
+212079954,212089748,0,False,residential,Smith Circle,204.098,,,,,,,,,,,20076482,
+212080372,212080372,0,False,residential,Burnett Street,68.47,,,,,,,,,,,20075816,
+212080372,212080372,1,False,residential,Burnett Street,68.47,,,,,,,,,,,20075816,
+212080372,212017794,0,False,residential,Burnett Street,138.052,,,,,,,,,,,20075816,
+212089748,212089748,0,False,residential,Smith Circle,69.699,,,,,,,,,,,20076479,
+212089748,212089748,1,False,residential,Smith Circle,69.699,,,,,,,,,,,20076479,
+212089748,212079954,0,False,residential,Smith Circle,204.098,,,,,,,,,,,20076482,
+212108164,212007149,0,False,residential,Augusta Avenue,78.219,,,,,,,,,,,20077615,
+212126847,211998449,0,False,residential,Horse and Hoe Drive,61.711,,,,,,,,,,,20078362,
+212130803,211946350,0,False,residential,Elm Street,223.007,,,,,,,,,,,20078520,
+1852928526,211854816,0,False,primary_link,,156.819,,,,,,,,,,,20059471,
+1852928526,211854810,0,False,primary_link,,44.501,,,,,,,,,,,20059471,
+1852928526,2796621336,0,False,unclassified,,197.878,,,,,,,,,,,274996658,
+2796621336,1852928526,0,False,unclassified,,197.878,,,,,,,,,,,274996658,
+5292541492,211946329,0,False,residential,Genesee Drive,310.155,,,,,,,,,,,20066824,
+5292541492,212072424,0,False,residential,Burnett Street,168.812,,,,,,,,,,,20075816,
+5292541492,212017794,0,False,residential,Burnett Street,166.281,,,,,,,,,,,20075816,

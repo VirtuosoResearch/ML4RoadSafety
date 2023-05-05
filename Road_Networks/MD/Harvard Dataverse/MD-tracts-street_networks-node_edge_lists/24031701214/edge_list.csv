@@ -1,0 +1,70 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+49195662,290764648,0,False,primary_link,,23.562,,,,,,,,,,,506663948,
+49195662,49252824,0,True,primary,Rockville Pike,195.44,3,,,45 mph,,,,,,,506662708,MD 355
+49239175,599438555,0,False,residential,Cloister Drive,548.629,,,,,,,,,,,5975297,
+49246759,49246795,0,False,residential,Montrose Avenue,59.014,,,,,,,,,,,275602377,
+49246759,2802345418,0,False,residential,Montrose Avenue,532.036,,,,,,,,,,,275602377,
+49246795,5536498443,0,False,residential,Weymouth Street,182.431,,,,,,,,,,,5976132,
+49246795,49252761,0,False,residential,Montrose Avenue,192.871,,,,,,,,,,,275602377,
+49246795,49246759,0,False,residential,Montrose Avenue,59.014,,,,,,,,,,,275602377,
+49252761,4749906101,0,False,residential,Kenilworth Avenue,242.335,,,,,,,,,,,5978782,
+49252761,5536498462,0,False,residential,Montrose Avenue,405.826,,,,,,,,,,,275602377,
+49252761,49246795,0,False,residential,Montrose Avenue,192.871,,,,,,,,,,,275602377,
+49252824,296988113,0,False,secondary,Tuckerman Lane,16.201,,,,35 mph,,,,,,,506662719,
+49252824,2687926467,0,True,primary,Rockville Pike,201.255,3,,,45 mph,,,,,,,26934665,MD 355
+49252824,4732400541,0,False,secondary,Tuckerman Lane,263.266,,,,35 mph,,,,,,,354202043,
+49267768,49347634,0,False,secondary,Strathmore Avenue,156.861,3,,,30 mph,,,,,,,"[5990696, 469104179]",MD 547
+49291674,599438574,0,True,primary,Rockville Pike,14.67,3,,,45 mph,,,,,,,26934665,MD 355
+49291674,599438548,0,True,secondary,Tuckerman Lane,539.648,,,,35 mph,,,,,,,"[5986088, 424405296]",
+49291685,49267768,0,True,secondary_link,,94.086,,,,,,,,,,,5987405,
+49347634,49267768,0,False,secondary,Strathmore Avenue,156.861,3,,,30 mph,,,,,,,"[5990696, 469104179]",MD 547
+49347634,49358283,0,False,secondary,Strathmore Avenue,194.827,,,,30 mph,,,,,,,5990696,MD 547
+49358283,49347634,0,False,secondary,Strathmore Avenue,194.827,,,,30 mph,,,,,,,5990696,MD 547
+290764648,49195662,0,False,primary_link,,23.562,,,,,,,,,,,506663948,
+296988113,49252824,0,False,secondary,Tuckerman Lane,16.201,,,,35 mph,,,,,,,506662719,
+296988113,290764648,0,True,primary,Rockville Pike,192.667,3,,,45 mph,,,,,,,506662712,MD 355
+599438548,599438555,0,True,secondary,Tuckerman Lane,199.503,,,,35 mph,,,,,,,46978314,
+599438548,3590574153,0,False,secondary,Tuckerman Lane,50.695,,,,35 mph,,,,,,,354202043,
+599438555,49239175,0,False,residential,Cloister Drive,548.629,,,,,,,,,,,5975297,
+599438555,4635063418,0,True,secondary,Tuckerman Lane,336.036,4,,,35 mph,,,,,,,"[469102112, 46978314]",
+599438574,3599637021,0,True,secondary,Tuckerman Lane,14.96,,,,35 mph,,,,,,,469102116,
+599438574,5344536375,0,True,primary,Rockville Pike,39.965,3,,,45 mph,,,,,,,26934665,MD 355
+2687926465,2687926467,0,False,residential,Grosvenor Place,14.428,,,,,,,,,,,5991449,
+2687926465,296988113,0,True,primary,Rockville Pike,202.312,3,,,45 mph,,,,,,,244626194,MD 355
+2687926467,2687926465,0,False,residential,Grosvenor Place,14.428,,,,,,,,,,,5991449,
+2687926467,49291674,0,True,primary,Rockville Pike,526.16,3,,,45 mph,,,,,,,26934665,MD 355
+2802345418,2802345419,0,True,residential,Strathmore Hall,51.456,,,,,,,,,,,275602376,
+2802345418,4732400542,0,False,residential,Montrose Avenue,8.87,,,,,,,,,,,275602377,
+2802345418,49246759,0,False,residential,Montrose Avenue,532.036,,,,,,,,,,,275602377,
+2802345419,4732400541,0,False,secondary,Tuckerman Lane,9.207,,,,35 mph,,,,,,,354202043,
+2802345419,3572947293,0,True,residential,Strathmore Hall,37.363,,,,,,,,,,,275602376,
+2802345419,3590574153,0,False,secondary,Tuckerman Lane,217.902,,,,35 mph,,,,,,,354202043,
+2802345423,4732400542,0,False,residential,Montrose Avenue,204.559,,,,,,,,,,,275602377,
+3516259795,3516259795,0,False,residential,Oxford Street,72.535,,,,,,,,,,,5981977,
+3516259795,3516259795,1,False,residential,Oxford Street,72.535,,,,,,,,,,,5981977,
+3572947293,4732400541,0,True,residential,Strathmore Hall,38.226,,,,,,,,,,,480236082,
+3572947293,3572947298,0,False,residential,Strathmore Hall,237.531,,,,,,,,,,,480236083,
+3572947298,3572947293,0,False,residential,Strathmore Hall,237.531,,,,,,,,,,,480236083,
+3590574153,3590574160,0,False,residential,Stratmore Park Court,114.659,,,,,,,,,,,353280667,
+3590574153,2802345419,0,False,secondary,Tuckerman Lane,217.902,,,,35 mph,,,,,,,354202043,
+3590574153,599438548,0,False,secondary,Tuckerman Lane,50.695,,,,35 mph,,,,,,,354202043,
+3590574160,3590574153,0,False,residential,Stratmore Park Court,114.659,,,,,,,,,,,353280667,
+3599637021,3599637022,0,True,primary,Rockville Pike,12.664,3,,,45 mph,,,,,,,244626194,MD 355
+3599637022,49291674,0,True,secondary,Tuckerman Lane,15.339,,,,35 mph,,,,,,,5986088,
+3599637022,2687926465,0,True,primary,Rockville Pike,526.577,3,,,45 mph,,,,,,,244626194,MD 355
+4635063418,599438574,0,True,secondary,Tuckerman Lane,28.888,3,,,35 mph,,,,,,,469102113,
+4635063418,5344536375,0,True,primary_link,,57.558,,,,,,,,,,,553709191,
+4732400541,2802345419,0,False,secondary,Tuckerman Lane,9.207,,,,35 mph,,,,,,,354202043,
+4732400541,4732400542,0,True,residential,Strathmore Hall,48.662,,,,,,,,,,,480236081,
+4732400541,49252824,0,False,secondary,Tuckerman Lane,263.266,,,,35 mph,,,,,,,354202043,
+4732400542,2802345418,0,False,residential,Montrose Avenue,8.87,,,,,,,,,,,275602377,
+4732400542,2802345423,0,False,residential,Montrose Avenue,204.559,,,,,,,,,,,275602377,
+4749906101,49252761,0,False,residential,Kenilworth Avenue,242.335,,,,,,,,,,,5978782,
+5344536375,49291685,0,True,primary,Rockville Pike,368.098,"['3', '4']",,,"['40 mph', '45 mph']",,,,,,,"[26934665, 469103907, 469103908]",MD 355
+5344536391,3599637021,0,True,primary,Rockville Pike,60.971,3,,,45 mph,,,,,,,244626194,MD 355
+5536498443,49246795,0,False,residential,Weymouth Street,182.431,,,,,,,,,,,5976132,
+5536498443,5536498443,0,False,residential,Weymouth Street,56.397,,,,,,,,,,,577556601,
+5536498443,5536498443,1,False,residential,Weymouth Street,56.397,,,,,,,,,,,577556601,
+5536498462,49252761,0,False,residential,Montrose Avenue,405.826,,,,,,,,,,,275602377,
+5536498462,5536498462,0,False,residential,Montrose Avenue,57.49,,,,,,,,,,,577556602,
+5536498462,5536498462,1,False,residential,Montrose Avenue,57.49,,,,,,,,,,,577556602,

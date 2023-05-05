@@ -1,0 +1,222 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+49160225,49160227,0,False,residential,Spring Avenue,157.616,,,,,,,,,,,5967383,
+49160225,49219368,0,False,residential,Cockerille Avenue,23.287,,,,,,,,,,,5973191,
+49160225,49219850,0,False,residential,"['Cockerille Avenue', '1st Avenue']",214.868,,,,,,,,,,,"[5973263, 5973191]",
+49160227,49160225,0,False,residential,Spring Avenue,157.616,,,,,,,,,,,5967383,
+49160227,49172735,0,False,residential,Poplar Avenue,130.187,,,,,,,,,,,5968664,
+49172735,49312304,0,False,residential,Elm Avenue,120.152,,,,,,,,,,,488800154,
+49172735,49172738,0,False,residential,Poplar Avenue,355.678,,,,,,,,,,,5968664,
+49172735,49160227,0,False,residential,Poplar Avenue,130.187,,,,,,,,,,,5968664,
+49172735,49312300,0,False,residential,Elm Avenue,185.971,,,,,,,,,,,488800154,
+49172738,49172735,0,False,residential,Poplar Avenue,355.678,,,,,,,,,,,5968664,
+49172738,49201170,0,False,residential,Columbia Avenue,139.475,,,,,,,,,,,5971252,
+49172738,49201199,0,False,residential,Columbia Avenue,111.999,,,,,,,,,,,488800166,
+49173079,49281184,0,False,residential,Willow Avenue,194.611,,,,,,,,,,,5980119,
+49173079,49173081,0,False,secondary,Carroll Avenue,81.963,2,,,25 mph,,,,,,,370808551,MD 195
+49173079,3744950266,0,False,secondary,Carroll Avenue,49.74,2,,,25 mph,,,,,,,370808551,MD 195
+49173081,3369108607,0,True,tertiary,Laurel Avenue,103.878,1,,,,,,,,,,5987387,
+49173081,49173083,0,False,secondary,Carroll Avenue,59.462,2,,,25 mph,,,,,,,130907990,MD 195
+49173081,49173079,0,False,secondary,Carroll Avenue,81.963,2,,,25 mph,,,,,,,370808551,MD 195
+49173083,49173091,0,False,secondary,Carroll Avenue,158.355,2,,,25 mph,,,,,,,130907990,MD 195
+49173083,49173081,0,False,secondary,Carroll Avenue,59.462,2,,,25 mph,,,,,,,130907990,MD 195
+49173083,49256985,0,False,residential,Westmoreland Avenue,287.731,,,,,,,,,,,488800152,
+49173091,49213397,0,False,residential,Tulip Avenue,107.731,,,,,,,,,,,5983956,
+49173091,49173095,0,False,secondary,Carroll Avenue,60.898,2,,,25 mph,,,,,,,130907990,MD 195
+49173091,49173083,0,False,secondary,Carroll Avenue,158.355,2,,,25 mph,,,,,,,130907990,MD 195
+49173095,49201159,0,False,residential,Columbia Avenue,35.818,,,,,,,,,,,5971252,
+49173095,3748744219,0,False,secondary,Carroll Avenue,35.793,2,,,25 mph,,,,,,,130907990,MD 195
+49173095,49173091,0,False,secondary,Carroll Avenue,60.898,2,,,25 mph,,,,,,,130907990,MD 195
+49173101,49251325,0,False,secondary,Philadelphia Avenue,78.587,2,,,25 mph,,,,,,,5976807,MD 410
+49173101,49173107,0,False,secondary,Carroll Avenue,109.993,4,,,25 mph,,,,,,,"[50532876, 468514844]",MD 195;MD 410
+49173101,3748744219,0,False,secondary,Carroll Avenue,263.504,2,,,25 mph,,,,,,,130907990,MD 195
+49173107,49315676,0,False,secondary,Ethan Allen Avenue,48.925,,,,25 mph,,,,,,,5984555,MD 410
+49173107,49303254,0,False,residential,Grant Avenue,191.305,2,,,,,,,,,,5989055,
+49173107,49173112,0,False,secondary,Carroll Avenue,76.413,3,,,25 mph,,,,,,,"[468514843, 50841039]",MD 195
+49173107,49173101,0,False,secondary,Carroll Avenue,109.993,4,,,25 mph,,,,,,,"[468514844, 50532876]",MD 195;MD 410
+49173112,49173113,0,False,secondary,Carroll Avenue,40.438,,,,25 mph,,,,,,,50841039,MD 195
+49173112,49210197,0,False,residential,Manor Circle,89.19,,,,,,,,,,,5972189,
+49173112,49173107,0,False,secondary,Carroll Avenue,76.413,3,,,25 mph,,,,,,,"[468514843, 50841039]",MD 195
+49173113,49269901,0,False,residential,Lee Avenue,183.912,,,,,,,,,,,5978803,
+49173113,49173115,0,False,secondary,Carroll Avenue,111.937,,,,25 mph,,,,,,,50841039,MD 195
+49173113,49173112,0,False,secondary,Carroll Avenue,40.438,,,,25 mph,,,,,,,50841039,MD 195
+49173115,49173113,0,False,secondary,Carroll Avenue,111.937,,,,25 mph,,,,,,,50841039,MD 195
+49173115,49210162,0,False,residential,Manor Circle,58.603,,,,,,,,,,,5972188,
+49173115,49173117,0,False,secondary,Carroll Avenue,100.334,,,,25 mph,,,,,,,50841039,MD 195
+49173117,49210223,0,False,residential,Boyd Avenue,182.311,,,,,,,,,,,5973140,
+49173117,49173120,0,False,secondary,Carroll Avenue,17.771,,,,25 mph,,,,,,,50841039,MD 195
+49173117,49173115,0,False,secondary,Carroll Avenue,100.334,,,,25 mph,,,,,,,50841039,MD 195
+49173120,49173122,0,False,secondary,Carroll Avenue,129.904,,,,25 mph,,,,,,,50841039,MD 195
+49173120,49173117,0,False,secondary,Carroll Avenue,17.771,,,,25 mph,,,,,,,50841039,MD 195
+49173122,49173120,0,False,secondary,Carroll Avenue,129.904,,,,25 mph,,,,,,,50841039,MD 195
+49173122,49192027,0,False,residential,Lincoln Avenue,251.367,,,,,,,,,,,5976822,
+49173122,49173130,0,False,secondary,Carroll Avenue,112.532,,,,25 mph,,,,,,,50841039,MD 195
+49173130,49173132,0,False,secondary,Carroll Avenue,53.018,,,,25 mph,,,,,,,50841039,MD 195
+49173130,49261464,0,False,residential,Niagara Court,68.766,,,,,,,,,,,5977914,
+49173130,49173122,0,False,secondary,Carroll Avenue,112.532,,,,25 mph,,,,,,,50841039,MD 195
+49173132,49173134,0,False,secondary,Carroll Avenue,34.663,,,,25 mph,,,,,,,50841039,MD 195
+49173132,49173130,0,False,secondary,Carroll Avenue,53.018,,,,25 mph,,,,,,,50841039,MD 195
+49173132,49194891,0,False,tertiary,Old Carroll Avenue,150.7,,,,,,,,,,,5970730,
+49173134,49173132,0,False,secondary,Carroll Avenue,34.663,,,,25 mph,,,,,,,50841039,MD 195
+49190879,49190880,0,False,residential,Holly Avenue,114.002,2,,,,,,,,,,5970388,
+49190880,49190879,0,False,residential,Holly Avenue,114.002,2,,,,,,,,,,5970388,
+49190880,49265638,0,False,residential,Tulip Avenue,179.665,,,,,,,,,,,5983956,
+49192021,49192023,0,False,residential,Jackson Avenue,125.386,,,,,,,,,,,521499223,
+49192023,49210223,0,False,residential,Boyd Avenue,108.098,,,,,,,,,,,5973140,
+49192023,49192027,0,False,residential,Jackson Avenue,156.841,,,,,,,,,,,521499223,
+49192023,49192021,0,False,residential,Jackson Avenue,125.386,,,,,,,,,,,521499223,
+49192027,49192023,0,False,residential,Jackson Avenue,156.841,,,,,,,,,,,521499223,
+49192027,49173122,0,False,residential,Lincoln Avenue,251.367,,,,,,,,,,,5976822,
+49194891,49173132,0,False,tertiary,Old Carroll Avenue,150.7,,,,,,,,,,,5970730,
+49200688,49284868,0,True,residential,Park Avenue,99.76,,,,25 mph,,,,,,,371299082,
+49201159,49335342,0,False,residential,Pine Avenue,133.237,,,,,,,,,,,5989328,
+49201159,49201170,0,False,residential,Columbia Avenue,160.392,,,,,,,,,,,5971252,
+49201159,49173095,0,False,residential,Columbia Avenue,35.818,,,,,,,,,,,5971252,
+49201170,49172738,0,False,residential,Columbia Avenue,139.475,,,,,,,,,,,5971252,
+49201170,49201159,0,False,residential,Columbia Avenue,160.392,,,,,,,,,,,5971252,
+49201170,49315643,0,False,residential,Hickory Avenue,168.866,,,,,,,,,,,5984531,
+49201199,49315676,0,False,residential,Sycamore Avenue,52.739,,,,,,,,,,,5985660,
+49201199,5093112702,0,False,residential,Sycamore Avenue,358.183,,,,,,,,,,,5985660,
+49201199,49172738,0,False,residential,Columbia Avenue,111.999,,,,,,,,,,,488800166,
+49210162,49210165,0,False,residential,Manor Circle,21.432,,,,,,,,,,,5972188,
+49210162,49173115,0,False,residential,Manor Circle,58.603,,,,,,,,,,,5972188,
+49210162,1156539185,0,False,residential,Manor Circle,29.645,,,,,,,,,,,100041147,
+49210165,49210167,0,False,residential,Manor Circle,23.339,,,,,,,,,,,5972188,
+49210165,49210162,0,False,residential,Manor Circle,21.432,,,,,,,,,,,5972188,
+49210165,1156539185,0,False,residential,Manor Circle,23.316,,,,,,,,,,,5972190,
+49210167,49210165,0,False,residential,Manor Circle,23.339,,,,,,,,,,,5972188,
+49210167,49210173,0,False,residential,Manor Circle,36.702,,,,,,,,,,,5972188,
+49210167,49210197,0,False,residential,Manor Circle,40.625,,,,,,,,,,,5972189,
+49210173,49210179,0,False,residential,Manor Circle,64.332,,,,,,,,,,,5972188,
+49210173,49210167,0,False,residential,Manor Circle,36.702,,,,,,,,,,,5972188,
+49210173,49210197,0,False,unclassified,,43.603,,,,,,,,,,,123535666,
+49210179,49210181,0,False,residential,Manor Circle,20.462,,,,,,,,,,,5972188,
+49210179,49210173,0,False,residential,Manor Circle,64.332,,,,,,,,,,,5972188,
+49210179,1156539186,0,False,residential,Manor Circle,23.412,,,,,,,,,,,100041144,
+49210181,49210179,0,False,residential,Manor Circle,20.462,,,,,,,,,,,5972188,
+49210181,49210203,0,False,residential,Manor Circle,16.461,,,,,,,,,,,5972190,
+49210197,49210167,0,False,residential,Manor Circle,40.625,,,,,,,,,,,5972189,
+49210197,49173112,0,False,residential,Manor Circle,89.19,,,,,,,,,,,5972189,
+49210197,49210173,0,False,unclassified,,43.603,,,,,,,,,,,123535666,
+49210203,1156539186,0,False,residential,Manor Circle,4.782,,,,,,,,,,,5972190,
+49210203,49210181,0,False,residential,Manor Circle,16.461,,,,,,,,,,,5972190,
+49210203,49237250,0,False,residential,Winchester Avenue,93.257,,,,,,,,,,,5975065,
+49210205,1156539186,0,False,residential,Manor Circle,21.097,,,,,,,,,,,5972190,
+49210205,1156539220,0,False,residential,Manor Circle,28.8,,,,,,,,,,,5972190,
+49210205,49210218,0,False,residential,Manor Circle,18.34,,,,,,,,,,,5972191,
+49210218,49210223,0,False,residential,Manor Circle,104.545,,,,,,,,,,,5972191,
+49210218,49210205,0,False,residential,Manor Circle,18.34,,,,,,,,,,,5972191,
+49210218,1156539220,0,False,residential,Manor Circle,31.307,,,,,,,,,,,100041163,
+49210223,49192023,0,False,residential,Boyd Avenue,108.098,,,,,,,,,,,5973140,
+49210223,49173117,0,False,residential,Boyd Avenue,182.311,,,,,,,,,,,5973140,
+49210223,49210218,0,False,residential,Manor Circle,104.545,,,,,,,,,,,5972191,
+49213397,3748744215,0,False,residential,Spruce Avenue,256.884,,,,25 mph,,,,,,,5972552,
+49213397,49173091,0,False,residential,Tulip Avenue,107.731,,,,,,,,,,,5983956,
+49213397,49281184,0,False,residential,Tulip Avenue,107.239,,,,,,,,,,,5983956,
+49213401,49341934,0,False,residential,Crescent Place,74.163,,,,,,,,,,,5987518,
+49213401,3748744219,0,True,residential,Park Avenue,165.298,,,,25 mph,,,,,,,371299082,
+49219368,49160225,0,False,residential,Cockerille Avenue,23.287,,,,,,,,,,,5973191,
+49219368,49280491,0,False,residential,2nd Avenue,107.549,,,,,,,,,,,5980035,
+49219848,49219850,0,False,residential,1st Avenue,99.909,,,,,,,,,,,5973263,
+49219848,647094013,0,False,residential,1st Avenue,51.037,,,,,,,,,,,5973263,
+49219848,49277078,0,False,residential,Westmoreland Avenue,239.311,,,,,,,,,,,411932587,
+49219848,49277068,0,False,residential,Westmoreland Avenue,137.057,,,,,,,,,,,411932587,
+49219850,49219848,0,False,residential,1st Avenue,99.909,,,,,,,,,,,5973263,
+49219850,49160225,0,False,residential,"['1st Avenue', 'Cockerille Avenue']",214.868,,,,,,,,,,,"[5973191, 5973263]",
+49219850,49312309,0,False,residential,Allegheny Avenue,185.753,,,,,,,,,,,5984982,
+49219850,49280491,0,False,residential,Allegheny Avenue,136.503,,,,,,,,,,,5984982,
+49237250,49210203,0,False,residential,Winchester Avenue,93.257,,,,,,,,,,,5975065,
+49251325,49173101,0,False,secondary,Philadelphia Avenue,78.587,2,,,25 mph,,,,,,,5976807,MD 410
+49251325,49251329,0,False,secondary,Philadelphia Avenue,193.708,2,,,25 mph,,,,,,,5976807,MD 410
+49251325,49341934,0,False,residential,Holt Place,90.878,,,,,,,,,,,5987990,
+49251329,49200688,0,True,residential,Park Avenue,54.711,,,,25 mph,,,,,,,371299082,
+49251329,49251335,0,False,secondary,Philadelphia Avenue,170.855,2,,,25 mph,,,,,,,5976807,MD 410
+49251329,49251325,0,False,secondary,Philadelphia Avenue,193.708,2,,,25 mph,,,,,,,5976807,MD 410
+49251335,49286943,0,False,tertiary,Maple Avenue,89.917,,,,,,,,,,,50842695,
+49251335,49251329,0,False,secondary,Philadelphia Avenue,170.855,2,,,25 mph,,,,,,,5976807,MD 410
+49256985,647094031,0,False,residential,Walnut Avenue,125.088,,,,,,,,,,,5977415,
+49256985,49277078,0,False,residential,Westmoreland Avenue,2.832,,,,,,,,,,,488800152,
+49256985,49173083,0,False,residential,Westmoreland Avenue,287.731,,,,,,,,,,,488800152,
+49257335,49324055,0,False,residential,Beech Avenue,141.22,,,,,,,,,,,5991562,
+49257335,49257345,0,False,residential,Woodland Avenue,345.481,,,,,,,,,,,5977470,
+49257345,49315676,0,False,secondary,Ethan Allen Avenue,137.531,,,,25 mph,,,,,,,5984555,MD 410
+49257345,49257335,0,False,residential,Woodland Avenue,345.481,,,,,,,,,,,5977470,
+49261464,49173130,0,False,residential,Niagara Court,68.766,,,,,,,,,,,5977914,
+49265638,3657250006,0,False,residential,Cedar Avenue,146.274,,,,,,,,,,,5978358,
+49265638,49286939,0,False,residential,Tulip Avenue,133.194,,,,,,,,,,,5983956,
+49265638,49190880,0,False,residential,Tulip Avenue,179.665,,,,,,,,,,,5983956,
+49269901,49173113,0,False,residential,Lee Avenue,183.912,,,,,,,,,,,5978803,
+49269901,49303254,0,False,residential,Hancock Avenue,111.133,,,,,,,,,,,5982928,
+49277068,49280491,0,False,residential,2nd Avenue,100.457,,,,,,,,,,,5980035,
+49277068,647094031,0,False,residential,"['Eastern Avenue', '2nd Avenue']",506.069,,,,,,,,,,,"[5980035, 50759822]",
+49277068,49219848,0,False,residential,Westmoreland Avenue,137.057,,,,,,,,,,,411932587,
+49277078,49256985,0,False,residential,Westmoreland Avenue,2.832,,,,,,,,,,,488800152,
+49277078,49312311,0,False,residential,Elm Avenue,108.436,,,,,,,,,,,5984083,
+49277078,49219848,0,False,residential,Westmoreland Avenue,239.311,,,,,,,,,,,411932587,
+49280491,49219368,0,False,residential,2nd Avenue,107.549,,,,,,,,,,,5980035,
+49280491,49277068,0,False,residential,2nd Avenue,100.457,,,,,,,,,,,5980035,
+49280491,49219850,0,False,residential,Allegheny Avenue,136.503,,,,,,,,,,,5984982,
+49281184,49286939,0,False,residential,Tulip Avenue,136.627,,,,,,,,,,,5983956,
+49281184,49173079,0,False,residential,Willow Avenue,194.611,,,,,,,,,,,5980119,
+49281184,49213397,0,False,residential,Tulip Avenue,107.239,,,,,,,,,,,5983956,
+49284868,49341934,0,False,residential,Crescent Place,71.324,,,,,,,,,,,5987517,
+49284868,3748744215,0,True,residential,Park Avenue,99.256,,,,25 mph,,,,,,,371299082,
+49286939,49281184,0,False,residential,Tulip Avenue,136.627,,,,,,,,,,,5983956,
+49286939,49265638,0,False,residential,Tulip Avenue,133.194,,,,,,,,,,,5983956,
+49286943,49251335,0,False,tertiary,Maple Avenue,89.917,,,,,,,,,,,50842695,
+49286943,49303254,0,False,residential,Grant Avenue,292.937,2,,,,,,,,,,5989055,
+49303252,49303254,0,False,residential,Hancock Avenue,55.532,,,,,,,,,,,5982928,
+49303254,49269901,0,False,residential,Hancock Avenue,111.133,,,,,,,,,,,5982928,
+49303254,49303252,0,False,residential,Hancock Avenue,55.532,,,,,,,,,,,5982928,
+49303254,49286943,0,False,residential,Grant Avenue,292.937,2,,,,,,,,,,5989055,
+49303254,49173107,0,False,residential,Grant Avenue,191.305,2,,,,,,,,,,5989055,
+49312300,49324055,0,False,residential,Sycamore Avenue,85.391,,,,,,,,,,,5985660,
+49312300,49172735,0,False,residential,Elm Avenue,185.971,,,,,,,,,,,488800154,
+49312304,49315643,0,False,residential,Hickory Avenue,102.451,,,,,,,,,,,5984531,
+49312304,49172735,0,False,residential,Elm Avenue,120.152,,,,,,,,,,,488800154,
+49312304,49312309,0,False,residential,Elm Avenue,135.881,,,,,,,,,,,488800154,
+49312309,49312311,0,False,residential,Elm Avenue,70.572,,,,,,,,,,,488800154,
+49312309,49219850,0,False,residential,Allegheny Avenue,185.753,,,,,,,,,,,5984982,
+49312309,49312304,0,False,residential,Elm Avenue,135.881,,,,,,,,,,,488800154,
+49312311,49312309,0,False,residential,Elm Avenue,70.572,,,,,,,,,,,488800154,
+49312311,49277078,0,False,residential,Elm Avenue,108.436,,,,,,,,,,,5984083,
+49312311,49335342,0,False,residential,Pine Avenue,107.392,,,,,,,,,,,5989328,
+49315643,49312304,0,False,residential,Hickory Avenue,102.451,,,,,,,,,,,5984531,
+49315643,49335342,0,False,residential,Montgomery Avenue,209.813,,,,,,,,,,,5986809,
+49315643,49201170,0,False,residential,Hickory Avenue,168.866,,,,,,,,,,,5984531,
+49315676,49257345,0,False,secondary,Ethan Allen Avenue,137.531,,,,25 mph,,,,,,,5984555,MD 410
+49315676,49173107,0,False,secondary,Ethan Allen Avenue,48.925,,,,25 mph,,,,,,,5984555,MD 410
+49315676,49201199,0,False,residential,Sycamore Avenue,52.739,,,,,,,,,,,5985660,
+49324055,5093112702,0,False,residential,Sycamore Avenue,4.82,,,,,,,,,,,5985660,
+49324055,49257335,0,False,residential,Beech Avenue,141.22,,,,,,,,,,,5991562,
+49324055,49312300,0,False,residential,Sycamore Avenue,85.391,,,,,,,,,,,5985660,
+49335342,49315643,0,False,residential,Montgomery Avenue,209.813,,,,,,,,,,,5986809,
+49335342,49201159,0,False,residential,Pine Avenue,133.237,,,,,,,,,,,5989328,
+49335342,49312311,0,False,residential,Pine Avenue,107.392,,,,,,,,,,,5989328,
+49341934,49284868,0,False,residential,Crescent Place,71.324,,,,,,,,,,,5987517,
+49341934,49213401,0,False,residential,Crescent Place,74.163,,,,,,,,,,,5987518,
+49341934,49251325,0,False,residential,Holt Place,90.878,,,,,,,,,,,5987990,
+49771453,638093913,0,False,tertiary,Eastern Avenue Northwest,199.891,2,,,,,,,,,,81139596,
+638093913,49771453,0,False,tertiary,Eastern Avenue Northwest,199.891,2,,,,,,,,,,81139596,
+647094013,49219848,0,False,residential,1st Avenue,51.037,,,,,,,,,,,5973263,
+647094031,49256985,0,False,residential,Walnut Avenue,125.088,,,,,,,,,,,5977415,
+647094031,49277068,0,False,residential,"['Eastern Avenue', '2nd Avenue']",506.069,,,,,,,,,,,"[5980035, 50759822]",
+1156539185,49210165,0,False,residential,Manor Circle,23.316,,,,,,,,,,,5972190,
+1156539185,1156539220,0,False,residential,Manor Circle,52.126,,,,,,,,,,,5972190,
+1156539185,49210162,0,False,residential,Manor Circle,29.645,,,,,,,,,,,100041147,
+1156539186,49210205,0,False,residential,Manor Circle,21.097,,,,,,,,,,,5972190,
+1156539186,49210203,0,False,residential,Manor Circle,4.782,,,,,,,,,,,5972190,
+1156539186,49210179,0,False,residential,Manor Circle,23.412,,,,,,,,,,,100041144,
+1156539220,1156539185,0,False,residential,Manor Circle,52.126,,,,,,,,,,,5972190,
+1156539220,49210205,0,False,residential,Manor Circle,28.8,,,,,,,,,,,5972190,
+1156539220,49210218,0,False,residential,Manor Circle,31.307,,,,,,,,,,,100041163,
+3369108607,49173081,0,True,tertiary,Laurel Avenue,102.594,1,,,,,,,,,,131520122,
+3657250006,49265638,0,False,residential,Cedar Avenue,146.274,,,,,,,,,,,5978358,
+3744950266,49173079,0,False,secondary,Carroll Avenue,49.74,2,,,25 mph,,,,,,,370808551,MD 195
+3748744215,49213401,0,True,residential,Park Avenue,17.405,,,,25 mph,,,,,,,371299082,
+3748744215,49213397,0,False,residential,Spruce Avenue,256.884,,,,25 mph,,,,,,,5972552,
+3748744219,49173101,0,False,secondary,Carroll Avenue,263.504,2,,,25 mph,,,,,,,130907990,MD 195
+3748744219,49173095,0,False,secondary,Carroll Avenue,35.793,2,,,25 mph,,,,,,,130907990,MD 195
+5093112702,49324055,0,False,residential,Sycamore Avenue,4.82,,,,,,,,,,,5985660,
+5093112702,49201199,0,False,residential,Sycamore Avenue,358.183,,,,,,,,,,,5985660,
+5093112702,5093112704,0,False,residential,,82.345,1,,,,,,,,,,523074735,
+5093112704,5093112702,0,False,residential,,82.345,1,,,,,,,,,,523074735,

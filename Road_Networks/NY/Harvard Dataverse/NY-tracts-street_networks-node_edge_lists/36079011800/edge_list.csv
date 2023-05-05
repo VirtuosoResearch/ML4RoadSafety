@@ -1,0 +1,737 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+60646775,336148761,0,False,primary,,27.927,2,,,,,,,,,,8094705,US 6;US 202;NY 22
+60646906,336148761,0,False,primary,,315.715,2,,,,,,,,,,8094705,US 6;US 202;NY 22
+60646906,60646917,0,False,primary,E Branch Avenue,283.849,2,,,,,,,,,,8614198,US 202;NY 22
+60646906,60646929,0,False,primary,Main Street,78.673,2,,,,,,yes,,,,"[202522448, 115809821, 115809830]",US 6
+60646917,60646906,0,False,primary,E Branch Avenue,283.849,2,,,,,,,,,,8614198,US 202;NY 22
+60646929,310098102,0,False,tertiary,Peaceable Hill Road,107.147,,,,,,,,,,,11881564,CR 53
+60646929,106750489,0,False,primary,Main Street,329.823,2,,,,,,,,,,202522448,US 6
+60646929,60646906,0,False,primary,Main Street,78.673,2,,,,,,yes,,,,"[202522448, 115809821, 115809830]",US 6
+61280419,61280425,0,True,motorway,,511.712,2,,,65 mph,,,,,,,179754536,I 84
+61280419,61306138,0,True,motorway_link,,462.747,,,,,,,,,,,183364834,
+61306124,336592586,0,False,residential,Pugsley Road,1273.419,,,,,,,,,,,24170153,
+61306124,61306138,0,False,secondary,,455.057,,,,,,,,,,,31421623,NY 312
+61306124,106781965,0,False,secondary,,383.238,,,,,,,,,,,31421623,NY 312
+61306138,106776121,0,True,residential,Independent Way,129.707,,,,,,,,,,,11882235,
+61306138,1897079985,0,False,secondary,,14.088,,,,,,,,,,,31421623,NY 312
+61306138,61306124,0,False,secondary,,455.057,,,,,,,,,,,31421623,NY 312
+61306187,261518839,0,False,residential,International Boulevard,214.109,,,,,,,,,,,24139967,
+61306187,138750983,0,False,secondary,,339.804,,,,,,,,,,,38765958,NY 312
+61306187,1897327215,0,False,secondary,,157.151,,,,,,,,,,,38765958,NY 312
+74991864,106747561,0,False,residential,Wilkes Street,72.59,,,,,,,,,,,11880812,
+74991864,106745811,0,False,primary,Main Street,189.316,2,,,,,,,,,,202522448,US 6
+74991864,106746347,0,False,primary,Main Street,111.7,2,,,,,,,,,,202522448,US 6
+74991867,106748736,0,False,residential,Marvin Avenue,85.771,,,,,,,,,,,11880912,
+74991867,74991879,0,False,primary,Main Street,81.883,2,,,,,,,,,,202522448,US 6
+74991867,106745811,0,False,primary,Main Street,49.419,2,,,,,,,,,,202522448,US 6
+74991867,106750472,0,True,residential,Park Street,121.619,,,,,,,,,,,573606467,
+74991879,106748736,0,False,tertiary,Railroad Avenue,39.559,,,,,,,,,,,11880901,CR 56
+74991879,74991880,0,False,primary,North Main Street,23.38,2,,,,,,,,,,13827175,US 6
+74991879,74991867,0,False,primary,Main Street,81.883,2,,,,,,,,,,202522448,US 6
+74991880,1900060129,0,False,residential,Ellen Avenue,254.238,,,,,,,,,,,11881050,
+74991880,74991883,0,False,primary,North Main Street,30.318,2,,,,,,,,,,13827175,US 6
+74991880,74991879,0,False,primary,North Main Street,23.38,2,,,,,,,,,,13827175,US 6
+74991883,106740681,0,False,residential,Hoyt Street,124.002,,,,,,,,,,,11880123,
+74991883,106740686,0,False,primary,North Main Street,209.729,2,,,,,,,,,,13827175,US 6
+74991883,74991880,0,False,primary,North Main Street,30.318,2,,,,,,,,,,13827175,US 6
+74991891,106742760,0,False,residential,Michael Neuner Drive,115.857,,,,,,,,,,,11880270,
+74991891,74991892,0,False,primary,North Main Street,23.998,2,,,,,,,,,,13827175,US 6
+74991891,106740686,0,False,primary,North Main Street,80.215,2,,,,,,,,,,13827175,US 6
+74991892,106742560,0,False,tertiary,North Main Street,235.364,,,,,,,,,,,11880351,
+74991892,74991899,0,False,primary,Carmel Avenue,136.1,2,,,,,,yes,,,,"[115809832, 13826955, 115809819]",US 6
+74991892,74991891,0,False,primary,North Main Street,23.998,2,,,,,,,,,,13827175,US 6
+74991899,336144930,0,False,residential,Putnam Avenue,104.032,,,,,,,,,,,11881112,
+74991899,74991902,0,False,primary,Carmel Avenue,194.484,2,,,,,,,,,,115809819,US 6
+74991899,74991892,0,False,primary,Carmel Avenue,136.1,2,,,,,,yes,,,,"[115809832, 115809819, 13826955]",US 6
+74991899,136542383,0,False,tertiary,Putnam Avenue,151.077,,,,,,,,,,,181397684,
+74991902,74991925,0,False,primary,Carmel Avenue,890.486,2,,,,,,,,,,115809819,US 6
+74991902,74991899,0,False,primary,Carmel Avenue,194.484,2,,,,,,,,,,115809819,US 6
+74991925,74991930,0,False,primary,Carmel Avenue,171.013,2,,,,,,,,,,30586975,US 6
+74991925,74991902,0,False,primary,Carmel Avenue,890.486,2,,,,,,,,,,115809819,US 6
+74991925,136542413,0,False,tertiary,Putnam Avenue,182.33,,,,,,,,,,,181397684,
+74991930,74991925,0,False,primary,Carmel Avenue,171.013,2,,,,,,,,,,30586975,US 6
+106740681,74991883,0,False,residential,Hoyt Street,124.002,,,,,,,,,,,11880123,
+106740681,106740683,0,False,residential,Prospect Street,24.524,,,,,,,,,,,"[293821842, 11880110]",
+106740681,106745811,0,False,residential,Progress Street,118.1,,,,,,,,,,,11880644,
+106740681,106741483,0,True,residential,Hoyt Street,51.791,,,,,,,,,,,11880657,
+106740683,106744879,0,False,residential,Prospect Street,208.166,,,,,,,,,,,293821842,
+106740683,106740686,0,False,residential,Oak Street,211.312,,,,,,,,,,,11880125,
+106740683,106741483,0,False,residential,Oak Street,46.2,,,,,,,,,,,11880125,
+106740683,106740681,0,False,residential,Prospect Street,24.524,,,,,,,,,,,"[293821842, 11880110]",
+106740686,106740683,0,False,residential,Oak Street,211.312,,,,,,,,,,,11880125,
+106740686,74991891,0,False,primary,North Main Street,80.215,2,,,,,,,,,,13827175,US 6
+106740686,74991883,0,False,primary,North Main Street,209.729,2,,,,,,,,,,13827175,US 6
+106741477,106746631,0,False,residential,Merritt Street,34.957,,,,,,,,,,,11880703,
+106741477,106741483,0,False,residential,Oak Street,241.57,,,,,,,,,,,11880125,
+106741477,1900005117,0,False,residential,Oak Street,306.631,,,,,,,,,,,11880125,
+106741483,106740683,0,False,residential,Oak Street,46.2,,,,,,,,,,,11880125,
+106741483,106741477,0,False,residential,Oak Street,241.57,,,,,,,,,,,11880125,
+106742559,106742560,0,False,residential,Wells Street,115.65,,,,,,,,,,,11880303,
+106742559,106742760,0,False,residential,Center Street,257.266,,,,,,,,,,,11880329,
+106742559,106743492,0,False,residential,Center Street,121.992,,,,,,,,,,,11880329,
+106742559,106742614,0,False,residential,"['Prospect Street', 'Wells Street']",151.59,,,,,,,,,,,"[293821842, 11880303]",
+106742560,106742559,0,False,residential,Wells Street,115.65,,,,,,,,,,,11880303,
+106742560,74991892,0,False,tertiary,North Main Street,235.364,,,,,,,,,,,11880351,
+106742614,106744794,0,False,residential,Eastview Avenue,304.831,,,,,,,,,,,"[11880513, 24447066]",
+106742614,106742559,0,False,residential,"['Prospect Street', 'Wells Street']",151.59,,,,,,,,,,,"[293821842, 11880303]",
+106742614,106744879,0,False,residential,Prospect Street,206.383,,,,,,,,,,,293821842,
+106742760,74991891,0,False,residential,Michael Neuner Drive,115.857,,,,,,,,,,,11880270,
+106742760,106742559,0,False,residential,Center Street,257.266,,,,,,,,,,,11880329,
+106742760,106744879,0,False,residential,Michael Neuner Drive,79.648,,,,,,,,,,,11880270,
+106743491,106743492,0,False,residential,Center Street,60.024,,,,,,,,,,,11880329,
+106743492,106742559,0,False,residential,Center Street,121.992,,,,,,,,,,,11880329,
+106743492,106743491,0,False,residential,Center Street,60.024,,,,,,,,,,,11880329,
+106743492,1930282089,0,False,residential,Casino Street,69.782,,,,,,,,,,,11880433,
+106744794,106744879,0,False,residential,Michael Neuner Drive,70.094,,,,,,,,,,,11880270,
+106744794,106760381,0,False,residential,Garden Street,138.211,,,,,,,,,,,13827654,
+106744794,106742614,0,False,residential,Eastview Avenue,304.831,,,,,,,,,,,"[11880513, 24447066]",
+106744879,106740683,0,False,residential,Prospect Street,208.166,,,,,,,,,,,293821842,
+106744879,106742760,0,False,residential,Michael Neuner Drive,79.648,,,,,,,,,,,11880270,
+106744879,106744794,0,False,residential,Michael Neuner Drive,70.094,,,,,,,,,,,11880270,
+106744879,106742614,0,False,residential,Prospect Street,206.383,,,,,,,,,,,293821842,
+106745811,106740681,0,False,residential,Progress Street,118.1,,,,,,,,,,,11880644,
+106745811,74991867,0,False,primary,Main Street,49.419,2,,,,,,,,,,202522448,US 6
+106745811,74991864,0,False,primary,Main Street,189.316,2,,,,,,,,,,202522448,US 6
+106746347,106746631,0,False,residential,Merritt Street,36.958,,,,,,,,,,,11880703,
+106746347,74991864,0,False,primary,Main Street,111.7,2,,,,,,,,,,202522448,US 6
+106746347,1900005117,0,False,primary,Main Street,293.361,2,,,,,,,,,,202522448,US 6
+106746631,106746347,0,False,residential,Merritt Street,36.958,,,,,,,,,,,11880703,
+106746631,106741477,0,False,residential,Merritt Street,34.957,,,,,,,,,,,11880703,
+106746631,2124887596,0,False,residential,Merritt Lane,103.413,,,,,,,,,,,11880772,
+106747561,74991864,0,False,residential,Wilkes Street,72.59,,,,,,,,,,,11880812,
+106747561,106750482,0,False,residential,Marvin Avenue,300.344,,,,,,,,,,,293821840,
+106747561,106750472,0,False,residential,Marvin Avenue,236.834,,,,,,,,,,,293821840,
+106748736,74991867,0,False,residential,Marvin Avenue,85.771,,,,,,,,,,,11880912,
+106748736,106748737,0,False,tertiary,Railroad Avenue,118.884,,,,,,,,,,,11880901,CR 56
+106748736,74991879,0,False,tertiary,Railroad Avenue,39.559,,,,,,,,,,,11880901,CR 56
+106748737,106748738,0,False,tertiary,Railroad Avenue,134.498,,,,,,,,,,,11880901,CR 56
+106748737,106748736,0,False,tertiary,Railroad Avenue,118.884,,,,,,,,,,,11880901,CR 56
+106748737,106750472,0,False,residential,Marvin Avenue,96.503,,,,,,,yes,,,,"[293821840, 293821844, 11880933]",
+106748738,106748737,0,False,tertiary,Railroad Avenue,134.498,,,,,,,,,,,11880901,CR 56
+106748738,106748980,0,False,tertiary,Morningthorpe Avenue,55.899,,,,,,,,,,,11880908,CR 51
+106748980,106748738,0,False,tertiary,Morningthorpe Avenue,55.899,,,,,,,,,,,11880908,CR 51
+106748980,106750472,0,False,residential,Park Street,189.708,,,,,,,yes,,,,"[11880969, 293821843, 293821845]",
+106750472,106748980,0,False,residential,Park Street,189.708,,,,,,,yes,,,,"[11880969, 293821843, 293821845]",
+106750472,106747561,0,False,residential,Marvin Avenue,236.834,,,,,,,,,,,293821840,
+106750472,106748737,0,False,residential,Marvin Avenue,96.503,,,,,,,yes,,,,"[293821840, 293821844, 11880933]",
+106750482,1900004877,0,False,residential,,81.072,,,,,,,,,,,24138232,
+106750482,106750489,0,False,residential,Marvin Avenue,174.659,,,,,,,,,,,293821840,
+106750482,106747561,0,False,residential,Marvin Avenue,300.344,,,,,,,,,,,293821840,
+106750489,1900005117,0,False,primary,Main Street,10.28,2,,,,,,,,,,202522448,US 6
+106750489,60646929,0,False,primary,Main Street,329.823,2,,,,,,,,,,202522448,US 6
+106750489,106750482,0,False,residential,Marvin Avenue,174.659,,,,,,,,,,,293821840,
+106760381,106744794,0,False,residential,Garden Street,138.211,,,,,,,,,,,13827654,
+106776121,336559877,0,False,residential,Independent Way,1247.343,,,,,,,,,,,179358109,
+106776121,1897079985,0,True,residential,Independent Way,136.088,,,,,,,,,,,179358113,
+106781945,106784558,0,False,primary,Brewster Road,272.436,2,,,,,,,,,,30587797,US 6
+106781945,106781965,0,False,secondary,,768.5,,,,,,,,,,,31421623,NY 312
+106781965,61306124,0,False,secondary,,383.238,,,,,,,,,,,31421623,NY 312
+106781965,106781945,0,False,secondary,,768.5,,,,,,,,,,,31421623,NY 312
+106781965,136524733,0,False,tertiary,Prospect Hill Road,1808.635,,,,,,,yes,,,,"[115809838, 14251596, 115809822]",
+106784558,106784560,0,False,primary,Brewster Road,260.45,2,,,,,,yes,,,,"[182673233, 117691812, 30587797]",US 6
+106784558,106781945,0,False,primary,Brewster Road,272.436,2,,,,,,,,,,30587797,US 6
+106784560,261519612,0,False,tertiary,John Simpson Road,904.792,,,,,,,,,,,24170626,CR 57
+106784560,106784563,0,False,primary,Brewster Road,108.07,2,,,,,,,,,,117691812,US 6
+106784560,106784558,0,False,primary,Brewster Road,260.45,2,,,,,,yes,,,,"[182673233, 117691812, 30587797]",US 6
+106784563,261519600,0,False,residential,Root Avenue,452.761,,,,,,,,,,,24140049,
+106784563,106784566,0,False,primary,Brewster Road,144.204,2,,,,,,,,,,117691812,US 6
+106784563,106784560,0,False,primary,Brewster Road,108.07,2,,,,,,,,,,117691812,US 6
+106784566,106784563,0,False,primary,Brewster Road,144.204,2,,,,,,,,,,117691812,US 6
+136524733,106781965,0,False,tertiary,Prospect Hill Road,1808.635,,,,,,,yes,,,,"[14251596, 115809838, 115809822]",
+136524733,261519781,0,False,tertiary,Tonetta Lake Road,173.509,,,,,,,yes,,,,"[182295561, 182295562, 24142013]",CR 53
+136542383,261537875,0,False,residential,Putnam Terrace,137.317,,,,,,,,,,,"[24142120, 24142118]",
+136542383,136542402,0,False,tertiary,Putnam Avenue,532.968,,,,,,,,,,,181397684,
+136542383,74991899,0,False,tertiary,Putnam Avenue,151.077,,,,,,,,,,,181397684,
+136542402,261551503,0,False,residential,Eagle Ridge Road,598.068,,,,,,,,,,,24143809,
+136542402,136542413,0,False,tertiary,Putnam Avenue,461.19,,,,,,,,,,,181397684,
+136542402,136542383,0,False,tertiary,Putnam Avenue,532.968,,,,,,,,,,,181397684,
+136542413,261532943,0,False,residential,Lincoln Road,579.2,,,,,,,,,,,24141852,
+136542413,74991925,0,False,tertiary,Putnam Avenue,182.33,,,,,,,,,,,181397684,
+136542413,136542402,0,False,tertiary,Putnam Avenue,461.19,,,,,,,,,,,181397684,
+138750983,261533839,0,False,residential,Zimmer Road,909.127,,,,,,,,,,,24141602,
+138750983,261556675,0,False,secondary,,537.662,,,,,,,,,,,38765958,NY 312
+138750983,61306187,0,False,secondary,,339.804,,,,,,,,,,,38765958,NY 312
+261505820,261505828,0,False,residential,Stone Ridge Road,155.088,,,,,,,,,,,24137927,
+261505820,261505828,1,False,residential,Stone Ridge Road,125.483,,,,,,,,,,,24142587,
+261505820,1901340693,0,False,residential,Stone Ridge Road,85.456,,,,,,,,,,,24137927,
+261505828,261505820,0,False,residential,Stone Ridge Road,155.088,,,,,,,,,,,24137927,
+261505828,261505820,1,False,residential,Stone Ridge Road,125.483,,,,,,,,,,,24142587,
+261505828,310098102,0,False,residential,Stone Ridge Road,208.867,,,,,,,,,,,24142587,
+261518195,261535547,0,False,residential,Blueberry Drive,45.104,,,,,,,,,,,24141798,
+261518195,261518205,0,False,residential,Birch Drive,346.404,,,,,,,,,,,24139900,
+261518195,261535549,0,False,residential,Blueberry Drive,242.323,,,,,,,,,,,24141798,
+261518205,261535549,0,False,residential,Larkspur Drive,114.171,,,,,,,,,,,24170983,
+261518205,261518195,0,False,residential,Birch Drive,346.404,,,,,,,,,,,24139900,
+261518205,261785768,0,False,residential,Larkspur Drive,123.305,,,,,,,,,,,24170983,
+261518839,261547770,0,False,residential,Geneva Road,146.372,,,,,,,,,,,24143292,
+261518839,261533839,0,False,residential,International Boulevard,978.556,,,,,,,,,,,24139967,
+261518839,61306187,0,False,residential,International Boulevard,214.109,,,,,,,,,,,24139967,
+261519600,261519612,0,False,residential,Root Avenue,476.477,,,,,,,,,,,24140049,
+261519600,106784563,0,False,residential,Root Avenue,452.761,,,,,,,,,,,24140049,
+261519600,336604381,0,False,residential,Centennial Lane,140.188,,,,,,,,,,,24143394,
+261519612,261519600,0,False,residential,Root Avenue,476.477,,,,,,,,,,,24140049,
+261519612,106784560,0,False,tertiary,John Simpson Road,904.792,,,,,,,,,,,24170626,CR 57
+261519781,261537005,0,False,tertiary,Tonetta Lake Road,168.425,,,,,,,,,,,182295562,CR 53
+261519781,136524733,0,False,tertiary,Tonetta Lake Road,173.509,,,,,,,yes,,,,"[182295561, 182295562, 24142013]",CR 53
+261520869,261771276,0,False,residential,Drovers Lane,49.802,,,,,,,,,,,24168482,
+261520869,261520871,0,False,residential,Orchard Court,302.398,,,,,,,,,,,24140172,
+261520869,261554239,0,False,residential,Drovers Lane,118.751,,,,,,,,,,,24168482,
+261520871,261520869,0,False,residential,Orchard Court,302.398,,,,,,,,,,,24140172,
+261521961,261535440,0,False,secondary,State Highway 312,160.964,,,,,,,,,,,50598114,NY 312
+261521961,261776340,0,False,secondary,State Highway 312,122.371,,,,,,,,,,,50598114,NY 312
+261521961,1926181267,0,False,residential,Farmstead Lane,107.837,,,,,,,,,,,182280967,
+261524489,350555720,0,False,residential,Spring Lane,114.926,,,,,,,,,,,24140571,
+261524489,350555943,0,False,residential,Spring Knoll Road,157.079,,,,,,,,,,,24170763,
+261524489,261776336,0,False,residential,Spring Knoll Road,52.633,,,,,,,,,,,24170763,
+261526637,261526640,0,False,residential,Pleasant Drive,228.207,,,,,,,,,,,24140830,
+261526637,261535547,0,False,residential,Blueberry Drive,348.951,,,,,,,,,,,24141798,
+261526637,261535535,0,False,residential,Blueberry Drive,116.087,,,,,,,,,,,24141798,
+261526640,261526637,0,False,residential,Pleasant Drive,228.207,,,,,,,,,,,24140830,
+261526640,261535547,0,False,residential,Laurel Drive,118.956,,,,,,,,,,,24169436,
+261526640,261538866,0,False,residential,Laurel Drive,118.741,,,,,,,,,,,24169436,
+261526640,261526642,0,False,residential,Pleasant Drive,290.577,,,,,,,,,,,24140830,
+261526642,261538868,0,False,residential,Larkspur Drive,118.246,,,,,,,,,,,24170983,
+261526642,261535549,0,False,residential,Larkspur Drive,118.621,,,,,,,,,,,24170983,
+261526642,261526640,0,False,residential,Pleasant Drive,290.577,,,,,,,,,,,24140830,
+261526787,261526794,0,False,residential,Lake Road,34.104,,,,,,,,,,,24140849,
+261526787,261548464,0,False,residential,Karlsen Lake Road,315.384,,,,,,,,,,,24143386,
+261526787,261548430,0,False,residential,Karlsen Lake Road,386.614,,,,,,,,,,,24143386,
+261526794,261526787,0,False,residential,Lake Road,34.104,,,,,,,,,,,24140849,
+261526935,261541386,0,False,residential,Minor Road,155.595,,,,,,,,,,,24168974,
+261529202,261529216,0,False,residential,Bloomer Road,335.75,,,,,,,,,,,24141132,
+261529202,1956322693,0,False,residential,Bloomer Road,204.866,,,,,,,,,,,24141132,
+261529202,1956322488,0,False,residential,Nancy Road,186.832,,,,,,,,,,,24142243,
+261529216,1956322432,0,False,residential,Bloomer Road,444.169,,,,,,,,,,,24141132,
+261529216,1956322457,0,False,residential,Wilson Road,94.196,,,,,,,,,,,24141487,
+261529216,261529202,0,False,residential,Bloomer Road,335.75,,,,,,,,,,,24141132,
+261529220,1956322432,0,False,residential,Bloomer Road,67.825,,,,,,,,,,,24141132,
+261531916,261531919,0,False,residential,Pumphouse Road,120.046,,,,,,,,,,,24141405,
+261531916,261537014,0,False,tertiary,Tonetta Lake Road,88.16,,,,,,,,,,,240563593,CR 58
+261531916,261537008,0,False,tertiary,Tonetta Lake Road,222.504,,,,,,,,,,,240563593,CR 58
+261531919,261531920,0,False,residential,Pumphouse Road,83.983,,,,,,,,,,,24141405,
+261531919,261531916,0,False,residential,Pumphouse Road,120.046,,,,,,,,,,,24141405,
+261531919,1926365107,0,False,residential,,159.84,,,,,,,,,,,24141407,
+261531920,261531921,0,False,residential,Pumphouse Road,82.507,,,,,,,,,,,24141405,
+261531920,261531919,0,False,residential,Pumphouse Road,83.983,,,,,,,,,,,24141405,
+261531920,1926365071,0,False,residential,Oak Road,203.238,,,,,,,,,,,24142123,
+261531921,261531920,0,False,residential,Pumphouse Road,82.507,,,,,,,,,,,24141405,
+261531921,261544823,0,False,residential,Ash Road,55.967,,,,,,,,,,,24142915,
+261531921,261531927,0,False,residential,Pumphouse Road,143.615,,,,,,,,,,,24141405,
+261531927,1927964604,0,False,residential,Pumphouse Road,840.058,,,,,,,,,,,24141405,
+261531927,261531921,0,False,residential,Pumphouse Road,143.615,,,,,,,,,,,24141405,
+261531927,261554309,0,False,residential,Maple Way,105.933,,,,,,,,,,,24170074,
+261532943,1956322693,0,False,residential,Wilson Road,131.794,,,,,,,,,,,24141487,
+261532943,261535886,0,False,residential,Lincoln Road,91.224,,,,,,,,,,,24141852,
+261532943,136542413,0,False,residential,Lincoln Road,579.2,,,,,,,,,,,24141852,
+261533105,1970759303,0,False,residential,Penny Lane,178.028,,,,,,,,,,,24141510,
+261533105,261548430,0,False,secondary,State Highway 312,205.11,,,,,,,,,,,50598114,NY 312
+261533105,261535440,0,False,secondary,State Highway 312,238.722,,,,,,,,,,,50598114,NY 312
+261533156,261533194,0,False,secondary,State Highway 312,7.583,,,,,,,,,,,50598114,NY 312
+261533156,1900347305,0,True,residential,Harvest Drive,102.754,,,,,,,,,,,24141525,
+261533156,261536486,0,False,secondary,State Highway 312,324.84,,,,,,,,,,,50598114,NY 312
+261533181,1900347221,0,False,residential,Plum Tree Court,137.274,,,,,,,,,,,24144404,
+261533181,261533191,0,False,residential,Harvest Drive,275.11,,,,,,,,,,,179621585,
+261533181,1900347305,0,False,residential,Harvest Drive,622.52,,,,,,,,,,,179621585,
+261533191,1900347305,0,False,residential,Harvest Drive,7.681,,,,,,,,,,,179621585,
+261533191,261533181,0,False,residential,Harvest Drive,275.11,,,,,,,,,,,179621585,
+261533191,261533194,0,True,residential,Harvest Drive,104.401,,,,,,,,,,,179621586,
+261533194,261533156,0,False,secondary,State Highway 312,7.583,,,,,,,,,,,50598114,NY 312
+261533194,261547467,0,False,secondary,State Highway 312,186.828,,,,,,,,,,,50598114,NY 312
+261533839,261518839,0,False,residential,International Boulevard,978.556,,,,,,,,,,,24139967,
+261533839,138750983,0,False,residential,Zimmer Road,909.127,,,,,,,,,,,24141602,
+261534252,1956322426,0,False,residential,Marlin Road,354.602,,,,,,,,,,,24141645,
+261534252,261535905,0,False,residential,Lincoln Road,97.404,,,,,,,,,,,24141852,
+261534252,261535894,0,False,residential,Lincoln Road,102.257,,,,,,,,,,,24141852,
+261534300,261536996,0,False,residential,Tonetta Lake Road,71.747,,,,,,,,,,,24142009,
+261534300,261536984,0,False,residential,Tonetta Lake Road,421.869,,,,,,,,,,,24142009,
+261534345,261534363,0,False,residential,Shore Drive,798.078,,,,,,,,,,,24141665,
+261534345,261534387,0,False,residential,Shore Drive,482.138,,,,,,,,,,,"[24141665, 24141668]",
+261534345,350541336,0,False,residential,Lakeside Road,345.426,,,,,,,,,,,24143859,
+261534363,1970759176,0,False,residential,Shore Drive,578.088,,,,,,,,,,,24141665,
+261534363,261534345,0,False,residential,Shore Drive,798.078,,,,,,,,,,,24141665,
+261534363,261534403,0,False,residential,Shore Drive,276.565,,,,,,,,,,,24141670,
+261534387,261777381,0,False,tertiary,North Brewster Road,328.493,,,,,,,,,,,24169865,CR 58
+261534387,1930269743,0,False,residential,Shore Drive,98.067,,,,,,,,,,,24141668,
+261534387,261534345,0,False,residential,Shore Drive,482.138,,,,,,,,,,,"[24141665, 24141668]",
+261534387,350550887,0,False,tertiary,North Brewster Road,163.95,,,,,,,,,,,24169865,CR 58
+261534403,261534363,0,False,residential,Shore Drive,276.565,,,,,,,,,,,24141670,
+261534403,261558126,0,False,residential,Lakeview Drive,313.884,,,,,,,,,,,24168679,
+261534403,261539652,0,False,tertiary,North Brewster Road,133.911,,,,,,,,,,,24169865,CR 58
+261534403,261542725,0,False,tertiary,North Brewster Road,81.191,,,,,,,,,,,24169865,CR 58
+261535440,261535452,0,False,tertiary,Farm To Market Road,654.492,,,,,,,,,,,24141795,CR 62
+261535440,261536447,0,False,tertiary,Brewster Hill Road,146.625,,,,,,,,,,,24144440,
+261535440,261533105,0,False,secondary,State Highway 312,238.722,,,,,,,,,,,50598114,NY 312
+261535440,261521961,0,False,secondary,State Highway 312,160.964,,,,,,,,,,,50598114,NY 312
+261535452,261535453,0,False,tertiary,Farm To Market Road,89.842,,,,,,,,,,,24141795,CR 62
+261535452,261535440,0,False,tertiary,Farm To Market Road,654.492,,,,,,,,,,,24141795,CR 62
+261535453,261535452,0,False,tertiary,Farm To Market Road,89.842,,,,,,,,,,,24141795,CR 62
+261535453,261548156,0,False,residential,Foggintown Road,1711.847,,,,,,,,,,,24143350,
+261535535,261538866,0,False,residential,Meridian Drive,229.446,,,,,,,,,,,24142237,
+261535535,261526637,0,False,residential,Blueberry Drive,116.087,,,,,,,,,,,24141798,
+261535535,1930269743,0,False,residential,Meridian Drive,111.554,,,,,,,,,,,24142237,
+261535547,261518195,0,False,residential,Blueberry Drive,45.104,,,,,,,,,,,24141798,
+261535547,261526640,0,False,residential,Laurel Drive,118.956,,,,,,,,,,,24169436,
+261535547,261526637,0,False,residential,Blueberry Drive,348.951,,,,,,,,,,,24141798,
+261535549,261526642,0,False,residential,Larkspur Drive,118.621,,,,,,,,,,,24170983,
+261535549,261518205,0,False,residential,Larkspur Drive,114.171,,,,,,,,,,,24170983,
+261535549,261518195,0,False,residential,Blueberry Drive,242.323,,,,,,,,,,,24141798,
+261535886,261535888,0,False,residential,Lincoln Road,91.625,,,,,,,,,,,24141852,
+261535886,261532943,0,False,residential,Lincoln Road,91.224,,,,,,,,,,,24141852,
+261535886,1956322411,0,False,residential,Clematis Road,327.618,,,,,,,,,,,24170142,
+261535888,261535894,0,False,residential,Lincoln Road,91.258,,,,,,,,,,,24141852,
+261535888,261535886,0,False,residential,Lincoln Road,91.625,,,,,,,,,,,24141852,
+261535888,261536927,0,False,residential,Tanager Road,350.117,,,,,,,,,,,24142002,
+261535894,261535888,0,False,residential,Lincoln Road,91.258,,,,,,,,,,,24141852,
+261535894,261543492,0,False,residential,Carillon Road,372.189,,,,,,,,,,,24144343,
+261535894,261534252,0,False,residential,Lincoln Road,102.257,,,,,,,,,,,24141852,
+261535905,261535907,0,False,residential,Lincoln Road,37.452,,,,,,,,,,,24141852,
+261535905,261534252,0,False,residential,Lincoln Road,97.404,,,,,,,,,,,24141852,
+261535905,1956322512,0,False,residential,North Road,356.33,,,,,,,,,,,24169951,
+261535907,261535905,0,False,residential,Lincoln Road,37.452,,,,,,,,,,,24141852,
+261536445,261536447,0,False,residential,Ridge Street,154.537,,,,,,,,,,,24141924,
+261536447,261536445,0,False,residential,Ridge Street,154.537,,,,,,,,,,,24141924,
+261536447,261535440,0,False,tertiary,Brewster Hill Road,146.625,,,,,,,,,,,24144440,
+261536447,261546278,0,False,tertiary,Brewster Hill Road,145.355,,,,,,,,,,,24144440,
+261536486,261536500,0,False,residential,Nancy Lane,387.058,,,,,,,,,,,24141937,
+261536486,261536500,1,False,secondary,State Highway 312,226.388,,,,,,,,,,,50598114,NY 312
+261536486,261533156,0,False,secondary,State Highway 312,324.84,,,,,,,,,,,50598114,NY 312
+261536500,261548430,0,False,secondary,State Highway 312,132.05,,,,,,,,,,,50598114,NY 312
+261536500,261536486,0,False,residential,Nancy Lane,387.058,,,,,,,,,,,24141937,
+261536500,261536486,1,False,secondary,State Highway 312,226.388,,,,,,,,,,,50598114,NY 312
+261536927,261535888,0,False,residential,Tanager Road,350.117,,,,,,,,,,,24142002,
+261536927,261543492,0,False,residential,Allan Road,94.288,,,,,,,,,,,24142753,
+261536927,1956322411,0,False,residential,Allan Road,97.835,,,,,,,,,,,24142753,
+261536984,261534300,0,False,residential,Tonetta Lake Road,421.869,,,,,,,,,,,24142009,
+261536984,1930269743,0,False,residential,Tonetta Lake Road,92.001,,,,,,,,,,,24142009,
+261536996,261534300,0,False,residential,Tonetta Lake Road,71.747,,,,,,,,,,,24142009,
+261537005,350560828,0,False,residential,Elmhurst Avenue,260.455,,,,,,,,,,,24143270,
+261537005,261537008,0,False,tertiary,Tonetta Lake Road,122.229,,,,,,,,,,,182295562,CR 53
+261537005,261519781,0,False,tertiary,Tonetta Lake Road,168.425,,,,,,,,,,,182295562,CR 53
+261537008,261537005,0,False,tertiary,Tonetta Lake Road,122.229,,,,,,,,,,,182295562,CR 53
+261537008,261531916,0,False,tertiary,Tonetta Lake Road,222.504,,,,,,,,,,,240563593,CR 58
+261537014,261537016,0,False,tertiary,Tonetta Lake Road,120.868,,,,,,,,,,,240563593,CR 58
+261537014,261531916,0,False,tertiary,Tonetta Lake Road,88.16,,,,,,,,,,,240563593,CR 58
+261537016,261537018,0,False,tertiary,Tonetta Lake Road,92.656,,,,,,,,,,,240563593,CR 58
+261537016,261537014,0,False,tertiary,Tonetta Lake Road,120.868,,,,,,,,,,,240563593,CR 58
+261537018,261551185,0,False,residential,Tonetta Lake Way,820.743,,,,,,,,,,,24143756,
+261537018,261556782,0,False,residential,Cooledge Drive,253.104,,,,,,,,,,,24144442,
+261537018,261537020,0,False,tertiary,Tonetta Lake Road,177.021,,,,,,,,,,,240563593,CR 58
+261537018,261537016,0,False,tertiary,Tonetta Lake Road,92.656,,,,,,,,,,,240563593,CR 58
+261537020,261537022,0,False,tertiary,Tonetta Lake Road,115.794,,,,,,,,,,,240563593,CR 58
+261537020,261537018,0,False,tertiary,Tonetta Lake Road,177.021,,,,,,,,,,,240563593,CR 58
+261537022,350550887,0,False,tertiary,Tonetta Lake Road,264.634,,,,,,,,,,,240563593,CR 58
+261537022,261537020,0,False,tertiary,Tonetta Lake Road,115.794,,,,,,,,,,,240563593,CR 58
+261537030,1930269743,0,False,residential,Tonetta Lake Road,155.672,,,,,,,,,,,31431791,
+261537030,350550887,0,False,residential,Tonetta Lake Road,27.47,,,,,,,,,,,31431791,
+261537607,261537608,0,False,residential,South Drive,400.617,,,,,,,,,,,24142076,
+261537607,261537867,0,False,tertiary,North Brewster Road,110.933,,,,,,,,,,,24169865,CR 58
+261537607,261780261,0,False,tertiary,North Brewster Road,138.969,,,,,,,,,,,24169865,CR 58
+261537608,261537868,0,False,residential,Sunset Drive,106.631,,,,,,,,,,,24144622,
+261537608,261537612,0,False,residential,South Drive,296.617,,,,,,,,,,,24142076,
+261537608,261537607,0,False,residential,South Drive,400.617,,,,,,,,,,,24142076,
+261537612,261543849,0,False,tertiary,Brewster Hill Road,61.962,,,,,,,,,,,24144440,
+261537612,261537608,0,False,residential,South Drive,296.617,,,,,,,,,,,24142076,
+261537612,261537870,0,False,tertiary,Brewster Hill Road,109.699,,,,,,,,,,,24144440,
+261537867,261537868,0,False,residential,Elmwood Drive,374.388,,,,,,,,,,,24142116,
+261537867,261549816,0,False,tertiary,North Brewster Road,109.552,,,,,,,,,,,24169865,CR 58
+261537867,261537607,0,False,tertiary,North Brewster Road,110.933,,,,,,,,,,,24169865,CR 58
+261537868,261537867,0,False,residential,Elmwood Drive,374.388,,,,,,,,,,,24142116,
+261537868,261549818,0,False,residential,Sunset Drive,107.1,,,,,,,,,,,24144622,
+261537868,261537608,0,False,residential,Sunset Drive,106.631,,,,,,,,,,,24144622,
+261537868,261537870,0,False,residential,Elmwood Drive,286.899,,,,,,,,,,,24142116,
+261537870,261537868,0,False,residential,Elmwood Drive,286.899,,,,,,,,,,,24142116,
+261537870,261549820,0,False,tertiary,Brewster Hill Road,105.545,,,,,,,,,,,24144440,
+261537870,261537612,0,False,tertiary,Brewster Hill Road,109.699,,,,,,,,,,,24144440,
+261537875,336150441,0,False,residential,Phillips Lane,64.71,,,,,,,,,,,24144817,
+261537875,336150473,0,False,residential,Putnam Terrace,98.957,,,,,,,,,,,24142118,
+261537875,136542383,0,False,residential,Putnam Terrace,137.317,,,,,,,,,,,"[24142120, 24142118]",
+261538866,261535535,0,False,residential,Meridian Drive,229.446,,,,,,,,,,,24142237,
+261538866,261526640,0,False,residential,Laurel Drive,118.741,,,,,,,,,,,24169436,
+261538866,261777381,0,False,residential,Laurel Drive,100.308,,,,,,,,,,,24169436,
+261538866,261538868,0,False,residential,Meridian Drive,290.506,,,,,,,,,,,24142237,
+261538868,261780261,0,False,residential,Larkspur Drive,101.196,,,,,,,,,,,24170983,
+261538868,261526642,0,False,residential,Larkspur Drive,118.246,,,,,,,,,,,24170983,
+261538868,261538866,0,False,residential,Meridian Drive,290.506,,,,,,,,,,,24142237,
+261539652,261539653,0,False,residential,Tulip Drive,169.227,,,,,,,,,,,24142337,
+261539652,261778323,0,False,tertiary,North Brewster Road,106.355,,,,,,,,,,,24169865,CR 58
+261539652,261534403,0,False,tertiary,North Brewster Road,133.911,,,,,,,,,,,24169865,CR 58
+261539653,261539655,0,False,residential,Tulip Drive,136.127,,,,,,,,,,,24142337,
+261539653,261539652,0,False,residential,Tulip Drive,169.227,,,,,,,,,,,24142337,
+261539653,261778323,0,False,residential,Briar Drive,263.335,,,,,,,,,,,24169570,
+261539655,261539653,0,False,residential,Tulip Drive,136.127,,,,,,,,,,,24142337,
+261539655,261558126,0,False,residential,Sunset Drive,107.773,,,,,,,,,,,24144622,
+261539655,261539657,0,False,residential,Tulip Drive,172.549,,,,,,,,,,,24142337,
+261539657,261556757,0,False,tertiary,Brewster Hill Road,104.362,,,,,,,,,,,24144440,
+261539657,261539655,0,False,residential,Tulip Drive,172.549,,,,,,,,,,,24142337,
+261539657,261546278,0,False,tertiary,Brewster Hill Road,288.891,,,,,,,,,,,24144440,
+261541376,261541386,0,False,residential,Moss Drive,234.116,,,,,,,,,,,24142519,
+261541386,261541376,0,False,residential,Moss Drive,234.116,,,,,,,,,,,24142519,
+261541386,261526935,0,False,residential,Minor Road,155.595,,,,,,,,,,,24168974,
+261541386,1900347621,0,False,residential,Minor Road,50.557,,,,,,,,,,,24168974,
+261542725,261542727,0,False,residential,Locust Drive,299.598,,,,,,,,,,,24142675,
+261542725,261534403,0,False,tertiary,North Brewster Road,81.191,,,,,,,,,,,24169865,CR 58
+261542725,1970759186,0,False,tertiary,North Brewster Road,106.341,,,,,,,,,,,24169865,CR 58
+261542727,261542725,0,False,residential,Locust Drive,299.598,,,,,,,,,,,24142675,
+261542727,261558126,0,False,residential,Sunset Drive,106.825,,,,,,,,,,,24144622,
+261542727,261547309,0,False,residential,Sunset Drive,106.217,,,,,,,,,,,24144622,
+261542727,261542729,0,False,residential,Locust Drive,221.886,,,,,,,,,,,24142675,
+261542729,261556757,0,False,tertiary,Brewster Hill Road,112.575,,,,,,,,,,,24144440,
+261542729,261542727,0,False,residential,Locust Drive,221.886,,,,,,,,,,,24142675,
+261542729,261547311,0,False,tertiary,Brewster Hill Road,110.15,,,,,,,,,,,24144440,
+261543492,1956322426,0,False,residential,Allan Road,90.707,,,,,,,,,,,24142753,
+261543492,261536927,0,False,residential,Allan Road,94.288,,,,,,,,,,,24142753,
+261543492,261535894,0,False,residential,Carillon Road,372.189,,,,,,,,,,,24144343,
+261543849,261537612,0,False,tertiary,Brewster Hill Road,61.962,,,,,,,,,,,24144440,
+261543849,350536716,0,False,residential,Colonial Ridge Court,82.331,,,,,,,,,,,24142795,
+261543849,261556751,0,False,tertiary,Brewster Hill Road,54.569,,,,,,,,,,,24144440,
+261544024,261547311,0,False,tertiary,Brewster Hill Road,83.263,,,,,,,,,,,24144440,
+261544024,261544025,0,False,residential,Highview Road,133.887,,,,,,,,,,,24142812,
+261544024,261556755,0,False,tertiary,Brewster Hill Road,27.839,,,,,,,,,,,24144440,
+261544025,261544024,0,False,residential,Highview Road,133.887,,,,,,,,,,,24142812,
+261544025,261782144,0,False,residential,Overlook Drive,234.719,,,,,,,,,,,24170171,
+261544025,350547946,0,False,residential,Overlook Drive,192.774,,,,,,,,,,,24170171,
+261544200,350557288,0,False,secondary,State Highway 312,8.407,,,,,,,,,,,50598114,NY 312
+261544200,261556675,0,False,secondary,State Highway 312,403.82,,,,,,,yes,,,,"[50598114, 50598115, 38765958]",NY 312
+261544823,261531921,0,False,residential,Ash Road,55.967,,,,,,,,,,,24142915,
+261546278,350527332,0,False,residential,Pinetree Lane,116.067,,,,,,,,,,,24143073,
+261546278,261536447,0,False,tertiary,Brewster Hill Road,145.355,,,,,,,,,,,24144440,
+261546278,261539657,0,False,tertiary,Brewster Hill Road,288.891,,,,,,,,,,,24144440,
+261547309,261542727,0,False,residential,Sunset Drive,106.217,,,,,,,,,,,24144622,
+261547309,261558124,0,False,residential,Sunset Drive,106.739,,,,,,,,,,,24144622,
+261547309,261547311,0,False,residential,Hickory Drive,245.184,,,,,,,,,,,24143231,
+261547309,1970759186,0,False,residential,Hickory Drive,290.261,,,,,,,,,,,24143231,
+261547311,261544024,0,False,tertiary,Brewster Hill Road,83.263,,,,,,,,,,,24144440,
+261547311,261547309,0,False,residential,Hickory Drive,245.184,,,,,,,,,,,24143231,
+261547311,261542729,0,False,tertiary,Brewster Hill Road,110.15,,,,,,,,,,,24144440,
+261547467,2028633966,0,False,residential,Stone Haven,254.031,,,,,,,,,,,24143251,
+261547467,261774091,0,False,secondary,State Highway 312,279.911,,,,,,,,,,,50598114,NY 312
+261547467,261533194,0,False,secondary,State Highway 312,186.828,,,,,,,,,,,50598114,NY 312
+261547770,1897342439,0,False,residential,Geneva Road,10.61,,,,,,,,,,,24143292,
+261547770,261518839,0,False,residential,Geneva Road,146.372,,,,,,,,,,,24143292,
+261547770,336582378,0,False,residential,Milan Road,182.377,,,,,,,,,,,24143020,
+261548156,2431854061,0,False,residential,Foggintown Road,223.332,,,,,,,,,,,24143350,
+261548156,261535453,0,False,residential,Foggintown Road,1711.847,,,,,,,,,,,24143350,
+261548156,261553285,0,False,residential,Hawks Lane,98.513,,,,,,,,,,,24144029,
+261548194,261548212,0,False,residential,Foggintown Road,558.256,,,,,,,,,,,24143354,
+261548194,2431854061,0,False,residential,Foggintown Road,566.262,,,,,,,,,,,"[24143354, 24143350]",
+261548194,261787088,0,False,residential,Meadowbrook Court,190.341,,,,,,,,,,,24170949,
+261548212,261548194,0,False,residential,Foggintown Road,558.256,,,,,,,,,,,24143354,
+261548212,261783604,0,False,residential,Old Doansburg Road,354.562,,,,,,,,,,,24170366,
+261548345,261548352,0,False,residential,Meadow Lane,207.574,,,,,,,,,,,24143375,
+261548352,261548345,0,False,residential,Meadow Lane,207.574,,,,,,,,,,,24143375,
+261548352,336148761,0,False,residential,Allview Avenue,113.605,,,,,,,,,,,24170435,
+261548352,261784107,0,False,residential,Allview Avenue,411.8,,,,,,,,,,,24170435,
+261548430,261536500,0,False,secondary,State Highway 312,132.05,,,,,,,,,,,50598114,NY 312
+261548430,261526787,0,False,residential,Karlsen Lake Road,386.614,,,,,,,,,,,24143386,
+261548430,261533105,0,False,secondary,State Highway 312,205.11,,,,,,,,,,,50598114,NY 312
+261548464,261526787,0,False,residential,Karlsen Lake Road,315.384,,,,,,,,,,,24143386,
+261549816,261549818,0,False,residential,Maple Drive,346.73,,,,,,,,,,,24143578,
+261549816,261774194,0,False,tertiary,North Brewster Road,109.367,,,,,,,,,,,24169865,CR 58
+261549816,261537867,0,False,tertiary,North Brewster Road,109.552,,,,,,,,,,,24169865,CR 58
+261549818,261549820,0,False,residential,Maple Drive,276.466,,,,,,,,,,,24143578,
+261549818,261549816,0,False,residential,Maple Drive,346.73,,,,,,,,,,,24143578,
+261549818,261558124,0,False,residential,Sunset Drive,106.361,,,,,,,,,,,24144622,
+261549818,261537868,0,False,residential,Sunset Drive,107.1,,,,,,,,,,,24144622,
+261549820,261549818,0,False,residential,Maple Drive,276.466,,,,,,,,,,,24143578,
+261549820,261556755,0,False,tertiary,Brewster Hill Road,106.815,,,,,,,,,,,24144440,
+261549820,261537870,0,False,tertiary,Brewster Hill Road,105.545,,,,,,,,,,,24144440,
+261551014,5611353600,0,True,residential,Twin Brook Court,85.263,,,,,,,,,,,24143724,
+261551014,1918198561,0,False,residential,Twin Brook Court,248.331,,,,,,,,,,,30498008,
+261551185,261537018,0,False,residential,Tonetta Lake Way,820.743,,,,,,,,,,,24143756,
+261551185,261554309,0,False,residential,Fairview Road,313.556,,,,,,,,,,,24144161,
+261551185,261556782,0,False,residential,Cooledge Drive,508.083,,,,,,,,,,,24144442,
+261551503,261551503,0,False,residential,Eagle Ridge Road,568.967,,,,,,,,,,,24143809,
+261551503,261551503,1,False,residential,Eagle Ridge Road,568.967,,,,,,,,,,,24143809,
+261551503,136542402,0,False,residential,Eagle Ridge Road,598.068,,,,,,,,,,,24143809,
+261552302,336150473,0,False,residential,Ward Street,77.059,,,,,,,,,,,24143903,
+261553285,261548156,0,False,residential,Hawks Lane,98.513,,,,,,,,,,,24144029,
+261554239,261771258,0,False,residential,Acorn Road,821.31,,,,,,,,,,,24144150,
+261554239,261771258,1,False,residential,Drovers Lane,133.116,,,,,,,,,,,24168481,
+261554239,261520869,0,False,residential,Drovers Lane,118.751,,,,,,,,,,,24168482,
+261554309,261551185,0,False,residential,Fairview Road,313.556,,,,,,,,,,,24144161,
+261554309,1930269727,0,False,residential,Fairview Road,172.853,,,,,,,,,,,24144161,
+261554309,261531927,0,False,residential,Maple Way,105.933,,,,,,,,,,,24170074,
+261556675,350558498,0,False,residential,Ice Pond Road,532.755,,,,,,,,,,,24170041,
+261556675,261544200,0,False,secondary,State Highway 312,403.82,,,,,,,yes,,,,"[50598114, 50598115, 38765958]",NY 312
+261556675,138750983,0,False,secondary,,537.662,,,,,,,,,,,38765958,NY 312
+261556739,261556749,0,False,tertiary,Brewster Hill Road,356.004,,,,,,,,,,,24144440,
+261556739,261773842,0,False,residential,Minor Road,266.872,,,,,,,,,,,24168974,
+261556749,1970759267,0,False,residential,Cardinal Lane,70.513,,,,,,,,,,,24140841,
+261556749,261556751,0,False,tertiary,Brewster Hill Road,90.101,,,,,,,,,,,24144440,
+261556749,261556739,0,False,tertiary,Brewster Hill Road,356.004,,,,,,,,,,,24144440,
+261556751,261785768,0,False,residential,Larkspur Drive,118.268,,,,,,,,,,,24170983,
+261556751,261543849,0,False,tertiary,Brewster Hill Road,54.569,,,,,,,,,,,24144440,
+261556751,261556749,0,False,tertiary,Brewster Hill Road,90.101,,,,,,,,,,,24144440,
+261556755,261558124,0,False,residential,Oakwood Drive,267.987,,,,,,,,,,,24168989,
+261556755,261544024,0,False,tertiary,Brewster Hill Road,27.839,,,,,,,,,,,24144440,
+261556755,261549820,0,False,tertiary,Brewster Hill Road,106.815,,,,,,,,,,,24144440,
+261556757,261539657,0,False,tertiary,Brewster Hill Road,104.362,,,,,,,,,,,24144440,
+261556757,261542729,0,False,tertiary,Brewster Hill Road,112.575,,,,,,,,,,,24144440,
+261556757,261558126,0,False,residential,Lakeview Drive,196.785,,,,,,,,,,,24168679,
+261556782,261551185,0,False,residential,Cooledge Drive,508.083,,,,,,,,,,,24144442,
+261556782,261537018,0,False,residential,Cooledge Drive,253.104,,,,,,,,,,,24144442,
+261556782,261779512,0,False,residential,Beaird Lane,77.454,,,,,,,,,,,24169733,
+261558124,261547309,0,False,residential,Sunset Drive,106.739,,,,,,,,,,,24144622,
+261558124,261549818,0,False,residential,Sunset Drive,106.361,,,,,,,,,,,24144622,
+261558124,261556755,0,False,residential,Oakwood Drive,267.987,,,,,,,,,,,24168989,
+261558124,261774194,0,False,residential,Oakwood Drive,319.528,,,,,,,,,,,24168989,
+261558126,261539655,0,False,residential,Sunset Drive,107.773,,,,,,,,,,,24144622,
+261558126,261542727,0,False,residential,Sunset Drive,106.825,,,,,,,,,,,24144622,
+261558126,261556757,0,False,residential,Lakeview Drive,196.785,,,,,,,,,,,24168679,
+261558126,261534403,0,False,residential,Lakeview Drive,313.884,,,,,,,,,,,24168679,
+261771258,261554239,0,False,residential,Acorn Road,821.31,,,,,,,,,,,24144150,
+261771258,261554239,1,False,residential,Drovers Lane,133.116,,,,,,,,,,,24168481,
+261771258,2431854061,0,False,residential,Drovers Lane,295.879,,,,,,,,,,,24168481,
+261771276,261520869,0,False,residential,Drovers Lane,49.802,,,,,,,,,,,24168482,
+261773842,3983699752,0,False,residential,Minor Road,33.067,,,,,,,,,,,24168974,
+261773842,261556739,0,False,residential,Minor Road,266.872,,,,,,,,,,,24168974,
+261774091,261547467,0,False,secondary,State Highway 312,279.911,,,,,,,,,,,50598114,NY 312
+261774194,261558124,0,False,residential,Oakwood Drive,319.528,,,,,,,,,,,24168989,
+261774194,1970759186,0,False,tertiary,North Brewster Road,113.464,,,,,,,,,,,24169865,CR 58
+261774194,261549816,0,False,tertiary,North Brewster Road,109.367,,,,,,,,,,,24169865,CR 58
+261776336,350557288,0,False,secondary,State Highway 312,109.681,,,,,,,,,,,50598114,NY 312
+261776336,261524489,0,False,residential,Spring Knoll Road,52.633,,,,,,,,,,,24170763,
+261776336,261776340,0,False,secondary,State Highway 312,326.92,,,,,,,,,,,50598114,NY 312
+261776340,261779105,0,False,tertiary,North Brewster Road,297.473,,,,,,,,,,,24169865,CR 58
+261776340,261521961,0,False,secondary,State Highway 312,122.371,,,,,,,,,,,50598114,NY 312
+261776340,261776336,0,False,secondary,State Highway 312,326.92,,,,,,,,,,,50598114,NY 312
+261777381,261538866,0,False,residential,Laurel Drive,100.308,,,,,,,,,,,24169436,
+261777381,261534387,0,False,tertiary,North Brewster Road,328.493,,,,,,,,,,,24169865,CR 58
+261777381,261780261,0,False,tertiary,North Brewster Road,289.243,,,,,,,,,,,24169865,CR 58
+261778323,261779105,0,False,tertiary,North Brewster Road,131.921,,,,,,,,,,,24169865,CR 58
+261778323,261539652,0,False,tertiary,North Brewster Road,106.355,,,,,,,,,,,24169865,CR 58
+261778323,261539653,0,False,residential,Briar Drive,263.335,,,,,,,,,,,24169570,
+261779105,261778323,0,False,tertiary,North Brewster Road,131.921,,,,,,,,,,,24169865,CR 58
+261779105,261779107,0,False,residential,Primrose Lane,108.13,,,,,,,,,,,24169671,
+261779105,261776340,0,False,tertiary,North Brewster Road,297.473,,,,,,,,,,,24169865,CR 58
+261779107,261779105,0,False,residential,Primrose Lane,108.13,,,,,,,,,,,24169671,
+261779512,261556782,0,False,residential,Beaird Lane,77.454,,,,,,,,,,,24169733,
+261780261,261538868,0,False,residential,Larkspur Drive,101.196,,,,,,,,,,,24170983,
+261780261,261537607,0,False,tertiary,North Brewster Road,138.969,,,,,,,,,,,24169865,CR 58
+261780261,261777381,0,False,tertiary,North Brewster Road,289.243,,,,,,,,,,,24169865,CR 58
+261782100,336587016,0,False,residential,Barrett Road,626.46,,,,,,,,,,,24170507,
+261782100,336592586,0,False,residential,Barrett Road,80.759,,,,,,,,,,,"[24170504, 24170507]",
+261782144,261544025,0,False,residential,Overlook Drive,234.719,,,,,,,,,,,24170171,
+261782144,261782144,0,False,residential,,68.301,,,,,,,,,,,186394822,
+261782144,261782144,1,False,residential,,68.301,,,,,,,,,,,186394822,
+261783604,261548212,0,False,residential,Old Doansburg Road,354.562,,,,,,,,,,,24170366,
+261783604,348064262,0,False,residential,Old Doansburg Road,80.34,,,,,,,,,,,24170369,
+261784107,261548352,0,False,residential,Allview Avenue,411.8,,,,,,,,,,,24170435,
+261785768,261556751,0,False,residential,Larkspur Drive,118.268,,,,,,,,,,,24170983,
+261785768,1970759221,0,False,residential,Aster Place,141.285,,,,,,,,,,,24170679,
+261785768,261518205,0,False,residential,Larkspur Drive,123.305,,,,,,,,,,,24170983,
+261787088,261548194,0,False,residential,Meadowbrook Court,190.341,,,,,,,,,,,24170949,
+310098102,60646929,0,False,tertiary,Peaceable Hill Road,107.147,,,,,,,,,,,11881564,CR 53
+310098102,261505828,0,False,residential,Stone Ridge Road,208.867,,,,,,,,,,,24142587,
+336144930,74991899,0,False,residential,Putnam Avenue,104.032,,,,,,,,,,,11881112,
+336148761,60646775,0,False,primary,,27.927,2,,,,,,,,,,8094705,US 6;US 202;NY 22
+336148761,60646906,0,False,primary,,315.715,2,,,,,,,,,,8094705,US 6;US 202;NY 22
+336148761,261548352,0,False,residential,Allview Avenue,113.605,,,,,,,,,,,24170435,
+336150441,261537875,0,False,residential,Phillips Lane,64.71,,,,,,,,,,,24144817,
+336150473,1918324820,0,False,residential,Putnam Terrace,13.547,,,,,,,,,,,24142118,
+336150473,261537875,0,False,residential,Putnam Terrace,98.957,,,,,,,,,,,24142118,
+336150473,261552302,0,False,residential,Ward Street,77.059,,,,,,,,,,,24143903,
+336559877,106776121,0,False,residential,Independent Way,1247.343,,,,,,,,,,,179358109,
+336576390,1897327228,0,True,motorway_link,,442.988,,,,,,,,,,,8613942,
+336576390,1897327174,0,True,motorway,,499.955,2,,,65 mph,,,,,,,38765952,I 84
+336582378,261547770,0,False,residential,Milan Road,182.377,,,,,,,,,,,24143020,
+336587016,261782100,0,False,residential,Barrett Road,626.46,,,,,,,,,,,24170507,
+336592586,61306124,0,False,residential,Pugsley Road,1273.419,,,,,,,,,,,24170153,
+336592586,261782100,0,False,residential,Barrett Road,80.759,,,,,,,,,,,"[24170504, 24170507]",
+336592586,1897327222,0,False,residential,Barrett Road,449.23,,,,,,,,,,,24170504,
+336601493,336601537,0,False,residential,Chestnut Drive,9.299,,,,,,,,,,,192796857,
+336601493,1918185573,0,True,residential,Hunters Glen Road,68.036,,,,,,,,,,,24168607,
+336601493,2033321597,0,False,residential,Chestnut Drive,33.588,,,,,,,,,,,192796857,
+336601537,2033321588,0,True,residential,Hunters Glen Road,21.007,,,,,,,,,,,30498050,
+336601537,336601493,0,False,residential,Chestnut Drive,9.299,,,,,,,,,,,192796857,
+336601537,2033321586,0,False,residential,Chestnut Drive,22.249,,,,,,,,,,,192796857,
+336604381,261519600,0,False,residential,Centennial Lane,140.188,,,,,,,,,,,24143394,
+348064262,261783604,0,False,residential,Old Doansburg Road,80.34,,,,,,,,,,,24170369,
+350527332,261546278,0,False,residential,Pinetree Lane,116.067,,,,,,,,,,,24143073,
+350536716,261543849,0,False,residential,Colonial Ridge Court,82.331,,,,,,,,,,,24142795,
+350541336,261534345,0,False,residential,Lakeside Road,345.426,,,,,,,,,,,24143859,
+350547946,261544025,0,False,residential,Overlook Drive,192.774,,,,,,,,,,,24170171,
+350547946,350547946,0,False,residential,,72.231,,,,,,,,,,,186394821,
+350547946,350547946,1,False,residential,,72.231,,,,,,,,,,,186394821,
+350550887,261534387,0,False,tertiary,North Brewster Road,163.95,,,,,,,,,,,24169865,CR 58
+350550887,261537030,0,False,residential,Tonetta Lake Road,27.47,,,,,,,,,,,31431791,
+350550887,261537022,0,False,tertiary,Tonetta Lake Road,264.634,,,,,,,,,,,240563593,CR 58
+350555516,1970762229,0,False,residential,Killian Lane,178.564,,,,,,,,,,,24144642,
+350555720,261524489,0,False,residential,Spring Lane,114.926,,,,,,,,,,,24140571,
+350555943,261524489,0,False,residential,Spring Knoll Road,157.079,,,,,,,,,,,24170763,
+350557288,261776336,0,False,secondary,State Highway 312,109.681,,,,,,,,,,,50598114,NY 312
+350557288,261544200,0,False,secondary,State Highway 312,8.407,,,,,,,,,,,50598114,NY 312
+350557288,1970762229,0,True,residential,Garrity Boulevard,290.362,,,,,,,,,,,186394952,
+350557439,1970762229,0,False,residential,Killian Lane,7.697,,,,,,,,,,,24144642,
+350557439,261544200,0,True,residential,Garrity Boulevard,290.311,,,,,,,,,,,186394951,
+350558030,350558297,0,False,residential,Garrity Boulevard,246.275,,,,,,,,,,,31432568,
+350558030,350557439,0,True,residential,Garrity Boulevard,152.011,,,,,,,,,,,186394951,
+350558297,350558030,0,False,residential,Garrity Boulevard,246.275,,,,,,,,,,,31432568,
+350558498,350558502,0,False,residential,Coffey Lane,378.484,,,,,,,,,,,24140855,
+350558498,261556675,0,False,residential,Ice Pond Road,532.755,,,,,,,,,,,24170041,
+350558502,350558498,0,False,residential,Coffey Lane,378.484,,,,,,,,,,,24140855,
+350560828,261537005,0,False,residential,Elmhurst Avenue,260.455,,,,,,,,,,,24143270,
+1897079985,61280425,0,True,motorway_link,,433.018,,,,,,,,,,,8613913,
+1897079985,1897327228,0,False,secondary,,417.701,,,,,,,yes,,,,"[38765957, 38765958, 31421623]",NY 312
+1897079985,61306138,0,False,secondary,,14.088,,,,,,,,,,,31421623,NY 312
+1897327215,1897327174,0,True,motorway_link,,504.42,,,,,,,,,,,8613936,
+1897327215,61306187,0,False,secondary,,157.151,,,,,,,,,,,38765958,NY 312
+1897327215,1897327228,0,False,secondary,,11.925,,,,,,,,,,,38765958,NY 312
+1897327222,336592586,0,False,residential,Barrett Road,449.23,,,,,,,,,,,24170504,
+1897327228,1897327215,0,False,secondary,,11.925,,,,,,,,,,,38765958,NY 312
+1897327228,1897079985,0,False,secondary,,417.701,,,,,,,yes,,,,"[38765957, 38765958, 31421623]",NY 312
+1897342439,261547770,0,False,residential,Geneva Road,10.61,,,,,,,,,,,24143292,
+1900004877,106750482,0,False,residential,,81.072,,,,,,,,,,,24138232,
+1900005117,106750489,0,False,primary,Main Street,10.28,2,,,,,,,,,,202522448,US 6
+1900005117,106741477,0,False,residential,Oak Street,306.631,,,,,,,,,,,11880125,
+1900005117,106746347,0,False,primary,Main Street,293.361,2,,,,,,,,,,202522448,US 6
+1900060129,74991880,0,False,residential,Ellen Avenue,254.238,,,,,,,,,,,11881050,
+1900347221,261533181,0,False,residential,Plum Tree Court,137.274,,,,,,,,,,,24144404,
+1900347305,261533191,0,False,residential,Harvest Drive,7.681,,,,,,,,,,,179621585,
+1900347305,261533181,0,False,residential,Harvest Drive,622.52,,,,,,,,,,,179621585,
+1900347621,261541386,0,False,residential,Minor Road,50.557,,,,,,,,,,,24168974,
+1900347621,3983699752,0,False,residential,Minor Road,459.25,,,,,,,,,,,24168974,
+1901340693,261505820,0,False,residential,Stone Ridge Road,85.456,,,,,,,,,,,24137927,
+1918185573,1918185591,0,False,tertiary,Fair Street,7.893,,,,,,,,,,,24169669,CR 60
+1918185573,5611353599,0,False,tertiary,Fair Street,499.287,,,,,,,,,,,24169669,CR 60
+1918185591,1918185573,0,False,tertiary,Fair Street,7.893,,,,,,,,,,,24169669,CR 60
+1918185591,336601537,0,True,residential,Hunters Glen Road,67.759,,,,,,,,,,,30498050,
+1918198561,261551014,0,False,residential,Twin Brook Court,248.331,,,,,,,,,,,30498008,
+1918198561,1918198561,0,False,residential,Twin Brook Court,235.622,,,,,,,,,,,181387867,
+1918198561,1918198561,1,False,residential,Twin Brook Court,235.622,,,,,,,,,,,181387867,
+1918324820,336150473,0,False,residential,Putnam Terrace,13.547,,,,,,,,,,,24142118,
+1926181267,261521961,0,False,residential,Farmstead Lane,107.837,,,,,,,,,,,182280967,
+1926181267,1926181267,0,False,residential,Farmstead Lane,72.872,,,,,,,,,,,182280971,
+1926181267,1926181267,1,False,residential,Farmstead Lane,72.872,,,,,,,,,,,182280971,
+1926365071,261531920,0,False,residential,Oak Road,203.238,,,,,,,,,,,24142123,
+1926365107,261531919,0,False,residential,,159.84,,,,,,,,,,,24141407,
+1927964604,261531927,0,False,residential,Pumphouse Road,840.058,,,,,,,,,,,24141405,
+1927964604,1927964604,0,False,residential,,160.88,,,,,,,,,,,182668629,
+1927964604,1927964604,1,False,residential,,160.88,,,,,,,,,,,182668629,
+1930269727,261554309,0,False,residential,Fairview Road,172.853,,,,,,,,,,,24144161,
+1930269743,261534387,0,False,residential,Shore Drive,98.067,,,,,,,,,,,24141668,
+1930269743,261536984,0,False,residential,Tonetta Lake Road,92.001,,,,,,,,,,,24142009,
+1930269743,261535535,0,False,residential,Meridian Drive,111.554,,,,,,,,,,,24142237,
+1930269743,261537030,0,False,residential,Tonetta Lake Road,155.672,,,,,,,,,,,31431791,
+1930282089,106743492,0,False,residential,Casino Street,69.782,,,,,,,,,,,11880433,
+1956322411,261536927,0,False,residential,Allan Road,97.835,,,,,,,,,,,24142753,
+1956322411,1956322457,0,False,residential,Allan Road,90.419,,,,,,,,,,,24142753,
+1956322411,261535886,0,False,residential,Clematis Road,327.618,,,,,,,,,,,24170142,
+1956322426,261543492,0,False,residential,Allan Road,90.707,,,,,,,,,,,24142753,
+1956322426,261534252,0,False,residential,Marlin Road,354.602,,,,,,,,,,,24141645,
+1956322426,1956322512,0,False,residential,Allan Road,96.599,,,,,,,,,,,24142753,
+1956322432,261529220,0,False,residential,Bloomer Road,67.825,,,,,,,,,,,24141132,
+1956322432,261529216,0,False,residential,Bloomer Road,444.169,,,,,,,,,,,24141132,
+1956322432,1956322512,0,False,residential,North Road,93.38,,,,,,,,,,,24169951,
+1956322457,1956322488,0,False,residential,Wilson Road,27.073,,,,,,,,,,,24141487,
+1956322457,261529216,0,False,residential,Wilson Road,94.196,,,,,,,,,,,24141487,
+1956322457,1956322411,0,False,residential,Allan Road,90.419,,,,,,,,,,,24142753,
+1956322488,1956322693,0,False,residential,Wilson Road,147.198,,,,,,,,,,,24141487,
+1956322488,1956322457,0,False,residential,Wilson Road,27.073,,,,,,,,,,,24141487,
+1956322488,261529202,0,False,residential,Nancy Road,186.832,,,,,,,,,,,24142243,
+1956322512,1956322426,0,False,residential,Allan Road,96.599,,,,,,,,,,,24142753,
+1956322512,261535905,0,False,residential,North Road,356.33,,,,,,,,,,,24169951,
+1956322512,1956322432,0,False,residential,North Road,93.38,,,,,,,,,,,24169951,
+1956322693,261532943,0,False,residential,Wilson Road,131.794,,,,,,,,,,,24141487,
+1956322693,1956322488,0,False,residential,Wilson Road,147.198,,,,,,,,,,,24141487,
+1956322693,261529202,0,False,residential,Bloomer Road,204.866,,,,,,,,,,,24141132,
+1970759176,261534363,0,False,residential,Shore Drive,578.088,,,,,,,,,,,24141665,
+1970759186,261774194,0,False,tertiary,North Brewster Road,113.464,,,,,,,,,,,24169865,CR 58
+1970759186,261547309,0,False,residential,Hickory Drive,290.261,,,,,,,,,,,24143231,
+1970759186,261542725,0,False,tertiary,North Brewster Road,106.341,,,,,,,,,,,24169865,CR 58
+1970759221,261785768,0,False,residential,Aster Place,141.285,,,,,,,,,,,24170679,
+1970759267,261556749,0,False,residential,Cardinal Lane,70.513,,,,,,,,,,,24140841,
+1970759303,261533105,0,False,residential,Penny Lane,178.028,,,,,,,,,,,24141510,
+1970762229,350557439,0,False,residential,Killian Lane,7.697,,,,,,,,,,,24144642,
+1970762229,350555516,0,False,residential,Killian Lane,178.564,,,,,,,,,,,24144642,
+1970762229,350558030,0,True,residential,Garrity Boulevard,155.354,,,,,,,,,,,186394952,
+2028633966,261547467,0,False,residential,Stone Haven,254.031,,,,,,,,,,,24143251,
+2033321379,2033321389,0,False,residential,Applewood Circle,36.467,,,,,,,,,,,192796851,
+2033321379,2033321389,1,False,residential,Applewood Circle,74.073,,,,,,,,,,,192796853,
+2033321379,2033321456,0,False,residential,Applewood Circle,219.818,,,,,,,,,,,192796851,
+2033321389,2033321421,0,False,residential,Applewood Circle,61.426,,,,,,,,,,,192796851,
+2033321389,2033321379,0,False,residential,Applewood Circle,36.467,,,,,,,,,,,192796851,
+2033321389,2033321379,1,False,residential,Applewood Circle,74.073,,,,,,,,,,,192796853,
+2033321421,2033321436,0,False,residential,Applewood Circle,45.633,,,,,,,,,,,192796851,
+2033321421,2033321436,1,False,residential,Applewood Circle,75.16,,,,,,,,,,,192796852,
+2033321421,2033321389,0,False,residential,Applewood Circle,61.426,,,,,,,,,,,192796851,
+2033321436,2033321456,0,False,residential,Applewood Circle,51.24,,,,,,,,,,,192796851,
+2033321436,2033321421,0,False,residential,Applewood Circle,45.633,,,,,,,,,,,192796851,
+2033321436,2033321421,1,False,residential,Applewood Circle,75.16,,,,,,,,,,,192796852,
+2033321456,2033321379,0,False,residential,Applewood Circle,219.818,,,,,,,,,,,192796851,
+2033321456,2033321482,0,False,residential,Applewood Circle,69.654,,,,,,,,,,,192796851,
+2033321456,2033321436,0,False,residential,Applewood Circle,51.24,,,,,,,,,,,192796851,
+2033321456,2033321464,0,False,residential,Hickory Hollow Lane,42.486,,,,,,,,,,,192796859,
+2033321459,2033321480,0,False,residential,,39.375,,,,,,,,,,,192796865,
+2033321464,2033321507,0,False,residential,Hickory Hollow Lane,74.36,,,,,,,,,,,192796858,
+2033321464,2033321506,0,False,residential,Hickory Hollow Lane,71.351,,,,,,,,,,,192796859,
+2033321464,2033321456,0,False,residential,Hickory Hollow Lane,42.486,,,,,,,,,,,192796859,
+2033321480,2033321459,0,False,residential,,39.375,,,,,,,,,,,192796865,
+2033321480,2033321502,0,False,residential,Morgan Drive,78.73,,,,,,,,,,,192796861,
+2033321480,2033321503,0,False,residential,Morgan Drive,32.732,,,,,,,,,,,192796861,
+2033321482,2033321507,0,False,residential,Buttonwood Lane,33.246,,,,,,,,,,,192796856,
+2033321482,2033321503,0,False,residential,Applewood Circle,64.774,,,,,,,,,,,192796851,
+2033321482,2033321456,0,False,residential,Applewood Circle,69.654,,,,,,,,,,,192796851,
+2033321502,2033321528,0,False,residential,Morgan Drive,66.433,,,,,,,,,,,192796861,
+2033321502,2033321480,0,False,residential,Morgan Drive,78.73,,,,,,,,,,,192796861,
+2033321502,2033321521,0,False,residential,Morgan Drive,55.161,,,,,,,,,,,192796862,
+2033321503,2033321482,0,False,residential,Applewood Circle,64.774,,,,,,,,,,,192796851,
+2033321503,2033321554,0,False,residential,Chestnut Drive,178.447,,,,,,,,,,,192796857,
+2033321503,2033321480,0,False,residential,Morgan Drive,32.732,,,,,,,,,,,192796861,
+2033321506,2033321464,0,False,residential,Hickory Hollow Lane,71.351,,,,,,,,,,,192796859,
+2033321507,2033321513,0,False,residential,Buttonwood Lane,16.388,,,,,,,,,,,192796856,
+2033321507,2033321482,0,False,residential,Buttonwood Lane,33.246,,,,,,,,,,,192796856,
+2033321507,2033321464,0,False,residential,Hickory Hollow Lane,74.36,,,,,,,,,,,192796858,
+2033321513,2033321526,0,False,residential,Buttonwood Lane,36.321,,,,,,,,,,,192796856,
+2033321513,2033321507,0,False,residential,Buttonwood Lane,16.388,,,,,,,,,,,192796856,
+2033321513,2033321532,0,False,residential,Buttonwood Lane,54.553,,,,,,,,,,,192796855,
+2033321521,2033321502,0,False,residential,Morgan Drive,55.161,,,,,,,,,,,192796862,
+2033321526,2033321513,0,False,residential,Buttonwood Lane,36.321,,,,,,,,,,,192796856,
+2033321528,2033321554,0,False,residential,Morgan Drive,62.641,,,,,,,,,,,192796861,
+2033321528,2033321502,0,False,residential,Morgan Drive,66.433,,,,,,,,,,,192796861,
+2033321528,2033321540,0,False,residential,Morgan Drive,88.509,,,,,,,,,,,192796863,
+2033321532,2033321513,0,False,residential,Buttonwood Lane,54.553,,,,,,,,,,,192796855,
+2033321540,2033321528,0,False,residential,Morgan Drive,88.509,,,,,,,,,,,192796863,
+2033321554,2033321562,0,False,residential,Chestnut Drive,86.795,,,,,,,,,,,192796857,
+2033321554,2033321503,0,False,residential,Chestnut Drive,178.447,,,,,,,,,,,192796857,
+2033321554,2033321528,0,False,residential,Morgan Drive,62.641,,,,,,,,,,,192796861,
+2033321562,2033321564,0,False,residential,Chestnut Drive,36.535,,,,,,,,,,,192796857,
+2033321562,2033321554,0,False,residential,Chestnut Drive,86.795,,,,,,,,,,,192796857,
+2033321562,2033321586,0,False,residential,Martingale Drive,137.657,,,,,,,,,,,192796860,
+2033321564,2033321586,0,False,residential,Chestnut Drive,56.182,,,,,,,,,,,192796857,
+2033321564,2033321562,0,False,residential,Chestnut Drive,36.535,,,,,,,,,,,192796857,
+2033321564,2033321588,0,False,residential,,76.244,,,,,,,,,,,192796868,
+2033321581,2033321581,0,False,residential,Chestnut Drive,130.835,,,,,,,,,,,192796857,
+2033321581,2033321581,1,False,residential,Chestnut Drive,130.835,,,,,,,,,,,192796857,
+2033321581,2033321602,0,False,residential,Chestnut Drive,101.777,,,,,,,,,,,192796857,
+2033321586,336601537,0,False,residential,Chestnut Drive,22.249,,,,,,,,,,,192796857,
+2033321586,2033321564,0,False,residential,Chestnut Drive,56.182,,,,,,,,,,,192796857,
+2033321586,2033321562,0,False,residential,Martingale Drive,137.657,,,,,,,,,,,192796860,
+2033321588,336601493,0,True,residential,Hunters Glen Road,45.127,,,,,,,,,,,"[30498050, 24168607]",
+2033321588,2033321564,0,False,residential,,76.244,,,,,,,,,,,192796868,
+2033321597,2033321602,0,False,residential,Chestnut Drive,82.227,,,,,,,,,,,192796857,
+2033321597,336601493,0,False,residential,Chestnut Drive,33.588,,,,,,,,,,,192796857,
+2033321597,2033321626,0,False,residential,Nutmeg Drive,124.311,,,,,,,,,,,192796864,
+2033321602,2033321581,0,False,residential,Chestnut Drive,101.777,,,,,,,,,,,192796857,
+2033321602,2033321597,0,False,residential,Chestnut Drive,82.227,,,,,,,,,,,192796857,
+2033321602,2033321627,0,False,residential,Nutmeg Drive,102.54,,,,,,,,,,,192796864,
+2033321626,2033321627,0,False,residential,Nutmeg Drive,42.495,,,,,,,,,,,192796864,
+2033321626,2033321629,0,False,residential,,21.241,,,,,,,,,,,192796866,
+2033321626,2033321597,0,False,residential,Nutmeg Drive,124.311,,,,,,,,,,,192796864,
+2033321627,2033321626,0,False,residential,Nutmeg Drive,42.495,,,,,,,,,,,192796864,
+2033321627,2033321602,0,False,residential,Nutmeg Drive,102.54,,,,,,,,,,,192796864,
+2033321627,2033321629,0,False,residential,,63.068,,,,,,,,,,,192796867,
+2033321629,2033321633,0,False,residential,,31.426,,,,,,,,,,,192796866,
+2033321629,2033321626,0,False,residential,,21.241,,,,,,,,,,,192796866,
+2033321629,2033321627,0,False,residential,,63.068,,,,,,,,,,,192796867,
+2033321633,2033321629,0,False,residential,,31.426,,,,,,,,,,,192796866,
+2124887596,106746631,0,False,residential,Merritt Lane,103.413,,,,,,,,,,,11880772,
+2431854061,261548194,0,False,residential,Foggintown Road,566.262,,,,,,,,,,,"[24143354, 24143350]",
+2431854061,261548156,0,False,residential,Foggintown Road,223.332,,,,,,,,,,,24143350,
+2431854061,261771258,0,False,residential,Drovers Lane,295.879,,,,,,,,,,,24168481,
+3983699752,1900347621,0,False,residential,Minor Road,459.25,,,,,,,,,,,24168974,
+3983699752,261773842,0,False,residential,Minor Road,33.067,,,,,,,,,,,24168974,
+5611353599,5611353600,0,False,tertiary,Fair Street,8.02,,,,,,,,,,,24169669,CR 60
+5611353599,1918185573,0,False,tertiary,Fair Street,499.287,,,,,,,,,,,24169669,CR 60
+5611353599,261551014,0,True,residential,Twin Brook Court,92.677,,,,,,,,,,,30498022,
+5611353600,5611353599,0,False,tertiary,Fair Street,8.02,,,,,,,,,,,24169669,CR 60

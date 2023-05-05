@@ -1,0 +1,45 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+49421928,49522383,0,False,primary,North Charles Street,93.831,4,,,30 mph,,,,,,,411770979,MD 139
+49421928,49445765,0,False,primary,North Charles Street,93.67,4,,,30 mph,,,,,,,411770979,MD 139
+49445765,49421928,0,False,primary,North Charles Street,93.67,4,,,30 mph,,,,,,,411770979,MD 139
+49445765,49497896,0,False,primary,North Charles Street,90.291,4,,,30 mph,,,,,,,411770979,MD 139
+49460540,49460541,0,False,residential,Boxhill Lane,13.917,,,,,,,,,,,6003301,
+49460541,49460540,0,False,residential,Boxhill Lane,13.917,,,,,,,,,,,6003301,
+49460541,49563379,0,True,primary,West Northern Parkway,68.146,3,,,,,,,,,,119881090,
+49476171,49393765,0,True,residential,Gladstone Avenue,158.672,,,,,,,,,,,6005322,
+49476171,49481176,0,False,residential,Summit Avenue,96.18,,,,,,,,,,,107264586,
+49476172,49476171,0,True,residential,Gladstone Avenue,201.111,,,,,,,,,,,6005322,
+49476172,49507064,0,True,secondary,Roland Avenue,95.947,2,,,25 mph,,,,,,,512483227,
+49481176,49507063,0,False,residential,Saint Johns Road,150.095,,,,,,,,,,,423117603,
+49481176,49481184,0,False,residential,Summit Avenue,96.209,,,,,,,,,,,107264586,
+49481176,49476171,0,False,residential,Summit Avenue,96.18,,,,,,,,,,,107264586,
+49481176,49507064,0,False,residential,Saint Johns Road,205.381,,,,,,,,,,,423117603,
+49481184,49564898,0,False,residential,Colorado Avenue,155.34,,,,,,,,,,,6019600,
+49481184,49481188,0,False,residential,Summit Avenue,96.796,,,,,,,,,,,107264586,
+49481184,49481176,0,False,residential,Summit Avenue,96.209,,,,,,,,,,,107264586,
+49481184,49524416,0,True,residential,Colorado Avenue,201.321,,,,,,,,,,,107264591,
+49481188,49571148,0,False,residential,Deepdene Road,154.334,,,,,,,,,,,6021376,
+49481188,49481184,0,False,residential,Summit Avenue,96.796,,,,,,,,,,,107264586,
+49481188,49481198,0,False,residential,Summit Avenue,46.374,,,,,,,,,,,513595087,
+49481198,49481188,0,False,residential,Summit Avenue,46.374,,,,,,,,,,,513595087,
+49488566,49522364,0,False,primary,North Charles Street,138.853,4,,,30 mph,,,,,,,512483206,MD 139
+49488566,49497896,0,False,primary,North Charles Street,111.486,4,,,30 mph,,,,,,,"[411770979, 513594669]",MD 139
+49497896,49445765,0,False,primary,North Charles Street,90.291,4,,,30 mph,,,,,,,411770979,MD 139
+49497896,49488566,0,False,primary,North Charles Street,111.486,4,,,30 mph,,,,,,,"[411770979, 513594669]",MD 139
+49498534,49505088,0,True,secondary,Roland Avenue,14.523,2,,,25 mph,,,,,,,544895756,
+49498534,49460540,0,True,primary,West Northern Parkway,627.206,3,,,35 mph,,,,,,,6020249,
+49499460,49522383,0,False,primary,North Charles Street,94.456,4,,,30 mph,,,,,,,228413818,MD 139
+49507063,49481176,0,False,residential,Saint Johns Road,150.095,,,,,,,,,,,423117603,
+49507064,49524416,0,True,secondary,Roland Avenue,97.795,2,,,25 mph,,,,,,,455270358,
+49507064,49481176,0,False,residential,Saint Johns Road,205.381,,,,,,,,,,,423117603,
+49522364,49488566,0,False,primary,North Charles Street,138.853,4,,,30 mph,,,,,,,512483206,MD 139
+49522383,49421928,0,False,primary,North Charles Street,93.831,4,,,30 mph,,,,,,,411770979,MD 139
+49522383,49499460,0,False,primary,North Charles Street,94.456,4,,,30 mph,,,,,,,228413818,MD 139
+49524416,5019950578,0,True,secondary,Roland Avenue,15.364,2,,,25 mph,,,,,,,513599724,
+49524424,49481188,0,True,residential,Deepdene Road,197.329,,,,25 mph,,,,,,,107264620,
+49524424,49498534,0,True,secondary,Roland Avenue,628.3,"['4', '2', '3']",,,25 mph,,,,,,,"[512483212, 544884243, 544884245, 423117592, 455269117]",
+49541050,49505088,0,True,primary,West Northern Parkway,133.589,3,,,35 mph,,,,,,,"[119881090, 544884247]",
+49563379,49541050,0,True,primary,West Northern Parkway,418.733,3,,,,,,,,,,119881090,
+49564898,49481184,0,False,residential,Colorado Avenue,155.34,,,,,,,,,,,6019600,
+49571148,49481188,0,False,residential,Deepdene Road,154.334,,,,,,,,,,,6021376,
+5019950578,49524424,0,True,secondary,Roland Avenue,79.614,2,,,25 mph,,,,,,,"[513597955, 455269118]",

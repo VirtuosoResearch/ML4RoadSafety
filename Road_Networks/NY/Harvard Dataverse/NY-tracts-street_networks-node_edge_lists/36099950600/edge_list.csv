@@ -1,0 +1,550 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+212778590,212793001,0,False,residential,Townline Road,76.288,,,,,,,,,,,20125455,
+212778590,212792988,0,False,residential,Townline Road,826.861,,,,,,,,,,,20125455,
+212781359,212786579,0,False,residential,Pre-Emption Street,143.331,,,,,,,,,,,20124936,
+212781359,213313092,0,False,tertiary,Border City Road,233.213,,,,,,,,,,,100137911,
+212781359,212822185,0,False,residential,South Pre-Emption Street,178.802,,,,,,,,,,,20127953,
+212782159,212792974,0,False,residential,Townline Road,30.913,,,,,,,,,,,20125455,
+212782159,212792952,0,False,residential,Townline Road,1743.053,,,,,,,,,,,20125455,
+212782159,213311011,0,False,residential,Packwood Road,1286.103,,,,,,,,,,,20170982,
+212786579,212781359,0,False,residential,Pre-Emption Street,143.331,,,,,,,,,,,20124936,
+212786586,213308573,0,False,residential,"['Moore Street', 'Fallbrook Street']",341.416,,,,,,,,,,,"[20171131, 20171150]",
+212786596,213316326,0,False,residential,Russell Street,91.442,,,,,,,,,,,20171458,
+212786596,212792952,0,False,residential,"['Townline Road', 'Pre-Emption Street']",876.678,,,,,,,,,,,"[139811622, 20125455]",
+212792952,212782159,0,False,residential,Townline Road,1743.053,,,,,,,,,,,20125455,
+212792952,212786596,0,False,residential,"['Townline Road', 'Pre-Emption Street']",876.678,,,,,,,,,,,"[139811622, 20125455]",
+212792952,213282726,0,False,residential,Sanctuary Lane,140.655,,,,,,,,,,,20168893,
+212792974,212782159,0,False,residential,Townline Road,30.913,,,,,,,,,,,20125455,
+212792974,213282733,0,False,residential,Sanctuary Lane,694.413,,,,,,,,,,,20168895,
+212792974,212792988,0,False,residential,Townline Road,537.768,,,,,,,,,,,20125455,
+212792988,213303764,0,False,residential,Serenity Drive,103.784,,,,,,,,,,,20170501,
+212792988,212778590,0,False,residential,Townline Road,826.861,,,,,,,,,,,20125455,
+212792988,212792974,0,False,residential,Townline Road,537.768,,,,,,,,,,,20125455,
+212793001,212778590,0,False,residential,Townline Road,76.288,,,,,,,,,,,20125455,
+212793001,212793031,0,False,residential,Townline Road,1746.929,,,,,,,,,,,20125455,
+212793001,213285003,0,False,residential,Steele Road,1681.415,,,,,,,,,,,20169044,
+212793031,212793037,0,False,residential,Townline Road,444.623,,,,,,,,,,,20125455,
+212793031,212793001,0,False,residential,Townline Road,1746.929,,,,,,,,,,,20125455,
+212793031,213292816,0,False,tertiary,Millard Road,455.042,,,,,,,,,,,20170462,
+212793037,212793031,0,False,residential,Townline Road,444.623,,,,,,,,,,,20125455,
+212793037,213288843,0,False,secondary,State Highway 96,450.149,,,,,,,,,,,20169308,NY 96
+212822185,212781359,0,False,residential,South Pre-Emption Street,178.802,,,,,,,,,,,20127953,
+213263319,213263327,0,False,residential,Walnut Street,249.29,,,,,,,,,,,20167261,
+213263327,213283577,0,False,primary,West Main Street,142.122,4,,,,,,,,,,20169869,US 20;NY 5
+213263327,213263332,0,False,residential,Walnut Street,130.842,,,,,,,,,,,20167261,
+213263327,213263319,0,False,residential,Walnut Street,249.29,,,,,,,,,,,20167261,
+213263327,213295803,0,False,primary,West Main Street,138.386,4,,,,,,,,,,20169869,US 20;NY 5
+213263332,213263339,0,False,residential,Walnut Street,19.448,,,,,,,,,,,20167261,
+213263332,213263327,0,False,residential,Walnut Street,130.842,,,,,,,,,,,20167261,
+213263332,213283579,0,False,residential,West William Street,140.531,,,,,,,,,,,20170879,
+213263339,213320679,0,False,residential,Railroad Avenue,95.056,,,,,,,,,,,20171832,
+213263339,213283583,0,False,residential,Railroad Avenue,139.218,,,,,,,,,,,20171832,
+213263339,213263353,0,False,residential,Walnut Street,253.206,,,,,,,,,,,20167261,
+213263339,213263332,0,False,residential,Walnut Street,19.448,,,,,,,,,,,20167261,
+213263353,213283603,0,False,residential,West Wright Avenue,128.06,,,,,,,,,,,20171282,
+213263353,213263339,0,False,residential,Walnut Street,253.206,,,,,,,,,,,20167261,
+213263353,213314300,0,False,residential,West Wright Avenue,290.064,,,,,,,,,,,20171282,
+213263626,213263626,0,False,residential,Kings Row,88.134,,,,,,,,,,,20167286,
+213263626,213263626,1,False,residential,Kings Row,88.134,,,,,,,,,,,20167286,
+213263626,213263662,0,False,residential,Kings Row,221.574,,,,,,,,,,,20167288,
+213263662,213263626,0,False,residential,Kings Row,221.574,,,,,,,,,,,20167288,
+213263662,213319485,0,False,residential,Reed Road,892.443,,,,,,,,,,,20171710,
+213263662,213293916,0,False,residential,Reed Road,356.834,,,,,,,,,,,20171710,
+213263885,213276200,0,False,primary,Waterloo Geneva Road,45.08,2,,,,,,,,,,100137898,US 20;NY 5
+213263885,213293904,0,False,primary,Waterloo Geneva Road,17.798,2,,,,,,,,,,100137898,US 20;NY 5
+213263885,213263891,0,False,residential,,28.954,,,,,,,,,,,20167299,
+213263891,213263917,0,False,residential,,98.042,,,,,,,,,,,20167299,
+213263891,213263917,1,False,residential,,161.562,,,,,,,,,,,20167383,
+213263891,213263885,0,False,residential,,28.954,,,,,,,,,,,20167299,
+213263917,213263924,0,False,residential,,47.677,,,,,,,,,,,20167299,
+213263917,213263891,0,False,residential,,98.042,,,,,,,,,,,20167299,
+213263917,213263891,1,False,residential,,161.562,,,,,,,,,,,20167383,
+213263924,213265449,0,False,primary,Waterloo Geneva Road,21.346,2,,,,,,,,,,100137898,US 20;NY 5
+213263924,213276200,0,False,primary,Waterloo Geneva Road,57.312,2,,,,,,,,,,100137898,US 20;NY 5
+213263924,213263917,0,False,residential,,47.677,,,,,,,,,,,20167299,
+213263928,213263932,0,False,residential,,57.111,,,,,,,,,,,20167301,
+213263928,213263945,0,False,residential,,160.631,,,,,,,,,,,20167303,
+213263928,213305603,0,False,residential,Harbour Lane,478.585,,,,,,,,,,,20170607,
+213263928,213293867,0,False,residential,Harbour Lane,110.163,,,,,,,,,,,20170609,
+213263932,213263928,0,False,residential,,57.111,,,,,,,,,,,20167301,
+213263945,213263928,0,False,residential,,160.631,,,,,,,,,,,20167303,
+213264262,213264271,0,False,residential,,69.056,,,,,,,,,,,20167319,
+213264262,213264333,0,False,residential,,126.851,,,,,,,,,,,20167319,
+213264262,213264302,0,False,residential,,100.58,,,,,,,,,,,20167319,
+213264271,213264302,0,False,residential,,242.811,,,,,,,,,,,20167319,
+213264271,213264302,1,False,residential,,33.141,,,,,,,,,,,20168541,
+213264271,213264262,0,False,residential,,69.056,,,,,,,,,,,20167319,
+213264302,213264262,0,False,residential,,100.58,,,,,,,,,,,20167319,
+213264302,213264271,0,False,residential,,242.811,,,,,,,,,,,20167319,
+213264302,213264271,1,False,residential,,33.141,,,,,,,,,,,20168541,
+213264302,213277535,0,False,residential,,176.491,,,,,,,,,,,20168541,
+213264333,213264262,0,False,residential,,126.851,,,,,,,,,,,20167319,
+213264333,213269079,0,False,primary,Waterloo Geneva Road,91.455,2,,,,,,,,,,100137898,US 20;NY 5
+213264333,213293922,0,False,primary,Waterloo Geneva Road,640.511,2,,,,,,,,,,100137898,US 20;NY 5
+213264842,213264852,0,False,residential,,86.761,,,,,,,,,,,20167338,
+213264842,213295814,0,False,primary,"['Waterloo Geneva Road', 'West Main Street']",231.13,"['4', '2']",,,,,,,,,,"[100137898, 121772756, 20169869]",US 20;NY 5
+213264842,213268484,0,False,primary,Waterloo Geneva Road,60.124,2,,,,,,,,,,100137898,US 20;NY 5
+213264852,213264842,0,False,residential,,86.761,,,,,,,,,,,20167338,
+213264919,213272088,0,False,residential,,61.827,,,,,,,,,,,20168028,
+213264919,213264940,0,False,residential,,307.121,,,,,,,,,,,20167345,
+213264919,213272097,0,False,residential,,59.907,,,,,,,,,,,20168028,
+213264940,213277038,0,False,primary,Waterloo Geneva Road,124.253,2,,,,,,,,,,100137898,US 20;NY 5
+213264940,213264919,0,False,residential,,307.121,,,,,,,,,,,20167345,
+213264940,213293916,0,False,primary,Waterloo Geneva Road,265.767,2,,,,,,,,,,100137898,US 20;NY 5
+213264951,213305913,0,False,tertiary,Border City Road,72.454,,,,,,,,,,,100137911,
+213264951,213275988,0,False,residential,,152.139,,,,,,,,,,,"[20168401, 20167346]",
+213264951,213315557,0,False,tertiary,Border City Road,252.154,,,,,,,,,,,100137911,
+213265185,213273058,0,False,tertiary,Brewer Road,31.288,,,,,,,,,,,20171052,CR 114
+213265185,213265190,0,False,residential,,82.381,,,,,,,,,,,20167365,
+213265185,213312018,0,False,tertiary,Brewer Road,1171.581,,,,,,,,,,,20171052,CR 114
+213265190,213265201,0,False,residential,,162.813,,,,,,,,,,,20167365,
+213265190,213265185,0,False,residential,,82.381,,,,,,,,,,,20167365,
+213265190,213273058,0,False,residential,,120.312,,,,,,,,,,,20168130,
+213265201,213265190,0,False,residential,,162.813,,,,,,,,,,,20167365,
+213265201,213265201,0,False,residential,,71.892,,,,,,,,,,,20168165,
+213265201,213265201,1,False,residential,,71.892,,,,,,,,,,,20168165,
+213265427,213265432,0,False,residential,,55.208,,,,,,,,,,,20167378,
+213265427,213273058,0,False,tertiary,Brewer Road,202.688,,,,,,,,,,,20171052,CR 114
+213265427,213293904,0,False,tertiary,Brewer Road,222.599,,,,,,,,,,,20171052,CR 114
+213265432,213265449,0,False,residential,,267.765,,,,,,,,,,,20167378,
+213265432,213265427,0,False,residential,,55.208,,,,,,,,,,,20167378,
+213265432,213276200,0,False,residential,,204.223,,,,,,,,,,,20168421,
+213265449,213274016,0,False,primary,Waterloo Geneva Road,3.52,2,,,,,,,,,,100137898,US 20;NY 5
+213265449,213263924,0,False,primary,Waterloo Geneva Road,21.346,2,,,,,,,,,,100137898,US 20;NY 5
+213265449,213265432,0,False,residential,,267.765,,,,,,,,,,,20167378,
+213265557,213314300,0,False,residential,West Wright Avenue,268.707,,,,,,,,,,,"[20171282, 20167387]",
+213266153,213266155,0,False,residential,,18.952,,,,,,,,,,,20167429,
+213266153,213277002,0,False,residential,,40.269,,,,,,,,,,,20168491,
+213266153,213276984,0,False,residential,,146.459,,,,,,,,,,,20168491,
+213266155,213266153,0,False,residential,,18.952,,,,,,,,,,,20167429,
+213266699,213272180,0,False,primary,Waterloo Geneva Road,58.962,2,,,,,,,,,,100137898,US 20;NY 5
+213266699,213266735,0,False,primary,Waterloo Geneva Road,46.448,2,,,,,,,,,,100137898,US 20;NY 5
+213266699,213266708,0,False,residential,,70.39,,,,,,,,,,,20167483,
+213266708,213266732,0,False,residential,,117.852,,,,,,,,,,,20167483,
+213266708,213266732,1,False,residential,,49.862,,,,,,,,,,,20168111,
+213266708,213266699,0,False,residential,,70.39,,,,,,,,,,,20167483,
+213266732,213266735,0,False,residential,,68.104,,,,,,,,,,,20167483,
+213266732,213266708,0,False,residential,,117.852,,,,,,,,,,,20167483,
+213266732,213266708,1,False,residential,,49.862,,,,,,,,,,,20168111,
+213266735,213266699,0,False,primary,Waterloo Geneva Road,46.448,2,,,,,,,,,,100137898,US 20;NY 5
+213266735,213266748,0,False,residential,,167.242,,,,,,,,,,,20167483,
+213266735,213266732,0,False,residential,,68.104,,,,,,,,,,,20167483,
+213266735,213266756,0,False,primary,Waterloo Geneva Road,308.686,2,,,,,,,,,,100137898,US 20;NY 5
+213266748,213266735,0,False,residential,,167.242,,,,,,,,,,,20167483,
+213266756,213266812,0,False,primary,Waterloo Geneva Road,64.88,2,,,,,,,,,,100137898,US 20;NY 5
+213266756,213266769,0,False,residential,,207.545,,,,,,,,,,,20167486,
+213266756,213266735,0,False,primary,Waterloo Geneva Road,308.686,2,,,,,,,,,,100137898,US 20;NY 5
+213266769,213266772,0,False,residential,,29.731,,,,,,,,,,,20167486,
+213266769,213266756,0,False,residential,,207.545,,,,,,,,,,,20167486,
+213266769,213266793,0,False,residential,,23.396,,,,,,,,,,,20168060,
+213266772,213266769,0,False,residential,,29.731,,,,,,,,,,,20167486,
+213266772,213266780,0,False,residential,,45.104,,,,,,,,,,,20167488,
+213266772,213266793,0,False,residential,,39.176,,,,,,,,,,,20167488,
+213266780,213266772,0,False,residential,,45.104,,,,,,,,,,,20167488,
+213266793,213266812,0,False,residential,,210.715,,,,,,,,,,,20167488,
+213266793,213266772,0,False,residential,,39.176,,,,,,,,,,,20167488,
+213266793,213266769,0,False,residential,,23.396,,,,,,,,,,,20168060,
+213266812,213266756,0,False,primary,Waterloo Geneva Road,64.88,2,,,,,,,,,,100137898,US 20;NY 5
+213266812,213273993,0,False,primary,Waterloo Geneva Road,134.177,2,,,,,,,,,,100137898,US 20;NY 5
+213266812,213266793,0,False,residential,,210.715,,,,,,,,,,,20167488,
+213267423,213267442,0,True,primary_link,,348.02,1,,,,,,,,,,20167552,
+213267423,213281543,0,True,primary,Waterloo Geneva Road,136.769,2,,,45 mph,,,,,,,20168829,US 20;NY 5
+213267556,213267563,0,False,residential,,50.659,,,,,,,,,,,20167574,
+213267556,213293280,0,False,residential,Wagner Street,410.127,,,,,,,,,,,20169692,
+213267556,213293239,0,False,residential,Wagner Street,132.317,,,,,,,,,,,20169692,
+213267563,213267592,0,False,residential,,228.946,,,,,,,,,,,20167574,
+213267563,213267592,1,False,residential,,237.566,,,,,,,,,,,20168205,
+213267563,213267556,0,False,residential,,50.659,,,,,,,,,,,20167574,
+213267592,213267649,0,False,residential,,431.6,,,,,,,,,,,20167574,
+213267592,213267563,0,False,residential,,228.946,,,,,,,,,,,20167574,
+213267592,213267563,1,False,residential,,237.566,,,,,,,,,,,20168205,
+213267649,213267592,0,False,residential,,431.6,,,,,,,,,,,20167574,
+213267649,213280058,0,False,residential,Connecting Road,13.484,,,,,,,,,,,20168699,
+213267649,213281554,0,True,primary,Waterloo Geneva Road,67.312,2,,,45 mph,,,,,,,20168829,US 20;NY 5
+213268459,213268484,0,False,residential,,195.364,,,,,,,,,,,20167655,
+213268459,213269120,0,False,residential,,366.724,,,,,,,,,,,20167724,
+213268459,213269079,0,False,residential,,126.513,,,,,,,,,,,20167724,
+213268484,213269079,0,False,primary,Waterloo Geneva Road,138.063,2,,,,,,,,,,100137898,US 20;NY 5
+213268484,213268459,0,False,residential,,195.364,,,,,,,,,,,20167655,
+213268484,213264842,0,False,primary,Waterloo Geneva Road,60.124,2,,,,,,,,,,100137898,US 20;NY 5
+213268783,213268785,0,False,residential,,22.133,,,,,,,,,,,20167695,
+213268785,213268783,0,False,residential,,22.133,,,,,,,,,,,20167695,
+213268785,213305246,0,False,residential,West Water Street,299.132,,,,,,,,,,,20170578,
+213268785,213295791,0,False,residential,Locust Street,303.015,,,,,,,,,,,284503045,
+213269079,213268484,0,False,primary,Waterloo Geneva Road,138.063,2,,,,,,,,,,100137898,US 20;NY 5
+213269079,213268459,0,False,residential,,126.513,,,,,,,,,,,20167724,
+213269079,213264333,0,False,primary,Waterloo Geneva Road,91.455,2,,,,,,,,,,100137898,US 20;NY 5
+213269120,213268459,0,False,residential,,366.724,,,,,,,,,,,20167724,
+213272088,213264919,0,False,residential,,61.827,,,,,,,,,,,20168028,
+213272097,213264919,0,False,residential,,59.907,,,,,,,,,,,20168028,
+213272123,213272174,0,False,residential,,15.536,,,,,,,,,,,20168038,
+213272123,213272168,0,False,residential,,410.326,,,,,,,,,,,20168038,
+213272123,213272180,0,False,residential,,87.679,,,,,,,,,,,20168038,
+213272168,213272174,0,False,residential,,126.659,,,,,,,,,,,20168038,
+213272168,213272174,1,False,residential,,125.445,,,,,,,,,,,20168075,
+213272168,213272123,0,False,residential,,410.326,,,,,,,,,,,20168038,
+213272174,213272123,0,False,residential,,15.536,,,,,,,,,,,20168038,
+213272174,213272168,0,False,residential,,126.659,,,,,,,,,,,20168038,
+213272174,213272168,1,False,residential,,125.445,,,,,,,,,,,20168075,
+213272180,213277002,0,False,primary,Waterloo Geneva Road,97.852,2,,,,,,,,,,100137898,US 20;NY 5
+213272180,213266699,0,False,primary,Waterloo Geneva Road,58.962,2,,,,,,,,,,100137898,US 20;NY 5
+213272180,213272123,0,False,residential,,87.679,,,,,,,,,,,20168038,
+213272490,213310972,0,False,residential,Packwood Road,41.76,,,,,,,,,,,20170982,
+213272490,213272526,0,False,residential,,99.811,,,,,,,,,,,20168069,
+213272490,213310988,0,False,residential,Packwood Road,1006.935,,,,,,,,,,,20170982,
+213272526,213272490,0,False,residential,,99.811,,,,,,,,,,,20168069,
+213273013,213275788,0,False,primary,Waterloo Geneva Road,94.192,2,,,,,,,,,,100137898,US 20;NY 5
+213273013,213273029,0,False,residential,,107.401,,,,,,,,,,,20168124,
+213273013,213293867,0,False,primary,Waterloo Geneva Road,434.611,2,,,,,,,,,,100137898,US 20;NY 5
+213273029,213273013,0,False,residential,,107.401,,,,,,,,,,,20168124,
+213273058,213265185,0,False,tertiary,Brewer Road,31.288,,,,,,,,,,,20171052,CR 114
+213273058,213265190,0,False,residential,,120.312,,,,,,,,,,,20168130,
+213273058,213265427,0,False,tertiary,Brewer Road,202.688,,,,,,,,,,,20171052,CR 114
+213273078,213273080,0,False,residential,Ayers,43.143,,,,,,,,,,,20168132,
+213273078,213308573,0,False,residential,Fallbrook Street,93.792,,,,,,,,,,,20171150,
+213273078,213313092,0,False,residential,Fallbrook Street,96.062,,,,,,,,,,,20171150,
+213273078,213317157,0,False,residential,Ayers Place,62.361,,,,,,,,,,,20171511,
+213273080,213273078,0,False,residential,Ayers,43.143,,,,,,,,,,,20168132,
+213273993,213266812,0,False,primary,Waterloo Geneva Road,134.177,2,,,,,,,,,,100137898,US 20;NY 5
+213273993,213274016,0,False,primary,Waterloo Geneva Road,52.872,2,,,,,,,,,,100137898,US 20;NY 5
+213273993,213274016,1,False,residential,,132.132,,,,,,,,,,,20168208,
+213274016,213273993,0,False,primary,Waterloo Geneva Road,52.872,2,,,,,,,,,,100137898,US 20;NY 5
+213274016,213273993,1,False,residential,,132.132,,,,,,,,,,,20168208,
+213274016,213265449,0,False,primary,Waterloo Geneva Road,3.52,2,,,,,,,,,,100137898,US 20;NY 5
+213274444,213315557,0,False,residential,Border City Road,150.662,,,,,,,,,,,20171379,
+213274444,213274449,0,False,residential,,79.596,,,,,,,,,,,20168255,
+213274444,213315620,0,False,residential,Border City Road,360.69,,,,,,,,,,,20171380,
+213274449,213274444,0,False,residential,,79.596,,,,,,,,,,,20168255,
+213275234,213275265,0,True,primary_link,,313.846,1,,,,,,,,,,20168326,
+213275234,213304082,0,True,primary,State Highway 96A,245.855,1,,,,,,,,,,352996768,NY 96A
+213275265,213267649,0,True,primary,Waterloo Geneva Road,121.871,2,,,45 mph,,,,,,,20168829,US 20;NY 5
+213275702,213275706,0,False,residential,,171.837,,,,,,,,,,,20168370,
+213275706,213275702,0,False,residential,,171.837,,,,,,,,,,,20168370,
+213275706,213293904,0,False,primary,Waterloo Geneva Road,1008.343,2,,,,,,,,,,100137898,US 20;NY 5
+213275706,213293876,0,False,primary,Waterloo Geneva Road,83.677,2,,,,,,,,,,100137898,US 20;NY 5
+213275780,213275788,0,False,residential,,116.146,,,,,,,,,,,20168378,
+213275788,213293876,0,False,primary,Waterloo Geneva Road,25.372,2,,,,,,,,,,100137898,US 20;NY 5
+213275788,213273013,0,False,primary,Waterloo Geneva Road,94.192,2,,,,,,,,,,100137898,US 20;NY 5
+213275788,213275780,0,False,residential,,116.146,,,,,,,,,,,20168378,
+213275988,213264951,0,False,residential,,152.139,,,,,,,,,,,"[20168401, 20167346]",
+213276200,213263924,0,False,primary,Waterloo Geneva Road,57.312,2,,,,,,,,,,100137898,US 20;NY 5
+213276200,213263885,0,False,primary,Waterloo Geneva Road,45.08,2,,,,,,,,,,100137898,US 20;NY 5
+213276200,213265432,0,False,residential,,204.223,,,,,,,,,,,20168421,
+213276984,213277032,0,False,residential,,88.983,,,,,,,,,,,20168494,
+213276984,213266153,0,False,residential,,146.459,,,,,,,,,,,20168491,
+213276984,213277038,0,False,residential,,130.321,,,,,,,,,,,20168494,
+213277002,213266153,0,False,residential,,40.269,,,,,,,,,,,20168491,
+213277002,213277038,0,False,primary,Waterloo Geneva Road,86.152,2,,,,,,,,,,100137898,US 20;NY 5
+213277002,213272180,0,False,primary,Waterloo Geneva Road,97.852,2,,,,,,,,,,100137898,US 20;NY 5
+213277032,213276984,0,False,residential,,88.983,,,,,,,,,,,20168494,
+213277038,213264940,0,False,primary,Waterloo Geneva Road,124.253,2,,,,,,,,,,100137898,US 20;NY 5
+213277038,213277002,0,False,primary,Waterloo Geneva Road,86.152,2,,,,,,,,,,100137898,US 20;NY 5
+213277038,213276984,0,False,residential,,130.321,,,,,,,,,,,20168494,
+213277078,213277089,0,False,residential,,203.973,,,,,,,,,,,20168500,
+213277078,213285044,0,False,residential,Maney Road,780.449,,,,,,,,,,,20172738,
+213277078,213310988,0,False,residential,Maney Road,1696.065,,,,,,,,,,,20172738,
+213277089,213277078,0,False,residential,,203.973,,,,,,,,,,,20168500,
+213277535,213264302,0,False,residential,,176.491,,,,,,,,,,,20168541,
+213279999,213280002,0,False,residential,Connecting Road,13.337,,,,,,,,,,,20168688,
+213279999,213284076,0,True,residential,Park Road,116.551,,,,,,,,,,,52285580,
+213280002,213279999,0,False,residential,Connecting Road,13.337,,,,,,,,,,,20168688,
+213280002,213279999,1,True,residential,Park Road,81.478,,,,,,,,,,,"[52285580, 20168973]",
+213280058,213267649,0,False,residential,Connecting Road,13.484,,,,,,,,,,,20168699,
+213280058,213293780,0,True,primary,Waterloo Geneva Road,220.553,2,,,45 mph,,,,,,,33605144,US 20;NY 5
+213281188,213288742,0,False,secondary,State Highway 96,18.12,,,,,,,,,,,20169308,NY 96
+213281188,213281217,0,False,tertiary,Nine Foot Road,1233.748,,,,,,,,,,,20168809,CR 108
+213281188,213288762,0,False,secondary,State Highway 96,1102.229,,,,,,,,,,,20169308,NY 96
+213281217,213281188,0,False,tertiary,Nine Foot Road,1233.748,,,,,,,,,,,20168809,CR 108
+213281217,213288800,0,False,residential,"['Blue Sky Road', 'Dunham Road']",3118.665,,,,,,,,,,,"[20173102, 20171270]",
+213281543,213293780,0,False,primary,State Highway 96A,12.891,2,,,,,,,,,,48840403,NY 96A
+213281543,213304082,0,False,primary,State Highway 96A,19.055,2,,,,,,,,,,48840403,NY 96A
+213281543,213275265,0,True,primary,Waterloo Geneva Road,100.729,2,,,45 mph,,,,,,,20168829,US 20;NY 5
+213281554,213281564,0,True,primary,Waterloo Geneva Road,108.084,2,,,45 mph,,,,,,,20168829,US 20;NY 5
+213281554,213318689,0,False,residential,Cayuga Drive,215.068,,,,,,,,,,,20171641,
+213281554,213293809,0,False,residential,Cayuga Drive,13.937,,,,,,,,,,,20171641,
+213281564,213293820,0,False,primary,Waterloo Geneva Road,25.363,4,,,,,,,,,,33605137,US 20;NY 5
+213281564,213293809,0,True,primary,Waterloo Geneva Road,113.169,2,,,45 mph,,,,,,,33605144,US 20;NY 5
+213281737,213287335,0,False,secondary,North Virginia Street,124.864,,,,,,,,,,,20171488,NY 96
+213281737,213296012,0,False,residential,West William Street,157.11,,,,,,,,,,,20170882,
+213281737,213295777,0,False,secondary,North Virginia Street,126.842,,,,,,,,,,,20171488,NY 96
+213281945,213295477,0,False,secondary,North Virginia Street,223.471,,,,,,,,,,,20171488,NY 96
+213281945,213296023,0,False,residential,West Wright Avenue,194.731,,,,,,,,,,,20171282,
+213282726,212792952,0,False,residential,Sanctuary Lane,140.655,,,,,,,,,,,20168893,
+213282733,212792974,0,False,residential,Sanctuary Lane,694.413,,,,,,,,,,,20168895,
+213283312,213283320,0,False,residential,Stark Street,23.419,,,,,,,,,,,20168940,
+213283312,213283579,0,False,residential,West William Street,202.672,,,,,,,,,,,20170879,
+213283312,213301002,0,False,residential,West William Street,68.635,,,,,,,,,,,20170882,
+213283320,213283333,0,False,residential,Stark Street,118.145,,,,,,,,,,,20168940,
+213283320,213283312,0,False,residential,Stark Street,23.419,,,,,,,,,,,20168940,
+213283320,213299421,0,False,residential,Chestnut Street,150.416,,,,,,,,,,,20171347,
+213283333,213283340,0,False,residential,Stark Street,161.301,,,,,,,,,,,20168940,
+213283333,213283320,0,False,residential,Stark Street,118.145,,,,,,,,,,,20168940,
+213283333,213299421,0,False,residential,West Elisha Street,134.951,,,,,,,,,,,20170146,
+213283340,213283343,0,False,residential,Stark Street,88.254,,,,,,,,,,,20168940,
+213283340,213283333,0,False,residential,Stark Street,161.301,,,,,,,,,,,20168940,
+213283340,213295468,0,False,residential,West Elizabeth Street,220.446,,,,,,,,,,,20169844,
+213283343,213283340,0,False,residential,Stark Street,88.254,,,,,,,,,,,20168940,
+213283343,213283347,0,False,residential,Stark Street,506.715,,,,,,,,,,,20168940,
+213283343,213314337,0,False,residential,West Wright Avenue,302.805,,,,,,,,,,,20171282,
+213283343,213283603,0,False,residential,West Wright Avenue,133.474,,,,,,,,,,,20171282,
+213283347,213283343,0,False,residential,Stark Street,506.715,,,,,,,,,,,20168940,
+213283347,213319485,0,False,residential,Hecker Road,1409.574,,,,,,,,,,,20173081,
+213283577,213283579,0,False,residential,North Seneca Street,130.224,,,,,,,,,,,20168950,
+213283577,213284489,0,False,residential,South Seneca Street,199.763,,,,,,,,,,,20169004,
+213283577,213263327,0,False,primary,West Main Street,142.122,4,,,,,,,,,,20169869,US 20;NY 5
+213283577,213295796,0,False,primary,West Main Street,185.138,4,,,,,,,,,,20169869,US 20;NY 5
+213283579,213283577,0,False,residential,North Seneca Street,130.224,,,,,,,,,,,20168950,
+213283579,213283583,0,False,residential,North Seneca Street,18.624,,,,,,,,,,,20168950,
+213283579,213283312,0,False,residential,West William Street,202.672,,,,,,,,,,,20170879,
+213283579,213263332,0,False,residential,West William Street,140.531,,,,,,,,,,,20170879,
+213283583,213263339,0,False,residential,Railroad Avenue,139.218,,,,,,,,,,,20171832,
+213283583,213283603,0,False,residential,North Seneca Street,305.206,,,,,,,,,,,20168950,
+213283583,213283579,0,False,residential,North Seneca Street,18.624,,,,,,,,,,,20168950,
+213283603,213263353,0,False,residential,West Wright Avenue,128.06,,,,,,,,,,,20171282,
+213283603,213283583,0,False,residential,North Seneca Street,305.206,,,,,,,,,,,20168950,
+213283603,213283343,0,False,residential,West Wright Avenue,133.474,,,,,,,,,,,20171282,
+213283822,213283829,0,False,residential,Park Road,22.271,,,,,,,,,,,20168960,
+213283829,213283885,0,False,residential,Park Road,1111.687,,,,,,,,,,,20168960,
+213283829,213283822,0,False,residential,Park Road,22.271,,,,,,,,,,,20168960,
+213283829,213296299,0,False,residential,East North Street,193.689,,,,,,,,,,,20169919,
+213283885,213283888,0,False,residential,Park Road,77.304,,,,,,,,,,,20168960,
+213283885,213283829,0,False,residential,Park Road,1111.687,,,,,,,,,,,20168960,
+213283888,213283885,0,False,residential,Park Road,77.304,,,,,,,,,,,20168960,
+213284076,213280002,0,True,residential,Park Road,119.961,,,,,,,,,,,20168973,
+213284489,213283577,0,False,residential,South Seneca Street,199.763,,,,,,,,,,,20169004,
+213285003,213316331,0,False,residential,Whispering Pines Lane,92.54,,,,,,,,,,,20171461,
+213285003,213285019,0,False,residential,Steele Road,670.484,,,,,,,,,,,20169044,
+213285003,212793001,0,False,residential,Steele Road,1681.415,,,,,,,,,,,20169044,
+213285019,213285003,0,False,residential,Steele Road,670.484,,,,,,,,,,,20169044,
+213285019,213285044,0,False,residential,Steele Road,520.498,,,,,,,,,,,20169050,
+213285019,213288762,0,False,residential,Bonnell Road,1198.07,,,,,,,,,,,20170868,
+213285044,213285075,0,False,residential,Steele Road,905.771,,,,,,,,,,,20169050,
+213285044,213285019,0,False,residential,Steele Road,520.498,,,,,,,,,,,20169050,
+213285044,213277078,0,False,residential,Maney Road,780.449,,,,,,,,,,,20172738,
+213285075,213285044,0,False,residential,Steele Road,905.771,,,,,,,,,,,20169050,
+213285075,213288742,0,False,residential,Edwards Road,1086.804,,,,,,,,,,,20172835,
+213285075,213333617,0,False,residential,Edwards Road,946.597,,,,,,,,,,,20172835,
+213285384,213305246,0,False,secondary,South Virginia Street,39.711,,,,,,,,,,,20170737,NY 96
+213287335,213281737,0,False,secondary,North Virginia Street,124.864,,,,,,,,,,,20171488,NY 96
+213287335,213296019,0,False,residential,West Elisha Street,192.229,,,,,,,,,,,20170146,
+213287335,213295477,0,False,secondary,North Virginia Street,130.735,,,,,,,,,,,20171488,NY 96
+213288742,213281188,0,False,secondary,State Highway 96,18.12,,,,,,,,,,,20169308,NY 96
+213288742,213285075,0,False,residential,Edwards Road,1086.804,,,,,,,,,,,20172835,
+213288762,213288800,0,False,secondary,State Highway 96,1277.694,,,,,,,,,,,20169308,NY 96
+213288762,213281188,0,False,secondary,State Highway 96,1102.229,,,,,,,,,,,20169308,NY 96
+213288762,213285019,0,False,residential,Bonnell Road,1198.07,,,,,,,,,,,20170868,
+213288800,213288824,0,False,secondary,State Highway 96,378.943,,,,,,,,,,,20169308,NY 96
+213288800,213288762,0,False,secondary,State Highway 96,1277.694,,,,,,,,,,,20169308,NY 96
+213288800,213281217,0,False,residential,"['Blue Sky Road', 'Dunham Road']",3118.665,,,,,,,,,,,"[20173102, 20171270]",
+213288824,213288843,0,False,secondary,State Highway 96,351.296,,,,,,,,,,,20169308,NY 96
+213288824,213288800,0,False,secondary,State Highway 96,378.943,,,,,,,,,,,20169308,NY 96
+213288824,213292816,0,False,tertiary,Millard Road,191.259,,,,,,,,,,,20170462,
+213288843,212793037,0,False,secondary,State Highway 96,450.149,,,,,,,,,,,20169308,NY 96
+213288843,213288824,0,False,secondary,State Highway 96,351.296,,,,,,,,,,,20169308,NY 96
+213288843,213292816,0,False,residential,Millard Road Spur,192.608,,,,,,,,,,,20169638,
+213292816,213288843,0,False,residential,Millard Road Spur,192.608,,,,,,,,,,,20169638,
+213292816,213288824,0,False,tertiary,Millard Road,191.259,,,,,,,,,,,20170462,
+213292816,212793031,0,False,tertiary,Millard Road,455.042,,,,,,,,,,,20170462,
+213293231,213293234,0,False,residential,Wagner Street,18.341,,,,,,,,,,,20169692,
+213293234,213293231,0,False,residential,Wagner Street,18.341,,,,,,,,,,,20169692,
+213293234,213293239,0,False,residential,Wagner Street,92.745,,,,,,,,,,,20169692,
+213293234,213300568,0,False,residential,Owasco Drive,250.608,,,,,,,,,,,20170810,
+213293239,213267556,0,False,residential,Wagner Street,132.317,,,,,,,,,,,20169692,
+213293239,213293234,0,False,residential,Wagner Street,92.745,,,,,,,,,,,20169692,
+213293239,213300565,0,False,residential,Seneca Boulevard,285.164,,,,,,,,,,,20170704,
+213293280,213267556,0,False,residential,Wagner Street,410.127,,,,,,,,,,,20169692,
+213293780,213281543,0,False,primary,State Highway 96A,12.891,2,,,,,,,,,,48840403,NY 96A
+213293780,1530433195,0,False,tertiary,,524.187,,,,,,,,,,,139632140,
+213293809,213281554,0,False,residential,Cayuga Drive,13.937,,,,,,,,,,,20171641,
+213293809,213280058,0,True,primary,Waterloo Geneva Road,65.514,2,,,45 mph,,,,,,,33605144,US 20;NY 5
+213293820,213281564,0,False,primary,Waterloo Geneva Road,25.363,4,,,,,,,,,,33605137,US 20;NY 5
+213293820,213298307,0,False,residential,Lincoln Avenue,190.033,,,,,,,,,,,20170064,
+213293820,213293825,0,False,primary,Waterloo Geneva Road,51.566,4,,,,,,,,,,33605137,US 20;NY 5
+213293825,213318689,0,False,residential,Cayuga Drive,119.895,,,,,,,,,,,20171639,
+213293825,213293836,0,False,primary,Waterloo Geneva Road,108.676,4,,,,,,,,,,33605137,US 20;NY 5
+213293825,213293820,0,False,primary,Waterloo Geneva Road,51.566,4,,,,,,,,,,33605137,US 20;NY 5
+213293836,213307466,0,False,residential,Seneca Boulevard,127.672,,,,,,,,,,,20170704,
+213293836,213315529,0,False,tertiary,Border City Road,34.29,,,,,,,,,,,20171378,
+213293836,213293849,0,False,primary,Waterloo Geneva Road,303.755,"['4', '2']",,,,,,,,,,"[33605137, 100137898, 121772755]",US 20;NY 5
+213293836,213293825,0,False,primary,Waterloo Geneva Road,108.676,4,,,,,,,,,,33605137,US 20;NY 5
+213293849,213293853,0,False,primary,Waterloo Geneva Road,40.219,2,,,,,,,,,,100137898,US 20;NY 5
+213293849,213316295,0,False,residential,East Avenue,35.163,,,,,,,,,,,20171451,
+213293849,213293836,0,False,primary,Waterloo Geneva Road,303.755,"['4', '2']",,,,,,,,,,"[33605137, 100137898, 121772755]",US 20;NY 5
+213293853,213293849,0,False,primary,Waterloo Geneva Road,40.219,2,,,,,,,,,,100137898,US 20;NY 5
+213293853,213316295,0,False,residential,East Avenue,38.915,,,,,,,,,,,20171453,
+213293853,213293867,0,False,primary,Waterloo Geneva Road,1286.805,2,,,,,,,,,,100137898,US 20;NY 5
+213293867,213263928,0,False,residential,Harbour Lane,110.163,,,,,,,,,,,20170609,
+213293867,213273013,0,False,primary,Waterloo Geneva Road,434.611,2,,,,,,,,,,100137898,US 20;NY 5
+213293867,213293853,0,False,primary,Waterloo Geneva Road,1286.805,2,,,,,,,,,,100137898,US 20;NY 5
+213293876,213275788,0,False,primary,Waterloo Geneva Road,25.372,2,,,,,,,,,,100137898,US 20;NY 5
+213293876,213310972,0,False,residential,Packwood Road,128.966,,,,,,,,,,,20170982,
+213293876,213275706,0,False,primary,Waterloo Geneva Road,83.677,2,,,,,,,,,,100137898,US 20;NY 5
+213293904,213263885,0,False,primary,Waterloo Geneva Road,17.798,2,,,,,,,,,,100137898,US 20;NY 5
+213293904,213265427,0,False,tertiary,Brewer Road,222.599,,,,,,,,,,,20171052,CR 114
+213293904,213275706,0,False,primary,Waterloo Geneva Road,1008.343,2,,,,,,,,,,100137898,US 20;NY 5
+213293916,213293921,0,False,primary,Waterloo Geneva Road,24.022,2,,,,,,,,,,100137898,US 20;NY 5
+213293916,213263662,0,False,residential,Reed Road,356.834,,,,,,,,,,,20171710,
+213293916,213264940,0,False,primary,Waterloo Geneva Road,265.767,2,,,,,,,,,,100137898,US 20;NY 5
+213293921,213293922,0,False,primary,Waterloo Geneva Road,158.061,2,,,,,,,,,,100137898,US 20;NY 5
+213293921,213293916,0,False,primary,Waterloo Geneva Road,24.022,2,,,,,,,,,,100137898,US 20;NY 5
+213293921,213307722,0,False,residential,Breen Lane,219.903,,,,,,,,,,,20170725,
+213293922,213293921,0,False,primary,Waterloo Geneva Road,158.061,2,,,,,,,,,,100137898,US 20;NY 5
+213293922,213307730,0,False,residential,Breen Lane,232.154,,,,,,,,,,,20170727,
+213293922,213264333,0,False,primary,Waterloo Geneva Road,640.511,2,,,,,,,,,,100137898,US 20;NY 5
+213295468,213295470,0,False,residential,West Elizabeth Street,195.852,,,,,,,,,,,20169844,
+213295468,213299421,0,False,residential,Chestnut Street,131.419,,,,,,,,,,,20171347,
+213295468,213283340,0,False,residential,West Elizabeth Street,220.446,,,,,,,,,,,20169844,
+213295468,213314338,0,False,residential,Chestnut Street,220.307,,,,,,,,,,,20171347,
+213295470,213295468,0,False,residential,West Elizabeth Street,195.852,,,,,,,,,,,20169844,
+213295470,213296019,0,False,residential,Center Street,130.787,,,,,,,,,,,20169897,
+213295470,213295477,0,False,residential,West Elizabeth Street,195.205,,,,,,,,,,,20169844,
+213295470,213296023,0,False,residential,Center Street,221.79,,,,,,,,,,,20169897,
+213295477,213281945,0,False,secondary,North Virginia Street,223.471,,,,,,,,,,,20171488,NY 96
+213295477,213295470,0,False,residential,West Elizabeth Street,195.205,,,,,,,,,,,20169844,
+213295477,213287335,0,False,secondary,North Virginia Street,130.735,,,,,,,,,,,20171488,NY 96
+213295777,213295791,0,False,primary,West Main Street,283.448,4,,,,,,,,,,20169869,US 20;NY 5
+213295777,213305246,0,False,secondary,South Virginia Street,92.548,,,,,,,,,,,20170737,NY 96
+213295777,213281737,0,False,secondary,North Virginia Street,126.842,,,,,,,,,,,20171488,NY 96
+213295791,213295796,0,False,primary,West Main Street,79.831,4,,,,,,,,,,20169869,US 20;NY 5
+213295791,213295777,0,False,primary,West Main Street,283.448,4,,,,,,,,,,20169869,US 20;NY 5
+213295791,213301002,0,False,residential,Park Place,111.667,,,,,,,,,,,20170276,
+213295791,213268785,0,False,residential,Locust Street,303.015,,,,,,,,,,,284503045,
+213295796,213283577,0,False,primary,West Main Street,185.138,4,,,,,,,,,,20169869,US 20;NY 5
+213295796,213295791,0,False,primary,West Main Street,79.831,4,,,,,,,,,,20169869,US 20;NY 5
+213295803,213337065,0,False,residential,West Street,251.19,,,,,,,,,,,20173131,
+213295803,213295814,0,False,primary,West Main Street,127.169,4,,,,,,,,,,20169869,US 20;NY 5
+213295803,213263327,0,False,primary,West Main Street,138.386,4,,,,,,,,,,20169869,US 20;NY 5
+213295814,213264842,0,False,primary,"['West Main Street', 'Waterloo Geneva Road']",231.13,"['4', '2']",,,,,,,,,,"[100137898, 121772756, 20169869]",US 20;NY 5
+213295814,213295803,0,False,primary,West Main Street,127.169,4,,,,,,,,,,20169869,US 20;NY 5
+213295814,213296507,0,False,residential,Reed Street,237.544,,,,,,,,,,,20169944,
+213296012,213296019,0,False,residential,Center Street,88.176,,,,,,,,,,,20169897,
+213296012,213281737,0,False,residential,West William Street,157.11,,,,,,,,,,,20170882,
+213296012,213301002,0,False,residential,West William Street,201.004,,,,,,,,,,,20170882,
+213296019,213295470,0,False,residential,Center Street,130.787,,,,,,,,,,,20169897,
+213296019,213296012,0,False,residential,Center Street,88.176,,,,,,,,,,,20169897,
+213296019,213299421,0,False,residential,West Elisha Street,196.468,,,,,,,,,,,20170146,
+213296019,213287335,0,False,residential,West Elisha Street,192.229,,,,,,,,,,,20170146,
+213296023,213314338,0,False,residential,West Wright Avenue,195.607,,,,,,,,,,,20171282,
+213296023,213295470,0,False,residential,Center Street,221.79,,,,,,,,,,,20169897,
+213296023,213281945,0,False,residential,West Wright Avenue,194.731,,,,,,,,,,,20171282,
+213296299,213283829,0,False,residential,East North Street,193.689,,,,,,,,,,,20169919,
+213296507,213295814,0,False,residential,Reed Street,237.544,,,,,,,,,,,20169944,
+213298307,213307702,0,False,residential,Seeley Road,23.544,,,,,,,,,,,20171373,
+213298307,213293820,0,False,residential,Lincoln Avenue,190.033,,,,,,,,,,,20170064,
+213298307,213307674,0,False,residential,Seeley Road,69.402,,,,,,,,,,,20171373,
+213299421,213295468,0,False,residential,Chestnut Street,131.419,,,,,,,,,,,20171347,
+213299421,213283333,0,False,residential,West Elisha Street,134.951,,,,,,,,,,,20170146,
+213299421,213296019,0,False,residential,West Elisha Street,196.468,,,,,,,,,,,20170146,
+213299421,213283320,0,False,residential,Chestnut Street,150.416,,,,,,,,,,,20171347,
+213300565,213300568,0,False,residential,Canandaigua Drive,109.734,,,,,,,,,,,20170240,
+213300565,213307466,0,False,residential,Seneca Boulevard,168.674,,,,,,,,,,,20170704,
+213300565,213293239,0,False,residential,Seneca Boulevard,285.164,,,,,,,,,,,20170704,
+213300568,213300565,0,False,residential,Canandaigua Drive,109.734,,,,,,,,,,,20170240,
+213300568,213308667,0,False,residential,Owasco Drive,168.136,,,,,,,,,,,20170810,
+213300568,213293234,0,False,residential,Owasco Drive,250.608,,,,,,,,,,,20170810,
+213301002,213295791,0,False,residential,Park Place,111.667,,,,,,,,,,,20170276,
+213301002,213296012,0,False,residential,West William Street,201.004,,,,,,,,,,,20170882,
+213301002,213283312,0,False,residential,West William Street,68.635,,,,,,,,,,,20170882,
+213303764,212792988,0,False,residential,Serenity Drive,103.784,,,,,,,,,,,20170501,
+213303764,213303772,0,False,residential,Serenity Drive,108.198,,,,,,,,,,,20170499,
+213303764,213303782,0,False,residential,Serenity Drive,90.813,,,,,,,,,,,20170501,
+213303772,213303764,0,False,residential,Serenity Drive,108.198,,,,,,,,,,,20170499,
+213303782,213303764,0,False,residential,Serenity Drive,90.813,,,,,,,,,,,20170501,
+213304082,213281543,0,False,primary,State Highway 96A,19.055,2,,,,,,,,,,48840403,NY 96A
+213304082,213267442,0,True,primary,State Highway 96A,282.292,1,,,,,,,,,,48840397,NY 96A
+213305246,213285384,0,False,secondary,South Virginia Street,39.711,,,,,,,,,,,20170737,NY 96
+213305246,213268785,0,False,residential,West Water Street,299.132,,,,,,,,,,,20170578,
+213305246,213295777,0,False,secondary,South Virginia Street,92.548,,,,,,,,,,,20170737,NY 96
+213305573,213305590,0,False,residential,Harbour Lane,118.199,,,,,,,,,,,20170607,
+213305590,213305603,0,False,residential,Harbour Lane,74.327,,,,,,,,,,,20170607,
+213305590,213305603,1,False,residential,Harbor Lane,125.105,,,,,,,,,,,20172355,
+213305590,213305573,0,False,residential,Harbour Lane,118.199,,,,,,,,,,,20170607,
+213305603,213263928,0,False,residential,Harbour Lane,478.585,,,,,,,,,,,20170607,
+213305603,213305590,0,False,residential,Harbour Lane,74.327,,,,,,,,,,,20170607,
+213305603,213305590,1,False,residential,Harbor Lane,125.105,,,,,,,,,,,20172355,
+213305913,213264951,0,False,tertiary,Border City Road,72.454,,,,,,,,,,,100137911,
+213305913,1530433195,0,False,tertiary,Border City Road,173.559,,,,,,,,,,,100137911,
+213305913,213305982,0,False,residential,Welch Road,1195.251,,,,,,,,,,,20170627,
+213305982,213305913,0,False,residential,Welch Road,1195.251,,,,,,,,,,,20170627,
+213307466,213293836,0,False,residential,Seneca Boulevard,127.672,,,,,,,,,,,20170704,
+213307466,213300565,0,False,residential,Seneca Boulevard,168.674,,,,,,,,,,,20170704,
+213307466,213308667,0,False,residential,Cayuga Drive,107.15,,,,,,,,,,,20171641,
+213307466,213318689,0,False,residential,Cayuga Drive,60.809,,,,,,,,,,,20171641,
+213307674,213307702,0,False,residential,Lakeshore Drive,444.279,,,,,,,,,,,20170723,
+213307674,213298307,0,False,residential,Seeley Road,69.402,,,,,,,,,,,20171373,
+213307674,213315479,0,False,residential,Seeley Road,127.657,,,,,,,,,,,20171373,
+213307702,213298307,0,False,residential,Seeley Road,23.544,,,,,,,,,,,20171373,
+213307702,213307674,0,False,residential,Lakeshore Drive,444.279,,,,,,,,,,,20170723,
+213307702,213315493,0,False,residential,Seeley Road,91.402,,,,,,,,,,,20171373,
+213307722,213293921,0,False,residential,Breen Lane,219.903,,,,,,,,,,,20170725,
+213307730,213293922,0,False,residential,Breen Lane,232.154,,,,,,,,,,,20170727,
+213308571,213308573,0,False,residential,Ditmars Street,45.894,,,,,,,,,,,20170792,
+213308573,213308571,0,False,residential,Ditmars Street,45.894,,,,,,,,,,,20170792,
+213308573,213273078,0,False,residential,Fallbrook Street,93.792,,,,,,,,,,,20171150,
+213308573,213308578,0,False,residential,Ditmars Street,68.624,,,,,,,,,,,20170792,
+213308573,212786586,0,False,residential,"['Moore Street', 'Fallbrook Street']",341.416,,,,,,,,,,,"[20171131, 20171150]",
+213308578,213308573,0,False,residential,Ditmars Street,68.624,,,,,,,,,,,20170792,
+213308667,213318729,0,False,residential,Cayuga Drive,74.187,,,,,,,,,,,20171641,
+213308667,213300568,0,False,residential,Owasco Drive,168.136,,,,,,,,,,,20170810,
+213308667,213307466,0,False,residential,Cayuga Drive,107.15,,,,,,,,,,,20171641,
+213310972,213272490,0,False,residential,Packwood Road,41.76,,,,,,,,,,,20170982,
+213310972,213293876,0,False,residential,Packwood Road,128.966,,,,,,,,,,,20170982,
+213310972,213333617,0,False,residential,Edwards Road,1910.611,,,,,,,,,,,20172835,
+213310988,213311011,0,False,residential,Packwood Road,1463.16,,,,,,,,,,,20170982,
+213310988,213272490,0,False,residential,Packwood Road,1006.935,,,,,,,,,,,20170982,
+213310988,213277078,0,False,residential,Maney Road,1696.065,,,,,,,,,,,20172738,
+213311011,212782159,0,False,residential,Packwood Road,1286.103,,,,,,,,,,,20170982,
+213311011,213310988,0,False,residential,Packwood Road,1463.16,,,,,,,,,,,20170982,
+213311011,213315529,0,False,residential,Serven Road,2485.551,,,,,,,,,,,"[139892651, 20172886]",
+213312018,213265185,0,False,tertiary,Brewer Road,1171.581,,,,,,,,,,,20171052,CR 114
+213312018,213333617,0,False,residential,Hecker Road,873.687,,,,,,,,,,,20173081,
+213312018,213319485,0,False,residential,Hecker Road,1234.417,,,,,,,,,,,20173081,
+213313092,213273078,0,False,residential,Fallbrook Street,96.062,,,,,,,,,,,20171150,
+213313092,212781359,0,False,tertiary,Border City Road,233.213,,,,,,,,,,,100137911,
+213313092,213315557,0,False,tertiary,Border City Road,512.886,,,,,,,,,,,100137911,
+213313569,213316295,0,False,residential,"['East Avenue', 'Bates Avenue']",641.054,,,,,,,,,,,"[20171451, 20171190]",
+213313569,213313569,0,False,residential,Bates Avenue,72.282,,,,,,,,,,,20171196,
+213313569,213313569,1,False,residential,Bates Avenue,72.282,,,,,,,,,,,20171196,
+213314300,213263353,0,False,residential,West Wright Avenue,290.064,,,,,,,,,,,20171282,
+213314300,213265557,0,False,residential,West Wright Avenue,268.707,,,,,,,,,,,"[20171282, 20167387]",
+213314300,213314357,0,False,residential,West Wright Avenue,546.496,,,,,,,,,,,20171289,
+213314337,213314338,0,False,residential,West Wright Avenue,5.304,,,,,,,,,,,20171282,
+213314337,213283343,0,False,residential,West Wright Avenue,302.805,,,,,,,,,,,20171282,
+213314338,213296023,0,False,residential,West Wright Avenue,195.607,,,,,,,,,,,20171282,
+213314338,213314337,0,False,residential,West Wright Avenue,5.304,,,,,,,,,,,20171282,
+213314338,213295468,0,False,residential,Chestnut Street,220.307,,,,,,,,,,,20171347,
+213314357,213314300,0,False,residential,West Wright Avenue,546.496,,,,,,,,,,,20171289,
+213315479,213307674,0,False,residential,Seeley Road,127.657,,,,,,,,,,,20171373,
+213315493,213307702,0,False,residential,Seeley Road,91.402,,,,,,,,,,,20171373,
+213315493,1530433195,0,False,tertiary,Border City Road,366.568,,,,,,,,,,,100137911,
+213315493,213315529,0,False,tertiary,Border City Road,285.065,,,,,,,,,,,"[20171378, 100137911]",
+213315529,213315493,0,False,tertiary,Border City Road,285.065,,,,,,,,,,,"[20171378, 100137911]",
+213315529,213293836,0,False,tertiary,Border City Road,34.29,,,,,,,,,,,20171378,
+213315529,213311011,0,False,residential,Serven Road,2485.551,,,,,,,,,,,"[139892651, 20172886]",
+213315557,213274444,0,False,residential,Border City Road,150.662,,,,,,,,,,,20171379,
+213315557,213313092,0,False,tertiary,Border City Road,512.886,,,,,,,,,,,100137911,
+213315557,213264951,0,False,tertiary,Border City Road,252.154,,,,,,,,,,,100137911,
+213315620,213274444,0,False,residential,Border City Road,360.69,,,,,,,,,,,20171380,
+213316295,213293849,0,False,residential,East Avenue,35.163,,,,,,,,,,,20171451,
+213316295,213313569,0,False,residential,"['East Avenue', 'Bates Avenue']",641.054,,,,,,,,,,,"[20171451, 20171190]",
+213316295,213293853,0,False,residential,East Avenue,38.915,,,,,,,,,,,20171453,
+213316326,212786596,0,False,residential,Russell Street,91.442,,,,,,,,,,,20171458,
+213316331,213285003,0,False,residential,Whispering Pines Lane,92.54,,,,,,,,,,,20171461,
+213316331,213316331,0,False,residential,Whispering Pines Lane,135.816,,,,,,,,,,,20171461,
+213316331,213316331,1,False,residential,Whispering Pines Lane,135.816,,,,,,,,,,,20171461,
+213317157,213273078,0,False,residential,Ayers Place,62.361,,,,,,,,,,,20171511,
+213318689,213293825,0,False,residential,Cayuga Drive,119.895,,,,,,,,,,,20171639,
+213318689,213307466,0,False,residential,Cayuga Drive,60.809,,,,,,,,,,,20171641,
+213318689,213281554,0,False,residential,Cayuga Drive,215.068,,,,,,,,,,,20171641,
+213318729,213308667,0,False,residential,Cayuga Drive,74.187,,,,,,,,,,,20171641,
+213319485,213263662,0,False,residential,Reed Road,892.443,,,,,,,,,,,20171710,
+213319485,213312018,0,False,residential,Hecker Road,1234.417,,,,,,,,,,,20173081,
+213319485,213283347,0,False,residential,Hecker Road,1409.574,,,,,,,,,,,20173081,
+213320679,213263339,0,False,residential,Railroad Avenue,95.056,,,,,,,,,,,20171832,
+213333617,213285075,0,False,residential,Edwards Road,946.597,,,,,,,,,,,20172835,
+213333617,213310972,0,False,residential,Edwards Road,1910.611,,,,,,,,,,,20172835,
+213333617,213312018,0,False,residential,Hecker Road,873.687,,,,,,,,,,,20173081,
+213337065,213295803,0,False,residential,West Street,251.19,,,,,,,,,,,20173131,
+1530433195,213305913,0,False,tertiary,Border City Road,173.559,,,,,,,,,,,100137911,
+1530433195,213315493,0,False,tertiary,Border City Road,366.568,,,,,,,,,,,100137911,
+1530433195,213293780,0,False,tertiary,,524.187,,,,,,,,,,,139632140,

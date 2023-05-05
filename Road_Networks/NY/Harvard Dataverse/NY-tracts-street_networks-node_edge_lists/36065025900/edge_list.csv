@@ -1,0 +1,65 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+212840137,212840160,0,False,residential,2nd Avenue,64.879,,,,,,,,,,,20142508,
+212840137,212840160,1,False,residential,,238.165,,,,,,,,,,,20129596,
+212840137,212979230,0,False,residential,2nd Avenue,137.779,,,,,,,,,,,20142508,
+212840160,212840137,0,False,residential,2nd Avenue,64.879,,,,,,,,,,,20142508,
+212840160,212840137,1,False,residential,,238.165,,,,,,,,,,,20129596,
+212840160,212840224,0,False,residential,,467.79,,,,,,,,,,,20129596,
+212840224,212840160,0,False,residential,,467.79,,,,,,,,,,,20129596,
+212853324,212883327,0,False,residential,Campus Drive,177.306,,,,,,,,,,,20149358,
+212853324,212853349,0,False,residential,,438.376,,,,,,,,,,,20130805,
+212853324,213090975,0,False,residential,Campus Drive,81.767,,,,,,,,,,,20149359,
+212853349,212853324,0,False,residential,,438.376,,,,,,,,,,,20130805,
+212857082,213040777,0,True,trunk,Rome Oneida Road,60.466,2,,,,,,,,,,20152798,NY 365
+212857082,212857070,0,True,trunk_link,,86.41,1,,,,,,,,,,20131192,
+212857084,212857082,0,True,trunk_link,,47.822,1,,,,,,,,,,20131192,
+212857084,212876908,0,True,trunk_link,Henderberg Road,65.535,1,,,,,,,,,,48210085,NY 26
+212857093,212857084,0,True,trunk_link,,57.42,1,,,,,,,,,,20131192,
+212857093,213040695,0,True,trunk_link,Henderberg Road,189.569,1,,,,,,,,,,20146105,NY 26
+212876908,213040732,0,True,trunk_link,Henderberg Road,136.936,1,,,,,,,,,,48210085,NY 26
+212876932,212876908,0,True,trunk_link,,144.071,1,,,,,,,,,,20133021,
+212876932,212857082,0,True,trunk,Rome Oneida Road,77.016,2,,,,,,,,,,20152798,NY 365
+212883319,212883327,0,False,residential,,70.554,,,,,,,,,,,20133713,
+212883327,212853324,0,False,residential,Campus Drive,177.306,,,,,,,,,,,20149358,
+212883327,212883319,0,False,residential,,70.554,,,,,,,,,,,20133713,
+212883327,212885542,0,False,residential,Campus Drive,183.71,,,,,,,,,,,"[20133922, 20149358]",
+212885542,212883327,0,False,residential,Campus Drive,183.71,,,,,,,,,,,"[20133922, 20149358]",
+212890422,212979230,0,False,residential,2nd Avenue,13.464,,,,,,,,,,,20142508,
+212890422,212890422,0,False,residential,"['2nd Avenue', '1st Street']",378.126,,,,,,,,,,,"[20137512, 20134449, 20142508, 20130333]",
+212890422,212890422,1,False,residential,"['2nd Avenue', '1st Street']",378.126,,,,,,,,,,,"[20137512, 20134449, 20142508, 20130333]",
+212916916,212916977,0,False,residential,School Road,490.433,,,,,,,,,,,20136678,
+212916916,213090830,0,False,residential,Campus Drive,148.693,,,,,,,,,,,20149352,
+212916977,213040751,0,False,secondary,Henderberg Road,38.339,,,,,,,,,,,20146111,NY 26
+212916977,212916916,0,False,residential,School Road,490.433,,,,,,,,,,,20136678,
+212916977,213040732,0,False,secondary,Henderberg Road,90.01,,,,,,,,,,,20146111,NY 26
+212928617,212928620,0,False,residential,1st Street,30.464,,,,,,,,,,,20137543,
+212928620,212928617,0,False,residential,1st Street,30.464,,,,,,,,,,,20137543,
+212928620,212979230,0,False,residential,"['3rd Avenue', 'Campus Drive', '1st Street', 'Walsh Drive']",489.829,,,,,,,,,,,"[20137550, 20133711, 20149361, 20141173, 20149530]",
+212928620,213090830,0,False,residential,Campus Drive,72.444,,,,,,,,,,,20149352,
+212949313,213040749,0,False,secondary,"['Henderberg Road', 'State Highway 26']",1304.09,,,,,,,,,,,"[20138920, 20146113, 20138941, 20146111]",NY 26
+212949313,212979255,0,False,residential,Walsh Drive,190.025,,,,,,,,,,,20141176,
+212979230,212840137,0,False,residential,2nd Avenue,137.779,,,,,,,,,,,20142508,
+212979230,212890422,0,False,residential,2nd Avenue,13.464,,,,,,,,,,,20142508,
+212979230,212928620,0,False,residential,"['Campus Drive', '3rd Avenue', 'Walsh Drive', '1st Street']",489.829,,,,,,,,,,,"[20137550, 20133711, 20149361, 20141173, 20149530]",
+212979255,212949313,0,False,residential,Walsh Drive,190.025,,,,,,,,,,,20141176,
+213040732,212857093,0,True,trunk_link,Henderberg Road,145.879,1,,,,,,,,,,20146105,NY 26
+213040732,212916977,0,False,secondary,Henderberg Road,90.01,,,,,,,,,,,20146111,NY 26
+213040749,213040751,0,False,secondary,Henderberg Road,47.88,,,,,,,,,,,20146111,NY 26
+213040749,212949313,0,False,secondary,"['Henderberg Road', 'State Highway 26']",1304.09,,,,,,,,,,,"[20138920, 20146113, 20138941, 20146111]",NY 26
+213040749,213085833,0,False,tertiary_link,Old Oneida Road,45.867,,,,,,,,,,,20149060,
+213040751,212916977,0,False,secondary,Henderberg Road,38.339,,,,,,,,,,,20146111,NY 26
+213040751,213040749,0,False,secondary,Henderberg Road,47.88,,,,,,,,,,,20146111,NY 26
+213040751,213085833,0,False,tertiary,Old Oneida Road,43.863,,,,,,,,,,,20149055,CR 83
+213040777,213040695,0,True,trunk,Rome Oneida Road,107.988,2,,,,,,,,,,20152798,NY 365
+213040777,212857084,0,True,trunk_link,Henderberg Road,61.113,1,,,,,,,,,,48210085,NY 26
+213040788,213040777,0,True,trunk_link,Henderberg Road,115.46,1,,,,,,,,,,48210085,NY 26
+213040788,212857070,0,True,trunk,Rome Oneida Road,228.705,2,,,,,,,,,,48229391,NY 365
+213085833,213040751,0,False,tertiary,Old Oneida Road,43.863,,,,,,,,,,,20149055,CR 83
+213085833,213040749,0,False,tertiary_link,Old Oneida Road,45.867,,,,,,,,,,,20149060,
+213090830,212928620,0,False,residential,Campus Drive,72.444,,,,,,,,,,,20149352,
+213090830,212916916,0,False,residential,Campus Drive,148.693,,,,,,,,,,,20149352,
+213090830,213106194,0,False,residential,Greenberg Lane,88.229,,,,,,,,,,,20150267,
+213090975,212853324,0,False,residential,Campus Drive,81.767,,,,,,,,,,,20149359,
+213090975,213090975,0,False,residential,Campus Drive,105.572,,,,,,,,,,,20149364,
+213090975,213090975,1,False,residential,Campus Drive,105.572,,,,,,,,,,,20149364,
+213106194,213090830,0,False,residential,Greenberg Lane,88.229,,,,,,,,,,,20150267,

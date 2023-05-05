@@ -1,0 +1,14 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+42731033,1396352602,0,False,primary,West Fordham Road,81.01,,,,,,,,,,,548193561,
+42776140,1396352602,0,False,residential,Hampden Place,133.627,,,,,,,,,,,5699181,
+595749116,1764747393,0,True,motorway_link,,419.334,,,,,,,,,,,46619128,
+595750842,595749116,0,True,motorway,Major Deegan Expressway,271.991,3,,,50 mph,,,,,,,587061852,I 87
+1396352602,42776140,0,False,residential,Hampden Place,133.627,,,,,,,,,,,5699181,
+1396352602,42731033,0,False,primary,West Fordham Road,81.01,,,,,,,,,,,548193561,
+1764746685,1764747387,0,True,primary,West Fordham Road,17.63,,,,,,,yes,,,,164877225,
+1764747381,1764747390,0,True,motorway_link,,21.943,,,,,,,yes,,,,175473435,
+1764747381,1764747393,0,True,primary,West Fordham Road,44.376,,,,,,,yes,,,,"[421833864, 164877225, 421833862]",
+1764747387,1764747381,0,True,primary,West Fordham Road,22.384,,,,,,,yes,,,,164877225,
+1764747387,1764747390,0,True,motorway_link,,30.778,,,,,,,yes,,,,164877226,
+1764747390,42749265,0,True,motorway_link,,252.402,,,,,,,yes,,,,"[175473435, 175473412]",
+1764747393,42731033,0,True,primary,West Fordham Road,65.618,,,,,,,,,,,164877224,

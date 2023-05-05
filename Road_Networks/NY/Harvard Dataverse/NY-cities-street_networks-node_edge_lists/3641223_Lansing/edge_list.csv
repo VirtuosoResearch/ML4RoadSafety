@@ -1,0 +1,289 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+213410492,213457012,0,False,residential,Uptown Road,419.533,,,,,,,,,,,"[69200096, 539908399]",
+213410492,213463980,0,False,residential,"['Sheraton Drive', 'Cinema Drive', 'Uptown Road']",1427.56,,,,30 mph,,,,,,,"[69200096, 20191553, 20192132, 20187079, 495695157]",
+213411640,213425004,0,True,motorway,NY 13,387.302,2,,,55 mph,,,,,,,345094113,NY 13
+213411653,213411640,0,True,motorway_link,,437.225,,,,,,,,,,,345094112,
+213411656,4873078448,0,False,tertiary,North Triphammer Road,60.202,,,,30 mph,,,,,,,45405930,CR 122
+213411656,213415434,0,False,tertiary,North Triphammer Road,104.397,,,,30 mph,,,yes,,,,"[345094104, 45405930, 45405932]",CR 122
+213411656,213411653,0,True,motorway_link,,52.745,,,,,,,,,,,497473425,
+213411669,213411656,0,True,motorway_link,,414.39,"['1', '2']",,,,,,,,,,"[497473426, 20181339]",
+213411669,213411640,0,True,motorway,NY 13,899.807,2,,,55 mph,,,,,,,51756787,NY 13
+213413034,213444214,0,False,secondary,East Shore Drive,150.478,2,,,45 mph,,,,,,,205387267,NY 34
+213415414,213415434,0,True,motorway_link,,413.961,"['1', '2']",,,,,,,,,,"[20181884, 495566542]",
+213415414,213415456,0,True,motorway,State Highway 13,994.938,2,,,55 mph,,,,,,,345094102,NY 13
+213415434,213431813,0,False,tertiary,North Triphammer Road,60.545,4,,,30 mph,,,,,,,495566541,
+213415434,213415439,0,True,motorway_link,,33.729,,,,,,,,,,,345094103,
+213415434,213411656,0,False,tertiary,North Triphammer Road,104.397,,,,30 mph,,,yes,,,,"[345094104, 45405930, 45405932]",CR 122
+213415439,213415456,0,True,motorway_link,,551.959,,,,,,,,,,,345094103,
+213415456,213435102,0,True,motorway,State Highway 13,764.995,"['3', '2', '4']",,,55 mph,,,,,,,"[498620368, 345094102, 498620367]",NY 13
+213415482,213415414,0,True,motorway,State Highway 13,535.303,2,,,55 mph,,,,,,,240573863,NY 13
+213415517,213415593,0,False,tertiary,Cayuga Heights Road,21.242,,,,,,,,,,,20191834,
+213415517,213415482,0,True,motorway_link,,444.842,,,,,,,,,,,20181889,
+213415525,213415593,0,True,motorway_link,,321.651,,,,,,,,,,,20181896,
+213415525,213415482,0,True,motorway,State Highway 13,346.09,2,,,55 mph,,,,,,,240573863,NY 13
+213415593,213415517,0,False,tertiary,Cayuga Heights Road,21.242,,,,,,,,,,,20191834,
+213415593,213424981,0,False,tertiary,Cayuga Heights Road,97.267,,,,30 mph,,,yes,,,,"[45405934, 45405935]",
+213422722,213422724,0,False,residential,Ayla Way,218.36,,,,,,,,,,,20182930,
+213422722,213511738,0,False,residential,Leifs Way,138.993,,,,,,,,,,,20190460,
+213422722,213512336,0,False,residential,"['Leifs Way', 'Craft Road']",397.052,,,,,,,,,,,"[20190460, 20190484, 20190462]",
+213422724,213422722,0,False,residential,Ayla Way,218.36,,,,,,,,,,,20182930,
+213422732,213511738,0,False,residential,Janivar Drive,213.15,,,,,,,,,,,20191987,
+213424686,213468379,0,False,secondary,East Shore Drive,282.933,2,,,55 mph,,,,,,,205387268,NY 34
+213424686,2420416703,0,False,secondary,East Shore Drive,293.354,2,,,55 mph,,,,,,,205387268,NY 34
+213424981,835863710,0,False,tertiary,Cayuga Heights Road,22.572,,,,30 mph,,,,,,,45405935,
+213424981,213425013,0,True,motorway_link,,312.556,,,,,,,,,,,20183274,
+213424981,213415593,0,False,tertiary,Cayuga Heights Road,97.267,,,,30 mph,,,yes,,,,"[45405934, 45405935]",
+213425004,835863710,0,True,motorway_link,,464.273,,,,,,,,,,,45405933,
+213425004,213425013,0,True,motorway,NY 13,265.847,2,,,55 mph,,,,,,,345094113,NY 13
+213430877,213468354,0,False,tertiary,Cayuga Heights Road,624.768,,,,30 mph,,,,,,,45405935,
+213430877,213525713,0,False,tertiary,Cayuga Heights Road,70.103,,,,30 mph,,,,,,,45405935,
+213430877,213430914,0,False,residential,,261.067,,,,,,,,,,,584900286,
+213430914,213430877,0,False,residential,,261.067,,,,,,,,,,,584900286,
+213431813,213415434,0,False,tertiary,North Triphammer Road,60.545,4,,,30 mph,,,,,,,495566541,
+213431813,213415439,0,True,motorway_link,,65.552,,,,,,,,,,,20184440,
+213431813,213463980,0,False,tertiary,North Triphammer Road,244.316,4,,,30 mph,,,,,,,"[347342122, 495566541]",
+213433227,213433233,0,False,residential,Votapka Road,100.445,,,,,,,,,,,20184655,
+213433227,213479672,0,False,residential,Graham Road,227.297,,,,25 mph,,,,,,,521366217,
+213433227,213479644,0,False,residential,Graham Road,310.326,,,,25 mph,,,,,,,"[521366217, 20188187]",
+213433233,213433235,0,False,residential,Votapka Road,48.464,,,,,,,,,,,20184655,
+213433233,213433227,0,False,residential,Votapka Road,100.445,,,,,,,,,,,20184655,
+213433233,213529303,0,False,residential,St Joseph Lane,273.569,,,,,,,,,,,20191621,
+213433235,213433233,0,False,residential,Votapka Road,48.464,,,,,,,,,,,20184655,
+213433775,213433791,0,False,residential,Ascot Place,147.587,,,,,,,,,,,20184731,
+213433775,213512336,0,False,residential,Craft Road,240.058,,,,,,,,,,,20190484,
+213433775,213512286,0,False,residential,Craft Road,329.794,,,,,,,,,,,20190484,
+213433791,213433775,0,False,residential,Ascot Place,147.587,,,,,,,,,,,20184731,
+213435102,4890513765,0,False,tertiary,Warren Road,20.768,,,,40 mph,,,,,,,139632126,
+213435102,213435113,0,True,primary,State Highway 13,336.912,"['1', '2']",,,,,,,,,,"[51756786, 340109781, 340109775]",NY 13
+213435102,213457012,0,False,tertiary,Warren Road,395.251,,,,,,,,,,,"[347340075, 497494107, 497494108]",
+213435113,4890513765,0,True,primary,State Highway 13,335.847,"['1', '3', '2', '4']",,,,,,,,,,"[340109776, 45405970, 340109780, 340109783]",NY 13
+213435113,213435230,0,False,primary,State Highway 13,686.78,2,,,,,,,,,,340109779,NY 13
+213435230,826215234,0,False,residential,Brown Road,361.61,,,,,,,,,,,20186915,
+213435230,213435113,0,False,primary,State Highway 13,686.78,2,,,,,,,,,,340109779,NY 13
+213437900,213468371,0,False,secondary,East Shore Drive,117.866,2,,,55 mph,,,,,,,205387268,NY 34
+213437900,213468363,0,False,secondary,East Shore Drive,359.063,2,,,55 mph,,,,,,,205387268,NY 34
+213442426,213442432,0,False,residential,Belwood Lane,96.463,,,,,,,,,,,20185660,
+213442432,213442426,0,False,residential,Belwood Lane,96.463,,,,,,,,,,,20185660,
+213442728,213442759,0,False,residential,Hemlock Lane,232.843,,,,,,,,,,,20185696,
+213442759,213442728,0,False,residential,Hemlock Lane,232.843,,,,,,,,,,,20185696,
+213442759,213547060,0,False,residential,Cedar Lane,321.978,,,,,,,,,,,20192892,
+213442759,213547004,0,False,residential,Cedar Lane,107.961,,,,,,,,,,,20192892,
+213444214,213444261,0,False,residential,Esty Drive,470.038,,,,,,,,,,,20185808,
+213444214,213468354,0,False,secondary,East Shore Drive,381.538,2,,,45 mph,,,,,,,205387267,NY 34
+213444214,213413034,0,False,secondary,East Shore Drive,150.478,2,,,45 mph,,,,,,,205387267,NY 34
+213444261,213444214,0,False,residential,Esty Drive,470.038,,,,,,,,,,,20185808,
+213444261,213468363,0,False,secondary,East Shore Drive,28.718,2,,,45 mph,,,,,,,545934888,NY 34
+213444261,213468354,0,False,secondary,East Shore Drive,61.391,2,,,45 mph,,,,,,,545934888,NY 34
+213453499,213466799,0,False,tertiary,North Triphammer Road,234.027,,,,40 mph,,,,,,,376872515,CR 122
+213456463,213456466,0,False,residential,Highgate Northeast,39.925,,,,,,,,,,,20186601,
+213456463,213467298,0,False,residential,Highgate Circle,97.416,,,,,,,,,,,20192102,
+213456463,213467296,0,False,residential,Highgate Circle,239.882,,,,,,,,,,,20192109,
+213456466,213456463,0,False,residential,Highgate Northeast,39.925,,,,,,,,,,,20186601,
+213456466,213456466,0,False,residential,Highgate NE,87.876,,,,,,,,,,,69325016,
+213456466,213456466,1,False,residential,Highgate NE,87.876,,,,,,,,,,,69325016,
+213457012,2459801957,0,False,residential,"['Arrowwood Drive', 'Brentwood Drive']",836.303,,,,,,,,,,,"[20186632, 347340077, 497494105, 497494106, 20186207]",
+213457012,213435102,0,False,tertiary,Warren Road,395.251,,,,,,,,,,,"[497494107, 347340075, 497494108]",
+213457012,213410492,0,False,residential,Uptown Road,419.533,,,,,,,,,,,"[69200096, 539908399]",
+213457676,213470213,0,False,tertiary,Cayuga Heights Road,99.817,,,,30 mph,,,,,,,45405935,
+213457676,4874404766,0,False,residential,Oakcrest Road,1300.559,,,,,,,,,,,20186688,
+213457676,213511130,0,False,residential,Pembroke Lane,400.822,,,,,,,,,,,20190409,
+213457676,213522681,0,False,residential,Sundowns Road,387.47,,,,,,,,,,,20191148,
+213457676,213532357,0,False,tertiary,Cayuga Heights Road,294.4,,,,30 mph,,,,,,,45405935,
+213461401,1326505731,0,False,residential,Kline Boulevard,315.534,,,,,,,,,,,20189961,
+213461401,213461660,0,False,residential,Brown Road,40.323,,,,,,,,,,,347342127,
+213461401,826215234,0,False,residential,Brown Road,571.518,,,,,,,,,,,347342127,
+213461414,1244429558,0,True,residential,Culligan Drive,673.461,,,,,,,,,,,20190236,
+213461414,213461422,0,True,residential,Brown Road,125.6,,,,,,,,,,,117828329,
+213461422,213461667,0,True,residential,Culligan Drive,12.05,,,,,,,,,,,20190236,
+213461422,1244429560,0,True,residential,Brown Road,47.148,,,,,,,,,,,117828329,
+213461431,213461671,0,False,residential,Thornwood Drive,15.205,,,,,,,,,,,20188176,
+213461431,213461435,0,True,residential,Brown Road,208.258,,,,,,,,,,,347342129,
+213461435,213461676,0,False,tertiary,Warren Road,17.802,,,,40 mph,,,,,,,497497577,
+213461435,213502697,0,False,tertiary,Warren Road,304.586,,,,40 mph,,,,,,,347342124,
+213461660,213461414,0,True,residential,Culligan Drive,9.371,,,,,,,,,,,20190236,
+213461660,213461401,0,False,residential,Brown Road,40.323,,,,,,,,,,,347342127,
+213461667,213461660,0,True,residential,Brown Road,125.809,,,,,,,,,,,117828443,
+213461671,213461431,0,False,residential,Thornwood Drive,15.205,,,,,,,,,,,20188176,
+213461671,213461667,0,True,residential,Brown Road,74.45,,,,,,,,,,,117828443,
+213461671,826215234,0,False,residential,Thornwood Drive,1017.37,,,,,,,,,,,"[20188176, 347342128]",
+213461676,213461435,0,False,tertiary,Warren Road,17.802,,,,40 mph,,,,,,,497497577,
+213461676,213492870,0,False,tertiary,Warren Road,109.874,,,,40 mph,,,,,,,497497577,
+213461676,213461671,0,True,residential,Brown Road,209.106,,,,,,,,,,,117828443,
+213463980,213410492,0,False,residential,"['Sheraton Drive', 'Cinema Drive', 'Uptown Road']",1427.56,,,,30 mph,,,,,,,"[69200096, 20191553, 20192132, 20187079, 495695157]",
+213463980,213431813,0,False,tertiary,North Triphammer Road,244.316,4,,,30 mph,,,,,,,"[347342122, 495566541]",
+213466284,213490978,0,False,residential,"['Butler Road', 'Hickory Hollow Lane']",274.487,,,,,,,,,,,"[20187252, 20189695]",
+213466284,4874404766,0,False,tertiary,North Triphammer Road,85.981,,,,30 mph,,,,,,,"[495709040, 495709063]",CR 122
+213466284,213479644,0,False,tertiary,North Triphammer Road,156.122,,,,30 mph,,,,,,,"[495709040, 345094105]",CR 122
+213466799,213468363,0,False,residential,Burdick Hill Road,1590.992,,,,,,,,,,,20191909,
+213466799,213453499,0,False,tertiary,North Triphammer Road,234.027,,,,40 mph,,,,,,,376872515,CR 122
+213466799,213472740,0,False,tertiary,North Triphammer Road,416.413,,,,40 mph,,,,,,,376872515,CR 122
+213467296,213467298,0,False,residential,Highgate Place,115.507,,,,,,,,,,,20187322,
+213467296,213456463,0,False,residential,Highgate Circle,239.882,,,,,,,,,,,20192109,
+213467296,213494802,0,False,residential,Highgate Circle,395.189,,,,,,,,,,,20192109,
+213467298,213467296,0,False,residential,Highgate Place,115.507,,,,,,,,,,,20187322,
+213467298,213494802,0,False,residential,Highgate Circle,482.377,,,,,,,,,,,20192102,
+213467298,213456463,0,False,residential,Highgate Circle,97.416,,,,,,,,,,,20192102,
+213467801,213467818,0,False,residential,Essex Court,116.687,,,,,,,,,,,20187369,
+213467801,213472329,0,False,residential,Wedgewood Drive,714.99,,,,,,,,,,,20187720,
+213467801,213472329,1,False,residential,Beckett Way,560.179,,,,,,,,,,,20190704,
+213467801,213516342,0,False,residential,Beckett Way,123.749,,,,,,,,,,,20190704,
+213467818,213467801,0,False,residential,Essex Court,116.687,,,,,,,,,,,20187369,
+213468354,213430877,0,False,tertiary,Cayuga Heights Road,624.768,,,,30 mph,,,,,,,45405935,
+213468354,213444214,0,False,secondary,East Shore Drive,381.538,2,,,45 mph,,,,,,,205387267,NY 34
+213468354,213444261,0,False,secondary,East Shore Drive,61.391,2,,,45 mph,,,,,,,545934888,NY 34
+213468363,213466799,0,False,residential,Burdick Hill Road,1590.992,,,,,,,,,,,20191909,
+213468363,213437900,0,False,secondary,East Shore Drive,359.063,2,,,55 mph,,,,,,,205387268,NY 34
+213468363,213444261,0,False,secondary,East Shore Drive,28.718,2,,,45 mph,,,,,,,545934888,NY 34
+213468371,213437900,0,False,secondary,East Shore Drive,117.866,2,,,55 mph,,,,,,,205387268,NY 34
+213468371,2420416703,0,False,secondary,East Shore Drive,610.975,2,,,55 mph,,,,,,,205387268,NY 34
+213468371,2420416690,0,False,residential,Blackchin Boulevard,193.528,,,,,,,,,,,233695546,
+213468379,213468390,0,False,secondary,East Shore Drive,207.016,2,,,55 mph,,,,,,,205387268,NY 34
+213468379,213424686,0,False,secondary,East Shore Drive,282.933,2,,,55 mph,,,,,,,205387268,NY 34
+213468390,213468379,0,False,secondary,East Shore Drive,207.016,2,,,55 mph,,,,,,,205387268,NY 34
+213470179,213470191,0,False,residential,Hampton Hill Lane,210.0,,,,,,,,,,,20187558,
+213470179,213525768,0,False,residential,Cayuga Hills Road,243.672,,,,,,,,,,,20191369,
+213470179,213499244,0,False,residential,Cayuga Hills Road,221.925,,,,,,,,,,,20191369,
+213470191,213470213,0,False,residential,Hampton Hill Lane,160.892,,,,,,,,,,,20187558,
+213470191,213470179,0,False,residential,Hampton Hill Lane,210.0,,,,,,,,,,,20187558,
+213470191,213499244,0,False,residential,Sundown Circle,280.733,,,,,,,,,,,20189554,
+213470213,213457676,0,False,tertiary,Cayuga Heights Road,99.817,,,,30 mph,,,,,,,45405935,
+213470213,213470191,0,False,residential,Hampton Hill Lane,160.892,,,,,,,,,,,20187558,
+213470213,213525713,0,False,tertiary,Cayuga Heights Road,397.758,,,,30 mph,,,,,,,45405935,
+213472328,5423607164,0,False,residential,Stone Creek Drive,32.933,,,,,,,,,,,562607544,
+213472328,213472329,0,False,residential,Wedgewood Drive,119.557,,,,,,,,,,,20187720,
+213472328,5239016731,0,False,residential,Stone Creek Drive,134.854,,,,,,,,,,,68748479,
+213472329,213467801,0,False,residential,Wedgewood Drive,714.99,,,,,,,,,,,20187720,
+213472329,213467801,1,False,residential,Beckett Way,560.179,,,,,,,,,,,20190704,
+213472329,213472328,0,False,residential,Wedgewood Drive,119.557,,,,,,,,,,,20187720,
+213472740,213472742,0,False,residential,Bush Lane,435.364,,,,,,,,,,,20187751,
+213472740,213466799,0,False,tertiary,North Triphammer Road,416.413,,,,40 mph,,,,,,,376872515,CR 122
+213472740,213517744,0,False,tertiary,North Triphammer Road,366.596,,,,"['30 mph', '40 mph']",,,,,,,"[376872515, 495709054]",CR 122
+213472742,829673655,0,False,residential,Bush Lane,287.885,,,,,,,,,,,20187751,
+213472742,213472740,0,False,residential,Bush Lane,435.364,,,,,,,,,,,20187751,
+213472742,213517782,0,False,residential,Brook Way,253.607,,,,,,,,,,,20191492,
+213473671,213489152,0,False,residential,"['Yardley Green', 'The Strand']",153.887,,,,,,,,,,,"[20188846, 20187822]",
+213473671,213492870,0,False,residential,Northwood Road,617.472,,,,,,,,,,,"[347342123, 20189108]",
+213473671,213526039,0,False,residential,"['Northwood Road', 'Coventry Walk']",229.503,,,,,,,,,,,"[20191393, 20189108]",
+213479644,213433227,0,False,residential,Graham Road,310.326,,,,25 mph,,,,,,,"[521366217, 20188187]",
+213479644,213466284,0,False,tertiary,North Triphammer Road,156.122,,,,30 mph,,,,,,,"[495709040, 345094105]",CR 122
+213479644,213525105,0,False,tertiary,North Triphammer Road,301.26,,,,30 mph,,,,,,,"[495567202, 498127651, 495710173]",CR 122
+213479644,213490978,0,False,residential,Graham Road West,112.834,,,,30 mph,,,,,,,"[20188956, 538354142]",
+213479672,213546966,0,False,residential,"['Wakefield', 'Churchill Drive']",131.639,,,,,,,,,,,"[20192882, 20190251]",
+213479672,213502675,0,False,residential,"['Graham Road', 'Dart Drive']",1488.962,,,,25 mph,,,,,,,"[521366217, 20191047]",
+213479672,213433227,0,False,residential,Graham Road,227.297,,,,25 mph,,,,,,,521366217,
+213485787,213485806,0,False,residential,Pyramid Drive,294.738,,,,30 mph,,,,,,,"[523926320, 495567204, 20188644, 495567205]",
+213485787,213494268,0,False,residential,The Loop Road,244.78,,,,20 mph,,,,,,,"[523926322, 345094111]",
+213485787,213490966,0,False,residential,The Loop Road,1227.861,,,,20 mph,,,,,,,"[20189191, 523926321, 345094106, 345094107, 345094110]",
+213485806,213525105,0,False,tertiary,North Triphammer Road,96.828,,,,30 mph,,,,,,,495567202,CR 122
+213485806,213485787,0,False,residential,Pyramid Drive,294.738,,,,30 mph,,,,,,,"[523926320, 20188644, 495567204, 495567205]",
+213485806,4873078448,0,False,tertiary,North Triphammer Road,118.894,"['7', '6']",,,30 mph,,,,,,,"[495567504, 495567203, 495567503]",CR 122
+213489152,213473671,0,False,residential,"['Yardley Green', 'The Strand']",153.887,,,,,,,,,,,"[20187822, 20188846]",
+213490966,213490978,0,False,residential,Graham Road West,40.602,,,,30 mph,,,,,,,20188956,
+213490966,213485787,0,False,residential,The Loop Road,1227.861,,,,20 mph,,,,,,,"[20189191, 523926321, 345094106, 345094107, 345094110]",
+213490966,213494268,0,False,residential,The Loop Road,254.09,,,,20 mph,,,,,,,"[523926322, 346043255]",
+213490978,213479644,0,False,residential,Graham Road West,112.834,,,,30 mph,,,,,,,"[20188956, 538354142]",
+213490978,213490966,0,False,residential,Graham Road West,40.602,,,,30 mph,,,,,,,20188956,
+213490978,213466284,0,False,residential,"['Butler Road', 'Hickory Hollow Lane']",274.487,,,,,,,,,,,"[20187252, 20189695]",
+213492870,213461676,0,False,tertiary,Warren Road,109.874,,,,40 mph,,,,,,,497497577,
+213492870,213473671,0,False,residential,Northwood Road,617.472,,,,,,,,,,,"[347342123, 20189108]",
+213492870,213502675,0,False,tertiary,Warren Road,308.435,,,,40 mph,,,,,,,497497577,
+213494268,213525105,0,False,residential,Catherwood Road,189.283,,,,,,,,,,,20193146,
+213494268,213490966,0,False,residential,The Loop Road,254.09,,,,20 mph,,,,,,,"[523926322, 346043255]",
+213494268,213485787,0,False,residential,The Loop Road,244.78,,,,20 mph,,,,,,,"[523926322, 345094111]",
+213494802,213467298,0,False,residential,Highgate Circle,482.377,,,,,,,,,,,20192102,
+213494802,213467296,0,False,residential,Highgate Circle,395.189,,,,,,,,,,,20192109,
+213499244,213470191,0,False,residential,Sundown Circle,280.733,,,,,,,,,,,20189554,
+213499244,213470179,0,False,residential,Cayuga Hills Road,221.925,,,,,,,,,,,20191369,
+213499244,213525713,0,False,residential,Cayuga Hills Road,140.195,,,,,,,,,,,20191369,
+213502675,213479672,0,False,residential,"['Graham Road', 'Dart Drive']",1488.962,,,,25 mph,,,,,,,"[521366217, 20191047]",
+213502675,4890513765,0,False,tertiary,Warren Road,116.283,,,,40 mph,,,,,,,"[497495405, 497495415]",
+213502675,213492870,0,False,tertiary,Warren Road,308.435,,,,40 mph,,,,,,,497497577,
+213502697,2419479290,0,False,residential,Bomax Drive,686.254,,,,,,,,,,,20194018,
+213502697,213461435,0,False,tertiary,Warren Road,304.586,,,,40 mph,,,,,,,347342124,
+213511130,213457676,0,False,residential,Pembroke Lane,400.822,,,,,,,,,,,20190409,
+213511738,213422722,0,False,residential,Leifs Way,138.993,,,,,,,,,,,20190460,
+213511738,213422732,0,False,residential,Janivar Drive,213.15,,,,,,,,,,,20191987,
+213511738,213512336,0,False,residential,Janivar Drive,503.766,,,,,,,,,,,20191987,
+213512286,213433775,0,False,residential,Craft Road,329.794,,,,,,,,,,,20190484,
+213512286,213517744,0,False,tertiary,North Triphammer Road,104.39,,,,30 mph,,,,,,,495709054,CR 122
+213512286,4874404766,0,False,tertiary,North Triphammer Road,283.577,,,,30 mph,,,,,,,495709054,CR 122
+213512336,213422722,0,False,residential,"['Leifs Way', 'Craft Road']",397.052,,,,,,,,,,,"[20190460, 20190484, 20190462]",
+213512336,213433775,0,False,residential,Craft Road,240.058,,,,,,,,,,,20190484,
+213512336,213511738,0,False,residential,Janivar Drive,503.766,,,,,,,,,,,20191987,
+213516342,213547004,0,False,residential,Cedar Lane,50.502,,,,,,,,,,,20192892,
+213516342,213467801,0,False,residential,Beckett Way,123.749,,,,,,,,,,,20190704,
+213516342,213532357,0,False,tertiary,Cayuga Heights Road,559.244,,,,30 mph,,,,,,,45405935,
+213516342,835863710,0,False,tertiary,Cayuga Heights Road,313.7,,,,30 mph,,,,,,,45405935,
+213517744,213517760,0,False,residential,Brook Drive,144.126,,,,,,,,,,,20190800,
+213517744,213472740,0,False,tertiary,North Triphammer Road,366.596,,,,"['30 mph', '40 mph']",,,,,,,"[376872515, 495709054]",CR 122
+213517744,213512286,0,False,tertiary,North Triphammer Road,104.39,,,,30 mph,,,,,,,495709054,CR 122
+213517760,213517782,0,False,residential,Brook Drive,298.377,,,,,,,,,,,20190800,
+213517760,213517782,1,False,residential,Brook Way,346.477,,,,,,,,,,,20191492,
+213517760,213517744,0,False,residential,Brook Drive,144.126,,,,,,,,,,,20190800,
+213517782,213517760,0,False,residential,Brook Drive,298.377,,,,,,,,,,,20190800,
+213517782,213517760,1,False,residential,Brook Way,346.477,,,,,,,,,,,20191492,
+213517782,213472742,0,False,residential,Brook Way,253.607,,,,,,,,,,,20191492,
+213522681,213457676,0,False,residential,Sundowns Road,387.47,,,,,,,,,,,20191148,
+213525105,213494268,0,False,residential,Catherwood Road,189.283,,,,,,,,,,,20193146,
+213525105,213479644,0,False,tertiary,North Triphammer Road,301.26,,,,30 mph,,,,,,,"[495567202, 498127651, 495710173]",CR 122
+213525105,213485806,0,False,tertiary,North Triphammer Road,96.828,,,,30 mph,,,,,,,495567202,CR 122
+213525713,213499244,0,False,residential,Cayuga Hills Road,140.195,,,,,,,,,,,20191369,
+213525713,213430877,0,False,tertiary,Cayuga Heights Road,70.103,,,,30 mph,,,,,,,45405935,
+213525713,213470213,0,False,tertiary,Cayuga Heights Road,397.758,,,,30 mph,,,,,,,45405935,
+213525768,213470179,0,False,residential,Cayuga Hills Road,243.672,,,,,,,,,,,20191369,
+213526039,213473671,0,False,residential,"['Northwood Road', 'Coventry Walk']",229.503,,,,,,,,,,,"[20191393, 20189108]",
+213529303,213433233,0,False,residential,St Joseph Lane,273.569,,,,,,,,,,,20191621,
+213532357,213543154,0,False,residential,Twin Glens Road,429.892,,,,,,,,,,,20192651,
+213532357,213457676,0,False,tertiary,Cayuga Heights Road,294.4,,,,30 mph,,,,,,,45405935,
+213532357,213516342,0,False,tertiary,Cayuga Heights Road,559.244,,,,30 mph,,,,,,,45405935,
+213543154,213532357,0,False,residential,Twin Glens Road,429.892,,,,,,,,,,,20192651,
+213546966,213479672,0,False,residential,"['Wakefield', 'Churchill Drive']",131.639,,,,,,,,,,,"[20192882, 20190251]",
+213546995,213547004,0,False,residential,Cedar Lane,116.353,,,,,,,,,,,20192886,
+213547004,213516342,0,False,residential,Cedar Lane,50.502,,,,,,,,,,,20192892,
+213547004,213546995,0,False,residential,Cedar Lane,116.353,,,,,,,,,,,20192886,
+213547004,213442759,0,False,residential,Cedar Lane,107.961,,,,,,,,,,,20192892,
+213547060,213442759,0,False,residential,Cedar Lane,321.978,,,,,,,,,,,20192892,
+826215234,213435230,0,False,residential,Brown Road,361.61,,,,,,,,,,,20186915,
+826215234,213461401,0,False,residential,Brown Road,571.518,,,,,,,,,,,347342127,
+826215234,213461671,0,False,residential,Thornwood Drive,1017.37,,,,,,,,,,,"[347342128, 20188176]",
+829673655,213472742,0,False,residential,Bush Lane,287.885,,,,,,,,,,,20187751,
+829673655,829673662,0,False,residential,,298.636,,,,,,,,,,,69200825,
+829673662,829673655,0,False,residential,,298.636,,,,,,,,,,,69200825,
+835863710,213424981,0,False,tertiary,Cayuga Heights Road,22.572,,,,30 mph,,,,,,,45405935,
+835863710,213516342,0,False,tertiary,Cayuga Heights Road,313.7,,,,30 mph,,,,,,,45405935,
+1244429558,213461422,0,True,residential,Culligan Drive,40.528,,,,,,,,,,,20190236,
+1244429558,1244429560,0,True,residential,Culligan Drive,64.658,,,,,,,,,,,108460705,
+1244429560,213461431,0,True,residential,Brown Road,28.587,,,,,,,,,,,117828329,
+1326505731,213461401,0,False,residential,Kline Boulevard,315.534,,,,,,,,,,,20189961,
+2419479290,2419479301,0,False,residential,,115.174,,,,,,,,,,,541860145,
+2419479290,2419479291,0,False,residential,Bomax Drive,73.708,,,,,,,,,,,20194018,
+2419479290,213502697,0,False,residential,Bomax Drive,686.254,,,,,,,,,,,20194018,
+2419479290,5239241979,0,False,residential,,346.257,,,,,,,,,,,233583421,
+2419479291,2419479291,0,False,residential,Bomax Drive,69.343,,,,,,,,,,,20194018,
+2419479291,2419479291,1,False,residential,Bomax Drive,69.343,,,,,,,,,,,20194018,
+2419479291,2419479290,0,False,residential,Bomax Drive,73.708,,,,,,,,,,,20194018,
+2419479301,2419479290,0,False,residential,,115.174,,,,,,,,,,,541860145,
+2420416690,2420416692,0,False,residential,Rockcress Lane,209.108,,,,,,,,,,,233695545,
+2420416690,213468371,0,False,residential,Blackchin Boulevard,193.528,,,,,,,,,,,233695546,
+2420416690,2420416703,0,False,residential,Blackchin Boulevard,1184.726,,,,,,,,,,,233695546,
+2420416692,2420416692,0,False,residential,Rockcress Lane,141.252,,,,,,,,,,,233695545,
+2420416692,2420416692,1,False,residential,Rockcress Lane,141.252,,,,,,,,,,,233695545,
+2420416692,2420416690,0,False,residential,Rockcress Lane,209.108,,,,,,,,,,,233695545,
+2420416703,213424686,0,False,secondary,East Shore Drive,293.354,2,,,55 mph,,,,,,,205387268,NY 34
+2420416703,213468371,0,False,secondary,East Shore Drive,610.975,2,,,55 mph,,,,,,,205387268,NY 34
+2420416703,2420416690,0,False,residential,Blackchin Boulevard,1184.726,,,,,,,,,,,233695546,
+2459801957,213457012,0,False,residential,"['Arrowwood Drive', 'Brentwood Drive']",836.303,,,,,,,,,,,"[20186632, 347340077, 497494105, 497494106, 20186207]",
+4873078448,213411653,0,True,motorway_link,,73.509,,,,,,,,,,,20181342,
+4873078448,213411656,0,False,tertiary,North Triphammer Road,60.202,,,,30 mph,,,,,,,45405930,CR 122
+4873078448,213485806,0,False,tertiary,North Triphammer Road,118.894,"['7', '6']",,,30 mph,,,,,,,"[495567504, 495567203, 495567503]",CR 122
+4874404766,213457676,0,False,residential,Oakcrest Road,1300.559,,,,,,,,,,,20186688,
+4874404766,213512286,0,False,tertiary,North Triphammer Road,283.577,,,,30 mph,,,,,,,495709054,CR 122
+4874404766,213466284,0,False,tertiary,North Triphammer Road,85.981,,,,30 mph,,,,,,,"[495709040, 495709063]",CR 122
+4890513765,213435102,0,False,tertiary,Warren Road,20.768,,,,40 mph,,,,,,,139632126,
+4890513765,213411669,0,True,motorway,NY 13,976.522,2,,,55 mph,,,,,,,51756787,NY 13
+4890513765,213502675,0,False,tertiary,Warren Road,116.283,,,,40 mph,,,,,,,"[497495405, 497495415]",
+5239016731,5239016731,0,False,residential,Stone Creek Drive,73.677,,,,,,,,,,,68748479,
+5239016731,5239016731,1,False,residential,Stone Creek Drive,73.677,,,,,,,,,,,68748479,
+5239016731,213472328,0,False,residential,Stone Creek Drive,134.854,,,,,,,,,,,68748479,
+5239241979,2419479290,0,False,residential,,346.257,,,,,,,,,,,233583421,
+5423607164,213472328,0,False,residential,Stone Creek Drive,32.933,,,,,,,,,,,562607544,

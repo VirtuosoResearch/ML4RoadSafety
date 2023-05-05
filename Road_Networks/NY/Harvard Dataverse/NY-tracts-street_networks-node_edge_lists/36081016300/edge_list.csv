@@ -1,0 +1,26 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+42819566,42819569,0,False,residential,51st Street,121.713,,,,,,,,,,,225232947,
+42819566,2313537249,0,False,residential,51st Street,196.84,,,,,,,,,,,225232947,
+42819569,1904847201,0,False,tertiary,51st Street,178.721,,,,,,,,,,,198595563,
+42819569,42819566,0,False,residential,51st Street,121.713,,,,,,,,,,,225232947,
+42856598,2313537249,0,False,residential,31st Avenue,43.437,,,,,,,,,,,484433151,
+42856598,3562563394,0,False,residential,31st Avenue,78.036,,,,,,,,,,,484433151,
+42883022,42860069,0,True,residential,Newtown Road,55.813,,,,,,,,,,,225232943,
+42896862,3938728149,0,False,primary,Northern Boulevard,10.059,,,,,,,,,,,390723007,NY 25A
+42896862,3938728154,0,False,primary,Northern Boulevard,44.722,,,,,,,,,,,198595476,NY 25A
+42919826,3938728148,0,False,residential,Newtown Road,158.252,,,,,,,,,,,464540545,
+1904847201,42819569,0,False,tertiary,51st Street,178.721,,,,,,,,,,,198595563,
+1904847201,3938728149,0,False,primary,Northern Boulevard,17.32,,,,,,,,,,,420302270,NY 25A
+2313537249,42819566,0,False,residential,51st Street,196.84,,,,,,,,,,,225232947,
+2313537249,42856598,0,False,residential,31st Avenue,43.437,,,,,,,,,,,484433151,
+2313537252,2520377434,0,False,residential,49th Street,142.41,,,,,,,,,,,225232942,
+2313537252,3562563394,0,False,residential,31st Avenue,82.019,,,,,,,,,,,484433151,
+2520377434,2313537252,0,False,residential,49th Street,142.41,,,,,,,,,,,225232942,
+3562563394,42856598,0,False,residential,31st Avenue,78.036,,,,,,,,,,,484433151,
+3562563394,2313537252,0,False,residential,31st Avenue,82.019,,,,,,,,,,,484433151,
+3938728148,3938728154,0,True,primary_link,,37.708,,,,,,,,,,,390722997,
+3938728148,42919826,0,False,residential,Newtown Road,158.252,,,,,,,,,,,464540545,
+3938728149,42896862,0,False,primary,Northern Boulevard,10.059,,,,,,,,,,,390723007,NY 25A
+3938728149,3938728148,0,True,primary_link,,44.259,,,,,,,,,,,390723004,
+3938728149,1904847201,0,False,primary,Northern Boulevard,17.32,,,,,,,,,,,420302270,NY 25A
+3938728154,42896862,0,False,primary,Northern Boulevard,44.722,,,,,,,,,,,198595476,NY 25A

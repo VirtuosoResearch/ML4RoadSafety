@@ -1,0 +1,121 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+42790539,456354685,0,True,primary_link,,270.117,,,,,,,,,,,5700014,
+42790539,42885584,0,False,secondary,Lefferts Boulevard,205.062,"['4', '5']",,,,,,yes,,,,"[420555971, 420555975, 221589652, 46892603, 46892604]",
+42796283,42804883,0,True,trunk,North Conduit Avenue,202.395,3,,,,,,,,,,46137558,NY 27
+42804883,42814527,0,True,trunk,North Conduit Avenue,15.941,4,,,,,,,,,,420556378,NY 27
+42805172,42885580,0,True,trunk,North Conduit Avenue,81.31,4,,,,,,,,,,221589653,NY 27
+42813046,455883663,0,True,motorway,Belt Parkway,464.051,3,,,,,,,,,,125899909,BP
+42818666,42818669,0,False,residential,130th Street,162.041,,,,,,,,,,,183794733,
+42818666,42875312,0,True,primary,South Conduit Avenue,162.914,3,,,,,,,,,,220107103,NY 27
+42818669,42863905,0,False,residential,150th Avenue,82.251,,,,,,,,,,,5709639,
+42818669,42818666,0,False,residential,130th Street,162.041,,,,,,,,,,,183794733,
+42818669,42863912,0,False,residential,"['Old South Road', '130th Street']",182.008,,,,,,,,,,,"[5709197, 219610990]",
+42818669,42875911,0,False,residential,150th Avenue,163.55,,,,,,,,,,,219610992,
+42820347,42855662,0,True,trunk,North Conduit Avenue,79.251,4,,,,,,,,,,122633454,NY 27
+42830872,42882408,0,True,trunk,North Conduit Avenue,81.476,4,,,,,,,,,,221589653,NY 27
+42837249,42875295,0,True,primary,South Conduit Avenue,46.954,3,,,,,,,,,,46892632,NY 27
+42837249,42837250,0,False,residential,125th Street,89.305,,,,,,,,,,,5702976,
+42837250,42837253,0,False,residential,125th Street,83.335,,,,,,,,,,,5702976,
+42837250,42927402,0,False,residential,Old South Road,78.781,,,,,,,,,,,5709197,
+42837250,42837249,0,False,residential,125th Street,89.305,,,,,,,,,,,5702976,
+42837250,42887414,0,False,residential,Old South Road,79.888,,,,,,,,,,,5709197,
+42837253,42837250,0,False,residential,125th Street,83.335,,,,,,,,,,,5702976,
+42837253,42907317,0,False,residential,152nd Avenue,78.784,,,,,,,,,,,5707591,
+42837253,42887414,0,False,residential,"['152nd Avenue', '124th Street']",158.422,,,,,,,,,,,"[5706154, 5707591]",
+42845335,42845339,0,False,residential,132nd Street,72.55,,,,,,,,,,,5703368,
+42845335,42875319,0,True,primary,South Conduit Avenue,153.999,"['2', '3']",,,,,,,,,,"[122633464, 220107103]",NY 27
+42845339,42845343,0,False,residential,132nd Street,63.951,,,,,,,,,,,5703368,
+42845339,42845335,0,False,residential,132nd Street,72.55,,,,,,,,,,,5703368,
+42845343,42845339,0,False,residential,132nd Street,63.951,,,,,,,,,,,5703368,
+42845343,42875911,0,False,residential,150th Avenue,104.442,,,,,,,,,,,219610992,
+42845343,42921276,0,False,residential,150th Avenue,118.738,,,,,,,,,,,219610992,
+42855662,42885588,0,True,trunk,North Conduit Avenue,79.18,4,,,,,,,,,,122633454,NY 27
+42863901,42863905,0,False,residential,129th Street,147.471,,,,,,,,,,,5704633,
+42863901,42818666,0,True,primary,South Conduit Avenue,83.071,3,,,,,,,,,,"[46892632, 420556379]",NY 27
+42863905,42863912,0,False,residential,129th Street,101.857,,,,,,,,,,,5704633,
+42863905,42863901,0,False,residential,129th Street,147.471,,,,,,,,,,,5704633,
+42863905,42818669,0,False,residential,150th Avenue,82.251,,,,,,,,,,,5709639,
+42863905,42905999,0,False,residential,150th Avenue,80.114,,,,,,,,,,,5709639,
+42863912,42863905,0,False,residential,129th Street,101.857,,,,,,,,,,,5704633,
+42863912,42906003,0,False,residential,Old South Road,79.641,,,,,,,,,,,5709197,
+42863912,42906007,0,False,residential,"['129th Street', '152nd Avenue']",182.111,,,,,,,,,,,"[5704633, 5707591]",
+42863912,42818669,0,False,residential,"['Old South Road', '130th Street']",182.008,,,,,,,,,,,"[5709197, 219610990]",
+42868615,42885572,0,True,trunk,North Conduit Avenue,382.168,4,,,,,,,,,,221589653,NY 27
+42875233,456356076,0,True,motorway,Nassau Expressway,840.161,2,,,,,,yes,,,,"[38522792, 46892601, 46894308, 46894309]",NY 878
+42875286,42837249,0,True,primary,South Conduit Avenue,99.685,3,,,,,,,,,,46892632,NY 27
+42875295,42931065,0,False,residential,150th Avenue,45.023,,,,,,,,,,,5709639,
+42875295,42875299,0,True,primary,South Conduit Avenue,58.772,3,,,,,,,,,,46892632,NY 27
+42875299,42931065,0,False,residential,126th Street,36.967,,,,,,,,,,,5709517,
+42875299,42875303,0,True,primary,South Conduit Avenue,96.153,3,,,,,,,,,,46892632,NY 27
+42875303,42932122,0,False,residential,127th Street,89.751,,,,,,,,,,,5710340,
+42875303,42875307,0,True,primary,South Conduit Avenue,86.647,3,,,,,,,,,,46892632,NY 27
+42875307,42905999,0,False,residential,128th Street,125.532,,,,,,,,,,,5707498,
+42875307,42863901,0,True,primary,South Conduit Avenue,82.105,3,,,,,,,,,,46892632,NY 27
+42875312,42875911,0,False,residential,131st Street,180.415,,,,,,,,,,,5705371,
+42875312,42845335,0,True,primary,South Conduit Avenue,87.207,3,,,,,,,,,,220107103,NY 27
+42875319,1369783101,0,True,primary,South Conduit Avenue,97.624,2,,,,,,,,,,220107105,NY 27
+42875319,42901997,0,False,residential,134th Street,99.222,,,,,,,,,,,5707230,
+42875911,42875312,0,False,residential,131st Street,180.415,,,,,,,,,,,5705371,
+42875911,42845343,0,False,residential,150th Avenue,104.442,,,,,,,,,,,219610992,
+42875911,42818669,0,False,residential,150th Avenue,163.55,,,,,,,,,,,219610992,
+42882408,42885576,0,True,trunk,North Conduit Avenue,81.591,4,,,,,,,,,,221589653,NY 27
+42885576,42868615,0,True,trunk,North Conduit Avenue,81.847,4,,,,,,,,,,221589653,NY 27
+42885580,42830872,0,True,trunk,North Conduit Avenue,81.229,4,,,,,,,,,,221589653,NY 27
+42885584,42790539,0,False,secondary,Lefferts Boulevard,205.062,"['4', '5']",,,,,,yes,,,,"[420555971, 420555975, 221589652, 46892603, 46892604]",
+42885588,598668877,0,True,trunk,North Conduit Avenue,23.611,4,,,,,,,,,,122633454,NY 27
+42887414,42875286,0,True,residential,124th Street,30.258,,,,,,,,,,,573891687,
+42887414,42837253,0,False,residential,"['152nd Avenue', '124th Street']",158.422,,,,,,,,,,,"[5706154, 5707591]",
+42887414,42837250,0,False,residential,Old South Road,79.888,,,,,,,,,,,5709197,
+42901997,42921276,0,False,residential,149th Avenue,51.054,,,,,,,,,,,219610989,
+42901997,42875319,0,False,residential,134th Street,99.222,,,,,,,,,,,5707230,
+42905999,42906003,0,False,residential,128th Street,106.34,,,,,,,,,,,5707498,
+42905999,42875307,0,False,residential,128th Street,125.532,,,,,,,,,,,5707498,
+42905999,42863905,0,False,residential,150th Avenue,80.114,,,,,,,,,,,5709639,
+42905999,42932122,0,False,residential,150th Avenue,79.378,,,,,,,,,,,5709639,
+42906003,42906007,0,False,residential,128th Street,100.23,,,,,,,,,,,5707498,
+42906003,42905999,0,False,residential,128th Street,106.34,,,,,,,,,,,5707498,
+42906003,42863912,0,False,residential,Old South Road,79.641,,,,,,,,,,,5709197,
+42906003,42927404,0,False,residential,Old South Road,79.831,,,,,,,,,,,5709197,
+42906007,42906003,0,False,residential,128th Street,100.23,,,,,,,,,,,5707498,
+42906007,42907317,0,False,residential,152nd Avenue,159.011,,,,,,,,,,,5707591,
+42906007,42863912,0,False,residential,"['152nd Avenue', '129th Street']",182.111,,,,,,,,,,,"[5704633, 5707591]",
+42907317,42906007,0,False,residential,152nd Avenue,159.011,,,,,,,,,,,5707591,
+42907317,42837253,0,False,residential,152nd Avenue,78.784,,,,,,,,,,,5707591,
+42907317,42927402,0,False,residential,126th Street,84.874,,,,,,,,,,,5709517,
+42921276,42901997,0,False,residential,149th Avenue,51.054,,,,,,,,,,,219610989,
+42921276,42845343,0,False,residential,150th Avenue,118.738,,,,,,,,,,,219610992,
+42921276,42845339,0,True,residential,149th Avenue,100.86,,,,,,,,,,,5708683,
+42927402,42927404,0,False,residential,Old South Road,79.033,,,,,,,,,,,5709197,
+42927402,42837250,0,False,residential,Old South Road,78.781,,,,,,,,,,,5709197,
+42927402,42907317,0,False,residential,126th Street,84.874,,,,,,,,,,,5709517,
+42927402,42931065,0,False,residential,126th Street,119.832,,,,,,,,,,,5709517,
+42927404,42906003,0,False,residential,Old South Road,79.831,,,,,,,,,,,5709197,
+42927404,42927402,0,False,residential,Old South Road,79.033,,,,,,,,,,,5709197,
+42927404,42932122,0,False,residential,127th Street,111.732,,,,,,,,,,,5710340,
+42931065,42927402,0,False,residential,126th Street,119.832,,,,,,,,,,,5709517,
+42931065,42875299,0,False,residential,126th Street,36.967,,,,,,,,,,,5709517,
+42931065,42875295,0,False,residential,150th Avenue,45.023,,,,,,,,,,,5709639,
+42931065,42932122,0,False,residential,150th Avenue,78.459,,,,,,,,,,,5709639,
+42932122,42905999,0,False,residential,150th Avenue,79.378,,,,,,,,,,,5709639,
+42932122,42927404,0,False,residential,127th Street,111.732,,,,,,,,,,,5710340,
+42932122,42875303,0,False,residential,127th Street,89.751,,,,,,,,,,,5710340,
+42932122,42931065,0,False,residential,150th Avenue,78.459,,,,,,,,,,,5709639,
+455883663,528909156,0,True,motorway_link,,381.533,,,,,,,,,,,5708397,
+455883663,455883750,0,True,motorway,Belt Parkway,948.785,3,,,,,,,,,,125899909,BP
+455883750,455883751,0,True,motorway,Belt Parkway,217.874,3,,,,,,,,,,125899909,BP
+455883751,42885572,0,True,motorway_link,,390.815,,,,,,,,,,,5699938,
+455884707,455891042,0,True,motorway_link,,545.469,2,,,,,,yes,,,,"[46894312, 46894307, 27643140]",
+455884707,455884723,0,True,motorway,Belt Parkway,1255.268,3,,,,,,,,,,122660439,BP
+455884723,455884734,0,True,motorway,Belt Parkway,811.931,3,,,,,,,,,,122660439,BP
+455884734,1369783101,0,True,motorway_link,,320.825,,,,,,,,,,,5706604,
+455891042,455892421,0,True,motorway_link,,201.058,,,,,,,,,,,5706873,
+455891042,456356076,0,True,motorway_link,,304.976,2,,,,,,yes,,,,"[46892610, 539288998]",
+456354377,455884723,0,True,motorway_link,,755.245,,,,,,,,,,,5700370,
+456354377,456354685,0,True,motorway,South Conduit Avenue,579.124,"['2', '3']",,,,,,,,,,"[122633465, 360922972]",NY 27
+456354685,456354688,0,True,primary,South Conduit Avenue,194.646,3,,,,,,,,,,46892632,NY 27
+456354688,42875286,0,True,primary,South Conduit Avenue,57.567,3,,,,,,,,,,46892632,NY 27
+456354688,42887414,0,True,residential,Old South Road,47.858,,,,,,,,,,,573891688,
+456356076,457034566,0,True,motorway,Nassau Expressway,1224.055,3,,,,,,yes,,,,"[5709824, 46892602]",NY 878
+457034566,277782536,0,True,motorway,Nassau Expressway,301.145,4,,,,,,yes,,,,"[46932961, 46932962, 122633435]",NY 878
+528909156,42820347,0,True,trunk,North Conduit Avenue,30.478,4,,,,,,,,,,122633454,NY 27
+598668877,42885584,0,True,trunk,North Conduit Avenue,57.677,4,,,,,,,,,,122633454,NY 27

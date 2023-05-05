@@ -1,0 +1,609 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+63945228,64617207,0,True,motorway_link,,268.813,1,15.2,,,,,,,,,8874009,
+64569530,64611729,0,False,residential,Macintosh Lane,77.922,1,6.1,,,,,,,,,8873986,
+64569530,64621472,0,False,residential,Macintosh Lane,44.549,1,6.1,,,,,,,,,8873986,
+64569530,64621472,1,False,residential,Macintosh Lane,177.935,1,6.1,,,,,,,,,8873986,
+64569616,64620591,0,False,residential,"['Columbus Street', 'Calza Street', 'Ruth Street']",474.406,2,"['9.1', '9.8', '12.8']",,,,,,,,,"[8874419, 8874332, 8873983]",
+64569616,64620591,1,False,secondary,Litchfield Street,121.771,2,12.2,,30 mph,,,,,,,440871890,
+64569616,64584891,0,False,secondary,Litchfield Street,152.343,2,12.2,,30 mph,,,,,,,440871890,
+64569910,64607761,0,False,residential,Eden Glen Street,84.481,2,11.0,,,,,,,,,8873861,
+64569910,64597292,0,False,residential,Eden Glen Street,195.18,2,11.0,,,,,,,,,8873861,
+64569910,64617855,0,False,residential,Graham Street,183.026,2,16.8,,,,,,,,,8874846,
+64569910,64605509,0,False,residential,Graham Street,62.833,2,16.8,,,,,,,,,8874846,
+64570741,64602476,0,False,residential,Dudley Street,83.943,2,12.2,,,,,,,,,8874080,
+64570741,64626603,0,False,residential,Dudley Street,92.355,2,12.2,,,,,,,,,8874080,
+64570741,64609809,0,False,residential,June Street,184.701,2,12.2,,,,,,,,,8874303,
+64571959,64626253,0,False,secondary,Viscoloid Avenue,315.485,2,15.2,,30 mph,,,,,,,8873920,
+64571959,64618004,0,False,residential,Johnson Street,182.982,2,15.2,,,,,,,,,8874805,
+64572131,64616366,0,False,residential,Old Mill Road,103.365,2,8.8,,,,,,,,,8873879,
+64572131,64594469,0,False,residential,Old Mill Road,528.876,"['2', '1']","['3.7', '8.8']",,,,,,yes,,,"[441354771, 441354770, 8874411, 8873878]",
+64572131,64608796,0,False,residential,Bicentennial Road,67.253,2,15.2,,25 mph,,,,,,,8874761,
+64573174,64580319,0,False,residential,Debbie Drive,364.63,2,13.4,,,,,,,,,8873800,
+64573174,64580319,1,False,residential,Jay Avenue,248.046,2,,,,,,,,,,8873981,
+64573174,64581409,0,False,residential,Beth Avenue,140.558,2,11.0,,,,,,,,,8874194,
+64573174,64622048,0,False,residential,Beth Avenue,127.213,2,11.0,,,,,,,,,269776718,
+64575076,64619402,0,False,residential,Lincoln Terrace,39.975,2,15.2,,,,,,,,,8874132,
+64575076,64607719,0,False,residential,Lincoln Terrace,80.964,2,15.2,,,,,,,,,8874132,
+64575076,64603721,0,False,residential,,66.73,,,,,,,,,,,8874666,
+64575263,64601125,0,False,residential,Meadowbrook Acres,105.19,,,,,,,,,,,8874748,
+64575263,64626526,0,False,residential,Meadowbrook Acres,211.71,,,,,,,,,,,"[8874602, 440877035]",
+64575263,64577198,0,False,residential,Meadowbrook Acres,72.924,,,,,,,,,,,8874602,
+64576865,64609651,0,False,residential,Barnes Street,180.205,2,9.1,,,,,,,,,8873992,
+64576865,64600711,0,False,residential,Lancaster Street,286.111,2,13.4,,30 mph,,,,,,,8874336,
+64576865,64596075,0,False,residential,Lancaster Street,145.589,2,13.4,,30 mph,,,,,,,8874336,
+64576865,64588097,0,False,residential,Barnes Street,81.927,,,,,,,,,,,8874444,
+64577198,64619795,0,False,residential,Meadowbrook Acres,140.241,,,,,,,,,,,440877033,
+64577198,64575263,0,False,residential,Meadowbrook Acres,72.924,,,,,,,,,,,8874602,
+64577198,64619201,0,False,residential,Meadowbrook Acres,105.574,,,,,,,,,,,"[440877034, 8874602]",
+64578707,64584946,0,False,secondary,Lancaster Street,72.003,2,18.3,,30 mph,,,,,,,8874839,MA 117
+64578707,64607363,0,False,residential,Marguerite Avenue,115.157,2,10.4,,,,,,,,,8874186,
+64578707,64609079,0,False,secondary,Lancaster Street,91.475,2,18.3,,30 mph,,,,,,,8874839,MA 117
+64579226,64622330,0,False,secondary,Central Street,71.43,2,18.3,,30 mph,,,,,,,8874114,MA 12
+64579226,64595374,0,False,secondary,Central Street,172.678,2,18.3,,30 mph,,,,,,,8874114,MA 12
+64579226,64605509,0,False,residential,Graham Street,86.823,2,16.8,,,,,,,,,8874846,
+64579546,64617104,0,False,residential,Howard Street,97.777,2,10.4,,,,,,,,,8874031,
+64579546,64604733,0,False,residential,Howard Street,77.961,2,10.4,,,,,,,,,8874031,
+64579546,64611729,0,False,residential,Cortland Circle,146.054,,,,,,,,,,,8874640,
+64579876,64579876,0,False,residential,Cortland Circle,447.169,,,,,,,,,,,8874640,
+64579876,64579876,1,False,residential,Cortland Circle,447.169,,,,,,,,,,,8874640,
+64579876,64611729,0,False,residential,Cortland Circle,198.253,,,,,,,,,,,8874640,
+64580319,64625584,0,False,residential,Debbie Drive,90.405,2,13.4,,,,,,,,,8873800,
+64580319,64573174,0,False,residential,Debbie Drive,364.63,2,13.4,,,,,,,,,8873800,
+64580319,64573174,1,False,residential,Jay Avenue,248.046,2,,,,,,,,,,8873981,
+64580438,64605383,0,False,residential,Gould Place,58.541,1,4.3,,,,,,,,,8874897,
+64580447,64601735,0,False,secondary,Central Street,44.159,2,18.3,,40 mph,,,,,,,440871889,MA 12
+64580725,64621395,0,False,residential,Middle Street,379.329,2,12.8,,,,,,,,,8873883,
+64580725,64600887,0,False,residential,Middle Street,102.908,2,12.8,,,,,,,,,8873883,
+64581409,64625584,0,False,residential,Barry Lane,296.625,2,,,,,,,,,,8874121,
+64581409,64573174,0,False,residential,Beth Avenue,140.558,2,11.0,,,,,,,,,8874194,
+64581409,64600229,0,False,residential,Beth Avenue,89.016,2,11.0,,,,,,,,,8874194,
+64581700,64624593,0,False,residential,Litchfield Street,84.444,2,8.5,,30 mph,,,,,,,8874014,
+64581700,64618095,0,False,secondary,Lancaster Street,64.502,2,18.3,,30 mph,,,,,,,8874839,MA 117
+64581700,64621970,0,False,secondary,Lancaster Street,202.059,2,18.3,,30 mph,,,,,,,8874839,MA 117
+64581823,64581823,0,False,residential,Jungle Road,266.358,2,9.1,,,,,,,,,8873786,
+64581823,64581823,1,False,residential,Jungle Road,266.358,2,9.1,,,,,,,,,8873786,
+64581823,64611918,0,False,residential,Jungle Road,1479.869,2,9.1,,,,,,,,,8873786,
+64583012,64616712,0,False,residential,Johnny Appleseed Lane,125.557,2,15.2,,,,,,,,,8874412,
+64583012,64622618,0,False,residential,Blaldwin Drive,127.295,,,,,,,,,,,8874587,
+64583138,64598880,0,False,secondary,Mechanic Street,17.897,2,15.2,,30 mph,,,,,,,183371686,
+64583138,64618887,0,False,secondary,Mechanic Street,117.448,2,15.2,,30 mph,,,,,,,183371686,
+64584891,64611464,0,False,secondary,Litchfield Street,62.169,2,12.2,,30 mph,,,,,,,440871890,
+64584891,64611464,1,False,residential,Abbey Road,451.958,,,,,,,,,,,8874461,
+64584891,64569616,0,False,secondary,Litchfield Street,152.343,2,12.2,,30 mph,,,,,,,440871890,
+64584946,64578707,0,False,secondary,Lancaster Street,72.003,2,18.3,,30 mph,,,,,,,8874839,MA 117
+64584946,64624887,0,False,residential,Johnson Street,244.524,2,15.2,,,,,,,,,8874805,
+64584946,64620441,0,False,secondary,Lancaster Street,109.906,2,18.3,,30 mph,,,,,,,8874839,MA 117
+64585025,64608887,0,False,residential,Service Road,119.957,2,15.2,,,,,,,,,8874220,
+64585084,64616571,0,False,residential,Malburn Terrace,178.601,2,9.1,,,,,,,,,"[8874266, 8874610]",
+64585084,64600529,0,False,residential,Malburn Street,145.389,2,11.0,,,,,,,,,8874292,
+64585084,64612718,0,False,residential,Malburn Street,124.599,2,11.0,,,,,,,,,8874292,
+64585520,64622473,0,False,residential,,136.945,,,,,,,,,,,8874486,
+64586320,64598975,0,False,residential,Independence Drive,127.39,2,15.2,,25 mph,,,,,,,8874272,
+64586380,64619402,0,False,residential,Marguerite Avenue,63.631,2,10.4,,,,,,,,,8874186,
+64586380,64597916,0,False,residential,Marguerite Avenue,69.576,2,10.4,,,,,,,,,8874186,
+64586380,64597916,1,False,residential,,343.34,,,,,,,,,,,8874603,
+64586388,64622147,0,False,residential,Damon Street,27.597,2,8.5,,,,,,,,,8873872,
+64586388,64586511,0,False,residential,Reed Street,169.973,1,5.5,,,,,,,,,8874794,
+64586388,64625586,0,False,residential,Damon Street,94.316,2,8.5,,,,,,,,,8873872,
+64586511,64586388,0,False,residential,Reed Street,169.973,1,5.5,,,,,,,,,8874794,
+64586812,64616062,0,False,residential,Wilson Street,73.59,2,7.3,,,,,,,,,8874207,
+64586812,64610929,0,False,residential,Pine Street,67.748,2,10.4,,,,,,,,,8874250,
+64586812,64609282,0,False,residential,Howe Street,86.678,2,8.5,,,,,,,,,8874782,
+64588097,64576865,0,False,residential,Barnes Street,81.927,,,,,,,,,,,8874444,
+64588585,64609322,0,False,secondary,Lancaster Street,94.329,2,14.6,,30 mph,,,,,,,8874159,MA 117
+64588585,64621016,0,False,secondary,Lancaster Street,75.882,2,14.6,,30 mph,,,,,,,8874159,MA 117
+64588585,2749249491,0,False,residential,Steepleview Way,123.748,,,,,,,,,,,8874661,
+64589329,64618684,0,False,secondary,Central Street,111.217,2,18.3,,30 mph,,,,,,,8874114,MA 12
+64589329,64622330,0,False,secondary,Central Street,18.808,2,18.3,,30 mph,,,,,,,8874114,MA 12
+64589329,64607761,0,False,residential,Central Place,114.579,2,5.5,,,,,,,,,8874437,
+64589573,64621970,0,False,secondary,Lancaster Street,80.112,2,18.3,,30 mph,,,,,,,8874839,MA 117
+64589573,64619193,0,False,secondary,Elm Hill Avenue,299.455,2,13.4,,30 mph,,,,,,,8873791,
+64589573,64620717,0,False,secondary,Lancaster Street,192.894,2,18.3,,30 mph,,,,,,,8874839,MA 117
+64589725,64619417,0,False,residential,Saint Cecilia Street,166.325,2,14.6,,,,,,,,,8874814,
+64589725,64590067,0,False,residential,Florence Street,198.466,2,13.4,,,,,,,,,8874896,
+64590067,64600839,0,False,residential,Florence Street,151.129,2,13.4,,,,,,,,,8874896,
+64590067,64589725,0,False,residential,Florence Street,198.466,2,13.4,,,,,,,,,8874896,
+64591239,64626929,0,False,secondary,Central Street,23.882,2,18.3,,40 mph,,,,,,,440871889,MA 12
+64591239,64625155,0,False,secondary,Central Street,114.22,2,18.3,,40 mph,,,,,,,440871889,MA 12
+64594469,64611918,0,False,residential,Old Mill Road,414.198,2,8.8,,,,,,,,,8873878,
+64594469,64572131,0,False,residential,Old Mill Road,528.876,"['2', '1']","['3.7', '8.8']",,,,,,yes,,,"[441354770, 441354771, 8874411, 8873878]",
+64594469,64607608,0,False,residential,Berrington Road,114.286,,,,,,,,,,,8874574,
+64594508,64605386,0,False,secondary,Viscoloid Avenue,117.889,2,15.2,,30 mph,,,,,,,8873920,
+64594508,64609809,0,False,secondary,Viscoloid Avenue,88.307,2,15.2,,30 mph,,,,,,,8873920,
+64594508,64618120,0,False,residential,Roby Street,131.207,2,13.4,,,,,,,,,8874639,
+64594903,64623902,0,False,residential,,281.946,,,,,,,,,,,8874581,
+64594903,64603715,0,False,secondary,New Lancaster Road,598.075,2,30.5,,,,,,,,,"[441356314, 441356236]",MA 117
+64594903,64622183,0,False,secondary,New Lancaster Road,190.861,2,30.5,,,,,,,,,441356236,MA 117
+64594908,2583180088,0,False,residential,Legate Hill Road,31.636,2,9.1,,,,,,,,,8874240,
+64594908,64598975,0,False,residential,Wekepeke Way,145.978,2,15.2,,25 mph,,,,,,,8874307,
+64595279,64626696,0,False,residential,Lancaster Street,558.485,2,10.4,,30 mph,,,,,,,8874064,
+64595374,64579226,0,False,secondary,Central Street,172.678,2,18.3,,30 mph,,,,,,,8874114,MA 12
+64595374,64618780,0,False,secondary,Central Street,103.376,2,18.3,,30 mph,,,,,,,8874114,MA 12
+64595460,64623147,0,False,residential,Florence Street,75.65,2,13.4,,,,,,,,,8873807,
+64595460,64619342,0,False,residential,Baker Street,41.95,2,9.8,,,,,,,,,8873892,
+64595460,64624880,0,False,residential,Florence Street,151.464,2,13.4,,,,,,,,,8873807,
+64595503,64597292,0,False,residential,Miller Street,89.153,2,9.1,,,,,,,,,8873808,
+64595652,64596075,0,False,residential,Cleveland Street,167.355,2,6.1,,,,,,,,,8874063,
+64596075,64595652,0,False,residential,Cleveland Street,167.355,2,6.1,,,,,,,,,8874063,
+64596075,64576865,0,False,residential,Lancaster Street,145.589,2,13.4,,30 mph,,,,,,,8874336,
+64596075,64614455,0,False,residential,Lancaster Street,74.996,2,13.4,,30 mph,,,,,,,8874336,
+64596260,64613938,0,False,residential,Aspinwall Avenue,28.336,2,9.1,,,,,,,,,8873779,
+64596961,64599051,0,False,residential,James Court,76.369,2,6.1,,,,,,,,,8873757,
+64597292,64595503,0,False,residential,Miller Street,89.153,2,9.1,,,,,,,,,8873808,
+64597292,64626541,0,False,residential,Miller Street,87.56,2,9.1,,,,,,,,,8873808,
+64597292,64569910,0,False,residential,Eden Glen Street,195.18,2,11.0,,,,,,,,,8873861,
+64597329,64626253,0,False,secondary,Viscoloid Avenue,57.496,2,15.2,,30 mph,,,,,,,8873920,
+64597329,64608599,0,False,secondary,Viscoloid Avenue,126.189,2,15.2,,30 mph,,,,,,,8873920,
+64597344,2082791597,0,False,residential,Meadow Pond Drive,533.882,,,,5 mph,destination,,,,,,198097289,
+64597344,64619193,0,False,secondary,Litchfield Street,341.577,2,12.2,,30 mph,,,,,,,440871890,
+64597344,64611464,0,False,secondary,Litchfield Street,87.674,2,12.2,,30 mph,,,,,,,440871890,
+64597680,64606163,0,False,residential,,39.418,,,,,,,,,,,8874585,
+64597680,64623246,0,False,residential,Service Road,62.122,2,15.2,,,,,,,,,8874220,
+64597680,64604532,0,False,residential,Service Road,239.382,2,15.2,,,,,,,,,8874220,
+64597916,64586380,0,False,residential,Marguerite Avenue,69.576,2,10.4,,,,,,,,,8874186,
+64597916,64586380,1,False,residential,,343.34,,,,,,,,,,,8874603,
+64598133,4386031823,0,False,secondary,Central Street,83.516,2,18.3,,40 mph,,,,,,,8873956,MA 12
+64598133,64607301,0,False,secondary,Central Street,198.496,2,18.3,,40 mph,,,,,,,8873956,MA 12
+64598133,64606408,0,False,residential,Legate Hill Road,117.156,2,9.1,,,,,,,,,8874240,
+64598880,64604691,0,False,residential,,72.309,,,,,,,,,,,8874484,
+64598880,64583138,0,False,secondary,Mechanic Street,17.897,2,15.2,,30 mph,,,,,,,183371686,
+64598880,64619417,0,False,secondary,Mechanic Street,214.621,2,15.2,,30 mph,,,,,,,183371686,
+64598975,64602381,0,False,residential,Independence Drive,394.753,2,15.2,,25 mph,,,,,,,8874272,
+64598975,64586320,0,False,residential,Independence Drive,127.39,2,15.2,,25 mph,,,,,,,8874272,
+64598975,64594908,0,False,residential,Wekepeke Way,145.978,2,15.2,,25 mph,,,,,,,8874307,
+64599051,64596961,0,False,residential,James Court,76.369,2,6.1,,,,,,,,,8873757,
+64599051,64609322,0,False,residential,Cross Street,126.236,2,9.1,,,,,,,,,8874256,
+64599051,64613443,0,False,residential,Cross Street,48.759,2,9.1,,,,,,,,,8874256,
+64599316,64618359,0,True,motorway_link,,161.905,1,15.2,,,,,,,,,8874333,
+64599316,64622183,0,False,secondary,New Lancaster Road,193.15,2,30.5,,,,,,,,,441356236,MA 117
+64599316,64599528,0,False,secondary,New Lancaster Road,74.664,2,30.5,,,,,,,,,441356237,MA 117
+64599319,64599528,0,False,secondary,New Lancaster Road,14.05,2,30.5,,,,,,,,,441356238,MA 117
+64599319,64618359,0,True,motorway_link,,100.389,1,15.2,,,,,,,,,39324662,
+64599528,64599319,0,False,secondary,New Lancaster Road,14.05,2,30.5,,,,,,,,,441356238,MA 117
+64599528,64599316,0,False,secondary,New Lancaster Road,74.664,2,30.5,,,,,,,,,441356237,MA 117
+64599648,64613479,0,False,residential,Cutler Street,147.169,,,,,,,,,,,8874736,
+64599648,64606671,0,False,residential,Willard Street,92.909,2,11.6,,30 mph,,,,,,,8874373,
+64599648,64622255,0,False,residential,Willard Street,93.528,2,11.6,,30 mph,,,,,,,8874373,
+64600229,64625584,0,False,residential,Debbie Drive,377.017,2,13.4,,,,,,,,,8873800,
+64600229,64581409,0,False,residential,Beth Avenue,89.016,2,11.0,,,,,,,,,8874194,
+64600529,64585084,0,False,residential,Malburn Street,145.389,2,11.0,,,,,,,,,8874292,
+64600529,64625852,0,False,secondary,Lancaster Street,77.302,2,18.3,,30 mph,,,,,,,8874839,MA 117
+64600529,64613149,0,False,secondary,Lancaster Street,425.714,2,18.3,,30 mph,,,,,,,8874839,MA 117
+64600711,64617532,0,False,residential,Lancaster Street,53.035,2,13.4,,30 mph,,,,,,,8874336,
+64600711,64576865,0,False,residential,Lancaster Street,286.111,2,13.4,,30 mph,,,,,,,8874336,
+64600711,64618529,0,False,residential,"['Hudson Street', 'Reed Street']",143.931,1,5.5,,,,,,,,,"[8874393, 8874774]",
+64600839,64590067,0,False,residential,Florence Street,151.129,2,13.4,,,,,,,,,8874896,
+64600839,64617104,0,False,residential,Florence Street,104.711,2,13.4,,,,,,,,,8874896,
+64600887,64619714,0,False,residential,Middle Street,124.541,2,13.4,,,,,,,,,8873946,
+64600887,64580725,0,False,residential,Middle Street,102.908,2,12.8,,,,,,,,,8873883,
+64600887,64616790,0,False,residential,Cedar Street,204.277,2,14.6,,,,,,,,,8874801,
+64601125,64575263,0,False,residential,Meadowbrook Acres,105.19,,,,,,,,,,,8874748,
+64601125,64620042,0,False,residential,Meadowbrook Acres,46.625,,,,,,,,,,,8874748,
+64601125,4386474416,0,False,residential,Meadowbrook Acres,69.929,,,,,,,,,,,440877032,
+64601356,64609200,0,False,residential,Arrowhead Road,191.298,,,,,,,,,,,8874487,
+64601735,64580447,0,False,secondary,Central Street,44.159,2,18.3,,40 mph,,,,,,,440871889,MA 12
+64601735,64626929,0,False,residential,Albert Drive,387.575,2,9.1,,,,,,,,,8873809,
+64601735,64626929,1,False,secondary,Central Street,374.746,2,18.3,,40 mph,,,,,,,440871889,MA 12
+64602381,64598975,0,False,residential,Independence Drive,394.753,2,15.2,,25 mph,,,,,,,8874272,
+64602381,64618771,0,False,residential,Bicentennial Road,373.119,2,15.2,,25 mph,,,,,,,8874761,
+64602381,64618735,0,False,residential,Bicentennial Road,113.389,2,15.2,,25 mph,,,,,,,8874761,
+64602476,64570741,0,False,residential,Dudley Street,83.943,2,12.2,,,,,,,,,8874080,
+64603219,64607301,0,False,secondary,Central Street,804.583,2,18.3,,40 mph,,,,,,,8873956,MA 12
+64603278,64624720,0,False,residential,Ash Street,173.679,2,7.3,,,,,,,,,8874402,
+64603278,64611442,0,False,secondary,Lancaster Street,104.548,2,18.3,,30 mph,,,,,,,8874839,MA 117
+64603278,64625852,0,False,secondary,Lancaster Street,105.652,2,18.3,,30 mph,,,,,,,8874839,MA 117
+64603715,64622255,0,False,residential,Willard Street,120.892,2,11.6,,30 mph,,,,,,,8874373,
+64603715,64623484,0,False,tertiary,Willard Street,202.406,2,11.6,,30 mph,,,,,,,8874793,
+64603715,64620987,0,False,secondary,New Lancaster Road,321.655,2,30.5,,,,,,,,,441356314,MA 117
+64603715,64594903,0,False,secondary,New Lancaster Road,598.075,2,30.5,,,,,,,,,"[441356314, 441356236]",MA 117
+64603721,64575076,0,False,residential,,66.73,,,,,,,,,,,8874666,
+64603853,64623781,0,False,residential,,19.931,,,,,,,,,,,8874750,
+64603858,64623246,0,False,residential,,47.026,,,,,,,,,,,8874745,
+64604291,64623767,0,False,residential,Belview Drive,93.341,2,13.4,,,,,,,,,8873777,
+64604532,64597680,0,False,residential,Service Road,239.382,2,15.2,,,,,,,,,8874220,
+64604532,64606816,0,False,residential,Johnny Appleseed Lane,278.496,2,15.2,,,,,yes,,,,"[8874412, 197599787, 197599788]",
+64604691,64598880,0,False,residential,,72.309,,,,,,,,,,,8874484,
+64604733,64623881,0,False,residential,Howard Street,56.987,2,10.4,,,,,,,,,8874031,
+64604733,64579546,0,False,residential,Howard Street,77.961,2,10.4,,,,,,,,,8874031,
+64604733,64621472,0,False,residential,Portland Street,149.344,2,9.8,,,,,,,,,8874073,
+64604797,64616712,0,False,residential,,115.142,,,,,,,,,,,8874586,
+64605383,64580438,0,False,residential,Gould Place,58.541,1,4.3,,,,,,,,,8874897,
+64605383,64616790,0,False,secondary,Lancaster Street,46.054,2,18.3,,30 mph,,,,,,,8874839,MA 117
+64605383,64618962,0,False,secondary,Lancaster Street,125.744,2,18.3,,30 mph,,,,,,,8874839,MA 117
+64605386,64617104,0,False,residential,Florence Street,276.101,2,13.4,,,,,,,,,8874896,
+64605386,64608599,0,False,secondary,Viscoloid Avenue,90.023,2,15.2,,30 mph,,,,,,,8873920,
+64605386,64594508,0,False,secondary,Viscoloid Avenue,117.889,2,15.2,,30 mph,,,,,,,8873920,
+64605509,64626541,0,False,residential,Lincoln Terrace,202.007,2,11.6,,,,,,,,,8873781,
+64605509,64569910,0,False,residential,Graham Street,62.833,2,16.8,,,,,,,,,8874846,
+64605509,64579226,0,False,residential,Graham Street,86.823,2,16.8,,,,,,,,,8874846,
+64605891,64609079,0,False,residential,Wheeler Street,234.982,2,13.4,,,,,,,,,8874870,
+64606163,64597680,0,False,residential,,39.418,,,,,,,,,,,8874585,
+64606408,64623767,0,False,residential,Bel Air Heights,486.033,2,13.4,,,,,,,,,8873799,
+64606408,64598133,0,False,residential,Legate Hill Road,117.156,2,9.1,,,,,,,,,8874240,
+64606408,64618735,0,False,residential,Legate Hill Road,221.007,2,9.1,,,,,,,,,8874240,
+64606503,64623147,0,False,residential,Florence Street,77.839,2,13.4,,,,,,,,,8873807,
+64606671,64614455,0,False,residential,Lancaster Street,78.075,2,13.4,,30 mph,,,,,,,8874336,
+64606671,64626696,0,False,residential,Lancaster Street,226.203,2,10.4,,30 mph,,,,,,,8874064,
+64606671,64621586,0,False,residential,Garfield Street,191.933,2,8.5,,,,,,,,,8874168,
+64606671,64599648,0,False,residential,Willard Street,92.909,2,11.6,,30 mph,,,,,,,8874373,
+64606696,1047216065,0,False,secondary,New Lancaster Road,86.519,2,30.5,,,,,,,,,441356314,MA 117
+64606696,64614971,0,False,residential,,127.898,,,,,,,,,,,8874739,
+64606696,64617532,0,False,secondary,New Lancaster Road,248.587,2,30.5,,,,,,,,,441356314,MA 117
+64606816,64604532,0,False,residential,Johnny Appleseed Lane,278.496,2,15.2,,,,,yes,,,,"[197599787, 8874412, 197599788]",
+64606816,64616712,0,False,residential,Johnny Appleseed Lane,52.524,2,15.2,,,,,,,,,8874412,
+64606816,64624780,0,False,residential,Pebble Lane,126.497,,,,,,,,,,,8874445,
+64607111,4386419268,0,False,secondary,Central Street,55.769,2,18.3,,40 mph,,,,,,,8873956,MA 12
+64607301,64598133,0,False,secondary,Central Street,198.496,2,18.3,,40 mph,,,,,,,8873956,MA 12
+64607301,64603219,0,False,secondary,Central Street,804.583,2,18.3,,40 mph,,,,,,,8873956,MA 12
+64607317,64620441,0,False,residential,Derwin Street,195.774,2,18.3,,,,,,,,,8873911,
+64607317,64624887,0,False,residential,Middle Street,176.687,2,13.4,,,,,,,,,8873947,
+64607317,64621609,0,False,residential,Middle Street,85.707,2,13.4,,,,,,,,,8873947,
+64607363,64608048,0,False,residential,Fuller Street,299.889,2,12.2,,,,,,,,,8873804,
+64607363,64578707,0,False,residential,Marguerite Avenue,115.157,2,10.4,,,,,,,,,8874186,
+64607363,64619402,0,False,residential,Marguerite Avenue,147.216,2,10.4,,,,,,,,,8874186,
+64607381,64613443,0,False,residential,Cross Court,48.578,1,3.7,,,,,,,,,8874813,
+64607608,64607608,0,False,residential,Berrington Road,337.798,,,,,,,,,,,8874574,
+64607608,64607608,1,False,residential,Berrington Road,337.798,,,,,,,,,,,8874574,
+64607608,64594469,0,False,residential,Berrington Road,114.286,,,,,,,,,,,8874574,
+64607719,64624608,0,False,residential,Castle Street,184.332,2,15.2,,,,,,,,,8873869,
+64607719,64575076,0,False,residential,Lincoln Terrace,80.964,2,15.2,,,,,,,,,8874132,
+64607719,64618869,0,False,residential,Lincoln Terrace,76.666,2,15.2,,,,,,,,,8874132,
+64607761,64610328,0,False,residential,Eden Glen Street,179.391,2,11.0,,,,,,,,,8873861,
+64607761,64569910,0,False,residential,Eden Glen Street,84.481,2,11.0,,,,,,,,,8873861,
+64607761,64589329,0,False,residential,Central Place,114.579,2,5.5,,,,,,,,,8874437,
+64607931,64624593,0,False,residential,Nobile Place,111.259,2,10.7,,,,,,,,,8874358,
+64608048,64607363,0,False,residential,Fuller Street,299.889,2,12.2,,,,,,,,,8873804,
+64608548,64623147,0,False,residential,Amico Avenue,83.742,2,11.3,,,,,,,,,8874906,
+64608599,64597329,0,False,secondary,Viscoloid Avenue,126.189,2,15.2,,30 mph,,,,,,,8873920,
+64608599,64605386,0,False,secondary,Viscoloid Avenue,90.023,2,15.2,,30 mph,,,,,,,8873920,
+64608796,64572131,0,False,residential,Bicentennial Road,67.253,2,15.2,,25 mph,,,,,,,8874761,
+64608796,64618771,0,False,residential,Bicentennial Road,125.725,2,15.2,,25 mph,,,,,,,8874761,
+64608796,64616374,0,False,residential,Indian Ridge Road,211.803,2,15.2,,25 mph,,,,,,,8874912,
+64608887,64619593,0,False,residential,,32.772,,,,,,,,,,,8874488,
+64608887,64585025,0,False,residential,Service Road,119.957,2,15.2,,,,,,,,,8874220,
+64608887,64623961,0,False,residential,Service Road,124.197,2,15.2,,,,,,,,,8874220,
+64609079,64624880,0,False,secondary,Lancaster Street,88.337,2,18.3,,30 mph,,,,,,,8874839,MA 117
+64609079,64578707,0,False,secondary,Lancaster Street,91.475,2,18.3,,30 mph,,,,,,,8874839,MA 117
+64609079,64605891,0,False,residential,Wheeler Street,234.982,2,13.4,,,,,,,,,8874870,
+64609200,64617304,0,False,residential,Pennacook Drive,463.818,,,,,,,,,,,8874443,
+64609200,64624425,0,False,residential,"['Fall Brook Avenue', 'Pennacook Drive']",173.392,1,5.5,,,,,,,,,"[8874443, 8874831]",
+64609200,64601356,0,False,residential,Arrowhead Road,191.298,,,,,,,,,,,8874487,
+64609282,64622116,0,False,residential,Short Street,96.492,2,7.6,,,,,,,,,8873806,
+64609282,64624190,0,False,residential,Howe Street,113.683,2,8.5,,,,,,,,,8874782,
+64609282,64586812,0,False,residential,Howe Street,86.678,2,8.5,,,,,,,,,8874782,
+64609322,64610328,0,False,secondary,Lancaster Street,126.016,2,14.6,,30 mph,,,,,,,8874159,MA 117
+64609322,64588585,0,False,secondary,Lancaster Street,94.329,2,14.6,,30 mph,,,,,,,8874159,MA 117
+64609322,64599051,0,False,residential,Cross Street,126.236,2,9.1,,,,,,,,,8874256,
+64609651,64576865,0,False,residential,Barnes Street,180.205,2,9.1,,,,,,,,,8873992,
+64609809,64624037,0,False,residential,June Street,88.893,2,12.2,,,,,,,,,8874303,
+64609809,64594508,0,False,secondary,Viscoloid Avenue,88.307,2,15.2,,30 mph,,,,,,,8873920,
+64609809,64626575,0,False,secondary,Viscoloid Avenue,100.166,2,15.2,,30 mph,,,,,,,8873920,
+64609809,64570741,0,False,residential,June Street,184.701,2,12.2,,,,,,,,,8874303,
+64610328,64607761,0,False,residential,Eden Glen Street,179.391,2,11.0,,,,,,,,,8873861,
+64610328,64617855,0,False,secondary,Lancaster Street,66.935,2,14.6,,30 mph,,,,,,,8874159,MA 117
+64610328,64609322,0,False,secondary,Lancaster Street,126.016,2,14.6,,30 mph,,,,,,,8874159,MA 117
+64610775,4386419269,0,False,secondary,Litchfield Street,60.35,2,12.2,,30 mph,,,,,,,8874365,
+64610775,64620591,0,False,secondary,Litchfield Street,42.216,2,12.2,,30 mph,,,,,,,440871890,
+64610929,64622116,0,True,residential,Mount Pleasant Avenue,63.356,2,9.1,,,,,,,,,8873810,
+64610929,64586812,0,False,residential,Pine Street,67.748,2,10.4,,,,,,,,,8874250,
+64610929,64626646,0,False,residential,Pine Street,70.334,2,10.4,,,,,,,,,8874250,
+64611442,64620717,0,False,secondary,Lancaster Street,96.288,2,18.3,,30 mph,,,,,,,8874839,MA 117
+64611442,64603278,0,False,secondary,Lancaster Street,104.548,2,18.3,,30 mph,,,,,,,8874839,MA 117
+64611442,64623881,0,False,residential,Howard Street,279.62,2,14.6,,,,,,,,,8874000,
+64611464,64584891,0,False,secondary,Litchfield Street,62.169,2,12.2,,30 mph,,,,,,,440871890,
+64611464,64584891,1,False,residential,Abbey Road,451.958,,,,,,,,,,,8874461,
+64611464,64597344,0,False,secondary,Litchfield Street,87.674,2,12.2,,30 mph,,,,,,,440871890,
+64611729,64569530,0,False,residential,Macintosh Lane,77.922,1,6.1,,,,,,,,,8873986,
+64611729,64579876,0,False,residential,Cortland Circle,198.253,,,,,,,,,,,8874640,
+64611729,64579546,0,False,residential,Cortland Circle,146.054,,,,,,,,,,,8874640,
+64611918,64581823,0,False,residential,Jungle Road,1479.869,2,9.1,,,,,,,,,8873786,
+64611918,64594469,0,False,residential,Old Mill Road,414.198,2,8.8,,,,,,,,,8873878,
+64611918,64622156,0,False,residential,,213.471,,,,,,,,,,,8874633,
+64612412,64626575,0,False,secondary,Viscoloid Avenue,91.453,2,15.2,,30 mph,,,,,,,8873920,
+64612412,64620717,0,False,secondary,Viscoloid Avenue,18.778,2,15.2,,30 mph,,,,,,,8873920,
+64612412,64615604,0,False,residential,Lakeview Street,81.476,2,9.8,,,,,,,,,8874028,
+64612718,64613938,0,False,residential,Aspinwall Avenue,151.749,2,9.1,,,,,,,,,8873779,
+64612718,64613149,0,False,residential,"['Malburn Street', 'Sage Avenue']",590.285,2,"['13.4', '12.2']",,,,,,,,,"[8874109, 8874102]",
+64612718,64585084,0,False,residential,Malburn Street,124.599,2,11.0,,,,,,,,,8874292,
+64613149,64625586,0,False,secondary,Lancaster Street,31.272,2,18.3,,30 mph,,,,,,,8874839,MA 117
+64613149,64612718,0,False,residential,"['Malburn Street', 'Sage Avenue']",590.285,2,"['12.2', '13.4']",,,,,,,,,"[8874109, 8874102]",
+64613149,64600529,0,False,secondary,Lancaster Street,425.714,2,18.3,,30 mph,,,,,,,8874839,MA 117
+64613443,64607381,0,False,residential,Cross Court,48.578,1,3.7,,,,,,,,,8874813,
+64613443,64599051,0,False,residential,Cross Street,48.759,2,9.1,,,,,,,,,8874256,
+64613443,64618684,0,False,residential,Cross Street,53.202,2,9.1,,,,,,,,,8874256,
+64613479,64599648,0,False,residential,Cutler Street,147.169,,,,,,,,,,,8874736,
+64613882,64618095,0,False,residential,Crescent Knoll,52.372,2,12.2,,,,,,,,,8874135,
+64613938,64612718,0,False,residential,Aspinwall Avenue,151.749,2,9.1,,,,,,,,,8873779,
+64613938,64596260,0,False,residential,Aspinwall Avenue,28.336,2,9.1,,,,,,,,,8873779,
+64613938,64618784,0,False,residential,Tanzio Road,895.867,2,15.2,,,,,,,,,8874485,
+64614455,64606671,0,False,residential,Lancaster Street,78.075,2,13.4,,30 mph,,,,,,,8874336,
+64614455,64621132,0,False,residential,Hayes Street,147.056,2,9.1,,,,,,,,,8873926,
+64614455,64596075,0,False,residential,Lancaster Street,74.996,2,13.4,,30 mph,,,,,,,8874336,
+64614705,64624542,0,False,residential,Sycamore Drive,312.483,,,,,,,,,,,8874636,
+64614705,64624542,1,False,residential,Bayberry Hill Lane,116.052,,,,,,,,,,,441094877,
+64614705,64622617,0,False,residential,Bayberry Hill Lane,118.825,,,,,,,,,,,441094877,
+64614971,64606696,0,False,residential,,127.898,,,,,,,,,,,8874739,
+64615314,64622617,0,True,residential,Bayberry Hill Lane,46.509,,,,,,,,,,,441094878,
+64615314,64622140,0,False,residential,Bayberry Hill Lane,51.571,,,,,,,,,,,441094879,
+64615604,64626575,0,False,residential,Longwood Avenue,42.873,2,7.6,,,,,,,,,8874198,
+64615604,64624037,0,False,residential,Lakeview Street,90.01,2,9.8,,,,,,,,,8874028,
+64615604,64612412,0,False,residential,Lakeview Street,81.476,2,9.8,,,,,,,,,8874028,
+64616062,64586812,0,False,residential,Wilson Street,73.59,2,7.3,,,,,,,,,8874207,
+64616215,64624267,0,False,tertiary,Willard Street,7.473,2,11.6,,30 mph,,,,,,,8874793,
+64616215,64624542,0,True,residential,Sycamore Drive,101.757,,,,,,,,,,,8874609,
+64616215,64622048,0,False,tertiary,Willard Street,520.996,2,11.6,,30 mph,,,,,,,8874793,
+64616366,64623767,0,False,residential,Bel Air Heights,85.353,2,13.4,,,,,,,,,8873799,
+64616366,64622048,0,False,residential,Old Mill Road,120.461,2,8.8,,,,,,,,,8873879,
+64616366,64572131,0,False,residential,Old Mill Road,103.365,2,8.8,,,,,,,,,8873879,
+64616374,64620445,0,False,residential,Drummer Lane,78.305,2,15.2,,25 mph,,,,,,,8873855,
+64616374,64608796,0,False,residential,Indian Ridge Road,211.803,2,15.2,,25 mph,,,,,,,8874912,
+64616374,64618771,0,False,residential,Indian Ridge Road,214.059,2,15.2,,25 mph,,,,,,,8874912,
+64616571,64585084,0,False,residential,Malburn Terrace,178.601,2,9.1,,,,,,,,,"[8874610, 8874266]",
+64616712,64606816,0,False,residential,Johnny Appleseed Lane,52.524,2,15.2,,,,,,,,,8874412,
+64616712,64583012,0,False,residential,Johnny Appleseed Lane,125.557,2,15.2,,,,,,,,,8874412,
+64616712,64604797,0,False,residential,,115.142,,,,,,,,,,,8874586,
+64616790,64600887,0,False,residential,Cedar Street,204.277,2,14.6,,,,,,,,,8874801,
+64616790,64617855,0,False,secondary,Lancaster Street,159.314,2,"['18.3', '14.6']",,30 mph,,,,,,,"[8874159, 8874839]",MA 117
+64616790,64605383,0,False,secondary,Lancaster Street,46.054,2,18.3,,30 mph,,,,,,,8874839,MA 117
+64617104,64600839,0,False,residential,Florence Street,104.711,2,13.4,,,,,,,,,8874896,
+64617104,64605386,0,False,residential,Florence Street,276.101,2,13.4,,,,,,,,,8874896,
+64617104,64579546,0,False,residential,Howard Street,97.777,2,10.4,,,,,,,,,8874031,
+64617207,64599528,0,True,motorway_link,,104.021,1,15.2,,,,,,,,,8874009,
+64617207,64599316,0,True,motorway_link,,127.482,1,15.2,,,,,,,,,8874010,
+64617304,64617304,0,False,residential,Pennacook Drive,221.782,,,,,,,,,,,8874443,
+64617304,64617304,1,False,residential,Pennacook Drive,221.782,,,,,,,,,,,8874443,
+64617304,64609200,0,False,residential,Pennacook Drive,463.818,,,,,,,,,,,8874443,
+64617532,64600711,0,False,residential,Lancaster Street,53.035,2,13.4,,30 mph,,,,,,,8874336,
+64617532,64622473,0,False,secondary,Lancaster Street,70.288,2,18.3,,30 mph,,,,,,,8874839,MA 117
+64617532,64606696,0,False,secondary,New Lancaster Road,248.587,2,30.5,,,,,,,,,441356314,MA 117
+64617855,64616790,0,False,secondary,Lancaster Street,159.314,2,"['18.3', '14.6']",,30 mph,,,,,,,"[8874839, 8874159]",MA 117
+64617855,64610328,0,False,secondary,Lancaster Street,66.935,2,14.6,,30 mph,,,,,,,8874159,MA 117
+64617855,64569910,0,False,residential,Graham Street,183.026,2,16.8,,,,,,,,,8874846,
+64617983,64624866,0,False,secondary,Central Street,8.342,2,18.3,,30 mph,,,,,,,8874114,MA 12
+64617983,64618722,0,False,secondary,Central Street,50.012,2,18.3,,30 mph,,,,,,,8874114,MA 12
+64617983,64626646,0,False,secondary,Lancaster Street,41.067,2,14.6,,30 mph,,,,,,,8874159,MA 117
+64618004,64571959,0,False,residential,Johnson Street,182.982,2,15.2,,,,,,,,,8874805,
+64618004,64624887,0,False,residential,Johnson Street,133.172,2,15.2,,,,,,,,,8874805,
+64618095,64613882,0,False,residential,Crescent Knoll,52.372,2,12.2,,,,,,,,,8874135,
+64618095,64624880,0,False,secondary,Lancaster Street,139.967,2,18.3,,30 mph,,,,,,,8874839,MA 117
+64618095,64581700,0,False,secondary,Lancaster Street,64.502,2,18.3,,30 mph,,,,,,,8874839,MA 117
+64618120,64624037,0,False,residential,Lakeview Street,91.335,2,13.4,,,,,,,,,8874278,
+64618120,64623881,0,False,residential,Roby Street,72.165,2,13.4,,,,,,,,,8874639,
+64618120,64594508,0,False,residential,Roby Street,131.207,2,13.4,,,,,,,,,8874639,
+64618529,64600711,0,False,residential,"['Hudson Street', 'Reed Street']",143.931,1,5.5,,,,,,,,,"[8874393, 8874774]",
+64618684,64618722,0,False,secondary,Central Street,224.866,2,18.3,,30 mph,,,,,,,8874114,MA 12
+64618684,64589329,0,False,secondary,Central Street,111.217,2,18.3,,30 mph,,,,,,,8874114,MA 12
+64618684,64613443,0,False,residential,Cross Street,53.202,2,9.1,,,,,,,,,8874256,
+64618722,64617983,0,False,secondary,Central Street,50.012,2,18.3,,30 mph,,,,,,,8874114,MA 12
+64618722,64618684,0,False,secondary,Central Street,224.866,2,18.3,,30 mph,,,,,,,8874114,MA 12
+64618735,64606408,0,False,residential,Legate Hill Road,221.007,2,9.1,,,,,,,,,8874240,
+64618735,2583180088,0,False,residential,Legate Hill Road,274.705,2,9.1,,,,,,,,,8874240,
+64618735,64602381,0,False,residential,Bicentennial Road,113.389,2,15.2,,25 mph,,,,,,,8874761,
+64618759,64622255,0,False,residential,Sunset Drive,163.857,2,13.4,,,,,,,,,8874140,
+64618771,2749096013,0,False,residential,Flintlock Road,105.442,2,15.2,,25 mph,,,,,,,8873918,
+64618771,64608796,0,False,residential,Bicentennial Road,125.725,2,15.2,,25 mph,,,,,,,8874761,
+64618771,64602381,0,False,residential,Bicentennial Road,373.119,2,15.2,,25 mph,,,,,,,8874761,
+64618771,64616374,0,False,residential,Indian Ridge Road,214.059,2,15.2,,25 mph,,,,,,,8874912,
+64618780,64595374,0,False,secondary,Central Street,103.376,2,18.3,,30 mph,,,,,,,8874114,MA 12
+64618780,64623683,0,False,secondary,Central Street,263.532,2,18.3,,30 mph,,,,,,,8874114,MA 12
+64618784,64613938,0,False,residential,Tanzio Road,895.867,2,15.2,,,,,,,,,8874485,
+64618784,64625586,0,False,secondary,Lancaster Street,74.891,2,18.3,,30 mph,,,,,,,8874839,MA 117
+64618784,64622473,0,False,secondary,Lancaster Street,139.556,2,18.3,,30 mph,,,,,,,8874839,MA 117
+64618869,64607719,0,False,residential,Lincoln Terrace,76.666,2,15.2,,,,,,,,,8874132,
+64618869,64626541,0,False,residential,Lincoln Terrace,266.371,2,15.2,,,,,,,,,8874132,
+64618869,64624751,0,False,residential,Cook Street,177.719,2,12.2,,,,,,,,,8874318,
+64618887,64583138,0,False,secondary,Mechanic Street,117.448,2,15.2,,30 mph,,,,,,,183371686,
+64618962,64621609,0,False,tertiary,Sixth Street,179.626,2,14.6,,,,,,,,,8874375,
+64618962,64605383,0,False,secondary,Lancaster Street,125.744,2,18.3,,30 mph,,,,,,,8874839,MA 117
+64618962,64620441,0,False,secondary,Lancaster Street,84.059,2,18.3,,30 mph,,,,,,,8874839,MA 117
+64619193,64589573,0,False,secondary,Elm Hill Avenue,299.455,2,13.4,,30 mph,,,,,,,8873791,
+64619193,64624593,0,False,residential,Litchfield Street,361.946,2,8.5,,30 mph,,,,,,,8874014,
+64619193,64597344,0,False,secondary,Litchfield Street,341.577,2,12.2,,30 mph,,,,,,,440871890,
+64619201,64577198,0,False,residential,Meadowbrook Acres,105.574,,,,,,,,,,,"[440877034, 8874602]",
+64619201,64619557,0,False,residential,Meadowbrook Acres,70.154,,,,,,,,,,,440877034,
+64619201,64626526,0,False,residential,Meadowbrook Acres,263.003,,,,,,,,,,,440877036,
+64619342,64595460,0,False,residential,Baker Street,41.95,2,9.8,,,,,,,,,8873892,
+64619402,64575076,0,False,residential,Lincoln Terrace,39.975,2,15.2,,,,,,,,,8874132,
+64619402,64607363,0,False,residential,Marguerite Avenue,147.216,2,10.4,,,,,,,,,8874186,
+64619402,64586380,0,False,residential,Marguerite Avenue,63.631,2,10.4,,,,,,,,,8874186,
+64619417,64589725,0,False,residential,Saint Cecilia Street,166.325,2,14.6,,,,,,,,,8874814,
+64619417,64598880,0,False,secondary,Mechanic Street,214.621,2,15.2,,30 mph,,,,,,,183371686,
+64619509,64621395,0,False,residential,Whitney Street,42.057,2,14.6,,,,,,,,,8874822,
+64619557,64626526,0,False,residential,Meadowbrook Acres,314.566,,,,,,,,,,,"[8874648, 440877035]",
+64619557,64625155,0,False,residential,Meadowbrook Acres,62.281,,,,,,,,,,,8874648,
+64619557,64619201,0,False,residential,Meadowbrook Acres,70.154,,,,,,,,,,,440877034,
+64619593,64608887,0,False,residential,,32.772,,,,,,,,,,,8874488,
+64619683,64626696,0,False,residential,Old Willard Road,239.727,2,7.9,,,,,,,,,8874378,
+64619714,64600887,0,False,residential,Middle Street,124.541,2,13.4,,,,,,,,,8873946,
+64619714,64621609,0,False,tertiary,Sixth Street,25.262,2,14.6,,,,,,,,,8874375,
+64619795,64577198,0,False,residential,Meadowbrook Acres,140.241,,,,,,,,,,,440877033,
+64620042,64601125,0,False,residential,Meadowbrook Acres,46.625,,,,,,,,,,,8874748,
+64620441,64607317,0,False,residential,Derwin Street,195.774,2,18.3,,,,,,,,,8873911,
+64620441,64618962,0,False,secondary,Lancaster Street,84.059,2,18.3,,30 mph,,,,,,,8874839,MA 117
+64620441,64584946,0,False,secondary,Lancaster Street,109.906,2,18.3,,30 mph,,,,,,,8874839,MA 117
+64620445,64616374,0,False,residential,Drummer Lane,78.305,2,15.2,,25 mph,,,,,,,8873855,
+64620591,64569616,0,False,residential,"['Columbus Street', 'Calza Street', 'Ruth Street']",474.406,2,"['12.8', '9.8', '9.1']",,,,,,,,,"[8874419, 8874332, 8873983]",
+64620591,64569616,1,False,secondary,Litchfield Street,121.771,2,12.2,,30 mph,,,,,,,440871890,
+64620591,64610775,0,False,secondary,Litchfield Street,42.216,2,12.2,,30 mph,,,,,,,440871890,
+64620701,2082791597,0,False,secondary,Central Street,85.46,2,18.3,,40 mph,,,,,,,440871889,MA 12
+64620701,4386435528,0,False,secondary,Central Street,140.297,2,18.3,,40 mph,,,,,,,440871889,MA 12
+64620717,64611442,0,False,secondary,Lancaster Street,96.288,2,18.3,,30 mph,,,,,,,8874839,MA 117
+64620717,64612412,0,False,secondary,Viscoloid Avenue,18.778,2,15.2,,30 mph,,,,,,,8873920,
+64620717,64589573,0,False,secondary,Lancaster Street,192.894,2,18.3,,30 mph,,,,,,,8874839,MA 117
+64620987,1047216065,0,False,secondary,New Lancaster Road,11.981,2,30.5,,,,,,,,,441356314,MA 117
+64620987,64623484,0,False,residential,"['Tucker Drive', 'Francis Street']",723.519,2,12.2,,,,,,,,,"[8873857, 8873750]",
+64620987,64603715,0,False,secondary,New Lancaster Road,321.655,2,30.5,,,,,,,,,441356314,MA 117
+64621016,64624850,0,False,residential,Eaton Place,97.132,1,3.7,,,,,,,,,8873888,
+64621016,64588585,0,False,secondary,Lancaster Street,75.882,2,14.6,,30 mph,,,,,,,8874159,MA 117
+64621016,64626646,0,False,secondary,Lancaster Street,38.592,2,14.6,,30 mph,,,,,,,8874159,MA 117
+64621132,64614455,0,False,residential,Hayes Street,147.056,2,9.1,,,,,,,,,8873926,
+64621395,64619509,0,False,residential,Whitney Street,42.057,2,14.6,,,,,,,,,8874822,
+64621395,64580725,0,False,residential,Middle Street,379.329,2,12.8,,,,,,,,,8873883,
+64621472,64569530,0,False,residential,Macintosh Lane,44.549,1,6.1,,,,,,,,,8873986,
+64621472,64569530,1,False,residential,Macintosh Lane,177.935,1,6.1,,,,,,,,,8873986,
+64621472,64604733,0,False,residential,Portland Street,149.344,2,9.8,,,,,,,,,8874073,
+64621586,64606671,0,False,residential,Garfield Street,191.933,2,8.5,,,,,,,,,8874168,
+64621609,64618962,0,False,tertiary,Sixth Street,179.626,2,14.6,,,,,,,,,8874375,
+64621609,64607317,0,False,residential,Middle Street,85.707,2,13.4,,,,,,,,,8873947,
+64621609,64619714,0,False,tertiary,Sixth Street,25.262,2,14.6,,,,,,,,,8874375,
+64621970,64589573,0,False,secondary,Lancaster Street,80.112,2,18.3,,30 mph,,,,,,,8874839,MA 117
+64621970,64626603,0,False,residential,Dudley Street,99.432,2,12.2,,,,,,,,,8874080,
+64621970,64581700,0,False,secondary,Lancaster Street,202.059,2,18.3,,30 mph,,,,,,,8874839,MA 117
+64622048,64616366,0,False,residential,Old Mill Road,120.461,2,8.8,,,,,,,,,8873879,
+64622048,4386399850,0,False,tertiary,Willard Street,447.768,2,9.1,,30 mph,,,,,,,8874425,
+64622048,64616215,0,False,tertiary,Willard Street,520.996,2,11.6,,30 mph,,,,,,,8874793,
+64622048,64573174,0,False,residential,Beth Avenue,127.213,2,11.0,,,,,,,,,269776718,
+64622116,64609282,0,False,residential,Short Street,96.492,2,7.6,,,,,,,,,8873806,
+64622116,64624190,0,True,residential,Mount Pleasant Avenue,129.876,2,9.1,,,,,,,,,8873810,
+64622140,64615314,0,False,residential,Bayberry Hill Lane,51.571,,,,,,,,,,,441094879,
+64622147,64586388,0,False,residential,Damon Street,27.597,2,8.5,,,,,,,,,8873872,
+64622156,64611918,0,False,residential,,213.471,,,,,,,,,,,8874633,
+64622156,64622183,0,False,residential,,59.722,,,,,,,,,,,441355572,
+64622156,4391173950,0,False,residential,,231.493,,,,,,,,,,,441355572,
+64622183,64622156,0,False,residential,,59.722,,,,,,,,,,,441355572,
+64622183,64594903,0,False,secondary,New Lancaster Road,190.861,2,30.5,,,,,,,,,441356236,MA 117
+64622183,64599316,0,False,secondary,New Lancaster Road,193.15,2,30.5,,,,,,,,,441356236,MA 117
+64622255,64618759,0,False,residential,Sunset Drive,163.857,2,13.4,,,,,,,,,8874140,
+64622255,64599648,0,False,residential,Willard Street,93.528,2,11.6,,30 mph,,,,,,,8874373,
+64622255,64603715,0,False,residential,Willard Street,120.892,2,11.6,,30 mph,,,,,,,8874373,
+64622330,64589329,0,False,secondary,Central Street,18.808,2,18.3,,30 mph,,,,,,,8874114,MA 12
+64622330,64579226,0,False,secondary,Central Street,71.43,2,18.3,,30 mph,,,,,,,8874114,MA 12
+64622473,64585520,0,False,residential,,136.945,,,,,,,,,,,8874486,
+64622473,64618784,0,False,secondary,Lancaster Street,139.556,2,18.3,,30 mph,,,,,,,8874839,MA 117
+64622473,64617532,0,False,secondary,Lancaster Street,70.288,2,18.3,,30 mph,,,,,,,8874839,MA 117
+64622617,64615314,0,True,residential,Bayberry Hill Lane,76.154,,,,,,,,,,,8874637,
+64622617,64614705,0,False,residential,Bayberry Hill Lane,118.825,,,,,,,,,,,441094877,
+64622618,64583012,0,False,residential,Blaldwin Drive,127.295,,,,,,,,,,,8874587,
+64623147,64595460,0,False,residential,Florence Street,75.65,2,13.4,,,,,,,,,8873807,
+64623147,64608548,0,False,residential,Amico Avenue,83.742,2,11.3,,,,,,,,,8874906,
+64623147,64606503,0,False,residential,Florence Street,77.839,2,13.4,,,,,,,,,8873807,
+64623246,64603858,0,False,residential,,47.026,,,,,,,,,,,8874745,
+64623246,64623961,0,False,residential,Service Road,79.374,2,15.2,,,,,,,,,8874220,
+64623246,64597680,0,False,residential,Service Road,62.122,2,15.2,,,,,,,,,8874220,
+64623484,64620987,0,False,residential,"['Tucker Drive', 'Francis Street']",723.519,2,12.2,,,,,,,,,"[8873857, 8873750]",
+64623484,64603715,0,False,tertiary,Willard Street,202.406,2,11.6,,30 mph,,,,,,,8874793,
+64623484,64624267,0,False,tertiary,Willard Street,125.745,2,11.6,,30 mph,,,,,,,8874793,
+64623683,64618780,0,False,secondary,Central Street,263.532,2,18.3,,30 mph,,,,,,,8874114,MA 12
+64623767,64616366,0,False,residential,Bel Air Heights,85.353,2,13.4,,,,,,,,,8873799,
+64623767,64604291,0,False,residential,Belview Drive,93.341,2,13.4,,,,,,,,,8873777,
+64623767,64606408,0,False,residential,Bel Air Heights,486.033,2,13.4,,,,,,,,,8873799,
+64623781,64603853,0,False,residential,,19.931,,,,,,,,,,,8874750,
+64623881,64604733,0,False,residential,Howard Street,56.987,2,10.4,,,,,,,,,8874031,
+64623881,64611442,0,False,residential,Howard Street,279.62,2,14.6,,,,,,,,,8874000,
+64623881,64618120,0,False,residential,Roby Street,72.165,2,13.4,,,,,,,,,8874639,
+64623902,64594903,0,False,residential,,281.946,,,,,,,,,,,8874581,
+64623961,64608887,0,False,residential,Service Road,124.197,2,15.2,,,,,,,,,8874220,
+64623961,64623246,0,False,residential,Service Road,79.374,2,15.2,,,,,,,,,8874220,
+64624037,64618120,0,False,residential,Lakeview Street,91.335,2,13.4,,,,,,,,,8874278,
+64624037,64609809,0,False,residential,June Street,88.893,2,12.2,,,,,,,,,8874303,
+64624037,64615604,0,False,residential,Lakeview Street,90.01,2,9.8,,,,,,,,,8874028,
+64624190,64609282,0,False,residential,Howe Street,113.683,2,8.5,,,,,,,,,8874782,
+64624267,64616215,0,False,tertiary,Willard Street,7.473,2,11.6,,30 mph,,,,,,,8874793,
+64624267,64623484,0,False,tertiary,Willard Street,125.745,2,11.6,,30 mph,,,,,,,8874793,
+64624425,64625852,0,False,residential,Fall Brook Avenue,80.637,2,7.9,,,,,,,,,8873987,
+64624425,1541150158,0,False,residential,Southers Crossing,94.087,,,,,,,,,,,140720317,
+64624425,64609200,0,False,residential,"['Fall Brook Avenue', 'Pennacook Drive']",173.392,1,5.5,,,,,,,,,"[8874443, 8874831]",
+64624542,64614705,0,False,residential,Sycamore Drive,312.483,,,,,,,,,,,8874636,
+64624542,64614705,1,False,residential,Bayberry Hill Lane,116.052,,,,,,,,,,,441094877,
+64624542,64624267,0,True,residential,Sycamore Drive,103.566,,,,,,,,,,,269783581,
+64624593,64619193,0,False,residential,Litchfield Street,361.946,2,8.5,,30 mph,,,,,,,8874014,
+64624593,64581700,0,False,residential,Litchfield Street,84.444,2,8.5,,30 mph,,,,,,,8874014,
+64624593,64607931,0,False,residential,Nobile Place,111.259,2,10.7,,,,,,,,,8874358,
+64624608,64607719,0,False,residential,Castle Street,184.332,2,15.2,,,,,,,,,8873869,
+64624720,64603278,0,False,residential,Ash Street,173.679,2,7.3,,,,,,,,,8874402,
+64624751,64618869,0,False,residential,Cook Street,177.719,2,12.2,,,,,,,,,8874318,
+64624780,64606816,0,False,residential,Pebble Lane,126.497,,,,,,,,,,,8874445,
+64624850,64621016,0,False,residential,Eaton Place,97.132,1,3.7,,,,,,,,,8873888,
+64624866,64617983,0,False,secondary,Central Street,8.342,2,18.3,,30 mph,,,,,,,8874114,MA 12
+64624880,64609079,0,False,secondary,Lancaster Street,88.337,2,18.3,,30 mph,,,,,,,8874839,MA 117
+64624880,64595460,0,False,residential,Florence Street,151.464,2,13.4,,,,,,,,,8873807,
+64624880,64618095,0,False,secondary,Lancaster Street,139.967,2,18.3,,30 mph,,,,,,,8874839,MA 117
+64624887,64607317,0,False,residential,Middle Street,176.687,2,13.4,,,,,,,,,8873947,
+64624887,64618004,0,False,residential,Johnson Street,133.172,2,15.2,,,,,,,,,8874805,
+64624887,64584946,0,False,residential,Johnson Street,244.524,2,15.2,,,,,,,,,8874805,
+64625155,2082791592,0,False,secondary,Central Street,81.565,2,18.3,,40 mph,,,,,,,440871889,MA 12
+64625155,64619557,0,False,residential,Meadowbrook Acres,62.281,,,,,,,,,,,8874648,
+64625155,64591239,0,False,secondary,Central Street,114.22,2,18.3,,40 mph,,,,,,,440871889,MA 12
+64625175,64613549,0,True,motorway_link,,342.376,1,15.2,,,,,,,,,8874282,
+64625584,64580319,0,False,residential,Debbie Drive,90.405,2,13.4,,,,,,,,,8873800,
+64625584,64600229,0,False,residential,Debbie Drive,377.017,2,13.4,,,,,,,,,8873800,
+64625584,64581409,0,False,residential,Barry Lane,296.625,2,,,,,,,,,,8874121,
+64625586,64613149,0,False,secondary,Lancaster Street,31.272,2,18.3,,30 mph,,,,,,,8874839,MA 117
+64625586,64586388,0,False,residential,Damon Street,94.316,2,8.5,,,,,,,,,8873872,
+64625586,64618784,0,False,secondary,Lancaster Street,74.891,2,18.3,,30 mph,,,,,,,8874839,MA 117
+64625852,64624425,0,False,residential,Fall Brook Avenue,80.637,2,7.9,,,,,,,,,8873987,
+64625852,64603278,0,False,secondary,Lancaster Street,105.652,2,18.3,,30 mph,,,,,,,8874839,MA 117
+64625852,64600529,0,False,secondary,Lancaster Street,77.302,2,18.3,,30 mph,,,,,,,8874839,MA 117
+64626253,64571959,0,False,secondary,Viscoloid Avenue,315.485,2,15.2,,30 mph,,,,,,,8873920,
+64626253,64597329,0,False,secondary,Viscoloid Avenue,57.496,2,15.2,,30 mph,,,,,,,8873920,
+64626526,64619557,0,False,residential,Meadowbrook Acres,314.566,,,,,,,,,,,"[8874648, 440877035]",
+64626526,64575263,0,False,residential,Meadowbrook Acres,211.71,,,,,,,,,,,"[8874602, 440877035]",
+64626526,64619201,0,False,residential,Meadowbrook Acres,263.003,,,,,,,,,,,440877036,
+64626541,64605509,0,False,residential,Lincoln Terrace,202.007,2,11.6,,,,,,,,,8873781,
+64626541,64597292,0,False,residential,Miller Street,87.56,2,9.1,,,,,,,,,8873808,
+64626541,64618869,0,False,residential,Lincoln Terrace,266.371,2,15.2,,,,,,,,,8874132,
+64626547,63945228,0,True,motorway,,2790.727,2,"['152.4', '167.7']",,65 mph,,,yes,,,,"[269783576, 269783568, 43924219, 8841478]",I 190
+64626575,64615604,0,False,residential,Longwood Avenue,42.873,2,7.6,,,,,,,,,8874198,
+64626575,64609809,0,False,secondary,Viscoloid Avenue,100.166,2,15.2,,30 mph,,,,,,,8873920,
+64626575,64612412,0,False,secondary,Viscoloid Avenue,91.453,2,15.2,,30 mph,,,,,,,8873920,
+64626575,64626603,0,False,residential,Longwood Avenue,233.774,2,11.0,,,,,,,,,8874145,
+64626603,64570741,0,False,residential,Dudley Street,92.355,2,12.2,,,,,,,,,8874080,
+64626603,64621970,0,False,residential,Dudley Street,99.432,2,12.2,,,,,,,,,8874080,
+64626603,64626575,0,False,residential,Longwood Avenue,233.774,2,11.0,,,,,,,,,8874145,
+64626646,64621016,0,False,secondary,Lancaster Street,38.592,2,14.6,,30 mph,,,,,,,8874159,MA 117
+64626646,64617983,0,False,secondary,Lancaster Street,41.067,2,14.6,,30 mph,,,,,,,8874159,MA 117
+64626646,64610929,0,False,residential,Pine Street,70.334,2,10.4,,,,,,,,,8874250,
+64626696,64606671,0,False,residential,Lancaster Street,226.203,2,10.4,,30 mph,,,,,,,8874064,
+64626696,64595279,0,False,residential,Lancaster Street,558.485,2,10.4,,30 mph,,,,,,,8874064,
+64626696,64619683,0,False,residential,Old Willard Road,239.727,2,7.9,,,,,,,,,8874378,
+64626929,64591239,0,False,secondary,Central Street,23.882,2,18.3,,40 mph,,,,,,,440871889,MA 12
+64626929,64601735,0,False,residential,Albert Drive,387.575,2,9.1,,,,,,,,,8873809,
+64626929,64601735,1,False,secondary,Central Street,374.746,2,18.3,,40 mph,,,,,,,440871889,MA 12
+1047216065,1047216072,0,False,residential,Caspian Way,26.182,,,,,,,,,,,90293585,
+1047216065,64606696,0,False,secondary,New Lancaster Road,86.519,2,30.5,,,,,,,,,441356314,MA 117
+1047216065,64620987,0,False,secondary,New Lancaster Road,11.981,2,30.5,,,,,,,,,441356314,MA 117
+1047216072,1047216079,0,False,residential,Belgian Road,91.996,,,,,,,,,,,90293583,
+1047216072,1047216065,0,False,residential,Caspian Way,26.182,,,,,,,,,,,90293585,
+1047216072,1047216077,0,False,residential,Shire Road,151.606,,,,,,,,,,,90293584,
+1047216072,1047216076,0,False,residential,Caspian Way,98.781,,,,,,,,,,,90293585,
+1047216076,1047216077,0,False,residential,Caspian Way,22.245,,,,,,,,,,,90293585,
+1047216076,1047216077,1,False,residential,Shire Road,165.953,,,,,,,,,,,90293584,
+1047216076,1047216072,0,False,residential,Caspian Way,98.781,,,,,,,,,,,90293585,
+1047216077,1047216076,0,False,residential,Caspian Way,22.245,,,,,,,,,,,90293585,
+1047216077,1047216076,1,False,residential,Shire Road,165.953,,,,,,,,,,,90293584,
+1047216077,1047216072,0,False,residential,Shire Road,151.606,,,,,,,,,,,90293584,
+1047216079,1047216072,0,False,residential,Belgian Road,91.996,,,,,,,,,,,90293583,
+1541150158,64624425,0,False,residential,Southers Crossing,94.087,,,,,,,,,,,140720317,
+1541150158,1541150158,0,False,residential,Southers Crossing,69.135,,,,,,,,,,,140720317,
+1541150158,1541150158,1,False,residential,Southers Crossing,69.135,,,,,,,,,,,140720317,
+2082791592,64625155,0,False,secondary,Central Street,81.565,2,18.3,,40 mph,,,,,,,440871889,MA 12
+2082791592,2082791596,0,False,residential,Meadowbrook Acres,273.669,,,,,,,,,,,198097292,
+2082791592,2082791597,0,False,secondary,Central Street,62.115,2,18.3,,40 mph,,,,,,,440871889,MA 12
+2082791596,2082791592,0,False,residential,Meadowbrook Acres,273.669,,,,,,,,,,,198097292,
+2082791597,64597344,0,False,residential,Meadow Pond Drive,533.882,,,,5 mph,destination,,,,,,198097289,
+2082791597,2082791592,0,False,secondary,Central Street,62.115,2,18.3,,40 mph,,,,,,,440871889,MA 12
+2082791597,64620701,0,False,secondary,Central Street,85.46,2,18.3,,40 mph,,,,,,,440871889,MA 12
+2583180088,64618735,0,False,residential,Legate Hill Road,274.705,2,9.1,,,,,,,,,8874240,
+2583180088,64594908,0,False,residential,Legate Hill Road,31.636,2,9.1,,,,,,,,,8874240,
+2583180088,2583180108,0,False,residential,Katie Lane,167.192,,,,,,,,,,,252227107,
+2583180108,2583180108,0,False,residential,Katie Lane,65.485,,,,,,,,,,,252227107,
+2583180108,2583180108,1,False,residential,Katie Lane,65.485,,,,,,,,,,,252227107,
+2583180108,2583180088,0,False,residential,Katie Lane,167.192,,,,,,,,,,,252227107,
+2749096013,64618771,0,False,residential,Flintlock Road,105.442,2,15.2,,25 mph,,,,,,,8873918,
+2749249491,64588585,0,False,residential,Steepleview Way,123.748,,,,,,,,,,,8874661,
+4386031823,4386399850,0,False,secondary,Central Street,34.582,2,18.3,,40 mph,,,,,,,8873956,MA 12
+4386031823,64598133,0,False,secondary,Central Street,83.516,2,18.3,,40 mph,,,,,,,8873956,MA 12
+4386399850,4386031823,0,False,secondary,Central Street,34.582,2,18.3,,40 mph,,,,,,,8873956,MA 12
+4386399850,64622048,0,False,tertiary,Willard Street,447.768,2,9.1,,30 mph,,,,,,,8874425,
+4386419268,4386419270,0,False,secondary,Central Street,8.095,2,18.3,,40 mph,,,,,,,440871887,MA 12
+4386419268,64607111,0,False,secondary,Central Street,55.769,2,18.3,,40 mph,,,,,,,8873956,MA 12
+4386419269,64610775,0,False,secondary,Litchfield Street,60.35,2,12.2,,30 mph,,,,,,,8874365,
+4386419269,4386419270,0,False,secondary,Central Street,40.437,2,18.3,,40 mph,,,,,,,440871888,MA 12
+4386419269,4386435528,0,False,secondary,Central Street,322.853,2,18.3,,40 mph,,,,,,,440871889,MA 12
+4386419270,4386419268,0,False,secondary,Central Street,8.095,2,18.3,,40 mph,,,,,,,440871887,MA 12
+4386419270,64610775,0,True,secondary,Litchfield Street,76.138,,,,,,,,,,,8874621,
+4386419270,4386419269,0,False,secondary,Central Street,40.437,2,18.3,,40 mph,,,,,,,440871888,MA 12
+4386435528,64620701,0,False,secondary,Central Street,140.297,2,18.3,,40 mph,,,,,,,440871889,MA 12
+4386435528,4386419269,0,False,secondary,Central Street,322.853,2,18.3,,40 mph,,,,,,,440871889,MA 12
+4386474416,64601125,0,False,residential,Meadowbrook Acres,69.929,,,,,,,,,,,440877032,
+4391173950,64622156,0,False,residential,,231.493,,,,,,,,,,,441355572,

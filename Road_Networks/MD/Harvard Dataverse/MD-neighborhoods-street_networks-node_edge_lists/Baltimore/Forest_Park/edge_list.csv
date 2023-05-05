@@ -1,0 +1,72 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+49385795,49385796,0,True,residential,Cedardale Road,13.157,2,,,25 mph,,,,,,,5992602,
+49385795,49469257,0,True,primary,Liberty Heights Avenue,85.291,3,,,30 mph,,,,,,,544617708,MD 26
+49385796,49481480,0,True,primary,Liberty Heights Avenue,83.924,3,,,30 mph,,,,,,,70803674,MD 26
+49385809,49385810,0,True,residential,Copley Road,13.144,2,,,25 mph,,,,,,,5992606,
+49385809,49481477,0,True,primary,Liberty Heights Avenue,106.81,3,,,30 mph,,,,,,,544617708,MD 26
+49385810,1399477439,0,True,primary,Liberty Heights Avenue,106.164,3,,,30 mph,,,,,,,544617707,MD 26
+49448202,49448203,0,True,residential,Denison Road,13.361,1,,,25 mph,,,,,,,6001850,
+49448202,49509383,0,True,primary,Liberty Heights Avenue,54.598,3,,,30 mph,,,,,,,544617708,MD 26
+49448203,49469258,0,True,primary,Liberty Heights Avenue,87.89,3,,,30 mph,,,,,,,70803674,MD 26
+49467903,49509383,0,False,residential,Denison Street,103.808,2,,,,,,,,,,98289655,
+49467903,49525272,0,False,residential,Denison Street,111.8,2,,,,,,,,,,98289655,
+49467905,49467903,0,True,residential,West Forest Park Avenue,142.55,2,,,,,,,,,,6004247,
+49467905,49469256,0,False,residential,Edgewood Street,111.567,2,,,25 mph,,,,,,,6004417,
+49467905,49469257,0,False,residential,Edgewood Street,103.448,2,,,25 mph,,,,,,,6004417,
+49467906,49467905,0,True,residential,West Forest Park Avenue,169.236,2,,,,,,,,,,6004247,
+49467906,49481477,0,False,residential,Grantley Road,103.327,2,,,25 mph,,,,,,,6005959,
+49467906,49481475,0,False,residential,Grantley Road,111.278,2,,,25 mph,,,,,,,6005959,
+49467908,49467906,0,True,residential,West Forest Park Avenue,216.86,2,,,,,,,,,,6004247,
+49467908,49469443,0,False,residential,Callaway Avenue,110.918,2,,,25 mph,,,,,,,6004435,
+49467908,49469444,0,False,residential,Callaway Avenue,103.111,2,,,25 mph,,,,,,,6004435,
+49467910,49467908,0,True,residential,West Forest Park Avenue,198.639,2,,,,,,,,,,6004247,
+49469255,49555892,0,True,residential,Fairview Avenue,142.741,2,,,,,,,,,,6020965,
+49469255,49469256,0,False,residential,Edgewood Street,111.744,2,,,25 mph,,,,,,,6004417,
+49469256,49481475,0,True,residential,Springdale Avenue,169.386,2,,,,,,,,,,6011441,
+49469256,49469255,0,False,residential,Edgewood Street,111.744,2,,,25 mph,,,,,,,6004417,
+49469256,49467905,0,False,residential,Edgewood Street,111.567,2,,,25 mph,,,,,,,6004417,
+49469257,49467905,0,False,residential,Edgewood Street,103.448,2,,,25 mph,,,,,,,6004417,
+49469257,49469258,0,False,residential,Edgewood Street,13.685,2,,,25 mph,,,,,,,6004417,
+49469257,49448202,0,True,primary,Liberty Heights Avenue,87.804,3,,,30 mph,,,,,,,544617708,MD 26
+49469258,49469257,0,False,residential,Edgewood Street,13.685,2,,,25 mph,,,,,,,6004417,
+49469258,49385796,0,True,primary,Liberty Heights Avenue,85.087,3,,,30 mph,,,,,,,70803674,MD 26
+49469441,49469442,0,False,residential,Callaway Avenue,77.465,2,,,25 mph,,,,,,,6004435,
+49469441,1135488830,0,False,secondary,Garrison Boulevard,68.313,"['3', '2']",,,30 mph,,,,,,,"[424991383, 424991343]",
+49469442,49469441,0,False,residential,Callaway Avenue,77.465,2,,,25 mph,,,,,,,6004435,
+49469442,49469443,0,False,residential,Callaway Avenue,112.176,2,,,25 mph,,,,,,,6004435,
+49469442,49481472,0,True,residential,Fairview Avenue,215.481,2,,,,,,,,,,6020965,
+49469443,49469442,0,False,residential,Callaway Avenue,112.176,2,,,25 mph,,,,,,,6004435,
+49469443,49467908,0,False,residential,Callaway Avenue,110.918,2,,,25 mph,,,,,,,6004435,
+49469444,1399477439,0,True,unclassified,Callaway Avenue,14.245,2,,,,,,,,,,6004434,
+49469444,49467908,0,False,residential,Callaway Avenue,103.111,2,,,25 mph,,,,,,,6004435,
+49469444,49385809,0,True,primary,Liberty Heights Avenue,110.677,3,,,30 mph,,,,,,,544617708,MD 26
+49469447,49469444,0,True,unclassified,Callaway Avenue,14.484,2,,,,,,,,,,203683641,
+49469447,2136825445,0,True,primary,Liberty Heights Avenue,103.769,2,,,30 mph,,,,,,,544617706,MD 26
+49481467,49481470,0,False,residential,Grantley Road,45.937,2,,,25 mph,,,,,,,6005959,
+49481470,49481467,0,False,residential,Grantley Road,45.937,2,,,25 mph,,,,,,,6005959,
+49481470,49481472,0,False,residential,Grantley Road,114.35,2,,,25 mph,,,,,,,6005959,
+49481472,49469255,0,True,residential,Fairview Avenue,169.621,2,,,,,,,,,,6020965,
+49481472,49481475,0,False,residential,Grantley Road,111.929,2,,,25 mph,,,,,,,6005959,
+49481472,49481470,0,False,residential,Grantley Road,114.35,2,,,25 mph,,,,,,,6005959,
+49481475,49467906,0,False,residential,Grantley Road,111.278,2,,,25 mph,,,,,,,6005959,
+49481475,49481472,0,False,residential,Grantley Road,111.929,2,,,25 mph,,,,,,,6005959,
+49481475,49469443,0,True,residential,Springdale Avenue,216.172,2,,,,,,,,,,6011441,
+49481477,49481480,0,False,residential,Grantley Road,13.368,2,,,25 mph,,,,,,,6005959,
+49481477,49385795,0,True,primary,Liberty Heights Avenue,83.825,3,,,30 mph,,,,,,,544617708,MD 26
+49481477,49467906,0,False,residential,Grantley Road,103.327,2,,,25 mph,,,,,,,6005959,
+49481480,49481477,0,False,residential,Grantley Road,13.368,2,,,25 mph,,,,,,,6005959,
+49481480,49385810,0,True,primary,Liberty Heights Avenue,106.927,3,,,30 mph,,,,,,,70803674,MD 26
+49509383,49509504,0,False,residential,Denison Street,13.44,2,,,,,,,,,,98289655,
+49509383,49467903,0,False,residential,Denison Street,103.808,2,,,,,,,,,,98289655,
+49509504,49448203,0,True,primary,Liberty Heights Avenue,54.494,3,,,30 mph,,,,,,,70803674,MD 26
+49509504,49509383,0,False,residential,Denison Street,13.44,2,,,,,,,,,,98289655,
+49509517,49467910,0,True,residential,Ayrdale Avenue,107.415,2,,,25 mph,,,,,,,6016942,
+49509517,2136825445,0,False,primary,Liberty Heights Avenue,91.176,4,,,30 mph,,,,,,,47988625,MD 26
+49525272,49469256,0,True,residential,Springdale Avenue,142.687,2,,,,,,,,,,6011441,
+49525272,49467903,0,False,residential,Denison Street,111.8,2,,,,,,,,,,98289655,
+49525272,49555892,0,False,residential,Denison Street,111.593,2,,,,,,,,,,98289655,
+49555892,49525272,0,False,residential,Denison Street,111.593,2,,,,,,,,,,98289655,
+1135488830,49469441,0,False,secondary,Garrison Boulevard,68.313,"['2', '3']",,,30 mph,,,,,,,"[424991343, 424991383]",
+1399477439,49469447,0,True,primary,Liberty Heights Avenue,9.631,2,,,30 mph,,,,,,,544617706,MD 26
+2136825445,49469444,0,True,primary,Liberty Heights Avenue,108.334,2,,,30 mph,,,,,,,6009639,MD 26
+2136825445,49509517,0,False,primary,Liberty Heights Avenue,91.176,4,,,30 mph,,,,,,,47988625,MD 26

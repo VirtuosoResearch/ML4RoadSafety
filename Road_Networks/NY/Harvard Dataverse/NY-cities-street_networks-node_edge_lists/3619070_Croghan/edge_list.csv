@@ -1,0 +1,41 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+212447482,212447484,0,False,residential,,168.583,,,,,,,,,,,20098984,
+212447482,212472128,0,False,residential,School Street,131.412,,,,,,,,,,,20103717,
+212447482,212489701,0,False,residential,"['School Street', 'Bank Street']",272.879,,,,,,,,,,,"[20101892, 20103717]",
+212447484,212447482,0,False,residential,,168.583,,,,,,,,,,,20098984,
+212465352,212465360,0,False,residential,,86.221,,,,,,,,,,,20100356,
+212465360,212498494,0,False,primary,Main Street,53.229,,,,30 mph,,,,,,,139486926,NY 812
+212465360,212465352,0,False,residential,,86.221,,,,,,,,,,,20100356,
+212465360,212489701,0,False,primary,Main Street,130.439,,,,30 mph,,,,,,,139486926,NY 812
+212472126,212472128,0,False,residential,Mechanic Street,74.221,,,,,,,,,,,20100950,
+212472128,212472132,0,False,residential,Mechanic Street,207.068,,,,,,,,,,,20100950,
+212472128,212472126,0,False,residential,Mechanic Street,74.221,,,,,,,,,,,20100950,
+212472128,212447482,0,False,residential,School Street,131.412,,,,,,,,,,,20103717,
+212472132,212472128,0,False,residential,Mechanic Street,207.068,,,,,,,,,,,20100950,
+212472132,212493366,0,False,primary,Main Street,379.49,,,,30 mph,,,,,,,139486926,NY 812
+212472132,212475300,0,False,primary,Main Street,95.024,,,,30 mph,,,,,,,139486926,NY 812
+212475300,5519621788,0,False,residential,Fire Hall Street,278.535,,,,,,,,,,,20101141,
+212475300,212472132,0,False,primary,Main Street,95.024,,,,30 mph,,,,,,,139486926,NY 812
+212475300,212489701,0,False,primary,Main Street,108.634,,,,30 mph,,,,,,,139486926,NY 812
+212489701,212492850,0,False,residential,George Street,312.778,,,,,,,,,,,20102070,
+212489701,212447482,0,False,residential,"['Bank Street', 'School Street']",272.879,,,,,,,,,,,"[20101892, 20103717]",
+212489701,212475300,0,False,primary,Main Street,108.634,,,,30 mph,,,,,,,139486926,NY 812
+212489701,212465360,0,False,primary,Main Street,130.439,,,,30 mph,,,,,,,139486926,NY 812
+212492850,212489701,0,False,residential,George Street,312.778,,,,,,,,,,,20102070,
+212492850,212493184,0,False,residential,"['George Street', 'Pearl Street']",212.483,,,,,,,,,,,"[20102090, 20102070]",
+212492850,212498597,0,False,residential,Red Pine Lane,222.629,,,,,,,,,,,20102456,
+212493184,212498500,0,False,tertiary,Convent Street,92.61,,,,,,,,,,,20102448,CR 24
+212493184,212492850,0,False,residential,"['George Street', 'Pearl Street']",212.483,,,,,,,,,,,"[20102090, 20102070]",
+212493184,212498494,0,False,tertiary,Convent Street,358.961,,,,,,,,,,,20102448,CR 24
+212493366,212493372,0,False,residential,Bridge Street,117.011,,,,,,,,,,,20102104,
+212493366,212472132,0,False,primary,Main Street,379.49,,,,30 mph,,,,,,,139486926,NY 812
+212493372,212493366,0,False,residential,Bridge Street,117.011,,,,,,,,,,,20102104,
+212493372,212509068,0,False,residential,South Bridge Street,203.354,,,,,,,yes,,,,"[20103080, 134124522, 134124520]",
+212498494,212465360,0,False,primary,Main Street,53.229,,,,30 mph,,,,,,,139486926,NY 812
+212498494,212493184,0,False,tertiary,Convent Street,358.961,,,,,,,,,,,20102448,CR 24
+212498494,212498645,0,False,primary,Main Street,181.909,,,,"['30 mph', '40 mph']",,,,,,,"[20102491, 377930869]",NY 812
+212498500,212493184,0,False,tertiary,Convent Street,92.61,,,,,,,,,,,20102448,CR 24
+212498597,212492850,0,False,residential,Red Pine Lane,222.629,,,,,,,,,,,20102456,
+212498645,212498494,0,False,primary,Main Street,181.909,,,,"['30 mph', '40 mph']",,,,,,,"[20102491, 377930869]",NY 812
+212509068,212493372,0,False,residential,South Bridge Street,203.354,,,,,,,yes,,,,"[134124520, 134124522, 20103080]",
+5519621788,212475300,0,False,residential,Fire Hall Street,278.535,,,,,,,,,,,20101141,

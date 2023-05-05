@@ -1,0 +1,51 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+212680644,212680646,0,False,residential,Humbert Lane,93.466,,,,,,,,,,,20115480,
+212680644,212703740,0,False,residential,Spring Street,127.568,,,,,,,,,,,20116892,
+212680644,212703713,0,False,residential,Spring Street,332.145,,,,,,,,,,,20116892,
+212680646,212680644,0,False,residential,Humbert Lane,93.466,,,,,,,,,,,20115480,
+212681088,212681090,0,False,residential,Trir Street,298.167,,,,,,,,,,,20115507,
+212681088,212711446,0,False,secondary,Ephratah Road,267.459,,,,,,,,,,,20117430,NY 10
+212681090,212681088,0,False,residential,Trir Street,298.167,,,,,,,,,,,20115507,
+212682710,212682713,0,False,residential,Carman Court,71.175,,,,,,,,,,,20115625,
+212682710,212711444,0,False,secondary,"['Ephratah Road', 'Lafayette Street']",557.709,,,,,,,,,,,"[20117308, 20117430]",NY 10
+212682710,212687665,0,False,secondary,Lafayette Street,459.98,,,,,,,,,,,20117308,NY 10
+212682713,212682710,0,False,residential,Carman Court,71.175,,,,,,,,,,,20115625,
+212685693,212685718,0,False,residential,Tilton Road,182.042,,,,,,,,,,,20115820,
+212685693,212687655,0,False,primary,East Grand Street,98.287,,,,30 mph,,,,,,,244408140,NY 5
+212685693,212687634,0,False,primary,East Grand Street,679.347,,,,"['30 mph', '40 mph']",,,,,,,"[20115954, 244408140]",NY 5
+212685718,212685693,0,False,residential,Tilton Road,182.042,,,,,,,,,,,20115820,
+212685969,212685971,0,False,residential,Glen Avenue,107.201,,,,,,,,,,,20115845,
+212685969,212703740,0,False,primary,Grand Street West,43.949,,,,,,,,,,,20117307,NY 5
+212685969,212709427,0,False,primary,Grand Street West,523.079,,,,,,,,,,,20117307,NY 5
+212685971,212685969,0,False,residential,Glen Avenue,107.201,,,,,,,,,,,20115845,
+212687634,212685693,0,False,primary,East Grand Street,679.347,,,,"['30 mph', '40 mph']",,,,,,,"[20115954, 244408140]",NY 5
+212687634,3321767026,0,False,residential,Failing Hill Road,212.853,,,,,,,,,,,20119480,
+212687655,212687665,0,False,primary,East Grand Street,276.361,,,,30 mph,,,,,,,44838315,NY 5;NY 10
+212687655,212685693,0,False,primary,East Grand Street,98.287,,,,30 mph,,,,,,,244408140,NY 5
+212687665,212682710,0,False,secondary,Lafayette Street,459.98,,,,,,,,,,,20117308,NY 10
+212687665,212709869,0,False,primary,Grand Street,164.09,,,,30 mph,,,,,,,20118402,NY 5
+212687665,212687655,0,False,primary,East Grand Street,276.361,,,,30 mph,,,,,,,44838315,NY 5;NY 10
+212703061,212703066,0,False,residential,Mary Street,195.49,,,,,,,,,,,20116831,
+212703061,212709427,0,False,primary,Grand Street West,307.169,,,,,,,,,,,20117307,NY 5
+212703066,212703061,0,False,residential,Mary Street,195.49,,,,,,,,,,,20116831,
+212703713,212680644,0,False,residential,Spring Street,332.145,,,,,,,,,,,20116892,
+212703740,212685969,0,False,primary,Grand Street West,43.949,,,,,,,,,,,20117307,NY 5
+212703740,212709869,0,False,primary,Grand Street West,216.799,,,,,,,,,,,20117307,NY 5
+212703740,212680644,0,False,residential,Spring Street,127.568,,,,,,,,,,,20116892,
+212709427,212709428,0,False,residential,Stayley Road,206.196,,,,,,,,,,,20117274,
+212709427,212703061,0,False,primary,Grand Street West,307.169,,,,,,,,,,,20117307,NY 5
+212709427,212685969,0,False,primary,Grand Street West,523.079,,,,,,,,,,,20117307,NY 5
+212709428,212709427,0,False,residential,Stayley Road,206.196,,,,,,,,,,,20117274,
+212709869,212703740,0,False,primary,Grand Street West,216.799,,,,,,,,,,,20117307,NY 5
+212709869,212732017,0,False,residential,Center Street,230.901,,,,,,,,,,,20119004,
+212709869,212687665,0,False,primary,Grand Street,164.09,,,,30 mph,,,,,,,20118402,NY 5
+212711444,212711446,0,False,secondary,Ephratah Road,95.56,,,,,,,,,,,20117430,NY 10
+212711444,212711927,0,False,residential,Pleasant View Drive,215.452,,,,,,,,,,,20117463,
+212711444,212682710,0,False,secondary,"['Ephratah Road', 'Lafayette Street']",557.709,,,,,,,,,,,"[20117308, 20117430]",NY 10
+212711446,212711444,0,False,secondary,Ephratah Road,95.56,,,,,,,,,,,20117430,NY 10
+212711446,212681088,0,False,secondary,Ephratah Road,267.459,,,,,,,,,,,20117430,NY 10
+212711446,1507824220,0,False,residential,East Skyline Road,320.02,,,,,,,,,,,20120558,
+212711927,212711444,0,False,residential,Pleasant View Drive,215.452,,,,,,,,,,,20117463,
+212732017,212709869,0,False,residential,Center Street,230.901,,,,,,,,,,,20119004,
+1507824220,212711446,0,False,residential,East Skyline Road,320.02,,,,,,,,,,,20120558,
+3321767026,212687634,0,False,residential,Failing Hill Road,212.853,,,,,,,,,,,20119480,

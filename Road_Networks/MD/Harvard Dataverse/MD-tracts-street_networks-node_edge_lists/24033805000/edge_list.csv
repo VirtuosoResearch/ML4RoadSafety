@@ -1,0 +1,280 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+50208891,50208892,0,False,tertiary,Ray Road,15.27,,,,25 mph,,,,,,,6110694,
+50208891,50240444,0,True,primary,Riggs Road,279.627,2,,,,,,,,,,130576326,MD 212
+50208892,50208891,0,False,tertiary,Ray Road,15.27,,,,25 mph,,,,,,,6110694,
+50208892,50208933,0,True,primary,Riggs Road,340.626,2,,,,,,,,,,6134976,MD 212
+50208932,50208933,0,False,residential,Red Top Road,15.088,,,,,,,,,,,6110805,
+50208932,50208891,0,True,primary,Riggs Road,340.481,2,,,,,,,,,,130576326,MD 212
+50208933,50208932,0,False,residential,Red Top Road,15.088,,,,,,,,,,,6110805,
+50208933,50762474,0,True,primary,Riggs Road,98.525,"['2', '3']",,,,,,,,,,"[6134976, 130576327]",MD 212
+50208933,3659244426,0,False,unclassified,,160.851,,,,,,,,,,,361450162,
+50240283,50543841,0,True,secondary,Sargent Road,86.288,3,,,30 mph,,,,,,,397272668,
+50240283,50699507,0,False,residential,Oakdale Drive,210.812,,,,,,,,,,,6143635,
+50240444,50240447,0,False,residential,,14.808,,,,,,,,,,,6090613,
+50240444,50761792,0,True,primary,Riggs Road,116.973,2,,,,,,,,,,130576326,MD 212
+50240447,50240444,0,False,residential,,14.808,,,,,,,,,,,6090613,
+50240447,50208892,0,True,primary,Riggs Road,279.839,2,,,,,,,,,,6134976,MD 212
+50240501,50240504,0,False,residential,Sheridan Street,15.712,,,,,,,,,,,6118140,
+50240501,50761771,0,True,primary,Riggs Road,154.588,2,,,,,,,,,,130576326,MD 212
+50240504,50240501,0,False,residential,Sheridan Street,15.712,,,,,,,,,,,6118140,
+50240504,50762503,0,True,primary,Riggs Road,185.127,2,,,,,,,,,,6134976,MD 212
+50241891,50477505,0,True,residential,Cypress Creek Drive,170.621,,,,,,,,,,,6109451,
+50241891,50816141,0,False,residential,Timber Ridge Lane,117.478,,,,,,,,,,,6142070,
+50453489,50620034,0,False,secondary,Chillum Road,369.192,,,,,,,,,,,"[132577560, 45876213]",MD 501
+50477505,50477577,0,False,tertiary,16th Avenue,13.691,,,,,,,,,,,6110123,
+50477505,50488785,0,False,tertiary,16th Avenue,103.656,,,,,,,,,,,6110123,
+50477544,50241891,0,True,residential,Cypress Creek Drive,139.986,,,,,,,,,,,6109451,
+50477544,50594905,0,False,residential,Timber Creek Terrace,146.558,,,,,,,,,,,6116531,
+50477572,50477629,0,False,tertiary,16th Avenue,10.834,,,,,,,,,,,6110123,
+50477572,50477544,0,True,residential,Cypress Creek Drive,261.137,,,,,,,,,,,6109451,
+50477572,50496963,0,False,tertiary,Ray Road,330.276,,,,,,,,,,,6110696,
+50477577,50477505,0,False,tertiary,16th Avenue,13.691,,,,,,,,,,,6110123,
+50477577,50477629,0,True,residential,Cypress Creek Drive,541.876,,,,,,,,,,,6109454,
+50477577,50477629,1,False,tertiary,16th Avenue,317.562,,,,,,,,,,,6110123,
+50477629,50477572,0,False,tertiary,16th Avenue,10.834,,,,,,,,,,,6110123,
+50477629,50477577,0,False,tertiary,16th Avenue,317.562,,,,,,,,,,,6110123,
+50480581,50480582,0,False,residential,Legation Road,84.341,,,,,,,,,,,6109607,
+50480581,50543858,0,False,secondary,Sargent Road,147.801,4,,,30 mph,,,,,,,50925529,
+50480581,50543850,0,False,secondary,Sargent Road,44.789,4,,,30 mph,,,,,,,50925529,
+50480582,50583454,0,False,residential,14th Place,82.83,,,,,,,,,,,6115994,
+50480582,50480596,0,False,residential,Legation Road,162.311,,,,,,,,,,,6109607,
+50480582,50480581,0,False,residential,Legation Road,84.341,,,,,,,,,,,6109607,
+50480596,50525848,0,False,residential,15th Avenue,32.805,,,,,,,,,,,6112624,
+50480596,50480582,0,False,residential,Legation Road,162.311,,,,,,,,,,,6109607,
+50480596,50525803,0,False,residential,15th Avenue,66.181,,,,,,,,,,,6112623,
+50488785,50477505,0,False,tertiary,16th Avenue,103.656,,,,,,,,,,,6110123,
+50488785,50525788,0,False,secondary,Chillum Road,135.293,4,,,,,,,,,,468486720,MD 501
+50488785,50488876,0,False,secondary,Chillum Road,113.448,4,,,,,,,,,,468486720,MD 501
+50488876,50584601,0,False,residential,18th Avenue,114.498,,,,,,,,,,,6143571,
+50488876,50746625,0,False,secondary,Chillum Road,170.342,,,,,,,,,,,397271278,MD 501
+50488876,50488785,0,False,secondary,Chillum Road,113.448,4,,,,,,,,,,468486720,MD 501
+50496942,50496944,0,False,tertiary,Ray Road,110.672,,,,,,,,,,,6110696,
+50496942,50543878,0,False,secondary,Sargent Road,269.93,4,,,30 mph,,,,,,,50925529,
+50496942,50543862,0,False,secondary,Sargent Road,79.056,4,,,30 mph,,,,,,,50925529,
+50496944,50496946,0,False,tertiary,Ray Road,196.823,,,,,,,,,,,6110696,
+50496944,50496942,0,False,tertiary,Ray Road,110.672,,,,,,,,,,,6110696,
+50496944,50580461,0,False,residential,Westland Drive,330.079,,,,,,,,,,,6126039,
+50496946,50496944,0,False,tertiary,Ray Road,196.823,,,,,,,,,,,6110696,
+50496946,50496963,0,False,tertiary,Ray Road,244.824,,,,,,,,,,,6110696,
+50496946,50580505,0,False,residential,Balfour Drive,144.188,,,,,,,,,,,6115890,
+50496963,50633554,0,False,residential,Madison Street,77.947,,,,,,,,,,,6119999,
+50496963,50477572,0,False,tertiary,Ray Road,330.276,,,,,,,,,,,6110696,
+50496963,50496946,0,False,tertiary,Ray Road,244.824,,,,,,,,,,,6110696,
+50499390,50499401,0,False,residential,Parker Avenue,159.313,,,,,,,,,,,6110858,
+50499390,50699502,0,False,residential,"['Parker Avenue', 'Twin Oak Drive']",260.737,,,,,,,,,,,"[6110858, 6127446]",
+50499390,50500278,0,False,residential,Burgess Drive,152.556,,,,,,,,,,,6110905,
+50499401,50499390,0,False,residential,Parker Avenue,159.313,,,,,,,,,,,6110858,
+50499401,50543801,0,False,secondary,Sargent Road,185.229,4,,,30 mph,,,,,,,583958101,
+50500278,50699502,0,False,secondary,Chillum Road,85.369,4,,,,,,,,,,132577561,MD 501
+50500278,50499390,0,False,residential,Burgess Drive,152.556,,,,,,,,,,,6110905,
+50500278,50543841,0,False,secondary,Chillum Road,104.327,4,,,,,,,,,,132577561,MD 501
+50504849,50543892,0,False,residential,Balfour Drive,142.726,,,,,,,,,,,6115889,
+50504849,50504854,0,False,residential,Parkway Court,330.639,,,,,,,,,,,6111235,
+50504849,50580471,0,False,residential,Balfour Drive,139.164,,,,,,,,,,,6115889,
+50504854,50504849,0,False,residential,Parkway Court,330.639,,,,,,,,,,,6111235,
+50507398,50507399,0,False,residential,10th Court,42.143,,,,,,,,,,,6111414,
+50507398,50652680,0,False,residential,10th Place,157.14,,,,,,,,,,,6122299,
+50507398,50652648,0,False,residential,10th Place,178.081,,,,,,,,,,,6122299,
+50507399,50507398,0,False,residential,10th Court,42.143,,,,,,,,,,,6111414,
+50521254,50521278,0,False,residential,Chillumgate Road,333.7,,,,,,,,,,,6112407,
+50521254,50521278,1,False,secondary,Chillum Road,148.201,4,,,,,,,,,,132577561,MD 501
+50521254,1030462992,0,True,secondary,Chillum Road,72.921,2,,,,,,,,,,"[50760314, 468471828]",MD 501
+50521278,1377284071,0,False,secondary,Chillum Road,91.468,4,,,,,,,,,,132577561,MD 501
+50521278,50521254,0,False,residential,Chillumgate Road,333.7,,,,,,,,,,,6112407,
+50521278,50521254,1,False,secondary,Chillum Road,148.201,4,,,,,,,,,,132577561,MD 501
+50525788,4001190879,0,False,secondary,Chillum Road,373.171,4,,,,,,,,,,"[468486720, 468486719]",MD 501
+50525788,50488785,0,False,secondary,Chillum Road,135.293,4,,,,,,,,,,468486720,MD 501
+50525791,50525793,0,False,residential,15th Avenue,40.858,,,,,,,,,,,6112622,
+50525791,50525831,0,False,residential,15th Avenue,114.217,,,,,,,,,,,6112623,
+50525791,50525803,0,False,residential,15th Avenue,109.204,,,,,,,,,,,6112623,
+50525793,50525791,0,False,residential,15th Avenue,40.858,,,,,,,,,,,6112622,
+50525803,50545711,0,False,residential,Madison Street,90.923,,,,,,,,,,,6119999,
+50525803,50525791,0,False,residential,15th Avenue,109.204,,,,,,,,,,,6112623,
+50525803,50480596,0,False,residential,15th Avenue,66.181,,,,,,,,,,,6112623,
+50525803,50594905,0,False,residential,Madison Street,138.333,,,,,,,,,,,6119999,
+50525831,50525851,0,False,residential,15th Avenue,32.798,,,,,,,,,,,6112625,
+50525831,50525844,0,False,residential,15th Avenue,107.272,,,,,,,,,,,6112623,
+50525831,50525791,0,False,residential,15th Avenue,114.217,,,,,,,,,,,6112623,
+50525844,50633554,0,False,residential,Nicholson Street,50.114,,,,,,,,,,,6142808,
+50525844,50525831,0,False,residential,15th Avenue,107.272,,,,,,,,,,,6112623,
+50525844,50583451,0,False,residential,Nicholson Street,370.488,,,,,,,,,,,6142808,
+50525848,50480596,0,False,residential,15th Avenue,32.805,,,,,,,,,,,6112624,
+50525851,50525831,0,False,residential,15th Avenue,32.798,,,,,,,,,,,6112625,
+50538445,50543801,0,False,secondary,Sargent Road,125.522,4,,,30 mph,,,,,,,583958101,
+50538445,4059254188,0,False,secondary,Sargent Road,37.102,4,,,30 mph,,,,,,,583958101,
+50543801,50577456,0,False,residential,Valley Drive,72.793,,,,,,,,,,,6139244,
+50543801,50538445,0,False,secondary,Sargent Road,125.522,4,,,30 mph,,,,,,,583958101,
+50543801,50499401,0,False,secondary,Sargent Road,185.229,4,,,30 mph,,,,,,,583958101,
+50543841,50543922,0,False,secondary,Chillum Road,12.869,4,,,,,,,,,,132577561,MD 501
+50543841,50499401,0,True,secondary,Sargent Road,100.762,2,,,30 mph,,,,,,,50925530,
+50543841,50500278,0,False,secondary,Chillum Road,104.327,4,,,,,,,,,,132577561,MD 501
+50543850,50480581,0,False,secondary,Sargent Road,44.789,4,,,30 mph,,,,,,,50925529,
+50543850,50240283,0,True,secondary,Sargent Road,86.723,2,,,30 mph,,,,,,,397272671,
+50543858,50583427,0,False,residential,Madison Street,56.509,,,,,,,,,,,6119999,
+50543858,50543862,0,False,secondary,Sargent Road,138.624,4,,,30 mph,,,,,,,50925529,
+50543858,50480581,0,False,secondary,Sargent Road,147.801,4,,,30 mph,,,,,,,50925529,
+50543862,50583451,0,False,residential,Nicholson Street,81.887,,,,,,,,,,,6142808,
+50543862,50496942,0,False,secondary,Sargent Road,79.056,4,,,30 mph,,,,,,,50925529,
+50543862,50543858,0,False,secondary,Sargent Road,138.624,4,,,30 mph,,,,,,,50925529,
+50543878,50580465,0,False,residential,Torrey Place,208.56,,,,,,,,,,,6133844,
+50543878,50543892,0,False,secondary,Sargent Road,132.055,4,,,30 mph,,,,,,,50925529,
+50543878,50496942,0,False,secondary,Sargent Road,269.93,4,,,30 mph,,,,,,,50925529,
+50543892,50504849,0,False,residential,Balfour Drive,142.726,,,,,,,,,,,6115889,
+50543892,50543894,0,False,secondary,Sargent Road,77.092,4,,,30 mph,,,,,,,50925529,
+50543892,50543878,0,False,secondary,Sargent Road,132.055,4,,,30 mph,,,,,,,50925529,
+50543894,50620402,0,False,residential,Dekalb Court,56.512,,,,,,,,,,,6118513,
+50543894,3659244426,0,False,secondary,Sargent Road,71.112,4,,,30 mph,,,,,,,50925529,
+50543894,50543892,0,False,secondary,Sargent Road,77.092,4,,,30 mph,,,,,,,50925529,
+50543897,50570546,0,False,residential,Anna Court,56.62,,,,,,,,,,,6115232,
+50543897,3659244426,0,False,secondary,Sargent Road,13.59,4,,,30 mph,,,,,,,50925529,
+50543897,4059254184,0,False,secondary,Sargent Road,99.183,4,,,30 mph,,,,,,,50925529,
+50543902,50543904,0,False,secondary,Sargent Road,15.188,4,,,30 mph,,,,,,,50925529,
+50543902,4059254184,0,False,secondary,Sargent Road,45.156,4,,,30 mph,,,,,,,50925529,
+50543902,4059254187,0,True,primary,Riggs Road,34.775,3,,,,,,,,,,130576327,MD 212
+50543904,50543902,0,False,secondary,Sargent Road,15.188,4,,,30 mph,,,,,,,50925529,
+50543904,50208932,0,True,primary,Riggs Road,141.643,"['4', '3']",,,,,,,,,,"[468822866, 53192468]",MD 212
+50543922,50543841,0,False,secondary,Chillum Road,12.869,4,,,,,,,,,,132577561,MD 501
+50543922,4001190879,0,False,secondary,Chillum Road,33.959,4,,,,,,,,,,468486719,MD 501
+50543922,4001200341,0,True,secondary,Sargent Road,47.132,2,,,30 mph,,,,,,,6113539,
+50545711,50545712,0,False,residential,Madison Court,51.533,,,,,,,,,,,6113661,
+50545711,50525803,0,False,residential,Madison Street,90.923,,,,,,,,,,,6119999,
+50545711,50583454,0,False,residential,Madison Street,77.553,,,,,,,,,,,6119999,
+50545712,50545711,0,False,residential,Madison Court,51.533,,,,,,,,,,,6113661,
+50570546,50543897,0,False,residential,Anna Court,56.62,,,,,,,,,,,6115232,
+50577456,50543801,0,False,residential,Valley Drive,72.793,,,,,,,,,,,6139244,
+50577456,911548160,0,False,residential,13th Avenue,86.735,,,,,,,,,,,6115705,
+50577456,50796530,0,False,residential,Valley Drive,104.996,,,,,,,,,,,6139244,
+50580461,50580465,0,False,residential,Balfour Drive,75.617,,,,,,,,,,,6115889,
+50580461,50580505,0,False,residential,Balfour Drive,89.157,,,,,,,,,,,6115890,
+50580461,50496944,0,False,residential,Westland Drive,330.079,,,,,,,,,,,6126039,
+50580465,50543878,0,False,residential,Torrey Place,208.56,,,,,,,,,,,6133844,
+50580465,50580471,0,False,residential,Balfour Drive,100.003,,,,,,,,,,,6115889,
+50580465,50580461,0,False,residential,Balfour Drive,75.617,,,,,,,,,,,6115889,
+50580471,50633318,0,False,residential,Asbury Court,94.713,,,,,,,,,,,6119971,
+50580471,50504849,0,False,residential,Balfour Drive,139.164,,,,,,,,,,,6115889,
+50580471,50580465,0,False,residential,Balfour Drive,100.003,,,,,,,,,,,6115889,
+50580505,50580461,0,False,residential,Balfour Drive,89.157,,,,,,,,,,,6115890,
+50580505,50496946,0,False,residential,Balfour Drive,144.188,,,,,,,,,,,6115890,
+50580505,50602227,0,False,residential,Balfour Court,127.763,,,,,,,,,,,6117043,
+50583427,50583451,0,False,residential,14th Place,178.202,,,,,,,,,,,6115993,
+50583427,50583454,0,False,residential,Madison Street,47.997,,,,,,,,,,,6119999,
+50583427,50543858,0,False,residential,Madison Street,56.509,,,,,,,,,,,6119999,
+50583451,50543862,0,False,residential,Nicholson Street,81.887,,,,,,,,,,,6142808,
+50583451,50583427,0,False,residential,14th Place,178.202,,,,,,,,,,,6115993,
+50583451,50525844,0,False,residential,Nicholson Street,370.488,,,,,,,,,,,6142808,
+50583454,50480582,0,False,residential,14th Place,82.83,,,,,,,,,,,6115994,
+50583454,50545711,0,False,residential,Madison Street,77.553,,,,,,,,,,,6119999,
+50583454,50583427,0,False,residential,Madison Street,47.997,,,,,,,,,,,6119999,
+50584601,50746605,0,False,residential,18th Avenue,91.023,,,,,,,,,,,6143571,
+50584601,50584610,0,False,residential,Longfellow Street,146.883,,,,,,,,,,,6116056,
+50584601,50488876,0,False,residential,18th Avenue,114.498,,,,,,,,,,,6143571,
+50584610,50584601,0,False,residential,Longfellow Street,146.883,,,,,,,,,,,6116056,
+50584610,50746625,0,False,residential,Longford Drive,95.142,,,,,,,,,,,6133284,
+50584610,50746605,0,False,residential,Longford Drive,160.44,,,,,,,,,,,6133284,
+50594905,50477544,0,False,residential,Timber Creek Terrace,146.558,,,,,,,,,,,6116531,
+50594905,50633554,0,False,residential,Madison Street,169.78,,,,,,,,,,,6119999,
+50594905,50525803,0,False,residential,Madison Street,138.333,,,,,,,,,,,6119999,
+50602227,50580505,0,False,residential,Balfour Court,127.763,,,,,,,,,,,6117043,
+50620034,50833105,0,False,secondary,Chillum Road,121.668,,,,,,,,,,,132577560,MD 501
+50620034,50453489,0,False,secondary,Chillum Road,369.192,,,,,,,,,,,"[132577560, 45876213]",MD 501
+50620402,50543894,0,False,residential,Dekalb Court,56.512,,,,,,,,,,,6118513,
+50623823,50623824,0,False,residential,Belle Court,89.214,,,,,,,,,,,6118939,
+50623823,50652648,0,False,residential,Rosedale Drive,92.013,,,,,,,,,,,6126297,
+50623823,50687775,0,False,residential,Rosedale Drive,142.092,,,,,,,,,,,6126297,
+50623824,50623823,0,False,residential,Belle Court,89.214,,,,,,,,,,,6118939,
+50633318,50580471,0,False,residential,Asbury Court,94.713,,,,,,,,,,,6119971,
+50633554,50496963,0,False,residential,Madison Street,77.947,,,,,,,,,,,6119999,
+50633554,50525844,0,False,residential,Nicholson Street,50.114,,,,,,,,,,,6142808,
+50633554,50594905,0,False,residential,Madison Street,169.78,,,,,,,,,,,6119999,
+50652648,50623823,0,False,residential,Rosedale Drive,92.013,,,,,,,,,,,6126297,
+50652648,50507398,0,False,residential,10th Place,178.081,,,,,,,,,,,6122299,
+50652648,1377284072,0,False,residential,10th Place,159.206,,,,,,,,,,,6122299,
+50652680,50507398,0,False,residential,10th Place,157.14,,,,,,,,,,,6122299,
+50652680,50687827,0,False,residential,Rosedale Drive,75.694,,,,,,,,,,,6126297,
+50652680,50687775,0,False,residential,Rosedale Drive,75.656,,,,,,,,,,,6126297,
+50654828,1377284071,0,False,residential,Parker House Terrace,289.6,,,,,,,,,,,6122505,
+50661316,50748094,0,True,primary,Riggs Road,179.543,3,,,,,,,,,,"[468822868, 468822869]",MD 212
+50680856,50828588,0,False,secondary,Chillum Road,113.522,,,,,,,,,,,132577560,MD 501
+50687775,50762503,0,False,residential,Rosedale Place,82.507,,,,,,,,,,,6144386,
+50687775,50652680,0,False,residential,Rosedale Drive,75.656,,,,,,,,,,,6126297,
+50687775,50623823,0,False,residential,Rosedale Drive,142.092,,,,,,,,,,,6126297,
+50687827,50706294,0,False,residential,Rosedale Court,60.862,,,,,,,,,,,6128252,
+50687827,50687846,0,False,residential,Rosedale Drive,87.924,,,,,,,,,,,6126297,
+50687827,50652680,0,False,residential,Rosedale Drive,75.694,,,,,,,,,,,6126297,
+50687846,1030462991,0,False,residential,,32.645,,,,,,,,,,,88796645,
+50687846,50687855,0,False,residential,Rosedale Drive,46.724,,,,,,,,,,,6126297,
+50687846,50687827,0,False,residential,Rosedale Drive,87.924,,,,,,,,,,,6126297,
+50687855,50687846,0,False,residential,Rosedale Drive,46.724,,,,,,,,,,,6126297,
+50699502,1377284072,0,False,secondary,Chillum Road,152.529,4,,,,,,,,,,132577561,MD 501
+50699502,50500278,0,False,secondary,Chillum Road,85.369,4,,,,,,,,,,132577561,MD 501
+50699502,50699507,0,False,residential,Twin Oak Drive,85.974,,,,,,,,,,,6127446,
+50699502,50499390,0,False,residential,"['Parker Avenue', 'Twin Oak Drive']",260.737,,,,,,,,,,,"[6110858, 6127446]",
+50699507,50699538,0,False,residential,Twin Oak Drive,161.278,,,,,,,,,,,6127446,
+50699507,50699502,0,False,residential,Twin Oak Drive,85.974,,,,,,,,,,,6127446,
+50699507,50240283,0,False,residential,Oakdale Drive,210.812,,,,,,,,,,,6143635,
+50699538,50699507,0,False,residential,Twin Oak Drive,161.278,,,,,,,,,,,6127446,
+50706294,50687827,0,False,residential,Rosedale Court,60.862,,,,,,,,,,,6128252,
+50725493,50802689,0,False,residential,Higgins Way,69.044,,,,,,,,,,,6140221,
+50725493,911548158,0,False,residential,Higgins Way,12.252,,,,,,,,,,,6140221,
+50746605,50838348,0,False,residential,18th Avenue,37.66,,,,,,,,,,,6143571,
+50746605,50584601,0,False,residential,18th Avenue,91.023,,,,,,,,,,,6143571,
+50746605,50584610,0,False,residential,Longford Drive,160.44,,,,,,,,,,,6133284,
+50746625,50584610,0,False,residential,Longford Drive,95.142,,,,,,,,,,,6133284,
+50746625,50488876,0,False,secondary,Chillum Road,170.342,,,,,,,,,,,397271278,MD 501
+50748094,50543904,0,True,primary,Riggs Road,92.349,"['4', '3']",,,,,,,,,,"[468822867, 468822868]",MD 212
+50761770,50762526,0,True,secondary,Chillum Road,20.555,2,,,,,,,,,,45876225,MD 501
+50761770,1377284061,0,True,primary,Riggs Road,41.27,3,,,,,,,,,,130576330,MD 212
+50761771,50761770,0,True,primary,Riggs Road,13.881,3,,,,,,,,,,468471830,MD 212
+50761785,50240501,0,True,primary,Riggs Road,79.709,2,,,,,,,,,,130576326,MD 212
+50761792,50762503,0,False,residential,Rosedale Place,15.955,,,,,,,,,,,6144386,
+50761792,50761785,0,True,primary,Riggs Road,101.137,2,,,,,,,,,,130576326,MD 212
+50762474,50543902,0,True,primary,Riggs Road,33.241,3,,,,,,,,,,130576327,MD 212
+50762474,4059254184,0,True,primary_link,,48.616,,,,,,,,,,,403570351,
+50762503,50687775,0,False,residential,Rosedale Place,82.507,,,,,,,,,,,6144386,
+50762503,50761792,0,False,residential,Rosedale Place,15.955,,,,,,,,,,,6144386,
+50762503,50240447,0,True,primary,Riggs Road,118.504,2,,,,,,,,,,6134976,MD 212
+50762524,50761771,0,True,secondary,Chillum Road,21.933,2,,,,,,,,,,468471826,MD 501
+50762524,1030462997,0,True,primary,Riggs Road,54.106,2,,,,,,,,,,6134976,MD 212
+50762526,50762524,0,True,primary,Riggs Road,15.597,2,,,,,,,,,,6134976,MD 212
+50762526,50521254,0,True,secondary,Chillum Road,125.705,2,,,,,,,,,,45876225,MD 501
+50796530,50577456,0,False,residential,Valley Drive,104.996,,,,,,,,,,,6139244,
+50802689,50725493,0,False,residential,Higgins Way,69.044,,,,,,,,,,,6140221,
+50816141,50241891,0,False,residential,Timber Ridge Lane,117.478,,,,,,,,,,,6142070,
+50828588,50680856,0,False,secondary,Chillum Road,113.522,,,,,,,,,,,132577560,MD 501
+50828588,50833105,0,False,secondary,Chillum Road,87.059,,,,,,,,,,,132577560,MD 501
+50833105,50828588,0,False,secondary,Chillum Road,87.059,,,,,,,,,,,132577560,MD 501
+50833105,50620034,0,False,secondary,Chillum Road,121.668,,,,,,,,,,,132577560,MD 501
+50838348,50746605,0,False,residential,18th Avenue,37.66,,,,,,,,,,,6143571,
+673041341,50316873,0,True,residential,Berkshire Drive,14.526,,,,,,,,,,,6143949,
+673041341,50762526,0,True,primary,Riggs Road,176.835,2,,,,,,,,,,6134976,MD 212
+911548158,911548159,0,False,residential,Higgins Way,6.947,,,,,,,,,,,6140221,
+911548158,50725493,0,False,residential,Higgins Way,12.252,,,,,,,,,,,6140221,
+911548159,911548158,0,False,residential,Higgins Way,6.947,,,,,,,,,,,6140221,
+911548160,50577456,0,False,residential,13th Avenue,86.735,,,,,,,,,,,6115705,
+1030462991,50687846,0,False,residential,,32.645,,,,,,,,,,,88796645,
+1030462992,50762524,0,True,secondary,Chillum Road,41.269,2,,,,,,,,,,468471828,MD 501
+1030462992,1030462997,0,True,primary_link,,51.061,,,,,,,,,,,88796646,
+1030462997,50240504,0,True,primary,Riggs Road,89.062,2,,,,,,,,,,6134976,MD 212
+1377284061,50316873,0,True,primary,Riggs Road,123.501,"['4', '3']",,,,,,,,,,"[130576330, 468471829]",MD 212
+1377284071,50521278,0,False,secondary,Chillum Road,91.468,4,,,,,,,,,,132577561,MD 501
+1377284071,1377284072,0,False,secondary,Chillum Road,8.293,4,,,,,,,,,,132577561,MD 501
+1377284071,50654828,0,False,residential,Parker House Terrace,289.6,,,,,,,,,,,6122505,
+1377284072,1377284071,0,False,secondary,Chillum Road,8.293,4,,,,,,,,,,132577561,MD 501
+1377284072,50699502,0,False,secondary,Chillum Road,152.529,4,,,,,,,,,,132577561,MD 501
+1377284072,50652648,0,False,residential,10th Place,159.206,,,,,,,,,,,6122299,
+1377284691,673041341,0,True,primary,Riggs Road,29.313,2,,,,,,,,,,6134976,MD 212
+3657249999,4059254188,0,False,secondary,Sargent Road,41.094,4,,,30 mph,,,,,,,6113538,
+3659244426,50543897,0,False,secondary,Sargent Road,13.59,4,,,30 mph,,,,,,,50925529,
+3659244426,50543894,0,False,secondary,Sargent Road,71.112,4,,,30 mph,,,,,,,50925529,
+3659244426,50208933,0,False,unclassified,,160.851,,,,,,,,,,,361450162,
+4001190879,50543922,0,False,secondary,Chillum Road,33.959,4,,,,,,,,,,468486719,MD 501
+4001190879,4001200341,0,True,secondary_link,,62.282,,,,,,,,,,,397321652,
+4001190879,50525788,0,False,secondary,Chillum Road,373.171,4,,,,,,,,,,"[468486720, 468486719]",MD 501
+4001200341,50543850,0,True,secondary,Sargent Road,126.842,2,,,30 mph,,,,,,,6113539,
+4059254184,50543902,0,False,secondary,Sargent Road,45.156,4,,,30 mph,,,,,,,50925529,
+4059254184,50543897,0,False,secondary,Sargent Road,99.183,4,,,30 mph,,,,,,,50925529,
+4059254184,4059254187,0,False,primary_link,,64.547,,,,,,,,,,,403570352,
+4059254187,50504854,0,True,primary,Riggs Road,114.592,3,,,,,,,,,,130576327,MD 212
+4059254187,4059254184,0,False,primary_link,,64.547,,,,,,,,,,,403570352,
+4059254188,3657249999,0,False,secondary,Sargent Road,41.094,4,,,30 mph,,,,,,,6113538,
+4059254188,50538445,0,False,secondary,Sargent Road,37.102,4,,,30 mph,,,,,,,583958101,

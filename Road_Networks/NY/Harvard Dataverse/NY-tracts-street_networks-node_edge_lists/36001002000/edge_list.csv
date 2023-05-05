@@ -1,0 +1,308 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+41257760,2451028479,0,True,motorway_link,,74.452,,,,,,,,,,,5564849,
+41257760,41269158,0,True,motorway_link,,115.885,,,,,,,,,,,5566108,
+41257766,41257760,0,True,motorway_link,,102.977,,,,,,,,,,,5564849,
+41268478,41419012,0,True,motorway_link,,523.667,1,,,,,,,,,,141864423,
+41268478,41268609,0,True,motorway_link,,869.314,1,,,,,,,,,,344136674,
+41269158,41288650,0,False,primary,Southern Boulevard,23.439,4,,,30 mph,,,,,,,385064485,US 9W
+41269158,2451028479,0,False,primary,Southern Boulevard,65.352,4,,,30 mph,,,,,,,385064486,US 9W
+41269494,41268478,0,True,motorway_link,,162.071,"['2', '1']",,,,,,,,,,"[25235409, 5566053]",
+41286418,2451165098,0,True,motorway_link,,971.624,1,,,30 mph,,,,,,,5568287,
+41286418,41268609,0,True,motorway,New York State Thruway,469.438,2,,,65 mph,,,,,,,38256681,I 87
+41288249,41300778,0,False,primary,Southern Boulevard,27.024,2,,,30 mph,,,,,,,121772564,US 9W
+41288249,41453286,0,False,primary,Southern Boulevard,82.443,2,,,30 mph,,,,,,,121772564,US 9W
+41288249,41288255,0,False,residential,Southern Boulevard,41.522,,,,30 mph,,,,,,,5568533,
+41288255,41407181,0,False,residential,Southern Boulevard,50.067,,,,30 mph,,,,,,,5585072,
+41288255,41288249,0,False,residential,Southern Boulevard,41.522,,,,30 mph,,,,,,,5568533,
+41288255,41300778,0,False,residential,Southern Boulevard,32.223,,,,30 mph,,,,,,,5585072,
+41288650,41469971,0,False,primary,Southern Boulevard,32.64,4,,,30 mph,,,,,,,35786834,US 9W
+41288650,41269158,0,False,primary,Southern Boulevard,23.439,4,,,30 mph,,,,,,,385064485,US 9W
+41294271,41294272,0,False,residential,Philbrick Street,79.446,,,,30 mph,,,,,,,5569178,
+41294271,41398725,0,False,tertiary,Mc Alpin Street,74.687,,,,30 mph,,,,,,,5584867,
+41294271,41435534,0,False,tertiary,Mc Alpin Street,9.878,,,,30 mph,,,,,,,5584867,
+41294272,41294275,0,False,residential,Philbrick Street,74.045,,,,30 mph,,,,,,,5569178,
+41294272,41294271,0,False,residential,Philbrick Street,79.446,,,,30 mph,,,,,,,5569178,
+41294272,41407184,0,False,residential,Mountain Street,221.863,,,,30 mph,,,,,,,5579516,
+41294272,41407191,0,False,residential,Mountain Street,62.232,,,,30 mph,,,,,,,5579516,
+41294275,41294279,0,False,residential,Philbrick Street,13.543,,,,30 mph,,,,,,,5569178,
+41294275,41294272,0,False,residential,Philbrick Street,74.045,,,,30 mph,,,,,,,5569178,
+41294275,41457908,0,False,residential,Kenosha Street,35.325,,,,30 mph,,,,,,,5583969,
+41294275,41457899,0,False,residential,Kenosha Street,220.282,,,,30 mph,,,,,,,5583969,
+41294279,41294275,0,False,residential,Philbrick Street,13.543,,,,30 mph,,,,,,,5569178,
+41300776,41300778,0,False,primary,McCarty Avenue,91.722,2,,,30 mph,,,,,,,121772518,US 9W
+41300778,41300776,0,False,primary,McCarty Avenue,91.722,2,,,30 mph,,,,,,,121772518,US 9W
+41300778,41288249,0,False,primary,Southern Boulevard,27.024,2,,,30 mph,,,,,,,121772564,US 9W
+41300778,41288255,0,False,residential,Southern Boulevard,32.223,,,,30 mph,,,,,,,5585072,
+41302408,41478738,0,False,secondary,Delaware Avenue,176.029,,,,30 mph,,,,,,,35599359,NY 443
+41302408,41435529,0,False,secondary,Delaware Avenue,66.718,,,,30 mph,,,,,,,35599359,NY 443
+41302408,41302418,0,False,residential,Mapleridge Avenue,236.499,,,,30 mph,,,,,,,5569976,
+41302418,41416908,0,False,residential,"['Mapleridge Avenue', 'Simpson Avenue']",129.872,,,,30 mph,,,,,,,"[5569976, 5582662]",
+41302418,41302408,0,False,residential,Mapleridge Avenue,236.499,,,,30 mph,,,,,,,5569976,
+41302418,41412586,0,False,residential,McDonald Road,175.835,,,,30 mph,,,,,,,5586475,
+41304214,41487678,0,False,primary,Delaware Avenue,79.694,2,,,30 mph,,,,,,,5586584,US 9W;NY 443
+41304214,41304215,0,False,residential,Delaware Terrace,146.762,,,,30 mph,,,,,,,5570197,
+41304214,41442141,0,False,primary,Delaware Avenue,24.268,2,,,30 mph,,,,,,,5586584,US 9W;NY 443
+41304215,41304214,0,False,residential,Delaware Terrace,146.762,,,,30 mph,,,,,,,5570197,
+41346788,41346793,0,False,residential,Golder Street,58.905,,,,,,,,,,,5574478,
+41346788,41487750,0,False,secondary,Delaware Avenue,161.152,,,,30 mph,,,,,,,25233962,NY 443
+41346788,41487740,0,False,secondary,Delaware Avenue,157.084,,,,30 mph,,,,,,,25233962,NY 443
+41346793,41462906,0,False,residential,Alfred Street,80.584,,,,,,,,,,,5584415,
+41346793,41346803,0,False,residential,Golder Street,138.616,,,,,,,,,,,5574478,
+41346793,41346788,0,False,residential,Golder Street,58.905,,,,,,,,,,,5574478,
+41346803,41346793,0,False,residential,Golder Street,138.616,,,,,,,,,,,5574478,
+41351826,41393315,0,False,tertiary,2nd Avenue,16.809,,,,30 mph,,,,,,,5578474,
+41351826,41375796,0,False,tertiary,2nd Avenue,80.385,,,,30 mph,,,,,,,5578474,
+41351827,41351826,0,True,residential,Jeanette Street,232.795,,,,30 mph,,,,,,,5574857,
+41351827,41408175,0,False,primary,Delaware Avenue,82.964,2,,,30 mph,,,,,,,5586584,US 9W;NY 443
+41351827,41375799,0,False,primary,Delaware Avenue,85.684,2,,,30 mph,,,,,,,5586584,US 9W;NY 443
+41353309,41375799,0,False,primary,Delaware Avenue,14.066,2,,,30 mph,,,,,,,5586584,US 9W;NY 443
+41353309,41353313,0,False,residential,Saint James Place,145.003,,,,30 mph,,,,,,,5574981,
+41353309,41445875,0,False,primary,Delaware Avenue,69.28,2,,,30 mph,,,,,,,5586584,US 9W;NY 443
+41353313,41353317,0,False,residential,Saint James Place,143.837,,,,30 mph,,,,,,,5574981,
+41353313,41353309,0,False,residential,Saint James Place,145.003,,,,30 mph,,,,,,,5574981,
+41353313,41354465,0,False,residential,Summit Avenue,170.951,,,,30 mph,,,,,,,5575071,
+41353313,41354462,0,False,residential,Summit Avenue,91.604,,,,30 mph,,,,,,,5575071,
+41353317,41353313,0,False,residential,Saint James Place,143.837,,,,30 mph,,,,,,,5574981,
+41354455,41354456,0,False,residential,Summit Avenue,73.756,,,,30 mph,,,,,,,5575071,
+41354455,41547290,0,False,residential,Barclay Street,99.237,,,,30 mph,,,,,,,5593076,
+41354455,41487688,0,False,residential,Barclay Street,147.915,,,,30 mph,,,,,,,5593076,
+41354456,41354462,0,False,residential,Summit Avenue,91.345,,,,30 mph,,,,,,,5575071,
+41354456,41354455,0,False,residential,Summit Avenue,73.756,,,,30 mph,,,,,,,5575071,
+41354456,41557561,0,False,residential,Catalpa Drive,92.344,,,,30 mph,,,,,,,5594297,
+41354462,41354456,0,False,residential,Summit Avenue,91.345,,,,30 mph,,,,,,,5575071,
+41354462,41402137,0,False,residential,Federal Street,54.935,,,,30 mph,,,,,,,5579131,
+41354462,41353313,0,False,residential,Summit Avenue,91.604,,,,30 mph,,,,,,,5575071,
+41354462,41402131,0,False,residential,Federal Street,148.378,,,,30 mph,,,,,,,5579131,
+41354465,41408179,0,False,residential,Marinello Terrace,165.298,,,,30 mph,,,,,,,5579598,
+41354465,41353313,0,False,residential,Summit Avenue,170.951,,,,30 mph,,,,,,,5575071,
+41354465,41408175,0,False,residential,Marinello Terrace,133.674,,,,30 mph,,,,,,,5579598,
+41357308,41469971,0,False,primary,Southern Boulevard,59.216,4,,,30 mph,,,,,,,35786834,US 9W
+41360631,41487668,0,False,primary,Delaware Avenue,60.734,2,,,30 mph,,,,,,,5586584,US 9W;NY 443
+41371859,41393323,0,False,tertiary,2nd Avenue,63.655,,,,30 mph,,,,,,,5578474,
+41371859,41393319,0,False,tertiary,2nd Avenue,17.564,,,,30 mph,,,,,,,5578474,
+41371866,41424314,0,False,residential,Leedale Street,50.659,,,,30 mph,,,,,,,5580990,
+41371866,41424310,0,False,residential,Leedale Street,25.56,,,,30 mph,,,,,,,5580990,
+41371866,41371859,0,True,residential,Barrows Street,239.006,,,,30 mph,,,,,,,5576722,
+41375796,41351826,0,False,tertiary,2nd Avenue,80.385,,,,30 mph,,,,,,,5578474,
+41375796,41393310,0,False,tertiary,2nd Avenue,81.262,,,,30 mph,,,,,,,5578474,
+41375796,41375799,0,True,residential,Marshall Street,280.069,,,,30 mph,,,,,,,5577043,
+41375796,41379294,0,False,residential,South Marshall Street,93.682,,,,30 mph,,,,,,,5577318,
+41375799,41353309,0,False,primary,Delaware Avenue,14.066,2,,,30 mph,,,,,,,5586584,US 9W;NY 443
+41375799,41351827,0,False,primary,Delaware Avenue,85.684,2,,,30 mph,,,,,,,5586584,US 9W;NY 443
+41379294,41375796,0,False,residential,South Marshall Street,93.682,,,,30 mph,,,,,,,5577318,
+41392796,41412586,0,False,tertiary,Whitehall Road,18.311,,,,30 mph,,,,,,,5579995,
+41392796,41392801,0,False,residential,Matilda Street,205.881,,,,30 mph,,,,,,,5578433,
+41392796,41412594,0,False,tertiary,Whitehall Road,78.706,,,,30 mph,,,,,,,5579995,
+41392801,41392803,0,False,residential,Matilda Street,106.718,,,,30 mph,,,,,,,5578433,
+41392801,41392796,0,False,residential,Matilda Street,205.881,,,,30 mph,,,,,,,5578433,
+41392801,41489052,0,True,residential,Ten Eyck Avenue,181.222,,,,,,,,,,,5592922,
+41392803,41392801,0,False,residential,Matilda Street,106.718,,,,30 mph,,,,,,,5578433,
+41392803,41408982,0,False,residential,Cuyler Avenue,62.051,,,,30 mph,,,,,,,5579684,
+41392803,41399549,0,False,residential,Cuyler Avenue,181.304,,,,30 mph,,,,,,,5579684,
+41393307,41393309,0,False,tertiary,2nd Avenue,52.727,,,,30 mph,,,,,,,5578474,
+41393307,41400515,0,False,tertiary,Hoffman Avenue,114.578,,,,30 mph,,,,,,,5578998,
+41393309,41393310,0,False,tertiary,2nd Avenue,80.143,,,,30 mph,,,,,,,5578474,
+41393309,41393307,0,False,tertiary,2nd Avenue,52.727,,,,30 mph,,,,,,,5578474,
+41393310,41375796,0,False,tertiary,2nd Avenue,81.262,,,,30 mph,,,,,,,5578474,
+41393310,41393309,0,False,tertiary,2nd Avenue,80.143,,,,30 mph,,,,,,,5578474,
+41393310,41423842,0,True,residential,South Bertha Street,102.305,,,,30 mph,,,,,,,5593721,
+41393315,41393319,0,False,tertiary,2nd Avenue,63.305,,,,30 mph,,,,,,,5578474,
+41393315,41351826,0,False,tertiary,2nd Avenue,16.809,,,,30 mph,,,,,,,5578474,
+41393315,41414610,0,True,residential,Alden Avenue,170.811,,,,30 mph,,,,,,,5580186,
+41393319,41371859,0,False,tertiary,2nd Avenue,17.564,,,,30 mph,,,,,,,5578474,
+41393319,41393315,0,False,tertiary,2nd Avenue,63.305,,,,30 mph,,,,,,,5578474,
+41393319,41408175,0,False,residential,Stanwix Street,188.559,,,,30 mph,,,,,,,5582882,
+41393323,41393325,0,False,tertiary,2nd Avenue,47.378,,,,30 mph,,,,,,,5578474,
+41393323,41371859,0,False,tertiary,2nd Avenue,63.655,,,,30 mph,,,,,,,5578474,
+41393323,41462935,0,False,residential,Beekman Street,144.262,,,,30 mph,,,,,,,5584420,
+41393325,41393323,0,False,tertiary,2nd Avenue,47.378,,,,30 mph,,,,,,,5578474,
+41393325,41393332,0,False,tertiary,2nd Avenue,136.271,,,,30 mph,,,,,,,5578474,
+41393325,41424326,0,False,residential,Hampton Street,251.2,,,,30 mph,,,,,,,5581254,
+41393332,41412554,0,False,tertiary,Whitehall Road,29.061,,,,30 mph,,,,,,,5579995,
+41393332,41469941,0,False,primary,Delaware Avenue,103.396,2,,,30 mph,,,,,,,5586584,US 9W;NY 443
+41393332,41408968,0,False,primary,Delaware Avenue,104.544,2,,,30 mph,,,,,,,5586584,US 9W;NY 443
+41393332,41393325,0,False,tertiary,2nd Avenue,136.271,,,,30 mph,,,,,,,5578474,
+41398725,41294271,0,False,tertiary,Mc Alpin Street,74.687,,,,30 mph,,,,,,,5584867,
+41398725,41398732,0,False,residential,Oriole Avenue,68.857,,,,30 mph,,,,,,,5578824,
+41398725,41467922,0,False,tertiary,Mc Alpin Street,193.771,,,,30 mph,,,,,,,5584867,
+41398732,41398725,0,False,residential,Oriole Avenue,68.857,,,,30 mph,,,,,,,5578824,
+41399537,41399546,0,False,residential,Kate Street,76.292,,,,30 mph,,,,,,,5578911,
+41399537,41412578,0,False,tertiary,Whitehall Road,135.538,,,,30 mph,,,,,,,5579995,
+41399537,41412554,0,False,tertiary,Whitehall Road,119.297,,,,30 mph,,,,,,,5579995,
+41399546,41399549,0,False,residential,Kate Street,108.194,,,,30 mph,,,,,,,5578911,
+41399546,41392801,0,True,residential,Ten Eyck Avenue,180.331,,,,,,,,,,,5592922,
+41399546,41399537,0,False,residential,Kate Street,76.292,,,,30 mph,,,,,,,5578911,
+41399549,41399546,0,False,residential,Kate Street,108.194,,,,30 mph,,,,,,,5578911,
+41399549,41392803,0,False,residential,Cuyler Avenue,181.304,,,,30 mph,,,,,,,5579684,
+41399549,41408968,0,False,residential,Cuyler Avenue,130.808,,,,30 mph,,,,,,,5579684,
+41400515,41400521,0,False,tertiary,Hoffman Avenue,82.908,,,,30 mph,,,,,,,5578998,
+41400515,41393307,0,False,tertiary,Hoffman Avenue,114.578,,,,30 mph,,,,,,,5578998,
+41400515,41423842,0,True,residential,Corlaer Street,120.568,,,,30 mph,,,,,,,5580903,
+41400521,41400515,0,False,tertiary,Hoffman Avenue,82.908,,,,30 mph,,,,,,,5578998,
+41402131,41354462,0,False,residential,Federal Street,148.378,,,,30 mph,,,,,,,5579131,
+41402131,41445875,0,False,primary,Delaware Avenue,24.009,2,,,30 mph,,,,,,,5586584,US 9W;NY 443
+41402131,41487693,0,False,primary,Delaware Avenue,62.903,2,,,30 mph,,,,,,,5586584,US 9W;NY 443
+41402137,41354462,0,False,residential,Federal Street,54.935,,,,30 mph,,,,,,,5579131,
+41407180,41407181,0,False,residential,Mountain Street,185.422,,,,30 mph,,,,,,,5579516,
+41407181,41407184,0,False,residential,Mountain Street,183.348,,,,30 mph,,,,,,,5579516,
+41407181,41407180,0,False,residential,Mountain Street,185.422,,,,30 mph,,,,,,,5579516,
+41407181,41457895,0,False,residential,Southern Boulevard,74.966,,,,30 mph,,,,,,,5585072,
+41407181,41288255,0,False,residential,Southern Boulevard,50.067,,,,30 mph,,,,,,,5585072,
+41407184,41294272,0,False,residential,Mountain Street,221.863,,,,30 mph,,,,,,,5579516,
+41407184,41407181,0,False,residential,Mountain Street,183.348,,,,30 mph,,,,,,,5579516,
+41407184,41457899,0,False,residential,Leighton Street,75.033,,,,30 mph,,,,,,,5588385,
+41407184,41469948,0,False,residential,Leighton Street,80.637,,,,30 mph,,,,,,,5588385,
+41407191,41294272,0,False,residential,Mountain Street,62.232,,,,30 mph,,,,,,,5579516,
+41408175,41354465,0,False,residential,Marinello Terrace,133.674,,,,30 mph,,,,,,,5579598,
+41408175,41393319,0,False,residential,Stanwix Street,188.559,,,,30 mph,,,,,,,5582882,
+41408175,41462935,0,False,primary,Delaware Avenue,84.31,2,,,30 mph,,,,,,,5586584,US 9W;NY 443
+41408175,41351827,0,False,primary,Delaware Avenue,82.964,2,,,30 mph,,,,,,,5586584,US 9W;NY 443
+41408179,41354465,0,False,residential,Marinello Terrace,165.298,,,,30 mph,,,,,,,5579598,
+41408968,41393332,0,False,primary,Delaware Avenue,104.544,2,,,30 mph,,,,,,,5586584,US 9W;NY 443
+41408968,41462935,0,False,primary,Delaware Avenue,61.173,2,,,30 mph,,,,,,,5586584,US 9W;NY 443
+41408968,41399549,0,False,residential,Cuyler Avenue,130.808,,,,30 mph,,,,,,,5579684,
+41408982,41392803,0,False,residential,Cuyler Avenue,62.051,,,,30 mph,,,,,,,5579684,
+41412554,41393332,0,False,tertiary,Whitehall Road,29.061,,,,30 mph,,,,,,,5579995,
+41412554,41399537,0,False,tertiary,Whitehall Road,119.297,,,,30 mph,,,,,,,5579995,
+41412554,41399546,0,True,residential,Ten Eyck Avenue,105.535,,,,,,,,,,,5592922,
+41412578,41412586,0,False,tertiary,Whitehall Road,79.772,,,,30 mph,,,,,,,5579995,
+41412578,41485972,0,False,residential,Sard Road,121.316,,,,30 mph,,,,,,,5586422,
+41412578,41399537,0,False,tertiary,Whitehall Road,135.538,,,,30 mph,,,,,,,5579995,
+41412586,41392796,0,False,tertiary,Whitehall Road,18.311,,,,30 mph,,,,,,,5579995,
+41412586,41412578,0,False,tertiary,Whitehall Road,79.772,,,,30 mph,,,,,,,5579995,
+41412586,41302418,0,False,residential,McDonald Road,175.835,,,,30 mph,,,,,,,5586475,
+41412594,41489052,0,False,residential,Marwill Street,247.18,,,,,,,,,,,5586656,
+41412594,41392796,0,False,tertiary,Whitehall Road,78.706,,,,30 mph,,,,,,,5579995,
+41414610,1848470185,0,False,residential,Alden Avenue,22.735,,,,30 mph,,,,,,,174122084,
+41414610,41441677,0,True,residential,Twiller Street,149.331,,,,30 mph,,,,,,,5582530,
+41416902,41478740,0,False,residential,Zoar Avenue,74.09,,,,30 mph,,,,,,,5594622,
+41416902,41560281,0,False,residential,Zoar Avenue,31.351,,,,30 mph,,,,,,,5594622,
+41416902,41416908,0,False,residential,Arcadia Avenue,163.619,,,,30 mph,,,,,,,5580348,
+41416908,41416902,0,False,residential,Arcadia Avenue,163.619,,,,30 mph,,,,,,,5580348,
+41416908,41302418,0,False,residential,"['Mapleridge Avenue', 'Simpson Avenue']",129.872,,,,30 mph,,,,,,,"[5569976, 5582662]",
+41416908,41443130,0,False,residential,Simpson Avenue,74.461,,,,30 mph,,,,,,,5582662,
+41423842,41441677,0,True,residential,South Bertha Street,80.518,,,,30 mph,,,,,,,5593721,
+41423842,41379294,0,True,residential,Corlaer Street,76.414,,,,30 mph,,,,,,,5580903,
+41424302,41424310,0,False,residential,Leedale Street,203.259,,,,30 mph,,,,,,,5580990,
+41424302,41300776,0,True,residential,South Bertha Street,80.084,,,,30 mph,,,,,,,5593721,
+41424310,41371866,0,False,residential,Leedale Street,25.56,,,,30 mph,,,,,,,5580990,
+41424310,41424302,0,False,residential,Leedale Street,203.259,,,,30 mph,,,,,,,5580990,
+41424310,41453286,0,False,residential,Kehoe Street,80.51,,,,30 mph,,,,,,,5583567,
+41424314,41371866,0,False,residential,Leedale Street,50.659,,,,30 mph,,,,,,,5580990,
+41424314,41469948,0,False,residential,Leighton Street,68.743,,,,30 mph,,,,,,,5588385,
+41424326,41393325,0,False,residential,Hampton Street,251.2,,,,30 mph,,,,,,,5581254,
+41424326,41424314,0,True,residential,Leedale Street,32.418,,,,30 mph,,,,,,,173780008,
+41435529,41435530,0,False,residential,Sparkill Avenue,89.67,,,,30 mph,,,,,,,5581872,
+41435529,41302408,0,False,secondary,Delaware Avenue,66.718,,,,30 mph,,,,,,,35599359,NY 443
+41435529,41469941,0,False,secondary,Delaware Avenue,79.498,,,,30 mph,,,,,,,35599359,NY 443
+41435530,41435534,0,False,residential,Sparkill Avenue,197.272,,,,30 mph,,,,,,,5581872,
+41435530,41435529,0,False,residential,Sparkill Avenue,89.67,,,,30 mph,,,,,,,5581872,
+41435530,41467922,0,False,residential,Rutland Street,228.923,,,,30 mph,,,,,,,5592689,
+41435534,41435530,0,False,residential,Sparkill Avenue,197.272,,,,30 mph,,,,,,,5581872,
+41435534,41294271,0,False,tertiary,Mc Alpin Street,9.878,,,,30 mph,,,,,,,5584867,
+41435534,41467900,0,False,tertiary,Mc Alpin Street,96.161,,,,30 mph,,,,,,,5584867,
+41441677,41400521,0,True,residential,Twiller Street,120.31,,,,30 mph,,,,,,,5582530,
+41441677,41424302,0,True,residential,South Bertha Street,80.896,,,,30 mph,,,,,,,5593721,
+41442141,41304214,0,False,primary,Delaware Avenue,24.268,2,,,30 mph,,,,,,,5586584,US 9W;NY 443
+41442141,41487668,0,False,primary,Delaware Avenue,118.101,2,,,30 mph,,,,,,,5586584,US 9W;NY 443
+41443008,41443010,0,False,residential,Carroll Terrace,164.26,,,,30 mph,,,,,,,5582651,
+41443008,41487688,0,False,primary,Delaware Avenue,99.73,2,,,30 mph,,,,,,,5586584,US 9W;NY 443
+41443008,41487678,0,False,primary,Delaware Avenue,86.998,2,,,30 mph,,,,,,,5586584,US 9W;NY 443
+41443010,41443008,0,False,residential,Carroll Terrace,164.26,,,,30 mph,,,,,,,5582651,
+41443129,41443130,0,False,residential,Simpson Avenue,70.654,,,,30 mph,,,,,,,5582662,
+41443129,41458290,0,False,residential,Mereline Avenue,183.28,,,,30 mph,,,,,,,5583995,
+41443130,41443129,0,False,residential,Simpson Avenue,70.654,,,,30 mph,,,,,,,5582662,
+41443130,41478740,0,False,residential,Albion Avenue,162.427,,,,30 mph,,,,,,,5585819,
+41443130,41416908,0,False,residential,Simpson Avenue,74.461,,,,30 mph,,,,,,,5582662,
+41445875,41393310,0,True,residential,Bertha Street,327.719,,,,30 mph,,,,,,,5582901,
+41445875,41353309,0,False,primary,Delaware Avenue,69.28,2,,,30 mph,,,,,,,5586584,US 9W;NY 443
+41445875,41402131,0,False,primary,Delaware Avenue,24.009,2,,,30 mph,,,,,,,5586584,US 9W;NY 443
+41453286,41288249,0,False,primary,Southern Boulevard,82.443,2,,,30 mph,,,,,,,121772564,US 9W
+41453286,41469948,0,False,primary,Southern Boulevard,74.633,2,,,30 mph,,,,,,,121772564,US 9W
+41453286,41424310,0,False,residential,Kehoe Street,80.51,,,,30 mph,,,,,,,5583567,
+41457890,41457893,0,False,residential,Kenosha Street,107.745,,,,30 mph,,,,,,,5583969,
+41457893,41457895,0,False,residential,Kenosha Street,78.191,,,,30 mph,,,,,,,5583969,
+41457893,41457890,0,False,residential,Kenosha Street,107.745,,,,30 mph,,,,,,,5583969,
+41457893,41509196,0,False,residential,Pierpont Street,29.819,,,,30 mph,,,,,,,5588968,
+41457895,41457897,0,False,residential,Kenosha Street,109.321,,,,30 mph,,,,,,,5583969,
+41457895,41457893,0,False,residential,Kenosha Street,78.191,,,,30 mph,,,,,,,5583969,
+41457895,41469903,0,False,residential,Southern Boulevard,71.174,,,,30 mph,,,,,,,5585072,
+41457895,41407181,0,False,residential,Southern Boulevard,74.966,,,,30 mph,,,,,,,5585072,
+41457897,41457899,0,False,residential,Kenosha Street,75.58,,,,30 mph,,,,,,,5583969,
+41457897,41457895,0,False,residential,Kenosha Street,109.321,,,,30 mph,,,,,,,5583969,
+41457897,41536638,0,False,residential,Norfolk Street,68.994,,,,30 mph,,,,,,,5591815,
+41457899,41457897,0,False,residential,Kenosha Street,75.58,,,,30 mph,,,,,,,5583969,
+41457899,41504117,0,False,residential,Leighton Street,76.782,,,,30 mph,,,,,,,5588385,
+41457899,41407184,0,False,residential,Leighton Street,75.033,,,,30 mph,,,,,,,5588385,
+41457899,41294275,0,False,residential,Kenosha Street,220.282,,,,30 mph,,,,,,,5583969,
+41457908,41294275,0,False,residential,Kenosha Street,35.325,,,,30 mph,,,,,,,5583969,
+41458290,41443129,0,False,residential,Mereline Avenue,183.28,,,,30 mph,,,,,,,5583995,
+41458290,41478738,0,False,secondary,Delaware Avenue,72.237,,,,30 mph,,,,,,,35599359,NY 443
+41462906,41346793,0,False,residential,Alfred Street,80.584,,,,,,,,,,,5584415,
+41462935,41393323,0,False,residential,Beekman Street,144.262,,,,30 mph,,,,,,,5584420,
+41462935,41408968,0,False,primary,Delaware Avenue,61.173,2,,,30 mph,,,,,,,5586584,US 9W;NY 443
+41462935,41408175,0,False,primary,Delaware Avenue,84.31,2,,,30 mph,,,,,,,5586584,US 9W;NY 443
+41467900,41435534,0,False,tertiary,Mc Alpin Street,96.161,,,,30 mph,,,,,,,5584867,
+41467900,41469941,0,False,primary,Southern Boulevard,348.218,2,,,30 mph,,,,,,,5585078,US 9W
+41467900,41469948,0,False,primary,Southern Boulevard,115.693,2,,,30 mph,,,,,,,121772564,US 9W
+41467922,41398725,0,False,tertiary,Mc Alpin Street,193.771,,,,30 mph,,,,,,,5584867,
+41467922,41435530,0,False,residential,Rutland Street,228.923,,,,30 mph,,,,,,,5592689,
+41469903,41457895,0,False,residential,Southern Boulevard,71.174,,,,30 mph,,,,,,,5585072,
+41469941,41393332,0,False,primary,Delaware Avenue,103.396,2,,,30 mph,,,,,,,5586584,US 9W;NY 443
+41469941,41435529,0,False,secondary,Delaware Avenue,79.498,,,,30 mph,,,,,,,35599359,NY 443
+41469941,41467900,0,False,primary,Southern Boulevard,348.218,2,,,30 mph,,,,,,,5585078,US 9W
+41469948,41453286,0,False,primary,Southern Boulevard,74.633,2,,,30 mph,,,,,,,121772564,US 9W
+41469948,41407184,0,False,residential,Leighton Street,80.637,,,,30 mph,,,,,,,5588385,
+41469948,41424314,0,False,residential,Leighton Street,68.743,,,,30 mph,,,,,,,5588385,
+41469948,41467900,0,False,primary,Southern Boulevard,115.693,2,,,30 mph,,,,,,,121772564,US 9W
+41469971,41288650,0,False,primary,Southern Boulevard,32.64,4,,,30 mph,,,,,,,35786834,US 9W
+41469971,41357308,0,False,primary,Southern Boulevard,59.216,4,,,30 mph,,,,,,,35786834,US 9W
+41469971,41502067,0,False,residential,Noonan Lane,984.054,,,,,,,,,,,5588165,
+41478738,41478740,0,False,residential,Albion Avenue,36.893,,,,30 mph,,,,,,,5585819,
+41478738,41302408,0,False,secondary,Delaware Avenue,176.029,,,,30 mph,,,,,,,35599359,NY 443
+41478738,41458290,0,False,secondary,Delaware Avenue,72.237,,,,30 mph,,,,,,,35599359,NY 443
+41478740,41443130,0,False,residential,Albion Avenue,162.427,,,,30 mph,,,,,,,5585819,
+41478740,41478738,0,False,residential,Albion Avenue,36.893,,,,30 mph,,,,,,,5585819,
+41478740,41416902,0,False,residential,Zoar Avenue,74.09,,,,30 mph,,,,,,,5594622,
+41485972,41412578,0,False,residential,Sard Road,121.316,,,,30 mph,,,,,,,5586422,
+41487668,41360631,0,False,primary,Delaware Avenue,60.734,2,,,30 mph,,,,,,,5586584,US 9W;NY 443
+41487668,41442141,0,False,primary,Delaware Avenue,118.101,2,,,30 mph,,,,,,,5586584,US 9W;NY 443
+41487668,41498785,0,False,residential,Besch Avenue,162.528,,,,30 mph,,,,,,,5587782,
+41487678,41304214,0,False,primary,Delaware Avenue,79.694,2,,,30 mph,,,,,,,5586584,US 9W;NY 443
+41487678,41443008,0,False,primary,Delaware Avenue,86.998,2,,,30 mph,,,,,,,5586584,US 9W;NY 443
+41487678,41548059,0,False,residential,Magnolia Terrace,196.545,,,,30 mph,,,,,,,5593185,
+41487688,41487693,0,False,primary,Delaware Avenue,101.07,2,,,30 mph,,,,,,,5586584,US 9W;NY 443
+41487688,41443008,0,False,primary,Delaware Avenue,99.73,2,,,30 mph,,,,,,,5586584,US 9W;NY 443
+41487688,41354455,0,False,residential,Barclay Street,147.915,,,,30 mph,,,,,,,5593076,
+41487693,41402131,0,False,primary,Delaware Avenue,62.903,2,,,30 mph,,,,,,,5586584,US 9W;NY 443
+41487693,41487688,0,False,primary,Delaware Avenue,101.07,2,,,30 mph,,,,,,,5586584,US 9W;NY 443
+41487740,41491158,0,False,residential,Normanskill Drive,603.393,,,,,,,,,,,5590125,
+41487740,41346788,0,False,secondary,Delaware Avenue,157.084,,,,30 mph,,,,,,,25233962,NY 443
+41487750,41491091,0,False,residential,Mill Road,276.54,,,,,,,yes,,,,"[287648672, 287648673, 5586930]",
+41487750,41346788,0,False,secondary,Delaware Avenue,161.152,,,,30 mph,,,,,,,25233962,NY 443
+41489052,41412594,0,False,residential,Marwill Street,247.18,,,,,,,,,,,5586656,
+41491091,1084683153,0,False,residential,Normanskill Drive,23.789,,,,,,,,,,,5590125,
+41491091,41491158,0,False,residential,Normanskill Drive,170.762,,,,,,,,,,,5590125,
+41491091,41487750,0,False,residential,Mill Road,276.54,,,,,,,yes,,,,"[287648672, 287648673, 5586930]",
+41491158,41491091,0,False,residential,Normanskill Drive,170.762,,,,,,,,,,,5590125,
+41491158,41487740,0,False,residential,Normanskill Drive,603.393,,,,,,,,,,,5590125,
+41498785,41487668,0,False,residential,Besch Avenue,162.528,,,,30 mph,,,,,,,5587782,
+41502067,41502067,0,False,residential,Noonan Lane,128.573,,,,,,,,,,,5588165,
+41502067,41502067,1,False,residential,Noonan Lane,128.573,,,,,,,,,,,5588165,
+41502067,41469971,0,False,residential,Noonan Lane,984.054,,,,,,,,,,,5588165,
+41504117,41457899,0,False,residential,Leighton Street,76.782,,,,30 mph,,,,,,,5588385,
+41509196,41457893,0,False,residential,Pierpont Street,29.819,,,,30 mph,,,,,,,5588968,
+41536638,41457897,0,False,residential,Norfolk Street,68.994,,,,30 mph,,,,,,,5591815,
+41547290,41354455,0,False,residential,Barclay Street,99.237,,,,30 mph,,,,,,,5593076,
+41548059,41487678,0,False,residential,Magnolia Terrace,196.545,,,,30 mph,,,,,,,5593185,
+41557561,41354456,0,False,residential,Catalpa Drive,92.344,,,,30 mph,,,,,,,5594297,
+41560281,41416902,0,False,residential,Zoar Avenue,31.351,,,,30 mph,,,,,,,5594622,
+1084683153,41491091,0,False,residential,Normanskill Drive,23.789,,,,,,,,,,,5590125,
+1848470185,41414610,0,False,residential,Alden Avenue,22.735,,,,30 mph,,,,,,,174122084,
+2451028479,41269158,0,False,primary,Southern Boulevard,65.352,4,,,30 mph,,,,,,,385064486,US 9W
+2451028479,2451028490,0,False,primary,Southern Boulevard,66.9,4,,,30 mph,,,yes,,,,"[25235604, 25235140, 385064486]",US 9W
+2451028490,41269494,0,True,motorway_link,,176.67,,,,,,,,,,,5566154,
+2451028490,2451028479,0,False,primary,Southern Boulevard,66.9,4,,,30 mph,,,yes,,,,"[25235140, 25235604, 385064486]",US 9W
+2451121088,2451165098,0,True,motorway_link,,486.066,1,,,30 mph,,,yes,,,,"[5565466, 35926260, 35926261]",
+2451121088,41419012,0,True,motorway,New York State Thruway,774.379,2,,,65 mph,,,yes,,,,"[35926258, 35926259, 38256679]",I 87
+2451165098,41257766,0,True,"['motorway_link', 'motorway']",,95.382,"['1', '2']",,,"['55 mph', '30 mph']",,,,,,,"[347765016, 38267196]",

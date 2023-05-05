@@ -1,0 +1,536 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+103011573,3798763316,0,False,unclassified,Garrison Hollow Road,855.831,,,,,,,,,,,11552887,
+103011607,3798763316,0,False,unclassified,Garrison Hollow Road,756.39,,,,,,,,,,,11552887,
+103011607,103028529,0,False,secondary,Big Pool Road,446.68,2,,,,,,,,,,376277725,MD 56
+103011607,103055699,0,False,secondary,Big Pool Road,1325.817,2,,,,,,,,,,376277725,MD 56
+103012393,103057062,0,True,motorway_link,,485.788,1,,,,,,,,,,11553000,
+103012395,103012515,0,False,secondary,Clear Spring Road,64.522,,,,,,,,,,,49077229,MD 68
+103012395,103012393,0,True,motorway_link,,81.186,1,,,,,,,,,,11552987,
+103012395,103012496,0,False,secondary,Clear Spring Road,114.681,,,,,,,,,,,49077229,MD 68
+103012454,103012393,0,True,motorway_link,,175.959,1,,,,,,,,,,11553000,
+103012454,103012496,0,False,secondary,Clear Spring Road,70.378,,,,,,,,,,,49077229,MD 68
+103012454,103033306,0,False,secondary,Clear Spring Road,38.15,,,,,,,,,,,49077229,MD 68
+103012484,103012494,0,True,motorway_link,,573.031,1,,,,,,,,,,11553003,
+103012484,103057062,0,True,motorway,Dwight D Eisenhower Highway,1079.849,2,,,70 mph,,,,,,,39261425,I 70
+103012494,103012496,0,True,motorway_link,,230.106,1,,,,,,,,,,11553003,
+103012494,103012515,0,True,motorway_link,,99.446,1,,,,,,,,,,11553005,
+103012496,103012395,0,False,secondary,Clear Spring Road,114.681,,,,,,,,,,,49077229,MD 68
+103012496,103012454,0,False,secondary,Clear Spring Road,70.378,,,,,,,,,,,49077229,MD 68
+103012515,103012395,0,False,secondary,Clear Spring Road,64.522,,,,,,,,,,,49077229,MD 68
+103012515,103023196,0,False,secondary,Clear Spring Road,371.333,2,,,,,,yes,,,,"[11559005, 49077228, 49077229]",MD 68
+103013017,103063715,0,False,secondary,Clear Spring Road,105.489,2,,,,,,,,,,11559005,MD 68
+103013017,103027631,0,False,secondary,Clear Spring Road,34.266,2,,,,,,,,,,11559005,MD 68
+103013017,103013018,0,True,motorway_link,,213.863,1,,,,,,,,,,11553048,
+103013018,1780739017,0,True,motorway_link,,515.53,1,,,,,,,,,,11553048,
+103017803,103017806,0,True,motorway_link,,64.274,1,,,,,,,,,,11554500,
+103017803,1780738386,0,True,motorway_link,,45.213,1,,,,,,,,,,414417230,
+103017806,1780738371,0,False,secondary,Big Pool Road,11.21,2,,,,,,,,,,11560725,MD 56
+103017806,103035452,0,False,secondary,Big Pool Road,26.207,2,,,,,,,,,,11560725,MD 56
+103017819,103024159,0,True,motorway_link,,435.455,1,,,,,,,,,,11554487,
+103017819,470422958,0,True,motorway,Dwight D Eisenhower Highway,1019.652,2,,,70 mph,,,,,,,39261425,I 70
+103017864,103051843,0,False,unclassified,Corner Road,1464.479,,,,,,,,,,,11560345,
+103019064,103039209,0,False,primary,National Pike,756.424,2,,,50 mph,,,yes,,,,"[166639296, 11558001, 39263126]",US 40
+103019064,470430240,0,False,primary,National Pike,124.93,2,,,50 mph,,,,,,,172905241,US 40
+103021266,103043159,0,False,tertiary,Indian Springs Road,1991.841,,,,,,,yes,,,,"[378149173, 11556757, 378149175]",
+103021266,103043117,0,False,tertiary,Indian Springs Road,61.579,,,,,,,,,,,378149175,
+103021266,103037252,0,False,tertiary,Lanes Run Road,2065.28,,,,,,,yes,,,,"[378796417, 11556109, 378796415]",
+103022018,103039209,0,False,primary,National Pike,2095.232,2,,,50 mph,,,,,,,11558001,US 40
+103022018,103056223,0,False,primary,National Pike,46.083,2,,,50 mph,,,,,,,11558001,US 40
+103022018,3797473444,0,False,unclassified,Ernstville Road,27.007,,,,,,,,,,,141596960,
+103023196,103027620,0,False,secondary,Clear Spring Road,108.63,2,,,,,,,,,,11559005,MD 68
+103023196,103012515,0,False,secondary,Clear Spring Road,371.333,2,,,,,,yes,,,,"[49077229, 49077228, 11559005]",MD 68
+103023199,103023196,0,True,motorway_link,,128.289,1,,,,,,,,,,11554365,
+103023199,103027631,0,True,motorway_link,,303.788,1,,,,,,,,,,11554813,
+103024159,1296813920,0,True,motorway_link,,42.091,1,,,,,,,,,,39262911,
+103024159,1780738449,0,True,motorway_link,,70.03,1,,,,,,,,,,444216541,
+103024163,1780738449,0,False,secondary,Big Pool Road,13.185,,,,,,,,,,,114488677,
+103024163,470422875,0,True,motorway_link,,73.345,1,,,,,,,,,,11555885,
+103024163,103056231,0,False,secondary,Big Pool Road,2204.276,,,,,,,,,,,114488677,
+103027005,103046343,0,False,unclassified,Hassett Road,607.92,,,,,,,,yes,,,"[94666437, 11557069, 94666408]",
+103027005,103070052,0,False,unclassified,Four Locks Road,576.149,,,,,,,,,,,11561267,
+103027005,103079379,0,False,unclassified,Four Locks Road,403.047,,,,,,,,yes,,,"[11561267, 94666395, 94666467]",
+103027479,103070052,0,False,unclassified,Four Locks Road,372.373,,,,,,,,,,,11561267,
+103027620,103027631,0,False,secondary,Clear Spring Road,148.586,2,,,,,,,,,,11559005,MD 68
+103027620,103023196,0,False,secondary,Clear Spring Road,108.63,2,,,,,,,,,,11559005,MD 68
+103027620,103013018,0,True,motorway_link,,95.926,1,,,,,,,,,,11554811,
+103027631,103013017,0,False,secondary,Clear Spring Road,34.266,2,,,,,,,,,,11559005,MD 68
+103027631,103027620,0,False,secondary,Clear Spring Road,148.586,2,,,,,,,,,,11559005,MD 68
+103028529,103049424,0,False,unclassified,Greensping Furnace Road,628.09,,,,,,,yes,,,,"[11554908, 376464318, 88162612]",
+103028529,103039147,0,False,unclassified,Mountain Ash Road,969.753,,,,,,,,,,,11556302,
+103028529,103039147,1,False,secondary,Big Pool Road,643.73,2,,,,,,,,,,376277725,MD 56
+103028529,1494435602,0,False,unclassified,McCoys Ferry Road,1663.14,,,,,,,,,,,11560768,
+103028529,103011607,0,False,secondary,Big Pool Road,446.68,2,,,,,,,,,,376277725,MD 56
+103028616,103028658,0,False,unclassified,,2229.643,,,,,,,,,,,11554927,
+103028616,103028787,0,False,tertiary,Hanging Rock Road,2472.114,,,,,,,yes,,,,"[11559304, 11554937, 378796412]",
+103028616,103037182,0,False,tertiary,Hanging Rock Road,1239.363,,,,,,,yes,,,,"[11559304, 11559307, 378796414]",
+103028658,103028616,0,False,unclassified,,2229.643,,,,,,,,,,,11554927,
+103028787,103028616,0,False,tertiary,Hanging Rock Road,2472.114,,,,,,,yes,,,,"[11559304, 11554937, 378796412]",
+103028787,103038902,0,False,tertiary,Blairs Valley Road,76.616,,,,,,,,,,,11559173,
+103033306,103046143,0,False,unclassified,Houck Avenue,64.567,,,,,,,,,,,378048382,
+103033306,103012454,0,False,secondary,Clear Spring Road,38.15,,,,,,,,,,,49077229,MD 68
+103033306,103041627,0,False,secondary,"['Clear Spring Road', 'South Mill Street']",96.908,,,,,,,,,,,"[11556546, 49077229]",MD 68
+103034224,103041269,0,False,unclassified,Faith Road,1531.881,,,,,,,,,,,11555691,
+103034224,103050612,0,False,secondary,Saint Paul Road,1368.45,,,,,,,,,,,11557783,MD 57
+103034224,103054293,0,False,secondary,Saint Paul Road,1278.059,,,,,,,,,,,11557783,MD 57
+103034939,103041277,0,False,tertiary,Mercersburg Road,444.109,,,,,,,,,,,11556500,
+103034939,103041269,0,False,tertiary,Mercersburg Road,1114.041,,,,,,,,,,,11556500,
+103034939,103051290,0,False,unclassified,Westview Drive,400.616,,,,,,,,,,,11557522,
+103035452,470418352,0,True,motorway_link,,37.757,1,,,,,,,,,,11555898,
+103035452,103017806,0,False,secondary,Big Pool Road,26.207,2,,,,,,,,,,11560725,MD 56
+103035452,1780738386,0,False,secondary,Big Pool Road,29.636,2,,,,,,,,,,11560725,MD 56
+103037128,103037182,0,False,unclassified,Mummert Road,3749.144,,,,,,,yes,,,,"[378796419, 378796421, 11556102]",
+103037128,103043117,0,False,tertiary,Funkhouser Road,1427.942,,,,,,,,,,,11559652,
+103037128,103055813,0,False,tertiary,Funkhouser Road,217.428,,,,,,,,,,,11559652,
+103037182,103028616,0,False,tertiary,Hanging Rock Road,1239.363,,,,,,,yes,,,,"[11559304, 11559307, 378796414]",
+103037182,103037252,0,False,tertiary,Hanging Rock Road,1073.786,,,,,,,yes,,,,"[378796410, 11559307, 11559310]",
+103037182,103037128,0,False,unclassified,Mummert Road,3749.144,,,,,,,yes,,,,"[378796419, 378796421, 11556102]",
+103037252,103021266,0,False,tertiary,Lanes Run Road,2065.28,,,,,,,yes,,,,"[378796417, 11556109, 378796415]",
+103037252,103037182,0,False,tertiary,Hanging Rock Road,1073.786,,,,,,,yes,,,,"[378796410, 11559307, 11559310]",
+103037252,103043206,0,False,unclassified,Catholic Church Road,3811.5,,,,,,,yes,,,,"[379589920, 379589921, 11559864, 379589918, 379589919]",
+103037536,3799854600,0,False,unclassified,Oak Leaf Lane,164.195,,,,,,,,,,,11556148,
+103037536,103059615,0,False,unclassified,"['Galilee Road', 'Park Head Road']",4087.534,,,,,,,,,,,"[11558456, 11558393, 11558390]",
+103037536,103060159,0,False,unclassified,Galilee Road,493.115,,,,,,,,,,,11558456,
+103038902,3829817621,0,False,unclassified,Polecat Hollow Road,670.254,,,,,,,,,,,11556279,
+103038902,103028787,0,False,tertiary,Blairs Valley Road,76.616,,,,,,,,,,,11559173,
+103038902,103039572,0,False,tertiary,Blairs Valley Road,1299.79,,,,,,,,,,,11559173,
+103038993,103041277,0,False,unclassified,Dry Run Road,653.546,,,,,,,,,,,11558498,
+103039074,3805241606,0,False,unclassified,Seibert Lane,159.304,,,,,,,,,,,11556295,
+103039074,103064198,0,False,tertiary,Saint Paul Road,772.045,,,,,,,,,,,11557781,
+103039074,103054348,0,False,tertiary,Saint Paul Road,1888.343,,,,,,,,,,,11557781,
+103039147,103028529,0,False,unclassified,Mountain Ash Road,969.753,,,,,,,,,,,11556302,
+103039147,103028529,1,False,secondary,Big Pool Road,643.73,2,,,,,,,,,,376277725,MD 56
+103039147,103079391,0,False,secondary,Big Pool Road,225.118,2,,,,,,,,,,376277725,MD 56
+103039209,103039233,0,False,unclassified,Licking Creek Road,1348.332,,,,,,,,,,,11556309,
+103039209,103019064,0,False,primary,National Pike,756.424,2,,,50 mph,,,yes,,,,"[166639296, 11558001, 39263126]",US 40
+103039209,103022018,0,False,primary,National Pike,2095.232,2,,,50 mph,,,,,,,11558001,US 40
+103039233,3815605195,0,False,unclassified,Licking Creek Road,95.262,,,,,,,,,,,11556309,
+103039233,103039209,0,False,unclassified,Licking Creek Road,1348.332,,,,,,,,,,,11556309,
+103039233,103054988,0,False,unclassified,Keefer Road,152.483,,,,,,,,,,,11557871,
+103039281,1024496403,0,False,unclassified,Licking Creek Road,300.161,,,,,,,,,,,11556310,
+103039281,103066421,0,False,tertiary,Pectonville Road,52.28,,,,,,,,,,,11559231,
+103039281,103060159,0,False,tertiary,Pectonville Road,165.145,,,,,,,,,,,11559231,
+103039519,103068770,0,False,tertiary,Broadfording Road,173.366,,,,,,,,,,,11559439,
+103039519,103042953,0,False,tertiary,Broadfording Road,173.308,,,,,,,,,,,11559439,
+103039519,103039532,0,False,tertiary,Draper Road,1425.671,,,,,,,yes,,,,"[11556330, 379589925, 379589926]",
+103039532,103039572,0,False,tertiary,Draper Road,1755.488,,,,,,,,,,,11556330,
+103039532,103039519,0,False,tertiary,Draper Road,1425.671,,,,,,,yes,,,,"[11556330, 379589925, 379589926]",
+103039532,103070253,0,False,unclassified,Harvey Road,1034.695,,,,,,,,,,,11559564,
+103039572,103039532,0,False,tertiary,Draper Road,1755.488,,,,,,,,,,,11556330,
+103039572,103038902,0,False,tertiary,Blairs Valley Road,1299.79,,,,,,,,,,,11559173,
+103039572,103065877,0,False,tertiary,Blairs Valley Road,254.249,,,,,,,,,,,11559173,
+103041227,103041259,0,False,tertiary,Mercersburg Road,3354.407,,,,,,,,,,,11556500,
+103041227,103065877,0,False,tertiary,Blairs Valley Road,1173.194,,,,,,,,,,,11559173,
+103041227,103065860,0,False,tertiary,Blairs Valley Road,679.984,,,,,,,,,,,11559173,
+103041259,103041269,0,False,tertiary,Mercersburg Road,893.582,,,,,,,,,,,11556500,
+103041259,103041227,0,False,tertiary,Mercersburg Road,3354.407,,,,,,,,,,,11556500,
+103041259,103072618,0,False,tertiary,Barnhart Road,601.224,,,,,,,,,,,11559819,
+103041269,103034224,0,False,unclassified,Faith Road,1531.881,,,,,,,,,,,11555691,
+103041269,103034939,0,False,tertiary,Mercersburg Road,1114.041,,,,,,,,,,,11556500,
+103041269,103041259,0,False,tertiary,Mercersburg Road,893.582,,,,,,,,,,,11556500,
+103041277,106993995,0,False,tertiary,Mercersburg Road,452.707,,,,,,,yes,,,,"[379653698, 11556500, 379653692]",
+103041277,103034939,0,False,tertiary,Mercersburg Road,444.109,,,,,,,,,,,11556500,
+103041277,103038993,0,False,unclassified,Dry Run Road,653.546,,,,,,,,,,,11558498,
+103041277,103060652,0,False,unclassified,Dry Run Road,376.357,,,,,,,,,,,11558498,
+103041627,103033306,0,False,secondary,"['South Mill Street', 'Clear Spring Road']",96.908,,,,,,,,,,,"[11556546, 49077229]",MD 68
+103041627,103041629,0,False,secondary,South Mill Street,68.55,,,,,,,,,,,11556546,MD 68
+103041627,103053969,0,False,unclassified,Mulberry Street,235.115,,,,,,,yes,,,,"[378048393, 378048388, 11557759]",
+103041629,3800824507,0,False,secondary,South Mill Street,33.177,,,,,,,,,,,11556546,MD 68
+103041629,103041627,0,False,secondary,South Mill Street,68.55,,,,,,,,,,,11556546,MD 68
+103041629,103069922,0,False,residential,South Hawbaker Circle,231.013,,,,,,,yes,,,,"[378048420, 11559525, 378048423]",
+103041629,103055138,0,False,residential,South Hawbaker Circle,224.62,,,,,,,,,,,11559525,
+103041631,103055884,0,False,primary,National Pike,297.61,2,,,,,,,,,,11557974,US 40
+103041631,3800824513,0,False,primary,National Pike,32.613,2,,,,,,,,,,11557974,US 40
+103041631,3800824507,0,False,secondary,South Mill Street,40.668,,,,,,,,,,,11556546,MD 68
+103041631,103041632,0,False,tertiary,South Mill Street,73.31,,,,,,,,,,,49077227,
+103041632,103055145,0,False,residential,North Hawbaker Circle,70.561,,,,,,,,,,,11557897,
+103041632,103055143,0,False,residential,North Hawbaker Circle,70.416,,,,,,,,,,,11557897,
+103041632,103069270,0,False,tertiary,North Mill Street,85.408,,,,,,,,,,,11559671,
+103041632,103041631,0,False,tertiary,South Mill Street,73.31,,,,,,,,,,,49077227,
+103042115,103055820,0,False,tertiary,Cove Road,3408.716,,,,,,,,,,,11560456,
+103042115,103079391,0,False,tertiary,Boyd Road,963.319,,,,,,,yes,,,,"[88162624, 88162615, 88162616, 88162619, 88162621]",
+103042115,103042118,0,False,tertiary,Boyd Road,329.882,,,,,,,,,,,88162616,
+103042118,103055855,0,False,unclassified,Orebank Road,1971.054,,,,,,,,,,,11558473,
+103042118,103042115,0,False,tertiary,Boyd Road,329.882,,,,,,,,,,,88162616,
+103042118,103042134,0,False,tertiary,Boyd Road,1106.647,,,,,,,,,,,88162616,
+103042134,103064475,0,False,unclassified,Majestic Meadow Lane,183.837,,,,,,,,,,,11559029,
+103042134,103042118,0,False,tertiary,Boyd Road,1106.647,,,,,,,,,,,88162616,
+103042134,103042148,0,False,tertiary,Boyd Road,1355.287,,,,,,,,,,,88162616,
+103042148,103079945,0,False,unclassified,Country View Drive,525.432,,,,,,,,,,,11560787,
+103042148,103042134,0,False,tertiary,Boyd Road,1355.287,,,,,,,,,,,88162616,
+103042148,103042162,0,False,tertiary,Boyd Road,676.035,,,,,,,,,,,88162616,
+103042162,103055879,0,False,primary,National Pike,110.673,2,,,,,,,,,,11557974,US 40
+103042162,103055859,0,False,primary,National Pike,2034.452,2,,,,,,,,,,11557974,US 40
+103042162,103042148,0,False,tertiary,Boyd Road,676.035,,,,,,,,,,,88162616,
+103042651,103042654,0,False,residential,Brennan Drive,67.726,,,,,,,,,,,11556675,
+103042651,103069272,0,False,residential,Gehr Terrace,33.822,,,,,,,,,,,11560830,
+103042651,103042931,0,False,residential,Gehr Terrace,124.123,,,,,,,,,,,11560830,
+103042654,103042651,0,False,residential,Brennan Drive,67.726,,,,,,,,,,,11556675,
+103042654,103042654,0,False,residential,Brennan Drive,71.04,,,,,,,,,,,11556675,
+103042654,103042654,1,False,residential,Brennan Drive,71.04,,,,,,,,,,,11556675,
+103042818,622692642,0,False,unclassified,Fort Frederick Road,844.434,,,,,,,,,,,11556696,
+103042818,103067495,0,False,secondary,Big Pool Road,741.178,2,,,,,,,,,,376277725,MD 56
+103042818,3797472932,0,False,secondary,Big Pool Road,1407.839,2,,,,,,,,,,376277725,MD 56
+103042931,103069270,0,False,tertiary,North Mill Street,76.589,,,,,,,,,,,11559671,
+103042931,103042953,0,False,tertiary,Mill Street,281.974,,,,,,,,,,,11556712,
+103042931,103042651,0,False,residential,Gehr Terrace,124.123,,,,,,,,,,,11560830,
+103042953,103042931,0,False,tertiary,Mill Street,281.974,,,,,,,,,,,11556712,
+103042953,103065860,0,False,tertiary,Broadfording Road,925.951,,,,,,,,,,,11559439,
+103042953,103039519,0,False,tertiary,Broadfording Road,173.308,,,,,,,,,,,11559439,
+103043107,103056231,0,False,primary,National Pike,200.698,2,,,,,,,,,,11557974,US 40
+103043107,103055813,0,False,primary,National Pike,1455.733,2,,,,,,,,,,11557974,US 40
+103043107,103043117,0,False,tertiary,Indian Springs Road,1564.977,,,,,,,,,,,378149175,
+103043117,103037128,0,False,tertiary,Funkhouser Road,1427.942,,,,,,,,,,,11559652,
+103043117,103021266,0,False,tertiary,Indian Springs Road,61.579,,,,,,,,,,,378149175,
+103043117,103043107,0,False,tertiary,Indian Springs Road,1564.977,,,,,,,,,,,378149175,
+103043159,103043182,0,False,tertiary,Indian Springs Road,755.416,,,,,,,,,,,11556757,
+103043159,103021266,0,False,tertiary,Indian Springs Road,1991.841,,,,,,,yes,,,,"[378149173, 11556757, 378149175]",
+103043159,3815664075,0,False,unclassified,Pipe Tomahawk Drive,802.071,,,,,,,,,,,11560707,
+103043182,103043206,0,False,tertiary,Indian Springs Road,1676.05,,,,,,,yes,,,,"[378149172, 11556757, 378149174]",
+103043182,103043159,0,False,tertiary,Indian Springs Road,755.416,,,,,,,,,,,11556757,
+103043182,103054988,0,False,unclassified,Keefer Road,2669.506,,,,,,,yes,,,,"[378143482, 378143485, 11557871]",
+103043206,103043210,0,False,tertiary,Indian Springs Road,54.79,,,,,,,,,,,378149172,
+103043206,103043182,0,False,tertiary,Indian Springs Road,1676.05,,,,,,,yes,,,,"[378149172, 11556757, 378149174]",
+103043206,103037252,0,False,unclassified,Catholic Church Road,3811.5,,,,,,,yes,,,,"[379589920, 379589921, 11559864, 379589918, 379589919]",
+103043210,103066393,0,False,tertiary,Mooresville Road,2188.615,,,,,,,,,,,11561222,
+103043210,103043206,0,False,tertiary,Indian Springs Road,54.79,,,,,,,,,,,378149172,
+103045541,103052569,0,False,residential,West Drive,235.631,,,,,,,,,,,11556998,
+103045541,103055882,0,False,residential,South Hawbaker Circle,206.488,,,,,,,,,,,378048420,
+103045541,103069920,0,False,residential,South Hawbaker Circle,67.029,,,,,,,,,,,378048420,
+103046142,3814644373,0,False,residential,Houck Avenue,96.021,,,,,,,,,,,11557053,
+103046143,103033306,0,False,unclassified,Houck Avenue,64.567,,,,,,,,,,,378048382,
+103046143,3814644373,0,True,unclassified,Houck Avenue,18.244,,,,,,,,,,roundabout,378048377,
+103046343,103027005,0,False,unclassified,Hassett Road,607.92,,,,,,,,yes,,,"[94666408, 94666437, 11557069]",
+103046343,103079379,0,False,secondary,Big Pool Road,621.529,2,,,,,,,,,,376277725,MD 56
+103046343,103079391,0,False,secondary,Big Pool Road,1050.101,2,,,,,,,,,,376277725,MD 56
+103049424,103028529,0,False,unclassified,Greensping Furnace Road,628.09,,,,,,,yes,,,,"[88162612, 376464318, 11554908]",
+103050612,103034224,0,False,secondary,Saint Paul Road,1368.45,,,,,,,,,,,11557783,MD 57
+103050612,103060645,0,False,secondary,Fairview Road,516.529,2,,,,yes,,,,,,246149767,MD 494
+103050979,470434443,0,False,tertiary,Millstone Road,648.967,,,,50 mph,,,,,,,11557492,
+103050979,103051814,0,False,tertiary,Orchard Ridge Road,319.013,,,,,,,,,,,11557577,
+103050979,103051814,1,False,unclassified,Millstone Circle,1067.097,,,,,,,,,,,11560089,
+103051290,103034939,0,False,unclassified,Westview Drive,400.616,,,,,,,,,,,11557522,
+103051814,103051843,0,False,tertiary,Orchard Ridge Road,1500.12,,,,,,,,,,,11557577,
+103051814,103050979,0,False,tertiary,Orchard Ridge Road,319.013,,,,,,,,,,,11557577,
+103051814,103050979,1,False,unclassified,Millstone Circle,1067.097,,,,,,,,,,,11560089,
+103051843,103051850,0,False,tertiary,Orchard Ridge Road,266.447,,,,,,,,,,,11557577,
+103051843,103051814,0,False,tertiary,Orchard Ridge Road,1500.12,,,,,,,,,,,11557577,
+103051843,103017864,0,False,unclassified,Corner Road,1464.479,,,,,,,,,,,11560345,
+103051850,103051856,0,False,tertiary,Orchard Ridge Road,668.008,,,,,,,,,,,11557577,
+103051850,103051843,0,False,tertiary,Orchard Ridge Road,266.447,,,,,,,,,,,11557577,
+103051850,4219475771,0,False,unclassified,Hazel Lane,469.336,,,,,,,,,,,11557784,
+103051856,103051866,0,False,tertiary,Orchard Ridge Road,626.637,,,,,,,,,,,11557577,
+103051856,103051850,0,False,tertiary,Orchard Ridge Road,668.008,,,,,,,,,,,11557577,
+103051856,4219475931,0,False,unclassified,Webb Lane,322.918,,,,,,,,,,,11561093,
+103051866,103051856,0,False,tertiary,Orchard Ridge Road,626.637,,,,,,,,,,,11557577,
+103051866,103080790,0,False,unclassified,Slabtown Road,1390.143,,,,,,,,,,,288671222,
+103052547,103052569,0,False,tertiary,Big Spring Road,2729.911,,,,,,,yes,,,,"[88163344, 88163352, 88163347]",
+103052547,103053397,0,False,secondary,Big Pool Road,1983.524,2,,,,,,,,,,376277725,MD 56
+103052547,3798764427,0,False,secondary,Big Pool Road,265.774,2,,,,,,,,,,376277725,MD 56
+103052569,103045541,0,False,residential,West Drive,235.631,,,,,,,,,,,11556998,
+103052569,103053966,0,False,tertiary,South Martin Street,107.487,,,,,,,,,,,11560269,
+103052569,103052547,0,False,tertiary,Big Spring Road,2729.911,,,,,,,yes,,,,"[88163352, 88163344, 88163347]",
+103053374,103064960,0,False,"['unclassified', 'residential']","['Dam Number 5 Road', 'Ashton Road']",4440.959,,,,,,,yes,,,,"[11557704, 11559449, 11559450, 376464316]",
+103053374,103064960,1,False,unclassified,Gruber Road,1645.324,,,,,,,yes,,,,"[376464320, 11559100, 376464319]",
+103053374,103053397,0,False,unclassified,Ashton Road,1365.183,,,,,,,,,,,11557704,
+103053397,103053374,0,False,unclassified,Ashton Road,1365.183,,,,,,,,,,,11557704,
+103053397,1024508755,0,False,unclassified,Ashton Road,1398.899,,,,,,,,,,,11557704,
+103053397,103079343,0,False,secondary,Big Pool Road,1107.445,"['2', '1']",,,,,,,,,,"[376277728, 376277725]",MD 56
+103053397,103052547,0,False,secondary,Big Pool Road,1983.524,2,,,,,,,,,,376277725,MD 56
+103053458,103055899,0,False,primary,National Pike,268.982,2,,,,,,,,,,11557974,US 40
+103053458,3814644785,0,False,primary,National Pike,1446.885,2,,,,,,,,,,11557974,US 40
+103053458,103065825,0,False,unclassified,Cohill Road,1863.982,,,,,,,,,,,11559165,
+103053458,1024507229,0,False,tertiary,Ashton Road,743.838,,,,,,,yes,,,,"[377147640, 88165361, 377147638]",
+103053966,103053969,0,False,unclassified,Mulberry Street,68.066,,,,,,,,,,,11557759,
+103053966,103069920,0,False,tertiary,South Martin Street,70.411,,,,,,,,,,,11560269,
+103053966,103052569,0,False,tertiary,South Martin Street,107.487,,,,,,,,,,,11560269,
+103053969,103053966,0,False,unclassified,Mulberry Street,68.066,,,,,,,,,,,11557759,
+103053969,103069922,0,False,residential,Ankeney Drive,69.043,,,,,,,,,,,11560666,
+103053969,103041627,0,False,unclassified,Mulberry Street,235.115,,,,,,,yes,,,,"[378048393, 378048388, 11557759]",
+103054263,103054352,0,False,secondary,Saint Paul Road,289.271,,,,,,,,,,,11557783,MD 57
+103054263,103055903,0,False,unclassified,Knepper Road,293.519,,,,,,,,,,,11561037,
+103054293,103034224,0,False,secondary,Saint Paul Road,1278.059,,,,,,,,,,,11557783,MD 57
+103054293,103072618,0,False,tertiary,Barnhart Road,1778.749,,,,,,,,,,,11559819,
+103054348,103039074,0,False,tertiary,Saint Paul Road,1888.343,,,,,,,,,,,11557781,
+103054348,103054352,0,False,primary,National Pike,147.777,2,,,,,,,,,,11557974,US 40
+103054352,103054263,0,False,secondary,Saint Paul Road,289.271,,,,,,,,,,,11557783,MD 57
+103054352,103055903,0,False,primary,National Pike,121.332,2,,,,,,,,,,11557974,US 40
+103054352,103054348,0,False,primary,National Pike,147.777,2,,,,,,,,,,11557974,US 40
+103054988,103043182,0,False,unclassified,Keefer Road,2669.506,,,,,,,yes,,,,"[378143482, 378143485, 11557871]",
+103054988,103039233,0,False,unclassified,Keefer Road,152.483,,,,,,,,,,,11557871,
+103054988,3815605195,0,False,unclassified,Keefer Road,78.061,,,,,,,,,,,378143493,
+103055138,3800824513,0,False,primary,National Pike,145.351,2,,,,,,,,,,11557974,US 40
+103055138,2923517615,0,False,primary,National Pike,17.902,2,,,,,,,,,,11557974,US 40
+103055138,103041629,0,False,residential,South Hawbaker Circle,224.62,,,,,,,,,,,11559525,
+103055143,103041632,0,False,residential,North Hawbaker Circle,70.416,,,,,,,,,,,11557897,
+103055143,2923517615,0,False,residential,North Hawbaker Circle,197.843,,,,,,,,,,,11557897,
+103055143,103069272,0,False,residential,Gehr Terrace,85.106,,,,,,,,,,,11560830,
+103055145,103041632,0,False,residential,North Hawbaker Circle,70.561,,,,,,,,,,,11557897,
+103055145,103055153,0,False,residential,North Hawbaker Circle,224.662,,,,,,,yes,,,,"[11557897, 378048409, 378048399]",
+103055145,103069270,0,False,residential,Hollinger Drive,149.555,,,,,,,,,,,11559586,
+103055153,103055884,0,False,tertiary,Martin Street,73.606,,,,,,,,,,,11560592,
+103055153,103068770,0,False,tertiary,Martin Street,201.284,,,,,,,,,,,11560592,
+103055153,103055157,0,False,residential,North Hawbaker Circle,203.663,,,,,,,,,,,378048399,
+103055153,103055145,0,False,residential,North Hawbaker Circle,224.662,,,,,,,yes,,,,"[378048409, 11557897, 378048399]",
+103055157,103055882,0,False,primary,National Pike,12.748,2,,,,,,,,,,11557974,US 40
+103055157,103055884,0,False,primary,National Pike,177.055,2,,,,,,,,,,11557974,US 40
+103055157,103055153,0,False,residential,North Hawbaker Circle,203.663,,,,,,,,,,,378048399,
+103055699,103055703,0,False,unclassified,Gehr Road,610.205,,,,,,,,,,,11557945,
+103055699,103011607,0,False,secondary,Big Pool Road,1325.817,2,,,,,,,,,,376277725,MD 56
+103055699,103067495,0,False,secondary,Big Pool Road,204.716,2,,,,,,,,,,376277725,MD 56
+103055703,103055699,0,False,unclassified,Gehr Road,610.205,,,,,,,,,,,11557945,
+103055813,103043107,0,False,primary,National Pike,1455.733,2,,,,,,,,,,11557974,US 40
+103055813,103055820,0,False,primary,National Pike,200.314,2,,,,,,,,,,11557974,US 40
+103055813,103037128,0,False,tertiary,Funkhouser Road,217.428,,,,,,,,,,,11559652,
+103055820,103055813,0,False,primary,National Pike,200.314,2,,,,,,,,,,11557974,US 40
+103055820,103055855,0,False,primary,National Pike,2370.9,2,,,,,,,,,,11557974,US 40
+103055820,103042115,0,False,tertiary,Cove Road,3408.716,,,,,,,,,,,11560456,
+103055855,103055857,0,False,primary,National Pike,85.519,2,,,,,,,,,,11557974,US 40
+103055855,103055820,0,False,primary,National Pike,2370.9,2,,,,,,,,,,11557974,US 40
+103055855,103042118,0,False,unclassified,Orebank Road,1971.054,,,,,,,,,,,11558473,
+103055857,103055855,0,False,primary,National Pike,85.519,2,,,,,,,,,,11557974,US 40
+103055857,103055859,0,False,primary,National Pike,41.909,2,,,,,,,,,,11557974,US 40
+103055857,3814644128,0,False,unclassified,Forrest Hill Road,254.009,,,,,,,,,,,11560730,
+103055859,103055857,0,False,primary,National Pike,41.909,2,,,,,,,,,,11557974,US 40
+103055859,103042162,0,False,primary,National Pike,2034.452,2,,,,,,,,,,11557974,US 40
+103055859,3814643245,0,False,unclassified,Bakers Lane,250.438,,,,,,,,,,,11558472,
+103055879,103042162,0,False,primary,National Pike,110.673,2,,,,,,,,,,11557974,US 40
+103055879,2923517606,0,False,primary,National Pike,14.475,2,,,,,,,,,,11557974,US 40
+103055879,103064992,0,False,residential,Nesbitt Avenue,270.121,,,,,,,,,,,11559102,
+103055882,2923517606,0,False,primary,National Pike,114.837,2,,,,,,,,,,11557974,US 40
+103055882,103055157,0,False,primary,National Pike,12.748,2,,,,,,,,,,11557974,US 40
+103055882,103045541,0,False,residential,South Hawbaker Circle,206.488,,,,,,,,,,,378048420,
+103055884,103041631,0,False,primary,National Pike,297.61,2,,,,,,,,,,11557974,US 40
+103055884,103069920,0,False,tertiary,South Martin Street,72.126,,,,,,,,,,,11560269,
+103055884,103055153,0,False,tertiary,Martin Street,73.606,,,,,,,,,,,11560592,
+103055884,103055157,0,False,primary,National Pike,177.055,2,,,,,,,,,,11557974,US 40
+103055899,103053458,0,False,primary,National Pike,268.982,2,,,,,,,,,,11557974,US 40
+103055899,103055901,0,False,primary,National Pike,843.699,2,,,,,,,,,,11557974,US 40
+103055899,103063631,0,False,unclassified,Shady Bower Lane,129.791,,,,,,,,,,,11558925,
+103055901,103055899,0,False,primary,National Pike,843.699,2,,,,,,,,,,11557974,US 40
+103055901,103055903,0,False,primary,National Pike,321.097,2,,,,,,,,,,11557974,US 40
+103055901,103057996,0,False,residential,Garrow Drive,403.871,,,,,,,,,,,11558194,
+103055903,103055901,0,False,primary,National Pike,321.097,2,,,,,,,,,,11557974,US 40
+103055903,103054352,0,False,primary,National Pike,121.332,2,,,,,,,,,,11557974,US 40
+103055903,103054263,0,False,unclassified,Knepper Road,293.519,,,,,,,,,,,11561037,
+103056223,103022018,0,False,primary,National Pike,46.083,2,,,50 mph,,,,,,,11558001,US 40
+103056223,103056231,0,False,primary,National Pike,1276.113,2,,,50 mph,,,,,,,11558001,US 40
+103056231,103043107,0,False,primary,National Pike,200.698,2,,,,,,,,,,11557974,US 40
+103056231,103056223,0,False,primary,National Pike,1276.113,2,,,50 mph,,,,,,,11558001,US 40
+103056231,103024163,0,False,secondary,Big Pool Road,2204.276,,,,,,,,,,,114488677,
+103056920,470434421,0,True,motorway_link,,346.998,1,,,50 mph,,,,,,,39263201,
+103056942,103056920,0,True,motorway,Dwight D Eisenhower Highway,4130.873,2,,,70 mph,,,,,,,51680588,I 70;US 40
+103057062,103017819,0,True,motorway,Dwight D Eisenhower Highway,7966.143,2,,,70 mph,,,,,,,39261425,I 70
+103057996,103055901,0,False,residential,Garrow Drive,403.871,,,,,,,,,,,11558194,
+103059615,103066398,0,False,tertiary,Pectonville Road,22.931,,,,,,,,,,,11559231,
+103059615,103037536,0,False,unclassified,"['Galilee Road', 'Park Head Road']",4087.534,,,,,,,,,,,"[11558456, 11558393, 11558390]",
+103059615,103065461,0,False,tertiary,Pectonville Road,1261.454,,,,,,,,,,,11559231,
+103060002,103060028,0,False,unclassified,Ankenney Road,2553.207,,,,,,,,,,,11558436,
+103060028,103060002,0,False,unclassified,Ankenney Road,2553.207,,,,,,,,,,,11558436,
+103060028,103060041,0,False,unclassified,Ankenney Road,599.99,,,,,,,,,,,11558436,
+103060028,103060041,1,False,unclassified,Starliper Road,703.453,,,,,,,,,,,11559538,
+103060041,103060028,0,False,unclassified,Ankenney Road,599.99,,,,,,,,,,,11558436,
+103060041,103060028,1,False,unclassified,Starliper Road,703.453,,,,,,,,,,,11559538,
+103060041,103070052,0,False,unclassified,Starliper Road,415.714,,,,,,,,yes,,,"[136202936, 11559538, 11559542]",
+103060159,103037536,0,False,unclassified,Galilee Road,493.115,,,,,,,,,,,11558456,
+103060159,103039281,0,False,tertiary,Pectonville Road,165.145,,,,,,,,,,,11559231,
+103060159,103065461,0,False,tertiary,Pectonville Road,352.019,,,,,,,,,,,11559231,
+103060395,103068985,0,False,unclassified,Dam Number 5 Road,265.438,,,,,,,,,,,11559449,
+103060395,103064198,0,False,unclassified,Dam Number 5 Road,297.793,,,,,,,,,,,11559449,
+103060645,103050612,0,False,secondary,Fairview Road,516.529,2,,,,yes,,,,,,246149767,MD 494
+103060645,103060652,0,False,unclassified,Dry Run Road,691.291,,,,,,,yes,,,,"[11558498, 379653683, 379653677]",
+103060652,103041277,0,False,unclassified,Dry Run Road,376.357,,,,,,,,,,,11558498,
+103060652,103060645,0,False,unclassified,Dry Run Road,691.291,,,,,,,yes,,,,"[11558498, 379653683, 379653677]",
+103060652,103064817,0,False,residential,Stayman Drive,141.918,,,,,,,,,,,11559806,
+103063631,103055899,0,False,unclassified,Shady Bower Lane,129.791,,,,,,,,,,,11558925,
+103063715,103013017,0,False,secondary,Clear Spring Road,105.489,2,,,,,,,,,,11559005,MD 68
+103063715,3805241766,0,False,unclassified,Burrnie Kinsell Drive,630.189,,,,,,,,,,,11558939,
+103063715,1024508755,0,False,secondary,Clear Spring Road,501.582,2,,,,,,,,,,11559005,MD 68
+103064198,103039074,0,False,tertiary,Saint Paul Road,772.045,,,,,,,,,,,11557781,
+103064198,1024508755,0,False,secondary,Clear Spring Road,1882.319,2,,,,,,,,,,11559005,MD 68
+103064198,103060395,0,False,unclassified,Dam Number 5 Road,297.793,,,,,,,,,,,11559449,
+103064475,103042134,0,False,unclassified,Majestic Meadow Lane,183.837,,,,,,,,,,,11559029,
+103064817,103064817,0,False,residential,McIntosh Circle,880.237,,,,,,,,,,,11559080,
+103064817,103064817,1,False,residential,McIntosh Circle,880.237,,,,,,,,,,,11559080,
+103064817,103060652,0,False,residential,Stayman Drive,141.918,,,,,,,,,,,11559806,
+103064960,103053374,0,False,"['unclassified', 'residential']","['Dam Number 5 Road', 'Ashton Road']",4440.959,,,,,,,yes,,,,"[11557704, 11559449, 11559450, 376464316]",
+103064960,103053374,1,False,unclassified,Gruber Road,1645.324,,,,,,,yes,,,,"[376464320, 11559100, 376464319]",
+103064960,103067581,0,False,unclassified,Dam Number 5 Road,1719.856,,,,,,,,,,,11559449,
+103064992,103055879,0,False,residential,Nesbitt Avenue,270.121,,,,,,,,,,,11559102,
+103065461,3799854464,0,False,unclassified,Live Oak Lane,375.758,,,,,,,,,,,11559129,
+103065461,103060159,0,False,tertiary,Pectonville Road,352.019,,,,,,,,,,,11559231,
+103065461,103059615,0,False,tertiary,Pectonville Road,1261.454,,,,,,,,,,,11559231,
+103065825,103053458,0,False,unclassified,Cohill Road,1863.982,,,,,,,,,,,11559165,
+103065825,103065860,0,False,tertiary,Broadfording Road,745.69,,,,,,,,,,,11559439,
+103065860,103041227,0,False,tertiary,Blairs Valley Road,679.984,,,,,,,,,,,11559173,
+103065860,103065825,0,False,tertiary,Broadfording Road,745.69,,,,,,,,,,,11559439,
+103065860,103042953,0,False,tertiary,Broadfording Road,925.951,,,,,,,,,,,11559439,
+103065877,103039572,0,False,tertiary,Blairs Valley Road,254.249,,,,,,,,,,,11559173,
+103065877,103041227,0,False,tertiary,Blairs Valley Road,1173.194,,,,,,,,,,,11559173,
+103065877,103068949,0,False,unclassified,Cross Creek Drive,298.823,,,,,,,yes,,,,"[379653673, 379653668, 11559447]",
+103066393,103078363,0,False,unclassified,Kuhns Ridge Road,291.428,,,,,,,,,,,11560575,
+103066393,103043210,0,False,tertiary,Mooresville Road,2188.615,,,,,,,,,,,11561222,
+103066393,103066421,0,False,tertiary,Pectonville Road,2397.349,,,,,,,yes,,,,"[171261728, 171261729, 11559231]",
+103066398,103059615,0,False,tertiary,Pectonville Road,22.931,,,,,,,,,,,11559231,
+103066398,103056942,0,True,motorway_link,,349.998,1,,,50 mph,,,,,,,39263118,US 40
+103066398,470430240,0,False,primary,National Pike,324.317,2,,,50 mph,,,,,,,172905241,US 40
+103066421,103066393,0,False,tertiary,Pectonville Road,2397.349,,,,,,,yes,,,,"[171261728, 171261729, 11559231]",
+103066421,103039281,0,False,tertiary,Pectonville Road,52.28,,,,,,,,,,,11559231,
+103066421,3799854684,0,False,unclassified,Little Galilee Road,575.117,,,,,,,,,,,11560969,
+103066517,103066523,0,False,unclassified,Ernstville Road,128.592,,,,,,,,,,,11559239,
+103066517,3797472932,0,False,secondary,Big Pool Road,272.926,2,,,,,,,,,,"[376277725, 11560725]",MD 56
+103066517,1780738371,0,False,secondary,Big Pool Road,158.339,2,,,,,,,,,,11560725,MD 56
+103066523,103068969,0,False,residential,Tedrick Drive,135.712,,,,,,,,,,,11559448,
+103066523,103066517,0,False,unclassified,Ernstville Road,128.592,,,,,,,,,,,11559239,
+103066523,3797473444,0,False,unclassified,Ernstville Road,2624.39,2,,,,,,yes,,,,"[141596960, 141596959, 11559239]",
+103067471,103067495,0,False,unclassified,Shanktown Road,1484.362,,,,,,,,,,,11559357,
+103067495,103067471,0,False,unclassified,Shanktown Road,1484.362,,,,,,,,,,,11559357,
+103067495,103055699,0,False,secondary,Big Pool Road,204.716,2,,,,,,,,,,376277725,MD 56
+103067495,103042818,0,False,secondary,Big Pool Road,741.178,2,,,,,,,,,,376277725,MD 56
+103067581,103064960,0,False,unclassified,Dam Number 5 Road,1719.856,,,,,,,,,,,11559449,
+103067581,103068985,0,False,unclassified,Dam Number 5 Road,851.885,,,,,,,,,,,11559449,
+103068770,103039519,0,False,tertiary,Broadfording Road,173.366,,,,,,,,,,,11559439,
+103068770,2923517606,0,False,tertiary,Broadfording Road,404.107,,,,,,,,,,,11559439,
+103068770,103055153,0,False,tertiary,Martin Street,201.284,,,,,,,,,,,11560592,
+103068949,103065877,0,False,unclassified,Cross Creek Drive,298.823,,,,,,,yes,,,,"[379653673, 379653668, 11559447]",
+103068969,103066523,0,False,residential,Tedrick Drive,135.712,,,,,,,,,,,11559448,
+103068985,103067581,0,False,unclassified,Dam Number 5 Road,851.885,,,,,,,,,,,11559449,
+103068985,103060395,0,False,unclassified,Dam Number 5 Road,265.438,,,,,,,,,,,11559449,
+103068985,103079343,0,False,secondary,Big Pool Road,625.345,"['2', '1']",,,,,,yes,,,,"[376277728, 11560723, 376277726, 376277727]",MD 56
+103069270,103069272,0,False,residential,Widmyer Drive,69.512,,,,,,,,,,,11559467,
+103069270,103042931,0,False,tertiary,North Mill Street,76.589,,,,,,,,,,,11559671,
+103069270,103041632,0,False,tertiary,North Mill Street,85.408,,,,,,,,,,,11559671,
+103069270,103055145,0,False,residential,Hollinger Drive,149.555,,,,,,,,,,,11559586,
+103069272,103069270,0,False,residential,Widmyer Drive,69.512,,,,,,,,,,,11559467,
+103069272,103042651,0,False,residential,Gehr Terrace,33.822,,,,,,,,,,,11560830,
+103069272,103055143,0,False,residential,Gehr Terrace,85.106,,,,,,,,,,,11560830,
+103069920,103053966,0,False,tertiary,South Martin Street,70.411,,,,,,,,,,,11560269,
+103069920,103055884,0,False,tertiary,South Martin Street,72.126,,,,,,,,,,,11560269,
+103069920,103069922,0,False,residential,South Hawbaker Circle,70.273,,,,,,,,,,,378048420,
+103069920,103045541,0,False,residential,South Hawbaker Circle,67.029,,,,,,,,,,,378048420,
+103069922,103053969,0,False,residential,Ankeney Drive,69.043,,,,,,,,,,,11560666,
+103069922,103069920,0,False,residential,South Hawbaker Circle,70.273,,,,,,,,,,,378048420,
+103069922,103041629,0,False,residential,South Hawbaker Circle,231.013,,,,,,,yes,,,,"[378048420, 11559525, 378048423]",
+103070052,103060041,0,False,unclassified,Starliper Road,415.714,,,,,,,,yes,,,"[136202936, 11559538, 11559542]",
+103070052,103027479,0,False,unclassified,Four Locks Road,372.373,,,,,,,,,,,11561267,
+103070052,103027005,0,False,unclassified,Four Locks Road,576.149,,,,,,,,,,,11561267,
+103070253,103039532,0,False,unclassified,Harvey Road,1034.695,,,,,,,,,,,11559564,
+103072618,103041259,0,False,tertiary,Barnhart Road,601.224,,,,,,,,,,,11559819,
+103072618,103054293,0,False,tertiary,Barnhart Road,1778.749,,,,,,,,,,,11559819,
+103072618,103077804,0,False,residential,Frosty Pines Lane,456.505,,,,,,,,,,,11560499,
+103077804,103072618,0,False,residential,Frosty Pines Lane,456.505,,,,,,,,,,,11560499,
+103077886,3798764427,0,False,secondary,Big Pool Road,5.684,2,,,,,,,,,,376277725,MD 56
+103077886,3798764783,0,False,unclassified,Rocky Meadow Road,1561.67,,,,,,,,,,,11560511,
+103077886,103079369,0,False,secondary,Big Pool Road,111.574,2,,,,,,,,,,376277725,MD 56
+103078152,3798764427,0,False,unclassified,Charles Mill Road,1062.274,,,,,,,yes,yes,,,"[94666429, 11560553, 376464310, 376464312, 376464313, 376464315, 94666397]",
+103078363,103066393,0,False,unclassified,Kuhns Ridge Road,291.428,,,,,,,,,,,11560575,
+103078363,103080787,0,False,unclassified,Slabtown Road,1075.766,,,,,,,,,,,11560879,
+103079343,103080128,0,False,unclassified,Shank Road,565.646,,,,,,,yes,yes,,,"[376464322, 376464323, 88165307, 94666384, 94666459]",
+103079343,103068985,0,False,secondary,Big Pool Road,625.345,"['2', '1']",,,,,,yes,,,,"[376277728, 11560723, 376277726, 376277727]",MD 56
+103079343,103053397,0,False,secondary,Big Pool Road,1107.445,"['2', '1']",,,,,,,,,,"[376277728, 376277725]",MD 56
+103079369,103079373,0,False,secondary,Big Pool Road,93.236,2,,,,,,,,,,376277725,MD 56
+103079369,103079373,1,False,residential,Angle Drive,209.481,,,,,,,,,,,11559150,
+103079369,103077886,0,False,secondary,Big Pool Road,111.574,2,,,,,,,,,,376277725,MD 56
+103079373,103079369,0,False,secondary,Big Pool Road,93.236,2,,,,,,,,,,376277725,MD 56
+103079373,103079369,1,False,residential,Angle Drive,209.481,,,,,,,,,,,11559150,
+103079373,103079379,0,False,secondary,Big Pool Road,557.435,2,,,,,,,,,,376277725,MD 56
+103079379,103027005,0,False,unclassified,Four Locks Road,403.047,,,,,,,,yes,,,"[11561267, 94666395, 94666467]",
+103079379,103079373,0,False,secondary,Big Pool Road,557.435,2,,,,,,,,,,376277725,MD 56
+103079379,103046343,0,False,secondary,Big Pool Road,621.529,2,,,,,,,,,,376277725,MD 56
+103079391,103042115,0,False,tertiary,Boyd Road,963.319,,,,,,,yes,,,,"[88162624, 88162615, 88162616, 88162619, 88162621]",
+103079391,103046343,0,False,secondary,Big Pool Road,1050.101,2,,,,,,,,,,376277725,MD 56
+103079391,103039147,0,False,secondary,Big Pool Road,225.118,2,,,,,,,,,,376277725,MD 56
+103079488,470422875,0,True,motorway_link,,49.052,1,,,,,,,,,,39262951,
+103079488,1296813920,0,False,secondary,Big Pool Road,31.819,,,,,,,,,,,49077101,MD 56
+103079488,1780738449,0,False,secondary,Big Pool Road,34.175,,,,,,,,,,,114488677,
+103079945,103042148,0,False,unclassified,Country View Drive,525.432,,,,,,,,,,,11560787,
+103080128,103079343,0,False,unclassified,Shank Road,565.646,,,,,,,yes,yes,,,"[376464322, 376464323, 94666384, 88165307, 94666459]",
+103080787,103078363,0,False,unclassified,Slabtown Road,1075.766,,,,,,,,,,,11560879,
+103080790,103051866,0,False,unclassified,Slabtown Road,1390.143,,,,,,,,,,,288671222,
+106993995,103041277,0,False,tertiary,Mercersburg Road,452.707,,,,,,,yes,,,,"[11556500, 379653698, 379653692]",
+470409306,103023199,0,True,motorway_link,,527.219,1,,,,,,,,,,11554365,
+470409306,1780739017,0,True,motorway,Dwight D Eisenhower Highway,1226.738,2,,,70 mph,,,,,,,88163345,I 70
+470417078,470409306,0,True,motorway,Dwight D Eisenhower Highway,8015.398,2,,,70 mph,,,,,,,88163345,I 70
+470418352,470417078,0,True,motorway_link,,461.767,1,,,,,,,,,,11553630,
+470420748,103017803,0,True,motorway_link,,298.818,1,,,,,,,,,,11553629,
+470420748,470417078,0,True,motorway,Dwight D Eisenhower Highway,832.369,2,,,70 mph,,,,,,,88163345,I 70
+470422875,470422958,0,True,motorway_link,,510.062,1,,,,,,,,,,11555885,
+470422958,103056942,0,True,motorway,Dwight D Eisenhower Highway,4170.762,2,,,70 mph,,,yes,,,,"[134563248, 39261425, 134563245]",I 70
+470428590,470429762,0,True,motorway_link,,535.228,1,,,50 mph,,,yes,,,,"[11560788, 88162045, 88162046]",US 40
+470428590,470420748,0,True,motorway,Dwight D Eisenhower Highway,4271.408,2,,,70 mph,,,yes,,,,"[88163345, 51680587, 134563246]",I 70
+470429762,470430240,0,True,motorway_link,,35.926,1,,,50 mph,,,,,,,39263141,
+470429762,103019064,0,True,motorway_link,,141.804,1,,,50 mph,,,,,,,88162046,US 40
+470430240,103066398,0,False,primary,National Pike,324.317,2,,,50 mph,,,,,,,172905241,US 40
+470430240,103019064,0,False,primary,National Pike,124.93,2,,,50 mph,,,,,,,172905241,US 40
+470433944,470434443,0,False,tertiary,Millstone Road,44.967,,,,50 mph,,,,,,,11557492,
+470434421,470433944,0,True,motorway_link,,49.686,1,,,50 mph,,,,,,,39263201,
+470434421,470434443,0,True,motorway_link,,28.712,1,,,50 mph,,,,,,,39263208,
+470434443,470433944,0,False,tertiary,Millstone Road,44.967,,,,50 mph,,,,,,,11557492,
+470434443,103050979,0,False,tertiary,Millstone Road,648.967,,,,50 mph,,,,,,,11557492,
+470435103,470428590,0,True,motorway,Dwight D Eisenhower Highway,4754.52,2,,,70 mph,,,,,,,88159496,I 70;US 40
+622692642,103042818,0,False,unclassified,Fort Frederick Road,844.434,,,,,,,,,,,11556696,
+1024496403,103039281,0,False,unclassified,Licking Creek Road,300.161,,,,,,,,,,,11556310,
+1024507223,1024507229,0,False,residential,Rhodes Court,283.519,,,,,,,,,,,88163346,
+1024507229,1024507223,0,False,residential,Rhodes Court,283.519,,,,,,,,,,,88163346,
+1024507229,1024508755,0,False,tertiary,Ashton Road,1188.719,,,,,,,,,,,377147640,
+1024507229,103053458,0,False,tertiary,Ashton Road,743.838,,,,,,,yes,,,,"[377147640, 88165361, 377147638]",
+1024508755,103053397,0,False,unclassified,Ashton Road,1398.899,,,,,,,,,,,11557704,
+1024508755,103064198,0,False,secondary,Clear Spring Road,1882.319,2,,,,,,,,,,11559005,MD 68
+1024508755,103063715,0,False,secondary,Clear Spring Road,501.582,2,,,,,,,,,,11559005,MD 68
+1024508755,1024507229,0,False,tertiary,Ashton Road,1188.719,,,,,,,,,,,377147640,
+1296813920,103079488,0,False,secondary,Big Pool Road,31.819,,,,,,,,,,,49077101,MD 56
+1296813920,1780738386,0,False,secondary,Big Pool Road,124.966,2,,,,,,yes,,,,"[11560725, 49077100, 49077101]",MD 56
+1494435602,103028529,0,False,unclassified,McCoys Ferry Road,1663.14,,,,,,,,,,,11560768,
+1780738371,103017806,0,False,secondary,Big Pool Road,11.21,2,,,,,,,,,,11560725,MD 56
+1780738371,470418352,0,True,motorway_link,,54.295,1,,,,,,,,,,11553630,
+1780738371,103066517,0,False,secondary,Big Pool Road,158.339,2,,,,,,,,,,11560725,MD 56
+1780738386,103035452,0,False,secondary,Big Pool Road,29.636,2,,,,,,,,,,11560725,MD 56
+1780738386,1296813920,0,False,secondary,Big Pool Road,124.966,2,,,,,,yes,,,,"[49077101, 49077100, 11560725]",MD 56
+1780738449,103079488,0,False,secondary,Big Pool Road,34.175,,,,,,,,,,,114488677,
+1780738449,103024163,0,False,secondary,Big Pool Road,13.185,,,,,,,,,,,114488677,
+2923517606,103055879,0,False,primary,National Pike,14.475,2,,,,,,,,,,11557974,US 40
+2923517606,103055882,0,False,primary,National Pike,114.837,2,,,,,,,,,,11557974,US 40
+2923517606,103068770,0,False,tertiary,Broadfording Road,404.107,,,,,,,,,,,11559439,
+2923517615,103055138,0,False,primary,National Pike,17.902,2,,,,,,,,,,11557974,US 40
+2923517615,103055143,0,False,residential,North Hawbaker Circle,197.843,,,,,,,,,,,11557897,
+2923517615,3814644785,0,False,primary,National Pike,648.599,2,,,,,,,,,,11557974,US 40
+3797472932,3797472939,0,False,residential,Homestead Drive,284.518,,,,,,,,,,,11556164,
+3797472932,103042818,0,False,secondary,Big Pool Road,1407.839,2,,,,,,,,,,376277725,MD 56
+3797472932,103066517,0,False,secondary,Big Pool Road,272.926,2,,,,,,,,,,"[11560725, 376277725]",MD 56
+3797472939,3797472932,0,False,residential,Homestead Drive,284.518,,,,,,,,,,,11556164,
+3797473444,103066523,0,False,unclassified,Ernstville Road,2624.39,2,,,,,,yes,,,,"[141596960, 11559239, 141596959]",
+3797473444,103022018,0,False,unclassified,Ernstville Road,27.007,,,,,,,,,,,141596960,
+3797473444,103056223,0,True,primary_link,,54.973,,,,,,,,,,,376304910,
+3798763316,103011573,0,False,unclassified,Garrison Hollow Road,855.831,,,,,,,,,,,11552887,
+3798763316,103011607,0,False,unclassified,Garrison Hollow Road,756.39,,,,,,,,,,,11552887,
+3798763316,3798763452,0,False,residential,Garrison Woods Lane,665.752,,,,,,,,,,,11560631,
+3798763452,3798763316,0,False,residential,Garrison Woods Lane,665.752,,,,,,,,,,,11560631,
+3798764427,103077886,0,False,secondary,Big Pool Road,5.684,2,,,,,,,,,,376277725,MD 56
+3798764427,103078152,0,False,unclassified,Charles Mill Road,1062.274,,,,,,,yes,yes,,,"[94666397, 11560553, 376464310, 376464312, 376464313, 376464315, 94666429]",
+3798764427,103052547,0,False,secondary,Big Pool Road,265.774,2,,,,,,,,,,376277725,MD 56
+3798764783,103077886,0,False,unclassified,Rocky Meadow Road,1561.67,,,,,,,,,,,11560511,
+3799854464,103065461,0,False,unclassified,Live Oak Lane,375.758,,,,,,,,,,,11559129,
+3799854600,103037536,0,False,unclassified,Oak Leaf Lane,164.195,,,,,,,,,,,11556148,
+3799854684,103066421,0,False,unclassified,Little Galilee Road,575.117,,,,,,,,,,,11560969,
+3800824507,103041629,0,False,secondary,South Mill Street,33.177,,,,,,,,,,,11556546,MD 68
+3800824507,103041631,0,False,secondary,South Mill Street,40.668,,,,,,,,,,,11556546,MD 68
+3800824507,3800824513,0,True,primary_link,,52.03,,,,,,,,,,,376686588,
+3800824513,103041631,0,False,primary,National Pike,32.613,2,,,,,,,,,,11557974,US 40
+3800824513,103055138,0,False,primary,National Pike,145.351,2,,,,,,,,,,11557974,US 40
+3805241606,103039074,0,False,unclassified,Seibert Lane,159.304,,,,,,,,,,,11556295,
+3805241766,103063715,0,False,unclassified,Burrnie Kinsell Drive,630.189,,,,,,,,,,,11558939,
+3814643245,103055859,0,False,unclassified,Bakers Lane,250.438,,,,,,,,,,,11558472,
+3814644128,103055857,0,False,unclassified,Forrest Hill Road,254.009,,,,,,,,,,,11560730,
+3814644373,103046142,0,False,residential,Houck Avenue,96.021,,,,,,,,,,,11557053,
+3814644373,103046143,0,True,unclassified,Houck Avenue,45.167,,,,,,,,,,roundabout,378048377,
+3814644785,3814645002,0,False,unclassified,Trinity Church Drive,270.531,,,,,,,,,,,11556997,
+3814644785,2923517615,0,False,primary,National Pike,648.599,2,,,,,,,,,,11557974,US 40
+3814644785,103053458,0,False,primary,National Pike,1446.885,2,,,,,,,,,,11557974,US 40
+3814645002,3814644785,0,False,unclassified,Trinity Church Drive,270.531,,,,,,,,,,,11556997,
+3815605195,3815605497,0,False,unclassified,Licking Creek Road,887.756,,,,,,,yes,,,,"[378143498, 11556309, 378143503]",
+3815605195,103039233,0,False,unclassified,Licking Creek Road,95.262,,,,,,,,,,,11556309,
+3815605195,103054988,0,False,unclassified,Keefer Road,78.061,,,,,,,,,,,378143493,
+3815605497,3815605195,0,False,unclassified,Licking Creek Road,887.756,,,,,,,yes,,,,"[378143498, 11556309, 378143503]",
+3815664075,103043159,0,False,unclassified,Pipe Tomahawk Drive,802.071,,,,,,,,,,,11560707,
+3829817621,103038902,0,False,unclassified,Polecat Hollow Road,670.254,,,,,,,,,,,11556279,
+4219475771,103051850,0,False,unclassified,Hazel Lane,469.336,,,,,,,,,,,11557784,
+4219475931,103051856,0,False,unclassified,Webb Lane,322.918,,,,,,,,,,,11561093,

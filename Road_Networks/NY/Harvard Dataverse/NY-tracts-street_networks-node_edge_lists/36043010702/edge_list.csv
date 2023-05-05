@@ -1,0 +1,274 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+212336092,212336095,0,False,residential,,10.659,,,,,,,,,,,20090824,
+212336092,212439141,0,False,residential,East Jefferson Street,130.228,,,,,,,,,,,20098519,
+212336092,212399571,0,False,residential,"['East Jefferson Street', 'Casler Street']",192.436,,,,,,,yes,,,,"[71283152, 71283265, 20103547, 20098519]",
+212336095,212336092,0,False,residential,,10.659,,,,,,,,,,,20090824,
+212336693,212375959,0,False,secondary,River Road,49.882,,,,,,,,,,,139437940,NY 169
+212336693,212397461,0,False,secondary,East Main Street,208.003,,,,,,,,,,,20095468,NY 169
+212336693,212464345,0,False,residential,Ward Street,91.296,,,,,,,,,,,20100294,
+212336693,212397895,0,False,residential,"['Hancock Street', 'South William Street']",416.936,,,,,,,,,,,"[20104413, 20102495]",
+212337473,212337479,0,False,residential,,212.416,,,,,,,,,,,20091014,
+212337473,212512426,0,False,residential,Ritter Road,288.222,,,,,,,,,,,20103281,
+212337473,212403488,0,False,residential,"['Manheim Street', 'Ritter Road']",723.877,,,,,,,,,,,"[20103281, 20101676]",
+212337479,212337473,0,False,residential,,212.416,,,,,,,,,,,20091014,
+212342215,212342222,0,False,residential,,63.835,,,,,,,,,,,20091544,
+212342215,212411446,0,False,secondary,State Highway 167,423.097,,,,,,,yes,,,,"[44849440, 20102541]",NY 167
+212342215,212499968,0,False,secondary,,83.982,,,,,,,,,,,20102541,NY 167
+212342222,212342215,0,False,residential,,63.835,,,,,,,,,,,20091544,
+212342222,212506546,0,False,residential,Flint Avenue,126.163,,,,,,,,,,,20103114,
+212342222,212506169,0,False,residential,Flint Avenue,19.475,,,,,,,,,,,20103114,
+212342222,212345298,0,False,residential,Casler Street,219.347,,,,,,,,,,,20103545,
+212345298,212342222,0,False,residential,Casler Street,219.347,,,,,,,,,,,20103545,
+212351637,212375513,0,True,primary,,588.599,,,,,,,,,,,44849436,NY 5;NY 167
+212351668,212351637,0,True,primary_link,,85.818,,,,,,,,,,,20092205,
+212351668,212375528,0,False,primary,,45.763,,,,,,,,,,,139437898,NY 169
+212354700,212354702,0,False,residential,,7.108,,,,,,,,,,,20092468,
+212354700,212354949,0,False,residential,,96.79,,,,,,,,,,,20092499,
+212354700,212506969,0,False,residential,South 2nd Street,57.398,,,,,,,,,,,20102952,
+212354702,212354700,0,False,residential,,7.108,,,,,,,,,,,20092468,
+212354751,212375895,0,True,primary,State Highway 5,40.448,,,,,,,,,,,277231650,NY 5
+212354751,212354760,0,True,primary_link,,37.063,1,,,,,,,,,,20092474,
+212354760,212375895,0,False,secondary,,42.414,,,,,,,,,,,20102615,NY 167
+212354949,212354700,0,False,residential,,96.79,,,,,,,,,,,20092499,
+212354949,212373695,0,False,residential,Mill Street,36.119,,,,,,,,,,,20095126,
+212354949,212411446,0,False,"['unclassified', 'residential']",Elizabeth Street,143.962,,,,,,,yes,,,,"[44849441, 44849442]",
+212355357,212355357,0,False,residential,Mohawk Street,206.422,,,,,,,,,,,"[20092537, 20102350]",
+212355357,212355357,1,False,residential,Mohawk Street,206.422,,,,,,,,,,,"[20092537, 20102350]",
+212355357,212373695,0,False,residential,"['Mohawk Street', 'South Ann Street']",523.461,,,,,,,yes,,,,"[20098471, 20102350, 44849439]",
+212359979,212359983,0,False,residential,,32.005,,,,,,,,,,,20092942,
+212359979,212359983,1,False,residential,"['Porteus Street', 'Alexander Street']",40.188,,,,,,,,,,,"[20097496, 20095573]",
+212359979,212423738,0,False,residential,Porteus Street,33.763,,,,,,,,,,,20097496,
+212359983,212359979,0,False,residential,,32.005,,,,,,,,,,,20092942,
+212359983,212359979,1,False,residential,"['Porteus Street', 'Alexander Street']",40.188,,,,,,,,,,,"[20097496, 20095573]",
+212359983,212398979,0,False,residential,Alexander Street,74.428,,,,,,,,,,,20095573,
+212364397,212375569,0,False,secondary,South Ann Street,12.615,,,,,,,,,,,139437947,NY 167
+212364397,212437551,0,False,secondary,South Ann Street,79.744,,,,,,,,,,,139437947,NY 167
+212367439,212351668,0,True,primary_link,,130.599,,,,,,,,,,,20093537,NY 169
+212367439,212375528,0,True,primary,,106.394,,,,,,,,,,,480201198,NY 5;NY 167
+212369792,212425785,0,False,secondary,East Monroe Street,81.495,,,,,,,,,,,20097671,NY 170
+212369792,212371132,0,False,secondary,East Monroe Street,268.085,,,,,,,,,,,20097671,NY 170
+212371114,212371119,0,False,residential,Salisbury Street,97.926,,,,,,,,,,,20093894,
+212371114,212397490,0,True,secondary,East Main Street,101.026,,,,,,,,,,,139437784,NY 169
+212371119,212371123,0,False,residential,Salisbury Street,111.792,,,,,,,,,,,20093894,
+212371119,212371114,0,False,residential,Salisbury Street,97.926,,,,,,,,,,,20093894,
+212371119,212387786,0,False,residential,Garden Street,139.812,,,,,,,,,,,20094778,
+212371119,212387763,0,False,residential,Garden Street,97.022,,,,,,,,,,,20094778,
+212371123,212371126,0,False,residential,Salisbury Street,37.63,,,,,,,,,,,20093894,
+212371123,212403185,0,False,residential,Burwell Street,39.264,,,,,,,,,,,20101697,
+212371123,212371119,0,False,residential,Salisbury Street,111.792,,,,,,,,,,,20093894,
+212371123,212486501,0,False,residential,Burwell Street,93.909,,,,,,,,,,,20101697,
+212371126,212371129,0,False,residential,Salisbury Street,53.641,,,,,,,,,,,20093894,
+212371126,212371123,0,False,residential,Salisbury Street,37.63,,,,,,,,,,,20093894,
+212371126,212403185,0,False,residential,East Gansevoort Street,54.383,,,,,,,,,,,20095896,
+212371129,212371132,0,False,residential,Salisbury Street,70.315,,,,,,,,,,,20093894,
+212371129,212371126,0,False,residential,Salisbury Street,53.641,,,,,,,,,,,20093894,
+212371129,212398979,0,False,residential,Loomis Street,217.213,,,,,,,,,,,20104007,
+212371132,212371129,0,False,residential,Salisbury Street,70.315,,,,,,,,,,,20093894,
+212371132,212403503,0,False,secondary,East Monroe Street,100.566,,,,,,,,,,,20097671,NY 170
+212371132,212369792,0,False,secondary,East Monroe Street,268.085,,,,,,,,,,,20097671,NY 170
+212373669,212373695,0,False,unclassified,West Mill Street,343.545,,,,,,,,,,,20094006,
+212373669,212411446,0,False,unclassified,Elizabeth Street,190.204,,,,,,,yes,,,,"[44849441, 20096524]",
+212373669,212389351,0,False,unclassified,Elizabeth Street,327.329,,,,,,,,,,,20096524,
+212373695,212373669,0,False,unclassified,West Mill Street,343.545,,,,,,,,,,,20094006,
+212373695,212354949,0,False,residential,Mill Street,36.119,,,,,,,,,,,20095126,
+212373695,212355357,0,False,residential,"['Mohawk Street', 'South Ann Street']",523.461,,,,,,,yes,,,,"[44849439, 20102350, 20098471]",
+212373695,212506969,0,False,unclassified,East Mill Street,101.829,,,,,,,,,,,20103016,
+212375513,212375871,0,True,primary,State Highway 5,601.192,,,,,,,,,,,20094095,NY 5
+212375513,212375895,0,False,secondary,,11.015,,,,,,,,,,,139437895,NY 167
+212375528,212351668,0,False,primary,,45.763,,,,,,,,,,,139437898,NY 169
+212375528,212375926,0,False,primary,,12.104,,,,,,,,,,,480201191,NY 169
+212375528,212351637,0,True,primary,,71.398,,,,,,,,,,,480201195,NY 5;NY 167
+212375548,212375959,0,False,secondary,River Road,18.614,,,,,,,,,,,139437941,NY 169
+212375548,212367439,0,True,primary,,212.895,,,,,,,,,,,139437906,NY 5;NY 167;NY 169
+212375569,212375548,0,True,primary,,732.917,,,,,,,,,,,139437909,NY 5;NY 167
+212375569,212364397,0,False,secondary,South Ann Street,12.615,,,,,,,,,,,139437947,NY 167
+212375871,212354751,0,True,primary,State Highway 5,550.411,,,,,,,,,,,277231650,NY 5
+212375895,212354760,0,False,secondary,,42.414,,,,,,,,,,,20102615,NY 167
+212375895,212375926,0,True,primary,,671.603,,,,,,,,,,,44849434,NY 5;NY 167
+212375895,212375513,0,False,secondary,,11.015,,,,,,,,,,,139437895,NY 167
+212375926,212375959,0,True,primary,,338.966,,,,,,,,,,,44849437,NY 5;NY 167;NY 169
+212375926,212375528,0,False,primary,,12.104,,,,,,,,,,,480201191,NY 169
+212375959,212336693,0,False,secondary,River Road,49.882,,,,,,,,,,,139437940,NY 169
+212375959,212375548,0,False,secondary,River Road,18.614,,,,,,,,,,,139437941,NY 169
+212375959,212364397,0,True,primary,,720.554,,,,,,,,,,,139437908,NY 5;NY 167
+212387763,212397475,0,True,residential,Waverly Place,91.042,,,,,,,,,,,20101860,
+212387763,212371119,0,False,residential,Garden Street,97.022,,,,,,,,,,,20094778,
+212387786,212403178,0,False,residential,North William Street,96.826,,,,,,,,,,,20103142,
+212387786,212397490,0,False,residential,North William Street,91.915,,,,,,,,,,,20103142,
+212387786,212387795,0,False,residential,Garden Street,113.888,,,,,,,,,,,20094778,
+212387786,212371119,0,False,residential,Garden Street,139.812,,,,,,,,,,,20094778,
+212387795,212387799,0,False,residential,Garden Street,74.067,,,,,,,,,,,20094778,
+212387795,212387786,0,False,residential,Garden Street,113.888,,,,,,,,,,,20094778,
+212387795,212397496,0,False,residential,North Mary Street,89.476,,,,,,,,,,,20101001,
+212387799,212387805,0,False,residential,Garden Street,57.57,,,,,,,,,,,20094778,
+212387799,212387795,0,False,residential,Garden Street,74.067,,,,,,,,,,,20094778,
+212387799,212452368,0,False,residential,Jackson Street,94.896,,,,,,,,,,,20099345,
+212387805,212387799,0,False,residential,Garden Street,57.57,,,,,,,,,,,20094778,
+212387805,212397501,0,False,residential,2nd Street,93.207,,,,,,,,,,,20096696,
+212387805,212387811,0,False,residential,Garden Street,93.179,,,,,,,,,,,20094778,
+212387811,212398906,0,False,secondary,North Ann Street,90.356,,,,,,,,,,,20096466,NY 169
+212387811,212410625,0,False,secondary,North Ann Street,66.155,,,,,,,,,,,20096466,NY 169
+212387811,212387805,0,False,residential,Garden Street,93.179,,,,,,,,,,,20094778,
+212389351,212373669,0,False,unclassified,Elizabeth Street,327.329,,,,,,,,,,,20096524,
+212389351,212389689,0,False,unclassified,"['Industrial Park', 'Riverside Industrial Parkway']",1944.221,,,,,,,,,,,"[20102660, 20094903]",
+212389351,212466908,0,False,residential,"['Hansen Avenue', 'Hansen Island']",101.542,,,,,,,yes,,,,"[289223906, 289223907, 20095868, 20100485]",
+212389689,212389351,0,False,unclassified,"['Riverside Industrial Parkway', 'Industrial Park']",1944.221,,,,,,,,,,,"[20102660, 20094903]",
+212397461,212397472,0,False,secondary,East Main Street,98.886,,,,,,,,,,,20095468,NY 169
+212397461,212336693,0,False,secondary,East Main Street,208.003,,,,,,,,,,,20095468,NY 169
+212397461,212397895,0,False,residential,John Street,225.741,,,,,,,,,,,20095507,
+212397472,212397475,0,True,secondary,East Main Street,14.818,,,,,,,,,,,139437784,NY 169
+212397472,212397461,0,False,secondary,East Main Street,98.886,,,,,,,,,,,20095468,NY 169
+212397475,212371114,0,True,secondary,East Main Street,54.449,,,,,,,,,,,139437784,NY 169
+212397490,212387786,0,False,residential,North William Street,91.915,,,,,,,,,,,20103142,
+212397490,212499170,0,False,residential,South William Street,91.95,,,,,,,,,,,20102495,
+212397490,212397496,0,True,secondary,East Main Street,111.443,,,,,,,,,,,139437784,NY 169
+212397496,212387795,0,False,residential,North Mary Street,89.476,,,,,,,,,,,20101001,
+212397496,212397501,0,True,secondary,East Main Street,132.358,,,,,,,,,,,139437784,NY 169
+212397501,212387805,0,False,residential,2nd Street,93.207,,,,,,,,,,,20096696,
+212397501,212413722,0,False,residential,2nd Street,89.456,,,,,,,,,,,20096696,
+212397501,212397507,0,True,secondary,East Main Street,95.974,,,,,,,,,,,139437784,NY 169
+212397507,212410625,0,False,secondary,North Ann Street,26.942,,,,,,,,,,,20096466,NY 169
+212397507,212437551,0,False,secondary,South Ann Street,76.663,,,,,,,,,,,20098470,NY 169
+212397895,212397461,0,False,residential,John Street,225.741,,,,,,,,,,,20095507,
+212397895,212413722,0,False,residential,"['John Street', '2nd Street']",305.865,,,,,,,,,,,"[20096696, 20095507]",
+212397895,212499170,0,False,residential,South William Street,91.631,,,,,,,,,,,20102495,
+212397895,212336693,0,False,residential,"['Hancock Street', 'South William Street']",416.936,,,,,,,,,,,"[20104413, 20102495]",
+212398906,212403168,0,False,secondary,North Ann Street,93.967,,,,,,,,,,,20096466,NY 169
+212398906,212387811,0,False,secondary,North Ann Street,90.356,,,,,,,,,,,20096466,NY 169
+212398906,212452368,0,False,residential,East Lansing Street,152.845,,,,,,,,,,,20100925,
+212398973,212398979,0,False,residential,Alexander Street,91.315,,,,,,,,,,,20095573,
+212398973,212464345,0,False,residential,"['Alexander Street', 'Petrie Street']",292.368,,,,,,,,,,,"[20095573, 20100278]",
+212398973,212486501,0,False,residential,Burwell Street,122.858,,,,,,,,,,,20101697,
+212398973,212464449,0,False,residential,Burwell Street,200.775,,,,,,,,,,,20101697,
+212398979,212359983,0,False,residential,Alexander Street,74.428,,,,,,,,,,,20095573,
+212398979,212371129,0,False,residential,Loomis Street,217.213,,,,,,,,,,,20104007,
+212398979,212398973,0,False,residential,Alexander Street,91.315,,,,,,,,,,,20095573,
+212398979,212464451,0,False,residential,Loomis Street,200.981,,,,,,,,,,,20104007,
+212399446,212399571,0,False,residential,Danube Street,1694.095,,,,,,,,,,,20095625,
+212399571,212399446,0,False,residential,Danube Street,1694.095,,,,,,,,,,,20095625,
+212399571,212517505,0,False,residential,Casler Street,53.277,,,,,,,,,,,71283152,
+212399571,212336092,0,False,residential,"['East Jefferson Street', 'Casler Street']",192.436,,,,,,,yes,,,,"[71283152, 71283265, 20103547, 20098519]",
+212399956,212399959,0,False,residential,South Williams Street,34.265,,,,,,,,,,,20095666,
+212399956,212507786,0,False,unclassified,East Mill Street,144.767,,,,,,,,,,,20103016,
+212399956,212506969,0,False,unclassified,East Mill Street,271.125,,,,,,,,,,,20103016,
+212399959,212399956,0,False,residential,South Williams Street,34.265,,,,,,,,,,,20095666,
+212403168,212403172,0,False,residential,East Gansevoort Street,150.048,,,,,,,,,,,20095896,
+212403168,212410626,0,False,secondary,North Ann Street,97.009,,,,,,,,,,,20096466,NY 169
+212403168,212398906,0,False,secondary,North Ann Street,93.967,,,,,,,,,,,20096466,NY 169
+212403172,212403168,0,False,residential,East Gansevoort Street,150.048,,,,,,,,,,,20095896,
+212403172,212425783,0,False,residential,Jackson Street,97.902,,,,,,,,,,,20099345,
+212403172,212452368,0,False,residential,Jackson Street,52.06,,,,,,,,,,,20099345,
+212403172,212403178,0,False,residential,East Gansevoort Street,183.458,,,,,,,,,,,20095896,
+212403178,212425785,0,False,residential,North William Street,97.385,,,,,,,,,,,20103142,
+212403178,212387786,0,False,residential,North William Street,96.826,,,,,,,,,,,20103142,
+212403178,212403185,0,False,residential,East Gansevoort Street,198.263,,,,,,,,,,,20095896,
+212403178,212403172,0,False,residential,East Gansevoort Street,183.458,,,,,,,,,,,20095896,
+212403185,212371123,0,False,residential,Burwell Street,39.264,,,,,,,,,,,20101697,
+212403185,212371126,0,False,residential,East Gansevoort Street,54.383,,,,,,,,,,,20095896,
+212403185,212403178,0,False,residential,East Gansevoort Street,198.263,,,,,,,,,,,20095896,
+212403471,212403483,0,False,residential,Moreland Street,82.137,,,,,,,,,,,20095930,
+212403483,212423737,0,False,residential,Ward Street,53.556,,,,,,,,,,,20100294,
+212403483,212403488,0,False,residential,Moreland Street,137.882,,,,,,,,,,,20095930,
+212403483,212403471,0,False,residential,Moreland Street,82.137,,,,,,,,,,,20095930,
+212403488,212423738,0,False,residential,Manheim Street,50.842,,,,,,,,,,,20101676,
+212403488,212403503,0,False,residential,Moreland Street,195.359,,,,,,,,,,,20095930,
+212403488,212403483,0,False,residential,Moreland Street,137.882,,,,,,,,,,,20095930,
+212403488,212337473,0,False,residential,"['Manheim Street', 'Ritter Road']",723.877,,,,,,,,,,,"[20103281, 20101676]",
+212403503,212403488,0,False,residential,Moreland Street,195.359,,,,,,,,,,,20095930,
+212403503,212371132,0,False,secondary,East Monroe Street,100.566,,,,,,,,,,,20097671,NY 170
+212410625,212387811,0,False,secondary,North Ann Street,66.155,,,,,,,,,,,20096466,NY 169
+212410625,212397507,0,False,secondary,North Ann Street,26.942,,,,,,,,,,,20096466,NY 169
+212410626,212403168,0,False,secondary,North Ann Street,97.009,,,,,,,,,,,20096466,NY 169
+212410626,212425783,0,False,secondary,East Monroe Street,152.21,,,,,,,,,,,20097671,NY 170
+212411446,212342215,0,False,secondary,State Highway 167,423.097,,,,,,,yes,,,,"[44849440, 20102541]",NY 167
+212411446,212354949,0,False,"['unclassified', 'residential']",Elizabeth Street,143.962,,,,,,,yes,,,,"[44849441, 44849442]",
+212411446,212373669,0,False,unclassified,Elizabeth Street,190.204,,,,,,,yes,,,,"[44849441, 20096524]",
+212413722,212397501,0,False,residential,2nd Street,89.456,,,,,,,,,,,20096696,
+212413722,212397895,0,False,residential,"['John Street', '2nd Street']",305.865,,,,,,,,,,,"[20096696, 20095507]",
+212413722,212499170,0,True,secondary,Albany Street,241.786,,,,,,,,,,,139437759,NY 169
+212415066,212415071,0,False,residential,Ray Street,105.388,,,,,,,,,,,20096784,
+212415066,212420718,0,False,residential,Loomis Street,437.034,,,,,,,,,,,20104007,
+212415071,212486472,0,False,residential,Burwell Street,14.442,,,,,,,,,,,20101697,
+212415071,212415066,0,False,residential,Ray Street,105.388,,,,,,,,,,,20096784,
+212415071,212486483,0,False,residential,Burwell Street,478.927,,,,,,,,,,,20101697,
+212420718,212504887,0,False,residential,Loomis Street,73.413,,,,,,,,,,,20104007,
+212420718,212420736,0,False,residential,Smith Street,130.889,,,,,,,,,,,20097228,
+212420718,212415066,0,False,residential,Loomis Street,437.034,,,,,,,,,,,20104007,
+212420736,212420718,0,False,residential,Smith Street,130.889,,,,,,,,,,,20097228,
+212420773,212420781,0,False,residential,West Jefferson Street,59.289,,,,,,,,,,,20097233,
+212420773,212439141,0,False,residential,East Jefferson Street,73.542,,,,,,,,,,,20098519,
+212420773,212506169,0,False,residential,Flint Avenue,124.584,,,,,,,,,,,20103114,
+212420781,212420773,0,False,residential,West Jefferson Street,59.289,,,,,,,,,,,20097233,
+212423737,212423738,0,False,residential,Porteus Street,138.456,,,,,,,,,,,20097496,
+212423737,212403483,0,False,residential,Ward Street,53.556,,,,,,,,,,,20100294,
+212423737,212426980,0,False,residential,Ward Street,12.346,,,,,,,,,,,20100294,
+212423738,212359979,0,False,residential,Porteus Street,33.763,,,,,,,,,,,20097496,
+212423738,212423737,0,False,residential,Porteus Street,138.456,,,,,,,,,,,20097496,
+212423738,212403488,0,False,residential,Manheim Street,50.842,,,,,,,,,,,20101676,
+212425783,212425785,0,False,secondary,East Monroe Street,182.397,,,,,,,,,,,20097671,NY 170
+212425783,212403172,0,False,residential,Jackson Street,97.902,,,,,,,,,,,20099345,
+212425783,212410626,0,False,secondary,East Monroe Street,152.21,,,,,,,,,,,20097671,NY 170
+212425785,212369792,0,False,secondary,East Monroe Street,81.495,,,,,,,,,,,20097671,NY 170
+212425785,212425783,0,False,secondary,East Monroe Street,182.397,,,,,,,,,,,20097671,NY 170
+212425785,212403178,0,False,residential,North William Street,97.385,,,,,,,,,,,20103142,
+212426980,212423737,0,False,residential,Ward Street,12.346,,,,,,,,,,,20100294,
+212426980,212464451,0,False,residential,Ward Street,74.749,,,,,,,,,,,20100294,
+212426980,212439054,0,False,residential,"['Court Street', 'Court Lane']",153.622,,,,,,,,,,,"[20098515, 20097788]",
+212437551,212397507,0,False,secondary,South Ann Street,76.663,,,,,,,,,,,20098470,NY 169
+212437551,212413722,0,True,secondary,Albany Street,92.448,,,,,,,,,,,139437759,NY 169
+212437551,212364397,0,False,secondary,South Ann Street,79.744,,,,,,,,,,,139437947,NY 167
+212439054,212504887,0,False,residential,Loomis Street,58.416,,,,,,,,,,,20104007,
+212439054,212426980,0,False,residential,"['Court Street', 'Court Lane']",153.622,,,,,,,,,,,"[20098515, 20097788]",
+212439054,212464451,0,False,residential,Loomis Street,122.259,,,,,,,,,,,20104007,
+212439141,212506147,0,False,residential,Railroad Street,64.09,,,,,,,,,,,20103129,
+212439141,212420773,0,False,residential,East Jefferson Street,73.542,,,,,,,,,,,20098519,
+212439141,212336092,0,False,residential,East Jefferson Street,130.228,,,,,,,,,,,20098519,
+212452368,212403172,0,False,residential,Jackson Street,52.06,,,,,,,,,,,20099345,
+212452368,212387799,0,False,residential,Jackson Street,94.896,,,,,,,,,,,20099345,
+212452368,212398906,0,False,residential,East Lansing Street,152.845,,,,,,,,,,,20100925,
+212464334,212464345,0,False,residential,Petrie Street,118.025,,,,,,,,,,,20100278,
+212464345,212398973,0,False,residential,"['Alexander Street', 'Petrie Street']",292.368,,,,,,,,,,,"[20095573, 20100278]",
+212464345,212464334,0,False,residential,Petrie Street,118.025,,,,,,,,,,,20100278,
+212464345,212464449,0,False,residential,Ward Street,92.141,,,,,,,,,,,20100294,
+212464345,212336693,0,False,residential,Ward Street,91.296,,,,,,,,,,,20100294,
+212464449,212464451,0,False,residential,Ward Street,92.645,,,,,,,,,,,20100294,
+212464449,212464345,0,False,residential,Ward Street,92.141,,,,,,,,,,,20100294,
+212464449,212398973,0,False,residential,Burwell Street,200.775,,,,,,,,,,,20101697,
+212464449,212486483,0,False,residential,Burwell Street,224.55,,,,,,,,,,,20101697,
+212464451,212426980,0,False,residential,Ward Street,74.749,,,,,,,,,,,20100294,
+212464451,212464449,0,False,residential,Ward Street,92.645,,,,,,,,,,,20100294,
+212464451,212398979,0,False,residential,Loomis Street,200.981,,,,,,,,,,,20104007,
+212464451,212439054,0,False,residential,Loomis Street,122.259,,,,,,,,,,,20104007,
+212466908,212389351,0,False,residential,"['Hansen Avenue', 'Hansen Island']",101.542,,,,,,,yes,,,,"[289223906, 289223907, 20095868, 20100485]",
+212486472,212415071,0,False,residential,Burwell Street,14.442,,,,,,,,,,,20101697,
+212486483,212504887,0,False,residential,Whited Street,110.042,,,,,,,,,,,20102795,
+212486483,212464449,0,False,residential,Burwell Street,224.55,,,,,,,,,,,20101697,
+212486483,212415071,0,False,residential,Burwell Street,478.927,,,,,,,,,,,20101697,
+212486501,212387763,0,True,residential,Waverly Place,91.82,,,,,,,,,,,20101860,
+212486501,212371123,0,False,residential,Burwell Street,93.909,,,,,,,,,,,20101697,
+212486501,212398973,0,False,residential,Burwell Street,122.858,,,,,,,,,,,20101697,
+212499170,212397490,0,False,residential,South William Street,91.95,,,,,,,,,,,20102495,
+212499170,212397895,0,False,residential,South William Street,91.631,,,,,,,,,,,20102495,
+212499170,212397472,0,True,secondary,Albany Street,161.412,,,,,,,,,,,139437759,NY 169
+212499966,212499968,0,False,secondary,,4.831,,,,,,,,,,,20102541,NY 167
+212499968,212499966,0,False,secondary,,4.831,,,,,,,,,,,20102541,NY 167
+212499968,212506546,0,False,residential,Bellinger Street,44.042,,,,,,,,,,,20102908,
+212499968,212342215,0,False,secondary,,83.982,,,,,,,,,,,20102541,NY 167
+212504887,212486483,0,False,residential,Whited Street,110.042,,,,,,,,,,,20102795,
+212504887,212439054,0,False,residential,Loomis Street,58.416,,,,,,,,,,,20104007,
+212504887,212420718,0,False,residential,Loomis Street,73.413,,,,,,,,,,,20104007,
+212506144,212506147,0,False,residential,West Shore Street,31.289,,,,,,,,,,,20102875,
+212506147,212506144,0,False,residential,West Shore Street,31.289,,,,,,,,,,,20102875,
+212506147,212439141,0,False,residential,Railroad Street,64.09,,,,,,,,,,,20103129,
+212506147,212506169,0,False,residential,West Shore Street,139.855,,,,,,,,,,,20102875,
+212506169,212506147,0,False,residential,West Shore Street,139.855,,,,,,,,,,,20102875,
+212506169,212342222,0,False,residential,Flint Avenue,19.475,,,,,,,,,,,20103114,
+212506169,212420773,0,False,residential,Flint Avenue,124.584,,,,,,,,,,,20103114,
+212506546,212499968,0,False,residential,Bellinger Street,44.042,,,,,,,,,,,20102908,
+212506546,212342222,0,False,residential,Flint Avenue,126.163,,,,,,,,,,,20103114,
+212506969,212354700,0,False,residential,South 2nd Street,57.398,,,,,,,,,,,20102952,
+212506969,212399956,0,False,unclassified,East Mill Street,271.125,,,,,,,,,,,20103016,
+212506969,212373695,0,False,unclassified,East Mill Street,101.829,,,,,,,,,,,20103016,
+212507786,212399956,0,False,unclassified,East Mill Street,144.767,,,,,,,,,,,20103016,
+212512426,212337473,0,False,residential,Ritter Road,288.222,,,,,,,,,,,20103281,
+212517505,212399571,0,False,residential,Casler Street,53.277,,,,,,,,,,,71283152,

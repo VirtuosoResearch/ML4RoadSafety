@@ -1,0 +1,319 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+111271690,111271697,0,False,tertiary,Bullis Road,343.959,2,,,45 mph,,,yes,,,,"[50751313, 12275410, 50751317]",CR 330
+111271690,111271697,1,False,residential,Old Bullis Road,511.854,,,,,no,,yes,,,,"[50751233, 50751318, 50751319]",
+111271690,111606027,0,False,tertiary,Bullis Road,280.654,2,,,45 mph,,,,,,,309904861,CR 330
+111271697,111429128,0,False,tertiary,Bullis Road,172.73,2,,,45 mph,,,,,,,50751313,CR 330
+111271697,111271690,0,False,tertiary,Bullis Road,343.959,2,,,45 mph,,,yes,,,,"[50751313, 12275410, 50751317]",CR 330
+111271697,111271690,1,False,residential,Old Bullis Road,511.854,,,,,no,,yes,,,,"[50751233, 50751318, 50751319]",
+111286401,111286403,0,False,residential,Sigman Lane,14.54,,,,,,,,,,,12290086,
+111286401,111338681,0,False,residential,Sigman Lane,444.316,,,,,,,,,,,12290086,
+111286401,111440975,0,False,residential,Highland Drive,301.516,,,,,,,,,,,12312134,
+111286403,111286401,0,False,residential,Sigman Lane,14.54,,,,,,,,,,,12290086,
+111286403,111571929,0,False,residential,Hilltop Drive,499.82,,,,,,,,,,,12310423,
+111286403,111571929,1,False,residential,Hilltop Drive,432.342,,,,,,,,,,,12310429,
+111287812,1257330804,0,True,motorway_link,,82.494,,,,,,,,,,,13484502,
+111287812,1257330075,0,False,tertiary,Maple Road,105.165,,,,40 mph,,,,,,,480210521,CR 241
+111287812,111365052,0,False,tertiary,Maple Road,727.796,,,,40 mph,,,,,,,201168693,CR 241
+111296243,111365048,0,False,tertiary,Maple Road,138.236,,,,40 mph,,,,,,,12287259,CR 241
+111296243,1257330075,0,False,tertiary,Maple Road,204.549,,,,40 mph,,,,,,,"[480210522, 12287259]",CR 241
+111296249,111296243,0,True,motorway_link,,292.207,,,,,,,,,,,"[103892944, 12278457]",
+111303379,111365044,0,False,tertiary,West Blood Road,1260.71,,,,45 mph,,,,,,,12302871,CR 528
+111303379,111505119,0,False,tertiary,West Blood Road,730.562,,,,45 mph,,,yes,,,,"[17041361, 17041362, 12302878]",CR 528
+111303379,111571459,0,False,tertiary,Girdle Road,1432.649,2,,,45 mph,,,yes,,,,"[17041471, 17041470, 12317719]",CR 336
+111303379,111419365,0,False,tertiary,Girdle Road,177.582,,,,45 mph,,,,,,,"[171444533, 12317719]",CR 336
+111313084,111453037,0,False,tertiary,Schwartz Road,980.202,2,,,45 mph,,,,,,,12280901,CR 337
+111313084,111567569,0,False,residential,Hall Road,2500.849,,,,45 mph,,,,,,,12309921,
+111318027,111318051,0,False,residential,Hemstreet Road,1104.886,,,,,,,,,,,12281507,
+111318027,111429061,0,False,residential,Creek Road,2491.585,,,,,,,,,,,12303683,
+111318027,111436951,0,False,secondary,Jamison Road,1031.224,,,,"['55 mph', '45 mph']",,,,,,,"[50751355, 117134501]",CR 574
+111318027,111568970,0,False,secondary,Jamison Road,224.851,,,,45 mph,,,yes,,,,"[95281586, 50751355, 119699893]",CR 574
+111318051,111318027,0,False,residential,Hemstreet Road,1104.886,,,,,,,,,,,12281507,
+111318051,111503257,0,False,residential,Kettle Run,489.66,,,,,,,,,,,12302649,
+111318133,111318140,0,False,residential,Pearl Terrace,396.423,,,,,,,,,,,12281518,
+111318133,111631823,0,False,residential,Woodard Road,618.737,,,,,,,,,,,201168695,
+111318133,111338689,0,False,residential,Woodard Road,752.758,,,,,,,,,,,201168695,
+111318140,111318133,0,False,residential,Pearl Terrace,396.423,,,,,,,,,,,12281518,
+111318140,111606027,0,False,tertiary,Bullis Road,585.327,2,,,45 mph,,,,,,,309904861,CR 330
+111318140,111606010,0,False,tertiary,Bullis Road,1112.163,2,,,45 mph,,,,,,,309904861,CR 330
+111338677,111338681,0,False,residential,Schultz Road,212.606,,,,,,,,,,,201168694,
+111338677,111406094,0,False,tertiary,Rice Road,843.348,,,,45 mph,,,,,,,138374088,CR 140
+111338677,111440975,0,False,tertiary,Rice Road,363.666,,,,45 mph,,,,,,,138374088,CR 140
+111338677,176832411,0,False,residential,Schultz Road,2044.82,,,,,,,,,,,"[12284289, 201168694]",
+111338681,111338677,0,False,residential,Schultz Road,212.606,,,,,,,,,,,201168694,
+111338681,111286401,0,False,residential,Sigman Lane,444.316,,,,,,,,,,,12290086,
+111338681,111338689,0,False,residential,Schultz Road,942.301,,,,,,,,,,,201168694,
+111338689,111577324,0,False,residential,Woodard Road,785.518,,,,,,,,,,,12318670,
+111338689,111338681,0,False,residential,Schultz Road,942.301,,,,,,,,,,,201168694,
+111338689,111318133,0,False,residential,Woodard Road,752.758,,,,,,,,,,,201168695,
+111351851,111546671,0,False,residential,"['Hickory Hill Drive', 'Hillside Drive']",721.055,,,,,,,,,,,"[12285819, 12307627]",
+111351851,111618883,0,False,residential,"['Griffin Lane', 'Ostrander Road']",1829.996,2,,,,,,,,,,"[12310088, 12316104]",
+111351851,111568972,0,False,residential,Ostrander Road,270.957,,,,,,,,,,,12310088,
+111358743,111453265,0,False,secondary,Bowen Road,549.649,2,,,40 mph,,,yes,,,,"[409890700, 409890717, 12299783]",CR 242
+111358743,1358389979,0,False,secondary,Bowen Road,294.87,2,,,40 mph,,,yes,,,,"[96645519, 50750421, 12299783]",CR 242
+111365026,111365044,0,False,tertiary,Maple Road,592.745,,,,40 mph,,,,,,,12287259,CR 241
+111365026,111365415,0,False,tertiary,Maple Road,243.415,,,,40 mph,,,,,,,12287259,CR 241
+111365026,111401107,0,False,residential,Billington Road,132.274,,,,,,,,,,,12291313,
+111365026,111401093,0,False,residential,Billington Road,1026.753,,,,,,,,,,,12291313,
+111365044,111365048,0,False,tertiary,Maple Road,286.225,,,,40 mph,,,,,,,12287259,CR 241
+111365044,111365026,0,False,tertiary,Maple Road,592.745,,,,40 mph,,,,,,,12287259,CR 241
+111365044,111303379,0,False,tertiary,West Blood Road,1260.71,,,,45 mph,,,,,,,12302871,CR 528
+111365048,111296243,0,False,tertiary,Maple Road,138.236,,,,40 mph,,,,,,,12287259,CR 241
+111365048,111365044,0,False,tertiary,Maple Road,286.225,,,,40 mph,,,,,,,12287259,CR 241
+111365048,1118030751,0,False,unclassified,West Maple Court,239.017,,,,,,,,,,,12298400,
+111365052,111477829,0,False,secondary,Jamison Road,1167.883,,,,45 mph,,,,,,,95281578,CR 574
+111365052,176832411,0,False,secondary,Jamison Road,223.755,,,,45 mph,,,,,,,"[95281569, 95281578, 50751356]",CR 574
+111365052,111287812,0,False,tertiary,Maple Road,727.796,,,,40 mph,,,,,,,201168693,CR 241
+111365411,111365415,0,False,tertiary,Maple Road,83.181,,,,40 mph,,,,,,,12287259,CR 241
+111365411,111443125,0,False,residential,Colony Court,400.696,,,,,,,,,,,12295736,
+111365415,111365411,0,False,tertiary,Maple Road,83.181,,,,40 mph,,,,,,,12287259,CR 241
+111365415,111365026,0,False,tertiary,Maple Road,243.415,,,,40 mph,,,,,,,12287259,CR 241
+111365415,111401111,0,False,residential,Meadow Drive,400.153,,,,,,,,,,,12313236,
+111368861,111453270,0,False,secondary,Clinton Street,145.342,2,,,45 mph,,,,,,,150153784,NY 354
+111368861,111453270,1,False,residential,"['Midway Ln', 'Clinton Heights', 'Carol Lane']",1156.4,,,,,,,,,,,"[12287690, 12300454, 12320527]",
+111368861,111453037,0,False,secondary,Clinton Street,1751.92,2,,,45 mph,,,,,,,150153784,NY 354
+111375134,111563362,0,False,residential,Chairfactory Road,222.73,,,,35 mph,,,,,,,12309424,
+111375134,111510853,0,False,residential,Chairfactory Road,29.675,,,,35 mph,,,,,,,12309424,
+111375134,111483418,0,False,residential,"['South Jerge Drive', 'West Jerge Drive', 'East Jerge Drive']",1044.608,,,,,,,,,,,"[12288482, 12291005, 12300319]",
+111379637,111453329,0,False,tertiary,Town Line Road,161.011,2,,,,,,,,,,12306901,CR 335
+111379637,111540682,0,False,tertiary,Town Line Road,546.524,2,,,,,,,,,,12306901,CR 335
+111391089,111391111,0,False,residential,Caroline Lane,200.148,,,,,,,,,,,12290296,
+111391089,111631823,0,False,tertiary,Girdle Road,952.535,2,,,45 mph,,,,,,,17041471,CR 336
+111391089,111563143,0,False,tertiary,Girdle Road,289.116,2,,,45 mph,,,,,,,17041471,CR 336
+111391111,111638434,0,False,residential,Huntington Court,93.696,,,,,,,,,,,12318651,
+111391111,1118030782,0,False,residential,Caroline Lane,523.799,,,,,,,,,,,12290296,
+111391111,111391089,0,False,residential,Caroline Lane,200.148,,,,,,,,,,,12290296,
+111393956,111563143,0,False,residential,Rolling Green Lane,96.371,,,,,,,,,,,12309419,
+111393956,111393999,0,False,residential,Elma Meadow Lane,310.307,,,,,,,,,,,12290613,
+111393956,111510081,0,False,residential,Rolling Green Lane,213.521,,,,,,,,,,,12309419,
+111393999,111394046,0,False,residential,Elma Meadow Lane,276.603,,,,,,,,,,,12290613,
+111393999,111393956,0,False,residential,Elma Meadow Lane,310.307,,,,,,,,,,,12290613,
+111393999,1118030645,0,False,residential,Hunter Court,152.62,,,,,,,,,,,12300781,
+111394046,111393999,0,False,residential,Elma Meadow Lane,276.603,,,,,,,,,,,12290613,
+111394046,111440991,0,False,residential,Fairway Drive,99.184,,,,,,,,,,,12303515,
+111394046,111510081,0,False,residential,Fairway Drive,361.295,,,,,,,,,,,12303515,
+111394046,111510081,1,False,residential,Rolling Green Lane,761.048,,,,,,,,,,,12309419,
+111401093,111365026,0,False,residential,Billington Road,1026.753,,,,,,,,,,,12291313,
+111401107,111401111,0,False,residential,Billington Road,19.841,,,,,,,,,,,12291313,
+111401107,111365026,0,False,residential,Billington Road,132.274,,,,,,,,,,,12291313,
+111401107,111529070,0,False,residential,Golfview Drive,266.457,,,,,,,,,,,12305700,
+111401111,111401107,0,False,residential,Billington Road,19.841,,,,,,,,,,,12291313,
+111401111,111401901,0,False,residential,"['Billington Road', 'Billington Heights Road']",359.906,,,,,,,,,,,"[12291313, 12315614]",
+111401111,111365415,0,False,residential,Meadow Drive,400.153,,,,,,,,,,,12313236,
+111401901,111401910,0,False,residential,Esther Drive,493.146,,,,,,,,,,,12291404,
+111401901,111401910,1,False,residential,"['Billington Heights Road', 'Pleasantview Drive']",490.757,,,,,,,,,,,"[12300288, 12315614]",
+111401901,111401111,0,False,residential,"['Billington Road', 'Billington Heights Road']",359.906,,,,,,,,,,,"[12291313, 12315614]",
+111401910,111483298,0,False,residential,Pleasantview Drive,71.06,,,,,,,,,,,12300288,
+111401910,111401901,0,False,residential,Esther Drive,493.146,,,,,,,,,,,12291404,
+111401910,111401901,1,False,residential,"['Billington Heights Road', 'Pleasantview Drive']",490.757,,,,,,,,,,,"[12300288, 12315614]",
+111406094,111406101,0,False,residential,Kirkwood Drive,323.357,,,,,,,,,,,12291785,
+111406094,111440989,0,False,tertiary,Rice Road,417.116,,,,45 mph,,,,,,,138374088,CR 140
+111406094,111338677,0,False,tertiary,Rice Road,843.348,,,,45 mph,,,,,,,138374088,CR 140
+111406101,111406094,0,False,residential,Kirkwood Drive,323.357,,,,,,,,,,,12291785,
+111407584,111407614,0,False,residential,Terrace Lane,458.743,,,,,,,,,,,12291937,
+111407584,111429128,0,False,residential,Stolle Road,647.072,,,,,,,,,,,12294297,
+111407584,111429061,0,False,residential,Stolle Road,1649.369,,,,,,,,,,,12294297,
+111407614,111407584,0,False,residential,Terrace Lane,458.743,,,,,,,,,,,12291937,
+111419365,111563934,0,False,tertiary,Girdle Road,144.444,,,,45 mph,,,,,,,171444533,CR 336
+111419365,111483298,0,False,residential,"['Tracy Drive', 'Pleasantview Drive']",461.673,,,,,,,,,,,"[12300288, 12293198]",
+111419365,111303379,0,False,tertiary,Girdle Road,177.582,,,,45 mph,,,,,,,"[171444533, 12317719]",CR 336
+111425111,111425117,0,False,residential,South Ostrander Road,131.273,,,,,,,,,,,12293843,
+111425111,111516154,0,False,residential,Cookman Road,221.75,,,,,,,,,,,12304263,
+111425117,111425111,0,False,residential,South Ostrander Road,131.273,,,,,,,,,,,12293843,
+111429061,111407584,0,False,residential,Stolle Road,1649.369,,,,,,,,,,,12294297,
+111429061,111318027,0,False,residential,Creek Road,2491.585,,,,,,,,,,,12303683,
+111429128,111429136,0,False,residential,Stolle Road,1163.729,,,,,,,,,,,12294297,
+111429128,111407584,0,False,residential,Stolle Road,647.072,,,,,,,,,,,12294297,
+111429128,111271697,0,False,tertiary,Bullis Road,172.73,2,,,45 mph,,,,,,,50751313,CR 330
+111429136,111429140,0,False,residential,Stolle Road,345.689,,,,,,,,,,,12294297,
+111429136,111429128,0,False,residential,Stolle Road,1163.729,,,,,,,,,,,12294297,
+111429136,111587541,0,False,residential,Hidden Valley Drive,472.792,,,,,,,,,,,12312302,
+111429140,111429136,0,False,residential,Stolle Road,345.689,,,,,,,,,,,12294297,
+111429140,111429146,0,False,residential,Stolle Road,332.673,,,,,,,,,,,12294297,
+111429140,111558381,0,False,residential,Nanette Drive,451.534,,,,,,,,,,,12308881,
+111429146,111439721,0,False,secondary,Clinton Street,71.243,2,,,45 mph,,,,,,,12296897,NY 354
+111429146,111429140,0,False,residential,Stolle Road,332.673,,,,,,,,,,,12294297,
+111429146,111453037,0,False,secondary,Clinton Street,787.617,2,,,45 mph,,,,,,,12296897,NY 354
+111436951,111436998,0,False,residential,Pinewood Trail,508.376,,,,,,,,,,,12295026,
+111436951,111318027,0,False,secondary,Jamison Road,1031.224,,,,"['55 mph', '45 mph']",,,,,,,"[50751355, 117134501]",CR 574
+111436998,111436951,0,False,residential,Pinewood Trail,508.376,,,,,,,,,,,12295026,
+111439721,111429146,0,False,secondary,Clinton Street,71.243,2,,,45 mph,,,,,,,12296897,NY 354
+111439721,111439775,0,False,residential,Deer Crest Court,405.602,,,,,,,,,,,12295365,
+111439721,111453329,0,False,secondary,Clinton Street,1489.693,2,,,45 mph,,,yes,,,,"[12296897, 172596525, 172596526]",NY 354
+111439775,111439721,0,False,residential,Deer Crest Court,405.602,,,,,,,,,,,12295365,
+111440957,111477870,0,False,secondary,Bowen Road,418.325,2,,,45 mph,,,,,,,12299803,CR 242
+111440957,111477850,0,False,secondary,Bowen Road,218.072,2,,,45 mph,,,,,,,12299803,CR 242
+111440957,111440975,0,False,tertiary,Rice Road,886.708,,,,45 mph,,,,,,,138374088,CR 140
+111440975,111286401,0,False,residential,Highland Drive,301.516,,,,,,,,,,,12312134,
+111440975,111338677,0,False,tertiary,Rice Road,363.666,,,,45 mph,,,,,,,138374088,CR 140
+111440975,111440957,0,False,tertiary,Rice Road,886.708,,,,45 mph,,,,,,,138374088,CR 140
+111440989,111440991,0,False,residential,Rice Road,402.633,,,,,,,,,,,92342354,
+111440989,111563143,0,False,tertiary,Girdle Road,425.441,2,,,45 mph,,,,,,,17041471,CR 336
+111440989,111618883,0,False,tertiary,Girdle Road,475.05,2,,,45 mph,,,,,,,17041471,CR 336
+111440989,111406094,0,False,tertiary,Rice Road,417.116,,,,45 mph,,,,,,,138374088,CR 140
+111440991,111440994,0,False,residential,Rice Road,216.455,,,,,,,,,,,92342354,
+111440991,111440989,0,False,residential,Rice Road,402.633,,,,,,,,,,,92342354,
+111440991,111394046,0,False,residential,Fairway Drive,99.184,,,,,,,,,,,12303515,
+111440994,111440991,0,False,residential,Rice Road,216.455,,,,,,,,,,,92342354,
+111443125,111365411,0,False,residential,Colony Court,400.696,,,,,,,,,,,12295736,
+111453037,111313084,0,False,tertiary,Schwartz Road,980.202,2,,,45 mph,,,,,,,12280901,CR 337
+111453037,111429146,0,False,secondary,Clinton Street,787.617,2,,,45 mph,,,,,,,12296897,NY 354
+111453037,111577623,0,False,tertiary,Girdle Road,175.023,2,,,45 mph,,,,,,,50750762,CR 336
+111453037,111368861,0,False,secondary,Clinton Street,1751.92,2,,,45 mph,,,,,,,150153784,NY 354
+111453265,111453270,0,False,secondary,Clinton Street,869.988,2,,,45 mph,,,,,,,150153784,NY 354
+111453265,111358743,0,False,secondary,Bowen Road,549.649,2,,,40 mph,,,yes,,,,"[409890700, 409890717, 12299783]",CR 242
+111453270,111368861,0,False,secondary,Clinton Street,145.342,2,,,45 mph,,,,,,,150153784,NY 354
+111453270,111368861,1,False,residential,"['Midway Ln', 'Clinton Heights', 'Carol Lane']",1156.4,,,,,,,,,,,"[12287690, 12300454, 12320527]",
+111453270,111453265,0,False,secondary,Clinton Street,869.988,2,,,45 mph,,,,,,,150153784,NY 354
+111453329,111379637,0,False,tertiary,Town Line Road,161.011,2,,,,,,,,,,12306901,CR 335
+111453329,111439721,0,False,secondary,Clinton Street,1489.693,2,,,45 mph,,,yes,,,,"[12296897, 172596525, 172596526]",NY 354
+111457478,111457481,0,False,residential,Tiffany Lane,190.877,,,,,,,,,,,12297395,
+111457481,111457478,0,False,residential,Tiffany Lane,190.877,,,,,,,,,,,12297395,
+111457481,111457537,0,False,residential,Tiffany Lane,665.21,,,,,,,,,,,12297395,
+111457481,111484720,0,False,residential,Fernott Drive,484.76,,,,,,,,,,,12312516,
+111457537,111457481,0,False,residential,Tiffany Lane,665.21,,,,,,,,,,,12297395,
+111462698,111540682,0,False,tertiary,Town Line Road,193.593,2,,,,,,,,,,12306901,CR 335
+111477829,111477850,0,False,secondary,Bowen Road,1706.419,2,,,45 mph,,,,,,,12299803,CR 242
+111477829,111365052,0,False,secondary,Jamison Road,1167.883,,,,45 mph,,,,,,,95281578,CR 574
+111477850,111440957,0,False,secondary,Bowen Road,218.072,2,,,45 mph,,,,,,,12299803,CR 242
+111477850,111477829,0,False,secondary,Bowen Road,1706.419,2,,,45 mph,,,,,,,12299803,CR 242
+111477870,111440957,0,False,secondary,Bowen Road,418.325,2,,,45 mph,,,,,,,12299803,CR 242
+111483298,111401910,0,False,residential,Pleasantview Drive,71.06,,,,,,,,,,,12300288,
+111483298,111419365,0,False,residential,"['Tracy Drive', 'Pleasantview Drive']",461.673,,,,,,,,,,,"[12300288, 12293198]",
+111483298,111563934,0,False,residential,Summerdale Drive,332.184,,,,,,,,,,,12309483,
+111483418,111375134,0,False,residential,"['South Jerge Drive', 'East Jerge Drive', 'West Jerge Drive']",1044.608,,,,,,,,,,,"[12288482, 12291005, 12300319]",
+111483418,111510853,0,False,residential,Chairfactory Road,278.25,,,,35 mph,,,,,,,12309424,
+111483418,1358389979,0,False,residential,Chairfactory Road,991.383,,,,35 mph,,,,,,,12309424,
+111484720,111457481,0,False,residential,Fernott Drive,484.76,,,,,,,,,,,12312516,
+111484720,111540692,0,False,residential,Fernott Drive,358.288,,,,,,,,,,,12312516,
+111500653,111606010,0,False,residential,"['June Drive', 'May Drive', 'Woodside Drive']",1080.579,,,,,,,,,,,"[12302313, 12318188, 12297705]",
+111500653,111606010,1,False,tertiary,Bullis Road,387.055,2,,,45 mph,,,,,,,309904861,CR 330
+111503257,111503257,0,False,residential,Kettle Run,139.658,,,,,,,,,,,12302649,
+111503257,111503257,1,False,residential,Kettle Run,139.658,,,,,,,,,,,12302649,
+111503257,111318051,0,False,residential,Kettle Run,489.66,,,,,,,,,,,12302649,
+111505119,111505120,0,False,tertiary,West Blood Road,136.289,,,,45 mph,,,,,,,17041361,CR 528
+111505119,111568937,0,False,residential,Kalla Lane,683.591,,,,,,,,,,,12311755,
+111505119,111303379,0,False,tertiary,West Blood Road,730.562,,,,45 mph,,,yes,,,,"[17041361, 17041362, 12302878]",CR 528
+111505120,111505119,0,False,tertiary,West Blood Road,136.289,,,,45 mph,,,,,,,17041361,CR 528
+111505120,111568937,0,False,residential,Ostrander Road,280.004,,,,,,,,,,,12310088,
+111505120,111505166,0,False,tertiary,West Blood Road,1472.982,,,,45 mph,,,,,,,17041361,CR 528
+111505166,111505120,0,False,tertiary,West Blood Road,1472.982,,,,45 mph,,,,,,,17041361,CR 528
+111510081,111394046,0,False,residential,Fairway Drive,361.295,,,,,,,,,,,12303515,
+111510081,111394046,1,False,residential,Rolling Green Lane,761.048,,,,,,,,,,,12309419,
+111510081,111393956,0,False,residential,Rolling Green Lane,213.521,,,,,,,,,,,12309419,
+111510853,111510856,0,False,residential,Crimson Lane,255.084,,,,,,,,,,,12303598,
+111510853,111375134,0,False,residential,Chairfactory Road,29.675,,,,35 mph,,,,,,,12309424,
+111510853,111483418,0,False,residential,Chairfactory Road,278.25,,,,35 mph,,,,,,,12309424,
+111510856,111510859,0,False,residential,Crimson Lane,91.626,,,,,,,,,,,12303598,
+111510856,111510853,0,False,residential,Crimson Lane,255.084,,,,,,,,,,,12303598,
+111510856,111563362,0,False,residential,Treehaven Lane,417.219,,,,,,,,,,,12319389,
+111510859,111510856,0,False,residential,Crimson Lane,91.626,,,,,,,,,,,12303598,
+111516154,111425111,0,False,residential,Cookman Road,221.75,,,,,,,,,,,12304263,
+111529070,111401107,0,False,residential,Golfview Drive,266.457,,,,,,,,,,,12305700,
+111540682,111379637,0,False,tertiary,Town Line Road,546.524,2,,,,,,,,,,12306901,CR 335
+111540682,111462698,0,False,tertiary,Town Line Road,193.593,2,,,,,,,,,,12306901,CR 335
+111540692,111484720,0,False,residential,Fernott Drive,358.288,,,,,,,,,,,12312516,
+111546670,111546671,0,False,residential,Hickory Hill Drive,153.561,,,,,,,,,,,12307627,
+111546670,111571459,0,False,secondary,Jamison Road,292.442,,,,45 mph,,,,,,,50751356,CR 574
+111546670,111568970,0,False,secondary,Jamison Road,456.525,,,,45 mph,,,,,,,119699893,CR 574
+111546671,111546670,0,False,residential,Hickory Hill Drive,153.561,,,,,,,,,,,12307627,
+111546671,111351851,0,False,residential,"['Hickory Hill Drive', 'Hillside Drive']",721.055,,,,,,,,,,,"[12307627, 12285819]",
+111546671,111568972,0,False,residential,Valley View Drive,456.075,,,,,,,,,,,12320983,
+111558381,111429140,0,False,residential,Nanette Drive,451.534,,,,,,,,,,,12308881,
+111563143,111393956,0,False,residential,Rolling Green Lane,96.371,,,,,,,,,,,12309419,
+111563143,111391089,0,False,tertiary,Girdle Road,289.116,2,,,45 mph,,,,,,,17041471,CR 336
+111563143,111440989,0,False,tertiary,Girdle Road,425.441,2,,,45 mph,,,,,,,17041471,CR 336
+111563362,111375134,0,False,residential,Chairfactory Road,222.73,,,,35 mph,,,,,,,12309424,
+111563362,111563373,0,False,residential,Chairfactory Road,178.225,,,,35 mph,,,,,,,12309424,
+111563362,111510856,0,False,residential,Treehaven Lane,417.219,,,,,,,,,,,12319389,
+111563373,111563383,0,False,residential,Chairfactory Road,1162.823,,,,35 mph,,,,,,,12309424,
+111563373,111563362,0,False,residential,Chairfactory Road,178.225,,,,35 mph,,,,,,,12309424,
+111563373,111595212,0,False,residential,Timberline Drive,379.319,,,,,,,,,,,12313251,
+111563383,111563373,0,False,residential,Chairfactory Road,1162.823,,,,35 mph,,,,,,,12309424,
+111563383,111577623,0,False,tertiary,Girdle Road,710.558,2,,,45 mph,no,,yes,,,,"[50750762, 201168692, 50750764]",CR 336
+111563383,111606027,0,False,tertiary,Girdle Road,941.635,2,,,45 mph,,,,,,,201168692,CR 336
+111563934,111419365,0,False,tertiary,Girdle Road,144.444,,,,45 mph,,,,,,,171444533,CR 336
+111563934,111483298,0,False,residential,Summerdale Drive,332.184,,,,,,,,,,,12309483,
+111567569,111313084,0,False,residential,Hall Road,2500.849,,,,45 mph,,,,,,,12309921,
+111568937,111568970,0,False,residential,Ostrander Road,1031.974,,,,,,,,,,,12310088,
+111568937,111505120,0,False,residential,Ostrander Road,280.004,,,,,,,,,,,12310088,
+111568937,111505119,0,False,residential,Kalla Lane,683.591,,,,,,,,,,,12311755,
+111568970,111568972,0,False,residential,Ostrander Road,146.001,,,,,,,,,,,12310088,
+111568970,111546670,0,False,secondary,Jamison Road,456.525,,,,45 mph,,,,,,,119699893,CR 574
+111568970,111568937,0,False,residential,Ostrander Road,1031.974,,,,,,,,,,,12310088,
+111568970,111318027,0,False,secondary,Jamison Road,224.851,,,,45 mph,,,yes,,,,"[95281586, 50751355, 119699893]",CR 574
+111568972,111568970,0,False,residential,Ostrander Road,146.001,,,,,,,,,,,12310088,
+111568972,111351851,0,False,residential,Ostrander Road,270.957,,,,,,,,,,,12310088,
+111568972,111546671,0,False,residential,Valley View Drive,456.075,,,,,,,,,,,12320983,
+111571459,111546670,0,False,secondary,Jamison Road,292.442,,,,45 mph,,,,,,,50751356,CR 574
+111571459,111618883,0,False,tertiary,Girdle Road,1462.875,2,,,45 mph,,,,,,,17041471,CR 336
+111571459,111303379,0,False,tertiary,Girdle Road,1432.649,2,,,45 mph,,,yes,,,,"[12317719, 17041470, 17041471]",CR 336
+111571459,176832411,0,False,secondary,Jamison Road,1115.608,,,,45 mph,,,,,,,50751356,CR 574
+111571893,111577324,0,False,residential,Woodard Road,49.059,,,,,,,,,,,12318670,
+111571893,111571929,0,False,residential,Hilltop Drive,338.477,,,,,,,,,,,12310423,
+111571893,1118030627,0,False,residential,Woodard Road,332.216,,,,,,,,,,,12318670,
+111571929,111286403,0,False,residential,Hilltop Drive,499.82,,,,,,,,,,,12310423,
+111571929,111286403,1,False,residential,Hilltop Drive,432.342,,,,,,,,,,,12310429,
+111571929,111571893,0,False,residential,Hilltop Drive,338.477,,,,,,,,,,,12310423,
+111577324,111571893,0,False,residential,Woodard Road,49.059,,,,,,,,,,,12318670,
+111577324,111577339,0,False,residential,Dorris Drive,220.431,,,,,,,,,,,12311066,
+111577324,111338689,0,False,residential,Woodard Road,785.518,,,,,,,,,,,12318670,
+111577339,111577324,0,False,residential,Dorris Drive,220.431,,,,,,,,,,,12311066,
+111577623,1108459215,0,False,residential,Roycroft Parkway,645.844,,,,,,,,,,,12311114,
+111577623,111453037,0,False,tertiary,Girdle Road,175.023,2,,,45 mph,,,,,,,50750762,CR 336
+111577623,111563383,0,False,tertiary,Girdle Road,710.558,2,,,45 mph,no,,yes,,,,"[50750762, 50750764, 201168692]",CR 336
+111587541,111429136,0,False,residential,Hidden Valley Drive,472.792,,,,,,,,,,,12312302,
+111595212,111563373,0,False,residential,Timberline Drive,379.319,,,,,,,,,,,12313251,
+111606010,111500653,0,False,residential,"['Woodside Drive', 'May Drive', 'June Drive']",1080.579,,,,,,,,,,,"[12297705, 12318188, 12302313]",
+111606010,111500653,1,False,tertiary,Bullis Road,387.055,2,,,45 mph,,,,,,,309904861,CR 330
+111606010,111318140,0,False,tertiary,Bullis Road,1112.163,2,,,45 mph,,,,,,,309904861,CR 330
+111606027,111631823,0,False,tertiary,Girdle Road,218.854,2,,,45 mph,,,,,,,201168692,CR 336
+111606027,111563383,0,False,tertiary,Girdle Road,941.635,2,,,45 mph,,,,,,,201168692,CR 336
+111606027,111271690,0,False,tertiary,Bullis Road,280.654,2,,,45 mph,,,,,,,309904861,CR 330
+111606027,111318140,0,False,tertiary,Bullis Road,585.327,2,,,45 mph,,,,,,,309904861,CR 330
+111618883,111351851,0,False,residential,"['Griffin Lane', 'Ostrander Road']",1829.996,2,,,,,,,,,,"[12316104, 12310088]",
+111618883,111440989,0,False,tertiary,Girdle Road,475.05,2,,,45 mph,,,,,,,17041471,CR 336
+111618883,111571459,0,False,tertiary,Girdle Road,1462.875,2,,,45 mph,,,,,,,17041471,CR 336
+111626688,1118030627,0,False,residential,Oaknoll Court,604.475,,,,,,,,,,,12317105,
+111631823,111606027,0,False,tertiary,Girdle Road,218.854,2,,,45 mph,,,,,,,201168692,CR 336
+111631823,111391089,0,False,tertiary,Girdle Road,952.535,2,,,45 mph,,,,,,,17041471,CR 336
+111631823,111318133,0,False,residential,Woodard Road,618.737,,,,,,,,,,,201168695,
+111638434,111391111,0,False,residential,Huntington Court,93.696,,,,,,,,,,,12318651,
+176832411,111338677,0,False,residential,Schultz Road,2044.82,,,,,,,,,,,"[12284289, 201168694]",
+176832411,111571459,0,False,secondary,Jamison Road,1115.608,,,,45 mph,,,,,,,50751356,CR 574
+176832411,111365052,0,False,secondary,Jamison Road,223.755,,,,45 mph,,,,,,,"[95281569, 95281578, 50751356]",CR 574
+1108459215,111577623,0,False,residential,Roycroft Parkway,645.844,,,,,,,,,,,12311114,
+1118030597,1118030615,0,False,residential,Sawmill Ct,189.016,,,,,,,,,,,96507687,
+1118030597,1118030615,1,False,residential,Pond Brook Dr,74.342,,,,,,,,,,,96507688,
+1118030597,1118030825,0,False,residential,Pond Brook Dr,77.083,,,,,,,,,,,96507688,
+1118030615,1118030597,0,False,residential,Sawmill Ct,189.016,,,,,,,,,,,96507687,
+1118030615,1118030597,1,False,residential,Pond Brook Dr,74.342,,,,,,,,,,,96507688,
+1118030615,1118030807,0,False,residential,Pond Brook Dr,66.607,,,,,,,,,,,96507688,
+1118030627,111626688,0,False,residential,Oaknoll Court,604.475,,,,,,,,,,,12317105,
+1118030627,111571893,0,False,residential,Woodard Road,332.216,,,,,,,,,,,12318670,
+1118030633,1118030807,0,False,residential,Lees Landing,61.947,,,,,,,,,,,96507690,
+1118030645,111393999,0,False,residential,Hunter Court,152.62,,,,,,,,,,,12300781,
+1118030698,1118030825,0,False,residential,Pond Brook Dr,31.076,,,,,,,,,,,96507688,
+1118030698,1118030825,1,False,residential,Old Mill Ct,171.344,,,,,,,,,,,96507689,
+1118030751,111365048,0,False,unclassified,West Maple Court,239.017,,,,,,,,,,,12298400,
+1118030782,111391111,0,False,residential,Caroline Lane,523.799,,,,,,,,,,,12290296,
+1118030807,1118030633,0,False,residential,Lees Landing,61.947,,,,,,,,,,,96507690,
+1118030807,1118030615,0,False,residential,Pond Brook Dr,66.607,,,,,,,,,,,96507688,
+1118030825,1118030597,0,False,residential,Pond Brook Dr,77.083,,,,,,,,,,,96507688,
+1118030825,1118030698,0,False,residential,Pond Brook Dr,31.076,,,,,,,,,,,96507688,
+1118030825,1118030698,1,False,residential,Old Mill Ct,171.344,,,,,,,,,,,96507689,
+1199286121,4724202668,0,False,unclassified,,31.761,,,,,,,,,,,479292053,
+1257330075,111287812,0,False,tertiary,Maple Road,105.165,,,,40 mph,,,,,,,480210521,CR 241
+1257330075,1257330804,0,True,motorway_link,,150.151,,,,,,,,,,,13484498,
+1257330075,111296243,0,False,tertiary,Maple Road,204.549,,,,40 mph,,,,,,,"[480210522, 12287259]",CR 241
+1257330804,123931535,0,True,motorway_link,,244.054,,,,,,,,,,,"[103892953, 13484498]",
+1358389979,111483418,0,False,residential,Chairfactory Road,991.383,,,,35 mph,,,,,,,12309424,
+1358389979,111358743,0,False,secondary,Bowen Road,294.87,2,,,40 mph,,,yes,,,,"[12299783, 50750421, 96645519]",CR 242
+4579788316,4579788326,0,False,unclassified,,339.592,,,,,,,,,,,462600072,
+4579788326,4579788316,0,False,unclassified,,339.592,,,,,,,,,,,462600072,
+4724202633,4724202668,0,False,unclassified,,60.413,,,,,,,,,,,479292052,
+4724202638,4724202638,0,False,unclassified,,795.605,,,,,,,,,,,479292052,
+4724202638,4724202638,1,False,unclassified,,795.605,,,,,,,,,,,479292052,
+4724202638,4724202668,0,False,unclassified,,134.37,,,,,,,,,,,479292052,
+4724202668,4724202638,0,False,unclassified,,134.37,,,,,,,,,,,479292052,
+4724202668,4724202633,0,False,unclassified,,60.413,,,,,,,,,,,479292052,
+4724202668,1199286121,0,False,unclassified,,31.761,,,,,,,,,,,479292053,

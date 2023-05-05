@@ -1,0 +1,541 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+178728017,178728021,0,False,tertiary,Line Road,173.988,,,,,,,,,,,17237997,
+178728017,182781711,0,False,tertiary,"['Galestown-Reliance Road', 'Line Road']",1932.215,,,,,,,,,,,"[17648192, 17237997]",
+178728021,178728025,0,False,tertiary,Line Road,105.065,,,,,,,,,,,17237997,
+178728021,178728017,0,False,tertiary,Line Road,173.988,,,,,,,,,,,17237997,
+178728021,182733309,0,False,residential,Newhart Mill Road,1245.862,,,,,,,,,,,17644365,
+178728025,178728021,0,False,tertiary,Line Road,105.065,,,,,,,,,,,17237997,
+178728038,178728044,0,False,tertiary,Line Road,169.127,,,,,,,,,,,17237997,
+178728038,182663706,0,False,residential,,380.492,,,,,,,,,,,17637770,
+178728044,631345132,0,False,tertiary,Line Road,29.258,,,,,,,,,,,17237997,
+178728044,631345132,1,False,residential,,99.673,,,,,,,,,,,17630237,
+178728044,178728038,0,False,tertiary,Line Road,169.127,,,,,,,,,,,17237997,
+178728058,631345132,0,False,tertiary,Line Road,390.673,,,,,,,,,,,17237997,
+178728058,178728071,0,False,tertiary,Line Road,313.315,,,,,,,,,,,17237997,
+178728058,182531838,0,False,residential,,111.305,,,,,,,,,,,17626492,
+178728071,178728078,0,False,tertiary,Line Road,145.74,,,,,,,,,,,17237997,
+178728071,178728058,0,False,tertiary,Line Road,313.315,,,,,,,,,,,17237997,
+178728071,182531659,0,False,residential,,323.034,,,,,,,,,,,17626480,
+178728078,178728071,0,False,tertiary,Line Road,145.74,,,,,,,,,,,17237997,
+178728078,182531566,0,False,residential,,135.687,,,,,,,,,,,17626472,
+178728117,178728124,0,False,tertiary,Line Road,306.413,,,,,,,,,,,17237997,
+178728117,182686892,0,False,residential,,333.852,,,,,,,,,,,17639918,
+178728124,178728117,0,False,tertiary,Line Road,306.413,,,,,,,,,,,17237997,
+178728124,182570240,0,False,residential,,125.79,,,,,,,,,,,17638147,
+182216201,182690124,0,False,residential,,71.785,,,,,,,,,,,140846051,
+182524456,182524538,0,False,residential,Kraft Road,1980.378,,,,,,,,,,,17626047,
+182524456,182780686,0,False,residential,Centennial Road,1886.009,,,,,,,,,,,17648119,
+182524456,182739240,0,False,residential,Centennial Road,2760.39,,,,,,,,,,,17648119,
+182524538,182524456,0,False,residential,Kraft Road,1980.378,,,,,,,,,,,17626047,
+182524538,182571230,0,False,residential,Jones Thicket Road,245.597,,,,,,,,,,,"[17629189, 17646205]",
+182524538,182733719,0,False,secondary,Rhodesdale Vienna Road,876.415,,,,,,,,,,,45782239,MD 331
+182524538,182739240,0,False,secondary,Rhodesdale Vienna Road,2065.838,,,,,,,,,,,45782239,MD 331
+182524550,182524553,0,False,residential,Cardinal Avenue,161.5,,,,,,,,,,,17626048,
+182524550,182524553,1,False,residential,"['Oriole Drive', 'Red Crest Avenue', 'Flamingo Drive']",277.711,,,,,,,,,,,"[17643176, 17652777, 17653519]",
+182524550,182720518,0,False,residential,"['Falcon Drive', 'Flamingo Drive']",226.539,,,,,,,,,,,"[17643223, 17653519]",
+182524553,182524550,0,False,residential,Cardinal Avenue,161.5,,,,,,,,,,,17626048,
+182524553,182524550,1,False,residential,"['Flamingo Drive', 'Red Crest Avenue', 'Oriole Drive']",277.711,,,,,,,,,,,"[17643176, 17652777, 17653519]",
+182524553,182720518,0,False,residential,Oriole Drive,79.043,,,,,,,,,,,17643176,
+182524629,182524633,0,False,residential,Linden Lane,107.853,,,,,,,,,,,17626055,
+182524629,182759341,0,False,tertiary,Market Street,99.771,,,,,,,,,,,17653558,
+182524629,182776253,0,False,tertiary,Market Street,159.988,,,,,,,,,,,17653558,
+182524633,182524629,0,False,residential,Linden Lane,107.853,,,,,,,,,,,17626055,
+182524633,182524641,0,False,residential,Linden Lane,55.469,,,,,,,,,,,17626055,
+182524633,182776253,0,False,residential,"['Horseman Street', 'Church Street']",256.53,,,,,,,,,,,"[17653006, 17647567]",
+182524641,182524633,0,False,residential,Linden Lane,55.469,,,,,,,,,,,17626055,
+182524641,182524647,0,False,residential,Linden Lane,133.561,,,,,,,,,,,17626055,
+182524641,182703421,0,False,residential,Gay Street,77.484,,,,,,,,,,,17641667,
+182524641,182759349,0,False,residential,Gay Street,104.142,,,,,,,,,,,17641667,
+182524647,182524641,0,False,residential,Linden Lane,133.561,,,,,,,,,,,17626055,
+182524647,182524651,0,False,residential,Linden Lane,134.089,,,,,,,,,,,17626055,
+182524647,182724836,0,False,residential,Higgins Street,104.622,,,,,,,,,,,154806094,
+182524651,182524647,0,False,residential,Linden Lane,134.089,,,,,,,,,,,17626055,
+182524651,182524663,0,False,residential,Linden Lane,110.955,,,,,,,,,,,17626056,
+182524651,182544136,0,False,residential,Linden Lane,129.002,,,,,,,,,,,17626055,
+182524663,182524651,0,False,residential,Linden Lane,110.955,,,,,,,,,,,17626056,
+182524663,182731845,0,False,secondary,Ocean Gateway,22.762,,,,,,,,,,,65036402,
+182524663,796475835,0,False,secondary,Ocean Gateway,132.175,,,,,,,,,,,65036402,
+182524663,796475833,0,True,tertiary_link,,135.3,,,,,,,,,,,17648427,
+182531566,178728078,0,False,residential,,135.687,,,,,,,,,,,17626472,
+182531659,178728071,0,False,residential,,323.034,,,,,,,,,,,17626480,
+182531838,178728058,0,False,residential,,111.305,,,,,,,,,,,17626492,
+182537941,182590315,0,False,secondary,Rhodesdale Vienna Road,167.177,,,,,,,,,,,45782239,MD 331
+182537941,182639033,0,False,secondary,Rhodesdale Vienna Road,14.447,,,,,,,,,,,45782239,MD 331
+182537941,182537943,0,True,motorway_link,,69.387,,,,,,,,,,,154806106,
+182537943,182537986,0,True,motorway_link,,622.973,,,,,,,,,,,154806106,
+182537986,182732071,0,True,motorway,Ocean Gateway,1046.574,2,,,,,,,,,,28413055,US 50
+182541184,182541304,0,False,residential,,569.446,,,,,,,,,,,17627119,
+182541184,182789391,0,False,secondary,Rhodesdale Eldorado Road,433.77,,,,,,,,,,,17648891,MD 14
+182541184,182707457,0,False,secondary,"['Eldorado Road', 'Rhodesdale Eldorado Road']",482.117,2,,,,,,,,,,"[17653152, 17648861]",MD 14
+182541304,182541184,0,False,residential,,569.446,,,,,,,,,,,17627119,
+182544136,182524651,0,False,residential,Linden Lane,129.002,,,,,,,,,,,17626055,
+182544294,182731564,0,False,residential,Middle Street,109.355,,,,,,,,,,,17644208,
+182544294,182691109,0,False,tertiary,Ocean Gateway,94.495,,,,,,,,,,,65036462,
+182544294,796475168,0,False,tertiary,Ocean Gateway,114.775,,,,,,,,,,,65036462,
+182546123,182719730,0,False,unclassified,Indiantown Road,182.011,,,,,,,,,,,17643107,
+182547629,182639033,0,True,motorway_link,,93.383,,,,,,,,,,,154806105,
+182547629,796475163,0,True,motorway_link,,176.967,,,,,,,,,,,445131407,
+182547683,796475171,0,True,motorway_link,,428.833,,,,,,,,,,,154806108,
+182547838,182559801,0,False,residential,Mowbray Road,678.763,,,,,,,,,,,17646828,
+182549305,182549307,0,False,trunk_link,,16.324,,,,,,,,,,,17627654,
+182549305,182564311,0,True,trunk,Ocean Gateway,522.674,2,,,,,,,,,,115240835,US 50
+182549307,182549305,0,False,trunk_link,,16.324,,,,,,,,,,,17627654,
+182549307,182602085,0,True,trunk,Ocean Gateway,618.011,2,,,,,,,,,,154806099,US 50
+182551449,182720274,0,False,residential,Kraft Neck Road,4744.28,,,,,,,,,,,17643150,
+182551449,182738022,0,False,tertiary,Elliott Island Road,3164.655,,,,,,,,,,,372416192,
+182553175,182739209,0,False,residential,Maiden Forest Road,13.751,,,,,,,,,,,17646818,
+182553175,182672005,0,False,tertiary,Reids Grove Road,245.857,,,,,,,,,,,17644581,
+182553175,182759140,0,False,residential,Maiden Forest Road,1809.218,,,,,,,,,,,17646818,
+182553183,182739210,0,False,secondary,Rhodesdale Vienna Road,18.805,,,,,,,,,,,45782239,MD 331
+182553183,182553175,0,True,tertiary,,63.262,,,,,,,,,,,17627904,
+182553183,182739240,0,False,secondary,Rhodesdale Vienna Road,624.759,,,,,,,,,,,45782239,MD 331
+182556911,182715830,0,False,residential,Lakeshore Drive,135.137,,,,,,,,,,,17654100,
+182557444,182759496,0,False,residential,Vienna Back Street,134.745,,,,,,,,,,,17646569,
+182557444,182629153,0,False,residential,Vienna Back Street,138.063,,,,,,,,,,,17646569,
+182557444,182707600,0,False,residential,Harris Street,396.508,,,,,,,,,,,65038075,
+182559130,182724832,0,False,secondary,Ocean Gateway,115.703,,,,,,,,,,,65036402,
+182559130,182559145,0,False,secondary,Rhodesdale Vienna Road,124.135,,,,,,,,,,,65036470,
+182559130,182815947,0,False,unclassified,Gay Street,72.894,,,,,,,,,,,17652201,
+182559130,182731871,0,False,tertiary,Ocean Gateway,179.84,,,,,,,,,,,65036462,
+182559145,182559130,0,False,secondary,Rhodesdale Vienna Road,124.135,,,,,,,,,,,65036470,
+182559145,182559157,0,False,secondary,Rhodesdale Vienna Road,109.194,,,,,,,,,,,65036470,
+182559157,182629153,0,False,secondary,Rhodesdale Vienna Road,226.081,,,,,,,,,,,65036470,
+182559157,182559145,0,False,secondary,Rhodesdale Vienna Road,109.194,,,,,,,,,,,65036470,
+182559801,182547838,0,False,residential,Mowbray Road,678.763,,,,,,,,,,,17646828,
+182560622,182733783,0,False,residential,Lecompte Road,137.668,,,,,,,,,,,17644419,
+182564308,182564311,0,False,trunk_link,,16.429,,,,,,,,,,,17628667,
+182564308,182549307,0,True,trunk,Ocean Gateway,522.865,2,,,,,,,,,,154806099,US 50
+182564311,182564308,0,False,trunk_link,,16.429,,,,,,,,,,,17628667,
+182564710,182564712,0,False,secondary,Ocean Gateway,52.891,,,,,,,,,,,65036402,
+182564710,182686185,0,True,motorway,Ocean Gateway,994.832,2,,,,,,,,,,115240795,US 50
+182564710,1672793338,0,True,trunk_link,,44.526,1,,,,,,,,,,154806111,
+182564712,182728727,0,False,secondary,Ocean Gateway,171.129,,,,,,,,,,,65036402,
+182564712,182564710,0,False,secondary,Ocean Gateway,52.891,,,,,,,,,,,65036402,
+182568399,182741397,0,False,residential,Cokesbury Road,555.136,,,,,,,,,,,17645090,
+182568399,582984142,0,False,primary,"['Finchville Reliance Road', 'Finchville Road']",1082.726,2,,,,,,,,,,"[17652466, 17644623]",MD 392
+182568399,182735995,0,False,primary,"['Finchville Reliance Road', 'Finchville Road']",1661.66,2,,,,,,,,,,"[17652466, 17644613]",MD 392
+182569724,182769163,0,False,residential,Twelve Oaks Drive,115.766,,,,,,,,,,,17648011,
+182570240,178728124,0,False,residential,,125.79,,,,,,,,,,,17638147,
+182571230,182789391,0,False,residential,Kelly Road,2606.976,,,,,,,,,,,"[17653922, 17629189]",
+182571230,182524538,0,False,residential,Jones Thicket Road,245.597,,,,,,,,,,,"[17646205, 17629189]",
+182571230,182755313,0,False,residential,Jones Thicket Road,4938.151,,,,,,,,,,,17646227,
+182573281,182785539,0,False,residential,Davis Millpond Road,632.582,,,,,,,,,,,17648475,
+182578154,182559145,0,True,secondary_link,,24.962,,,,,,,,,,,17629771,
+182578154,182559157,0,True,tertiary_link,,107.536,,,,,,,,,,,17644901,
+182581705,182719807,0,False,residential,Indiantown Road,2011.496,,,,,,,,,,,17643117,
+182581705,182719473,0,False,residential,Walnut Landing Road,3223.573,,,,,,,,,,,"[17652621, 17652630]",
+182581705,182755313,0,False,residential,Reid Road,1789.733,,,,,,,,,,,17653387,
+182583398,796475160,0,False,secondary,Rhodesdale Vienna Road,153.685,,,,,,,,,,,45782239,MD 331
+182583398,182686165,0,False,secondary,Rhodesdale Vienna Road,15.27,,,,,,,,,,,45782239,MD 331
+182583398,182547683,0,True,motorway_link,,95.582,,,,,,,,,,,154806108,
+182590315,182592533,0,False,secondary,Rhodesdale Vienna Road,29.204,,,,,,,,,,,45782239,MD 331
+182590315,182537941,0,False,secondary,Rhodesdale Vienna Road,167.177,,,,,,,,,,,45782239,MD 331
+182590315,182537943,0,True,motorway_link,,199.164,,,,,,,,,,,154806113,
+182592533,182590315,0,False,secondary,Rhodesdale Vienna Road,29.204,,,,,,,,,,,45782239,MD 331
+182592533,182719807,0,False,"['residential', 'unclassified']",Indiantown Road,3710.854,,,,,,,,,,,"[17631144, 17643117]",
+182592533,182719730,0,False,secondary,Rhodesdale Vienna Road,336.42,,,,,,,,,,,45782239,MD 331
+182593034,182737750,0,False,residential,Steele Neck Road,121.823,,,,,,,,,,,17644784,
+182602085,182602087,0,False,trunk_link,,16.59,,,,,,,,,,,17632062,
+182602085,182659281,0,True,trunk,Ocean Gateway,502.546,2,,,,,,,,,,154806099,US 50
+182602087,182602085,0,False,trunk_link,,16.59,,,,,,,,,,,17632062,
+182602087,182549305,0,True,trunk,Ocean Gateway,618.405,2,,,,,,,,,,115240835,US 50
+182602545,182723810,0,False,residential,Contrary Road,2305.674,,,,,,,,,,,17643420,
+182602545,182738503,0,False,primary,Sharptown Road,1332.88,2,,,,,,,,,,17652755,MD 313
+182602545,182815257,0,False,primary,"['Eldorado Sharptown Road', 'Sharptown Road']",3509.134,2,,,,,,,,,,"[45781072, 17652755, 17648927]",MD 313
+182603476,182674487,0,False,residential,Contrary Road,56.37,,,,,,,,,,,17643422,
+182605749,182723810,0,False,residential,Lone Pine Road,1549.959,,,,,,,,,,,17654245,
+182611666,182823213,0,False,residential,Nanticoke Road,3008.315,,,,,,,,,,,17653513,
+182612681,182612682,0,False,residential,,28.646,,,,,,,,,,,17640336,
+182612682,182612681,0,False,residential,,28.646,,,,,,,,,,,17640336,
+182612712,182781286,0,False,residential,"['Thompsontown Road', 'Payne Mill Road']",328.531,,,,,,,,,,,"[17643261, 17648175]",
+182613849,182779197,0,False,residential,Bradford Road,473.879,,,,,,,,,,,17647988,
+182613849,182787047,0,False,primary,Eldorado Road,458.529,2,,,,,,,,,,48427332,MD 313
+182613849,182739639,0,False,primary,Eldorado Road,765.016,2,,,,,,,,,,48427332,MD 313
+182623916,182623968,0,False,residential,,59.735,,,,,,,,,,,17634153,
+182623968,182623916,0,False,residential,,59.735,,,,,,,,,,,17634153,
+182623968,182733375,0,False,"['residential', 'tertiary']","['Galestown-Newhart Mill Road', 'Galestown Nehart Mills Road']",753.364,,,,,,,,,,,"[17651882, 17646067]",
+182623968,182753662,0,False,residential,Galestown Nehart Mills Road,154.576,,,,,,,,,,,17646067,
+182625300,182792486,0,False,residential,Reid Road,306.686,,,,,,,,,,,17653408,
+182628621,182741142,0,False,residential,Fooks Mill Road,2177.67,,,,,,,,,,,17647251,
+182628621,182735953,0,False,residential,Church Home Road,713.075,,,,,,,,,,,17648419,
+182628621,182633871,0,False,residential,Church Home Road,1491.859,,,,,,,,,,,17648419,
+182629153,182557444,0,False,residential,Vienna Back Street,138.063,,,,,,,,,,,17646569,
+182629153,182686165,0,False,secondary,Rhodesdale Vienna Road,192.079,,,,,,,,,,,65036470,
+182629153,182559157,0,False,secondary,Rhodesdale Vienna Road,226.081,,,,,,,,,,,65036470,
+182633871,182748228,0,False,residential,Dog Kennel Road,2279.784,,,,,,,,,,,17648306,
+182633871,182628621,0,False,residential,Church Home Road,1491.859,,,,,,,,,,,17648419,
+182633871,182741089,0,False,residential,Church Home Road,724.546,,,,,,,,,,,17648419,
+182639033,182537941,0,False,secondary,Rhodesdale Vienna Road,14.447,,,,,,,,,,,45782239,MD 331
+182639033,796475163,0,False,secondary,Rhodesdale Vienna Road,135.163,,,,,,,,,,,45782239,MD 331
+182650222,182739639,0,False,residential,Shady Rest Lane,391.989,,,,,,,,,,,17644934,
+182659278,182659281,0,False,trunk_link,,15.992,,,,,,,,,,,154806103,
+182659278,182602087,0,True,trunk,Ocean Gateway,500.685,2,,,,,,,,,,115240835,US 50
+182659281,182659278,0,False,trunk_link,,15.992,,,,,,,,,,,154806103,
+182659281,1540146832,0,True,trunk,Ocean Gateway,585.783,2,,,,,,,,,,154806099,US 50
+182663706,178728038,0,False,residential,,380.492,,,,,,,,,,,17637770,
+182668635,182734418,0,False,secondary,Reliance Road,64.195,,,,,,,,,,,45780950,MD 577
+182668635,182734427,0,False,secondary,Reliance Road,92.956,,,,,,,,,,,45780950,MD 577
+182672005,182739209,0,False,secondary,Rhodesdale Vienna Road,223.864,,,,,,,,,,,45782239,MD 331
+182672005,182553175,0,False,tertiary,Reids Grove Road,245.857,,,,,,,,,,,17644581,
+182672005,182739189,0,False,secondary,Rhodesdale Vienna Road,1244.102,,,,,,,,,,,45782239,MD 331
+182672051,182742248,0,False,residential,Partridge Lane,179.552,,,,,,,,,,,17645156,
+182672051,182742248,1,False,residential,"['Whip-or-Will Drive', 'Mockingbird Lane', 'Canary Drive']",334.019,,,,,,,,,,,"[17654104, 17654141, 17654069]",
+182674487,182603476,0,False,residential,Contrary Road,56.37,,,,,,,,,,,17643422,
+182677783,182742264,0,False,residential,Whip-or-Will Drive,191.78,,,,,,,,,,,17654104,
+182686165,182583398,0,False,secondary,Rhodesdale Vienna Road,15.27,,,,,,,,,,,45782239,MD 331
+182686165,182629153,0,False,secondary,Rhodesdale Vienna Road,192.079,,,,,,,,,,,65036470,
+182686185,796475171,0,True,motorway,Ocean Gateway,742.878,2,,,,,,,,,,115240795,US 50
+182686185,182686165,0,True,motorway_link,,852.573,,,,,,,,,,,154806107,
+182686892,178728117,0,False,residential,,333.852,,,,,,,,,,,17639918,
+182690124,182690125,0,False,residential,,7.241,,,,,,,,,,,140846056,
+182690124,182216201,0,False,residential,,71.785,,,,,,,,,,,140846051,
+182690125,182690124,0,False,residential,,7.241,,,,,,,,,,,140846056,
+182691109,182544294,0,False,tertiary,Ocean Gateway,94.495,,,,,,,,,,,65036462,
+182700398,182719473,0,False,residential,Indiantown Road,3738.834,,,,,,,,,,,17643103,
+182700398,5332093483,0,False,unclassified,Brookview Street,73.156,,,,,,,,,,,17654278,
+182700398,182789321,0,False,unclassified,Brookview Street,255.747,,,,,,,,,,,17654278,
+182703421,182524641,0,False,residential,Gay Street,77.484,,,,,,,,,,,17641667,
+182707457,182789321,0,False,secondary,Rhodesdale Eldorado Road,72.318,2,,,,,,,,,,17648861,MD 14
+182707457,182707490,0,False,residential,,440.123,,,,,,,,,,,17642094,
+182707457,182541184,0,False,secondary,"['Eldorado Road', 'Rhodesdale Eldorado Road']",482.117,2,,,,,,,,,,"[17653152, 17648861]",MD 14
+182707490,182707457,0,False,residential,,440.123,,,,,,,,,,,17642094,
+182707600,796475833,0,False,tertiary,Old Route 50,19.279,,,,,,,,,,,17643939,
+182707600,182728583,0,False,tertiary,Old Route 50,131.955,,,,,,,,,,,17643939,
+182707600,182557444,0,False,residential,Harris Street,396.508,,,,,,,,,,,65038075,
+182715821,182715830,0,False,residential,Lake Shore Drive,182.053,,,,,,,,,,,17642840,
+182715821,182715849,0,False,tertiary,Galestown-Reliance Road,219.669,,,,,,,,,,,17648181,
+182715821,182733375,0,False,tertiary,Galestown-Reliance Road,252.971,,,,,,,,,,,17648181,
+182715830,182715821,0,False,residential,Lake Shore Drive,182.053,,,,,,,,,,,17642840,
+182715830,182715849,0,False,residential,Lake Shore Drive,72.731,,,,,,,,,,,17642842,
+182715830,182556911,0,False,residential,Lakeshore Drive,135.137,,,,,,,,,,,17654100,
+182715849,182715830,0,False,residential,Lake Shore Drive,72.731,,,,,,,,,,,17642842,
+182715849,182715821,0,False,tertiary,Galestown-Reliance Road,219.669,,,,,,,,,,,17648181,
+182715849,182781697,0,False,tertiary,"['Galestown Reliance Road', 'Galestown-Reliance Road']",1428.998,,,,,,,,,,,"[17648192, 17652468]",
+182719473,182700398,0,False,residential,Indiantown Road,3738.834,,,,,,,,,,,17643103,
+182719473,182581705,0,False,residential,Walnut Landing Road,3223.573,,,,,,,,,,,"[17652621, 17652630]",
+182719473,182755313,0,False,residential,Reid Road,83.923,,,,,,,,,,,17653387,
+182719730,182546123,0,False,unclassified,Indiantown Road,182.011,,,,,,,,,,,17643107,
+182719730,182739164,0,False,secondary,Rhodesdale Vienna Road,1636.535,,,,,,,,,,,45782239,MD 331
+182719730,182592533,0,False,secondary,Rhodesdale Vienna Road,336.42,,,,,,,,,,,45782239,MD 331
+182719807,182581705,0,False,residential,Indiantown Road,2011.496,,,,,,,,,,,17643117,
+182719807,182592533,0,False,"['residential', 'unclassified']",Indiantown Road,3710.854,,,,,,,,,,,"[17631144, 17643117]",
+182719807,182829925,0,False,residential,Reid Road,1115.645,,,,,,,,,,,"[17653394, 17653391]",
+182720274,182551449,0,False,residential,Kraft Neck Road,4744.28,,,,,,,,,,,17643150,
+182720274,182737750,0,False,residential,Steele Neck Road,1468.524,,,,,,,,,,,17644780,
+182720518,182720521,0,False,residential,Oriole Drive,31.373,,,,,,,,,,,17643169,
+182720518,182524553,0,False,residential,Oriole Drive,79.043,,,,,,,,,,,17643176,
+182720518,182524550,0,False,residential,"['Falcon Drive', 'Flamingo Drive']",226.539,,,,,,,,,,,"[17653519, 17643223]",
+182720521,182720529,0,False,residential,Oriole Drive,37.329,,,,,,,,,,,17643169,
+182720521,182720518,0,False,residential,Oriole Drive,31.373,,,,,,,,,,,17643169,
+182720521,182742264,0,False,residential,Partridge Lane,61.386,,,,,,,,,,,17645158,
+182720529,182720521,0,False,residential,Oriole Drive,37.329,,,,,,,,,,,17643169,
+182720529,182720529,0,False,residential,"['Meadowlark Drive', 'Raven Avenue', 'Flamingo Drive', 'Oriole Drive']",344.94,,,,,,,,,,,"[17644976, 17643169, 17653523, 17653971]",
+182720529,182720529,1,False,residential,"['Raven Avenue', 'Meadowlark Drive', 'Oriole Drive', 'Flamingo Drive']",344.94,,,,,,,,,,,"[17653523, 17643169, 17653971, 17644976]",
+182720846,182720996,0,False,residential,Oak Road,1047.031,,,,,,,,,,,17643207,
+182720846,182741160,0,False,residential,Lone Pine Road,1267.342,,,,,,,,,,,17654245,
+182720846,182723810,0,False,residential,Lone Pine Road,2091.477,,,,,,,,,,,17654245,
+182720996,182720846,0,False,residential,Oak Road,1047.031,,,,,,,,,,,17643207,
+182720996,182741089,0,False,residential,Cokesbury Road,446.495,,,,,,,,,,,17645090,
+182720996,182740825,0,False,residential,Cokesbury Road,3523.991,,,,,,,,,,,17645090,
+182721478,182721503,0,False,residential,Oak Grove Road,318.117,,,,,,,,,,,17643254,
+182721478,182785048,0,False,residential,Wheatley Road,261.867,,,,,,,,,,,17651900,
+182721478,182735953,0,False,residential,Wheatley Road,1325.579,,,,,,,,,,,17651900,
+182721503,182721478,0,False,residential,Oak Grove Road,318.117,,,,,,,,,,,17643254,
+182721503,182785048,0,False,residential,Davis Millpond Road,199.686,,,,,,,,,,,17648466,
+182723810,182602545,0,False,residential,Contrary Road,2305.674,,,,,,,,,,,17643420,
+182723810,182720846,0,False,residential,Lone Pine Road,2091.477,,,,,,,,,,,17654245,
+182723810,182605749,0,False,residential,Lone Pine Road,1549.959,,,,,,,,,,,17654245,
+182724793,182724826,0,False,residential,Holly Hill Road,55.172,,,,,,,,,,,17643486,
+182724793,182785539,0,False,primary,Eldorado Road,411.635,2,,,,,,,,,,48427332,MD 313
+182724826,182724793,0,False,residential,Holly Hill Road,55.172,,,,,,,,,,,17643486,
+182724832,1672792754,0,False,unclassified,Higgins Street,34.196,,,,,,,,,,,17643488,
+182724832,182559130,0,False,secondary,Ocean Gateway,115.703,,,,,,,,,,,65036402,
+182724832,182731845,0,False,secondary,Ocean Gateway,104.44,,,,,,,,,,,65036402,
+182724836,1672792754,0,False,residential,Race Street,3.646,,,,,,,,,,,17646549,
+182724836,182759349,0,False,residential,Race Street,132.563,,,,,,,,,,,17646549,
+182724836,182524647,0,False,residential,Higgins Street,104.622,,,,,,,,,,,154806094,
+182727811,182738714,0,False,residential,"['Wesley Road', 'Wesley Church Road']",3073.192,,,,,,,,,,,"[17645610, 17643763]",
+182727811,182787486,0,False,primary,Harrison Ferry Road,844.734,2,,,,,,,,,,91926334,MD 392
+182728583,182728597,0,False,tertiary,Old Route 50,285.581,,,,,,,,,,,17643939,
+182728583,182707600,0,False,tertiary,Old Route 50,131.955,,,,,,,,,,,17643939,
+182728583,182759496,0,False,residential,Church Street,395.261,,,,,,,,,,,17653012,
+182728597,182728583,0,False,tertiary,Old Route 50,285.581,,,,,,,,,,,17643939,
+182728597,182728727,0,False,tertiary,Old Route 50,1040.742,,,,,,,,,,,17643939,
+182728597,182759496,0,False,residential,Vienna Back Street,598.127,,,,,,,,,,,17646569,
+182728727,182728597,0,False,tertiary,Old Route 50,1040.742,,,,,,,,,,,17643939,
+182728727,796475835,0,False,secondary,Ocean Gateway,1438.513,,,,,,,,,,,65036402,
+182728727,182564712,0,False,secondary,Ocean Gateway,171.129,,,,,,,,,,,65036402,
+182731510,182731560,0,False,residential,Middle Street,265.259,,,,,,,,,,,17644208,
+182731510,182776253,0,False,tertiary,Elliott Island Road,132.02,,,,,,,,,,,372416192,
+182731510,182738022,0,False,tertiary,Elliott Island Road,1412.065,,,,,,,,,,,372416192,
+182731560,182731564,0,False,residential,Middle Street,259.043,,,,,,,,,,,17644208,
+182731560,182776253,0,False,residential,Church Street,120.049,,,,,,,,,,,17653006,
+182731560,182731510,0,False,residential,Middle Street,265.259,,,,,,,,,,,17644208,
+182731560,182759331,0,False,residential,"['Church Street', 'Water Street']",432.745,,,,,,,,,,,"[17653825, 17653006]",
+182731564,182731560,0,False,residential,Middle Street,259.043,,,,,,,,,,,17644208,
+182731564,182544294,0,False,residential,Middle Street,109.355,,,,,,,,,,,17644208,
+182731564,182759331,0,False,residential,Race Street,147.628,,,,,,,,,,,17646549,
+182731564,182759341,0,False,residential,Race Street,115.867,,,,,,,,,,,17646549,
+182731753,182564712,0,True,trunk_link,,351.988,,,,,,,,,,,17644241,
+182731753,182564710,0,True,trunk,Ocean Gateway,331.413,2,,,,,,,,,,154806099,US 50
+182731845,182724832,0,False,secondary,Ocean Gateway,104.44,,,,,,,,,,,65036402,
+182731845,182524663,0,False,secondary,Ocean Gateway,22.762,,,,,,,,,,,65036402,
+182731845,1672792754,0,False,residential,Race Street,108.107,,,,,,,,,,,17646549,
+182731871,796475168,0,False,tertiary,Ocean Gateway,22.87,,,,,,,,,,,65036462,
+182731871,182578154,0,True,tertiary_link,,243.162,,,,,,,,,,,17644901,
+182731871,182559130,0,False,tertiary,Ocean Gateway,179.84,,,,,,,,,,,65036462,
+182731990,182732000,0,True,motorway,Ocean Gateway,353.098,2,,,,,,,,,,28413152,US 50
+182732000,182732985,0,False,trunk_link,,15.899,,,,,,,,,,,154806102,
+182732000,796475162,0,True,motorway,Ocean Gateway,594.973,2,,,,,,yes,,,,"[28413152, 28413052]",US 50
+182732071,1672793338,0,True,trunk,Ocean Gateway,87.875,2,,,,,,,,,,115240835,US 50
+182732071,182564710,0,True,trunk_link,,54.883,1,,,,,,,,,,154806112,
+182732985,183433475,0,True,motorway,Ocean Gateway,352.221,2,,,,,,,,,,28413051,US 50
+182732985,182732000,0,False,trunk_link,,15.899,,,,,,,,,,,154806102,
+182733066,182733209,0,False,residential,Newhart Mill Road,2874.383,,,,,,,,,,,17644365,
+182733066,182815257,0,False,residential,Wheatley Church Road,271.309,,,,,,,,,,,17652141,
+182733066,182786462,0,False,residential,Wheatley Church Road,1235.436,,,,,,,,,,,17652141,
+182733209,182733232,0,False,residential,Newhart Mill Road,215.578,,,,,,,,,,,17644365,
+182733209,182733066,0,False,residential,Newhart Mill Road,2874.383,,,,,,,,,,,17644365,
+182733209,182753740,0,False,residential,"['Galestown Nehart Mill Road', 'Galestown Nehart Mills Road']",2592.4,,,,,,,,,,,"[17646080, 17646727]",
+182733232,182733309,0,False,residential,Newhart Mill Road,1408.603,,,,,,,,,,,17644365,
+182733232,182733209,0,False,residential,Newhart Mill Road,215.578,,,,,,,,,,,17644365,
+182733232,182781711,0,False,residential,Windsor Road,1720.845,,,,,,,,,,,17653281,
+182733309,178728021,0,False,residential,Newhart Mill Road,1245.862,,,,,,,,,,,17644365,
+182733309,182733232,0,False,residential,Newhart Mill Road,1408.603,,,,,,,,,,,17644365,
+182733309,182737021,0,False,residential,Allen Road,1687.707,,,,,,,,,,,17644698,
+182733375,182733387,0,False,residential,Old School House Road,278.215,,,,,,,,,,,17644371,
+182733375,182753740,0,False,residential,Galestown Nehart Mills Road,380.197,,,,,,,,,,,17646080,
+182733375,182715821,0,False,tertiary,Galestown-Reliance Road,252.971,,,,,,,,,,,17648181,
+182733375,182623968,0,False,"['residential', 'tertiary']","['Galestown-Newhart Mill Road', 'Galestown Nehart Mills Road']",753.364,,,,,,,,,,,"[17651882, 17646067]",
+182733387,182733375,0,False,residential,Old School House Road,278.215,,,,,,,,,,,17644371,
+182733719,182733783,0,False,residential,Lecompte Road,1286.67,,,,,,,,,,,17644412,
+182733719,182524538,0,False,secondary,Rhodesdale Vienna Road,876.415,,,,,,,,,,,45782239,MD 331
+182733783,182733719,0,False,residential,Lecompte Road,1286.67,,,,,,,,,,,17644412,
+182733783,182733811,0,False,residential,Lecompte Road,186.399,,,,,,,,,,,17644419,
+182733783,182560622,0,False,residential,Lecompte Road,137.668,,,,,,,,,,,17644419,
+182733811,182733878,0,False,residential,Lecompte Road,1105.337,,,,,,,,,,,17644419,
+182733811,182733783,0,False,residential,Lecompte Road,186.399,,,,,,,,,,,17644419,
+182733878,182733811,0,False,residential,Lecompte Road,1105.337,,,,,,,,,,,17644419,
+182734387,182785048,0,False,residential,"['Adams Road', 'Davis Millpond Road']",4047.673,,,,,,,,,,,"[17648466, 17653675]",
+182734418,182668635,0,False,secondary,Reliance Road,64.195,,,,,,,,,,,45780950,MD 577
+182734427,182668635,0,False,secondary,Reliance Road,92.956,,,,,,,,,,,45780950,MD 577
+182735817,182735885,0,False,primary,Finchville Reliance Road,721.441,2,,,,,,,,,,17644613,MD 392
+182735817,182786284,0,False,primary,Eldorado Road,1655.684,2,,,,,,,,,,48427332,MD 313
+182735817,182748228,0,False,primary,Eldorado Road,1519.918,2,,,,,,,,,,48427332,MD 313
+182735817,182787486,0,False,primary,Harrison Ferry Road,3064.243,2,,,,,,,,,,91926334,MD 392
+182735885,182735953,0,False,primary,Finchville Reliance Road,1499.423,2,,,,,,,,,,17644613,MD 392
+182735885,182735817,0,False,primary,Finchville Reliance Road,721.441,2,,,,,,,,,,17644613,MD 392
+182735885,182739608,0,False,residential,Bailey Store Road,1010.036,,,,,,,,,,,17653752,
+182735953,182735995,0,False,primary,Finchville Reliance Road,663.769,2,,,,,,,,,,17644613,MD 392
+182735953,182735885,0,False,primary,Finchville Reliance Road,1499.423,2,,,,,,,,,,17644613,MD 392
+182735953,182628621,0,False,residential,Church Home Road,713.075,,,,,,,,,,,17648419,
+182735953,182721478,0,False,residential,Wheatley Road,1325.579,,,,,,,,,,,17651900,
+182735995,182568399,0,False,primary,"['Finchville Reliance Road', 'Finchville Road']",1661.66,2,,,,,,,,,,"[17652466, 17644613]",MD 392
+182735995,182735953,0,False,primary,Finchville Reliance Road,663.769,2,,,,,,,,,,17644613,MD 392
+182735995,182741397,0,False,residential,Bethel Road,1572.077,,,,,,,,,,,17648205,
+182736185,182781711,0,False,tertiary,Galestown-Reliance Road,108.612,,,,,,,,,,,17648192,
+182736185,182781697,0,False,tertiary,Galestown-Reliance Road,383.388,,,,,,,,,,,17648192,
+182737021,182733309,0,False,residential,Allen Road,1687.707,,,,,,,,,,,17644698,
+182737021,182741394,0,False,residential,Cokesbury Road,1929.596,,,,,,,,,,,17645090,
+182737021,182741160,0,False,residential,Cokesbury Road,536.237,,,,,,,,,,,17645090,
+182737750,182593034,0,False,residential,Steele Neck Road,121.823,,,,,,,,,,,17644784,
+182737750,182738022,0,False,residential,Steele Neck Road,5394.231,,,,,,,,,,,17644780,
+182737750,182720274,0,False,residential,Steele Neck Road,1468.524,,,,,,,,,,,17644780,
+182738022,182737750,0,False,residential,Steele Neck Road,5394.231,,,,,,,,,,,17644780,
+182738022,182731510,0,False,tertiary,Elliott Island Road,1412.065,,,,,,,,,,,372416192,
+182738022,182551449,0,False,tertiary,Elliott Island Road,3164.655,,,,,,,,,,,372416192,
+182738503,182738714,0,False,residential,Puckum Road,4025.805,,,,,,,,,,,17644836,
+182738503,182602545,0,False,primary,Sharptown Road,1332.88,2,,,,,,,,,,17652755,MD 313
+182738503,182789321,0,False,secondary,"['Eldorado Road', 'Rhodesdale Eldorado Road']",1336.106,2,,,,,,yes,,,,"[17648861, 17653222, 48427279]",MD 14
+182738503,182740825,0,False,primary,Eldorado Road,680.521,2,,,,,,,,,,48427332,MD 313
+182738714,182738503,0,False,residential,Puckum Road,4025.805,,,,,,,,,,,17644836,
+182738714,182748228,0,False,residential,Wesley Church Road,2088.904,,,,,,,,,,,17645610,
+182738714,182727811,0,False,residential,"['Wesley Road', 'Wesley Church Road']",3073.192,,,,,,,,,,,"[17645610, 17643763]",
+182739164,182759140,0,False,unclassified,Maiden Branch Road,2405.726,,,,,,,,,,,17646528,
+182739164,182739189,0,False,secondary,Rhodesdale Vienna Road,587.428,,,,,,,,,,,45782239,MD 331
+182739164,182719730,0,False,secondary,Rhodesdale Vienna Road,1636.535,,,,,,,,,,,45782239,MD 331
+182739189,182672005,0,False,secondary,Rhodesdale Vienna Road,1244.102,,,,,,,,,,,45782239,MD 331
+182739189,182739164,0,False,secondary,Rhodesdale Vienna Road,587.428,,,,,,,,,,,45782239,MD 331
+182739189,182792486,0,False,unclassified,Chicone Road,2678.439,,,,,,,,,,,"[450257466, 450257467, 17649172]",
+182739209,182553175,0,False,residential,Maiden Forest Road,13.751,,,,,,,,,,,17646818,
+182739209,182739210,0,False,secondary,Rhodesdale Vienna Road,42.982,,,,,,,,,,,45782239,MD 331
+182739209,182672005,0,False,secondary,Rhodesdale Vienna Road,223.864,,,,,,,,,,,45782239,MD 331
+182739210,182553183,0,False,secondary,Rhodesdale Vienna Road,18.805,,,,,,,,,,,45782239,MD 331
+182739210,182739209,0,False,secondary,Rhodesdale Vienna Road,42.982,,,,,,,,,,,45782239,MD 331
+182739210,182792486,0,False,residential,Reid Road,1943.423,,,,,,,,,,,17653408,
+182739240,182524456,0,False,residential,Centennial Road,2760.39,,,,,,,,,,,17648119,
+182739240,182524538,0,False,secondary,Rhodesdale Vienna Road,2065.838,,,,,,,,,,,45782239,MD 331
+182739240,182553183,0,False,secondary,Rhodesdale Vienna Road,624.759,,,,,,,,,,,45782239,MD 331
+182739608,182739628,0,False,residential,Lavern Lane,300.802,,,,,,,,,,,17644929,
+182739608,182814151,0,False,residential,Bailey Store Road,569.119,,,,,,,,,,,17653752,
+182739608,182735885,0,False,residential,Bailey Store Road,1010.036,,,,,,,,,,,17653752,
+182739628,182739608,0,False,residential,Lavern Lane,300.802,,,,,,,,,,,17644929,
+182739639,182650222,0,False,residential,Shady Rest Lane,391.989,,,,,,,,,,,17644934,
+182739639,182613849,0,False,primary,Eldorado Road,765.016,2,,,,,,,,,,48427332,MD 313
+182739639,182786284,0,False,primary,Eldorado Road,72.469,2,,,,,,,,,,48427332,MD 313
+182740825,182720996,0,False,residential,Cokesbury Road,3523.991,,,,,,,,,,,17645090,
+182740825,182748228,0,False,primary,Eldorado Road,3426.216,2,,,,,,,,,,48427332,MD 313
+182740825,182738503,0,False,primary,Eldorado Road,680.521,2,,,,,,,,,,48427332,MD 313
+182741089,182741142,0,False,residential,Cokesbury Road,897.909,,,,,,,,,,,17645090,
+182741089,182720996,0,False,residential,Cokesbury Road,446.495,,,,,,,,,,,17645090,
+182741089,182633871,0,False,residential,Church Home Road,724.546,,,,,,,,,,,17648419,
+182741142,182741160,0,False,residential,Cokesbury Road,139.83,,,,,,,,,,,17645090,
+182741142,182741089,0,False,residential,Cokesbury Road,897.909,,,,,,,,,,,17645090,
+182741142,182628621,0,False,residential,Fooks Mill Road,2177.67,,,,,,,,,,,17647251,
+182741160,182737021,0,False,residential,Cokesbury Road,536.237,,,,,,,,,,,17645090,
+182741160,182741142,0,False,residential,Cokesbury Road,139.83,,,,,,,,,,,17645090,
+182741160,182720846,0,False,residential,Lone Pine Road,1267.342,,,,,,,,,,,17654245,
+182741394,182741397,0,False,residential,Cokesbury Road,68.736,,,,,,,,,,,17645090,
+182741394,182737021,0,False,residential,Cokesbury Road,1929.596,,,,,,,,,,,17645090,
+182741394,182781907,0,False,residential,Bethel Road,127.134,,,,,,,,,,,17648209,
+182741397,182741394,0,False,residential,Cokesbury Road,68.736,,,,,,,,,,,17645090,
+182741397,182568399,0,False,residential,Cokesbury Road,555.136,,,,,,,,,,,17645090,
+182741397,182735995,0,False,residential,Bethel Road,1572.077,,,,,,,,,,,17648205,
+182742248,182742264,0,False,residential,Whip-or-Will Drive,37.821,,,,,,,,,,,17654104,
+182742248,182672051,0,False,residential,Partridge Lane,179.552,,,,,,,,,,,17645156,
+182742248,182672051,1,False,residential,"['Whip-or-Will Drive', 'Canary Drive', 'Mockingbird Lane']",334.019,,,,,,,,,,,"[17654104, 17654069, 17654141]",
+182742264,182720521,0,False,residential,Partridge Lane,61.386,,,,,,,,,,,17645158,
+182742264,182742248,0,False,residential,Whip-or-Will Drive,37.821,,,,,,,,,,,17654104,
+182742264,182677783,0,False,residential,Whip-or-Will Drive,191.78,,,,,,,,,,,17654104,
+182748228,182738714,0,False,residential,Wesley Church Road,2088.904,,,,,,,,,,,17645610,
+182748228,182633871,0,False,residential,Dog Kennel Road,2279.784,,,,,,,,,,,17648306,
+182748228,182735817,0,False,primary,Eldorado Road,1519.918,2,,,,,,,,,,48427332,MD 313
+182748228,182740825,0,False,primary,Eldorado Road,3426.216,2,,,,,,,,,,48427332,MD 313
+182753662,182623968,0,False,residential,Galestown Nehart Mills Road,154.576,,,,,,,,,,,17646067,
+182753662,182812620,0,False,tertiary,Galestown-Newhart Mill Road,1244.641,,,,,,,,,,,17646069,
+182753662,182786462,0,False,residential,Eskridge Road,1336.519,,,,,,,,,,,17648608,
+182753662,182814144,0,False,residential,"['Eskridge Road', 'Callaway Wharf Road']",554.786,,,,,,,,,,,"[17648608, 17652045]",
+182753740,182733209,0,False,residential,"['Galestown Nehart Mill Road', 'Galestown Nehart Mills Road']",2592.4,,,,,,,,,,,"[17646080, 17646727]",
+182753740,182733375,0,False,residential,Galestown Nehart Mills Road,380.197,,,,,,,,,,,17646080,
+182753740,182786462,0,False,residential,Wheatley Church Road,790.161,,,,,,,,,,,17652141,
+182755313,182571230,0,False,residential,Jones Thicket Road,4938.151,,,,,,,,,,,17646227,
+182755313,182719473,0,False,residential,Reid Road,83.923,,,,,,,,,,,17653387,
+182755313,182581705,0,False,residential,Reid Road,1789.733,,,,,,,,,,,17653387,
+182756099,182789391,0,False,secondary,Rhodesdale Eldorado Road,2543.288,,,,,,,,,,,17648891,MD 14
+182759140,182739164,0,False,unclassified,Maiden Branch Road,2405.726,,,,,,,,,,,17646528,
+182759140,182761959,0,False,residential,Maiden Forest Road,3129.431,,,,,,,,,,,17646818,
+182759140,182553175,0,False,residential,Maiden Forest Road,1809.218,,,,,,,,,,,17646818,
+182759331,182731564,0,False,residential,Race Street,147.628,,,,,,,,,,,17646549,
+182759331,2149853402,0,False,residential,Race Street,31.126,,,,,,,,,,,360747860,
+182759331,182731560,0,False,residential,"['Church Street', 'Water Street']",432.745,,,,,,,,,,,"[17653825, 17653006]",
+182759341,182815947,0,False,residential,Race Street,160.073,,,,,,,,,,,17646549,
+182759341,796475168,0,False,tertiary,Market Street,100.487,,,,,,,,,,,17653558,
+182759341,182524629,0,False,tertiary,Market Street,99.771,,,,,,,,,,,17653558,
+182759341,182731564,0,False,residential,Race Street,115.867,,,,,,,,,,,17646549,
+182759349,182524641,0,False,residential,Gay Street,104.142,,,,,,,,,,,17641667,
+182759349,182724836,0,False,residential,Race Street,132.563,,,,,,,,,,,17646549,
+182759349,182815947,0,False,residential,Race Street,6.84,,,,,,,,,,,17646549,
+182759496,182728597,0,False,residential,Vienna Back Street,598.127,,,,,,,,,,,17646569,
+182759496,182557444,0,False,residential,Vienna Back Street,134.745,,,,,,,,,,,17646569,
+182759496,182728583,0,False,residential,Church Street,395.261,,,,,,,,,,,17653012,
+182759846,182760139,0,False,residential,Hawkeye Road,4797.175,,,,,,,,,,,17646640,
+182759846,182761959,0,False,residential,Maiden Forest Road,620.481,,,,,,,,,,,17646779,
+182760139,182759846,0,False,residential,Hawkeye Road,4797.175,,,,,,,,,,,17646640,
+182760139,182781286,0,False,residential,Thompsontown Road,485.162,,,,,,,,,,,17648175,
+182761959,182759846,0,False,residential,Maiden Forest Road,620.481,,,,,,,,,,,17646779,
+182761959,182759140,0,False,residential,Maiden Forest Road,3129.431,,,,,,,,,,,17646818,
+182761959,182780686,0,False,residential,Johnson Road,3054.153,,,,,,,,,,,17651721,
+182769163,182769232,0,False,residential,Scarlett Lane,192.692,,,,,,,,,,,17647252,
+182769163,182569724,0,False,residential,Twelve Oaks Drive,115.766,,,,,,,,,,,17648011,
+182769163,182779472,0,False,residential,Twelve Oaks Drive,324.617,,,,,,,,,,,17648011,
+182769232,182769163,0,False,residential,Scarlett Lane,192.692,,,,,,,,,,,17647252,
+182776253,182731560,0,False,residential,Church Street,120.049,,,,,,,,,,,17653006,
+182776253,182524629,0,False,tertiary,Market Street,159.988,,,,,,,,,,,17653558,
+182776253,182524633,0,False,residential,"['Church Street', 'Horseman Street']",256.53,,,,,,,,,,,"[17653006, 17647567]",
+182776253,182731510,0,False,tertiary,Elliott Island Road,132.02,,,,,,,,,,,372416192,
+182779197,182613849,0,False,residential,Bradford Road,473.879,,,,,,,,,,,17647988,
+182779197,182827845,0,False,residential,Bailey Store Road,756.64,,,,,,,,,,,17653752,
+182779197,182814151,0,False,residential,Bailey Store Road,1082.382,,,,,,,,,,,17653752,
+182779472,182769163,0,False,residential,Twelve Oaks Drive,324.617,,,,,,,,,,,17648011,
+182779472,182787486,0,False,residential,North Tara Road,2287.315,,,,,,,,,,,17648733,
+182779472,182787047,0,False,residential,North Tara Road,3373.625,,,,,,,,,,,17648733,
+182780686,182524456,0,False,residential,Centennial Road,1886.009,,,,,,,,,,,17648119,
+182780686,182761959,0,False,residential,Johnson Road,3054.153,,,,,,,,,,,17651721,
+182781286,182760139,0,False,residential,Thompsontown Road,485.162,,,,,,,,,,,17648175,
+182781286,182612712,0,False,residential,"['Thompsontown Road', 'Payne Mill Road']",328.531,,,,,,,,,,,"[17643261, 17648175]",
+182781697,182736185,0,False,tertiary,Galestown-Reliance Road,383.388,,,,,,,,,,,17648192,
+182781697,182715849,0,False,tertiary,"['Galestown-Reliance Road', 'Galestown Reliance Road']",1428.998,,,,,,,,,,,"[17648192, 17652468]",
+182781697,182831387,0,False,residential,Greenview Court,135.077,,,,,,,,,,,17653528,
+182781711,182736185,0,False,tertiary,Galestown-Reliance Road,108.612,,,,,,,,,,,17648192,
+182781711,178728017,0,False,tertiary,"['Galestown-Reliance Road', 'Line Road']",1932.215,,,,,,,,,,,"[17648192, 17237997]",
+182781711,182733232,0,False,residential,Windsor Road,1720.845,,,,,,,,,,,17653281,
+182781907,182741394,0,False,residential,Bethel Road,127.134,,,,,,,,,,,17648209,
+182785048,182734387,0,False,residential,"['Adams Road', 'Davis Millpond Road']",4047.673,,,,,,,,,,,"[17648466, 17653675]",
+182785048,182721503,0,False,residential,Davis Millpond Road,199.686,,,,,,,,,,,17648466,
+182785048,182721478,0,False,residential,Wheatley Road,261.867,,,,,,,,,,,17651900,
+182785539,182573281,0,False,residential,Davis Millpond Road,632.582,,,,,,,,,,,17648475,
+182785539,182724793,0,False,primary,Eldorado Road,411.635,2,,,,,,,,,,48427332,MD 313
+182785539,182827845,0,False,primary,Eldorado Road,218.18,2,,,,,,,,,,48427332,MD 313
+182786284,182786317,0,False,residential,Maple Drive,229.427,,,,,,,,,,,17648577,
+182786284,182739639,0,False,primary,Eldorado Road,72.469,2,,,,,,,,,,48427332,MD 313
+182786284,182735817,0,False,primary,Eldorado Road,1655.684,2,,,,,,,,,,48427332,MD 313
+182786317,182786284,0,False,residential,Maple Drive,229.427,,,,,,,,,,,17648577,
+182786462,182753662,0,False,residential,Eskridge Road,1336.519,,,,,,,,,,,17648608,
+182786462,182733066,0,False,residential,Wheatley Church Road,1235.436,,,,,,,,,,,17652141,
+182786462,182753740,0,False,residential,Wheatley Church Road,790.161,,,,,,,,,,,17652141,
+182787047,182779472,0,False,residential,North Tara Road,3373.625,,,,,,,,,,,17648733,
+182787047,182827845,0,False,primary,Eldorado Road,576.819,2,,,,,,,,,,48427332,MD 313
+182787047,182613849,0,False,primary,Eldorado Road,458.529,2,,,,,,,,,,48427332,MD 313
+182787486,182779472,0,False,residential,North Tara Road,2287.315,,,,,,,,,,,17648733,
+182787486,182735817,0,False,primary,Harrison Ferry Road,3064.243,2,,,,,,,,,,91926334,MD 392
+182787486,182727811,0,False,primary,Harrison Ferry Road,844.734,2,,,,,,,,,,91926334,MD 392
+182789321,182707457,0,False,secondary,Rhodesdale Eldorado Road,72.318,2,,,,,,,,,,17648861,MD 14
+182789321,182738503,0,False,secondary,"['Eldorado Road', 'Rhodesdale Eldorado Road']",1336.106,2,,,,,,yes,,,,"[17648861, 17653222, 48427279]",MD 14
+182789321,182700398,0,False,unclassified,Brookview Street,255.747,,,,,,,,,,,17654278,
+182789391,182756099,0,False,secondary,Rhodesdale Eldorado Road,2543.288,,,,,,,,,,,17648891,MD 14
+182789391,182541184,0,False,secondary,Rhodesdale Eldorado Road,433.77,,,,,,,,,,,17648891,MD 14
+182789391,182571230,0,False,residential,Kelly Road,2606.976,,,,,,,,,,,"[17653922, 17629189]",
+182792486,182739189,0,False,unclassified,Chicone Road,2678.439,,,,,,,,,,,"[450257466, 450257467, 17649172]",
+182792486,182739210,0,False,residential,Reid Road,1943.423,,,,,,,,,,,17653408,
+182792486,182625300,0,False,residential,Reid Road,306.686,,,,,,,,,,,17653408,
+182812620,182753662,0,False,tertiary,Galestown-Newhart Mill Road,1244.641,,,,,,,,,,,17646069,
+182812620,182823213,0,False,primary,Sharptown Road,232.137,2,,,,,,,,,,45781072,MD 313
+182814144,182753662,0,False,residential,"['Eskridge Road', 'Callaway Wharf Road']",554.786,,,,,,,,,,,"[17648608, 17652045]",
+182814151,182814211,0,False,residential,Bailey Store Lane,346.353,,,,,,,,,,,17652049,
+182814151,182779197,0,False,residential,Bailey Store Road,1082.382,,,,,,,,,,,17653752,
+182814151,182739608,0,False,residential,Bailey Store Road,569.119,,,,,,,,,,,17653752,
+182814211,182814151,0,False,residential,Bailey Store Lane,346.353,,,,,,,,,,,17652049,
+182815257,182733066,0,False,residential,Wheatley Church Road,271.309,,,,,,,,,,,17652141,
+182815257,182602545,0,False,primary,"['Eldorado Sharptown Road', 'Sharptown Road']",3509.134,2,,,,,,,,,,"[45781072, 17652755, 17648927]",MD 313
+182815257,182823213,0,False,primary,Sharptown Road,1875.918,2,,,,,,,,,,45781072,MD 313
+182815947,182759349,0,False,residential,Race Street,6.84,,,,,,,,,,,17646549,
+182815947,182759341,0,False,residential,Race Street,160.073,,,,,,,,,,,17646549,
+182815947,182559130,0,False,unclassified,Gay Street,72.894,,,,,,,,,,,17652201,
+182823213,182611666,0,False,residential,Nanticoke Road,3008.315,,,,,,,,,,,17653513,
+182823213,182815257,0,False,primary,Sharptown Road,1875.918,2,,,,,,,,,,45781072,MD 313
+182823213,182812620,0,False,primary,Sharptown Road,232.137,2,,,,,,,,,,45781072,MD 313
+182827845,182779197,0,False,residential,Bailey Store Road,756.64,,,,,,,,,,,17653752,
+182827845,182785539,0,False,primary,Eldorado Road,218.18,2,,,,,,,,,,48427332,MD 313
+182827845,182787047,0,False,primary,Eldorado Road,576.819,2,,,,,,,,,,48427332,MD 313
+182829925,182719807,0,False,residential,Reid Road,1115.645,,,,,,,,,,,"[17653394, 17653391]",
+182831387,182781697,0,False,residential,Greenview Court,135.077,,,,,,,,,,,17653528,
+582984142,182568399,0,False,primary,"['Finchville Reliance Road', 'Finchville Road']",1082.726,2,,,,,,,,,,"[17652466, 17644623]",MD 392
+631345132,178728058,0,False,tertiary,Line Road,390.673,,,,,,,,,,,17237997,
+631345132,178728044,0,False,tertiary,Line Road,29.258,,,,,,,,,,,17237997,
+631345132,178728044,1,False,residential,,99.673,,,,,,,,,,,17630237,
+796475160,796475163,0,False,secondary,Rhodesdale Vienna Road,67.634,,,,,,,,,,,45782239,MD 331
+796475160,182583398,0,False,secondary,Rhodesdale Vienna Road,153.685,,,,,,,,,,,45782239,MD 331
+796475160,182547683,0,True,motorway_link,,197.861,,,,,,,,,,,65036411,
+796475162,182537986,0,True,motorway,Ocean Gateway,634.834,2,,,,,,,,,,28413055,US 50
+796475162,182547629,0,True,motorway_link,,370.378,,,,,,,,,,,65036415,
+796475163,182639033,0,False,secondary,Rhodesdale Vienna Road,135.163,,,,,,,,,,,45782239,MD 331
+796475163,796475160,0,False,secondary,Rhodesdale Vienna Road,67.634,,,,,,,,,,,45782239,MD 331
+796475168,182759341,0,False,tertiary,Market Street,100.487,,,,,,,,,,,17653558,
+796475168,182544294,0,False,tertiary,Ocean Gateway,114.775,,,,,,,,,,,65036462,
+796475168,182731871,0,False,tertiary,Ocean Gateway,22.87,,,,,,,,,,,65036462,
+796475171,182732985,0,True,motorway,Ocean Gateway,583.312,2,,,,,,yes,,,,"[28413056, 28413051]",US 50
+796475833,182707600,0,False,tertiary,Old Route 50,19.279,,,,,,,,,,,17643939,
+796475833,796475835,0,False,tertiary,Old Route 50,28.94,,,,,,,,,,,17643939,
+796475835,182524663,0,False,secondary,Ocean Gateway,132.175,,,,,,,,,,,65036402,
+796475835,796475833,0,False,tertiary,Old Route 50,28.94,,,,,,,,,,,17643939,
+796475835,182728727,0,False,secondary,Ocean Gateway,1438.513,,,,,,,,,,,65036402,
+1540146829,1540146832,0,False,trunk_link,,16.581,,,,,,,,,,,140592208,
+1540146829,182659278,0,True,trunk,Ocean Gateway,585.96,2,,,,,,,,,,115240835,US 50
+1540146832,1540146829,0,False,trunk_link,,16.581,,,,,,,,,,,140592208,
+1540146832,182731753,0,True,trunk,Ocean Gateway,552.115,2,,,,,,,,,,154806099,US 50
+1672792754,182724832,0,False,unclassified,Higgins Street,34.196,,,,,,,,,,,17643488,
+1672792754,182724836,0,False,residential,Race Street,3.646,,,,,,,,,,,17646549,
+1672792754,182731845,0,False,residential,Race Street,108.107,,,,,,,,,,,17646549,
+1672793338,1540146829,0,True,trunk,Ocean Gateway,839.557,2,,,,,,,,,,115240835,US 50
+2149853402,182759331,0,False,residential,Race Street,31.126,,,,,,,,,,,360747860,
+5332093483,182700398,0,False,unclassified,Brookview Street,73.156,,,,,,,,,,,17654278,

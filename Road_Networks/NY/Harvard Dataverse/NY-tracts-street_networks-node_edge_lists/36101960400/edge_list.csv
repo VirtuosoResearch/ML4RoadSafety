@@ -1,0 +1,784 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+120043534,120043550,0,False,residential,County Road 121,50.858,,,,,,,,,,,13046022,
+120043534,121788920,0,False,residential,South Church Road,1391.506,,,,,,,,,,,13208069,
+120043534,120043582,0,False,residential,South Church Road,40.517,,,,,,,,,,,13208069,
+120043550,120043534,0,False,residential,County Road 121,50.858,,,,,,,,,,,13046022,
+120043550,120043755,0,False,tertiary,County Route 121,553.299,,,,,,,,,,,13046093,
+120043550,120043582,0,False,tertiary,County Route 121,38.603,,,,,,,,,,,13046093,
+120043571,120043582,0,False,tertiary,County Route 121,558.0,,,,,,,,,,,13046093,
+120043571,120251471,0,False,residential,Ward Road,343.641,,,,,,,,,,,13165383,
+120043571,120296307,0,False,secondary,State Highway 21,672.23,,,,,,,,,,,67901400,NY 21
+120043571,121229832,0,False,secondary,State Highway 21,521.904,,,,,,,,,,,67901400,NY 21
+120043582,120043550,0,False,tertiary,County Route 121,38.603,,,,,,,,,,,13046093,
+120043582,120043571,0,False,tertiary,County Route 121,558.0,,,,,,,,,,,13046093,
+120043582,120043534,0,False,residential,South Church Road,40.517,,,,,,,,,,,13208069,
+120043755,120043550,0,False,tertiary,County Route 121,553.299,,,,,,,,,,,13046093,
+120043755,121653455,0,False,residential,East Lake Road,1276.443,,,,,,,,,,,13194181,
+120055576,120055616,0,False,residential,,33.301,,,,,,,,,,,13046856,
+120055576,120649687,0,False,residential,Cold Springs Road,149.801,,,,,,,,,,,13203260,
+120055576,120649627,0,False,residential,Cold Springs Road,786.264,,,,,,,,,,,13203260,
+120055616,120649687,0,False,secondary,State Highway 415,150.026,,,,,,,,,,,13105322,NY 415
+120055616,120055576,0,False,residential,,33.301,,,,,,,,,,,13046856,
+120055616,120649627,0,False,secondary,State Highway 415,733.756,,,,,,,,,,,13105322,NY 415
+120067467,120067467,0,False,residential,,109.006,,,,,,,,,,,13048664,
+120067467,120067467,1,False,residential,,109.006,,,,,,,,,,,13048664,
+120073067,120073225,0,False,residential,,1077.43,,,,,,,,,,,13048790,
+120073067,120383869,0,False,residential,Drum Road,2101.88,,,,,,,,,,,13201109,
+120073225,120073067,0,False,residential,,1077.43,,,,,,,,,,,13048790,
+120082905,120082926,0,False,residential,,53.963,,,,,,,,,,,13049820,
+120082905,121220583,0,False,secondary,State Highway 21,74.695,,,,,,,,,,,13194926,NY 21
+120082905,121001146,0,False,secondary,"['East Naples Street', 'State Highway 21']",427.752,,,,,,,,,,,"[13153182, 13194926]",NY 21
+120082926,120082995,0,False,residential,,238.424,,,,,,,,,,,13049820,
+120082926,120082905,0,False,residential,,53.963,,,,,,,,,,,13049820,
+120082926,120122329,0,False,residential,,117.24,,,,,,,,,,,13053964,
+120082995,120082926,0,False,residential,,238.424,,,,,,,,,,,13049820,
+120089126,120380721,0,False,secondary,,260.026,,,,,,,,,,,67901374,NY 15; NY 21
+120089126,120089157,0,False,residential,,226.784,,,,,,,,,,,13050391,
+120089126,120380670,0,False,secondary,,375.151,,,,,,,,,,,67901374,NY 15; NY 21
+120089157,120089126,0,False,residential,,226.784,,,,,,,,,,,13050391,
+120091297,120405539,0,False,residential,Kiesel Road,1971.165,,,,,,,,,,,"[13081640, 13050599]",
+120099360,120570726,0,False,residential,"['New Gayland Road', 'Davis Road']",210.726,,,,,,,,,,,"[13099098, 13080203]",
+120102904,120102935,0,False,residential,,168.308,,,,,,,,,,,13051775,
+120102904,120102956,0,False,residential,Sawdust Road,120.177,,,,,,,,,,,13152850,
+120102935,120102904,0,False,residential,,168.308,,,,,,,,,,,13051775,
+120102956,120103011,0,False,residential,,156.208,,,,,,,,,,,13051783,
+120102956,121220314,0,False,residential,Sawdust Road,412.435,,,,,,,,,,,13152850,
+120102956,120102904,0,False,residential,Sawdust Road,120.177,,,,,,,,,,,13152850,
+120103011,120102956,0,False,residential,,156.208,,,,,,,,,,,13051783,
+120111831,120267975,0,False,secondary,State Highway 63,32.22,,,,,,,,,,,13112282,NY 63
+120111831,120149446,0,False,secondary,State Highway 63,24.673,,,,,,,,,,,13112282,NY 63
+120111831,120111845,0,False,residential,,126.799,,,,,,,,,,,13052790,
+120111845,120111831,0,False,residential,,126.799,,,,,,,,,,,13052790,
+120111845,120111845,0,False,residential,,237.399,,,,,,,,,,,13055607,
+120111845,120111845,1,False,residential,,237.399,,,,,,,,,,,13055607,
+120122329,120082926,0,False,residential,,117.24,,,,,,,,,,,13053964,
+120122459,120122531,0,True,motorway_link,,509.068,,,,,,,,,,,13053976,
+120122459,120122591,0,True,motorway,Genesee Expressway,905.341,2,,,65 mph,,,yes,,,,"[67901396, 174478526, 174478519]",I 390
+120122531,120206339,0,False,secondary,,117.786,,,,,,,,,,,13079757,NY 15; NY 21
+120122531,120380644,0,False,secondary,,141.653,,,,,,,,,,,67901374,NY 15; NY 21
+120122531,120122591,0,True,motorway_link,,416.011,,,,,,,,,,,38653851,
+120124907,120432528,0,False,residential,Lincoln Street,18.034,,,,,,,,,,,13098101,
+120124907,120124919,0,False,residential,,27.963,,,,,,,,,,,13054218,
+120124907,120491545,0,False,residential,Lincoln Street,228.291,,,,,,,,,,,13098101,
+120124919,120432528,0,False,residential,Charles Street,23.753,,,,,,,,,,,13083851,
+120124919,120124907,0,False,residential,,27.963,,,,,,,,,,,13054218,
+120124919,120432481,0,False,residential,Charles Street,604.194,,,,,,,,,,,13083851,
+120135621,120135635,0,False,residential,,17.95,,,,,,,,,,,13055510,
+120135621,120385371,0,False,residential,Davis Road,18.387,,,,,,,,,,,13080090,
+120135621,120385438,0,False,residential,Davis Road,104.101,,,,,,,,,,,13080090,
+120135635,120135621,0,False,residential,,17.95,,,,,,,,,,,13055510,
+120136405,120149302,0,False,residential,,13.466,,,,,,,,,,,13056627,
+120136948,120136948,0,False,residential,,79.163,,,,,,,,,,,13055622,
+120136948,120136948,1,False,residential,,79.163,,,,,,,,,,,13055622,
+120136948,121315015,0,False,residential,Woodham Road,491.693,,,,,,,,,,,13162234,
+120140892,120384391,0,False,residential,Yocum Road,3767.565,,,,,,,,,,,"[13056001, 13179753]",
+120140919,120140941,0,False,residential,,85.601,,,,,,,,,,,13056006,
+120140919,120384499,0,False,residential,Laf A Lot Road,724.041,,,,,,,,,,,13153321,
+120140919,121224362,0,False,residential,Laf A Lot Road,129.257,,,,,,,,,,,13153321,
+120140941,120140973,0,False,residential,,48.804,,,,,,,,,,,13056006,
+120140941,120140919,0,False,residential,,85.601,,,,,,,,,,,13056006,
+120140941,120251364,0,False,residential,,77.173,,,,,,,,,,,13068473,
+120140973,120140941,0,False,residential,,48.804,,,,,,,,,,,13056006,
+120144944,120145058,0,False,residential,,159.596,,,,,,,,,,,13056333,
+120144944,120376662,0,False,residential,Pfaff Hollow Road,111.1,,,,,,,,,,,13157521,
+120144944,120600378,0,False,residential,Pfaff Hollow Road,633.354,,,,,,,,,,,13157521,
+120145058,120144944,0,False,residential,,159.596,,,,,,,,,,,13056333,
+120149302,120136405,0,False,residential,,13.466,,,,,,,,,,,13056627,
+120149302,120149327,0,False,residential,,63.173,,,,,,,,,,,13056627,
+120149302,120215716,0,False,residential,,255.816,,,,,,,,,,,13065362,
+120149327,120149302,0,False,residential,,63.173,,,,,,,,,,,13056627,
+120149327,120822344,0,False,residential,Pleasantside Drive,95.33,,,,,,,,,,,13118113,
+120149327,121457181,0,False,secondary,West Naples Street,103.521,,,,,,,,,,,13175555,NY 63
+120149327,120267975,0,False,secondary,"['West Naples Street', 'State Highway 63']",313.631,,,,,,,,,,,"[13112282, 13175555]",NY 63
+120149446,120149455,0,False,residential,,57.792,,,,,,,,,,,13056636,
+120149446,120111831,0,False,secondary,State Highway 63,24.673,,,,,,,,,,,13112282,NY 63
+120149446,120215606,0,False,secondary,State Highway 63,57.437,,,,,,,,,,,13112282,NY 63
+120149455,120149446,0,False,residential,,57.792,,,,,,,,,,,13056636,
+120149455,120215716,0,False,residential,,90.698,,,,,,,,,,,13065362,
+120149455,120149483,0,False,residential,,104.425,,,,,,,,,,,13056636,
+120149483,120149455,0,False,residential,,104.425,,,,,,,,,,,13056636,
+120149483,120149483,0,False,residential,,97.559,,,,,,,,,,,13057802,
+120149483,120149483,1,False,residential,,97.559,,,,,,,,,,,13057802,
+120150455,120150586,0,False,residential,,928.977,,,,,,,,,,,13056726,
+120150455,120380670,0,False,residential,Reigelsperger Road,772.911,,,,,,,,,,,13150976,
+120150455,120650594,0,False,residential,Reigelsperger Road,319.879,,,,,,,,,,,13150976,
+120150586,120150455,0,False,residential,,928.977,,,,,,,,,,,13056726,
+120161077,120161086,0,False,residential,,189.319,,,,,,,,,,,13057488,
+120161077,121220583,0,False,residential,Sawdust Road,1433.176,,,,,,,,,,,13152850,
+120161077,120405539,0,False,residential,Sawdust Road,59.704,,,,,,,,,,,13152850,
+120161086,120161095,0,False,residential,,44.492,,,,,,,,,,,13057488,
+120161086,120161077,0,False,residential,,189.319,,,,,,,,,,,13057488,
+120161086,120161119,0,False,residential,,124.426,,,,,,,,,,,13057489,
+120161095,120161086,0,False,residential,,44.492,,,,,,,,,,,13057488,
+120161119,120161086,0,False,residential,,124.426,,,,,,,,,,,13057489,
+120161234,120161277,0,False,residential,,176.351,,,,,,,,,,,13057500,
+120161234,120754057,0,False,residential,Dieter Road,163.756,,,,,,,,,,,13149944,
+120161234,120900900,0,False,residential,Dieter Road,448.511,,,,,,,,,,,13149944,
+120161277,120161234,0,False,residential,,176.351,,,,,,,,,,,13057500,
+120161298,120161439,0,False,residential,,336.703,,,,,,,,,,,13057509,
+120161298,120215606,0,False,secondary,State Highway 63,462.93,,,,,,,,,,,13112282,NY 63
+120161298,120754057,0,False,secondary,State Highway 63,138.196,,,,,,,,,,,13112282,NY 63
+120161439,120161298,0,False,residential,,336.703,,,,,,,,,,,13057509,
+120173232,120173238,0,False,residential,,157.358,,,,,,,,,,,13058798,
+120173232,120600177,0,False,residential,McCurdy Road,683.982,,,,,,,,,,,13101441,
+120173232,120599478,0,False,residential,"['McCurdy Road', 'Perkinsville Rogersville Road']",549.836,,,,,,,,,,,"[13101441, 13145277]",
+120173238,120173232,0,False,residential,,157.358,,,,,,,,,,,13058798,
+120180930,120180953,0,False,residential,,141.437,,,,,,,,,,,13059814,
+120180930,120181080,0,False,residential,Narrows Road,154.432,,,,,,,,,,,13101956,
+120180930,120364498,0,False,residential,Narrows Road,786.222,,,,,,,,,,,13101956,
+120180953,120180982,0,False,residential,,117.785,,,,,,,,,,,13059814,
+120180953,120180930,0,False,residential,,141.437,,,,,,,,,,,13059814,
+120180953,120181080,0,False,residential,,133.341,,,,,,,,,,,13059830,
+120180982,120180953,0,False,residential,,117.785,,,,,,,,,,,13059814,
+120181080,120180953,0,False,residential,,133.341,,,,,,,,,,,13059830,
+120181080,120606637,0,False,residential,Narrows Road,422.83,,,,,,,,,,,13101956,
+120181080,120180930,0,False,residential,Narrows Road,154.432,,,,,,,,,,,13101956,
+120181226,120181242,0,False,residential,,351.789,,,,,,,,,,,13059854,
+120181226,120181289,0,False,residential,Isaman Road,672.708,,,,,,,,,,,13137197,
+120181226,121058527,0,False,residential,Isaman Road,188.444,,,,,,,,,,,13137197,
+120181242,120181226,0,False,residential,,351.789,,,,,,,,,,,13059854,
+120181289,120181293,0,False,residential,,155.107,,,,,,,,,,,13059868,
+120181289,120235837,0,False,residential,Isaman Road,688.206,,,,,,,,,,,13137197,
+120181289,120181226,0,False,residential,Isaman Road,672.708,,,,,,,,,,,13137197,
+120181293,120181289,0,False,residential,,155.107,,,,,,,,,,,13059868,
+120185086,120263911,0,False,residential,,125.044,,,,,,,,,,,"[13060481, 13069668]",
+120189448,120965613,0,False,residential,Reservoir Road,183.313,,,,,,,,,,,13129131,
+120189448,120189696,0,False,residential,,920.726,,,,,,,,,,,13061258,
+120189448,120694758,0,False,residential,Reservoir Road,1757.588,,,,,,,,,,,13129131,
+120189696,120189448,0,False,residential,,920.726,,,,,,,,,,,13061258,
+120197301,120365070,0,False,residential,Walter Kurtz Road,114.197,,,,,,,,,,,13078692,
+120197301,120197376,0,False,residential,,228.317,,,,,,,,,,,13062609,
+120197376,120197301,0,False,residential,,228.317,,,,,,,,,,,13062609,
+120200453,120200559,0,False,residential,,996.689,,,,,,,,,,,13063168,
+120200453,120384340,0,False,tertiary,County Route 92,1451.752,,,,,,,,,,,13080025,CR 92
+120200453,120383869,0,False,tertiary,County Route 92,1878.484,,,,,,,,,,,13080025,CR 92
+120200559,120200453,0,False,residential,,996.689,,,,,,,,,,,13063168,
+120206276,120206339,0,True,motorway_link,,489.056,,,,,,,,,,,13064191,
+120206276,120206383,0,True,motorway,Genesee Expressway,901.859,2,,,65 mph,,,yes,,,,"[38653848, 38653849, 38653855]",I 390
+120206339,120122531,0,False,secondary,,117.786,,,,,,,,,,,13079757,NY 15; NY 21
+120206339,120206383,0,True,motorway_link,,404.592,,,,,,,,,,,38653850,
+120206339,120377225,0,False,secondary,State Highway 21,1195.603,,,,,,,,,,,67901400,NY 21
+120208128,121778988,0,False,residential,Gunlocke Park,1245.051,,,,,,,,,,,"[13064442, 13205619]",
+120208128,120380721,0,False,residential,South Lackawanna Avenue,126.449,,,,,,,,,,,13193519,
+120208128,120870215,0,False,residential,South Lackawanna Avenue,171.008,,,,,,,,,,,13193535,
+120209688,120209755,0,False,residential,,581.482,,,,,,,,,,,13064671,
+120209688,120376282,0,False,tertiary,County Route 90,521.893,,,,,,,,,,,13079493,
+120209755,120209688,0,False,residential,,581.482,,,,,,,,,,,13064671,
+120213110,120213175,0,False,residential,,147.804,,,,,,,,,,,13065075,
+120213110,120213175,1,False,tertiary,County Route 91,104.101,,,,,,,,,,,13142411,
+120213110,120827446,0,False,tertiary,County Route 91,337.858,,,,,,,,,,,13142411,
+120213175,120213110,0,False,residential,,147.804,,,,,,,,,,,13065075,
+120213175,120213110,1,False,tertiary,County Route 91,104.101,,,,,,,,,,,13142411,
+120213175,120376437,0,False,tertiary,County Route 91,34.54,,,,,,,,,,,13142411,
+120215606,120149446,0,False,secondary,State Highway 63,57.437,,,,,,,,,,,13112282,NY 63
+120215606,120215636,0,False,residential,,220.027,,,,,,,,,,,13065355,
+120215606,120161298,0,False,secondary,State Highway 63,462.93,,,,,,,,,,,13112282,NY 63
+120215636,120215606,0,False,residential,,220.027,,,,,,,,,,,13065355,
+120215659,120215668,0,False,residential,,26.077,,,,,,,,,,,13065360,
+120215659,120543977,0,False,residential,"['Mendoline Road', 'Mendoleine Road']",814.029,,,,,,,,,,,"[13100596, 13150655]",
+120215659,121200900,0,False,residential,Mendoleine Road,1015.055,,,,,,,,,,,13150655,
+120215668,120215659,0,False,residential,,26.077,,,,,,,,,,,13065360,
+120215716,120149455,0,False,residential,,90.698,,,,,,,,,,,13065362,
+120215716,120149302,0,False,residential,,255.816,,,,,,,,,,,13065362,
+120215716,120267975,0,False,residential,,68.642,,,,,,,,,,,13070070,
+120222475,120222532,0,False,residential,,534.459,,,,,,,,,,,13065992,
+120222532,120870215,0,False,residential,South Lackawanna Avenue,156.212,,,,,,,,,,,13193535,
+120222532,120222475,0,False,residential,,534.459,,,,,,,,,,,13065992,
+120222532,121645544,0,False,residential,South Lackawanna Avenue,215.873,,,,,,,,,,,13193535,
+120229832,120229857,0,False,residential,,469.842,,,,,,,,,,,13066640,
+120229832,120376378,0,False,tertiary,County Route 90,340.321,,,,,,,,,,,13079493,
+120229832,120376282,0,False,tertiary,County Route 90,484.718,,,,,,,,,,,13079493,
+120229857,120229832,0,False,residential,,469.842,,,,,,,,,,,13066640,
+120235837,120235844,0,False,residential,,197.674,,,,,,,,,,,13067151,
+120235837,120376996,0,False,residential,Isaman Road,1197.487,,,,,,,,,,,13137197,
+120235837,120181289,0,False,residential,Isaman Road,688.206,,,,,,,,,,,13137197,
+120235844,120235837,0,False,residential,,197.674,,,,,,,,,,,13067151,
+120235872,120235883,0,False,residential,,30.971,,,,,,,,,,,13067154,
+120235872,120235872,0,False,residential,,290.447,,,,,,,,,,,13068674,
+120235872,120235872,1,False,residential,,290.447,,,,,,,,,,,13068674,
+120235883,120235872,0,False,residential,,30.971,,,,,,,,,,,13067154,
+120235883,121654327,0,False,residential,Ellinger Road,35.17,,,,,,,,,,,13197517,
+120235883,121690767,0,False,residential,Ellinger Road,293.053,,,,,,,,,,,13197517,
+120235977,120235995,0,False,residential,,126.037,,,,,,,,,,,13067164,
+120235977,120377225,0,False,tertiary,County Route 90,459.988,,,,,,,,,,,13079493,
+120235977,120376996,0,False,tertiary,County Route 90,1349.936,,,,,,,,,,,13079493,
+120235995,120235977,0,False,residential,,126.037,,,,,,,,,,,13067164,
+120236009,120236041,0,False,residential,,189.419,,,,,,,,,,,13067169,
+120236009,121170527,0,False,residential,Quanz Road,967.253,,,,,,,,,,,13184173,
+120236009,120377225,0,False,residential,Quanz Road,474.969,,,,,,,,,,,13184173,
+120236041,120236009,0,False,residential,,189.419,,,,,,,,,,,13067169,
+120237039,120694758,0,False,secondary,State Highway 63,218.261,,,,,,,,,,,13112282,NY 63
+120237039,120237086,0,False,residential,,322.698,,,,,,,,,,,13067254,
+120237039,120489392,0,False,secondary,State Highway 63,237.063,,,,,,,,,,,13112282,NY 63
+120237086,120237039,0,False,residential,,322.698,,,,,,,,,,,13067254,
+120237214,120237271,0,False,residential,,299.001,,,,,,,,,,,13067264,
+120237214,121200900,0,False,residential,Mendoleine Road,165.357,,,,,,,,,,,13150655,
+120237214,120263911,0,False,residential,Mendoleine Road,501.958,,,,,,,,,,,13150655,
+120237271,120237214,0,False,residential,,299.001,,,,,,,,,,,13067264,
+120251321,120251337,0,False,residential,,131.756,,,,,,,,,,,13068471,
+120251321,120384592,0,False,residential,Linwood Point Road,507.584,,,,,,,,,,,13210726,
+120251321,120384534,0,False,residential,Linwood Point Road,139.764,,,,,,,,,,,13210726,
+120251337,120251321,0,False,residential,,131.756,,,,,,,,,,,13068471,
+120251364,120140941,0,False,residential,,77.173,,,,,,,,,,,13068473,
+120251471,120251520,0,False,residential,,175.728,,,,,,,,,,,13068488,
+120251471,120043571,0,False,residential,Ward Road,343.641,,,,,,,,,,,13165383,
+120251520,120251471,0,False,residential,,175.728,,,,,,,,,,,13068488,
+120263911,120185086,0,False,residential,,125.044,,,,,,,,,,,"[13060481, 13069668]",
+120263911,120237214,0,False,residential,Mendoleine Road,501.958,,,,,,,,,,,13150655,
+120263911,120837140,0,False,residential,Mendoleine Road,332.703,,,,,,,,,,,13150655,
+120267975,120111831,0,False,secondary,State Highway 63,32.22,,,,,,,,,,,13112282,NY 63
+120267975,120215716,0,False,residential,,68.642,,,,,,,,,,,13070070,
+120267975,120149327,0,False,secondary,"['West Naples Street', 'State Highway 63']",313.631,,,,,,,,,,,"[13112282, 13175555]",NY 63
+120273970,120273986,0,False,residential,,179.33,,,,,,,,,,,13070701,
+120273970,120753796,0,False,residential,Deiter Road,402.015,,,,,,,,,,,13123973,
+120273970,120900900,0,False,residential,Deiter Road,627.634,,,,,,,,,,,13123973,
+120273986,120273970,0,False,residential,,179.33,,,,,,,,,,,13070701,
+120273986,120754008,0,False,secondary,State Highway 63,716.015,,,,,,,,,,,13112282,NY 63
+120273986,120753796,0,False,secondary,State Highway 63,401.089,,,,,,,,,,,13112282,NY 63
+120283491,120283520,0,False,residential,,130.295,,,,,,,,,,,13071662,
+120283491,120283520,1,False,residential,,191.749,,,,,,,,,,,13071662,
+120283491,120827446,0,False,residential,Gun Club Highway,362.412,,,,,,,,,,,13118464,
+120283520,120283491,0,False,residential,,191.749,,,,,,,,,,,13071662,
+120283520,120283491,1,False,residential,,130.295,,,,,,,,,,,13071662,
+120283520,120283536,0,False,residential,,62.724,,,,,,,,,,,13071662,
+120283536,120283520,0,False,residential,,62.724,,,,,,,,,,,13071662,
+120283688,120283699,0,False,residential,,114.411,,,,,,,,,,,13071679,
+120283699,120283688,0,False,residential,,114.411,,,,,,,,,,,13071679,
+120283699,121669033,0,False,residential,Campbell Road,595.011,,,,,,,,,,,13195752,
+120288776,120288798,0,False,residential,,203.75,,,,,,,,,,,13072293,
+120288776,121230379,0,False,secondary,State Highway 21,1193.452,,,,,,,,,,,13194926,NY 21
+120288798,120288776,0,False,residential,,203.75,,,,,,,,,,,13072293,
+120288839,120288845,0,False,residential,,242.803,,,,,,,,,,,13072300,
+120288839,120606637,0,False,residential,Emo Road,719.66,,,,,,,,,,,13189254,
+120288845,120288839,0,False,residential,,242.803,,,,,,,,,,,13072300,
+120296307,2295433335,0,False,residential,,223.66,,,,,,,,,,,13073085,
+120296307,121655487,0,False,secondary,State Highway 21,1286.762,,,,,,,,,,,67901400,NY 21
+120296307,120043571,0,False,secondary,State Highway 21,672.23,,,,,,,,,,,67901400,NY 21
+120302701,120302719,0,False,residential,Granger Road,84.764,,,,,,,,,,,13073655,
+120302701,121001146,0,False,secondary,East Naples Street,134.786,,,,,,,,,,,13153182,NY 21
+120302701,121132106,0,False,secondary,East Naples Street,175.69,,,,,,,,,,,13153182,NY 21
+120302719,120302734,0,False,residential,Granger Road,93.647,,,,,,,,,,,13073655,
+120302719,120302701,0,False,residential,Granger Road,84.764,,,,,,,,,,,13073655,
+120302719,120931141,0,False,residential,East Avenue,169.257,,,,,,,,,,,139807537,
+120302734,120302751,0,False,residential,Granger Road,100.775,,,,,,,,,,,13073655,
+120302734,120302719,0,False,residential,Granger Road,93.647,,,,,,,,,,,13073655,
+120302734,120733621,0,False,residential,Weinhart Street,139.558,,,,,,,,,,,13111220,
+120302751,120302734,0,False,residential,Granger Road,100.775,,,,,,,,,,,13073655,
+120302751,121132539,0,False,residential,Hillcrest Drive,94.175,,,,,,,,,,,13144009,
+120318787,120318932,0,False,residential,3rd Avenue,302.058,,,,,,,,,,,13075249,
+120318932,120410916,0,False,residential,Helen Place,88.315,,,,,,,,,,,13082159,
+120318932,120318963,0,False,residential,3rd Avenue,116.768,,,,,,,,,,,13075249,
+120318932,120318787,0,False,residential,3rd Avenue,302.058,,,,,,,,,,,13075249,
+120318932,120899188,0,False,residential,"['2nd Avenue', 'Helen Place']",212.426,,,,,,,,,,,"[13123865, 13082159]",
+120318963,120899188,0,False,residential,Washington Street,102.557,,,,,,,,,,,13206763,
+120318963,121457181,0,False,residential,Washington Street,64.23,,,,,,,,,,,13206763,
+120318963,120318932,0,False,residential,3rd Avenue,116.768,,,,,,,,,,,13075249,
+120318996,120319009,0,False,residential,3rd Avenue,255.193,,,,,,,,,,,13075257,
+120318996,120899198,0,False,secondary,West Naples Street,119.566,,,,,,,,,,,13175555,NY 63
+120318996,121457181,0,False,secondary,West Naples Street,77.504,,,,,,,,,,,13175555,NY 63
+120319009,120319026,0,False,residential,3rd Avenue,163.79,,,,,,,,,,,13075257,
+120319009,120319026,1,False,residential,"['Fremont Street', 'Clark Street']",296.555,,,,,,,,,,,"[13152969, 13203411]",
+120319009,120318996,0,False,residential,3rd Avenue,255.193,,,,,,,,,,,13075257,
+120319009,120899227,0,False,residential,Fremont Street,101.335,,,,,,,,,,,13203411,
+120319026,120319009,0,False,residential,3rd Avenue,163.79,,,,,,,,,,,13075257,
+120319026,120319009,1,False,residential,"['Fremont Street', 'Clark Street']",296.555,,,,,,,,,,,"[13152969, 13203411]",
+120319026,120319056,0,False,residential,3rd Avenue,217.943,,,,,,,,,,,13075257,
+120319026,120899239,0,False,residential,Clark Street,101.547,,,,,,,,,,,13152969,
+120319056,120319071,0,False,residential,3rd Avenue,63.16,,,,,,,,,,,13075257,
+120319056,120319026,0,False,residential,3rd Avenue,217.943,,,,,,,,,,,13075257,
+120319056,120899260,0,False,residential,Mack Street,102.05,,,,,,,,,,,13129944,
+120319056,121282037,0,False,residential,Clearwater Street,74.539,,,,,,,,,,,13159035,
+120319071,120319056,0,False,residential,3rd Avenue,63.16,,,,,,,,,,,13075257,
+120364470,120364498,0,False,residential,Walter Kurtz Road,226.616,,,,,,,,,,,13078692,
+120364470,120384421,0,False,secondary,State Highway 21,529.621,,,,,,,,,,,67901400,NY 21
+120364470,121598279,0,False,secondary,State Highway 21,1257.613,,,,,,,,,,,67901400,NY 21
+120364498,120365070,0,False,residential,Walter Kurtz Road,1560.355,,,,,,,,,,,13078692,
+120364498,120364470,0,False,residential,Walter Kurtz Road,226.616,,,,,,,,,,,13078692,
+120364498,120180930,0,False,residential,Narrows Road,786.222,,,,,,,,,,,13101956,
+120365070,120197301,0,False,residential,Walter Kurtz Road,114.197,,,,,,,,,,,13078692,
+120365070,120364498,0,False,residential,Walter Kurtz Road,1560.355,,,,,,,,,,,13078692,
+120365070,121022579,0,False,residential,Wearkley Road,424.778,,,,,,,,,,,13149625,
+120376282,120229832,0,False,tertiary,County Route 90,484.718,,,,,,,,,,,13079493,
+120376282,120209688,0,False,tertiary,County Route 90,521.893,,,,,,,,,,,13079493,
+120376282,121266826,0,False,residential,Mark Road,66.953,,,,,,,,,,,13157859,
+120376378,120376437,0,False,tertiary,County Route 90,390.926,,,,,,,,,,,13079493,
+120376378,120229832,0,False,tertiary,County Route 90,340.321,,,,,,,,,,,13079493,
+120376378,121500576,0,False,residential,Mark Drive,66.139,,,,,,,,,,,13190298,
+120376437,120376477,0,False,tertiary,County Route 90,126.43,,,,,,,,,,,13079493,
+120376437,120376378,0,False,tertiary,County Route 90,390.926,,,,,,,,,,,13079493,
+120376437,120213175,0,False,tertiary,County Route 91,34.54,,,,,,,,,,,13142411,
+120376477,120376537,0,False,tertiary,County Route 90,196.305,,,,,,,,,,,13079493,
+120376477,120376437,0,False,tertiary,County Route 90,126.43,,,,,,,,,,,13079493,
+120376477,120749390,0,False,residential,Depot Street,169.7,,,,,,,,,,,13112044,
+120376537,120376594,0,False,tertiary,County Route 90,175.914,,,,,,,,,,,13079493,
+120376537,120376477,0,False,tertiary,County Route 90,196.305,,,,,,,,,,,13079493,
+120376537,121260562,0,False,residential,Pfaff Hollow Road,197.765,,,,,,,,,,,13157443,
+120376594,120376662,0,False,tertiary,County Route 90,187.266,,,,,,,,,,,13079493,
+120376594,120376537,0,False,tertiary,County Route 90,175.914,,,,,,,,,,,13079493,
+120376594,120380644,0,False,residential,Michigan Road,2816.849,,,,,,,,,,,13138415,
+120376662,120376745,0,False,tertiary,County Route 90,379.17,,,,,,,,,,,13079493,
+120376662,120376594,0,False,tertiary,County Route 90,187.266,,,,,,,,,,,13079493,
+120376662,120144944,0,False,residential,Pfaff Hollow Road,111.1,,,,,,,,,,,13157521,
+120376745,120376996,0,False,tertiary,County Route 90,684.83,,,,,,,,,,,13079493,
+120376745,120376662,0,False,tertiary,County Route 90,379.17,,,,,,,,,,,13079493,
+120376745,121356978,0,False,residential,Wolfanger Road,1688.821,,,,,,,,,,,13165943,
+120376996,120235977,0,False,tertiary,County Route 90,1349.936,,,,,,,,,,,13079493,
+120376996,120376745,0,False,tertiary,County Route 90,684.83,,,,,,,,,,,13079493,
+120376996,120235837,0,False,residential,Isaman Road,1197.487,,,,,,,,,,,13137197,
+120377225,120235977,0,False,tertiary,County Route 90,459.988,,,,,,,,,,,13079493,
+120377225,120236009,0,False,residential,Quanz Road,474.969,,,,,,,,,,,13184173,
+120377225,121654327,0,False,secondary,State Highway 21,1212.684,,,,,,,,,,,67901400,NY 21
+120377225,120206339,0,False,secondary,State Highway 21,1195.603,,,,,,,,,,,67901400,NY 21
+120380644,120122531,0,False,secondary,,141.653,,,,,,,,,,,67901374,NY 15; NY 21
+120380644,120650594,0,False,secondary,State Highway 415,903.505,,,,,,,,,,,13105322,NY 415
+120380644,120376594,0,False,residential,Michigan Road,2816.849,,,,,,,,,,,13138415,
+120380644,120380670,0,False,secondary,,346.844,,,,,,,,,,,67901374,NY 15; NY 21
+120380670,120150455,0,False,residential,Reigelsperger Road,772.911,,,,,,,,,,,13150976,
+120380670,120089126,0,False,secondary,,375.151,,,,,,,,,,,67901374,NY 15; NY 21
+120380670,120380644,0,False,secondary,,346.844,,,,,,,,,,,67901374,NY 15; NY 21
+120380721,120089126,0,False,secondary,,260.026,,,,,,,,,,,67901374,NY 15; NY 21
+120380721,120208128,0,False,residential,South Lackawanna Avenue,126.449,,,,,,,,,,,13193519,
+120380721,120870236,0,False,secondary,South Lackawanna Street,219.332,,,,,,,,,,,"[67901374, 13206679]",NY 15; NY 21
+120380763,120380795,0,False,secondary,North Lackawanna Street,124.386,,,,,,,,,,,13079765,NY 15
+120380763,120910008,0,False,secondary,North Lackawanna Street,154.624,,,,,,,,,,,13124649,NY 15
+120380763,120931141,0,False,residential,East Avenue,327.427,,,,,,,,,,,"[13126232, 139807537]",
+120380795,120380806,0,False,secondary,North Lackawanna Street,160.807,,,,,,,,,,,13079765,NY 15
+120380795,120380763,0,False,secondary,North Lackawanna Street,124.386,,,,,,,,,,,13079765,NY 15
+120380795,120600635,0,False,residential,Cass Street,84.3,,,,,,,,,,,13101469,
+120380806,120380795,0,False,secondary,North Lackawanna Street,160.807,,,,,,,,,,,13079765,NY 15
+120380806,121151725,0,False,residential,North Main Street,131.158,,,,,,,,,,,13145888,
+120383280,120383294,0,False,residential,Water Street,87.762,,,,,,,,,,,13079914,
+120383280,120596634,0,False,residential,Pine Street,93.219,,,,,,,,,,,13161177,
+120383280,121151725,0,False,residential,Pine Street,130.651,,,,,,,,,,,13161177,
+120383294,120383280,0,False,residential,Water Street,87.762,,,,,,,,,,,13079914,
+120383869,120200453,0,False,tertiary,County Route 92,1878.484,,,,,,,,,,,13080025,CR 92
+120383869,120384691,0,False,tertiary,County Route 92,269.137,,,,,,,,,,,13080025,CR 92
+120383869,120073067,0,False,residential,Drum Road,2101.88,,,,,,,,,,,13201109,
+120384340,120384391,0,False,tertiary,County Route 92,458.141,,,,,,,,,,,13080025,CR 92
+120384340,120200453,0,False,tertiary,County Route 92,1451.752,,,,,,,,,,,13080025,CR 92
+120384340,121170403,0,False,residential,Quanz Road,287.599,,,,,,,,,,,13184173,
+120384340,121170527,0,False,residential,Quanz Road,391.094,,,,,,,,,,,13184173,
+120384391,120384340,0,False,tertiary,County Route 92,458.141,,,,,,,,,,,13080025,CR 92
+120384391,120650520,0,False,secondary,State Highway 415,613.208,,,,,,,,,,,13105322,NY 415
+120384391,120650066,0,False,secondary,State Highway 415,1527.973,,,,,,,,,,,13105322,NY 415
+120384391,120140892,0,False,residential,Yocum Road,3767.565,,,,,,,,,,,"[13179753, 13056001]",
+120384421,120384499,0,False,tertiary,County Route 92,488.703,,,,,,,,,,,13080025,CR 92
+120384421,120460682,0,False,tertiary,County Route 50,1119.993,,,,,,,,,,,13158824,
+120384421,121224362,0,False,secondary,State Highway 21,493.903,,,,,,,,,,,67901400,NY 21
+120384421,120364470,0,False,secondary,State Highway 21,529.621,,,,,,,,,,,67901400,NY 21
+120384499,120384526,0,False,tertiary,County Route 92,243.622,,,,,,,,,,,13080025,CR 92
+120384499,120384421,0,False,tertiary,County Route 92,488.703,,,,,,,,,,,13080025,CR 92
+120384499,120140919,0,False,residential,Laf A Lot Road,724.041,,,,,,,,,,,13153321,
+120384526,120384534,0,False,tertiary,County Route 92,27.049,,,,,,,,,,,13080025,CR 92
+120384526,120384499,0,False,tertiary,County Route 92,243.622,,,,,,,,,,,13080025,CR 92
+120384526,120944894,0,False,residential,Linwood Drive,175.304,,,,,,,,,,,13127391,
+120384534,120384526,0,False,tertiary,County Route 92,27.049,,,,,,,,,,,13080025,CR 92
+120384534,120384592,0,False,tertiary,County Route 92,207.594,,,,,,,,,,,13080025,CR 92
+120384534,120251321,0,False,residential,Linwood Point Road,139.764,,,,,,,,,,,13210726,
+120384592,120384617,0,False,tertiary,County Route 92,108.455,,,,,,,,,,,13080025,CR 92
+120384592,120384534,0,False,tertiary,County Route 92,207.594,,,,,,,,,,,13080025,CR 92
+120384592,120251321,0,False,residential,Linwood Point Road,507.584,,,,,,,,,,,13210726,
+120384617,120384691,0,False,tertiary,County Route 92,606.418,,,,,,,,,,,13080025,CR 92
+120384617,120384592,0,False,tertiary,County Route 92,108.455,,,,,,,,,,,13080025,CR 92
+120384617,121653934,0,False,residential,"['Antlers Inn Road', 'East Lake Road']",414.862,,,,,,,,,,,"[13194227, 13119820]",
+120384691,120383869,0,False,tertiary,County Route 92,269.137,,,,,,,,,,,13080025,CR 92
+120384691,120384617,0,False,tertiary,County Route 92,606.418,,,,,,,,,,,13080025,CR 92
+120384691,121598279,0,False,residential,Emo Road,1528.346,,,,,,,,,,,13189090,
+120385371,120135621,0,False,residential,Davis Road,18.387,,,,,,,,,,,13080090,
+120385371,121224336,0,False,residential,Laf A Lot Road,70.094,,,,,,,,,,,13153264,
+120385371,121224150,0,False,residential,Laf A Lot Road,213.981,,,,,,,,,,,13153264,
+120385438,120385607,0,False,residential,Davis Road,138.076,,,,,,,,,,,13080097,
+120385438,120385480,0,False,residential,Davis Road,51.624,,,,,,,,,,,13080090,
+120385438,120135621,0,False,residential,Davis Road,104.101,,,,,,,,,,,13080090,
+120385480,120385438,0,False,residential,Davis Road,51.624,,,,,,,,,,,13080090,
+120385607,120385438,0,False,residential,Davis Road,138.076,,,,,,,,,,,13080097,
+120385607,121229832,0,False,secondary,State Highway 21,175.377,,,,,,,,,,,67901400,NY 21
+120385607,121224336,0,False,secondary,State Highway 21,39.046,,,,,,,,,,,67901400,NY 21
+120405539,120091297,0,False,residential,Kiesel Road,1971.165,,,,,,,,,,,"[13081640, 13050599]",
+120405539,120161077,0,False,residential,Sawdust Road,59.704,,,,,,,,,,,13152850,
+120405539,121220314,0,False,residential,Sawdust Road,36.743,,,,,,,,,,,13152850,
+120410916,120318932,0,False,residential,Helen Place,88.315,,,,,,,,,,,13082159,
+120432481,120124919,0,False,residential,Charles Street,604.194,,,,,,,,,,,13083851,
+120432528,120432548,0,False,residential,Charles Street,113.357,,,,,,,,,,,13083851,
+120432528,120124919,0,False,residential,Charles Street,23.753,,,,,,,,,,,13083851,
+120432528,120124907,0,False,residential,Lincoln Street,18.034,,,,,,,,,,,13098101,
+120432528,120489352,0,False,residential,Lincoln Street,203.518,,,,,,,,,,,13098101,
+120432548,120432528,0,False,residential,Charles Street,113.357,,,,,,,,,,,13083851,
+120432548,120489334,0,False,secondary,South Lackawanna Street,205.979,,,,,,,,,,,13206679,NY 15; NY 21
+120432548,120491558,0,False,secondary,South Lackawanna Street,246.016,,,,,,,,,,,13206679,NY 15; NY 21
+120460682,120384421,0,False,tertiary,County Route 50,1119.993,,,,,,,,,,,13158824,
+120489334,120432548,0,False,secondary,South Lackawanna Street,205.979,,,,,,,,,,,13206679,NY 15; NY 21
+120489334,120489352,0,False,residential,Millen Street,110.469,,,,,,,,,,,13088356,
+120489334,120491562,0,False,residential,"['South Main Street', 'Millen Street']",517.914,,,,,,,,,,,"[13128552, 13088356]",
+120489334,121778988,0,False,secondary,South Lackawanna Street,208.593,,,,,,,,,,,13206679,NY 15; NY 21
+120489352,120489382,0,False,residential,Millen Street,111.021,,,,,,,,,,,13088356,
+120489352,120489334,0,False,residential,Millen Street,110.469,,,,,,,,,,,13088356,
+120489352,120432528,0,False,residential,Lincoln Street,203.518,,,,,,,,,,,13098101,
+120489382,120489352,0,False,residential,Millen Street,111.021,,,,,,,,,,,13088356,
+120489392,120489604,0,False,residential,Gross Hill Road,1989.733,,,,,,,,,,,13088362,
+120489392,120753752,0,False,secondary,State Highway 63,806.502,,,,,,,,,,,13112282,NY 63
+120489392,120237039,0,False,secondary,State Highway 63,237.063,,,,,,,,,,,13112282,NY 63
+120489604,120489392,0,False,residential,Gross Hill Road,1989.733,,,,,,,,,,,13088362,
+120489604,121368519,0,False,residential,Whiteman Hill Road,643.361,,,,,,,,,,,13166949,
+120489604,121367648,0,False,residential,Whiteman Hill Road,1401.028,,,,,,,,,,,13166949,
+120491529,120491545,0,False,residential,Mill Street,100.984,,,,,,,,,,,13088534,
+120491529,121109156,0,False,residential,Bush Avenue,88.362,,,,,,,,,,,13141716,
+120491529,121071200,0,False,residential,Bush Avenue,304.329,,,,,,,,,,,13141716,
+120491545,120491558,0,False,residential,Mill Street,110.809,,,,,,,,,,,13088534,
+120491545,120491529,0,False,residential,Mill Street,100.984,,,,,,,,,,,13088534,
+120491545,120558292,0,False,residential,Lincoln Street,306.146,,,,,,,,,,,13098101,
+120491545,120124907,0,False,residential,Lincoln Street,228.291,,,,,,,,,,,13098101,
+120491558,120491562,0,False,residential,Mill Street,122.847,,,,,,,,,,,13088534,
+120491558,120491545,0,False,residential,Mill Street,110.809,,,,,,,,,,,13088534,
+120491558,121788360,0,False,secondary,South Lackawanna Street,193.925,,,,,,,,,,,13206679,NY 15; NY 21
+120491558,120432548,0,False,secondary,South Lackawanna Street,246.016,,,,,,,,,,,13206679,NY 15; NY 21
+120491562,120491558,0,False,residential,Mill Street,122.847,,,,,,,,,,,13088534,
+120491562,120957863,0,False,residential,South Main Street,186.142,,,,,,,,,,,13128552,
+120491562,120489334,0,False,residential,"['Millen Street', 'South Main Street']",517.914,,,,,,,,,,,"[13128552, 13088356]",
+120525893,121457242,0,False,secondary,West Naples Street,40.315,,,,,,,,,,,13175555,NY 63
+120525893,120525908,0,False,residential,Hamilton Street,150.678,,,,,,,,,,,13092791,
+120525893,120899198,0,False,secondary,West Naples Street,114.373,,,,,,,,,,,13175555,NY 63
+120525908,120525910,0,False,residential,Hamilton Street,165.906,,,,,,,,,,,13092791,
+120525908,120525893,0,False,residential,Hamilton Street,150.678,,,,,,,,,,,13092791,
+120525908,121120392,0,False,residential,Fremont Street,155.304,,,,,,,,,,,13203411,
+120525908,120899227,0,False,residential,Fremont Street,101.22,,,,,,,,,,,13203411,
+120525910,120525908,0,False,residential,Hamilton Street,165.906,,,,,,,,,,,13092791,
+120525910,120899239,0,False,residential,Clark Street,100.102,,,,,,,,,,,13152969,
+120525910,121120455,0,False,residential,Clark Street,130.174,,,,,,,,,,,13152969,
+120525910,120525922,0,False,residential,Hamilton Street,100.309,,,,,,,,,,,13092791,
+120525922,120525929,0,False,residential,Hamilton Street,96.196,,,,,,,,,,,13092791,
+120525922,120525910,0,False,residential,Hamilton Street,100.309,,,,,,,,,,,13092791,
+120525922,121120455,0,False,residential,"['Milliman Street', 'Scott Street']",200.996,,,,,,,,,,,"[13142848, 13099937]",
+120525929,120525922,0,False,residential,Hamilton Street,96.196,,,,,,,,,,,13092791,
+120525929,120899260,0,False,residential,Park Street,101.845,,,,,,,,,,,13141344,
+120525929,120596634,0,False,residential,Pine Street,167.267,,,,,,,,,,,13161177,
+120543977,120215659,0,False,residential,"['Mendoline Road', 'Mendoleine Road']",814.029,,,,,,,,,,,"[13100596, 13150655]",
+120544274,120899260,0,False,"['residential', 'secondary']","['2nd Avenue', 'Birds Eye Rd']",1090.834,,,,,,,,,,,"[13123865, 330384938]",
+120556397,120650066,0,False,tertiary,County Route 36,739.635,,,,55 mph,,,,,,,13120067,CR36
+120558292,120558311,0,False,residential,Lincoln Street,78.408,,,,,,,,,,,13098101,
+120558292,121071200,0,False,residential,Shults Street,100.031,,,,,,,,,,,13138259,
+120558292,120491545,0,False,residential,Lincoln Street,306.146,,,,,,,,,,,13098101,
+120558311,120558292,0,False,residential,Lincoln Street,78.408,,,,,,,,,,,13098101,
+120558311,121132106,0,False,secondary,East Naples Street,201.619,,,,,,,,,,,13153182,NY 21
+120558311,120910008,0,False,secondary,East Naples Street,112.155,,,,,,,,,,,13153182,NY 21
+120570672,120570681,0,False,residential,New Gayland Road,105.432,,,,,,,,,,,13099098,
+120570681,120570672,0,False,residential,New Gayland Road,105.432,,,,,,,,,,,13099098,
+120570681,120570726,0,False,residential,New Gayland Road,453.076,,,,,,,,,,,13099098,
+120570726,120099360,0,False,residential,"['New Gayland Road', 'Davis Road']",210.726,,,,,,,,,,,"[13099098, 13080203]",
+120570726,120570681,0,False,residential,New Gayland Road,453.076,,,,,,,,,,,13099098,
+120570726,121234175,0,False,residential,New Galen Road,2107.311,,,,,,,,,,,13154407,
+120596634,120383280,0,False,residential,Pine Street,93.219,,,,,,,,,,,13161177,
+120596634,120596689,0,False,residential,Victory Drive,105.588,,,,,,,,,,,13101226,
+120596634,120525929,0,False,residential,Pine Street,167.267,,,,,,,,,,,13161177,
+120596689,120596916,0,False,residential,Victory Drive,213.864,,,,,,,,,,,13101226,
+120596689,120596634,0,False,residential,Victory Drive,105.588,,,,,,,,,,,13101226,
+120596689,120596946,0,False,residential,Victory Drive,55.324,,,,,,,,,,,13101229,
+120596916,120596689,0,False,residential,Victory Drive,213.864,,,,,,,,,,,13101226,
+120596946,120596689,0,False,residential,Victory Drive,55.324,,,,,,,,,,,13101229,
+120598655,120599478,0,False,residential,McCurdy Road,1209.537,,,,,,,,,,,13101383,
+120599478,120598655,0,False,residential,McCurdy Road,1209.537,,,,,,,,,,,13101383,
+120599478,120173232,0,False,residential,"['McCurdy Road', 'Perkinsville Rogersville Road']",549.836,,,,,,,,,,,"[13101441, 13145277]",
+120600177,120600378,0,False,residential,McCurdy Road,388.998,,,,,,,,,,,13101441,
+120600177,120173232,0,False,residential,McCurdy Road,683.982,,,,,,,,,,,13101441,
+120600378,120600177,0,False,residential,McCurdy Road,388.998,,,,,,,,,,,13101441,
+120600378,120144944,0,False,residential,Pfaff Hollow Road,633.354,,,,,,,,,,,13157521,
+120600378,121261188,0,False,residential,Pfaff Hollow Road,1198.841,,,,,,,,,,,13157521,
+120600635,120380795,0,False,residential,Cass Street,84.3,,,,,,,,,,,13101469,
+120600635,121151725,0,False,residential,North Main Street,49.467,,,,,,,,,,,13145888,
+120600635,121151685,0,False,residential,North Main Street,127.12,,,,,,,,,,,13145888,
+120606637,120606654,0,False,residential,Narrows Road,39.302,,,,,,,,,,,13101956,
+120606637,120181080,0,False,residential,Narrows Road,422.83,,,,,,,,,,,13101956,
+120606637,120288839,0,False,residential,Emo Road,719.66,,,,,,,,,,,13189254,
+120606654,120606637,0,False,residential,Narrows Road,39.302,,,,,,,,,,,13101956,
+120606654,120606798,0,False,residential,Narrows Road,397.005,,,,,,,,,,,13101956,
+120606654,121598279,0,False,residential,Emo Road,216.033,,,,,,,,,,,13189090,
+120606798,121058304,0,False,residential,Isaman Road,10.819,,,,,,,,,,,13137197,
+120606798,120606654,0,False,residential,Narrows Road,397.005,,,,,,,,,,,13101956,
+120606798,121058527,0,False,residential,Isaman Road,1551.151,,,,,,,,,,,13137197,
+120649282,120649627,0,False,secondary,State Highway 415,549.426,,,,,,,,,,,13105322,NY 415
+120649282,120916702,0,False,residential,Sick Road,242.438,,,,,,,,,,,13125090,
+120649627,120055616,0,False,secondary,State Highway 415,733.756,,,,,,,,,,,13105322,NY 415
+120649627,120649282,0,False,secondary,State Highway 415,549.426,,,,,,,,,,,13105322,NY 415
+120649627,120055576,0,False,residential,Cold Springs Road,786.264,,,,,,,,,,,13203260,
+120649687,120055616,0,False,secondary,State Highway 415,150.026,,,,,,,,,,,13105322,NY 415
+120649687,120650066,0,False,secondary,State Highway 415,930.472,,,,,,,,,,,13105322,NY 415
+120649687,120055576,0,False,residential,Cold Springs Road,149.801,,,,,,,,,,,13203260,
+120650066,120384391,0,False,secondary,State Highway 415,1527.973,,,,,,,,,,,13105322,NY 415
+120650066,120649687,0,False,secondary,State Highway 415,930.472,,,,,,,,,,,13105322,NY 415
+120650066,120556397,0,False,tertiary,County Route 36,739.635,,,,55 mph,,,,,,,13120067,CR36
+120650520,120650594,0,False,secondary,State Highway 415,502.467,,,,,,,,,,,13105322,NY 415
+120650520,120384391,0,False,secondary,State Highway 415,613.208,,,,,,,,,,,13105322,NY 415
+120650520,121687212,0,False,residential,Roberts Road Ext,488.69,,,,,,,,,,,13197175,
+120650594,120380644,0,False,secondary,State Highway 415,903.505,,,,,,,,,,,13105322,NY 415
+120650594,120650520,0,False,secondary,State Highway 415,502.467,,,,,,,,,,,13105322,NY 415
+120650594,120150455,0,False,residential,Reigelsperger Road,319.879,,,,,,,,,,,13150976,
+120694650,120694758,0,False,secondary,State Highway 63,622.9,,,,,,,,,,,13108743,NY 63
+120694650,120837140,0,False,residential,Whiteman Gully Road,1338.563,,,,,,,,,,,13119267,
+120694758,120237039,0,False,secondary,State Highway 63,218.261,,,,,,,,,,,13112282,NY 63
+120694758,120694650,0,False,secondary,State Highway 63,622.9,,,,,,,,,,,13108743,NY 63
+120694758,120189448,0,False,residential,Reservoir Road,1757.588,,,,,,,,,,,13129131,
+120733621,120302734,0,False,residential,Weinhart Street,139.558,,,,,,,,,,,13111220,
+120749390,120376477,0,False,residential,Depot Street,169.7,,,,,,,,,,,13112044,
+120753752,120753796,0,False,secondary,State Highway 63,382.294,,,,,,,,,,,13112282,NY 63
+120753752,120489392,0,False,secondary,State Highway 63,806.502,,,,,,,,,,,13112282,NY 63
+120753752,120827446,0,False,tertiary,County Route 91,1036.406,,,,,,,,,,,13142411,
+120753796,120273986,0,False,secondary,State Highway 63,401.089,,,,,,,,,,,13112282,NY 63
+120753796,120753752,0,False,secondary,State Highway 63,382.294,,,,,,,,,,,13112282,NY 63
+120753796,120273970,0,False,residential,Deiter Road,402.015,,,,,,,,,,,13123973,
+120754008,120754057,0,False,secondary,State Highway 63,74.977,,,,,,,,,,,13112282,NY 63
+120754008,120273986,0,False,secondary,State Highway 63,716.015,,,,,,,,,,,13112282,NY 63
+120754008,121367648,0,False,residential,Buffalo Street,560.296,,,,,,,,,,,13197908,
+120754057,120161298,0,False,secondary,State Highway 63,138.196,,,,,,,,,,,13112282,NY 63
+120754057,120754008,0,False,secondary,State Highway 63,74.977,,,,,,,,,,,13112282,NY 63
+120754057,120161234,0,False,residential,Dieter Road,163.756,,,,,,,,,,,13149944,
+120754711,121669033,0,False,residential,Dye Road,127.782,,,,,,,,,,,13206729,
+120822344,120822368,0,False,residential,Pleasantside Drive,420.338,,,,,,,,,,,13118113,
+120822344,120149327,0,False,residential,Pleasantside Drive,95.33,,,,,,,,,,,13118113,
+120822344,121071251,0,False,residential,Ivylea Drive,135.079,,,,,,,,,,,13138265,
+120822368,120822344,0,False,residential,Pleasantside Drive,420.338,,,,,,,,,,,13118113,
+120827446,120283491,0,False,residential,Gun Club Highway,362.412,,,,,,,,,,,13118464,
+120827446,120753752,0,False,tertiary,County Route 91,1036.406,,,,,,,,,,,13142411,
+120827446,120213110,0,False,tertiary,County Route 91,337.858,,,,,,,,,,,13142411,
+120837140,120694650,0,False,residential,Whiteman Gully Road,1338.563,,,,,,,,,,,13119267,
+120837140,120263911,0,False,residential,Mendoleine Road,332.703,,,,,,,,,,,13150655,
+120870215,120222532,0,False,residential,South Lackawanna Avenue,156.212,,,,,,,,,,,13193535,
+120870215,120870236,0,False,residential,Gunlock Drive,96.833,,,,,,,,,,,13121797,
+120870215,120208128,0,False,residential,South Lackawanna Avenue,171.008,,,,,,,,,,,13193535,
+120870236,120870215,0,False,residential,Gunlock Drive,96.833,,,,,,,,,,,13121797,
+120870236,121645544,0,False,secondary,South Lackawanna Street,372.276,,,,,,,,,,,13206679,NY 15; NY 21
+120870236,120380721,0,False,secondary,South Lackawanna Street,219.332,,,,,,,,,,,"[67901374, 13206679]",NY 15; NY 21
+120899188,120899198,0,False,residential,2nd Avenue,99.632,,,,,,,,,,,13123865,
+120899188,121010973,0,False,residential,Washington Street,106.715,,,,,,,,,,,13206763,
+120899188,120318963,0,False,residential,Washington Street,102.557,,,,,,,,,,,13206763,
+120899188,120318932,0,False,residential,"['2nd Avenue', 'Helen Place']",212.426,,,,,,,,,,,"[13123865, 13082159]",
+120899198,120899188,0,False,residential,2nd Avenue,99.632,,,,,,,,,,,13123865,
+120899198,120318996,0,False,secondary,West Naples Street,119.566,,,,,,,,,,,13175555,NY 63
+120899198,120899227,0,False,residential,2nd Avenue,193.708,,,,,,,,,,,13123865,
+120899198,120525893,0,False,secondary,West Naples Street,114.373,,,,,,,,,,,13175555,NY 63
+120899227,120899239,0,False,residential,2nd Avenue,166.682,,,,,,,,,,,13123865,
+120899227,120319009,0,False,residential,Fremont Street,101.335,,,,,,,,,,,13203411,
+120899227,120899198,0,False,residential,2nd Avenue,193.708,,,,,,,,,,,13123865,
+120899227,120525908,0,False,residential,Fremont Street,101.22,,,,,,,,,,,13203411,
+120899239,120899227,0,False,residential,2nd Avenue,166.682,,,,,,,,,,,13123865,
+120899239,120525910,0,False,residential,Clark Street,100.102,,,,,,,,,,,13152969,
+120899239,120899260,0,False,residential,2nd Avenue,205.267,,,,,,,,,,,13123865,
+120899239,120319026,0,False,residential,Clark Street,101.547,,,,,,,,,,,13152969,
+120899260,120544274,0,False,"['residential', 'secondary']","['2nd Avenue', 'Birds Eye Rd']",1090.834,,,,,,,,,,,"[13123865, 330384938]",
+120899260,120899239,0,False,residential,2nd Avenue,205.267,,,,,,,,,,,13123865,
+120899260,120319056,0,False,residential,Mack Street,102.05,,,,,,,,,,,13129944,
+120899260,120525929,0,False,residential,Park Street,101.845,,,,,,,,,,,13141344,
+120900900,120273970,0,False,residential,Deiter Road,627.634,,,,,,,,,,,13123973,
+120900900,120161234,0,False,residential,Dieter Road,448.511,,,,,,,,,,,13149944,
+120900900,121194209,0,False,residential,Dieter Road,131.284,,,,,,,,,,,13149951,
+120910008,120380763,0,False,secondary,North Lackawanna Street,154.624,,,,,,,,,,,13124649,NY 15
+120910008,120558311,0,False,secondary,East Naples Street,112.155,,,,,,,,,,,13153182,NY 21
+120910008,120957886,0,False,secondary,West Naples Street,152.06,,,,,,,,,,,13175555,NY 63
+120910008,121788360,0,False,secondary,South Lackawanna Street,180.087,,,,,,,,,,,13206679,NY 15; NY 21
+120916702,120649282,0,False,residential,Sick Road,242.438,,,,,,,,,,,13125090,
+120931141,121132106,0,False,residential,Fowler Street,101.19,,,,,,,,,,,13143963,
+120931141,120302719,0,False,residential,East Avenue,169.257,,,,,,,,,,,139807537,
+120931141,120380763,0,False,residential,East Avenue,327.427,,,,,,,,,,,"[13126232, 139807537]",
+120944894,120384526,0,False,residential,Linwood Drive,175.304,,,,,,,,,,,13127391,
+120957863,120491562,0,False,residential,South Main Street,186.142,,,,,,,,,,,13128552,
+120957863,121788360,0,False,residential,Washington Street,138.176,,,,,,,,,,,13206763,
+120957863,121120366,0,False,residential,Washington Street,116.124,,,,,,,,,,,13206763,
+120957863,120957886,0,False,residential,South Main Street,167.14,,,,,,,,,,,13128552,
+120957886,121151664,0,False,residential,North Main Street,124.982,,,,,,,,,,,13145888,
+120957886,121087264,0,False,secondary,West Naples Street,49.815,,,,,,,,,,,13175555,NY 63
+120957886,120957863,0,False,residential,South Main Street,167.14,,,,,,,,,,,13128552,
+120957886,120910008,0,False,secondary,West Naples Street,152.06,,,,,,,,,,,13175555,NY 63
+120965613,120189448,0,False,residential,Reservoir Road,183.313,,,,,,,,,,,13129131,
+120965613,121368519,0,False,residential,Hemmer Road,1146.063,,,,,,,,,,,13176377,
+121001146,121001164,0,False,residential,Southview Drive,158.628,,,,,,,,,,,13132484,
+121001146,120082905,0,False,secondary,"['East Naples Street', 'State Highway 21']",427.752,,,,,,,,,,,"[13194926, 13153182]",NY 21
+121001146,120302701,0,False,secondary,East Naples Street,134.786,,,,,,,,,,,13153182,NY 21
+121001164,121001146,0,False,residential,Southview Drive,158.628,,,,,,,,,,,13132484,
+121001164,121001243,0,False,residential,Southview Drive,201.289,,,,,,,,,,,13132484,
+121001164,121001361,0,False,residential,Southview Drive,130.961,,,,,,,,,,,13132495,
+121001243,121001263,0,False,residential,Southview Drive,87.647,,,,,,,,,,,13132484,
+121001243,121001164,0,False,residential,Southview Drive,201.289,,,,,,,,,,,13132484,
+121001243,121492296,0,False,residential,Sunnyside Drive,127.964,,,,,,,,,,,13180192,
+121001263,121001280,0,False,residential,Southview Drive,37.034,,,,,,,,,,,13132484,
+121001263,121001243,0,False,residential,Southview Drive,87.647,,,,,,,,,,,13132484,
+121001263,121298046,0,False,residential,Hillside Drive,123.977,,,,,,,,,,,13160495,
+121001280,121001263,0,False,residential,Southview Drive,37.034,,,,,,,,,,,13132484,
+121001361,121001164,0,False,residential,Southview Drive,130.961,,,,,,,,,,,13132495,
+121010973,121010984,0,False,residential,Loveland Place,82.852,,,,,,,,,,,13133416,
+121010973,121705091,0,False,residential,Washington Street,34.951,,,,,,,,,,,13206763,
+121010973,120899188,0,False,residential,Washington Street,106.715,,,,,,,,,,,13206763,
+121010984,121010973,0,False,residential,Loveland Place,82.852,,,,,,,,,,,13133416,
+121022579,121022663,0,False,residential,Bucky Hill Road,392.421,,,,,,,,,,,13134411,
+121022579,121191201,0,False,residential,Wearkley Road,721.662,,,,,,,,,,,13149625,
+121022579,120365070,0,False,residential,Wearkley Road,424.778,,,,,,,,,,,13149625,
+121022579,121540863,0,False,residential,Spencer Hill Road,804.007,,,,,,,,,,,13184465,
+121022663,121022579,0,False,residential,Bucky Hill Road,392.421,,,,,,,,,,,13134411,
+121058304,120606798,0,False,residential,Isaman Road,10.819,,,,,,,,,,,13137197,
+121058304,121598279,0,False,secondary,State Highway 21,500.762,,,,,,,,,,,67901400,NY 21
+121058304,121654327,0,False,secondary,State Highway 21,800.286,,,,,,,,,,,67901400,NY 21
+121058527,120181226,0,False,residential,Isaman Road,188.444,,,,,,,,,,,13137197,
+121058527,120606798,0,False,residential,Isaman Road,1551.151,,,,,,,,,,,13137197,
+121058527,121211794,0,False,residential,Marks Road,1114.45,,,,,,,,,,,13151867,
+121071200,120558292,0,False,residential,Shults Street,100.031,,,,,,,,,,,13138259,
+121071200,121137420,0,False,residential,"['Shults Street', 'Prospect Avenue']",245.159,,,,,,,,,,,"[13138259, 13144492]",
+121071200,120491529,0,False,residential,Bush Avenue,304.329,,,,,,,,,,,13141716,
+121071251,120822344,0,False,residential,Ivylea Drive,135.079,,,,,,,,,,,13138265,
+121087264,121087276,0,False,residential,1st Street,129.209,,,,,,,,,,,13139723,
+121087264,120957886,0,False,secondary,West Naples Street,49.815,,,,,,,,,,,13175555,NY 63
+121087264,121120382,0,False,secondary,West Naples Street,65.701,,,,,,,,,,,13175555,NY 63
+121087276,121087264,0,False,residential,1st Street,129.209,,,,,,,,,,,13139723,
+121087276,121151664,0,False,residential,Fremont Street,43.787,,,,,,,,,,,13203411,
+121087276,121120392,0,False,residential,Fremont Street,72.567,,,,,,,,,,,13203411,
+121109156,120491529,0,False,residential,Bush Avenue,88.362,,,,,,,,,,,13141716,
+121120366,120957863,0,False,residential,Washington Street,116.124,,,,,,,,,,,13206763,
+121120366,121705091,0,False,residential,Washington Street,129.479,,,,,,,,,,,13206763,
+121120366,121120382,0,False,residential,Scott Street,157.295,,,,,,,,,,,13142848,
+121120382,121120392,0,False,residential,Scott Street,135.063,,,,,,,,,,,13142848,
+121120382,121457242,0,False,secondary,West Naples Street,123.052,,,,,,,,,,,13175555,NY 63
+121120382,121120366,0,False,residential,Scott Street,157.295,,,,,,,,,,,13142848,
+121120382,121087264,0,False,secondary,West Naples Street,65.701,,,,,,,,,,,13175555,NY 63
+121120392,121120382,0,False,residential,Scott Street,135.063,,,,,,,,,,,13142848,
+121120392,121087276,0,False,residential,Fremont Street,72.567,,,,,,,,,,,13203411,
+121120392,121120421,0,False,residential,Scott Street,86.868,,,,,,,,,,,13142848,
+121120392,120525908,0,False,residential,Fremont Street,155.304,,,,,,,,,,,13203411,
+121120421,121120455,0,False,residential,Scott Street,81.158,,,,,,,,,,,13142848,
+121120421,121120392,0,False,residential,Scott Street,86.868,,,,,,,,,,,13142848,
+121120421,121151685,0,False,residential,Pfeiffer Lane,119.722,,,,,,,,,,,13155982,
+121120455,120525910,0,False,residential,Clark Street,130.174,,,,,,,,,,,13152969,
+121120455,120525922,0,False,residential,"['Milliman Street', 'Scott Street']",200.996,,,,,,,,,,,"[13142848, 13099937]",
+121120455,121120421,0,False,residential,Scott Street,81.158,,,,,,,,,,,13142848,
+121132106,120931141,0,False,residential,Fowler Street,101.19,,,,,,,,,,,13143963,
+121132106,120302701,0,False,secondary,East Naples Street,175.69,,,,,,,,,,,13153182,NY 21
+121132106,120558311,0,False,secondary,East Naples Street,201.619,,,,,,,,,,,13153182,NY 21
+121132539,120302751,0,False,residential,Hillcrest Drive,94.175,,,,,,,,,,,13144009,
+121137420,121071200,0,False,residential,"['Shults Street', 'Prospect Avenue']",245.159,,,,,,,,,,,"[13138259, 13144492]",
+121151664,120957886,0,False,residential,North Main Street,124.982,,,,,,,,,,,13145888,
+121151664,121087276,0,False,residential,Fremont Street,43.787,,,,,,,,,,,13203411,
+121151664,121151685,0,False,residential,North Main Street,68.942,,,,,,,,,,,13145888,
+121151685,120600635,0,False,residential,North Main Street,127.12,,,,,,,,,,,13145888,
+121151685,121151664,0,False,residential,North Main Street,68.942,,,,,,,,,,,13145888,
+121151685,121120421,0,False,residential,Pfeiffer Lane,119.722,,,,,,,,,,,13155982,
+121151725,120600635,0,False,residential,North Main Street,49.467,,,,,,,,,,,13145888,
+121151725,120380806,0,False,residential,North Main Street,131.158,,,,,,,,,,,13145888,
+121151725,120383280,0,False,residential,Pine Street,130.651,,,,,,,,,,,13161177,
+121170403,120384340,0,False,residential,Quanz Road,287.599,,,,,,,,,,,13184173,
+121170527,120384340,0,False,residential,Quanz Road,391.094,,,,,,,,,,,13184173,
+121170527,120236009,0,False,residential,Quanz Road,967.253,,,,,,,,,,,13184173,
+121170527,121170596,0,False,residential,Old Route 15,259.291,,,,,,,,,,,330384937,
+121170596,121687272,0,False,residential,Roberts Road,284.962,,,,,,,,,,,13197183,
+121170596,121170831,0,False,residential,Old Route 15,862.998,,,,,,,,,,,330384937,
+121170596,121170527,0,False,residential,Old Route 15,259.291,,,,,,,,,,,330384937,
+121170831,121170596,0,False,residential,Old Route 15,862.998,,,,,,,,,,,330384937,
+121191201,121022579,0,False,residential,Wearkley Road,721.662,,,,,,,,,,,13149625,
+121191201,121540863,0,False,residential,Spencer Hill Road,544.397,,,,,,,,,,,13184465,
+121194209,120900900,0,False,residential,Dieter Road,131.284,,,,,,,,,,,13149951,
+121197833,121197968,0,False,residential,Shrader Road,665.036,,,,,,,,,,,13150341,
+121197833,121315015,0,False,secondary,State Highway 21,824.978,,,,,,,,,,,13194926,NY 21
+121197833,121220583,0,False,secondary,State Highway 21,787.193,,,,,,,,,,,13194926,NY 21
+121197968,121197833,0,False,residential,Shrader Road,665.036,,,,,,,,,,,13150341,
+121200900,120215659,0,False,residential,Mendoleine Road,1015.055,,,,,,,,,,,13150655,
+121200900,120237214,0,False,residential,Mendoleine Road,165.357,,,,,,,,,,,13150655,
+121211794,121058527,0,False,residential,Marks Road,1114.45,,,,,,,,,,,13151867,
+121211794,121356978,0,False,residential,Wolfanger Road,720.027,,,,,,,,,,,13165943,
+121220314,120405539,0,False,residential,Sawdust Road,36.743,,,,,,,,,,,13152850,
+121220314,120102956,0,False,residential,Sawdust Road,412.435,,,,,,,,,,,13152850,
+121220314,121760002,0,False,residential,Coty Hill Road,280.61,,,,,,,,,,,13203549,
+121220583,120161077,0,False,residential,Sawdust Road,1433.176,,,,,,,,,,,13152850,
+121220583,121197833,0,False,secondary,State Highway 21,787.193,,,,,,,,,,,13194926,NY 21
+121220583,120082905,0,False,secondary,State Highway 21,74.695,,,,,,,,,,,13194926,NY 21
+121224150,120385371,0,False,residential,Laf A Lot Road,213.981,,,,,,,,,,,13153264,
+121224336,120385607,0,False,secondary,State Highway 21,39.046,,,,,,,,,,,67901400,NY 21
+121224336,120385371,0,False,residential,Laf A Lot Road,70.094,,,,,,,,,,,13153264,
+121224336,121224362,0,False,secondary,State Highway 21,264.815,,,,,,,,,,,67901400,NY 21
+121224362,120140919,0,False,residential,Laf A Lot Road,129.257,,,,,,,,,,,13153321,
+121224362,121224336,0,False,secondary,State Highway 21,264.815,,,,,,,,,,,67901400,NY 21
+121224362,120384421,0,False,secondary,State Highway 21,493.903,,,,,,,,,,,67901400,NY 21
+121229782,121229832,0,False,residential,Chapel Road,513.723,,,,,,,,,,,13153897,
+121229832,120385607,0,False,secondary,State Highway 21,175.377,,,,,,,,,,,67901400,NY 21
+121229832,121229782,0,False,residential,Chapel Road,513.723,,,,,,,,,,,13153897,
+121229832,120043571,0,False,secondary,State Highway 21,521.904,,,,,,,,,,,67901400,NY 21
+121230379,120288776,0,False,secondary,State Highway 21,1193.452,,,,,,,,,,,13194926,NY 21
+121230379,121315015,0,False,secondary,State Highway 21,341.014,,,,,,,,,,,13194926,NY 21
+121234175,120570726,0,False,residential,New Galen Road,2107.311,,,,,,,,,,,13154407,
+121234175,121788785,0,False,residential,Dye Road,494.395,,,,,,,,,,,13206729,
+121234175,121669033,0,False,residential,Dye Road,656.162,,,,,,,,,,,13206729,
+121260562,120376537,0,False,residential,Pfaff Hollow Road,197.765,,,,,,,,,,,13157443,
+121260720,121261188,0,False,residential,Pfaff Hollow Road,1240.281,,,,,,,,,,,13157521,
+121261188,120600378,0,False,residential,Pfaff Hollow Road,1198.841,,,,,,,,,,,13157521,
+121261188,121260720,0,False,residential,Pfaff Hollow Road,1240.281,,,,,,,,,,,13157521,
+121261188,121356978,0,False,residential,Wolfanger Hill Road,831.591,,,,,,,,,,,13180919,
+121266826,120376282,0,False,residential,Mark Road,66.953,,,,,,,,,,,13157859,
+121282037,120319056,0,False,residential,Clearwater Street,74.539,,,,,,,,,,,13159035,
+121298046,121001263,0,False,residential,Hillside Drive,123.977,,,,,,,,,,,13160495,
+121315015,120136948,0,False,residential,Woodham Road,491.693,,,,,,,,,,,13162234,
+121315015,121230379,0,False,secondary,State Highway 21,341.014,,,,,,,,,,,13194926,NY 21
+121315015,121197833,0,False,secondary,State Highway 21,824.978,,,,,,,,,,,13194926,NY 21
+121356978,120376745,0,False,residential,Wolfanger Road,1688.821,,,,,,,,,,,13165943,
+121356978,121211794,0,False,residential,Wolfanger Road,720.027,,,,,,,,,,,13165943,
+121356978,121261188,0,False,residential,Wolfanger Hill Road,831.591,,,,,,,,,,,13180919,
+121367648,120489604,0,False,residential,Whiteman Hill Road,1401.028,,,,,,,,,,,13166949,
+121367648,120754008,0,False,residential,Buffalo Street,560.296,,,,,,,,,,,13197908,
+121368519,212579447,0,False,residential,Whiteman Hill Road,976.98,,,,,,,,,,,13166949,
+121368519,120489604,0,False,residential,Whiteman Hill Road,643.361,,,,,,,,,,,13166949,
+121368519,120965613,0,False,residential,Hemmer Road,1146.063,,,,,,,,,,,13176377,
+121457181,120318996,0,False,secondary,West Naples Street,77.504,,,,,,,,,,,13175555,NY 63
+121457181,120318963,0,False,residential,Washington Street,64.23,,,,,,,,,,,13206763,
+121457181,120149327,0,False,secondary,West Naples Street,103.521,,,,,,,,,,,13175555,NY 63
+121457242,121120382,0,False,secondary,West Naples Street,123.052,,,,,,,,,,,13175555,NY 63
+121457242,120525893,0,False,secondary,West Naples Street,40.315,,,,,,,,,,,13175555,NY 63
+121457242,121705091,0,False,residential,Saint John Street,145.999,,,,,,,,,,,13198987,
+121492296,121001243,0,False,residential,Sunnyside Drive,127.964,,,,,,,,,,,13180192,
+121500576,121612957,0,False,residential,"['Mark Drive', 'Marks Drive']",184.574,,,,,,,,,,,"[13190302, 13181135]",
+121500576,121613116,0,False,residential,Mark Drive,64.38,,,,,,,,,,,13190298,
+121500576,120376378,0,False,residential,Mark Drive,66.139,,,,,,,,,,,13190298,
+121540863,121022579,0,False,residential,Spencer Hill Road,804.007,,,,,,,,,,,13184465,
+121540863,121191201,0,False,residential,Spencer Hill Road,544.397,,,,,,,,,,,13184465,
+121540863,121545199,0,False,residential,Spencer Hill Road,95.48,,,,,,,,,,,13184800,
+121545199,121540863,0,False,residential,Spencer Hill Road,95.48,,,,,,,,,,,13184800,
+121598279,120606654,0,False,residential,Emo Road,216.033,,,,,,,,,,,13189090,
+121598279,120384691,0,False,residential,Emo Road,1528.346,,,,,,,,,,,13189090,
+121598279,120364470,0,False,secondary,State Highway 21,1257.613,,,,,,,,,,,67901400,NY 21
+121598279,121058304,0,False,secondary,State Highway 21,500.762,,,,,,,,,,,67901400,NY 21
+121612957,121612957,0,False,residential,Mark Drive,70.494,,,,,,,,,,,13190290,
+121612957,121612957,1,False,residential,Mark Drive,70.494,,,,,,,,,,,13190290,
+121612957,121500576,0,False,residential,"['Mark Drive', 'Marks Drive']",184.574,,,,,,,,,,,"[13190302, 13181135]",
+121613116,121500576,0,False,residential,Mark Drive,64.38,,,,,,,,,,,13190298,
+121645544,120222532,0,False,residential,South Lackawanna Avenue,215.873,,,,,,,,,,,13193535,
+121645544,121778988,0,False,secondary,South Lackawanna Street,135.751,,,,,,,,,,,13206679,NY 15; NY 21
+121645544,120870236,0,False,secondary,South Lackawanna Street,372.276,,,,,,,,,,,13206679,NY 15; NY 21
+121653455,120043755,0,False,residential,East Lake Road,1276.443,,,,,,,,,,,13194181,
+121653934,120384617,0,False,residential,"['Antlers Inn Road', 'East Lake Road']",414.862,,,,,,,,,,,"[13194227, 13119820]",
+121654327,120235883,0,False,residential,Ellinger Road,35.17,,,,,,,,,,,13197517,
+121654327,121058304,0,False,secondary,State Highway 21,800.286,,,,,,,,,,,67901400,NY 21
+121654327,120377225,0,False,secondary,State Highway 21,1212.684,,,,,,,,,,,67901400,NY 21
+121655487,121788849,0,False,residential,South Church Road,807.814,,,,,,,,,,,13208069,
+121655487,120296307,0,False,secondary,State Highway 21,1286.762,,,,,,,,,,,67901400,NY 21
+121669033,120283699,0,False,residential,Campbell Road,595.011,,,,,,,,,,,13195752,
+121669033,121234175,0,False,residential,Dye Road,656.162,,,,,,,,,,,13206729,
+121669033,120754711,0,False,residential,Dye Road,127.782,,,,,,,,,,,13206729,
+121687212,120650520,0,False,residential,Roberts Road Ext,488.69,,,,,,,,,,,13197175,
+121687272,121170596,0,False,residential,Roberts Road,284.962,,,,,,,,,,,13197183,
+121690767,120235883,0,False,residential,Ellinger Road,293.053,,,,,,,,,,,13197517,
+121705091,121120366,0,False,residential,Washington Street,129.479,,,,,,,,,,,13206763,
+121705091,121010973,0,False,residential,Washington Street,34.951,,,,,,,,,,,13206763,
+121705091,121457242,0,False,residential,Saint John Street,145.999,,,,,,,,,,,13198987,
+121760002,121220314,0,False,residential,Coty Hill Road,280.61,,,,,,,,,,,13203549,
+121778988,120208128,0,False,residential,Gunlocke Park,1245.051,,,,,,,,,,,"[13064442, 13205619]",
+121778988,120489334,0,False,secondary,South Lackawanna Street,208.593,,,,,,,,,,,13206679,NY 15; NY 21
+121778988,121645544,0,False,secondary,South Lackawanna Street,135.751,,,,,,,,,,,13206679,NY 15; NY 21
+121788360,120957863,0,False,residential,Washington Street,138.176,,,,,,,,,,,13206763,
+121788360,120910008,0,False,secondary,South Lackawanna Street,180.087,,,,,,,,,,,13206679,NY 15; NY 21
+121788360,120491558,0,False,secondary,South Lackawanna Street,193.925,,,,,,,,,,,13206679,NY 15; NY 21
+121788785,121788849,0,False,residential,Dye Road,28.645,,,,,,,,,,,13206729,
+121788785,121234175,0,False,residential,Dye Road,494.395,,,,,,,,,,,13206729,
+121788785,121788920,0,False,residential,Dye Road,36.179,,,,,,,,,,,13206739,
+121788849,121788785,0,False,residential,Dye Road,28.645,,,,,,,,,,,13206729,
+121788849,121655487,0,False,residential,South Church Road,807.814,,,,,,,,,,,13208069,
+121788849,121788920,0,False,residential,South Church Road,44.123,,,,,,,,,,,13208069,
+121788920,121788785,0,False,residential,Dye Road,36.179,,,,,,,,,,,13206739,
+121788920,121788849,0,False,residential,South Church Road,44.123,,,,,,,,,,,13208069,
+121788920,120043534,0,False,residential,South Church Road,1391.506,,,,,,,,,,,13208069,
+212579447,121368519,0,False,residential,Whiteman Hill Road,976.98,,,,,,,,,,,13166949,
+212579447,212579489,0,False,residential,County Line Road,1083.85,,,,,,,,,,,303267287,
+212579489,212579447,0,False,residential,County Line Road,1083.85,,,,,,,,,,,303267287,
+2295433335,120296307,0,False,residential,,223.66,,,,,,,,,,,13073085,
+4140917608,4140917615,0,True,unclassified,Drop-off loop,187.703,,,,,,,,,,,412748954,

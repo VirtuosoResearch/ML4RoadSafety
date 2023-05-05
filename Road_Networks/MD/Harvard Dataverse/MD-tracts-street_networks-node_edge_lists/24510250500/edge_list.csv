@@ -1,0 +1,519 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+49378069,49378089,0,False,unclassified,Magazine Road,125.186,,,,,,,,,,,5991808,
+49378069,49523992,0,False,tertiary,Fort Armistead Road,745.495,,,,,,,,,,,6011306,
+49378069,49523965,0,False,tertiary,Fort Armistead Road,151.048,,,,,,,,,,,6011306,
+49378089,49378069,0,False,unclassified,Magazine Road,125.186,,,,,,,,,,,5991808,
+49379171,5469700498,0,False,unclassified,Dock Road,156.882,,,,,,,,,,,5991888,
+49379171,49393192,0,False,unclassified,Fort Armistead Road,838.417,,,,,,,,,,,5993375,
+49379171,49523992,0,False,tertiary,Fort Armistead Road,33.074,,,,,,,,,,,6011306,
+49381113,49489900,0,False,residential,Parcel Street,36.707,,,,,,,,,,,6007126,
+49381198,1334544702,0,False,primary,Quarantine Road,36.47,3,,,,,,,,,,"[425131754, 425131757]",
+49381198,49382275,0,False,primary,Quarantine Road,173.725,4,,,,,,yes,,,,"[52118195, 52118196, 425131755, 536873775]",
+49381200,49381198,0,True,motorway_link,,30.811,1,,,,,,,,,,404847305,
+49381200,1334544702,0,True,motorway_link,,48.548,1,,,,,,,,,,118711746,
+49381219,49381200,0,True,motorway_link,,472.429,"['2', '1', '3']",,,,,,,,,,"[5992101, 425131758, 425131759]",
+49381219,49508982,0,True,motorway,Baltimore Beltway,1584.23,2,,,55 mph,,,yes,,,,"[90079475, 54327491, 54327495]",I 695
+49382275,49510768,0,False,unclassified,Quarantine Road,78.702,,,,,,,,,,,121507844,
+49382275,49382261,0,True,motorway_link,,665.01,1,,,,,,,,,,5992188,
+49382275,49381198,0,False,primary,Quarantine Road,173.725,4,,,,,,yes,,,,"[425131755, 52118196, 52118195, 536873775]",
+49382384,49382384,0,False,unclassified,Hockley Road,2730.058,,,,,permissive,,,,,,6020553,
+49382384,49382384,1,False,unclassified,Hockley Road,2730.058,,,,,permissive,,,,,,6020553,
+49382384,49510768,0,False,unclassified,Hockley Road,32.846,,,,,permissive,,,,,,6020553,
+49393192,49379171,0,False,unclassified,Fort Armistead Road,838.417,,,,,,,,,,,5993375,
+49402276,610423396,0,True,secondary_link,,51.941,1,,,,,,,,,,5994294,
+49402276,610422911,0,True,secondary,Curtis Avenue,69.765,2,,,,,,,,,,98214809,MD 173
+49413807,2926513779,0,False,unclassified,Old Pennington Avenue,315.42,,,,,,,,,,,5995955,
+49413807,49506970,0,False,unclassified,Old Pennington Avenue,166.475,,,,,,,,,,,5995955,
+49413807,49431953,0,False,unclassified,East Ordnance Road,34.546,,,,,,,,,,,47998157,
+49415813,49431951,0,True,secondary,Pennington Avenue,91.056,,,,,,,,,,,47998155,MD 173
+49416709,49465629,0,False,primary,Hawkins Point Road,164.881,,,,,,,,,,,70949199,MD 173
+49416709,49416710,0,False,unclassified,Concrete Road,52.301,,,,,permissive,,,,,,568546402,
+49416709,49465620,0,False,primary,Hawkins Point Road,426.538,,,,,,,yes,,,,"[6004000, 70949198, 70949199]",MD 173
+49416710,49416709,0,False,unclassified,Concrete Road,52.301,,,,,permissive,,,,,,568546402,
+49416760,49416761,0,True,motorway_link,,12.287,1,,,,,,,,,,52350076,
+49416760,49523965,0,True,tertiary,Fort Armistead Road,166.817,,,,,,,,,,,182742608,
+49416761,49416762,0,True,motorway_link,,41.307,1,,,,,,,,,,52350076,
+49416761,49457111,0,True,primary,Fort Armistead Road,196.847,,,,,,,,,,,289879268,
+49416762,49508982,0,True,motorway_link,,518.542,1,,,,,,yes,,,,"[118711736, 54327492, 52350076]",
+49423549,49416762,0,True,motorway_link,,45.973,1,,,,,,,,,,5997734,
+49423549,49416761,0,True,tertiary,Fort Armistead Road,41.24,,,,,,,,,,,52350077,
+49428819,49428820,0,False,unclassified,,161.233,2,,,,,,,,,,5998879,
+49428819,49505782,0,False,secondary,East Patapsco Avenue,53.528,4,,,30 mph,,,,,,,70638803,MD 173
+49428819,49548195,0,False,secondary,East Patapsco Avenue,23.04,4,,,30 mph,,,,,,,70638803,MD 173
+49428820,49428819,0,False,unclassified,,161.233,2,,,,,,,,,,5998879,
+49431660,49496921,0,False,residential,Montcalm Court,42.593,,,,,,,,,,,6007779,
+49431660,49499116,0,False,residential,West Bay Court,30.691,2,,,,,,,,,,6015632,
+49431660,49504079,0,False,residential,West Bay Court,47.377,2,,,,,,,,,,6015632,
+49431951,49431953,0,False,primary,East Ordnance Road,15.677,,,,,,,,,,,77315606,MD 710
+49431951,49506775,0,True,primary,Pennington Avenue,45.982,,,,,,,,,,,160639135,MD 173
+49431953,49431951,0,False,primary,East Ordnance Road,15.677,,,,,,,,,,,77315606,MD 710
+49431953,49413807,0,False,unclassified,East Ordnance Road,34.546,,,,,,,,,,,47998157,
+49431953,49506970,0,True,secondary,Pennington Avenue,170.167,,,,,,,,,,,160639131,MD 173
+49432316,4502184910,0,False,unclassified,Birch Street,583.353,2,,,,,,,,,,47998158,
+49433246,49469235,0,False,residential,Montehill Avenue,42.062,2,,,,,,,,,,6018281,
+49433508,49433529,0,True,primary,Fort Smallwood Road,210.522,,,,,,,,,,,512468589,MD 173
+49433508,49433529,1,True,primary_link,,236.172,,,,,,jughandle,,,,,5999661,
+49433529,49465739,0,True,primary,Fort Armistead Road,13.175,,,,,,,,,,,512468588,
+49443182,49457096,0,False,unclassified,Hawkins Point Road,183.545,,,,,,,,,,,6004006,
+49446142,49539937,0,True,residential,Saint Margaret Street,109.396,2,,,25 mph,,,,,,,6022074,
+49446142,49446744,0,False,residential,East Jeffrey Street,41.187,2,,,25 mph,,,,,,,6011266,
+49446142,49523758,0,False,residential,East Jeffrey Street,78.29,2,,,25 mph,,,,,,,6011266,
+49446744,49446142,0,False,residential,East Jeffrey Street,41.187,2,,,25 mph,,,,,,,6011266,
+49447132,842509123,0,False,secondary,Shell Road,59.746,4,,,,,,,,,,70639630,
+49448994,49465739,0,True,primary,Fort Smallwood Road,49.704,,,,,,,,,,,225185508,MD 173
+49448994,49449006,0,True,primary_link,,70.856,,,,,,,,,,,6001933,
+49449006,2934145534,0,True,primary,Fort Armistead Road,175.81,,,,,,,,,,,6011307,
+49453212,49506863,0,True,secondary,Pennington Avenue,27.232,2,,,25 mph,,,,,,,98214812,MD 173
+49454598,49454600,0,False,residential,Tompkins Street,72.401,2,,,,,,,,,,6003006,
+49454598,49457870,0,False,residential,Tompkins Street,52.565,2,,,,,,,,,,6003006,
+49454598,49484248,0,False,residential,Monroe Circle,165.294,2,,,,,,,,,,6010975,
+49454600,49454598,0,False,residential,Tompkins Street,72.401,2,,,,,,,,,,6003006,
+49454600,49454625,0,False,residential,Tompkins Street,127.559,2,,,,,,,,,,6003006,
+49454600,49492399,0,False,residential,Inner Circle,172.796,2,,,,,,,,,,6012410,
+49454625,49457890,0,False,residential,Tompkins Street,110.862,2,,,,,,,,,,6003006,
+49454625,49454600,0,False,residential,Tompkins Street,127.559,2,,,,,,,,,,6003006,
+49454625,49492399,0,False,residential,Everett Street,89.623,2,,,25 mph,,,,,,,6007394,
+49455721,49481737,0,False,residential,Pascal Avenue,178.785,2,,,,,,,,,,6010229,
+49455721,49492390,0,False,residential,Pascal Avenue,89.384,2,,,,,,,,,,6010229,
+49455721,49455723,0,False,residential,Sycamore Street,89.933,2,,,25 mph,,,,,,,521988004,
+49455723,49549294,0,True,tertiary,Fairhaven Avenue,85.848,1,,,25 mph,,,,,,,521988003,
+49455723,49455721,0,False,residential,Sycamore Street,89.933,2,,,25 mph,,,,,,,521988004,
+49455725,49506860,0,True,secondary,Pennington Avenue,85.473,2,,,25 mph,,,,,,,98214812,MD 173
+49455725,49455723,0,True,residential,Sycamore Street,132.124,1,,,25 mph,,,,,,,6002781,
+49457096,49457111,0,False,unclassified,Thoms Road,161.383,,,,,,,,,,,6002927,
+49457096,49443182,0,False,unclassified,Hawkins Point Road,183.545,,,,,,,,,,,6004006,
+49457096,49465717,0,False,unclassified,Hawkins Point Road,323.155,,,,,,,,,,,6004006,
+49457111,2934145534,0,False,unclassified,Thoms Road,9.469,,,,,,,,,,,6002927,
+49457111,49457096,0,False,unclassified,Thoms Road,161.383,,,,,,,,,,,6002927,
+49457111,49465737,0,True,primary,Fort Armistead Road,220.246,,,,,,,,,,,289879268,
+49457870,49505798,0,False,tertiary,West Bay Avenue,84.167,2,,,25 mph,,,,,,,286930177,
+49457870,49454598,0,False,residential,Tompkins Street,52.565,2,,,,,,,,,,6003006,
+49457870,49505879,0,False,tertiary,West Bay Avenue,333.208,2,,,25 mph,,,,,,,286930177,
+49457890,49457897,0,False,residential,Tompkins Street,131.847,2,,,,,,,,,,6003006,
+49457890,49454625,0,False,residential,Tompkins Street,110.862,2,,,,,,,,,,6003006,
+49457890,49532026,0,False,residential,Inner Circle,68.442,2,,,,,,,,,,6012410,
+49457890,49492399,0,False,residential,Inner Circle,170.475,2,,,,,,,,,,6012410,
+49457897,49457890,0,False,residential,Tompkins Street,131.847,2,,,,,,,,,,6003006,
+49457897,49504131,0,False,residential,"['Prudence Street', 'Hazel Street', 'Pascal Avenue']",406.587,2,,,,,,,,,,"[6005224, 6010234, 6008723]",
+49457897,49481737,0,False,residential,Pascal Avenue,80.032,2,,,,,,,,,,6010234,
+49460004,49523073,0,False,tertiary,Virginia Avenue,455.059,2,,,25 mph,,,,,,,"[6021947, 6003251]",
+49460004,49467778,0,False,secondary,Church Street,87.612,2,,,25 mph,,,,,,,225157485,MD 171
+49460004,49469223,0,False,secondary,Church Street,89.651,2,,,25 mph,,,,,,,500554124,MD 171
+49462781,49549572,0,False,residential,Edwight Court,25.777,2,,,,,,,,,,6019202,
+49462781,49579117,0,False,residential,"['Rondo Court', 'Renick Court']",114.604,2,,,25 mph,,,,,,,"[6023722, 6003540]",
+49462781,49546642,0,False,residential,"['Rondo Court', 'Gretna Court']",100.948,2,,,25 mph,,,,,,,"[6003540, 6014743]",
+49463824,49463828,0,False,residential,Cypress Street,89.99,2,,,25 mph,,,,,,,6003786,
+49463828,49463824,0,False,residential,Cypress Street,89.99,2,,,25 mph,,,,,,,6003786,
+49463828,49463833,0,False,residential,Cypress Street,136.327,2,,,25 mph,,,,,,,6003786,
+49463828,49469237,0,False,residential,Prudence Street,85.53,2,,,25 mph,,,,,,,6008722,
+49463828,49503284,0,False,residential,Prudence Street,85.497,2,,,25 mph,,,,,,,6008722,
+49463833,49463828,0,False,residential,Cypress Street,136.327,2,,,25 mph,,,,,,,6003786,
+49463833,49463845,0,False,residential,Cypress Street,132.389,2,,,25 mph,,,,,,,6003786,
+49463833,49503286,0,True,tertiary,Fairhaven Avenue,85.546,1,,,25 mph,,,,,,,402077776,
+49463845,49463833,0,False,residential,Cypress Street,132.389,2,,,25 mph,,,,,,,6003786,
+49463845,49463851,0,False,residential,Cypress Street,139.106,2,,,25 mph,,,,,,,6003786,
+49463845,49469241,0,True,secondary,Pennington Avenue,85.009,2,,,25 mph,,,,,,,468936399,MD 173
+49463851,49463845,0,False,residential,Cypress Street,139.106,2,,,25 mph,,,,,,,6003786,
+49463851,49503292,0,True,secondary,Curtis Avenue,85.673,2,,,25 mph,,,,,,,225157500,MD 173
+49465614,49465620,0,False,primary,Hawkins Point Road,200.011,,,,,,,,,,,6004000,MD 173
+49465614,49431953,0,True,primary,Pennington Avenue,924.071,,,,,,,movable,,,,"[61337280, 52118186, 6009324]",MD 173
+49465620,49416709,0,False,primary,Hawkins Point Road,426.538,,,,,,,yes,,,,"[6004000, 70949198, 70949199]",MD 173
+49465620,49465614,0,False,primary,Hawkins Point Road,200.011,,,,,,,,,,,6004000,MD 173
+49465629,49510092,0,False,unclassified,Arundel Cove Avenue,144.325,,,,,,,,,,,6012083,
+49465629,49465632,0,False,primary,Hawkins Point Road,89.78,,,,,,,,,,,70949199,MD 173
+49465629,49416709,0,False,primary,Hawkins Point Road,164.881,,,,,,,,,,,70949199,MD 173
+49465632,49510098,0,False,unclassified,Cove Avenue,144.085,,,,,,,,,,,6021381,
+49465632,49465629,0,False,primary,Hawkins Point Road,89.78,,,,,,,,,,,70949199,MD 173
+49465632,49465646,0,False,primary,Hawkins Point Road,253.499,,,,,,,,,,,70949199,MD 173
+49465646,610421611,0,True,primary,Hawkins Point Road,202.974,,,,,,,,,,,47998146,MD 173
+49465646,49465632,0,False,primary,Hawkins Point Road,253.499,,,,,,,,,,,70949199,MD 173
+49465699,610421611,0,False,primary,Quarantine Road,13.646,,,,,,,,,,,6009827,
+49465699,1334544702,0,False,primary,Quarantine Road,74.938,4,,,,,,,,,,425131756,
+49465699,49465646,0,True,primary,Hawkins Point Road,203.821,,,,,,,,,,,475154400,MD 173
+49465717,49457096,0,False,unclassified,Hawkins Point Road,323.155,,,,,,,,,,,6004006,
+49465717,49465699,0,True,primary,Hawkins Point Road,295.823,,,,,,,,,,,475154400,MD 173
+49465737,49433529,0,True,primary,Fort Armistead Road,16.348,,,,,,,,,,,289879268,
+49465737,49465717,0,True,primary,Fort Smallwood Road,291.591,,,,,,,,,,,225185510,MD 173
+49465739,49465737,0,True,primary,Fort Smallwood Road,10.393,,,,,,,,,,,225185509,MD 173
+49465739,49449006,0,True,primary,Fort Armistead Road,43.708,,,,,,,,,,,512468587,
+49467776,49467778,0,False,residential,Charleston Street,111.444,2,,,,,,,,,,6004230,
+49467778,49467776,0,False,residential,Charleston Street,111.444,2,,,,,,,,,,6004230,
+49467778,49469231,0,False,secondary,Church Street,106.474,2,,,25 mph,,,,,,,225157485,MD 171
+49467778,49460004,0,False,secondary,Church Street,87.612,2,,,25 mph,,,,,,,225157485,MD 171
+49469223,49566969,0,False,residential,Muriel Avenue,59.707,2,,,,,,,,,,6020184,
+49469223,49460004,0,False,secondary,Church Street,89.651,2,,,25 mph,,,,,,,500554124,MD 171
+49469231,49514946,0,False,residential,Rosabel Avenue,78.647,2,,,,,,,,,,6010346,
+49469231,49469233,0,False,secondary,Church Street,79.64,2,,,25 mph,,,,,,,225157485,MD 171
+49469231,49467778,0,False,secondary,Church Street,106.474,2,,,25 mph,,,,,,,225157485,MD 171
+49469233,49469234,0,False,secondary,Church Street,13.801,2,,,25 mph,,,,,,,225157485,MD 171
+49469233,49469231,0,False,secondary,Church Street,79.64,2,,,25 mph,,,,,,,225157485,MD 171
+49469234,49469235,0,False,secondary,Church Street,34.269,2,,,25 mph,,,,,,,225157485,MD 171
+49469234,49469233,0,False,secondary,Church Street,13.801,2,,,25 mph,,,,,,,225157485,MD 171
+49469234,49505963,0,True,tertiary,West Bay Avenue,102.416,1,,,,,,,,,,286930178,
+49469235,49433246,0,False,residential,Montehill Avenue,42.062,2,,,,,,,,,,6018281,
+49469235,49469234,0,False,secondary,Church Street,34.269,2,,,25 mph,,,,,,,225157485,MD 171
+49469235,49469237,0,False,secondary,Church Street,142.786,2,,,25 mph,,,,,,,225157485,MD 171
+49469237,49463828,0,False,residential,Prudence Street,85.53,2,,,25 mph,,,,,,,6008722,
+49469237,49469240,0,False,secondary,Church Street,136.412,2,,,25 mph,,,,,,,225157485,MD 171
+49469237,49469235,0,False,secondary,Church Street,142.786,2,,,25 mph,,,,,,,225157485,MD 171
+49469240,49469241,0,False,secondary,Church Street,132.18,2,,,25 mph,,,,,,,225157485,MD 171
+49469240,49469237,0,False,secondary,Church Street,136.412,2,,,25 mph,,,,,,,225157485,MD 171
+49469240,49550675,0,False,unclassified,Fairhaven Avenue,85.759,2,,,25 mph,,,,,,,286930176,
+49469240,49463833,0,True,tertiary,Fairhaven Avenue,85.324,1,,,25 mph,,,,,,,402077776,
+49469241,49469240,0,False,secondary,Church Street,132.18,2,,,25 mph,,,,,,,225157485,MD 171
+49469241,49506844,0,True,secondary,Pennington Avenue,85.806,2,,,25 mph,,,,,,,225157524,MD 173
+49469241,49469243,0,False,secondary,Church Street,139.177,2,,,,,,,,,,225157491,MD 171
+49469243,49469241,0,False,secondary,Church Street,139.177,2,,,,,,,,,,225157491,MD 171
+49469243,49463851,0,True,secondary,Curtis Avenue,84.534,2,,,25 mph,,,,,,,225157500,MD 173
+49475222,49528350,0,True,tertiary,Fairhaven Avenue,86.115,1,,,25 mph,,,,,,,6018289,
+49475224,49475226,0,False,residential,Hazel Street,139.602,2,,,25 mph,,,,,,,6005223,
+49475224,49475222,0,True,residential,Hazel Street,132.184,1,,,25 mph,,,,,,,539905920,
+49475224,49503945,0,True,secondary,Pennington Avenue,85.931,2,,,25 mph,,,,,,,468936399,MD 173
+49475226,49475224,0,False,residential,Hazel Street,139.602,2,,,25 mph,,,,,,,6005223,
+49475226,49528358,0,True,secondary,Curtis Avenue,85.005,2,,,25 mph,,,,,,,225157500,MD 173
+49476566,49546639,0,False,tertiary,10th Street,56.11,2,,,25 mph,,,,,,,6023027,
+49476566,49523688,0,False,tertiary,10th Street,77.04,2,,,25 mph,,,,,,,6023027,
+49481737,49481739,0,False,residential,Popland Street,75.573,2,,,25 mph,,,,,,,6005989,
+49481737,49455721,0,False,residential,Pascal Avenue,178.785,2,,,,,,,,,,6010229,
+49481737,49457897,0,False,residential,Pascal Avenue,80.032,2,,,,,,,,,,6010234,
+49481739,49534326,0,True,tertiary,Fairhaven Avenue,86.272,1,,,25 mph,,,,,,,6018289,
+49481739,49481737,0,False,residential,Popland Street,75.573,2,,,25 mph,,,,,,,6005989,
+49481739,49481742,0,False,residential,Popland Street,131.687,2,,,25 mph,,,,,,,6005989,
+49481742,49506857,0,True,secondary,Pennington Avenue,85.056,2,,,25 mph,,,,,,,225157523,MD 173
+49481742,49481739,0,False,residential,Popland Street,131.687,2,,,25 mph,,,,,,,6005989,
+49481742,49481744,0,False,residential,Popland Street,140.496,2,,,25 mph,,,,,,,6005989,
+49481744,49481742,0,False,residential,Popland Street,140.496,2,,,25 mph,,,,,,,6005989,
+49481744,49534331,0,True,secondary,Curtis Avenue,85.251,2,,,25 mph,,,,,,,468936389,MD 173
+49483236,842509033,0,False,secondary,Shell Road,367.225,4,,,,,,,,,,70639630,
+49483236,842509123,0,False,secondary,Shell Road,267.694,4,,,,,,,,,,70639630,
+49484240,49524623,0,True,residential,Cambria Street,71.003,1,,,25 mph,,,,,,,6011347,
+49484240,49484245,0,False,residential,Alton Avenue,81.252,2,,,,,,,,,,6006342,
+49484245,49492387,0,False,residential,East Pontiac Avenue,147.149,2,,,,,,,,,,6015511,
+49484245,49484248,0,False,residential,Alton Avenue,77.672,2,,,,,,,,,,6006342,
+49484245,49484240,0,False,residential,Alton Avenue,81.252,2,,,,,,,,,,6006342,
+49484248,49484245,0,False,residential,Alton Avenue,77.672,2,,,,,,,,,,6006342,
+49484248,49492394,0,False,residential,Monroe Circle,120.194,2,,,,,,,,,,6010975,
+49484248,49454598,0,False,residential,Monroe Circle,165.294,2,,,,,,,,,,6010975,
+49485525,49485531,0,False,unclassified,Benhill Avenue,133.471,2,,,,,,,,,,6006480,
+49485531,49485532,0,False,unclassified,Benhill Avenue,139.517,2,,,,,,,,,,6006480,
+49485531,49485525,0,False,unclassified,Benhill Avenue,133.471,2,,,,,,,,,,6006480,
+49485531,5278562046,0,True,secondary,Pennington Avenue,66.886,"['2', '3']",,,25 mph,,,,,,,"[225157524, 546202510]",MD 173
+49485532,49485531,0,False,unclassified,Benhill Avenue,139.517,2,,,,,,,,,,6006480,
+49485532,4630837588,0,False,unclassified,"['Benhill Avenue', 'Andard Avenue', 'Distillery Avenue']",508.375,2,,,,,,,,,,"[6006480, 6022828, 70642580, 70642576]",
+49485532,49547413,0,True,secondary,Curtis Avenue,86.333,2,,,25 mph,,,,,,,47998163,MD 173
+49489900,49381113,0,False,residential,Parcel Street,36.707,,,,,,,,,,,6007126,
+49489900,49503940,0,False,residential,Filbert Street,67.329,2,,,25 mph,,,,,,,6008707,
+49489900,49503942,0,False,residential,Filbert Street,68.849,2,,,25 mph,,,,,,,6008707,
+49490594,49505623,0,False,residential,Plum Street,37.638,2,,,25 mph,,,,,,,6013913,
+49490594,49541108,0,False,residential,Plum Street,41.643,2,,,25 mph,,,,,,,6013913,
+49490594,49490596,0,True,residential,Grace Court,85.279,1,,,,,,,,,,6007242,
+49490596,49505624,0,True,residential,Olmstead Street,37.491,2,,,25 mph,,,,,,,6021500,
+49490596,49490598,0,True,residential,Grace Court,86.194,1,,,,,,,,,,6007242,
+49490598,49528358,0,True,residential,Locust Street,41.45,2,,,25 mph,,,,,,,468936395,
+49492386,2905984410,0,True,residential,Cambria Street,8.49,1,,,25 mph,,,,,,,6011347,
+49492386,49524634,0,True,tertiary,Fairhaven Avenue,11.514,1,,,25 mph,,,,,,,521988003,
+49492387,49492390,0,False,residential,Everett Street,30.065,2,,,25 mph,,,,,,,6007394,
+49492387,49484245,0,False,residential,East Pontiac Avenue,147.149,2,,,,,,,,,,6015511,
+49492387,2905984410,0,False,residential,Everett Street,86.162,2,,,25 mph,,,,,,,6007394,
+49492390,49492387,0,False,residential,Everett Street,30.065,2,,,25 mph,,,,,,,6007394,
+49492390,49492394,0,False,residential,Everett Street,55.963,2,,,25 mph,,,,,,,6007394,
+49492390,49455721,0,False,residential,Pascal Avenue,89.384,2,,,,,,,,,,6010229,
+49492394,49492399,0,False,residential,Everett Street,73.236,2,,,25 mph,,,,,,,6007394,
+49492394,49492390,0,False,residential,Everett Street,55.963,2,,,25 mph,,,,,,,6007394,
+49492394,49484248,0,False,residential,Monroe Circle,120.194,2,,,,,,,,,,6010975,
+49492399,49492394,0,False,residential,Everett Street,73.236,2,,,25 mph,,,,,,,6007394,
+49492399,49454625,0,False,residential,Everett Street,89.623,2,,,25 mph,,,,,,,6007394,
+49492399,49457890,0,False,residential,Inner Circle,170.475,2,,,,,,,,,,6012410,
+49492399,49454600,0,False,residential,Inner Circle,172.796,2,,,,,,,,,,6012410,
+49496921,49431660,0,False,residential,Montcalm Court,42.593,,,,,,,,,,,6007779,
+49497199,49497200,0,False,unclassified,Blossom Street,43.067,2,,,,,,,,,,6007797,
+49497199,49485532,0,True,secondary,Curtis Avenue,86.886,2,,,25 mph,,,,,,,47998163,MD 173
+49497200,49497199,0,False,unclassified,Blossom Street,43.067,2,,,,,,,,,,6007797,
+49499112,49499116,0,False,residential,Herndon Court,111.947,2,,,,,,,,,,6007983,
+49499112,2906104959,0,False,residential,"['Mariban Court', 'Druidon Court', 'West Bay Court']",173.082,2,,,,,,,,,,"[6012360, 6018041, 6015632]",
+49499112,49531645,0,False,residential,Mariban Court,48.549,2,,,,,,,,,,6012360,
+49499116,2906104959,0,False,residential,West Bay Court,18.527,2,,,,,,,,,,6015632,
+49499116,49499112,0,False,residential,Herndon Court,111.947,2,,,,,,,,,,6007983,
+49499116,49431660,0,False,residential,West Bay Court,30.691,2,,,,,,,,,,6015632,
+49500938,49501038,0,False,unclassified,9th Street,132.015,2,,,,,,,,,,6011317,
+49500938,49500943,0,False,unclassified,Annabel Avenue,86.716,,,,,,,,,,,6008204,
+49500938,49524262,0,False,unclassified,9th Street,244.13,2,,,,,,,,,,6011317,
+49500943,49500938,0,False,unclassified,Annabel Avenue,86.716,,,,,,,,,,,6008204,
+49501038,49501039,0,False,unclassified,Freeman Street,81.464,,,,,,,,,,,6008221,
+49501038,49500938,0,False,unclassified,9th Street,132.015,2,,,,,,,,,,6011317,
+49501038,49524265,0,False,unclassified,9th Street,65.37,2,,,,,,,,,,6011317,
+49501039,49501038,0,False,unclassified,Freeman Street,81.464,,,,,,,,,,,6008221,
+49503282,49503284,0,False,residential,Elmtree Street,97.021,2,,,25 mph,,,,,,,6008624,
+49503284,49503282,0,False,residential,Elmtree Street,97.021,2,,,25 mph,,,,,,,6008624,
+49503284,49503286,0,False,residential,Elmtree Street,136.251,2,,,25 mph,,,,,,,6008624,
+49503284,49463828,0,False,residential,Prudence Street,85.497,2,,,25 mph,,,,,,,6008722,
+49503284,49503940,0,False,residential,Prudence Street,85.051,2,,,25 mph,,,,,,,6008722,
+49503286,49503284,0,False,residential,Elmtree Street,136.251,2,,,25 mph,,,,,,,6008624,
+49503286,49503289,0,False,residential,Elmtree Street,132.322,2,,,25 mph,,,,,,,6008624,
+49503286,49503942,0,True,tertiary,Fairhaven Avenue,85.257,1,,,25 mph,,,,,,,402077776,
+49503289,49503286,0,False,residential,Elmtree Street,132.322,2,,,25 mph,,,,,,,6008624,
+49503289,49503292,0,False,residential,Elmtree Street,139.265,2,,,25 mph,,,,,,,6008624,
+49503289,49463845,0,True,secondary,Pennington Avenue,85.608,2,,,25 mph,,,,,,,468936399,MD 173
+49503292,49503289,0,False,residential,Elmtree Street,139.265,2,,,25 mph,,,,,,,6008624,
+49503292,49503949,0,True,secondary,Curtis Avenue,85.637,2,,,25 mph,,,,,,,225157500,MD 173
+49503933,49503940,0,False,residential,Filbert Street,184.161,2,,,25 mph,,,,,,,6008707,
+49503933,49505963,0,False,tertiary,West Bay Avenue,154.057,2,,,25 mph,,,,,,,286930177,
+49503933,49505879,0,False,tertiary,West Bay Avenue,380.887,2,,,25 mph,,,,,,,286930177,
+49503940,49489900,0,False,residential,Filbert Street,67.329,2,,,25 mph,,,,,,,6008707,
+49503940,49503933,0,False,residential,Filbert Street,184.161,2,,,25 mph,,,,,,,6008707,
+49503940,49503284,0,False,residential,Prudence Street,85.051,2,,,25 mph,,,,,,,6008722,
+49503940,49504091,0,False,residential,Prudence Street,67.038,2,,,25 mph,,,,,,,6008722,
+49503942,49489900,0,False,residential,Filbert Street,68.849,2,,,25 mph,,,,,,,6008707,
+49503942,49503945,0,False,residential,Filbert Street,132.256,2,,,25 mph,,,,,,,6008707,
+49503942,49475222,0,True,tertiary,Fairhaven Avenue,85.959,1,,,25 mph,,,,,,,6018289,
+49503945,49503942,0,False,residential,Filbert Street,132.256,2,,,25 mph,,,,,,,6008707,
+49503945,49503949,0,False,residential,Filbert Street,139.485,2,,,25 mph,,,,,,,6008707,
+49503945,49503289,0,True,secondary,Pennington Avenue,85.441,2,,,25 mph,,,,,,,468936399,MD 173
+49503949,49475226,0,True,secondary,Curtis Avenue,85.9,2,,,25 mph,,,,,,,225157500,MD 173
+49503949,49503945,0,False,residential,Filbert Street,139.485,2,,,25 mph,,,,,,,6008707,
+49504079,49504081,0,False,residential,Seaboard Court,40.435,,,,,,,,,,,6008720,
+49504079,49431660,0,False,residential,West Bay Court,47.377,2,,,,,,,,,,6015632,
+49504079,49549572,0,False,residential,West Bay Court,59.962,2,,,,,,,,,,6015632,
+49504081,49504079,0,False,residential,Seaboard Court,40.435,,,,,,,,,,,6008720,
+49504091,49503940,0,False,residential,Prudence Street,67.038,2,,,25 mph,,,,,,,6008722,
+49504111,49550675,0,False,residential,Cherry Street,104.747,2,,,25 mph,,,,,,,6015961,
+49504131,49528350,0,False,residential,Locust Street,119.756,2,,,25 mph,,,,,,,539905152,
+49504131,49457897,0,False,residential,"['Prudence Street', 'Hazel Street', 'Pascal Avenue']",406.587,2,,,,,,,,,,"[6005224, 6010234, 6008723]",
+49504131,49560139,0,False,residential,"['Olmstead Street', 'Prudence Street']",185.596,2,,,25 mph,,,,,,,"[6008723, 468936404]",
+49504186,49504191,0,False,unclassified,Aspen Street,107.141,,,,,,,,,,,6008731,
+49504191,49504186,0,False,unclassified,Aspen Street,107.141,,,,,,,,,,,6008731,
+49504191,49504194,0,False,secondary,Pennington Avenue,40.631,4,,,,,,,,,,546202505,MD 173
+49504191,49506830,0,False,secondary,Pennington Avenue,130.893,4,,,,,,,,,,"[546202505, 47998165]",MD 173
+49504194,49504195,0,False,unclassified,Aspen Street,149.679,,,,,,,,,,,6008732,
+49504194,49504191,0,False,secondary,Pennington Avenue,40.631,4,,,,,,,,,,546202505,MD 173
+49504194,49506820,0,False,secondary,Pennington Avenue,256.187,4,,,,,,,,,,546202505,MD 173
+49504195,49504194,0,False,unclassified,Aspen Street,149.679,,,,,,,,,,,6008732,
+49505623,49490594,0,False,residential,Plum Street,37.638,2,,,25 mph,,,,,,,6013913,
+49505623,49505624,0,False,residential,Morrison Court,85.033,2,,,,,,,,,,6009110,
+49505623,49506857,0,False,residential,Plum Street,60.822,2,,,25 mph,,,,,,,6013913,
+49505624,49505626,0,False,residential,Morrison Court,86.127,2,,,,,,,,,,6009110,
+49505624,49505623,0,False,residential,Morrison Court,85.033,2,,,,,,,,,,6009110,
+49505624,49572112,0,True,residential,Olmstead Street,35.957,2,,,25 mph,,,,,,,6021500,
+49505626,49490598,0,True,residential,Locust Street,37.331,2,,,25 mph,,,,,,,468936395,
+49505626,49505624,0,False,residential,Morrison Court,86.127,2,,,,,,,,,,6009110,
+49505782,49428819,0,False,secondary,East Patapsco Avenue,53.528,4,,,30 mph,,,,,,,70638803,MD 173
+49505782,49505789,0,True,tertiary,West Bay Avenue,65.865,2,,,25 mph,,,,,,,6009178,
+49505782,49548185,0,False,secondary,East Patapsco Avenue,92.821,4,,,30 mph,,,,,,,70638803,MD 173
+49505789,49505798,0,True,tertiary,West Bay Avenue,174.672,2,,,25 mph,,,,,,,6009178,
+49505798,49457870,0,False,tertiary,West Bay Avenue,84.167,2,,,25 mph,,,,,,,286930177,
+49505798,49539937,0,False,residential,Washburn Avenue,78.779,2,,,25 mph,,,,,,,546221994,
+49505879,49549572,0,False,residential,Edwight Court,266.791,2,,,,,,,,,,6019202,
+49505879,49503933,0,False,tertiary,West Bay Avenue,380.887,2,,,25 mph,,,,,,,286930177,
+49505879,49457870,0,False,tertiary,West Bay Avenue,333.208,2,,,25 mph,,,,,,,286930177,
+49505963,49469233,0,True,tertiary,West Bay Avenue,102.425,1,,,,,,,,,,6009182,
+49505963,49503933,0,False,tertiary,West Bay Avenue,154.057,2,,,25 mph,,,,,,,286930177,
+49506775,49465614,0,True,primary,Pennington Avenue,885.468,,,,,,,movable,,,,"[52118184, 6012045, 160639135]",MD 173
+49506791,49506800,0,False,secondary,Pennington Avenue,212.123,,,,,,,,,,,47998154,MD 173
+49506791,49415813,0,True,secondary,Pennington Avenue,118.22,,,,,,,,,,,47998155,MD 173
+49506800,49506791,0,False,secondary,Pennington Avenue,212.123,,,,,,,,,,,47998154,MD 173
+49506800,49506820,0,True,secondary,Pennington Avenue,256.485,,,,,,,yes,,,,"[91510016, 47998161, 91510018]",MD 173
+49506820,49550752,0,False,unclassified,Open Street,125.385,,,,,,,,,,,6015984,
+49506820,49506800,0,True,secondary,Pennington Avenue,260.622,,,,,,,yes,,,,"[91510050, 91510012, 47998166]",MD 173
+49506820,49504194,0,False,secondary,Pennington Avenue,256.187,4,,,,,,,,,,546202505,MD 173
+49506830,5278562052,0,True,secondary,Birch Street,23.109,2,,,25 mph,,,,,,,6009478,MD 173
+49506830,49504191,0,False,secondary,Pennington Avenue,130.893,4,,,,,,,,,,"[546202505, 47998165]",MD 173
+49506837,49547602,0,False,residential,Ceddox Street,132.129,2,,,25 mph,,,,,,,6014955,
+49506837,49547413,0,False,residential,Ceddox Street,139.659,2,,,25 mph,,,,,,,6014955,
+49506837,49485531,0,True,secondary,Pennington Avenue,83.901,2,,,25 mph,,,,,,,225157524,MD 173
+49506841,49506837,0,True,secondary,Pennington Avenue,59.608,2,,,25 mph,,,,,,,225157524,MD 173
+49506841,49529933,0,True,residential,Cereal Street,139.384,,,,,,,,,,,6012233,
+49506844,49506841,0,True,secondary,Pennington Avenue,57.179,2,,,25 mph,,,,,,,225157524,MD 173
+49506844,49550675,0,False,residential,Cherry Street,132.212,2,,,25 mph,,,,,,,6015961,
+49506844,49547410,0,False,residential,Cherry Street,139.476,2,,,25 mph,,,,,,,6015961,
+49506853,49528350,0,False,residential,Locust Street,132.119,2,,,25 mph,,,,,,,539905152,
+49506853,49505626,0,True,residential,Locust Street,60.987,2,,,25 mph,,,,,,,468936395,
+49506853,49475224,0,True,secondary,Pennington Avenue,85.574,2,,,25 mph,,,,,,,468936399,MD 173
+49506855,49506853,0,True,secondary,Pennington Avenue,85.786,2,,,25 mph,,,,,,,468936399,MD 173
+49506855,49560139,0,False,residential,Olmstead Street,132.051,2,,,25 mph,,,,,,,468936404,
+49506857,49541099,0,False,residential,Plum Street,131.993,2,,,25 mph,,,,,,,6013913,
+49506857,49505623,0,False,residential,Plum Street,60.822,2,,,25 mph,,,,,,,6013913,
+49506857,49506855,0,True,secondary,Pennington Avenue,85.005,2,,,25 mph,,,,,,,225157523,MD 173
+49506860,49481742,0,True,secondary,Pennington Avenue,85.781,2,,,25 mph,,,,,,,225157523,MD 173
+49506860,49534326,0,False,residential,Spruce Street,131.857,2,,,25 mph,,,,,,,6012748,
+49506860,49534331,0,False,residential,Spruce Street,140.44,2,,,25 mph,,,,,,,"[225157531, 225157532]",
+49506863,49455725,0,True,secondary,Pennington Avenue,85.584,2,,,25 mph,,,,,,,98214812,MD 173
+49506863,49549294,0,False,residential,Sassafras Street,132.716,2,,,25 mph,,,,,,,6015519,
+49506970,49506791,0,True,secondary,Pennington Avenue,38.37,,,,,,,,,,,160639131,MD 173
+49506970,49413807,0,False,unclassified,Old Pennington Avenue,166.475,,,,,,,,,,,5995955,
+49508067,4502184910,0,False,unclassified,Curtis Avenue,7.431,2,,,,,,,,,,453490120,
+49508067,49497199,0,True,secondary,Curtis Avenue,83.868,2,,,25 mph,,,,,,,47998163,MD 173
+49508080,4630837588,0,False,unclassified,Distillery Avenue,79.401,,,,,,,,,,,6022828,
+49508982,266995332,0,True,motorway,Baltimore Beltway,1513.877,2,,,55 mph,,,yes,,,,"[54240207, 54240231, 24555622, 54327495]",I 695
+49509081,49382275,0,True,motorway_link,,498.999,"['1', '3']",,,,,,,,,,"[425131760, 52118197]",
+49509081,49382261,0,True,motorway,Baltimore Beltway,1134.311,2,,,55 mph,,,,,,,54327493,I 695
+49509136,49509081,0,True,motorway,Baltimore Beltway,2053.061,2,,,55 mph,,,yes,,,,"[54327493, 54327494, 24555623, 24555626, 54240235, 54240218]",I 695
+49510092,49510098,0,False,unclassified,Bungalow Avenue,88.91,,,,,,,,,,,6009721,
+49510092,610421713,0,False,unclassified,Arundel Cove Avenue,135.413,,,,,,,,,,,6012083,
+49510092,49465629,0,False,unclassified,Arundel Cove Avenue,144.325,,,,,,,,,,,6012083,
+49510098,2932651500,0,False,unclassified,Bungalow Avenue,50.588,,,,,,,,,,,6009721,
+49510098,49510092,0,False,unclassified,Bungalow Avenue,88.91,,,,,,,,,,,6009721,
+49510098,49465632,0,False,unclassified,Cove Avenue,144.085,,,,,,,,,,,6021381,
+49510768,49382275,0,False,unclassified,Quarantine Road,78.702,,,,,,,,,,,121507844,
+49510768,49382384,0,False,unclassified,Hockley Road,32.846,,,,,permissive,,,,,,6020553,
+49510768,49510872,0,False,unclassified,Quarantine Road,1273.349,,,,,,,,,,,"[121507844, 568808599]",
+49510872,49510768,0,False,unclassified,Quarantine Road,1273.349,,,,,,,,,,,"[121507844, 568808599]",
+49514946,49469231,0,False,residential,Rosabel Avenue,78.647,2,,,,,,,,,,6010346,
+49523066,49577977,0,False,tertiary,10th Street,231.117,2,,,25 mph,,,,,,,"[6023027, 194234271]",
+49523066,49523073,0,False,tertiary,6th Street,126.817,2,,,25 mph,,,,,,,194234273,
+49523073,49460004,0,False,tertiary,Virginia Avenue,455.059,2,,,25 mph,,,,,,,"[6003251, 6021947]",
+49523073,49523066,0,False,tertiary,6th Street,126.817,2,,,25 mph,,,,,,,194234273,
+49523688,49476566,0,False,tertiary,10th Street,77.04,2,,,25 mph,,,,,,,6023027,
+49523688,49523758,0,False,tertiary,10th Street,78.536,2,,,25 mph,,,,,,,6023027,
+49523758,49539934,0,False,tertiary,10th Street,109.416,2,,,25 mph,,,,,,,6023027,
+49523758,49446142,0,False,residential,East Jeffrey Street,78.29,2,,,25 mph,,,,,,,6011266,
+49523758,49523688,0,False,tertiary,10th Street,78.536,2,,,25 mph,,,,,,,6023027,
+49523965,49378069,0,False,tertiary,Fort Armistead Road,151.048,,,,,,,,,,,6011306,
+49523965,49423549,0,True,tertiary,Fort Armistead Road,117.626,,,,,,,,,,,52350077,
+49523992,49379171,0,False,tertiary,Fort Armistead Road,33.074,,,,,,,,,,,6011306,
+49523992,49378069,0,False,tertiary,Fort Armistead Road,745.495,,,,,,,,,,,6011306,
+49523992,49562752,0,False,unclassified,Lagaret Road,149.351,,,,,,,,,,,6018945,
+49524262,49538074,0,False,unclassified,Baltic Avenue,124.378,,,,,,,,,,,6013492,
+49524262,49500938,0,False,unclassified,9th Street,244.13,2,,,,,,,,,,6011317,
+49524265,49501038,0,False,unclassified,9th Street,65.37,2,,,,,,,,,,6011317,
+49524265,49548200,0,False,secondary,East Patapsco Avenue,107.534,4,,,30 mph,,,,,,,194234247,MD 173
+49524623,49505789,0,True,residential,Cambria Street,92.962,1,,,25 mph,,,,,,,6011347,
+49524623,49548185,0,False,residential,12th Street,65.753,2,,,,,,,,,,6018661,
+49524630,49484240,0,True,residential,Cambria Street,30.734,1,,,25 mph,,,,,,,6011347,
+49524630,49526654,0,True,residential,Shelby Avenue,72.974,1,,,,,,,,,,6011615,
+49524634,2905984410,0,False,residential,Everett Street,10.959,2,,,25 mph,,,,,,,6007394,
+49524634,610423044,0,False,tertiary,Fairhaven Avenue,60.967,2,,,25 mph,,,,,,,402077775,
+49526654,610423044,0,False,secondary,East Patapsco Avenue,153.489,4,,,30 mph,,,,,,,70638803,MD 173
+49526654,49548185,0,False,secondary,East Patapsco Avenue,70.931,4,,,30 mph,,,,,,,70638803,MD 173
+49528350,49504131,0,False,residential,Locust Street,119.756,2,,,25 mph,,,,,,,539905152,
+49528350,49506853,0,False,residential,Locust Street,132.119,2,,,25 mph,,,,,,,539905152,
+49528350,49560139,0,True,tertiary,Fairhaven Avenue,85.246,1,,,25 mph,,,,,,,6018289,
+49528358,3656046146,0,False,residential,Locust Street,76.889,2,,,,,,,,,,6012026,
+49528358,49547404,0,True,secondary,Curtis Avenue,86.365,2,,,25 mph,,,,,,,468936389,MD 173
+49529933,49547410,0,True,secondary,Curtis Avenue,56.58,2,,,25 mph,,,,,,,47998163,MD 173
+49531623,49546639,0,False,residential,Gretna Court,32.632,2,,,25 mph,,,,,,,6014743,
+49531623,49531645,0,False,residential,Mariban Court,163.384,2,,,,,,,,,,6012360,
+49531623,49546642,0,False,residential,Gretna Court,49.507,2,,,25 mph,,,,,,,6014743,
+49531645,49577977,0,False,residential,Renick Court,32.045,2,,,25 mph,,,,,,,6023722,
+49531645,49499112,0,False,residential,Mariban Court,48.549,2,,,,,,,,,,6012360,
+49531645,49531623,0,False,residential,Mariban Court,163.384,2,,,,,,,,,,6012360,
+49531645,49579117,0,False,residential,Renick Court,50.044,2,,,25 mph,,,,,,,6023722,
+49532026,49457890,0,False,residential,Inner Circle,68.442,2,,,,,,,,,,6012410,
+49534326,49455723,0,True,tertiary,Fairhaven Avenue,85.224,1,,,25 mph,,,,,,,6018289,
+49534326,49506860,0,False,residential,Spruce Street,131.857,2,,,25 mph,,,,,,,6012748,
+49534331,49402276,0,True,secondary,Curtis Avenue,231.141,"['2', '3']",,,25 mph,,,,,,,"[546209987, 545317980, 225157495]",MD 173
+49534331,49506860,0,False,residential,Spruce Street,140.44,2,,,25 mph,,,,,,,"[225157531, 225157532]",
+49538074,49524262,0,False,unclassified,Baltic Avenue,124.378,,,,,,,,,,,6013492,
+49539934,49523758,0,False,tertiary,10th Street,109.416,2,,,25 mph,,,,,,,6023027,
+49539934,49548197,0,False,tertiary,10th Street,240.318,2,,,25 mph,,,,,,,6023027,
+49539934,49539937,0,False,residential,Washburn Avenue,78.268,2,,,25 mph,,,,,,,546221994,
+49539937,49548195,0,True,residential,Saint Margaret Street,240.497,2,,,25 mph,,,,,,,6022074,
+49539937,49505798,0,False,residential,Washburn Avenue,78.779,2,,,25 mph,,,,,,,546221994,
+49539937,49539934,0,False,residential,Washburn Avenue,78.268,2,,,25 mph,,,,,,,546221994,
+49541099,49481739,0,True,tertiary,Fairhaven Avenue,85.09,1,,,25 mph,,,,,,,6018289,
+49541099,49506857,0,False,residential,Plum Street,131.993,2,,,25 mph,,,,,,,6013913,
+49541108,49490594,0,False,residential,Plum Street,41.643,2,,,25 mph,,,,,,,6013913,
+49541108,49481744,0,True,secondary,Curtis Avenue,85.038,2,,,25 mph,,,,,,,468936389,MD 173
+49546639,49531623,0,False,residential,Gretna Court,32.632,2,,,25 mph,,,,,,,6014743,
+49546639,49577977,0,False,tertiary,10th Street,162.444,2,,,25 mph,,,,,,,6023027,
+49546639,49476566,0,False,tertiary,10th Street,56.11,2,,,25 mph,,,,,,,6023027,
+49546642,49462781,0,False,residential,"['Rondo Court', 'Gretna Court']",100.948,2,,,25 mph,,,,,,,"[6003540, 6014743]",
+49546642,49531623,0,False,residential,Gretna Court,49.507,2,,,25 mph,,,,,,,6014743,
+49546642,49579117,0,False,residential,Hyden Court,163.619,2,,,,,,,,,,6023337,
+49547404,49490596,0,True,residential,Olmstead Street,41.548,2,,,25 mph,,,,,,,6021500,
+49547404,49541108,0,True,secondary,Curtis Avenue,85.283,2,,,25 mph,,,,,,,468936389,MD 173
+49547410,49506844,0,False,residential,Cherry Street,139.476,2,,,25 mph,,,,,,,6015961,
+49547410,49469243,0,True,secondary,Curtis Avenue,85.984,2,,,25 mph,,,,,,,47998163,MD 173
+49547413,49506837,0,False,residential,Ceddox Street,139.659,2,,,25 mph,,,,,,,6014955,
+49547413,49529933,0,True,secondary,Curtis Avenue,58.356,2,,,25 mph,,,,,,,47998163,MD 173
+49547418,4502184910,0,False,unclassified,Curtis Avenue,105.473,2,,,,,,,,,,453490120,
+49547594,49547602,0,False,residential,Ceddox Street,50.181,2,,,25 mph,,,,,,,6014955,
+49547602,49547594,0,False,residential,Ceddox Street,50.181,2,,,25 mph,,,,,,,6014955,
+49547602,49506837,0,False,residential,Ceddox Street,132.129,2,,,25 mph,,,,,,,6014955,
+49547602,49550675,0,False,unclassified,Fairhaven Avenue,118.556,2,,,25 mph,,,,,,,286930176,
+49548120,842509062,0,False,secondary,East Patapsco Avenue,57.368,4,,,,,,,,,,70638801,
+49548120,842768029,0,True,secondary,East Patapsco Avenue,203.561,2,,,,,,,,,,6015161,
+49548185,49524623,0,False,residential,12th Street,65.753,2,,,,,,,,,,6018661,
+49548185,49526654,0,False,secondary,East Patapsco Avenue,70.931,4,,,30 mph,,,,,,,70638803,MD 173
+49548185,49505782,0,False,secondary,East Patapsco Avenue,92.821,4,,,30 mph,,,,,,,70638803,MD 173
+49548195,49428819,0,False,secondary,East Patapsco Avenue,23.04,4,,,30 mph,,,,,,,70638803,MD 173
+49548195,49548197,0,False,secondary,East Patapsco Avenue,79.044,4,,,30 mph,,,,,,,70638803,MD 173
+49548197,49539934,0,False,tertiary,10th Street,240.318,2,,,25 mph,,,,,,,6023027,
+49548197,49548195,0,False,secondary,East Patapsco Avenue,79.044,4,,,30 mph,,,,,,,70638803,MD 173
+49548197,49548200,0,False,secondary,East Patapsco Avenue,72.239,4,,,30 mph,,,,,,,194234247,MD 173
+49548200,49548197,0,False,secondary,East Patapsco Avenue,72.239,4,,,30 mph,,,,,,,194234247,MD 173
+49548200,49524265,0,False,secondary,East Patapsco Avenue,107.534,4,,,30 mph,,,,,,,194234247,MD 173
+49549294,49506863,0,False,residential,Sassafras Street,132.716,2,,,25 mph,,,,,,,6015519,
+49549294,49492386,0,True,tertiary,Fairhaven Avenue,81.748,1,,,25 mph,,,,,,,521988003,
+49549554,2906104959,0,False,residential,Moneta Court,44.191,,,,,,,,,,,6015611,
+49549572,49462781,0,False,residential,Edwight Court,25.777,2,,,,,,,,,,6019202,
+49549572,49504079,0,False,residential,West Bay Court,59.962,2,,,,,,,,,,6015632,
+49549572,49505879,0,False,residential,Edwight Court,266.791,2,,,,,,,,,,6019202,
+49550675,49504111,0,False,residential,Cherry Street,104.747,2,,,25 mph,,,,,,,6015961,
+49550675,49506844,0,False,residential,Cherry Street,132.212,2,,,25 mph,,,,,,,6015961,
+49550675,49547602,0,False,unclassified,Fairhaven Avenue,118.556,2,,,25 mph,,,,,,,286930176,
+49550675,49469240,0,False,unclassified,Fairhaven Avenue,85.759,2,,,25 mph,,,,,,,286930176,
+49550752,49506820,0,False,unclassified,Open Street,125.385,,,,,,,,,,,6015984,
+49560139,49541099,0,True,tertiary,Fairhaven Avenue,84.722,1,,,25 mph,,,,,,,6018289,
+49560139,49504131,0,False,residential,"['Olmstead Street', 'Prudence Street']",185.596,2,,,25 mph,,,,,,,"[6008723, 468936404]",
+49560139,49506855,0,False,residential,Olmstead Street,132.051,2,,,25 mph,,,,,,,468936404,
+49562752,49523992,0,False,unclassified,Lagaret Road,149.351,,,,,,,,,,,6018945,
+49566969,49469223,0,False,residential,Muriel Avenue,59.707,2,,,,,,,,,,6020184,
+49572112,49506855,0,True,residential,Olmstead Street,24.94,2,,,25 mph,,,,,,,6021500,
+49572112,49576272,0,False,residential,Graham Court,43.095,,,,,,,,,,,6022454,
+49576272,49572112,0,False,residential,Graham Court,43.095,,,,,,,,,,,6022454,
+49577977,49531645,0,False,residential,Renick Court,32.045,2,,,25 mph,,,,,,,6023722,
+49577977,49523066,0,False,tertiary,10th Street,231.117,2,,,25 mph,,,,,,,"[6023027, 194234271]",
+49577977,49546639,0,False,tertiary,10th Street,162.444,2,,,25 mph,,,,,,,6023027,
+49579117,49546642,0,False,residential,Hyden Court,163.619,2,,,,,,,,,,6023337,
+49579117,49462781,0,False,residential,"['Rondo Court', 'Renick Court']",114.604,2,,,25 mph,,,,,,,"[6023722, 6003540]",
+49579117,49531645,0,False,residential,Renick Court,50.044,2,,,25 mph,,,,,,,6023722,
+610421611,49465699,0,False,primary,Quarantine Road,13.646,,,,,,,,,,,6009827,
+610421611,2291512820,0,False,unclassified,Efficiency Way,145.17,,,,,,,,,,,220028943,
+610421611,49433508,0,True,primary,"['Hawkins Point Road', 'Fort Smallwood Road']",374.318,,,,,,,,,,,"[47998146, 475154399]",MD 173
+610421713,49510092,0,False,unclassified,Arundel Cove Avenue,135.413,,,,,,,,,,,6012083,
+610422911,610423396,0,True,secondary,East Patapsco Avenue,56.879,1,,,,,,,,,,238216670,
+610422911,842768006,0,True,secondary,Curtis Avenue,132.714,2,,,,,,,,,,238216669,MD 173
+610422911,49453212,0,True,secondary_link,,49.997,1,,,,,,,,,,238216673,
+610423044,49526654,0,False,secondary,East Patapsco Avenue,153.489,4,,,30 mph,,,,,,,70638803,MD 173
+610423044,49524634,0,False,tertiary,Fairhaven Avenue,60.967,2,,,25 mph,,,,,,,402077775,
+610423044,842768118,0,True,secondary,East Patapsco Avenue,75.629,2,,,,,,,,,,"[98214824, 425143917]",MD 173
+610423396,49548120,0,True,secondary,East Patapsco Avenue,205.636,2,,,,,,,,,,545317978,
+842509033,49483236,0,False,secondary,Shell Road,367.225,4,,,,,,,,,,70639630,
+842509033,842509062,0,True,secondary_link,,43.094,2,,,,,,,,,,98214806,
+842509033,842767726,0,False,secondary,Shell Road,45.691,3,,,,,,,,,,545317983,
+842509062,842767726,0,False,secondary,East Patapsco Avenue,23.556,4,,,,,,,,,,70638801,
+842509062,49548120,0,False,secondary,East Patapsco Avenue,57.368,4,,,,,,,,,,70638801,
+842509123,49447132,0,False,secondary,Shell Road,59.746,4,,,,,,,,,,70639630,
+842509123,49483236,0,False,secondary,Shell Road,267.694,4,,,,,,,,,,70639630,
+842767726,842509062,0,False,secondary,East Patapsco Avenue,23.556,4,,,,,,,,,,70638801,
+842767726,842509033,0,False,secondary,Shell Road,45.691,3,,,,,,,,,,545317983,
+842768006,610423044,0,True,secondary,East Patapsco Avenue,37.101,2,,,,,,,,,,98214811,MD 173
+842768029,610422911,0,True,secondary_link,,59.081,1,,,,,,,,,,6002464,
+842768029,842768006,0,True,secondary,East Patapsco Avenue,187.817,1,,,,,,,,,,545317979,
+842768118,610422911,0,True,secondary,East Patapsco Avenue,93.365,1,,,,,,,,,,98214864,
+842768118,49453212,0,True,secondary,Pennington Avenue,115.178,2,,,25 mph,,,,,,,98214812,MD 173
+1334544702,49465699,0,False,primary,Quarantine Road,74.938,4,,,,,,,,,,425131756,
+1334544702,49381198,0,False,primary,Quarantine Road,36.47,3,,,,,,,,,,"[425131754, 425131757]",
+2291512820,610421611,0,False,unclassified,Efficiency Way,145.17,,,,,,,,,,,220028943,
+2905984410,49524634,0,False,residential,Everett Street,10.959,2,,,25 mph,,,,,,,6007394,
+2905984410,49524630,0,True,residential,Cambria Street,144.343,1,,,25 mph,,,,,,,6011347,
+2905984410,49492387,0,False,residential,Everett Street,86.162,2,,,25 mph,,,,,,,6007394,
+2906104959,49549554,0,False,residential,Moneta Court,44.191,,,,,,,,,,,6015611,
+2906104959,49499116,0,False,residential,West Bay Court,18.527,2,,,,,,,,,,6015632,
+2906104959,49499112,0,False,residential,"['Mariban Court', 'Druidon Court', 'West Bay Court']",173.082,2,,,,,,,,,,"[6015632, 6018041, 6012360]",
+2926513779,49413807,0,False,unclassified,Old Pennington Avenue,315.42,,,,,,,,,,,5995955,
+2932651500,49510098,0,False,unclassified,Bungalow Avenue,50.588,,,,,,,,,,,6009721,
+2934145534,49457111,0,False,unclassified,Thoms Road,9.469,,,,,,,,,,,6002927,
+2934145534,49416760,0,True,primary,Fort Armistead Road,194.093,,,,,,,,,,,6011307,
+3656046146,49528358,0,False,residential,Locust Street,76.889,2,,,,,,,,,,6012026,
+4502184910,49508067,0,False,unclassified,Curtis Avenue,7.431,2,,,,,,,,,,453490120,
+4502184910,49432316,0,False,unclassified,Birch Street,583.353,2,,,,,,,,,,47998158,
+4502184910,49547418,0,False,unclassified,Curtis Avenue,105.473,2,,,,,,,,,,453490120,
+4630837578,4630837588,0,False,residential,,171.918,,,,,,,,,,,468560307,
+4630837588,49508080,0,False,unclassified,Distillery Avenue,79.401,,,,,,,,,,,6022828,
+4630837588,49485532,0,False,unclassified,"['Benhill Avenue', 'Andard Avenue', 'Distillery Avenue']",508.375,2,,,,,,,,,,"[70642576, 70642580, 6022828, 6006480]",
+4630837588,4630837578,0,False,residential,,171.918,,,,,,,,,,,468560307,
+5278562046,49506830,0,True,secondary,Pennington Avenue,103.842,2,,,25 mph,,,,,,,546202512,MD 173
+5278562046,5278562052,0,True,secondary_link,,118.093,1,,,,,,,,,,546202509,
+5278562052,49508067,0,True,secondary,Birch Street,113.195,2,,,25 mph,,,,,,,6009478,MD 173
+5469700498,49379171,0,False,unclassified,Dock Road,156.882,,,,,,,,,,,5991888,

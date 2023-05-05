@@ -1,0 +1,443 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+209257492,212714429,0,False,tertiary,South Clinton Avenue,73.66,,,,35 mph,,,,,,,20117652,CR 100
+209257492,212648238,0,False,tertiary,Westfall Road,415.627,,,,35 mph,,,,,,,49948372,CR 239
+209257492,212674835,0,False,tertiary,Westfall Road,627.325,,,,,,,,,,,301011777,CR 239
+212612877,1859111743,0,False,residential,,315.183,3,,,,,,,,,,"[557942888, 20110945]",
+212612877,212648185,0,False,residential,Lac de Ville Boulevard,125.334,,,,,,,,,,,20113220,
+212612877,212648149,0,False,residential,Lac de Ville Boulevard,290.601,,,,,,,,,,,20113220,
+212614787,212785397,0,False,primary,Monroe Avenue,192.176,,,,,,,,,,,76910621,NY 31
+212623607,212623618,0,False,residential,Runnymede Road,98.604,,,,,,,,,,,20111697,
+212623607,212674853,0,False,residential,Avalon Drive,208.709,,,,,,,,,,,20129346,
+212623607,212837256,0,False,residential,Avalon Drive,359.949,,,,,,,,,,,20129346,
+212623618,212898608,0,False,residential,Runnymede Court,76.996,,,,,,,,,,,20135177,
+212623618,212623649,0,False,residential,Runnymede Road,232.706,,,,,,,,,,,20111697,
+212623618,212623607,0,False,residential,Runnymede Road,98.604,,,,,,,,,,,20111697,
+212623649,212623618,0,False,residential,Runnymede Road,232.706,,,,,,,,,,,20111697,
+212623743,212751984,0,False,residential,Greenwich Lane,119.587,,,,,,,,,,,20125917,
+212623743,212623750,0,False,secondary,South Winton Road,317.722,,,,,,,,,,,487554509,CR 98
+212623750,212751993,0,False,residential,Newton Drive,115.186,,,,,,,,,,,20129160,
+212623750,212623754,0,False,secondary,South Winton Road,179.977,,,,,,,,,,,487554509,CR 98
+212623750,212623743,0,False,secondary,South Winton Road,317.722,,,,,,,,,,,487554509,CR 98
+212623754,212623757,0,False,secondary,South Winton Road,136.459,,,,,,,,,,,487554509,CR 98
+212623754,212752019,0,False,residential,Avalon Drive,63.618,,,,,,,,,,,20129346,
+212623754,212623750,0,False,secondary,South Winton Road,179.977,,,,,,,,,,,487554509,CR 98
+212623757,212623761,0,False,secondary,South Winton Road,119.404,,,,,,,,,,,487554509,CR 98
+212623757,212623754,0,False,secondary,South Winton Road,136.459,,,,,,,,,,,487554509,CR 98
+212623757,212641759,0,False,residential,Danbury Circle North,390.292,,,,,,,,,,,20112823,
+212623761,212623764,0,False,secondary,South Winton Road,96.091,,,,45 mph,,,,,,,49948345,CR 98
+212623761,212623757,0,False,secondary,South Winton Road,119.404,,,,,,,,,,,487554509,CR 98
+212623761,212642897,0,False,residential,Danbury Circle South,341.597,,,,,,,,,,,20112897,
+212623761,212689884,0,False,residential,Hollyvale Drive,129.013,,,,,,,,,,,20116085,
+212623764,212699184,0,False,residential,Victoria Drive,113.116,,,,,,,,,,,20141206,
+212623764,212623761,0,False,secondary,South Winton Road,96.091,,,,45 mph,,,,,,,49948345,CR 98
+212623764,212623780,0,False,secondary,South Winton Road,207.755,,,,45 mph,,,,,,,49948345,CR 98
+212623780,212674856,0,False,tertiary,Westfall Road,281.657,,,,35 mph,,,,,,,49948372,CR 239
+212623780,212674858,0,False,tertiary,Westfall Road,226.04,,,,,,,,,,,49948373,CR 239
+212623780,212623764,0,False,secondary,South Winton Road,207.755,,,,45 mph,,,,,,,49948345,CR 98
+212626916,212804551,0,False,residential,Stanford Road,53.346,,,,,,,,,,,20126431,
+212626916,212626935,0,False,residential,Vernon Place,158.519,,,,,,,,,,,20111900,
+212626916,212821796,0,False,residential,Roby Drive,458.359,,,,,,,,,,,20127913,
+212626935,212837256,0,False,residential,Avalon Drive,157.405,,,,,,,,,,,20129346,
+212626935,212775422,0,False,residential,Avalon Drive,126.88,,,,,,,,,,,20129346,
+212626935,212626916,0,False,residential,Vernon Place,158.519,,,,,,,,,,,20111900,
+212630352,212660942,0,False,primary,Elmwood Avenue,76.441,4,,,35 mph,,,,,,,309331306,CR 87
+212630352,651295544,0,False,primary,Elmwood Avenue,314.687,4,,,35 mph,,,,,,,309331306,CR 87
+212641759,212642897,0,False,residential,Bonnie Brae Avenue,110.494,,,,,,,,,,,20123895,
+212641759,212642897,1,False,residential,"['Danbury Circle South', 'Danbury Circle North']",537.731,,,,,,,,,,,"[20112897, 20112823]",
+212641759,212775422,0,False,residential,Bonnie Brae Avenue,107.71,,,,,,,,,,,20123895,
+212641759,212623757,0,False,residential,Danbury Circle North,390.292,,,,,,,,,,,20112823,
+212642897,212641759,0,False,residential,Bonnie Brae Avenue,110.494,,,,,,,,,,,20123895,
+212642897,212641759,1,False,residential,"['Danbury Circle North', 'Danbury Circle South']",537.731,,,,,,,,,,,"[20112897, 20112823]",
+212642897,212623761,0,False,residential,Danbury Circle South,341.597,,,,,,,,,,,20112897,
+212642897,212775432,0,False,residential,Bonnie Brae Avenue,104.127,,,,,,,,,,,20123895,
+212644564,212660966,0,False,primary,Elmwood Avenue,127.846,4,,,35 mph,,,,,,,309331306,CR 87
+212644564,212644588,0,False,residential,Buckland Avenue,390.598,,,,,,,,,,,20113002,
+212644588,212751993,0,False,residential,Newton Drive,115.552,,,,,,,,,,,20129160,
+212644588,212774138,0,False,residential,Newton Drive,116.49,,,,,,,,,,,20129160,
+212644588,212644618,0,False,residential,Buckland Avenue,268.494,,,,,,,,,,,20113002,
+212644588,212644564,0,False,residential,Buckland Avenue,390.598,,,,,,,,,,,20113002,
+212644618,212774162,0,False,residential,Avalon Drive,126.236,,,,,,,,,,,20129346,
+212644618,212752019,0,False,residential,Avalon Drive,126.255,,,,,,,,,,,20129346,
+212644618,212644588,0,False,residential,Buckland Avenue,268.494,,,,,,,,,,,20113002,
+212648149,212612877,0,False,residential,Lac de Ville Boulevard,290.601,,,,,,,,,,,20113220,
+212648149,651295542,0,False,residential,Lac de Ville Boulevard,134.785,,,,,,,,,,,20113220,
+212648149,1859111656,0,False,residential,Rue de Ville,261.49,,,,,,,,,,,20136567,
+212648185,212648204,0,False,residential,Lac de Ville Boulevard,86.433,,,,,,,,,,,20113220,
+212648185,212612877,0,False,residential,Lac de Ville Boulevard,125.334,,,,,,,,,,,20113220,
+212648185,212850129,0,False,residential,Brandywine Lane,86.519,,,,,,,,,,,20130479,
+212648204,212648210,0,False,residential,Lac de Ville Boulevard,101.455,,,,,,,,,,,20113220,
+212648204,212648185,0,False,residential,Lac de Ville Boulevard,86.433,,,,,,,,,,,20113220,
+212648204,212755378,0,False,residential,Lac Kine Drive,68.279,,,,,,,,,,,20136771,
+212648210,212648204,0,False,residential,Lac de Ville Boulevard,101.455,,,,,,,,,,,20113220,
+212648210,212716836,0,False,residential,Montpelier Circle,58.311,,,,,,,,,,,20123529,
+212648210,212648235,0,False,residential,Lac de Ville Boulevard,114.047,,,,,,,,,,,20113220,
+212648235,212648238,0,False,residential,Lac de Ville Boulevard,47.524,,,,,,,,,,,20113220,
+212648235,212648210,0,False,residential,Lac de Ville Boulevard,114.047,,,,,,,,,,,20113220,
+212648235,212755435,0,False,residential,Lac Kine Drive,226.993,,,,,,,,,,,20136771,
+212648238,212648235,0,False,residential,Lac de Ville Boulevard,47.524,,,,,,,,,,,20113220,
+212648238,212674849,0,False,tertiary,Westfall Road,521.141,,,,35 mph,,,,,,,49948372,CR 239
+212648238,209257492,0,False,tertiary,Westfall Road,415.627,,,,35 mph,,,,,,,49948372,CR 239
+212653926,212838390,0,False,residential,Havens Road,33.064,,,,,,,,,,,20135926,
+212658158,212679681,0,False,residential,Songbird Lane,21.765,,,,,,,,,,,20115398,
+212658158,212679681,1,False,residential,Songbird Lane,55.891,,,,,,,,,,,20115398,
+212658158,212662879,0,False,residential,Songbird Lane,69.235,,,,,,,,,,,20115399,
+212658158,212658168,0,False,residential,Johnsarbor Drive East,53.463,,,,,,,,,,,20113781,
+212658168,212658188,0,False,residential,Johnsarbor Drive East,95.685,,,,,,,,,,,20113781,
+212658168,212658188,1,False,residential,Johnsarbor Drive East,98.305,,,,,,,,,,,20113782,
+212658168,212658158,0,False,residential,Johnsarbor Drive East,53.463,,,,,,,,,,,20113781,
+212658188,212658232,0,False,residential,Johnsarbor Drive East,360.11,,,,,,,,,,,20113781,
+212658188,212658168,0,False,residential,Johnsarbor Drive East,95.685,,,,,,,,,,,20113781,
+212658188,212658168,1,False,residential,Johnsarbor Drive East,98.305,,,,,,,,,,,20113782,
+212658232,212658188,0,False,residential,Johnsarbor Drive East,360.11,,,,,,,,,,,20113781,
+212658232,212662848,0,False,residential,Johnsarbor Drive West,247.967,,,,,,,,,,,20114071,
+212658232,212660914,0,False,residential,Johnsarbor Drive,78.19,,,,,,,,,,,20127864,
+212660911,212660914,0,False,primary,Elmwood Avenue,171.952,4,,,35 mph,,,,,,,226606214,CR 87
+212660911,3024571534,0,False,primary,Elmwood Avenue,182.13,4,,,"['35 mph', '30 mph']",,,,,,,"[290768433, 226606214]",CR 87
+212660914,212660920,0,False,primary,Elmwood Avenue,110.47,4,,,35 mph,,,,,,,226606214,CR 87
+212660914,212658232,0,False,residential,Johnsarbor Drive,78.19,,,,,,,,,,,20127864,
+212660914,212660911,0,False,primary,Elmwood Avenue,171.952,4,,,35 mph,,,,,,,226606214,CR 87
+212660920,212660914,0,False,primary,Elmwood Avenue,110.47,4,,,35 mph,,,,,,,226606214,CR 87
+212660920,212660929,0,False,primary,Elmwood Avenue,380.499,4,,,35 mph,,,,,,,"[309331306, 226606214]",CR 87
+212660929,212660932,0,False,primary,Elmwood Avenue,260.48,4,,,35 mph,,,,,,,309331306,CR 87
+212660929,212660920,0,False,primary,Elmwood Avenue,380.499,4,,,35 mph,,,,,,,"[309331306, 226606214]",CR 87
+212660929,212714418,0,False,tertiary,South Clinton Avenue,372.554,,,,35 mph,,,,,,,560446426,CR 100
+212660932,212660936,0,False,primary,Elmwood Avenue,131.078,4,,,35 mph,,,,,,,309331306,CR 87
+212660932,212660929,0,False,primary,Elmwood Avenue,260.48,4,,,35 mph,,,,,,,309331306,CR 87
+212660936,651295544,0,False,primary,Elmwood Avenue,54.718,4,,,35 mph,,,,,,,309331306,CR 87
+212660936,212660932,0,False,primary,Elmwood Avenue,131.078,4,,,35 mph,,,,,,,309331306,CR 87
+212660942,212630352,0,False,primary,Elmwood Avenue,76.441,4,,,35 mph,,,,,,,309331306,CR 87
+212660942,212764812,0,False,residential,Fairfield Drive,145.832,,,,,,,,,,,20140792,
+212660942,212660945,0,False,primary,Elmwood Avenue,106.139,4,,,35 mph,,,,,,,309331306,CR 87
+212660945,212660949,0,False,primary,Elmwood Avenue,259.474,4,,,35 mph,,,,,,,309331306,CR 87
+212660945,212660942,0,False,primary,Elmwood Avenue,106.139,4,,,35 mph,,,,,,,309331306,CR 87
+212660949,212660955,0,False,primary,Elmwood Avenue,185.148,4,,,35 mph,,,,,,,309331306,CR 87
+212660949,212660945,0,False,primary,Elmwood Avenue,259.474,4,,,35 mph,,,,,,,309331306,CR 87
+212660955,212821796,0,False,residential,Roby Drive,83.924,,,,,,,,,,,20127915,
+212660955,212660961,0,False,primary,Elmwood Avenue,137.195,4,,,35 mph,,,,,,,309331306,CR 87
+212660955,212660949,0,False,primary,Elmwood Avenue,185.148,4,,,35 mph,,,,,,,309331306,CR 87
+212660961,212660963,0,False,primary,Elmwood Avenue,123.82,4,,,35 mph,,,,,,,309331306,CR 87
+212660961,212660955,0,False,primary,Elmwood Avenue,137.195,4,,,35 mph,,,,,,,309331306,CR 87
+212660963,212660966,0,False,primary,Elmwood Avenue,118.278,4,,,35 mph,,,,,,,309331306,CR 87
+212660963,212660961,0,False,primary,Elmwood Avenue,123.82,4,,,35 mph,,,,,,,309331306,CR 87
+212660963,212775402,0,False,residential,Bonnie Brae Avenue,286.158,,,,,,,,,,,20123895,
+212660966,212644564,0,False,primary,Elmwood Avenue,127.846,4,,,35 mph,,,,,,,309331306,CR 87
+212660966,212660963,0,False,primary,Elmwood Avenue,118.278,4,,,35 mph,,,,,,,309331306,CR 87
+212660966,212774138,0,False,residential,Antlers Drive,337.272,,,,,,,,,,,20123786,
+212660971,212851049,0,False,primary,Monroe Avenue,235.767,,,,,,,,,,,76910671,NY 31
+212662848,212662851,0,False,residential,Johnsarbor Drive West,77.673,,,,,,,,,,,20114071,
+212662848,212662851,1,False,residential,Johnsarbor Drive West,92.237,,,,,,,,,,,20114074,
+212662848,212658232,0,False,residential,Johnsarbor Drive West,247.967,,,,,,,,,,,20114071,
+212662851,212662848,0,False,residential,Johnsarbor Drive West,77.673,,,,,,,,,,,20114071,
+212662851,212662848,1,False,residential,Johnsarbor Drive West,92.237,,,,,,,,,,,20114074,
+212662851,212662871,0,False,residential,Johnsarbor Drive West,43.637,,,,,,,,,,,20114071,
+212662871,212679674,0,False,residential,Songbird Lane,77.842,,,,,,,,,,,20115395,
+212662871,212662879,0,False,residential,Johnsarbor Drive West,69.339,,,,,,,,,,,20114071,
+212662871,212662851,0,False,residential,Johnsarbor Drive West,43.637,,,,,,,,,,,20114071,
+212662879,212679674,0,False,residential,Songbird Lane,34.221,,,,,,,,,,,20115398,
+212662879,212658158,0,False,residential,Songbird Lane,69.235,,,,,,,,,,,20115399,
+212662879,212662871,0,False,residential,Johnsarbor Drive West,69.339,,,,,,,,,,,20114071,
+212668647,212689852,0,False,residential,Lynnwood Drive,109.658,,,,,,,,,,,20124901,
+212668647,212668675,0,False,residential,Cohasset Drive,266.785,,,,,,,,,,,20114490,
+212668647,212674866,0,False,residential,Lynnwood Drive,221.832,,,,,,,,,,,20124901,
+212668675,212689852,0,False,residential,Hollyvale Drive,166.608,,,,,,,,,,,20116085,
+212668675,212668647,0,False,residential,Cohasset Drive,266.785,,,,,,,,,,,20114490,
+212668675,212689884,0,False,residential,Hollyvale Drive,170.442,,,,,,,,,,,20116085,
+212669087,212669089,0,False,residential,Susquehanna Road,252.809,,,,,,,,,,,20114532,
+212669087,212773421,0,False,residential,Brooklawn Drive,126.967,,,,,,,,,,,20132792,
+212669087,212677324,0,False,residential,Brooklawn Drive,122.393,,,,,,,,,,,20132792,
+212669089,212669087,0,False,residential,Susquehanna Road,252.809,,,,,,,,,,,20114532,
+212669089,3051215057,0,False,residential,Bradford Road,124.261,,,,,,,,,,,20122032,
+212669089,212677322,0,False,residential,Bradford Road,124.543,,,,,,,,,,,20122032,
+212669089,212669100,0,False,residential,Susquehanna Road,92.57,,,,,,,,,,,20114532,
+212669100,212779962,0,False,residential,Susquehanna Road,50.393,,,,,,,,,,,20114532,
+212669100,212669089,0,False,residential,Susquehanna Road,92.57,,,,,,,,,,,20114532,
+212669100,3051215055,0,False,residential,,36.102,,,,,,,,,,,301011774,
+212674835,209257492,0,False,tertiary,Westfall Road,627.325,,,,,,,,,,,301011777,CR 239
+212674849,212908508,0,False,residential,Barclay Square Drive,64.254,,,,,,,,,,,20135995,
+212674849,212674853,0,False,tertiary,Westfall Road,478.327,,,,35 mph,,,,,,,49948372,CR 239
+212674849,212648238,0,False,tertiary,Westfall Road,521.141,,,,35 mph,,,,,,,49948372,CR 239
+212674853,212674856,0,False,tertiary,Westfall Road,382.573,,,,35 mph,,,,,,,49948372,CR 239
+212674853,212623607,0,False,residential,Avalon Drive,208.709,,,,,,,,,,,20129346,
+212674853,212674849,0,False,tertiary,Westfall Road,478.327,,,,35 mph,,,,,,,49948372,CR 239
+212674856,212623780,0,False,tertiary,Westfall Road,281.657,,,,35 mph,,,,,,,49948372,CR 239
+212674856,212674853,0,False,tertiary,Westfall Road,382.573,,,,35 mph,,,,,,,49948372,CR 239
+212674856,212699206,0,False,residential,Bonnie Brae Avenue,94.841,,,,,,,,,,,20123895,
+212674858,212623780,0,False,tertiary,Westfall Road,226.04,,,,,,,,,,,49948373,CR 239
+212674858,212795826,0,False,residential,Tilstone Place,72.863,,,,,,,,,,,20131963,
+212674858,212674864,0,False,tertiary,Westfall Road,183.189,,,,,,,,,,,49948373,CR 239
+212674864,212674866,0,False,tertiary,Westfall Road,111.291,,,,,,,,,,,49948373,CR 239
+212674864,212674858,0,False,tertiary,Westfall Road,183.189,,,,,,,,,,,49948373,CR 239
+212674866,212674864,0,False,tertiary,Westfall Road,111.291,,,,,,,,,,,49948373,CR 239
+212674866,212674871,0,False,tertiary,Westfall Road,157.886,,,,,,,,,,,49948374,CR 239
+212674866,212668647,0,False,residential,Lynnwood Drive,221.832,,,,,,,,,,,20124901,
+212674871,212747848,0,False,residential,Brooklawn Drive,139.329,,,,,,,,,,,20132792,
+212674871,212674874,0,False,tertiary,Westfall Road,78.225,,,,,,,,,,,49948374,CR 239
+212674871,212674866,0,False,tertiary,Westfall Road,157.886,,,,,,,,,,,49948374,CR 239
+212674874,212674871,0,False,tertiary,Westfall Road,78.225,,,,,,,,,,,49948374,CR 239
+212674874,212747851,0,False,residential,Roosevelt Road,184.177,,,,,,,,,,,20124326,
+212674874,212674885,0,False,tertiary,Westfall Road,110.483,,,,,,,,,,,49948374,CR 239
+212674885,212674889,0,False,tertiary,Westfall Road,272.258,,,,,,,,,,,49948374,CR 239
+212674885,212674874,0,False,tertiary,Westfall Road,110.483,,,,,,,,,,,49948374,CR 239
+212674889,212767788,0,False,residential,Edgewood Avenue,164.55,,,,,,,,,,,20124831,
+212674889,212674894,0,False,tertiary,Westfall Road,188.572,,,,,,,,,,,49948374,CR 239
+212674889,212674885,0,False,tertiary,Westfall Road,272.258,,,,,,,,,,,49948374,CR 239
+212674894,212674898,0,False,tertiary,Westfall Road,109.616,,,,,,,,,,,49948374,CR 239
+212674894,212674889,0,False,tertiary,Westfall Road,188.572,,,,,,,,,,,49948374,CR 239
+212674898,212674894,0,False,tertiary,Westfall Road,109.616,,,,,,,,,,,49948374,CR 239
+212677301,212792728,0,False,primary,Monroe Avenue,60.804,,,,,,,,,,,76910671,NY 31
+212677301,212697803,0,False,primary,Monroe Avenue,64.015,,,,,,,,,,,76910671,NY 31
+212677301,212677322,0,False,residential,Northumberland Road,117.39,,,,,,,,,,,20115256,
+212677322,212677324,0,False,residential,Northumberland Road,251.912,,,,,,,,,,,20115256,
+212677322,212669089,0,False,residential,Bradford Road,124.543,,,,,,,,,,,20122032,
+212677322,212677301,0,False,residential,Northumberland Road,117.39,,,,,,,,,,,20115256,
+212677324,212677322,0,False,residential,Northumberland Road,251.912,,,,,,,,,,,20115256,
+212677324,212669087,0,False,residential,Brooklawn Drive,122.393,,,,,,,,,,,20132792,
+212677324,212773740,0,False,residential,Brooklawn Drive,115.866,,,,,,,,,,,20132792,
+212679674,212662871,0,False,residential,Songbird Lane,77.842,,,,,,,,,,,20115395,
+212679674,212662879,0,False,residential,Songbird Lane,34.221,,,,,,,,,,,20115398,
+212679674,212679681,0,False,residential,Songbird Lane,174.321,,,,,,,,,,,20115398,
+212679681,212658158,0,False,residential,Songbird Lane,21.765,,,,,,,,,,,20115398,
+212679681,212658158,1,False,residential,Songbird Lane,55.891,,,,,,,,,,,20115398,
+212679681,212679674,0,False,residential,Songbird Lane,174.321,,,,,,,,,,,20115398,
+212689852,212668675,0,False,residential,Hollyvale Drive,166.608,,,,,,,,,,,20116085,
+212689852,212786250,0,False,residential,Lynnwood Drive,56.749,,,,,,,,,,,20124901,
+212689852,212668647,0,False,residential,Lynnwood Drive,109.658,,,,,,,,,,,20124901,
+212689884,212797145,0,False,residential,Currewood Circle,65.371,,,,,,,,,,,20125813,
+212689884,212623761,0,False,residential,Hollyvale Drive,129.013,,,,,,,,,,,20116085,
+212689884,212668675,0,False,residential,Hollyvale Drive,170.442,,,,,,,,,,,20116085,
+212697803,212677301,0,False,primary,Monroe Avenue,64.015,,,,,,,,,,,76910671,NY 31
+212697803,212779956,0,False,primary,Monroe Avenue,87.511,,,,,,,,,,,"[76910621, 76910671]",NY 31
+212697836,212779956,0,False,primary,Monroe Avenue,62.941,,,,,,,,,,,76910621,NY 31
+212697836,212784543,0,False,primary,Monroe Avenue,85.317,,,,,,,,,,,76910621,NY 31
+212698894,212698898,0,False,residential,Duffield Road,234.741,,,,,,,,,,,20116568,
+212698894,3659291619,0,False,residential,Schilling Lane,214.951,,,,,,,,,,,20129432,
+212698894,212838390,0,False,residential,Schilling Lane,123.399,,,,,,,,,,,20129432,
+212698898,212698894,0,False,residential,Duffield Road,234.741,,,,,,,,,,,20116568,
+212698898,212714425,0,False,tertiary,South Clinton Avenue,129.764,,,,35 mph,,,,,,,20117652,CR 100
+212698898,212714429,0,False,tertiary,South Clinton Avenue,130.802,,,,35 mph,,,,,,,20117652,CR 100
+212699184,212775432,0,False,residential,Victoria Drive,196.125,,,,,,,,,,,20141206,
+212699184,212623764,0,False,residential,Victoria Drive,113.116,,,,,,,,,,,20141206,
+212699184,212699206,0,False,residential,Rock Hill Road,293.54,,,,,,,,,,,20116586,
+212699206,212699184,0,False,residential,Rock Hill Road,293.54,,,,,,,,,,,20116586,
+212699206,212674856,0,False,residential,Bonnie Brae Avenue,94.841,,,,,,,,,,,20123895,
+212699206,212775432,0,False,residential,Bonnie Brae Avenue,104.079,,,,,,,,,,,20123895,
+212714418,651299860,0,False,tertiary,South Clinton Avenue,157.965,,,,35 mph,,,,,,,560446426,CR 100
+212714418,1859111656,0,False,residential,Rue de Ville,70.927,,,,,,,,,,,20136567,
+212714418,212660929,0,False,tertiary,South Clinton Avenue,372.554,,,,35 mph,,,,,,,560446426,CR 100
+212714425,3617695792,0,False,tertiary,South Clinton Avenue,190.337,,,,35 mph,,,,,,,20117652,CR 100
+212714425,212698898,0,False,tertiary,South Clinton Avenue,129.764,,,,35 mph,,,,,,,20117652,CR 100
+212714425,212838390,0,False,residential,Havens Road,210.239,,,,,,,,,,,20135926,
+212714429,209257492,0,False,tertiary,South Clinton Avenue,73.66,,,,35 mph,,,,,,,20117652,CR 100
+212714429,212919118,0,False,residential,Berman Street,85.619,,,,,,,,,,,20136849,
+212714429,212698898,0,False,tertiary,South Clinton Avenue,130.802,,,,35 mph,,,,,,,20117652,CR 100
+212716836,212648210,0,False,residential,Montpelier Circle,58.311,,,,,,,,,,,20123529,
+212716836,212716836,0,False,residential,Montpelier Circle,435.836,,,,,,,,,,,20123529,
+212716836,212716836,1,False,residential,Montpelier Circle,435.836,,,,,,,,,,,20123529,
+212747515,212850165,0,False,residential,Barclay Square Drive,120.981,,,,,,,,,,,20135993,
+212747515,212747531,0,False,residential,Embassy Drive,241.221,,,,,,,,,,,20120607,
+212747515,212908508,0,False,residential,Barclay Square Drive,405.658,,,,,,,,,,,20135993,
+212747531,212908508,0,False,residential,Barclay Square Drive,44.841,,,,,,,,,,,20135993,
+212747531,212747515,0,False,residential,Embassy Drive,241.221,,,,,,,,,,,20120607,
+212747531,212850165,0,False,residential,Barclay Square Drive,347.329,,,,,,,,,,,20135993,
+212747848,212747851,0,False,residential,Troy Road,194.174,,,,,,,,,,,20120641,
+212747848,212674871,0,False,residential,Brooklawn Drive,139.329,,,,,,,,,,,20132792,
+212747848,212773421,0,False,residential,Brooklawn Drive,126.349,,,,,,,,,,,20132792,
+212747851,212747848,0,False,residential,Troy Road,194.174,,,,,,,,,,,20120641,
+212747851,212674874,0,False,residential,Roosevelt Road,184.177,,,,,,,,,,,20124326,
+212747851,3051215058,0,False,residential,Roosevelt Road,94.694,,,,,,,,,,,20124326,
+212751984,212623743,0,False,residential,Greenwich Lane,119.587,,,,,,,,,,,20125917,
+212751984,212751993,0,False,residential,Hollywood Avenue,316.501,,,,,,,,,,,20121012,
+212751993,212623750,0,False,residential,Newton Drive,115.186,,,,,,,,,,,20129160,
+212751993,212644588,0,False,residential,Newton Drive,115.552,,,,,,,,,,,20129160,
+212751993,212752019,0,False,residential,Hollywood Avenue,218.52,,,,,,,,,,,20121012,
+212751993,212751984,0,False,residential,Hollywood Avenue,316.501,,,,,,,,,,,20121012,
+212752019,212644618,0,False,residential,Avalon Drive,126.255,,,,,,,,,,,20129346,
+212752019,212751993,0,False,residential,Hollywood Avenue,218.52,,,,,,,,,,,20121012,
+212752019,212623754,0,False,residential,Avalon Drive,63.618,,,,,,,,,,,20129346,
+212755378,212755435,0,False,residential,Marquette Drive,269.862,,,,,,,,,,,20121430,
+212755378,212755435,1,False,residential,Lac Kine Drive,241.294,,,,,,,,,,,20136771,
+212755378,212648204,0,False,residential,Lac Kine Drive,68.279,,,,,,,,,,,20136771,
+212755435,212755378,0,False,residential,Marquette Drive,269.862,,,,,,,,,,,20121430,
+212755435,212755378,1,False,residential,Lac Kine Drive,241.294,,,,,,,,,,,20136771,
+212755435,212648235,0,False,residential,Lac Kine Drive,226.993,,,,,,,,,,,20136771,
+212760051,3051215057,0,False,residential,Wilmot Road,24.935,,,,,,,,,,,20123716,
+212760051,3051215058,0,False,residential,Roosevelt Road,57.273,,,,,,,,,,,20124326,
+212760051,212779975,0,False,residential,Roosevelt Road,56.698,,,,,,,,,,,20124326,
+212760741,212760787,0,False,residential,Boniface Drive,411.119,,,,,,,,,,,20122117,
+212760741,212896201,0,False,residential,Ashley Drive,256.981,,,,,,,,,,,20135005,
+212760741,212896121,0,False,residential,Ashley Drive,103.011,,,,,,,,,,,20135005,
+212760787,212760741,0,False,residential,Boniface Drive,411.119,,,,,,,,,,,20122117,
+212760787,212760804,0,False,residential,Boniface Drive,53.042,,,,,,,,,,,20122120,
+212760787,212896201,0,False,residential,Ashley Drive,129.979,,,,,,,,,,,20135005,
+212760804,212760787,0,False,residential,Boniface Drive,53.042,,,,,,,,,,,20122120,
+212764812,212764833,0,False,residential,Sutton Place,106.275,,,,,,,,,,,20122651,
+212764812,212895539,0,False,residential,Beekman Place,170.185,,,,,,,,,,,20134950,
+212764812,212896090,0,False,residential,Fairfield Drive,106.817,,,,,,,,,,,20140792,
+212764812,212660942,0,False,residential,Fairfield Drive,145.832,,,,,,,,,,,20140792,
+212764833,212764812,0,False,residential,Sutton Place,106.275,,,,,,,,,,,20122651,
+212767788,212674889,0,False,residential,Edgewood Avenue,164.55,,,,,,,,,,,20124831,
+212767788,212767801,0,False,residential,Stonybrook Drive,206.411,,,,,,,,,,,20123064,
+212767788,212785397,0,False,residential,Edgewood Avenue,117.474,,,,,,,,,,,20124831,
+212767801,212767788,0,False,residential,Stonybrook Drive,206.411,,,,,,,,,,,20123064,
+212773421,3051215064,0,False,residential,Wilmot Road,218.87,,,,,,,,,,,20123716,
+212773421,212747848,0,False,residential,Brooklawn Drive,126.349,,,,,,,,,,,20132792,
+212773421,212669087,0,False,residential,Brooklawn Drive,126.967,,,,,,,,,,,20132792,
+212773740,212863102,0,False,residential,Brooklawn Drive,246.721,,,,,,,,,,,20132792,
+212773740,212773779,0,False,residential,Newcrest Drive,157.096,,,,,,,,,,,20123747,
+212773740,212677324,0,False,residential,Brooklawn Drive,115.866,,,,,,,,,,,20132792,
+212773779,212773740,0,False,residential,Newcrest Drive,157.096,,,,,,,,,,,20123747,
+212774138,212644588,0,False,residential,Newton Drive,116.49,,,,,,,,,,,20129160,
+212774138,212775402,0,False,residential,Newton Drive,115.292,,,,,,,,,,,20129160,
+212774138,212774162,0,False,residential,Antlers Drive,321.508,,,,,,,,,,,20123786,
+212774138,212660966,0,False,residential,Antlers Drive,337.272,,,,,,,,,,,20123786,
+212774162,212775422,0,False,residential,Avalon Drive,126.125,,,,,,,,,,,20129346,
+212774162,212644618,0,False,residential,Avalon Drive,126.236,,,,,,,,,,,20129346,
+212774162,212774138,0,False,residential,Antlers Drive,321.508,,,,,,,,,,,20123786,
+212775402,212774138,0,False,residential,Newton Drive,115.292,,,,,,,,,,,20129160,
+212775402,212835098,0,False,residential,Newton Drive,55.665,,,,,,,,,,,20129160,
+212775402,212775422,0,False,residential,Bonnie Brae Avenue,373.501,,,,,,,,,,,20123895,
+212775402,212660963,0,False,residential,Bonnie Brae Avenue,286.158,,,,,,,,,,,20123895,
+212775422,212641759,0,False,residential,Bonnie Brae Avenue,107.71,,,,,,,,,,,20123895,
+212775422,212626935,0,False,residential,Avalon Drive,126.88,,,,,,,,,,,20129346,
+212775422,212774162,0,False,residential,Avalon Drive,126.125,,,,,,,,,,,20129346,
+212775422,212775402,0,False,residential,Bonnie Brae Avenue,373.501,,,,,,,,,,,20123895,
+212775432,212699184,0,False,residential,Victoria Drive,196.125,,,,,,,,,,,20141206,
+212775432,212699206,0,False,residential,Bonnie Brae Avenue,104.079,,,,,,,,,,,20123895,
+212775432,212642897,0,False,residential,Bonnie Brae Avenue,104.127,,,,,,,,,,,20123895,
+212779956,212779962,0,False,residential,Roosevelt Road,69.011,,,,,,,,,,,20124326,
+212779956,212697836,0,False,primary,Monroe Avenue,62.941,,,,,,,,,,,76910621,NY 31
+212779956,212697803,0,False,primary,Monroe Avenue,87.511,,,,,,,,,,,"[76910621, 76910671]",NY 31
+212779962,3051215055,0,False,residential,Roosevelt Road,52.031,,,,,,,,,,,20124326,
+212779962,212779956,0,False,residential,Roosevelt Road,69.011,,,,,,,,,,,20124326,
+212779962,212669100,0,False,residential,Susquehanna Road,50.393,,,,,,,,,,,20114532,
+212779975,212760051,0,False,residential,Roosevelt Road,56.698,,,,,,,,,,,20124326,
+212779975,3051215055,0,False,residential,Roosevelt Road,60.497,,,,,,,,,,,20124326,
+212779975,212784543,0,False,residential,Edgeview Lane,269.174,,,,,,,,,,,20124733,
+212784543,212697836,0,False,primary,Monroe Avenue,85.317,,,,,,,,,,,76910621,NY 31
+212784543,212785397,0,False,primary,Monroe Avenue,64.429,,,,,,,,,,,76910621,NY 31
+212784543,212779975,0,False,residential,Edgeview Lane,269.174,,,,,,,,,,,20124733,
+212785397,212784543,0,False,primary,Monroe Avenue,64.429,,,,,,,,,,,76910621,NY 31
+212785397,212614787,0,False,primary,Monroe Avenue,192.176,,,,,,,,,,,76910621,NY 31
+212785397,212767788,0,False,residential,Edgewood Avenue,117.474,,,,,,,,,,,20124831,
+212786250,212689852,0,False,residential,Lynnwood Drive,56.749,,,,,,,,,,,20124901,
+212792728,212863098,0,False,primary,Monroe Avenue,158.612,,,,,,,,,,,76910671,NY 31
+212792728,212677301,0,False,primary,Monroe Avenue,60.804,,,,,,,,,,,76910671,NY 31
+212795826,212795838,0,False,residential,Palcham Drive,61.998,,,,,,,,,,,20125719,
+212795826,212866016,0,False,residential,Tilstone Place,80.92,,,,,,,,,,,20131963,
+212795826,212674858,0,False,residential,Tilstone Place,72.863,,,,,,,,,,,20131963,
+212795838,212795826,0,False,residential,Palcham Drive,61.998,,,,,,,,,,,20125719,
+212797145,212689884,0,False,residential,Currewood Circle,65.371,,,,,,,,,,,20125813,
+212804551,212626916,0,False,residential,Stanford Road,53.346,,,,,,,,,,,20126431,
+212821796,212821798,0,False,residential,Roby Drive,38.898,,,,,,,,,,,20127913,
+212821796,212626916,0,False,residential,Roby Drive,458.359,,,,,,,,,,,20127913,
+212821796,212660955,0,False,residential,Roby Drive,83.924,,,,,,,,,,,20127915,
+212821798,212821796,0,False,residential,Roby Drive,38.898,,,,,,,,,,,20127913,
+212835098,212775402,0,False,residential,Newton Drive,55.665,,,,,,,,,,,20129160,
+212837256,212626935,0,False,residential,Avalon Drive,157.405,,,,,,,,,,,20129346,
+212837256,212854450,0,False,residential,Avalon Court,35.386,,,,,,,,,,,20130924,
+212837256,212623607,0,False,residential,Avalon Drive,359.949,,,,,,,,,,,20129346,
+212838381,212838390,0,False,residential,Schilling Lane,118.178,,,,,,,,,,,20129432,
+212838390,212653926,0,False,residential,Havens Road,33.064,,,,,,,,,,,20135926,
+212838390,212698894,0,False,residential,Schilling Lane,123.399,,,,,,,,,,,20129432,
+212838390,212838381,0,False,residential,Schilling Lane,118.178,,,,,,,,,,,20129432,
+212838390,212714425,0,False,residential,Havens Road,210.239,,,,,,,,,,,20135926,
+212850108,212850129,0,False,residential,Brandywine Lane,319.01,,,,,,,,,,,20130477,
+212850129,212850165,0,False,residential,Brandywine Lane,266.457,,,,,,,,,,,20130477,
+212850129,212850108,0,False,residential,Brandywine Lane,319.01,,,,,,,,,,,20130477,
+212850129,212648185,0,False,residential,Brandywine Lane,86.519,,,,,,,,,,,20130479,
+212850165,212747515,0,False,residential,Barclay Square Drive,120.981,,,,,,,,,,,20135993,
+212850165,212850129,0,False,residential,Brandywine Lane,266.457,,,,,,,,,,,20130477,
+212850165,212747531,0,False,residential,Barclay Square Drive,347.329,,,,,,,,,,,20135993,
+212851049,212660971,0,False,primary,Monroe Avenue,235.767,,,,,,,,,,,76910671,NY 31
+212851049,212859359,0,False,primary,Monroe Avenue,136.288,,,,,,,,,,,76910671,NY 31
+212854450,212837256,0,False,residential,Avalon Court,35.386,,,,,,,,,,,20130924,
+212854450,212854450,0,False,residential,,78.954,,,,,,,,,,,426435320,
+212854450,212854450,1,False,residential,,78.954,,,,,,,,,,,426435320,
+212859359,212863102,0,False,primary,Monroe Avenue,7.542,,,,,,,,,,,76910671,NY 31
+212859359,212851049,0,False,primary,Monroe Avenue,136.288,,,,,,,,,,,76910671,NY 31
+212863098,212863102,0,False,primary,Monroe Avenue,140.618,,,,,,,,,,,76910671,NY 31
+212863098,212792728,0,False,primary,Monroe Avenue,158.612,,,,,,,,,,,76910671,NY 31
+212863102,212773740,0,False,residential,Brooklawn Drive,246.721,,,,,,,,,,,20132792,
+212863102,212859359,0,False,primary,Monroe Avenue,7.542,,,,,,,,,,,76910671,NY 31
+212863102,212863098,0,False,primary,Monroe Avenue,140.618,,,,,,,,,,,76910671,NY 31
+212866016,212795826,0,False,residential,Tilstone Place,80.92,,,,,,,,,,,20131963,
+212895539,212764812,0,False,residential,Beekman Place,170.185,,,,,,,,,,,20134950,
+212896090,212896105,0,False,residential,Ashley Drive,103.107,,,,,,,,,,,20135005,
+212896090,212764812,0,False,residential,Fairfield Drive,106.817,,,,,,,,,,,20140792,
+212896090,419813405,0,False,residential,Fairfield Drive,268.429,,,,,,,,,,,20140797,
+212896090,212896121,0,False,residential,Woodmont Road,343.353,,,,,,,,,,,20140858,
+212896105,212896237,0,False,residential,Ashley Drive,64.222,,,,,,,,,,,20135008,
+212896105,212896121,0,False,residential,Ashley Drive,238.859,,,,,,,,,,,20135005,
+212896105,212896090,0,False,residential,Ashley Drive,103.107,,,,,,,,,,,20135005,
+212896121,212760741,0,False,residential,Ashley Drive,103.011,,,,,,,,,,,20135005,
+212896121,212896105,0,False,residential,Ashley Drive,238.859,,,,,,,,,,,20135005,
+212896121,212896090,0,False,residential,Woodmont Road,343.353,,,,,,,,,,,20140858,
+212896201,212896244,0,False,residential,Ashley Drive,51.621,,,,,,,,,,,20135009,
+212896201,212760787,0,False,residential,Ashley Drive,129.979,,,,,,,,,,,20135005,
+212896201,212760741,0,False,residential,Ashley Drive,256.981,,,,,,,,,,,20135005,
+212896237,212896105,0,False,residential,Ashley Drive,64.222,,,,,,,,,,,20135008,
+212896244,212896201,0,False,residential,Ashley Drive,51.621,,,,,,,,,,,20135009,
+212898608,212623618,0,False,residential,Runnymede Court,76.996,,,,,,,,,,,20135177,
+212908508,212747531,0,False,residential,Barclay Square Drive,44.841,,,,,,,,,,,20135993,
+212908508,212674849,0,False,residential,Barclay Square Drive,64.254,,,,,,,,,,,20135995,
+212908508,212747515,0,False,residential,Barclay Square Drive,405.658,,,,,,,,,,,20135993,
+212919118,212714429,0,False,residential,Berman Street,85.619,,,,,,,,,,,20136849,
+212959126,212959194,0,False,residential,Brittany Circle,42.804,,,,,,,,,,,20139686,
+212959126,212959144,0,False,residential,Brittany Circle,60.84,,,,,,,,,,,20139686,
+212959126,212959144,1,False,residential,Brittany Circle,271.376,,,,,,,,,,,20139686,
+212959144,651295542,0,False,residential,Brittany Circle,34.786,,,,,,,,,,,20139687,
+212959144,212959126,0,False,residential,Brittany Circle,271.376,,,,,,,,,,,20139686,
+212959144,212959126,1,False,residential,Brittany Circle,60.84,,,,,,,,,,,20139686,
+212959194,212959126,0,False,residential,Brittany Circle,42.804,,,,,,,,,,,20139686,
+419813405,212896090,0,False,residential,Fairfield Drive,268.429,,,,,,,,,,,20140797,
+419813405,419813405,0,False,residential,Fairfield Drive,145.407,,,,,,,,,,,426432350,
+419813405,419813405,1,False,residential,Fairfield Drive,145.407,,,,,,,,,,,426432350,
+651295542,212959144,0,False,residential,Brittany Circle,34.786,,,,,,,,,,,20139687,
+651295542,212648149,0,False,residential,Lac de Ville Boulevard,134.785,,,,,,,,,,,20113220,
+651295542,651295544,0,False,residential,Lac de Ville Boulevard,368.879,,,,,,,,,,,20113220,
+651295544,212660936,0,False,primary,Elmwood Avenue,54.718,4,,,35 mph,,,,,,,309331306,CR 87
+651295544,651295542,0,False,residential,Lac de Ville Boulevard,368.879,,,,,,,,,,,20113220,
+651295544,212630352,0,False,primary,Elmwood Avenue,314.687,4,,,35 mph,,,,,,,309331306,CR 87
+651299860,5404860670,0,False,unclassified,,7.842,4,,,,,,,,,,560446424,
+651299860,212714418,0,False,tertiary,South Clinton Avenue,157.965,,,,35 mph,,,,,,,560446426,CR 100
+651299860,3617695792,0,False,tertiary,South Clinton Avenue,134.402,,,,35 mph,,,,,,,20117652,CR 100
+1859111656,212714418,0,False,residential,Rue de Ville,70.927,,,,,,,,,,,20136567,
+1859111656,212648149,0,False,residential,Rue de Ville,261.49,,,,,,,,,,,20136567,
+1859111656,5404860667,0,False,unclassified,,151.579,,,,,,,,,,,560445106,
+1859111743,1859111749,0,False,unclassified,,103.694,,,,,,,,,,,557942874,
+1859111743,212612877,0,False,residential,,315.183,3,,,,,,,,,,"[557942888, 20110945]",
+1859111743,5404860669,0,False,unclassified,,70.178,,,,,,,,,,,560445106,
+1859111749,1859111743,0,False,unclassified,,103.694,,,,,,,,,,,557942874,
+3024571534,5662733159,0,False,primary,Elmwood Avenue,33.603,4,,,30 mph,,,,,,,290768433,
+3024571534,212660911,0,False,primary,Elmwood Avenue,182.13,4,,,"['35 mph', '30 mph']",,,,,,,"[290768433, 226606214]",CR 87
+3024571534,3024571551,0,False,residential,Brickstone Circle,229.476,,,,,,,,,,,298561470,
+3024571551,3024571551,0,False,residential,Brickstone Circle,491.303,,,,,,,,,,,298561470,
+3024571551,3024571551,1,False,residential,Brickstone Circle,491.303,,,,,,,,,,,298561470,
+3024571551,3024571534,0,False,residential,Brickstone Circle,229.476,,,,,,,,,,,298561470,
+3051215055,212779962,0,False,residential,Roosevelt Road,52.031,,,,,,,,,,,20124326,
+3051215055,212779975,0,False,residential,Roosevelt Road,60.497,,,,,,,,,,,20124326,
+3051215055,212669100,0,False,residential,,36.102,,,,,,,,,,,301011774,
+3051215057,212669089,0,False,residential,Bradford Road,124.261,,,,,,,,,,,20122032,
+3051215057,212760051,0,False,residential,Wilmot Road,24.935,,,,,,,,,,,20123716,
+3051215057,3051215064,0,False,residential,Wilmot Road,33.262,,,,,,,,,,,20123716,
+3051215058,212747851,0,False,residential,Roosevelt Road,94.694,,,,,,,,,,,20124326,
+3051215058,212760051,0,False,residential,Roosevelt Road,57.273,,,,,,,,,,,20124326,
+3051215058,3051215064,0,False,residential,,62.554,,,,,,,,,,,301011775,
+3051215064,3051215057,0,False,residential,Wilmot Road,33.262,,,,,,,,,,,20123716,
+3051215064,212773421,0,False,residential,Wilmot Road,218.87,,,,,,,,,,,20123716,
+3051215064,3051215058,0,False,residential,,62.554,,,,,,,,,,,301011775,
+3617695792,651299860,0,False,tertiary,South Clinton Avenue,134.402,,,,35 mph,,,,,,,20117652,CR 100
+3617695792,212714425,0,False,tertiary,South Clinton Avenue,190.337,,,,35 mph,,,,,,,20117652,CR 100
+3617695792,5404860677,0,False,residential,,256.076,,,,,,,,,,,356313789,
+3659291619,212698894,0,False,residential,Schilling Lane,214.951,,,,,,,,,,,20129432,
+3659291619,3659291619,0,False,residential,Schilling Lane,76.211,,,,,,,,,,,361455963,
+3659291619,3659291619,1,False,residential,Schilling Lane,76.211,,,,,,,,,,,361455963,
+5404860667,5404860669,0,False,unclassified,,11.154,,,,,,,,,,,560445106,
+5404860667,1859111656,0,False,unclassified,,151.579,,,,,,,,,,,560445106,
+5404860667,5404860670,0,True,unclassified,,66.239,2,,,,,,,,,,560446419,
+5404860669,5404860667,0,False,unclassified,,11.154,,,,,,,,,,,560445106,
+5404860669,1859111743,0,False,unclassified,,70.178,,,,,,,,,,,560445106,
+5404860670,651299860,0,False,unclassified,,7.842,4,,,,,,,,,,560446424,
+5404860670,5404860669,0,True,unclassified,,67.913,2,,,,,,,,,,560446422,
+5404860677,3617695792,0,False,residential,,256.076,,,,,,,,,,,356313789,
+5662733159,3024571534,0,False,primary,Elmwood Avenue,33.603,4,,,30 mph,,,,,,,290768433,

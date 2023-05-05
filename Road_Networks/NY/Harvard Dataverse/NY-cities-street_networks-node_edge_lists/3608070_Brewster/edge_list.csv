@@ -1,0 +1,144 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+60646775,336148761,0,False,primary,,27.927,2,,,,,,,,,,8094705,US 6;US 202;NY 22
+60646906,336148761,0,False,primary,,315.715,2,,,,,,,,,,8094705,US 6;US 202;NY 22
+60646906,60646917,0,False,primary,E Branch Avenue,283.849,2,,,,,,,,,,8614198,US 202;NY 22
+60646906,60646929,0,False,primary,Main Street,78.673,2,,,,,,yes,,,,"[202522448, 115809821, 115809830]",US 6
+60646917,60646906,0,False,primary,E Branch Avenue,283.849,2,,,,,,,,,,8614198,US 202;NY 22
+60646929,310098102,0,False,tertiary,Peaceable Hill Road,107.147,,,,,,,,,,,11881564,CR 53
+60646929,106750489,0,False,primary,Main Street,329.823,2,,,,,,,,,,202522448,US 6
+60646929,60646906,0,False,primary,Main Street,78.673,2,,,,,,yes,,,,"[202522448, 115809821, 115809830]",US 6
+74991864,106747561,0,False,residential,Wilkes Street,72.59,,,,,,,,,,,11880812,
+74991864,106745811,0,False,primary,Main Street,189.316,2,,,,,,,,,,202522448,US 6
+74991864,106746347,0,False,primary,Main Street,111.7,2,,,,,,,,,,202522448,US 6
+74991867,106748736,0,False,residential,Marvin Avenue,85.771,,,,,,,,,,,11880912,
+74991867,74991879,0,False,primary,Main Street,81.883,2,,,,,,,,,,202522448,US 6
+74991867,106745811,0,False,primary,Main Street,49.419,2,,,,,,,,,,202522448,US 6
+74991867,106750472,0,True,residential,Park Street,121.619,,,,,,,,,,,573606467,
+74991879,106748736,0,False,tertiary,Railroad Avenue,39.559,,,,,,,,,,,11880901,CR 56
+74991879,74991880,0,False,primary,North Main Street,23.38,2,,,,,,,,,,13827175,US 6
+74991879,74991867,0,False,primary,Main Street,81.883,2,,,,,,,,,,202522448,US 6
+74991880,1900060129,0,False,residential,Ellen Avenue,254.238,,,,,,,,,,,11881050,
+74991880,74991883,0,False,primary,North Main Street,30.318,2,,,,,,,,,,13827175,US 6
+74991880,74991879,0,False,primary,North Main Street,23.38,2,,,,,,,,,,13827175,US 6
+74991883,106740681,0,False,residential,Hoyt Street,124.002,,,,,,,,,,,11880123,
+74991883,106740686,0,False,primary,North Main Street,209.729,2,,,,,,,,,,13827175,US 6
+74991883,74991880,0,False,primary,North Main Street,30.318,2,,,,,,,,,,13827175,US 6
+74991891,106742760,0,False,residential,Michael Neuner Drive,115.857,,,,,,,,,,,11880270,
+74991891,74991892,0,False,primary,North Main Street,23.998,2,,,,,,,,,,13827175,US 6
+74991891,106740686,0,False,primary,North Main Street,80.215,2,,,,,,,,,,13827175,US 6
+74991892,106742560,0,False,tertiary,North Main Street,235.364,,,,,,,,,,,11880351,
+74991892,74991899,0,False,primary,Carmel Avenue,136.1,2,,,,,,yes,,,,"[115809832, 13826955, 115809819]",US 6
+74991892,74991891,0,False,primary,North Main Street,23.998,2,,,,,,,,,,13827175,US 6
+74991899,336144930,0,False,residential,Putnam Avenue,104.032,,,,,,,,,,,11881112,
+74991899,74991902,0,False,primary,Carmel Avenue,194.484,2,,,,,,,,,,115809819,US 6
+74991899,74991892,0,False,primary,Carmel Avenue,136.1,2,,,,,,yes,,,,"[115809832, 115809819, 13826955]",US 6
+74991899,136542383,0,False,tertiary,Putnam Avenue,151.077,,,,,,,,,,,181397684,
+74991902,74991899,0,False,primary,Carmel Avenue,194.484,2,,,,,,,,,,115809819,US 6
+106740681,74991883,0,False,residential,Hoyt Street,124.002,,,,,,,,,,,11880123,
+106740681,106740683,0,False,residential,Prospect Street,24.524,,,,,,,,,,,"[293821842, 11880110]",
+106740681,106745811,0,False,residential,Progress Street,118.1,,,,,,,,,,,11880644,
+106740681,106741483,0,False,residential,,51.791,,,,,,,,,,,11880657,
+106740683,106744879,0,False,residential,Prospect Street,208.166,,,,,,,,,,,293821842,
+106740683,106740686,0,False,residential,Oak Street,211.312,,,,,,,,,,,11880125,
+106740683,106741483,0,False,residential,Oak Street,46.2,,,,,,,,,,,11880125,
+106740683,106740681,0,False,residential,Prospect Street,24.524,,,,,,,,,,,"[293821842, 11880110]",
+106740686,106740683,0,False,residential,Oak Street,211.312,,,,,,,,,,,11880125,
+106740686,74991891,0,False,primary,North Main Street,80.215,2,,,,,,,,,,13827175,US 6
+106740686,74991883,0,False,primary,North Main Street,209.729,2,,,,,,,,,,13827175,US 6
+106741477,106746631,0,False,residential,Merritt Street,34.957,,,,,,,,,,,11880703,
+106741477,106741483,0,False,residential,Oak Street,241.57,,,,,,,,,,,11880125,
+106741477,1900005117,0,False,residential,Oak Street,306.631,,,,,,,,,,,11880125,
+106741483,106740683,0,False,residential,Oak Street,46.2,,,,,,,,,,,11880125,
+106741483,106741477,0,False,residential,Oak Street,241.57,,,,,,,,,,,11880125,
+106741483,106740681,0,False,residential,,51.791,,,,,,,,,,,11880657,
+106742559,106742560,0,False,residential,Wells Street,115.65,,,,,,,,,,,11880303,
+106742559,106742760,0,False,residential,Center Street,257.266,,,,,,,,,,,11880329,
+106742559,106743492,0,False,residential,Center Street,121.992,,,,,,,,,,,11880329,
+106742559,106742614,0,False,residential,"['Prospect Street', 'Wells Street']",151.59,,,,,,,,,,,"[293821842, 11880303]",
+106742560,106742559,0,False,residential,Wells Street,115.65,,,,,,,,,,,11880303,
+106742560,74991892,0,False,tertiary,North Main Street,235.364,,,,,,,,,,,11880351,
+106742614,106744794,0,False,residential,Eastview Avenue,304.831,,,,,,,,,,,"[11880513, 24447066]",
+106742614,106742559,0,False,residential,"['Prospect Street', 'Wells Street']",151.59,,,,,,,,,,,"[293821842, 11880303]",
+106742614,106744879,0,False,residential,Prospect Street,206.383,,,,,,,,,,,293821842,
+106742760,74991891,0,False,residential,Michael Neuner Drive,115.857,,,,,,,,,,,11880270,
+106742760,106742559,0,False,residential,Center Street,257.266,,,,,,,,,,,11880329,
+106742760,106744879,0,False,residential,Michael Neuner Drive,79.648,,,,,,,,,,,11880270,
+106743491,106743492,0,False,residential,Center Street,60.024,,,,,,,,,,,11880329,
+106743492,106742559,0,False,residential,Center Street,121.992,,,,,,,,,,,11880329,
+106743492,106743491,0,False,residential,Center Street,60.024,,,,,,,,,,,11880329,
+106743492,1930282089,0,False,residential,Casino Street,69.782,,,,,,,,,,,11880433,
+106744794,106744879,0,False,residential,Michael Neuner Drive,70.094,,,,,,,,,,,11880270,
+106744794,106760381,0,False,residential,Garden Street,138.211,,,,,,,,,,,13827654,
+106744794,106742614,0,False,residential,Eastview Avenue,304.831,,,,,,,,,,,"[11880513, 24447066]",
+106744879,106740683,0,False,residential,Prospect Street,208.166,,,,,,,,,,,293821842,
+106744879,106742760,0,False,residential,Michael Neuner Drive,79.648,,,,,,,,,,,11880270,
+106744879,106744794,0,False,residential,Michael Neuner Drive,70.094,,,,,,,,,,,11880270,
+106744879,106742614,0,False,residential,Prospect Street,206.383,,,,,,,,,,,293821842,
+106745811,106740681,0,False,residential,Progress Street,118.1,,,,,,,,,,,11880644,
+106745811,74991867,0,False,primary,Main Street,49.419,2,,,,,,,,,,202522448,US 6
+106745811,74991864,0,False,primary,Main Street,189.316,2,,,,,,,,,,202522448,US 6
+106746347,106746631,0,False,residential,Merritt Street,36.958,,,,,,,,,,,11880703,
+106746347,74991864,0,False,primary,Main Street,111.7,2,,,,,,,,,,202522448,US 6
+106746347,1900005117,0,False,primary,Main Street,293.361,2,,,,,,,,,,202522448,US 6
+106746631,106746347,0,False,residential,Merritt Street,36.958,,,,,,,,,,,11880703,
+106746631,106741477,0,False,residential,Merritt Street,34.957,,,,,,,,,,,11880703,
+106746631,2124887596,0,False,residential,Merritt Lane,103.413,,,,,,,,,,,11880772,
+106747561,74991864,0,False,residential,Wilkes Street,72.59,,,,,,,,,,,11880812,
+106747561,106750482,0,False,residential,Marvin Avenue,300.344,,,,,,,,,,,293821840,
+106747561,106750472,0,False,residential,Marvin Avenue,236.834,,,,,,,,,,,293821840,
+106748736,74991867,0,False,residential,Marvin Avenue,85.771,,,,,,,,,,,11880912,
+106748736,106748737,0,False,tertiary,Railroad Avenue,118.884,,,,,,,,,,,11880901,CR 56
+106748736,74991879,0,False,tertiary,Railroad Avenue,39.559,,,,,,,,,,,11880901,CR 56
+106748737,106748738,0,False,tertiary,Railroad Avenue,134.498,,,,,,,,,,,11880901,CR 56
+106748737,106748736,0,False,tertiary,Railroad Avenue,118.884,,,,,,,,,,,11880901,CR 56
+106748737,106750472,0,False,residential,Marvin Avenue,96.503,,,,,,,yes,,,,"[293821840, 293821844, 11880933]",
+106748738,106748737,0,False,tertiary,Railroad Avenue,134.498,,,,,,,,,,,11880901,CR 56
+106748738,106748980,0,False,tertiary,Morningthorpe Avenue,55.899,,,,,,,,,,,11880908,CR 51
+106748980,106748738,0,False,tertiary,Morningthorpe Avenue,55.899,,,,,,,,,,,11880908,CR 51
+106748980,106750472,0,False,residential,Park Street,189.708,,,,,,,yes,,,,"[11880969, 293821843, 293821845]",
+106750472,106748980,0,False,residential,Park Street,189.708,,,,,,,yes,,,,"[11880969, 293821843, 293821845]",
+106750472,106747561,0,False,residential,Marvin Avenue,236.834,,,,,,,,,,,293821840,
+106750472,106748737,0,False,residential,Marvin Avenue,96.503,,,,,,,yes,,,,"[293821840, 293821844, 11880933]",
+106750482,1900004877,0,False,residential,,81.072,,,,,,,,,,,24138232,
+106750482,106750489,0,False,residential,Marvin Avenue,174.659,,,,,,,,,,,293821840,
+106750482,106747561,0,False,residential,Marvin Avenue,300.344,,,,,,,,,,,293821840,
+106750489,1900005117,0,False,primary,Main Street,10.28,2,,,,,,,,,,202522448,US 6
+106750489,60646929,0,False,primary,Main Street,329.823,2,,,,,,,,,,202522448,US 6
+106750489,106750482,0,False,residential,Marvin Avenue,174.659,,,,,,,,,,,293821840,
+106760381,106744794,0,False,residential,Garden Street,138.211,,,,,,,,,,,13827654,
+136542383,261537875,0,False,residential,Putnam Terrace,137.317,,,,,,,,,,,"[24142120, 24142118]",
+136542383,74991899,0,False,tertiary,Putnam Avenue,151.077,,,,,,,,,,,181397684,
+261505820,261505828,0,False,residential,,155.088,,,,,,,,,,,24137927,
+261505820,261505828,1,False,residential,Stone Ridge Road,125.483,,,,,,,,,,,24142587,
+261505820,1901340693,0,False,residential,,85.456,,,,,,,,,,,24137927,
+261505828,261505820,0,False,residential,,155.088,,,,,,,,,,,24137927,
+261505828,261505820,1,False,residential,Stone Ridge Road,125.483,,,,,,,,,,,24142587,
+261505828,310098102,0,False,residential,Stone Ridge Road,208.867,,,,,,,,,,,24142587,
+261537875,336150441,0,False,residential,Phillips Lane,64.71,,,,,,,,,,,24144817,
+261537875,336150473,0,False,residential,Putnam Terrace,98.957,,,,,,,,,,,24142118,
+261537875,136542383,0,False,residential,Putnam Terrace,137.317,,,,,,,,,,,"[24142120, 24142118]",
+261548345,261548352,0,False,residential,Meadow Lane,207.574,,,,,,,,,,,24143375,
+261548352,261548345,0,False,residential,Meadow Lane,207.574,,,,,,,,,,,24143375,
+261548352,336148761,0,False,residential,Allview Avenue,113.605,,,,,,,,,,,24170435,
+261548352,261784107,0,False,residential,Allview Avenue,411.8,,,,,,,,,,,24170435,
+261552302,336150473,0,False,residential,Ward Street,77.059,,,,,,,,,,,24143903,
+261784107,261548352,0,False,residential,Allview Avenue,411.8,,,,,,,,,,,24170435,
+310098102,60646929,0,False,tertiary,Peaceable Hill Road,107.147,,,,,,,,,,,11881564,CR 53
+310098102,261505828,0,False,residential,Stone Ridge Road,208.867,,,,,,,,,,,24142587,
+336144930,74991899,0,False,residential,Putnam Avenue,104.032,,,,,,,,,,,11881112,
+336148761,60646775,0,False,primary,,27.927,2,,,,,,,,,,8094705,US 6;US 202;NY 22
+336148761,60646906,0,False,primary,,315.715,2,,,,,,,,,,8094705,US 6;US 202;NY 22
+336148761,261548352,0,False,residential,Allview Avenue,113.605,,,,,,,,,,,24170435,
+336150441,261537875,0,False,residential,Phillips Lane,64.71,,,,,,,,,,,24144817,
+336150473,1918324820,0,False,residential,Putnam Terrace,13.547,,,,,,,,,,,24142118,
+336150473,261537875,0,False,residential,Putnam Terrace,98.957,,,,,,,,,,,24142118,
+336150473,261552302,0,False,residential,Ward Street,77.059,,,,,,,,,,,24143903,
+1900004877,106750482,0,False,residential,,81.072,,,,,,,,,,,24138232,
+1900005117,106750489,0,False,primary,Main Street,10.28,2,,,,,,,,,,202522448,US 6
+1900005117,106741477,0,False,residential,Oak Street,306.631,,,,,,,,,,,11880125,
+1900005117,106746347,0,False,primary,Main Street,293.361,2,,,,,,,,,,202522448,US 6
+1900060129,74991880,0,False,residential,Ellen Avenue,254.238,,,,,,,,,,,11881050,
+1901340693,261505820,0,False,residential,,85.456,,,,,,,,,,,24137927,
+1918324820,336150473,0,False,residential,Putnam Terrace,13.547,,,,,,,,,,,24142118,
+1930282089,106743492,0,False,residential,Casino Street,69.782,,,,,,,,,,,11880433,
+2124887596,106746631,0,False,residential,Merritt Lane,103.413,,,,,,,,,,,11880772,

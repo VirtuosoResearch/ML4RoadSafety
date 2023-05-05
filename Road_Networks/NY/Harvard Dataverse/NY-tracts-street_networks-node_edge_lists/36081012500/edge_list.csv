@@ -1,0 +1,55 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+42817460,42818207,0,False,tertiary,24th Avenue,79.364,,,,,,,,,,,387038333,
+42818207,42818209,0,False,residential,24th Avenue,114.086,,,,25 mph,,,,,,,46140179,
+42818207,42817460,0,False,tertiary,24th Avenue,79.364,,,,,,,,,,,387038333,
+42818207,42833276,0,True,tertiary,29th Street,226.518,,,,,,,,,,,46140173,
+42818209,42818215,0,False,residential,24th Avenue,68.592,,,,25 mph,,,,,,,46140179,
+42818209,42818207,0,False,residential,24th Avenue,114.086,,,,25 mph,,,,,,,46140179,
+42818209,42849685,0,False,tertiary,31st Street,170.688,2,,,,,,,,,,5703719,
+42818215,42818209,0,False,residential,24th Avenue,68.592,,,,25 mph,,,,,,,46140179,
+42818215,3025003085,0,False,residential,32nd Street,57.392,,,,25 mph,,,,,,,298611916,
+42818215,42818218,0,False,residential,24th Avenue,56.397,,,,25 mph,,,,,,,298611917,
+42818218,42818215,0,False,residential,24th Avenue,56.397,,,,25 mph,,,,,,,298611917,
+42818218,42897727,0,True,residential,33rd Street,189.133,1,,,25 mph,,,,,,,374482048,
+42818224,42818227,0,False,residential,24th Avenue,80.608,,,,25 mph,,,,,,,298611917,
+42818224,42910579,0,True,residential,36th Street,82.638,1,,,25 mph,,,,,,,374482039,
+42818227,597443933,0,False,residential,37th Street,39.498,1,,,25 mph,,,,,,,5706272,
+42818227,42818224,0,False,residential,24th Avenue,80.608,,,,25 mph,,,,,,,298611917,
+42818232,42818227,0,True,residential,24th Avenue,68.319,,,,25 mph,,,,,,,46740556,
+42818232,597443933,0,True,primary,Astoria Boulevard North,73.803,3,,,,,,,,,,159229976,I 278 Truck
+42841803,42818232,0,True,primary,Astoria Boulevard North,17.836,3,,,,,,,,,,159229976,I 278 Truck
+42849685,42881052,0,False,residential,24th Road,74.122,,,,25 mph,,,,,,,5705717,
+42849685,42849703,0,False,tertiary,31st Street,56.573,2,,,,,,,,,,5703719,
+42849685,42818209,0,False,tertiary,31st Street,170.688,2,,,,,,,,,,5703719,
+42849703,42849685,0,False,tertiary,31st Street,56.573,2,,,,,,,,,,5703719,
+42849703,279603573,0,False,primary,31st Street,58.678,,,,,,,yes,,,,"[159230480, 25419476, 25649733]",
+42849703,42833276,0,True,primary,Hoyt Avenue North,106.547,,,,,,,,,,,"[421845656, 46139826]",I 278 Truck
+42866632,42866647,0,False,residential,35th Street,70.635,,,,25 mph,,,yes,,,,"[46740544, 25419457, 159230481]",
+42866632,42897727,0,True,primary,Astoria Boulevard North,121.538,,,,,,,,,,,226829042,I 278 Truck
+42866647,42912767,0,True,primary,Astoria Boulevard South,80.722,,,,,,,,,,,226829043,I 278 Truck
+42866647,42866632,0,False,residential,35th Street,70.635,,,,25 mph,,,yes,,,,"[46740544, 159230481, 25419457]",
+42881052,42849685,0,False,residential,24th Road,74.122,,,,25 mph,,,,,,,5705717,
+42881052,3025003084,0,False,residential,32nd Street,56.88,,,,25 mph,,,,,,,298611915,
+42881052,42905185,0,True,tertiary,32nd Street,48.953,,,,,,,,,,,298611918,
+42888656,597443933,0,False,residential,37th Street,74.362,,,,25 mph,,,yes,,,,25419451,
+42897727,42905185,0,True,primary,Astoria Boulevard North,61.198,,,,,,,,,,,226829042,I 278 Truck
+42898289,42905185,0,True,secondary,"['32nd Street', '33rd Street']",63.764,,,,,,,yes,,,,"[25345880, 46738909, 25649813]",
+42898289,276209383,0,True,motorway_link,,322.058,,,,,,,,,,,25345887,
+42898289,42908487,0,True,primary,Astoria Boulevard South,82.752,,,,,,,,,,,46139827,I 278 Truck
+42905185,42849703,0,True,primary,Astoria Boulevard North,80.209,,,,,,,,,,,"[226829042, 421845655]",I 278 Truck
+42908487,42866647,0,True,primary,Astoria Boulevard South,83.989,,,,,,,,,,,46139827,I 278 Truck
+42910579,42866632,0,True,primary,Astoria Boulevard North,85.706,,,,,,,,,,,226829041,I 278 Truck
+42910587,42912771,0,False,tertiary,Steinway Street,87.09,2,,,,,,yes,,,,"[25348048, 25419449, 25419447]",
+42910587,42841803,0,True,primary,Astoria Boulevard North,97.066,3,,,,,,,,,,159229976,I 278 Truck
+42912767,42888656,0,True,primary,Astoria Boulevard South,87.144,,,,,,,,,,,226829044,I 278 Truck
+42912771,42910587,0,False,tertiary,Steinway Street,87.09,2,,,,,,yes,,,,"[25348048, 25419449, 25419447]",
+106138663,42905185,0,True,motorway_link,,309.956,,,,,,,,,,,5706905,
+279603573,42898289,0,True,primary,Hoyt Avenue South,105.807,,,,,,,,,,,"[421845657, 25649770, 560353397, 560353398]",I 278 Truck
+279603573,42849703,0,False,primary,31st Street,58.678,,,,,,,yes,,,,"[159230480, 25419476, 25649733]",
+588175755,279603573,0,True,primary,Hoyt Avenue South,35.663,,,,,,,,,,,497263582,I 278 Truck
+597443933,42818227,0,False,residential,37th Street,39.498,1,,,25 mph,,,,,,,5706272,
+597443933,42888656,0,False,residential,37th Street,74.362,,,,25 mph,,,yes,,,,25419451,
+597443933,42910579,0,True,primary,Astoria Boulevard North,84.072,3,,,,,,,,,,"[159229976, 420905641]",I 278 Truck
+1934650076,42898289,0,True,secondary,Astoria Boulevard South,37.67,2,,,,,,,,,,5707919,
+3025003084,42881052,0,False,residential,32nd Street,56.88,,,,25 mph,,,,,,,298611915,
+3025003085,42818215,0,False,residential,32nd Street,57.392,,,,25 mph,,,,,,,298611916,

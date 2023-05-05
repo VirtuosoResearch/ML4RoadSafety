@@ -1,0 +1,72 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+42425780,374470398,0,True,motorway_link,,143.652,,,,,,,,,,,33145977,
+42427844,1763749977,0,False,primary,Broadway,12.121,4,,,,,,,,,,223486858,US 9
+42427844,42427846,0,True,secondary,Sherman Avenue,29.011,,,,,,,,,,,5669679,
+42427844,42429174,0,False,primary,Broadway,176.287,4,,,,,,,,,,223486858,US 9
+42427846,1764647103,0,True,secondary,Sherman Avenue,24.247,,,,,,,,,,,571281946,
+42427849,42427852,0,False,secondary,Sherman Avenue,78.327,,,,,,,,,,,489170297,
+42427849,1764647103,0,False,secondary,Sherman Avenue,77.388,,,,,,,,,,,489170297,
+42427852,42427855,0,False,secondary,Sherman Avenue,78.925,,,,,,,,,,,489170297,
+42427852,42427849,0,False,secondary,Sherman Avenue,78.327,,,,,,,,,,,489170297,
+42427855,42429212,0,True,residential,Thayer Street,228.416,,,,,,,,,,,5673361,
+42427855,42427852,0,False,secondary,Sherman Avenue,78.925,,,,,,,,,,,489170297,
+42429174,42427844,0,False,primary,Broadway,176.287,4,,,,,,,,,,223486858,US 9
+42429184,42431180,0,True,residential,Dongan Place,160.667,,,,,,,,,,,5673079,
+42429184,42429211,0,False,primary,Broadway,169.658,4,,,,,,,,,,223486858,US 9
+42429184,1764647101,0,False,primary,Broadway,91.922,4,,,,,,,,,,223486858,US 9
+42429211,42431180,0,True,residential,Arden Street,130.555,,,,,,,,,,,5669981,
+42429211,42429212,0,False,primary,Broadway,81.518,4,,,,,,,,,,223486858,US 9
+42429211,42429184,0,False,primary,Broadway,169.658,4,,,,,,,,,,223486858,US 9
+42429212,595729841,0,False,primary,Broadway,33.574,4,,,,,,,,,,223486858,US 9
+42429212,42429211,0,False,primary,Broadway,81.518,4,,,,,,,,,,223486858,US 9
+42429215,42432795,0,False,primary,Dyckman Street,124.514,,,,,,,,,,,5670131,
+42429215,42432799,0,True,tertiary,Dyckman Street,100.436,,,,,,,,,,,46616991,
+42429215,42441009,0,True,primary,Riverside Drive,99.645,,,,,,,,,,,164873474,
+42429215,595729841,0,False,primary,Broadway,52.569,4,,,,,,,,,,223486858,US 9
+42431180,42427852,0,True,residential,Arden Street,84.98,,,,,,,,,,,5669981,
+42432795,42429215,0,False,primary,Dyckman Street,124.514,,,,,,,,,,,5670131,
+42432799,42441009,0,True,secondary,Seaman Avenue,69.779,,,,,,,,,,,5673296,
+42432799,42432802,0,False,secondary,Dyckman Street,82.296,,,,,,,,,,,440122891,
+42432802,42441007,0,True,residential,Payson Avenue,129.854,,,,,,,,,,,5672284,
+42432802,42432805,0,False,secondary,Dyckman Street,77.548,,,,,,,,,,,46616997,
+42432802,42432799,0,False,secondary,Dyckman Street,82.296,,,,,,,,,,,440122891,
+42432805,42432802,0,False,secondary,Dyckman Street,77.548,,,,,,,,,,,46616997,
+42434559,42434722,0,True,unclassified,Margaret Corbin Drive,207.043,,,,,,,yes,,,,"[33147042, 33146748, 33147044]",
+42434559,5051485235,0,False,unclassified,Margaret Corbin Drive,459.234,,,,,,,yes,,,,"[517827497, 44164429, 377472336, 33146650, 33146652]",
+42434589,374494595,0,True,residential,Margaret Corbin Drive,77.973,,,,,,,,,,,"[104917361, 33146938]",
+42434589,42434559,0,True,unclassified,Margaret Corbin Drive,113.383,,,,,,,,,,,226007067,
+42434722,42434589,0,True,unclassified,Margaret Corbin Drive,349.947,,,,,,,,,,,"[226007067, 226007066, 27518371]",
+42434780,42434722,0,True,residential,Fort Tryon Place,91.28,,,,,,,,,,,5672598,
+42441000,42432805,0,True,residential,Henshaw Street,131.137,,,,,,,,,,,5672512,
+42441000,1763787328,0,True,primary,Riverside Drive,55.898,,,,,,,,,,,"[420863270, 164773919]",
+42441000,42441007,0,False,primary,Riverside Drive,75.262,,,,,,,,,,,164873475,
+42441007,42441000,0,False,primary,Riverside Drive,75.262,,,,,,,,,,,164873475,
+42441007,42441009,0,False,primary,Riverside Drive,127.172,,,,,,,,,,,164873475,
+42441009,595729838,0,True,primary,Riverside Drive,31.276,,,,,,,,,,,5670946,
+42441009,42441007,0,False,primary,Riverside Drive,127.172,,,,,,,,,,,164873475,
+42454893,42434780,0,True,residential,Fort Tryon Place,51.327,,,,,,,,,,,182135969,
+42454893,302095403,0,False,residential,Fort Tryon Place,158.952,2,,,,,,,,,,44164419,
+302095403,374482644,0,True,motorway_link,,79.693,1,,,,,,,,,,27517865,
+302095403,42454893,0,False,residential,Fort Tryon Place,158.952,2,,,,,,,,,,44164419,
+374472690,42441000,0,True,motorway_link,,173.261,,,,,,,,,,,33146104,
+374472690,374470398,0,True,motorway,Henry Hudson Parkway,204.478,3,,,,,,yes,,,,"[33146267, 90571534, 33146263]",HHP;NY 9A
+374482644,374472690,0,True,motorway,Henry Hudson Parkway,347.983,3,,,,,,,,,,122738270,HHP;NY 9A
+374494595,42434780,0,True,residential,Margaret Corbin Drive,33.173,,,,,,,,,,,33146985,
+374494595,42454893,0,True,residential,Margaret Corbin Drive,39.421,,,,,,,,,,,104917361,
+595729838,42429215,0,True,primary,Riverside Drive,67.098,,,,,,,,,,,5670946,
+595729838,595729841,0,True,primary_link,,41.904,,,,,,,,,,,46616992,
+595729841,42429212,0,False,primary,Broadway,33.574,4,,,,,,,,,,223486858,US 9
+595729841,42429215,0,False,primary,Broadway,52.569,4,,,,,,,,,,223486858,US 9
+595729853,374482644,0,True,motorway,Henry Hudson Parkway,104.367,3,,,,,,,,,,122738270,HHP;NY 9A
+595729853,302095403,0,True,motorway_link,,83.443,1,,,,,,,,,,182135970,
+1763749977,42427844,0,False,primary,Broadway,12.121,4,,,,,,,,,,223486858,US 9
+1763749977,1764647101,0,False,primary,Broadway,42.2,4,,,,,,,,,,223486858,US 9
+1763787328,42425780,0,True,primary,Riverside Drive,8.44,,,,,,,,,,,420863269,
+1763787328,374475605,0,True,motorway_link,,186.611,,,,,,,yes,,,,"[33146281, 33146215]",
+1764647101,42429184,0,False,primary,Broadway,91.922,4,,,,,,,,,,223486858,US 9
+1764647101,1763749977,0,False,primary,Broadway,42.2,4,,,,,,,,,,223486858,US 9
+1764647103,42427849,0,False,secondary,Sherman Avenue,77.388,,,,,,,,,,,489170297,
+1764647103,1764647101,0,True,primary_link,,56.655,,,,,,,,,,,164870804,
+1764647103,1763749977,0,True,secondary,Sherman Avenue,48.006,,,,,,,,,,,571281947,
+5051485235,5051485234,0,True,unclassified,Margaret Corbin Drive,36.95,,,,,,,,,,,517694724,
+5051485235,42434559,0,False,unclassified,Margaret Corbin Drive,459.234,,,,,,,yes,,,,"[517827497, 44164429, 377472336, 33146650, 33146652]",

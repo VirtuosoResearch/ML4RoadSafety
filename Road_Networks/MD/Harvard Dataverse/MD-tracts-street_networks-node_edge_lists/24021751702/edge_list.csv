@@ -1,0 +1,283 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+102662893,102913645,0,False,residential,Old Liberty Road,177.42,,,,,,,,,,,105774604,
+102662893,102854279,0,False,tertiary,Buffalo Road,1705.87,2,,,25 mph,,,,,,,420271706,
+102662893,102854183,0,False,tertiary,Buffalo Road,35.582,2,,,25 mph,,,,,,,420271706,
+102837648,103073830,0,False,primary,Liberty Road,2819.441,2,,,,,,,,,,11559993,MD 26
+102837648,103073813,0,False,primary,Liberty Road,1573.074,2,,,,,,,,,,11559993,MD 26
+102837648,103049329,0,False,tertiary,Unionville Road,1240.86,2,,,,,,,,,,452329052,
+102841965,103074077,0,False,residential,Artie Kemp Road,1760.573,,,,,,,,,,,11561452,
+102841965,103055532,0,False,residential,Artie Kemp Road,1321.828,,,,,,,yes,,,,"[11561453, 452319012, 452319013]",
+102850358,103011754,0,False,tertiary,Woodville Road,1148.341,,,,,,,,,,,11552898,
+102850358,103011716,0,False,tertiary,Woodville Road,1265.011,2,,,,,,yes,,,,"[11552897, 452329046, 11536655]",
+102851310,103013648,0,False,primary,Liberty Road,36.793,2,,,,,,,,,,11559993,MD 26
+102851310,102859957,0,False,primary,Liberty Road,139.626,2,,,,,,,,,,11559993,MD 26
+102851312,103013648,0,False,secondary,New Windsor Road,30.444,2,,,,,,,,,,11553097,MD 31
+102851312,102851310,0,True,primary_link,,47.684,,,,,,,,,,,11536740,
+102851312,103013657,0,False,secondary,New Windsor Road,1052.933,2,,,,,,,,,,11553097,MD 31
+102851382,103003430,0,False,primary,Liberty Road,227.447,2,,,,,,,,,,11559993,MD 26
+102851382,103013648,0,False,primary,Liberty Road,33.593,2,,,,,,,,,,11559993,MD 26
+102851382,102851312,0,True,primary_link,,45.963,,,,,,,,,,,11536749,
+102851981,103003430,0,False,residential,Liberty Knolls Court,107.536,,,,,,,,,,,276533518,
+102854100,102854103,0,False,tertiary,Buffalo Road,85.75,,,,,,,,,,,"[11537021, 420273390]",
+102854103,102854100,0,False,tertiary,Buffalo Road,85.75,,,,,,,,,,,"[11537021, 420273390]",
+102854183,102913643,0,False,primary,Liberty Road,204.82,2,,,,,,,,,,11559993,MD 26
+102854183,102662893,0,False,tertiary,Buffalo Road,35.582,2,,,25 mph,,,,,,,420271706,
+102854279,102662893,0,False,tertiary,Buffalo Road,1705.87,2,,,25 mph,,,,,,,420271706,
+102854818,103016018,0,False,residential,Weldon Road,637.035,,,,,,,,,,,11556996,
+102858242,103009425,0,False,residential,Paddock Court,71.501,,,,,,,,,,,11552716,
+102859957,3047994183,0,True,residential,Linberty East Run,49.106,,,,,,,,,,,11537482,
+102859957,102983077,0,False,primary,Liberty Road,10.32,2,,,,,,,,,,11559993,MD 26
+102859957,102851310,0,False,primary,Liberty Road,139.626,2,,,,,,,,,,11559993,MD 26
+102862732,103039116,0,False,residential,Oak Tree Court,467.153,,,,,,,,,,,11559126,
+102862773,103025092,0,False,residential,Boxwood Court,240.629,,,,,,,,,,,300794897,
+102867057,102867062,0,False,residential,,102.642,,,,,,,,,,,11538141,
+102867057,103016277,0,False,primary,Liberty Road,247.664,2,,,,,,,,,,11559993,MD 26
+102867057,103056852,0,False,primary,Liberty Road,81.725,2,,,,,,,,,,11559993,MD 26
+102867062,102867062,0,False,residential,,243.005,,,,,,,,,,,11538141,
+102867062,102867062,1,False,residential,,243.005,,,,,,,,,,,11538141,
+102867062,102867057,0,False,residential,,102.642,,,,,,,,,,,11538141,
+102872014,103040633,0,False,residential,Wild Rose Court,237.574,,,,,,,,,,,11538626,
+102872014,103016018,0,False,residential,Tarr Drive,565.516,,,,,,,,,,,11545690,
+102872014,102945656,0,False,residential,Tarr Drive,207.038,,,,,,,,,,,11545690,
+102884130,102999816,0,False,residential,West South Street,503.506,,,,,,,,,,,11551899,
+102884130,103016277,0,False,residential,Mill Street,108.44,,,,,,,,,,,11553362,
+102884130,103018662,0,False,residential,South Street,172.836,,,,,,,,,,,11558080,
+102884130,103055497,0,False,residential,Jones Road,599.34,,,,,,,,,,,11561387,
+102884634,103057287,0,False,residential,Fordham Court,161.745,,,,,,,,,,,11558116,
+102885639,103039018,0,False,residential,Holly Court,122.893,,,,,,,,,,,11539852,
+102889425,103052700,0,False,residential,Maple Court,99.119,,,,,,,,,,,11557640,
+102889707,102889710,0,False,residential,View Court,82.848,,,,,,,,,,,11540252,
+102889707,102999899,0,False,residential,Oak Tree Circle,74.625,,,,,,,,,,,11556298,
+102889707,103039096,0,False,residential,Oak Tree Circle,363.052,,,,,,,,,,,11556298,
+102889710,103033433,0,False,residential,View Court,184.573,,,,,,,,,,,11540252,
+102889710,102889707,0,False,residential,View Court,82.848,,,,,,,,,,,11540252,
+102889710,103044408,0,False,residential,Liberty Oak Drive,198.295,,,,,,,,,,,11560691,
+102899959,103000637,0,False,residential,Nittany Court,100.161,,,,,,,,,,,11551968,
+102906486,102906488,0,False,residential,,39.077,,,,,,,,,,,300631091,
+102906488,103017312,0,False,secondary,Walnut Street,112.527,,,,,,,,,,,11553560,MD 75
+102906488,103055497,0,False,secondary,"['Green Valley Road', 'Walnut Street']",683.604,,,,,,,,,,,"[11553560, 53012710]",MD 75
+102906488,5585482845,0,False,residential,South Street,249.945,,,,,,,,,,,11558080,
+102906488,102906486,0,False,residential,,39.077,,,,,,,,,,,300631091,
+102913637,102913643,0,False,residential,,70.118,,,,,,,,,,,11542577,
+102913643,103073830,0,False,primary,Liberty Road,237.057,2,,,,,,,,,,11559993,MD 26
+102913643,102913637,0,False,residential,,70.118,,,,,,,,,,,11542577,
+102913643,102854183,0,False,primary,Liberty Road,204.82,2,,,,,,,,,,11559993,MD 26
+102913645,102662893,0,False,residential,Old Liberty Road,177.42,,,,,,,,,,,105774604,
+102917165,102999899,0,False,residential,Oak Spring Court,241.418,,,,,,,,,,,11551911,
+102945656,102957212,0,False,residential,Manor View Court,39.98,,,,,,,,,,,11546852,
+102945656,102872014,0,False,residential,Tarr Drive,207.038,,,,,,,,,,,11545690,
+102945656,103040633,0,False,residential,Manor View Court,303.117,,,,,,,,,,,11546852,
+102946741,103000331,0,False,residential,Hunters Drive,291.418,,,,,,,,,,,11551943,
+102957212,102945656,0,False,residential,Manor View Court,39.98,,,,,,,,,,,11546852,
+102970643,103060517,0,False,residential,Black Ankle Road,1777.142,,,,,,,,,,,11558484,
+102970643,103060396,0,False,residential,Black Ankle Road,1265.951,,,,,,,,,,,11558484,
+102983077,102859957,0,False,primary,Liberty Road,10.32,2,,,,,,,,,,11559993,MD 26
+102983077,103017312,0,False,primary,Liberty Road,480.987,2,,,,,,,,,,11559993,MD 26
+102986188,103073798,0,False,primary,Liberty Road,477.352,2,,,,,,,,,,11559993,MD 26
+102986188,103049295,0,False,tertiary,Unionville Road,473.044,2,,,,,,,,,,"[11557352, 11557348]",
+102986188,103073788,0,False,primary,Liberty Road,1103.902,2,,,,,,,,,,11559993,MD 26
+102999301,102999305,0,False,residential,North Street,148.707,,,,,,,,,,,11551863,
+102999305,102999307,0,False,residential,North Street,180.728,,,,,,,,,,,11551863,
+102999305,102999301,0,False,residential,North Street,148.707,,,,,,,,,,,11551863,
+102999305,103016277,0,False,primary,Woodsboro Road,107.501,2,,,,,,,,,,114731253,MD 550
+102999307,102999311,0,False,residential,North Street,350.858,,,,,,,,,,,11551863,
+102999307,102999305,0,False,residential,North Street,180.728,,,,,,,,,,,11551863,
+102999307,103018661,0,False,residential,Trammels Alley,108.687,,,,,,,,,,,11553760,
+102999311,3047994202,0,False,residential,North Street,160.703,,,,,,,,,,,11551863,
+102999311,102999307,0,False,residential,North Street,350.858,,,,,,,,,,,11551863,
+102999311,103017312,0,False,secondary,Church Street,107.492,,,,,,,,,,,174556830,MD 75
+102999311,103006450,0,False,secondary,"['Green Valley Road', 'Church Street']",3365.884,,,,,,,,,,,"[88312560, 174556830]",MD 75
+102999816,103056852,0,False,primary,Liberty Road,196.354,2,,,,,,,,,,11559993,MD 26
+102999816,102884130,0,False,residential,West South Street,503.506,,,,,,,,,,,11551899,
+102999816,103074077,0,False,primary,Liberty Road,1188.806,2,,,,,,,,,,26827222,MD 26
+102999899,102917165,0,False,residential,Oak Spring Court,241.418,,,,,,,,,,,11551911,
+102999899,103039116,0,False,residential,Oak Tree Circle,394.406,,,,,,,,,,,11556298,
+102999899,102889707,0,False,residential,Oak Tree Circle,74.625,,,,,,,,,,,11556298,
+103000331,102946741,0,False,residential,Hunters Drive,291.418,,,,,,,,,,,11551943,
+103000331,103059044,0,False,residential,Carriage Lane,91.87,,,,,,,,,,,11558317,
+103000331,103009425,0,False,residential,Carriage Lane,64.643,,,,,,,,,,,11558317,
+103000637,102899959,0,False,residential,Nittany Court,100.161,,,,,,,,,,,11551968,
+103000637,103052551,0,False,residential,Bessie Clemson Road,604.983,,,,,,,,,,,11557622,
+103000637,103013682,0,False,residential,Bessie Clemson Road,1094.999,,,,,,,,,,,11557622,
+103003430,102851382,0,False,primary,Liberty Road,227.447,2,,,,,,,,,,11559993,MD 26
+103003430,103008832,0,False,residential,Dollyhyde Road,3015.901,,,,,,,,,,,"[11557793, 11557806]",
+103003430,103025090,0,False,primary,Liberty Road,1071.394,2,,,,,,,,,,11559993,MD 26
+103003430,102851981,0,False,residential,Liberty Knolls Court,107.536,,,,,,,,,,,276533518,
+103006450,102999311,0,False,secondary,"['Green Valley Road', 'Church Street']",3365.884,,,,,,,,,,,"[88312560, 174556830]",MD 75
+103006489,103013682,0,False,residential,Bessie Clemson Road,1159.201,,,,,,,,,,,11557622,
+103006513,103013682,0,False,secondary,New Windsor Road,1032.421,2,,,,,,,,,,11553097,MD 31
+103008832,103054524,0,False,residential,Dollyhyde Road,1418.248,,,,,,,,,,,11557806,
+103008832,103003430,0,False,residential,Dollyhyde Road,3015.901,,,,,,,,,,,"[11557793, 11557806]",
+103009425,102858242,0,False,residential,Paddock Court,71.501,,,,,,,,,,,11552716,
+103009425,103000331,0,False,residential,Carriage Lane,64.643,,,,,,,,,,,11558317,
+103009425,103050971,0,False,residential,Carriage Lane,129.62,,,,,,,,,,,11558317,
+103011716,102850358,0,False,tertiary,Woodville Road,1265.011,2,,,,,,yes,,,,"[11552897, 452329046, 11536655]",
+103011716,103049313,0,False,tertiary,Unionville Road,1068.758,2,,,,,,,,,,11557352,
+103011716,103049295,0,False,tertiary,Unionville Road,77.877,2,,,,,,,,,,11557352,
+103011754,102850358,0,False,tertiary,Woodville Road,1148.341,,,,,,,,,,,11552898,
+103013648,102851312,0,False,secondary,New Windsor Road,30.444,2,,,,,,,,,,11553097,MD 31
+103013648,102851382,0,False,primary,Liberty Road,33.593,2,,,,,,,,,,11559993,MD 26
+103013648,102851310,0,False,primary,Liberty Road,36.793,2,,,,,,,,,,11559993,MD 26
+103013648,103034919,0,False,residential,Liberty Village Way,35.84,,,,,,,,,,,300689485,
+103013657,103013682,0,False,secondary,New Windsor Road,1800.068,2,,,,,,,,,,11553097,MD 31
+103013657,102851312,0,False,secondary,New Windsor Road,1052.933,2,,,,,,,,,,11553097,MD 31
+103013682,103006513,0,False,secondary,New Windsor Road,1032.421,2,,,,,,,,,,11553097,MD 31
+103013682,103013657,0,False,secondary,New Windsor Road,1800.068,2,,,,,,,,,,11553097,MD 31
+103013682,103000637,0,False,residential,Bessie Clemson Road,1094.999,,,,,,,,,,,11557622,
+103013682,103006489,0,False,residential,Bessie Clemson Road,1159.201,,,,,,,,,,,11557622,
+103016018,102872014,0,False,residential,Tarr Drive,565.516,,,,,,,,,,,11545690,
+103016018,103021441,0,False,residential,Weldon Road,71.787,,,,,,,,,,,11556996,
+103016018,102854818,0,False,residential,Weldon Road,637.035,,,,,,,,,,,11556996,
+103016277,103018661,0,False,primary,Liberty Road,177.37,2,,,,,,,,,,11559993,MD 26
+103016277,102884130,0,False,residential,Mill Street,108.44,,,,,,,,,,,11553362,
+103016277,102867057,0,False,primary,Liberty Road,247.664,2,,,,,,,,,,11559993,MD 26
+103016277,102999305,0,False,primary,Woodsboro Road,107.501,2,,,,,,,,,,114731253,MD 550
+103017312,102906488,0,False,secondary,Walnut Street,112.527,,,,,,,,,,,11553560,MD 75
+103017312,102983077,0,False,primary,Liberty Road,480.987,2,,,,,,,,,,11559993,MD 26
+103017312,103018661,0,False,primary,Liberty Road,356.583,2,,,,,,,,,,11559993,MD 26
+103017312,102999311,0,False,secondary,Church Street,107.492,,,,,,,,,,,174556830,MD 75
+103018003,103018005,0,False,residential,Sycamore Court,146.708,,,,,,,,,,,11553663,
+103018003,103039018,0,False,residential,"['Boxwood Lane', 'Sycamore Court']",349.13,,,,,,,,,,,"[11556942, 11553663]",
+103018003,103077202,0,False,residential,Hickory Court,183.196,,,,,,,,,,,11560396,
+103018005,103018003,0,False,residential,Sycamore Court,146.708,,,,,,,,,,,11553663,
+103018661,103018662,0,False,residential,Trammels Alley,108.559,,,,,,,,,,,11553760,
+103018661,103016277,0,False,primary,Liberty Road,177.37,2,,,,,,,,,,11559993,MD 26
+103018661,102999307,0,False,residential,Trammels Alley,108.687,,,,,,,,,,,11553760,
+103018661,103017312,0,False,primary,Liberty Road,356.583,2,,,,,,,,,,11559993,MD 26
+103018662,103018661,0,False,residential,Trammels Alley,108.559,,,,,,,,,,,11553760,
+103018662,5585482845,0,False,residential,South Street,111.401,,,,,,,,,,,11558080,
+103018662,102884130,0,False,residential,South Street,172.836,,,,,,,,,,,11558080,
+103021441,103016018,0,False,residential,Weldon Road,71.787,,,,,,,,,,,11556996,
+103021441,103021530,0,False,residential,Barnes Road,3786.212,,,,,,,,,,,"[420273388, 11554157]",
+103021530,103021441,0,False,residential,Barnes Road,3786.212,,,,,,,,,,,"[420273388, 11554157]",
+103025090,103025092,0,False,residential,Fox Ridge Drive,245.116,,,,,,,,,,,11554589,
+103025090,103052551,0,False,primary,Liberty Road,992.774,2,,,,,,,,,,11559993,MD 26
+103025090,103003430,0,False,primary,Liberty Road,1071.394,2,,,,,,,,,,11559993,MD 26
+103025092,103025090,0,False,residential,Fox Ridge Drive,245.116,,,,,,,,,,,11554589,
+103025092,103039018,0,False,residential,Boxwood Lane,189.858,,,,,,,,,,,11556942,
+103025092,102862773,0,False,residential,Boxwood Court,240.629,,,,,,,,,,,300794897,
+103029171,3047994198,0,False,residential,Cracked Bell Court,38.609,,,,,,,,,,,300689483,
+103029173,3047994198,0,False,residential,Cracked Bell Court,38.847,,,,,,,,,,,300689483,
+103033433,102889710,0,False,residential,View Court,184.573,,,,,,,,,,,11540252,
+103034919,103034919,0,False,residential,Liberty Village Way,98.895,,,,,,,,,,,300689485,
+103034919,103034919,1,False,residential,Liberty Village Way,98.895,,,,,,,,,,,300689485,
+103034919,103013648,0,False,residential,Liberty Village Way,35.84,,,,,,,,,,,300689485,
+103039018,103025092,0,False,residential,Boxwood Lane,189.858,,,,,,,,,,,11556942,
+103039018,102885639,0,False,residential,Holly Court,122.893,,,,,,,,,,,11539852,
+103039018,103018003,0,False,residential,"['Boxwood Lane', 'Sycamore Court']",349.13,,,,,,,,,,,"[11556942, 11553663]",
+103039096,103051054,0,False,residential,Daysville Road,1498.256,,,,,,,,,,,11554477,
+103039096,103039116,0,False,residential,Daysville Road,131.11,,,,,,,,,,,11554477,
+103039096,102889707,0,False,residential,Oak Tree Circle,363.052,,,,,,,,,,,11556298,
+103039116,103039096,0,False,residential,Daysville Road,131.11,,,,,,,,,,,11554477,
+103039116,103056852,0,False,residential,Daysville Road,965.946,,,,,,,,,,,11554477,
+103039116,102999899,0,False,residential,Oak Tree Circle,394.406,,,,,,,,,,,11556298,
+103039116,102862732,0,False,residential,Oak Tree Court,467.153,,,,,,,,,,,11559126,
+103040631,103040633,0,False,residential,Wild Rose Court,43.467,,,,,,,,,,,11538626,
+103040633,103040631,0,False,residential,Wild Rose Court,43.467,,,,,,,,,,,11538626,
+103040633,102872014,0,False,residential,Wild Rose Court,237.574,,,,,,,,,,,11538626,
+103040633,102945656,0,False,residential,Manor View Court,303.117,,,,,,,,,,,11546852,
+103044408,103044412,0,False,residential,Liberty Court,137.782,,,,,,,,,,,11556880,
+103044408,103079104,0,False,residential,Liberty Oak Drive,320.629,,,,,,,,,,,11560691,
+103044408,102889710,0,False,residential,Liberty Oak Drive,198.295,,,,,,,,,,,11560691,
+103044412,103044408,0,False,residential,Liberty Court,137.782,,,,,,,,,,,11556880,
+103049295,103011716,0,False,tertiary,Unionville Road,77.877,2,,,,,,,,,,11557352,
+103049295,102986188,0,False,tertiary,Unionville Road,473.044,2,,,,,,,,,,"[11557352, 11557348]",
+103049295,103073798,0,False,residential,Clemsonville Road,332.172,,,,,,,,,,,11560181,
+103049313,103049329,0,False,tertiary,Unionville Road,545.538,2,,,,,,yes,,,,"[11557352, 452329051, 452329052]",
+103049313,103011716,0,False,tertiary,Unionville Road,1068.758,2,,,,,,,,,,11557352,
+103049313,103073813,0,False,residential,Albaugh Road,839.959,,,,,,,,,,,11561385,
+103049329,103060396,0,False,residential,Black Ankle Road,1901.833,,,,,,,,,,,11558479,
+103049329,102837648,0,False,tertiary,Unionville Road,1240.86,2,,,,,,,,,,452329052,
+103049329,103049313,0,False,tertiary,Unionville Road,545.538,2,,,,,,yes,,,,"[11557352, 452329051, 452329052]",
+103050963,103050971,0,False,residential,Chestnut Grove Road,178.58,,,,,,,,,,,11557491,
+103050963,103074077,0,False,primary,Liberty Road,2110.274,2,,,,,,,,,,26827222,MD 26
+103050971,103050963,0,False,residential,Chestnut Grove Road,178.58,,,,,,,,,,,11557491,
+103050971,103009425,0,False,residential,Carriage Lane,129.62,,,,,,,,,,,11558317,
+103051054,103039096,0,False,residential,Daysville Road,1498.256,,,,,,,,,,,11554477,
+103052551,103000637,0,False,residential,Bessie Clemson Road,604.983,,,,,,,,,,,11557622,
+103052551,103073788,0,False,primary,Liberty Road,350.283,2,,,,,,,,,,11559993,MD 26
+103052551,103025090,0,False,primary,Liberty Road,992.774,2,,,,,,,,,,11559993,MD 26
+103052700,102889425,0,False,residential,Maple Court,99.119,,,,,,,,,,,11557640,
+103052700,103054524,0,False,residential,Mapleville Road,223.753,,,,,,,,,,,11561568,
+103052700,103073788,0,False,residential,Mapleville Road,2786.907,,,,,,,,,,,11561568,
+103054524,103052700,0,False,residential,Mapleville Road,223.753,,,,,,,,,,,11561568,
+103054524,103008832,0,False,residential,Dollyhyde Road,1418.248,,,,,,,,,,,11557806,
+103055497,102884130,0,False,residential,Jones Road,599.34,,,,,,,,,,,11561387,
+103055497,103055520,0,False,secondary,Green Valley Road,1675.112,,,,,,,,,,,53012710,MD 75
+103055497,102906488,0,False,secondary,"['Green Valley Road', 'Walnut Street']",683.604,,,,,,,,,,,"[11553560, 53012710]",MD 75
+103055520,3048108359,0,False,residential,Arlington Mill Road,209.599,,,,,,,,,,,11559093,
+103055520,103055532,0,False,secondary,Green Valley Road,959.258,,,,,,,,,,,53012710,MD 75
+103055520,103055497,0,False,secondary,Green Valley Road,1675.112,,,,,,,,,,,53012710,MD 75
+103055532,102841965,0,False,residential,Artie Kemp Road,1321.828,,,,,,,yes,,,,"[452319013, 452319012, 11561453]",
+103055532,103055520,0,False,secondary,Green Valley Road,959.258,,,,,,,,,,,53012710,MD 75
+103056852,102999816,0,False,primary,Liberty Road,196.354,2,,,,,,,,,,11559993,MD 26
+103056852,103039116,0,False,residential,Daysville Road,965.946,,,,,,,,,,,11554477,
+103056852,102867057,0,False,primary,Liberty Road,81.725,2,,,,,,,,,,11559993,MD 26
+103057287,102884634,0,False,residential,Fordham Court,161.745,,,,,,,,,,,11558116,
+103057287,103064915,0,False,residential,Arlington Mill Road,199.83,,,,,,,,,,,11559093,
+103057287,103064896,0,False,residential,Arlington Mill Road,267.794,,,,,,,,,,,11559093,
+103059044,103000331,0,False,residential,Carriage Lane,91.87,,,,,,,,,,,11558317,
+103060396,103049329,0,False,residential,Black Ankle Road,1901.833,,,,,,,,,,,11558479,
+103060396,102970643,0,False,residential,Black Ankle Road,1265.951,,,,,,,,,,,11558484,
+103060517,102970643,0,False,residential,Black Ankle Road,1777.142,,,,,,,,,,,11558484,
+103064896,103057287,0,False,residential,Arlington Mill Road,267.794,,,,,,,,,,,11559093,
+103064896,3048108359,0,False,residential,Arlington Mill Road,69.858,,,,,,,,,,,11559093,
+103064896,103075235,0,False,residential,Knighton Court,135.216,,,,,,,,,,,11560196,
+103064915,103057287,0,False,residential,Arlington Mill Road,199.83,,,,,,,,,,,11559093,
+103073788,102986188,0,False,primary,Liberty Road,1103.902,2,,,,,,,,,,11559993,MD 26
+103073788,103052551,0,False,primary,Liberty Road,350.283,2,,,,,,,,,,11559993,MD 26
+103073788,103052700,0,False,residential,Mapleville Road,2786.907,,,,,,,,,,,11561568,
+103073798,102986188,0,False,primary,Liberty Road,477.352,2,,,,,,,,,,11559993,MD 26
+103073798,103073813,0,False,primary,Liberty Road,1215.219,2,,,,,,,,,,11559993,MD 26
+103073798,103049295,0,False,residential,Clemsonville Road,332.172,,,,,,,,,,,11560181,
+103073813,102837648,0,False,primary,Liberty Road,1573.074,2,,,,,,,,,,11559993,MD 26
+103073813,103073798,0,False,primary,Liberty Road,1215.219,2,,,,,,,,,,11559993,MD 26
+103073813,103049313,0,False,residential,Albaugh Road,839.959,,,,,,,,,,,11561385,
+103073830,102913643,0,False,primary,Liberty Road,237.057,2,,,,,,,,,,11559993,MD 26
+103073830,102837648,0,False,primary,Liberty Road,2819.441,2,,,,,,,,,,11559993,MD 26
+103073830,103089282,0,False,residential,Pawnee Drive,190.791,,,,,,,,,,,11561852,
+103074077,102841965,0,False,residential,Artie Kemp Road,1760.573,,,,,,,,,,,11561452,
+103074077,102999816,0,False,primary,Liberty Road,1188.806,2,,,,,,,,,,26827222,MD 26
+103074077,103050963,0,False,primary,Liberty Road,2110.274,2,,,,,,,,,,26827222,MD 26
+103075235,103064896,0,False,residential,Knighton Court,135.216,,,,,,,,,,,11560196,
+103077202,103018003,0,False,residential,Hickory Court,183.196,,,,,,,,,,,11560396,
+103079104,103044408,0,False,residential,Liberty Oak Drive,320.629,,,,,,,,,,,11560691,
+103089282,103073830,0,False,residential,Pawnee Drive,190.791,,,,,,,,,,,11561852,
+2064693199,2064693228,0,False,residential,,607.859,,,,,,,,,,,196098073,
+2064693228,2064693199,0,False,residential,,607.859,,,,,,,,,,,196098073,
+3047994176,3047994182,0,False,residential,Liberty East Terrace,72.109,,,,,,,,,,,300689484,
+3047994182,3047994185,0,False,residential,Liberty East Terrace,24.376,,,,,,,,,,,300689484,
+3047994182,3047994185,1,False,residential,Garth Place,83.019,,,,,,,,,,,11556202,
+3047994182,3047994176,0,False,residential,Liberty East Terrace,72.109,,,,,,,,,,,300689484,
+3047994183,3047994190,0,True,residential,Linberty East Run,31.486,,,,,,,,,,,11537482,
+3047994183,3047994184,0,False,residential,,10.453,,,,,,,,,,,300689496,
+3047994184,102983077,0,True,residential,Linberty East Run,49.189,,,,,,,,,,,300689486,
+3047994184,3047994183,0,False,residential,,10.453,,,,,,,,,,,300689496,
+3047994185,3047994190,0,False,residential,Liberty East Terrace,23.588,,,,,,,,,,,300689484,
+3047994185,3047994182,0,False,residential,Liberty East Terrace,24.376,,,,,,,,,,,300689484,
+3047994185,3047994182,1,False,residential,Garth Place,83.019,,,,,,,,,,,11556202,
+3047994190,3047994195,0,False,residential,Liberty East Terrace,10.499,,,,,,,,,,,300689484,
+3047994190,3047994185,0,False,residential,Liberty East Terrace,23.588,,,,,,,,,,,300689484,
+3047994195,3047994198,0,False,residential,Liberty East Terrace,67.011,,,,,,,,,,,300689484,
+3047994195,3047994190,0,False,residential,Liberty East Terrace,10.499,,,,,,,,,,,300689484,
+3047994195,3047994184,0,True,residential,Linberty East Run,33.209,,,,,,,,,,,300689486,
+3047994198,103029173,0,False,residential,Cracked Bell Court,38.847,,,,,,,,,,,300689483,
+3047994198,103029171,0,False,residential,Cracked Bell Court,38.609,,,,,,,,,,,300689483,
+3047994198,3047994195,0,False,residential,Liberty East Terrace,67.011,,,,,,,,,,,300689484,
+3047994202,102999311,0,False,residential,North Street,160.703,,,,,,,,,,,11551863,
+3048108359,103064896,0,False,residential,Arlington Mill Road,69.858,,,,,,,,,,,11559093,
+3048108359,103055520,0,False,residential,Arlington Mill Road,209.599,,,,,,,,,,,11559093,
+3048108359,3048108361,0,False,residential,Croyden Court,137.467,,,,,,,,,,,300702515,
+3048108361,3048108359,0,False,residential,Croyden Court,137.467,,,,,,,,,,,300702515,
+4848665771,4848665771,0,False,residential,Jim Smith Lane,83.836,,,,,,,,,,,492895526,
+4848665771,4848665771,1,False,residential,Jim Smith Lane,83.836,,,,,,,,,,,492895526,
+5585482845,102906488,0,False,residential,South Street,249.945,,,,,,,,,,,11558080,
+5585482845,103018662,0,False,residential,South Street,111.401,,,,,,,,,,,11558080,
+5585482845,5585482862,0,False,road,,32.05,,,,,,,,,,,584313801,
+5585482851,5585482852,0,False,road,,24.449,,,,,,,,,,,584313801,
+5585482852,5585482851,0,False,road,,24.449,,,,,,,,,,,584313801,
+5585482852,5585482862,0,False,road,,15.415,,,,,,,,,,,584313801,
+5585482852,5585482862,1,False,road,,91.271,,,,,,,,,,,584313802,
+5585482862,5585482852,0,False,road,,15.415,,,,,,,,,,,584313801,
+5585482862,5585482852,1,False,road,,91.271,,,,,,,,,,,584313802,
+5585482862,5585482845,0,False,road,,32.05,,,,,,,,,,,584313801,

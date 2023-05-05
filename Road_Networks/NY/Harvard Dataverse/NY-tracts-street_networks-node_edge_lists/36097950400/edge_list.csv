@@ -1,0 +1,784 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+213212864,213212873,0,False,residential,South Madison Avenue,159.066,,,,,,,,,,,20162988,
+213212864,213248753,0,False,residential,6th Street,72.72,,,,,,,,,,,20166228,
+213212864,213239064,0,False,residential,"['South Madison Avenue', 'West 8th Street']",227.481,,,,,,,,,,,"[20162988, 20165543]",
+213212873,213212864,0,False,residential,South Madison Avenue,159.066,,,,,,,,,,,20162988,
+213212873,213239825,0,False,secondary,West 4th Street,72.146,,,,,,,,,,,20167002,NY 409
+213212873,213235002,0,False,secondary,West 4th Street,120.939,,,,,,,,,,,20167002,NY 409
+213212873,213212879,0,False,residential,South Madison Avenue,163.228,,,,,,,,,,,20162988,
+213212879,213244195,0,False,residential,West 2nd Street,73.496,,,,,,,,,,,20165920,
+213212879,213234768,0,False,residential,West 2nd Street,69.224,,,,,,,,,,,20165920,
+213212879,213212873,0,False,residential,South Madison Avenue,163.228,,,,,,,,,,,20162988,
+213213284,213213287,0,False,residential,10th Street,173.009,,,,,,,,,,,20163014,
+213213284,213241144,0,False,primary,North Franklin Street,87.809,3,,,30 mph,,,yes,,,,"[98955660, 20166211, 236760428, 98955663]",NY 14;NY 414
+213213284,213248747,0,False,primary,North Franklin Street,111.219,3,,,30 mph,,,,,,,475013838,NY 14;NY 414
+213213287,213213289,0,False,residential,10th Street,141.184,,,,,,,,,,,20163014,
+213213287,213238561,0,False,residential,North Decatur Street,110.692,,,,,,,,,,,98955644,
+213213287,213213284,0,False,residential,10th Street,173.009,,,,,,,,,,,20163014,
+213213287,213238552,0,False,residential,North Decatur Street,107.612,,,,,,,yes,,,,"[20165513, 98955650, 98955644]",
+213213289,213213291,0,False,residential,10th Street,139.333,,,,,,,,,,,20163014,
+213213289,213213287,0,False,residential,10th Street,141.184,,,,,,,,,,,20163014,
+213213289,213251735,0,False,residential,North Porter Street,110.24,,,,,,,,,,,20166449,
+213213289,213251732,0,False,residential,North Porter Street,79.535,,,,,,,,,,,20166449,
+213213291,213213293,0,False,residential,10th Street,75.132,,,,,,,,,,,20163014,
+213213291,213213289,0,False,residential,10th Street,139.333,,,,,,,,,,,20163014,
+213213291,213240594,0,False,residential,North Perry Street,109.779,,,,,,,,,,,20165666,
+213213291,213240591,0,False,residential,North Perry Street,98.213,,,,,,,,,,,20165666,
+213213293,213213291,0,False,residential,10th Street,75.132,,,,,,,,,,,20163014,
+213213293,213233641,0,False,residential,Magee Street,109.546,,,,,,,,,,,20165100,
+213213293,213233639,0,False,residential,Magee Street,106.741,,,,,,,,,,,20165100,
+213213544,213213555,0,False,residential,Dug Road,777.116,,,,,,,,,,,20163034,
+213213544,213213575,0,False,residential,Dug Road,426.155,,,,,,,,,,,"[20163034, 20163030]",
+213213544,213239523,0,False,residential,Lawrence Johnson Road,1320.676,,,,,,,,,,,20165923,
+213213555,213213558,0,False,residential,Dug Road,167.18,,,,,,,,,,,20163034,
+213213555,213239424,0,False,residential,Roloson Hollow Road,600.64,,,,,,,,,,,20165584,
+213213555,213213544,0,False,residential,Dug Road,777.116,,,,,,,,,,,20163034,
+213213558,213213555,0,False,residential,Dug Road,167.18,,,,,,,,,,,20163034,
+213213558,213253774,0,False,residential,Price Road,2302.428,,,,,,,,,,,20166951,
+213213558,213239421,0,False,residential,Price Road,811.465,,,,,,,,,,,20166951,
+213213575,213213544,0,False,residential,Dug Road,426.155,,,,,,,,,,,"[20163034, 20163030]",
+213213575,213234277,0,False,residential,"['Gano Road', 'Dug Road']",2174.492,,,,,,,,,,,"[20165148, 20163030]",
+213214255,213214258,0,False,residential,,92.421,,,,,,,,,,,20163108,
+213214255,213248630,0,False,secondary,State Highway 329,1131.057,,,,,,,,,,,20166192,NY 329
+213214255,2894888613,0,False,secondary,State Highway 329,474.993,,,,,,,,,,,20166192,NY 329
+213214258,213214255,0,False,residential,,92.421,,,,,,,,,,,20163108,
+213215833,213217850,0,False,secondary,East 4th Street,6.412,,,,,,,,,,,20165598,NY 414
+213215833,213215849,0,False,residential,,256.248,,,,,,,,,,,20163265,
+213215833,213223662,0,False,secondary,East 4th Street,589.929,,,,,,,yes,,,,"[369947536, 55947737, 20166676, 20165598]",NY 414
+213215849,213215833,0,False,residential,,256.248,,,,,,,,,,,20163265,
+213215995,213215999,0,False,residential,,91.046,,,,,,,,,,,20163282,
+213215995,213234590,0,False,unclassified,Vanzandt Hollow Road,1831.646,,,,,,,,,,,20166734,
+213215995,213234493,0,False,unclassified,Vanzandt Hollow Road,52.102,,,,,,,,,,,20166734,
+213215999,213215995,0,False,residential,,91.046,,,,,,,,,,,20163282,
+213216047,213227281,0,False,residential,Fairgrounds Lane,41.938,,,,,,,,,,,20167086,
+213216047,213216062,0,False,residential,,333.706,,,,,,,,,,,20163289,
+213216047,213226663,0,False,residential,Fairgrounds Lane,323.403,,,,,,,,,,,20167086,
+213216062,213216047,0,False,residential,,333.706,,,,,,,,,,,20163289,
+213216206,213237803,0,False,residential,Bronson Hill Road,71.988,,,,,,,,,,,20165443,
+213216206,213216212,0,False,residential,,49.378,,,,,,,,,,,20163307,
+213216206,213237796,0,False,residential,Bronson Hill Road,212.96,,,,,,,,,,,20165443,
+213216212,213216206,0,False,residential,,49.378,,,,,,,,,,,20163307,
+213216890,213216892,0,False,residential,,25.141,,,,,,,,,,,20163375,
+213216890,213216892,1,False,residential,,127.42,,,,,,,,,,,20163377,
+213216890,702338797,0,False,residential,,103.233,,,,,,,,,,,20163375,
+213216892,213216890,0,False,residential,,25.141,,,,,,,,,,,20163375,
+213216892,213216890,1,False,residential,,127.42,,,,,,,,,,,20163377,
+213216892,3659200194,0,False,residential,,46.927,,,,,,,,,,,20163375,
+213217086,213232236,0,False,residential,Boat Launch Road,12.842,,,,,,,,,,,20166961,
+213217086,213233142,0,False,residential,Boat Launch Road,24.645,,,,,,,,,,,20166961,
+213217086,213217101,0,False,residential,,105.511,,,,,,,,,,,20163394,
+213217101,213217106,0,False,residential,,47.811,,,,,,,,,,,20163394,
+213217101,213217086,0,False,residential,,105.511,,,,,,,,,,,20163394,
+213217101,213217117,0,False,residential,,149.01,,,,,,,,,,,20163394,
+213217106,213217117,0,False,residential,,119.943,,,,,,,,,,,20163394,
+213217106,213217117,1,False,residential,,207.057,,,,,,,,,,,439801087,
+213217106,213217101,0,False,residential,,47.811,,,,,,,,,,,20163394,
+213217117,213217101,0,False,residential,,149.01,,,,,,,,,,,20163394,
+213217117,213217106,0,False,residential,,119.943,,,,,,,,,,,20163394,
+213217117,213217106,1,False,residential,,207.057,,,,,,,,,,,439801087,
+213217196,213217199,0,False,residential,,100.433,,,,,,,,,,,20163401,
+213217196,213259057,0,False,tertiary,County Route 16,309.165,,,,,,,,,,,20166894,CR 16
+213217199,213217196,0,False,residential,,100.433,,,,,,,,,,,20163401,
+213217329,213217333,0,False,residential,,36.489,,,,,,,,,,,20163417,
+213217329,213237169,0,False,residential,Baker Hill Road,1355.985,,,,,,,,,,,20165382,
+213217329,213237141,0,False,residential,Baker Hill Road,710.748,,,,,,,,,,,20165382,
+213217333,213217329,0,False,residential,,36.489,,,,,,,,,,,20163417,
+213217333,213217360,0,False,residential,,51.367,,,,,,,,,,,20163420,
+213217333,213217351,0,False,residential,,182.482,,,,,,,,,,,20163417,
+213217351,213217333,0,False,residential,,182.482,,,,,,,,,,,20163417,
+213217360,213217333,0,False,residential,,51.367,,,,,,,,,,,20163420,
+213217388,213217389,0,False,residential,,14.964,,,,,,,,,,,20163424,
+213217388,213237806,0,False,residential,Bronson Hill Road,84.723,,,,,,,,,,,20165443,
+213217388,213237803,0,False,residential,Bronson Hill Road,165.314,,,,,,,,,,,20165443,
+213217389,213217388,0,False,residential,,14.964,,,,,,,,,,,20163424,
+213217508,213230336,0,False,residential,King Hill Road,139.999,,,,,,,,,,,20165624,
+213217508,213220276,0,False,residential,Roloson Hill Road,593.049,,,,,,,,,,,"[20163440, 20166964]",
+213217508,213239536,0,False,residential,King Hill Road,867.291,,,,,,,,,,,20165624,
+213217535,213217537,0,False,residential,,158.969,,,,,,,,,,,20163444,
+213217535,213225690,0,False,residential,Hall Road,12.444,,,,,,,,,,,20167184,
+213217535,213238315,0,False,residential,Hall Road,288.429,,,,,,,,,,,20167184,
+213217537,213217539,0,False,residential,,12.34,,,,,,,,,,,20163444,
+213217537,213217535,0,False,residential,,158.969,,,,,,,,,,,20163444,
+213217537,665365936,0,False,residential,,120.781,,,,,,,,,,,52285527,
+213217539,213217542,0,False,residential,,65.029,,,,,,,,,,,20163444,
+213217539,213217537,0,False,residential,,12.34,,,,,,,,,,,20163444,
+213217539,213225690,0,False,residential,,159.853,,,,,,,,,,,20164255,
+213217542,213217544,0,False,residential,,13.721,,,,,,,,,,,20163444,
+213217542,213217539,0,False,residential,,65.029,,,,,,,,,,,20163444,
+213217542,213225683,0,False,residential,,157.068,,,,,,,,,,,20164254,
+213217544,213217542,0,False,residential,,13.721,,,,,,,,,,,20163444,
+213217544,213224010,0,False,residential,,157.503,,,,,,,,,,,20164083,
+213217544,213217550,0,False,residential,,214.959,,,,,,,,,,,20163444,
+213217550,213224010,0,False,residential,Hall Road,61.591,,,,,,,,,,,20167184,
+213217550,213217544,0,False,residential,,214.959,,,,,,,,,,,20163444,
+213217550,213239376,0,False,residential,Hall Road,543.36,,,,,,,,,,,20167184,
+213217840,3016877433,0,False,residential,,128.725,,,,,,,,,,,20163468,
+213217840,213235161,0,False,residential,Mill Hill Road,510.21,,,,,,,,,,,439815367,
+213217840,213235144,0,False,residential,Mill Hill Road,631.302,,,,,,,,,,,439815367,
+213217850,213215833,0,False,secondary,East 4th Street,6.412,,,,,,,,,,,20165598,NY 414
+213217850,213217862,0,False,residential,,216.507,,,,,,,,,,,20163470,
+213217850,213233663,0,False,secondary,East 4th Street,46.847,,,,,,,,,,,20165598,NY 414
+213217862,213217850,0,False,residential,,216.507,,,,,,,,,,,20163470,
+213219664,213245951,0,False,residential,Cooley Road,473.436,,,,,,,,,,,20166047,
+213219664,213219690,0,False,residential,,427.465,,,,,,,,,,,20163637,
+213219664,213237141,0,False,residential,Cooley Road,1342.195,,,,,,,,,,,20166047,
+213219690,213219664,0,False,residential,,427.465,,,,,,,,,,,20163637,
+213219928,213232993,0,False,secondary,State Route 419,60.015,,,,,,,,,,,20165071,NY 419
+213219928,213231305,0,False,residential,Walnut Road,284.086,,,,,,,,,,,20166097,
+213219928,213246929,0,False,secondary,Walnut Road,237.187,,,,,,,,,,,51864176,NY 419
+213220276,213239512,0,False,residential,Roloson Hill Road,184.25,,,,,,,,,,,20166964,
+213220276,213220288,0,False,residential,,311.948,,,,,,,,,,,20163702,
+213220276,213217508,0,False,residential,Roloson Hill Road,593.049,,,,,,,,,,,"[20163440, 20166964]",
+213220288,213220276,0,False,residential,,311.948,,,,,,,,,,,20163702,
+213221689,213237328,0,False,residential,Bennett Road,222.829,,,,,,,,,,,20165399,
+213221689,213239610,0,False,secondary,State Highway 414,431.709,,,,,,,,,,,20166673,NY 414
+213221689,1313700276,0,False,secondary,State Highway 414,674.891,,,,,,,,,,,20166673,NY 414
+213222555,213222564,0,False,residential,,254.703,,,,,,,,,,,20163950,
+213222555,213224864,0,False,tertiary,County Route 19,2386.476,,,,,,,,,,,20166959,
+213222555,213245951,0,False,tertiary,County Route 19,271.158,,,,,,,,,,,20166959,
+213222564,213222555,0,False,residential,,254.703,,,,,,,,,,,20163950,
+213222594,213222605,0,False,residential,,541.597,,,,,,,,,,,20163954,
+213222594,213237806,0,False,residential,Bronson Hill Road,1335.273,,,,,,,,,,,20165443,
+213222594,213237169,0,False,residential,Hedden Road,1160.268,,,,,,,,,,,20165580,
+213222605,213222594,0,False,residential,,541.597,,,,,,,,,,,20163954,
+213223219,213239523,0,False,residential,Roloson Hollow Road,130.026,,,,,,,,,,,20165584,
+213223219,213223224,0,False,residential,,115.922,,,,,,,,,,,20164014,
+213223219,213239512,0,False,residential,Roloson Hollow Road,726.109,,,,,,,,,,,20165584,
+213223224,213223219,0,False,residential,,115.922,,,,,,,,,,,20164014,
+213223499,213223505,0,False,residential,,108.668,,,,,,,,,,,20164035,
+213223499,213223505,1,False,residential,Wgmf Road,97.719,,,,,,,,,,,20166593,
+213223499,213246404,0,False,residential,Wgmf Road,211.962,,,,,,,,,,,20166593,
+213223505,213253640,0,False,residential,Wgmf Road,61.369,,,,,,,,,,,20166593,
+213223505,213223499,0,False,residential,,108.668,,,,,,,,,,,20164035,
+213223505,213223499,1,False,residential,Wgmf Road,97.719,,,,,,,,,,,20166593,
+213223659,213223662,0,False,residential,,18.621,,,,,,,,,,,369947552,
+213223662,213223659,0,False,residential,,18.621,,,,,,,,,,,369947552,
+213223662,213232236,0,False,residential,Boat Launch Road,151.418,,,,,,,,,,,20166961,
+213223662,213233780,0,False,secondary,,601.685,,,,,,,yes,,,,"[55947737, 55947742, 55947743]",NY 414
+213223662,213215833,0,False,secondary,East 4th Street,589.929,,,,,,,yes,,,,"[369947536, 55947737, 20166676, 20165598]",NY 414
+213224010,213217544,0,False,residential,,157.503,,,,,,,,,,,20164083,
+213224010,213217550,0,False,residential,Hall Road,61.591,,,,,,,,,,,20167184,
+213224010,213225683,0,False,residential,Hall Road,14.809,,,,,,,,,,,20167184,
+213224739,1665009820,0,False,tertiary,County Route 20,90.028,,,,,,,,,,,20165491,CR 20
+213224739,213224750,0,False,residential,,213.198,,,,,,,,,,,20164144,
+213224739,213238315,0,False,tertiary,County Route 20,324.974,,,,,,,,,,,20165491,CR 20
+213224750,213224739,0,False,residential,,213.198,,,,,,,,,,,20164144,
+213224864,213224865,0,False,residential,,97.388,,,,,,,,,,,20164161,
+213224864,213244050,0,False,tertiary,County Route 19,349.37,,,,,,,,,,,20166959,
+213224864,213222555,0,False,tertiary,County Route 19,2386.476,,,,,,,,,,,20166959,
+213224865,213224864,0,False,residential,,97.388,,,,,,,,,,,20164161,
+213225683,213217542,0,False,residential,,157.068,,,,,,,,,,,20164254,
+213225683,213224010,0,False,residential,Hall Road,14.809,,,,,,,,,,,20167184,
+213225683,213225690,0,False,residential,Hall Road,62.603,,,,,,,,,,,20167184,
+213225690,213217539,0,False,residential,,159.853,,,,,,,,,,,20164255,
+213225690,213225683,0,False,residential,Hall Road,62.603,,,,,,,,,,,20167184,
+213225690,213217535,0,False,residential,Hall Road,12.444,,,,,,,,,,,20167184,
+213226663,213245707,0,False,residential,Fairgrounds Lane,78.541,,,,,,,,,,,20167086,
+213226663,213226678,0,False,residential,,214.81,,,,,,,,,,,20164355,
+213226663,213216047,0,False,residential,Fairgrounds Lane,323.403,,,,,,,,,,,20167086,
+213226678,213245707,0,False,residential,South Decatur Street,151.967,,,,,,,,,,,20166025,
+213226678,213226663,0,False,residential,,214.81,,,,,,,,,,,20164355,
+213226678,213243741,0,False,residential,South Decatur Street,64.916,,,,,,,,,,,20166025,
+213226860,213226863,0,False,unclassified,Punch Bowl Road,56.689,,,,,,,,,,,20164375,
+213226860,213246671,0,False,unclassified,Whites Hollow Road,1385.683,,,,,,,yes,,,,"[20166462, 441051540, 20166461, 441051542]",
+213226860,213234543,0,False,unclassified,Whites Hollow Road,166.435,,,,,,,,,,,20166461,
+213226863,213226860,0,False,unclassified,Punch Bowl Road,56.689,,,,,,,,,,,20164375,
+213227281,213228219,0,False,residential,Fairgrounds Lane,31.8,,,,,,,,,,,20167086,
+213227281,213216047,0,False,residential,Fairgrounds Lane,41.938,,,,,,,,,,,20167086,
+213227281,213227291,0,False,residential,,150.894,,,,,,,,,,,20164426,
+213227291,213227281,0,False,residential,,150.894,,,,,,,,,,,20164426,
+213227291,213228219,0,False,residential,,128.318,,,,,,,,,,,20164516,
+213227291,213228219,1,False,residential,"['Marina Road', 'Fairgrounds Lane']",172.264,,,,,,,,,,,"[20166212, 20167086]",
+213228219,213227281,0,False,residential,Fairgrounds Lane,31.8,,,,,,,,,,,20167086,
+213228219,213227291,0,False,residential,,128.318,,,,,,,,,,,20164516,
+213228219,213227291,1,False,residential,"['Marina Road', 'Fairgrounds Lane']",172.264,,,,,,,,,,,"[20166212, 20167086]",
+213228330,213228376,0,False,residential,,12.859,,,,,,,,,,,20164538,
+213228330,213228330,0,False,residential,,393.832,,,,,,,,,,,20164535,
+213228330,213228330,1,False,residential,,393.832,,,,,,,,,,,20164535,
+213228376,213228330,0,False,residential,,12.859,,,,,,,,,,,20164538,
+213228376,213236256,0,False,secondary,State Route 409,957.629,,,,,,,,,,,20166369,NY 409
+213228376,213246671,0,False,"['residential', 'secondary']","['State Route 409', 'Station Road']",1480.192,,,,,,,,,,,"[20166369, 20166090]",NY 409
+213229385,213229405,0,False,residential,12th Street,90.029,,,,,,,,,,,20165452,
+213229385,213229405,1,False,residential,,109.244,,,,,,,,,,,"[20164640, 20164644]",
+213229385,213236144,0,False,residential,12th Street,22.44,,,,,,,,,,,20165452,
+213229405,213237929,0,False,residential,12th Street,32.342,,,,,,,,,,,20165452,
+213229405,213229385,0,False,residential,12th Street,90.029,,,,,,,,,,,20165452,
+213229405,213229385,1,False,residential,,109.244,,,,,,,,,,,"[20164640, 20164644]",
+213229873,213229876,0,False,residential,,100.974,,,,,,,,,,,20164711,
+213229873,213234479,0,False,tertiary,Townsend Road,129.916,,,,,,,,,,,20165172,
+213229873,213234493,0,False,tertiary,Townsend Road,487.713,,,,,,,,,,,20165172,
+213229876,213229873,0,False,residential,,100.974,,,,,,,,,,,20164711,
+213230133,213243040,0,False,residential,Swarthout Lane,218.873,,,,,,,,,,,"[20165840, 20164734]",
+213230336,213230338,0,False,residential,,139.698,,,,,,,,,,,20164755,
+213230336,213217508,0,False,residential,King Hill Road,139.999,,,,,,,,,,,20165624,
+213230336,213240044,0,False,residential,King Hill Road,232.61,,,,,,,,,,,20165624,
+213230338,213230336,0,False,residential,,139.698,,,,,,,,,,,20164755,
+213230362,213230364,0,False,residential,,35.423,,,,,,,,,,,20164760,
+213230362,213239393,0,False,residential,De Munn,38.883,,,,,,,,,,,20165599,
+213230364,213230362,0,False,residential,,35.423,,,,,,,,,,,20164760,
+213230364,213239393,0,False,residential,Beaver Dams Moreland Road,37.031,,,,,,,,,,,20165569,
+213230364,213239387,0,False,residential,Beaver Dams Moreland Road,1256.193,,,,,,,,,,,20165569,
+213230860,213230862,0,False,residential,,74.321,,,,,,,,,,,116549946,
+213230862,213230860,0,False,residential,,74.321,,,,,,,,,,,116549946,
+213230862,213237311,0,False,residential,County Route 18,104.287,,,,,,,,,,,20166929,
+213230862,213239413,0,False,residential,County Route 18,1236.185,,,,,,,,,,,20166929,
+213231133,213237328,0,False,residential,Bennett Road,256.468,,,,,,,,,,,"[20165400, 20164859]",
+213231305,213219928,0,False,residential,Walnut Road,284.086,,,,,,,,,,,20166097,
+213231661,213231664,0,False,residential,,82.036,,,,,,,,,,,20164903,
+213231661,213231913,0,False,unclassified,Vanzandt Hollow Road,134.958,,,,,,,,,,,279933114,
+213231661,213256379,0,False,unclassified,Vanzandt Hollow Road,484.674,,,,,,,,,,,279933114,
+213231664,213231661,0,False,residential,,82.036,,,,,,,,,,,20164903,
+213231913,213231661,0,False,unclassified,Vanzandt Hollow Road,134.958,,,,,,,,,,,279933114,
+213231913,213231927,0,False,residential,,103.989,,,,,,,,,,,20164929,
+213231913,213240945,0,False,unclassified,Vanzandt Hollow Road,325.761,,,,,,,,,,,279933114,
+213231927,213231913,0,False,residential,,103.989,,,,,,,,,,,20164929,
+213232034,213232037,0,False,residential,,75.178,,,,,,,,,,,20164939,
+213232034,213248597,0,False,secondary,State Highway 329,686.762,,,,,,,,,,,20166192,NY 329
+213232034,213234543,0,False,secondary,State Highway 329,259.95,,,,,,,,,,,20166192,NY 329
+213232037,213232034,0,False,residential,,75.178,,,,,,,,,,,20164939,
+213232110,213232113,0,False,residential,,47.027,,,,,,,,,,,20164946,
+213232110,213239602,0,False,residential,Cronk Road,30.23,,,,,,,,,,,20165588,
+213232110,213239610,0,False,residential,Cronk Road,170.079,,,,,,,,,,,20165588,
+213232113,213232110,0,False,residential,,47.027,,,,,,,,,,,20164946,
+213232113,213239670,0,False,residential,Cronk Road,34.855,,,,,,,,,,,20165591,
+213232113,213239602,0,False,residential,Cronk Road,44.457,,,,,,,,,,,20165591,
+213232236,213217086,0,False,residential,Boat Launch Road,12.842,,,,,,,,,,,20166961,
+213232236,213232241,0,False,residential,,100.108,,,,,,,,,,,20164957,
+213232236,213223662,0,False,residential,Boat Launch Road,151.418,,,,,,,,,,,20166961,
+213232241,213232236,0,False,residential,,100.108,,,,,,,,,,,20164957,
+213232988,213233022,0,False,residential,,19.825,,,,,,,,,,,439803481,
+213232988,213232993,0,True,residential,,101.963,,,,,,,,,,,439803480,
+213232993,213219928,0,False,secondary,State Route 419,60.015,,,,,,,,,,,20165071,NY 419
+213232993,213233022,0,True,unclassified,,86.802,,,,,,,,,,,20165072,
+213233022,213232988,0,False,residential,,19.825,,,,,,,,,,,439803481,
+213233105,213233124,0,False,residential,,209.061,,,,,,,,,,,20165053,
+213233105,213233124,1,False,residential,Boat Launch Road,162.051,,,,,,,,,,,20166961,
+213233105,213259860,0,False,residential,Boat Launch Road,110.549,,,,,,,,,,,20166961,
+213233124,213233105,0,False,residential,,209.061,,,,,,,,,,,20165053,
+213233124,213233105,1,False,residential,Boat Launch Road,162.051,,,,,,,,,,,20166961,
+213233124,213233142,0,False,residential,Boat Launch Road,246.198,,,,,,,,,,,20166961,
+213233142,213233145,0,False,residential,,45.664,,,,,,,,,,,20165056,
+213233142,213217086,0,False,residential,Boat Launch Road,24.645,,,,,,,,,,,20166961,
+213233142,213233124,0,False,residential,Boat Launch Road,246.198,,,,,,,,,,,20166961,
+213233145,213233142,0,False,residential,,45.664,,,,,,,,,,,20165056,
+213233518,213233522,0,False,residential,Koa Drive,24.73,,,,,,,,,,,20165089,
+213233522,213233518,0,False,residential,Koa Drive,24.73,,,,,,,,,,,20165089,
+213233522,213235114,0,False,secondary,State Highway 414,297.469,,,,,,,,,,,20166673,NY 414
+213233522,213235144,0,False,secondary,State Highway 414,712.074,,,,,,,,,,,20166673,NY 414
+213233639,213213293,0,False,residential,Magee Street,106.741,,,,,,,,,,,20165100,
+213233641,213213293,0,False,residential,Magee Street,109.546,,,,,,,,,,,20165100,
+213233641,213240594,0,False,residential,9th Street,75.875,,,,,,,,,,,20166903,
+213233641,213233646,0,False,residential,Magee Street,152.568,,,,,,,,,,,20165100,
+213233646,213240613,0,False,residential,7th Street,76.918,,,,,,,,,,,20166652,
+213233646,213233657,0,False,residential,Magee Street,86.86,,,,,,,,,,,20165100,
+213233646,213233641,0,False,residential,Magee Street,152.568,,,,,,,,,,,20165100,
+213233657,213233660,0,False,residential,Magee Street,75.167,,,,,,,,,,,20165100,
+213233657,213240616,0,False,residential,6th Street,77.449,,,,,,,,,,,439802038,
+213233657,213233646,0,False,residential,Magee Street,86.86,,,,,,,,,,,20165100,
+213233660,213233663,0,False,residential,Magee Street,82.242,,,,,,,,,,,20165100,
+213233660,213233657,0,False,residential,Magee Street,75.167,,,,,,,,,,,20165100,
+213233660,213240618,0,False,residential,5th Street,77.95,,,,,,,,,,,439802039,
+213233663,213233660,0,False,residential,Magee Street,82.242,,,,,,,,,,,20165100,
+213233663,213239831,0,False,secondary,East 4th Street,78.492,,,,,,,,,,,20165598,NY 414
+213233663,213217850,0,False,secondary,East 4th Street,46.847,,,,,,,,,,,20165598,NY 414
+213233766,213233780,0,False,residential,Cass Road,324.607,,,,,,,,,,,20165106,
+213233780,213233766,0,False,residential,Cass Road,324.607,,,,,,,,,,,20165106,
+213233780,213223662,0,False,secondary,,601.685,,,,,,,yes,,,,"[55947737, 55947742, 55947743]",NY 414
+213233962,213233964,0,False,residential,11th Street,79.743,,,,,,,,,,,20165121,
+213233962,213237917,0,False,primary,South Franklin Street,123.909,,,,30 mph,,,,,,,45591064,NY 14;NY 414
+213233962,213241144,0,False,primary,South Franklin Street,52.991,3,,,30 mph,,,,,,,"[475013835, 475013836]",NY 14;NY 414
+213233964,213233968,0,False,residential,11th Street,95.474,,,,,,,,,,,20165121,
+213233964,213233962,0,False,residential,11th Street,79.743,,,,,,,,,,,20165121,
+213233964,213237923,0,False,residential,Santley Lane,122.629,,,,,,,,,,,20166450,
+213233968,213238552,0,False,residential,South Decatur Street,38.124,,,,,,,,,,,20166026,
+213233968,213233964,0,False,residential,11th Street,95.474,,,,,,,,,,,20165121,
+213233968,213237925,0,False,residential,South Decatur Street,120.371,,,,,,,,,,,20166026,
+213234118,213234120,0,False,residential,Russell Hill Road,1203.693,,,,,,,,,,,20165134,
+213234118,213239395,0,False,residential,Beaver Dams Moreland Road,435.594,,,,,,,,,,,20165569,
+213234118,213239393,0,False,residential,Beaver Dams Moreland Road,33.459,,,,,,,,,,,20165569,
+213234120,213234118,0,False,residential,Russell Hill Road,1203.693,,,,,,,,,,,20165134,
+213234120,213234124,0,False,residential,Russell Hill Road,48.365,,,,,,,,,,,20165134,
+213234120,213245931,0,False,residential,Walt Gilbert Road,665.157,,,,,,,,,,,20166619,
+213234124,213237796,0,False,secondary,State Highway 414,57.722,,,,,,,,,,,20166673,NY 414
+213234124,213234120,0,False,residential,Russell Hill Road,48.365,,,,,,,,,,,20165134,
+213234124,213235144,0,False,secondary,State Highway 414,992.833,,,,,,,,,,,20166673,NY 414
+213234277,213253774,0,False,residential,Allen Road,469.151,,,,,,,,,,,20166608,
+213234277,213234299,0,False,residential,Gano Road,730.601,,,,,,,,,,,20165148,
+213234277,213213575,0,False,residential,"['Gano Road', 'Dug Road']",2174.492,,,,,,,,,,,"[20165148, 20163030]",
+213234299,213234277,0,False,residential,Gano Road,730.601,,,,,,,,,,,20165148,
+213234299,213239630,0,False,residential,Cronk Road,458.996,,,,,,,,,,,20165591,
+213234479,213229873,0,False,tertiary,Townsend Road,129.916,,,,,,,,,,,20165172,
+213234479,213237185,0,False,tertiary,County Route 16,691.337,,,,,,,,,,,20166894,CR 16
+213234479,213259057,0,False,tertiary,County Route 16,334.635,,,,,,,,,,,20166894,CR 16
+213234493,213234543,0,False,tertiary,Townsend Road,4132.824,,,,,,,,,,,20165172,
+213234493,213229873,0,False,tertiary,Townsend Road,487.713,,,,,,,,,,,20165172,
+213234493,213215995,0,False,unclassified,Vanzandt Hollow Road,52.102,,,,,,,,,,,20166734,
+213234543,213234493,0,False,tertiary,Townsend Road,4132.824,,,,,,,,,,,20165172,
+213234543,213246002,0,False,residential,Meads Hill Road,1467.027,,,,,,,,,,,20166050,
+213234543,213232034,0,False,secondary,State Highway 329,259.95,,,,,,,,,,,20166192,NY 329
+213234543,213226860,0,False,unclassified,Whites Hollow Road,166.435,,,,,,,,,,,20166461,
+213234590,213215995,0,False,unclassified,Vanzandt Hollow Road,1831.646,,,,,,,,,,,20166734,
+213234590,213256379,0,False,unclassified,Vanzandt Hollow Road,565.538,,,,,,,yes,,,,"[20166737, 279933114, 279933115]",
+213234593,213234606,0,False,residential,Coykendall Road,630.016,,,,,,,,,,,20165178,
+213234606,213234593,0,False,residential,Coykendall Road,630.016,,,,,,,,,,,20165178,
+213234606,213254675,0,False,secondary,State Highway 414,853.081,,,,,,,,,,,20166673,NY 414
+213234606,213239610,0,False,secondary,State Highway 414,701.903,,,,,,,,,,,20166673,NY 414
+213234768,213212879,0,False,residential,West 2nd Street,69.224,,,,,,,,,,,20165920,
+213234768,213244191,0,False,residential,West 2nd Street,7.19,,,,,,,,,,,20165920,
+213234998,3569356200,0,False,residential,Pine Street,83.366,,,,,,,,,,,20166654,
+213234998,213248747,0,False,residential,Pine Street,168.395,,,,,,,,,,,20166654,
+213235002,213244191,0,False,secondary,Steuben Street,60.91,,,,,,,,,,,20166078,NY 409
+213235002,213212873,0,False,secondary,West 4th Street,120.939,,,,,,,,,,,20167002,NY 409
+213235002,213234998,0,True,residential,South Monroe Street,405.414,,,,,,,,,,,20165206,
+213235114,213235123,0,False,residential,Mill Hill Road,85.004,,,,,,,,,,,20165214,
+213235114,213237311,0,False,secondary,State Highway 414,760.244,,,,,,,,,,,20166673,NY 414
+213235114,213233522,0,False,secondary,State Highway 414,297.469,,,,,,,,,,,20166673,NY 414
+213235123,213235144,0,False,residential,Mill Hill Road,998.274,,,,,,,,,,,"[439815371, 20165214, 439815367]",
+213235123,213235114,0,False,residential,Mill Hill Road,85.004,,,,,,,,,,,20165214,
+213235123,213245981,0,False,residential,Meads Hill Road,2588.655,,,,,,,,,,,20166050,
+213235144,213233522,0,False,secondary,State Highway 414,712.074,,,,,,,,,,,20166673,NY 414
+213235144,213234124,0,False,secondary,State Highway 414,992.833,,,,,,,,,,,20166673,NY 414
+213235144,213217840,0,False,residential,Mill Hill Road,631.302,,,,,,,,,,,439815367,
+213235144,213235123,0,False,residential,Mill Hill Road,998.274,,,,,,,,,,,"[439815371, 20165214, 439815367]",
+213235161,213239395,0,False,residential,Beaver Dams Moreland Road,447.745,,,,,,,,,,,20165569,
+213235161,213239405,0,False,residential,Beaver Dams Moreland Road,868.866,,,,,,,,,,,20165569,
+213235161,213217840,0,False,residential,Mill Hill Road,510.21,,,,,,,,,,,439815367,
+213236144,213236153,0,False,residential,Porter Street,142.03,,,,,,,,,,,20165284,
+213236144,213229385,0,False,residential,12th Street,22.44,,,,,,,,,,,20165452,
+213236144,213237925,0,False,residential,12th Street,137.475,,,,,,,,,,,20165452,
+213236153,213238552,0,False,residential,Clarence Street,144.597,,,,,,,,,,,20166370,
+213236153,213236144,0,False,residential,Porter Street,142.03,,,,,,,,,,,20165284,
+213236153,213237929,0,False,residential,"['South Perry Street', 'Clarence Street']",260.908,,,,,,,,,,,"[20166370, 20166466]",
+213236239,213246454,0,False,secondary,Steuben Street,15.019,,,,,,,,,,,20166078,NY 409
+213236243,213245885,0,False,primary,North Franklin Street,65.524,,,,,,,,,,,50262690,NY 14
+213236256,213236266,0,False,residential,Division Street,189.293,,,,,,,,,,,20165292,
+213236256,213228376,0,False,secondary,State Route 409,957.629,,,,,,,,,,,20166369,NY 409
+213236266,213236256,0,False,residential,Division Street,189.293,,,,,,,,,,,20165292,
+213237141,213217329,0,False,residential,Baker Hill Road,710.748,,,,,,,,,,,20165382,
+213237141,213219664,0,False,residential,Cooley Road,1342.195,,,,,,,,,,,20166047,
+213237141,3341082481,0,False,residential,Cooley Road,150.016,,,,,,,,,,,20166047,
+213237169,213237181,0,False,residential,Baker Hill Road,1393.23,,,,,,,,,,,20165382,
+213237169,213217329,0,False,residential,Baker Hill Road,1355.985,,,,,,,,,,,20165382,
+213237169,213222594,0,False,residential,Hedden Road,1160.268,,,,,,,,,,,20165580,
+213237181,213237185,0,False,residential,Baker Hill Road,665.381,,,,,,,,,,,20165382,
+213237181,213237169,0,False,residential,Baker Hill Road,1393.23,,,,,,,,,,,20165382,
+213237181,213259082,0,False,residential,Old Joe Road,1213.18,,,,,,,,,,,20167169,
+213237185,213237181,0,False,residential,Baker Hill Road,665.381,,,,,,,,,,,20165382,
+213237185,213259082,0,False,tertiary,County Route 16,990.821,,,,,,,,,,,20166894,CR 16
+213237185,213234479,0,False,tertiary,County Route 16,691.337,,,,,,,,,,,20166894,CR 16
+213237311,1313700276,0,False,secondary,State Highway 414,146.879,,,,,,,,,,,20166673,NY 414
+213237311,213235114,0,False,secondary,State Highway 414,760.244,,,,,,,,,,,20166673,NY 414
+213237311,213230862,0,False,residential,County Route 18,104.287,,,,,,,,,,,20166929,
+213237328,213221689,0,False,residential,Bennett Road,222.829,,,,,,,,,,,20165399,
+213237328,1313700276,0,False,residential,Bennett Road,529.864,,,,,,,,,,,20165399,
+213237328,213231133,0,False,residential,Bennett Road,256.468,,,,,,,,,,,"[20165400, 20164859]",
+213237796,213234124,0,False,secondary,State Highway 414,57.722,,,,,,,,,,,20166673,NY 414
+213237796,213216206,0,False,residential,Bronson Hill Road,212.96,,,,,,,,,,,20165443,
+213237796,3341082481,0,False,secondary,State Highway 414,581.928,,,,,,,,,,,20166673,NY 414
+213237803,213217388,0,False,residential,Bronson Hill Road,165.314,,,,,,,,,,,20165443,
+213237803,213216206,0,False,residential,Bronson Hill Road,71.988,,,,,,,,,,,20165443,
+213237803,213249471,0,False,residential,Yskamp Place,102.212,,,,,,,,,,,20166269,
+213237806,213217388,0,False,residential,Bronson Hill Road,84.723,,,,,,,,,,,20165443,
+213237806,213222594,0,False,residential,Bronson Hill Road,1335.273,,,,,,,,,,,20165443,
+213237806,213253821,0,False,residential,Parrish Road,483.839,,,,,,,,,,,20166617,
+213237817,4374898965,0,False,residential,Hedden Road,217.193,,,,,,,,,,,439814788,
+213237917,213237923,0,False,residential,12th Street,76.997,,,,,,,,,,,20165452,
+213237917,213241138,0,False,primary,South Franklin Street,80.302,,,,30 mph,,,,,,,45591064,NY 14;NY 414
+213237917,213233962,0,False,primary,South Franklin Street,123.909,,,,30 mph,,,,,,,45591064,NY 14;NY 414
+213237923,213237925,0,False,residential,12th Street,102.685,,,,,,,,,,,20165452,
+213237923,213237917,0,False,residential,12th Street,76.997,,,,,,,,,,,20165452,
+213237923,213233964,0,False,residential,Santley Lane,122.629,,,,,,,,,,,20166450,
+213237925,213237923,0,False,residential,12th Street,102.685,,,,,,,,,,,20165452,
+213237925,213245728,0,False,residential,South Decatur Street,81.025,,,,,,,,,,,20166026,
+213237925,213236144,0,False,residential,12th Street,137.475,,,,,,,,,,,20165452,
+213237925,213233968,0,False,residential,South Decatur Street,120.371,,,,,,,,,,,20166026,
+213237929,213229405,0,False,residential,12th Street,32.342,,,,,,,,,,,20165452,
+213237929,213237934,0,False,residential,12th Street,124.274,,,,,,,,,,,20165452,
+213237929,213236153,0,False,residential,"['South Perry Street', 'Clarence Street']",260.908,,,,,,,,,,,"[20166370, 20166466]",
+213237934,213239457,0,False,residential,Shannon Street,119.432,,,,,,,,,,,20165575,
+213237934,213239446,0,False,residential,"['Shannon Street', '12th Street']",205.491,,,,,,,,,,,"[20165452, 20165573, 20163527]",
+213237934,213237929,0,False,residential,12th Street,124.274,,,,,,,,,,,20165452,
+213238311,1665009820,0,False,tertiary,County Route 19,10.432,,,,,,,,,,,20166959,
+213238315,213238316,0,False,tertiary,County Route 20,32.035,,,,,,,,,,,20165491,CR 20
+213238315,213224739,0,False,tertiary,County Route 20,324.974,,,,,,,,,,,20165491,CR 20
+213238315,213217535,0,False,residential,Hall Road,288.429,,,,,,,,,,,20167184,
+213238316,213238315,0,False,tertiary,County Route 20,32.035,,,,,,,,,,,20165491,CR 20
+213238316,213239376,0,False,secondary,State Highway 414,829.036,,,,,,,,,,,20166673,NY 414
+213238552,213233968,0,False,residential,South Decatur Street,38.124,,,,,,,,,,,20166026,
+213238552,213236153,0,False,residential,Clarence Street,144.597,,,,,,,,,,,20166370,
+213238552,213213287,0,False,residential,North Decatur Street,107.612,,,,,,,yes,,,,"[20165513, 98955650, 98955644]",
+213238561,213251735,0,False,residential,9th Street,142.004,,,,,,,,,,,20166903,
+213238561,213238564,0,False,residential,North Decatur Street,79.794,,,,,,,,,,,98955644,
+213238561,213213287,0,False,residential,North Decatur Street,110.692,,,,,,,,,,,98955644,
+213238561,213248747,0,False,residential,9th Street,172.636,,,,,,,,,,,20166903,
+213238564,213248502,0,False,residential,East 8th Street,142.724,,,,,,,,,,,20166185,
+213238564,213239064,0,False,residential,East 8th Street,172.463,,,,,,,,,,,20166185,
+213238564,213238565,0,False,residential,North Decatur Street,79.638,,,,,,,,,,,98955644,
+213238564,213238561,0,False,residential,North Decatur Street,79.794,,,,,,,,,,,98955644,
+213238565,213251737,0,False,residential,7th Street,143.303,,,,,,,,,,,20166652,
+213238565,213248750,0,False,residential,7th Street,169.895,,,,,,,,,,,20166652,
+213238565,213238568,0,False,residential,North Decatur Street,79.523,,,,,,,,,,,98955644,
+213238565,213238564,0,False,residential,North Decatur Street,79.638,,,,,,,,,,,98955644,
+213238568,213238565,0,False,residential,North Decatur Street,79.523,,,,,,,,,,,98955644,
+213238568,213248753,0,True,residential,6th Street,173.818,,,,,,,,,,,439802035,
+213238568,4374804268,0,False,residential,North Decatur Street,78.846,,,,,,,,,,,439802037,
+213238568,213248943,0,False,residential,6th Street,144.026,,,,,,,,,,,439802038,
+213238573,213239828,0,False,secondary,East 4th Street,145.273,,,,,,,,,,,20165598,NY 414
+213238573,213239825,0,False,secondary,East 4th Street,174.731,,,,,,,,,,,20165598,NY 414
+213238573,213238578,0,False,residential,North Decatur Street,80.919,,,,,,,,,,,439802040,
+213238573,4374804268,0,False,residential,North Decatur Street,81.187,,,,,,,,,,,439802040,
+213238578,213248757,0,False,residential,3rd Street,175.584,,,,,,,,,,,20167146,
+213238578,213238580,0,False,residential,North Decatur Street,81.011,,,,,,,,,,,439802040,
+213238578,213238573,0,False,residential,North Decatur Street,80.919,,,,,,,,,,,439802040,
+213238578,213251745,0,False,residential,3rd Street,145.973,,,,,,,,,,,20167146,
+213238580,213244195,0,False,residential,East 2nd Street,175.899,,,,,,,,,,,20166446,
+213238580,213238582,0,False,residential,North Decatur Street,78.064,,,,,,,,,,,439802040,
+213238580,213238578,0,False,residential,North Decatur Street,81.011,,,,,,,,,,,439802040,
+213238580,213251715,0,False,residential,East 2nd Street,149.039,,,,,,,,,,,20166446,
+213238582,213238580,0,False,residential,North Decatur Street,78.064,,,,,,,,,,,439802040,
+213238582,213245885,0,False,residential,1st Street,175.198,,,,,,,,,,,20166040,
+213238582,213238587,0,False,residential,North Decatur Street,74.218,,,,,,,,,,,439802040,
+213238587,213238582,0,False,residential,North Decatur Street,74.218,,,,,,,,,,,439802040,
+213239064,213238564,0,False,residential,East 8th Street,172.463,,,,,,,,,,,20166185,
+213239064,213248750,0,False,primary,North Franklin Street,80.779,,,,30 mph,,,,,,,236760429,NY 14;NY 414
+213239064,213212864,0,False,residential,"['South Madison Avenue', 'West 8th Street']",227.481,,,,,,,,,,,"[20162988, 20165543]",
+213239064,213248747,0,False,primary,North Franklin Street,79.849,,,,30 mph,,,,,,,236760429,NY 14;NY 414
+213239376,213239387,0,False,residential,Beaver Dams Moreland Road,773.037,,,,,,,,,,,20165569,
+213239376,213244368,0,False,secondary,State Highway 414,746.486,,,,,,,,,,,20166673,NY 414
+213239376,213238316,0,False,secondary,State Highway 414,829.036,,,,,,,,,,,20166673,NY 414
+213239376,213217550,0,False,residential,Hall Road,543.36,,,,,,,,,,,20167184,
+213239387,213230364,0,False,residential,Beaver Dams Moreland Road,1256.193,,,,,,,,,,,20165569,
+213239387,213239376,0,False,residential,Beaver Dams Moreland Road,773.037,,,,,,,,,,,20165569,
+213239387,213243748,0,False,residential,Duvall Road,1062.311,,,,,,,,,,,20165890,
+213239393,213234118,0,False,residential,Beaver Dams Moreland Road,33.459,,,,,,,,,,,20165569,
+213239393,213230364,0,False,residential,Beaver Dams Moreland Road,37.031,,,,,,,,,,,20165569,
+213239393,213230362,0,False,residential,De Munn,38.883,,,,,,,,,,,20165599,
+213239395,213235161,0,False,residential,Beaver Dams Moreland Road,447.745,,,,,,,,,,,20165569,
+213239395,213234118,0,False,residential,Beaver Dams Moreland Road,435.594,,,,,,,,,,,20165569,
+213239395,213248406,0,False,residential,Pearl Street,1568.577,,,,,,,,,,,20166176,
+213239405,213239413,0,False,residential,Beaver Dams Moreland Road,777.916,,,,,,,,,,,20165569,
+213239405,213235161,0,False,residential,Beaver Dams Moreland Road,868.866,,,,,,,,,,,20165569,
+213239405,213248406,0,False,residential,Catlin Hill Road,775.709,,,,,,,,,,,20166502,
+213239413,213239421,0,False,residential,Beaver Dams Moreland Road,858.729,,,,,,,,,,,20165569,
+213239413,213239405,0,False,residential,Beaver Dams Moreland Road,777.916,,,,,,,,,,,20165569,
+213239413,213230862,0,False,residential,County Route 18,1236.185,,,,,,,,,,,20166929,
+213239421,213239424,0,False,residential,Beaver Dams Moreland Road,707.4,,,,,,,,,,,20165569,
+213239421,213239413,0,False,residential,Beaver Dams Moreland Road,858.729,,,,,,,,,,,20165569,
+213239421,213213558,0,False,residential,Price Road,811.465,,,,,,,,,,,20166951,
+213239424,213239421,0,False,residential,Beaver Dams Moreland Road,707.4,,,,,,,,,,,20165569,
+213239424,213213555,0,False,residential,Roloson Hollow Road,600.64,,,,,,,,,,,20165584,
+213239424,213239536,0,False,residential,Roloson Hollow Road,689.821,,,,,,,,,,,20165584,
+213239446,213237934,0,False,residential,"['Shannon Street', '12th Street']",205.491,,,,,,,,,,,"[20165452, 20165573, 20163527]",
+213239457,213237934,0,False,residential,Shannon Street,119.432,,,,,,,,,,,20165575,
+213239512,213220276,0,False,residential,Roloson Hill Road,184.25,,,,,,,,,,,20166964,
+213239512,213223219,0,False,residential,Roloson Hollow Road,726.109,,,,,,,,,,,20165584,
+213239523,213223219,0,False,residential,Roloson Hollow Road,130.026,,,,,,,,,,,20165584,
+213239523,213239536,0,False,residential,Roloson Hollow Road,447.76,,,,,,,,,,,20165584,
+213239523,213213544,0,False,residential,Lawrence Johnson Road,1320.676,,,,,,,,,,,20165923,
+213239536,213239424,0,False,residential,Roloson Hollow Road,689.821,,,,,,,,,,,20165584,
+213239536,213239523,0,False,residential,Roloson Hollow Road,447.76,,,,,,,,,,,20165584,
+213239536,213217508,0,False,residential,King Hill Road,867.291,,,,,,,,,,,20165624,
+213239602,213232110,0,False,residential,Cronk Road,30.23,,,,,,,,,,,20165588,
+213239602,213232113,0,False,residential,Cronk Road,44.457,,,,,,,,,,,20165591,
+213239602,213239630,0,False,residential,Cronk Road,2401.425,,,,,,,,,,,20165591,
+213239610,213232110,0,False,residential,Cronk Road,170.079,,,,,,,,,,,20165588,
+213239610,213234606,0,False,secondary,State Highway 414,701.903,,,,,,,,,,,20166673,NY 414
+213239610,213221689,0,False,secondary,State Highway 414,431.709,,,,,,,,,,,20166673,NY 414
+213239630,213239602,0,False,residential,Cronk Road,2401.425,,,,,,,,,,,20165591,
+213239630,213234299,0,False,residential,Cronk Road,458.996,,,,,,,,,,,20165591,
+213239630,213253774,0,False,residential,Price Road,570.739,,,,,,,,,,,20166951,
+213239670,213232113,0,False,residential,Cronk Road,34.855,,,,,,,,,,,20165591,
+213239825,213238573,0,False,secondary,East 4th Street,174.731,,,,,,,,,,,20165598,NY 414
+213239825,213212873,0,False,secondary,West 4th Street,72.146,,,,,,,,,,,20167002,NY 409
+213239825,213248757,0,False,primary,North Franklin Street,83.562,,,,,,,,,,,50262690,NY 14
+213239825,213248096,0,False,primary,North Franklin Street,79.618,,,,30 mph,,,,,,,439802036,NY 14;NY 414
+213239828,213239831,0,False,secondary,East 4th Street,133.394,,,,,,,,,,,20165598,NY 414
+213239828,213238573,0,False,secondary,East 4th Street,145.273,,,,,,,,,,,20165598,NY 414
+213239828,213251745,0,False,residential,North Porter Street,82.663,,,,,,,,,,,20166449,
+213239828,213248098,0,False,residential,North Porter Street,79.855,,,,,,,,,,,20166449,
+213239831,213233663,0,False,secondary,East 4th Street,78.492,,,,,,,,,,,20165598,NY 414
+213239831,213239828,0,False,secondary,East 4th Street,133.394,,,,,,,,,,,20165598,NY 414
+213239831,213240622,0,False,residential,North Perry Street,80.641,,,,,,,,,,,20165666,
+213239831,213240618,0,False,residential,North Perry Street,81.592,,,,,,,,,,,20165666,
+213239918,213239921,0,False,residential,14th Street,178.679,,,,,,,,,,,20165609,
+213239918,213241138,0,False,primary,South Franklin Street,78.705,,,,30 mph,,,,,,,45591064,NY 14;NY 414
+213239918,702338795,0,False,primary,South Franklin Street,106.71,,,,30 mph,,,,,,,45591064,NY 14;NY 414
+213239921,213239918,0,False,residential,14th Street,178.679,,,,,,,,,,,20165609,
+213239921,213245728,0,False,residential,South Decatur Street,78.126,,,,,,,,,,,20166029,
+213239921,213241383,0,False,residential,South Decatur Street,107.095,,,,,,,,,,,20166029,
+213240044,213230336,0,False,residential,King Hill Road,232.61,,,,,,,,,,,20165624,
+213240044,213240060,0,False,residential,King Hill Road,184.322,,,,,,,,,,,20165626,
+213240060,213240044,0,False,residential,King Hill Road,184.322,,,,,,,,,,,20165626,
+213240591,213213291,0,False,residential,North Perry Street,98.213,,,,,,,,,,,20165666,
+213240594,213213291,0,False,residential,North Perry Street,109.779,,,,,,,,,,,20165666,
+213240594,213233641,0,False,residential,9th Street,75.875,,,,,,,,,,,20166903,
+213240594,213251735,0,False,residential,9th Street,138.087,,,,,,,,,,,20166903,
+213240594,213240603,0,False,residential,North Perry Street,80.071,,,,,,,,,,,20165666,
+213240603,213248502,0,False,residential,East 8th Street,137.088,,,,,,,,,,,20166185,
+213240603,213240613,0,False,residential,North Perry Street,73.97,,,,,,,,,,,20165666,
+213240603,213240594,0,False,residential,North Perry Street,80.071,,,,,,,,,,,20165666,
+213240613,213240616,0,False,residential,North Perry Street,85.263,,,,,,,,,,,20165666,
+213240613,213233646,0,False,residential,7th Street,76.918,,,,,,,,,,,20166652,
+213240613,213251737,0,False,residential,7th Street,136.178,,,,,,,,,,,20166652,
+213240613,213240603,0,False,residential,North Perry Street,73.97,,,,,,,,,,,20165666,
+213240616,213240618,0,False,residential,North Perry Street,75.808,,,,,,,,,,,20165666,
+213240616,213240613,0,False,residential,North Perry Street,85.263,,,,,,,,,,,20165666,
+213240616,213233657,0,False,residential,6th Street,77.449,,,,,,,,,,,439802038,
+213240616,213248943,0,False,residential,6th Street,135.263,,,,,,,,,,,439802038,
+213240618,213240616,0,False,residential,North Perry Street,75.808,,,,,,,,,,,20165666,
+213240618,213233660,0,False,residential,5th Street,77.95,,,,,,,,,,,439802039,
+213240618,213248098,0,False,residential,5th Street,134.31,,,,,,,,,,,439802039,
+213240618,213239831,0,False,residential,North Perry Street,81.592,,,,,,,,,,,20165666,
+213240622,213240625,0,False,residential,North Perry Street,58.718,,,,,,,,,,,20165666,
+213240622,213239831,0,False,residential,North Perry Street,80.641,,,,,,,,,,,20165666,
+213240622,213251745,0,False,residential,3rd Street,132.37,,,,,,,,,,,20167146,
+213240622,213261828,0,False,residential,3rd Street,52.641,,,,,,,,,,,20167146,
+213240625,213240622,0,False,residential,North Perry Street,58.718,,,,,,,,,,,20165666,
+213240945,213240959,0,False,residential,Piemont Place,459.961,,,,,,,,,,,20165696,
+213240945,213252950,0,False,unclassified,Vanzandt Hollow Road,615.682,,,,,,,,,,,20166735,
+213240945,213231913,0,False,unclassified,Vanzandt Hollow Road,325.761,,,,,,,,,,,279933114,
+213240959,213240945,0,False,residential,Piemont Place,459.961,,,,,,,,,,,20165696,
+213240959,213256339,0,False,unclassified,County Line Road,764.124,,,,,,,,,,,20166882,
+213241117,213245707,0,False,residential,Fairgrounds Lane,175.47,,,,,,,,,,,20167086,
+213241117,213241123,0,False,primary,South Franklin Street,208.225,,,,30 mph,,,,,,,236760430,NY 14
+213241123,213243741,0,False,residential,South Avenue,176.836,,,,,,,,,,,20165888,
+213241123,213241126,0,False,primary,South Franklin Street,91.703,,,,30 mph,,,,,,,236760430,NY 14
+213241123,213241117,0,False,primary,South Franklin Street,208.225,,,,30 mph,,,,,,,236760430,NY 14
+213241126,702338795,0,False,primary,South Franklin Street,88.937,,,,30 mph,,,,,,,236760430,NY 14
+213241126,213241123,0,False,primary,South Franklin Street,91.703,,,,30 mph,,,,,,,236760430,NY 14
+213241126,702338796,0,False,residential,Grandview Avenue,174.406,,,,,,,,,,,20167179,
+213241138,213245728,0,False,residential,Durland Place,175.586,,,,,,,,,,,20166368,
+213241138,213237917,0,False,primary,South Franklin Street,80.302,,,,30 mph,,,,,,,45591064,NY 14;NY 414
+213241138,213239918,0,False,primary,South Franklin Street,78.705,,,,30 mph,,,,,,,45591064,NY 14;NY 414
+213241144,213213284,0,False,primary,North Franklin Street,87.809,3,,,30 mph,,,yes,,,,"[236760428, 20166211, 98955660, 98955663]",NY 14;NY 414
+213241144,213256813,0,False,secondary,Old Corning Road,659.997,2,,,,,,,,,,20166775,NY 329
+213241144,213233962,0,False,primary,South Franklin Street,52.991,3,,,30 mph,,,,,,,"[475013835, 475013836]",NY 14;NY 414
+213241383,213241385,0,False,residential,15th Street,93.246,,,,,,,,,,,20165723,
+213241383,702338795,0,False,residential,15th Street,180.374,,,,,,,,,,,20165723,
+213241383,213239921,0,False,residential,South Decatur Street,107.095,,,,,,,,,,,20166029,
+213241383,702338796,0,False,residential,South Decatur Street,94.652,,,,,,,,,,,20166025,
+213241385,213241383,0,False,residential,15th Street,93.246,,,,,,,,,,,20165723,
+213241438,213250665,0,False,"['residential', 'tertiary']","['Belle P Cornell Drive', 'County Route 31']",1273.559,,,,,,,,,,,"[20165728, 20166349, 20165727]",CR 31
+213241438,213246404,0,False,tertiary,Steuben Street,700.542,,,,,,,,,,,20166074,
+213243040,213230133,0,False,residential,Swarthout Lane,218.873,,,,,,,,,,,"[20165840, 20164734]",
+213243741,213241123,0,False,residential,South Avenue,176.836,,,,,,,,,,,20165888,
+213243741,702338797,0,False,residential,South Decatur Street,67.979,,,,,,,,,,,20166025,
+213243741,213226678,0,False,residential,South Decatur Street,64.916,,,,,,,,,,,20166025,
+213243748,213239387,0,False,residential,Duvall Road,1062.311,,,,,,,,,,,20165890,
+213244050,213259057,0,False,tertiary,County Route 19,1567.802,,,,,,,,,,,20166959,
+213244050,213224864,0,False,tertiary,County Route 19,349.37,,,,,,,,,,,20166959,
+213244169,213244180,0,False,residential,West 2nd Street,229.463,,,,,,,,,,,20165920,
+213244180,213244183,0,False,residential,West 2nd Street,99.964,,,,,,,,,,,20165920,
+213244180,213244169,0,False,residential,West 2nd Street,229.463,,,,,,,,,,,20165920,
+213244183,213244186,0,False,residential,West 2nd Street,113.461,,,,,,,,,,,20165920,
+213244183,213244180,0,False,residential,West 2nd Street,99.964,,,,,,,,,,,20165920,
+213244183,213250529,0,False,residential,Lakeview Avenue,293.006,,,,,,,,,,,20166337,
+213244186,213244189,0,False,residential,West 2nd Street,110.898,,,,,,,,,,,20165920,
+213244186,213244183,0,False,residential,West 2nd Street,113.461,,,,,,,,,,,20165920,
+213244186,213250529,0,False,residential,South Glen Avenue,195.374,,,,,,,,,,,20166967,
+213244189,213244191,0,False,residential,West 2nd Street,40.752,,,,,,,,,,,20165920,
+213244189,213244186,0,False,residential,West 2nd Street,110.898,,,,,,,,,,,20165920,
+213244189,213246451,0,False,residential,South Jackson Street,89.066,,,,,,,,,,,20166279,
+213244189,3569356200,0,False,residential,South Jackson Street,402.59,,,,,,,,,,,20166279,
+213244191,213234768,0,False,residential,West 2nd Street,7.19,,,,,,,,,,,20165920,
+213244191,213244189,0,False,residential,West 2nd Street,40.752,,,,,,,,,,,20165920,
+213244191,213246451,0,False,secondary,Steuben Street,96.298,,,,,,,,,,,20166078,NY 409
+213244191,213235002,0,False,secondary,Steuben Street,60.91,,,,,,,,,,,20166078,NY 409
+213244195,213212879,0,False,residential,West 2nd Street,73.496,,,,,,,,,,,20165920,
+213244195,213238580,0,False,residential,East 2nd Street,175.899,,,,,,,,,,,20166446,
+213244195,213245885,0,False,primary,North Franklin Street,76.647,,,,,,,,,,,50262690,NY 14
+213244195,213248757,0,False,primary,North Franklin Street,80.662,,,,,,,,,,,50262690,NY 14
+213244368,213244376,0,False,residential,Rockwell Road,237.424,,,,,,,,,,,20165934,
+213244368,213245931,0,False,secondary,State Highway 414,1474.821,,,,,,,,,,,20166673,NY 414
+213244368,213239376,0,False,secondary,State Highway 414,746.486,,,,,,,,,,,20166673,NY 414
+213244376,213244368,0,False,residential,Rockwell Road,237.424,,,,,,,,,,,20165934,
+213245707,213226678,0,False,residential,South Decatur Street,151.967,,,,,,,,,,,20166025,
+213245707,213226663,0,False,residential,Fairgrounds Lane,78.541,,,,,,,,,,,20167086,
+213245707,213241117,0,False,residential,Fairgrounds Lane,175.47,,,,,,,,,,,20167086,
+213245728,213237925,0,False,residential,South Decatur Street,81.025,,,,,,,,,,,20166026,
+213245728,213239921,0,False,residential,South Decatur Street,78.126,,,,,,,,,,,20166029,
+213245728,213241138,0,False,residential,Durland Place,175.586,,,,,,,,,,,20166368,
+213245885,213236243,0,False,primary,North Franklin Street,65.524,,,,,,,,,,,50262690,NY 14
+213245885,213238582,0,False,residential,1st Street,175.198,,,,,,,,,,,20166040,
+213245885,213244195,0,False,primary,North Franklin Street,76.647,,,,,,,,,,,50262690,NY 14
+213245931,3341082481,0,False,secondary,State Highway 414,12.718,,,,,,,,,,,20166673,NY 414
+213245931,213234120,0,False,residential,Walt Gilbert Road,665.157,,,,,,,,,,,20166619,
+213245931,213244368,0,False,secondary,State Highway 414,1474.821,,,,,,,,,,,20166673,NY 414
+213245951,213219664,0,False,residential,Cooley Road,473.436,,,,,,,,,,,20166047,
+213245951,213222555,0,False,tertiary,County Route 19,271.158,,,,,,,,,,,20166959,
+213245951,213259773,0,False,tertiary,County Route 19,356.112,,,,,,,,,,,20166959,
+213245981,213246002,0,False,residential,Meads Hill Road,1228.98,,,,,,,,,,,20166050,
+213245981,213235123,0,False,residential,Meads Hill Road,2588.655,,,,,,,,,,,20166050,
+213245981,213259346,0,False,"['residential', 'tertiary']","['Wedgewood Road', 'County Route 17']",2379.994,,,,,,,,,,,"[20166904, 168174897]",CR 17
+213246002,213234543,0,False,residential,Meads Hill Road,1467.027,,,,,,,,,,,20166050,
+213246002,213245981,0,False,residential,Meads Hill Road,1228.98,,,,,,,,,,,20166050,
+213246002,213259126,0,False,tertiary,County Route 16,2610.876,,,,,,,,,,,20166894,CR 16
+213246002,213259082,0,False,tertiary,County Route 16,2344.847,,,,,,,,,,,20166894,CR 16
+213246404,213241438,0,False,tertiary,Steuben Street,700.542,,,,,,,,,,,20166074,
+213246404,213223499,0,False,residential,Wgmf Road,211.962,,,,,,,,,,,20166593,
+213246404,213254685,0,False,tertiary,County Route 16,658.394,,,,,,,,,,,20166894,CR 16
+213246451,213246454,0,False,secondary,Steuben Street,91.182,,,,,,,,,,,20166078,NY 409
+213246451,213244191,0,False,secondary,Steuben Street,96.298,,,,,,,,,,,20166078,NY 409
+213246451,213244189,0,False,residential,South Jackson Street,89.066,,,,,,,,,,,20166279,
+213246454,213236239,0,False,secondary,Steuben Street,15.019,,,,,,,,,,,20166078,NY 409
+213246454,213246451,0,False,secondary,Steuben Street,91.182,,,,,,,,,,,20166078,NY 409
+213246658,213252621,0,False,residential,Ellison Road,390.449,,,,,,,,,,,20166497,
+213246658,213252624,0,False,unclassified,Ellison Road,1014.66,,,,,,,,,,,329061030,
+213246658,213246671,0,False,residential,Station Road,1158.215,,,,,,,,,,,20166090,
+213246671,213228376,0,False,"['residential', 'secondary']","['State Route 409', 'Station Road']",1480.192,,,,,,,,,,,"[20166369, 20166090]",NY 409
+213246671,213246658,0,False,residential,Station Road,1158.215,,,,,,,,,,,20166090,
+213246671,213226860,0,False,unclassified,Whites Hollow Road,1385.683,,,,,,,yes,,,,"[441051542, 441051540, 20166461, 20166462]",
+213246929,213256813,0,False,secondary,Old Corning Road,11.727,2,,,,,,,,,,20166775,NY 329
+213246929,213248630,0,False,secondary,Old Corning Road,147.301,2,,,,,,,,,,20166775,NY 329
+213246929,213219928,0,False,secondary,Walnut Road,237.187,,,,,,,,,,,51864176,NY 419
+213248096,4374804268,0,True,residential,5th Street,175.934,,,,,,,,,,,20166165,
+213248096,213239825,0,False,primary,North Franklin Street,79.618,,,,30 mph,,,,,,,439802036,NY 14;NY 414
+213248096,213248753,0,False,primary,North Franklin Street,79.178,,,,30 mph,,,,,,,439802036,NY 14;NY 414
+213248098,213248943,0,False,residential,North Porter Street,76.934,,,,,,,,,,,20166449,
+213248098,213240618,0,False,residential,5th Street,134.31,,,,,,,,,,,439802039,
+213248098,4374804268,0,False,residential,5th Street,143.733,,,,,,,,,,,439802039,
+213248098,213239828,0,False,residential,North Porter Street,79.855,,,,,,,,,,,20166449,
+213248406,213239395,0,False,residential,Pearl Street,1568.577,,,,,,,,,,,20166176,
+213248406,213239405,0,False,residential,Catlin Hill Road,775.709,,,,,,,,,,,20166502,
+213248502,213240603,0,False,residential,East 8th Street,137.088,,,,,,,,,,,20166185,
+213248502,213238564,0,False,residential,East 8th Street,142.724,,,,,,,,,,,20166185,
+213248502,213251737,0,False,residential,North Porter Street,76.747,,,,,,,,,,,20166449,
+213248502,213251735,0,False,residential,North Porter Street,79.945,,,,,,,,,,,20166449,
+213248597,213256879,0,False,residential,Willow Drive,64.018,,,,,,,,,,,20166764,
+213248597,2894888613,0,False,secondary,State Highway 329,798.462,,,,,,,,,,,20166192,NY 329
+213248597,213232034,0,False,secondary,State Highway 329,686.762,,,,,,,,,,,20166192,NY 329
+213248630,213214255,0,False,secondary,State Highway 329,1131.057,,,,,,,,,,,20166192,NY 329
+213248630,213246929,0,False,secondary,Old Corning Road,147.301,2,,,,,,,,,,20166775,NY 329
+213248630,213259126,0,False,tertiary,County Route 17,2028.209,,,,,,,,,,,20166904,CR 17
+213248747,213234998,0,False,residential,Pine Street,168.395,,,,,,,,,,,20166654,
+213248747,213238561,0,False,residential,9th Street,172.636,,,,,,,,,,,20166903,
+213248747,213239064,0,False,primary,North Franklin Street,79.849,,,,30 mph,,,,,,,236760429,NY 14;NY 414
+213248747,213213284,0,False,primary,North Franklin Street,111.219,3,,,30 mph,,,,,,,475013838,NY 14;NY 414
+213248750,213238565,0,False,residential,7th Street,169.895,,,,,,,,,,,20166652,
+213248750,213248753,0,False,primary,North Franklin Street,78.698,,,,30 mph,,,,,,,236760429,NY 14;NY 414
+213248750,213239064,0,False,primary,North Franklin Street,80.779,,,,30 mph,,,,,,,236760429,NY 14;NY 414
+213248753,213212864,0,False,residential,6th Street,72.72,,,,,,,,,,,20166228,
+213248753,213248750,0,False,primary,North Franklin Street,78.698,,,,30 mph,,,,,,,236760429,NY 14;NY 414
+213248753,213248096,0,False,primary,North Franklin Street,79.178,,,,30 mph,,,,,,,439802036,NY 14;NY 414
+213248757,213238578,0,False,residential,3rd Street,175.584,,,,,,,,,,,20167146,
+213248757,213239825,0,False,primary,North Franklin Street,83.562,,,,,,,,,,,50262690,NY 14
+213248757,213244195,0,False,primary,North Franklin Street,80.662,,,,,,,,,,,50262690,NY 14
+213248943,213248098,0,False,residential,North Porter Street,76.934,,,,,,,,,,,20166449,
+213248943,213251737,0,False,residential,North Porter Street,82.481,,,,,,,,,,,20166449,
+213248943,213240616,0,False,residential,6th Street,135.263,,,,,,,,,,,439802038,
+213248943,213238568,0,False,residential,6th Street,144.026,,,,,,,,,,,439802038,
+213249471,213237803,0,False,residential,Yskamp Place,102.212,,,,,,,,,,,20166269,
+213249574,3569356200,0,False,residential,South Jackson Street,29.247,,,,,,,,,,,20166279,
+213249574,213250529,0,False,residential,"['South Glen Avenue', 'Cedar Street']",304.702,,,,,,,,,,,"[20167032, 20166968]",
+213249574,2448047559,0,False,residential,Cemetery Road,1095.682,,,,,,,,,,,"[439803473, 20166287]",
+213250529,213244183,0,False,residential,Lakeview Avenue,293.006,,,,,,,,,,,20166337,
+213250529,213244186,0,False,residential,South Glen Avenue,195.374,,,,,,,,,,,20166967,
+213250529,213249574,0,False,residential,"['South Glen Avenue', 'Cedar Street']",304.702,,,,,,,,,,,"[20166968, 20167032]",
+213250665,213241438,0,False,"['residential', 'tertiary']","['Belle P Cornell Drive', 'County Route 31']",1273.559,,,,,,,,,,,"[20165728, 20166349, 20165727]",CR 31
+213250665,213254685,0,False,secondary,State Highway 414,1069.932,,,,,,,,,,,20166673,NY 414
+213250665,702338795,0,False,secondary,,1449.795,,,,,,,,,,,20166687,NY 414
+213251715,213251725,0,False,residential,East 2nd Street,63.478,,,,,,,,,,,20166447,
+213251715,213238580,0,False,residential,East 2nd Street,149.039,,,,,,,,,,,20166446,
+213251715,213251749,0,False,residential,North Porter Street,77.422,,,,,,,,,,,20166449,
+213251715,213251745,0,False,residential,North Porter Street,80.767,,,,,,,,,,,20166449,
+213251725,213251715,0,False,residential,East 2nd Street,63.478,,,,,,,,,,,20166447,
+213251732,213213289,0,False,residential,North Porter Street,79.535,,,,,,,,,,,20166449,
+213251735,213248502,0,False,residential,North Porter Street,79.945,,,,,,,,,,,20166449,
+213251735,213213289,0,False,residential,North Porter Street,110.24,,,,,,,,,,,20166449,
+213251735,213240594,0,False,residential,9th Street,138.087,,,,,,,,,,,20166903,
+213251735,213238561,0,False,residential,9th Street,142.004,,,,,,,,,,,20166903,
+213251737,213248943,0,False,residential,North Porter Street,82.481,,,,,,,,,,,20166449,
+213251737,213248502,0,False,residential,North Porter Street,76.747,,,,,,,,,,,20166449,
+213251737,213240613,0,False,residential,7th Street,136.178,,,,,,,,,,,20166652,
+213251737,213238565,0,False,residential,7th Street,143.303,,,,,,,,,,,20166652,
+213251745,213239828,0,False,residential,North Porter Street,82.663,,,,,,,,,,,20166449,
+213251745,213240622,0,False,residential,3rd Street,132.37,,,,,,,,,,,20167146,
+213251745,213251715,0,False,residential,North Porter Street,80.767,,,,,,,,,,,20166449,
+213251745,213238578,0,False,residential,3rd Street,145.973,,,,,,,,,,,20167146,
+213251749,213251715,0,False,residential,North Porter Street,77.422,,,,,,,,,,,20166449,
+213252621,213246658,0,False,residential,Ellison Road,390.449,,,,,,,,,,,20166497,
+213252624,213252627,0,False,unclassified,Ellison Road,356.341,,,,,,,,,,,329061030,
+213252624,213246658,0,False,unclassified,Ellison Road,1014.66,,,,,,,,,,,329061030,
+213252624,213260257,0,False,residential,Apple Lane,328.789,,,,,,,,,,,20166994,
+213252627,213252624,0,False,unclassified,Ellison Road,356.341,,,,,,,,,,,329061030,
+213252627,213256339,0,False,tertiary,County Line Road,693.877,,,,,,,,,,,329061029,
+213252950,213252955,0,False,residential,Teddy Bear Lane,160.56,,,,,,,,,,,20166538,
+213252950,213256339,0,False,unclassified,Vanzandt Hollow Road,229.249,,,,,,,,,,,20166735,
+213252950,213240945,0,False,unclassified,Vanzandt Hollow Road,615.682,,,,,,,,,,,20166735,
+213252955,213252950,0,False,residential,Teddy Bear Lane,160.56,,,,,,,,,,,20166538,
+213253640,213223505,0,False,residential,Wgmf Road,61.369,,,,,,,,,,,20166593,
+213253774,213234277,0,False,residential,Allen Road,469.151,,,,,,,,,,,20166608,
+213253774,213239630,0,False,residential,Price Road,570.739,,,,,,,,,,,20166951,
+213253774,213213558,0,False,residential,Price Road,2302.428,,,,,,,,,,,20166951,
+213253821,213237806,0,False,residential,Parrish Road,483.839,,,,,,,,,,,20166617,
+213254675,213259346,0,False,residential,County Road 17,56.15,,,,,,,,,,,20167177,
+213254675,213254685,0,False,secondary,State Highway 414,1028.961,,,,,,,,,,,20166673,NY 414
+213254675,213234606,0,False,secondary,State Highway 414,853.081,,,,,,,,,,,20166673,NY 414
+213254685,213250665,0,False,secondary,State Highway 414,1069.932,,,,,,,,,,,20166673,NY 414
+213254685,213254675,0,False,secondary,State Highway 414,1028.961,,,,,,,,,,,20166673,NY 414
+213254685,213246404,0,False,tertiary,County Route 16,658.394,,,,,,,,,,,20166894,CR 16
+213254685,213259126,0,False,tertiary,County Route 16,272.461,,,,,,,,,,,20166894,CR 16
+213256339,213252950,0,False,unclassified,Vanzandt Hollow Road,229.249,,,,,,,,,,,20166735,
+213256339,213240959,0,False,unclassified,County Line Road,764.124,,,,,,,,,,,20166882,
+213256339,213252627,0,False,tertiary,County Line Road,693.877,,,,,,,,,,,329061029,
+213256379,213231661,0,False,unclassified,Vanzandt Hollow Road,484.674,,,,,,,,,,,279933114,
+213256379,213234590,0,False,unclassified,Vanzandt Hollow Road,565.538,,,,,,,yes,,,,"[20166737, 279933114, 279933115]",
+213256813,213246929,0,False,secondary,Old Corning Road,11.727,2,,,,,,,,,,20166775,NY 329
+213256813,213256835,0,False,residential,Willow Drive,152.836,,,,,,,,,,,20166759,
+213256813,213241144,0,False,secondary,Old Corning Road,659.997,2,,,,,,,,,,20166775,NY 329
+213256835,213256813,0,False,residential,Willow Drive,152.836,,,,,,,,,,,20166759,
+213256879,213248597,0,False,residential,Willow Drive,64.018,,,,,,,,,,,20166764,
+213259057,213217196,0,False,tertiary,County Route 16,309.165,,,,,,,,,,,20166894,CR 16
+213259057,213234479,0,False,tertiary,County Route 16,334.635,,,,,,,,,,,20166894,CR 16
+213259057,213244050,0,False,tertiary,County Route 19,1567.802,,,,,,,,,,,20166959,
+213259082,213246002,0,False,tertiary,County Route 16,2344.847,,,,,,,,,,,20166894,CR 16
+213259082,213237185,0,False,tertiary,County Route 16,990.821,,,,,,,,,,,20166894,CR 16
+213259082,213237181,0,False,residential,Old Joe Road,1213.18,,,,,,,,,,,20167169,
+213259126,213254685,0,False,tertiary,County Route 16,272.461,,,,,,,,,,,20166894,CR 16
+213259126,213246002,0,False,tertiary,County Route 16,2610.876,,,,,,,,,,,20166894,CR 16
+213259126,213248630,0,False,tertiary,County Route 17,2028.209,,,,,,,,,,,20166904,CR 17
+213259126,213259346,0,False,tertiary,County Route 17,952.924,,,,,,,,,,,20166904,CR 17
+213259346,213254675,0,False,residential,County Road 17,56.15,,,,,,,,,,,20167177,
+213259346,213259126,0,False,tertiary,County Route 17,952.924,,,,,,,,,,,20166904,CR 17
+213259346,213245981,0,False,"['residential', 'tertiary']","['Wedgewood Road', 'County Route 17']",2379.994,,,,,,,,,,,"[20166904, 168174897]",CR 17
+213259773,213245951,0,False,tertiary,County Route 19,356.112,,,,,,,,,,,20166959,
+213259773,1665009820,0,False,tertiary,County Route 19,1635.372,,,,,,,,,,,20166959,
+213259860,213233105,0,False,residential,Boat Launch Road,110.549,,,,,,,,,,,20166961,
+213260257,213252624,0,False,residential,Apple Lane,328.789,,,,,,,,,,,20166994,
+213261828,213240622,0,False,residential,3rd Street,52.641,,,,,,,,,,,20167146,
+665365936,213217537,0,False,residential,,120.781,,,,,,,,,,,52285527,
+702338795,213241383,0,False,residential,15th Street,180.374,,,,,,,,,,,20165723,
+702338795,213239918,0,False,primary,South Franklin Street,106.71,,,,30 mph,,,,,,,45591064,NY 14;NY 414
+702338795,213241126,0,False,primary,South Franklin Street,88.937,,,,30 mph,,,,,,,236760430,NY 14
+702338795,213250665,0,False,secondary,,1449.795,,,,,,,,,,,20166687,NY 414
+702338796,702338797,0,False,residential,South Decatur Street,13.333,,,,,,,,,,,20166025,
+702338796,213241383,0,False,residential,South Decatur Street,94.652,,,,,,,,,,,20166025,
+702338796,213241126,0,False,residential,Grandview Avenue,174.406,,,,,,,,,,,20167179,
+702338797,213216890,0,False,residential,,103.233,,,,,,,,,,,20163375,
+702338797,702338796,0,False,residential,South Decatur Street,13.333,,,,,,,,,,,20166025,
+702338797,213243741,0,False,residential,South Decatur Street,67.979,,,,,,,,,,,20166025,
+1313700276,213237311,0,False,secondary,State Highway 414,146.879,,,,,,,,,,,20166673,NY 414
+1313700276,213237328,0,False,residential,Bennett Road,529.864,,,,,,,,,,,20165399,
+1313700276,213221689,0,False,secondary,State Highway 414,674.891,,,,,,,,,,,20166673,NY 414
+1665009820,213224739,0,False,tertiary,County Route 20,90.028,,,,,,,,,,,20165491,CR 20
+1665009820,213238311,0,False,tertiary,County Route 19,10.432,,,,,,,,,,,20166959,
+1665009820,213259773,0,False,tertiary,County Route 19,1635.372,,,,,,,,,,,20166959,
+2448047559,2448047559,0,False,residential,Cemetery Road,362.273,,,,,,,,,,,20166287,
+2448047559,2448047559,1,False,residential,Cemetery Road,362.273,,,,,,,,,,,20166287,
+2448047559,213249574,0,False,residential,Cemetery Road,1095.682,,,,,,,,,,,"[439803473, 20166287]",
+2894888612,2894888613,0,False,unclassified,,227.597,,,,,no,,,,,,439810923,
+2894888613,213214255,0,False,secondary,State Highway 329,474.993,,,,,,,,,,,20166192,NY 329
+2894888613,213248597,0,False,secondary,State Highway 329,798.462,,,,,,,,,,,20166192,NY 329
+2894888613,2894888612,0,False,unclassified,,227.597,,,,,no,,,,,,439810923,
+3016877433,213217840,0,False,residential,,128.725,,,,,,,,,,,20163468,
+3341082481,213245931,0,False,secondary,State Highway 414,12.718,,,,,,,,,,,20166673,NY 414
+3341082481,213237141,0,False,residential,Cooley Road,150.016,,,,,,,,,,,20166047,
+3341082481,213237796,0,False,secondary,State Highway 414,581.928,,,,,,,,,,,20166673,NY 414
+3569356200,213249574,0,False,residential,South Jackson Street,29.247,,,,,,,,,,,20166279,
+3569356200,213244189,0,False,residential,South Jackson Street,402.59,,,,,,,,,,,20166279,
+3569356200,213234998,0,False,residential,Pine Street,83.366,,,,,,,,,,,20166654,
+3659200194,213216892,0,False,residential,,46.927,,,,,,,,,,,20163375,
+4374804268,213238568,0,False,residential,North Decatur Street,78.846,,,,,,,,,,,439802037,
+4374804268,213248098,0,False,residential,5th Street,143.733,,,,,,,,,,,439802039,
+4374804268,213238573,0,False,residential,North Decatur Street,81.187,,,,,,,,,,,439802040,
+4374898965,213237817,0,False,residential,Hedden Road,217.193,,,,,,,,,,,439814788,

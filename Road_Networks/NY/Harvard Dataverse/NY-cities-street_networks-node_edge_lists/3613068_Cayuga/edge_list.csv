@@ -1,0 +1,73 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+211225070,211225098,0,False,residential,Towpath Road,192.32,,,,,,,,,,,20021791,
+211225070,211246413,0,False,residential,Water Street,118.801,,,,,,,,,,,20033067,
+211225070,211354320,0,False,residential,Water Street,455.551,,,,,,,,,,,20033067,
+211225098,211225070,0,False,residential,Towpath Road,192.32,,,,,,,,,,,20021791,
+211244791,211244791,0,False,residential,Salato Lane,77.223,,,,,,,,,,,20022896,
+211244791,211244791,1,False,residential,Salato Lane,77.223,,,,,,,,,,,20022896,
+211244791,211244829,0,False,residential,Salato Lane,109.948,,,,,,,,,,,20022898,
+211244829,211244791,0,False,residential,Salato Lane,109.948,,,,,,,,,,,20022898,
+211244829,211323052,0,False,secondary,Willard Street,658.791,,,,,,,,,,,20026983,NY 90
+211244829,211323007,0,False,secondary,Willard Street,115.677,,,,,,,,,,,20026983,NY 90
+211246413,211246453,0,False,residential,Willow Drive,129.395,,,,,,,,,,,20022998,
+211246413,211323052,0,False,residential,Water Street,257.781,,,,,,,,,,,20033067,
+211246413,211225070,0,False,residential,Water Street,118.801,,,,,,,,,,,20033067,
+211246453,211246413,0,False,residential,Willow Drive,129.395,,,,,,,,,,,20022998,
+211252783,211252918,0,False,residential,Manitau Road,333.47,,,,,,,,,,,20023353,
+211252783,211259696,0,False,residential,Lake Street,511.251,,,,,,,,,,,20023765,
+211252918,211252783,0,False,residential,Manitau Road,333.47,,,,,,,,,,,20023353,
+211252918,211257689,0,False,secondary,"['Court Street', 'State Highway 90']",382.599,,,,,,,,,,,"[20031281, 20033850]",NY 90
+211257689,211257773,0,False,residential,Cemetery Lane,366.867,,,,,,,,,,,20023632,
+211257689,211393093,0,False,secondary,Court Street,226.534,,,,,,,,,,,20031281,NY 90
+211257689,211252918,0,False,secondary,"['Court Street', 'State Highway 90']",382.599,,,,,,,,,,,"[20031281, 20033850]",NY 90
+211257773,211405749,0,False,residential,Wheat Street,3.305,,,,,,,,,,,20032798,
+211257773,211257689,0,False,residential,Cemetery Lane,366.867,,,,,,,,,,,20023632,
+211257773,211259696,0,False,residential,Wheat Street,121.67,,,,,,,,,,,20032798,
+211259696,211259709,0,False,residential,Lake Street,194.385,,,,,,,,,,,20023765,
+211259696,211252783,0,False,residential,Lake Street,511.251,,,,,,,,,,,20023765,
+211259696,211257773,0,False,residential,Wheat Street,121.67,,,,,,,,,,,20032798,
+211259709,211259715,0,False,residential,Lake Street,144.812,,,,,,,,,,,20023765,
+211259709,211259696,0,False,residential,Lake Street,194.385,,,,,,,,,,,20023765,
+211259709,211374967,0,False,residential,Annin Street,126.273,,,,,,,,,,,20030104,
+211259715,211259721,0,False,residential,Lake Street,91.109,,,,,,,,,,,20023765,
+211259715,211259709,0,False,residential,Lake Street,144.812,,,,,,,,,,,20023765,
+211259715,211292313,0,False,residential,Cadet Lane,125.739,,,,,,,,,,,20025361,
+211259721,211354320,0,False,residential,Water Street,9.472,,,,,,,,,,,20033067,
+211259721,211259715,0,False,residential,Lake Street,91.109,,,,,,,,,,,20023765,
+211259721,211405761,0,False,residential,West Genesee Street,129.574,,,,,,,,,,,20032178,
+211292310,211292313,0,False,residential,Cadet Lane,131.926,,,,,,,,,,,20025361,
+211292310,211393116,0,False,secondary,Court Street,83.455,,,,,,,,,,,20031281,NY 90
+211292310,211393093,0,False,secondary,Court Street,348.498,,,,,,,,,,,20031281,NY 90
+211292313,211292310,0,False,residential,Cadet Lane,131.926,,,,,,,,,,,20025361,
+211292313,211405761,0,False,residential,Center Street,85.114,,,,,,,,,,,20031850,
+211292313,211374967,0,False,residential,Center Street,141.163,,,,,,,,,,,20031850,
+211292313,211259715,0,False,residential,Cadet Lane,125.739,,,,,,,,,,,20025361,
+211323007,211393116,0,False,secondary,Court Street,2.639,,,,,,,,,,,20031281,NY 90
+211323007,211244829,0,False,secondary,Willard Street,115.677,,,,,,,,,,,20026983,NY 90
+211323007,211342490,0,False,tertiary,West Genesee Street,560.148,,,,,,,,,,,20032176,
+211323052,211244829,0,False,secondary,Willard Street,658.791,,,,,,,,,,,20026983,NY 90
+211323052,211246413,0,False,residential,Water Street,257.781,,,,,,,,,,,20033067,
+211342490,211323007,0,False,tertiary,West Genesee Street,560.148,,,,,,,,,,,20032176,
+211354254,211354258,0,False,residential,Railroad Street,13.038,,,,,,,,,,,20028458,
+211354258,211354254,0,False,residential,Railroad Street,13.038,,,,,,,,,,,20028458,
+211354258,211354320,0,False,residential,Railroad Street,122.963,,,,,,,,,,,20028458,
+211354258,211354348,0,False,residential,Railroad Street,201.041,,,,,,,,,,,20028461,
+211354320,211259721,0,False,residential,Water Street,9.472,,,,,,,,,,,20033067,
+211354320,211354258,0,False,residential,Railroad Street,122.963,,,,,,,,,,,20028458,
+211354320,211225070,0,False,residential,Water Street,455.551,,,,,,,,,,,20033067,
+211354348,211354258,0,False,residential,Railroad Street,201.041,,,,,,,,,,,20028461,
+211374967,211292313,0,False,residential,Center Street,141.163,,,,,,,,,,,20031850,
+211374967,211259709,0,False,residential,Annin Street,126.273,,,,,,,,,,,20030104,
+211374967,211405749,0,False,residential,Center Street,205.522,,,,,,,,,,,20031850,
+211393093,211292310,0,False,secondary,Court Street,348.498,,,,,,,,,,,20031281,NY 90
+211393093,211257689,0,False,secondary,Court Street,226.534,,,,,,,,,,,20031281,NY 90
+211393093,211405749,0,False,residential,Wheat Street,136.254,,,,,,,,,,,20032798,
+211393116,211323007,0,False,secondary,Court Street,2.639,,,,,,,,,,,20031281,NY 90
+211393116,211292310,0,False,secondary,Court Street,83.455,,,,,,,,,,,20031281,NY 90
+211393116,211405761,0,False,residential,West Genesee Street,129.535,,,,,,,,,,,20032178,
+211405749,211257773,0,False,residential,Wheat Street,3.305,,,,,,,,,,,20032798,
+211405749,211374967,0,False,residential,Center Street,205.522,,,,,,,,,,,20031850,
+211405749,211393093,0,False,residential,Wheat Street,136.254,,,,,,,,,,,20032798,
+211405761,211292313,0,False,residential,Center Street,85.114,,,,,,,,,,,20031850,
+211405761,211393116,0,False,residential,West Genesee Street,129.535,,,,,,,,,,,20032178,
+211405761,211259721,0,False,residential,West Genesee Street,129.574,,,,,,,,,,,20032178,

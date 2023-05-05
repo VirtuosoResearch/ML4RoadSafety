@@ -1,0 +1,11 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+71788554,71837177,0,False,residential,Parenzo Road East,178.843,,,,,,,,,,,9432422,
+71788554,71878334,0,False,residential,Parenzo Road West,225.046,,,,,,,,,,,144813352,
+71804102,71837177,0,False,residential,Wilson Road,132.984,,,,,,,,,,,144813350,
+71837177,71788554,0,False,residential,Parenzo Road East,178.843,,,,,,,,,,,9432422,
+71837177,71804102,0,False,residential,Wilson Road,132.984,,,,,,,,,,,144813350,
+71837177,71878334,0,False,residential,"['Stockton Road', 'Parenzo Road East']",335.755,,,,,,,,,,,"[9432420, 144813353, 144813347, 442128716]",
+71854240,71854240,0,False,residential,Overlook Drive,466.265,2,12.2,,,,,,,,,9431991,
+71854240,71854240,1,False,residential,Overlook Drive,466.265,2,12.2,,,,,,,,,9431991,
+71878334,71837177,0,False,residential,"['Parenzo Road East', 'Stockton Road']",335.755,,,,,,,,,,,"[144813353, 144813347, 9432420, 442128716]",
+71878334,71788554,0,False,residential,Parenzo Road West,225.046,,,,,,,,,,,144813352,

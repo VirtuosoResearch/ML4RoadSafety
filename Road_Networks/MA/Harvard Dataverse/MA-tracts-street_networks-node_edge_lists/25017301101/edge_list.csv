@@ -1,0 +1,407 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+69518276,69572056,0,False,secondary,Main Street,760.808,2,16.8,,45 mph,,,,,,,290262130,MA 119
+69518276,69616138,0,False,secondary,Main Street,480.631,2,16.8,,45 mph,,,,,,,290262130,MA 119
+69518572,69520970,0,False,residential,Spaulding Street,522.224,2,12.2,,30 mph,,,,,,,9275074,
+69518572,69594400,0,False,residential,Spaulding Street,138.776,2,12.2,,30 mph,,,,,,,9275074,
+69518572,69535594,0,False,residential,Fordway Road,199.449,2,9.1,,,,,,,,,9275462,
+69518886,69576527,0,False,residential,Joyce Street,298.765,2,15.2,,,,,,,,,"[9275072, 9274873]",
+69518929,69524798,0,False,residential,Edward Road,422.539,2,9.1,,30 mph,,,,,,,9275095,
+69518929,69524798,1,False,residential,Todd Drive,343.048,2,9.1,,30 mph,,,,,,,9275345,
+69518929,69523089,0,False,residential,Todd Drive,143.819,2,9.1,,30 mph,,,,,,,9275345,
+69519077,69533710,0,False,residential,Hale Road,146.259,2,6.1,,,,,,,,,9275207,
+69519280,69580625,0,False,tertiary,Ashby Road,447.146,2,15.2,,30 mph,,,,,,,9274793,
+69519280,69600799,0,False,secondary,Main Street,166.468,2,15.2,,,,,,,,,283029906,MA 119
+69519769,69617444,0,False,residential,Kimplen Court,115.194,,,,,,,,,,,9274965,
+69519769,5652174396,0,False,residential,Cross Street,199.138,2,9.1,,,,,yes,,,,"[592151264, 9275285, 592151263]",
+69519769,69580384,0,False,residential,Cross Street,167.991,2,9.1,,,,,,,,,9275285,
+69520970,69523089,0,False,tertiary,Proctor Road,365.552,1,12.2,,35 mph,,,,,,,9274779,
+69520970,69518572,0,False,residential,Spaulding Street,522.224,2,12.2,,30 mph,,,,,,,9275074,
+69520970,69588693,0,False,tertiary,Wallace Hill Road,50.441,2,18.3,,35 mph,,,,,,,9275465,
+69522553,69538638,0,False,residential,Smith Street,25.596,2,12.2,,,,,,,,,9275360,
+69522553,69531404,0,False,residential,Highland Street,112.564,2,12.2,,,,,,,,,9275367,
+69522553,69612871,0,False,residential,Highland Street,27.904,2,12.2,,,,,,,,,9275367,
+69522874,69547915,0,False,residential,Maple Street,152.815,2,12.2,,,,,,,,,9275428,
+69522874,69587630,0,False,residential,Bow Street,202.367,2,12.2,,,,,,,,,9275474,
+69522874,69600392,0,False,residential,Bow Street,90.826,2,12.2,,,,,,,,,9275474,
+69523089,69520970,0,False,tertiary,Proctor Road,365.552,1,12.2,,35 mph,,,,,,,9274779,
+69523089,69612594,0,False,tertiary,Proctor Road,828.681,1,12.2,,35 mph,,,,,,,9274779,
+69523089,69518929,0,False,residential,Todd Drive,143.819,2,9.1,,30 mph,,,,,,,9275345,
+69524159,69569366,0,False,residential,Fessenden Hill Road,424.313,1,12.2,,,,,,,,,9275352,
+69524226,69605996,0,False,secondary,Mason Road,175.152,2,12.2,,,,,,,,,9275437,
+69524226,69605996,1,False,residential,Horseshoe Drive,505.157,2,12.2,,,,,,,,,9275227,
+69524226,69551263,0,False,secondary,Mason Road,56.604,2,12.2,,,,,,,,,9275437,
+69524798,69518929,0,False,residential,Edward Road,422.539,2,9.1,,30 mph,,,,,,,9275095,
+69524798,69518929,1,False,residential,Todd Drive,343.048,2,9.1,,30 mph,,,,,,,9275345,
+69524798,69601568,0,False,residential,Edward Road,129.098,2,9.1,,30 mph,,,,,,,9275095,
+69524856,69611157,0,False,residential,School Street,267.318,,,,,,,,,,,428801700,
+69525099,69600392,0,False,secondary,Main Street,53.374,2,16.8,,35 mph,,,,,,,290262129,MA 119
+69525099,69590838,0,False,secondary,Main Street,65.572,2,16.8,,"['35 mph', '25 mph']",,,,,,,"[290262129, 9275069]",MA 119
+69525175,69590899,0,False,residential,Burgess Road,75.264,,,,,,,,,,,9275038,
+69525175,2589061532,0,False,residential,Dudley Road,474.305,2,12.2,,,,,,,,,9275187,
+69525175,69565011,0,False,residential,Dudley Road,80.735,2,12.2,,,,,,,,,9275187,
+69526471,69611336,0,False,residential,Adams Road,1007.466,2,12.2,,,,,,,,,9275079,
+69526471,69530713,0,False,residential,Highland Street,1087.623,2,12.2,,,,,,,,,"[9275470, 9275367]",
+69526471,2319146795,0,False,residential,Highland Street,92.577,2,12.2,,,,,,,,,9275367,
+69527674,69597609,0,False,residential,Boutelle Road,208.213,1,12.2,,,,,,,,,9275209,
+69528591,69590899,0,False,residential,Burgess Road,491.509,1,12.2,,,,,,,,,"[9275288, 9274874]",
+69528649,69597609,0,False,residential,Meadow Road,931.511,1,9.1,,,,,,,,,9275272,
+69528649,69563733,0,False,tertiary,Townsend Hill Road,588.321,2,18.3,,40 mph,,,,,,,9275401,
+69528649,69567371,0,False,tertiary,Wallace Hill Road,225.537,2,18.3,,40 mph,,,,,,,287740866,
+69529926,69549870,0,False,primary,Brookline Street,40.701,2,15.2,,,,,,,,,419548977,MA 13
+69529926,69580384,0,False,residential,Smith Street,317.02,2,12.2,,,,,,,,,9275360,
+69529926,5652174396,0,False,primary,Brookline Street,264.729,2,15.2,,,,,yes,,,,"[419548977, 592151260, 592151261]",MA 13
+69530713,69526471,0,False,residential,Highland Street,1087.623,2,12.2,,,,,,,,,"[9275470, 9275367]",
+69530713,69581730,0,False,tertiary,Wallace Hill Road,809.657,2,18.3,,40 mph,,,,,,,287740866,
+69530713,69546673,0,False,tertiary,Wallace Hill Road,704.8,2,18.3,,40 mph,,,,,,,287740866,
+69531084,69589023,0,False,residential,Scott Road,49.616,2,12.2,,,,,,,,,9274797,
+69531404,2319146795,0,False,residential,Highland Street,363.631,2,12.2,,,,,,,,,9275367,
+69531404,69522553,0,False,residential,Highland Street,112.564,2,12.2,,,,,,,,,9275367,
+69531404,69604815,0,False,residential,Old Meeting House Road,579.902,2,12.2,,,,,,,,,9275457,
+69531468,69570877,0,False,secondary,Main Street,574.512,2,15.2,,,,,,,,,283029906,MA 119
+69531468,69560167,0,False,secondary,Main Street,480.792,2,15.2,,,,,,,,,283029906,MA 119
+69533710,69519077,0,False,residential,Hale Road,146.259,2,6.1,,,,,,,,,9275207,
+69533710,69611299,0,False,residential,Ball Road,16.003,1,12.2,,,,,,,,,9275411,
+69533710,69556886,0,False,residential,Ball Road,398.241,1,12.2,,,,,,,,,9275411,
+69534620,69601528,0,False,residential,Michael Way,168.204,2,15.2,,,,,,,,,9274807,
+69534620,69558676,0,False,residential,Brooks Crossing,135.766,2,15.2,,,,,,,,,9274817,
+69534620,69591743,0,False,residential,Kristopher Lane,59.586,2,9.1,,,,,,,,,9275466,
+69535100,69556490,0,False,residential,Greeley Road,244.462,1,9.1,,,,,,,,,9275083,
+69535100,69616138,0,False,secondary,Main Street,616.109,2,16.8,,"['35 mph', '45 mph']",,,,,,,"[290262129, 290262130]",MA 119
+69535100,69539960,0,False,secondary,Main Street,323.379,2,16.8,,35 mph,,,,,,,290262129,MA 119
+69535594,69518572,0,False,residential,Fordway Road,199.449,2,9.1,,,,,,,,,9275462,
+69535757,69540454,0,False,primary,Elm Street,16.681,2,12.2,,25 mph,,,,,,,290262128,MA 13
+69535757,69587217,0,False,residential,"['Jefts Street', 'Riverbank Terrace']",302.97,"['1', '2']","['9.1', '12.2']",,,,,,,,,"[9275362, 9275172]",
+69535757,69563706,0,False,primary,Elm Street,130.901,2,12.2,,25 mph,,,,,,,290262128,MA 13
+69537131,69562636,0,False,residential,Barker Hill Road Branch,276.922,1,12.2,,,,,,,,,9274785,
+69537131,69609313,0,False,residential,Dudley Road,147.637,2,12.2,,,,,,,,,9275187,
+69537131,69545175,0,False,residential,Dudley Road,464.258,2,12.2,,,,,,,,,9275187,
+69537773,69540454,0,False,residential,Railroad Street,132.096,2,12.2,,,,,,,,,9275373,
+69537773,69612055,0,False,residential,Mill Street,243.968,2,12.2,,,,,,,,,9275439,
+69537773,69525099,0,True,residential,Depot Street,122.556,1,9.1,,30 mph,,,,,,,320466041,
+69537993,69554615,0,False,secondary,Main Street,98.382,2,15.2,,,,,,,,,283029906,MA 119
+69537993,69605750,0,False,secondary,Main Street,180.977,2,15.2,,,,,,,,,283029906,MA 119
+69538638,69522553,0,False,residential,Smith Street,25.596,2,12.2,,,,,,,,,9275360,
+69538638,69612871,0,False,residential,Smith Street,23.675,2,12.2,,,,,,,,,9275264,
+69538638,69580384,0,False,residential,Smith Street,200.16,2,12.2,,,,,,,,,9275360,
+69539960,69547915,0,False,residential,Oak Street,144.694,2,12.2,,,,,,,,,9275251,
+69539960,69535100,0,False,secondary,Main Street,323.379,2,16.8,,35 mph,,,,,,,290262129,MA 119
+69539960,69600392,0,False,secondary,Main Street,162.612,2,16.8,,35 mph,,,,,,,290262129,MA 119
+69540454,69535757,0,False,primary,Elm Street,16.681,2,12.2,,25 mph,,,,,,,290262128,MA 13
+69540454,69537773,0,False,residential,Railroad Street,132.096,2,12.2,,,,,,,,,9275373,
+69545175,69568358,0,False,residential,Dudley Road,61.792,2,12.2,,,,,,,,,9275187,
+69545175,69537131,0,False,residential,Dudley Road,464.258,2,12.2,,,,,,,,,9275187,
+69545175,69607682,0,False,residential,Turnpike Road,792.947,2,12.2,,,,,,,,,9275347,
+69546260,69551263,0,False,residential,Briar Way,184.185,2,9.1,,,,,,,,,9275090,
+69546491,69581730,0,False,residential,Brown Road,358.677,1,9.1,,,,,,,,,9275378,
+69546673,69582192,0,False,residential,,132.479,,,,,,,,,,,9274961,
+69546673,69530713,0,False,tertiary,Wallace Hill Road,704.8,2,18.3,,40 mph,,,,,,,287740866,
+69546673,69588693,0,False,tertiary,Wallace Hill Road,690.555,2,18.3,,"['40 mph', '35 mph']",,,,,,,"[9275465, 287740866]",
+69546790,69584681,0,False,primary,Brookline Road,115.254,2,15.2,,35 mph,,,,,,,9274769,MA 13
+69546790,5652174399,0,False,primary,Brookline Road,235.979,2,15.2,,35 mph,,,,,,,9274769,MA 13
+69546790,69611157,0,False,residential,School Street,242.425,,,,,,,,,,,428801700,
+69547089,69547089,0,False,residential,West Meadow Estates Drive,359.02,,,,,,,,,,,9275041,
+69547089,69547089,1,False,residential,West Meadow Estates Drive,359.02,,,,,,,,,,,9275041,
+69547089,69574013,0,False,residential,West Meadow Estates Drive,297.631,,,,,,,,,,,9275041,
+69547915,69539960,0,False,residential,Oak Street,144.694,2,12.2,,,,,,,,,9275251,
+69547915,69597010,0,False,residential,Maple Street,107.678,2,12.2,,,,,,,,,9275428,
+69547915,69522874,0,False,residential,Maple Street,152.815,2,12.2,,,,,,,,,9275428,
+69548353,69569274,0,False,residential,Terrace Way,149.38,1,9.1,,,,,,,,,9275148,
+69549870,69529926,0,False,primary,Brookline Street,40.701,2,15.2,,,,,,,,,419548977,MA 13
+69549870,69606786,0,False,residential,"['School Street', 'Water Street']",550.206,2,"['15.2', '12.2']",,,,,,,,,"[9275417, 9274758]",
+69549870,69551912,0,False,primary,Brookline Street,328.736,2,15.2,,,,,,,,,419548977,MA 13
+69551263,69524226,0,False,secondary,Mason Road,56.604,2,12.2,,,,,,,,,9275437,
+69551263,69546260,0,False,residential,Briar Way,184.185,2,9.1,,,,,,,,,9275090,
+69551263,69576281,0,False,secondary,Mason Road,1071.355,2,12.2,,,,,,,,,9275437,
+69551912,69587630,0,False,residential,Bow Street,32.85,2,12.2,,,,,,,,,9275474,
+69551912,69549870,0,False,primary,Brookline Street,328.736,2,15.2,,,,,,,,,419548977,MA 13
+69551912,69557140,0,False,primary,Brookline Street,58.625,2,15.2,,,,,,,,,419548977,MA 13
+69552309,69556886,0,False,residential,Warner Road,100.533,1,12.2,,,,,,,,,9275426,
+69554615,69537993,0,False,secondary,Main Street,98.382,2,15.2,,,,,,,,,283029906,MA 119
+69554615,69568238,0,False,residential,Whitcomb Street,86.759,2,15.2,,,,,,,,,9275376,
+69554615,69602648,0,False,secondary,Main Street,289.888,2,15.2,,,,,,,,,283029906,MA 119
+69556490,69556490,0,False,residential,Greeley Road,93.253,1,9.1,,,,,,,,,9275083,
+69556490,69556490,1,False,residential,Greeley Road,93.253,1,9.1,,,,,,,,,9275083,
+69556490,69535100,0,False,residential,Greeley Road,244.462,1,9.1,,,,,,,,,9275083,
+69556886,69567371,0,False,residential,Warner Road,919.406,2,12.2,,,,,,,,,9275282,
+69556886,69533710,0,False,residential,Ball Road,398.241,1,12.2,,,,,,,,,9275411,
+69556886,69552309,0,False,residential,Warner Road,100.533,1,12.2,,,,,,,,,9275426,
+69556912,69564414,0,True,residential,Highland Street,130.506,2,12.2,,,,,,,,,9274742,
+69556912,69566731,0,False,residential,Osgood Street,84.705,1,9.1,,,,,,,,,9275111,
+69557087,69557215,0,False,secondary,Main Street,20.733,2,15.2,,,,,,,,,283029906,MA 119
+69557087,69570877,0,False,secondary,Main Street,278.201,2,15.2,,,,,,,,,283029906,MA 119
+69557140,5652174378,0,False,residential,Brookline Street,40.067,2,15.2,,,,,,,,,592146138,
+69557140,5652174377,0,False,primary,Highland Street,38.274,2,12.2,,,,,,,,,9275363,MA 13
+69557140,69587630,0,False,residential,Highland Street,58.515,2,12.2,,,,,,,,,9275367,
+69557140,69551912,0,False,primary,Brookline Street,58.625,2,15.2,,,,,,,,,419548977,MA 13
+69557215,69557087,0,False,secondary,Main Street,20.733,2,15.2,,,,,,,,,283029906,MA 119
+69557215,69559320,0,False,secondary,Canal Street,274.163,2,12.2,,,,,,,,,9275183,
+69557215,69559844,0,False,secondary,Main Street,661.496,2,15.2,,,,,,,,,283029906,MA 119
+69558676,69534620,0,False,residential,Brooks Crossing,135.766,2,15.2,,,,,,,,,9274817,
+69558676,69594652,0,False,secondary,Mason Road,1174.363,2,12.2,,,,,,,,,9275437,
+69558990,69614724,0,False,residential,Squanicook Terrace,304.939,2,12.2,,,,,,,,,9275473,
+69559320,69557215,0,False,secondary,Canal Street,274.163,2,12.2,,,,,,,,,9275183,
+69559320,69568358,0,False,residential,Dudley Road,740.665,2,12.2,,,,,,,,,9275187,
+69559320,69576527,0,False,secondary,Mason Road,278.731,2,12.2,,,,,,,,,9275437,
+69559365,69586414,0,False,residential,Pepperell Road,53.582,2,12.2,,,,,,,,,9275222,
+69559365,69607626,0,False,secondary,Main Street,50.028,2,16.8,,40 mph,,,,,,,223615967,MA 119
+69559679,69597912,0,False,residential,"['Laurie Drive', 'Robyn Drive', 'Hayes Drive']",370.573,2,9.1,,30 mph,,,,,,,"[9274752, 9275451, 9275403]",
+69559679,69597912,1,False,residential,Reagan Road,133.868,,,,30 mph,,,,,,,9275052,
+69559679,69572056,0,False,residential,Reagan Road,228.267,2,9.1,,30 mph,,,,,,,9274766,
+69559844,69557215,0,False,secondary,Main Street,661.496,2,15.2,,,,,,,,,283029906,MA 119
+69560167,69589095,0,False,residential,West Meadow Road,959.729,2,9.1,,,,,,,,,9275419,
+69560167,69531468,0,False,secondary,Main Street,480.792,2,15.2,,,,,,,,,283029906,MA 119
+69560167,69576622,0,False,secondary,Main Street,113.501,2,15.2,,,,,,,,,283029906,MA 119
+69560406,69592793,0,False,residential,Hog Hill Road,119.105,2,9.1,,,,,,,,,9275260,
+69560905,69566731,0,False,residential,Osgood Street,20.983,,9.1,,,,,,,,,9275195,
+69560905,69601806,0,False,secondary,Main Street,40.185,2,15.2,,,,,,,,,320468104,MA 119
+69560905,69587217,0,False,secondary,Main Street,78.155,2,15.2,,,,,,,,,320468104,MA 119
+69561035,69591738,0,False,residential,Lunn's Way,258.043,,,,,,,,,,,9274871,
+69562193,69601568,0,False,residential,Edward Road,62.797,,,,,,,,,,,9274994,
+69562636,69537131,0,False,residential,Barker Hill Road Branch,276.922,1,12.2,,,,,,,,,9274785,
+69562636,69609313,0,False,residential,Barker Hill Road,270.472,2,12.2,,,,,,,,,9275356,
+69563706,69590838,0,False,secondary,Main Street,80.912,2,16.8,,25 mph,,,,,,,9275069,MA 119
+69563706,69606786,0,False,primary,School Street,145.787,2,15.2,,,,,,,,,9275168,MA 13
+69563706,69535757,0,False,primary,Elm Street,130.901,2,12.2,,25 mph,,,,,,,290262128,MA 13
+69563706,69601806,0,False,secondary,Main Street,26.131,2,15.2,,,,,,,,,320468104,MA 119
+69563733,69585019,0,False,tertiary,Townsend Hill Road,638.927,2,18.3,,40 mph,,,,,,,9275401,
+69563733,69563917,0,False,residential,Hillside Drive,783.561,2,15.2,,,,,,,,,9275294,
+69563733,69528649,0,False,tertiary,Townsend Hill Road,588.321,2,18.3,,40 mph,,,,,,,9275401,
+69563917,69563733,0,False,residential,Hillside Drive,783.561,2,15.2,,,,,,,,,9275294,
+69564414,69600612,0,False,residential,Howard Street,123.853,1,9.1,,,,,,,,,9275423,
+69564414,69606786,0,True,residential,Highland Street,29.619,2,12.2,,,,,,,,,9274742,
+69565011,69525175,0,False,residential,Dudley Road,80.735,2,12.2,,,,,,,,,9275187,
+69565011,69609313,0,False,residential,Dudley Road,490.73,2,12.2,,,,,,,,,9275187,
+69565011,69590899,0,False,residential,Burgess Road,51.304,1,12.2,,,,,,,,,9275288,
+69566731,69560905,0,False,residential,Osgood Street,20.983,,9.1,,,,,,,,,9275195,
+69566731,69556912,0,False,residential,Osgood Street,84.705,1,9.1,,,,,,,,,9275111,
+69566731,69601806,0,False,residential,Osgood Street,44.451,1,9.1,,,,,,,,,9275111,
+69566939,69611336,0,False,residential,Dix Street,155.838,2,12.2,,,,,,,,,9275247,
+69566939,69597609,0,False,residential,Meadow Road,218.583,1,9.1,,,,,,,,,9275272,
+69566939,5652174399,0,False,residential,Meadow Road,1105.904,2,9.1,,,,,,,,,592151262,
+69567371,69581730,0,False,tertiary,Wallace Hill Road,258.973,2,18.3,,40 mph,,,,,,,287740866,
+69567371,69556886,0,False,residential,Warner Road,919.406,2,12.2,,,,,,,,,9275282,
+69567371,69528649,0,False,tertiary,Wallace Hill Road,225.537,2,18.3,,40 mph,,,,,,,287740866,
+69568238,69578716,0,False,residential,Turnpike Road,185.413,2,12.2,,,,,,,,,9275347,
+69568238,69569274,0,False,residential,Turnpike Road,97.851,2,12.2,,,,,,,,,9275347,
+69568238,69554615,0,False,residential,Whitcomb Street,86.759,2,15.2,,,,,,,,,9275376,
+69568358,69545175,0,False,residential,Dudley Road,61.792,2,12.2,,,,,,,,,9275187,
+69568358,69559320,0,False,residential,Dudley Road,740.665,2,12.2,,,,,,,,,9275187,
+69568358,69615778,0,False,residential,Old Turnpike Road,749.539,2,12.2,,,,,,,,,9275267,
+69569274,69548353,0,False,residential,Terrace Way,149.38,1,9.1,,,,,,,,,9275148,
+69569274,69568238,0,False,residential,Turnpike Road,97.851,2,12.2,,,,,,,,,9275347,
+69569274,69594391,0,False,residential,Turnpike Road,205.197,2,12.2,,,,,,,,,9275347,
+69569366,69608442,0,False,primary,Brookline Road,1516.805,2,15.2,,35 mph,,,,,,,9274769,MA 13
+69569366,69584681,0,False,primary,Brookline Road,688.386,2,15.2,,35 mph,,,,,,,9274769,MA 13
+69569366,69524159,0,False,residential,Fessenden Hill Road,424.313,1,12.2,,,,,,,,,9275352,
+69570634,69594400,0,False,residential,Spaulding Street,411.913,2,12.2,,30 mph,,,,,,,9275074,
+69570634,69607626,0,False,secondary,Main Street,387.756,2,16.8,,40 mph,,,,,,,223615967,MA 119
+69570634,69572056,0,False,secondary,Main Street,693.79,2,16.8,,"['40 mph', '45 mph']",,,,,,,"[290262130, 290262131]",MA 119
+69570877,69557087,0,False,secondary,Main Street,278.201,2,15.2,,,,,,,,,283029906,MA 119
+69570877,69531468,0,False,secondary,Main Street,574.512,2,15.2,,,,,,,,,283029906,MA 119
+69570944,69570944,0,False,residential,Terrace Way,277.881,,,,,,,,,,,9275008,
+69570944,69570944,1,False,residential,Terrace Way,277.881,,,,,,,,,,,9275008,
+69570944,69578716,0,False,residential,Terrace Way,125.629,,,,,,,,,,,9275008,
+69572056,69559679,0,False,residential,Reagan Road,228.267,2,9.1,,30 mph,,,,,,,9274766,
+69572056,69570634,0,False,secondary,Main Street,693.79,2,16.8,,"['40 mph', '45 mph']",,,,,,,"[290262130, 290262131]",MA 119
+69572056,69518276,0,False,secondary,Main Street,760.808,2,16.8,,45 mph,,,,,,,290262130,MA 119
+69574013,69547089,0,False,residential,West Meadow Estates Drive,297.631,,,,,,,,,,,9275041,
+69574013,69589095,0,False,residential,West Meadow Road,782.847,2,9.1,,,,,,,,,9275419,
+69575322,69556912,0,True,residential,Highland Street,115.136,2,12.2,,,,,,,,,9274742,
+69575322,69587217,0,False,secondary,Main Street,80.826,2,15.2,,,,,,,,,320468104,MA 119
+69575322,69605750,0,False,secondary,Main Street,104.171,2,15.2,,,,,yes,,,,"[320468104, 283029906, 320468103]",MA 119
+69576281,69591738,0,False,secondary,Old Turnpike Road,2120.178,2,12.2,,,,,,,,,9275152,
+69576281,69551263,0,False,secondary,Mason Road,1071.355,2,12.2,,,,,,,,,9275437,
+69576281,69594652,0,False,secondary,Mason Road,40.274,2,12.2,,,,,,,,,9275437,
+69576527,69607152,0,False,residential,Bridle Path,143.106,2,12.2,,,,,,,,,9274747,
+69576527,69518886,0,False,residential,Joyce Street,298.765,2,15.2,,,,,,,,,"[9275072, 9274873]",
+69576527,69559320,0,False,secondary,Mason Road,278.731,2,12.2,,,,,,,,,9275437,
+69576527,69605996,0,False,secondary,Mason Road,216.107,2,12.2,,,,,,,,,9275437,
+69576622,69560167,0,False,secondary,Main Street,113.501,2,15.2,,,,,,,,,283029906,MA 119
+69576622,69600799,0,False,secondary,Main Street,391.207,2,15.2,,,,,,,,,283029906,MA 119
+69576991,69616138,0,False,residential,Old Meeting House Road,199.445,1,9.1,,,,,,,,,9274801,
+69578716,69614724,0,False,residential,Turnpike Road,39.531,2,12.2,,,,,,,,,9275347,
+69578716,69570944,0,False,residential,Terrace Way,125.629,,,,,,,,,,,9275008,
+69578716,69568238,0,False,residential,Turnpike Road,185.413,2,12.2,,,,,,,,,9275347,
+69579200,69592793,0,False,residential,Haynes Road,980.399,1,12.2,,,,,,,,,9275202,
+69579200,69580446,0,False,residential,Haynes Road,239.035,2,12.2,,,,,,,,,345330730,
+69580384,69519769,0,False,residential,Cross Street,167.991,2,9.1,,,,,,,,,9275285,
+69580384,69538638,0,False,residential,Smith Street,200.16,2,12.2,,,,,,,,,9275360,
+69580384,69529926,0,False,residential,Smith Street,317.02,2,12.2,,,,,,,,,9275360,
+69580446,69579200,0,False,residential,Haynes Road,239.035,2,12.2,,,,,,,,,345330730,
+69580625,69519280,0,False,tertiary,Ashby Road,447.146,2,15.2,,30 mph,,,,,,,9274793,
+69581730,69567371,0,False,tertiary,Wallace Hill Road,258.973,2,18.3,,40 mph,,,,,,,287740866,
+69581730,69546491,0,False,residential,Brown Road,358.677,1,9.1,,,,,,,,,9275378,
+69581730,69530713,0,False,tertiary,Wallace Hill Road,809.657,2,18.3,,40 mph,,,,,,,287740866,
+69582192,69546673,0,False,residential,,132.479,,,,,,,,,,,9274961,
+69583864,69601273,0,False,residential,Ball Road,207.459,1,12.2,,,,,,,,,592151267,
+69584681,69569366,0,False,primary,Brookline Road,688.386,2,15.2,,35 mph,,,,,,,9274769,MA 13
+69584681,69546790,0,False,primary,Brookline Road,115.254,2,15.2,,35 mph,,,,,,,9274769,MA 13
+69584681,5652174416,0,False,residential,Dudley Road,70.238,2,12.2,,,,,,,,,9275187,
+69585019,69563733,0,False,tertiary,Townsend Hill Road,638.927,2,18.3,,40 mph,,,,,,,9275401,
+69585019,69608442,0,False,residential,North End Road,899.074,1,12.2,,30 mph,,,,,,,287740867,
+69585019,69601273,0,False,residential,North End Road,948.812,1,12.2,,40 mph,,,,,,,592151266,
+69585498,69585498,0,False,residential,Saint James Place,75.082,2,15.2,,,,,,,,,9275443,
+69585498,69585498,1,False,residential,Saint James Place,75.082,2,15.2,,,,,,,,,9275443,
+69585498,69591743,0,False,residential,Saint James Place,71.008,2,15.2,,,,,,,,,9275443,
+69586414,69559365,0,False,residential,Pepperell Road,53.582,2,12.2,,,,,,,,,9275222,
+69587217,69560905,0,False,secondary,Main Street,78.155,2,15.2,,,,,,,,,320468104,MA 119
+69587217,69535757,0,False,residential,"['Jefts Street', 'Riverbank Terrace']",302.97,"['1', '2']","['9.1', '12.2']",,,,,,,,,"[9275362, 9275172]",
+69587217,69575322,0,False,secondary,Main Street,80.826,2,15.2,,,,,,,,,320468104,MA 119
+69587630,69551912,0,False,residential,Bow Street,32.85,2,12.2,,,,,,,,,9275474,
+69587630,69612871,0,False,residential,Highland Street,612.923,2,12.2,,,,,,,,,9275367,
+69587630,69557140,0,False,residential,Highland Street,58.515,2,12.2,,,,,,,,,9275367,
+69587630,69522874,0,False,residential,Bow Street,202.367,2,12.2,,,,,,,,,9275474,
+69588693,69592793,0,False,residential,Haynes Road,936.027,1,12.2,,,,,,,,,9275202,
+69588693,69546673,0,False,tertiary,Wallace Hill Road,690.555,2,18.3,,"['40 mph', '35 mph']",,,,,,,"[9275465, 287740866]",
+69588693,69520970,0,False,tertiary,Wallace Hill Road,50.441,2,18.3,,35 mph,,,,,,,9275465,
+69589023,69531084,0,False,residential,Scott Road,49.616,2,12.2,,,,,,,,,9274797,
+69589023,69616259,0,False,residential,Kaneohe Court,228.35,2,12.2,,,,,,,,,9275459,
+69589095,69598036,0,False,residential,,79.298,,,,,,,,,,,9275040,
+69589095,69560167,0,False,residential,West Meadow Road,959.729,2,9.1,,,,,,,,,9275419,
+69589095,69574013,0,False,residential,West Meadow Road,782.847,2,9.1,,,,,,,,,9275419,
+69590838,69525099,0,False,secondary,Main Street,65.572,2,16.8,,"['35 mph', '25 mph']",,,,,,,"[290262129, 9275069]",MA 119
+69590838,69563706,0,False,secondary,Main Street,80.912,2,16.8,,25 mph,,,,,,,9275069,MA 119
+69590838,5652133938,0,True,residential,Brookline Street,28.306,2,15.2,,,,,,,,,592146134,
+69590899,69525175,0,False,residential,Burgess Road,75.264,,,,,,,,,,,9275038,
+69590899,69528591,0,False,residential,Burgess Road,491.509,1,12.2,,,,,,,,,"[9275288, 9274874]",
+69590899,69565011,0,False,residential,Burgess Road,51.304,1,12.2,,,,,,,,,9275288,
+69591738,69561035,0,False,residential,Lunn's Way,258.043,,,,,,,,,,,9274871,
+69591738,69576281,0,False,secondary,Old Turnpike Road,2120.178,2,12.2,,,,,,,,,9275152,
+69591743,69585498,0,False,residential,Saint James Place,71.008,2,15.2,,,,,,,,,9275443,
+69591743,69534620,0,False,residential,Kristopher Lane,59.586,2,9.1,,,,,,,,,9275466,
+69591743,5205094516,0,False,residential,Kristopher Lane,137.07,2,9.1,,,,,,,,,9275466,
+69592793,69579200,0,False,residential,Haynes Road,980.399,1,12.2,,,,,,,,,9275202,
+69592793,69588693,0,False,residential,Haynes Road,936.027,1,12.2,,,,,,,,,9275202,
+69592793,69560406,0,False,residential,Hog Hill Road,119.105,2,9.1,,,,,,,,,9275260,
+69594391,69569274,0,False,residential,Turnpike Road,205.197,2,12.2,,,,,,,,,9275347,
+69594391,69607682,0,False,residential,Turnpike Road,1091.111,2,12.2,,,,,,,,,9275347,
+69594391,69602648,0,False,residential,Eastman Street,189.915,2,12.2,,,,,,,,,9275446,
+69594400,69518572,0,False,residential,Spaulding Street,138.776,2,12.2,,30 mph,,,,,,,9275074,
+69594400,69570634,0,False,residential,Spaulding Street,411.913,2,12.2,,30 mph,,,,,,,9275074,
+69594400,69608535,0,False,residential,Ripple Road,156.522,2,9.1,,,,,,,,,9275301,
+69594652,69605108,0,False,residential,Old Turnpike Road,1133.466,2,12.2,,,,,,,,,9275267,
+69594652,69576281,0,False,secondary,Mason Road,40.274,2,12.2,,,,,,,,,9275437,
+69594652,69558676,0,False,secondary,Mason Road,1174.363,2,12.2,,,,,,,,,9275437,
+69597010,69547915,0,False,residential,Maple Street,107.678,2,12.2,,,,,,,,,9275428,
+69597609,69611336,0,False,residential,Adams Road,223.976,2,12.2,,,,,,,,,9275079,
+69597609,69527674,0,False,residential,Boutelle Road,208.213,1,12.2,,,,,,,,,9275209,
+69597609,69528649,0,False,residential,Meadow Road,931.511,1,9.1,,,,,,,,,9275272,
+69597609,69566939,0,False,residential,Meadow Road,218.583,1,9.1,,,,,,,,,9275272,
+69597912,69606630,0,False,residential,Reagan Road,62.169,,,,30 mph,,,,,,,9275052,
+69597912,69559679,0,False,residential,Reagan Road,133.868,,,,30 mph,,,,,,,9275052,
+69597912,69559679,1,False,residential,"['Laurie Drive', 'Robyn Drive', 'Hayes Drive']",370.573,2,9.1,,30 mph,,,,,,,"[9275403, 9275451, 9274752]",
+69598036,69589095,0,False,residential,,79.298,,,,,,,,,,,9275040,
+69600392,69522874,0,False,residential,Bow Street,90.826,2,12.2,,,,,,,,,9275474,
+69600392,69539960,0,False,secondary,Main Street,162.612,2,16.8,,35 mph,,,,,,,290262129,MA 119
+69600392,69525099,0,False,secondary,Main Street,53.374,2,16.8,,35 mph,,,,,,,290262129,MA 119
+69600612,69564414,0,False,residential,Howard Street,123.853,1,9.1,,,,,,,,,9275423,
+69600799,69576622,0,False,secondary,Main Street,391.207,2,15.2,,,,,,,,,283029906,MA 119
+69600799,69519280,0,False,secondary,Main Street,166.468,2,15.2,,,,,,,,,283029906,MA 119
+69601273,69585019,0,False,residential,North End Road,948.812,1,12.2,,40 mph,,,,,,,592151266,
+69601273,69583864,0,False,residential,Ball Road,207.459,1,12.2,,,,,,,,,592151267,
+69601528,69534620,0,False,residential,Michael Way,168.204,2,15.2,,,,,,,,,9274807,
+69601568,69562193,0,False,residential,Edward Road,62.797,,,,,,,,,,,9274994,
+69601568,69524798,0,False,residential,Edward Road,129.098,2,9.1,,30 mph,,,,,,,9275095,
+69601568,69607626,0,False,residential,Edward Road,385.082,2,9.1,,30 mph,,,,,,,9275095,
+69601806,69560905,0,False,secondary,Main Street,40.185,2,15.2,,,,,,,,,320468104,MA 119
+69601806,69566731,0,False,residential,Osgood Street,44.451,1,9.1,,,,,,,,,9275111,
+69601806,69563706,0,False,secondary,Main Street,26.131,2,15.2,,,,,,,,,320468104,MA 119
+69602648,69594391,0,False,residential,Eastman Street,189.915,2,12.2,,,,,,,,,9275446,
+69602648,69554615,0,False,secondary,Main Street,289.888,2,15.2,,,,,,,,,283029906,MA 119
+69602648,69608034,0,False,secondary,Main Street,612.943,2,15.2,,,,,,,,,283029906,MA 119
+69604815,69531404,0,False,residential,Old Meeting House Road,579.902,2,12.2,,,,,,,,,9275457,
+69605108,69607152,0,False,residential,Bridle Path,455.832,2,12.2,,,,,,,,,9274747,
+69605108,69615778,0,False,residential,Old Turnpike Road,136.506,2,12.2,,,,,,,,,9275267,
+69605108,69594652,0,False,residential,Old Turnpike Road,1133.466,2,12.2,,,,,,,,,9275267,
+69605750,69614724,0,False,residential,Turnpike Road,51.272,2,12.2,,,,,,,,,9275347,
+69605750,69575322,0,False,secondary,Main Street,104.171,2,15.2,,,,,yes,,,,"[320468104, 283029906, 320468103]",MA 119
+69605750,69537993,0,False,secondary,Main Street,180.977,2,15.2,,,,,,,,,283029906,MA 119
+69605996,69524226,0,False,secondary,Mason Road,175.152,2,12.2,,,,,,,,,9275437,
+69605996,69524226,1,False,residential,Horseshoe Drive,505.157,2,12.2,,,,,,,,,9275227,
+69605996,69576527,0,False,secondary,Mason Road,216.107,2,12.2,,,,,,,,,9275437,
+69606630,69597912,0,False,residential,Reagan Road,62.169,,,,30 mph,,,,,,,9275052,
+69606786,69563706,0,False,primary,School Street,145.787,2,15.2,,,,,,,,,9275168,MA 13
+69606786,5652174377,0,False,primary,Highland Street,70.295,2,12.2,,,,,,,,,9275363,MA 13
+69606786,69549870,0,False,residential,"['School Street', 'Water Street']",550.206,2,"['15.2', '12.2']",,,,,,,,,"[9275417, 9274758]",
+69607152,69615778,0,False,residential,Fox Run,543.915,2,9.1,,,,,,,,,9274738,
+69607152,69605108,0,False,residential,Bridle Path,455.832,2,12.2,,,,,,,,,9274747,
+69607152,69576527,0,False,residential,Bridle Path,143.106,2,12.2,,,,,,,,,9274747,
+69607626,69559365,0,False,secondary,Main Street,50.028,2,16.8,,40 mph,,,,,,,223615967,MA 119
+69607626,69601568,0,False,residential,Edward Road,385.082,2,9.1,,30 mph,,,,,,,9275095,
+69607626,69570634,0,False,secondary,Main Street,387.756,2,16.8,,40 mph,,,,,,,223615967,MA 119
+69607682,69594391,0,False,residential,Turnpike Road,1091.111,2,12.2,,,,,,,,,9275347,
+69607682,69545175,0,False,residential,Turnpike Road,792.947,2,12.2,,,,,,,,,9275347,
+69607682,69609313,0,False,residential,Barker Hill Road,437.041,2,12.2,,,,,,,,,9275356,
+69608034,69602648,0,False,secondary,Main Street,612.943,2,15.2,,,,,,,,,283029906,MA 119
+69608034,69616259,0,False,secondary,Main Street,567.085,2,15.2,,,,,,,,,283029906,MA 119
+69608442,69569366,0,False,primary,Brookline Road,1516.805,2,15.2,,35 mph,,,,,,,9274769,MA 13
+69608442,69585019,0,False,residential,North End Road,899.074,1,12.2,,30 mph,,,,,,,287740867,
+69608535,69594400,0,False,residential,Ripple Road,156.522,2,9.1,,,,,,,,,9275301,
+69609313,69565011,0,False,residential,Dudley Road,490.73,2,12.2,,,,,,,,,9275187,
+69609313,69537131,0,False,residential,Dudley Road,147.637,2,12.2,,,,,,,,,9275187,
+69609313,69562636,0,False,residential,Barker Hill Road,270.472,2,12.2,,,,,,,,,9275356,
+69609313,69607682,0,False,residential,Barker Hill Road,437.041,2,12.2,,,,,,,,,9275356,
+69611157,69546790,0,False,residential,School Street,242.425,,,,,,,,,,,428801700,
+69611157,69524856,0,False,residential,School Street,267.318,,,,,,,,,,,428801700,
+69611157,5652174416,0,False,residential,Public Works Road,291.161,,,,,,,,,,,457492386,
+69611299,69533710,0,False,residential,Ball Road,16.003,1,12.2,,,,,,,,,9275411,
+69611336,69597609,0,False,residential,Adams Road,223.976,2,12.2,,,,,,,,,9275079,
+69611336,69526471,0,False,residential,Adams Road,1007.466,2,12.2,,,,,,,,,9275079,
+69611336,69566939,0,False,residential,Dix Street,155.838,2,12.2,,,,,,,,,9275247,
+69612055,69537773,0,False,residential,Mill Street,243.968,2,12.2,,,,,,,,,9275439,
+69612594,69523089,0,False,tertiary,Proctor Road,828.681,1,12.2,,35 mph,,,,,,,9274779,
+69612871,69538638,0,False,residential,Smith Street,23.675,2,12.2,,,,,,,,,9275264,
+69612871,69522553,0,False,residential,Highland Street,27.904,2,12.2,,,,,,,,,9275367,
+69612871,69587630,0,False,residential,Highland Street,612.923,2,12.2,,,,,,,,,9275367,
+69614724,69578716,0,False,residential,Turnpike Road,39.531,2,12.2,,,,,,,,,9275347,
+69614724,69605750,0,False,residential,Turnpike Road,51.272,2,12.2,,,,,,,,,9275347,
+69614724,69558990,0,False,residential,Squanicook Terrace,304.939,2,12.2,,,,,,,,,9275473,
+69615778,69607152,0,False,residential,Fox Run,543.915,2,9.1,,,,,,,,,9274738,
+69615778,69568358,0,False,residential,Old Turnpike Road,749.539,2,12.2,,,,,,,,,9275267,
+69615778,69605108,0,False,residential,Old Turnpike Road,136.506,2,12.2,,,,,,,,,9275267,
+69616138,69576991,0,False,residential,Old Meeting House Road,199.445,1,9.1,,,,,,,,,9274801,
+69616138,69518276,0,False,secondary,Main Street,480.631,2,16.8,,45 mph,,,,,,,290262130,MA 119
+69616138,69535100,0,False,secondary,Main Street,616.109,2,16.8,,"['35 mph', '45 mph']",,,,,,,"[290262129, 290262130]",MA 119
+69616259,69589023,0,False,residential,Kaneohe Court,228.35,2,12.2,,,,,,,,,9275459,
+69616259,69608034,0,False,secondary,Main Street,567.085,2,15.2,,,,,,,,,283029906,MA 119
+69617444,69519769,0,False,residential,Kimplen Court,115.194,,,,,,,,,,,9274965,
+2319146795,69526471,0,False,residential,Highland Street,92.577,2,12.2,,,,,,,,,9275367,
+2319146795,69531404,0,False,residential,Highland Street,363.631,2,12.2,,,,,,,,,9275367,
+2319146795,4536303080,0,False,residential,Coppersmith Way,213.308,,,,,,,,,,,222971945,
+2319146805,2319146805,0,False,residential,Coppersmith Way,123.594,,,,,,,,,,,222971945,
+2319146805,2319146805,1,False,residential,Coppersmith Way,123.594,,,,,,,,,,,222971945,
+2319146805,2319146816,0,False,residential,Coppersmith Way,66.395,,,,,,,,,,,222971945,
+2319146816,2319146805,0,False,residential,Coppersmith Way,66.395,,,,,,,,,,,222971945,
+2319146816,4536303080,0,False,residential,Coppersmith Way,53.188,,,,,,,,,,,222971945,
+2319146816,2319146822,0,False,residential,Lois Lane,127.747,,,,,,,,,,,222971946,
+2319146822,2319146816,0,False,residential,Lois Lane,127.747,,,,,,,,,,,222971946,
+2589061492,2589061492,0,False,residential,Peter J Drive,71.073,,,,,,,,,,,252888731,
+2589061492,2589061492,1,False,residential,Peter J Drive,71.073,,,,,,,,,,,252888731,
+2589061492,2589061532,0,False,residential,Peter J Drive,185.207,,,,,,,,,,,252888732,
+2589061532,5652174416,0,False,residential,Dudley Road,1179.297,2,12.2,,,,,,,,,9275187,
+2589061532,69525175,0,False,residential,Dudley Road,474.305,2,12.2,,,,,,,,,9275187,
+2589061532,2589061492,0,False,residential,Peter J Drive,185.207,,,,,,,,,,,252888732,
+4536303080,4536303081,0,False,residential,Penny Lane,17.327,,,,,,,,,,,457492385,
+4536303080,2319146816,0,False,residential,Coppersmith Way,53.188,,,,,,,,,,,222971945,
+4536303080,2319146795,0,False,residential,Coppersmith Way,213.308,,,,,,,,,,,222971945,
+4536303081,4536303080,0,False,residential,Penny Lane,17.327,,,,,,,,,,,457492385,
+5205094516,5205094516,0,False,residential,Kristopher Lane,74.055,2,9.1,,,,,,,,,9275466,
+5205094516,5205094516,1,False,residential,Kristopher Lane,74.055,2,9.1,,,,,,,,,9275466,
+5205094516,69591743,0,False,residential,Kristopher Lane,137.07,2,9.1,,,,,,,,,9275466,
+5652133938,69590838,0,True,residential,Brookline Street,27.949,2,15.2,,,,,,,,,9275118,
+5652133938,5652174378,0,False,residential,Brookline Street,164.876,2,15.2,,,,,,,,,592146138,
+5652174377,5652174378,0,False,residential,Brookline Street,18.042,2,15.2,,,,,,,,,592151259,
+5652174377,69557140,0,False,primary,Highland Street,38.274,2,12.2,,,,,,,,,9275363,MA 13
+5652174377,69606786,0,False,primary,Highland Street,70.295,2,12.2,,,,,,,,,9275363,MA 13
+5652174378,69557140,0,False,residential,Brookline Street,40.067,2,15.2,,,,,,,,,592146138,
+5652174378,5652174377,0,False,residential,Brookline Street,18.042,2,15.2,,,,,,,,,592151259,
+5652174378,5652133938,0,False,residential,Brookline Street,164.876,2,15.2,,,,,,,,,592146138,
+5652174396,5652174399,0,False,primary,"['Brookline Street', 'Brookline Road']",23.458,2,15.2,,35 mph,,,,,,,"[9274769, 592151260]",MA 13
+5652174396,69529926,0,False,primary,Brookline Street,264.729,2,15.2,,,,,yes,,,,"[419548977, 592151260, 592151261]",MA 13
+5652174396,69519769,0,False,residential,Cross Street,199.138,2,9.1,,,,,yes,,,,"[592151264, 9275285, 592151263]",
+5652174399,69546790,0,False,primary,Brookline Road,235.979,2,15.2,,35 mph,,,,,,,9274769,MA 13
+5652174399,5652174396,0,False,primary,"['Brookline Street', 'Brookline Road']",23.458,2,15.2,,35 mph,,,,,,,"[9274769, 592151260]",MA 13
+5652174399,69566939,0,False,residential,Meadow Road,1105.904,2,9.1,,,,,,,,,592151262,
+5652174416,69584681,0,False,residential,Dudley Road,70.238,2,12.2,,,,,,,,,9275187,
+5652174416,2589061532,0,False,residential,Dudley Road,1179.297,2,12.2,,,,,,,,,9275187,
+5652174416,69611157,0,False,residential,Public Works Road,291.161,,,,,,,,,,,457492386,
