@@ -66,22 +66,22 @@ The accident records for all such states have been obtained from the data publis
 
 Here is a summary of the records collected:
 
-1. **[Delaware (DE)](https://data.delaware.gov/Transportation/Public-Crash-Data-Map/3rrv-8pfj):** 458,285 accident records from Jan 1 2009 to Oct 31 2022
+1. **[Delaware (DE)](https://data.delaware.gov/Transportation/Public-Crash-Data-Map/3rrv-8pfj):** 458,282 accident records from Jan 1 2009 to Oct 31 2022
 
-2. **[Iowa (IA)](https://icat.iowadot.gov/#):** 556,698 accident records from Jan 1 2013 to May 1 2023
+2. **[Iowa (IA)](https://icat.iowadot.gov/#):** 556,418 accident records from Jan 1 2013 to May 1 2023
 
 
 3. **[Illinois (IL)](https://gis-idot.opendata.arcgis.com/search?collection=Dataset&q=Crashes):** 2,980,702 accident records from Jan 1 2012 to Dec 31 2021
 
 4. **[Maryland (MD)](https://opendata.maryland.gov/Public-Safety/Maryland-Statewide-Vehicle-Crashes/65du-s3qu):** 878,343 accident records from Jan 1 2015 to Dec 31 2022
 
-5. **[Massachusetts (MA)]():** 4,247,532 accident records from Jan 1 2002 to Dec 31 2022 except the years 2018, 2019
+5. **[Massachusetts (MA)]():** 3,296,566 accident records from Jan 1 2002 to Dec 31 2022 except the years 2018, 2019
 
-6. **[Minnesota (MN)](https://mncrash.state.mn.us/Pages/AdHocSearch.aspx):** 514,542 accident records from Dec 31 2015 to May 1 2023
+6. **[Minnesota (MN)](https://mncrash.state.mn.us/Pages/AdHocSearch.aspx):** 513,969 accident records from Dec 31 2015 to May 1 2023
 
-7. **[Montana (MT)](https://www.mdt.mt.gov/publications/datastats/crashdata.aspx):** 99,934 accident records from Jan 2016 to Dec 2020
+7. **[Montana (MT)](https://www.mdt.mt.gov/publications/datastats/crashdata.aspx):** 99,939 accident records from Jan 2016 to Dec 2020
 
-8. **[Nevada (NV)](https://ndot.maps.arcgis.com/apps/webappviewer/index.html?id=00d23dc547eb4382bef9beabe07eaefd):** 237,388 accident records from Jan 1 2016 to Dec 31 2020
+8. **[Nevada (NV)](https://ndot.maps.arcgis.com/apps/webappviewer/index.html?id=00d23dc547eb4382bef9beabe07eaefd):** 237,338 accident records from Jan 1 2016 to Dec 31 2020
 
 9. **[Vermont (VT)]():** 
 
@@ -94,7 +94,7 @@ Here is a summary of the records collected:
 The Traffic data is extracted from the data published by the Department of Transportation (DOT) of every state.
 
 
-1. **[Delaware (DE)]():** 
+1. **[Delaware (DE)](https://deldot.gov/search/):** Data available from 2009 to 2019 in pdfs and .kmz files
 
 2. **[Iowa (IA)]():** 
 
@@ -102,7 +102,9 @@ The Traffic data is extracted from the data published by the Department of Trans
 
 4. **[Maryland (MD)]():** 
 
-5. **[Massachusetts (MA)]():** 
+5. **[Massachusetts (MA)](https://mhd.public.ms2soft.com/tcds/tsearch.asp?loc=Mhd&mod=):** 
+  
+    Traffic counts at 9,444 locations. Only the latest data is available with the corresponding year. The yearly growth_rate for different road types has been taken from [here](https://www.mass.gov/lists/massdot-historical-traffic-volume-data), which is averaged over the years for every road type. The historical data is then extrapolated for all the years.
 
 6. **[Minnesota (MN)]():** 
 
@@ -110,7 +112,7 @@ The Traffic data is extracted from the data published by the Department of Trans
 
 8. **[Nevada (NV)]():** 
 
-9. **[Vermont (VT)]():** 
+9.  **[Vermont (VT)]():** 
 
 10. **[New York City (NYC)](https://data.cityofnewyork.us/Transportation/Automated-Traffic-Volume-Counts/7ym2-wayt):**
 New York City Department of Transportation (NYC DOT) uses Automated Traffic Recorders (ATR) to collect traffic sample volume counts at bridge crossings and roadways.These counts do not cover the entire year, and the number of days counted per location may vary from year to year.
