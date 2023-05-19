@@ -18,10 +18,14 @@ Our results demonstrate the potential of GNNs in predicting accidents and traffi
 
 ## Data
 
-We have collected 3 types of data to create the graph:
+We have collected/extracted the following data to create the graph for each state:
 - Road Network / Street Network
 - Accident Records
 - Traffic Volume
+- Weather Features
+- Inherent Graph Features
+
+
 
 
 [Download link](https://drive.google.com/drive/folders/1PHIkgoKkugj6rMvkbjxpJbmzVn69dm8e)
@@ -71,7 +75,7 @@ Here is a summary of the records collected:
 
 4. **[Maryland (MD)](https://opendata.maryland.gov/Public-Safety/Maryland-Statewide-Vehicle-Crashes/65du-s3qu):** 878,343 accident records from Jan 1 2015 to Dec 31 2022
 
-5. **Massachusetts (MA):** 
+5. **[Massachusetts (MA)]():** 4,247,532 accident records from Jan 1 2002 to Dec 31 2022 except the years 2018, 2019
 
 6. **[Minnesota (MN)](https://mncrash.state.mn.us/Pages/AdHocSearch.aspx):** 514,542 accident records from Dec 31 2015 to May 1 2023
 
@@ -89,9 +93,60 @@ Here is a summary of the records collected:
 
 The Traffic data is extracted from the data published by the Department of Transportation (DOT) of every state.
 
-- **NYC [(Link)](https://data.cityofnewyork.us/Transportation/Automated-Traffic-Volume-Counts/7ym2-wayt):**
+
+1. **[Delaware (DE)]():** 
+
+2. **[Iowa (IA)]():** 
+
+3. **[Illinois (IL)]():** 
+
+4. **[Maryland (MD)]():** 
+
+5. **[Massachusetts (MA)]():** 
+
+6. **[Minnesota (MN)]():** 
+
+7. **[Montana (MT)]():** 
+
+8. **[Nevada (NV)]():** 
+
+9. **[Vermont (VT)]():** 
+
+10. **[New York City (NYC)](https://data.cityofnewyork.us/Transportation/Automated-Traffic-Volume-Counts/7ym2-wayt):**
 New York City Department of Transportation (NYC DOT) uses Automated Traffic Recorders (ATR) to collect traffic sample volume counts at bridge crossings and roadways.These counts do not cover the entire year, and the number of days counted per location may vary from year to year.
 The dataset contains traffic counts as defined above from 2011 to 2019.
+
+
+### Weather:
+
+The weather data is extracted using meteostat api. For every node (intersection) in the state, the historical weather data is extracted corresponding to the data recorded at the nearest station to that node. Since this data is temporal in nature and is available at every node, we believe that the weather features would be important for our task.
+
+The following features are extracted at a Month level:
+
+- tavg: Average Surface Temperature
+- tmin: Minimum Surface Temperature
+- tmax: Maximum Surface Temperature
+- prcp: Total Precipitation
+- wspd: Avg Wind Speed
+- pres: Sea Level Air Pressure
+
+
+After extracting the historical data for a particular node, the feature data for a few months is not available. The following methodology has been adopted to impute this missing data:
+
+  - Replace with the feature data of the same month the following year
+  - Replace with the feature data of the same month the previous year
+  - Replace with the average of previous month and next month feature data
+
+
+### Inherent Graph Features:
+
+The following features have been calculated which might help in improving the performance of the model:
+
+- Node Degree
+- Betweenness Centrality
+- Node Position
+  - Latitude
+  - Longitude
 
 
 
@@ -108,28 +163,46 @@ All the above datasets need to be combined in order to create the final graph fo
     - Using the above methodology, we iterate over all the streets and map the accident to the street where the difference of distances (AB - (AC+BC)) is the lowest.
 
 - **Traffic Data, Road Network:**
-    - Traffic Data contains the names of the streets defined by Department of Transportation
-    - Road Network has the names of streets given by OpenStreetMaps
-    - The names have to be manually mapped to combine both these data sources
+    - Traffic Data contains the names of the streets defined by Department of Transportation. Road Network has the names of streets given by OpenStreetMaps. These names have to be mapped to combine both these data sources
+    - Extract the lat-lon coordinates from the road names in the traffic data
+    - Apply the nearest street mapping methodology described above to map the street where the traffic was recorded to the edge 
+    - Extract the county name from the lat-lon coordinate
+    - Calculate the AADT value of a particular county by averaging the AADT values of all the streets in that county
+  - Assign this value to all the streets in that county
+  - Repeat the above steps for all counties, finally getting the AADT values for all streets in the state
+  
+- **Weather Data, Road Network:**
+
+  - From the lat lon coordinate of a partular node, extract the historical weather features using the methodology explained above.
+  - Repeat this exercise for all nodes
 
 
 ## Features
 
 ### Node Features
 
-There are 2 node features:
+These are the following node features:
 
 - Latitude
 - Longitude
+- Node Degree
+- Betweenness Centrality
+- Average Surface Temperature
+- Max Surface Temperature
+- Min Surface Temperature
+- Total Precipitation
+- Avg Wind Speed
+- Sea Level Air Pressure
 
 
 ### Edge Features
 
-There are - edge features:
+These are the following edge features:
 
 - oneway
 - highway
 - length
+- Annual Average Daily Traffic (AADT)
 
 ## Baseline Models
 
