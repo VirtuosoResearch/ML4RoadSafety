@@ -1,21 +1,5 @@
 # Learning on Traffic Networks for Road Safety
 
-We present a methodology for predicting road accidents on street networks using Graph Neural Networks (GNNs). Our method defines the edges of the network as the streets and the nodes as the intersections, allowing us to model the complex dependencies among road segments and their surrounding areas. To test our approach, we gathered traffic and accident datasets from various states across the United States through public sources and aligned each record with the corresponding edge of the network to set up the prediction problem.
-
-Our primary objective is to anticipate the likelihood of an accident occurring at a given road segment, given past road conditions. Additionally, we address the spatial-temporal challenge of predicting traffic volume on the street network. Our GNN-based approach shows promising results demonstrating its potential to improve road safety measures and traffic management systems.
-
-We believe our approach can have practical applications in urban planning, transportation engineering, and public safety, and we hope that our results can pave the way for further research in this area.
-
-## Introduction
-
-Road accidents not only cause immense human suffering but also have a significant economic impact, with billions of dollars lost each year due to medical expenses, lost productivity, and property damage. To address this challenge, several states have adopted the Vision Zero agenda, a goal to eliminate traffic fatalities and serious injuries. Machine learning techniques such as Graph Neural Networks (GNNs) can play a vital role in achieving this objective by helping to predict the likelihood of accidents and prevent them from happening.
-
-In this project, we utilize GNNs for predicting road accidents on street networks. By defining the edges of the network as the streets and the nodes as the intersections, we model the complex dependencies among road segments and their surrounding areas, enabling us to make accurate predictions. We align traffic and accident datasets from various states across the United States to the corresponding edge of the network to set up the prediction problem and train our model to anticipate the likelihood of an accident at a given road segment, based on past road conditions.
-
-Our approach not only addresses the practical challenge of predicting accidents but also contributes to the Vision Zero agenda of these states. By providing insights and actionable information to city planners and policymakers, our approach helps them to make informed decisions to reduce the likelihood of accidents and improve road safety. Moreover, our approach also addresses the spatial-temporal challenge of predicting traffic volume on the street network, which is critical in developing effective traffic management strategies.
-
-Our results demonstrate the potential of GNNs in predicting accidents and traffic volume, providing a promising avenue for improving public safety and achieving the Vision Zero agenda. We believe that our approach can have practical applications in urban planning, transportation engineering, and public safety, and we hope that our results can inspire further research and development in this area.
-
 ## Data
 
 We have collected/extracted the following data to create the graph for each state:
