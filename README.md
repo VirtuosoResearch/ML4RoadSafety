@@ -1,9 +1,9 @@
-# Learning on Traffic Networks for Road Safety
+# Graph Learning for Predicting Safety on the Road
 
 ## Data
 
 We have collected/extracted the following data to create the graph for each state:
-- Road Network / Street Network
+- Road (Street) Networks
 - Accident Records
 - Traffic Volume
 - Weather Features
