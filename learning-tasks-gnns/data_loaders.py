@@ -53,6 +53,23 @@ def load_monthly_data(data, data_dir = "./data", state_name = "MA", num_negative
     return pos_edges, pos_edge_weights, neg_edges, node_features, edge_features
 
 
+def load_static_edge_features(data_dir = "./data", state_name = "MA"):
+    edge_feature_dict = torch.load(os.path.join(data_dir, f"{state_name}/Edges/edge_features.pt"))
+
+    edge_lengths = edge_feature_dict['length'].coalesce().values()
+    length_mean = edge_lengths[~torch.isnan(edge_lengths)].mean()
+    edge_lengths[torch.isnan(edge_lengths)] = length_mean
+    normalized_edge_lengths = (edge_lengths - length_mean) / torch.std(edge_lengths)
+
+    edge_features = []
+    for key in ['oneway', 'access_ramp', 'bus_stop', 'crossing', 'disused', 'elevator', 'escape', 'living_street', 'motorway', 'motorway_link', 'primary', 'primary_link', 'residential', 'rest_area', 'road', 'secondary', 'secondary_link', 'stairs', 'tertiary', 'tertiary_link', 'trunk', 'trunk_link', 'unclassified', 'unsurfaced']:
+        column_values = edge_feature_dict[key].coalesce().values()
+        column_values[torch.isnan(column_values)] = 0
+        edge_features.append(column_values)
+    edge_features.append(normalized_edge_lengths)
+    edge_features = torch.stack(edge_features, dim=1)
+    return edge_features
+
 def load_static_network(data_dir = "./data", state_name = "MA", 
                         feature_type = "verse", feature_name = "MA_ppr_128.npy"):
     # Load adjacency matrix
@@ -69,7 +86,6 @@ def load_static_network(data_dir = "./data", state_name = "MA",
         data.x = torch.Tensor(node_embeddings)
 
     return data
-
 
 def generate_accident_edges(accidents, years = [2002, 2013], months=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]):
     edges = []

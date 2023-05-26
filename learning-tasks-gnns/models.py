@@ -18,8 +18,8 @@ class LinkPredictor(torch.nn.Module):
         for lin in self.lins:
             lin.reset_parameters()
 
-    def forward(self, x_i, x_j):
-        x = x_i * x_j
+    def forward(self, x_i, x_j, edge_attr=None):
+        x = torch.cat([x_i, x_j], dim=1) if edge_attr is None else torch.cat([x_i, x_j, edge_attr], dim=1)
         for lin in self.lins[:-1]:
             x = lin(x)
             x = F.relu(x)

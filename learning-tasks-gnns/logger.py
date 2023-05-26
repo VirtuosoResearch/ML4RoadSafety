@@ -17,28 +17,24 @@ class Logger(object):
             argmax = result[:, 1].argmax().item()
             print(f'Run {run + 1:02d}:')
             print(f'Highest Train: {result[:, 0].max():.2f}')
-            print(f'Highest Valid: {result[:, 1].max():.2f}')
-            print(f'  Final Train: {result[argmax, 0]:.2f}')
-            print(f'   Final Test: {result[argmax, 2]:.2f}')
+            print(f'Valid: {result[:, 1].max():.2f}')
+            print(f'Test: {result[argmax, 2]:.2f}')
         else:
             result = 100 * torch.tensor(self.results)
 
             best_results = []
             for r in result:
-                train1 = r[:, 0].max().item()
+                train = r[:, 0].max().item()
                 valid = r[:, 1].max().item()
-                train2 = r[r[:, 1].argmax(), 0].item()
                 test = r[r[:, 1].argmax(), 2].item()
-                best_results.append((train1, valid, train2, test))
+                best_results.append((train, valid, test))
 
             best_result = torch.tensor(best_results)
 
             print(f'All runs:')
             r = best_result[:, 0]
-            print(f'Highest Train: {r.mean():.2f} ± {r.std():.2f}')
+            print(f'Train: {r.mean():.2f} ± {r.std():.2f}')
             r = best_result[:, 1]
-            print(f'Highest Valid: {r.mean():.2f} ± {r.std():.2f}')
+            print(f'Valid: {r.mean():.2f} ± {r.std():.2f}')
             r = best_result[:, 2]
-            print(f'  Final Train: {r.mean():.2f} ± {r.std():.2f}')
-            r = best_result[:, 3]
-            print(f'   Final Test: {r.mean():.2f} ± {r.std():.2f}')
+            print(f'Test: {r.mean():.2f} ± {r.std():.2f}')
