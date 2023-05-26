@@ -17,7 +17,8 @@ def load_monthly_data(data, data_dir = "./data", state_name = "MA", num_negative
     # Load accidents
     accidents = pd.read_csv(os.path.join(data_dir, f"{state_name}/accidents_monthly.csv"))
 
-    monthly_accidents = accidents[accidents["year"] == year][accidents["month"] == month]
+    monthly_accidents = accidents[accidents["year"] == year]
+    monthly_accidents = monthly_accidents[monthly_accidents["month"] == month]
     monthly_accidents = monthly_accidents[["node_1_idx", "node_2_idx", "acc_count", "year", "month"]].values
 
     pos_edges = torch.Tensor(monthly_accidents[:, :2])
