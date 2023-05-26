@@ -16,15 +16,19 @@ from torch_geometric.data import Data
 import torch_geometric.transforms as T
 
 data = Data(edge_index=edge_index)
-print(is_undirected(data.edge_index))
-data = T.ToUndirected()(data)
+# print(is_undirected(data.edge_index))
+# data = T.ToUndirected()(data)
 
 # %%
+import numpy as np
 import networkx as nx
 
-edge_list = data.edge_index.numpy()
-edge_list = [(edge_list[0, i], edge_list[1, i]) for i in range(edge_list.shape[1])]
+edge_list_numpy = data.edge_index.numpy()
+edge_list = [(edge_list_numpy[0, i], edge_list_numpy[1, i]) for i in range(edge_list_numpy.shape[1])]
 graph = nx.from_edgelist(edge_list)
+graph.add_nodes_from(list(range(data.num_nodes)))
+
+graph.number_of_nodes(), graph.number_of_edges()
 # %%
 from karateclub import DeepWalk
 
