@@ -12,9 +12,9 @@ class Identity(torch.nn.Module):
 
 class GNN(torch.nn.Module):
     def __init__(self, in_channels_node, in_channels_edge, hidden_channels,
-                 num_layer, dropout = 0, JK = "last", gnn_type = "gcn"):
+                 num_layers, dropout = 0, JK = "last", gnn_type = "gcn"):
         super(GNN, self).__init__()
-        self.num_layer = num_layer
+        self.num_layer = num_layers
         self.drop_ratio = dropout
         self.JK = JK
 
@@ -23,7 +23,7 @@ class GNN(torch.nn.Module):
         
         ###List of MLPs
         self.gnns = torch.nn.ModuleList()
-        for layer in range(num_layer):
+        for layer in range(num_layers):
             if layer == 0:
                 tmp_in_channels_node = in_channels_node
             else:
@@ -42,7 +42,7 @@ class GNN(torch.nn.Module):
 
         ###List of batchnorms
         self.batch_norms = torch.nn.ModuleList()
-        for _ in range(num_layer):
+        for _ in range(num_layers):
             self.batch_norms.append(torch.nn.BatchNorm1d(hidden_channels))
 
     def forward(self, x, edge_index, edge_attr):

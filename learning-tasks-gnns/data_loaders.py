@@ -74,7 +74,7 @@ def load_static_network(data_dir = "./data", state_name = "MA",
                         feature_type = "verse", feature_name = "MA_ppr_128.npy"):
     # Load adjacency matrix
     adj = torch.load(os.path.join(data_dir, f"{state_name}/adj_matrix.pt"))
-    edge_index = adj.coalesce().indices()
+    edge_index = adj.coalesce().indices().long()
 
     data = Data(edge_index=edge_index)
     # data = T.ToUndirected()(data)

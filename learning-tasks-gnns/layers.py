@@ -5,7 +5,7 @@ from torch_geometric.nn import global_add_pool, global_mean_pool, global_max_poo
 import torch.nn.functional as F
 from torch_scatter import scatter_add
 from torch_geometric.nn.inits import glorot, zeros
-
+from torch import Tensor
 
 class GCNConv(MessagePassing):
 
@@ -29,20 +29,21 @@ class GCNConv(MessagePassing):
 
     def forward(self, x, edge_index, edge_attr):
         #add self loops in the edge space
-        edge_index = add_self_loops(edge_index, num_nodes = x.size(0))
+        edge_index, _ = add_self_loops(edge_index, num_nodes = x.size(0))
+        # add features corresponding to self-loop edges.
+        if edge_attr is not None:
+            self_loop_attr = torch.zeros(x.size(0), edge_attr.size(1))
+            self_loop_attr = self_loop_attr.to(edge_attr.device).to(edge_attr.dtype)
+            edge_attr = torch.cat((edge_attr, self_loop_attr), dim = 0)
 
-        #add features corresponding to self-loop edges.
-        self_loop_attr = torch.zeros(x.size(0), edge_attr.size(1))
-        self_loop_attr = self_loop_attr.to(edge_attr.device).to(edge_attr.dtype)
-        edge_attr = torch.cat((edge_attr, self_loop_attr), dim = 0)
-
-        edge_embeddings = self.linear_edge(edge_attr)
+            edge_embeddings = self.linear_edge(edge_attr)
+        else:
+            edge_embeddings = None
 
         norm = self.norm(edge_index, x.size(0), x.dtype)
 
         x = self.linear_node(x)
-
-        return self.propagate(self.aggr, edge_index, x=x, edge_attr=edge_embeddings, norm = norm)
+        return self.propagate(edge_index, x=x, edge_attr=edge_embeddings, norm = norm)
 
     def message(self, x_j, edge_attr, norm):
-        return norm.view(-1, 1) * (x_j + edge_attr)
+        return norm.view(-1, 1) * (x_j + edge_attr) if edge_attr is not None else norm.view(-1, 1) * x_j
