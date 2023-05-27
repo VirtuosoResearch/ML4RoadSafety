@@ -1,6 +1,6 @@
 import torch
 import torch.nn.functional as F
-from layers import GCNConv
+from layers import GCNConv, GraphSAGEConv, GATConv, GINConv
 
 class Identity(torch.nn.Module):
 
@@ -32,11 +32,11 @@ class GNN(torch.nn.Module):
             if gnn_type == "gcn":
                 self.gnns.append(GCNConv(tmp_in_channels_node, in_channels_edge, hidden_channels))
             elif gnn_type == "gin":
-                self.gnns.append(GINConv(emb_dim, aggr = "add"))
-            elif gnn_type == "gat":
-                self.gnns.append(GATConv(emb_dim))
+                self.gnns.append(GINConv(tmp_in_channels_node, in_channels_edge, hidden_channels, aggr = "add"))
             elif gnn_type == "graphsage":
-                self.gnns.append(GraphSAGEConv(emb_dim))
+                self.gnns.append(GraphSAGEConv(tmp_in_channels_node, in_channels_edge, hidden_channels))
+            elif gnn_type == "gat":
+                self.gnns.append(GATConv(tmp_in_channels_node, in_channels_edge, hidden_channels))
             else:
                 raise ValueError("Undefined GNN type called.")
 
