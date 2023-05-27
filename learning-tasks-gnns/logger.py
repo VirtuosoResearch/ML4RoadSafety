@@ -19,6 +19,7 @@ class Logger(object):
             print(f'Highest Train: {result[:, 0].max():.2f}')
             print(f'Valid: {result[:, 1].max():.2f}')
             print(f'Test: {result[argmax, 2]:.2f}')
+            return result[:, 0].max(), result[:, 1].max(), result[argmax, 2]
         else:
             result = 100 * torch.tensor(self.results)
 

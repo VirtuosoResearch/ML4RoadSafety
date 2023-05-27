@@ -1,3 +1,4 @@
+import torch
 import numpy as np
 from sklearn.metrics import roc_auc_score, f1_score, average_precision_score
 
@@ -14,3 +15,26 @@ def eval_rocauc(y_pred_pos, y_pred_neg):
     ap = average_precision_score(y_true, y_pred)
 
     return {'ROC-AUC': rocauc, 'F1': f1, 'AP': ap}
+
+def eval_hits(y_pred_pos, y_pred_neg, K = 100, type_info = 'torch'):
+    '''
+        compute Hits@K
+        For each positive target node, the negative target nodes are the same.
+
+        y_pred_neg is an array.
+        rank y_pred_pos[i] against y_pred_neg for each i
+    '''
+
+    if len(y_pred_neg) < K:
+        return {'Hits@{}'.format(K): 1.}
+
+    if type_info == 'torch':
+        kth_score_in_negative_edges = torch.topk(y_pred_neg, K)[0][-1]
+        hitsK = float(torch.sum(y_pred_pos > kth_score_in_negative_edges).cpu()) / len(y_pred_pos)
+
+    # type_info is numpy
+    else:
+        kth_score_in_negative_edges = np.sort(y_pred_neg)[-K]
+        hitsK = float(np.sum(y_pred_pos > kth_score_in_negative_edges)) / len(y_pred_pos)
+
+    return {'Hits@{}'.format(K): hitsK}
