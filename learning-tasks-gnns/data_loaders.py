@@ -42,13 +42,17 @@ def load_monthly_data(data, data_dir = "./data", state_name = "MA", num_negative
     node_features = torch.Tensor(node_features.values)
 
     # load the edge features 
-    edge_feature_dict = torch.load(os.path.join(data_dir, f"{state_name}/Edges/edge_features_{year}_1.pt"))
+    edge_feature_dir = os.path.join(data_dir, f"{state_name}/Edges/edge_features_{year}_1.pt")
+    if os.path.exists(edge_feature_dir):
+        edge_feature_dict = torch.load(edge_feature_dir)
 
-    # for key in ['AADT']: edge_features = torch.stack(edge_features, dim=1)
-    column_values = edge_feature_dict['AADT'].coalesce().values()
-    column_values_mean = column_values[~torch.isnan(column_values)].mean()
-    column_values[torch.isnan(column_values)] = 0 if torch.isnan(column_values_mean) else column_values_mean
-    edge_features = column_values.view(-1, 1)
+        # for key in ['AADT']: edge_features = torch.stack(edge_features, dim=1)
+        column_values = edge_feature_dict['AADT'].coalesce().values()
+        column_values_mean = column_values[~torch.isnan(column_values)].mean()
+        column_values[torch.isnan(column_values)] = 0 if torch.isnan(column_values_mean) else column_values_mean
+        edge_features = column_values.view(-1, 1)
+    else:
+        edge_features = torch.zeros(data.edge_index.shape[1], 1)
 
     return pos_edges, pos_edge_weights, neg_edges, node_features, edge_features
 
@@ -63,8 +67,11 @@ def load_static_edge_features(data_dir = "./data", state_name = "MA"):
 
     edge_features = []
     for key in ['oneway', 'access_ramp', 'bus_stop', 'crossing', 'disused', 'elevator', 'escape', 'living_street', 'motorway', 'motorway_link', 'primary', 'primary_link', 'residential', 'rest_area', 'road', 'secondary', 'secondary_link', 'stairs', 'tertiary', 'tertiary_link', 'trunk', 'trunk_link', 'unclassified', 'unsurfaced']:
-        column_values = edge_feature_dict[key].coalesce().values()
-        column_values[torch.isnan(column_values)] = 0
+        if key not in edge_feature_dict: 
+            column_values = torch.zeros(edge_lengths.shape)
+        else:
+            column_values = edge_feature_dict[key].coalesce().values()
+            column_values[torch.isnan(column_values)] = 0
         edge_features.append(column_values)
     edge_features.append(normalized_edge_lengths)
     edge_features = torch.stack(edge_features, dim=1)

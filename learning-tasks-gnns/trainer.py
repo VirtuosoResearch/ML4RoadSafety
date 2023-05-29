@@ -102,7 +102,7 @@ class Trainer:
                 self.predictor(h[edge[0]], h[edge[1]], edge_attr[perm])
 
             # sampling from negative edges
-            neg_masks = np.random.choice(neg_edges.size(0), edge.size(1), replace=False)
+            neg_masks = np.random.choice(neg_edges.size(0), min(edge.size(1), neg_edges.size(0)), replace=False)
             edge = neg_edges[neg_masks].t() # torch.randint(0, x.size(0), edge.size(), dtype=torch.long, device=device)
             neg_out = self.predictor(h[edge[0]], h[edge[1]]) \
                 if edge_attr is None else \

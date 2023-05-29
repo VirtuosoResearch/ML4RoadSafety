@@ -14,7 +14,8 @@ import time
 '''
 TODO:
 - load static features
-- Write GCN encoder: while also taking the edge features into account
+- Fix training for GAT: out of memory
+- Add other graphs
 '''
 
 def main(args):
@@ -22,11 +23,11 @@ def main(args):
     device = f'cuda:{args.device}' if torch.cuda.is_available() else 'cpu'
     device = torch.device(device)
     
-    data = load_static_network(data_dir="./data", state_name="MA", 
+    data = load_static_network(data_dir="./data", state_name=args.state_name, 
                                feature_type=args.node_feature_type, 
                                feature_name = args.node_feature_name)
     if args.load_static_edge_features:
-        data.edge_attr = load_static_edge_features(data_dir="./data", state_name="MA")
+        data.edge_attr = load_static_edge_features(data_dir="./data", state_name=args.state_name)
     
     in_channels_node = data.x.shape[1] if data.x is not None else 0
     in_channels_node = (in_channels_node + 6) if args.load_dynamic_node_features else in_channels_node
@@ -56,7 +57,7 @@ def main(args):
         optimizer = torch.optim.Adam(predictor.parameters(), lr=args.lr)
 
         trainer = Trainer(model, predictor, data, optimizer,
-                        data_dir="./data", state_name="MA",
+                        data_dir="./data", state_name=args.state_name,
                         train_years = args.train_years,
                         valid_years = args.valid_years,
                         test_years = args.test_years,
@@ -79,7 +80,7 @@ def main(args):
             results[key].append(log[key])
 
     for key in results.keys():
-        print("{} : {:.2f} +/- {:.2f}".format(key, 100 * np.mean(results[key]), 100 * np.std(results[key])))
+        print("{} : {:.2f} +/- {:.2f}".format(key, np.mean(results[key]), np.std(results[key])))
     
     end = time.time()
     print("Time taken: ", end - start)
@@ -87,6 +88,8 @@ def main(args):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='')
+    parser.add_argument('--state_name', type=str, default="MA")
+
     parser.add_argument('--device', type=int, default=0)
     parser.add_argument('--log_steps', type=int, default=1)
 
