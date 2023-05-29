@@ -1,7 +1,7 @@
 import torch
 import numpy as np
 from sklearn.metrics import roc_auc_score, f1_score, average_precision_score
-
+import torch.nn.functional as F
 def eval_rocauc(y_pred_pos, y_pred_neg):
     
     y_pred_pos_numpy = y_pred_pos.cpu().numpy()
@@ -38,3 +38,8 @@ def eval_hits(y_pred_pos, y_pred_neg, K = 100, type_info = 'torch'):
         hitsK = float(np.sum(y_pred_pos > kth_score_in_negative_edges)) / len(y_pred_pos)
 
     return {'Hits@{}'.format(K): hitsK}
+
+def eval_mae(preds, target):
+    mae = F.l1_loss(preds, target, reduction='mean')
+    mse = F.mse_loss(preds, target, reduction='mean')
+    return {"MAE": mae, "MSE": mse}

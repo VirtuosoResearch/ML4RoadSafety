@@ -5,7 +5,7 @@ import torch.nn.functional as F
 from torch.utils.data import DataLoader
 from logger import Logger
 
-from trainer import Trainer
+from trainers import *
 from models import LinkPredictor, GNN, Identity
 from evaluators import eval_rocauc, eval_hits
 from data_loaders import load_network_with_accidents, load_static_network, load_static_edge_features
@@ -13,9 +13,9 @@ import time
 
 '''
 TODO:
-- load static features
+- Fix load static features
 - Fix training for GAT: out of memory
-- Add other graphs
+- Add regression tasks
 '''
 
 def main(args):
@@ -46,7 +46,8 @@ def main(args):
                               hidden_channels=args.hidden_channels, 
                               out_channels=1,
                               num_layers = args.num_predictor_layers,
-                              dropout=args.dropout).to(device)
+                              dropout=args.dropout,
+                              if_regression=args.if_regression).to(device)
 
     # compute mean and std of node & edge features
     node_feature_mean, node_feature_std, edge_feature_mean, edge_feature_std = None, None, None, None
@@ -56,21 +57,37 @@ def main(args):
         predictor.reset_parameters()
         optimizer = torch.optim.Adam(predictor.parameters(), lr=args.lr)
 
-        trainer = Trainer(model, predictor, data, optimizer,
-                        data_dir="./data", state_name=args.state_name,
-                        train_years = args.train_years,
-                        valid_years = args.valid_years,
-                        test_years = args.test_years,
-                        epochs=args.epochs,
-                        batch_size = args.batch_size,
-                        eval_steps=args.eval_steps,
-                        device = device,
-                        use_dynamic_node_features=args.load_dynamic_node_features,
-                        use_dynamic_edge_features=args.load_dynamic_edge_features,
-                        log_metrics=['ROC-AUC', 'F1', 'AP', 'Hits@100'],
-                        node_feature_mean=node_feature_mean, node_feature_std=node_feature_std,
-                        edge_feature_mean=edge_feature_mean, edge_feature_std=edge_feature_std,)
-        
+        if args.if_regression:
+            trainer = RegressionTrainer(model, predictor, data, optimizer,
+                            data_dir="./data", state_name=args.state_name,
+                            train_years = args.train_years,
+                            valid_years = args.valid_years,
+                            test_years = args.test_years,
+                            epochs=args.epochs,
+                            batch_size = args.batch_size,
+                            eval_steps=args.eval_steps,
+                            device = device,
+                            use_dynamic_node_features=args.load_dynamic_node_features,
+                            use_dynamic_edge_features=args.load_dynamic_edge_features,
+                            log_metrics=['MAE', 'MSE'],
+                            node_feature_mean=node_feature_mean, node_feature_std=node_feature_std,
+                            edge_feature_mean=edge_feature_mean, edge_feature_std=edge_feature_std,)
+        else:
+            trainer = Trainer(model, predictor, data, optimizer,
+                            data_dir="./data", state_name=args.state_name,
+                            train_years = args.train_years,
+                            valid_years = args.valid_years,
+                            test_years = args.test_years,
+                            epochs=args.epochs,
+                            batch_size = args.batch_size,
+                            eval_steps=args.eval_steps,
+                            device = device,
+                            use_dynamic_node_features=args.load_dynamic_node_features,
+                            use_dynamic_edge_features=args.load_dynamic_edge_features,
+                            log_metrics=['ROC-AUC', 'F1', 'AP', 'Hits@100'],
+                            node_feature_mean=node_feature_mean, node_feature_std=node_feature_std,
+                            edge_feature_mean=edge_feature_mean, edge_feature_std=edge_feature_std,)
+            
         log = trainer.train()
         node_feature_mean, node_feature_std, edge_feature_mean, edge_feature_std = trainer.get_feature_stats()
 
@@ -100,6 +117,7 @@ if __name__ == "__main__":
     parser.add_argument('--input_channels', type=int, default=128)
     parser.add_argument('--hidden_channels', type=int, default=256)
     parser.add_argument('--dropout', type=float, default=0.0)
+    parser.add_argument('--if_regression', action='store_true')
 
     parser.add_argument('--batch_size', type=int, default=16*1024)
     parser.add_argument('--lr', type=float, default=0.01)

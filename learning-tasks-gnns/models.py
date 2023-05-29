@@ -74,7 +74,7 @@ class GNN(torch.nn.Module):
 
 class LinkPredictor(torch.nn.Module):
     def __init__(self, in_channels, hidden_channels, out_channels, num_layers,
-                 dropout):
+                 dropout, if_regression = False):
         super(LinkPredictor, self).__init__()
 
         self.lins = torch.nn.ModuleList()
@@ -84,6 +84,7 @@ class LinkPredictor(torch.nn.Module):
         self.lins.append(torch.nn.Linear(hidden_channels, out_channels))
 
         self.dropout = dropout
+        self.if_regression = if_regression
 
     def reset_parameters(self):
         for lin in self.lins:
@@ -96,5 +97,7 @@ class LinkPredictor(torch.nn.Module):
             x = F.relu(x)
             x = F.dropout(x, p=self.dropout, training=self.training)
         x = self.lins[-1](x)
+        if self.if_regression:
+            return x
         return torch.sigmoid(x)
     
