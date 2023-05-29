@@ -1,2 +1,3 @@
 from trainers.trainer import Trainer
-from trainers.regression_trainer import RegressionTrainer
+from trainers.regression_trainer import AccidentRegressionTrainer
+from trainers.traffic_volume_trainer import VolumeRegressionTrainer

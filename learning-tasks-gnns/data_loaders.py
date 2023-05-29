@@ -31,6 +31,7 @@ def load_monthly_data(data, data_dir = "./data", state_name = "MA", num_negative
     neg_mask = np.logical_not(np.isin(all_edges, pos_edges.numpy()).all(axis=1))
     neg_edges = all_edges[neg_mask]
     rng = np.random.default_rng(year * 12 + month)
+    num_negative_edges = max(num_negative_edges, pos_edges.shape[0])
     neg_edges = neg_edges[rng.choice(neg_edges.shape[0], num_negative_edges, replace=False)]
     neg_edges = torch.Tensor(neg_edges).type(torch.int64)
 
@@ -56,6 +57,38 @@ def load_monthly_data(data, data_dir = "./data", state_name = "MA", num_negative
 
     return pos_edges, pos_edge_weights, neg_edges, node_features, edge_features
 
+def load_yearly_data(data_dir = "./data", state_name = "MA", year=2022):
+    '''
+    Return: 
+        Valid traffic volume data for a year
+        Average the node features over 12 months in the year
+    '''
+    # load the edge features 
+    edge_feature_dir = os.path.join(data_dir, f"{state_name}/Edges/edge_features_{year}_1.pt")
+    if not os.path.exists(edge_feature_dir):
+        raise ValueError("Edge features not found!")
+    
+    edge_feature_dict = torch.load(edge_feature_dir)
+    edge_indices =  edge_feature_dict['AADT'].coalesce().indices()
+    edge_weights = edge_feature_dict['AADT'].coalesce().values()
+    mask = ~torch.isnan(edge_weights)
+    edge_indices = edge_indices[:, mask]
+    edge_indices = edge_indices.type(torch.int64).T
+    edge_weights = edge_weights[mask]/1000
+
+    # load the node features of the month
+    node_features = []
+    for month in range(1, 13):
+        month_node_features = pd.read_csv(os.path.join(data_dir, f"{state_name}/Nodes/node_features_{year}_{month}.csv"))
+        month_node_features = month_node_features[["tavg", "tmin", "tmax", "prcp", "wspd", "pres"]]
+        month_node_features = month_node_features.fillna(month_node_features.mean(axis=0))
+        month_node_features = month_node_features.fillna(0)
+        month_node_features = torch.Tensor(month_node_features.values)
+        node_features.append(month_node_features)
+    node_features = torch.stack(node_features, dim=1)
+    node_features = node_features.mean(dim=1)
+
+    return edge_indices, edge_weights, node_features
 
 def load_static_edge_features(data_dir = "./data", state_name = "MA"):
     edge_feature_dict = torch.load(os.path.join(data_dir, f"{state_name}/Edges/edge_features.pt"))

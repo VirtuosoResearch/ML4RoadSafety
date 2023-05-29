@@ -6,8 +6,7 @@ from torch.utils.data import DataLoader
 import numpy as np
 from evaluators import eval_mae
 
-
-class RegressionTrainer(Trainer):
+class AccidentRegressionTrainer(Trainer):
 
     def __init__(self, model, predictor, data, optimizer, 
                  data_dir, state_name, train_years, valid_years, test_years, 

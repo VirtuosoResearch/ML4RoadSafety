@@ -13,9 +13,9 @@ import time
 
 '''
 TODO:
+- Add volume prediction tasks
 - Fix load static features
 - Fix training for GAT: out of memory
-- Add regression tasks
 '''
 
 def main(args):
@@ -42,12 +42,13 @@ def main(args):
                     num_layers=args.num_gnn_layers, dropout=args.dropout,
                     JK = args.jk_type, gnn_type = args.encoder).to(device)
     feature_channels = in_channels_node if args.encoder == "none" else args.hidden_channels
+    if_regression = args.train_accident_regression or args.train_volume_regression
     predictor = LinkPredictor(in_channels=feature_channels*2 + in_channels_edge, 
                               hidden_channels=args.hidden_channels, 
                               out_channels=1,
                               num_layers = args.num_predictor_layers,
                               dropout=args.dropout,
-                              if_regression=args.if_regression).to(device)
+                              if_regression=if_regression).to(device)
 
     # compute mean and std of node & edge features
     node_feature_mean, node_feature_std, edge_feature_mean, edge_feature_std = None, None, None, None
@@ -57,8 +58,23 @@ def main(args):
         predictor.reset_parameters()
         optimizer = torch.optim.Adam(predictor.parameters(), lr=args.lr)
 
-        if args.if_regression:
-            trainer = RegressionTrainer(model, predictor, data, optimizer,
+        if args.train_volume_regression:
+            trainer = VolumeRegressionTrainer(model, predictor, data, optimizer,
+                            data_dir="./data", state_name=args.state_name,
+                            train_years = args.train_years,
+                            valid_years = args.valid_years,
+                            test_years = args.test_years,
+                            epochs=args.epochs,
+                            batch_size = args.batch_size,
+                            eval_steps=args.eval_steps,
+                            device = device,
+                            use_dynamic_node_features=args.load_dynamic_node_features,
+                            use_dynamic_edge_features=args.load_dynamic_edge_features,
+                            log_metrics=['MAE', 'MSE'],
+                            node_feature_mean=node_feature_mean, node_feature_std=node_feature_std,
+                            edge_feature_mean=edge_feature_mean, edge_feature_std=edge_feature_std,)
+        elif args.train_accident_regression:
+            trainer = AccidentRegressionTrainer(model, predictor, data, optimizer,
                             data_dir="./data", state_name=args.state_name,
                             train_years = args.train_years,
                             valid_years = args.valid_years,
@@ -105,6 +121,9 @@ def main(args):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='')
+    parser.add_argument('--train_accident_regression', action='store_true')
+    parser.add_argument('--train_volume_regression', action='store_true')
+
     parser.add_argument('--state_name', type=str, default="MA")
 
     parser.add_argument('--device', type=int, default=0)
@@ -117,7 +136,6 @@ if __name__ == "__main__":
     parser.add_argument('--input_channels', type=int, default=128)
     parser.add_argument('--hidden_channels', type=int, default=256)
     parser.add_argument('--dropout', type=float, default=0.0)
-    parser.add_argument('--if_regression', action='store_true')
 
     parser.add_argument('--batch_size', type=int, default=16*1024)
     parser.add_argument('--lr', type=float, default=0.01)
