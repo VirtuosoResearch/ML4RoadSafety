@@ -1,4 +1,4 @@
-# Graph Learning for Predicting Safety on the Road
+# Graph Learning for Road Safety
 
 ## Data
 
