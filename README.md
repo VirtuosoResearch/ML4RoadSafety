@@ -1,4 +1,4 @@
-# Graph Learning for Predicting Safety on the Road
+# Graph Learning for Road Safety
 
 ## Data
 
@@ -15,7 +15,7 @@ We have collected/extracted the following data to create the graph for each stat
 [Download link](https://drive.google.com/drive/folders/1PHIkgoKkugj6rMvkbjxpJbmzVn69dm8e)
 
 
-### Road Network / Street Network:
+### Traffic Network:
 
 The road network is created as a graph where the nodes and edges are defined as below:
 
@@ -42,7 +42,7 @@ There are two methods to extract the desired network:
 
 
 
-### Accident Records:
+### Traffic Accident Records:
 
 Accident records have been obtained for states where the data is available at a person/vehicle level and the lat-lon coordinates are available or can be extracted.
 
