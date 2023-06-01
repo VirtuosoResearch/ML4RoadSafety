@@ -37,7 +37,7 @@ x_axis = np.arange(len(seasonal))
 
 
 # Plotting with seaborn
-fig, ax = plt.subplots(figsize=(6.5, 5))
+fig, ax = plt.subplots(figsize=(6.2, 5))
 # sns.lineplot(data=df, x='year', y='acc_count', marker='o', linewidth=1)
 ax.bar(x_axis, seasonal, width = 0.6, color='royalblue',)
 # ax.scatter(x_axis, seasonal, marker='o', s=150, color='royalblue')
