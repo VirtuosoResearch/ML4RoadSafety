@@ -15,7 +15,10 @@ def load_monthly_data(data, data_dir = "./data", state_name = "MA", num_negative
         - negative edges 
     '''
     # Load accidents
-    accidents = pd.read_csv(os.path.join(data_dir, f"{state_name}/accidents_monthly.csv"))
+    accident_dir = f"{state_name}/accidents_monthly.csv"
+    if not os.path.exists(os.path.join(data_dir, accident_dir)):
+        return None, None, None, None, None
+    accidents = pd.read_csv(os.path.join(data_dir, accident_dir))
 
     monthly_accidents = accidents[accidents["year"] == year]
     monthly_accidents = monthly_accidents[monthly_accidents["month"] == month]
@@ -36,7 +39,10 @@ def load_monthly_data(data, data_dir = "./data", state_name = "MA", num_negative
     neg_edges = torch.Tensor(neg_edges).type(torch.int64)
 
     # load the node features of the month
-    node_features = pd.read_csv(os.path.join(data_dir, f"{state_name}/Nodes/node_features_{year}_{month}.csv"))
+    node_feature_dir = f"{state_name}/Nodes/node_features_{year}_{month}.csv"
+    if not os.path.exists(os.path.join(data_dir, node_feature_dir)):
+        return None, None, None, None, None
+    node_features = pd.read_csv(os.path.join(data_dir, node_feature_dir))
     node_features = node_features[["tavg", "tmin", "tmax", "prcp", "wspd", "pres"]]
     node_features = node_features.fillna(node_features.mean(axis=0))
     node_features = node_features.fillna(0)
@@ -64,7 +70,10 @@ def load_yearly_data(data_dir = "./data", state_name = "MA", year=2022):
         Average the node features over 12 months in the year
     '''
     # load the edge features 
-    edge_feature_dir = os.path.join(data_dir, f"{state_name}/Edges/edge_features_{year}_1.pt")
+    edge_feature_name = f"{state_name}/Edges/edge_features_traffic_{year}.pt"
+    if not os.path.exists(os.path.join(data_dir, edge_feature_name)):
+        return None, None, None
+    edge_feature_dir = os.path.join(data_dir, edge_feature_name)
     if not os.path.exists(edge_feature_dir):
         raise ValueError("Edge features not found!")
     
@@ -108,6 +117,8 @@ def load_static_edge_features(data_dir = "./data", state_name = "MA"):
         edge_features.append(column_values)
     edge_features.append(normalized_edge_lengths)
     edge_features = torch.stack(edge_features, dim=1)
+    if state_name == "NV":
+        edge_features = torch.concat([edge_features, torch.zeros(2, edge_features.shape[1])], dim=0)
     return edge_features
 
 def load_static_network(data_dir = "./data", state_name = "MA", 

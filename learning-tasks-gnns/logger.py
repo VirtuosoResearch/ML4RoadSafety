@@ -11,15 +11,24 @@ class Logger(object):
         assert run >= 0 and run < len(self.results)
         self.results[run].append(result)
 
-    def print_statistics(self, run=None):
+    def print_statistics(self, run=None, mode="max"):
         if run is not None:
-            result = 100 * torch.tensor(self.results[run])
-            argmax = result[:, 1].argmax().item()
-            print(f'Run {run + 1:02d}:')
-            print(f'Highest Train: {result[:, 0].max():.2f}')
-            print(f'Valid: {result[:, 1].max():.2f}')
-            print(f'Test: {result[argmax, 2]:.2f}')
-            return result[:, 0].max(), result[:, 1].max(), result[argmax, 2]
+            if mode == "max":
+                result = 100 * torch.tensor(self.results[run])
+                argmax = result[:, 1].argmax().item()
+                print(f'Run {run + 1:02d}:')
+                print(f'Highest Train: {result[:, 0].max():.2f}')
+                print(f'Valid: {result[:, 1].max():.2f}')
+                print(f'Test: {result[argmax, 2]:.2f}')
+                return result[:, 0].max(), result[:, 1].max(), result[argmax, 2]
+            elif mode == "min":
+                result = 100 * torch.tensor(self.results[run])
+                argmin = result[:, 1].argmin().item()
+                print(f'Run {run + 1:02d}:')
+                print(f'Highest Train: {result[:, 0].min():.2f}')
+                print(f'Valid: {result[:, 1].min():.2f}')
+                print(f'Test: {result[argmin, 2]:.2f}')
+                return result[:, 0].min(), result[:, 1].min(), result[argmin, 2]
         else:
             result = 100 * torch.tensor(self.results)
 

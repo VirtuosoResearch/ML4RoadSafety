@@ -60,12 +60,13 @@ class VolumeRegressionTrainer:
     def train_on_year_data(self, year): 
         pos_edges, pos_edge_weights, node_features = load_yearly_data(data_dir=self.data_dir, state_name=self.state_name, year=year)
         
+        if pos_edges is None or pos_edges.size(0) < 10:
+            return 0, 0
+        
         # normalize node and edge features
         if self.node_feature_mean is not None:
             node_features = (node_features - self.node_feature_mean) / self.node_feature_std
         
-        if pos_edges.size(0) == 0:
-            return 0, 0
 
         new_data = self.data.clone()
         if self.use_dynamic_node_features:
@@ -95,10 +96,10 @@ class VolumeRegressionTrainer:
                 self.predictor(h[edge[0]], h[edge[1]], edge_attr[perm])
             
             labels = pos_edge_weights.view(-1, 1).to(self.device)
-            print(pos_out)
-            print(labels)
+            # print(pos_out)
+            # print(labels)
             loss = F.l1_loss(pos_out, labels)
-            loss.backward()
+            loss.backward(retain_graph=True)
             self.optimizer.step()
             
             num_examples = pos_out.size(0)
@@ -111,15 +112,15 @@ class VolumeRegressionTrainer:
     def test_on_year_data(self, year):
         pos_edges, pos_edge_weights, node_features = load_yearly_data(data_dir=self.data_dir, state_name=self.state_name, year=year)
 
+        if pos_edges is None or pos_edges.size(0) < 10:
+            return {}, 0
+
         print(f"Eval on {year} data")
         print(f"Number of edges with valid traffic volume: {pos_edges.size(0)}")
 
         # normalize node and edge features
         if self.node_feature_mean is not None:
             node_features = (node_features - self.node_feature_mean) / self.node_feature_std
-       
-        if pos_edges.size(0) == 0:
-            return {}, 0
 
         new_data = self.data.clone()
         if self.use_dynamic_node_features:
@@ -184,7 +185,8 @@ class VolumeRegressionTrainer:
 
         for key in self.loggers.keys():
             print(key)
-            train, valid, test = self.loggers[key].print_statistics(run=0)
+            mode = 'min' if (key == 'Loss' or key == "MAE" or key == "MSE") else 'max'
+            train, valid, test = self.loggers[key].print_statistics(run=0, mode=mode)
             train_log[f"Train_{key}"] = train
             train_log[f"Valid_{key}"] = valid
             train_log[f"Test_{key}"] = test

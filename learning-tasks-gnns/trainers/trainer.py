@@ -7,6 +7,7 @@ import numpy as np
 from evaluators import eval_rocauc, eval_hits
 from data_loaders import load_network_with_accidents, load_static_network, load_monthly_data, load_static_edge_features
 from logger import Logger
+from torch_geometric.loader import NeighborSampler, NeighborLoader
 
 class Trainer:
 
@@ -21,7 +22,8 @@ class Trainer:
                  node_feature_mean = None,
                  node_feature_std = None,
                  edge_feature_mean = None,
-                 edge_feature_std = None):
+                 edge_feature_std = None,
+                 if_sample_node = False, sample_batch_size=4098):
         self.model = model
         self.predictor = predictor
         self.data = data
@@ -56,9 +58,15 @@ class Trainer:
             key: Logger(runs=1) for key in log_metrics
         }
 
+        self.if_sample_node = if_sample_node
+        self.sample_batch_size = sample_batch_size
+
     def train_on_month_data(self, year, month): 
         pos_edges, pos_edge_weights, neg_edges, node_features, edge_features = \
             load_monthly_data(self.data, data_dir=self.data_dir, state_name=self.state_name, year=year, month = month, num_negative_edges=self.num_negative_edges)
+
+        if pos_edges is None or pos_edges.size(0) < 10:
+            return 0, 0
 
         # normalize node and edge features
         if self.node_feature_mean is not None:
@@ -66,8 +74,6 @@ class Trainer:
         if self.edge_feature_mean is not None:
             edge_features = (edge_features - self.edge_feature_mean) / self.edge_feature_std
 
-        if pos_edges.size(0) == 0:
-            return 0, 0
 
         new_data = self.data.clone()
         if self.use_dynamic_node_features:
@@ -86,13 +92,27 @@ class Trainer:
         self.predictor.train()
 
         # encoding
-        new_data = new_data.to(self.device)
-        h = self.model(new_data.x, new_data.edge_index, new_data.edge_attr)
-        edge_attr = new_data.edge_attr
+        if not self.if_sample_node:
+            new_data = new_data.to(self.device)
+            h = self.model(new_data.x, new_data.edge_index, new_data.edge_attr)
+            edge_attr = new_data.edge_attr
+        else:
+            train_loader = NeighborLoader(new_data, 
+                                          num_neighbors=[-1]*self.model.num_layer, 
+                                          batch_size=self.sample_batch_size)
+            h = []
+            for batch in train_loader:
+                batch = batch.to(self.device)
+                batch_h = self.model(batch.x, batch.edge_index, batch.edge_attr)
+                h.append(batch_h[:batch.batch_size])
+            h = torch.cat(h, dim=0)
+            edge_attr = new_data.edge_attr
 
         # predicting
         pos_train_edge = pos_edges.to(self.device)
+        pos_edge_weights = pos_edge_weights.to(self.device)
         total_loss = total_examples = 0
+        # self.batch_size > pos_train_edge.size(0): only backprop once since it does not retain cache.
         for perm in DataLoader(range(pos_train_edge.size(0)), self.batch_size, shuffle=True):
             self.optimizer.zero_grad()
             # positive edges
@@ -108,10 +128,11 @@ class Trainer:
                 if edge_attr is None else \
                 self.predictor(h[edge[0]], h[edge[1]], edge_attr[perm])
             
+            
             labels = torch.cat([torch.ones(pos_out.size(0)), torch.zeros(neg_out.size(0))]).view(-1, 1).to(self.device)
 
             loss = F.binary_cross_entropy(torch.cat([pos_out, neg_out]), labels)
-            loss.backward()
+            loss.backward(retain_graph=True) # 
             self.optimizer.step()
             
             num_examples = pos_out.size(0)
@@ -125,6 +146,9 @@ class Trainer:
         pos_edges, pos_edge_weights, neg_edges, node_features, edge_features = \
             load_monthly_data(self.data, data_dir=self.data_dir, state_name=self.state_name, year=year, month = month, num_negative_edges=self.num_negative_edges)
 
+        if pos_edges is None or pos_edges.size(0) < 10:
+            return {}, 0
+
         print(f"Eval on {year}-{month} data")
         print(f"Number of positive edges: {pos_edges.size(0)} | Number of negative edges: {neg_edges.size(0)}")
 
@@ -133,9 +157,6 @@ class Trainer:
             node_features = (node_features - self.node_feature_mean) / self.node_feature_std
         if self.edge_feature_mean is not None:
             edge_features = (edge_features - self.edge_feature_mean) / self.edge_feature_std
-
-        if pos_edges.size(0) == 0:
-            return {}, 0
 
         new_data = self.data.clone()
         if self.use_dynamic_node_features:
@@ -154,9 +175,21 @@ class Trainer:
         self.predictor.eval()
 
         # encoding
-        new_data = new_data.to(self.device)
-        h = self.model(new_data.x, new_data.edge_index, new_data.edge_attr)
-        edge_attr = new_data.edge_attr
+        if not self.if_sample_node:
+            new_data = new_data.to(self.device)
+            h = self.model(new_data.x, new_data.edge_index, new_data.edge_attr)
+            edge_attr = new_data.edge_attr
+        else:
+            train_loader = NeighborLoader(new_data, 
+                                          num_neighbors=[-1]*self.model.num_layer, 
+                                          batch_size=self.sample_batch_size)
+            h = []
+            for batch in train_loader:
+                batch = batch.to(self.device)
+                batch_h = self.model(batch.x, batch.edge_index, batch.edge_attr)
+                h.append(batch_h[:batch.batch_size])
+            h = torch.cat(h, dim=0)
+            edge_attr = new_data.edge_attr
 
         # predicting
         pos_edge = pos_edges.to(self.device)
@@ -223,7 +256,8 @@ class Trainer:
 
         for key in self.loggers.keys():
             print(key)
-            train, valid, test = self.loggers[key].print_statistics(run=0)
+            mode = 'min' if (key == 'Loss' or key == "MAE" or key == "MSE") else 'max'
+            train, valid, test = self.loggers[key].print_statistics(run=0, mode=mode)
             train_log[f"Train_{key}"] = train
             train_log[f"Valid_{key}"] = valid
             train_log[f"Test_{key}"] = test

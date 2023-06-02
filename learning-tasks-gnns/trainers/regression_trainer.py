@@ -29,14 +29,14 @@ class AccidentRegressionTrainer(Trainer):
         pos_edges, pos_edge_weights, neg_edges, node_features, edge_features = \
             load_monthly_data(self.data, data_dir=self.data_dir, state_name=self.state_name, year=year, month = month, num_negative_edges=self.num_negative_edges)
 
+        if pos_edges is None or pos_edges.size(0) < 10:
+            return 0, 0
+
         # normalize node and edge features
         if self.node_feature_mean is not None:
             node_features = (node_features - self.node_feature_mean) / self.node_feature_std
         if self.edge_feature_mean is not None:
             edge_features = (edge_features - self.edge_feature_mean) / self.edge_feature_std
-
-        if pos_edges.size(0) == 0:
-            return 0, 0
 
         new_data = self.data.clone()
         if self.use_dynamic_node_features:
@@ -80,7 +80,7 @@ class AccidentRegressionTrainer(Trainer):
             labels = torch.cat([pos_edge_weights[perm].view(-1, 1), torch.zeros_like(neg_out)]).view(-1, 1).to(self.device)
 
             loss = F.l1_loss(torch.cat([pos_out, neg_out]), labels)
-            loss.backward()
+            loss.backward(retain_graph=True)
             self.optimizer.step()
             
             num_examples = pos_out.size(0) + neg_out.size(0)
@@ -94,6 +94,9 @@ class AccidentRegressionTrainer(Trainer):
         pos_edges, pos_edge_weights, neg_edges, node_features, edge_features = \
             load_monthly_data(self.data, data_dir=self.data_dir, state_name=self.state_name, year=year, month = month, num_negative_edges=self.num_negative_edges)
 
+        if pos_edges is None or pos_edges.size(0) < 10:
+            return {}, 0
+        
         print(f"Eval on {year}-{month} data")
         print(f"Number of positive edges: {pos_edges.size(0)} | Number of negative edges: {neg_edges.size(0)}")
 
@@ -102,9 +105,6 @@ class AccidentRegressionTrainer(Trainer):
             node_features = (node_features - self.node_feature_mean) / self.node_feature_std
         if self.edge_feature_mean is not None:
             edge_features = (edge_features - self.edge_feature_mean) / self.edge_feature_std
-
-        if pos_edges.size(0) == 0:
-            return {}, 0
 
         new_data = self.data.clone()
         if self.use_dynamic_node_features:
