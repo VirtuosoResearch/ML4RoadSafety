@@ -66,3 +66,4 @@ ax.yaxis.grid(True, lw=0.4)
 plt.tight_layout()
 plt.savefig('./figures/Monthly_Accidents_IA.pdf', format='pdf', dpi=100)
 plt.show()
+# %%

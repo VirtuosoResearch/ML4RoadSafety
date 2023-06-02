@@ -29,8 +29,8 @@ ax.scatter(x_axis, yearly_acc_MN, marker='o', s=150, color='royalblue')
 
 
 # # Customize the x-ticks and labels
-plt.xticks([ 1,  3,  5,   7,  9, 11, 13,  15], [2004,  "",  2008, "", 2016,  "",  2020, ""], rotation=30, ha='center')
-plt.yticks(np.arange(50000, 260000, 50000))
+plt.xticks(x_axis, [2016, "", 2018, "", 2020, "", 2022], rotation=30, ha='center')
+plt.yticks(np.arange(50000, 81000, 10000))
 # plt.ylim(44000, 61000)
 
 # plt.xlabel("Year", )

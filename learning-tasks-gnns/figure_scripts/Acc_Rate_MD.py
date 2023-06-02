@@ -34,7 +34,7 @@ ax.scatter(x_axis, yearly_acc_MD, marker='o', s=150, color='royalblue')
 
 # # Customize the x-ticks and labels
 plt.xticks([ 1,  3,  5,   7,  9, 11, 13,  15], [2004,  "",  2008, "", 2016,  "",  2020, ""], rotation=30, ha='center')
-plt.yticks(np.arange(50000, 260000, 50000))
+# plt.yticks(np.arange(50000, 260000, 50000))
 # plt.ylim(44000, 61000)
 
 # plt.xlabel("Year", )
@@ -54,5 +54,5 @@ ax.tick_params(axis='both', which='minor', labelsize=30)
 ax.yaxis.grid(True, lw=0.4)
 ax.xaxis.grid(True, lw=0.4)
 plt.tight_layout()
-plt.savefig('./figures/Yearly_Accidents_MA.pdf', format='pdf', dpi=100)
+# plt.savefig('./figures/Yearly_Accidents_MA.pdf', format='pdf', dpi=100)
 plt.show()

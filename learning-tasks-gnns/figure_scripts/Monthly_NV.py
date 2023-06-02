@@ -45,8 +45,8 @@ ax.bar(x_axis, seasonal, width = 0.6, color='royalblue',)
 
 # # Customize the x-ticks and labels
 plt.xticks([0, 1, 2.1, 3], [ "Winter", "Spring", "Summer", "Fall"], rotation=0, ha='center')
-plt.yticks(np.arange(10000, 17000, 2000))
-plt.ylim(10000, 16000)
+plt.yticks(np.arange(11000, 12600, 500))
+plt.ylim(11000, 12500)
 
 # plt.xlabel("Year", )
 plt.ylabel('Accidents', fontsize=36)
@@ -66,3 +66,4 @@ ax.yaxis.grid(True, lw=0.4)
 plt.tight_layout()
 plt.savefig('./figures/Monthly_Accidents_NV.pdf', format='pdf', dpi=100)
 plt.show()
+# %%

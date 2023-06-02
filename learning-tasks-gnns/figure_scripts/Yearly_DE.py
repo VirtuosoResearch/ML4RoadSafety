@@ -25,8 +25,7 @@ yearly_acc_DE = np.array([19.097,
  37.48,
  37.435,
  31.657,
- 37.749,
- 27.013])*1000
+ 37.749])*1000
 
 
 
@@ -42,8 +41,7 @@ years_DE = [2009,
  2018,
  2019,
  2020,
- 2021,
- 2022]
+ 2021]
 x_axis = np.arange(len(yearly_acc_DE))
 
 
@@ -55,8 +53,8 @@ ax.scatter(x_axis, yearly_acc_DE, marker='o', s=150, color='royalblue')
 
 
 # # Customize the x-ticks and labels
-plt.xticks([ 1,  3,  5,   7,  9, 11, 13,  15], [2004,  "",  2008, "", 2016,  "",  2020, ""], rotation=30, ha='center')
-plt.yticks(np.arange(50000, 260000, 50000))
+plt.xticks(x_axis, [2009, "", "", 2012, "", "", "", 2016, "", "", "", 2020, "",], rotation=30, ha='center')
+plt.yticks(np.arange(20000, 41000, 5000))
 # plt.ylim(44000, 61000)
 
 # plt.xlabel("Year", )
