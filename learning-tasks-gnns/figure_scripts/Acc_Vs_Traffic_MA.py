@@ -1,18 +1,19 @@
-
-
-
-
-
-
-import seaborn as sns
+# %%
 import matplotlib.pyplot as plt
+import math
+import numpy as np
+import matplotlib as mpl
+from matplotlib import rc
+import seaborn as sns
+
+rc('font',**{'family':'sans-serif','sans-serif':['Helvetica']})
+mpl.rcParams['savefig.dpi'] = 1200
+mpl.rcParams['text.usetex'] = True  # not really needed
+plt.rc('text', usetex=True)
+plt.rc('font', family='serif')
 
 
-
-
-
-
-acc_count = [3811.0,
+acc_count = np.array([3811.0,
  5735.0,
  7152.0,
  9653.0,
@@ -31,10 +32,12 @@ acc_count = [3811.0,
  28893.0,
  37418.0,
  47767.0,
- 74679.0]
+ 74679.0])
 
+acc_count = np.reshape(acc_count, (10,2))
+acc_count = np.sum(acc_count, axis=1)
 
-aadt_bins = [6891.0,
+aadt_bins = np.array([6891.0,
  17705.5,
  26609.5,
  35409.0,
@@ -53,19 +56,35 @@ aadt_bins = [6891.0,
  271385.0,
  345547.0,
  570706.5,
- 3745554.5]
+ 3745554.5])
 
-
-
-
+x_axis = np.arange(0,len(acc_count))
 
 # Plot the histogram
-plt.figure(figsize=(8, 6))
-plt.bar(height=acc_count,x = list(range(len(acc_count))))
-plt.xlabel('AADT Bin')
-plt.ylabel('acc_count')
-plt.title('Histogram of acc_count by AADT (Quantile-based Bins)')
-plt.xticks(list(range(len(acc_count))),aadt_bins,rotation=70)
+fig, ax = plt.subplots(figsize=(6.5, 5))
+
+ax.bar(x_axis, acc_count, color='royalblue')
+plt.xlabel(r'$\mathrm{Traffic~volume~/~day}$', fontsize=32)
+plt.ylabel('Accidents', fontsize=32)
+
+ax.ticklabel_format(style='sci', axis='y', scilimits=(0,0))
+ax.yaxis.get_offset_text().set_fontsize(28)
+
+plt.xticks(x_axis+0.5,[25, "", 50, "", 100,
+"", 200, "", 400, ""],rotation=0)
+
+plt.yticks(np.arange(0, 160000, 50000))
+plt.ylim(0, 150000)
+
+ax.tick_params(axis='both', which='major', labelsize=32)
+ax.tick_params(axis='both', which='minor', labelsize=32)
+
+
+# Display the plot
+ax.yaxis.grid(True, lw=0.4)
+ax.xaxis.grid(True, lw=0.4)
+plt.tight_layout()
+plt.savefig('./figures/traffic_volume_vs_accidents.pdf', format='pdf', dpi=100)
 plt.show()
 
 

@@ -53,9 +53,9 @@ ax.scatter(x_axis, yearly_acc_DE, marker='o', s=150, color='royalblue')
 
 
 # # Customize the x-ticks and labels
-plt.xticks(x_axis, [2009, "", "", 2012, "", "", "", 2016, "", "", "", 2020, "",], rotation=30, ha='center')
+plt.xticks(x_axis, [2009, "", "", 2012, "", "", "", 2016, "", "","",  2020, "",], rotation=30, ha='center')
 plt.yticks(np.arange(20000, 41000, 5000))
-# plt.ylim(44000, 61000)
+plt.ylim(18000, 42000)
 
 # plt.xlabel("Year", )
 plt.ylabel('Accidents', fontsize=36)
