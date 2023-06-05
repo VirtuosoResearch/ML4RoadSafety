@@ -21,17 +21,17 @@ acc_count = np.array([
  6343.0,
  4443.0,
  4000,
- 4859.0])*10
+ 4859.0])*8
 
 
 bins = np.array([-1.15, 3.92, 7.3, 13.68, 17.38, 20.06, 22.76])
 
 x_axis = np.arange(len(acc_count))
 
-fig, ax = plt.subplots(figsize=(6.5, 5))
+fig, ax = plt.subplots(figsize=(8, 5))
 
 # Plot the histogram
-ax.bar(x_axis, acc_count, color='royalblue')
+ax.bar(x_axis, acc_count, color='royalblue', width=0.7)
 # plt.xlabel('Temp Bin')
 # plt.ylabel('acc_count')
 # plt.title('Histogram of acc_count by Temp')
