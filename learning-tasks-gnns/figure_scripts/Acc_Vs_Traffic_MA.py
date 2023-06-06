@@ -71,7 +71,7 @@ ax.ticklabel_format(style='sci', axis='y', scilimits=(0,0))
 ax.yaxis.get_offset_text().set_fontsize(28)
 
 plt.xticks(x_axis+0.5,[100, "", 200, "", 400,
-"", 400, "", 1600, ""],rotation=0)
+"", 800, "", 1600, ""],rotation=0)
 # [25, "", 50, "", 100,
 # "", 200, "", 400, ""]
 

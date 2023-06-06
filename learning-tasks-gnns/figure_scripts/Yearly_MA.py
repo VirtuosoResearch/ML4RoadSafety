@@ -14,17 +14,17 @@ plt.rc('font', family='serif')
 
 
 yearly_acc_MA = np.array([185.798,
- 195.542,
- 202.645,
- 229.307,
- 226.86,
- 225.743,
- 206.376,
- 251.953,
- 229.4,
- 246.057,
- 252.124,
- 256.675,
+ 190.67000000000002,
+ 199.0935,
+ 215.976,
+ 228.08350000000002,
+ 226.3015,
+ 216.0595,
+ 229.1645,
+ 240.6765,
+ 237.7285,
+ 249.0905,
+ 254.3995,
  90.973,
  47.425,
  218.99,
@@ -52,7 +52,7 @@ x_axis = np.arange(len(yearly_acc_MA))
 
 
 # Plotting with seaborn
-fig, ax = plt.subplots(figsize=(5.5, 5))
+fig, ax = plt.subplots(figsize=(5, 5))
 # sns.lineplot(data=df, x='year', y='acc_count', marker='o', linewidth=1)
 ax.plot(x_axis, yearly_acc_MA, lw=3, color='royalblue')
 ax.scatter(x_axis, yearly_acc_MA, marker='o', s=150, color='royalblue')
@@ -64,13 +64,13 @@ plt.yticks(np.arange(50000, 260000, 50000))
 # plt.ylim(44000, 61000)
 
 # plt.xlabel("Year", )
-plt.ylabel('Accidents', fontsize=36)
+# plt.ylabel('Accidents', fontsize=36)
 
 ax.ticklabel_format(style='sci', axis='y', scilimits=(0,0))
 ax.yaxis.get_offset_text().set_fontsize(28)
 
 ax.yaxis.grid(True, lw=0.4)
-ax.set_title(r'$\mathrm{Massachusetts}$', fontsize=36, x=0.55, y=1.0)
+# ax.set_title(r'$\mathrm{Massachusetts}$', fontsize=36, x=0.55, y=1.0)
 
 ax.tick_params(axis='both', which='major', labelsize=30)
 ax.tick_params(axis='both', which='minor', labelsize=30)

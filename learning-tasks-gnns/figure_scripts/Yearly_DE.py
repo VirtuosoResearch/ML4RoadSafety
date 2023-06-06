@@ -14,16 +14,16 @@ plt.rc('font', family='serif')
 
 
 yearly_acc_DE = np.array([19.097,
- 31.276,
- 31.075,
- 31.222,
- 32.454,
- 32.725,
- 35.015,
- 36.952,
- 37.132,
- 37.48,
- 37.435,
+ 25.186500000000002,
+ 27.149333333333335,
+ 31.191000000000003,
+ 31.58366666666667,
+ 32.13366666666667,
+ 33.397999999999996,
+ 34.897333333333336,
+ 36.36633333333334,
+ 37.187999999999995,
+ 37.349,
  31.657,
  37.749])*1000
 
@@ -46,7 +46,7 @@ x_axis = np.arange(len(yearly_acc_DE))
 
 
 # Plotting with seaborn
-fig, ax = plt.subplots(figsize=(5.5, 5))
+fig, ax = plt.subplots(figsize=(5, 5))
 # sns.lineplot(data=df, x='year', y='acc_count', marker='o', linewidth=1)
 ax.plot(x_axis, yearly_acc_DE, lw=3, color='royalblue')
 ax.scatter(x_axis, yearly_acc_DE, marker='o', s=150, color='royalblue')
@@ -58,13 +58,13 @@ plt.yticks(np.arange(20000, 41000, 5000))
 plt.ylim(18000, 42000)
 
 # plt.xlabel("Year", )
-plt.ylabel('Accidents', fontsize=36)
+# plt.ylabel('Accidents', fontsize=36)
 
 ax.ticklabel_format(style='sci', axis='y', scilimits=(0,0))
 ax.yaxis.get_offset_text().set_fontsize(28)
 
 ax.yaxis.grid(True, lw=0.4)
-ax.set_title(r'$\mathrm{Delaware}$', fontsize=36, x=0.55, y=1.0)
+# ax.set_title(r'$\mathrm{Delaware}$', fontsize=36, x=0.55, y=1.0)
 
 ax.tick_params(axis='both', which='major', labelsize=30)
 ax.tick_params(axis='both', which='minor', labelsize=30)
