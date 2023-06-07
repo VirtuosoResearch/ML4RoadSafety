@@ -3,6 +3,16 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import numpy as np
 import matplotlib.colors as mcolors
+from matplotlib import rc
+import matplotlib as mpl
+
+
+rc('font',**{'family':'sans-serif','sans-serif':['Helvetica']})
+mpl.rcParams['savefig.dpi'] = 1200
+mpl.rcParams['text.usetex'] = True  # not really needed
+plt.rc('text', usetex=True)
+plt.rc('font', family='serif')
+
 
 results = np.array([[0.0, 0.17, 0.56, 0.38, 0.18, -0.01, -0.01, 0.29],
                     [0.88, 0.0, 1.2, 1.01, 0.57, 0.77, 0.83, 1.98],
@@ -18,11 +28,11 @@ results = np.array([[0.0, 0.17, 0.56, 0.38, 0.18, -0.01, -0.01, 0.29],
 cmap = mcolors.LinearSegmentedColormap.from_list("GreyMap", ['#D9E8E5', '#004030']) # Green
 
 # Create a correlation matrix heatmap
-plt.figure(figsize=(20, 4))
+plt.figure(figsize=(4.5, 4.5))
 sns.heatmap(results[::-1], annot=False, fmt=".1f", cmap=cmap, vmin=-5, vmax=5, square=True, cbar=False)
 # plt.title("Correlation Matrix")
-plt.xlabel("Source", fontsize=12)
-plt.ylabel("Target", fontsize=12)
+plt.xlabel(r"$\mathrm{Source}$", fontsize=15)
+plt.ylabel(r"$\mathrm{Target}$", fontsize=15)
 
 # Manually annotate the heatmap values and highlight the boxes
 for i in range(results.shape[0]):
@@ -52,14 +62,14 @@ for i in range(results.shape[0]):
 
 
 # Set custom x-axis tick labels
-tick_labels = ["DE", "IA", "IL", "MA", "MD", "MN", "MT", "NV"]
-plt.xticks(np.arange(len(tick_labels)) + 0.5, tick_labels)
-plt.yticks(np.arange(len(tick_labels)) + 0.5, tick_labels)
+tick_labels = [r"$\mathrm{DE}$", r"$\mathrm{IA}$", r"$\mathrm{IL}$", r"$\mathrm{MA}$", r"$\mathrm{MD}$", r"$\mathrm{MN}$", r"$\mathrm{MT}$", r"$\mathrm{NV}$"]
+plt.xticks(np.arange(len(tick_labels)) + 0.5, tick_labels, fontsize=15)
+plt.yticks(np.arange(len(tick_labels)) + 0.5, tick_labels, fontsize=15)
 # plt.xlim(0, len(tick_labels))
 # plt.ylim(0, len(tick_labels))
 
 # Save the figure
-plt.savefig("pairwise_transfer_results.png", dpi=300)
+plt.savefig("pairwise_transfer_results.pdf", dpi=300)
 
 # Show the figure
 plt.show()

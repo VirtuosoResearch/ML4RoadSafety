@@ -64,8 +64,8 @@ x_axis = np.arange(0,len(acc_count))
 fig, ax = plt.subplots(figsize=(8, 5))
 
 ax.bar(x_axis, acc_count, color='royalblue')
-plt.xlabel(r'$\mathrm{Traffic~volume~/~day}$', fontsize=32)
-plt.ylabel('Accidents', fontsize=32)
+plt.xlabel(r'$\mathrm{Traffic~volume~per~day}$', fontsize=32)
+plt.ylabel(r'\#~$\mathrm{Accidents}$', fontsize=32)
 
 ax.ticklabel_format(style='sci', axis='y', scilimits=(0,0))
 ax.yaxis.get_offset_text().set_fontsize(28)
@@ -76,7 +76,7 @@ plt.xticks(x_axis+0.5,[100, "", 200, "", 400,
 # "", 200, "", 400, ""]
 
 plt.yticks(np.arange(0, 160000, 50000))
-plt.ylim(0, 150000)
+plt.ylim(0, 128000)
 
 ax.tick_params(axis='both', which='major', labelsize=32)
 ax.tick_params(axis='both', which='minor', labelsize=32)
