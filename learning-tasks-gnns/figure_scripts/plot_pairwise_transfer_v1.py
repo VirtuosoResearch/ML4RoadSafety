@@ -31,8 +31,8 @@ cmap = mcolors.LinearSegmentedColormap.from_list("GreyMap", ['#D9E8E5', 'mediums
 plt.figure(figsize=(4.5, 4.5))
 sns.heatmap(results[::-1], annot=False, fmt=".1f", cmap=cmap, vmin=-5, vmax=5, square=True, cbar=False)
 # plt.title("Correlation Matrix")
-plt.xlabel(r"$\mathrm{Source}$", fontsize=15)
-plt.ylabel(r"$\mathrm{Target}$", fontsize=15)
+plt.xlabel(r"$\mathrm{Source}$", fontsize=22)
+plt.ylabel(r"$\mathrm{Target}$", fontsize=22)
 
 # Manually annotate the heatmap values and highlight the boxes
 for i in range(results.shape[0]):
@@ -42,20 +42,20 @@ for i in range(results.shape[0]):
                 color = cmap(results[i, j] / 5)  # Scale the value between 0 and 1
                 text_color = "black"  # Modify the text color to ensure better visibility
                 if round(results[i, j], 1) == 0.0:
-                    plt.text(j + 0.5, i + 0.5, "0", ha="center", va="center", color=text_color, fontsize=14)  # Increase font size
+                    plt.text(j + 0.5, i + 0.5, "0.0", ha="center", va="center", color=text_color, fontsize=18)  # Increase font size
                 else:
-                    plt.text(j + 0.5, i + 0.5, f"{round(results[i, j], 1)}", ha="center", va="center", color=text_color, fontsize=14)  # Increase font size
+                    plt.text(j + 0.5, i + 0.5, f"{round(results[i, j], 1)}", ha="center", va="center", color=text_color, fontsize=18)  # Increase font size
             else:
-                color = 'tomato'  # Dull red color
-                text_color = "white"  # Modify the text color to ensure better visibility
+                color = 'lightcoral'  # Dull red color
+                text_color = "black"  # Modify the text color to ensure better visibility
                 if round(results[i, j], 1) == 0.0:
-                    plt.text(j + 0.5, i + 0.5, "0", ha="center", va="center", color=cmap(results[i, j] / 5), fontsize=14)  # Increase font size
+                    plt.text(j + 0.5, i + 0.5, "0.0", ha="center", va="center", color=cmap(results[i, j] / 5), fontsize=18)  # Increase font size
                 else:
-                    plt.text(j + 0.5, i + 0.5, f"{round(results[i, j], 1)}", ha="center", va="center", color=text_color, fontsize=14)  # Increase font size
+                    plt.text(j + 0.5, i + 0.5, f"{round(results[i, j], 1)}", ha="center", va="center", color=text_color, fontsize=18)  # Increase font size
         else:
             color = '#F5F5F5'  # Very light color for diagonal elements
             text_color = "black"  # Modify the text color to ensure better visibility
-            plt.text(j + 0.5, i + 0.5, f"{round(results[i, j], 1)}", ha="center", va="center", color=text_color, fontsize=14)  # Increase font size
+            plt.text(j + 0.5, i + 0.5, f"{round(results[i, j], 1)}", ha="center", va="center", color=text_color, fontsize=18)  # Increase font size
 
         rect = plt.Rectangle((j, i), 1, 1, fill=True, facecolor=color, edgecolor=color)  # Specify color for the rectangle patch
         plt.gca().add_patch(rect)
@@ -63,14 +63,20 @@ for i in range(results.shape[0]):
 
 # Set custom x-axis tick labels
 tick_labels = [r"$\mathrm{DE}$", r"$\mathrm{IA}$", r"$\mathrm{IL}$", r"$\mathrm{MA}$", r"$\mathrm{MD}$", r"$\mathrm{MN}$", r"$\mathrm{MT}$", r"$\mathrm{NV}$"]
-plt.xticks(np.arange(len(tick_labels)) + 0.5, tick_labels, fontsize=15)
-plt.yticks(np.arange(len(tick_labels)) + 0.5, tick_labels, fontsize=15)
+plt.xticks(np.arange(len(tick_labels)) + 0.5, tick_labels, fontsize=18)
+plt.yticks(np.arange(len(tick_labels)) + 0.5, tick_labels, fontsize=18)
 # plt.xlim(0, len(tick_labels))
 # plt.ylim(0, len(tick_labels))
-plt.tight_layout()
 
+# Move x-axis tick labels to the top
+plt.gca().xaxis.set_ticks_position('top')
+# Set x-axis tick labels alignment
+plt.gca().xaxis.set_tick_params(labeltop=True, labelbottom=False)
+plt.gca().yaxis.set_label_position('right')
+
+plt.tight_layout()
 # Save the figure
 plt.savefig("pairwise_transfer_results.pdf", dpi=300)
 
 # Show the figure
-#plt.show()
+plt.show()
