@@ -67,6 +67,7 @@ plt.xticks(np.arange(len(tick_labels)) + 0.5, tick_labels, fontsize=15)
 plt.yticks(np.arange(len(tick_labels)) + 0.5, tick_labels, fontsize=15)
 # plt.xlim(0, len(tick_labels))
 # plt.ylim(0, len(tick_labels))
+plt.tight_layout()
 
 # Save the figure
 plt.savefig("pairwise_transfer_results.pdf", dpi=300)
