@@ -25,7 +25,7 @@ results = np.array([[0.0, 0.17, 0.56, 0.38, 0.18, -0.01, -0.01, 0.29],
 
 # Create a custom colormap
 # cmap = mcolors.LinearSegmentedColormap.from_list("GreyMap", ['#808080','#000000']) # Black
-cmap = mcolors.LinearSegmentedColormap.from_list("GreyMap", ['#D9E8E5', '#004030']) # Green
+cmap = mcolors.LinearSegmentedColormap.from_list("GreyMap", ['#D9E8E5', 'mediumseagreen']) # Green
 
 # Create a correlation matrix heatmap
 plt.figure(figsize=(4.5, 4.5))
@@ -42,20 +42,20 @@ for i in range(results.shape[0]):
                 color = cmap(results[i, j] / 5)  # Scale the value between 0 and 1
                 text_color = "black"  # Modify the text color to ensure better visibility
                 if round(results[i, j], 1) == 0.0:
-                    plt.text(j + 0.5, i + 0.5, "0", ha="center", va="center", color=text_color, fontsize=12)  # Increase font size
+                    plt.text(j + 0.5, i + 0.5, "0", ha="center", va="center", color=text_color, fontsize=14)  # Increase font size
                 else:
-                    plt.text(j + 0.5, i + 0.5, f"{round(results[i, j], 1)}", ha="center", va="center", color=text_color, fontsize=12)  # Increase font size
+                    plt.text(j + 0.5, i + 0.5, f"{round(results[i, j], 1)}", ha="center", va="center", color=text_color, fontsize=14)  # Increase font size
             else:
-                color = '#7A0000'  # Dull red color
+                color = 'tomato'  # Dull red color
                 text_color = "white"  # Modify the text color to ensure better visibility
                 if round(results[i, j], 1) == 0.0:
-                    plt.text(j + 0.5, i + 0.5, "0", ha="center", va="center", color=cmap(results[i, j] / 5), fontsize=12)  # Increase font size
+                    plt.text(j + 0.5, i + 0.5, "0", ha="center", va="center", color=cmap(results[i, j] / 5), fontsize=14)  # Increase font size
                 else:
-                    plt.text(j + 0.5, i + 0.5, f"{round(results[i, j], 1)}", ha="center", va="center", color=text_color, fontsize=12)  # Increase font size
+                    plt.text(j + 0.5, i + 0.5, f"{round(results[i, j], 1)}", ha="center", va="center", color=text_color, fontsize=14)  # Increase font size
         else:
             color = '#F5F5F5'  # Very light color for diagonal elements
             text_color = "black"  # Modify the text color to ensure better visibility
-            plt.text(j + 0.5, i + 0.5, f"{round(results[i, j], 1)}", ha="center", va="center", color=text_color, fontsize=12)  # Increase font size
+            plt.text(j + 0.5, i + 0.5, f"{round(results[i, j], 1)}", ha="center", va="center", color=text_color, fontsize=14)  # Increase font size
 
         rect = plt.Rectangle((j, i), 1, 1, fill=True, facecolor=color, edgecolor=color)  # Specify color for the rectangle patch
         plt.gca().add_patch(rect)
@@ -73,4 +73,4 @@ plt.tight_layout()
 plt.savefig("pairwise_transfer_results.pdf", dpi=300)
 
 # Show the figure
-plt.show()
+#plt.show()
