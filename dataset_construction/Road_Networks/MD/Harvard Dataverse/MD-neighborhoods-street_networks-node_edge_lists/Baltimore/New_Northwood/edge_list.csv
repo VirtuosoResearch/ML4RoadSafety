@@ -1,0 +1,153 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+49416831,49486105,0,False,tertiary,Woodbourne Avenue,105.981,2,,,25 mph,,,,,,,48982371,
+49416831,49486091,0,False,tertiary,Woodbourne Avenue,208.568,2,,,25 mph,,,,,,,48982371,
+49429055,49491000,0,True,primary,Loch Raven Boulevard,13.132,3,,,35 mph,,,,,,,546710561,MD 542
+49429058,49466810,0,True,primary,Loch Raven Boulevard,102.094,2,,,35 mph,,,,,,,51535584,MD 542
+49429058,49429055,0,True,primary,East Cold Spring Lane,20.333,3,,,25 mph,,,,,,,500555013,
+49429066,49468044,0,False,primary,East Cold Spring Lane,75.285,3,,,25 mph,,,,,,,424993733,
+49429066,49429058,0,True,primary,East Cold Spring Lane,106.196,"['2', '3']",,,25 mph,,,,,,,"[500555013, 546710565]",
+49433171,49433172,0,False,primary_link,,20.332,2,,,,,,,,,,5999610,
+49433171,49568080,0,True,primary,Loch Raven Boulevard,35.059,2,,,35 mph,,,,,,,513587006,MD 542
+49433172,49433171,0,False,primary_link,,20.332,2,,,,,,,,,,5999610,
+49433172,49491038,0,True,primary,Loch Raven Boulevard,45.243,2,,,35 mph,,,,,,,424996640,MD 542
+49434085,49486125,0,True,primary,Loch Raven Boulevard,84.214,"['2', '3']",,,35 mph,,,,,,,"[424996640, 424996641]",MD 542
+49438698,49438700,0,False,primary_link,,20.353,2,,,,,,,,,,6000449,
+49438698,49433171,0,True,primary,Loch Raven Boulevard,103.998,2,,,35 mph,,,,,,,513587006,MD 542
+49438700,49438698,0,False,primary_link,,20.353,2,,,,,,,,,,6000449,
+49438700,49434085,0,True,primary,Loch Raven Boulevard,21.195,2,,,35 mph,,,,,,,424996640,MD 542
+49462535,49462555,0,False,residential,Kingsway Road,21.178,,,,,,,,,,,6003499,
+49462535,49462558,0,True,primary,Loch Raven Boulevard,96.819,2,,,35 mph,,,,,,,113104119,MD 542
+49462544,49462555,0,False,residential,Kingsway Road,155.752,,,,,,,,,,,6003499,
+49462544,49466800,0,False,residential,Kelway Road,86.343,2,,,,,,,,,,6004260,
+49462544,49468035,0,False,residential,Kelway Road,32.177,2,,,,,,,,,,6004260,
+49462555,49462535,0,False,residential,Kingsway Road,21.178,,,,,,,,,,,6003499,
+49462555,49462544,0,False,residential,Kingsway Road,155.752,,,,,,,,,,,6003499,
+49462555,5283035276,0,True,primary,Loch Raven Boulevard,176.719,2,,,35 mph,,,,,,,51535584,MD 542
+49462558,49429055,0,True,primary,Loch Raven Boulevard,85.398,"['2', '3']",,,35 mph,,,,,,,"[546710562, 113104119]",MD 542
+49466800,49466810,0,False,residential,Northgate Road,161.553,,,,,,,,,,,6004106,
+49466800,49468044,0,False,residential,Kelway Road,83.174,2,,,,,,,,,,6004260,
+49466800,49462544,0,False,residential,Kelway Road,86.343,2,,,,,,,,,,6004260,
+49466810,49462555,0,True,primary,Loch Raven Boulevard,82.012,2,,,35 mph,,,,,,,51535584,MD 542
+49466810,49466800,0,False,residential,Northgate Road,161.553,,,,,,,,,,,6004106,
+49467996,49467997,0,False,residential,Kelway Road,90.8,,,,,,,,,,,6004257,
+49467996,49490730,0,False,residential,Stonewood Road,200.605,,,,,,,,,,,6020664,
+49467996,49489414,0,False,residential,Stonewood Road,227.871,,,,,,,,,,,6020664,
+49467997,49468002,0,False,residential,Kelway Road,83.027,,,,,,,,,,,6004257,
+49467997,49467996,0,False,residential,Kelway Road,90.8,,,,,,,,,,,6004257,
+49467997,49487300,0,False,residential,Winston Avenue,231.37,,,,,,,,,,,6006758,
+49467997,49487271,0,False,residential,Winston Avenue,239.998,,,,,,,,,,,6006758,
+49468002,49468004,0,False,residential,Kelway Road,70.167,,,,,,,,,,,6004257,
+49468002,49467997,0,False,residential,Kelway Road,83.027,,,,,,,,,,,6004257,
+49468002,49544810,0,False,residential,Kitmore Road,260.307,,,,,,,,,,,6014420,
+49468002,49544780,0,False,residential,Kitmore Road,238.758,,,,,,,,,,,6014420,
+49468004,49468002,0,False,residential,Kelway Road,70.167,,,,,,,,,,,6004257,
+49468004,49515291,0,False,residential,"['Glenwood Avenue', 'Kelway Road']",318.928,,,,,,,,,,,"[6004257, 401883887]",
+49468004,49527607,0,False,residential,Silverthorne Road,240.476,,,,,,,,,,,6011780,
+49468035,49462544,0,False,residential,Kelway Road,32.177,2,,,,,,,,,,6004260,
+49468044,49515606,0,False,primary,East Cold Spring Lane,120.281,3,,,25 mph,,,,,,,424993733,
+49468044,49466800,0,False,residential,Kelway Road,83.174,2,,,,,,,,,,6004260,
+49468044,49429066,0,False,primary,East Cold Spring Lane,75.285,3,,,25 mph,,,,,,,424993733,
+49486091,49416831,0,False,tertiary,Woodbourne Avenue,208.568,2,,,25 mph,,,,,,,48982371,
+49486091,49573999,0,False,residential,Northwood Drive,108.042,2,,,,,,,,,,132381959,
+49486105,49416831,0,False,tertiary,Woodbourne Avenue,105.981,2,,,25 mph,,,,,,,48982371,
+49486118,49568099,0,False,residential,Leith Road,150.772,2,,,,,,,,,,"[6020497, 6020503]",
+49486118,49486124,0,False,tertiary,Woodbourne Avenue,64.42,"['2', '3']",,,25 mph,,,,,,,"[48982371, 546701452]",
+49486124,49486125,0,False,tertiary,Woodbourne Avenue,20.605,4,,,,,,,,,,513587005,
+49486124,49438698,0,True,primary,Loch Raven Boulevard,98.54,2,,,35 mph,,,,,,,513587006,MD 542
+49486124,49486118,0,False,tertiary,Woodbourne Avenue,64.42,"['3', '2']",,,25 mph,,,,,,,"[48982371, 546701452]",
+49486125,49486124,0,False,tertiary,Woodbourne Avenue,20.605,4,,,,,,,,,,513587005,
+49487271,49467997,0,False,residential,Winston Avenue,239.998,,,,,,,,,,,6006758,
+49487271,49544780,0,False,residential,Northwood Drive,91.837,2,,,,,,,,,,132381959,
+49487271,49489414,0,False,residential,Northwood Drive,98.62,2,,,,,,,,,,"[6022402, 132381959]",
+49487300,49487302,0,False,residential,Winston Avenue,23.2,,,,,,,,,,,6006758,
+49487300,49490730,0,True,primary,Loch Raven Boulevard,87.777,2,,,35 mph,,,,,,,546710567,MD 542
+49487300,49467997,0,False,residential,Winston Avenue,231.37,,,,,,,,,,,6006758,
+49487302,49487300,0,False,residential,Winston Avenue,23.2,,,,,,,,,,,6006758,
+49487302,49487354,0,True,primary,Loch Raven Boulevard,57.407,2,,,35 mph,,,,,,,500555014,MD 542
+49487354,49491024,0,True,primary,Loch Raven Boulevard,50.184,2,,,35 mph,,,,,,,500555014,MD 542
+49489354,49489356,0,False,residential,Marble Hall Road,21.021,2,,,,,,,,,,6007056,
+49489354,49490975,0,True,primary,Loch Raven Boulevard,30.393,2,,,35 mph,,,,,,,113104119,MD 542
+49489356,49489354,0,False,residential,Marble Hall Road,21.021,2,,,,,,,,,,6007056,
+49489356,4243479752,0,True,primary,Loch Raven Boulevard,146.567,2,,,35 mph,,,,,,,51535584,MD 542
+49489391,49489397,0,False,primary,East Cold Spring Lane,104.528,3,,,25 mph,,,,,,,424993733,
+49489391,49515606,0,False,primary,East Cold Spring Lane,41.562,3,,,25 mph,,,,,,,424993733,
+49489397,49489399,0,False,residential,Marble Hall Road,210.6,2,,,,,,,,,,6007057,
+49489397,49496884,0,False,residential,East 43rd Street,134.409,2,,,,,,,,,,287417217,
+49489397,49489391,0,False,primary,East Cold Spring Lane,104.528,3,,,25 mph,,,,,,,424993733,
+49489399,49489414,0,False,residential,Marble Hall Road,229.109,2,,,,,,,,,,6007057,
+49489399,49489397,0,False,residential,Marble Hall Road,210.6,2,,,,,,,,,,6007057,
+49489399,49520297,0,False,residential,Crofton Road,86.14,,,,,,,,,,,6010900,
+49489414,49489399,0,False,residential,Marble Hall Road,229.109,2,,,,,,,,,,6007057,
+49489414,49467996,0,False,residential,Stonewood Road,227.871,,,,,,,,,,,6020664,
+49489414,49487271,0,False,residential,Northwood Drive,98.62,2,,,,,,,,,,"[6022402, 132381959]",
+49489414,49496295,0,False,residential,Northwood Drive,86.393,,,,,,,,,,,6022402,
+49490730,49467996,0,False,residential,Stonewood Road,200.605,,,,,,,,,,,6020664,
+49490730,49490734,0,True,primary,Loch Raven Boulevard,87.962,2,,,35 mph,,,,,,,546710567,MD 542
+49490734,49491013,0,False,residential,Pentwood Road,27.527,,,,,,,,,,,6007727,
+49490734,49496295,0,False,residential,Pentwood Road,349.162,,,,,,,,,,,6007727,
+49490734,49490741,0,True,primary,Loch Raven Boulevard,83.685,2,,,35 mph,,,,,,,546710567,MD 542
+49490741,49491007,0,False,residential,Pentridge Road,24.334,,,,,,,,,,,235666085,
+49490741,49513947,0,False,residential,Pentridge Road,338.846,,,,,,,,,,,6010237,
+49490741,49490745,0,True,primary,Loch Raven Boulevard,84.984,2,,,35 mph,,,,,,,546710567,MD 542
+49490745,49520297,0,False,residential,Crofton Road,335.402,,,,,,,,,,,6010900,
+49490745,49490751,0,True,primary,Loch Raven Boulevard,95.653,"['2', '3']",,,35 mph,,,,,,,"[546710566, 546710567]",MD 542
+49490751,49429058,0,True,primary,Loch Raven Boulevard,13.378,3,,,35 mph,,,,,,,546710566,MD 542
+49490751,49429066,0,True,primary,East Cold Spring Lane,110.59,"['1', '2']",,,25 mph,,,,,,,"[547776312, 204145052]",
+49490971,49489354,0,True,primary,Loch Raven Boulevard,57.991,2,,,35 mph,,,,,,,113104119,MD 542
+49490975,5283035276,0,False,residential,Lochwood Road,21.034,,,,,,,,,,,546710552,
+49490975,49490981,0,True,primary,Loch Raven Boulevard,91.78,2,,,35 mph,,,,,,,113104119,MD 542
+49490981,49462535,0,True,primary,Loch Raven Boulevard,91.353,2,,,35 mph,,,,,,,113104119,MD 542
+49491000,49491002,0,True,primary,Loch Raven Boulevard,57.324,2,,,35 mph,,,,,,,500555014,MD 542
+49491000,49490751,0,True,primary,East Cold Spring Lane,20.419,3,,,25 mph,,,,,,,546710563,
+49491002,49491007,0,True,primary,Loch Raven Boulevard,110.487,2,,,35 mph,,,,,,,500555014,MD 542
+49491007,49490741,0,False,residential,Pentridge Road,24.334,,,,,,,,,,,235666085,
+49491007,49491013,0,True,primary,Loch Raven Boulevard,113.053,2,,,35 mph,,,,,,,500555014,MD 542
+49491013,49490734,0,False,residential,Pentwood Road,27.527,,,,,,,,,,,6007727,
+49491013,49491021,0,True,primary,Loch Raven Boulevard,95.034,2,,,35 mph,,,,,,,500555014,MD 542
+49491021,49487302,0,True,primary,Loch Raven Boulevard,59.364,2,,,35 mph,,,,,,,500555014,MD 542
+49491024,49491032,0,True,primary,Loch Raven Boulevard,146.314,2,,,35 mph,,,yes,,,,"[546701449, 51535582, 500555014]",MD 542
+49491032,49491034,0,True,primary,Loch Raven Boulevard,108.666,2,,,35 mph,,,,,,,424996640,MD 542
+49491032,49497101,0,False,residential,Hartsdale Road,20.388,,,,,,,,,,,546701448,
+49491034,49433172,0,True,primary,Loch Raven Boulevard,42.006,2,,,35 mph,,,,,,,424996640,MD 542
+49491038,49438700,0,True,primary,Loch Raven Boulevard,62.924,2,,,35 mph,,,,,,,424996640,MD 542
+49496295,49490734,0,False,residential,Pentwood Road,349.162,,,,,,,,,,,6007727,
+49496295,49513947,0,False,residential,Northwood Drive,67.461,2,,,,,,,,,,6022335,
+49496295,49489414,0,False,residential,Northwood Drive,86.393,,,,,,,,,,,6022402,
+49496884,49489397,0,False,residential,East 43rd Street,134.409,2,,,,,,,,,,287417217,
+49497101,49491032,0,False,residential,Hartsdale Road,20.388,,,,,,,,,,,546701448,
+49497101,49544810,0,True,primary,Loch Raven Boulevard,145.628,2,,,35 mph,,,yes,,,,"[455267034, 546710567, 51535583]",MD 542
+49513947,49520297,0,False,residential,Northwood Drive,87.729,2,,,,,,,,,,6022335,
+49513947,49490741,0,False,residential,Pentridge Road,338.846,,,,,,,,,,,6010237,
+49513947,49496295,0,False,residential,Northwood Drive,67.461,2,,,,,,,,,,6022335,
+49515291,49573999,0,False,residential,Northwood Drive,82.457,2,,,,,,,,,,132381959,
+49515291,49527607,0,False,residential,Northwood Drive,91.864,2,,,,,,,,,,132381959,
+49515291,49468004,0,False,residential,"['Glenwood Avenue', 'Kelway Road']",318.928,,,,,,,,,,,"[6004257, 401883887]",
+49515606,49468044,0,False,primary,East Cold Spring Lane,120.281,3,,,25 mph,,,,,,,424993733,
+49515606,49520297,0,False,residential,Northwood Drive,183.64,2,,,,,,,,,,6022335,
+49515606,49489391,0,False,primary,East Cold Spring Lane,41.562,3,,,25 mph,,,,,,,424993733,
+49520297,49513947,0,False,residential,Northwood Drive,87.729,2,,,,,,,,,,6022335,
+49520297,49490745,0,False,residential,Crofton Road,335.402,,,,,,,,,,,6010900,
+49520297,49489399,0,False,residential,Crofton Road,86.14,,,,,,,,,,,6010900,
+49520297,49515606,0,False,residential,Northwood Drive,183.64,2,,,,,,,,,,6022335,
+49522772,49544780,0,False,residential,Northwood Drive,53.782,2,,,,,,,,,,132381959,
+49522772,49527607,0,False,residential,Northwood Drive,79.733,2,,,,,,,,,,132381959,
+49527607,49468004,0,False,residential,Silverthorne Road,240.476,,,,,,,,,,,6011780,
+49527607,49515291,0,False,residential,Northwood Drive,91.864,2,,,,,,,,,,132381959,
+49527607,49522772,0,False,residential,Northwood Drive,79.733,2,,,,,,,,,,132381959,
+49544780,49522772,0,False,residential,Northwood Drive,53.782,2,,,,,,,,,,132381959,
+49544780,49468002,0,False,residential,Kitmore Road,238.758,,,,,,,,,,,6014420,
+49544780,49487271,0,False,residential,Northwood Drive,91.837,2,,,,,,,,,,132381959,
+49544810,49491024,0,True,residential,Kitmore Road,21.885,,,,,,,,,,,343975322,
+49544810,49487300,0,True,primary,Loch Raven Boulevard,107.228,2,,,35 mph,,,,,,,546710567,MD 542
+49544810,49468002,0,False,residential,Kitmore Road,260.307,,,,,,,,,,,6014420,
+49568080,5282960332,0,True,primary,Loch Raven Boulevard,10.542,2,,,35 mph,,,,,,,513587006,MD 542
+49568080,49568081,0,True,residential,Leith Road,31.124,,,,,,,,,,,546701451,
+49568081,49568099,0,False,residential,Leith Road,141.145,2,,,,,,,,,,6020492,
+49568081,5282960332,0,True,residential,Leith Road,31.171,,,,,,,,,,,546701450,
+49568099,49568081,0,False,residential,Leith Road,141.145,2,,,,,,,,,,6020492,
+49568099,49486118,0,False,residential,Leith Road,150.772,2,,,,,,,,,,"[6020497, 6020503]",
+49573999,49486091,0,False,residential,Northwood Drive,108.042,2,,,,,,,,,,132381959,
+49573999,49515291,0,False,residential,Northwood Drive,82.457,2,,,,,,,,,,132381959,
+5282960332,49497101,0,True,primary,Loch Raven Boulevard,106.476,2,,,35 mph,,,,,,,513587006,MD 542
+5283035276,49489356,0,True,primary,Loch Raven Boulevard,30.065,2,,,35 mph,,,,,,,51535584,MD 542
+5283035276,49490975,0,False,residential,Lochwood Road,21.034,,,,,,,,,,,546710552,

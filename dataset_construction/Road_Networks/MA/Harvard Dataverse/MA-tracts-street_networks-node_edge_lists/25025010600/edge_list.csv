@@ -1,0 +1,89 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+61342107,1012683527,0,True,secondary,Dartmouth Street,38.569,2,18.3,,,,,,,,,426477473,
+61342107,61342112,0,True,primary,Stuart Street,91.327,"['4', '2']",14.6,,,,,,,,,"[426477508, 426477503]",MA 9
+61342109,61423909,0,True,residential,Blagden Street,35.053,2,14.6,,25 mph,,,,,,,8645738,
+61342109,61371341,0,True,primary,Huntington Avenue,29.784,2,30.2,,,,,,,,,426477497,MA 9
+61342110,61371341,0,True,secondary_link,,40.355,2,,,,,,,,,,87075318,
+61342110,61342109,0,True,secondary,Dartmouth Street,45.405,3,18.3,,,,,,,,,426477485,
+61342112,61372777,0,False,residential,Trinity Place,117.401,2,15.2,,25 mph,,,,,,,8637704,
+61342112,61374259,0,True,primary,Stuart Street,91.824,2,14.6,,,,,,,,,426477506,MA 9
+61342112,4845013597,0,False,residential,Trinity Place,41.409,,,,25 mph,,,,,,,492483292,
+61342119,61342181,0,False,secondary,Dalton Street,81.658,2,20.4,,,,,,,,,8642176,
+61342119,61342773,0,False,secondary,Belvidere Street,22.042,2,15.9,,,,,,,,,405119216,
+61342181,61354120,0,False,secondary,Dalton Street,131.926,"['2', '3']",20.4,,,,,,,,,"[8642176, 426831644]",
+61342181,61342119,0,False,secondary,Dalton Street,81.658,2,20.4,,,,,,,,,8642176,
+61342413,61505139,0,True,secondary,Exeter Street,97.039,2,17.1,,,,,,,,,579279967,
+61342579,61371324,0,False,tertiary,West Newton Street,87.542,2,14.0,,25 mph,,,,,,,8636732,
+61342579,61342799,0,False,residential,Saint Botolph Street,79.585,2,15.2,,25 mph,,,,,,,89531584,
+61342773,61342119,0,False,secondary,Belvidere Street,22.042,2,15.9,,,,,,,,,405119216,
+61342773,3042027727,0,False,secondary,Belvidere Street,105.215,2,15.9,,,,,,,,,405119216,
+61342797,61342799,0,False,residential,Saint Botolph Street,83.492,2,15.2,,25 mph,,,,,,,89531584,
+61342797,61498832,0,False,residential,Garrison Street,37.017,2,15.2,,25 mph,,,,,,,"[8647628, 8651949]",
+61342797,61374390,0,False,residential,Garrison Street,78.884,2,15.2,,25 mph,,,,,,,8651949,
+61342797,808647360,0,False,residential,"['Saint Botolph Street', 'Harcourt Street']",167.747,2,15.2,,25 mph,,,,,,,"[89531584, 66942122]",
+61342799,61353693,0,False,residential,Follen Street,33.434,2,15.2,,25 mph,,,,,,,8650750,
+61342799,61342797,0,False,residential,Saint Botolph Street,83.492,2,15.2,,25 mph,,,,,,,89531584,
+61342799,61342579,0,False,residential,Saint Botolph Street,79.585,2,15.2,,25 mph,,,,,,,89531584,
+61353693,61498825,0,False,residential,,33.362,,,,25 mph,,,,,,,8647644,
+61353693,61353698,0,False,residential,Follen Street,56.077,2,15.2,,25 mph,,,,,,,8650750,
+61353693,61342799,0,False,residential,Follen Street,33.434,2,15.2,,25 mph,,,,,,,8650750,
+61353698,61353693,0,False,residential,Follen Street,56.077,2,15.2,,25 mph,,,,,,,8650750,
+61354119,349355356,0,True,secondary,Boylston Street,88.332,3,24.4,,,,,,,,,8645818,
+61354120,61342181,0,False,secondary,Dalton Street,131.926,"['2', '3']",20.4,,,,,,,,,"[8642176, 426831644]",
+61354120,61354123,0,True,secondary,Boylston Street,27.331,3,24.4,,,,,,,,,579270612,
+61354123,61358308,0,True,secondary,Boylston Street,132.942,3,24.4,,,,,,,,,8645818,
+61358308,61354119,0,True,secondary,Boylston Street,170.818,3,24.4,,,,,,,,,8645818,
+61371292,61423597,0,False,residential,Harcourt Street,14.365,2,15.2,,25 mph,,,,,,,8647578,
+61371292,808647288,0,False,residential,Harcourt Street,85.547,2,15.2,,25 mph,,,,,,,8647578,
+61371292,61516827,0,True,primary,Huntington Avenue,124.06,,30.2,,,,,,,,,8649412,MA 9
+61371318,3051043395,0,True,primary,Huntington Avenue,94.748,2,30.2,,,,,,,,,426497263,MA 9
+61371318,61516827,0,True,secondary,Exeter Street,15.748,2,17.1,,,,,,,,,579279967,
+61371324,61385665,0,False,secondary,Belvidere Street,12.767,2,7,,,,,,,,,591278029,
+61371324,61342579,0,False,tertiary,West Newton Street,87.542,2,14.0,,25 mph,,,,,,,8636732,
+61371324,61374390,0,True,primary,Huntington Avenue,162.935,,30.2,,,,,,,,,426477494,MA 9
+61371341,1038897344,0,True,primary,Huntington Avenue,133.073,2,30.2,,,,,,,,,591677182,MA 9
+61371341,61379436,0,True,motorway_link,,304.551,1,,,,,,,yes,,,"[8649538, 8646718]",
+61372777,61342112,0,False,residential,Trinity Place,117.401,2,15.2,,25 mph,,,,,,,8637704,
+61372777,61342109,0,True,primary,Saint James Avenue,95.679,"['2', '3']",14.6,,,,,,,,,"[426477501, 8652182]",MA 9
+61374390,61342797,0,False,residential,Garrison Street,78.884,2,15.2,,25 mph,,,,,,,8651949,
+61374390,61371292,0,True,primary,Huntington Avenue,85.016,3,30.2,,,,,,,,,"[426477491, 426477494]",MA 9
+61379454,61379436,0,True,motorway,Massachusetts Turnpike,261.859,3,61.0,,55 mph,,,,yes,,,8650855,I 90
+61380211,61473055,0,True,motorway_link,,416.659,2,,,,,,,yes,,,8640816,
+61385665,61371324,0,False,secondary,Belvidere Street,12.767,2,7,,,,,,,,,591278029,
+61385665,3042027727,0,True,secondary,Belvidere Street,122.702,1,7,,,,,,,,,8646304,
+61423597,61371292,0,False,residential,Harcourt Street,14.365,2,15.2,,25 mph,,,,,,,8647578,
+61423597,3051041198,0,False,residential,Ring Road,21.852,,,,25 mph,,,,,,,8649604,
+61423597,61423618,0,True,primary,Huntington Avenue,154.673,2,30.2,,,,,,,,,591236046,MA 9
+61423618,61385665,0,True,primary,Huntington Avenue,95.916,"['4', '2']",30.2,,,,,,,,,"[426497260, 591236046]",MA 9
+61423909,61505139,0,True,residential,Blagden Street,156.016,2,14.6,,25 mph,,,,,,,8645738,
+61423909,61371318,0,True,residential,Huntington Avenue,184.966,2,30.2,,25 mph,,,,,,,8647527,
+61473055,61423618,0,True,motorway_link,,281.14,1,,,,,,,yes,,,"[8652170, 8644723]",
+61473055,61498439,0,True,motorway_link,,216.463,2,,,,,,,yes,,,"[87075315, 8645742]",
+61498439,1012683529,0,True,primary,Stuart Street,19.487,2,14.6,,,,,,,,,591677218,MA 9
+61498789,61498825,0,False,residential,,41.734,,,,25 mph,,,,,,,8647597,
+61498819,61498832,0,False,residential,,50.054,,,,25 mph,,,,,,,8647426,
+61498825,61498832,0,False,residential,,50.35,,,,25 mph,,,,,,,8647469,
+61498825,61498789,0,False,residential,,41.734,,,,25 mph,,,,,,,8647597,
+61498825,61353693,0,False,residential,,33.362,,,,25 mph,,,,,,,8647644,
+61498832,61498825,0,False,residential,,50.35,,,,25 mph,,,,,,,8647469,
+61498832,61498819,0,False,residential,,50.054,,,,25 mph,,,,,,,8647426,
+61498832,61342797,0,False,residential,Garrison Street,37.017,2,15.2,,25 mph,,,,,,,"[8647628, 8651949]",
+61505139,61371318,0,True,secondary,Exeter Street,98.362,2,17.1,,,,,,,,,579279967,
+61516818,61498439,0,True,primary,Stuart Street,73.668,2,14.6,,,,,,,,,591236027,MA 9
+61516827,61516818,0,True,primary,Stuart Street,57.851,2,14.6,,,,,,,,,8643650,MA 9
+349355356,61342413,0,True,secondary,Boylston Street,112.046,3,24.4,,,,,,,,,591236042,
+349355356,3051041198,0,False,residential,Ring Road,228.491,,,,25 mph,,,,,,,8649604,
+808647288,61371292,0,False,residential,Harcourt Street,85.547,2,15.2,,25 mph,,,,,,,8647578,
+808647360,61342797,0,False,residential,"['Saint Botolph Street', 'Harcourt Street']",167.747,2,15.2,,25 mph,,,,,,,"[89531584, 66942122]",
+1012683527,61342110,0,True,secondary,Dartmouth Street,30.744,"['4', '5']",18.3,,,,,,,,,"[426477480, 426477476]",
+1012683529,1012683527,0,True,secondary_link,,55.02,,,,,,,,,,,40017578,
+1012683529,61342107,0,True,primary,Stuart Street,37.346,2,14.6,,,,,,,,,591236030,MA 9
+1038897344,61516818,0,True,primary_link,,42.28,,,,,,,,,,,89639666,
+1038897344,61371318,0,True,primary,Huntington Avenue,51.816,"['4', '2']",30.2,,,,,,,,,"[591236024, 426477499]",MA 9
+3042027727,61342773,0,False,secondary,Belvidere Street,105.215,2,15.9,,,,,,,,,405119216,
+3042027727,61385665,0,True,secondary,Belvidere Street,117.116,"['1', '3']","['9.75', '8.5']",,,,,,,,,"[405119218, 591278028, 426497254, 405119215]",
+3051041198,349355356,0,False,residential,Ring Road,228.491,,,,25 mph,,,,,,,8649604,
+3051041198,61423597,0,False,residential,Ring Road,21.852,,,,25 mph,,,,,,,8649604,
+3051043395,3051041198,0,True,residential,,29.421,,,,25 mph,,,,,,,300993783,
+3051043395,61423597,0,True,primary,Huntington Avenue,28.451,2,30.2,,,,,,,,,426497263,MA 9
+4845013597,61342112,0,False,residential,Trinity Place,41.409,,,,25 mph,,,,,,,492483292,

@@ -1,0 +1,41 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+41990076,41990083,0,False,residential,Merlin Drive,148.486,,,,30 mph,,,,,,,5643398,
+41990076,42006606,0,False,residential,Valerie Drive,238.065,,,,30 mph,,,,,,,5647488,
+41990083,41990089,0,False,residential,Merlin Drive,89.547,,,,30 mph,,,,,,,5643398,
+41990083,41990076,0,False,residential,Merlin Drive,148.486,,,,30 mph,,,,,,,5643398,
+41990083,42032217,0,False,residential,Brookhaven Drive,204.236,,,,30 mph,,,,,,,5646874,
+41990089,41990083,0,False,residential,Merlin Drive,89.547,,,,30 mph,,,,,,,5643398,
+41990089,827126732,0,False,residential,Pinecrest Drive,70.133,,,,30 mph,,,,,,,5645888,
+41990089,42032217,0,False,residential,"['Valerie Drive', 'Merlin Drive']",761.871,,,,30 mph,,,,,,,"[5647488, 5643398]",
+42000388,42002009,0,False,primary,Troy Schenectady Road,119.28,4,,,45 mph,,,,,,,53306645,NY 7
+42000388,42000404,0,False,residential,Winne Road,445.253,,,,30 mph,,,,,,,5644228,
+42000404,42000388,0,False,residential,Winne Road,445.253,,,,30 mph,,,,,,,5644228,
+42000422,42002013,0,False,primary,Troy Schenectady Road,162.634,4,,,45 mph,,,,,,,53306645,NY 7
+42002009,42000388,0,False,primary,Troy Schenectady Road,119.28,4,,,45 mph,,,,,,,53306645,NY 7
+42002013,42000422,0,False,primary,Troy Schenectady Road,162.634,4,,,45 mph,,,,,,,53306645,NY 7
+42002013,998095712,0,False,primary,Troy Schenectady Road,3.959,4,,,45 mph,,,,,,,53306645,NY 7
+42002013,42020331,0,False,residential,Pinecrest Drive,91.674,,,,30 mph,,,,,,,5645888,
+42006606,42006610,0,False,residential,Adam Drive,48.045,,,,30 mph,,,,,,,5644732,
+42006606,41990076,0,False,residential,Valerie Drive,238.065,,,,30 mph,,,,,,,5647488,
+42006606,42032217,0,False,residential,Valerie Drive,122.895,,,,30 mph,,,,,,,5647488,
+42006610,42006606,0,False,residential,Adam Drive,48.045,,,,30 mph,,,,,,,5644732,
+42010804,818260378,0,False,residential,Timothy Lane,207.757,,,,30 mph,,,,,,,5645053,
+42010804,42021372,0,False,residential,WTRY Road,338.633,,,,30 mph,,,,,,,5645973,
+42020331,827126732,0,False,residential,Pinecrest Drive,441.088,,,,30 mph,,,,,,,5645888,
+42020331,42002013,0,False,residential,Pinecrest Drive,91.674,,,,30 mph,,,,,,,5645888,
+42020331,818818848,0,False,residential,Woodfield Drive,202.36,,,,30 mph,,,,,,,67818379,
+42021372,42010804,0,False,residential,WTRY Road,338.633,,,,30 mph,,,,,,,5645973,
+42032217,41990083,0,False,residential,Brookhaven Drive,204.236,,,,30 mph,,,,,,,5646874,
+42032217,42006606,0,False,residential,Valerie Drive,122.895,,,,30 mph,,,,,,,5647488,
+42032217,41990089,0,False,residential,"['Valerie Drive', 'Merlin Drive']",761.871,,,,30 mph,,,,,,,"[5647488, 5643398]",
+818260378,42010804,0,False,residential,Timothy Lane,207.757,,,,30 mph,,,,,,,5645053,
+818818831,818818831,0,False,residential,Flower Hill Court,62.086,,,,30 mph,,,,,,,68860139,
+818818831,818818831,1,False,residential,Flower Hill Court,62.086,,,,30 mph,,,,,,,68860139,
+818818831,827126732,0,False,residential,Flower Hill Court,234.556,,,,30 mph,,,,,,,68860139,
+818818848,818818848,0,False,residential,Woodfield Drive,70.344,,,,30 mph,,,,,,,67818379,
+818818848,818818848,1,False,residential,Woodfield Drive,70.344,,,,30 mph,,,,,,,67818379,
+818818848,42020331,0,False,residential,Woodfield Drive,202.36,,,,30 mph,,,,,,,67818379,
+827126732,41990089,0,False,residential,Pinecrest Drive,70.133,,,,30 mph,,,,,,,5645888,
+827126732,42020331,0,False,residential,Pinecrest Drive,441.088,,,,30 mph,,,,,,,5645888,
+827126732,818818831,0,False,residential,Flower Hill Court,234.556,,,,30 mph,,,,,,,68860139,
+998095712,42002013,0,False,primary,Troy Schenectady Road,3.959,4,,,45 mph,,,,,,,53306645,NY 7

@@ -1,0 +1,289 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+212448615,212448618,0,False,residential,,55.669,,,,,,,,,,,20099050,
+212448615,212474429,0,False,residential,Park Place,106.684,,,,,,,,,,,20101092,
+212448615,212488778,0,False,residential,Reed Terrace,82.583,,,,,,,,,,,20101842,
+212448618,212448615,0,False,residential,,55.669,,,,,,,,,,,20099050,
+212453006,212455693,0,False,primary,Utica Boulevard,70.04,,,,30 mph,,,,,,,20101953,NY 12
+212453006,212477865,0,False,primary,"['Utica Boulevard', 'Bea Luck Road']",982.757,,,,"['30 mph', '45 mph']",,,,,,,"[20101953, 20101302]",NY 12
+212453006,212453009,0,False,primary_link,,28.929,2,,,,,,,,,,322402720,
+212453009,212455693,0,False,secondary,State Highway 26,73.397,2,,,,,,,,,,137778494,NY 26
+212453009,212453006,0,False,primary_link,,28.929,2,,,,,,,,,,322402720,
+212455693,212453006,0,False,primary,Utica Boulevard,70.04,,,,30 mph,,,,,,,20101953,NY 12
+212455693,212453009,0,False,secondary,State Highway 26,73.397,2,,,,,,,,,,137778494,NY 26
+212455693,212492451,0,False,primary,South State Street,207.653,,,,30 mph,,,,,,,20102042,NY 12;NY 26
+212456815,212498317,0,False,primary,Bostwick Street,107.213,,,,,,,,,,,50169150,NY 812
+212456815,212507364,0,False,residential,Park Avenue,390.26,,,,,,,,,,,20103546,
+212456815,212498321,0,False,primary,Bostwick Street,139.927,,,,,,,,,,,50169150,NY 812
+212470502,212475584,0,False,residential,Woodlawn Avenue,458.578,,,,,,,,,,,20100816,
+212470502,3452192314,0,False,residential,West Street,349.565,,,,,,,,,,,20103004,
+212470502,212507376,0,False,residential,West Street,114.004,,,,,,,,,,,20103004,
+212472585,212492453,0,False,primary,South State Street,58.882,,,,30 mph,,,,,,,20102042,NY 12;NY 26
+212472585,212492451,0,False,primary,South State Street,175.299,,,,30 mph,,,,,,,20102042,NY 12;NY 26
+212472585,1499643057,0,False,residential,Jackson Street,322.063,,,,,,,,,,,20100982,
+212472600,1499643057,0,False,residential,Jackson Street,27.527,,,,,,,,,,,20100982,
+212472600,1499643058,0,False,tertiary,River Street,29.018,,,,,,,,,,,20103435,
+212472600,212509766,0,False,tertiary,River Street,497.959,,,,,,,,,,,20103435,
+212474429,212448615,0,False,residential,Park Place,106.684,,,,,,,,,,,20101092,
+212474429,212480325,0,False,primary,North State Street,125.635,2,,,30 mph,,,,,,,20101417,NY 26; NY 812
+212474429,2526975185,0,False,primary,North State Street,83.224,2,,,30 mph,,,,,,,20101417,NY 26; NY 812
+212474533,212474549,0,False,residential,Hillcrest Circle,404.375,,,,,,,,,,,20101105,
+212474533,212474549,1,False,residential,Sunset Drive,275.02,,,,,,,,,,,20103275,
+212474533,212492574,0,False,residential,Sunset Drive,154.927,,,,,,,,,,,20103275,
+212474549,212512377,0,False,residential,Sunset Drive,52.328,,,,,,,,,,,20103275,
+212474549,212474533,0,False,residential,Hillcrest Circle,404.375,,,,,,,,,,,20101105,
+212474549,212474533,1,False,residential,Sunset Drive,275.02,,,,,,,,,,,20103275,
+212474984,212480288,0,False,primary,North State Street,100.615,2,,,30 mph,,,,,,,20101416,NY 26; NY 812
+212474984,212480344,0,False,primary,North State Street,42.825,2,,,30 mph,,,,,,,20101417,NY 26; NY 812
+212474984,212480341,0,False,residential,"['Davenport Place', 'School Drive']",430.722,,,,,,,,,,,"[20101811, 20101125]",
+212475576,212507351,0,False,unclassified,Shady Avenue,123.426,,,,,,,,,,,20103466,
+212475576,212475578,0,False,unclassified,East State Street,221.08,,,,30 mph,,,,,,,20101156,
+212475576,212475674,0,False,residential,East State Street,294.498,,,,30 mph,,,,,,,137778483,
+212475578,212475580,0,False,unclassified,East State Street,142.587,,,,30 mph,,,,,,,20101156,
+212475578,212494489,0,False,residential,Hillside Drive,96.508,,,,,,,,,,,20102194,
+212475578,212475576,0,False,unclassified,East State Street,221.08,,,,30 mph,,,,,,,20101156,
+212475580,212475582,0,False,unclassified,East State Street,129.138,,,,30 mph,,,,,,,20101156,
+212475580,212475582,1,False,residential,"['Prospect Street', 'East Trinity Avenue', 'Division Street']",556.521,,,,,,,,,,,"[20101555, 20103061, 20101471]",
+212475580,212475578,0,False,unclassified,East State Street,142.587,,,,30 mph,,,,,,,20101156,
+212475582,212475584,0,False,unclassified,East State Street,119.736,,,,30 mph,,,,,,,20101156,
+212475582,212475580,0,False,unclassified,East State Street,129.138,,,,30 mph,,,,,,,20101156,
+212475582,212475580,1,False,residential,"['East Trinity Avenue', 'Division Street', 'Prospect Street']",556.521,,,,,,,,,,,"[20101555, 20103061, 20101471]",
+212475582,212507353,0,False,residential,Trinity Avenue,128.098,,,,,,,,,,,20102981,
+212475584,212475582,0,False,unclassified,East State Street,119.736,,,,30 mph,,,,,,,20101156,
+212475584,212470502,0,False,residential,Woodlawn Avenue,458.578,,,,,,,,,,,20100816,
+212475584,212475590,0,False,unclassified,East State Street,356.501,,,,30 mph,,,,,,,20101156,
+212475590,3814828569,0,False,unclassified,East State Street,32.187,,,,30 mph,,,,,,,20101156,
+212475590,212498341,0,False,residential,Bostwick Street,30.156,,,,,,,,,,,50169151,
+212475590,212475584,0,False,unclassified,East State Street,356.501,,,,30 mph,,,,,,,20101156,
+212475639,212475642,0,False,residential,East State Street,132.508,,,,30 mph,,,,,,,20101160,
+212475639,212477865,0,False,residential,"['East State Street', 'Ross Road']",683.294,,,,30 mph,,,,,,,"[20101160, 441857348, 378066533]",
+212475639,212509766,0,False,residential,Hemlock Drive,288.569,,,,,,,,,,,20103110,
+212475642,212475639,0,False,residential,East State Street,132.508,,,,30 mph,,,,,,,20101160,
+212475642,212475658,0,False,residential,East State Street,259.395,,,,30 mph,,,yes,,,,"[20101160, 137778483, 137778484]",
+212475642,212509766,0,False,tertiary,River Street,114.639,,,,,,,,,,,20103435,
+212475658,212509185,0,False,residential,Water Street,475.619,,,,,,,,,,,20103429,
+212475658,212475666,0,False,residential,East State Street,113.339,,,,30 mph,,,,,,,137778483,
+212475658,212475642,0,False,residential,East State Street,259.395,,,,30 mph,,,yes,,,,"[20101160, 137778483, 137778484]",
+212475666,212475674,0,False,residential,East State Street,105.661,,,,30 mph,,,,,,,137778483,
+212475666,212475658,0,False,residential,East State Street,113.339,,,,30 mph,,,,,,,137778483,
+212475674,212480353,0,False,residential,Highland Avenue,198.626,,,,,,,,,,,20102874,
+212475674,212475576,0,False,residential,East State Street,294.498,,,,30 mph,,,,,,,137778483,
+212475674,212475666,0,False,residential,East State Street,105.661,,,,30 mph,,,,,,,137778483,
+212476190,212492574,0,False,tertiary,West State Street,138.511,,,,,,,,,,,20102047,
+212477335,1511064373,0,False,residential,Summit Avenue,61.574,,,,,,,,,,,20101248,
+212477335,212477347,0,False,residential,Summit Avenue,373.181,,,,,,,,,,,20101248,
+212477335,212480301,0,False,residential,Fairview Drive,290.408,,,,,,,,,,,20101886,
+212477347,212480301,0,False,primary,North State Street,143.299,3,,,30 mph,,,,,,,20101415,NY 26
+212477347,212477335,0,False,residential,Summit Avenue,373.181,,,,,,,,,,,20101248,
+212477521,2763312031,0,False,residential,Collins Street,309.104,,,,,,,,,,,20101258,
+212477521,212502678,0,False,primary,Dayan Street,120.341,2,,,30 mph,,,,,,,20102672,NY 12
+212477523,2763312031,0,False,residential,Collins Street,22.129,,,,,,,,,,,20101258,
+212477523,2763312032,0,False,residential,Clinton Street,16.644,,,,,,,,,,,20101873,
+212477523,212489135,0,False,residential,Clinton Street,98.1,,,,,,,,,,,20101873,
+212477865,212453006,0,False,primary,"['Utica Boulevard', 'Bea Luck Road']",982.757,,,,"['30 mph', '45 mph']",,,,,,,"[20101953, 20101302]",NY 12
+212477865,212475639,0,False,residential,"['East State Street', 'Ross Road']",683.294,,,,30 mph,,,,,,,"[20101160, 441857348, 378066533]",
+212478451,212478457,0,False,residential,Lanpher Street,93.408,,,,,,,,,,,20101314,
+212478451,212507353,0,False,residential,Sharp Street,214.782,,,,,,,,,,,20102980,
+212478451,212507351,0,False,residential,Sharp Street,242.004,,,,,,,,,,,20102980,
+212478457,212478451,0,False,residential,Lanpher Street,93.408,,,,,,,,,,,20101314,
+212478457,212478462,0,False,residential,Lanpher Street,220.701,,,,,,,,,,,20101314,
+212478457,212488674,0,False,residential,James Street,240.931,,,,,,,,,,,20101833,
+212478462,212507353,0,False,residential,Trinity Avenue,117.634,,,,,,,,,,,20102981,
+212478462,212507376,0,False,residential,Trinity Avenue,181.75,,,,,,,,,,,20102981,
+212478462,212478457,0,False,residential,Lanpher Street,220.701,,,,,,,,,,,20101314,
+212478956,212478961,0,False,residential,Cedar Street,192.092,,,,,,,,,,,20101348,
+212478961,212478956,0,False,residential,Cedar Street,192.092,,,,,,,,,,,20101348,
+212478961,212480075,0,False,residential,Rural Avenue,406.144,,,,,,,,,,,20101404,
+212480075,212480077,0,False,residential,Rural Avenue,80.139,,,,,,,,,,,20101404,
+212480075,212478961,0,False,residential,Rural Avenue,406.144,,,,,,,,,,,20101404,
+212480075,212495653,0,False,residential,Cascade Avenue,115.197,,,,,,,,,,,137778477,
+212480075,212495647,0,False,residential,Cascade Avenue,212.17,,,,,,,yes,,,,"[20102245, 137778476, 137778477]",
+212480077,212480075,0,False,residential,Rural Avenue,80.139,,,,,,,,,,,20101404,
+212480288,212474984,0,False,primary,North State Street,100.615,2,,,30 mph,,,,,,,20101416,NY 26; NY 812
+212480288,212489142,0,False,primary_link,Bostwick Street,48.457,,,,,,,,,,,20102436,
+212480288,212498317,0,False,primary,Bostwick Street,326.684,,,,,,,,,,,50169150,NY 812
+212480288,212480294,0,False,primary,North State Street,146.317,"['3', '2']",,,30 mph,,,,,,,"[406678523, 20101415]",NY 26
+212480294,4454510441,0,False,primary,North State Street,23.878,3,,,30 mph,,,,,,,20101415,NY 26
+212480294,212501305,0,False,residential,Stewart Street,306.611,,,,,,,,,,,20102600,
+212480294,212480288,0,False,primary,North State Street,146.317,"['3', '2']",,,30 mph,,,,,,,"[406678523, 20101415]",NY 26
+212480297,212480301,0,False,primary,North State Street,101.042,3,,,30 mph,,,,,,,20101415,NY 26
+212480297,4454510441,0,False,primary,North State Street,133.421,3,,,30 mph,,,,,,,20101415,NY 26
+212480297,1511064373,0,False,residential,Eugene Street,291.452,,,,,,,,,,,20103081,
+212480301,212477347,0,False,primary,North State Street,143.299,3,,,30 mph,,,,,,,20101415,NY 26
+212480301,212480297,0,False,primary,North State Street,101.042,3,,,30 mph,,,,,,,20101415,NY 26
+212480301,212477335,0,False,residential,Fairview Drive,290.408,,,,,,,,,,,20101886,
+212480325,212474429,0,False,primary,North State Street,125.635,2,,,30 mph,,,,,,,20101417,NY 26; NY 812
+212480325,212495653,0,False,primary,Dayan Street,104.006,2,,,30 mph,,,,,,,20102672,NY 12
+212480325,212515723,0,False,unclassified,Shady Avenue,291.88,,,,,,,,,,,20103466,
+212480325,212485864,0,False,primary,South State Street,209.264,,,,30 mph,,,,,,,137778488,NY 12;NY 26
+212480333,212480336,0,False,primary,North State Street,87.273,2,,,30 mph,,,,,,,20101417,NY 26; NY 812
+212480333,2526975185,0,False,primary,North State Street,12.114,2,,,30 mph,,,,,,,20101417,NY 26; NY 812
+212480333,212489202,0,False,residential,The Parkway,275.651,,,,,,,,,,,20101876,
+212480336,212480341,0,False,primary,North State Street,69.692,2,,,30 mph,,,,,,,20101417,NY 26; NY 812
+212480336,212480333,0,False,primary,North State Street,87.273,2,,,30 mph,,,,,,,20101417,NY 26; NY 812
+212480336,212513189,0,False,residential,Waters Terrace,313.095,,,,,,,,,,,20103522,
+212480341,212480344,0,False,primary,North State Street,50.067,2,,,30 mph,,,,,,,20101417,NY 26; NY 812
+212480341,212480336,0,False,primary,North State Street,69.692,2,,,30 mph,,,,,,,20101417,NY 26; NY 812
+212480341,212474984,0,False,residential,"['Davenport Place', 'School Drive']",430.722,,,,,,,,,,,"[20101811, 20101125]",
+212480344,212474984,0,False,primary,North State Street,42.825,2,,,30 mph,,,,,,,20101417,NY 26; NY 812
+212480344,212480341,0,False,primary,North State Street,50.067,2,,,30 mph,,,,,,,20101417,NY 26; NY 812
+212480344,212489142,0,False,tertiary,West State Street,147.097,,,,,,,,,,,20102047,
+212480353,212480356,0,False,residential,Ridge View Terrace,56.607,,,,,,,,,,,20101418,
+212480353,212506161,0,False,residential,Highland Avenue,227.335,,,,,,,,,,,20102874,
+212480353,212475674,0,False,residential,Highland Avenue,198.626,,,,,,,,,,,20102874,
+212480356,212480353,0,False,residential,Ridge View Terrace,56.607,,,,,,,,,,,20101418,
+212485864,212485869,0,False,residential,Elm Street,247.937,,,,,,,,,,,20101672,
+212485864,212492460,0,False,primary,South State Street,95.312,,,,30 mph,,,,,,,137778488,NY 12;NY 26
+212485864,212480325,0,False,primary,South State Street,209.264,,,,30 mph,,,,,,,137778488,NY 12;NY 26
+212485869,212485864,0,False,residential,Elm Street,247.937,,,,,,,,,,,20101672,
+212485869,212515723,0,False,residential,Park Avenue,161.099,,,,,,,,,,,20103546,
+212485869,212515125,0,False,residential,Park Avenue,173.652,,,,,,,,,,,20103546,
+212488176,212488179,0,False,residential,Clinton Hill Drive,177.309,,,,,,,,,,,20101788,
+212488176,2763312032,0,False,residential,Clinton Street,244.342,,,,,,,,,,,20101873,
+212488179,212488176,0,False,residential,Clinton Hill Drive,177.309,,,,,,,,,,,20101788,
+212488674,212509191,0,False,unclassified,Shady Avenue,110.016,,,,,,,,,,,20103466,
+212488674,212478457,0,False,residential,James Street,240.931,,,,,,,,,,,20101833,
+212488674,212507351,0,False,unclassified,Shady Avenue,122.435,,,,,,,,,,,20103466,
+212488778,2526975185,0,False,residential,Trinity Avenue,110.557,,,,,,,,,,,20102981,
+212488778,212448615,0,False,residential,Reed Terrace,82.583,,,,,,,,,,,20101842,
+212488778,212507364,0,False,residential,Trinity Avenue,246.122,,,,,,,,,,,20102981,
+212489135,1511064339,0,False,residential,Clinton Street,171.131,,,,,,,,,,,20101873,
+212489135,212477523,0,False,residential,Clinton Street,98.1,,,,,,,,,,,20101873,
+212489135,212513189,0,False,residential,Easton Street,265.488,,,,,,,,,,,20103340,
+212489142,1511064339,0,False,tertiary,West State Street,14.594,,,,,,,,,,,20102047,
+212489142,212480288,0,False,primary_link,Bostwick Street,48.457,,,,,,,,,,,20102436,
+212489142,212480344,0,False,tertiary,West State Street,147.097,,,,,,,,,,,20102047,
+212489202,212495653,0,False,primary,Dayan Street,62.553,2,,,30 mph,,,,,,,20102672,NY 12
+212489202,212480333,0,False,residential,The Parkway,275.651,,,,,,,,,,,20101876,
+212489202,212502678,0,False,primary,Dayan Street,297.964,2,,,30 mph,,,,,,,20102672,NY 12
+212492451,212472585,0,False,primary,South State Street,175.299,,,,30 mph,,,,,,,20102042,NY 12;NY 26
+212492451,212455693,0,False,primary,South State Street,207.653,,,,30 mph,,,,,,,20102042,NY 12;NY 26
+212492451,212492453,0,False,residential,Campbell Street,471.564,,,,,,,,,,,20103682,
+212492453,212492454,0,False,primary,South State Street,143.919,,,,30 mph,,,,,,,20102042,NY 12;NY 26
+212492453,212472585,0,False,primary,South State Street,58.882,,,,30 mph,,,,,,,20102042,NY 12;NY 26
+212492453,212492451,0,False,residential,Campbell Street,471.564,,,,,,,,,,,20103682,
+212492454,212492453,0,False,primary,South State Street,143.919,,,,30 mph,,,,,,,20102042,NY 12;NY 26
+212492454,212492460,0,False,primary,South State Street,54.578,,,,30 mph,,,yes,,,,"[137778488, 20102042, 137778487]",NY 12;NY 26
+212492454,212495644,0,False,tertiary,Stowe Street,280.71,,,,,,,,,,,20103113,
+212492454,1499643058,0,False,tertiary,River Street,416.592,,,,,,,,,,,20103435,
+212492460,212485864,0,False,primary,South State Street,95.312,,,,30 mph,,,,,,,137778488,NY 12;NY 26
+212492460,212515125,0,False,residential,Water Street,225.961,,,,,,,,,,,20103429,
+212492460,212492454,0,False,primary,South State Street,54.578,,,,30 mph,,,yes,,,,"[137778488, 20102042, 137778487]",NY 12;NY 26
+212492574,4454510439,0,False,tertiary,West State Street,220.956,,,,,,,,,,,20102047,
+212492574,212476190,0,False,tertiary,West State Street,138.511,,,,,,,,,,,20102047,
+212492574,212474533,0,False,residential,Sunset Drive,154.927,,,,,,,,,,,20103275,
+212494489,212475578,0,False,residential,Hillside Drive,96.508,,,,,,,,,,,20102194,
+212495165,212498341,0,False,residential,Bostwick Street,278.368,,,,,,,,,,,50169151,
+212495165,3814828569,0,False,"['primary', 'unclassified']","['State Highway 812', 'East State Street']",1394.692,,,,30 mph,,,,,,,"[378066530, 20102219, 20101156]",NY 812
+212495165,212498332,0,False,primary,Bostwick Street,103.821,,,,,,,,,,,50169150,NY 812
+212495644,212495647,0,False,residential,Cascade Avenue,84.322,,,,,,,,,,,20102245,
+212495644,212492454,0,False,tertiary,Stowe Street,280.71,,,,,,,,,,,20103113,
+212495647,212495644,0,False,residential,Cascade Avenue,84.322,,,,,,,,,,,20102245,
+212495647,212511162,0,False,residential,Jefferson Street,302.145,,,,,,,,,,,20103207,
+212495647,212480075,0,False,residential,Cascade Avenue,212.17,,,,,,,yes,,,,"[137778477, 137778476, 20102245]",
+212495653,212489202,0,False,primary,Dayan Street,62.553,2,,,30 mph,,,,,,,20102672,NY 12
+212495653,212480325,0,False,primary,Dayan Street,104.006,2,,,30 mph,,,,,,,20102672,NY 12
+212495653,212480075,0,False,residential,Cascade Avenue,115.197,,,,,,,,,,,137778477,
+212496916,212496922,0,False,residential,Railroad Street,142.794,,,,,,,,,,,20102329,
+212496922,212496930,0,False,residential,Railroad Street,194.946,,,,,,,,,,,20102329,
+212496922,212496930,1,False,residential,Lowville Heights Road,270.389,,,,,,,,,,,20102335,
+212496922,212496916,0,False,residential,Railroad Street,142.794,,,,,,,,,,,20102329,
+212496930,212496922,0,False,residential,Railroad Street,194.946,,,,,,,,,,,20102329,
+212496930,212496922,1,False,residential,Lowville Heights Road,270.389,,,,,,,,,,,20102335,
+212496930,1499643057,0,False,residential,Lowville Heights Road,108.59,,,,,,,,,,,20102335,
+212498317,212456815,0,False,primary,Bostwick Street,107.213,,,,,,,,,,,50169150,NY 812
+212498317,212501305,0,False,residential,Dewitt Street,113.748,,,,,,,,,,,20103090,
+212498317,212480288,0,False,primary,Bostwick Street,326.684,,,,,,,,,,,50169150,NY 812
+212498321,212507367,0,False,residential,Forrest Avenue,412.284,,,,,,,,,,,20103425,
+212498321,3452192314,0,False,primary,Bostwick Street,138.002,,,,,,,,,,,50169150,NY 812
+212498321,212456815,0,False,primary,Bostwick Street,139.927,,,,,,,,,,,50169150,NY 812
+212498332,212495165,0,False,primary,Bostwick Street,103.821,,,,,,,,,,,50169150,NY 812
+212498332,3452192314,0,False,primary,Bostwick Street,54.811,,,,,,,,,,,50169150,NY 812
+212498332,212507699,0,False,residential,,156.458,,,,,,,,,,,338155472,
+212498341,212475590,0,False,residential,Bostwick Street,30.156,,,,,,,,,,,50169151,
+212498341,212495165,0,False,residential,Bostwick Street,278.368,,,,,,,,,,,50169151,
+212498341,3814828569,0,False,residential,Bostwick Street,40.656,,,,,,,,,,,378066528,
+212501305,212480294,0,False,residential,Stewart Street,306.611,,,,,,,,,,,20102600,
+212501305,1511064373,0,False,residential,"['Dewitt Street', 'Summit Avenue']",161.659,,,,,,,,,,,"[20101248, 20103090]",
+212501305,212498317,0,False,residential,Dewitt Street,113.748,,,,,,,,,,,20103090,
+212502678,212477521,0,False,primary,Dayan Street,120.341,2,,,30 mph,,,,,,,20102672,NY 12
+212502678,212513189,0,False,residential,Easton Street,167.14,,,,,,,,,,,20103340,
+212502678,212489202,0,False,primary,Dayan Street,297.964,2,,,30 mph,,,,,,,20102672,NY 12
+212506161,212480353,0,False,residential,Highland Avenue,227.335,,,,,,,,,,,20102874,
+212506161,212509191,0,False,residential,Church Street,208.81,,,,,,,,,,,20103089,
+212506161,212509185,0,False,residential,Church Street,176.325,,,,,,,,,,,20103089,
+212507351,212478451,0,False,residential,Sharp Street,242.004,,,,,,,,,,,20102980,
+212507351,212475576,0,False,unclassified,Shady Avenue,123.426,,,,,,,,,,,20103466,
+212507351,212488674,0,False,unclassified,Shady Avenue,122.435,,,,,,,,,,,20103466,
+212507353,212478451,0,False,residential,Sharp Street,214.782,,,,,,,,,,,20102980,
+212507353,212475582,0,False,residential,Trinity Avenue,128.098,,,,,,,,,,,20102981,
+212507353,212478462,0,False,residential,Trinity Avenue,117.634,,,,,,,,,,,20102981,
+212507364,212507367,0,False,residential,Trinity Avenue,140.457,,,,,,,,,,,20102981,
+212507364,212515723,0,False,residential,Park Avenue,295.999,,,,,,,,,,,20103546,
+212507364,212488778,0,False,residential,Trinity Avenue,246.122,,,,,,,,,,,20102981,
+212507364,212456815,0,False,residential,Park Avenue,390.26,,,,,,,,,,,20103546,
+212507367,212507364,0,False,residential,Trinity Avenue,140.457,,,,,,,,,,,20102981,
+212507367,212515063,0,False,residential,Forrest Avenue,336.173,,,,,,,,,,,20103425,
+212507367,212507376,0,False,residential,Trinity Avenue,126.083,,,,,,,,,,,20102981,
+212507367,212498321,0,False,residential,Forrest Avenue,412.284,,,,,,,,,,,20103425,
+212507376,212478462,0,False,residential,Trinity Avenue,181.75,,,,,,,,,,,20102981,
+212507376,212507367,0,False,residential,Trinity Avenue,126.083,,,,,,,,,,,20102981,
+212507376,212470502,0,False,residential,West Street,114.004,,,,,,,,,,,20103004,
+212507699,212498332,0,False,residential,,156.458,,,,,,,,,,,338155472,
+212509185,212506161,0,False,residential,Church Street,176.325,,,,,,,,,,,20103089,
+212509185,212515125,0,False,residential,Water Street,268.788,,,,,,,,,,,20103429,
+212509185,212475658,0,False,residential,Water Street,475.619,,,,,,,,,,,20103429,
+212509191,212488674,0,False,unclassified,Shady Avenue,110.016,,,,,,,,,,,20103466,
+212509191,212506161,0,False,residential,Church Street,208.81,,,,,,,,,,,20103089,
+212509191,212515063,0,False,unclassified,Shady Avenue,180.946,,,,,,,,,,,20103466,
+212509766,212475639,0,False,residential,Hemlock Drive,288.569,,,,,,,,,,,20103110,
+212509766,212472600,0,False,tertiary,River Street,497.959,,,,,,,,,,,20103435,
+212509766,212475642,0,False,tertiary,River Street,114.639,,,,,,,,,,,20103435,
+212511162,212495647,0,False,residential,Jefferson Street,302.145,,,,,,,,,,,20103207,
+212512377,212474549,0,False,residential,Sunset Drive,52.328,,,,,,,,,,,20103275,
+212513189,212502678,0,False,residential,Easton Street,167.14,,,,,,,,,,,20103340,
+212513189,212489135,0,False,residential,Easton Street,265.488,,,,,,,,,,,20103340,
+212513189,212480336,0,False,residential,Waters Terrace,313.095,,,,,,,,,,,20103522,
+212515063,212507367,0,False,residential,Forrest Avenue,336.173,,,,,,,,,,,20103425,
+212515063,212515723,0,False,unclassified,Shady Avenue,107.171,,,,,,,,,,,20103466,
+212515063,212509191,0,False,unclassified,Shady Avenue,180.946,,,,,,,,,,,20103466,
+212515125,212485869,0,False,residential,Park Avenue,173.652,,,,,,,,,,,20103546,
+212515125,212492460,0,False,residential,Water Street,225.961,,,,,,,,,,,20103429,
+212515125,212509185,0,False,residential,Water Street,268.788,,,,,,,,,,,20103429,
+212515723,212515063,0,False,unclassified,Shady Avenue,107.171,,,,,,,,,,,20103466,
+212515723,212507364,0,False,residential,Park Avenue,295.999,,,,,,,,,,,20103546,
+212515723,212485869,0,False,residential,Park Avenue,161.099,,,,,,,,,,,20103546,
+212515723,212480325,0,False,unclassified,Shady Avenue,291.88,,,,,,,,,,,20103466,
+1499643057,212472600,0,False,residential,Jackson Street,27.527,,,,,,,,,,,20100982,
+1499643057,1499643058,0,False,residential,Lowville Heights Road,14.971,,,,,,,,,,,20102335,
+1499643057,212472585,0,False,residential,Jackson Street,322.063,,,,,,,,,,,20100982,
+1499643057,212496930,0,False,residential,Lowville Heights Road,108.59,,,,,,,,,,,20102335,
+1499643058,1499643057,0,False,residential,Lowville Heights Road,14.971,,,,,,,,,,,20102335,
+1499643058,212472600,0,False,tertiary,River Street,29.018,,,,,,,,,,,20103435,
+1499643058,212492454,0,False,tertiary,River Street,416.592,,,,,,,,,,,20103435,
+1511064339,212489142,0,False,tertiary,West State Street,14.594,,,,,,,,,,,20102047,
+1511064339,212489135,0,False,residential,Clinton Street,171.131,,,,,,,,,,,20101873,
+1511064339,4454510439,0,False,tertiary,West State Street,156.356,,,,,,,,,,,20102047,
+1511064373,212477335,0,False,residential,Summit Avenue,61.574,,,,,,,,,,,20101248,
+1511064373,212480297,0,False,residential,Eugene Street,291.452,,,,,,,,,,,20103081,
+1511064373,212501305,0,False,residential,"['Dewitt Street', 'Summit Avenue']",161.659,,,,,,,,,,,"[20101248, 20103090]",
+2526975185,212480333,0,False,primary,North State Street,12.114,2,,,30 mph,,,,,,,20101417,NY 26; NY 812
+2526975185,212488778,0,False,residential,Trinity Avenue,110.557,,,,,,,,,,,20102981,
+2526975185,212474429,0,False,primary,North State Street,83.224,2,,,30 mph,,,,,,,20101417,NY 26; NY 812
+2763312031,212477523,0,False,residential,Collins Street,22.129,,,,,,,,,,,20101258,
+2763312031,212477521,0,False,residential,Collins Street,309.104,,,,,,,,,,,20101258,
+2763312031,2763312032,0,False,residential,Collins Street,20.429,,,,,,,,,,,271373031,
+2763312032,212477523,0,False,residential,Clinton Street,16.644,,,,,,,,,,,20101873,
+2763312032,2763312031,0,False,residential,Collins Street,20.429,,,,,,,,,,,271373031,
+2763312032,212488176,0,False,residential,Clinton Street,244.342,,,,,,,,,,,20101873,
+3452192314,212470502,0,False,residential,West Street,349.565,,,,,,,,,,,20103004,
+3452192314,212498332,0,False,primary,Bostwick Street,54.811,,,,,,,,,,,50169150,NY 812
+3452192314,212498321,0,False,primary,Bostwick Street,138.002,,,,,,,,,,,50169150,NY 812
+3814828569,212475590,0,False,unclassified,East State Street,32.187,,,,30 mph,,,,,,,20101156,
+3814828569,212495165,0,False,"['primary', 'unclassified']","['State Highway 812', 'East State Street']",1394.692,,,,30 mph,,,,,,,"[378066530, 20102219, 20101156]",NY 812
+3814828569,212498341,0,False,residential,Bostwick Street,40.656,,,,,,,,,,,378066528,
+4454510439,212492574,0,False,tertiary,West State Street,220.956,,,,,,,,,,,20102047,
+4454510439,1511064339,0,False,tertiary,West State Street,156.356,,,,,,,,,,,20102047,
+4454510439,4454510441,0,False,residential,,115.712,,,,,,,,,,,448441819,
+4454510441,212480297,0,False,primary,North State Street,133.421,3,,,30 mph,,,,,,,20101415,NY 26
+4454510441,212480294,0,False,primary,North State Street,23.878,3,,,30 mph,,,,,,,20101415,NY 26
+4454510441,4454510439,0,False,residential,,115.712,,,,,,,,,,,448441819,

@@ -1,0 +1,75 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+119729555,648691002,0,False,secondary,Main Street,17.267,,,,30 mph,,,,,,,13027896,NY 96
+119729555,119784208,0,False,secondary,Main Street,39.146,,,,30 mph,,,,,,,13027896,NY 96
+119729555,119744189,0,False,residential,Smith Street,275.648,,,,,,,,,,,13031160,
+119729576,648691002,0,False,residential,Mill Street,109.131,,,,,,,,,,,13015677,
+119739894,119768641,0,False,secondary,Owego Street,41.799,,,,30 mph,,,,,,,42942603,NY 96B
+119744138,119744189,0,False,residential,Stowell Avenue,414.697,,,,,,,,,,,13017017,
+119744138,2873957107,0,False,secondary,Main Street,183.854,,,,30 mph,,,,,,,13027877,NY 96
+119744138,119825747,0,False,secondary,Main Street,84.927,,,,30 mph,,,,,,,50865829,NY 96
+119744189,119744138,0,False,residential,Stowell Avenue,414.697,,,,,,,,,,,13017017,
+119744189,119777759,0,False,residential,Rich Street,119.071,,,,,,,,,,,13022563,
+119744189,119729555,0,False,residential,Smith Street,275.648,,,,,,,,,,,13031160,
+119759055,119759068,0,False,residential,Humiston Street,261.138,,,,,,,,,,,13019124,
+119759055,119842282,0,False,residential,Delray Avenue,114.288,,,,,,,,,,,13029551,
+119759068,119759055,0,False,residential,Humiston Street,261.138,,,,,,,,,,,13019124,
+119768602,119768608,0,False,secondary,Owego Street,108.903,,,,30 mph,,,,,,,13020991,NY 96
+119768602,119842282,0,False,residential,Church Street,246.281,,,,,,,,,,,13031137,
+119768608,119768617,0,False,secondary,Owego Street,100.896,,,,30 mph,,,,,,,13020991,NY 96
+119768608,119768602,0,False,secondary,Owego Street,108.903,,,,30 mph,,,,,,,13020991,NY 96
+119768608,119786457,0,False,residential,Foundry Street,158.162,,,,,,,,,,,13023989,
+119768617,119768608,0,False,secondary,Owego Street,100.896,,,,30 mph,,,,,,,13020991,NY 96
+119768617,119825692,0,False,secondary,Main Street,141.97,,,,30 mph,,,,,,,13027885,NY 96
+119768617,119768630,0,False,secondary,Owego Street,87.97,,,,30 mph,,,,,,,42942603,NY 96B
+119768630,119796346,0,False,residential,Humboldt Street,188.126,,,,,,,,,,,13024957,
+119768630,119768641,0,False,secondary,Owego Street,73.33,,,,30 mph,,,,,,,42942603,NY 96B
+119768630,119768617,0,False,secondary,Owego Street,87.97,,,,30 mph,,,,,,,42942603,NY 96B
+119768641,119739894,0,False,secondary,Owego Street,41.799,,,,30 mph,,,,,,,42942603,NY 96B
+119768641,119768630,0,False,secondary,Owego Street,73.33,,,,30 mph,,,,,,,42942603,NY 96B
+119768641,119796346,0,False,residential,Park Drive,210.004,,,,,,,,,,,13027432,
+119777759,119825903,0,False,secondary,Main Street,56.685,,,,30 mph,,,,,,,13027896,NY 96
+119777759,119744189,0,False,residential,Rich Street,119.071,,,,,,,,,,,13022563,
+119777759,2873957107,0,False,secondary,Main Street,179.917,,,,30 mph,,,,,,,"[13027896, 13027877]",NY 96
+119784208,119729555,0,False,secondary,Main Street,39.146,,,,30 mph,,,,,,,13027896,NY 96
+119784208,119834073,0,False,residential,"['Bank Street', 'Griffin Street']",347.007,,,,,,,,,,,"[13023700, 13028790]",
+119784208,119825903,0,False,secondary,Main Street,116.705,,,,30 mph,,,,,,,13027896,NY 96
+119786451,119786457,0,False,residential,Foundry Street,114.457,,,,,,,,,,,13023989,
+119786451,119825708,0,False,residential,Delray Avenue,134.199,,,,,,,,,,,13029551,
+119786451,119842282,0,False,residential,Delray Avenue,113.613,,,,,,,,,,,13029551,
+119786457,119768608,0,False,residential,Foundry Street,158.162,,,,,,,,,,,13023989,
+119786457,119786451,0,False,residential,Foundry Street,114.457,,,,,,,,,,,13023989,
+119786457,119825692,0,False,residential,Maiden Lane,116.104,,,,,,,,,,,13031504,
+119796346,119768630,0,False,residential,Humboldt Street,188.126,,,,,,,,,,,13024957,
+119796346,119768641,0,False,residential,Park Drive,210.004,,,,,,,,,,,13027432,
+119796346,119821326,0,False,residential,Park Drive,101.536,,,,,,,,,,,13027432,
+119807104,119825747,0,False,secondary,Main Street,12.102,,,,30 mph,,,,,,,50865829,NY 96
+119807104,119807124,0,False,residential,Academy Street,130.351,,,,,,,,,,,13026007,
+119807104,119825708,0,False,secondary,Main Street,176.199,,,,30 mph,,,yes,,,,"[13027885, 50865828, 50865829]",NY 96
+119807124,119807104,0,False,residential,Academy Street,130.351,,,,,,,,,,,13026007,
+119821326,119825708,0,False,secondary,Main Street,51.974,,,,30 mph,,,,,,,13027885,NY 96
+119821326,119825692,0,False,secondary,Main Street,82.984,,,,30 mph,,,,,,,13027885,NY 96
+119821326,119796346,0,False,residential,Park Drive,101.536,,,,,,,,,,,13027432,
+119825692,119821326,0,False,secondary,Main Street,82.984,,,,30 mph,,,,,,,13027885,NY 96
+119825692,119768617,0,False,secondary,Main Street,141.97,,,,30 mph,,,,,,,13027885,NY 96
+119825692,119786457,0,False,residential,Maiden Lane,116.104,,,,,,,,,,,13031504,
+119825708,119821326,0,False,secondary,Main Street,51.974,,,,30 mph,,,,,,,13027885,NY 96
+119825708,119807104,0,False,secondary,Main Street,176.199,,,,30 mph,,,yes,,,,"[50865828, 13027885, 50865829]",NY 96
+119825708,119786451,0,False,residential,Delray Avenue,134.199,,,,,,,,,,,13029551,
+119825747,119807104,0,False,secondary,Main Street,12.102,,,,30 mph,,,,,,,50865829,NY 96
+119825747,119744138,0,False,secondary,Main Street,84.927,,,,30 mph,,,,,,,50865829,NY 96
+119825903,119777759,0,False,secondary,Main Street,56.685,,,,30 mph,,,,,,,13027896,NY 96
+119825903,119834073,0,False,residential,Kinney Street,242.19,,,,,,,,,,,13029345,
+119825903,119784208,0,False,secondary,Main Street,116.705,,,,30 mph,,,,,,,13027896,NY 96
+119834066,119834073,0,False,residential,Griffin Street,76.271,,,,,,,,,,,13028790,
+119834073,119834066,0,False,residential,Griffin Street,76.271,,,,,,,,,,,13028790,
+119834073,119825903,0,False,residential,Kinney Street,242.19,,,,,,,,,,,13029345,
+119834073,119784208,0,False,residential,"['Bank Street', 'Griffin Street']",347.007,,,,,,,,,,,"[13023700, 13028790]",
+119842282,119768602,0,False,residential,Church Street,246.281,,,,,,,,,,,13031137,
+119842282,119786451,0,False,residential,Delray Avenue,113.613,,,,,,,,,,,13029551,
+119842282,119759055,0,False,residential,Delray Avenue,114.288,,,,,,,,,,,13029551,
+648691002,119729555,0,False,secondary,Main Street,17.267,,,,30 mph,,,,,,,13027896,NY 96
+648691002,119729576,0,False,residential,Mill Street,109.131,,,,,,,,,,,13015677,
+2873957107,119777759,0,False,secondary,Main Street,179.917,,,,30 mph,,,,,,,"[13027896, 13027877]",NY 96
+2873957107,119744138,0,False,secondary,Main Street,183.854,,,,30 mph,,,,,,,13027877,NY 96
+2873957107,2873957109,0,False,residential,,59.042,,,,,,,,,,,283544302,
+2873957109,2873957107,0,False,residential,,59.042,,,,,,,,,,,283544302,

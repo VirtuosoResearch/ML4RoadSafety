@@ -1,0 +1,314 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+102554969,102593622,0,False,residential,Marie Avenue,355.796,2,,,25 mph,,,,,,,11510283,
+102554969,102562300,0,True,primary,Ritchie Highway,170.503,"['4', '3']",,,45 mph,,,,,,,"[192889417, 546445026, 425006110]",MD 2
+102555270,102569415,0,False,residential,Rogers Avenue,161.494,,,,,,,,,,,11504329,
+102561872,102561874,0,False,residential,Harding Road,88.142,,,,,,,,,,,11503105,
+102561872,102562821,0,False,residential,Bunch Avenue,64.183,,,,,,,,,,,11503257,
+102561872,102562823,0,False,residential,Bunch Avenue,173.762,,,,,,,,,,,11503257,
+102561874,102561872,0,False,residential,Harding Road,88.142,,,,,,,,,,,11503105,
+102561874,102636049,0,False,residential,Marley Avenue,61.496,,,,,,,,,,,11515879,
+102561874,102616870,0,False,residential,Marley Avenue,174.069,,,,,,,,,,,11515879,
+102562300,102604015,0,False,residential,Roesler Road,208.254,2,,,25 mph,,,,,,,11510735,
+102562302,102554969,0,True,primary,Ritchie Highway,58.37,3,,,45 mph,,,,,,,192889417,MD 2
+102562303,3786937498,0,False,residential,6th Avenue Northeast,45.825,3,,,25 mph,,,,,,,546445024,
+102562303,102562302,0,True,primary,Ritchie Highway,476.898,"['4', '3']",,,45 mph,,,,,,,"[425006106, 425006108, 425006103, 425006111]",MD 2
+102562308,102606058,0,False,residential,New Jersey Avenue Northeast,99.48,,,,25 mph,,,,,,,462665019,
+102562313,102562308,0,True,primary,Ritchie Highway,109.409,3,,,45 mph,,,,,,,425001236,MD 2
+102562320,1147949249,0,False,secondary,Baltimore Annapolis Boulevard,36.816,4,,,30 mph,,,,,,,424997571,MD 648
+102562322,102567425,0,False,residential,O Street Southeast,129.471,2,,,25 mph,,,,,,,11503984,
+102562323,102589867,0,False,residential,Kuethe Drive,59.011,2,,,25 mph,,,,,,,11508396,
+102562323,4244898861,0,True,primary,Ritchie Highway,145.319,"['4', '3']",,,45 mph,,,,,,,"[425186163, 425186158]",MD 2
+102562821,102561872,0,False,residential,Bunch Avenue,64.183,,,,,,,,,,,11503257,
+102562823,102616870,0,False,residential,Glen Oak Avenue Northeast,88.462,,,,,,,,,,,11512693,
+102562823,102562827,0,False,residential,Bunch Avenue,173.281,,,,,,,,,,,11503257,
+102562823,102561872,0,False,residential,Bunch Avenue,173.762,,,,,,,,,,,11503257,
+102562823,2408425562,0,False,residential,Glen Oak Road,93.122,,,,,,,,,,,11507508,
+102562827,102583990,0,False,residential,Pillsbury Place,88.467,,,,,,,,,,,11507040,
+102562827,102562823,0,False,residential,Bunch Avenue,173.281,,,,,,,,,,,11503257,
+102562827,102583991,0,False,residential,Pillsbury Place,80.681,,,,,,,,,,,11507040,
+102563349,102623403,0,False,residential,Stiemly Avenue,233.698,,,,,,,,,,,11518218,
+102563349,102563351,0,False,residential,Seagrove Road,168.269,,,,,,,,,,,11503340,
+102563349,102645042,0,False,residential,Stiemly Avenue,110.245,,,,,,,,,,,11518218,
+102563351,102563354,0,False,residential,Seagrove Road,132.949,,,,,,,,,,,11503340,
+102563351,102563349,0,False,residential,Seagrove Road,168.269,,,,,,,,,,,11503340,
+102563351,102564425,0,False,residential,Mary Lou Avenue,236.328,,,,,,,,,,,11503543,
+102563354,102563351,0,False,residential,Seagrove Road,132.949,,,,,,,,,,,11503340,
+102563354,102564425,0,False,residential,"['Stiemly Avenue', 'Madeline Avenue']",312.889,,,,,,,,,,,"[11518218, 11516363]",
+102563354,102612220,0,False,residential,"['Madeline Avenue', 'Biddle Road']",201.242,,,,,,,,,,,"[45837576, 11516363]",
+102564425,102623403,0,False,residential,Stiemly Avenue,74.764,,,,,,,,,,,11518218,
+102564425,102563351,0,False,residential,Mary Lou Avenue,236.328,,,,,,,,,,,11503543,
+102564425,102563354,0,False,residential,"['Stiemly Avenue', 'Madeline Avenue']",312.889,,,,,,,,,,,"[11518218, 11516363]",
+102565509,4580381091,0,False,secondary,Furnace Branch Road,169.87,2,,,,,,,,,,46014643,MD 270
+102567425,102562322,0,False,residential,O Street Southeast,129.471,2,,,25 mph,,,,,,,11503984,
+102567425,102621508,0,False,secondary,Baltimore Annapolis Boulevard,263.044,"['3', '2']",,,30 mph,,,,,,,"[424997568, 424994156]",MD 648
+102567425,1147949249,0,False,secondary,Baltimore Annapolis Boulevard,101.061,"['4', '3']",,,30 mph,,,,,,,"[424997571, 546445012]",MD 648
+102569415,102609889,0,False,residential,Georgia Avenue Northeast,108.516,2,,,25 mph,,,,,,,330457730,
+102569415,102555270,0,False,residential,Rogers Avenue,161.494,,,,,,,,,,,11504329,
+102569415,102580513,0,False,residential,Georgia Avenue Northeast,103.078,2,,,25 mph,,,,,,,330457730,
+102572788,102572790,0,False,residential,Maryland Avenue Northeast,293.72,,,,,,,,,,,"[11504888, 462665017]",
+102572788,102606058,0,False,residential,Harford Road,161.523,,,,25 mph,,,,,,,11512604,
+102572788,102610078,0,False,residential,Harford Road,80.954,,,,25 mph,,,,,,,11512604,
+102572790,102580511,0,False,residential,Kent Road,176.945,,,,,,,,,,,11506342,
+102572790,102580510,0,False,residential,Kent Road,132.826,,,,,,,,,,,11506342,
+102572790,102572788,0,False,residential,Maryland Avenue Northeast,293.72,,,,,,,,,,,"[11504888, 462665017]",
+102580510,102572790,0,False,residential,Kent Road,132.826,,,,,,,,,,,11506342,
+102580510,102610080,0,False,residential,Delaware Avenue,114.334,,,,25 mph,,,,,,,11511636,
+102580510,102610078,0,False,residential,Delaware Avenue,263.357,,,,25 mph,,,,,,,11511636,
+102580511,102606059,0,False,residential,New Jersey Avenue Northeast,107.279,,,,,,,,,,,11511060,
+102580511,102580513,0,False,residential,Kent Road,109.908,,,,,,,,,,,462665018,
+102580511,102572790,0,False,residential,Kent Road,176.945,,,,,,,,,,,11506342,
+102580511,102606058,0,False,residential,New Jersey Avenue Northeast,275.248,,,,25 mph,,,,,,,462665019,
+102580513,102580515,0,False,residential,Kent Road,107.318,,,,,,,,,,,462665018,
+102580513,102580511,0,False,residential,Kent Road,109.908,,,,,,,,,,,462665018,
+102580513,102569415,0,False,residential,Georgia Avenue Northeast,103.078,2,,,25 mph,,,,,,,330457730,
+102580515,102580516,0,False,residential,Kent Road,193.351,,,,,,,,,,,462665018,
+102580515,102580516,1,False,residential,Kent Circle,381.068,,,,,,,,,,,11510659,
+102580515,102580513,0,False,residential,Kent Road,107.318,,,,,,,,,,,462665018,
+102580516,1147949256,0,False,residential,Kent Road,38.18,,,,,,,,,,,462665018,
+102580516,102580515,0,False,residential,Kent Road,193.351,,,,,,,,,,,462665018,
+102580516,102580515,1,False,residential,Kent Circle,381.068,,,,,,,,,,,11510659,
+102580925,102627423,0,False,secondary,Furnace Branch Road,38.371,2,,,,,,,,,,46014643,MD 270
+102580925,4580381087,0,False,secondary,Furnace Branch Road,441.623,2,,,,,,,,,,46014643,MD 270
+102583987,102583988,0,False,residential,Pillsbury Place,91.52,,,,,,,,,,,11507040,
+102583987,102640849,0,False,residential,Marigold Road,90.392,,,,,,,,,,,11516820,
+102583987,102616867,0,False,residential,Marigold Road,172.769,,,,,,,,,,,11516820,
+102583988,102583990,0,False,residential,Pillsbury Place,28.86,,,,,,,,,,,11507040,
+102583988,102583987,0,False,residential,Pillsbury Place,91.52,,,,,,,,,,,11507040,
+102583988,102639706,0,False,residential,Amelia Avenue,125.536,,,,,,,,,,,11516612,
+102583990,102562827,0,False,residential,Pillsbury Place,88.467,,,,,,,,,,,11507040,
+102583990,102583988,0,False,residential,Pillsbury Place,28.86,,,,,,,,,,,11507040,
+102583990,102616870,0,False,residential,Marley Avenue,172.607,,,,,,,,,,,11515881,
+102583991,102562827,0,False,residential,Pillsbury Place,80.681,,,,,,,,,,,11507040,
+102583991,102605261,0,False,residential,Glen Circle,139.74,,,,,,,,,,,11510939,
+102583997,4613169658,0,False,secondary,Furnace Branch Road,21.205,2,,,,,,,,,,46014643,MD 270
+102583997,102627420,0,False,secondary,Furnace Branch Road,110.335,2,,,,,,,,,,46014643,MD 270
+102589247,585251530,0,False,residential,Rose Anne Road,57.691,2,,,,,,,,,,11508237,
+102589252,102596623,0,False,residential,Langley Road,179.309,2,,,,,,,,,,11509689,
+102589252,585251530,0,False,residential,Rose Anne Road,685.808,2,,,,,,,,,,11508237,
+102589252,585251496,0,False,residential,Langley Road,76.281,2,,,,,,,,,,11509689,
+102589867,102562323,0,False,residential,Kuethe Drive,59.011,2,,,25 mph,,,,,,,11508396,
+102589867,2292652387,0,False,residential,School Road,98.753,,,,,,,,,,,11515635,
+102589867,102621508,0,False,residential,Kuethe Road,229.426,2,,,25 mph,,,,,,,581878073,
+102593622,102596617,0,False,residential,Marie Avenue,122.137,2,,,25 mph,,,,,,,11510283,
+102593622,102554969,0,False,residential,Marie Avenue,355.796,2,,,25 mph,,,,,,,11510283,
+102593622,102593624,0,False,residential,Andrews Road,392.49,2,,,,,,,,,,11509151,
+102593624,102618991,0,False,residential,Furnace Road,48.191,2,,,,,,,,,,11513023,
+102593624,102593622,0,False,residential,Andrews Road,392.49,2,,,,,,,,,,11509151,
+102593624,102596623,0,False,residential,Furnace Road,139.634,2,,,,,,,,,,11513023,
+102594289,102601138,0,False,secondary,Furnace Branch Road,73.169,2,,,,,,,,,,46014643,MD 270
+102594289,102623405,0,False,residential,North Thompson Avenue,575.898,,,,,,,yes,,,,"[11513704, 46014635, 46014637]",
+102594289,102627417,0,False,secondary,Furnace Branch Road,78.843,2,,,,,,,,,,46014643,MD 270
+102596617,102593622,0,False,residential,Marie Avenue,122.137,2,,,25 mph,,,,,,,11510283,
+102596617,102596623,0,False,residential,Langley Road,391.517,2,,,,,,,,,,11509689,
+102596617,585251530,0,False,residential,Marie Avenue,192.04,2,,,25 mph,,,,,,,11510283,
+102596623,102589252,0,False,residential,Langley Road,179.309,2,,,,,,,,,,11509689,
+102596623,102618993,0,False,residential,Furnace Road,72.259,2,,,,,,,,,,11513023,
+102596623,102596617,0,False,residential,Langley Road,391.517,2,,,,,,,,,,11509689,
+102596623,102593624,0,False,residential,Furnace Road,139.634,2,,,,,,,,,,11513023,
+102600200,583485842,0,False,secondary,Furnace Branch Road,6.219,2,,,,,,,,,,46014643,MD 270
+102601138,102594289,0,False,secondary,Furnace Branch Road,73.169,2,,,,,,,,,,46014643,MD 270
+102601138,583485841,0,False,residential,Dotson Lane,294.934,,,,,,,,,,,11510321,
+102601138,583485842,0,False,secondary,Furnace Branch Road,123.578,2,,,,,,,,,,46014643,MD 270
+102603737,2930427464,0,False,residential,Delaware Avenue,18.019,,,,25 mph,,,,,,,11511636,
+102603737,102610086,0,False,residential,Delaware Avenue,121.939,,,,25 mph,,,,,,,11511636,
+102603737,102603740,0,False,residential,Carroll Road,219.927,,,,,,,,,,,11510694,
+102603740,102603742,0,False,residential,Carroll Road,322.565,,,,,,,,,,,11510694,
+102603740,102603737,0,False,residential,Carroll Road,219.927,,,,,,,,,,,11510694,
+102603740,102645042,0,False,residential,Biddle Road,120.473,,,,,,,,,,,45837576,
+102603742,102603743,0,False,residential,Carroll Road,163.723,,,,,,,,,,,11510694,
+102603742,102603740,0,False,residential,Carroll Road,322.565,,,,,,,,,,,11510694,
+102603742,102642266,0,False,residential,Washington Avenue,144.722,,,,,,,,,,,11517077,
+102603743,102606060,0,False,residential,"['Carroll Road', 'New Jersey Avenue Northeast']",735.887,,,,,,,,,,,"[11511060, 11510694]",
+102603743,102603742,0,False,residential,Carroll Road,163.723,,,,,,,,,,,11510694,
+102603743,102642264,0,True,residential,Glen Road,352.221,,,,,,,,,,,431551984,
+102604015,102604016,0,False,residential,Roesler Road,51.668,2,,,25 mph,,,,,,,11510735,
+102604015,102562300,0,False,residential,Roesler Road,208.254,2,,,25 mph,,,,,,,11510735,
+102604015,102648044,0,False,residential,South Azar Avenue,79.185,,,,,,,,,,,11518237,
+102604016,102604015,0,False,residential,Roesler Road,51.668,2,,,25 mph,,,,,,,11510735,
+102605261,102583991,0,False,residential,Glen Circle,139.74,,,,,,,,,,,11510939,
+102606058,102562308,0,False,residential,New Jersey Avenue Northeast,99.48,,,,25 mph,,,,,,,462665019,
+102606058,102572788,0,False,residential,Harford Road,161.523,,,,25 mph,,,,,,,11512604,
+102606058,102580511,0,False,residential,New Jersey Avenue Northeast,275.248,,,,25 mph,,,,,,,462665019,
+102606059,102580511,0,False,residential,New Jersey Avenue Northeast,107.279,,,,,,,,,,,11511060,
+102606059,102606060,0,False,residential,New Jersey Avenue Northeast,128.132,,,,,,,,,,,11511060,
+102606059,102610080,0,True,residential,Kuethe Road,392.69,2,,,25 mph,,,,,,,11513419,
+102606060,102603743,0,False,residential,"['Carroll Road', 'New Jersey Avenue Northeast']",735.887,,,,,,,,,,,"[11511060, 11510694]",
+102606060,102606059,0,False,residential,New Jersey Avenue Northeast,128.132,,,,,,,,,,,11511060,
+102609889,102609891,0,False,residential,M Street Northeast,162.66,,,,,,,,,,,11511608,
+102609889,102569415,0,False,residential,Georgia Avenue Northeast,108.516,2,,,25 mph,,,,,,,330457730,
+102609891,102609889,0,False,residential,M Street Northeast,162.66,,,,,,,,,,,11511608,
+102610078,102580510,0,False,residential,Delaware Avenue,263.357,,,,25 mph,,,,,,,11511636,
+102610078,102572788,0,False,residential,Harford Road,80.954,,,,25 mph,,,,,,,11512604,
+102610080,102610082,0,False,residential,Delaware Avenue,109.185,,,,25 mph,,,,,,,11511636,
+102610080,102580510,0,False,residential,Delaware Avenue,114.334,,,,25 mph,,,,,,,11511636,
+102610080,102621508,0,False,residential,Kuethe Road,134.13,2,,,25 mph,,,,,,,581878073,
+102610082,102610084,0,False,residential,Delaware Avenue,123.096,,,,25 mph,,,,,,,11511636,
+102610082,102610080,0,False,residential,Delaware Avenue,109.185,,,,25 mph,,,,,,,11511636,
+102610082,102641014,0,True,residential,Garrett Road,366.183,,,,,,,,,,,11516837,
+102610084,102610086,0,False,residential,Delaware Avenue,104.71,,,,25 mph,,,,,,,11511636,
+102610084,102610082,0,False,residential,Delaware Avenue,123.096,,,,25 mph,,,,,,,11511636,
+102610084,4307631766,0,True,residential,Glen Road,123.95,,,,,,,,,,,431551984,
+102610086,102603737,0,False,residential,Delaware Avenue,121.939,,,,25 mph,,,,,,,11511636,
+102610086,102610084,0,False,residential,Delaware Avenue,104.71,,,,25 mph,,,,,,,11511636,
+102610086,102642266,0,True,residential,Dorchester Road,444.724,,,,,,,,,,,11519121,
+102611260,102611261,0,False,residential,Holstein Avenue,113.29,,,,,,,,,,,11511833,
+102611261,102640208,0,False,residential,Thompson Avenue,74.926,,,,,,,,,,,11516710,
+102611261,102611260,0,False,residential,Holstein Avenue,113.29,,,,,,,,,,,11511833,
+102611261,102623405,0,False,residential,Thompson Avenue,72.605,,,,,,,,,,,11516710,
+102611737,2930427457,0,False,residential,7th Avenue Northeast,66.778,,,,,,,,,,,11511893,
+102611737,102655068,0,False,residential,Kuethe Road Northeast,99.769,,,,,,,,,,,11519655,
+102611737,102634454,0,False,residential,"['7th Avenue Northeast', 'Laurie Lee Lane']",420.676,,,,,,,,,,,"[99241120, 11511893]",
+102612219,102612220,0,False,residential,Ditty Court,112.47,,,,,,,,,,,11511961,
+102612220,102612219,0,False,residential,Ditty Court,112.47,,,,,,,,,,,11511961,
+102612220,102563354,0,False,residential,"['Madeline Avenue', 'Biddle Road']",201.242,,,,,,,,,,,"[45837576, 11516363]",
+102612220,102645042,0,False,residential,Biddle Road,256.096,,,,,,,,,,,45837576,
+102613409,102627420,0,False,residential,"['East Seagrove Road', 'Patsy Avenue', 'Stiemly Avenue']",451.585,,,,,,,,,,,"[11512096, 11511570, 11518219]",
+102613409,102627420,1,False,secondary,Furnace Branch Road,128.262,2,,,,,,,,,,46014643,MD 270
+102613409,102627423,0,False,secondary,Furnace Branch Road,107.412,2,,,,,,,,,,46014643,MD 270
+102613825,2408425561,0,False,secondary,Baltimore Annapolis Boulevard,89.006,2,,,,,,,,,,424994162,MD 648
+102614697,585218046,0,False,residential,"['Amberly Road', 'Fitzallen Road']",268.182,,,,,,,,,,,"[11514328, 11512297]",
+102614697,1179373830,0,False,residential,Amberly Road,164.625,,,,,,,,,,,11514327,
+102616866,102616867,0,False,residential,Glen Oak Avenue Northeast,30.872,,,,,,,,,,,11512693,
+102616867,102616870,0,False,residential,Glen Oak Avenue Northeast,124.068,,,,,,,,,,,11512693,
+102616867,102616866,0,False,residential,Glen Oak Avenue Northeast,30.872,,,,,,,,,,,11512693,
+102616867,102583987,0,False,residential,Marigold Road,172.769,,,,,,,,,,,11516820,
+102616870,102562823,0,False,residential,Glen Oak Avenue Northeast,88.462,,,,,,,,,,,11512693,
+102616870,102616867,0,False,residential,Glen Oak Avenue Northeast,124.068,,,,,,,,,,,11512693,
+102616870,102561874,0,False,residential,Marley Avenue,174.069,,,,,,,,,,,11515879,
+102616870,102583990,0,False,residential,Marley Avenue,172.607,,,,,,,,,,,11515881,
+102618991,102593624,0,False,residential,Furnace Road,48.191,2,,,,,,,,,,11513023,
+102618993,102596623,0,False,residential,Furnace Road,72.259,2,,,,,,,,,,11513023,
+102621508,102567425,0,False,secondary,Baltimore Annapolis Boulevard,263.044,"['3', '2']",,,30 mph,,,,,,,"[424997568, 424994156]",MD 648
+102621508,4307631767,0,False,secondary,Baltimore Annapolis Boulevard,227.025,3,,,30 mph,,,,,,,"[424994157, 424994158, 431551983]",MD 648
+102621508,102610080,0,False,residential,Kuethe Road,134.13,2,,,25 mph,,,,,,,581878073,
+102621508,102589867,0,False,residential,Kuethe Road,229.426,2,,,25 mph,,,,,,,581878073,
+102623403,102623405,0,False,residential,North Thompson Avenue,147.021,,,,,,,,,,,11513704,
+102623403,102564425,0,False,residential,Stiemly Avenue,74.764,,,,,,,,,,,11518218,
+102623403,102563349,0,False,residential,Stiemly Avenue,233.698,,,,,,,,,,,11518218,
+102623405,102623403,0,False,residential,North Thompson Avenue,147.021,,,,,,,,,,,11513704,
+102623405,102594289,0,False,residential,North Thompson Avenue,575.898,,,,,,,yes,,,,"[11513704, 46014635, 46014637]",
+102623405,102628075,0,False,residential,Anon Lane,319.103,,,,,,,,,,,11514465,
+102623405,102611261,0,False,residential,Thompson Avenue,72.605,,,,,,,,,,,11516710,
+102624074,102624077,0,False,residential,Saratoga Avenue Northeast,99.019,,,,,,,,,,,11513799,
+102624077,102624074,0,False,residential,Saratoga Avenue Northeast,99.019,,,,,,,,,,,11513799,
+102624077,102655068,0,False,residential,6th Avenue Northeast,68.841,4,,,25 mph,,,,,,,11519932,
+102624077,102634454,0,False,residential,6th Avenue Northeast,252.717,4,,,25 mph,,,,,,,11519932,
+102627194,585218046,0,False,residential,Amberly Road,101.787,,,,,,,,,,,11514328,
+102627417,102627418,0,False,secondary,Furnace Branch Road,154.381,2,,,,,,,,,,46014643,MD 270
+102627417,102594289,0,False,secondary,Furnace Branch Road,78.843,2,,,,,,,,,,46014643,MD 270
+102627417,4580381140,0,False,residential,Thompson Avenue,256.182,,,,,,,,,,,462665091,
+102627418,4613169657,0,False,secondary,Furnace Branch Road,126.262,2,,,,,,,,,,46014643,MD 270
+102627418,102627417,0,False,secondary,Furnace Branch Road,154.381,2,,,,,,,,,,46014643,MD 270
+102627420,102613409,0,False,residential,"['Stiemly Avenue', 'Patsy Avenue', 'East Seagrove Road']",451.585,,,,,,,,,,,"[11512096, 11511570, 11518219]",
+102627420,102613409,1,False,secondary,Furnace Branch Road,128.262,2,,,,,,,,,,46014643,MD 270
+102627420,102583997,0,False,secondary,Furnace Branch Road,110.335,2,,,,,,,,,,46014643,MD 270
+102627423,583398819,0,False,residential,Biddle Road,109.883,,,,,,,,,,,45837573,
+102627423,102580925,0,False,secondary,Furnace Branch Road,38.371,2,,,,,,,,,,46014643,MD 270
+102627423,102613409,0,False,secondary,Furnace Branch Road,107.412,2,,,,,,,,,,46014643,MD 270
+102628075,102623405,0,False,residential,Anon Lane,319.103,,,,,,,,,,,11514465,
+102631672,4580381163,0,False,residential,Renfro Court,31.299,,,,,,,,,,,462665102,
+102631672,4580381161,0,False,residential,"['Renfro Drive', 'Renfro Court']",84.683,,,,,,,,,,,"[462665100, 462665101]",
+102631672,4580381161,1,False,residential,Renfro Court,84.426,,,,,,,,,,,462665102,
+102634454,102624077,0,False,residential,6th Avenue Northeast,252.717,4,,,25 mph,,,,,,,11519932,
+102634454,3786937498,0,False,residential,6th Avenue Northeast,235.74,4,,,25 mph,,,,,,,11519932,
+102634454,102611737,0,False,residential,"['7th Avenue Northeast', 'Laurie Lee Lane']",420.676,,,,,,,,,,,"[99241120, 11511893]",
+102634959,102652943,0,False,residential,Glen Road,69.921,,,,,,,,,,,11519244,
+102636049,102561874,0,False,residential,Marley Avenue,61.496,,,,,,,,,,,11515879,
+102639706,102583988,0,False,residential,Amelia Avenue,125.536,,,,,,,,,,,11516612,
+102640208,102611261,0,False,residential,Thompson Avenue,74.926,,,,,,,,,,,11516710,
+102640849,102583987,0,False,residential,Marigold Road,90.392,,,,,,,,,,,11516820,
+102641014,102606060,0,True,residential,Garrett Road,121.046,,,,,,,,,,,11516837,
+102641014,102642264,0,False,residential,Washington Avenue,106.467,,,,,,,,,,,11517077,
+102642264,102642266,0,False,residential,Washington Avenue,125.805,,,,,,,,,,,11517077,
+102642264,102641014,0,False,residential,Washington Avenue,106.467,,,,,,,,,,,11517077,
+102642264,102610084,0,True,residential,Glen Road,430.922,,,,,,,,,,,431551984,
+102642266,102603742,0,False,residential,Washington Avenue,144.722,,,,,,,,,,,11517077,
+102642266,102642264,0,False,residential,Washington Avenue,125.805,,,,,,,,,,,11517077,
+102645042,102563349,0,False,residential,Stiemly Avenue,110.245,,,,,,,,,,,11518218,
+102645042,102612220,0,False,residential,Biddle Road,256.096,,,,,,,,,,,45837576,
+102645042,102603740,0,False,residential,Biddle Road,120.473,,,,,,,,,,,45837576,
+102648044,102604015,0,False,residential,South Azar Avenue,79.185,,,,,,,,,,,11518237,
+102652943,4307631767,0,False,residential,Glen Road,269.033,,,,,,,,,,,11519244,
+102652943,585218046,0,True,unclassified,,117.672,,,,,,,,,,,45928218,
+102652943,102634959,0,False,residential,Glen Road,69.921,,,,,,,,,,,11519244,
+102655066,102655068,0,False,residential,Kuethe Road Northeast,78.653,,,,,,,,,,,11519655,
+102655068,102611737,0,False,residential,Kuethe Road Northeast,99.769,,,,,,,,,,,11519655,
+102655068,102655066,0,False,residential,Kuethe Road Northeast,78.653,,,,,,,,,,,11519655,
+102655068,102624077,0,False,residential,6th Avenue Northeast,68.841,4,,,25 mph,,,,,,,11519932,
+583398819,102627423,0,False,residential,Biddle Road,109.883,,,,,,,,,,,45837573,
+583485841,102601138,0,False,residential,Dotson Lane,294.934,,,,,,,,,,,11510321,
+583485842,102600200,0,False,secondary,Furnace Branch Road,6.219,2,,,,,,,,,,46014643,MD 270
+583485842,102601138,0,False,secondary,Furnace Branch Road,123.578,2,,,,,,,,,,46014643,MD 270
+583485842,4580381171,0,False,residential,Renfro Drive,71.737,,,,,,,,,,,462665103,
+585218046,102627194,0,False,residential,Amberly Road,101.787,,,,,,,,,,,11514328,
+585218046,102614697,0,False,residential,"['Amberly Road', 'Fitzallen Road']",268.182,,,,,,,,,,,"[11514328, 11512297]",
+585251496,102589252,0,False,residential,Langley Road,76.281,2,,,,,,,,,,11509689,
+585251496,836524139,0,True,secondary,Furnace Branch Road,92.114,2,,,,,,,,,,462665027,MD 270
+585251530,102589247,0,False,residential,Rose Anne Road,57.691,2,,,,,,,,,,11508237,
+585251530,102589252,0,False,residential,Rose Anne Road,685.808,2,,,,,,,,,,11508237,
+585251530,102596617,0,False,residential,Marie Avenue,192.04,2,,,25 mph,,,,,,,11510283,
+836521180,836521195,0,True,motorway_link,,537.621,1,,,,,,,,,,431560409,
+836521195,836524066,0,True,motorway,Arundel Expressway,1137.341,3,,,55 mph,,,,,,,137930314,MD 10
+836521236,585240128,0,True,motorway,Arundel Expressway,414.447,3,,,55 mph,,,,,,,46014625,MD 10
+836524066,4580380589,0,True,motorway_link,,374.861,,,,,,,,,,,70011406,
+836524066,102551608,0,True,motorway,Arundel Expressway,583.141,3,,,55 mph,,,,,,,137930314,MD 10
+836524139,836524196,0,True,motorway_link,,128.475,1,,,,,,,,,,70011414,
+836524139,4580380319,0,True,secondary,Furnace Branch Road,117.959,2,,,,,,,,,,462665027,MD 270
+836524168,836521236,0,True,motorway,Arundel Expressway,1467.268,3,,,55 mph,,,,,,,46014625,MD 10
+836524196,836524168,0,True,motorway_link,,406.186,1,,,,,,,,,,462665029,
+1147949243,102562322,0,True,primary,Ritchie Highway,121.429,3,,,45 mph,,,,,,,424997579,MD 2
+1147949249,102562320,0,False,secondary,Baltimore Annapolis Boulevard,36.816,4,,,30 mph,,,,,,,424997571,MD 648
+1147949249,102567425,0,False,secondary,Baltimore Annapolis Boulevard,101.061,"['4', '3']",,,30 mph,,,,,,,"[424997571, 546445012]",MD 648
+1147949256,102580516,0,False,residential,Kent Road,38.18,,,,,,,,,,,462665018,
+1179373830,102614697,0,False,residential,Amberly Road,164.625,,,,,,,,,,,11514327,
+1179373830,4307631766,0,False,secondary,Baltimore Annapolis Boulevard,335.05,"['3', '2']",,,,,,,,,,"[424994160, 424994153, 424994155]",MD 648
+2292652387,102589867,0,False,residential,School Road,98.753,,,,,,,,,,,11515635,
+2408425561,2408425562,0,False,secondary,Baltimore Annapolis Boulevard,7.574,2,,,,,,,,,,424994162,MD 648
+2408425561,102613825,0,False,secondary,Baltimore Annapolis Boulevard,89.006,2,,,,,,,,,,424994162,MD 648
+2408425562,2408425561,0,False,secondary,Baltimore Annapolis Boulevard,7.574,2,,,,,,,,,,424994162,MD 648
+2408425562,102562823,0,False,residential,Glen Oak Road,93.122,,,,,,,,,,,11507508,
+2930427457,102611737,0,False,residential,7th Avenue Northeast,66.778,,,,,,,,,,,11511893,
+2930427464,102603737,0,False,residential,Delaware Avenue,18.019,,,,25 mph,,,,,,,11511636,
+3786937495,102562303,0,True,primary,Ritchie Highway,40.047,3,,,45 mph,,,,,,,425001224,MD 2
+3786937495,3786937498,0,True,primary_link,,64.074,1,,,,,,,,,,375322800,
+3786937498,102562303,0,False,residential,6th Avenue Northeast,45.825,3,,,25 mph,,,,,,,546445024,
+3786937498,102634454,0,False,residential,6th Avenue Northeast,235.74,4,,,25 mph,,,,,,,11519932,
+4244898861,1147949243,0,True,primary,Ritchie Highway,35.775,3,,,45 mph,,,,,,,424997579,MD 2
+4307631766,4307631767,0,False,secondary,Baltimore Annapolis Boulevard,2.827,3,,,,,,,,,,424994160,MD 648
+4307631766,1179373830,0,False,secondary,Baltimore Annapolis Boulevard,335.05,"['3', '2']",,,,,,,,,,"[424994160, 424994153, 424994155]",MD 648
+4307631767,102652943,0,False,residential,Glen Road,269.033,,,,,,,,,,,11519244,
+4307631767,4307631766,0,False,secondary,Baltimore Annapolis Boulevard,2.827,3,,,,,,,,,,424994160,MD 648
+4307631767,102621508,0,False,secondary,Baltimore Annapolis Boulevard,227.025,3,,,30 mph,,,,,,,"[424994157, 424994158, 431551983]",MD 648
+4580380300,102551608,0,True,motorway_link,,533.966,,,,,,,,,,,70011405,
+4580380300,4580380589,0,True,secondary,Furnace Branch Road,173.018,2,,,,,,,,,,462665098,MD 270
+4580380319,836524196,0,True,motorway_link,,35.327,1,,,,,,,,,,70011416,
+4580380319,4580380300,0,True,secondary,Furnace Branch Road,297.512,2,,,,,,viaduct,,,,"[462665024, 462665025, 536818279]",MD 270
+4580380589,4580380592,0,True,secondary,Furnace Branch Road,152.134,2,,,,,,,,,,462665098,MD 270
+4580380592,102600200,0,True,secondary,Furnace Branch Road,85.248,2,,,,,,,,,,462665098,MD 270
+4580381087,4580381091,0,False,secondary,Furnace Branch Road,14.242,2,,,,,,,,,,46014643,MD 270
+4580381087,102580925,0,False,secondary,Furnace Branch Road,441.623,2,,,,,,,,,,46014643,MD 270
+4580381091,102565509,0,False,secondary,Furnace Branch Road,169.87,2,,,,,,,,,,46014643,MD 270
+4580381091,4580381087,0,False,secondary,Furnace Branch Road,14.242,2,,,,,,,,,,46014643,MD 270
+4580381140,102627417,0,False,residential,Thompson Avenue,256.182,,,,,,,,,,,462665091,
+4580381161,4580381166,0,False,residential,Renfro Drive,82.541,,,,,,,,,,,11514981,
+4580381161,102631672,0,False,residential,"['Renfro Drive', 'Renfro Court']",84.683,,,,,,,,,,,"[462665100, 462665101]",
+4580381161,102631672,1,False,residential,Renfro Court,84.426,,,,,,,,,,,462665102,
+4580381163,102631672,0,False,residential,Renfro Court,31.299,,,,,,,,,,,462665102,
+4580381166,4580381161,0,False,residential,Renfro Drive,82.541,,,,,,,,,,,11514981,
+4580381166,4580381171,0,True,residential,Renfro Drive,26.425,,,,,,,,,,roundabout,462665104,
+4580381171,583485842,0,False,residential,Renfro Drive,71.737,,,,,,,,,,,462665103,
+4580381171,4580381166,0,True,residential,Renfro Drive,26.434,,,,,,,,,,roundabout,462665104,
+4613169634,4613169658,0,False,residential,,71.729,,,,,,,,,,,"[466537371, 466537358]",
+4613169634,4613169657,0,False,residential,,57.112,,,,,,,,,,,"[466537360, 466537369]",
+4613169634,4613169637,0,False,residential,,31.288,,,,,,,,,,,466537361,
+4613169637,4613169634,0,False,residential,,31.288,,,,,,,,,,,466537361,
+4613169649,4613169650,0,False,residential,,106.44,,,,,,,,,,,466537366,
+4613169650,4613169649,0,False,residential,,106.44,,,,,,,,,,,466537366,
+4613169657,4613169658,0,False,secondary,Furnace Branch Road,38.705,2,,,,,,,,,,46014643,MD 270
+4613169657,102627418,0,False,secondary,Furnace Branch Road,126.262,2,,,,,,,,,,46014643,MD 270
+4613169657,4613169634,0,False,residential,,57.112,,,,,,,,,,,"[466537360, 466537369]",
+4613169658,102583997,0,False,secondary,Furnace Branch Road,21.205,2,,,,,,,,,,46014643,MD 270
+4613169658,4613169657,0,False,secondary,Furnace Branch Road,38.705,2,,,,,,,,,,46014643,MD 270
+4613169658,4613169634,0,False,residential,,71.729,,,,,,,,,,,"[466537371, 466537358]",
+5280822027,102562313,0,True,primary,Ritchie Highway,22.185,4,,,45 mph,,,,,,,425001233,MD 2
+5280822027,102562313,1,True,residential,Maryland Avenue,174.899,2,,,,,,,,,,"[546445016, 376481505]",

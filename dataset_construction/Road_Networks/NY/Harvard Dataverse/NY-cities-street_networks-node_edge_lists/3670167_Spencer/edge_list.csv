@@ -1,0 +1,111 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+119657831,119819583,0,False,secondary,North Main Street,177.602,,,,35 mph,,,,,,,13027233,NY 34; NY 96
+119657831,119657856,0,False,residential,Liberty Street,191.223,,,,,,,,,,,13008288,
+119657831,119808204,0,False,secondary,North Main Street,90.213,,,,35 mph,,,,,,,13027233,NY 34; NY 96
+119657856,119657866,0,False,residential,Liberty Street,96.319,,,,,,,,,,,13008288,
+119657856,119861587,0,False,residential,Harrison Street,172.831,,,,,,,,,,,13031267,
+119657856,119657831,0,False,residential,Liberty Street,191.223,,,,,,,,,,,13008288,
+119657866,119657856,0,False,residential,Liberty Street,96.319,,,,,,,,,,,13008288,
+119657866,119803213,0,False,residential,Nichols Street,89.123,,,,,,,,,,,13025616,
+119657866,119657888,0,False,residential,Liberty Street,464.677,,,,,,,,,,,13008288,
+119657888,119657891,0,False,residential,Liberty Street,110.892,,,,,,,,,,,13008288,
+119657888,119657866,0,False,residential,Liberty Street,464.677,,,,,,,,,,,13008288,
+119657888,119726692,0,False,residential,North Railroad Avenue,299.596,,,,,,,,,,,13023013,
+119657888,119780258,0,False,residential,"['North Railroad Avenue', 'Academy Street']",358.871,,,,,,,,,,,"[114124021, 13023013]",
+119657891,119657888,0,False,residential,Liberty Street,110.892,,,,,,,,,,,13008288,
+119657891,119752736,0,False,residential,Tompkins Street,317.312,,,,,,,,,,,13018090,
+119659543,119734811,0,False,residential,Temple Lane,95.663,,,,,,,,,,,13024085,
+119659543,119734803,0,False,residential,Guiles Road,386.771,,,,,,,,,,,13030177,
+119710345,119819555,0,False,secondary,North Main Street,25.064,,,,35 mph,,,,,,,13027233,NY 34; NY 96
+119710345,119768508,0,False,secondary,North Main Street,247.974,,,,35 mph,,,,,,,13027233,NY 34; NY 96
+119726625,119726635,0,False,residential,Brooks Street,162.022,,,,,,,,,,,13015354,
+119726625,119819583,0,False,secondary,North Main Street,81.539,,,,35 mph,,,,,,,13027233,NY 34; NY 96
+119726635,119726625,0,False,residential,Brooks Street,162.022,,,,,,,,,,,13015354,
+119726635,119861587,0,False,residential,Harrison Street,92.948,,,,,,,,,,,13031267,
+119726635,119726692,0,False,residential,Brooks Street,553.596,,,,,,,,,,,13015354,
+119726692,119726635,0,False,residential,Brooks Street,553.596,,,,,,,,,,,13015354,
+119726692,119657888,0,False,residential,North Railroad Avenue,299.596,,,,,,,,,,,13023013,
+119734751,119768508,0,False,secondary,North Main Street,183.022,,,,35 mph,,,,,,,13027233,NY 34; NY 96
+119734751,119734776,0,False,secondary,East Tioga Street,99.566,,,,35 mph,,,,,,,232364005,NY 96
+119734751,119798995,0,False,secondary,West Tioga Street,334.827,,,,35 mph,,,,,,,236755882,NY 34
+119734776,119768519,0,False,residential,Water Street,149.802,,,,,,,,,,,13033042,
+119734776,119734790,0,False,secondary,East Tioga Street,100.532,,,,35 mph,,,,,,,232364005,NY 96
+119734776,119734751,0,False,secondary,East Tioga Street,99.566,,,,35 mph,,,,,,,232364005,NY 96
+119734790,119768529,0,False,residential,Maple Avenue,119.652,,,,,,,,,,,13024048,
+119734790,119734803,0,False,secondary,East Tioga Street,22.66,,,,35 mph,,,,,,,232364005,NY 96
+119734790,119734776,0,False,secondary,East Tioga Street,100.532,,,,35 mph,,,,,,,232364005,NY 96
+119734803,119734811,0,False,secondary,East Tioga Street,307.271,,,,35 mph,,,,,,,232364005,NY 96
+119734803,119734790,0,False,secondary,East Tioga Street,22.66,,,,35 mph,,,,,,,232364005,NY 96
+119734803,119659543,0,False,residential,Guiles Road,386.771,,,,,,,,,,,13030177,
+119734811,119659543,0,False,residential,Temple Lane,95.663,,,,,,,,,,,13024085,
+119734811,119734803,0,False,secondary,East Tioga Street,307.271,,,,35 mph,,,,,,,232364005,NY 96
+119734811,119768529,0,False,residential,Owego Street,340.042,,,,,,,,,,,13020996,
+119752699,119752736,0,False,residential,Tompkins Street,649.298,,,,,,,,,,,13018090,
+119752699,119780243,0,False,secondary,West Tioga Street,386.539,,,,"['55 mph', '45 mph']",,,yes,,,,"[13030418, 236756762, 50979044, 50979043]",NY 34
+119752736,1293232439,0,False,residential,Academy Street,49.936,,,,,,,,,,,13026001,
+119752736,119657891,0,False,residential,Tompkins Street,317.312,,,,,,,,,,,13018090,
+119752736,119752699,0,False,residential,Tompkins Street,649.298,,,,,,,,,,,13018090,
+119759608,119798995,0,False,secondary,West Tioga Street,83.222,,,,35 mph,,,,,,,236755882,NY 34
+119759608,119759640,0,False,residential,Park Street,182.592,,,,,,,,,,,13019239,
+119759608,119780243,0,False,secondary,West Tioga Street,222.995,,,,"['45 mph', '35 mph']",,,,,,,"[236755882, 50979043]",NY 34
+119759640,119759664,0,False,residential,Park Street,237.41,,,,,,,,,,,13019239,
+119759640,119759608,0,False,residential,Park Street,182.592,,,,,,,,,,,13019239,
+119759640,119872276,0,False,residential,Meadow Street,166.83,,,,,,,,,,,13034956,
+119759664,119759640,0,False,residential,Park Street,237.41,,,,,,,,,,,13019239,
+119759664,119803207,0,False,residential,"['Academy Street', 'Nichols Street']",307.496,,,,,,,,,,,"[13025616, 114124021]",
+119759664,119807042,0,False,residential,Academy Street,140.345,,,,,,,,,,,114124021,
+119768499,119768508,0,False,residential,Owego Street,162.387,,,,,,,,,,,13020996,
+119768508,119768499,0,False,residential,Owego Street,162.387,,,,,,,,,,,13020996,
+119768508,119768519,0,False,residential,Owego Street,101.432,,,,,,,,,,,13020996,
+119768508,119710345,0,False,secondary,North Main Street,247.974,,,,35 mph,,,,,,,13027233,NY 34; NY 96
+119768508,119734751,0,False,secondary,North Main Street,183.022,,,,35 mph,,,,,,,13027233,NY 34; NY 96
+119768519,119768529,0,False,residential,Owego Street,88.404,,,,,,,,,,,13020996,
+119768519,119734776,0,False,residential,Water Street,149.802,,,,,,,,,,,13033042,
+119768519,119768508,0,False,residential,Owego Street,101.432,,,,,,,,,,,13020996,
+119768529,119768519,0,False,residential,Owego Street,88.404,,,,,,,,,,,13020996,
+119768529,119734790,0,False,residential,Maple Avenue,119.652,,,,,,,,,,,13024048,
+119768529,119734811,0,False,residential,Owego Street,340.042,,,,,,,,,,,13020996,
+119780208,119780232,0,False,residential,Railroad Avenue,212.995,,,,,,,,,,,13022999,
+119780208,119780264,0,False,residential,North Railroad Avenue,262.43,,,,,,,,,,,13023007,
+119780232,119780243,0,False,residential,Railroad Avenue,22.467,,,,,,,,,,,13022999,
+119780232,119872276,0,False,residential,Orchard Street,228.309,,,,,,,,,,,13032529,
+119780232,119780208,0,False,residential,Railroad Avenue,212.995,,,,,,,,,,,13022999,
+119780243,119780232,0,False,residential,Railroad Avenue,22.467,,,,,,,,,,,13022999,
+119780243,119759608,0,False,secondary,West Tioga Street,222.995,,,,"['45 mph', '35 mph']",,,,,,,"[236755882, 50979043]",NY 34
+119780243,119752699,0,False,secondary,West Tioga Street,386.539,,,,"['55 mph', '45 mph']",,,yes,,,,"[236756762, 50979043, 50979044, 13030418]",NY 34
+119780258,119780264,0,False,residential,North Railroad Avenue,230.687,,,,,,,,,,,13023007,
+119780258,119807042,0,False,residential,Academy Street,77.867,,,,,,,,,,,114124021,
+119780258,119657888,0,False,residential,"['North Railroad Avenue', 'Academy Street']",358.871,,,,,,,,,,,"[13023013, 114124021]",
+119780264,119780258,0,False,residential,North Railroad Avenue,230.687,,,,,,,,,,,13023007,
+119780264,119872276,0,False,residential,Meadow Street,131.726,,,,,,,,,,,13034956,
+119780264,119780208,0,False,residential,North Railroad Avenue,262.43,,,,,,,,,,,13023007,
+119798995,119759608,0,False,secondary,West Tioga Street,83.222,,,,35 mph,,,,,,,236755882,NY 34
+119798995,119799021,0,False,residential,George Street,152.179,,,,,,,,,,,13025245,
+119798995,119734751,0,False,secondary,West Tioga Street,334.827,,,,35 mph,,,,,,,236755882,NY 34
+119799021,119798995,0,False,residential,George Street,152.179,,,,,,,,,,,13025245,
+119803207,119819555,0,False,residential,Center Street,311.51,,,,,,,,,,,13031199,
+119803207,119803213,0,False,residential,Nichols Street,112.759,,,,,,,,,,,13025616,
+119803207,119759664,0,False,residential,"['Academy Street', 'Nichols Street']",307.496,,,,,,,,,,,"[13025616, 114124021]",
+119803213,119657866,0,False,residential,Nichols Street,89.123,,,,,,,,,,,13025616,
+119803213,119808204,0,False,residential,Ferris Street,301.324,,,,,,,,,,,13026128,
+119803213,119803207,0,False,residential,Nichols Street,112.759,,,,,,,,,,,13025616,
+119807042,119872276,0,False,residential,Orchard Street,231.537,,,,,,,,,,,13032529,
+119807042,119759664,0,False,residential,Academy Street,140.345,,,,,,,,,,,114124021,
+119807042,119780258,0,False,residential,Academy Street,77.867,,,,,,,,,,,114124021,
+119808204,119803213,0,False,residential,Ferris Street,301.324,,,,,,,,,,,13026128,
+119808204,119819555,0,False,secondary,North Main Street,102.058,,,,35 mph,,,,,,,13027233,NY 34; NY 96
+119808204,119657831,0,False,secondary,North Main Street,90.213,,,,35 mph,,,,,,,13027233,NY 34; NY 96
+119819555,119808204,0,False,secondary,North Main Street,102.058,,,,35 mph,,,,,,,13027233,NY 34; NY 96
+119819555,119710345,0,False,secondary,North Main Street,25.064,,,,35 mph,,,,,,,13027233,NY 34; NY 96
+119819555,119803207,0,False,residential,Center Street,311.51,,,,,,,,,,,13031199,
+119819583,119726625,0,False,secondary,North Main Street,81.539,,,,35 mph,,,,,,,13027233,NY 34; NY 96
+119819583,119657831,0,False,secondary,North Main Street,177.602,,,,35 mph,,,,,,,13027233,NY 34; NY 96
+119819583,119861587,0,False,residential,Kennedy Street,167.538,,,,,,,,,,,13033926,
+119861587,119726635,0,False,residential,Harrison Street,92.948,,,,,,,,,,,13031267,
+119861587,119657856,0,False,residential,Harrison Street,172.831,,,,,,,,,,,13031267,
+119861587,119819583,0,False,residential,Kennedy Street,167.538,,,,,,,,,,,13033926,
+119872276,119807042,0,False,residential,Orchard Street,231.537,,,,,,,,,,,13032529,
+119872276,119780232,0,False,residential,Orchard Street,228.309,,,,,,,,,,,13032529,
+119872276,119780264,0,False,residential,Meadow Street,131.726,,,,,,,,,,,13034956,
+119872276,119759640,0,False,residential,Meadow Street,166.83,,,,,,,,,,,13034956,
+1293232439,119752736,0,False,residential,Academy Street,49.936,,,,,,,,,,,13026001,

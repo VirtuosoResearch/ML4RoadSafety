@@ -1,0 +1,314 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+182152214,182152216,0,False,residential,Harold Street,62.873,,,,,,,,,,,17596324,
+182152216,182152214,0,False,residential,Harold Street,62.873,,,,,,,,,,,17596324,
+182152216,1203632226,0,False,unclassified,Cosden Street,104.409,,,,,,,,,,,17605920,
+182152220,182152238,0,False,residential,Harold Street,193.84,,,,,,,,,,,17596325,
+182152238,182206522,0,False,residential,New Street,114.747,,,,,,,,,,,17602933,
+182152238,182152220,0,False,residential,Harold Street,193.84,,,,,,,,,,,17596325,
+182152238,182204581,0,False,residential,New Street,121.915,,,,,,,,,,,17602929,
+182152246,182152250,0,False,residential,Harold Street,233.239,,,,,,,,,,,17596327,
+182152246,182204945,0,False,residential,North School Street,147.099,,,,,,,,,,,17602746,
+182152246,182191669,0,False,residential,Maple Avenue,87.464,,,,,,,,,,,17603678,
+182152250,182152246,0,False,residential,Harold Street,233.239,,,,,,,,,,,17596327,
+182153113,182153126,0,False,residential,,145.343,,,,,,,,,,,17596413,
+182153113,182203678,0,False,residential,,75.013,,,,,,,,,,,17602587,
+182153113,182203666,0,False,residential,,83.358,,,,,,,,,,,17602587,
+182153126,182153113,0,False,residential,,145.343,,,,,,,,,,,17596413,
+182153126,182181911,0,False,primary,Greensboro Road,149.145,2,,,,,,,,,,17602988,MD 313
+182153126,182181007,0,False,primary,Greensboro Road,164.199,2,,,,,,,,,,17602988,MD 313
+182153197,182204444,0,False,residential,Wothers Road,242.901,,,,,,,,,,,17603694,
+182153197,182218301,0,False,secondary,Whiteleysburg Road,174.592,2,,,,,,,,,,45875119,MD 314
+182153528,182205032,0,False,residential,Church Street,54.667,,,,,,,,,,,17603132,
+182153528,182208480,0,False,residential,Church Street,102.342,,,,,,,,,,,17603132,
+182153528,182153533,0,False,residential,,77.903,,,,,,,,,,,263992059,
+182153533,182205032,0,False,unclassified,Cedar Lane,53.126,,,,,,,,,,,17602761,
+182153533,182205030,0,False,unclassified,Cedar Lane,91.174,,,,,,,,,,,17602761,
+182153533,182153528,0,False,residential,,77.903,,,,,,,,,,,263992059,
+182158395,182208094,0,False,residential,Hobbs Street,63.554,,,,,,,,,,,17603091,
+182163295,2696733310,0,False,secondary,South Main Street,77.958,2,,,,,,,,,,17602790,MD 480
+182164776,182184422,0,False,residential,Lincoln Street,53.237,,,,,,,,,,,17604377,
+182176054,182183237,0,False,residential,,101.394,,,,,,,,,,,17602057,
+182176054,2696733316,0,False,residential,,4.502,,,,,,,,,,,17602057,
+182176054,2696733310,0,False,residential,Park Avenue,20.197,,,,,,,,,,,17604590,
+182176054,182216907,0,False,residential,Park Avenue,235.842,,,,,,,,,,,17604590,
+182180940,182181007,0,False,primary,Greensboro Road,62.039,2,,,,,,,,,,17602988,MD 313
+182181007,182180940,0,False,primary,Greensboro Road,62.039,2,,,,,,,,,,17602988,MD 313
+182181007,182153126,0,False,primary,Greensboro Road,164.199,2,,,,,,,,,,17602988,MD 313
+182181007,182220785,0,False,residential,Wheeler Drive,383.674,,,,,,,,,,,"[17604358, 17604359]",
+182181911,182181920,0,True,secondary_link,,45.033,,,,,,,,,,,17599652,
+182181911,182206972,0,False,primary,Greensboro Road,48.096,2,,,,,,,,,,17602988,MD 313
+182181911,182153126,0,False,primary,Greensboro Road,149.145,2,,,,,,,,,,17602988,MD 313
+182181920,2696478265,0,False,secondary,Whiteleysburg Road,14.838,2,,,,,,,,,,45875119,MD 314
+182181920,182203678,0,False,secondary,Whiteleysburg Road,49.24,2,,,,,,,,,,45875119,MD 314
+182181920,182204444,0,False,residential,Boyce Mill Road,419.623,,,,,,,,,,,17602691,
+182182058,2696733316,0,False,residential,,45.912,,,,,,,,,,,17599677,
+182183237,182176054,0,False,residential,,101.394,,,,,,,,,,,17602057,
+182183270,182183284,0,False,residential,,258.779,,,,,,,,,,,17599832,
+182183270,182216900,0,False,secondary,East Sunset Avenue,111.011,2,,,,,,,,,,263966356,MD 314
+182183270,2696478280,0,False,secondary,East Sunset Avenue,127.846,2,,,,,,yes,,,,"[263966360, 263966356, 17603960]",MD 314
+182183284,182183270,0,False,residential,,258.779,,,,,,,,,,,17599832,
+182183411,182208094,0,False,residential,Bernard Avenue,98.792,,,,,,,,,,,263992055,
+182183411,182217638,0,False,residential,Roe Street,115.979,,,,,,,,,,,17604032,
+182183411,182220801,0,False,residential,Bernard Avenue,133.192,,,,,,,,,,,263992055,
+182184182,2696478301,0,False,primary,Greensboro Road,14.124,2,,,,,,,,,,17602988,MD 313
+182184182,2696478280,0,True,secondary_link,,30.747,,,,,,,,,,,263997349,
+182184422,182164776,0,False,residential,Lincoln Street,53.237,,,,,,,,,,,17604377,
+182184422,2696478312,0,False,residential,,69.975,,,,,,,,,,,17600000,
+182184422,182216903,0,False,residential,Lincoln Street,90.327,,,,,,,,,,,17604377,
+182190394,182209806,0,False,residential,"['Mallard Drive', 'Wood Duck Drive']",410.697,,,,,,,,,,,"[17603288, 17603614]",
+182190394,182209806,1,False,residential,Pintail Street,115.361,,,,,,,,,,,17604895,
+182190394,182210690,0,False,residential,Wood Duck Drive,182.665,,,,,,,,,,,17603614,
+182191669,182191671,0,False,residential,,71.889,,,,,,,,,,,17600951,
+182191669,182152246,0,False,residential,Maple Avenue,87.464,,,,,,,,,,,17603678,
+182191669,182210671,0,False,residential,Maple Avenue,112.069,,,,,,,,,,,17603678,
+182191671,182191669,0,False,residential,,71.889,,,,,,,,,,,17600951,
+182203666,182212699,0,False,secondary,Whiteleysburg Road,23.44,2,,,,,,,,,,45875119,MD 314
+182203666,182153113,0,False,residential,,83.358,,,,,,,,,,,17602587,
+182203666,182203678,0,False,secondary,Whiteleysburg Road,58.251,2,,,,,,,,,,45875119,MD 314
+182203678,182181920,0,False,secondary,Whiteleysburg Road,49.24,2,,,,,,,,,,45875119,MD 314
+182203678,182153113,0,False,residential,,75.013,,,,,,,,,,,17602587,
+182203678,182203666,0,False,secondary,Whiteleysburg Road,58.251,2,,,,,,,,,,45875119,MD 314
+182203989,182212702,0,False,residential,Kitteridge Court,49.374,,,,,,,,,,,17603567,
+182203989,182212699,0,False,residential,Kitteridge Court,94.992,,,,,,,,,,,17603567,
+182203989,182220782,0,False,residential,Nashold Place,132.27,,,,,,,,,,,"[17605443, 17602630]",
+182204444,182181920,0,False,residential,Boyce Mill Road,419.623,,,,,,,,,,,17602691,
+182204444,182153197,0,False,residential,Wothers Road,242.901,,,,,,,,,,,17603694,
+182204549,182204581,0,False,residential,Granby Street,254.842,,,,,,,,,,,17602706,
+182204581,182204583,0,False,residential,Granby Street,113.711,,,,,,,,,,,17602706,
+182204581,182204549,0,False,residential,Granby Street,254.842,,,,,,,,,,,17602706,
+182204581,182152238,0,False,residential,New Street,121.915,,,,,,,,,,,17602929,
+182204583,182204581,0,False,residential,Granby Street,113.711,,,,,,,,,,,17602706,
+182204583,182208091,0,False,tertiary,West Sunset Avenue,45.092,,,,,,,,,,,17605872,MD 314
+182204583,1203632226,0,False,"['unclassified', 'tertiary']",West Sunset Avenue,47.26,,,,,,,,,,,"[17605872, 44975343]",MD 314
+182204945,182204946,0,False,residential,North School Street,57.03,,,,,,,,,,,17602746,
+182204945,182152246,0,False,residential,North School Street,147.099,,,,,,,,,,,17602746,
+182204945,182225976,0,False,tertiary,West Sunset Avenue,72.889,,,,,,,,,,,17605872,MD 314
+182204945,182210673,0,False,tertiary,West Sunset Avenue,207.339,,,,,,,,,,,17605872,MD 314
+182204946,182204945,0,False,residential,North School Street,57.03,,,,,,,,,,,17602746,
+182204946,182225727,0,False,residential,Ober Lane,72.074,,,,,,,,,,,17604940,
+182204946,182204947,0,False,residential,North School Street,114.325,,,,,,,,,,,17602746,
+182204946,182210675,0,False,residential,Ober Lane,209.009,,,,,,,,,,,17604940,
+182204947,182204951,0,False,residential,Bernard Avenue,7.223,,,,,,,,,,,263992055,
+182204947,182204946,0,False,residential,North School Street,114.325,,,,,,,,,,,17602746,
+182204947,182220801,0,False,residential,Bernard Avenue,256.048,,,,,,,,,,,263992055,
+182204951,182204947,0,False,residential,Bernard Avenue,7.223,,,,,,,,,,,263992055,
+182204951,182210676,0,False,residential,Bernard Avenue,205.913,,,,,,,,,,,263992055,
+182204951,182204953,0,False,residential,North School Street,213.74,,,,,,,,,,,17602749,
+182204953,4936329496,0,False,residential,North School Street,69.922,,,,,,,,,,,17602749,
+182204953,182204951,0,False,residential,North School Street,213.74,,,,,,,,,,,17602749,
+182204953,2619133969,0,False,residential,,105.876,,,,,,,,,,,256235602,
+182205030,182153533,0,False,unclassified,Cedar Lane,91.174,,,,,,,,,,,17602761,
+182205030,182221173,0,False,secondary,North Main Street,120.244,2,,,,,,,,,,17605060,MD 480
+182205030,182205309,0,False,secondary,North Main Street,215.005,2,,,,,,,,,,17605060,MD 480
+182205032,182153533,0,False,unclassified,Cedar Lane,53.126,,,,,,,,,,,17602761,
+182205032,182205038,0,False,unclassified,Cedar Lane,97.626,,,,,,,,,,,17602761,
+182205032,182208486,0,False,residential,Church Street,178.08,,,,,,,,,,,17603132,
+182205032,182153528,0,False,residential,Church Street,54.667,,,,,,,,,,,17603132,
+182205038,4936329496,0,False,unclassified,Cedar Lane,232.493,,,,,,,,,,,17602761,
+182205038,182205032,0,False,unclassified,Cedar Lane,97.626,,,,,,,,,,,17602761,
+182205038,182210681,0,False,residential,Academy Street,207.342,,,,,,,,,,,17603366,
+182205038,182210676,0,False,residential,Academy Street,181.244,,,,,,,,,,,17603366,
+182205047,182205053,0,False,unclassified,Cedar Lane,317.26,,,,,,,,,,,17602761,
+182205047,4936329496,0,False,unclassified,Cedar Lane,198.644,,,,,,,,,,,17602761,
+182205047,182209233,0,False,residential,Maryland Avenue,586.138,,,,,,,,,,,17603216,
+182205053,182205047,0,False,unclassified,Cedar Lane,317.26,,,,,,,,,,,17602761,
+182205304,182205306,0,False,secondary,South Main Street,157.131,2,,,,,,,,,,17602790,MD 480
+182205304,2696733316,0,False,secondary,South Main Street,24.301,2,,,,,,,,,,17602790,MD 480
+182205304,182210671,0,False,residential,Maple Avenue,271.86,,,,,,,,,,,17603678,
+182205306,182205304,0,False,secondary,South Main Street,157.131,2,,,,,,,,,,17602790,MD 480
+182205306,182208474,0,False,tertiary,East Sunset Avenue,170.879,2,,,,,,,,,,114575639,MD 314
+182205306,182205309,0,False,secondary,South Main Street,81.054,2,,,,,,,,,,17602790,MD 480
+182205306,182216907,0,False,secondary,East Sunset Avenue,131.65,2,,,,,,,,,,263966356,MD 314
+182205309,182205306,0,False,secondary,South Main Street,81.054,2,,,,,,,,,,17602790,MD 480
+182205309,182216907,0,False,residential,Stonesifer Drive,174.751,,,,,,,,,,,17604074,
+182205309,182205030,0,False,secondary,North Main Street,215.005,2,,,,,,,,,,17605060,MD 480
+182206522,182152238,0,False,residential,New Street,114.747,,,,,,,,,,,17602933,
+182206522,182208091,0,False,tertiary,West Sunset Avenue,50.263,,,,,,,,,,,17605872,MD 314
+182206522,182217634,0,False,tertiary,West Sunset Avenue,64.035,,,,,,,,,,,17605872,MD 314
+182206972,2696478301,0,False,primary,Greensboro Road,21.588,2,,,,,,,,,,17602988,MD 313
+182206972,182181911,0,False,primary,Greensboro Road,48.096,2,,,,,,,,,,17602988,MD 313
+182206972,2696478280,0,False,secondary,East Sunset Avenue,30.247,2,,,,,,,,,,17603960,MD 314
+182206972,2696478265,0,False,secondary,Whiteleysburg Road,29.705,2,,,,,,,,,,45875119,MD 314
+182206997,5595619191,0,False,residential,,22.869,3,,,,,,,,,,585554739,
+182206997,182213045,0,False,secondary,North Main Street,418.224,2,,,,,,,,,,17605060,MD 480
+182208091,182208094,0,False,residential,Hobbs Street,173.695,,,,,,,,,,,17603091,
+182208091,182204583,0,False,tertiary,West Sunset Avenue,45.092,,,,,,,,,,,17605872,MD 314
+182208091,182206522,0,False,tertiary,West Sunset Avenue,50.263,,,,,,,,,,,17605872,MD 314
+182208094,182158395,0,False,residential,Hobbs Street,63.554,,,,,,,,,,,17603091,
+182208094,182208091,0,False,residential,Hobbs Street,173.695,,,,,,,,,,,17603091,
+182208094,182183411,0,False,residential,Bernard Avenue,98.792,,,,,,,,,,,263992055,
+182208474,182208477,0,False,residential,Church Street,49.93,,,,,,,,,,,17603132,
+182208474,182210673,0,False,tertiary,East Sunset Avenue,93.291,2,,,,,,,,,,114575639,MD 314
+182208474,182205306,0,False,tertiary,East Sunset Avenue,170.879,2,,,,,,,,,,114575639,MD 314
+182208477,182208480,0,False,residential,Church Street,117.453,,,,,,,,,,,17603132,
+182208477,182208474,0,False,residential,Church Street,49.93,,,,,,,,,,,17603132,
+182208477,182210675,0,False,residential,Ober Lane,94.994,,,,,,,,,,,17604940,
+182208480,182208477,0,False,residential,Church Street,117.453,,,,,,,,,,,17603132,
+182208480,182153528,0,False,residential,Church Street,102.342,,,,,,,,,,,17603132,
+182208480,182210676,0,False,residential,Bernard Avenue,93.236,,,,,,,,,,,263992055,
+182208486,182205032,0,False,residential,Church Street,178.08,,,,,,,,,,,17603132,
+182208486,182225958,0,False,secondary,North Main Street,47.929,2,,,,,,,,,,17605060,MD 480
+182208486,182221173,0,False,secondary,North Main Street,130.611,2,,,,,,,,,,17605060,MD 480
+182209233,182205047,0,False,residential,Maryland Avenue,586.138,,,,,,,,,,,17603216,
+182209806,2619134028,0,False,residential,Mallard Drive,109.59,,,,,,,,,,,17603288,
+182209806,182190394,0,False,residential,"['Mallard Drive', 'Wood Duck Drive']",410.697,,,,,,,,,,,"[17603288, 17603614]",
+182209806,182190394,1,False,residential,Pintail Street,115.361,,,,,,,,,,,17604895,
+182210671,182210673,0,False,residential,Academy Street,152.121,,,,,,,,,,,17603366,
+182210671,182191669,0,False,residential,Maple Avenue,112.069,,,,,,,,,,,17603678,
+182210671,182205304,0,False,residential,Maple Avenue,271.86,,,,,,,,,,,17603678,
+182210673,182210675,0,False,residential,Academy Street,49.533,,,,,,,,,,,17603366,
+182210673,182210671,0,False,residential,Academy Street,152.121,,,,,,,,,,,17603366,
+182210673,182208474,0,False,tertiary,East Sunset Avenue,93.291,2,,,,,,,,,,114575639,MD 314
+182210673,182204945,0,False,tertiary,West Sunset Avenue,207.339,,,,,,,,,,,17605872,MD 314
+182210675,182210673,0,False,residential,Academy Street,49.533,,,,,,,,,,,17603366,
+182210675,182210676,0,False,residential,Academy Street,121.988,,,,,,,,,,,17603366,
+182210675,182208477,0,False,residential,Ober Lane,94.994,,,,,,,,,,,17604940,
+182210675,182204946,0,False,residential,Ober Lane,209.009,,,,,,,,,,,17604940,
+182210676,182204951,0,False,residential,Bernard Avenue,205.913,,,,,,,,,,,263992055,
+182210676,182205038,0,False,residential,Academy Street,181.244,,,,,,,,,,,17603366,
+182210676,182210675,0,False,residential,Academy Street,121.988,,,,,,,,,,,17603366,
+182210676,182208480,0,False,residential,Bernard Avenue,93.236,,,,,,,,,,,263992055,
+182210681,182217546,0,False,residential,Vaughn Avenue,93.169,,,,,,,,,,,17604973,
+182210681,182210687,0,False,residential,Academy Street,211.366,,,,,,,,,,,17603366,
+182210681,182205038,0,False,residential,Academy Street,207.342,,,,,,,,,,,17603366,
+182210681,182225958,0,False,residential,Vaughn Avenue,100.592,,,,,,,,,,,17604973,
+182210687,182210690,0,False,residential,Academy Street,186.245,,,,,,,,,,,17603366,
+182210687,182215606,0,False,residential,Caroline Street,101.166,,,,,,,,,,,17603851,
+182210687,182210681,0,False,residential,Academy Street,211.366,,,,,,,,,,,17603366,
+182210690,182210687,0,False,residential,Academy Street,186.245,,,,,,,,,,,17603366,
+182210690,182190394,0,False,residential,Wood Duck Drive,182.665,,,,,,,,,,,17603614,
+182210690,182213045,0,False,residential,Wood Duck Drive,95.827,,,,,,,,,,,17603614,
+182212699,182203989,0,False,residential,Kitteridge Court,94.992,,,,,,,,,,,17603567,
+182212699,182203666,0,False,secondary,Whiteleysburg Road,23.44,2,,,,,,,,,,45875119,MD 314
+182212699,182218301,0,False,secondary,Whiteleysburg Road,157.844,2,,,,,,,,,,45875119,MD 314
+182212702,182203989,0,False,residential,Kitteridge Court,49.374,,,,,,,,,,,17603567,
+182213045,182210690,0,False,residential,Wood Duck Drive,95.827,,,,,,,,,,,17603614,
+182213045,182206997,0,False,secondary,North Main Street,418.224,2,,,,,,,,,,17605060,MD 480
+182213045,182215606,0,False,secondary,North Main Street,194.321,2,,,,,,,,,,17605060,MD 480
+182215606,182210687,0,False,residential,Caroline Street,101.166,,,,,,,,,,,17603851,
+182215606,182213045,0,False,secondary,North Main Street,194.321,2,,,,,,,,,,17605060,MD 480
+182215606,182225958,0,False,secondary,North Main Street,209.929,2,,,,,,,,,,17605060,MD 480
+182216900,182216903,0,False,secondary,East Sunset Avenue,69.901,2,,,,,,,,,,263966356,MD 314
+182216900,2696740145,0,False,residential,Mill Street,214.433,,,,,,,,,,,17603999,
+182216900,182183270,0,False,secondary,East Sunset Avenue,111.011,2,,,,,,,,,,263966356,MD 314
+182216903,182216900,0,False,secondary,East Sunset Avenue,69.901,2,,,,,,,,,,263966356,MD 314
+182216903,182184422,0,False,residential,Lincoln Street,90.327,,,,,,,,,,,17604377,
+182216903,2696478312,0,False,secondary,East Sunset Avenue,88.31,2,,,,,,,,,,263966356,MD 314
+182216907,182205309,0,False,residential,Stonesifer Drive,174.751,,,,,,,,,,,17604074,
+182216907,182176054,0,False,residential,Park Avenue,235.842,,,,,,,,,,,17604590,
+182216907,182205306,0,False,secondary,East Sunset Avenue,131.65,2,,,,,,,,,,263966356,MD 314
+182216907,2696478312,0,False,secondary,East Sunset Avenue,11.551,2,,,,,,,,,,263966356,MD 314
+182217541,182217546,0,False,residential,Dutchmans Lane,99.924,,,,,,,,,,,17604023,
+182217541,182217541,0,False,residential,Dutchmans Lane,218.695,,,,,,,,,,,17604024,
+182217541,182217541,1,False,residential,Dutchmans Lane,218.695,,,,,,,,,,,17604024,
+182217546,182210681,0,False,residential,Vaughn Avenue,93.169,,,,,,,,,,,17604973,
+182217546,182217541,0,False,residential,Dutchmans Lane,99.924,,,,,,,,,,,17604023,
+182217546,4929462930,0,False,residential,Vaughn Avenue,123.578,,,,,,,,,,,17604973,
+182217634,182217638,0,False,residential,Roe Street,56.217,,,,,,,,,,,17604032,
+182217634,182206522,0,False,tertiary,West Sunset Avenue,64.035,,,,,,,,,,,17605872,MD 314
+182217634,182220799,0,False,tertiary,West Sunset Avenue,130.706,,,,,,,,,,,17605872,MD 314
+182217638,182217634,0,False,residential,Roe Street,56.217,,,,,,,,,,,17604032,
+182217638,182220800,0,False,residential,Ober Lane,130.874,,,,,,,,,,,17604940,
+182217638,182183411,0,False,residential,Roe Street,115.979,,,,,,,,,,,17604032,
+182218301,182220782,0,False,residential,Wheeler Drive,16.908,,,,,,,,,,,17604359,
+182218301,182212699,0,False,secondary,Whiteleysburg Road,157.844,2,,,,,,,,,,45875119,MD 314
+182218301,182153197,0,False,secondary,Whiteleysburg Road,174.592,2,,,,,,,,,,45875119,MD 314
+182220782,182220785,0,False,residential,Wheeler Drive,51.256,,,,,,,,,,,17604359,
+182220782,182218301,0,False,residential,Wheeler Drive,16.908,,,,,,,,,,,17604359,
+182220782,182203989,0,False,residential,Nashold Place,132.27,,,,,,,,,,,"[17605443, 17602630]",
+182220785,182220782,0,False,residential,Wheeler Drive,51.256,,,,,,,,,,,17604359,
+182220785,182233824,0,False,residential,Christian Drive,94.329,,,,,,,,,,,17605904,
+182220785,182181007,0,False,residential,Wheeler Drive,383.674,,,,,,,,,,,"[17604358, 17604359]",
+182220799,182220800,0,False,residential,Horsey Street,57.277,,,,,,,,,,,17604362,
+182220799,182217634,0,False,tertiary,West Sunset Avenue,130.706,,,,,,,,,,,17605872,MD 314
+182220799,182225976,0,False,tertiary,West Sunset Avenue,186.688,,,,,,,,,,,17605872,MD 314
+182220800,182220801,0,False,residential,Horsey Street,115.673,,,,,,,,,,,17604362,
+182220800,182220799,0,False,residential,Horsey Street,57.277,,,,,,,,,,,17604362,
+182220800,182225727,0,False,residential,Ober Lane,186.951,,,,,,,,,,,17604940,
+182220800,182217638,0,False,residential,Ober Lane,130.874,,,,,,,,,,,17604940,
+182220801,182220800,0,False,residential,Horsey Street,115.673,,,,,,,,,,,17604362,
+182220801,182183411,0,False,residential,Bernard Avenue,133.192,,,,,,,,,,,263992055,
+182220801,182204947,0,False,residential,Bernard Avenue,256.048,,,,,,,,,,,263992055,
+182221173,182221179,0,False,residential,Elmer Court,130.815,,,,,,,,,,,17604416,
+182221173,182208486,0,False,secondary,North Main Street,130.611,2,,,,,,,,,,17605060,MD 480
+182221173,182205030,0,False,secondary,North Main Street,120.244,2,,,,,,,,,,17605060,MD 480
+182221179,182221173,0,False,residential,Elmer Court,130.815,,,,,,,,,,,17604416,
+182225727,182204946,0,False,residential,Ober Lane,72.074,,,,,,,,,,,17604940,
+182225727,182220800,0,False,residential,Ober Lane,186.951,,,,,,,,,,,17604940,
+182225727,182225976,0,False,residential,Bennett Street,56.909,,,,,,,,,,,17604975,
+182225958,182210681,0,False,residential,Vaughn Avenue,100.592,,,,,,,,,,,17604973,
+182225958,182215606,0,False,secondary,North Main Street,209.929,2,,,,,,,,,,17605060,MD 480
+182225958,182208486,0,False,secondary,North Main Street,47.929,2,,,,,,,,,,17605060,MD 480
+182225976,182225727,0,False,residential,Bennett Street,56.909,,,,,,,,,,,17604975,
+182225976,182220799,0,False,tertiary,West Sunset Avenue,186.688,,,,,,,,,,,17605872,MD 314
+182225976,182204945,0,False,tertiary,West Sunset Avenue,72.889,,,,,,,,,,,17605872,MD 314
+182231354,1203632226,0,False,unclassified,Industry Lane,252.651,,,,,,,,,,,17605597,
+182231354,182231365,0,False,residential,Industry Lane,273.194,,,,,,,,,,,17605602,
+182231365,182231354,0,False,residential,Industry Lane,273.194,,,,,,,,,,,17605602,
+182231365,1203632226,0,False,unclassified,West Sunset Avenue,144.605,,,,,,,,,,,44975343,
+182233824,182220785,0,False,residential,Christian Drive,94.329,,,,,,,,,,,17605904,
+1203632226,182152216,0,False,unclassified,Cosden Street,104.409,,,,,,,,,,,17605920,
+1203632226,182231354,0,False,unclassified,Industry Lane,252.651,,,,,,,,,,,17605597,
+1203632226,182231365,0,False,unclassified,West Sunset Avenue,144.605,,,,,,,,,,,44975343,
+1203632226,182204583,0,False,"['unclassified', 'tertiary']",West Sunset Avenue,47.26,,,,,,,,,,,"[17605872, 44975343]",MD 314
+2619133958,2619133959,0,True,residential,,64.907,,,,,,,,,,roundabout,256235563,
+2619133958,2619133963,0,False,residential,,132.802,,,,,,,,,,,256235610,
+2619133959,2619133958,0,True,residential,,3.187,,,,,,,,,,roundabout,256235563,
+2619133959,2619133972,0,False,residential,,90.404,,,,,,,,,,,256235575,
+2619133963,2619133964,0,False,residential,,22.624,,,,,,,,,,,256235571,
+2619133963,2619133985,0,False,residential,,125.504,,,,,,,,,,,256235610,
+2619133963,2619133958,0,False,residential,,132.802,,,,,,,,,,,256235610,
+2619133964,2619133963,0,False,residential,,22.624,,,,,,,,,,,256235571,
+2619133969,2619133981,0,True,residential,,38.723,,,,,,,,,,roundabout,256235566,
+2619133969,182204953,0,False,residential,,105.876,,,,,,,,,,,256235602,
+2619133972,2619133959,0,False,residential,,90.404,,,,,,,,,,,256235575,
+2619133972,2619133969,0,True,residential,,25.977,,,,,,,,,,roundabout,256235566,
+2619133981,2619133986,0,False,residential,,11.644,,,,,,,,,,,256235577,
+2619133981,2619133972,0,True,residential,,20.207,,,,,,,,,,roundabout,256235566,
+2619133985,2619133988,0,False,residential,,25.103,,,,,,,,,,,256235569,
+2619133985,2619133963,0,False,residential,,125.504,,,,,,,,,,,256235610,
+2619133985,2619133998,0,False,residential,,87.281,,,,,,,,,,,256235610,
+2619133986,2619133981,0,False,residential,,11.644,,,,,,,,,,,256235577,
+2619133988,2619133985,0,False,residential,,25.103,,,,,,,,,,,256235569,
+2619133989,2619133996,0,False,residential,,12.469,,,,,,,,,,,256235596,
+2619133996,2619133998,0,True,residential,,28.85,,,,,,,,,,roundabout,256235586,
+2619133996,2619133989,0,False,residential,,12.469,,,,,,,,,,,256235596,
+2619133998,2619133985,0,False,residential,,87.281,,,,,,,,,,,256235610,
+2619133998,2619134009,0,True,residential,,19.605,,,,,,,,,,roundabout,256235586,
+2619134009,2619134013,0,False,residential,,21.923,,,,,,,,,,,256235579,
+2619134009,2619133996,0,True,residential,,36.384,,,,,,,,,,roundabout,256235586,
+2619134013,2619134009,0,False,residential,,21.923,,,,,,,,,,,256235579,
+2619134014,4929462930,0,False,residential,Vaughn Avenue,82.559,,,,,,,,,,,17604973,
+2619134014,2619134014,0,False,residential,Vaughn Avenue,328.147,,,,,,,,,,,256235515,
+2619134014,2619134014,1,False,residential,Vaughn Avenue,328.147,,,,,,,,,,,256235515,
+2619134028,182209806,0,False,residential,Mallard Drive,109.59,,,,,,,,,,,17603288,
+2696478265,182181920,0,False,secondary,Whiteleysburg Road,14.838,2,,,,,,,,,,45875119,MD 314
+2696478265,182206972,0,False,secondary,Whiteleysburg Road,29.705,2,,,,,,,,,,45875119,MD 314
+2696478265,2696478301,0,True,secondary_link,,46.456,,,,,,,,,,,263966364,
+2696478280,182183270,0,False,secondary,East Sunset Avenue,127.846,2,,,,,,yes,,,,"[17603960, 263966356, 263966360]",MD 314
+2696478280,182206972,0,False,secondary,East Sunset Avenue,30.247,2,,,,,,,,,,17603960,MD 314
+2696478301,182184182,0,False,primary,Greensboro Road,14.124,2,,,,,,,,,,17602988,MD 313
+2696478301,182206972,0,False,primary,Greensboro Road,21.588,2,,,,,,,,,,17602988,MD 313
+2696478312,182184422,0,False,residential,,69.975,,,,,,,,,,,17600000,
+2696478312,182216907,0,False,secondary,East Sunset Avenue,11.551,2,,,,,,,,,,263966356,MD 314
+2696478312,182216903,0,False,secondary,East Sunset Avenue,88.31,2,,,,,,,,,,263966356,MD 314
+2696733310,182176054,0,False,residential,Park Avenue,20.197,,,,,,,,,,,17604590,
+2696733310,2696733316,0,False,secondary,South Main Street,20.273,2,,,,,,,,,,17602790,MD 480
+2696733310,182163295,0,False,secondary,South Main Street,77.958,2,,,,,,,,,,17602790,MD 480
+2696733316,182176054,0,False,residential,,4.502,,,,,,,,,,,17602057,
+2696733316,182205304,0,False,secondary,South Main Street,24.301,2,,,,,,,,,,17602790,MD 480
+2696733316,182182058,0,False,residential,,45.912,,,,,,,,,,,17599677,
+2696733316,2696733310,0,False,secondary,South Main Street,20.273,2,,,,,,,,,,17602790,MD 480
+2696740133,2696740145,0,False,residential,Mill Street,232.784,,,,,,,,,,,17603999,
+2696740143,2696740145,0,False,residential,,164.596,,,,,,,,,,,263996625,
+2696740145,2696740133,0,False,residential,Mill Street,232.784,,,,,,,,,,,17603999,
+2696740145,182216900,0,False,residential,Mill Street,214.433,,,,,,,,,,,17603999,
+2696740145,2696740143,0,False,residential,,164.596,,,,,,,,,,,263996625,
+4929462930,4936329496,0,False,residential,North School Street,131.404,,,,,,,,,,,17602749,
+4929462930,2619134014,0,False,residential,Vaughn Avenue,82.559,,,,,,,,,,,17604973,
+4929462930,182217546,0,False,residential,Vaughn Avenue,123.578,,,,,,,,,,,17604973,
+4936329496,4929462930,0,False,residential,North School Street,131.404,,,,,,,,,,,17602749,
+4936329496,182204953,0,False,residential,North School Street,69.922,,,,,,,,,,,17602749,
+4936329496,182205047,0,False,unclassified,Cedar Lane,198.644,,,,,,,,,,,17602761,
+4936329496,182205038,0,False,unclassified,Cedar Lane,232.493,,,,,,,,,,,17602761,
+5595619191,182206997,0,False,residential,,22.869,3,,,,,,,,,,585554739,

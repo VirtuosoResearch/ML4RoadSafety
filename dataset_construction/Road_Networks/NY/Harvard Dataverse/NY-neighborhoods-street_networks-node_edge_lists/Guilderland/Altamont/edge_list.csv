@@ -1,0 +1,148 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+41290343,41290352,0,False,residential,Grand Street,284.612,,,,30 mph,,,,,,,5568800,
+41290343,41350498,0,False,secondary,Main Street,97.465,,,,30 mph,,,,,,,5585225,NY 146
+41290343,41472096,0,False,secondary,Main Street,64.89,,,,30 mph,,,,,,,5585225,NY 146
+41290352,2215228223,0,False,residential,Grand Street,78.81,,,,30 mph,,,,,,,5568800,
+41290352,41542982,0,False,residential,Fairview Avenue,28.249,,,,30 mph,,,,,,,5592591,
+41290352,41290343,0,False,residential,Grand Street,284.612,,,,30 mph,,,,,,,5568800,
+41290352,41327628,0,False,residential,Fairview Avenue,147.921,,,,30 mph,,,,,,,5592591,
+41292210,41327628,0,False,residential,"['Park Street', 'Fairview Avenue']",348.626,,,,30 mph,,,,,,,"[5569006, 5592591]",
+41292210,41472112,0,False,secondary,Main Street,36.04,,,,30 mph,,,,,,,5585225,NY 146
+41292210,41386830,0,False,secondary,Main Street,104.302,,,,30 mph,,,,,,,5585225,NY 146
+41312662,41337779,0,False,secondary,Maple Avenue,168.245,,,,30 mph,,,,,,,5594553,NY 146
+41312662,41312667,0,False,tertiary,Maple Avenue,166.813,,,,30 mph,,,,,,,5571085,CR 253
+41312662,41386839,0,False,secondary,NY 397,198.391,,,,30 mph,,,,,,,44733342,NY 397
+41312667,41537436,0,False,residential,Gregg Road,130.125,,,,30 mph,,,,,,,5593075,
+41312667,41312673,0,False,tertiary,Maple Avenue,417.463,,,,30 mph,,,,,,,5571085,CR 253
+41312667,41312662,0,False,tertiary,Maple Avenue,166.813,,,,30 mph,,,,,,,5571085,CR 253
+41312667,41517917,0,False,residential,Sunset Drive,394.278,,,,30 mph,,,,,,,5589826,
+41312673,41353281,0,False,residential,Whipple Way,154.107,,,,30 mph,,,,,,,5574975,
+41312673,41559354,0,False,tertiary,County Route 253,19.652,,,,30 mph,,,,,,,5594584,CR 253
+41312673,41312667,0,False,tertiary,Maple Avenue,417.463,,,,30 mph,,,,,,,5571085,CR 253
+41319226,41319239,0,False,residential,Schoharie Plank Road East,248.361,,,,30 mph,,,,,,,5571857,
+41319239,41319226,0,False,residential,Schoharie Plank Road East,248.361,,,,30 mph,,,,,,,5571857,
+41319239,41385128,0,False,residential,Brandle Road,269.804,,,,30 mph,,,,,,,5577842,
+41319239,41472088,0,False,secondary,Main Street,168.168,,,,30 mph,,,,,,,5585225,NY 146
+41319239,41335658,0,False,secondary,"['Main Street', 'State Highway 146']",160.218,,,,30 mph,,,,,,,"[5585225, 5573706]",NY 146
+41325029,677185158,0,False,residential,Schoharie Plank Road West,329.073,,,,30 mph,,,,,,,5572506,
+41325029,41442022,0,False,residential,Schoharie Plank Road West,60.784,,,,30 mph,,,,,,,5582568,
+41325029,41442027,0,False,residential,Schoharie Plank Road West,60.683,,,,30 mph,,,,,,,5582570,
+41327622,41350498,0,False,secondary,Main Street,67.455,,,,30 mph,,,,,,,5585225,NY 146
+41327622,41327628,0,False,residential,Lark Street,289.967,,,,30 mph,,,,,,,5572769,
+41327622,41386830,0,False,secondary,Main Street,26.682,,,,30 mph,,,,,,,5585225,NY 146
+41327628,41327622,0,False,residential,Lark Street,289.967,,,,30 mph,,,,,,,5572769,
+41327628,41290352,0,False,residential,Fairview Avenue,147.921,,,,30 mph,,,,,,,5592591,
+41327628,41292210,0,False,residential,"['Park Street', 'Fairview Avenue']",348.626,,,,30 mph,,,,,,,"[5569006, 5592591]",
+41335658,41319239,0,False,secondary,"['Main Street', 'State Highway 146']",160.218,,,,30 mph,,,,,,,"[5585225, 5573706]",NY 146
+41337777,41386839,0,False,residential,Lincoln Avenue,121.538,,,,30 mph,,,,,,,5577954,
+41337777,41337779,0,True,residential,Jay Street,174.021,,,,30 mph,,,,,,,5573932,
+41337777,41386830,0,False,residential,Lincoln Avenue,334.022,,,,30 mph,,,,,,,5577954,
+41337779,41312662,0,False,secondary,Maple Avenue,168.245,,,,30 mph,,,,,,,5594553,NY 146
+41337779,41472112,0,False,secondary,Maple Avenue,366.628,,,,30 mph,,,,,,,5594553,NY 146
+41349007,41349010,0,False,residential,Severson Avenue,30.983,,,,,,,,,,,5574612,
+41349007,41379335,0,False,secondary,Altamont Boulevard,186.671,,,,30 mph,,,,,,,5577324,NY 156
+41349007,41379315,0,False,secondary,Altamont Boulevard,310.823,,,,30 mph,,,,,,,5577324,NY 156
+41349010,41349007,0,False,residential,Severson Avenue,30.983,,,,,,,,,,,5574612,
+41349016,41349023,0,False,residential,Severson Avenue,267.986,,,,30 mph,,,,,,,5574613,
+41349016,41472122,0,False,residential,Helderberg Avenue,80.225,,,,30 mph,,,,,,,5579525,
+41349023,41349016,0,False,residential,Severson Avenue,267.986,,,,30 mph,,,,,,,5574613,
+41350498,41327622,0,False,secondary,Main Street,67.455,,,,30 mph,,,,,,,5585225,NY 146
+41350498,41350500,0,False,residential,Mill Street,140.55,,,,30 mph,,,,,,,5574757,
+41350498,41290343,0,False,secondary,Main Street,97.465,,,,30 mph,,,,,,,5585225,NY 146
+41350500,41350498,0,False,residential,Mill Street,140.55,,,,30 mph,,,,,,,5574757,
+41353281,41312673,0,False,residential,Whipple Way,154.107,,,,30 mph,,,,,,,5574975,
+41353281,41353294,0,False,residential,Whipple Way,305.66,,,,30 mph,,,,,,,5574975,
+41353281,41417154,0,False,residential,Sanford Place,307.621,,,,30 mph,,,,,,,5580372,
+41353294,41353281,0,False,residential,Whipple Way,305.66,,,,30 mph,,,,,,,5574975,
+41353294,41417154,0,False,residential,Sanford Place,225.569,,,,30 mph,,,,,,,5580372,
+41379315,41349007,0,False,secondary,Altamont Boulevard,310.823,,,,30 mph,,,,,,,5577324,NY 156
+41379315,41403011,0,False,residential,Prospect Terrace,495.287,,,,,,,,,,,5579190,
+41379315,41472112,0,False,secondary,Main Street,127.575,,,,30 mph,,,,,,,44733343,
+41379315,41472122,0,False,secondary,Main Street,18.23,,,,30 mph,,,,,,,53332284,NY 156
+41379335,41504121,0,False,residential,Mountaindale Court,47.444,,,,,,,,,,,5588387,
+41379335,41349007,0,False,secondary,Altamont Boulevard,186.671,,,,30 mph,,,,,,,5577324,NY 156
+41385128,41385131,0,False,residential,Brandle Road,90.909,,,,30 mph,,,,,,,5577842,
+41385128,41319239,0,False,residential,Brandle Road,269.804,,,,30 mph,,,,,,,5577842,
+41385128,41525871,0,False,residential,Van Evera Drive,77.098,,,,30 mph,,,,,,,5590682,
+41385131,41385128,0,False,residential,Brandle Road,90.909,,,,30 mph,,,,,,,5577842,
+41386830,41337777,0,False,residential,Lincoln Avenue,334.022,,,,30 mph,,,,,,,5577954,
+41386830,41292210,0,False,secondary,Main Street,104.302,,,,30 mph,,,,,,,5585225,NY 146
+41386830,41327622,0,False,secondary,Main Street,26.682,,,,30 mph,,,,,,,5585225,NY 146
+41386839,41337777,0,False,residential,Lincoln Avenue,121.538,,,,30 mph,,,,,,,5577954,
+41386839,41442022,0,False,secondary,NY 397,87.442,,,,30 mph,,,,,,,44733342,NY 397
+41386839,41312662,0,False,secondary,NY 397,198.391,,,,30 mph,,,,,,,44733342,NY 397
+41393700,41393701,0,False,residential,Sand Street,169.933,,,,,,,,,,,5578497,
+41393700,41472096,0,False,secondary,Main Street,32.609,,,,30 mph,,,,,,,5585225,NY 146
+41393700,41472088,0,False,secondary,Main Street,132.375,,,,30 mph,,,,,,,5585225,NY 146
+41393701,41393700,0,False,residential,Sand Street,169.933,,,,,,,,,,,5578497,
+41403011,41379315,0,False,residential,Prospect Terrace,495.287,,,,,,,,,,,5579190,
+41417154,41353281,0,False,residential,Sanford Place,307.621,,,,30 mph,,,,,,,5580372,
+41417154,41353294,0,False,residential,Sanford Place,225.569,,,,30 mph,,,,,,,5580372,
+41417154,41507342,0,False,residential,Groot Drive,207.127,,,,30 mph,,,,,,,5588736,
+41442022,41325029,0,False,residential,Schoharie Plank Road West,60.784,,,,30 mph,,,,,,,5582568,
+41442022,41442027,0,False,secondary,NY 397,70.215,,,,30 mph,,,,,,,44733342,NY 397
+41442022,41386839,0,False,secondary,NY 397,87.442,,,,30 mph,,,,,,,44733342,NY 397
+41442027,41325029,0,False,residential,Schoharie Plank Road West,60.683,,,,30 mph,,,,,,,5582570,
+41442027,41547279,0,False,secondary,NY 397,289.566,,,,30 mph,,,,,,,44733342,NY 397
+41442027,41442022,0,False,secondary,NY 397,70.215,,,,30 mph,,,,,,,44733342,NY 397
+41446313,41446321,0,False,residential,Marion Court,199.056,,,,30 mph,,,,,,,5582952,
+41446313,41554898,0,False,residential,Gun Club Road,642.139,,,,30 mph,,,,,,,5594188,
+41446321,41446321,0,False,residential,Marion Court,65.657,,,,30 mph,,,,,,,"[5582952, 5588105]",
+41446321,41446321,1,False,residential,Marion Court,65.657,,,,30 mph,,,,,,,"[5582952, 5588105]",
+41446321,41446313,0,False,residential,Marion Court,199.056,,,,30 mph,,,,,,,5582952,
+41472088,41393700,0,False,secondary,Main Street,132.375,,,,30 mph,,,,,,,5585225,NY 146
+41472088,41319239,0,False,secondary,Main Street,168.168,,,,30 mph,,,,,,,5585225,NY 146
+41472088,41551835,0,False,residential,Thacher Drive,190.098,,,,,,,,,,,5593655,
+41472096,41290343,0,False,secondary,Main Street,64.89,,,,30 mph,,,,,,,5585225,NY 146
+41472096,41393700,0,False,secondary,Main Street,32.609,,,,30 mph,,,,,,,5585225,NY 146
+41472096,41509886,0,False,residential,Euclid Avenue,259.956,,,,30 mph,,,,,,,5589048,
+41472112,41292210,0,False,secondary,Main Street,36.04,,,,30 mph,,,,,,,5585225,NY 146
+41472112,41337779,0,False,secondary,Maple Avenue,366.628,,,,30 mph,,,,,,,5594553,NY 146
+41472112,41379315,0,False,secondary,Main Street,127.575,,,,30 mph,,,,,,,44733343,
+41472122,41349016,0,False,residential,Helderberg Avenue,80.225,,,,30 mph,,,,,,,5579525,
+41472122,41379315,0,False,secondary,Main Street,18.23,,,,30 mph,,,,,,,53332284,NY 156
+41473414,41473415,0,False,residential,Indian Meadows Path,104.866,,,,30 mph,,,,,,,5585306,
+41473414,41525586,0,False,tertiary,Bozenkill Road,146.459,,,,30 mph,,,,,,,200238185,CR 253
+41473415,41473414,0,False,residential,Indian Meadows Path,104.866,,,,30 mph,,,,,,,5585306,
+41473415,41506672,0,False,residential,Indian Maiden Pass,164.902,,,,30 mph,,,,,,,5588656,
+41473415,41506620,0,False,residential,Indian Maiden Pass,186.009,,,,30 mph,,,,,,,5588656,
+41504121,41379335,0,False,residential,Mountaindale Court,47.444,,,,,,,,,,,5588387,
+41506620,41473415,0,False,residential,Indian Maiden Pass,186.009,,,,30 mph,,,,,,,5588656,
+41506620,41506620,0,False,residential,Indian Maiden Pass,73.741,,,,30 mph,,,,,,,5588661,
+41506620,41506620,1,False,residential,Indian Maiden Pass,73.741,,,,30 mph,,,,,,,5588661,
+41506672,41473415,0,False,residential,Indian Maiden Pass,164.902,,,,30 mph,,,,,,,5588656,
+41506672,41506672,0,False,residential,Indian Maiden Pass,87.623,,,,30 mph,,,,,,,5588660,
+41506672,41506672,1,False,residential,Indian Maiden Pass,87.623,,,,30 mph,,,,,,,5588660,
+41507342,41537436,0,False,residential,Gregg Road,171.124,,,,30 mph,,,,,,,5593075,
+41507342,41417154,0,False,residential,Groot Drive,207.127,,,,30 mph,,,,,,,5588736,
+41507342,41547279,0,False,residential,Gregg Road,179.773,,,,30 mph,,,,,,,5593075,
+41509886,41472096,0,False,residential,Euclid Avenue,259.956,,,,30 mph,,,,,,,5589048,
+41517917,41312667,0,False,residential,Sunset Drive,394.278,,,,30 mph,,,,,,,5589826,
+41525586,41525589,0,False,unclassified,Bozenkill Road,69.33,,,,30 mph,,,,,,,53615317,
+41525586,41559354,0,False,tertiary,County Route 253,94.289,,,,30 mph,,,,,,,5594584,CR 253
+41525586,41473414,0,False,tertiary,Bozenkill Road,146.459,,,,30 mph,,,,,,,200238185,CR 253
+41525589,41525586,0,False,unclassified,Bozenkill Road,69.33,,,,30 mph,,,,,,,53615317,
+41525589,41559354,0,False,residential,Maple Avenue,55.167,,,,30 mph,,,,,,,202905747,
+41525605,41554898,0,False,secondary,NY 397,145.762,,,,35 mph,,,,,,,200238194,NY 397
+41525871,41525871,0,False,residential,Van Evera Drive,72.509,,,,30 mph,,,,,,,5590680,
+41525871,41525871,1,False,residential,Van Evera Drive,72.509,,,,30 mph,,,,,,,5590680,
+41525871,41385128,0,False,residential,Van Evera Drive,77.098,,,,30 mph,,,,,,,5590682,
+41537394,41537436,0,False,residential,Knower Court,100.552,,,,30 mph,,,,,,,5591912,
+41537394,41537394,0,False,residential,Knower Court,76.803,,,,30 mph,,,,,,,5591911,
+41537394,41537394,1,False,residential,Knower Court,76.803,,,,30 mph,,,,,,,5591911,
+41537436,41537394,0,False,residential,Knower Court,100.552,,,,30 mph,,,,,,,5591912,
+41537436,41507342,0,False,residential,Gregg Road,171.124,,,,30 mph,,,,,,,5593075,
+41537436,41312667,0,False,residential,Gregg Road,130.125,,,,30 mph,,,,,,,5593075,
+41542982,41290352,0,False,residential,Fairview Avenue,28.249,,,,30 mph,,,,,,,5592591,
+41547279,41507342,0,False,residential,Gregg Road,179.773,,,,30 mph,,,,,,,5593075,
+41547279,41554898,0,False,secondary,NY 397,243.358,,,,"['30 mph', '35 mph']",,,,,,,"[200238194, 44733342]",NY 397
+41547279,41442027,0,False,secondary,NY 397,289.566,,,,30 mph,,,,,,,44733342,NY 397
+41551835,41472088,0,False,residential,Thacher Drive,190.098,,,,,,,,,,,5593655,
+41554898,41446313,0,False,residential,Gun Club Road,642.139,,,,30 mph,,,,,,,5594188,
+41554898,41525605,0,False,secondary,NY 397,145.762,,,,35 mph,,,,,,,200238194,NY 397
+41554898,41547279,0,False,secondary,NY 397,243.358,,,,"['30 mph', '35 mph']",,,,,,,"[200238194, 44733342]",NY 397
+41559354,41312673,0,False,tertiary,County Route 253,19.652,,,,30 mph,,,,,,,5594584,CR 253
+41559354,41525589,0,False,residential,Maple Avenue,55.167,,,,30 mph,,,,,,,202905747,
+41559354,41525586,0,False,tertiary,County Route 253,94.289,,,,30 mph,,,,,,,5594584,CR 253
+677185158,41325029,0,False,residential,Schoharie Plank Road West,329.073,,,,30 mph,,,,,,,5572506,
+2215228223,41290352,0,False,residential,Grand Street,78.81,,,,30 mph,,,,,,,5568800,

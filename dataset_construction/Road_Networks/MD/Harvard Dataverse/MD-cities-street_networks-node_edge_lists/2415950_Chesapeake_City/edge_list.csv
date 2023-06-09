@@ -1,0 +1,102 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+182236478,182236480,0,True,residential,Bohemia Avenue,107.754,,,,,,,,,,,17606120,
+182236478,182475585,0,False,residential,3rd Street,72.831,,,,,,,,,,,17609224,
+182236478,182476733,0,False,residential,"['Ferry Slip Road', '3rd Street']",167.092,,,,,,,,,,,"[17609224, 17623349]",
+182236480,182236482,0,True,residential,Bohemia Avenue,51.342,,,,,,,,,,,17606120,
+182236480,182491751,0,False,secondary,2nd Street,73.209,,,,25 mph,,,,,,,88779908,MD 286
+182236480,182476733,0,False,secondary,2nd Street,69.341,,,,25 mph,,,,,,,88779908,MD 286
+182236482,182236482,0,True,residential,"['1st Street', 'Rees Wharf Road', 'Bohemia Avenue']",204.02,,,,,,,,,,,"[17606120, 95935488, 17627126]",
+182236482,182491753,0,False,residential,1st Street,73.924,,,,,,,,,,,238914000,
+182267587,2468404327,0,False,residential,Charles Street,134.706,,,,,,,,,,,17622790,
+182267587,182491739,0,False,residential,Charles Street,148.549,,,,,,,,,,,17622790,
+182267587,182491745,0,True,residential,4th Street,57.81,,,,,,,,,,,17629730,
+182278701,182475601,0,False,residential,3rd Street,64.959,,,,,,,,,,,17609224,
+182278701,182528833,0,False,residential,Walnut Drive,208.703,,,,,,,,,,,17626330,
+182278701,2468404361,0,False,residential,"['Ritter Lane', '3rd Street']",131.961,,,,,,,,,,,"[17609224, 239024596]",
+182286852,182491724,0,False,primary_link,,97.253,,,,,,,,,,,73595660,
+182286852,1296886815,0,True,primary_link,,166.946,,,,,,,,,,,114495178,
+182309091,182363506,0,False,secondary,Basil Avenue,9.662,,,,,,,,,,,17622335,
+182309091,182491724,0,False,secondary,Basil Avenue,191.032,,,,,,,,,,,17622335,
+182310829,182310854,0,False,tertiary,,196.742,,,,,,,,,,,17611950,
+182310829,182482011,0,False,secondary,2nd Street,428.51,,,,25 mph,,,yes,,,,"[17624810, 88779907, 88779908]",MD 286
+182310854,182310829,0,False,tertiary,,196.742,,,,,,,,,,,17611950,
+182310854,182310892,0,False,residential,,257.542,,,,,,,,,,,73595665,
+182310892,182310854,0,False,residential,,257.542,,,,,,,,,,,73595665,
+182326914,182467005,0,False,residential,Charles Street,26.617,,,,,,,,,,,239024591,
+182363506,182309091,0,False,secondary,Basil Avenue,9.662,,,,,,,,,,,17622335,
+182363506,182457728,0,False,tertiary,Basil Avenue,195.478,,,,,,,,,,,"[114495166, 114495150]",
+182457728,182363506,0,False,tertiary,Basil Avenue,195.478,,,,,,,,,,,"[114495150, 114495166]",
+182458924,182588978,0,False,secondary,Hemphill Street,86.788,,,,,,,,,,,44341368,MD 284
+182458924,182458950,0,False,residential,Moss Street,192.098,,,,,,,,,,,17622384,
+182458924,182586740,0,False,secondary,Hemphill Street,27.954,,,,,,,,,,,44341368,MD 284
+182458950,182458924,0,False,residential,Moss Street,192.098,,,,,,,,,,,17622384,
+182458950,182471786,0,False,secondary,Lock Street,113.641,,,,,,,,,,,17623089,MD 285
+182467005,1111560375,0,True,residential,Charles Street,105.669,,,,,,,,,,,95935486,
+182467005,182326914,0,False,residential,Charles Street,26.617,,,,,,,,,,,239024591,
+182471786,182471798,0,False,secondary,Lock Street,81.486,,,,,,,,,,,17623089,MD 285
+182471786,182458950,0,False,secondary,Lock Street,113.641,,,,,,,,,,,17623089,MD 285
+182471786,182588978,0,False,residential,Cecil Street,263.079,,,,,,,,,,,17630805,
+182471798,182471786,0,False,secondary,Lock Street,81.486,,,,,,,,,,,17623089,MD 285
+182471798,182592998,0,False,secondary,Biddle Street,302.649,,,,,,,,,,,44341360,MD 285
+182471798,1111560420,0,False,residential,Lock Street,78.055,,,,,,,,,,,44341361,
+182471806,1111560420,0,False,residential,Lock Street,20.081,,,,,,,,,,,44341361,
+182475585,182491751,0,False,secondary,George Street,108.441,,,,25 mph,,,,,,,114495158,
+182475585,1111560375,0,False,residential,3rd Street,80.949,,,,,,,,,,,17609224,
+182475585,182236478,0,False,residential,3rd Street,72.831,,,,,,,,,,,17609224,
+182475585,182491745,0,False,secondary,George Street,125.935,,,,25 mph,,,,,,,114495158,
+182475601,182278701,0,False,residential,3rd Street,64.959,,,,,,,,,,,17609224,
+182475601,182549938,0,False,residential,Lindsey Avenue,182.279,,,,,,,,,,,17627689,
+182475601,2468404327,0,False,residential,3rd Street,132.38,,,,,,,,,,,17609224,
+182476733,182236478,0,False,residential,"['Ferry Slip Road', '3rd Street']",167.092,,,,,,,,,,,"[17609224, 17623349]",
+182476733,182236480,0,False,secondary,2nd Street,69.341,,,,25 mph,,,,,,,88779908,MD 286
+182476733,182482011,0,False,secondary,2nd Street,182.584,,,,25 mph,,,,,,,88779908,MD 286
+182482011,182476733,0,False,secondary,2nd Street,182.584,,,,25 mph,,,,,,,88779908,MD 286
+182482011,182310829,0,False,secondary,2nd Street,428.51,,,,25 mph,,,yes,,,,"[17624810, 88779907, 88779908]",MD 286
+182491724,182513330,0,False,secondary,North Street,69.717,,,,,,,,,,,95935485,
+182491724,182309091,0,False,secondary,Basil Avenue,191.032,,,,,,,,,,,17622335,
+182491724,182286852,0,False,primary_link,,97.253,,,,,,,,,,,73595660,
+182491724,182491739,0,False,secondary,George Street,115.464,,,,25 mph,,,,,,,114495158,
+182491739,182267587,0,False,residential,Charles Street,148.549,,,,,,,,,,,17622790,
+182491739,182513330,0,False,secondary,North Saint Augustine Road,115.006,,,,,,,,,,,17625350,MD 342
+182491739,182491745,0,False,secondary,George Street,132.052,,,,25 mph,,,,,,,114495158,
+182491739,182491724,0,False,secondary,George Street,115.464,,,,25 mph,,,,,,,114495158,
+182491745,182236478,0,True,residential,"['4th Street', 'Bohemia Avenue']",195.971,,,,,,,,,,,"[17606120, 17629730]",
+182491745,182475585,0,False,secondary,George Street,125.935,,,,25 mph,,,,,,,114495158,
+182491745,182491739,0,False,secondary,George Street,132.052,,,,25 mph,,,,,,,114495158,
+182491751,182491753,0,False,residential,George Street,52.824,,,,,,,,,,,44341363,
+182491751,182475585,0,False,secondary,George Street,108.441,,,,25 mph,,,,,,,114495158,
+182491751,182467005,0,True,residential,2nd Street,82.275,,,,,,,,,,,44341362,
+182491751,182236480,0,False,secondary,2nd Street,73.209,,,,25 mph,,,,,,,88779908,MD 286
+182491753,182491755,0,False,residential,George Street,9.725,,,,,,,,,,,44341363,
+182491753,182491751,0,False,residential,George Street,52.824,,,,,,,,,,,44341363,
+182491753,182236482,0,False,residential,1st Street,73.924,,,,,,,,,,,238914000,
+182491755,182491753,0,False,residential,George Street,9.725,,,,,,,,,,,44341363,
+182499136,182592998,0,False,secondary,Biddle Street,145.085,,,,,,,,,,,44341360,MD 285
+182499136,182588978,0,False,residential,"['Cecil Street', 'Union Street']",226.735,,,,,,,,,,,"[95935489, 17630805]",
+182513327,182543164,0,False,residential,Iler Lane,82.031,,,,,,,,,,,17627235,
+182513327,182513330,0,False,secondary,North Saint Augustine Road,55.444,,,,,,,,,,,17625350,MD 342
+182513330,182491724,0,False,secondary,North Street,69.717,,,,,,,,,,,95935485,
+182513330,182491739,0,False,secondary,North Saint Augustine Road,115.006,,,,,,,,,,,17625350,MD 342
+182513330,182513327,0,False,secondary,North Saint Augustine Road,55.444,,,,,,,,,,,17625350,MD 342
+182528833,182278701,0,False,residential,Walnut Drive,208.703,,,,,,,,,,,17626330,
+182543164,182513327,0,False,residential,Iler Lane,82.031,,,,,,,,,,,17627235,
+182549938,182475601,0,False,residential,Lindsey Avenue,182.279,,,,,,,,,,,17627689,
+182586740,182586762,0,False,residential,Grayson Avenue,199.021,,,,,,,,,,,17630590,
+182586740,182458924,0,False,secondary,Hemphill Street,27.954,,,,,,,,,,,44341368,MD 284
+182586762,182586740,0,False,residential,Grayson Avenue,199.021,,,,,,,,,,,17630590,
+182588978,182458924,0,False,secondary,Hemphill Street,86.788,,,,,,,,,,,44341368,MD 284
+182588978,182471786,0,False,residential,Cecil Street,263.079,,,,,,,,,,,17630805,
+182588978,182499136,0,False,residential,"['Cecil Street', 'Union Street']",226.735,,,,,,,,,,,"[95935489, 17630805]",
+182588978,182592998,0,False,secondary,Hemphill Street,96.501,,,,,,,,,,,44341368,MD 284
+182592998,182499136,0,False,secondary,Biddle Street,145.085,,,,,,,,,,,44341360,MD 285
+182592998,182471798,0,False,secondary,Biddle Street,302.649,,,,,,,,,,,44341360,MD 285
+182592998,182588978,0,False,secondary,Hemphill Street,96.501,,,,,,,,,,,44341368,MD 284
+1111560375,2468404327,0,False,residential,3rd Street,16.547,,,,,,,,,,,17609224,
+1111560375,182475585,0,False,residential,3rd Street,80.949,,,,,,,,,,,17609224,
+1111560420,182471806,0,False,residential,Lock Street,20.081,,,,,,,,,,,44341361,
+1111560420,182471798,0,False,residential,Lock Street,78.055,,,,,,,,,,,44341361,
+1296886815,182309091,0,True,primary_link,,144.178,,,,,,,,,,,114495172,
+2468404327,1111560375,0,False,residential,3rd Street,16.547,,,,,,,,,,,17609224,
+2468404327,182475601,0,False,residential,3rd Street,132.38,,,,,,,,,,,17609224,
+2468404327,182267587,0,False,residential,Charles Street,134.706,,,,,,,,,,,17622790,
+2468404361,182278701,0,False,residential,"['Ritter Lane', '3rd Street']",131.961,,,,,,,,,,,"[17609224, 239024596]",

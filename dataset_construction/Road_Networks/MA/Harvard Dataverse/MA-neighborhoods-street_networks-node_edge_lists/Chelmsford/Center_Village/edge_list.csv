@@ -1,0 +1,297 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+65149540,65261231,0,False,residential,Third Street,73.733,2,12.2,,,,,,,,,8911772,
+65149540,65229871,0,False,residential,Third Street,61.874,2,12.2,,,,,,,,,8911772,
+65149540,65212357,0,False,residential,Gilwood Avenue,68.417,2,9.1,,,,,,,,,8912241,
+65153794,65218403,0,False,residential,Tollcross Road,257.034,2,15.2,,,,,,,,,8911715,
+65153794,65201283,0,False,residential,River Meadow Drive,136.238,2,15.2,,,,,,,,,8912752,
+65154135,65232119,0,False,residential,,306.894,,,,,,,,,,,8913340,
+65154135,65232119,1,False,secondary,Boston Road,42.196,2,12.2,,,,,,,,,220508883,MA 4
+65155692,65192952,0,False,residential,Manhattan Drive,97.463,2,15.2,,,,,,,,,8911287,
+65155923,65165453,0,False,secondary,Boston Road,13.743,2,12.2,,,,,,,,,220508883,MA 4
+65155923,65215834,0,False,residential,,53.595,,,,,,,,,,,8913518,
+65155923,65248670,0,False,secondary,Boston Road,81.147,2,12.2,,,,,,,,,220508883,MA 4
+65156525,1651019302,0,False,residential,,111.735,,,,,,,,,,,8913541,
+65156719,65164672,0,True,secondary,Bartlett Street,19.531,2,11.0,,,,,,,,,8912443,MA 4
+65156719,65255831,0,False,secondary,Boston Road,98.15,3,12.2,,,,,,,,,87807380,MA 4
+65156847,65231503,0,False,residential,,140.19,,,,,,,,,,,8913703,
+65157154,65213663,0,False,secondary,North Road,34.224,2,14.9,,30 mph,,,,,,,8911016,MA 4
+65157154,65222435,0,False,secondary,North Road,92.208,2,14.9,,30 mph,,,,,,,8911016,MA 4
+65157197,65214229,0,False,residential,,113.152,,,,,,,,,,,8913296,
+65157197,65229871,0,False,residential,"['Third Street', 'East Putnam Avenue']",195.9,2,12.2,,,,,,,,,"[8911504, 8911772]",
+65157197,65210687,0,False,residential,"['First Street', 'East Putnam Avenue']",144.112,2,12.2,,,,,,,,,"[8911504, 8911070]",
+65157398,1019511232,0,False,secondary,North Road,3.452,2,15.2,,30 mph,,,,,,,8911407,MA 4
+65157398,65243116,0,False,secondary,North Road,55.255,2,15.2,,30 mph,,,,,,,8911407,MA 4
+65157398,65230218,0,False,residential,Crosby Lane,195.026,1,9.1,,,,,,,,,8911718,
+65157565,65162566,0,False,residential,"['Plum Street', 'Perham Street']",304.468,2,12.2,,,,,,,,,"[8912483, 8912502]",
+65157565,65203835,0,False,residential,Hildreth Street,235.278,1,9.1,,,,,,,,,8913415,
+65157565,65188960,0,False,residential,Hildreth Street,149.83,1,9.1,,,,,,,,,8913415,
+65159069,1024499113,0,True,secondary,Boston Road,23.0,2,12.2,,,,,,,,,87807381,MA 4
+65159069,65223742,0,False,residential,Summer Street,463.725,2,12.2,,,,,,,,,8912899,
+65162566,65211291,0,False,residential,Grove Street,244.527,1,9.1,,,,,,,,,8911502,
+65162566,65174962,0,False,residential,Perham Street,124.606,2,12.2,,,,,,,,,8912483,
+65162566,65157565,0,False,residential,"['Plum Street', 'Perham Street']",304.468,2,12.2,,,,,,,,,"[8912483, 8912502]",
+65162566,65165543,0,False,residential,Grove Street,208.772,2,9.1,,,,,,,,,8912665,
+65164672,65212009,0,False,residential,Cushing Place,56.867,2,9.1,,,,,,,,,8910928,
+65164672,65256869,0,True,secondary,Bartlett Street,37.974,2,11.0,,,,,,,,,8912443,MA 4
+65165453,65155923,0,False,secondary,Boston Road,13.743,2,12.2,,,,,,,,,220508883,MA 4
+65165453,65215834,0,False,residential,,39.922,,,,,,,,,,,8913516,
+65165453,65174379,0,False,secondary,Boston Road,32.614,2,12.2,,,,,,,,,220508883,MA 4
+65165539,65241909,0,False,tertiary,Bartlett Street,28.084,2,11.0,,,,,,,,,8912769,
+65165539,65194383,0,False,residential,High Street,112.444,2,11.3,,,,,,,,,8912283,
+65165543,65162566,0,False,residential,Grove Street,208.772,2,9.1,,,,,,,,,8912665,
+65165543,65253723,0,False,residential,Grove Street,72.939,2,9.1,,,,,,,,,8912665,
+65165543,65223742,0,False,residential,Summer Street,219.56,2,12.2,,,,,,,,,8912899,
+65165798,65234753,0,True,secondary,Westford Street,103.717,2,12.2,,25 mph,,,,,,,8911782,
+65165798,65222435,0,False,tertiary,Academy Street,111.174,2,11.0,,,,,,,,,8912178,
+65165798,65232318,0,False,secondary,Westford Street,45.091,2,12.2,,25 mph,,,,,,,87807386,
+65166129,65233919,0,False,residential,Bridge Street,25.675,2,12.2,,,,,,,,,8911980,
+65166129,65232318,0,False,secondary,Westford Street,34.016,2,12.2,,25 mph,,,,,,,87807386,
+65166129,1651019300,0,False,secondary,Westford Street,88.626,2,12.2,,25 mph,,,,,,,87807386,
+65166860,65199498,0,True,motorway,,553.428,3,57.9,,65 mph,,,,,,,8911451,I 495
+65167075,1019511232,0,False,residential,,38.504,,,,,,,,,,,87662601,
+65167075,65243116,0,False,tertiary,Worthen Street,75.582,2,12.2,,,,,,,,,570833219,
+65167075,65198526,0,False,tertiary,Worthen Street,161.441,2,12.2,,,,,,,,,"[8911516, 570833220]",
+65167833,65229871,0,False,residential,York Avenue,118.111,1,9.1,,,,,,,,,8912667,
+65168116,65194383,0,False,residential,King Street,76.275,1,9.1,,,,,,,,,8911750,
+65169203,65180590,0,False,residential,Emerson Avenue,80.095,2,12.2,,,,,,,,,8912114,
+65169555,1642749823,0,True,motorway_link,,93.233,,15.2,,,,,,,,,8912405,
+65169555,65169725,0,True,motorway_link,,73.534,,15.2,,,,,,,,,8912407,
+65169725,1642749823,0,False,secondary,North Road,46.846,2,15.2,,30 mph,,,,,,,8911407,MA 4
+65172261,65261231,0,False,residential,Warren Avenue,119.721,2,15.2,,,,,,,,,8910981,
+65172261,65192952,0,False,residential,Marion Street,136.919,2,12.2,,,,,,,,,8912912,
+65172261,65231503,0,False,residential,Warren Avenue,191.09,2,15.2,,,,,,,,,8910981,
+65174379,65239315,0,False,residential,,107.286,,,,,,,,,,,8913708,
+65174379,65165453,0,False,secondary,Boston Road,32.614,2,12.2,,,,,,,,,220508883,MA 4
+65174379,65215366,0,False,secondary,Boston Road,190.566,2,12.2,,,,,,,,,220508883,MA 4
+65174962,65211291,0,False,secondary,Billerica Road,155.077,2,13.7,,,,,,,,,8912419,MA 129
+65174962,65198710,0,False,secondary,Billerica Road,176.841,2,13.7,,,,,,,,,8912419,MA 129
+65174962,65162566,0,False,residential,Perham Street,124.606,2,12.2,,,,,,,,,8912483,
+65176668,65237578,0,False,residential,Pasture Lane,99.717,,,,,,,,,,,8913920,
+65180155,65227968,0,False,secondary,Golden Cove Road,42.169,2,12.2,,,,,,,,,8912828,
+65180155,65227005,0,False,secondary,Golden Cove Road,41.897,2,12.2,,,,,,,,,8912828,
+65180155,65186393,0,False,residential,Boyds Lane,208.83,,,,,,,,,,,8913666,
+65180590,65183116,0,False,primary,Chelmsford Street,136.81,2,15.2,,,,,,,,,8911830,MA 110
+65180590,1642818508,0,False,primary,Chelmsford Street,28.372,2,15.2,,40 mph,,,,,,,8911891,MA 110
+65180590,65169203,0,False,residential,Emerson Avenue,80.095,2,12.2,,,,,,,,,8912114,
+65181821,65222640,0,True,secondary,Bartlett Street,82.686,2,11.0,,,,,,,,,8912443,MA 4
+65182305,65255948,0,False,residential,Roy Clough Lane,137.031,,,,,,,,,,,8913657,
+65182661,65259932,0,False,residential,"['Dawn Drive', 'Carter Drive']",529.149,2,15.2,,30 mph,,,,,,,"[8911298, 8912381]",
+65182661,65255948,0,False,secondary,Golden Cove Road,115.989,2,12.2,,,,,,,,,8912828,
+65182661,65242240,0,False,secondary,Golden Cove Road,137.482,2,12.2,,,,,,,,,8912828,
+65183116,65180590,0,False,primary,Chelmsford Street,136.81,2,15.2,,,,,,,,,8911830,MA 110
+65183116,65201022,0,False,primary,Chelmsford Street,222.271,2,15.2,,35 mph,,,,,,,"[8910966, 8911830]",MA 110
+65183116,65202527,0,False,residential,Alpine Lane,148.615,2,15.2,,,,,,,,,587596121,
+65184507,65195460,0,True,motorway_link,,46.542,2,15.2,,,,,,,,,8911289,
+65184507,65230367,0,True,motorway_link,,88.3,2,15.2,,,,,,,,,43926640,
+65185367,65225675,0,True,secondary,Adams Avenue,31.426,2,13.7,,,,,,,,,8912012,MA 4
+65186393,65180155,0,False,residential,Boyds Lane,208.83,,,,,,,,,,,8913666,
+65186911,65211934,0,False,residential,Bridge Street,144.029,2,12.2,,,,,,,,,8911976,
+65187288,65240109,0,False,residential,,70.86,,,,,,,,,,,8913314,
+65188960,65157565,0,False,residential,Hildreth Street,149.83,1,9.1,,,,,,,,,8913415,
+65192952,65222451,0,False,residential,Marion Street,62.167,2,12.2,,,,,,,,,8912912,
+65192952,65172261,0,False,residential,Marion Street,136.919,2,12.2,,,,,,,,,8912912,
+65192952,65155692,0,False,residential,Manhattan Drive,97.463,2,15.2,,,,,,,,,8911287,
+65194383,65168116,0,False,residential,King Street,76.275,1,9.1,,,,,,,,,8911750,
+65194383,65165539,0,False,residential,High Street,112.444,2,11.3,,,,,,,,,8912283,
+65194383,65241785,0,False,residential,High Street,170.971,2,11.3,,,,,,,,,8912283,
+65195460,65230367,0,False,primary,Chelmsford Street,80.038,2,15.2,,40 mph,,,,,,,542172678,MA 110
+65195460,65204643,0,True,motorway_link,,88.218,2,15.2,,,,,,,,,8911941,
+65195460,1642818508,0,False,primary,Chelmsford Street,72.4,2,15.2,,40 mph,,,,,,,541854497,MA 110
+65198526,65167075,0,False,tertiary,Worthen Street,161.441,2,12.2,,,,,,,,,"[8911516, 570833220]",
+65198526,1651019300,0,False,tertiary,Worthen Street,74.395,2,12.2,,,,,,,,,8911516,
+65198526,65214988,0,False,tertiary,Worthen Street,52.552,,12.2,,,,,,,,,8912453,
+65198710,65204475,0,False,residential,Wilson Street,92.242,2,12.2,,,,,,,,,8910957,
+65198710,65174962,0,False,secondary,Billerica Road,176.841,2,13.7,,,,,,,,,8912419,MA 129
+65198710,65253723,0,False,secondary,Billerica Road,64.264,2,13.7,,,,,,,,,8912419,MA 129
+65199498,65234601,0,True,motorway,,1188.299,3,57.9,,65 mph,,,,,,,8911451,I 495
+65199498,65169555,0,True,motorway_link,,394.751,,15.2,,,,,,,,,532913305,
+65201022,65183116,0,False,primary,Chelmsford Street,222.271,2,15.2,,35 mph,,,,,,,"[8911830, 8910966]",MA 110
+65201022,65244279,0,False,primary,Chelmsford Street,204.407,2,15.2,,35 mph,,,,,,,8910966,MA 110
+65201022,65223677,0,False,residential,Fletcher Street,159.015,2,12.2,,,,,,,,,8911519,
+65201283,65223000,0,False,residential,River Meadow Drive,144.725,2,15.2,,,,,,,,,8912752,
+65201283,65236633,0,False,residential,Montcastle Drive,247.904,2,15.2,,,,,,,,,8911574,
+65201283,65153794,0,False,residential,River Meadow Drive,136.238,2,15.2,,,,,,,,,8912752,
+65202018,65222435,0,False,secondary,North Road,118.623,2,14.9,,30 mph,,,,,,,8911016,MA 4
+65202018,1019511232,0,False,secondary,North Road,193.647,2,15.2,,30 mph,,,,,,,8911407,MA 4
+65202018,65223677,0,False,residential,Fletcher Street,292.557,2,12.2,,,,,,,,,8911519,
+65202527,65202527,0,False,residential,Alpine Lane,69.862,2,15.2,,,,,,,,,8912660,
+65202527,65202527,1,False,residential,Alpine Lane,69.862,2,15.2,,,,,,,,,8912660,
+65202527,65183116,0,False,residential,Alpine Lane,148.615,2,15.2,,,,,,,,,587596121,
+65203835,65242240,0,False,secondary,Billerica Road,176.744,2,13.7,,,,,,,,,8912419,MA 129
+65203835,65211291,0,False,secondary,Billerica Road,97.593,2,13.7,,,,,,,,,8912419,MA 129
+65203835,65157565,0,False,residential,Hildreth Street,235.278,1,9.1,,,,,,,,,8913415,
+65204475,65244279,0,False,residential,Wilson Street,96.309,2,12.2,,,,,,,,,8910957,
+65204475,65198710,0,False,residential,Wilson Street,92.242,2,12.2,,,,,,,,,8910957,
+65204475,65256347,0,False,residential,Sinai Circle,115.556,,,,,,,,,,,8913269,
+65204643,65206718,0,True,motorway_link,,400.482,2,15.2,,,,,yes,,,,"[93291724, 8911941, 93291719]",
+65205348,65213663,0,False,secondary,North Road,26.028,2,14.9,,30 mph,,,,,,,8911016,MA 4
+65205348,65255831,0,False,primary,Littleton Road,67.002,2,12.2,,,,,,,,,8911315,MA 4;MA 110
+65205348,65156719,0,True,secondary,Boston Road,114.866,1,12.2,,,,,,,,,8911871,MA 4
+65208683,65259932,0,False,residential,Dawn Drive,175.881,2,15.2,,,,,,,,,8912381,
+65208683,65227005,0,False,secondary,Golden Cove Road,93.912,2,12.2,,,,,,,,,8912828,
+65208683,65255948,0,False,secondary,Golden Cove Road,124.549,2,12.2,,,,,,,,,8912828,
+65209371,65211934,0,False,residential,,7.896,,,,,,,,,,,8913323,
+65209371,65209371,0,False,residential,,60.135,,,,,,,,,,,8913323,
+65209371,65209371,1,False,residential,,60.135,,,,,,,,,,,8913323,
+65210687,65230286,0,False,residential,First Street,172.776,2,12.2,,,,,,,,,8911070,
+65210687,65157197,0,False,residential,"['East Putnam Avenue', 'First Street']",144.112,2,12.2,,,,,,,,,"[8911504, 8911070]",
+65210687,65244109,0,False,residential,Putnam Avenue,145.914,2,12.2,,,,,,,,,8912348,
+65211291,65162566,0,False,residential,Grove Street,244.527,1,9.1,,,,,,,,,8911502,
+65211291,65203835,0,False,secondary,Billerica Road,97.593,2,13.7,,,,,,,,,8912419,MA 129
+65211291,65174962,0,False,secondary,Billerica Road,155.077,2,13.7,,,,,,,,,8912419,MA 129
+65211934,65209371,0,False,residential,,7.896,,,,,,,,,,,8913323,
+65211934,65233919,0,False,residential,Bridge Street,606.417,2,12.2,,,,,,,,,8911976,
+65211934,65186911,0,False,residential,Bridge Street,144.029,2,12.2,,,,,,,,,8911976,
+65212009,65164672,0,False,residential,Cushing Place,56.867,2,9.1,,,,,,,,,8910928,
+65212357,65149540,0,False,residential,Gilwood Avenue,68.417,2,9.1,,,,,,,,,8912241,
+65212686,65237578,0,False,secondary,Westford Street,143.586,2,12.2,,25 mph,,,,,,,87807386,
+65212686,1651029729,0,False,residential,Alexandria Way,149.357,,,,,,,,,,,152283522,
+65213663,65157154,0,False,secondary,North Road,34.224,2,14.9,,30 mph,,,,,,,8911016,MA 4
+65213663,65205348,0,False,secondary,North Road,26.028,2,14.9,,30 mph,,,,,,,8911016,MA 4
+65214229,65157197,0,False,residential,,113.152,,,,,,,,,,,8913296,
+65214988,65198526,0,False,tertiary,Worthen Street,52.552,,12.2,,,,,,,,,8912453,
+65214988,1651019302,0,False,secondary,Westford Street,59.721,2,12.2,,25 mph,,,,,,,87807386,
+65214988,65237578,0,False,secondary,Westford Street,145.714,2,12.2,,25 mph,,,,,,,87807386,
+65215366,65230286,0,False,residential,Warren Avenue,214.838,2,12.2,,,,,,,,,8911679,
+65215366,65174379,0,False,secondary,Boston Road,190.566,2,12.2,,,,,,,,,220508883,MA 4
+65215366,65232119,0,False,secondary,Boston Road,95.965,2,12.2,,,,,,,,,220508883,MA 4
+65215834,5466176311,0,False,residential,,67.229,,,,,,,,,,,8913516,
+65215834,65165453,0,False,residential,,39.922,,,,,,,,,,,8913516,
+65215834,65155923,0,False,residential,,53.595,,,,,,,,,,,8913518,
+65218403,65153794,0,False,residential,Tollcross Road,257.034,2,15.2,,,,,,,,,8911715,
+65218403,65247283,0,False,residential,Winter Street,50.501,2,15.2,,,,,,,,,8912570,
+65218403,65236633,0,False,residential,Winter Street,113.932,2,15.2,,,,,,,,,8912570,
+65219169,65231503,0,False,residential,Warren Avenue,74.465,2,15.2,,,,,,,,,8910981,
+65222435,65202018,0,False,secondary,North Road,118.623,2,14.9,,30 mph,,,,,,,8911016,MA 4
+65222435,65157154,0,False,secondary,North Road,92.208,2,14.9,,30 mph,,,,,,,8911016,MA 4
+65222435,65165798,0,False,tertiary,Academy Street,111.174,2,11.0,,,,,,,,,8912178,
+65222451,65192952,0,False,residential,Marion Street,62.167,2,12.2,,,,,,,,,8912912,
+65222640,65185367,0,True,secondary,Adams Avenue,76.133,2,13.7,,,,,,,,,8912012,MA 4
+65222640,65241909,0,True,tertiary,Bartlett Street,63.884,2,11.0,,,,,,,,,87807385,
+65223000,65201283,0,False,residential,River Meadow Drive,144.725,2,15.2,,,,,,,,,8912752,
+65223000,65230594,0,False,residential,Brook Street,262.907,2,15.2,,,,,,,,,8911255,
+65223000,65223742,0,False,residential,Brook Street,93.554,2,15.2,,,,,,,,,8911255,
+65223677,65201022,0,False,residential,Fletcher Street,159.015,2,12.2,,,,,,,,,8911519,
+65223677,65202018,0,False,residential,Fletcher Street,292.557,2,12.2,,,,,,,,,8911519,
+65223677,65241529,0,False,residential,Meetinghouse Road,227.589,2,18.3,,30 mph,,,,,,,8912199,
+65223742,65223000,0,False,residential,Brook Street,93.554,2,15.2,,,,,,,,,8911255,
+65223742,65165543,0,False,residential,Summer Street,219.56,2,12.2,,,,,,,,,8912899,
+65223742,65159069,0,False,residential,Summer Street,463.725,2,12.2,,,,,,,,,8912899,
+65225675,65248670,0,True,secondary,Adams Avenue,89.243,2,13.7,,,,,,,,,8912012,MA 4
+65225675,1024499113,0,True,secondary_link,,61.46,,13.7,,,,,,,,,8912155,
+65225675,65159069,0,True,secondary_link,,50.695,,13.7,,,,,,,,,152173447,
+65226567,65181821,0,True,secondary_link,,43.529,1,13.7,,35 mph,,,,,,,92027090,MA 27
+65226567,65241785,0,False,secondary,Acton Road,380.588,2,13.7,,35 mph,,,,,,,570832148,MA 27
+65227005,65231481,0,False,residential,New Spaulding Street,209.586,2,12.2,,,,,,,,,8912798,
+65227005,65180155,0,False,secondary,Golden Cove Road,41.897,2,12.2,,,,,,,,,8912828,
+65227005,65208683,0,False,secondary,Golden Cove Road,93.912,2,12.2,,,,,,,,,8912828,
+65227968,65180155,0,False,secondary,Golden Cove Road,42.169,2,12.2,,,,,,,,,8912828,
+65227968,65231481,0,False,residential,"['New Fletcher Street', 'Cove Street']",261.696,2,12.2,,,,,,,,,"[8911702, 8911991]",
+65229515,65240109,0,False,residential,Second Street,176.236,2,12.2,,,,,,,,,8912654,
+65229871,65149540,0,False,residential,Third Street,61.874,2,12.2,,,,,,,,,8911772,
+65229871,65157197,0,False,residential,"['Third Street', 'East Putnam Avenue']",195.9,2,12.2,,,,,,,,,"[8911504, 8911772]",
+65229871,65167833,0,False,residential,York Avenue,118.111,1,9.1,,,,,,,,,8912667,
+65230218,65157398,0,False,residential,Crosby Lane,195.026,1,9.1,,,,,,,,,8911718,
+65230286,65210687,0,False,residential,First Street,172.776,2,12.2,,,,,,,,,8911070,
+65230286,65261411,0,False,residential,First Street,285.591,2,12.2,,,,,,,,,8911070,
+65230286,65240109,0,False,residential,Warren Avenue,120.055,2,12.2,,,,,,,,,8911679,
+65230286,65215366,0,False,residential,Warren Avenue,214.838,2,12.2,,,,,,,,,8911679,
+65230367,65195460,0,False,primary,Chelmsford Street,80.038,2,15.2,,40 mph,,,,,,,542172678,MA 110
+65230594,65223000,0,False,residential,Brook Street,262.907,2,15.2,,,,,,,,,8911255,
+65230594,65261270,0,False,residential,Winter Street,42.2,2,15.2,,,,,,,,,8912570,
+65230594,65236633,0,False,residential,Winter Street,87.277,2,15.2,,,,,,,,,8912570,
+65231481,65259932,0,False,residential,Cove Street,198.462,2,15.2,,,,,,,,,8910904,
+65231481,65227968,0,False,residential,"['New Fletcher Street', 'Cove Street']",261.696,2,12.2,,,,,,,,,"[8911702, 8911991]",
+65231481,65227005,0,False,residential,New Spaulding Street,209.586,2,12.2,,,,,,,,,8912798,
+65231503,65219169,0,False,residential,Warren Avenue,74.465,2,15.2,,,,,,,,,8910981,
+65231503,65172261,0,False,residential,Warren Avenue,191.09,2,15.2,,,,,,,,,8910981,
+65231503,65156847,0,False,residential,,140.19,,,,,,,,,,,8913703,
+65232119,65154135,0,False,residential,,306.894,,,,,,,,,,,8913340,
+65232119,65154135,1,False,secondary,Boston Road,42.196,2,12.2,,,,,,,,,220508883,MA 4
+65232119,65215366,0,False,secondary,Boston Road,95.965,2,12.2,,,,,,,,,220508883,MA 4
+65232318,65233919,0,False,residential,Bridge Street,30.853,2,12.2,,,,,,,,,8911976,
+65232318,65165798,0,False,secondary,Westford Street,45.091,2,12.2,,25 mph,,,,,,,87807386,
+65232318,65166129,0,False,secondary,Westford Street,34.016,2,12.2,,25 mph,,,,,,,87807386,
+65233919,65232318,0,False,residential,Bridge Street,30.853,2,12.2,,,,,,,,,8911976,
+65233919,65211934,0,False,residential,Bridge Street,606.417,2,12.2,,,,,,,,,8911976,
+65233919,65166129,0,False,residential,Bridge Street,25.675,2,12.2,,,,,,,,,8911980,
+65234601,65184507,0,True,motorway_link,,399.124,2,15.2,,,,,yes,,,,"[8911291, 93291707, 93291703]",
+65234601,65206718,0,True,motorway,,434.505,3,57.9,,65 mph,,,yes,,,,"[93291714, 93291720, 93291700, 93291706, 8911451]",I 495
+65234753,65157154,0,True,secondary,Westford Street,34.666,,12.2,,25 mph,,,,,,,8912764,
+65234753,65213663,0,True,secondary,Westford Street,46.906,2,12.2,,25 mph,,,,,,,87652000,
+65236633,65201283,0,False,residential,Montcastle Drive,247.904,2,15.2,,,,,,,,,8911574,
+65236633,65230594,0,False,residential,Winter Street,87.277,2,15.2,,,,,,,,,8912570,
+65236633,65218403,0,False,residential,Winter Street,113.932,2,15.2,,,,,,,,,8912570,
+65237578,65176668,0,False,residential,Pasture Lane,99.717,,,,,,,,,,,8913920,
+65237578,65214988,0,False,secondary,Westford Street,145.714,2,12.2,,25 mph,,,,,,,87807386,
+65237578,65212686,0,False,secondary,Westford Street,143.586,2,12.2,,25 mph,,,,,,,87807386,
+65239315,65174379,0,False,residential,,107.286,,,,,,,,,,,8913708,
+65240109,65261231,0,False,residential,Warren Avenue,119.67,2,12.2,,,,,,,,,8911679,
+65240109,65230286,0,False,residential,Warren Avenue,120.055,2,12.2,,,,,,,,,8911679,
+65240109,65229515,0,False,residential,Second Street,176.236,2,12.2,,,,,,,,,8912654,
+65240109,65187288,0,False,residential,,70.86,,,,,,,,,,,8913314,
+65241529,65223677,0,False,residential,Meetinghouse Road,227.589,2,18.3,,30 mph,,,,,,,8912199,
+65241785,65194383,0,False,residential,High Street,170.971,2,11.3,,,,,,,,,8912283,
+65241785,65226567,0,False,secondary,Acton Road,380.588,2,13.7,,35 mph,,,,,,,570832148,MA 27
+65241909,65165539,0,False,tertiary,Bartlett Street,28.084,2,11.0,,,,,,,,,8912769,
+65241909,65185367,0,True,residential,Bartlett Street,45.497,2,11.0,,,,,,,,,8911486,
+65242240,65203835,0,False,secondary,Billerica Road,176.744,2,13.7,,,,,,,,,8912419,MA 129
+65242240,65182661,0,False,secondary,Golden Cove Road,137.482,2,12.2,,,,,,,,,8912828,
+65243116,1642749823,0,False,secondary,North Road,21.636,2,15.2,,30 mph,,,,,,,8911407,MA 4
+65243116,65157398,0,False,secondary,North Road,55.255,2,15.2,,30 mph,,,,,,,8911407,MA 4
+65243116,65167075,0,False,tertiary,Worthen Street,75.582,2,12.2,,,,,,,,,570833219,
+65243782,65256869,0,True,secondary_link,,30.122,,,,,,,,,,,8913320,
+65243782,65156719,0,True,secondary,Boston Road,62.301,2,12.2,,,,,,,,,87807381,MA 4
+65244109,65210687,0,False,residential,Putnam Avenue,145.914,2,12.2,,,,,,,,,8912348,
+65244279,65204475,0,False,residential,Wilson Street,96.309,2,12.2,,,,,,,,,8910957,
+65244279,65201022,0,False,primary,Chelmsford Street,204.407,2,15.2,,35 mph,,,,,,,8910966,MA 110
+65244279,65255831,0,False,primary,Chelmsford Street,301.639,2,15.2,,35 mph,,,,,,,8910966,MA 110
+65247283,65218403,0,False,residential,Winter Street,50.501,2,15.2,,,,,,,,,8912570,
+65248670,65159069,0,True,secondary,Boston Road,68.543,2,12.2,,,,,,,,,87807381,MA 4
+65248670,65155923,0,False,secondary,Boston Road,81.147,2,12.2,,,,,,,,,220508883,MA 4
+65252829,65252829,0,False,residential,Manor Circle,54.815,2,12.2,,,,,,,,,8911647,
+65252829,65252829,1,False,residential,Manor Circle,54.815,2,12.2,,,,,,,,,8911647,
+65253723,65198710,0,False,secondary,Billerica Road,64.264,2,13.7,,,,,,,,,8912419,MA 129
+65253723,65255831,0,False,secondary,Billerica Road,267.277,2,13.7,,,,,,,,,8912419,MA 129
+65253723,65165543,0,False,residential,Grove Street,72.939,2,9.1,,,,,,,,,8912665,
+65253750,65181821,0,True,secondary,Bartlett Street,49.692,2,11.0,,,,,,,,,8912443,MA 4
+65253750,65226567,0,True,secondary,Acton Road,51.237,1,13.7,,35 mph,,,,,,,8911322,MA 27
+65255831,65244279,0,False,primary,Chelmsford Street,301.639,2,15.2,,35 mph,,,,,,,8910966,MA 110
+65255831,65205348,0,False,primary,Littleton Road,67.002,2,12.2,,,,,,,,,8911315,MA 4;MA 110
+65255831,65253723,0,False,secondary,Billerica Road,267.277,2,13.7,,,,,,,,,8912419,MA 129
+65255831,65156719,0,False,secondary,Boston Road,98.15,3,12.2,,,,,,,,,87807380,MA 4
+65255948,65208683,0,False,secondary,Golden Cove Road,124.549,2,12.2,,,,,,,,,8912828,
+65255948,65182661,0,False,secondary,Golden Cove Road,115.989,2,12.2,,,,,,,,,8912828,
+65255948,65182305,0,False,residential,Roy Clough Lane,137.031,,,,,,,,,,,8913657,
+65256347,65204475,0,False,residential,Sinai Circle,115.556,,,,,,,,,,,8913269,
+65256869,65253750,0,True,secondary,Bartlett Street,35.088,2,11.0,,,,,,,,,8912443,MA 4
+65259932,65231481,0,False,residential,Cove Street,198.462,2,15.2,,,,,,,,,8910904,
+65259932,65182661,0,False,residential,"['Dawn Drive', 'Carter Drive']",529.149,2,15.2,,30 mph,,,,,,,"[8911298, 8912381]",
+65259932,65208683,0,False,residential,Dawn Drive,175.881,2,15.2,,,,,,,,,8912381,
+65261231,65172261,0,False,residential,Warren Avenue,119.721,2,15.2,,,,,,,,,8910981,
+65261231,65240109,0,False,residential,Warren Avenue,119.67,2,12.2,,,,,,,,,8911679,
+65261231,65149540,0,False,residential,Third Street,73.733,2,12.2,,,,,,,,,8911772,
+65261231,65153794,0,True,residential,River Meadow Drive,273.738,2,12.2,,,,,,,,,8910938,
+65261270,65230594,0,False,residential,Winter Street,42.2,2,15.2,,,,,,,,,8912570,
+65261411,65230286,0,False,residential,First Street,285.591,2,12.2,,,,,,,,,8911070,
+65261411,65261411,0,False,residential,"['George Street', 'First Street']",135.812,2,12.2,,,,,,,,,"[540859216, 8911070]",
+65261411,65261411,1,False,residential,"['George Street', 'First Street']",135.812,2,12.2,,,,,,,,,"[540859216, 8911070]",
+1019511232,65157398,0,False,secondary,North Road,3.452,2,15.2,,30 mph,,,,,,,8911407,MA 4
+1019511232,65202018,0,False,secondary,North Road,193.647,2,15.2,,30 mph,,,,,,,8911407,MA 4
+1019511232,65167075,0,False,residential,,38.504,,,,,,,,,,,87662601,
+1024499113,65243782,0,True,secondary,Boston Road,212.523,2,12.2,,,,,,,,,87807381,MA 4
+1642749823,65169725,0,False,secondary,North Road,46.846,2,15.2,,30 mph,,,,,,,8911407,MA 4
+1642749823,65243116,0,False,secondary,North Road,21.636,2,15.2,,30 mph,,,,,,,8911407,MA 4
+1642818508,65180590,0,False,primary,Chelmsford Street,28.372,2,15.2,,40 mph,,,,,,,8911891,MA 110
+1642818508,65204643,0,True,motorway_link,,116.261,2,15.2,,,,,,,,,8911945,
+1642818508,65195460,0,False,primary,Chelmsford Street,72.4,2,15.2,,40 mph,,,,,,,541854497,MA 110
+1651019300,1651019302,0,False,secondary,Westford Street,11.101,2,12.2,,25 mph,,,,,,,87807386,
+1651019300,65198526,0,False,tertiary,Worthen Street,74.395,2,12.2,,,,,,,,,8911516,
+1651019300,65166129,0,False,secondary,Westford Street,88.626,2,12.2,,25 mph,,,,,,,87807386,
+1651019302,1651019300,0,False,secondary,Westford Street,11.101,2,12.2,,25 mph,,,,,,,87807386,
+1651019302,65156525,0,False,residential,,111.735,,,,,,,,,,,8913541,
+1651019302,65214988,0,False,secondary,Westford Street,59.721,2,12.2,,25 mph,,,,,,,87807386,
+1651029729,1651029729,0,False,residential,Alexandria Way,72.16,,,,,,,,,,,152283517,
+1651029729,1651029729,1,False,residential,Alexandria Way,72.16,,,,,,,,,,,152283517,
+1651029729,65212686,0,False,residential,Alexandria Way,149.357,,,,,,,,,,,152283522,
+5466176311,65215834,0,False,residential,,67.229,,,,,,,,,,,8913516,

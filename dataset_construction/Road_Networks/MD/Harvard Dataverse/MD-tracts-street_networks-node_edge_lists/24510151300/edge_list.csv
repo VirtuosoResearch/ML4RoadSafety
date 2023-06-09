@@ -1,0 +1,215 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+49378757,803091835,0,True,secondary,Park Heights Avenue,111.678,2,,,30 mph,,,,,,,47990482,MD 129
+49378759,49378757,0,True,secondary,Park Heights Avenue,24.014,2,,,30 mph,,,,,,,47990482,MD 129
+49378759,49473480,0,True,residential,Oswego Avenue,141.721,1,,,25 mph,,,,,,,6011564,
+49378760,803091840,0,False,residential,Quantico Avenue,8.742,2,,,25 mph,,,,,,,6006120,
+49378760,49378759,0,True,secondary,Park Heights Avenue,120.704,2,,,30 mph,,,,,,,47990482,MD 129
+49378760,49473486,0,False,residential,Quantico Avenue,144.403,2,,,25 mph,,,,,,,6006120,
+49378761,803091833,0,False,residential,Park Heights Terrace,8.364,2,,,25 mph,,,,,,,6009362,
+49378761,49378760,0,True,secondary,Park Heights Avenue,66.613,2,,,30 mph,,,,,,,47990482,MD 129
+49378764,803091821,0,True,residential,Classen Avenue,8.162,1,,,25 mph,,,,,,,6003354,
+49378764,49378761,0,True,secondary,Park Heights Avenue,56.164,2,,,30 mph,,,,,,,47990482,MD 129
+49378766,803091834,0,True,residential,Rosewood Avenue,8.249,1,,,25 mph,,,,,,,6017444,
+49378766,49378764,0,True,secondary,Park Heights Avenue,70.716,2,,,30 mph,,,,,,,47990482,MD 129
+49378768,49473492,0,True,residential,Boarman Avenue,149.149,2,,,25 mph,,,,,,,6017282,
+49378768,49378766,0,True,secondary,Park Heights Avenue,60.597,2,,,30 mph,,,,,,,47990482,MD 129
+49378773,49378768,0,True,secondary,Park Heights Avenue,112.443,2,,,30 mph,,,,,,,47990482,MD 129
+49378773,49473495,0,False,primary,West Cold Spring Lane,154.495,"['4', '2']",,,25 mph,,,,,,,"[425003411, 425003414, 425003415]",
+49378773,49547852,0,False,primary,West Cold Spring Lane,134.577,"['4', '2']",,,25 mph,,,,,,,"[544896737, 544592909]",
+49381907,49547812,0,False,residential,Boarman Avenue,218.425,,,,,,,,,,,6017279,
+49381907,49547811,0,False,"['unclassified', 'residential']","['Grantley Avenue', 'East Wabash Avenue']",255.409,,,,,,,,,,,"[5992154, 6018751]",
+49381907,49381916,0,False,unclassified,East Wabash Avenue,117.082,,,,,,,,,,,5992154,
+49381916,49554744,0,False,primary,West Cold Spring Lane,32.342,3,,,25 mph,,,,,,,425003416,
+49381916,49381907,0,False,unclassified,East Wabash Avenue,117.082,,,,,,,,,,,5992154,
+49408957,49498895,0,False,residential,Loyola Southway,61.291,,,,25 mph,,,,,,,6007957,
+49408957,49498918,0,False,residential,Loyola Southway,66.325,,,,25 mph,,,,,,,6007957,
+49408957,49555857,0,False,residential,Loyola Northway,375.31,,,,25 mph,,,,,,,"[392967937, 6017197]",
+49428644,49473514,0,False,residential,Woodland Avenue,176.815,2,,,25 mph,,,,,,,6012255,
+49428644,49522879,0,False,residential,"['Woodland Avenue', 'East Wabash Avenue']",229.811,2,,,25 mph,,,,,,,"[6016842, 6012255]",
+49428644,1409273438,0,False,residential,Doll Avenue,119.212,,,,,,,,,,,6014871,
+49455861,49473514,0,False,primary,Reisterstown Road,93.558,4,,,30 mph,,,,,,,544587274,MD 140
+49459997,49473514,0,False,primary,Reisterstown Road,117.593,4,,,30 mph,,,,,,,544587274,MD 140
+49459997,49473512,0,False,primary,Reisterstown Road,99.696,4,,,30 mph,,,,,,,544587274,MD 140
+49459997,49459999,0,False,residential,Virginia Avenue,97.63,2,,,25 mph,,,,,,,392964639,
+49459999,2159695474,0,False,residential,Virginia Avenue,82.673,2,,,25 mph,,,,,,,392964639,
+49459999,49482536,0,False,residential,Waldorf Avenue,148.758,2,,,25 mph,,,,,,,6006072,
+49459999,49459997,0,False,residential,Virginia Avenue,97.63,2,,,25 mph,,,,,,,392964639,
+49460001,49529648,0,False,residential,Alexander Avenue,120.461,2,,,25 mph,,,,,,,6012193,
+49461155,49378764,0,True,residential,Classen Avenue,146.892,1,,,25 mph,,,,,,,6003354,
+49461155,49473490,0,False,primary,Reisterstown Road,65.086,4,,,30 mph,,,,,,,451498897,MD 140
+49461155,49473486,0,False,primary,Reisterstown Road,122.236,4,,,30 mph,,,,,,,451498897,MD 140
+49466678,49482891,0,False,primary,West Cold Spring Lane,234.465,2,,,25 mph,,,,,,,544896737,
+49466678,5266862689,0,False,primary,West Cold Spring Lane,212.156,"['4', '2']",,,25 mph,,,,,,,"[544896737, 130715033]",
+49473478,49473480,0,False,primary,Reisterstown Road,21.585,4,,,30 mph,,,,,,,451498897,MD 140
+49473478,49526353,0,True,residential,Oswego Avenue,104.949,,,,,,,,,,,6011565,
+49473480,49473482,0,False,primary,Reisterstown Road,48.795,4,,,30 mph,,,,,,,451498897,MD 140
+49473480,49473478,0,False,primary,Reisterstown Road,21.585,4,,,30 mph,,,,,,,451498897,MD 140
+49473482,49473486,0,False,primary,Reisterstown Road,72.363,4,,,30 mph,,,,,,,451498897,MD 140
+49473482,49473480,0,False,primary,Reisterstown Road,48.795,4,,,30 mph,,,,,,,451498897,MD 140
+49473486,49461155,0,False,primary,Reisterstown Road,122.236,4,,,30 mph,,,,,,,451498897,MD 140
+49473486,49473482,0,False,primary,Reisterstown Road,72.363,4,,,30 mph,,,,,,,451498897,MD 140
+49473486,49378760,0,False,residential,Quantico Avenue,144.403,2,,,25 mph,,,,,,,6006120,
+49473486,49483002,0,True,residential,Quantico Avenue,104.789,2,,,25 mph,,,,,,,581514455,
+49473490,49550056,0,False,residential,Grantley Avenue,105.882,,,,,,,,,,,6018751,
+49473490,49473492,0,False,primary,Reisterstown Road,64.689,4,,,30 mph,,,,,,,451498897,MD 140
+49473490,49461155,0,False,primary,Reisterstown Road,65.086,4,,,30 mph,,,,,,,451498897,MD 140
+49473492,49473494,0,False,primary,Reisterstown Road,6.027,4,,,30 mph,,,,,,,451498897,MD 140
+49473492,49473490,0,False,primary,Reisterstown Road,64.689,4,,,30 mph,,,,,,,451498897,MD 140
+49473494,49473495,0,False,primary,Reisterstown Road,105.193,4,,,30 mph,,,,,,,451498897,MD 140
+49473494,49473492,0,False,primary,Reisterstown Road,6.027,4,,,30 mph,,,,,,,451498897,MD 140
+49473494,49550062,0,False,residential,Boarman Avenue,106.07,,,,,,,,,,,6017279,
+49473495,49473494,0,False,primary,Reisterstown Road,105.193,4,,,30 mph,,,,,,,451498897,MD 140
+49473495,49473508,0,False,primary,Reisterstown Road,150.825,4,,,30 mph,,,,,,,"[544587274, 128117919]",MD 140
+49473495,49378773,0,False,primary,West Cold Spring Lane,154.495,"['4', '2']",,,25 mph,,,,,,,"[425003411, 425003414, 425003415]",
+49473495,49550065,0,False,primary,West Cold Spring Lane,104.573,4,,,25 mph,,,,,,,"[425003412, 10426301]",
+49473508,49473509,0,False,primary,Reisterstown Road,12.854,4,,,30 mph,,,,,,,544587274,MD 140
+49473508,49473495,0,False,primary,Reisterstown Road,150.825,4,,,30 mph,,,,,,,"[544587274, 128117919]",MD 140
+49473509,49546602,0,True,residential,Ridgewood Avenue,34.368,1,,,25 mph,,,,,,,6014737,
+49473509,49473510,0,False,primary,Reisterstown Road,121.898,4,,,30 mph,,,,,,,544587274,MD 140
+49473509,49473508,0,False,primary,Reisterstown Road,12.854,4,,,30 mph,,,,,,,544587274,MD 140
+49473510,2159695557,0,False,primary,Reisterstown Road,53.047,4,,,30 mph,,,,,,,544587274,MD 140
+49473510,49473509,0,False,primary,Reisterstown Road,121.898,4,,,30 mph,,,,,,,544587274,MD 140
+49473512,49459997,0,False,primary,Reisterstown Road,99.696,4,,,30 mph,,,,,,,544587274,MD 140
+49473512,2159695557,0,False,primary,Reisterstown Road,16.101,4,,,30 mph,,,,,,,544587274,MD 140
+49473514,49455861,0,False,primary,Reisterstown Road,93.558,4,,,30 mph,,,,,,,544587274,MD 140
+49473514,49459997,0,False,primary,Reisterstown Road,117.593,4,,,30 mph,,,,,,,544587274,MD 140
+49473514,49428644,0,False,residential,Woodland Avenue,176.815,2,,,25 mph,,,,,,,6012255,
+49482536,2159695557,0,False,residential,Umatilla Avenue,17.987,2,,,25 mph,,,,,,,539858544,
+49482536,49459999,0,False,residential,Waldorf Avenue,148.758,2,,,25 mph,,,,,,,6006072,
+49482843,49526338,0,True,residential,Oswego Avenue,116.879,1,,,25 mph,,,,,,,6011563,
+49482843,49482844,0,False,residential,Pall Mall Road,79.597,,,,25 mph,,,,,,,208928490,
+49482844,49482845,0,False,residential,Pall Mall Road,73.873,,,,25 mph,,,,,,,208928490,
+49482844,49482843,0,False,residential,Pall Mall Road,79.597,,,,25 mph,,,,,,,208928490,
+49482844,49498918,0,True,residential,Loyola Southway,149.394,,,,25 mph,,,,,,,581515546,
+49482845,49482846,0,False,residential,Pall Mall Road,80.124,,,,25 mph,,,,,,,208928490,
+49482845,49482844,0,False,residential,Pall Mall Road,73.873,,,,25 mph,,,,,,,208928490,
+49482845,49482978,0,True,residential,Quantico Avenue,171.878,,,,25 mph,,,,,,,392967940,
+49482846,49507256,0,True,residential,Park Heights Terrace,169.712,,,,25 mph,,,,,,,392964636,
+49482846,49482853,0,False,residential,Pall Mall Road,90.377,,,,25 mph,,,,,,,208928490,
+49482846,49482845,0,False,residential,Pall Mall Road,80.124,,,,25 mph,,,,,,,208928490,
+49482853,49482846,0,False,residential,Pall Mall Road,90.377,,,,25 mph,,,,,,,208928490,
+49482853,49482884,0,True,residential,Loyola Northway,41.796,,,,25 mph,,,,,,,392964633,
+49482853,49555857,0,False,residential,Loyola Northway,130.68,,,,25 mph,,,,,,,392967937,
+49482884,49547842,0,True,residential,Loyola Northway,125.13,,,,25 mph,,,,,,,392964633,
+49482887,49547847,0,True,residential,Boarman Avenue,71.661,,,,,,,,,,,6017283,
+49482891,49547852,0,False,primary,West Cold Spring Lane,122.708,2,,,25 mph,,,,,,,544896737,
+49482891,49466678,0,False,primary,West Cold Spring Lane,234.465,2,,,25 mph,,,,,,,544896737,
+49482891,49482884,0,True,residential,Pall Mall Road,222.918,2,,,25 mph,,,,,,,581833666,
+49482972,49507256,0,False,residential,Roland View Avenue,86.378,,,,25 mph,,,,,,,6021764,
+49482972,49498918,0,False,residential,Roland View Avenue,78.226,,,,25 mph,,,,,,,6021764,
+49482972,49482845,0,True,residential,Quantico Avenue,172.182,,,,25 mph,,,,,,,392967940,
+49482978,803091840,0,False,residential,Quantico Avenue,130.951,2,,,25 mph,,,,,,,6006120,
+49482978,49507273,0,True,unclassified,Pimlico Road,75.14,2,,,25 mph,,,,,,,6015084,
+49483002,49550056,0,False,residential,Towanda Avenue,195.353,,,,,,,,,,,94669648,
+49483002,49512642,0,False,residential,Towanda Avenue,71.429,,,,,,,,,,,94669648,
+49492423,49526331,0,True,residential,Oswego Avenue,77.746,1,,,25 mph,,,,,,,6011563,
+49498895,49408957,0,False,residential,Loyola Southway,61.291,,,,25 mph,,,,,,,6007957,
+49498895,49526329,0,False,residential,Hampton Place,80.825,,,,,,,,,,,6023698,
+49498918,49408957,0,False,residential,Loyola Southway,66.325,,,,25 mph,,,,,,,6007957,
+49498918,49482972,0,False,residential,Roland View Avenue,78.226,,,,25 mph,,,,,,,6021764,
+49498918,49526334,0,False,residential,Roland View Avenue,79.673,,,,25 mph,,,,,,,6021764,
+49498919,49482844,0,True,residential,Loyola Southway,188.049,,,,25 mph,,,,,,,581515546,
+49498919,49482978,0,True,unclassified,Pimlico Road,77.149,2,,,25 mph,,,,,,,6015084,
+49507256,49555857,0,False,residential,Roland View Avenue,122.76,,,,25 mph,,,,,,,6021764,
+49507256,49482972,0,False,residential,Roland View Avenue,86.378,,,,25 mph,,,,,,,6021764,
+49507273,49547842,0,True,unclassified,Pimlico Road,62.72,2,,,25 mph,,,,,,,6015084,
+49507273,803091833,0,False,residential,Park Heights Terrace,153.004,2,,,25 mph,,,,,,,6009362,
+49507273,49482846,0,True,residential,Park Heights Terrace,160.647,,,,25 mph,,,,,,,392964636,
+49512642,49473482,0,True,residential,Santa Fe Avenue,104.77,,,,,,,,,,,6010035,
+49512642,49483002,0,False,residential,Towanda Avenue,71.429,,,,,,,,,,,94669648,
+49512642,49526353,0,False,residential,Towanda Avenue,70.676,,,,,,,,,,,94669648,
+49522879,49554754,0,False,residential,East Wabash Avenue,103.222,,,,,,,,,,,6016842,
+49522879,49428644,0,False,residential,"['Woodland Avenue', 'East Wabash Avenue']",229.811,2,,,25 mph,,,,,,,"[6016842, 6012255]",
+49526329,49492423,0,True,residential,Oswego Avenue,45.108,1,,,25 mph,,,,,,,6011563,
+49526329,49498895,0,False,residential,Hampton Place,80.825,,,,,,,,,,,6023698,
+49526331,49526334,0,True,residential,Oswego Avenue,25.4,1,,,25 mph,,,,,,,6011563,
+49526334,49482843,0,True,residential,Oswego Avenue,148.986,1,,,25 mph,,,,,,,6011563,
+49526334,49498918,0,False,residential,Roland View Avenue,79.673,,,,25 mph,,,,,,,6021764,
+49526338,49526344,0,True,residential,Oswego Avenue,89.479,1,,,25 mph,,,,,,,6011563,
+49526344,803091839,0,True,residential,Oswego Avenue,75.015,1,,,25 mph,,,,,,,6011563,
+49526344,49498919,0,True,unclassified,Pimlico Road,81.563,2,,,25 mph,,,,,,,6015084,
+49526353,49512642,0,False,residential,Towanda Avenue,70.676,,,,,,,,,,,94669648,
+49526353,1099078758,0,False,residential,Towanda Avenue,59.516,,,,,,,,,,,94669648,
+49529648,49482536,0,True,residential,Umatilla Avenue,34.823,1,,,25 mph,,,,,,,205967721,
+49529648,49460001,0,False,residential,Alexander Avenue,120.461,2,,,25 mph,,,,,,,6012193,
+49534346,1516085047,0,False,residential,Dull Street,61.113,,,,,,,,,,,6012754,
+49534346,49541115,0,False,primary,West Cold Spring Lane,75.407,,,,25 mph,,,,,,,10426301,
+49534346,49550065,0,False,primary,West Cold Spring Lane,122.553,,,,25 mph,,,,,,,10426301,
+49541115,49534346,0,False,primary,West Cold Spring Lane,75.407,,,,25 mph,,,,,,,10426301,
+49541115,49541117,0,False,residential,Daytona Avenue,139.875,,,,,,,,,,,6013914,
+49541115,49554744,0,False,primary,West Cold Spring Lane,126.416,,,,25 mph,,,,,,,10426301,
+49541117,49541115,0,False,residential,Daytona Avenue,139.875,,,,,,,,,,,6013914,
+49541117,49546608,0,False,residential,Ridgewood Avenue,127.679,,,,25 mph,,,,,,,539858545,
+49546602,49546605,0,True,residential,Ridgewood Avenue,99.031,1,,,25 mph,,,,,,,6014737,
+49546602,49550065,0,False,residential,Towanda Avenue,138.747,2,,,25 mph,,,,,,,138284611,
+49546605,49541117,0,True,residential,Ridgewood Avenue,98.102,1,,,25 mph,,,,,,,6014737,
+49546605,49529648,0,True,residential,Umatilla Avenue,79.39,1,,,25 mph,,,,,,,205967721,
+49546608,49546610,0,False,residential,Ridgewood Avenue,70.724,,,,25 mph,,,,,,,539858545,
+49546608,49554744,0,False,residential,East Wabash Avenue,135.496,,,,,,,,,,,6016839,
+49546608,49541117,0,False,residential,Ridgewood Avenue,127.679,,,,25 mph,,,,,,,539858545,
+49546610,49546608,0,False,residential,Ridgewood Avenue,70.724,,,,25 mph,,,,,,,539858545,
+49547811,49550056,0,False,residential,Grantley Avenue,106.826,,,,,,,,,,,6018751,
+49547811,49547812,0,False,residential,Willowdale Avenue,70.879,,,,,,,,,,,6015035,
+49547811,49381907,0,False,"['unclassified', 'residential']","['East Wabash Avenue', 'Grantley Avenue']",255.409,,,,,,,,,,,"[5992154, 6018751]",
+49547812,49381907,0,False,residential,Boarman Avenue,218.425,,,,,,,,,,,6017279,
+49547812,49550062,0,False,residential,Boarman Avenue,102.125,,,,,,,,,,,6017279,
+49547812,49547811,0,False,residential,Willowdale Avenue,70.879,,,,,,,,,,,6015035,
+49547842,49547844,0,True,unclassified,Pimlico Road,62.761,2,,,25 mph,,,,,,,6015084,
+49547844,49547847,0,True,unclassified,Pimlico Road,78.94,2,,,25 mph,,,,,,,6015084,
+49547847,49547849,0,True,unclassified,Pimlico Road,16.202,2,,,25 mph,,,,,,,6015084,
+49547849,49547852,0,False,unclassified,Pimlico Road,84.39,2,,,,,,,,,,392964637,
+49547849,803091826,0,True,residential,Boarman Avenue,133.128,1,,,25 mph,,,,,,,6017281,
+49547852,49547849,0,False,unclassified,Pimlico Road,84.39,2,,,,,,,,,,392964637,
+49547852,49378773,0,False,primary,West Cold Spring Lane,134.577,"['4', '2']",,,25 mph,,,,,,,"[544896737, 544592909]",
+49547852,49482891,0,False,primary,West Cold Spring Lane,122.708,2,,,25 mph,,,,,,,544896737,
+49550056,49547811,0,False,residential,Grantley Avenue,106.826,,,,,,,,,,,6018751,
+49550056,49473490,0,False,residential,Grantley Avenue,105.882,,,,,,,,,,,6018751,
+49550056,49550062,0,False,residential,Towanda Avenue,70.963,,,,,,,,,,,94669648,
+49550056,49483002,0,False,residential,Towanda Avenue,195.353,,,,,,,,,,,94669648,
+49550062,49547812,0,False,residential,Boarman Avenue,102.125,,,,,,,,,,,6017279,
+49550062,49473494,0,False,residential,Boarman Avenue,106.07,,,,,,,,,,,6017279,
+49550062,49550056,0,False,residential,Towanda Avenue,70.963,,,,,,,,,,,94669648,
+49550065,49534346,0,False,primary,West Cold Spring Lane,122.553,,,,25 mph,,,,,,,10426301,
+49550065,49473495,0,False,primary,West Cold Spring Lane,104.573,4,,,25 mph,,,,,,,"[425003412, 10426301]",
+49550065,49546602,0,False,residential,Towanda Avenue,138.747,2,,,25 mph,,,,,,,138284611,
+49554744,49381916,0,False,primary,West Cold Spring Lane,32.342,3,,,25 mph,,,,,,,425003416,
+49554744,49546608,0,False,residential,East Wabash Avenue,135.496,,,,,,,,,,,6016839,
+49554744,49541115,0,False,primary,West Cold Spring Lane,126.416,,,,25 mph,,,,,,,10426301,
+49554754,49522879,0,False,residential,East Wabash Avenue,103.222,,,,,,,,,,,6016842,
+49554754,844350860,0,False,residential,Lewin Avenue,38.28,2,,,25 mph,,,,,,,6023713,
+49554754,49579191,0,False,residential,Lewin Avenue,68.827,2,,,25 mph,,,,,,,6023713,
+49555857,49507256,0,False,residential,Roland View Avenue,122.76,,,,25 mph,,,,,,,6021764,
+49555857,49482853,0,False,residential,Loyola Northway,130.68,,,,25 mph,,,,,,,392967937,
+49555857,49408957,0,False,residential,Loyola Northway,375.31,,,,25 mph,,,,,,,"[392967937, 6017197]",
+49579191,49554754,0,False,residential,Lewin Avenue,68.827,2,,,25 mph,,,,,,,6023713,
+803091821,803091834,0,True,secondary,Park Heights Avenue,70.795,2,,,30 mph,,,,,,,188164083,MD 129
+803091826,49378773,0,True,secondary,Park Heights Avenue,80.303,2,,,30 mph,,,,,,,188164083,MD 129
+803091833,49378761,0,False,residential,Park Heights Terrace,8.364,2,,,25 mph,,,,,,,6009362,
+803091833,803091821,0,True,secondary,Park Heights Avenue,55.993,2,,,30 mph,,,,,,,188164083,MD 129
+803091833,49507273,0,False,residential,Park Heights Terrace,153.004,2,,,25 mph,,,,,,,6009362,
+803091834,2191867515,0,True,secondary,Park Heights Avenue,60.603,2,,,30 mph,,,,,,,188164083,MD 129
+803091834,49547844,0,True,residential,Rosewood Avenue,141.562,1,,,25 mph,,,,,,,6017444,
+803091835,803091836,0,True,unclassified,Pimlico Road,8.321,2,,,25 mph,,,,,,,6015084,
+803091836,803091839,0,True,secondary,Park Heights Avenue,110.771,2,,,30 mph,,,,,,,188164083,MD 129
+803091836,49526344,0,True,unclassified,Pimlico Road,136.64,2,,,25 mph,,,,,,,6015084,
+803091839,49378757,0,True,residential,Oswego Avenue,8.343,1,,,25 mph,,,,,,,6011563,
+803091839,803091890,0,True,secondary,Park Heights Avenue,23.796,2,,,30 mph,,,,,,,188164083,MD 129
+803091840,49378760,0,False,residential,Quantico Avenue,8.742,2,,,25 mph,,,,,,,6006120,
+803091840,803091833,0,True,secondary,Park Heights Avenue,66.808,2,,,30 mph,,,,,,,188164083,MD 129
+803091840,49482978,0,False,residential,Quantico Avenue,130.951,2,,,25 mph,,,,,,,6006120,
+803091890,49378759,0,True,residential,Oswego Avenue,8.209,1,,,25 mph,,,,,,,6011564,
+803091890,803091840,0,True,secondary,Park Heights Avenue,120.978,2,,,30 mph,,,,,,,188164083,MD 129
+844350860,49554754,0,False,residential,Lewin Avenue,38.28,2,,,25 mph,,,,,,,6023713,
+1099078758,49526353,0,False,residential,Towanda Avenue,59.516,,,,,,,,,,,94669648,
+1409273438,49428644,0,False,residential,Doll Avenue,119.212,,,,,,,,,,,6014871,
+1516085047,49534346,0,False,residential,Dull Street,61.113,,,,,,,,,,,6012754,
+2159695474,49459999,0,False,residential,Virginia Avenue,82.673,2,,,25 mph,,,,,,,392964639,
+2159695557,49482536,0,False,residential,Umatilla Avenue,17.987,2,,,25 mph,,,,,,,539858544,
+2159695557,49473512,0,False,primary,Reisterstown Road,16.101,4,,,30 mph,,,,,,,544587274,MD 140
+2159695557,49473510,0,False,primary,Reisterstown Road,53.047,4,,,30 mph,,,,,,,544587274,MD 140
+2177847408,2177847404,0,True,primary_link,,46.581,1,,,,,,,,,,207528672,
+2177847408,5266862689,0,False,primary,West Cold Spring Lane,25.253,4,,,25 mph,,,,,,,"[425001832, 130715033]",
+2191867515,49378768,0,True,residential,Boarman Avenue,8.173,2,,,25 mph,,,,,,,6017282,
+2191867515,803091826,0,True,secondary,Park Heights Avenue,32.227,2,,,30 mph,,,,,,,188164083,MD 129
+5266862689,49466678,0,False,primary,West Cold Spring Lane,212.156,"['4', '2']",,,25 mph,,,,,,,"[130715033, 544896737]",
+5266862689,2177847408,0,False,primary,West Cold Spring Lane,25.253,4,,,25 mph,,,,,,,"[425001832, 130715033]",

@@ -1,0 +1,62 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+33131472,966982830,0,True,motorway,Jones Falls Expressway,336.974,3,,,"['50 mph', '40 mph']",,,yes,,,,"[409349996, 122088812, 11946023]",I 83
+49434620,268579615,0,True,motorway,Jones Falls Expressway,238.589,3,,,40 mph,,,,,,,11946021,I 83
+49459213,5553275852,0,False,residential,Belvidere Street,106.386,,,,,,,,,,,6003152,
+49467271,49467272,0,False,residential,East Federal Street,49.563,2,,,25 mph,,,,,,,6004186,
+49467272,49483643,0,True,primary,North Calvert Street,120.497,4,,,30 mph,,,,,,,130591275,MD 2
+49467272,49467271,0,False,residential,East Federal Street,49.563,2,,,25 mph,,,,,,,6004186,
+49467272,49467280,0,False,residential,East Federal Street,119.513,2,,,25 mph,,,,,,,543735157,
+49467280,49483645,0,False,tertiary,Guilford Avenue,120.666,2,,,25 mph,,,,,,,11961384,
+49467280,49482803,0,False,tertiary,Guilford Avenue,116.846,2,,,25 mph,,,,,,,11961384,
+49467280,49467284,0,False,residential,East Federal Street,127.983,2,,,25 mph,,,,,,,543735157,
+49467280,49467272,0,False,residential,East Federal Street,119.513,2,,,25 mph,,,,,,,543735157,
+49467284,49548109,0,False,residential,Barclay Street,59.481,,,,,,,,,,,6021411,
+49467284,49482806,0,False,residential,Barclay Street,117.55,,,,,,,,,,,6021411,
+49467284,49467280,0,False,residential,East Federal Street,127.983,2,,,25 mph,,,,,,,543735157,
+49482803,49467280,0,False,tertiary,Guilford Avenue,116.846,2,,,25 mph,,,,,,,11961384,
+49482806,5553275852,0,False,residential,East Oliver Street,146.264,,,,25 mph,,,,,,,6006100,
+49482806,49467284,0,False,residential,Barclay Street,117.55,,,,,,,,,,,6021411,
+49482806,49482803,0,True,residential,East Oliver Street,127.851,1,,,25 mph,,,,,,,293179199,
+49483638,49500702,0,True,secondary,North Charles Street,118.251,3,,,30 mph,,,,,,,188969444,
+49483638,49483640,0,False,secondary,East Lanvale Street,138.467,2,,,25 mph,,,,,,,6006216,MD 25
+49483640,49483638,0,False,secondary,East Lanvale Street,138.467,2,,,25 mph,,,,,,,6006216,MD 25
+49483640,49483643,0,True,secondary,East Lanvale Street,98.521,2,,,25 mph,,,,,,,47988576,MD 25
+49483643,49483645,0,True,tertiary,East Lanvale Street,118.022,2,,,25 mph,,,,,,,47988575,
+49483643,49500720,0,True,primary,North Calvert Street,117.797,4,,,30 mph,,,,,,,130591275,MD 2
+49483645,49467280,0,False,tertiary,Guilford Avenue,120.666,2,,,25 mph,,,,,,,11961384,
+49483645,49486776,0,False,tertiary,Guilford Avenue,117.53,2,,,25 mph,,,,,,,11961384,
+49483645,49483648,0,True,tertiary,East Lanvale Street,128.675,2,,,25 mph,,,,,,,47988575,
+49483648,49500728,0,False,residential,Barclay Street,117.223,,,,,,,,,,,6021411,
+49483648,49548109,0,False,residential,Barclay Street,61.399,,,,,,,,,,,6021411,
+49486776,49486790,0,False,tertiary,Guilford Avenue,133.527,2,,,25 mph,,,,,,,11961384,
+49486776,49483645,0,False,tertiary,Guilford Avenue,117.53,2,,,25 mph,,,,,,,11961384,
+49486776,49500720,0,True,tertiary,East Lafayette Avenue,117.997,2,,,25 mph,,,,,,,47988581,
+49486790,49486850,0,True,primary,East North Avenue,54.269,3,,,25 mph,,,,,,,207747772,US 1;US 40 Truck
+49486790,49486776,0,False,tertiary,Guilford Avenue,133.527,2,,,25 mph,,,,,,,11961384,
+49486850,49542300,0,True,primary,East North Avenue,72.801,3,,,25 mph,,,,,,,225157512,US 1;US 40 Truck
+49495518,49483638,0,True,secondary,West Lanvale Street,129.459,"['2', '1']",,,25 mph,,,,,,,"[6008545, 399096878]",MD 25
+49495525,49495518,0,True,secondary,Falls Road,102.84,2,,,25 mph,,,,,,,6007698,MD 25
+49500702,49568561,0,True,secondary,West Lafayette Avenue,116.798,3,,,25 mph,,,,,,,6023547,MD 25
+49500702,49500709,0,False,secondary,East Lafayette Avenue,138.136,4,,,25 mph,,,,,,,"[543788739, 113913143]",MD 25
+49500709,49483640,0,True,primary,Saint Paul Street,117.314,4,,,30 mph,,,,,,,130591298,MD 2
+49500709,49500702,0,False,secondary,East Lafayette Avenue,138.136,4,,,25 mph,,,,,,,"[543788739, 113913143]",MD 25
+49500720,49500709,0,True,secondary,East Lafayette Avenue,99.798,2,,,25 mph,,,,,,,"[543788738, 6008189]",MD 25
+49500720,49542299,0,True,primary,North Calvert Street,134.301,4,,,30 mph,,,,,,,"[130591275, 543740292]",MD 2
+49500728,49542300,0,False,residential,Barclay Street,133.654,,,,,,,,,,,6021411,
+49500728,49483648,0,False,residential,Barclay Street,117.223,,,,,,,,,,,6021411,
+49500728,49486776,0,True,tertiary,East Lafayette Avenue,128.612,2,,,25 mph,,,,,,,47988581,
+49525491,49568561,0,True,secondary,Maryland Avenue,134.877,2,,,25 mph,,,,,,,522348205,
+49525502,832288812,0,True,primary,West North Avenue,10.465,3,,,25 mph,,,,,,,501246684,US 1;US 40 Truck
+49542299,49486790,0,True,primary,East North Avenue,118.78,3,,,25 mph,,,,,,,"[225185502, 225185503]",US 1;US 40 Truck
+49542300,49500728,0,False,residential,Barclay Street,133.654,,,,,,,,,,,6021411,
+49548109,49483648,0,False,residential,Barclay Street,61.399,,,,,,,,,,,6021411,
+49548109,49467284,0,False,residential,Barclay Street,59.481,,,,,,,,,,,6021411,
+49568561,49495518,0,True,secondary,Maryland Avenue,76.188,2,,,25 mph,,,,,,,522348205,
+49568561,49495525,0,True,secondary,West Lafayette Avenue,68.158,2,,,25 mph,,,,,,,279675882,MD 25
+107692819,49483638,0,True,secondary,North Charles Street,146.758,3,,,30 mph,,,yes,,,,"[11961361, 11961365, 132521461]",
+107692819,107692905,0,True,motorway_link,,83.032,1,,,,,,yes,,,,"[11961386, 11961389]",
+107692905,33131472,0,True,motorway_link,,180.118,1,,,,,,,,,,11961389,
+966982837,49434620,0,True,motorway,Jones Falls Expressway,116.4,3,,,40 mph,,,yes,,,,"[11946021, 69531389]",I 83
+5256288937,49542299,0,True,primary,East North Avenue,53.599,3,,,25 mph,,,,,,,543740302,US 1;US 40 Truck
+5553275852,49459213,0,False,residential,Belvidere Street,106.386,,,,,,,,,,,6003152,
+5553275852,49482806,0,False,residential,East Oliver Street,146.264,,,,25 mph,,,,,,,6006100,

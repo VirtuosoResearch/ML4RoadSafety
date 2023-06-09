@@ -1,0 +1,54 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+49478409,49546863,0,False,residential,East 20th Street,82.562,2,,,25 mph,,,,,,,"[6014800, 370440474]",
+49488943,1288433077,0,False,primary,Harford Road,158.44,"['5', '6']",,,,,,,,,,"[425203590, 424990761, 425203594, 424990763, 513564755, 424990836]",MD 147
+49491284,49491285,0,False,residential,Sinclair Lane,41.6,,,,,,,,,,,6007301,
+49491285,49491284,0,False,residential,Sinclair Lane,41.6,,,,,,,,,,,6007301,
+49491285,49540090,0,True,secondary,North Wolfe Street,112.121,2,,,25 mph,,,,,,,118672598,
+49491289,49491285,0,True,secondary,North Wolfe Street,11.912,2,,,25 mph,,,,,,,118672598,
+49491289,49491292,0,False,secondary,Sinclair Lane,111.05,2,,,30 mph,,,,,,,6007303,
+49491292,49491289,0,False,secondary,Sinclair Lane,111.05,2,,,30 mph,,,,,,,6007303,
+49508207,49508216,0,False,primary,Harford Road,19.545,4,,,,,,,,,,130576307,MD 147
+49508207,49538018,0,False,primary,Harford Road,63.178,4,,,,,,,,,,130576307,MD 147
+49508207,49508208,0,True,residential,Cliftview Avenue,69.166,,,,,,,,,,,6009493,
+49508208,1064904455,0,True,residential,Cliftview Avenue,243.79,,,,,,,,,,,"[91651522, 6009493]",
+49508208,49534163,0,False,residential,Germania Avenue,63.502,,,,,,,,,,,6012697,
+49508216,49508207,0,False,primary,Harford Road,19.545,4,,,,,,,,,,130576307,MD 147
+49534162,1288433061,0,False,residential,Holy Cross Lane,77.74,,,,,,,,,,,113918682,
+49534162,49534163,0,False,residential,Germania Avenue,81.8,,,,,,,,,,,6012697,
+49534162,1391865108,0,False,residential,Holy Cross Lane,84.207,,,,,,,,,,,113918682,
+49534163,49508208,0,False,residential,Germania Avenue,63.502,,,,,,,,,,,6012697,
+49534163,49534162,0,False,residential,Germania Avenue,81.8,,,,,,,,,,,6012697,
+49534163,49538032,0,False,residential,Darley Avenue,386.347,,,,,,,,,,,"[6013483, 91651523]",
+49534163,49538018,0,False,residential,Darley Avenue,69.173,,,,,,,,,,,6013483,
+49538016,49538018,0,False,primary,Harford Road,29.034,4,,,,,,,,,,130576307,MD 147
+49538016,1288433080,0,False,primary,Harford Road,106.396,5,,,,,,,,,,"[546659694, 546871791]",MD 147
+49538018,49508207,0,False,primary,Harford Road,63.178,4,,,,,,,,,,130576307,MD 147
+49538018,49538016,0,False,primary,Harford Road,29.034,4,,,,,,,,,,130576307,MD 147
+49538018,49534163,0,False,residential,Darley Avenue,69.173,,,,,,,,,,,6013483,
+49538032,49534163,0,False,residential,Darley Avenue,386.347,,,,,,,,,,,"[6013483, 91651523]",
+49538032,49491289,0,True,secondary,North Wolfe Street,56.765,2,,,25 mph,,,,,,,118672598,
+49540090,1391865104,0,False,residential,East 20th Street,41.707,2,,,25 mph,,,,,,,6014800,
+49540090,49546863,0,False,residential,East 20th Street,111.02,2,,,25 mph,,,,,,,6014800,
+49546863,49550662,0,True,secondary,North Washington Street,37.319,2,,,25 mph,,,,,,,128833508,
+49546863,49478409,0,False,residential,East 20th Street,82.562,2,,,25 mph,,,,,,,"[6014800, 370440474]",
+49546863,49540090,0,False,residential,East 20th Street,111.02,2,,,25 mph,,,,,,,6014800,
+49550662,49491292,0,True,secondary,North Washington Street,81.555,2,,,25 mph,,,,,,,128833508,
+49559126,841488172,0,True,secondary,"['North Wolfe Street', 'East 25th Street']",349.543,2,,,25 mph,,,,,,,"[118672598, 51731950]",
+49578646,3741392879,0,False,secondary_link,,17.517,2,,,,,,,,,,370440482,
+841488172,49538032,0,True,secondary,North Wolfe Street,59.693,2,,,25 mph,,,,,,,118672598,
+841488172,1064904455,0,False,residential,Cliftview Avenue,95.869,,,,,,,,,,,390728486,
+1064904455,841488172,0,False,residential,Cliftview Avenue,95.869,,,,,,,,,,,390728486,
+1288433061,1288433080,0,True,secondary,North Broadway,12.112,2,,,30 mph,,,,,,,113651228,
+1288433061,49534162,0,False,residential,Holy Cross Lane,77.74,,,,,,,,,,,113918682,
+1288433077,1288433080,0,False,primary,Harford Road,13.653,5,,,,,,,,,,546659694,MD 147
+1288433077,49578646,0,True,secondary,North Broadway,108.695,3,,,30 mph,,,,,,,164024627,
+1288433077,49488943,0,False,primary,Harford Road,158.44,"['5', '6']",,,,,,,,,,"[425203590, 424990761, 425203594, 424990763, 513564755, 424990836]",MD 147
+1288433080,1288433077,0,False,primary,Harford Road,13.653,5,,,,,,,,,,546659694,MD 147
+1288433080,49538016,0,False,primary,Harford Road,106.396,5,,,,,,,,,,"[546659694, 546871791]",MD 147
+1288433126,1288433061,0,True,secondary,North Broadway,22.354,2,,,30 mph,,,,,,,113651228,
+1288433126,1288433077,0,True,secondary_link,,38.912,2,,,,,,,,,,546871793,
+1391865104,49540090,0,False,residential,East 20th Street,41.707,2,,,25 mph,,,,,,,6014800,
+1391865106,3741392879,0,True,secondary,North Broadway,166.985,"['2', '3']",,,30 mph,,,,,,,"[546871795, 75923284]",
+1391865108,49534162,0,False,residential,Holy Cross Lane,84.207,,,,,,,,,,,113918682,
+3741392879,49578646,0,False,secondary_link,,17.517,2,,,,,,,,,,370440482,
+3741392879,1288433126,0,True,secondary,North Broadway,73.915,2,,,30 mph,,,,,,,"[546871792, 75923284]",

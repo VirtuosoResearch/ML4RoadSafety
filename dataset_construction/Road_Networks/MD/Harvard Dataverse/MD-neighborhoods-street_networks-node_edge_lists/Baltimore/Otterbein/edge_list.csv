@@ -1,0 +1,51 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+49391006,49493099,0,True,primary,West Conway Street,140.516,"['2', '3']",,,30 mph,,,,,,,"[236058561, 6021698, 130599685, 452936673]",
+49391006,672565494,0,True,motorway,Cal Ripken Way,58.895,2,,,30 mph,,,,,,,301595694,I 395
+49401069,49503063,0,True,primary,Light Street,135.469,"['4', '5']",,,30 mph,,,,,,,"[452789384, 452789385, 130591272]",MD 2
+49426754,49490145,0,True,secondary,East Lee Street,139.292,3,,,,,,,,,,47987513,MD 2
+49426754,841433540,0,True,primary,Light Street,65.037,4,,,30 mph,,,,,,,"[452789344, 47987509]",
+49426755,49456207,0,False,unclassified,East Barre Street,124.683,,,,,,,,,,,6007176,
+49426755,49426754,0,True,primary,Light Street,123.498,5,,,30 mph,,,,,,,188969430,MD 2
+49426762,49503060,0,True,primary,East Conway Street,25.443,2,,,30 mph,,,,,,,188969400,
+49426762,49426755,0,True,primary,Light Street,99.674,5,,,30 mph,,,,,,,188969430,MD 2
+49426764,49462986,0,True,primary,East Conway Street,116.95,3,,,30 mph,,,,,,,236056988,
+49426764,49426762,0,True,primary,Light Street,17.406,5,,,30 mph,,,,,,,"[98214810, 236056989]",MD 2
+49442635,49456213,0,False,residential,"['South Hanover Street', 'West Barre Street']",262.796,,,,,,,,,,,"[98117540, 6003204]",
+49442635,49490151,0,False,residential,West Lee Street,140.707,2,,,,,,,,,,98117553,
+49442635,49442636,0,False,residential,South Hanover Street,64.601,,,,,,,,,,,98166076,
+49442636,49442635,0,False,residential,South Hanover Street,64.601,,,,,,,,,,,98166076,
+49456207,49426755,0,False,unclassified,East Barre Street,124.683,,,,,,,,,,,6007176,
+49456207,49573525,0,True,tertiary,South Charles Street,98.542,3,,,,,,,,,,46582175,
+49456213,49442635,0,False,residential,"['South Hanover Street', 'West Barre Street']",262.796,,,,,,,,,,,"[98117540, 6003204]",
+49456213,49490151,0,False,residential,South Sharp Street,124.566,2,,,,,,,,,,98117545,
+49456213,49493099,0,False,residential,South Sharp Street,91.286,"['2', '3']",,,,,,,,,,"[98117545, 452936681]",
+49461699,911343379,0,False,residential,West Hill Street,97.366,,,,,,,,,,,46582008,
+49461699,49541596,0,False,residential,"['South Hanover Street', 'West Hill Street']",205.918,,,,,,,,,,,"[46582008, 11813258]",
+49461699,49490151,0,False,residential,South Sharp Street,125.908,,,,,,,,,,,98166082,
+49461699,49493105,0,False,residential,South Sharp Street,58.567,,,,,,,,,,,525070242,
+49462986,49541722,0,True,primary,West Conway Street,27.803,3,,,30 mph,,,,,,,452936715,
+49490145,49442635,0,True,residential,West Lee Street,99.387,2,,,,,,,,,,6007152,
+49490145,49456207,0,True,tertiary,South Charles Street,121.994,3,,,,,,,,,,46582175,
+49490151,49456213,0,False,residential,South Sharp Street,124.566,2,,,,,,,,,,98117545,
+49490151,49442635,0,False,residential,West Lee Street,140.707,2,,,,,,,,,,98117553,
+49490151,49461699,0,False,residential,South Sharp Street,125.908,,,,,,,,,,,98166082,
+49493097,49493099,0,False,secondary,South Sharp Street,18.217,3,,,25 mph,,,,,,,"[98117539, 236058558]",
+49493097,672565494,0,True,primary,West Conway Street,119.151,"['3', '2']",,,30 mph,,,,,,,"[425002432, 452937357, 236058559]",
+49493099,49493097,0,False,secondary,South Sharp Street,18.217,3,,,25 mph,,,,,,,"[98117539, 236058558]",
+49493099,49573525,0,True,primary,West Conway Street,257.861,"['4', '3']",,,30 mph,,,,,,,"[424998873, 424998874, 130599683]",
+49493099,49456213,0,False,residential,South Sharp Street,91.286,"['3', '2']",,,,,,,,,,"[452936681, 98117545]",
+49493105,49563452,0,True,residential,West Montgomery Street,119.852,,,,,,,,,,,47987644,
+49493105,49461699,0,False,residential,South Sharp Street,58.567,,,,,,,,,,,525070242,
+49503060,49426764,0,True,primary,East Conway Street,26.591,1,,,30 mph,,,,,,,452936718,
+49503063,49426754,0,True,secondary,East Lee Street,22.739,2,,,,,,,,,,6021323,
+49503063,49503060,0,True,primary,Light Street,231.288,"['4', '5', '6']",,,30 mph,,,,,,,"[452936688, 188969433, 452868883, 452868884]",MD 2
+49541596,49461699,0,False,residential,"['South Hanover Street', 'West Hill Street']",205.918,,,,,,,,,,,"[46582008, 11813258]",
+49541596,49541597,0,True,secondary,South Hanover Street,63.519,1,,,,,,,,,,47988302,MD 2
+49541722,49493097,0,True,primary,West Conway Street,229.104,3,,,30 mph,,,,,,,"[512494812, 6021695]",
+49563452,49541597,0,True,residential,West Montgomery Street,60.785,,,,,,,,,,,47987644,
+49573525,49462986,0,True,tertiary,South Charles Street,17.837,3,,,,,,,,,,10426248,
+49573525,49426762,0,True,primary,East Conway Street,117.374,"['2', '3']",,,30 mph,,,,,,,"[452936672, 130599680, 452936671]",
+841433475,49401069,0,True,primary,Light Street,36.704,3,,,25 mph,,,,,,,"[452789372, 452789391]",MD 2
+841433540,841433475,0,True,primary,Light Street,113.584,2,,,30 mph,,,,,,,"[452789393, 452789396, 452789398]",
+841433540,4495515719,0,True,primary,Light Street,77.06,2,,,"['30 mph', '25 mph']",,,,,,,"[452789397, 452789399]",
+911343379,49461699,0,False,residential,West Hill Street,97.366,,,,,,,,,,,46582008,

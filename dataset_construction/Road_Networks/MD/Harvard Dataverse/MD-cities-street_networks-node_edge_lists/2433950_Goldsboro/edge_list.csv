@@ -1,0 +1,48 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+182151990,182151992,0,False,residential,Railroad Avenue 2,113.846,,,,,,,,,,,17596298,
+182151990,182209576,0,False,secondary,Sandtown Road,32.239,2,,,,,,,,,,585552843,MD 287
+182151992,182151990,0,False,residential,Railroad Avenue 2,113.846,,,,,,,,,,,17596298,
+182168301,653714289,0,False,primary,Oldtown Road,609.615,2,,,,,,,,,,17602867,MD 313
+182205951,182205954,0,False,primary,Oldtown Road,16.919,2,,,,,,,,,,17602865,MD 313
+182205951,5595574304,0,False,residential,Railroad Avenue,29.645,,,,,,,,,,,17605268,
+182205954,5595574305,0,False,primary,Oldtown Road,9.489,2,,,,,,,,,,17602865,MD 313
+182205954,182205951,0,False,primary,Oldtown Road,16.919,2,,,,,,,,,,17602865,MD 313
+182205954,182206528,0,False,residential,Maple Avenue,84.002,,,,,,,,,,,17603684,
+182205957,5595574305,0,False,primary,Oldtown Road,40.472,2,,,,,,,,,,17602865,MD 313
+182205957,653714284,0,False,primary,Oldtown Road,43.127,2,,,,,,,,,,17602867,MD 313
+182205957,182205960,0,True,secondary_link,,50.497,1,,,,,,,,,,104311632,
+182205960,182209570,0,False,secondary,Main Street,49.798,2,,,,,,,,,,104311591,MD 311
+182205960,653714284,0,False,secondary,Main Street,16.734,2,,,,,,,,,,104311591,MD 311
+182206528,182206531,0,False,residential,New Street,92.959,,,,,,,,,,,17602936,
+182206528,182213032,0,False,residential,Maple Avenue,151.696,,,,,,,,,,,17603684,
+182206528,182205954,0,False,residential,Maple Avenue,84.002,,,,,,,,,,,17603684,
+182206531,182206528,0,False,residential,New Street,92.959,,,,,,,,,,,17602936,
+182206531,653714284,0,False,tertiary,Church Lane,91.129,2,,,,,,,,,,17603611,
+182206531,182213032,0,False,tertiary,Church Lane,173.418,2,,,,,,,,,,17603611,
+182209570,1471625162,0,False,secondary,Main Street,4.665,2,,,,,,,,,,104311591,MD 311
+182209570,182205960,0,False,secondary,Main Street,49.798,2,,,,,,,,,,104311591,MD 311
+182209570,653714289,0,False,tertiary,Cartwright Lane,35.536,2,,,,,,,,,,104311621,
+182209576,1471625162,0,False,secondary,Main Street,364.211,2,,,,,,,,,,104311591,MD 311
+182209576,182151990,0,False,secondary,Sandtown Road,32.239,2,,,,,,,,,,585552843,MD 287
+182213032,182206531,0,False,tertiary,Church Lane,173.418,2,,,,,,,,,,17603611,
+182213032,182206528,0,False,residential,Maple Avenue,151.696,,,,,,,,,,,17603684,
+182228526,1471625162,0,False,residential,Railroad Avenue,22.277,,,,,,,,,,,133689577,
+182228526,1471625153,0,False,residential,Railroad Avenue,111.249,,,,,,,,,,,17605268,
+182228526,5595574304,0,False,residential,Railroad Avenue,140.157,,,,,,,,,,,17605268,
+653714284,653714289,0,False,primary,Oldtown Road,50.673,2,,,,,,,,,,17602867,MD 313
+653714284,182205957,0,False,primary,Oldtown Road,43.127,2,,,,,,,,,,17602867,MD 313
+653714284,182206531,0,False,tertiary,Church Lane,91.129,2,,,,,,,,,,17603611,
+653714284,182205960,0,False,secondary,Main Street,16.734,2,,,,,,,,,,104311591,MD 311
+653714289,182209570,0,False,tertiary,Cartwright Lane,35.536,2,,,,,,,,,,104311621,
+653714289,182168301,0,False,primary,Oldtown Road,609.615,2,,,,,,,,,,17602867,MD 313
+653714289,653714284,0,False,primary,Oldtown Road,50.673,2,,,,,,,,,,17602867,MD 313
+1471625153,182228526,0,False,residential,Railroad Avenue,111.249,,,,,,,,,,,17605268,
+1471625162,182209570,0,False,secondary,Main Street,4.665,2,,,,,,,,,,104311591,MD 311
+1471625162,182228526,0,False,residential,Railroad Avenue,22.277,,,,,,,,,,,133689577,
+1471625162,182209576,0,False,secondary,Main Street,364.211,2,,,,,,,,,,104311591,MD 311
+5595574304,5595574305,0,False,residential,Railroad Avenue,13.537,,,,,,,,,,,585547554,
+5595574304,182228526,0,False,residential,Railroad Avenue,140.157,,,,,,,,,,,17605268,
+5595574304,182205951,0,False,residential,Railroad Avenue,29.645,,,,,,,,,,,17605268,
+5595574305,182205957,0,False,primary,Oldtown Road,40.472,2,,,,,,,,,,17602865,MD 313
+5595574305,182205954,0,False,primary,Oldtown Road,9.489,2,,,,,,,,,,17602865,MD 313
+5595574305,5595574304,0,False,residential,Railroad Avenue,13.537,,,,,,,,,,,585547554,

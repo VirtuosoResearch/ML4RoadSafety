@@ -1,0 +1,24 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+49381996,1399268999,0,False,residential,West Lee Street,48.822,3,,,,,,,,,,98055854,
+49381996,49490191,0,False,primary,West Lee Street,248.31,3,,,,,,,,,,"[130772945, 130772946]",
+49401508,49401461,0,True,motorway_link,,428.404,1,,,35 mph,,,yes,,,,"[23014569, 24762018]",
+49401508,49570057,0,True,motorway_link,,385.348,1,,,,,,yes,,,,"[116126152, 24762002, 116126150]",
+49401511,49464315,0,False,tertiary,West Hamburg Street,19.382,3,,,,,,,,,,521977468,
+49401511,49401508,0,True,motorway_link,,30.871,2,,,,,,,,,,182612058,
+49401512,49401511,0,True,trunk,Russell Street Service Drive,66.07,3,,,,,,,,,,182612054,
+49464315,49401511,0,False,tertiary,West Hamburg Street,19.382,3,,,,,,,,,,521977468,
+49464315,49490191,0,True,trunk,Russell Street,183.658,3,,,40 mph,,,,,,,"[305419571, 513563239]",MD 295
+49475742,1079289807,0,False,residential,Washington Boulevard,38.063,2,,,,,,,,,,93107452,
+49475742,864221046,0,False,tertiary,West Camden Street,32.875,4,,,,,,,,,,98289537,
+49490191,1080115117,0,True,primary,Russell Street,26.945,3,,,40 mph,,,,,,,49667780,MD 295
+49490191,49381996,0,False,primary,West Lee Street,248.31,3,,,,,,,,,,"[130772945, 130772946]",
+49570057,49569958,0,True,motorway,South Martin Luther King Jr. Boulevard,330.78,2,,,40 mph,,,yes,,,,506064766,
+864221046,49475742,0,False,tertiary,West Camden Street,32.875,4,,,,,,,,,,98289537,
+1079289807,49475742,0,False,residential,Washington Boulevard,38.063,2,,,,,,,,,,93107452,
+1080115117,1080115127,0,True,primary_link,,53.372,1,,,,,,,,,,93171917,
+1080115117,49475742,0,True,primary,Russell Street,448.605,"['4', '3']",,,40 mph,,,,,,,"[198924888, 198969835, 6002901, 541985215]",MD 295
+1080121206,49401512,0,True,unclassified,Russell Street Service Drive,176.469,2,,,,,,,,,,93172468,
+1399268999,49381996,0,False,residential,West Lee Street,48.822,3,,,,,,,,,,98055854,
+1929710823,49464315,0,True,trunk,Russell Street,124.775,3,,,40 mph,,,,,,,11570425,MD 295
+1929710823,49401512,0,True,trunk_link,,61.642,2,,,,,,,,,,182612060,
+5346536146,49569958,0,True,motorway,Cal Ripken Way,827.695,"['3', '2']",,,"['30 mph', '40 mph']",,,yes,,,,"[452936678, 301595693, 5998097, 452936692, 23014583]",I 395

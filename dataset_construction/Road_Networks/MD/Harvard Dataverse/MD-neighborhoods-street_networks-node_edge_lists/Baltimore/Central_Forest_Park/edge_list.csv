@@ -1,0 +1,30 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+49467913,49482328,0,False,secondary,Garrison Boulevard,33.651,2,,,30 mph,,,,,,,208502670,
+49467913,49506420,0,False,secondary,Garrison Boulevard,113.938,2,,,30 mph,,,,,,,208502670,
+49476178,49509529,0,False,primary,Liberty Heights Avenue,106.589,4,,,30 mph,,,,,,,208502673,MD 26
+49482328,49467913,0,False,secondary,Garrison Boulevard,33.651,2,,,30 mph,,,,,,,208502670,
+49482328,49482332,0,False,secondary,Berwyn Avenue,208.353,"['2', '3']",,,30 mph,,,,,,,"[424991328, 6006050]",
+49482328,49510142,0,True,residential,Maine Avenue,294.316,2,,,,,,,,,,401882134,
+49482332,49509527,0,False,primary,Liberty Heights Avenue,140.614,4,,,30 mph,,,,,,,208502673,MD 26
+49482332,49482328,0,False,secondary,Berwyn Avenue,208.353,"['3', '2']",,,30 mph,,,,,,,"[424991328, 6006050]",
+49482332,49506420,0,False,primary,Liberty Heights Avenue,109.301,4,,,30 mph,,,,,,,501239876,MD 26
+49506420,49467913,0,False,secondary,Garrison Boulevard,113.938,2,,,30 mph,,,,,,,208502670,
+49506420,49482332,0,False,primary,Liberty Heights Avenue,109.301,4,,,30 mph,,,,,,,501239876,MD 26
+49509527,49509529,0,False,primary,Liberty Heights Avenue,200.072,4,,,30 mph,,,,,,,208502673,MD 26
+49509527,49482332,0,False,primary,Liberty Heights Avenue,140.614,4,,,30 mph,,,,,,,208502673,MD 26
+49509527,49510142,0,False,residential,Oakfield Avenue,137.335,2,,,,,,,,,,6009728,
+49509529,49509527,0,False,primary,Liberty Heights Avenue,200.072,4,,,30 mph,,,,,,,208502673,MD 26
+49509529,49476178,0,False,primary,Liberty Heights Avenue,106.589,4,,,30 mph,,,,,,,208502673,MD 26
+49510136,49510137,0,False,residential,Oakfield Avenue,136.999,2,,,,,,,,,,6009728,
+49510136,49548654,0,True,residential,Kathland Avenue,199.29,1,,,,,,,,,,6022843,
+49510137,49510136,0,False,residential,Oakfield Avenue,136.999,2,,,,,,,,,,6009728,
+49510137,49510142,0,False,residential,Oakfield Avenue,137.134,2,,,,,,,,,,6009728,
+49510142,49526728,0,False,residential,Maine Avenue,200.973,2,,,,,,,,,,401882133,
+49510142,49509527,0,False,residential,Oakfield Avenue,137.335,2,,,,,,,,,,6009728,
+49510142,49510137,0,False,residential,Oakfield Avenue,137.134,2,,,,,,,,,,6009728,
+49525261,49510137,0,True,residential,Springdale Avenue,201.614,,,,,,,,,,,6011435,
+49525261,49526728,0,True,residential,Granada Avenue,137.386,2,,,25 mph,,,,,,,6015300,
+49526728,49510142,0,False,residential,Maine Avenue,200.973,2,,,,,,,,,,401882133,
+49526728,49509529,0,True,residential,Granada Avenue,136.825,2,,,25 mph,,,,,,,6015300,
+49548654,49577423,0,True,residential,Kathland Avenue,230.638,1,,,,,,,,,,6022843,
+49548654,49525261,0,True,residential,Granada Avenue,136.914,2,,,25 mph,,,,,,,6015300,

@@ -1,0 +1,67 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+213020920,213020924,0,False,residential,,94.701,,,,,,,,,,,20144356,
+213020920,213098066,0,False,tertiary,Auburn Street,299.325,,,,,,,,,,,20149776,
+213020920,213098063,0,False,tertiary,Auburn Street,101.581,,,,,,,,,,,20149776,
+213020920,213098063,1,False,residential,Fairley School,187.905,,,,,,,,,,,20159579,
+213020924,213020920,0,False,residential,,94.701,,,,,,,,,,,20144356,
+213020946,213020952,0,False,residential,,108.507,,,,,,,,,,,20144358,
+213020946,213175246,0,False,residential,Garden East Lane,17.897,,,,,,,,,,,20155392,
+213020946,213175251,0,False,residential,Garden East Lane,46.336,,,,,,,,,,,20155392,
+213020952,213020946,0,False,residential,,108.507,,,,,,,,,,,20144358,
+213046194,213046202,0,False,secondary,Fulton Street,386.693,,,,,,,,,,,20146624,NY 3
+213046194,213098084,0,False,tertiary,Auburn Street,249.624,,,,,,,,,,,20149776,
+213046194,213099530,0,False,secondary,Church Street,35.24,,,,,,,,,,,20149867,NY 3
+213046194,213074358,0,False,residential,Oswego Street,254.192,,,,,,,,,,,20161590,
+213046202,213046214,0,False,secondary,Fulton Street,518.407,,,,,,,yes,,,,"[20146624, 254049157, 254049158]",NY 3
+213046202,213046194,0,False,secondary,Fulton Street,386.693,,,,,,,,,,,20146624,NY 3
+213046202,213175258,0,False,residential,Scott Drive,470.451,,,,,,,,,,,20159509,
+213046214,213046202,0,False,secondary,Fulton Street,518.407,,,,,,,yes,,,,"[20146624, 254049157, 254049158]",NY 3
+213074358,213186626,0,False,residential,Oswego Street,89.371,,,,,,,yes,,,,"[86568048, 254049198, 20161590]",
+213074358,213046194,0,False,residential,Oswego Street,254.192,,,,,,,,,,,20161590,
+213086961,213086967,0,False,residential,Rochester Street,140.956,,,,,,,,,,,20149117,
+213086961,213099537,0,False,residential,West Street,265.811,,,,,,,,,,,20159892,
+213086967,213086961,0,False,residential,Rochester Street,140.956,,,,,,,,,,,20149117,
+213086967,213099530,0,False,tertiary,Cayuga Street,223.434,,,,,,,,,,,20150850,CR 34
+213086967,213107490,0,False,tertiary,Cayuga Street,686.139,,,,,,,,,,,20150850,CR 34
+213098063,213020920,0,False,tertiary,Auburn Street,101.581,,,,,,,,,,,20149776,
+213098063,213020920,1,False,residential,Fairley School,187.905,,,,,,,,,,,20159579,
+213098066,213098069,0,False,tertiary,Auburn Street,126.528,,,,,,,,,,,20149776,
+213098066,213020920,0,False,tertiary,Auburn Street,299.325,,,,,,,,,,,20149776,
+213098066,213171488,0,False,residential,Morningside Drive,225.706,,,,,,,,,,,20154973,
+213098069,213098066,0,False,tertiary,Auburn Street,126.528,,,,,,,,,,,20149776,
+213098069,213098078,0,False,tertiary,Auburn Street,126.777,,,,,,,,,,,20149776,
+213098069,213171488,0,False,residential,Morningside Drive,100.859,,,,,,,,,,,20154969,
+213098078,213098084,0,False,tertiary,Auburn Street,193.688,,,,,,,,,,,20149776,
+213098078,213098084,1,False,residential,Bus Garage Hannibal Central,340.646,,,,,,,,,,,20156281,
+213098078,213098069,0,False,tertiary,Auburn Street,126.777,,,,,,,,,,,20149776,
+213098084,213046194,0,False,tertiary,Auburn Street,249.624,,,,,,,,,,,20149776,
+213098084,213098078,0,False,tertiary,Auburn Street,193.688,,,,,,,,,,,20149776,
+213098084,213098078,1,False,residential,Bus Garage Hannibal Central,340.646,,,,,,,,,,,20156281,
+213099530,213099537,0,False,secondary,Church Street,167.031,,,,,,,,,,,20149867,NY 3
+213099530,213046194,0,False,secondary,Church Street,35.24,,,,,,,,,,,20149867,NY 3
+213099530,213086967,0,False,tertiary,Cayuga Street,223.434,,,,,,,,,,,20150850,CR 34
+213099537,213099565,0,False,secondary,Church Street,421.976,,,,,,,,,,,20149867,NY 3
+213099537,213099530,0,False,secondary,Church Street,167.031,,,,,,,,,,,20149867,NY 3
+213099537,213086961,0,False,residential,West Street,265.811,,,,,,,,,,,20159892,
+213099565,213099537,0,False,secondary,Church Street,421.976,,,,,,,,,,,20149867,NY 3
+213107459,213107463,0,False,residential,Cayuga St School,36.652,,,,,,,,,,,20150341,
+213107459,213107490,0,False,tertiary,Cayuga Street,53.394,,,,,,,,,,,20150850,CR 34
+213107463,213107459,0,False,residential,Cayuga St School,36.652,,,,,,,,,,,20150341,
+213107468,213107490,0,False,residential,Cayuga St School,137.014,,,,,,,,,,,20150342,
+213107490,213107468,0,False,residential,Cayuga St School,137.014,,,,,,,,,,,20150342,
+213107490,213086967,0,False,tertiary,Cayuga Street,686.139,,,,,,,,,,,20150850,CR 34
+213107490,213107459,0,False,tertiary,Cayuga Street,53.394,,,,,,,,,,,20150850,CR 34
+213171488,213098069,0,False,residential,Morningside Drive,100.859,,,,,,,,,,,20154969,
+213171488,213098066,0,False,residential,Morningside Drive,225.706,,,,,,,,,,,20154973,
+213171488,213175258,0,False,residential,Scott Drive,132.875,,,,,,,,,,,20159509,
+213175246,213020946,0,False,residential,Garden East Lane,17.897,,,,,,,,,,,20155392,
+213175251,213175258,0,False,residential,Garden East Lane,174.252,,,,,,,,,,,20155392,
+213175251,213020946,0,False,residential,Garden East Lane,46.336,,,,,,,,,,,20155392,
+213175251,213190502,0,False,residential,Pineview Lane,184.696,,,,,,,,,,,20159019,
+213175258,213175251,0,False,residential,Garden East Lane,174.252,,,,,,,,,,,20155392,
+213175258,213046202,0,False,residential,Scott Drive,470.451,,,,,,,,,,,20159509,
+213175258,213171488,0,False,residential,Scott Drive,132.875,,,,,,,,,,,20159509,
+213186626,213186628,0,False,residential,Meadowbrook Terrace,246.899,,,,,,,,,,,20158176,
+213186626,213074358,0,False,residential,Oswego Street,89.371,,,,,,,yes,,,,"[86568048, 20161590, 254049198]",
+213186628,213186626,0,False,residential,Meadowbrook Terrace,246.899,,,,,,,,,,,20158176,
+213190502,213175251,0,False,residential,Pineview Lane,184.696,,,,,,,,,,,20159019,

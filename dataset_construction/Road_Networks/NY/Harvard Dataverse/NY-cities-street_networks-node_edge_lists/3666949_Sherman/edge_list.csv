@@ -1,0 +1,71 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+211590362,211590392,0,True,motorway_link,,506.709,,,,,,,,,,,20042226,
+211590362,211601940,0,False,secondary,Osborne Street,182.52,,,,,,,yes,,,,"[20050016, 38651315, 38651317]",NY 76
+211601940,211601892,0,True,motorway_link,,456.85,,,,,,,,,,,20042909,
+211601940,211727339,0,False,secondary,Osborne Street,241.206,,,,,,,,,,,38651317,NY 76
+211601940,211590362,0,False,secondary,Osborne Street,182.52,,,,,,,yes,,,,"[20050016, 38651315, 38651317]",NY 76
+211601960,211601892,0,True,motorway,Southern Tier Expressway,816.464,2,,,,,,,,,,38651307,I 86;NY 17
+211601960,211601940,0,True,motorway_link,,398.323,,,,,,,,,,,378904844,
+211662015,211662022,0,False,unclassified,Mill Street,162.036,,,,,,,,,,,20046876,
+211662015,211664190,0,False,tertiary,Hart Street,279.876,,,,,,,,,,,20047005,
+211662022,211708540,0,False,secondary,Franklin Street,16.784,,,,,,,,,,,20051585,NY 76
+211662022,211662015,0,False,unclassified,Mill Street,162.036,,,,,,,,,,,20046876,
+211662022,211667216,0,False,secondary,Franklin Street,221.301,,,,,,,yes,,,,"[20051585, 313133766, 313133767]",NY 76
+211664190,211693172,0,False,secondary,West Main Street,83.251,,,,,,,,,,,139324170,NY 76;NY 430
+211664190,211662015,0,False,tertiary,Hart Street,279.876,,,,,,,,,,,20047005,
+211664190,211664825,0,False,secondary,Kipp Street,251.213,,,,,,,,,,,20047041,NY 76
+211664190,211699460,0,False,secondary,West Main Street,356.54,,,,,,,,,,,20048705,NY 430
+211664825,211664190,0,False,secondary,Kipp Street,251.213,,,,,,,,,,,20047041,NY 76
+211664825,211693178,0,False,tertiary,Park Street,201.891,,,,,,,,,,,20050205,
+211667216,211667219,0,False,secondary,East Main Street,26.624,,,,,,,,,,,20047142,NY 430
+211667216,211693172,0,False,secondary,West Main Street,70.649,,,,,,,,,,,139324170,NY 76;NY 430
+211667216,211662022,0,False,secondary,Franklin Street,221.301,,,,,,,yes,,,,"[20051585, 313133766, 313133767]",NY 76
+211667219,211667224,0,False,secondary,East Main Street,99.984,,,,,,,,,,,20047142,NY 430
+211667219,211667216,0,False,secondary,East Main Street,26.624,,,,,,,,,,,20047142,NY 430
+211667219,211684361,0,False,residential,Miller Street,159.566,,,,,,,,,,,20047911,
+211667224,211667219,0,False,secondary,East Main Street,99.984,,,,,,,,,,,20047142,NY 430
+211667224,211702783,0,False,residential,Willard Street,162.013,,,,,,,,,,,20048858,
+211667224,211667238,0,False,secondary,East Main Street,451.162,,,,,,,,,,,20047142,NY 430
+211667238,211667224,0,False,secondary,East Main Street,451.162,,,,,,,,,,,20047142,NY 430
+211667238,211730705,0,False,residential,East Street,309.621,,,,,,,,,,,20051670,
+211684361,211667219,0,False,residential,Miller Street,159.566,,,,,,,,,,,20047911,
+211684361,211702783,0,False,tertiary,Park Street,98.714,,,,,,,,,,,20050205,
+211684361,211693178,0,False,tertiary,Park Street,103.824,,,,,,,,,,,20050205,
+211688119,211727867,0,False,residential,Kendrick Street,167.062,,,,,,,,,,,20051710,
+211693172,211667216,0,False,secondary,West Main Street,70.649,,,,,,,,,,,139324170,NY 76;NY 430
+211693172,211664190,0,False,secondary,West Main Street,83.251,,,,,,,,,,,139324170,NY 76;NY 430
+211693172,211693178,0,False,residential,Church Street,177.477,,,,,,,,,,,20048396,
+211693178,211693182,0,False,residential,Church Street,148.683,,,,,,,,,,,20048396,
+211693178,211693172,0,False,residential,Church Street,177.477,,,,,,,,,,,20048396,
+211693178,211684361,0,False,tertiary,Park Street,103.824,,,,,,,,,,,20050205,
+211693178,211664825,0,False,tertiary,Park Street,201.891,,,,,,,,,,,20050205,
+211693182,211693178,0,False,residential,Church Street,148.683,,,,,,,,,,,20048396,
+211699460,211664190,0,False,secondary,West Main Street,356.54,,,,,,,,,,,20048705,NY 430
+211702783,211667224,0,False,residential,Willard Street,162.013,,,,,,,,,,,20048858,
+211702783,211730695,0,False,tertiary,Park Street,86.934,,,,,,,,,,,20050205,
+211702783,211684361,0,False,tertiary,Park Street,98.714,,,,,,,,,,,20050205,
+211708540,211662022,0,False,secondary,Franklin Street,16.784,,,,,,,,,,,20051585,NY 76
+211708540,211753993,0,False,residential,"['Prospect Street', 'Hayes Street']",245.683,,,,,,,,,,,"[20051481, 20049124]",
+211708540,211727339,0,False,secondary,Osborne Street,155.164,,,,,,,,,,,38651317,NY 76
+211727339,211753993,0,False,residential,Morris Street,100.98,,,,,,,,,,,20053908,
+211727339,211708540,0,False,secondary,Osborne Street,155.164,,,,,,,,,,,38651317,NY 76
+211727339,211601940,0,False,secondary,Osborne Street,241.206,,,,,,,,,,,38651317,NY 76
+211727867,211730714,0,False,residential,Kendrick Street,79.844,,,,,,,,,,,20051710,
+211727867,211729618,0,False,residential,"['Edmunds Street', '1st Street']",382.703,,,,,,,,,,,"[20050050, 20050146]",
+211727867,211688119,0,False,residential,Kendrick Street,167.062,,,,,,,,,,,20051710,
+211729618,211730705,0,False,tertiary,Park Street,20.067,,,,,,,,,,,20050205,
+211729618,211727867,0,False,residential,"['Edmunds Street', '1st Street']",382.703,,,,,,,,,,,"[20050146, 20050050]",
+211729618,211730714,0,False,tertiary,Park Street,246.475,,,,,,,,,,,20050205,
+211730695,211730705,0,False,tertiary,Park Street,397.901,,,,,,,,,,,20050205,
+211730695,211702783,0,False,tertiary,Park Street,86.934,,,,,,,,,,,20050205,
+211730695,211801001,0,False,residential,Columbia Street,201.176,,,,,,,,,,,20054605,
+211730705,211729618,0,False,tertiary,Park Street,20.067,,,,,,,,,,,20050205,
+211730705,211730695,0,False,tertiary,Park Street,397.901,,,,,,,,,,,20050205,
+211730705,211667238,0,False,residential,East Street,309.621,,,,,,,,,,,20051670,
+211730714,211727867,0,False,residential,Kendrick Street,79.844,,,,,,,,,,,20051710,
+211730714,211729618,0,False,tertiary,Park Street,246.475,,,,,,,,,,,20050205,
+211753991,211753993,0,False,residential,Prospect Street,73.524,,,,,,,,,,,20051481,
+211753993,211753991,0,False,residential,Prospect Street,73.524,,,,,,,,,,,20051481,
+211753993,211708540,0,False,residential,"['Prospect Street', 'Hayes Street']",245.683,,,,,,,,,,,"[20051481, 20049124]",
+211753993,211727339,0,False,residential,Morris Street,100.98,,,,,,,,,,,20053908,
+211801001,211730695,0,False,residential,Columbia Street,201.176,,,,,,,,,,,20054605,

@@ -1,0 +1,49 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+213225694,213225722,0,False,residential,,385.341,,,,30 mph,,,,,,,20164257,
+213225694,213235610,0,False,residential,Main Street,298.173,,,,30 mph,,,,,,,372617188,
+213225722,213225725,0,False,residential,,30.57,,,,30 mph,,,,,,,20164257,
+213225722,213225742,0,False,residential,,32.885,,,,30 mph,,,,,,,20164262,
+213225722,213225694,0,False,residential,,385.341,,,,30 mph,,,,,,,20164257,
+213225725,213225722,0,False,residential,,30.57,,,,30 mph,,,,,,,20164257,
+213225725,213225742,0,False,residential,Willow Street,24.46,,,,30 mph,,,,,,,85466040,
+213225742,213225722,0,False,residential,,32.885,,,,30 mph,,,,,,,20164262,
+213225742,213225725,0,False,residential,Willow Street,24.46,,,,30 mph,,,,,,,85466040,
+213225742,213235615,0,False,residential,Willow Street,352.256,,,,30 mph,,,,,,,85466040,
+213226821,213226823,0,False,residential,,16.179,,,,,,,,,,,20164371,
+213226821,213237046,0,False,secondary,Main Street,53.31,,,,30 mph,,,,,,,20165434,NY 79
+213226821,213237718,0,False,secondary,Main Street,192.447,,,,30 mph,,,,,,,20165434,NY 79
+213226823,213226821,0,False,residential,,16.179,,,,,,,,,,,20164371,
+213235610,213235615,0,False,residential,Lake Avenue,134.35,,,,30 mph,,,,,,,20165248,
+213235610,213225694,0,False,residential,Main Street,298.173,,,,30 mph,,,,,,,372617188,
+213235610,2439024815,0,False,residential,Main Street,145.503,,,,30 mph,,,,,,,372617188,
+213235615,213235610,0,False,residential,Lake Avenue,134.35,,,,30 mph,,,,,,,20165248,
+213235615,2439024812,0,False,secondary,"['Main Street', 'Willow Street']",191.784,,,,30 mph,,,,,,,"[20165434, 20166996]",NY 79
+213235615,213225742,0,False,residential,Willow Street,352.256,,,,30 mph,,,,,,,85466040,
+213237041,213237046,0,False,residential,Church Street,143.133,,,,30 mph,,,,,,,20165368,
+213237041,213237718,0,False,residential,Barnum Street,381.003,,,,30 mph,,,,,,,20165721,
+213237046,213237721,0,False,secondary,Main Street,67.671,,,,30 mph,,,,,,,20165434,NY 79
+213237046,213226821,0,False,secondary,Main Street,53.31,,,,30 mph,,,,,,,20165434,NY 79
+213237046,213237041,0,False,residential,Church Street,143.133,,,,30 mph,,,,,,,20165368,
+213237715,213237718,0,False,secondary,Main Street,215.732,,,,30 mph,,,,,,,20165434,NY 79
+213237715,213248802,0,False,residential,Wine Mt Road,33.667,,,,,,,,,,,20166214,
+213237718,213226821,0,False,secondary,Main Street,192.447,,,,30 mph,,,,,,,20165434,NY 79
+213237718,213237715,0,False,secondary,Main Street,215.732,,,,30 mph,,,,,,,20165434,NY 79
+213237718,213237041,0,False,residential,Barnum Street,381.003,,,,30 mph,,,,,,,20165721,
+213237721,213237046,0,False,secondary,Main Street,67.671,,,,30 mph,,,,,,,20165434,NY 79
+213237721,213244502,0,False,residential,Factory Street,168.423,,,,30 mph,,,,,,,439794912,
+213237721,2439024812,0,False,secondary,Main Street,92.28,,,,30 mph,,,,,,,20165434,NY 79
+213244502,213253567,0,False,residential,Factory Street,35.021,,,,30 mph,,,,,,,20167023,
+213244502,213237721,0,False,residential,Factory Street,168.423,,,,30 mph,,,,,,,439794912,
+213244502,2439024812,0,False,residential,Mill Street,187.64,,,,30 mph,,,,,,,20165954,
+213248802,213237715,0,False,residential,Wine Mt Road,33.667,,,,,,,,,,,20166214,
+213253567,213253570,0,False,residential,Lumber Street,63.457,,,,30 mph,,,,,,,20166586,
+213253567,213244502,0,False,residential,Factory Street,35.021,,,,30 mph,,,,,,,20167023,
+213253570,213253567,0,False,residential,Lumber Street,63.457,,,,30 mph,,,,,,,20166586,
+213253570,213253586,0,False,residential,Lumber Street,155.249,,,,30 mph,,,,,,,20166586,
+213253570,213253599,0,False,residential,Lumber Street,76.19,,,,30 mph,,,,,,,20166587,
+213253586,213253570,0,False,residential,Lumber Street,155.249,,,,30 mph,,,,,,,20166586,
+213253599,213253570,0,False,residential,Lumber Street,76.19,,,,30 mph,,,,,,,20166587,
+2439024812,213235615,0,False,secondary,"['Main Street', 'Willow Street']",191.784,,,,30 mph,,,,,,,"[20165434, 20166996]",NY 79
+2439024812,213237721,0,False,secondary,Main Street,92.28,,,,30 mph,,,,,,,20165434,NY 79
+2439024812,213244502,0,False,residential,Mill Street,187.64,,,,30 mph,,,,,,,20165954,
+2439024815,213235610,0,False,residential,Main Street,145.503,,,,30 mph,,,,,,,372617188,

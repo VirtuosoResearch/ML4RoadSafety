@@ -1,0 +1,9 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+49460554,49563316,0,False,tertiary,Wyndhurst Avenue,112.134,2,,,,,,,,,,6021530,
+49522352,49522361,0,False,primary,North Charles Street,403.49,4,,,30 mph,,,,,,,"[512483202, 548255499, 422603150]",MD 139
+49522361,49522362,0,False,primary,North Charles Street,72.782,4,,,30 mph,,,,,,,548255503,MD 139
+49522361,49522352,0,False,primary,North Charles Street,403.49,4,,,30 mph,,,,,,,"[512483202, 548255499, 422603150]",MD 139
+49522362,49522361,0,False,primary,North Charles Street,72.782,4,,,30 mph,,,,,,,548255503,MD 139
+49522362,49563316,0,False,tertiary,Wyndhurst Avenue,144.097,"['3', '2']",,,,,,,,,,"[6021530, 548255502]",
+49563316,49460554,0,False,tertiary,Wyndhurst Avenue,112.134,2,,,,,,,,,,6021530,
+49563316,49522362,0,False,tertiary,Wyndhurst Avenue,144.097,"['2', '3']",,,,,,,,,,"[6021530, 548255502]",

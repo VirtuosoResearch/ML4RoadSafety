@@ -1,0 +1,92 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+61317361,61317364,0,False,secondary,Massachusetts Avenue,38.04,3,18.9,,,,,,,,,8615119,MA 2A
+61317361,61321188,0,False,secondary,Massachusetts Avenue,140.428,3,18.9,,,,,,,,,8615119,MA 2A
+61317361,61326775,0,True,residential,Hancock Street,86.064,2,8.5,,25 mph,,,,,,,8615458,
+61317361,61321194,0,True,residential,Hancock Street,120.528,2,12.2,,25 mph,,,,,,,8615674,
+61317362,61326791,0,False,secondary,Massachusetts Avenue,72.906,3,18.9,,,,,,,,,8615119,MA 2A
+61317362,61326938,0,True,residential,Lee Street,260.185,2,12.8,,25 mph,,,,,,,8615111,
+61317362,61317364,0,False,secondary,Massachusetts Avenue,69.411,3,18.9,,,,,,,,,8615119,MA 2A
+61317364,61317422,0,False,residential,Arnold Circle,49.358,1,7.6,,25 mph,,,,,,,8614912,
+61317364,61317362,0,False,secondary,Massachusetts Avenue,69.411,3,18.9,,,,,,,,,8615119,MA 2A
+61317364,61317361,0,False,secondary,Massachusetts Avenue,38.04,3,18.9,,,,,,,,,8615119,MA 2A
+61317411,61317413,0,False,residential,Hancock Place,33.919,2,8.5,,25 mph,,,,,,,8615763,
+61317413,61321284,0,True,residential,Hancock Street,39.135,2,12.2,,25 mph,,,,,,,8615674,
+61317413,61317411,0,False,residential,Hancock Place,33.919,2,8.5,,25 mph,,,,,,,8615763,
+61317422,61317364,0,False,residential,Arnold Circle,49.358,1,7.6,,25 mph,,,,,,,8614912,
+61318532,61325559,0,True,tertiary,Trowbridge Street,167.533,2,11.6,,,,,,,,,8614901,
+61318535,61318532,0,True,primary,Massachusetts Avenue,40.954,2,18.9,,,,,,,,,8615456,MA 2A
+61318535,61326743,0,False,secondary,Massachusetts Avenue,68.056,3,18.9,,,,,,,,,8615119,MA 2A
+61321092,61321188,0,False,secondary,Massachusetts Avenue,43.141,3,18.9,,,,,,,,,8615119,MA 2A
+61321092,61326743,0,False,secondary,Massachusetts Avenue,102.473,3,18.9,,,,,,,,,8615119,MA 2A
+61321188,61326621,0,False,residential,Bay Street,87.033,2,12.2,,25 mph,,,,,,,8615388,
+61321188,61317361,0,False,secondary,Massachusetts Avenue,140.428,3,18.9,,,,,,,,,8615119,MA 2A
+61321188,61321092,0,False,secondary,Massachusetts Avenue,43.141,3,18.9,,,,,,,,,8615119,MA 2A
+61321194,61326036,0,False,residential,Centre Street,91.672,2,13.4,,25 mph,,,,,,,8614593,
+61321194,61317413,0,True,residential,Hancock Street,82.433,2,12.2,,25 mph,,,,,,,8615674,
+61321284,61326706,0,True,residential,Hancock Street,76.807,2,12.2,,25 mph,,,,,,,8615674,
+61321284,61326938,0,False,tertiary,Harvard Street,91.143,2,14.6,,,,,,,,,32540408,
+61321284,61324372,0,False,tertiary,Harvard Street,238.576,2,14.6,,,,,,,,,32540408,
+61324181,61324372,0,True,residential,Dana Street,86.632,2,12.2,,25 mph,,,,,,,8615528,
+61324181,61324398,0,False,residential,Chatham Street,62.858,2,12.2,,25 mph,,,,,,,8615657,
+61324181,61324187,0,True,residential,Cleveland Street,103.915,2,8.5,,25 mph,,,,,,,8615936,
+61324187,61325634,0,True,residential,Ellery Street,92.567,2,12.2,,25 mph,,,,,,,8615470,
+61324351,61324181,0,True,residential,Dana Street,99.54,2,12.2,,25 mph,,,,,,,8615528,
+61324351,61325493,0,False,tertiary,Broadway,104.227,2,24.4,,,,,,,,,33720646,
+61324372,4600668051,0,True,residential,Dana Street,47.544,2,12.2,,25 mph,,,,,,,8615528,
+61324372,61321284,0,False,tertiary,Harvard Street,238.576,2,14.6,,,,,,,,,32540408,
+61324372,61325634,0,False,tertiary,Harvard Street,105.238,2,14.6,,,,,,,,,32540408,
+61324398,61325538,0,False,residential,Chatham Street,49.057,2,12.2,,25 mph,,,,,,,8615657,
+61324398,61324181,0,False,residential,Chatham Street,62.858,2,12.2,,25 mph,,,,,,,8615657,
+61325493,61324187,0,True,residential,Ellery Street,109.336,2,12.2,,25 mph,,,,,,,8615470,
+61325493,61324351,0,False,tertiary,Broadway,104.227,2,24.4,,,,,,,,,33720646,
+61325510,61325538,0,False,residential,Merrill Street,86.715,2,10.7,,25 mph,,,,,,,8614860,
+61325525,61327819,0,False,tertiary,Broadway,32.394,2,24.4,,,,,,,,,33720646,
+61325538,61325510,0,False,residential,Merrill Street,86.715,2,10.7,,25 mph,,,,,,,8614860,
+61325538,61325543,0,False,residential,Chatham Street,55.91,2,12.2,,25 mph,,,,,,,8615657,
+61325538,61324398,0,False,residential,Chatham Street,49.057,2,12.2,,25 mph,,,,,,,8615657,
+61325543,61326706,0,False,residential,Chatham Street,70.724,2,12.2,,25 mph,,,,,,,8615657,
+61325543,61325538,0,False,residential,Chatham Street,55.91,2,12.2,,25 mph,,,,,,,8615657,
+61325559,61325634,0,False,tertiary,Harvard Street,103.952,2,14.6,,,,,,,,,32540408,
+61325559,61325635,0,False,tertiary,Harvard Street,93.286,2,14.6,,,,,,,,,32540408,
+61325559,61325563,0,True,tertiary,Trowbridge Street,106.285,2,11.6,,,,,,,,,8614901,
+61325563,61329277,0,False,residential,Trowbridge Place,62.793,2,9.1,,25 mph,destination,,,,,,8615648,
+61325563,61332285,0,False,residential,Trowbridge Terrace,43.555,1,4.6,,25 mph,,,,,,,8615980,
+61325634,61324372,0,False,tertiary,Harvard Street,105.238,2,14.6,,,,,,,,,32540408,
+61325634,61325559,0,False,tertiary,Harvard Street,103.952,2,14.6,,,,,,,,,32540408,
+61325634,61326743,0,True,residential,Ellery Street,194.568,2,12.2,,25 mph,,,,,,,8615470,
+61325635,61325559,0,False,tertiary,Harvard Street,93.286,2,14.6,,,,,,,,,32540408,
+61325635,61325629,0,True,residential,Remington Street,124.546,2,11.6,,25 mph,,,,,,,8614599,
+61326034,61326036,0,False,residential,,39.124,,,,25 mph,,,,,,,8616190,
+61326036,61321194,0,False,residential,Centre Street,91.672,2,13.4,,25 mph,,,,,,,8614593,
+61326036,61326730,0,False,residential,Centre Street,120.091,2,13.4,,25 mph,,,,,,,8614593,
+61326036,61326034,0,False,residential,,39.124,,,,25 mph,,,,,,,8616190,
+61326621,61321188,0,False,residential,Bay Street,87.033,2,12.2,,25 mph,,,,,,,8615388,
+61326621,61326788,0,True,residential,Green Street,247.235,2,12.2,,25 mph,,,,,,,387051950,
+61326706,61329273,0,False,residential,Hancock Park,33.063,2,7.3,,25 mph,,,,,,,8615067,
+61326706,61325543,0,False,residential,Chatham Street,70.724,2,12.2,,25 mph,,,,,,,8615657,
+61326706,61325525,0,True,residential,Hancock Street,79.247,2,12.2,,25 mph,,,,,,,8615674,
+61326730,61326036,0,False,residential,Centre Street,120.091,2,13.4,,25 mph,,,,,,,8614593,
+61326730,61321092,0,True,residential,Dana Street,100.443,2,12.2,,25 mph,,,,,,,8615528,
+61326743,61321092,0,False,secondary,Massachusetts Avenue,102.473,3,18.9,,,,,,,,,8615119,MA 2A
+61326743,61318535,0,False,secondary,Massachusetts Avenue,68.056,3,18.9,,,,,,,,,8615119,MA 2A
+61326775,61326621,0,True,residential,Green Street,122.599,2,12.2,,25 mph,,,,,,,387051950,
+61326788,3603121554,0,False,tertiary,Putnam Avenue,90.777,2,12.2,,25 mph,,,,,,,262288974,
+61326791,61317362,0,False,secondary,Massachusetts Avenue,72.906,3,18.9,,,,,,,,,8615119,MA 2A
+61326791,61327337,0,False,secondary,Massachusetts Avenue,37.85,3,18.9,,,,,,,,,8615119,MA 2A
+61326938,61321284,0,False,tertiary,Harvard Street,91.143,2,14.6,,,,,,,,,32540408,
+61326938,61326941,0,True,residential,Lee Street,51.995,2,12.8,,25 mph,,,,,,,8615111,
+61326941,61327535,0,True,residential,Lee Street,96.267,2,12.8,,25 mph,,,,,,,8615111,
+61327337,61326791,0,False,secondary,Massachusetts Avenue,37.85,3,18.9,,,,,,,,,8615119,MA 2A
+61327535,61327819,0,False,tertiary,Broadway,88.017,2,24.4,,,,,,,,,33720646,
+61327819,61327535,0,False,tertiary,Broadway,88.017,2,24.4,,,,,,,,,33720646,
+61327819,61325525,0,False,tertiary,Broadway,32.394,2,24.4,,,,,,,,,33720646,
+61329273,61326706,0,False,residential,Hancock Park,33.063,2,7.3,,25 mph,,,,,,,8615067,
+61329277,61325563,0,False,residential,Trowbridge Place,62.793,2,9.1,,25 mph,destination,,,,,,8615648,
+61332285,61325563,0,False,residential,Trowbridge Terrace,43.555,1,4.6,,25 mph,,,,,,,8615980,
+2338815692,61318535,0,True,primary,Mount Auburn Street,54.686,2,15.9,,25 mph,,,,,,,116884905,MA 2A
+2338815692,61318532,0,True,tertiary,Trowbridge Street,24.919,2,11.6,,,,,,,,,8614901,
+3603121554,2338815692,0,True,primary,Mount Auburn Street,12.753,2,15.9,,25 mph,,,,,,,116884905,MA 2A
+3603121554,61326788,0,False,tertiary,Putnam Avenue,90.777,2,12.2,,25 mph,,,,,,,262288974,
+4600668051,4600668052,0,False,residential,Dana Place,48.947,,,,25 mph,,,,,,,465040969,
+4600668051,61326730,0,True,residential,Dana Street,56.211,2,12.2,,25 mph,,,,,,,8615528,
+4600668052,4600668051,0,False,residential,Dana Place,48.947,,,,25 mph,,,,,,,465040969,

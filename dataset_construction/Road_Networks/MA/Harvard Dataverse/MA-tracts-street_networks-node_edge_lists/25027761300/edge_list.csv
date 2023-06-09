@@ -1,0 +1,418 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+61696608,61697299,0,False,residential,Gloucester Road,226.218,2,12.2,,,,,,,,,8654831,
+61696608,61710559,0,False,residential,Falmouth Drive,265.405,2,,,,,,,,,,8654939,
+61696608,61699984,0,False,residential,Falmouth Drive,211.854,2,,,,,,,,,,8654939,
+61696874,61700864,0,False,residential,Jordan Terrace,49.417,,12.2,,,,,,,,,8654792,
+61696874,61703136,0,False,residential,Hollywood Drive,89.313,2,12.2,,,,,,,,,8654873,
+61696874,61702483,0,False,residential,Hollywood Drive,44.774,2,12.2,,,,,,,,,8654873,
+61696960,61713289,0,False,residential,Mason Drive,154.026,2,9.1,,,,,,,,,8654718,
+61697045,61718757,0,False,residential,State Hospital Farm Road,28.477,2,30.2,,,,,,,,,8654841,
+61697113,61710798,0,False,tertiary,Institute Road,38.564,2,12.2,,,,,,,,,8654788,
+61697113,61701781,0,False,residential,Indian Path Road,339.668,2,12.2,,,,,,,,,8654848,
+61697299,61696608,0,False,residential,Gloucester Road,226.218,2,12.2,,,,,,,,,8654831,
+61697299,61710559,0,False,residential,Hingham Road,147.653,2,12.2,,,,,,,,,8654929,
+61697299,61699984,0,False,residential,Hingham Road,535.225,2,12.2,,,,,,,,,8654929,
+61697647,61713703,0,False,residential,North Main Street,347.792,2,12.2,,30 mph,,,,,,,8654799,
+61697647,61708736,0,False,residential,Westboro Road,530.581,2,12.2,,,,,,,,,"[8654824, 8654950]",
+61697647,61714744,0,False,residential,Westboro Road,245.171,2,12.2,,,,,,,,,8654824,
+61697951,61709116,0,False,residential,Sunset Lane,74.265,2,12.2,,,,,,,,,8654921,
+61697951,61703917,0,False,residential,Beverley Road,118.402,2,12.2,,,,,,,,,8654742,
+61697951,61718608,0,False,residential,Beverley Road,163.926,2,12.2,,,,,,,,,8654742,
+61697992,61713672,0,False,residential,Fairlawn Street,18.526,2,12.2,,,,,,,,,8654764,
+61697992,61704780,0,False,residential,Fairlawn Street,221.324,2,12.2,,,,,,,,,8654764,
+61697992,61712276,0,False,residential,Brigham Hill Road,181.43,2,12.2,,,,,,,,,8654822,
+61697992,61703651,0,False,residential,Brigham Hill Road,97.335,2,12.2,,,,,,,,,8654822,
+61698030,61701339,0,True,primary,Bridge Street,108.668,2;1,12.2,,,,,,,,,8654874,
+61698030,61705308,0,False,primary,Bridge Street,183.568,2,12.2,,,,,,,,,8654962,
+61698084,61712209,0,False,residential,Tracy Ann Drive,123.862,,,,30 mph,,,,,,,488325337,
+61698084,61699478,0,False,residential,Greany Drive,462.36,2,,,30 mph,,,,,,,8654727,
+61698084,61718169,0,False,residential,Tracy Ann Drive,281.835,,,,30 mph,,,,,,,488325337,
+61698263,61711505,0,False,residential,Hollywood Drive,34.542,2,12.2,,,,,,,,,8654873,
+61698263,61701518,0,False,residential,Hollywood Drive,79.933,2,12.2,,,,,,,,,8654873,
+61698263,61703299,0,False,residential,Shore Drive,207.451,2,12.2,,,,,,,,,8655009,
+61698462,61700230,0,False,secondary,Westboro Road,93.49,2,12.2,,,,,,,,,8654925,MA 30
+61698462,61701286,0,False,residential,Willard Street,127.576,2,30.2,,,,,,,,,445564129,
+61698521,61711382,0,False,residential,"['Nelson Street', 'Elm Street']",163.846,2,12.2,,30 mph,,,,,,,"[8654714, 8654812]",
+61698521,61703662,0,False,residential,Elm Street,232.177,2,12.2,,,,,,,,,8654812,
+61698521,61700989,0,False,residential,Prentice Street,286.716,2,10.1,,,,,,,,,8654875,
+61699230,61707559,0,False,tertiary,Snow Road,39.398,2,12.2,,,,,,,,,8654940,
+61699230,61704669,0,False,residential,Linda Circuit,267.038,2,12.2,,,,,,,,,8654815,
+61699230,61704669,1,False,tertiary,Snow Road,140.134,2,12.2,,,,,,,,,8654940,
+61699428,61704637,0,False,primary,Worcester Street,133.248,3,16.5,,30 mph,,,,,,,8654923,MA 122
+61699428,61703444,0,False,primary,Worcester Street,91.073,3,16.5,,30 mph,,,,,,,451953527,MA 122
+61699460,61703662,0,False,residential,Elm Street,87.171,"['2', '1']","['10.1', '12.2']",,,,,,,,,"[8654955, 8654812]",
+61699478,61704669,0,False,tertiary,Snow Road,115.773,2,12.2,,,,,,,,,8654940,
+61699478,61698084,0,False,residential,Greany Drive,462.36,2,,,30 mph,,,,,,,8654727,
+61699478,61718169,0,False,tertiary,Snow Road,227.447,2,12.2,,,,,,,,,8654940,
+61699984,61702082,0,False,residential,Hingham Road,86.418,2,12.2,,,,,,,,,8654929,
+61699984,61697299,0,False,residential,Hingham Road,535.225,2,12.2,,,,,,,,,8654929,
+61699984,61696608,0,False,residential,Falmouth Drive,211.854,2,,,,,,,,,,8654939,
+61700087,61713745,0,False,residential,Airport Road,157.483,2,12.2,,,,,,,,,8654878,
+61700087,61702082,0,False,residential,Airport Road,468.985,2,12.2,,,,,,,,,8654878,
+61700087,61710559,0,False,residential,Hingham Road,80.914,2,12.2,,,,,,,,,8654929,
+61700096,61704140,0,False,residential,Manning Lane,91.345,,,,,,,,,,,8655138,
+61700205,61709280,0,False,residential,Bailin Circle,73.264,,,,,,,,,,,8655217,
+61700205,61712276,0,False,tertiary,Deernolm Street,99.781,2,12.2,,,,,,,,,8654741,
+61700230,61701286,0,False,residential,Willard Street,39.116,1,30.2,,,,,,,,,8654919,
+61700230,61698462,0,False,secondary,Westboro Road,93.49,2,12.2,,,,,,,,,8654925,MA 30
+61700230,61706168,0,False,secondary,Westboro Road,304.61,2,12.2,,,,,,,,,8654925,MA 30
+61700367,61716660,0,False,residential,Perry Hill Road,46.058,2,12.2,,,,,,,,,8654953,
+61700367,61714762,0,False,residential,School Street Number One,99.866,1,10.1,,,,,,,,,8654731,
+61700367,61700978,0,False,residential,Perry Hill Road,96.426,2,12.2,,,,,,,,,8654953,
+61700532,61708920,0,False,secondary,Waterville Street,82.056,2,15.2,,,,,,,,,8654730,MA 30
+61700532,61717273,0,False,secondary,Waterville Street,113.067,2,15.2,,,,,,,,,8654730,MA 30
+61700532,61702430,0,False,residential,Leland Avenue,288.379,2,10.1,,,,,,,,,8654791,
+61700586,2673511876,0,False,tertiary,Creeper Hill Road,598.847,2,12.2,,30 mph,,,,,,,"[8655017, 8654895]",
+61700586,61705730,0,False,tertiary,Creeper Hill Road,535.222,2,12.2,,30 mph,,,,,,,8654895,
+61700586,61714188,0,False,residential,Faulkner Road,423.17,,,,,,,,,,,8655153,
+61700861,61713650,0,False,residential,Brigham Hill Road,200.347,2,12.2,,,,,,,,,8654822,
+61700861,61702265,0,False,residential,Kay Street,127.266,2,15.2,,,,,,,,,8654959,
+61700864,61696874,0,False,residential,Jordan Terrace,49.417,,12.2,,,,,,,,,8654792,
+61700864,61702483,0,False,residential,Jordan Terrace,30.336,2,12.2,,,,,,,,,8654724,
+61700864,61718608,0,False,residential,Jordan Terrace,125.661,2,12.2,,,,,,,,,8654724,
+61700877,61714762,0,False,residential,Overlook Street,115.222,2,10.1,,,,,,,,,8654765,
+61700877,61704454,0,False,primary,North Main Street,72.128,2,12.2,,30 mph,,,,,,,8654999,MA 30;MA 140
+61700877,61707944,0,False,primary,North Main Street,59.462,2,12.2,,30 mph,,,,,,,8654999,MA 30;MA 140
+61700978,61700367,0,False,residential,Perry Hill Road,96.426,2,12.2,,,,,,,,,8654953,
+61700978,61706990,0,False,primary,North Main Street,92.77,2,12.2,,30 mph,,,,,,,8654999,MA 30;MA 140
+61700978,61704454,0,False,primary,North Main Street,32.833,2,12.2,,30 mph,,,,,,,8654999,MA 30;MA 140
+61700989,61698521,0,False,residential,Prentice Street,286.716,2,10.1,,,,,,,,,8654875,
+61700989,61703010,0,False,residential,Prentice Street,187.284,2,10.1,,,,,,,,,8654875,
+61700989,61703662,0,False,primary,Shrewsbury Street,158.677,2,15.2,,35 mph,,,,,,,8654961,MA 140
+61700989,61701095,0,False,primary,Shrewsbury Street,358.024,2,15.2,,35 mph,,,,,,,8654961,MA 140
+61701095,61708546,0,False,residential,Nelson Street,207.187,2,12.2,,30 mph,,,,,,,8654714,
+61701095,61715143,0,False,tertiary,Nelson Street,54.504,2,12.2,,30 mph,,,,,,,8654936,
+61701095,61700989,0,False,primary,Shrewsbury Street,358.024,2,15.2,,35 mph,,,,,,,8654961,MA 140
+61701169,61711922,0,False,residential,Williams Road,86.769,2,12.2,,,,,,,,,8654814,
+61701169,61704430,0,False,residential,Williams Road,39.695,2,12.2,,,,,,,,,8654814,
+61701169,61703670,0,False,residential,Amherst Road,203.541,2,12.2,,,,,,,,,8655262,
+61701286,61710291,0,False,residential,Willard Street,64.591,2,30.2,,,,,,,,,445564129,
+61701286,61700230,0,False,residential,Willard Street,39.116,1,30.2,,,,,,,,,8654919,
+61701286,61698462,0,False,residential,Willard Street,127.576,2,30.2,,,,,,,,,445564129,
+61701290,61705428,0,False,residential,Northgate Court,164.913,,,,,,,,,,,8655130,
+61701339,61717771,0,False,primary,Worcester Street,266.299,2,16.5,,35 mph,,,,,,,8654948,MA 122
+61701339,61704637,0,False,primary,Worcester Street,92.148,2,16.5,,35 mph,,,,,,,451953528,MA 122
+61701518,61698263,0,False,residential,Hollywood Drive,79.933,2,12.2,,,,,,,,,8654873,
+61701518,61704841,0,False,residential,Hollywood Drive,83.098,2,12.2,,,,,,,,,8654873,
+61701518,61709116,0,False,residential,Lake View Drive,182.432,2,12.2,,,,,,,,,8654957,
+61701528,61701763,0,False,residential,Overlook Street,65.376,2,10.1,,,,,,,,,8654765,
+61701727,61702511,0,False,residential,,262.7,,,,,,,,,,,8655154,
+61701763,61714762,0,False,residential,Overlook Street,51.077,2,10.1,,,,,,,,,8654765,
+61701763,61701528,0,False,residential,Overlook Street,65.376,2,10.1,,,,,,,,,8654765,
+61701763,61716660,0,False,residential,High Street,96.396,2,10.1,,,,,,,,,8654964,
+61701781,61701781,0,False,residential,Indian Path Road,88.579,2,12.2,,,,,,,,,8654848,
+61701781,61701781,1,False,residential,Indian Path Road,88.579,2,12.2,,,,,,,,,8654848,
+61701781,61697113,0,False,residential,Indian Path Road,339.668,2,12.2,,,,,,,,,8654848,
+61701781,61714822,0,False,residential,,273.982,,,,,,,,,,,8655142,
+61701965,61703928,0,False,residential,Parmenter Crossing,252.074,1,4.9,,,,,,,,,8654760,
+61701965,61716839,0,False,secondary,Westboro Road,326.159,2,12.2,,,,,,,,,8654925,MA 30
+61701965,61711417,0,False,secondary,Westboro Road,466.257,2,12.2,,,,,,,,,8654925,MA 30
+61701966,61705428,0,False,residential,Hovey Pond Drive,161.018,,,,,,,,,,,445564125,
+61702082,61699984,0,False,residential,Hingham Road,86.418,2,12.2,,,,,,,,,8654929,
+61702082,61718796,0,False,residential,Bedford Drive,395.723,2,12.2,,,,,,,,,8654816,
+61702082,61700087,0,False,residential,Airport Road,468.985,2,12.2,,,,,,,,,8654878,
+61702265,61717073,0,False,residential,Elizabeth Street,189.522,2,15.2,,,,,,,,,8654794,
+61702265,61716577,0,False,residential,"['Kay Street', 'Francis Street']",238.815,2,15.2,,,,,,,,,"[8654918, 8654959]",
+61702265,61700861,0,False,residential,Kay Street,127.266,2,15.2,,,,,,,,,8654959,
+61702318,61707609,0,False,residential,Second Street,195.46,2,12.2,,,,,,,,,8654944,
+61702430,61708920,0,False,secondary,Waterville Street,129.327,2,15.2,,,,,,,,,8654730,MA 30
+61702430,61700532,0,False,residential,Leland Avenue,288.379,2,10.1,,,,,,,,,8654791,
+61702430,61718097,0,False,secondary,Waterville Street,348.062,2,12.2,,,,,,,,,8654839,MA 30
+61702430,61712033,0,False,residential,,16.319,,,,,,,,,,,8655079,
+61702437,61718604,0,False,residential,Grafton State Hospital Road,61.125,2,30.2,,,,,,,,,8654817,
+61702437,61716839,0,False,residential,Institute Road,509.864,2,12.2,,,,,,,,,8654889,
+61702437,61706135,0,False,residential,Institute Road,430.982,2,12.2,,,,,,,,,8654889,
+61702483,61700864,0,False,residential,Jordan Terrace,30.336,2,12.2,,,,,,,,,8654724,
+61702483,61696874,0,False,residential,Hollywood Drive,44.774,2,12.2,,,,,,,,,8654873,
+61702483,61708523,0,False,residential,Hollywood Drive,182.114,2,12.2,,,,,,,,,8654873,
+61702494,61709506,0,False,tertiary,East Street,34.753,2,12.2,,,,,,,,,8654771,
+61702494,61707559,0,False,tertiary,East Street,422.096,2,12.2,,,,,,,,,8654771,
+61702494,61709405,0,False,residential,Harrison Avenue,89.476,2,10.1,,,,,,,,,8655007,
+61702511,61718012,0,False,secondary,Waterville Street,176.639,2,12.2,,,,,,,,,8654839,MA 30
+61702511,61718097,0,False,secondary,Waterville Street,97.025,2,12.2,,,,,,,,,8654839,MA 30
+61702511,61701727,0,False,residential,,262.7,,,,,,,,,,,8655154,
+61702654,61716660,0,False,residential,High Street,523.938,2,10.1,,,,,,,,,8654964,
+61702654,61713703,0,False,primary,North Main Street,36.305,2,12.2,,35 mph,,,,,,,8654998,MA 140
+61702654,61706990,0,False,primary,North Main Street,439.25,2,12.2,,35 mph,,,,,,,8654998,MA 140
+61703010,61700989,0,False,residential,Prentice Street,187.284,2,10.1,,,,,,,,,8654875,
+61703010,61715143,0,False,tertiary,Creeper Hill Road,346.858,2,12.2,,30 mph,,,,,,,"[8654896, 8655018]",
+61703010,61709728,0,False,tertiary,Creeper Hill Road,183.26,2,12.2,,30 mph,,,,,,,8655017,
+61703136,61703917,0,False,residential,Beverley Road,30.218,,12.2,,,,,,,,,8654784,
+61703136,61704841,0,False,residential,Hollywood Drive,32.446,2,12.2,,,,,,,,,8654873,
+61703136,61696874,0,False,residential,Hollywood Drive,89.313,2,12.2,,,,,,,,,8654873,
+61703217,61706828,0,False,tertiary,Pine Street,118.029,2,10.1,,,,,,,,,34963754,
+61703299,61716516,0,False,residential,Sunset Lane,38.669,2,12.2,,,,,,,,,8654921,
+61703299,61709116,0,False,residential,Sunset Lane,76.862,2,12.2,,,,,,,,,8654921,
+61703299,61698263,0,False,residential,Shore Drive,207.451,2,12.2,,,,,,,,,8655009,
+61703444,61718299,0,False,primary,North Main Street,58.75,3,13.7,,30 mph,,,,,,,8654846,MA 30;MA 140
+61703444,61699428,0,False,primary,Worcester Street,91.073,3,16.5,,30 mph,,,,,,,451953527,MA 122
+61703651,61718710,0,False,residential,Brigham Hill Road,14.125,2,12.2,,,,,,,,,8654822,
+61703651,61697992,0,False,residential,Brigham Hill Road,97.335,2,12.2,,,,,,,,,8654822,
+61703651,61716643,0,False,residential,Maplewood Drive,363.716,2,20.1,,,,,,,,,8655006,
+61703662,61698521,0,False,residential,Elm Street,232.177,2,12.2,,,,,,,,,8654812,
+61703662,61699460,0,False,residential,Elm Street,87.171,"['2', '1']","['10.1', '12.2']",,,,,,,,,"[8654955, 8654812]",
+61703662,61704140,0,False,primary,Shrewsbury Street,22.661,2,15.2,,35 mph,,,,,,,8654961,MA 140
+61703662,61700989,0,False,primary,Shrewsbury Street,158.677,2,15.2,,35 mph,,,,,,,8654961,MA 140
+61703670,61712321,0,False,residential,Harvard Street,75.96,2,12.2,,,,,,,,,8654781,
+61703670,61701169,0,False,residential,Amherst Road,203.541,2,12.2,,,,,,,,,8655262,
+61703670,61705128,0,False,residential,Amherst Road,173.672,"['2', '1']",12.2,,,,,,,,,"[8654912, 8655262]",
+61703917,61704841,0,False,residential,Beverley Road,35.774,2,12.2,,,,,,,,,8654742,
+61703917,61697951,0,False,residential,Beverley Road,118.402,2,12.2,,,,,,,,,8654742,
+61703917,61703136,0,False,residential,Beverley Road,30.218,,12.2,,,,,,,,,8654784,
+61703928,61701965,0,False,residential,Parmenter Crossing,252.074,1,4.9,,,,,,,,,8654760,
+61704043,61708523,0,False,residential,Hollywood Drive,117.679,2,12.2,,,,,,,,,8654873,
+61704043,61705428,0,False,primary,Worcester Street,288.287,2,16.5,,35 mph,,,,,,,8654948,MA 122
+61704043,61710183,0,False,primary,Worcester Street,130.339,2,16.5,,35 mph,,,,,,,8654948,MA 122
+61704140,61714744,0,False,primary,Shrewsbury Street,162.107,2,15.2,,35 mph,,,yes,,,,"[137619408, 8654961, 137619412]",MA 140
+61704140,61703662,0,False,primary,Shrewsbury Street,22.661,2,15.2,,35 mph,,,,,,,8654961,MA 140
+61704140,61700096,0,False,residential,Manning Lane,91.345,,,,,,,,,,,8655138,
+61704430,61717544,0,False,residential,Hawthorne Street,82.92,2,12.2,,,,,,,,,8654810,
+61704430,61701169,0,False,residential,Williams Road,39.695,2,12.2,,,,,,,,,8654814,
+61704430,61706458,0,False,residential,Williams Road,198.314,2,12.2,,,,,,,,,8654814,
+61704454,61709405,0,False,residential,Ray Street,201.961,2,10.1,,,,,,,,,8654860,
+61704454,61700978,0,False,primary,North Main Street,32.833,2,12.2,,30 mph,,,,,,,8654999,MA 30;MA 140
+61704454,61700877,0,False,primary,North Main Street,72.128,2,12.2,,30 mph,,,,,,,8654999,MA 30;MA 140
+61704637,61699428,0,False,primary,Worcester Street,133.248,3,16.5,,30 mph,,,,,,,8654923,MA 122
+61704637,61698030,0,True,primary,Bridge Street,29.098,,12.2,,,,,,,,,8654926,
+61704637,61701339,0,False,primary,Worcester Street,92.148,2,16.5,,35 mph,,,,,,,451953528,MA 122
+61704669,61699478,0,False,tertiary,Snow Road,115.773,2,12.2,,,,,,,,,8654940,
+61704669,61699230,0,False,residential,Linda Circuit,267.038,2,12.2,,,,,,,,,8654815,
+61704669,61699230,1,False,tertiary,Snow Road,140.134,2,12.2,,,,,,,,,8654940,
+61704739,1509380400,0,False,residential,,20.009,2,30.2,,,,,,,,,8654880,
+61704780,61712321,0,False,tertiary,Deernolm Street,33.289,2,12.2,,,,,,,,,8654741,
+61704780,61712276,0,False,tertiary,Deernolm Street,230.107,2,12.2,,,,,,,,,8654741,
+61704780,61697992,0,False,residential,Fairlawn Street,221.324,2,12.2,,,,,,,,,8654764,
+61704841,61703917,0,False,residential,Beverley Road,35.774,2,12.2,,,,,,,,,8654742,
+61704841,61701518,0,False,residential,Hollywood Drive,83.098,2,12.2,,,,,,,,,8654873,
+61704841,61703136,0,False,residential,Hollywood Drive,32.446,2,12.2,,,,,,,,,8654873,
+61704937,61716577,0,False,residential,"['Martin Drive', 'Jay Street']",260.651,2,12.2,,,,,,,,,"[8654883, 8654811]",
+61704940,61704940,0,False,residential,Millenium Drive,79.614,2,15.2,,30 mph,,,,,,,8654779,
+61704940,61704940,1,False,residential,Millenium Drive,79.614,2,15.2,,30 mph,,,,,,,8654779,
+61704940,61713015,0,False,residential,Millenium Drive,300.111,2,15.2,,30 mph,,,,,,,8654779,
+61705020,61710005,0,False,residential,Old Sawmill Road,227.756,1,12.2,,,,,,,,,8654892,
+61705128,61703670,0,False,residential,Amherst Road,173.672,"['2', '1']",12.2,,,,,,,,,"[8654912, 8655262]",
+61705308,61698030,0,False,primary,Bridge Street,183.568,2,12.2,,,,,,,,,8654962,
+61705308,61707944,0,False,primary,North Main Street,66.94,2,12.2,,30 mph,,,,,,,8654999,MA 30;MA 140
+61705308,61718299,0,False,primary,North Main Street,141.953,"['2', '3']","['13.7', '12.2']",,30 mph,,,,,,,"[8654846, 8654999]",MA 30;MA 140
+61705428,61718851,0,False,primary,Worcester Street,93.081,2,16.5,,35 mph,,,,,,,8654948,MA 122
+61705428,61704043,0,False,primary,Worcester Street,288.287,2,16.5,,35 mph,,,,,,,8654948,MA 122
+61705428,61701290,0,False,residential,Northgate Court,164.913,,,,,,,,,,,8655130,
+61705428,61701966,0,False,residential,Hovey Pond Drive,161.018,,,,,,,,,,,445564125,
+61705730,61700586,0,False,tertiary,Creeper Hill Road,535.222,2,12.2,,30 mph,,,,,,,8654895,
+61706062,61716643,0,False,tertiary,Deernolm Street,22.516,2,12.2,,,,,,,,,8654741,
+61706062,61712376,0,False,primary,Worcester Street,47.363,2,16.5,,35 mph,,,,,,,8654948,MA 122
+61706062,61718710,0,False,primary,Worcester Street,354.779,2,16.5,,35 mph,,,,,,,8654948,MA 122
+61706135,61716923,0,False,tertiary,East Street,150.762,2,12.2,,,,,,,,,8654771,
+61706135,61710798,0,False,tertiary,Institute Road,494.893,2,12.2,,,,,,,,,8654788,
+61706135,61702437,0,False,residential,Institute Road,430.982,2,12.2,,,,,,,,,8654889,
+61706168,61700230,0,False,secondary,Westboro Road,304.61,2,12.2,,,,,,,,,8654925,MA 30
+61706168,61713930,0,False,secondary,Westboro Road,299.879,2,12.2,,,,,,,,,8654925,MA 30
+61706168,61710983,0,False,residential,Grafton State Hospital Road,704.753,2,30.2,,,,,,,,,371621176,
+61706458,61704430,0,False,residential,Williams Road,198.314,2,12.2,,,,,,,,,8654814,
+61706828,61713015,0,False,residential,Centennial Drive,174.442,2,24.4,,30 mph,,,,,,,8654909,
+61706828,61703217,0,False,tertiary,Pine Street,118.029,2,10.1,,,,,,,,,34963754,
+61706828,61713930,0,False,tertiary,Pine Street,348.997,2,10.1,,,,,yes,,,,"[34963753, 34963754, 8654956]",
+61706990,61717273,0,False,secondary,Waterville Street,19.278,2,15.2,,,,,,,,,8654730,MA 30
+61706990,61702654,0,False,primary,North Main Street,439.25,2,12.2,,35 mph,,,,,,,8654998,MA 140
+61706990,61700978,0,False,primary,North Main Street,92.77,2,12.2,,30 mph,,,,,,,8654999,MA 30;MA 140
+61707034,61708546,0,False,residential,Nelson Place,116.345,,,,,,,,,,,8655158,
+61707176,61707176,0,False,residential,Centennial Drive,69.278,2,24.4,,30 mph,,,,,,,8654909,
+61707176,61707176,1,False,residential,Centennial Drive,69.278,2,24.4,,30 mph,,,,,,,8654909,
+61707176,61713015,0,False,residential,Centennial Drive,303.884,2,24.4,,30 mph,,,,,,,8654909,
+61707381,61710183,0,False,residential,Donahue Lane,441.075,,,,,,,,,,,8655126,
+61707559,61699230,0,False,tertiary,Snow Road,39.398,2,12.2,,,,,,,,,8654940,
+61707559,61710005,0,False,tertiary,East Street,94.544,2,12.2,,,,,,,,,8654771,
+61707559,61702494,0,False,tertiary,East Street,422.096,2,12.2,,,,,,,,,8654771,
+61707609,61718971,0,False,residential,Anderson Lane,157.923,2,12.2,,,,,,,,,8654766,
+61707609,61702318,0,False,residential,Second Street,195.46,2,12.2,,,,,,,,,8654944,
+61707609,61716660,0,False,residential,Second Street,154.233,2,12.2,,,,,,,,,"[8654944, 8654928]",
+61707883,61710183,0,False,primary,Worcester Street,17.69,2,16.5,,35 mph,,,,,,,8654948,MA 122
+61707883,61711922,0,False,primary,Worcester Street,69.79,2,16.5,,35 mph,,,,,,,8654948,MA 122
+61707883,61717544,0,False,residential,Joncas Terrace,140.76,,,,,,,,,,,8655124,
+61707944,61717314,0,False,residential,Mill Street,211.449,2,10.1,,,,,,,,,8654713,
+61707944,61700877,0,False,primary,North Main Street,59.462,2,12.2,,30 mph,,,,,,,8654999,MA 30;MA 140
+61707944,61705308,0,False,primary,North Main Street,66.94,2,12.2,,30 mph,,,,,,,8654999,MA 30;MA 140
+61708523,61718608,0,False,residential,Beverley Road,85.816,2,12.2,,,,,,,,,8654742,
+61708523,61702483,0,False,residential,Hollywood Drive,182.114,2,12.2,,,,,,,,,8654873,
+61708523,61704043,0,False,residential,Hollywood Drive,117.679,2,12.2,,,,,,,,,8654873,
+61708546,61707034,0,False,residential,Nelson Place,116.345,,,,,,,,,,,8655158,
+61708546,61701095,0,False,residential,Nelson Street,207.187,2,12.2,,30 mph,,,,,,,8654714,
+61708546,61711382,0,False,residential,Nelson Street,197.055,2,12.2,,30 mph,,,,,,,8654714,
+61708736,61718012,0,False,residential,Waterville Street Extension,64.509,2,12.2,,,,,,,,,8654758,
+61708736,61711417,0,False,residential,Westboro Road,94.166,2,12.2,,,,,,,,,8654950,
+61708736,61697647,0,False,residential,Westboro Road,530.581,2,12.2,,,,,,,,,"[8654824, 8654950]",
+61708920,61702430,0,False,secondary,Waterville Street,129.327,2,15.2,,,,,,,,,8654730,MA 30
+61708920,61700532,0,False,secondary,Waterville Street,82.056,2,15.2,,,,,,,,,8654730,MA 30
+61708920,61709506,0,False,residential,Prospect Street,248.999,2,12.2,,,,,,,,,8654992,
+61709116,61703299,0,False,residential,Sunset Lane,76.862,2,12.2,,,,,,,,,8654921,
+61709116,61697951,0,False,residential,Sunset Lane,74.265,2,12.2,,,,,,,,,8654921,
+61709116,61701518,0,False,residential,Lake View Drive,182.432,2,12.2,,,,,,,,,8654957,
+61709280,61700205,0,False,residential,Bailin Circle,73.264,,,,,,,,,,,8655217,
+61709280,61709280,0,False,residential,Bailin Circle,91.743,,,,,,,,,,,8655217,
+61709280,61709280,1,False,residential,Bailin Circle,91.743,,,,,,,,,,,8655217,
+61709405,61714276,0,False,residential,Harrison Avenue,19.053,2,10.1,,,,,,,,,8655007,
+61709405,61704454,0,False,residential,Ray Street,201.961,2,10.1,,,,,,,,,8654860,
+61709405,61702494,0,False,residential,Harrison Avenue,89.476,2,10.1,,,,,,,,,8655007,
+61709506,61702494,0,False,tertiary,East Street,34.753,2,12.2,,,,,,,,,8654771,
+61709506,61717273,0,False,tertiary,East Street,187.078,2,12.2,,,,,,,,,8654771,
+61709506,61708920,0,False,residential,Prospect Street,248.999,2,12.2,,,,,,,,,8654992,
+61709728,61709741,0,False,residential,Mathew Circle,149.193,2,15.2,,30 mph,,,,,,,8654934,
+61709728,61703010,0,False,tertiary,Creeper Hill Road,183.26,2,12.2,,30 mph,,,,,,,8655017,
+61709728,2673511876,0,False,tertiary,Creeper Hill Road,142.779,2,12.2,,30 mph,,,,,,,8655017,
+61709741,61709728,0,False,residential,Mathew Circle,149.193,2,15.2,,30 mph,,,,,,,8654934,
+61710005,61718136,0,False,tertiary,East Street,68.558,2,12.2,,,,,,,,,8654771,
+61710005,61707559,0,False,tertiary,East Street,94.544,2,12.2,,,,,,,,,8654771,
+61710005,61705020,0,False,residential,Old Sawmill Road,227.756,1,12.2,,,,,,,,,8654892,
+61710183,61707883,0,False,primary,Worcester Street,17.69,2,16.5,,35 mph,,,,,,,8654948,MA 122
+61710183,61704043,0,False,primary,Worcester Street,130.339,2,16.5,,35 mph,,,,,,,8654948,MA 122
+61710183,61707381,0,False,residential,Donahue Lane,441.075,,,,,,,,,,,8655126,
+61710291,61701286,0,False,residential,Willard Street,64.591,2,30.2,,,,,,,,,445564129,
+61710559,61700087,0,False,residential,Hingham Road,80.914,2,12.2,,,,,,,,,8654929,
+61710559,61697299,0,False,residential,Hingham Road,147.653,2,12.2,,,,,,,,,8654929,
+61710559,61696608,0,False,residential,Falmouth Drive,265.405,2,,,,,,,,,,8654939,
+61710773,61717153,0,False,residential,"['Grafton State Hospital Road', 'Grafton State Hospital Road Branch']",517.617,"['2', '1']",30.2,,,,,,,,,"[8654817, 8654772]",
+61710773,61713930,0,False,secondary,Westboro Road,542.372,2,12.2,,,,,,,,,8654925,MA 30
+61710773,61716839,0,False,secondary,Westboro Road,501.12,2,12.2,,,,,,,,,8654925,MA 30
+61710798,61706135,0,False,tertiary,Institute Road,494.893,2,12.2,,,,,,,,,8654788,
+61710798,61697113,0,False,tertiary,Institute Road,38.564,2,12.2,,,,,,,,,8654788,
+61710983,61706168,0,False,residential,Grafton State Hospital Road,704.753,2,30.2,,,,,,,,,371621176,
+61711382,61708546,0,False,residential,Nelson Street,197.055,2,12.2,,30 mph,,,,,,,8654714,
+61711382,61698521,0,False,residential,"['Nelson Street', 'Elm Street']",163.846,2,12.2,,30 mph,,,,,,,"[8654714, 8654812]",
+61711382,61717494,0,False,residential,Windle Avenue,182.123,2,10.1,,,,,,,,,8654917,
+61711417,61718012,0,False,secondary,Waterville Street,104.609,2,12.2,,,,,,,,,8654839,MA 30
+61711417,61701965,0,False,secondary,Westboro Road,466.257,2,12.2,,,,,,,,,8654925,MA 30
+61711417,61708736,0,False,residential,Westboro Road,94.166,2,12.2,,,,,,,,,8654950,
+61711505,61698263,0,False,residential,Hollywood Drive,34.542,2,12.2,,,,,,,,,8654873,
+61711820,61718136,0,False,residential,Kaye Circle,43.975,2,12.2,,,,,,,,,8654914,
+61711820,61711820,0,False,residential,Kaye Circle,507.514,2,12.2,,,,,,,,,8654914,
+61711820,61711820,1,False,residential,Kaye Circle,507.514,2,12.2,,,,,,,,,8654914,
+61711922,61701169,0,False,residential,Williams Road,86.769,2,12.2,,,,,,,,,8654814,
+61711922,61707883,0,False,primary,Worcester Street,69.79,2,16.5,,35 mph,,,,,,,8654948,MA 122
+61711922,61712376,0,False,primary,Worcester Street,116.046,2,16.5,,35 mph,,,,,,,8654948,MA 122
+61711923,61715169,0,False,residential,Hilltop Street,94.35,2,12.2,,,,,,,,,8654753,
+61711923,61713672,0,False,residential,Hilltop Street,497.062,2,12.2,,,,,,,,,"[8654753, 8654994]",
+61711923,61713672,1,False,residential,Fairlawn Street,287.267,2,12.2,,,,,,,,,8654764,
+61712033,61702430,0,False,residential,,16.319,,,,,,,,,,,8655079,
+61712209,61698084,0,False,residential,Tracy Ann Drive,123.862,,,,30 mph,,,,,,,488325337,
+61712276,61704780,0,False,tertiary,Deernolm Street,230.107,2,12.2,,,,,,,,,8654741,
+61712276,61700205,0,False,tertiary,Deernolm Street,99.781,2,12.2,,,,,,,,,8654741,
+61712276,61713650,0,False,residential,Brigham Hill Road,208.739,2,12.2,,,,,,,,,8654822,
+61712276,61697992,0,False,residential,Brigham Hill Road,181.43,2,12.2,,,,,,,,,8654822,
+61712321,61703670,0,False,residential,Harvard Street,75.96,2,12.2,,,,,,,,,8654781,
+61712321,61715785,0,False,tertiary,Deernolm Street,82.147,2,12.2,,,,,,,,,8654741,
+61712321,61704780,0,False,tertiary,Deernolm Street,33.289,2,12.2,,,,,,,,,8654741,
+61712376,61711922,0,False,primary,Worcester Street,116.046,2,16.5,,35 mph,,,,,,,8654948,MA 122
+61712376,61706062,0,False,primary,Worcester Street,47.363,2,16.5,,35 mph,,,,,,,8654948,MA 122
+61712376,61715785,0,False,tertiary,Deernolm Street,51.959,,12.2,,,,,,,,,8655010,
+61713015,61704940,0,False,residential,Millenium Drive,300.111,2,15.2,,30 mph,,,,,,,8654779,
+61713015,61706828,0,False,residential,Centennial Drive,174.442,2,24.4,,30 mph,,,,,,,8654909,
+61713015,61707176,0,False,residential,Centennial Drive,303.884,2,24.4,,30 mph,,,,,,,8654909,
+61713289,61696960,0,False,residential,Mason Drive,154.026,2,9.1,,,,,,,,,8654718,
+61713289,61717544,0,False,residential,Hawthorne Street,335.075,2,12.2,,,,,,,,,8654810,
+61713289,61717544,1,False,residential,Hawthorne Street,195.108,2,12.2,,,,,,,,,8654810,
+61713650,61700861,0,False,residential,Brigham Hill Road,200.347,2,12.2,,,,,,,,,8654822,
+61713650,61712276,0,False,residential,Brigham Hill Road,208.739,2,12.2,,,,,,,,,8654822,
+61713650,61717073,0,False,residential,Jay Street,123.063,2,12.2,,,,,,,,,8654883,
+61713672,61697992,0,False,residential,Fairlawn Street,18.526,2,12.2,,,,,,,,,8654764,
+61713672,61711923,0,False,residential,Fairlawn Street,287.267,2,12.2,,,,,,,,,8654764,
+61713672,61711923,1,False,residential,Hilltop Street,497.062,2,12.2,,,,,,,,,"[8654753, 8654994]",
+61713703,61697647,0,False,residential,North Main Street,347.792,2,12.2,,30 mph,,,,,,,8654799,
+61713703,61702654,0,False,primary,North Main Street,36.305,2,12.2,,35 mph,,,,,,,8654998,MA 140
+61713703,61714744,0,False,primary,Shrewsbury Street,337.618,2,15.2,,35 mph,,,,,,,137619412,MA 140
+61713725,61718097,0,False,residential,,153.406,,,,,,,,,,,8655084,
+61713745,61718851,0,False,residential,Airport Road,24.887,2,12.2,,,,,,,,,8654878,
+61713745,61700087,0,False,residential,Airport Road,157.483,2,12.2,,,,,,,,,8654878,
+61713745,61717771,0,False,residential,Airport Road,31.528,,12.2,,,,,,,,,8654910,
+61713930,61706168,0,False,secondary,Westboro Road,299.879,2,12.2,,,,,,,,,8654925,MA 30
+61713930,61710773,0,False,secondary,Westboro Road,542.372,2,12.2,,,,,,,,,8654925,MA 30
+61713930,61706828,0,False,tertiary,Pine Street,348.997,2,10.1,,,,,yes,,,,"[34963753, 34963754, 8654956]",
+61714188,61700586,0,False,residential,Faulkner Road,423.17,,,,,,,,,,,8655153,
+61714276,61709405,0,False,residential,Harrison Avenue,19.053,2,10.1,,,,,,,,,8655007,
+61714744,61697647,0,False,residential,Westboro Road,245.171,2,12.2,,,,,,,,,8654824,
+61714744,61713703,0,False,primary,Shrewsbury Street,337.618,2,15.2,,35 mph,,,,,,,137619412,MA 140
+61714744,61704140,0,False,primary,Shrewsbury Street,162.107,2,15.2,,35 mph,,,yes,,,,"[137619408, 8654961, 137619412]",MA 140
+61714762,61701763,0,False,residential,Overlook Street,51.077,2,10.1,,,,,,,,,8654765,
+61714762,61700367,0,False,residential,School Street Number One,99.866,1,10.1,,,,,,,,,8654731,
+61714762,61700877,0,False,residential,Overlook Street,115.222,2,10.1,,,,,,,,,8654765,
+61714822,61701781,0,False,residential,,273.982,,,,,,,,,,,8655142,
+61715143,61701095,0,False,tertiary,Nelson Street,54.504,2,12.2,,30 mph,,,,,,,8654936,
+61715143,61703010,0,False,tertiary,Creeper Hill Road,346.858,2,12.2,,30 mph,,,,,,,"[8654896, 8655018]",
+61715169,61711923,0,False,residential,Hilltop Street,94.35,2,12.2,,,,,,,,,8654753,
+61715169,61718710,0,False,primary,Worcester Street,269.378,2,16.5,,35 mph,,,,,,,8654948,MA 122
+61715785,61716643,0,False,tertiary,Deernolm Street,18.704,2,12.2,,,,,,,,,8654741,
+61715785,61712321,0,False,tertiary,Deernolm Street,82.147,2,12.2,,,,,,,,,8654741,
+61715785,61712376,0,False,tertiary,Deernolm Street,51.959,,12.2,,,,,,,,,8655010,
+61716516,61703299,0,False,residential,Sunset Lane,38.669,2,12.2,,,,,,,,,8654921,
+61716577,61704937,0,False,residential,"['Martin Drive', 'Jay Street']",260.651,2,12.2,,,,,,,,,"[8654883, 8654811]",
+61716577,61717073,0,False,residential,Jay Street,78.765,2,12.2,,,,,,,,,8654883,
+61716577,61702265,0,False,residential,"['Kay Street', 'Francis Street']",238.815,2,15.2,,,,,,,,,"[8654918, 8654959]",
+61716643,61706062,0,False,tertiary,Deernolm Street,22.516,2,12.2,,,,,,,,,8654741,
+61716643,61715785,0,False,tertiary,Deernolm Street,18.704,2,12.2,,,,,,,,,8654741,
+61716643,61703651,0,False,residential,Maplewood Drive,363.716,2,20.1,,,,,,,,,8655006,
+61716660,61700367,0,False,residential,Perry Hill Road,46.058,2,12.2,,,,,,,,,8654953,
+61716660,61707609,0,False,residential,Second Street,154.233,2,12.2,,,,,,,,,"[8654928, 8654944]",
+61716660,61702654,0,False,residential,High Street,523.938,2,10.1,,,,,,,,,8654964,
+61716660,61701763,0,False,residential,High Street,96.396,2,10.1,,,,,,,,,8654964,
+61716839,61702437,0,False,residential,Institute Road,509.864,2,12.2,,,,,,,,,8654889,
+61716839,61710773,0,False,secondary,Westboro Road,501.12,2,12.2,,,,,,,,,8654925,MA 30
+61716839,61701965,0,False,secondary,Westboro Road,326.159,2,12.2,,,,,,,,,8654925,MA 30
+61716923,61706135,0,False,tertiary,East Street,150.762,2,12.2,,,,,,,,,8654771,
+61716923,61718666,0,False,tertiary,East Street,337.388,2,12.2,,,,,,,,,8654771,
+61716923,61718666,1,False,residential,Apple Ridge Lane,360.204,1,12.2,,,,,,,,,8654916,
+61717073,61702265,0,False,residential,Elizabeth Street,189.522,2,15.2,,,,,,,,,8654794,
+61717073,61716577,0,False,residential,Jay Street,78.765,2,12.2,,,,,,,,,8654883,
+61717073,61713650,0,False,residential,Jay Street,123.063,2,12.2,,,,,,,,,8654883,
+61717153,61710773,0,False,residential,"['Grafton State Hospital Road', 'Grafton State Hospital Road Branch']",517.617,"['2', '1']",30.2,,,,,,,,,"[8654817, 8654772]",
+61717153,61718604,0,False,residential,Grafton State Hospital Road,201.699,2,30.2,,,,,,,,,8654817,
+61717153,61718604,1,False,residential,Grafton State Hospital Road Circle,629.689,2,30.2,,,,,,,,,8654843,
+61717273,61706990,0,False,secondary,Waterville Street,19.278,2,15.2,,,,,,,,,8654730,MA 30
+61717273,61700532,0,False,secondary,Waterville Street,113.067,2,15.2,,,,,,,,,8654730,MA 30
+61717273,61709506,0,False,tertiary,East Street,187.078,2,12.2,,,,,,,,,8654771,
+61717314,61707944,0,False,residential,Mill Street,211.449,2,10.1,,,,,,,,,8654713,
+61717494,61711382,0,False,residential,Windle Avenue,182.123,2,10.1,,,,,,,,,8654917,
+61717544,61704430,0,False,residential,Hawthorne Street,82.92,2,12.2,,,,,,,,,8654810,
+61717544,61713289,0,False,residential,Hawthorne Street,195.108,2,12.2,,,,,,,,,8654810,
+61717544,61713289,1,False,residential,Hawthorne Street,335.075,2,12.2,,,,,,,,,8654810,
+61717544,61707883,0,False,residential,Joncas Terrace,140.76,,,,,,,,,,,8655124,
+61717771,61713745,0,False,residential,Airport Road,31.528,,12.2,,,,,,,,,8654910,
+61717771,61701339,0,False,primary,Worcester Street,266.299,2,16.5,,35 mph,,,,,,,8654948,MA 122
+61717771,61718851,0,False,primary,Worcester Street,29.955,2,16.5,,35 mph,,,,,,,8654948,MA 122
+61718012,61708736,0,False,residential,Waterville Street Extension,64.509,2,12.2,,,,,,,,,8654758,
+61718012,61711417,0,False,secondary,Waterville Street,104.609,2,12.2,,,,,,,,,8654839,MA 30
+61718012,61702511,0,False,secondary,Waterville Street,176.639,2,12.2,,,,,,,,,8654839,MA 30
+61718097,61702511,0,False,secondary,Waterville Street,97.025,2,12.2,,,,,,,,,8654839,MA 30
+61718097,61702430,0,False,secondary,Waterville Street,348.062,2,12.2,,,,,,,,,8654839,MA 30
+61718097,61713725,0,False,residential,,153.406,,,,,,,,,,,8655084,
+61718136,61711820,0,False,residential,Kaye Circle,43.975,2,12.2,,,,,,,,,8654914,
+61718136,61718666,0,False,tertiary,East Street,286.479,2,12.2,,,,,,,,,8654771,
+61718136,61710005,0,False,tertiary,East Street,68.558,2,12.2,,,,,,,,,8654771,
+61718169,61699478,0,False,tertiary,Snow Road,227.447,2,12.2,,,,,,,,,8654940,
+61718169,61698084,0,False,residential,Tracy Ann Drive,281.835,,,,30 mph,,,,,,,488325337,
+61718299,61699428,0,True,primary_link,,60.159,,16.5,,30 mph,,,,,,,8655002,
+61718299,61705308,0,False,primary,North Main Street,141.953,"['2', '3']","['13.7', '12.2']",,30 mph,,,,,,,"[8654846, 8654999]",MA 30;MA 140
+61718299,61703444,0,False,primary,North Main Street,58.75,3,13.7,,30 mph,,,,,,,8654846,MA 30;MA 140
+61718604,61702437,0,False,residential,Grafton State Hospital Road,61.125,2,30.2,,,,,,,,,8654817,
+61718604,61717153,0,False,residential,Grafton State Hospital Road,201.699,2,30.2,,,,,,,,,8654817,
+61718604,61717153,1,False,residential,Grafton State Hospital Road Circle,629.689,2,30.2,,,,,,,,,8654843,
+61718608,61708523,0,False,residential,Beverley Road,85.816,2,12.2,,,,,,,,,8654742,
+61718608,61700864,0,False,residential,Jordan Terrace,125.661,2,12.2,,,,,,,,,8654724,
+61718608,61697951,0,False,residential,Beverley Road,163.926,2,12.2,,,,,,,,,8654742,
+61718666,61716923,0,False,tertiary,East Street,337.388,2,12.2,,,,,,,,,8654771,
+61718666,61716923,1,False,residential,Apple Ridge Lane,360.204,1,12.2,,,,,,,,,8654916,
+61718666,61718136,0,False,tertiary,East Street,286.479,2,12.2,,,,,,,,,8654771,
+61718710,61703651,0,False,residential,Brigham Hill Road,14.125,2,12.2,,,,,,,,,8654822,
+61718710,61706062,0,False,primary,Worcester Street,354.779,2,16.5,,35 mph,,,,,,,8654948,MA 122
+61718710,61715169,0,False,primary,Worcester Street,269.378,2,16.5,,35 mph,,,,,,,8654948,MA 122
+61718757,61697045,0,False,residential,State Hospital Farm Road,28.477,2,30.2,,,,,,,,,8654841,
+61718796,61702082,0,False,residential,Bedford Drive,395.723,2,12.2,,,,,,,,,8654816,
+61718851,61713745,0,False,residential,Airport Road,24.887,2,12.2,,,,,,,,,8654878,
+61718851,61717771,0,False,primary,Worcester Street,29.955,2,16.5,,35 mph,,,,,,,8654948,MA 122
+61718851,61705428,0,False,primary,Worcester Street,93.081,2,16.5,,35 mph,,,,,,,8654948,MA 122
+61718971,61707609,0,False,residential,Anderson Lane,157.923,2,12.2,,,,,,,,,8654766,
+1509380400,61704739,0,False,residential,,20.009,2,30.2,,,,,,,,,8654880,
+2673511876,61709728,0,False,tertiary,Creeper Hill Road,142.779,2,12.2,,30 mph,,,,,,,8655017,
+2673511876,61700586,0,False,tertiary,Creeper Hill Road,598.847,2,12.2,,30 mph,,,,,,,"[8655017, 8654895]",
+2673511876,2673511912,0,False,residential,Flint Pond Drive,164.729,,,,,,,,,,,261751839,
+2673511912,2673511912,0,False,residential,Flint Pond Drive,482.101,,,,,,,,,,,261751839,
+2673511912,2673511912,1,False,residential,Flint Pond Drive,482.101,,,,,,,,,,,261751839,
+2673511912,2673511876,0,False,residential,Flint Pond Drive,164.729,,,,,,,,,,,261751839,

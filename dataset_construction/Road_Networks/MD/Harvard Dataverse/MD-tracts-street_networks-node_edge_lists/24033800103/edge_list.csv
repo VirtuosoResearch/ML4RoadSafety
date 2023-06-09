@@ -1,0 +1,251 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+50207209,50207211,0,False,residential,,73.48,,,,,,,,,,,6088341,
+50207209,50654701,0,False,tertiary,Main Street,101.297,,,,,,,,,,,82470654,
+50207209,959858576,0,False,residential,C Street,191.398,,,,,,,,,,,6143894,
+50207209,50589759,0,False,tertiary,Main Street,111.621,,,,,,,,,,,82470654,
+50207211,50207209,0,False,residential,,73.48,,,,,,,,,,,6088341,
+50207218,50298424,0,False,residential,,66.598,,,,,,,,,,,6094895,
+50207220,5268135913,0,False,residential,,75.524,,,,,,,,,,,6105005,
+50223002,50547646,0,True,primary,Washington Boulevard,49.918,4,,,35 mph,,,,,,,120487158,US 1
+50223015,50223002,0,True,primary_link,,63.446,,,,,,,,,,,6089459,
+50223015,50683223,0,True,primary,Talbott Avenue,40.329,2,,,,,,,,,,130468010,MD 198
+50223034,393502398,0,False,residential,,26.985,,,,,,,,,,,6089463,
+50223038,393502398,0,False,residential,,23.211,,,,,,,,,,,6089463,
+50234761,50599779,0,True,primary,Washington Boulevard,58.005,4,,,35 mph,,,,,,,120487158,US 1
+50234761,50234775,0,True,primary_link,,74.064,,,,,,,,,,,6090260,
+50234775,50599796,0,True,primary,Gorman Avenue,62.889,3,,,,,,,,,,152499525,MD 198
+50241783,50687364,0,True,primary,2nd Street,30.993,3,,,,,,,,,,120487205,US 1
+50241783,50241797,0,True,primary_link,,58.026,,,,,,,,,,,6090720,
+50241797,50241800,0,False,residential,,28.819,,,,,,,,,,,6090721,
+50241797,50223015,0,True,primary,Talbott Avenue,33.078,2,,,,,,,,,,130468010,MD 198
+50241800,50241797,0,False,residential,,28.819,,,,,,,,,,,6090721,
+50254787,50254788,0,False,residential,,25.045,,,,,,,,,,,6091818,
+50254787,50688554,0,False,residential,Lafayette Avenue,363.851,2,,,,,,,,,,6126395,
+50254787,50254918,0,False,residential,Lafayette Avenue,233.549,2,,,,,,,,,,6126395,
+50254788,50254787,0,False,residential,,25.045,,,,,,,,,,,6091818,
+50254788,50360408,0,False,residential,,33.121,,,,,,,,,,,6099620,
+50254788,5309198905,0,False,residential,,109.508,,,,,,,,,,,6091818,
+50254889,50399908,0,False,residential,,74.201,,,,,,,,,,,6103284,
+50254891,50368484,0,False,residential,,67.23,,,,,,,,,,,6100244,
+50254918,50254919,0,False,residential,,7.145,2,,,,,,,,,,6091835,
+50254918,50254787,0,False,residential,Lafayette Avenue,233.549,2,,,,,,,,,,6126395,
+50254918,50720083,0,False,residential,Main Street,73.973,2,,,,,,,,,,6135546,
+50254919,50254918,0,False,residential,,7.145,2,,,,,,,,,,6091835,
+50254919,50392506,0,False,residential,,30.364,,,,,,,,,,,6102494,
+50254919,5309198610,0,False,residential,,110.647,2,,,,,,,,,,6091835,
+50267169,50445645,0,False,residential,,18.068,,,,,,,,,,,6107038,
+50267169,50267177,0,False,residential,,47.725,,,,,,,,,,,6092693,
+50267169,50445642,0,False,residential,,27.024,,,,,,,,,,,6107038,
+50267177,50267169,0,False,residential,,47.725,,,,,,,,,,,6092693,
+50270224,50270230,0,False,residential,,53.609,,,,,,,,,,,6092934,
+50270224,1070135833,0,False,residential,Irving Street,11.168,,,,,,,,,,,6129683,
+50270224,50667447,0,False,residential,Irving Street,167.882,,,,,,,,,,,6129683,
+50270230,3659035837,0,False,residential,,76.547,,,,,,,,,,,6092934,
+50270230,50270224,0,False,residential,,53.609,,,,,,,,,,,6092934,
+50270230,3659035857,0,False,residential,,92.882,,,,,,,,,,,361427990,
+50270232,3659035837,0,False,residential,,4.24,,,,,,,,,,,6092934,
+50281280,50699785,0,False,residential,Morris Drive,23.961,,,,,,,,,,,6127476,
+50281326,50292746,0,False,residential,,65.103,,,,,,,,,,,6094485,
+50292746,50281326,0,False,residential,,65.103,,,,,,,,,,,6094485,
+50292746,50223034,0,True,primary,Fort Meade Road,167.889,3,,,,,,,,,,92187008,MD 198
+50298424,50207218,0,False,residential,,66.598,,,,,,,,,,,6094895,
+50298424,50760672,0,False,residential,Prince George Street,190.481,,,,,,,,,,,6134789,
+50298424,50738426,0,False,residential,Prince George Street,98.611,,,,,,,,,,,6134789,
+50307587,50687470,0,False,residential,Laurel Avenue,31.513,,,,,,,,,,,6138835,
+50307587,50307593,0,False,residential,,202.317,,,,,,,,,,,6095582,
+50307587,50720100,0,False,residential,"['Laurel Avenue', '1st Street']",268.282,2,,,,,,,,,,"[6138835, 6130014]",
+50307593,50307587,0,False,residential,,202.317,,,,,,,,,,,6095582,
+50314184,50314211,0,True,primary_link,,168.516,,,,,,,,,,,6095981,
+50314184,648708621,0,True,primary,Laurel Bowie Road,88.325,2,,,,,,,,,,130576314,MD 197
+50314211,50292746,0,True,primary,Fort Meade Road,35.83,3,,,,,,,,,,92187008,MD 198
+50322307,50388682,0,True,primary,Laurel Bowie Road,72.653,2,,,,,,,,,,6142246,MD 197
+50322307,648708621,0,True,primary,Fort Meade Road,10.593,3,,,,,,,,,,92187008,MD 198
+50322308,50322307,0,True,primary,Laurel Bowie Road,27.203,2,,,,,,,,,,6142246,MD 197
+50322308,1070135833,0,False,residential,Irving Street,36.072,,,,,,,,,,,6129683,
+50322308,1070135811,0,True,primary,Fort Meade Road,36.387,3,,,,,,,,,,92187004,MD 198
+50336118,50347250,0,True,primary,2nd Street,18.81,2,,,35 mph,,,,,,,120487192,US 1
+50347247,50347250,0,False,residential,,107.45,,,,,,,,,,,6098593,
+50347247,50683223,0,True,primary,Washington Boulevard,90.555,4,,,35 mph,,,,,,,120487158,US 1
+50347250,50347247,0,False,residential,,107.45,,,,,,,,,,,6098593,
+50347250,50687470,0,True,primary,2nd Street,111.715,2,,,35 mph,,,,,,,120487192,US 1
+50349271,50349273,0,False,residential,,24.698,,,,,,,,,,,6098728,
+50349271,50445609,0,False,residential,,19.852,,,,,,,,,,,6107035,
+50349271,50445605,0,False,residential,,17.461,,,,,,,,,,,6107035,
+50349273,50349271,0,False,residential,,24.698,,,,,,,,,,,6098728,
+50360408,50254788,0,False,residential,,33.121,,,,,,,,,,,6099620,
+50368484,50767158,0,True,tertiary,4th Street,37.695,,,,,,,,,,,6144883,
+50368484,50254891,0,False,residential,,67.23,,,,,,,,,,,6100244,
+50388682,50281280,0,True,primary,Laurel Bowie Road,145.249,2,,,,,,,,,,6142246,MD 197
+50388703,50322307,0,True,primary,Fort Meade Road,86.44,3,,,,,,,,,,92187008,MD 198
+50388703,50388682,0,True,primary_link,,120.973,,,,,,,,,,,6102126,
+50392506,50254919,0,False,residential,,30.364,,,,,,,,,,,6102494,
+50399908,50767157,0,False,tertiary,Main Street,39.078,,,,,,,,,,,82470654,
+50399908,50254889,0,False,residential,,74.201,,,,,,,,,,,6103284,
+50399908,50654701,0,False,tertiary,Main Street,43.347,,,,,,,,,,,82470654,
+50445605,50349271,0,False,residential,,17.461,,,,,,,,,,,6107035,
+50445609,50349271,0,False,residential,,19.852,,,,,,,,,,,6107035,
+50445609,50599779,0,True,primary,Gorman Avenue,82.043,3,,,,,,,,,,152499525,MD 198
+50445642,50267169,0,False,residential,,27.024,,,,,,,,,,,6107038,
+50445645,50267169,0,False,residential,,18.068,,,,,,,,,,,6107038,
+50445645,393502398,0,True,primary,Fort Meade Road,92.316,3,,,,,,,,,,92187004,MD 198
+50467039,50687462,0,True,primary,2nd Street,47.275,2,,,35 mph,,,,,,,120487192,US 1
+50467039,50467042,0,False,tertiary,Montgomery Street,105.334,,,,25 mph,,,,,,,82470770,
+50467042,50467045,0,False,tertiary,Montgomery Street,104.073,,,,25 mph,,,,,,,82470770,
+50467042,50467039,0,False,tertiary,Montgomery Street,105.334,,,,25 mph,,,,,,,82470770,
+50467042,50683219,0,True,primary,Washington Boulevard,161.049,3,,,35 mph,,,,,,,152499546,US 1
+50467045,50738426,0,False,residential,Stanley Place,108.529,,,,,,,,,,,6132160,
+50467045,50467050,0,False,tertiary,Montgomery Street,265.161,,,,25 mph,,,,,,,82470770,
+50467045,50467042,0,False,tertiary,Montgomery Street,104.073,,,,25 mph,,,,,,,82470770,
+50467050,50760672,0,True,tertiary,4th Street,95.645,,,,,,,,,,,6144883,
+50467050,50467045,0,False,tertiary,Montgomery Street,265.161,,,,25 mph,,,,,,,82470770,
+50474427,50688564,0,False,residential,Lafayette Avenue,47.327,2,,,,,,,,,,581638909,
+50474427,50474454,0,False,residential,Woodland Court,226.128,,,,,,,,,,,6109288,
+50474427,50688554,0,False,residential,Lafayette Avenue,249.286,2,,,,,,,,,,6126395,
+50474454,50602814,0,False,residential,Parkside Drive,49.721,,,,,,,,,,,6124244,
+50474454,50474476,0,False,residential,Woodland Court,187.091,,,,,,,,,,,6109288,
+50474454,50474427,0,False,residential,Woodland Court,226.128,,,,,,,,,,,6109288,
+50474476,50681643,0,False,residential,Irving Street,66.105,,,,,,,,,,,6129685,
+50474476,50474454,0,False,residential,Woodland Court,187.091,,,,,,,,,,,6109288,
+50474476,50602814,0,False,residential,Sharon Court,142.072,,,,,,,,,,,6117066,
+50487157,50667447,0,False,residential,Irving Street,85.978,,,,,,,,,,,6129683,
+50487157,50688554,0,False,residential,Irving Street,140.015,,,,,,,,,,,6129683,
+50487157,50487158,0,False,residential,Morton Place,55.49,,,,,,,,,,,6110006,
+50487158,50487157,0,False,residential,Morton Place,55.49,,,,,,,,,,,6110006,
+50502509,50502513,0,False,residential,Carroll Avenue,220.942,,,,,,,,,,,6111076,
+50502509,50347247,0,True,primary,Washington Boulevard,16.509,"['3', '4']",,,35 mph,,,,,,,"[152499546, 120487158]",US 1
+50502513,50502515,0,False,residential,Carroll Avenue,146.533,,,,,,,,,,,6111076,
+50502513,50502509,0,False,residential,Carroll Avenue,220.942,,,,,,,,,,,6111076,
+50502513,50687380,0,False,residential,Fairlawn Avenue,108.334,,,,,,,,,,,6144285,
+50502515,50502513,0,False,residential,Carroll Avenue,146.533,,,,,,,,,,,6111076,
+50502515,50793082,0,True,tertiary,4th Street,99.546,,,,,,,,,,,6144883,
+50520862,50520865,0,False,residential,A Street,155.298,,,,,,,,,,,6112370,
+50520865,5268135913,0,False,tertiary,Main Street,27.814,,,,,,,,,,,82470654,
+50520865,50520862,0,False,residential,A Street,155.298,,,,,,,,,,,6112370,
+50520865,50683207,0,False,tertiary,Main Street,58.08,,,,,,,,,,,82470654,
+50523055,50322308,0,True,primary,Fort Meade Road,132.501,3,,,,,,,,,,92187004,MD 198
+50523055,3659035837,0,False,residential,,91.673,,,,,,,,,,,361427991,
+50547646,50547650,0,False,residential,Compton Avenue,219.483,,,,,,,,,,,6113815,
+50547646,50234761,0,True,primary,Washington Boulevard,38.689,4,,,35 mph,,,,,,,120487158,US 1
+50547650,50599775,0,False,residential,Fairlawn Avenue,95.944,,,,,,,,,,,6144285,
+50547650,50547652,0,False,residential,Compton Avenue,147.21,,,,,,,,,,,6113815,
+50547650,50547646,0,False,residential,Compton Avenue,219.483,,,,,,,,,,,6113815,
+50547650,50687380,0,False,residential,Fairlawn Avenue,97.051,,,,,,,,,,,6144285,
+50547652,50687387,0,True,tertiary,4th Street,94.991,,,,,,,,,,,6144883,
+50547652,50547650,0,False,residential,Compton Avenue,147.21,,,,,,,,,,,6113815,
+50589759,959858617,0,False,residential,B Street,203.413,,,,,,,,,,,6116246,
+50589759,50207209,0,False,tertiary,Main Street,111.621,,,,,,,,,,,82470654,
+50589759,5268135913,0,False,tertiary,Main Street,40.372,,,,,,,,,,,82470654,
+50599771,50547652,0,True,tertiary,4th Street,95.35,,,,,,,,,,,6144883,
+50599771,50599773,0,True,primary,Gorman Avenue,81.416,3,,,,,,,,,,152499525,MD 198
+50599773,50599775,0,True,primary,Gorman Avenue,67.19,3,,,,,,,,,,152499525,MD 198
+50599775,50547650,0,False,residential,Fairlawn Avenue,95.944,,,,,,,,,,,6144285,
+50599775,50599777,0,True,primary,Gorman Avenue,108.82,3,,,,,,,,,,152499525,MD 198
+50599777,50445609,0,True,primary,Gorman Avenue,26.665,3,,,,,,,,,,152499525,MD 198
+50599779,50683230,0,True,primary,Washington Boulevard,121.837,4,,,35 mph,,,,,,,120487158,US 1
+50599779,50234775,0,True,primary,Gorman Avenue,48.195,3,,,,,,,,,,152499525,MD 198
+50599796,50241783,0,True,primary,2nd Street,118.431,3,,,,,,,,,,120487205,US 1
+50599796,50599806,0,True,primary,Gorman Avenue,81.056,3,,,,,,,,,,152499525,MD 198
+50599806,50388703,0,True,primary,"['Gorman Avenue', 'Fort Meade Road']",459.417,3,,,,,,yes,,,,"[92187008, 152499525, 92187007]",MD 198
+50602804,50602814,0,False,residential,Sharon Court,94.973,,,,,,,,,,,6117066,
+50602814,50474454,0,False,residential,Parkside Drive,49.721,,,,,,,,,,,6124244,
+50602814,50474476,0,False,residential,Sharon Court,142.072,,,,,,,,,,,6117066,
+50602814,50602804,0,False,residential,Sharon Court,94.973,,,,,,,,,,,6117066,
+50602814,50670876,0,False,residential,Parkside Drive,51.29,,,,,,,,,,,6124244,
+50654697,50654701,0,False,residential,Avondale Street,192.556,,,,,,,,,,,6122496,
+50654701,50207209,0,False,tertiary,Main Street,101.297,,,,,,,,,,,82470654,
+50654701,50654697,0,False,residential,Avondale Street,192.556,,,,,,,,,,,6122496,
+50654701,50399908,0,False,tertiary,Main Street,43.347,,,,,,,,,,,82470654,
+50667447,50487157,0,False,residential,Irving Street,85.978,,,,,,,,,,,6129683,
+50667447,50667448,0,False,residential,Dell Place,53.534,,,,,,,,,,,6123929,
+50667447,50270224,0,False,residential,Irving Street,167.882,,,,,,,,,,,6129683,
+50667448,50667447,0,False,residential,Dell Place,53.534,,,,,,,,,,,6123929,
+50670876,50670881,0,False,residential,Parkside Drive,37.083,,,,,,,,,,,6124244,
+50670876,50602814,0,False,residential,Parkside Drive,51.29,,,,,,,,,,,6124244,
+50670876,50681643,0,False,residential,Bryan Court,146.462,,,,,,,,,,,6125509,
+50670881,50670876,0,False,residential,Parkside Drive,37.083,,,,,,,,,,,6124244,
+50670881,50699785,0,False,residential,Morris Drive,162.296,,,,,,,,,,,6127476,
+50670881,50688564,0,False,residential,Morris Drive,215.597,,,,,,,,,,,6127476,
+50681643,50699785,0,False,residential,Irving Street,69.735,,,,,,,,,,,6129685,
+50681643,50474476,0,False,residential,Irving Street,66.105,,,,,,,,,,,6129685,
+50681643,50670876,0,False,residential,Bryan Court,146.462,,,,,,,,,,,6125509,
+50683207,50520865,0,False,tertiary,Main Street,58.08,,,,,,,,,,,82470654,
+50683207,50687457,0,False,tertiary,Main Street,106.059,,,,,,,,,,,82470655,
+50683207,50683210,0,True,primary,Washington Boulevard,169.932,3,,,35 mph,,,,,,,152499546,US 1
+50683210,50738426,0,False,residential,Prince George Street,105.014,,,,,,,,,,,6134789,
+50683210,50683213,0,True,primary,Washington Boulevard,57.423,3,,,35 mph,,,,,,,152499546,US 1
+50683213,50687462,0,False,residential,Little Montgomery Avenue,105.34,,,,,,,,,,,82470771,
+50683213,50467042,0,True,primary,Washington Boulevard,49.409,3,,,35 mph,,,,,,,152499546,US 1
+50683219,50793082,0,False,residential,Laurel Avenue,368.923,,,,,,,,,,,6138835,
+50683219,50687470,0,False,residential,Laurel Avenue,108.441,,,,,,,,,,,6138835,
+50683219,50502509,0,True,primary,Washington Boulevard,97.664,3,,,35 mph,,,,,,,152499546,US 1
+50683223,50223002,0,True,primary,Washington Boulevard,47.275,4,,,35 mph,,,,,,,120487158,US 1
+50683223,50687380,0,True,primary,Talbott Avenue,220.383,3,,,30 mph,,,,,,,130468013,MD 198
+50683230,50687493,0,False,tertiary,Bowie Road,101.862,,,,,,,,,,,355849635,
+50687358,50687364,0,True,primary,Talbott Avenue,66.189,2,,,,,,,,,,130468010,MD 198
+50687358,50336118,0,True,primary_link,,146.721,,,,,,,,,,,130468064,
+50687364,50336118,0,True,primary,2nd Street,94.948,2,,,35 mph,,,,,,,120487192,US 1
+50687364,50241797,0,True,primary,Talbott Avenue,35.798,2,,,,,,,,,,130468010,MD 198
+50687380,50547650,0,False,residential,Fairlawn Avenue,97.051,,,,,,,,,,,6144285,
+50687380,50502513,0,False,residential,Fairlawn Avenue,108.334,,,,,,,,,,,6144285,
+50687380,50687387,0,True,primary,Talbott Avenue,147.068,3,,,30 mph,,,,,,,130468013,MD 198
+50687387,50502515,0,True,tertiary,4th Street,108.893,,,,,,,,,,,6144883,
+50687457,50683207,0,False,tertiary,Main Street,106.059,,,,,,,,,,,82470655,
+50687457,50720083,0,False,tertiary,Main Street,99.331,2,,,,,,,,,,82470683,
+50687462,50683213,0,False,residential,Little Montgomery Avenue,105.34,,,,,,,,,,,82470771,
+50687462,50720100,0,False,residential,Little Montgomery Avenue,106.403,,,,,,,,,,,82470771,
+50687462,50687457,0,True,primary,2nd Street,226.479,2,,,35 mph,,,,,,,120487192,US 1
+50687470,50307587,0,False,residential,Laurel Avenue,31.513,,,,,,,,,,,6138835,
+50687470,50683219,0,False,residential,Laurel Avenue,108.441,,,,,,,,,,,6138835,
+50687470,50467039,0,True,primary,2nd Street,154.551,2,,,35 mph,,,,,,,120487192,US 1
+50687478,50599796,0,True,primary,2nd Street,59.157,3,,,,,,,,,,120487205,US 1
+50687478,50599806,0,True,primary_link,,128.095,,,,,,,,,,,50866205,
+50687493,50687478,0,True,primary,Baltimore Street,88.071,4,,,,,,,,,,120487201,US 1
+50687493,50683230,0,False,tertiary,Bowie Road,101.862,,,,,,,,,,,355849635,
+50687493,50701905,0,False,tertiary,Bowie Road,180.668,,,,,,,,,,,355849635,
+50688554,50487157,0,False,residential,Irving Street,140.015,,,,,,,,,,,6129683,
+50688554,50474427,0,False,residential,Lafayette Avenue,249.286,2,,,,,,,,,,6126395,
+50688554,50254787,0,False,residential,Lafayette Avenue,363.851,2,,,,,,,,,,6126395,
+50688564,50474427,0,False,residential,Lafayette Avenue,47.327,2,,,,,,,,,,581638909,
+50688564,50670881,0,False,residential,Morris Drive,215.597,,,,,,,,,,,6127476,
+50699785,50281280,0,False,residential,Morris Drive,23.961,,,,,,,,,,,6127476,
+50699785,50681643,0,False,residential,Irving Street,69.735,,,,,,,,,,,6129685,
+50699785,50670881,0,False,residential,Morris Drive,162.296,,,,,,,,,,,6127476,
+50701905,50687493,0,False,tertiary,Bowie Road,180.668,,,,,,,,,,,355849635,
+50720083,50720100,0,False,residential,1st Street,235.898,2,,,,,,,,,,6130014,
+50720083,50254918,0,False,residential,Main Street,73.973,2,,,,,,,,,,6135546,
+50720083,50687457,0,False,tertiary,Main Street,99.331,2,,,,,,,,,,82470683,
+50720100,50307587,0,False,residential,"['Laurel Avenue', '1st Street']",268.282,2,,,,,,,,,,"[6138835, 6130014]",
+50720100,50720083,0,False,residential,1st Street,235.898,2,,,,,,,,,,6130014,
+50720100,50687462,0,False,residential,Little Montgomery Avenue,106.403,,,,,,,,,,,82470771,
+50738426,50467045,0,False,residential,Stanley Place,108.529,,,,,,,,,,,6132160,
+50738426,50298424,0,False,residential,Prince George Street,98.611,,,,,,,,,,,6134789,
+50738426,50683210,0,False,residential,Prince George Street,105.014,,,,,,,,,,,6134789,
+50760672,50298424,0,False,residential,Prince George Street,190.481,,,,,,,,,,,6134789,
+50760672,50368484,0,True,tertiary,4th Street,81.696,,,,,,,,,,,6144883,
+50767157,50767158,0,False,tertiary,Main Street,6.005,,,,,,,,,,,82470654,
+50767157,50399908,0,False,tertiary,Main Street,39.078,,,,,,,,,,,82470654,
+50767157,50865775,0,False,residential,4th Street,220.578,,,,,,,,,,,6144888,
+50767158,50767157,0,False,tertiary,Main Street,6.005,,,,,,,,,,,82470654,
+50793082,50683219,0,False,residential,Laurel Avenue,368.923,,,,,,,,,,,6138835,
+50793082,50467050,0,True,tertiary,4th Street,157.839,,,,,,,,,,,6144883,
+50865775,50767157,0,False,residential,4th Street,220.578,,,,,,,,,,,6144888,
+393502398,50223038,0,False,residential,,23.211,,,,,,,,,,,6089463,
+393502398,50223034,0,False,residential,,26.985,,,,,,,,,,,6089463,
+393502398,50523055,0,True,primary,Fort Meade Road,161.294,3,,,,,,,,,,92187004,MD 198
+648708621,50314211,0,True,primary,Fort Meade Road,100.922,3,,,,,,,,,,92187008,MD 198
+648708621,50322308,0,True,primary,Laurel Bowie Road,26.274,2,,,,,,,,,,130576314,MD 197
+959858576,50207209,0,False,residential,C Street,191.398,,,,,,,,,,,6143894,
+959858617,50589759,0,False,residential,B Street,203.413,,,,,,,,,,,6116246,
+1070135811,50687358,0,True,primary,"['Talbott Avenue', 'Fort Meade Road']",519.857,3,,,,,,yes,,,,"[92187010, 92187011, 92187004]",MD 198
+1070135833,50322308,0,False,residential,Irving Street,36.072,,,,,,,,,,,6129683,
+1070135833,50270224,0,False,residential,Irving Street,11.168,,,,,,,,,,,6129683,
+1070135833,1070135811,0,True,primary_link,,48.134,,,,,,,,,,,92187009,
+3659035837,50270232,0,False,residential,,4.24,,,,,,,,,,,6092934,
+3659035837,50270230,0,False,residential,,76.547,,,,,,,,,,,6092934,
+3659035837,50523055,0,False,residential,,91.673,,,,,,,,,,,361427991,
+3659035857,50270230,0,False,residential,,92.882,,,,,,,,,,,361427990,
+5268135913,50520865,0,False,tertiary,Main Street,27.814,,,,,,,,,,,82470654,
+5268135913,50207220,0,False,residential,,75.524,,,,,,,,,,,6105005,
+5268135913,50589759,0,False,tertiary,Main Street,40.372,,,,,,,,,,,82470654,
+5309198610,50254919,0,False,residential,,110.647,2,,,,,,,,,,6091835,
+5309198905,50254788,0,False,residential,,109.508,,,,,,,,,,,6091818,

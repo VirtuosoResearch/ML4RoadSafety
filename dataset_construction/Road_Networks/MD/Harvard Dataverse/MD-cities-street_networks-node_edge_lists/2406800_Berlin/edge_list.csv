@@ -1,0 +1,593 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+183178274,183178299,0,False,residential,Harrison Avenue,299.231,,,,,,,,,,,17680368,
+183178274,183263531,0,False,residential,Harrison Avenue,97.621,,,,,,,,,,,17680368,
+183178274,183467475,0,False,residential,Baker Street,184.771,,,,,,,,,,,17705626,
+183178299,3169011267,0,False,residential,Harrison Avenue,100.628,,,,,,,,,,,17680368,
+183178299,183178274,0,False,residential,Harrison Avenue,299.231,,,,,,,,,,,17680368,
+183178299,183282814,0,False,residential,Brittany Lane,271.16,,,,,,,,,,,17688614,
+183178309,3169011267,0,False,residential,Harrison Avenue,47.109,,,,,,,,,,,17680368,
+183178309,183505665,0,False,secondary,North Main Street,234.266,,,,,,,,,,,17708756,MD 818
+183178309,3169011268,0,False,secondary,North Main Street,42.819,,,,,,,,,,,17708756,MD 818
+183184375,2106556728,0,True,residential,Tripoli Street,68.979,,,,,,,,,,,17680777,
+183184375,5318200653,0,False,residential,Decatur Street,13.753,,,,,,,,,,,17706796,
+183184375,183481283,0,False,residential,Decatur Street,281.71,,,,,,,,,,,255735742,
+183199077,183199087,0,False,residential,Cape Circle,58.411,,,,,,,,,,,17681935,
+183199077,183321361,0,False,residential,Meadow Street,147.616,,,,,,,,,,,17692593,
+183199077,183321316,0,False,residential,Meadow Street,143.179,,,,,,,,,,,17692593,
+183199087,183199077,0,False,residential,Cape Circle,58.411,,,,,,,,,,,17681935,
+183209028,183464526,0,False,residential,Westminster Drive,77.02,,,,,,,,,,,17705380,
+183228297,5314976449,0,False,residential,Buckingham Lane,67.017,,,,,,,,,,,17710386,
+183228772,183228781,0,False,secondary,South Main Street,32.949,,,,,,,,,,,17700958,MD 818
+183228772,183504417,0,False,secondary,South Main Street,112.156,,,,,,,,,,,17700958,MD 818
+183228781,183228772,0,False,secondary,South Main Street,32.949,,,,,,,,,,,17700958,MD 818
+183228781,1297861741,0,False,secondary,South Main Street,37.969,,,,,,,,,,,17700958,MD 818
+183228836,183228781,0,True,trunk_link,,143.342,,,,,,,,,,,17684272,
+183228836,1297861741,0,True,trunk,Worcester Highway,121.35,2,,,50 mph,,,,,,,127287973,US 113
+183237442,183237442,0,False,unclassified,Healthway Drive,55.934,,,,,,,,,,,17711703,
+183237442,183237442,1,False,unclassified,Healthway Drive,55.934,,,,,,,,,,,17711703,
+183237442,183483373,0,False,unclassified,Healthway Drive,437.497,,,,,,,,,,,17711703,
+183238452,3168268807,0,False,secondary,Libertytown Road,183.236,,,,,,,,,,,17711914,MD 374
+183238452,3168268807,1,False,residential,Prospect Drive,958.284,,,,,,,,,,,311235212,
+183239573,2614132429,0,True,trunk,Worcester Highway,580.344,2,,,50 mph,,,,,,,115240188,US 113
+183239795,183481314,0,False,residential,Decatur Street,111.054,,,,,,,,,,,252027563,
+183258369,183432627,0,False,residential,Flower Street,84.223,,,,,,,,,,,17705367,
+183258369,183464381,0,False,residential,Flower Street,29.543,,,,,,,,,,,17705367,
+183258369,183318551,0,False,residential,Railroad Avenue,275.763,,,,,,,,,,,17712420,
+183262311,183329177,0,True,trunk,Ocean Gateway,221.878,2,,,,,,,,,,115240217,US 50
+183263531,183549349,0,False,secondary,Libertytown Road,16.444,,,,,,,,,,,17711914,MD 374
+183263531,183178274,0,False,residential,Harrison Avenue,97.621,,,,,,,,,,,17680368,
+183263531,183442428,0,False,secondary,Broad Street,156.337,,,,,,,,,,,310995710,MD 374
+183282814,183178299,0,False,residential,Brittany Lane,271.16,,,,,,,,,,,17688614,
+183291271,183498488,0,False,residential,,31.869,,,,,,,,,,,17689463,
+183291271,183291320,0,False,residential,,228.592,,,,,,,,,,,17689463,
+183291271,183497024,0,True,trunk,Ocean Gateway,467.132,2,,,,,,,,,,92294809,US 50
+183291320,183291271,0,False,residential,,228.592,,,,,,,,,,,17689463,
+183292926,1297861544,0,True,trunk,Worcester Highway,41.614,2,,,,,,,,,,127287971,US 113
+183292926,2614132347,0,True,trunk_link,,57.323,,,,,,,,,,,255735741,
+183310615,183389694,0,False,residential,Showell Street,204.596,,,,,,,,,,,17710063,
+183310615,183464364,0,False,residential,Flower Street,224.346,,,,,,,,,,,17705367,
+183310615,183433714,0,False,residential,Flower Street,341.66,,,,,,,,,,,17705367,
+183311641,183498451,0,True,trunk,Ocean Gateway,67.185,2,,,,,,,,,,131941622,US 50
+183318551,183258369,0,False,residential,Railroad Avenue,275.763,,,,,,,,,,,17712420,
+183321316,183199077,0,False,residential,Meadow Street,143.179,,,,,,,,,,,17692593,
+183321316,183481314,0,False,residential,Decatur Street,314.143,,,,,,,,,,,"[252027563, 255735742]",
+183321316,183481283,0,False,residential,Decatur Street,50.168,,,,,,,,,,,255735742,
+183321361,183199077,0,False,residential,Meadow Street,147.616,,,,,,,,,,,17692593,
+183329148,312456292,0,True,trunk_link,,495.804,,,,,,,,,,,114615729,
+183329148,183424882,0,False,secondary,Old Ocean City Boulevard,218.691,,,,,,,,,,,311370747,MD 346
+183329148,183329166,0,False,secondary,Old Ocean City Boulevard,84.123,,,,,,,,,,,311370749,MD 346
+183329166,183329177,0,False,secondary,Old Ocean City Boulevard,24.991,,,,,,,,,,,311370749,MD 346
+183329166,312456292,0,True,trunk,Ocean Gateway,452.451,2,,,,,,,,,,92294809,US 50
+183329166,183329148,0,False,secondary,Old Ocean City Boulevard,84.123,,,,,,,,,,,311370749,MD 346
+183329177,183329166,0,False,secondary,Old Ocean City Boulevard,24.991,,,,,,,,,,,311370749,MD 346
+183346142,393676713,0,False,residential,Reedy Cove Drive,34.572,,,,,,,,,,,17695110,
+183346142,183346142,0,False,residential,Reedy Cove Drive,181.923,,,,,,,,,,,17700653,
+183346142,183346142,1,False,residential,Reedy Cove Drive,181.923,,,,,,,,,,,17700653,
+183364811,183453168,0,False,residential,Bryan Avenue,38.389,,,,,,,,,,,17708473,
+183364811,183453173,0,False,secondary,North Main Street,37.114,,,,,,,,,,,17708756,MD 818
+183364811,183505608,0,False,secondary,North Main Street,305.62,,,,,,,,,,,17708756,MD 818
+183389694,183389699,0,False,residential,,32.042,,,,,,,,,,,17699372,
+183389694,183486137,0,False,residential,Branch Street,112.886,,,,,,,,,,,17707208,
+183389694,183310615,0,False,residential,Showell Street,204.596,,,,,,,,,,,17710063,
+183389699,183389704,0,False,residential,,20.773,,,,,,,,,,,17699372,
+183389699,183389694,0,False,residential,,32.042,,,,,,,,,,,17699372,
+183389699,2614132413,0,True,trunk,Worcester Highway,177.509,2,,,50 mph,,,,,,,255735754,US 113
+183389704,183389699,0,False,residential,,20.773,,,,,,,,,,,17699372,
+183389704,183433735,0,True,trunk,Worcester Highway,375.76,2,,,50 mph,,,,,,,127287973,US 113
+183389704,183456807,0,False,residential,West Branch Street,89.221,,,,,,,,,,,252027564,
+183395215,183515957,0,False,residential,Railroad Avenue,164.634,,,,,,,,,,,17712419,
+183398709,183480019,0,False,residential,Maple Avenue,272.67,,,,,,,,,,,17706700,
+183403178,183504494,0,False,secondary,South Main Street,122.667,,,,,,,,,,,17700958,MD 818
+183403178,183541731,0,False,residential,Burley Street,498.761,,,,,,,,,,,17711345,
+183403178,183504446,0,False,secondary,South Main Street,244.883,,,,,,,,,,,17700958,MD 818
+183424796,183424882,0,False,secondary,Old Ocean City Boulevard,151.111,,,,,,,,,,,311370747,MD 346
+183424796,183483373,0,False,secondary,Old Ocean City Boulevard,638.022,,,,,,,,,,,"[17693449, 311370747, 311370748]",MD 346
+183424882,183329148,0,False,secondary,Old Ocean City Boulevard,218.691,,,,,,,,,,,311370747,MD 346
+183424882,183424796,0,False,secondary,Old Ocean City Boulevard,151.111,,,,,,,,,,,311370747,MD 346
+183428684,183428688,0,False,residential,Vine Street,19.092,,,,,,,,,,,17702593,
+183428688,183428684,0,False,residential,Vine Street,19.092,,,,,,,,,,,17702593,
+183428688,183428691,0,False,residential,Vine Street,138.461,,,,,,,,,,,17702593,
+183428688,183428720,0,False,residential,Vine Street,87.417,,,,,,,,,,,17702597,
+183428691,183428688,0,False,residential,Vine Street,138.461,,,,,,,,,,,17702593,
+183428691,183501954,0,False,secondary,Williams Street,87.995,,,,,,,,,,,17708486,
+183428691,183501951,0,False,secondary,Williams Street,131.924,,,,,,,,,,,17708486,
+183428720,183501954,0,False,residential,Pitts Street,141.402,,,,,,,,,,,17711101,
+183428720,183433775,0,False,residential,Pitts Street,68.78,,,,,,,,,,,17711101,
+183428720,183428688,0,False,residential,Vine Street,87.417,,,,,,,,,,,17702597,
+183432458,183432462,0,False,residential,Pine Street,128.119,,,,,,,,,,,17702877,
+183432458,183453164,0,False,residential,Cedar Street,137.099,,,,,,,,,,,17704308,
+183432458,183453164,1,False,residential,Maple Drive,259.484,,,,,,,,,,,17708597,
+183432458,183453137,0,False,residential,Cedar Street,124.427,,,,,,,,,,,17704308,
+183432462,183432458,0,False,residential,Pine Street,128.119,,,,,,,,,,,17702877,
+183432462,183462879,0,False,residential,Franklin Avenue,10.722,,,,,,,,,,,255735751,
+183432462,183501935,0,False,residential,Franklin Avenue,152.094,,,,,,,,,,,255735751,
+183432627,183432630,0,False,residential,Bowen Circle,184.565,,,,,,,,,,,17702885,
+183432627,5313994168,0,False,residential,Flower Street,301.287,,,,,,,,,,,17705367,
+183432627,183258369,0,False,residential,Flower Street,84.223,,,,,,,,,,,17705367,
+183432630,183432627,0,False,residential,Bowen Circle,184.565,,,,,,,,,,,17702885,
+183433714,183433729,0,False,secondary,Assateague Road,35.081,,,,,,,,,,,17707171,MD 376
+183433714,183310615,0,False,residential,Flower Street,341.66,,,,,,,,,,,17705367,
+183433714,393676663,0,False,secondary,Assateague Road,568.156,,,,,,,,,,,17707171,MD 376
+183433729,183433732,0,False,secondary,Assateague Road,48.518,,,,,,,,,,,17707171,MD 376
+183433729,183433714,0,False,secondary,Assateague Road,35.081,,,,,,,,,,,17707171,MD 376
+183433729,5318200653,0,False,residential,Decatur Street,369.606,,,,,,,,,,,17706796,
+183433732,183433735,0,False,secondary,Bay Street,18.415,,,,,,,,,,,17702973,MD 376
+183433732,183433729,0,False,secondary,Assateague Road,48.518,,,,,,,,,,,17707171,MD 376
+183433732,183569795,0,True,trunk,Worcester Highway,305.518,2,,,50 mph,,,,,,,115240188,US 113
+183433735,183433732,0,False,secondary,Bay Street,18.415,,,,,,,,,,,17702973,MD 376
+183433735,2614132351,0,True,trunk,Worcester Highway,241.474,2,,,50 mph,,,,,,,127287973,US 113
+183433735,183433768,0,False,secondary,Bay Street,326.871,,,,,,,,,,,17702973,MD 376
+183433768,183433775,0,False,secondary,Bay Street,76.736,,,,,,,,,,,17702973,MD 376
+183433768,183433735,0,False,secondary,Bay Street,326.871,,,,,,,,,,,17702973,MD 376
+183433768,2581477362,0,False,residential,West Branch Street,233.078,,,,,,,,,,,17709216,
+183433775,183433786,0,False,secondary,Bay Street,81.111,,,,,,,,,,,17702973,MD 376
+183433775,183433768,0,False,secondary,Bay Street,76.736,,,,,,,,,,,17702973,MD 376
+183433775,183428720,0,False,residential,Pitts Street,68.78,,,,,,,,,,,17711101,
+183433786,183433775,0,False,secondary,Bay Street,81.111,,,,,,,,,,,17702973,MD 376
+183433786,183433806,0,False,secondary,Bay Street,156.181,,,,,,,,,,,17702973,MD 376
+183433786,183525182,0,False,residential,Church Street,158.119,,,,,,,,,,,17710561,
+183433806,183504531,0,False,secondary,Bay Street,18.509,,,,,,,,,,,17702973,MD 376
+183433806,183501954,0,False,secondary,Williams Street,62.662,,,,,,,,,,,17708486,
+183433806,183433786,0,False,secondary,Bay Street,156.181,,,,,,,,,,,17702973,MD 376
+183433811,183504531,0,False,secondary,South Main Street,29.378,,,,,,,,,,,17700958,MD 818
+183433811,183441004,0,False,secondary,North Main Street,74.202,,,,,,,,,,,17708756,MD 818
+183433811,183442423,0,False,secondary,Broad Street,54.013,,,,,,,,,,,"[17703530, 310995710]",MD 374
+183440996,183442428,0,False,secondary,Broad Street,38.075,,,,,,,,,,,310995710,MD 374
+183440996,183442423,0,False,secondary,Broad Street,98.688,,,,,,,,,,,310995710,MD 374
+183441004,183440996,0,True,tertiary,Commerce Street,104.193,,,,,,,,,,,17703428,
+183441004,183433811,0,False,secondary,North Main Street,74.202,,,,,,,,,,,17708756,MD 818
+183441004,183501954,0,False,residential,Pitts Street,88.217,,,,,,,,,,,47487231,
+183441004,183505594,0,False,secondary,North Main Street,125.544,,,,,,,,,,,17708756,MD 818
+183442423,183477817,0,False,residential,Gay Street,144.352,,,,,,,,,,,17709932,
+183442423,183440996,0,False,secondary,Broad Street,98.688,,,,,,,,,,,310995710,MD 374
+183442423,183433811,0,False,secondary,Broad Street,54.013,,,,,,,,,,,"[17703530, 310995710]",MD 374
+183442428,183440996,0,False,secondary,Broad Street,38.075,,,,,,,,,,,310995710,MD 374
+183442428,183467475,0,False,residential,West Street,145.716,,,,,,,,,,,17710419,
+183442428,183529329,0,False,residential,West Street,192.933,,,,,,,,,,,17710419,
+183442428,183263531,0,False,secondary,Broad Street,156.337,,,,,,,,,,,310995710,MD 374
+183443329,1850831596,0,False,residential,Esham Avenue,127.013,,,,,,,,,,,17703594,
+183443329,183528376,0,False,residential,Quillen Drive,230.426,,,,,,,,,,,17710360,
+183443329,183443333,0,False,residential,Esham Avenue,183.499,,,,,,,,,,,17703594,
+183443333,183443329,0,False,residential,Esham Avenue,183.499,,,,,,,,,,,17703594,
+183443333,183489215,0,False,secondary,Libertytown Road,144.717,,,,,,,,,,,17711914,MD 374
+183443333,183549363,0,False,secondary,Libertytown Road,83.369,,,,,,,,,,,17711914,MD 374
+183450026,183450030,0,False,residential,Middle Street,218.42,,,,,,,,,,,17704023,
+183450026,183482095,0,False,residential,"['Upshur Lane', 'Purnell Avenue']",293.673,,,,,,,,,,,"[17705994, 17706854]",
+183450026,183471645,0,False,residential,Upshur Lane,100.417,,,,,,,,,,,17705994,
+183450030,183450026,0,False,residential,Middle Street,218.42,,,,,,,,,,,17704023,
+183450030,183481860,0,False,residential,Buckingham Road,116.8,,,,,,,,,,,17712446,
+183450030,183482095,0,False,residential,Buckingham Road,79.106,,,,,,,,,,,17712446,
+183452473,183452475,0,False,residential,Kenwood Court,100.098,,,,,,,,,,,17704243,
+183452473,183525182,0,False,residential,Tripoli Street,73.291,,,,,,,,,,,17710127,
+183452473,5313994133,0,False,residential,Tripoli Street,326.394,,,,,,,,,,,17710127,
+183452475,183452473,0,False,residential,Kenwood Court,100.098,,,,,,,,,,,17704243,
+183453137,2614132365,0,False,secondary,Williams Street,90.961,,,,,,,,,,,17708486,
+183453137,2614132392,0,False,secondary,Williams Street,34.495,,,,,,,,,,,17708486,
+183453137,183432458,0,False,residential,Cedar Street,124.427,,,,,,,,,,,17704308,
+183453164,183432458,0,False,residential,Cedar Street,137.099,,,,,,,,,,,17704308,
+183453164,183432458,1,False,residential,Maple Drive,259.484,,,,,,,,,,,17708597,
+183453164,183453168,0,False,residential,Cedar Street,169.434,,,,,,,,,,,17704308,
+183453168,183453173,0,False,residential,Cedar Street,16.4,,,,,,,,,,,17704308,
+183453168,183364811,0,False,residential,Bryan Avenue,38.389,,,,,,,,,,,17708473,
+183453168,183453164,0,False,residential,Cedar Street,169.434,,,,,,,,,,,17704308,
+183453168,183503341,0,False,residential,"['Franklin Avenue', 'Bryan Avenue']",325.299,,,,,,,,,,,"[17708473, 255735751]",
+183453173,183453168,0,False,residential,Cedar Street,16.4,,,,,,,,,,,17704308,
+183453173,183364811,0,False,secondary,North Main Street,37.114,,,,,,,,,,,17708756,MD 818
+183453173,3169011268,0,False,secondary,North Main Street,25.34,,,,,,,,,,,17708756,MD 818
+183454418,183501935,0,False,residential,Franklin Avenue,146.972,,,,,,,,,,,255735751,
+183454418,183503400,0,False,residential,Franklin Avenue,40.785,,,,,,,,,,,255735751,
+183454418,183454446,0,False,residential,Graham Avenue,236.144,,,,,,,,,,,"[17704413, 17704407]",
+183454446,183454451,0,False,residential,Graham Avenue,174.493,,,,,,,,,,,17704413,
+183454446,183454418,0,False,residential,Graham Avenue,236.144,,,,,,,,,,,"[17704413, 17704407]",
+183454446,183501935,0,False,secondary,Williams Street,128.903,,,,,,,,,,,17708486,
+183454446,183483346,0,False,secondary,Williams Street,340.365,,,,,,,,,,,17708486,
+183454451,183454462,0,False,residential,Graham Avenue,166.816,,,,,,,,,,,17704413,
+183454451,183454446,0,False,residential,Graham Avenue,174.493,,,,,,,,,,,17704413,
+183454451,183462879,0,False,residential,Grice Street,145.753,,,,,,,,,,,17705234,
+183454462,183454451,0,False,residential,Graham Avenue,166.816,,,,,,,,,,,17704413,
+183454462,5584576468,0,False,residential,Graham Avenue,122.207,,,,,,,,,,,17704413,
+183454462,183503341,0,False,residential,Nelson Street,160.684,,,,,,,,,,,17712979,
+183455066,183481283,0,False,residential,Meadow Street,20.008,,,,,,,,,,,17712832,
+183456807,183456814,0,False,residential,Hudson Street,135.026,,,,,,,,,,,17704644,
+183456807,183389704,0,False,residential,West Branch Street,89.221,,,,,,,,,,,252027564,
+183456807,2581477362,0,False,residential,West Branch Street,227.802,,,,,,,,,,,"[17709216, 252027564]",
+183456814,183456807,0,False,residential,Hudson Street,135.026,,,,,,,,,,,17704644,
+183462152,183262311,0,True,trunk,Ocean Gateway,414.841,2,,,,,,,,,,115240217,US 50
+183462879,183503341,0,False,residential,Franklin Avenue,153.383,,,,,,,,,,,255735751,
+183462879,183432462,0,False,residential,Franklin Avenue,10.722,,,,,,,,,,,255735751,
+183462879,183454451,0,False,residential,Grice Street,145.753,,,,,,,,,,,17705234,
+183464364,183464381,0,False,residential,Flower Street,165.564,,,,,,,,,,,17705367,
+183464364,183310615,0,False,residential,Flower Street,224.346,,,,,,,,,,,17705367,
+183464364,183480024,0,False,residential,Maple Avenue,205.871,,,,,,,,,,,17706700,
+183464381,183515957,0,False,residential,Schoolfield Street,7.864,,,,,,,,,,,17709471,
+183464381,183258369,0,False,residential,Flower Street,29.543,,,,,,,,,,,17705367,
+183464381,183464364,0,False,residential,Flower Street,165.564,,,,,,,,,,,17705367,
+183464381,183486137,0,False,residential,Branch Street,342.733,,,,,,,,,,,"[17707208, 311225668]",
+183464518,183464526,0,False,residential,Westminster Drive,168.006,,,,,,,,,,,17705380,
+183464526,183488833,0,False,residential,Abbey Lane,110.04,,,,,,,,,,,17707442,
+183464526,183209028,0,False,residential,Westminster Drive,77.02,,,,,,,,,,,17705380,
+183464526,183464518,0,False,residential,Westminster Drive,168.006,,,,,,,,,,,17705380,
+183467473,183467475,0,False,residential,Baker Street,10.547,,,,,,,,,,,17705626,
+183467473,183505594,0,False,secondary,North Main Street,47.74,,,,,,,,,,,17708756,MD 818
+183467473,183505608,0,False,secondary,North Main Street,42.486,,,,,,,,,,,17708756,MD 818
+183467475,183467473,0,False,residential,Baker Street,10.547,,,,,,,,,,,17705626,
+183467475,183178274,0,False,residential,Baker Street,184.771,,,,,,,,,,,17705626,
+183467475,183442428,0,False,residential,West Street,145.716,,,,,,,,,,,17710419,
+183471645,1850831568,0,False,residential,Upshur Lane,64.642,,,,,,,,,,,17705994,
+183471645,183450026,0,False,residential,Upshur Lane,100.417,,,,,,,,,,,17705994,
+183471645,183481860,0,False,residential,Tingle Road,188.806,,,,,,,,,,,17706840,
+183477796,183537862,0,False,residential,Washington Street,91.502,,,,,,,,,,,17713090,
+183477796,1850831567,0,False,residential,Grace Street,163.634,,,,,,,,,,,17706472,
+183477796,183504494,0,False,residential,Washington Street,155.719,,,,,,,,,,,17713090,
+183477817,1850831567,0,False,residential,Jefferson Street,13.521,,,,,,,,,,,17711011,
+183477817,183537862,0,False,residential,Jefferson Street,82.203,,,,,,,,,,,17711011,
+183477817,183442423,0,False,residential,Gay Street,144.352,,,,,,,,,,,17709932,
+183480019,183480024,0,False,residential,Maple Avenue,101.715,,,,,,,,,,,17706700,
+183480019,183398709,0,False,residential,Maple Avenue,272.67,,,,,,,,,,,17706700,
+183480019,183515957,0,False,residential,"['Elizabeth Street', 'Schoolfield Street']",512.1,,,,,,,,,,,"[17712083, 17709471]",
+183480024,183505528,0,False,residential,Ennis Lane,30.611,,,,,,,,,,,17708742,
+183480024,183464364,0,False,residential,Maple Avenue,205.871,,,,,,,,,,,17706700,
+183480024,183480019,0,False,residential,Maple Avenue,101.715,,,,,,,,,,,17706700,
+183481283,183455066,0,False,residential,Meadow Street,20.008,,,,,,,,,,,17712832,
+183481283,183321316,0,False,residential,Decatur Street,50.168,,,,,,,,,,,255735742,
+183481283,183184375,0,False,residential,Decatur Street,281.71,,,,,,,,,,,255735742,
+183481283,2614132423,0,False,residential,Burley Street,106.661,,,,,,,,,,,255735757,
+183481314,183560032,0,False,residential,Mill Road,88.861,,,,,,,,,,,17712593,
+183481314,183239795,0,False,residential,Decatur Street,111.054,,,,,,,,,,,252027563,
+183481314,183321316,0,False,residential,Decatur Street,314.143,,,,,,,,,,,"[252027563, 255735742]",
+183481860,183471645,0,False,residential,Tingle Road,188.806,,,,,,,,,,,17706840,
+183481860,183529321,0,False,residential,West Buckingham Road,226.972,,,,,,,,,,,17710504,
+183481860,183450030,0,False,residential,Buckingham Road,116.8,,,,,,,,,,,17712446,
+183482095,183450026,0,False,residential,"['Upshur Lane', 'Purnell Avenue']",293.673,,,,,,,,,,,"[17705994, 17706854]",
+183482095,183450030,0,False,residential,Buckingham Road,79.106,,,,,,,,,,,17712446,
+183482095,183504446,0,False,residential,Buckingham Road,102.551,,,,,,,,,,,17712446,
+183483289,1850835928,0,False,secondary,Old Ocean City Boulevard,348.446,,,,,,,,,,,17693449,MD 346
+183483289,183505665,0,False,secondary,North Main Street,94.688,,,,,,,,,,,17708756,MD 818
+183483289,183483346,0,False,secondary,Old Ocean City Boulevard,760.29,,,,,,,,,,,17693449,MD 346
+183483289,183497024,0,False,secondary,Main Street,1085.079,,,,,,,,,,,17709182,MD 818
+183483346,2614132358,0,False,secondary,Old Ocean City Boulevard,79.864,,,,,,,,,,,17693449,MD 346
+183483346,183483289,0,False,secondary,Old Ocean City Boulevard,760.29,,,,,,,,,,,17693449,MD 346
+183483346,183454446,0,False,secondary,Williams Street,340.365,,,,,,,,,,,17708486,
+183483352,183483357,0,False,secondary,Old Ocean City Boulevard,17.68,,,,,,,,,,,17693449,MD 346
+183483352,2614132358,0,False,secondary,Old Ocean City Boulevard,52.125,,,,,,,,,,,17693449,MD 346
+183483352,2614132364,0,True,trunk,Worcester Highway,74.252,2,,,50 mph,,,,,,,127287973,US 113
+183483357,183483352,0,False,secondary,Old Ocean City Boulevard,17.68,,,,,,,,,,,17693449,MD 346
+183483357,183483373,0,False,secondary,Old Ocean City Boulevard,191.366,,,,,,,,,,,17693449,MD 346
+183483373,183424796,0,False,secondary,Old Ocean City Boulevard,638.022,,,,,,,,,,,"[17693449, 311370747, 311370748]",MD 346
+183483373,183483357,0,False,secondary,Old Ocean City Boulevard,191.366,,,,,,,,,,,17693449,MD 346
+183483373,183237442,0,False,unclassified,Healthway Drive,437.497,,,,,,,,,,,17711703,
+183486137,183389694,0,False,residential,Branch Street,112.886,,,,,,,,,,,17707208,
+183486137,183464381,0,False,residential,Branch Street,342.733,,,,,,,,,,,"[17707208, 311225668]",
+183486137,183503386,0,False,residential,Franklin Avenue,212.393,,,,,,,,,,,17708574,
+183488833,183464526,0,False,residential,Abbey Lane,110.04,,,,,,,,,,,17707442,
+183488833,183529321,0,False,residential,West Street,208.654,,,,,,,,,,,17710419,
+183489215,183489217,0,False,residential,Ann Drive,138.788,,,,,,,,,,,17707484,
+183489215,3168268807,0,False,secondary,Libertytown Road,30.249,,,,,,,,,,,17711914,MD 374
+183489215,183443333,0,False,secondary,Libertytown Road,144.717,,,,,,,,,,,17711914,MD 374
+183489217,183489220,0,False,residential,Ann Drive,141.318,,,,,,,,,,,17707484,
+183489217,183489215,0,False,residential,Ann Drive,138.788,,,,,,,,,,,17707484,
+183489217,183537646,0,False,residential,Nancy Drive,107.612,,,,,,,,,,,17710988,
+183489220,183489217,0,False,residential,Ann Drive,141.318,,,,,,,,,,,17707484,
+183489220,183556656,0,False,residential,Cheryl Drive,103.536,,,,,,,,,,,17712373,
+183489220,1850831594,0,False,residential,Ann Drive,245.595,,,,,,,,,,,17707484,
+183497024,183498451,0,False,secondary,Main Street,33.333,,,,,,,,,,,17709182,MD 818
+183497024,183312257,0,True,trunk,Ocean Gateway,90.56,2,,,,,,,,,,92294809,US 50
+183497024,183483289,0,False,secondary,Main Street,1085.079,,,,,,,,,,,17709182,MD 818
+183498451,183497024,0,False,secondary,Main Street,33.333,,,,,,,,,,,17709182,MD 818
+183498451,183498488,0,True,trunk,Ocean Gateway,446.574,2,,,,,,,,,,131941622,US 50
+183498488,183291271,0,False,residential,,31.869,,,,,,,,,,,17689463,
+183501935,183432462,0,False,residential,Franklin Avenue,152.094,,,,,,,,,,,255735751,
+183501935,183454418,0,False,residential,Franklin Avenue,146.972,,,,,,,,,,,255735751,
+183501935,2614132392,0,False,secondary,Williams Street,94.069,,,,,,,,,,,17708486,
+183501935,183454446,0,False,secondary,Williams Street,128.903,,,,,,,,,,,17708486,
+183501951,183428691,0,False,secondary,Williams Street,131.924,,,,,,,,,,,17708486,
+183501951,2614132370,0,False,secondary,Williams Street,156.325,,,,,,,,,,,17708486,
+183501951,183505608,0,False,residential,Powellton Avenue,260.618,,,,,,,,,,,17709106,
+183501954,183433806,0,False,secondary,Williams Street,62.662,,,,,,,,,,,17708486,
+183501954,183428720,0,False,residential,Pitts Street,141.402,,,,,,,,,,,17711101,
+183501954,183441004,0,False,residential,Pitts Street,88.217,,,,,,,,,,,47487231,
+183501954,183428691,0,False,secondary,Williams Street,87.995,,,,,,,,,,,17708486,
+183503341,183462879,0,False,residential,Franklin Avenue,153.383,,,,,,,,,,,255735751,
+183503341,183454462,0,False,residential,Nelson Street,160.684,,,,,,,,,,,17712979,
+183503341,183453168,0,False,residential,"['Franklin Avenue', 'Bryan Avenue']",325.299,,,,,,,,,,,"[17708473, 255735751]",
+183503386,183503391,0,False,residential,,17.304,,,,,,,,,,,550620294,
+183503386,183486137,0,False,residential,Franklin Avenue,212.393,,,,,,,,,,,17708574,
+183503386,183483357,0,True,trunk,Worcester Highway,664.745,2,,,50 mph,,,,,,,255735754,US 113
+183503391,183503386,0,False,residential,,17.304,,,,,,,,,,,550620294,
+183503391,2614132419,0,True,trunk,Worcester Highway,155.053,2,,,50 mph,,,,,,,127287973,US 113
+183503391,183503400,0,False,residential,Franklin Avenue,251.376,,,,,,,,,,,255735751,
+183503400,183454418,0,False,residential,Franklin Avenue,40.785,,,,,,,,,,,255735751,
+183503400,183526258,0,False,residential,Franklin Square,158.082,,,,,,,,,,,17710231,
+183503400,183503391,0,False,residential,Franklin Avenue,251.376,,,,,,,,,,,255735751,
+183504417,183504446,0,False,secondary,South Main Street,439.069,,,,,,,,,,,17700958,MD 818
+183504417,183228772,0,False,secondary,South Main Street,112.156,,,,,,,,,,,17700958,MD 818
+183504417,5314976449,0,False,residential,Buckingham Lane,191.113,,,,,,,,,,,17710386,
+183504446,183403178,0,False,secondary,South Main Street,244.883,,,,,,,,,,,17700958,MD 818
+183504446,183504417,0,False,secondary,South Main Street,439.069,,,,,,,,,,,17700958,MD 818
+183504446,183482095,0,False,residential,Buckingham Road,102.551,,,,,,,,,,,17712446,
+183504494,183504513,0,False,secondary,South Main Street,85.649,,,,,,,,,,,17700958,MD 818
+183504494,183403178,0,False,secondary,South Main Street,122.667,,,,,,,,,,,17700958,MD 818
+183504494,183477796,0,False,residential,Washington Street,155.719,,,,,,,,,,,17713090,
+183504513,183504494,0,False,secondary,South Main Street,85.649,,,,,,,,,,,17700958,MD 818
+183504513,183504531,0,False,secondary,South Main Street,213.118,,,,,,,,,,,17700958,MD 818
+183504513,183525182,0,False,residential,Tripoli Street,43.234,,,,,,,,,,,17710127,
+183504531,183433811,0,False,secondary,South Main Street,29.378,,,,,,,,,,,17700958,MD 818
+183504531,183433806,0,False,secondary,Bay Street,18.509,,,,,,,,,,,17702973,MD 376
+183504531,183504513,0,False,secondary,South Main Street,213.118,,,,,,,,,,,17700958,MD 818
+183504531,1850831567,0,False,residential,Jefferson Street,127.663,,,,,,,,,,,17711011,
+183505528,183480024,0,False,residential,Ennis Lane,30.611,,,,,,,,,,,17708742,
+183505594,183467473,0,False,secondary,North Main Street,47.74,,,,,,,,,,,17708756,MD 818
+183505594,183441004,0,False,secondary,North Main Street,125.544,,,,,,,,,,,17708756,MD 818
+183505594,183558613,0,False,residential,Stevenson Lane,119.196,,,,,,,,,,,17712505,
+183505608,183364811,0,False,secondary,North Main Street,305.62,,,,,,,,,,,17708756,MD 818
+183505608,183467473,0,False,secondary,North Main Street,42.486,,,,,,,,,,,17708756,MD 818
+183505608,183501951,0,False,residential,Powellton Avenue,260.618,,,,,,,,,,,17709106,
+183505665,183483289,0,False,secondary,North Main Street,94.688,,,,,,,,,,,17708756,MD 818
+183505665,183178309,0,False,secondary,North Main Street,234.266,,,,,,,,,,,17708756,MD 818
+183505665,1850835922,0,False,residential,Austin Circle,162.272,,,,,,,,,,,174388642,
+183515957,183464381,0,False,residential,Schoolfield Street,7.864,,,,,,,,,,,17709471,
+183515957,183480019,0,False,residential,"['Elizabeth Street', 'Schoolfield Street']",512.1,,,,,,,,,,,"[17712083, 17709471]",
+183515957,183395215,0,False,residential,Railroad Avenue,164.634,,,,,,,,,,,17712419,
+183519073,183519083,0,False,residential,Littleworth Court,83.85,,,,,,,,,,,17709683,
+183519073,183530908,0,False,residential,Henrys Mill Drive,177.219,,,,,,,,,,,17710526,
+183519073,183530835,0,False,residential,Henrys Mill Drive,236.49,,,,,,,,,,,17710526,
+183519083,183519073,0,False,residential,Littleworth Court,83.85,,,,,,,,,,,17709683,
+183525153,5313994139,0,False,residential,Tripoli Street,53.018,,,,,,,,,,,17710127,
+183525153,183568326,0,True,trunk,Worcester Highway,211.965,2,,,50 mph,,,,,,,127287973,US 113
+183525182,183504513,0,False,residential,Tripoli Street,43.234,,,,,,,,,,,17710127,
+183525182,183452473,0,False,residential,Tripoli Street,73.291,,,,,,,,,,,17710127,
+183525182,183433786,0,False,residential,Church Street,158.119,,,,,,,,,,,17710561,
+183526258,183503400,0,False,residential,Franklin Square,158.082,,,,,,,,,,,17710231,
+183528376,183443329,0,False,residential,Quillen Drive,230.426,,,,,,,,,,,17710360,
+183529321,183529329,0,False,residential,West Street,395.36,,,,,,,,,,,17710419,
+183529321,183488833,0,False,residential,West Street,208.654,,,,,,,,,,,17710419,
+183529321,183481860,0,False,residential,West Buckingham Road,226.972,,,,,,,,,,,17710504,
+183529329,183537862,0,False,residential,Washington Street,155.852,,,,,,,,,,,17713090,
+183529329,183442428,0,False,residential,West Street,192.933,,,,,,,,,,,17710419,
+183529329,183529321,0,False,residential,West Street,395.36,,,,,,,,,,,17710419,
+183529329,183549349,0,False,residential,Washington Street,323.249,,,,,,,,,,,17713090,
+183530835,183549349,0,False,secondary,Libertytown Road,81.082,,,,,,,,,,,17711914,MD 374
+183530835,183519073,0,False,residential,Henrys Mill Drive,236.49,,,,,,,,,,,17710526,
+183530835,183549363,0,False,secondary,Libertytown Road,249.268,,,,,,,,,,,17711914,MD 374
+183530908,183530934,0,False,residential,Henrys Mill Drive,172.97,,,,,,,,,,,17710526,
+183530908,183519073,0,False,residential,Henrys Mill Drive,177.219,,,,,,,,,,,17710526,
+183530908,1850831563,0,False,residential,Penders Court,100.529,,,,,,,,,,,174387771,
+183530934,183530908,0,False,residential,Henrys Mill Drive,172.97,,,,,,,,,,,17710526,
+183537646,183489217,0,False,residential,Nancy Drive,107.612,,,,,,,,,,,17710988,
+183537862,183477817,0,False,residential,Jefferson Street,82.203,,,,,,,,,,,17711011,
+183537862,183529329,0,False,residential,Washington Street,155.852,,,,,,,,,,,17713090,
+183537862,183477796,0,False,residential,Washington Street,91.502,,,,,,,,,,,17713090,
+183541731,183403178,0,False,residential,Burley Street,498.761,,,,,,,,,,,17711345,
+183541731,2614132423,0,False,residential,,16.701,,,,,,,,,,,550619189,
+183541731,183228836,0,True,trunk,Worcester Highway,571.975,2,,,50 mph,,,,,,,127287973,US 113
+183541952,393676663,0,False,residential,Bottle Branch Road,661.853,,,,,,,,,,,17711365,
+183549349,183530835,0,False,secondary,Libertytown Road,81.082,,,,,,,,,,,17711914,MD 374
+183549349,183263531,0,False,secondary,Libertytown Road,16.444,,,,,,,,,,,17711914,MD 374
+183549349,183529329,0,False,residential,Washington Street,323.249,,,,,,,,,,,17713090,
+183549363,183443333,0,False,secondary,Libertytown Road,83.369,,,,,,,,,,,17711914,MD 374
+183549363,183530835,0,False,secondary,Libertytown Road,249.268,,,,,,,,,,,17711914,MD 374
+183549363,1850831556,0,False,residential,Buttercup Court,236.858,,,,,,,,,,,174387767,
+183556656,183489220,0,False,residential,Cheryl Drive,103.536,,,,,,,,,,,17712373,
+183558613,183505594,0,False,residential,Stevenson Lane,119.196,,,,,,,,,,,17712505,
+183560032,183481314,0,False,residential,Mill Road,88.861,,,,,,,,,,,17712593,
+183560032,183560032,0,False,residential,Mill Road,60.65,,,,,,,,,,,17712598,
+183560032,183560032,1,False,residential,Mill Road,60.65,,,,,,,,,,,17712598,
+183562368,2581477362,0,False,residential,Walsh Lane,61.053,,,,,,,,,,,17712808,
+183568326,183541731,0,True,trunk,Worcester Highway,69.321,2,,,50 mph,,,,,,,127287973,US 113
+183568326,2614132423,0,True,trunk_link,,72.576,,,,,,,,,,,255735758,
+183568375,183503391,0,True,trunk,Worcester Highway,46.3,2,,,50 mph,,,,,,,127287973,US 113
+183568375,183503386,0,True,trunk_link,,52.505,,,,,,,,,,,255735752,
+183569795,183389699,0,True,trunk,Worcester Highway,82.716,2,,,50 mph,,,,,,,115240188,US 113
+183569795,183389704,0,True,trunk_link,,80.612,,,,,,,,,,,255735755,
+183569821,2614132350,0,True,trunk,Worcester Highway,80.691,2,,,50 mph,,,,,,,115240188,US 113
+183569821,183525153,0,True,trunk_link,,89.876,,,,,,,,,,,255735744,
+183569821,5318200651,0,True,trunk_link,,79.075,,,,,,,,,,,550619190,
+312456292,393676566,0,True,trunk,Ocean Gateway,354.012,2,,,,,,,,,,131941630,US 50
+393676565,393676566,0,False,secondary,Friendship Road,20.97,,,,,,,,,,,17709115,MD 452
+393676565,183462152,0,True,trunk,Ocean Gateway,161.267,2,,,,,,,,,,115240217,US 50
+393676566,393676565,0,False,secondary,Friendship Road,20.97,,,,,,,,,,,17709115,MD 452
+393676566,3170513287,0,False,tertiary,Seahawk Road,767.061,,,,,,,,,,,17704614,
+393676592,393676593,0,False,residential,Flower Street,16.827,,,,,,,,,,,17705367,
+393676592,393676593,1,False,residential,,72.397,,,,,,,,,,,17690503,
+393676592,3170513287,0,False,residential,Flower Street,104.125,,,,,,,,,,,17705367,
+393676593,393676592,0,False,residential,Flower Street,16.827,,,,,,,,,,,17705367,
+393676593,393676592,1,False,residential,,72.397,,,,,,,,,,,17690503,
+393676593,393676595,0,False,residential,Flower Street,38.548,,,,,,,,,,,17705367,
+393676595,393676596,0,False,residential,Flower Street,13.866,,,,,,,,,,,17705367,
+393676595,393676593,0,False,residential,Flower Street,38.548,,,,,,,,,,,17705367,
+393676596,393676595,0,False,residential,Flower Street,13.866,,,,,,,,,,,17705367,
+393676596,393676597,0,False,residential,Flower Street,9.63,,,,,,,,,,,17705367,
+393676597,393676596,0,False,residential,Flower Street,9.63,,,,,,,,,,,17705367,
+393676663,183433714,0,False,secondary,Assateague Road,568.156,,,,,,,,,,,17707171,MD 376
+393676663,183541952,0,False,residential,Bottle Branch Road,661.853,,,,,,,,,,,17711365,
+393676713,183346142,0,False,residential,Reedy Cove Drive,34.572,,,,,,,,,,,17695110,
+393676720,2614132347,0,False,secondary,South Main Street,38.463,,,,,,,,,,,17700958,MD 818
+393676720,183239573,0,True,trunk_link,,99.868,,,,,,,,,,,17685154,
+1297861544,1297861741,0,False,secondary,South Main Street,17.508,,,,,,,,,,,17700958,MD 818
+1297861544,2614132347,0,False,secondary,South Main Street,30.699,,,,,,,,,,,17700958,MD 818
+1297861544,183239573,0,True,trunk,Worcester Highway,65.037,2,,,50 mph,,,,,,,"[127287971, 115240188]",US 113
+1297861741,1297861544,0,False,secondary,South Main Street,17.508,,,,,,,,,,,17700958,MD 818
+1297861741,183228781,0,False,secondary,South Main Street,37.969,,,,,,,,,,,17700958,MD 818
+1850831556,183549363,0,False,residential,Buttercup Court,236.858,,,,,,,,,,,174387767,
+1850831563,183530908,0,False,residential,Penders Court,100.529,,,,,,,,,,,174387771,
+1850831567,183477817,0,False,residential,Jefferson Street,13.521,,,,,,,,,,,17711011,
+1850831567,183477796,0,False,residential,Grace Street,163.634,,,,,,,,,,,17706472,
+1850831567,183504531,0,False,residential,Jefferson Street,127.663,,,,,,,,,,,17711011,
+1850831568,183471645,0,False,residential,Upshur Lane,64.642,,,,,,,,,,,17705994,
+1850831577,1850831598,0,False,residential,,191.465,,,,,,,,,,,174387769,
+1850831577,1850831598,1,False,residential,,711.966,,,,,,,,,,,174387777,
+1850831577,1850831582,0,False,residential,,171.464,,,,,,,,,,,174387777,
+1850831582,1850831577,0,False,residential,,171.464,,,,,,,,,,,174387777,
+1850831584,1850831594,0,False,residential,,248.145,,,,,,,,,,,174387765,
+1850831586,1850831596,0,False,residential,,231.504,,,,,,,,,,,174387766,
+1850831594,1850831596,0,False,residential,Esham Avenue,129.33,,,,,,,,,,,17703594,
+1850831594,1850831598,0,False,residential,Esham Avenue,135.478,,,,,,,,,,,17703594,
+1850831594,1850831584,0,False,residential,,248.145,,,,,,,,,,,174387765,
+1850831594,183489220,0,False,residential,Ann Drive,245.595,,,,,,,,,,,17707484,
+1850831596,183443329,0,False,residential,Esham Avenue,127.013,,,,,,,,,,,17703594,
+1850831596,1850831594,0,False,residential,Esham Avenue,129.33,,,,,,,,,,,17703594,
+1850831596,1850831586,0,False,residential,,231.504,,,,,,,,,,,174387766,
+1850831598,1850831594,0,False,residential,Esham Avenue,135.478,,,,,,,,,,,17703594,
+1850831598,1850831577,0,False,residential,,191.465,,,,,,,,,,,174387769,
+1850831598,1850831577,1,False,residential,,711.966,,,,,,,,,,,174387777,
+1850835898,1850835911,0,False,residential,,20.198,,,,,,,,,,,174388626,
+1850835898,1850835904,0,False,residential,,191.131,,,,,,,,,,,174388626,
+1850835898,1850835934,0,False,residential,,57.302,,,,,,,,,,,174388635,
+1850835901,1850835912,0,False,residential,,44.642,,,,,,,,,,,174388630,
+1850835901,1850835919,0,False,residential,,150.976,,,,,,,,,,,174388630,
+1850835901,1850835911,0,False,residential,,27.184,,,,,,,,,,,174388631,
+1850835904,1850835898,0,False,residential,,191.131,,,,,,,,,,,174388626,
+1850835909,1850835928,0,False,secondary,Old Ocean City Boulevard,8.961,,,,,,,,,,,17693449,MD 346
+1850835909,1850835934,0,True,residential,,63.701,,,,,,,,,,,174388617,
+1850835911,1850835898,0,False,residential,,20.198,,,,,,,,,,,174388626,
+1850835911,1850835901,0,False,residential,,27.184,,,,,,,,,,,174388631,
+1850835911,1850835917,0,False,residential,,33.88,,,,,,,,,,,174388631,
+1850835912,1850835932,0,False,residential,,21.557,,,,,,,,,,,174388630,
+1850835912,1850835901,0,False,residential,,44.642,,,,,,,,,,,174388630,
+1850835912,1850835917,0,False,residential,,35.892,,,,,,,,,,,174388643,
+1850835915,1850835917,0,False,residential,,26.805,,,,,,,,,,,174388643,
+1850835917,1850835915,0,False,residential,,26.805,,,,,,,,,,,174388643,
+1850835917,1850835912,0,False,residential,,35.892,,,,,,,,,,,174388643,
+1850835917,1850835911,0,False,residential,,33.88,,,,,,,,,,,174388631,
+1850835919,1850835901,0,False,residential,,150.976,,,,,,,,,,,174388630,
+1850835922,1850835922,0,False,residential,Austin Circle,481.081,,,,,,,,,,,174388627,
+1850835922,1850835922,1,False,residential,Austin Circle,481.081,,,,,,,,,,,174388627,
+1850835922,183505665,0,False,residential,Austin Circle,162.272,,,,,,,,,,,174388642,
+1850835928,183483289,0,False,secondary,Old Ocean City Boulevard,348.446,,,,,,,,,,,17693449,MD 346
+1850835928,1850835909,0,False,secondary,Old Ocean City Boulevard,8.961,,,,,,,,,,,17693449,MD 346
+1850835932,1850835912,0,False,residential,,21.557,,,,,,,,,,,174388630,
+1850835934,1850835928,0,True,residential,,66.74,,,,,,,,,,,174388633,
+1850835934,1850835898,0,False,residential,,57.302,,,,,,,,,,,174388635,
+2106556365,2106556786,0,False,residential,Senators Way,51.031,,,,,,,,,,,200692758,
+2106556365,2106556365,0,False,residential,Senators Way,127.626,,,,,,,,,,,200692758,
+2106556365,2106556365,1,False,residential,Senators Way,127.626,,,,,,,,,,,200692758,
+2106556380,2106556734,0,False,residential,Flagship Circle,22.962,,,,,,,,,,,200692767,
+2106556380,5318200652,0,False,residential,Dueling Way,60.26,,,,,,,,,,,200692754,
+2106556380,2106556729,0,False,residential,Dueling Way,85.593,,,,,,,,,,,200692754,
+2106556412,2106556412,0,False,residential,Enterprise Drive,130.451,,,,,,,,,,,200692759,
+2106556412,2106556412,1,False,residential,Enterprise Drive,130.451,,,,,,,,,,,200692759,
+2106556412,2106556729,0,False,residential,Enterprise Drive,62.032,,,,,,,,,,,200692759,
+2106556442,2106556571,0,False,residential,Dueling Way,116.836,,,,,,,,,,,200692754,
+2106556442,2106556481,0,False,residential,Dueling Way,28.101,,,,,,,,,,,200692754,
+2106556442,2106556481,1,False,residential,Presidents Court,77.681,,,,,,,,,,,200692765,
+2106556446,2106556627,0,False,residential,Gunboat Circle,35.645,,,,,,,,,,,200692756,
+2106556446,2106556731,0,False,residential,Dueling Way,128.321,,,,,,,,,,,200692754,
+2106556446,2106556742,0,False,residential,Dueling Way,261.093,,,,,,,,,,,200692754,
+2106556481,2106556442,0,False,residential,Dueling Way,28.101,,,,,,,,,,,200692754,
+2106556481,2106556442,1,False,residential,Presidents Court,77.681,,,,,,,,,,,200692765,
+2106556481,2106556728,0,False,residential,Dueling Way,126.313,,,,,,,,,,,200692754,
+2106556484,2106556571,0,False,residential,Mainmast Circle,51.735,,,,,,,,,,,200692757,
+2106556484,2106556484,0,False,residential,Mainmast Circle,87.537,,,,,,,,,,,200692764,
+2106556484,2106556484,1,False,residential,Mainmast Circle,87.537,,,,,,,,,,,200692764,
+2106556496,2106556795,0,False,residential,Dueling Way,247.767,,,,,,,,,,,200692754,
+2106556496,2106556571,0,False,residential,Dueling Way,236.567,,,,,,,,,,,200692754,
+2106556496,2106556746,0,False,residential,Dueling Way,34.068,,,,,,,,,,,200692768,
+2106556543,2106556746,0,False,residential,Schooner Lane,343.409,,,,,,,,,,,200692763,
+2106556543,2106556746,1,False,residential,Dueling Way,119.062,,,,,,,,,,,200692768,
+2106556543,2106556717,0,False,residential,"['Dueling Way', 'Intrepid Lane']",553.618,,,,,,,,,,,"[200692768, 200692761]",
+2106556571,2106556484,0,False,residential,Mainmast Circle,51.735,,,,,,,,,,,200692757,
+2106556571,2106556496,0,False,residential,Dueling Way,236.567,,,,,,,,,,,200692754,
+2106556571,2106556442,0,False,residential,Dueling Way,116.836,,,,,,,,,,,200692754,
+2106556627,2106556446,0,False,residential,Gunboat Circle,35.645,,,,,,,,,,,200692756,
+2106556627,2106556627,0,False,residential,Gunboat Circle,86.225,,,,,,,,,,,200692762,
+2106556627,2106556627,1,False,residential,Gunboat Circle,86.225,,,,,,,,,,,200692762,
+2106556717,2106556543,0,False,residential,"['Dueling Way', 'Intrepid Lane']",553.618,,,,,,,,,,,"[200692768, 200692761]",
+2106556728,5318200652,0,False,residential,Dueling Way,14.795,,,,,,,,,,,200692754,
+2106556728,2106556481,0,False,residential,Dueling Way,126.313,,,,,,,,,,,200692754,
+2106556729,2106556380,0,False,residential,Dueling Way,85.593,,,,,,,,,,,200692754,
+2106556729,2106556786,0,False,residential,Dueling Way,147.676,,,,,,,,,,,200692754,
+2106556729,2106556412,0,False,residential,Enterprise Drive,62.032,,,,,,,,,,,200692759,
+2106556731,2106556786,0,False,residential,Dueling Way,143.824,,,,,,,,,,,200692754,
+2106556731,2106556446,0,False,residential,Dueling Way,128.321,,,,,,,,,,,200692754,
+2106556731,2106556788,0,False,residential,Barbary Coast Drive,196.057,,,,,,,,,,,200692755,
+2106556734,2106556380,0,False,residential,Flagship Circle,22.962,,,,,,,,,,,200692767,
+2106556734,2106556734,0,False,residential,Flagship Circle,95.645,,,,,,,,,,,200692766,
+2106556734,2106556734,1,False,residential,Flagship Circle,95.645,,,,,,,,,,,200692766,
+2106556742,2106556446,0,False,residential,Dueling Way,261.093,,,,,,,,,,,200692754,
+2106556742,2106556795,0,False,residential,Dueling Way,38.994,,,,,,,,,,,200692754,
+2106556742,2106556795,1,False,residential,Top Deck Court,90.79,,,,,,,,,,,200692760,
+2106556746,2106556543,0,False,residential,Schooner Lane,343.409,,,,,,,,,,,200692763,
+2106556746,2106556543,1,False,residential,Dueling Way,119.062,,,,,,,,,,,200692768,
+2106556746,2106556496,0,False,residential,Dueling Way,34.068,,,,,,,,,,,200692768,
+2106556786,2106556365,0,False,residential,Senators Way,51.031,,,,,,,,,,,200692758,
+2106556786,2106556729,0,False,residential,Dueling Way,147.676,,,,,,,,,,,200692754,
+2106556786,2106556731,0,False,residential,Dueling Way,143.824,,,,,,,,,,,200692754,
+2106556788,2106556788,0,False,residential,Barbary Coast Drive,134.432,,,,,,,,,,,200692755,
+2106556788,2106556788,1,False,residential,Barbary Coast Drive,134.432,,,,,,,,,,,200692755,
+2106556788,2106556731,0,False,residential,Barbary Coast Drive,196.057,,,,,,,,,,,200692755,
+2106556795,2106556742,0,False,residential,Dueling Way,38.994,,,,,,,,,,,200692754,
+2106556795,2106556742,1,False,residential,Top Deck Court,90.79,,,,,,,,,,,200692760,
+2106556795,2106556496,0,False,residential,Dueling Way,247.767,,,,,,,,,,,200692754,
+2581477362,183562368,0,False,residential,Walsh Lane,61.053,,,,,,,,,,,17712808,
+2581477362,183456807,0,False,residential,West Branch Street,227.802,,,,,,,,,,,"[17709216, 252027564]",
+2581477362,183433768,0,False,residential,West Branch Street,233.078,,,,,,,,,,,17709216,
+2614132347,393676720,0,False,secondary,South Main Street,38.463,,,,,,,,,,,17700958,MD 818
+2614132347,1297861544,0,False,secondary,South Main Street,30.699,,,,,,,,,,,17700958,MD 818
+2614132350,5318200651,0,True,residential,Tripoli Street,21.862,,,,,,,,,,,17680777,
+2614132350,5318200658,0,True,trunk,Worcester Highway,108.716,2,,,50 mph,,,,,,,115240188,US 113
+2614132351,183525153,0,True,trunk,Worcester Highway,119.045,2,,,50 mph,,,,,,,127287973,US 113
+2614132351,2614132350,0,True,trunk_link,,126.87,,,,,,,,,,,255735743,
+2614132358,183483352,0,False,secondary,Old Ocean City Boulevard,52.125,,,,,,,,,,,17693449,MD 346
+2614132358,183483346,0,False,secondary,Old Ocean City Boulevard,79.864,,,,,,,,,,,17693449,MD 346
+2614132358,2614132364,0,True,secondary_link,,87.442,,,,,,,,,,,255735745,
+2614132364,183568375,0,True,trunk,Worcester Highway,528.651,2,,,50 mph,,,,,,,127287973,US 113
+2614132365,183453137,0,False,secondary,Williams Street,90.961,,,,,,,,,,,17708486,
+2614132365,2614132370,0,False,secondary,Williams Street,108.546,,,,,,,,,,,17708486,
+2614132365,2614132369,0,False,residential,,141.617,,,,,,,,,,,255735746,
+2614132369,2614132365,0,False,residential,,141.617,,,,,,,,,,,255735746,
+2614132370,2614132371,0,False,residential,Walnut Hill Road,91.094,,,,,,,,,,,255735747,
+2614132370,183501951,0,False,secondary,Williams Street,156.325,,,,,,,,,,,17708486,
+2614132370,2614132365,0,False,secondary,Williams Street,108.546,,,,,,,,,,,17708486,
+2614132371,2614132370,0,False,residential,Walnut Hill Road,91.094,,,,,,,,,,,255735747,
+2614132371,2614132371,0,False,residential,Walnut Hill Drive,384.399,,,,,,,,,,,255735748,
+2614132371,2614132371,1,False,residential,Walnut Hill Drive,384.399,,,,,,,,,,,255735748,
+2614132392,183453137,0,False,secondary,Williams Street,34.495,,,,,,,,,,,17708486,
+2614132392,2614132393,0,False,residential,,64.561,,,,,,,,,,,255735749,
+2614132392,183501935,0,False,secondary,Williams Street,94.069,,,,,,,,,,,17708486,
+2614132393,2614132392,0,False,residential,,64.561,,,,,,,,,,,255735749,
+2614132393,2614132393,0,False,residential,,360.159,,,,,,,,,,,255735750,
+2614132393,2614132393,1,False,residential,,360.159,,,,,,,,,,,255735750,
+2614132413,183503386,0,True,trunk,Worcester Highway,52.13,2,,,50 mph,,,,,,,255735754,US 113
+2614132413,183503391,0,True,trunk_link,,58.093,,,,,,,,,,,255735753,
+2614132419,183389704,0,True,trunk,Worcester Highway,84.433,2,,,50 mph,,,,,,,127287973,US 113
+2614132419,183389699,0,True,trunk_link,,84.03,,,,,,,,,,,255735756,
+2614132423,183541731,0,False,residential,,16.701,,,,,,,,,,,550619189,
+2614132423,183569821,0,True,trunk,Worcester Highway,199.674,2,,,50 mph,,,,,,,115240188,US 113
+2614132423,183481283,0,False,residential,Burley Street,106.661,,,,,,,,,,,255735757,
+2614132429,2614132423,0,True,trunk,Worcester Highway,42.474,2,,,50 mph,,,,,,,115240188,US 113
+2614132429,183541731,0,True,trunk_link,,46.249,,,,,,,,,,,255735759,
+3168268807,183238452,0,False,secondary,Libertytown Road,183.236,,,,,,,,,,,17711914,MD 374
+3168268807,183238452,1,False,residential,Prospect Drive,958.284,,,,,,,,,,,311235212,
+3168268807,183489215,0,False,secondary,Libertytown Road,30.249,,,,,,,,,,,17711914,MD 374
+3169011267,183178309,0,False,residential,Harrison Avenue,47.109,,,,,,,,,,,17680368,
+3169011267,183178299,0,False,residential,Harrison Avenue,100.628,,,,,,,,,,,17680368,
+3169011267,3169011268,0,False,residential,Harrison Avenue,23.947,,,,,,,,,,,311296904,
+3169011268,183178309,0,False,secondary,North Main Street,42.819,,,,,,,,,,,17708756,MD 818
+3169011268,183453173,0,False,secondary,North Main Street,25.34,,,,,,,,,,,17708756,MD 818
+3169011268,3169011267,0,False,residential,Harrison Avenue,23.947,,,,,,,,,,,311296904,
+3170513287,393676566,0,False,tertiary,Seahawk Road,767.061,,,,,,,,,,,17704614,
+3170513287,393676592,0,False,residential,Flower Street,104.125,,,,,,,,,,,17705367,
+5313994133,183452473,0,False,residential,Tripoli Street,326.394,,,,,,,,,,,17710127,
+5313994133,5313994139,0,False,residential,Tripoli Street,40.326,,,,,,,,,,,17710127,
+5313994133,5313994139,1,False,residential,,57.48,,,,,,,,,,,550166879,
+5313994139,5313994133,0,False,residential,Tripoli Street,40.326,,,,,,,,,,,17710127,
+5313994139,5313994133,1,False,residential,,57.48,,,,,,,,,,,550166879,
+5313994139,183525153,0,False,residential,Tripoli Street,53.018,,,,,,,,,,,17710127,
+5313994157,5313994162,0,False,residential,,204.598,,,,,,,,,,,550166881,
+5313994162,5313994168,0,False,residential,,291.707,,,,,,,,,,,550166881,
+5313994162,5313994157,0,False,residential,,204.598,,,,,,,,,,,550166881,
+5313994162,5313994172,0,False,residential,,70.145,,,,,,,,,,,550166882,
+5313994168,183432627,0,False,residential,Flower Street,301.287,,,,,,,,,,,17705367,
+5313994168,5313994162,0,False,residential,,291.707,,,,,,,,,,,550166881,
+5313994172,5313994162,0,False,residential,,70.145,,,,,,,,,,,550166882,
+5314976449,183228297,0,False,residential,Buckingham Lane,67.017,,,,,,,,,,,17710386,
+5314976449,183504417,0,False,residential,Buckingham Lane,191.113,,,,,,,,,,,17710386,
+5318200651,183184375,0,True,residential,Tripoli Street,10.35,,,,,,,,,,,17680777,
+5318200652,2106556728,0,False,residential,Dueling Way,14.795,,,,,,,,,,,200692754,
+5318200652,5318200653,0,True,residential,Tripoli Street,71.904,,,,,,,,,,,550619191,
+5318200652,2106556380,0,False,residential,Dueling Way,60.26,,,,,,,,,,,200692754,
+5318200653,183184375,0,False,residential,Decatur Street,13.753,,,,,,,,,,,17706796,
+5318200653,183433729,0,False,residential,Decatur Street,369.606,,,,,,,,,,,17706796,
+5318200653,5318200658,0,True,trunk_link,,123.264,,,,,,,,,,,550619192,
+5318200658,183433732,0,True,trunk,Worcester Highway,255.746,2,,,50 mph,,,,,,,115240188,US 113
+5584576468,183454462,0,False,residential,Graham Avenue,122.207,,,,,,,,,,,17704413,

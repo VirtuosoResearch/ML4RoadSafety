@@ -1,0 +1,77 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+254137489,254137490,0,False,unclassified,,15.971,,,,,,,,,,,23467229,
+254137489,254154335,0,True,primary,Central Park Avenue N,145.476,,,,,,,,,,,421097880,NY 100
+254137490,254137489,0,False,unclassified,,15.971,,,,,,,,,,,23467229,
+254137490,254151350,0,True,primary,Central Park Avenue S,80.514,,,,,,,,,,,421097891,NY 100
+254149402,254193248,0,True,primary,Central Park Avenue N,77.426,,,,,,,,,,,420555476,NY 100
+254149407,254156582,0,True,primary,Central Park Avenue N,138.217,,,,,,,,,,,421097880,NY 100
+254151335,254188460,0,False,residential,Fort Hill Avenue,62.127,,,,,,,,,,,23527887,
+254151350,254151335,0,True,primary_link,,129.156,,,,,,,,,,,23468744,
+254151350,254213885,0,True,primary,Central Park Avenue S,69.111,,,,,,,,,,,"[421097891, 420607252]",NY 100
+254154335,254154336,0,False,unclassified,,15.648,,,,,,,,,,,23469131,
+254154335,254149407,0,True,primary,Central Park Avenue N,152.8,,,,,,,,,,,421097880,NY 100
+254154336,254154335,0,False,unclassified,,15.648,,,,,,,,,,,23469131,
+254154336,254137490,0,True,primary,Central Park Avenue S,145.933,,,,,,,,,,,421097891,NY 100
+254156582,254156588,0,False,unclassified,,16.044,,,,,,,,,,,23469360,
+254156582,254163680,0,True,primary,Central Park Avenue N,140.964,,,,,,,,,,,421097880,NY 100
+254156588,254156582,0,False,unclassified,,16.044,,,,,,,,,,,23469360,
+254163679,254163680,0,False,unclassified,,15.705,,,,,,,,,,,23470176,
+254163679,254156588,0,True,primary,Central Park Avenue S,141.414,,,,,,,,,,,421097891,NY 100
+254163680,254163679,0,False,unclassified,,15.705,,,,,,,,,,,23470176,
+254188459,254188460,0,False,residential,Young Avenue,72.441,,,,,,,,,,,44793627,
+254188460,254151335,0,False,residential,Fort Hill Avenue,62.127,,,,,,,,,,,23527887,
+254188460,254188459,0,False,residential,Young Avenue,72.441,,,,,,,,,,,44793627,
+254193248,254193283,0,True,primary_link,,192.339,,,,,,,,,,,"[23473257, 421106961]",
+254193248,254214176,0,True,primary,Central Park Avenue N,188.585,,,,,,,,,,,"[420555474, 420555476]",NY 100
+254193283,254214176,0,False,residential,East Forthill Road,47.745,,,,,,,,,,,23503162,
+254193283,254542516,0,False,residential,East Forthill Road,115.85,,,,,,,,,,,23503162,
+254193305,254841055,0,False,residential,Bacon Place,201.015,,,,,,,,,,,23533106,
+254213885,254214176,0,False,residential,East Forthill Road,16.016,,,,,,,,,,,23503162,
+254214165,254214167,0,True,primary,Central Park Avenue N,102.256,,,,,,,,,,,48569919,NY 100
+254214167,254692245,0,False,residential,Colombe Place,68.508,,,,,,,,,,,23517735,
+254214167,254214168,0,True,primary,Central Park Avenue N,37.595,,,,,,,,,,,48569919,NY 100
+254214168,254692250,0,False,residential,Colombe Place,43.594,,,,,,,,,,,23517736,
+254214168,254149402,0,True,primary,Central Park Avenue N,117.462,,,,,,,,,,,"[420555472, 48569919]",NY 100
+254214176,254193283,0,False,residential,East Forthill Road,47.745,,,,,,,,,,,23503162,
+254214176,254213885,0,False,residential,East Forthill Road,16.016,,,,,,,,,,,23503162,
+254214176,254137489,0,True,primary,Central Park Avenue N,148.34,,,,,,,,,,,421097880,NY 100
+254217700,254727670,0,False,residential,Falmouth Road,193.771,,,,,,,,,,,23533256,
+254238451,254690853,0,False,residential,Falmouth Road,99.33,,,,,,,,,,,23533256,
+254238451,254674845,0,False,residential,Falmouth Road,263.54,,,,,,,,,,,23533256,
+254542516,254806612,0,False,residential,Halsey Road,92.368,,,,,,,,,,,23531240,
+254542516,254542529,0,False,residential,East Forthill Road,125.536,,,,,,,,,,,23503162,
+254542516,254193283,0,False,residential,East Forthill Road,115.85,,,,,,,,,,,23503162,
+254542529,254542516,0,False,residential,East Forthill Road,125.536,,,,,,,,,,,23503162,
+254542529,254806614,0,True,residential,Eisenhower Drive,79.3,,,,,,,,,,,23538178,
+254658166,254765604,0,False,residential,Chalford Lane,107.194,,,,,,,,,,,23526564,
+254672438,254672541,0,False,residential,Nimitz Road,342.785,,,,,,,,,,,23516530,
+254672438,254804819,0,True,residential,Patton Drive,271.273,,,,,,,,,,,23530001,
+254672541,254841059,0,False,residential,Bacon Place,34.321,,,,,,,,,,,574101896,
+254672541,254804819,0,False,residential,Bacon Place,78.223,,,,,,,,,,,574101896,
+254672541,254672438,0,False,residential,Nimitz Road,342.785,,,,,,,,,,,23516530,
+254672541,254758458,0,False,residential,Nimitz Place,149.434,,,,,,,,,,,23525871,
+254674779,254765604,0,False,residential,Chalford Lane,111.158,,,,,,,,,,,23526564,
+254674779,254765603,0,False,residential,Chalford Lane,70.374,,,,,,,,,,,23526564,
+254674779,254674845,0,False,residential,Marisa Drive,165.233,,,,,,,,,,,23516858,
+254674845,254674779,0,False,residential,Marisa Drive,165.233,,,,,,,,,,,23516858,
+254674845,254238451,0,False,residential,Falmouth Road,263.54,,,,,,,,,,,23533256,
+254690853,254238451,0,False,residential,Falmouth Road,99.33,,,,,,,,,,,23533256,
+254690853,254810490,0,False,residential,Falmouth Road,162.413,,,,,,,,,,,23533256,
+254692245,254214167,0,False,residential,Colombe Place,68.508,,,,,,,,,,,23517735,
+254692250,254214168,0,False,residential,Colombe Place,43.594,,,,,,,,,,,23517736,
+254727670,254217700,0,False,residential,Falmouth Road,193.771,,,,,,,,,,,23533256,
+254758458,254672541,0,False,residential,Nimitz Place,149.434,,,,,,,,,,,23525871,
+254765603,254674779,0,False,residential,Chalford Lane,70.374,,,,,,,,,,,23526564,
+254765604,254658166,0,False,residential,Chalford Lane,107.194,,,,,,,,,,,23526564,
+254765604,254674779,0,False,residential,Chalford Lane,111.158,,,,,,,,,,,23526564,
+254804819,254672541,0,False,residential,Bacon Place,78.223,,,,,,,,,,,574101896,
+254804819,254841055,0,True,residential,Bacon Place,86.524,,,,,,,,,,,574101908,
+254806612,254806614,0,False,residential,Simpson Place,138.059,,,,,,,,,,,23530147,
+254806612,254542516,0,False,residential,Halsey Road,92.368,,,,,,,,,,,23531240,
+254806612,254822613,0,False,residential,Halsey Road,23.876,,,,,,,,,,,23531240,
+254806614,254806612,0,False,residential,Simpson Place,138.059,,,,,,,,,,,23530147,
+254810490,254690853,0,False,residential,Falmouth Road,162.413,,,,,,,,,,,23533256,
+254822613,254806612,0,False,residential,Halsey Road,23.876,,,,,,,,,,,23531240,
+254841055,254542529,0,True,residential,Eisenhower Drive,81.666,,,,,,,,,,,23538178,
+254841055,254193305,0,False,residential,Bacon Place,201.015,,,,,,,,,,,23533106,
+254841059,254672541,0,False,residential,Bacon Place,34.321,,,,,,,,,,,574101896,

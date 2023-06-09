@@ -1,0 +1,59 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+213275837,213275873,0,False,residential,,275.372,,,,,,,,,,,20168388,
+213275837,213275873,1,False,secondary,Main Street,106.463,2,,,,,,,,,,20169217,NY 96A; NY 414
+213275837,213287281,0,False,secondary,Main Street,229.028,2,,,,,,,,,,20169217,NY 96A; NY 414
+213275837,213285930,0,False,residential,Brown Street,95.758,,,,,,,,,,,20170263,
+213275873,213275837,0,False,residential,,275.372,,,,,,,,,,,20168388,
+213275873,213275837,1,False,secondary,Main Street,106.463,2,,,,,,,,,,20169217,NY 96A; NY 414
+213275873,213287302,0,False,secondary,Main Street,208.497,2,,,,,,,,,,20169217,NY 96A; NY 414
+213279652,213296007,0,False,residential,Ann Street,124.146,,,,,,,,,,,20169893,
+213279652,213295999,0,False,residential,Ann Street,142.461,,,,,,,,,,,20169893,
+213279652,213298429,0,False,residential,Water Street,139.55,,,,,,,,,,,20171773,
+213285930,213285937,0,False,residential,Orchard Street,231.132,,,,,,,,,,,20169116,
+213285930,213298438,0,False,residential,Brown Street,191.862,,,,,,,,,,,20170263,
+213285930,213275837,0,False,residential,Brown Street,95.758,,,,,,,,,,,20170263,
+213285937,213287302,0,False,primary,North Street,281.736,2,,,,,,,,,,20172984,NY 96A
+213285937,213285930,0,False,residential,Orchard Street,231.132,,,,,,,,,,,20169116,
+213285937,213298443,0,False,primary,"['State Highway 96A', 'North Street']",187.861,2,,,,,,,,,,"[20172984, 48840394]",NY 96A
+213287262,213287269,0,False,secondary,Main Street,479.866,2,,,,,,,,,,20169217,NY 96A; NY 414
+213287262,213295993,0,False,residential,Center Road,202.42,,,,,,,,,,,20170028,
+213287269,213287278,0,False,secondary,Main Street,141.036,2,,,,,,,,,,20169217,NY 96A; NY 414
+213287269,213287262,0,False,secondary,Main Street,479.866,2,,,,,,,,,,20169217,NY 96A; NY 414
+213287269,213298479,0,False,residential,Chapman Street,189.569,,,,,,,,,,,20173120,
+213287278,213287281,0,False,secondary,Main Street,126.113,2,,,,,,,,,,20169217,NY 96A; NY 414
+213287278,213298483,0,False,residential,Water Street,215.572,,,,,,,,,,,20171773,
+213287278,213287269,0,False,secondary,Main Street,141.036,2,,,,,,,,,,20169217,NY 96A; NY 414
+213287281,213287278,0,False,secondary,Main Street,126.113,2,,,,,,,,,,20169217,NY 96A; NY 414
+213287281,213275837,0,False,secondary,Main Street,229.028,2,,,,,,,,,,20169217,NY 96A; NY 414
+213287281,213298432,0,False,tertiary,West Seneca Street,238.376,,,,,,,,,,,20172625,CR 139
+213287302,213285937,0,False,primary,North Street,281.736,2,,,,,,,,,,20172984,NY 96A
+213287302,213275873,0,False,secondary,Main Street,208.497,2,,,,,,,,,,20169217,NY 96A; NY 414
+213295993,213295999,0,False,residential,Ann Street,451.492,,,,,,,,,,,20169893,
+213295993,213287262,0,False,residential,Center Road,202.42,,,,,,,,,,,20170028,
+213295999,213279652,0,False,residential,Ann Street,142.461,,,,,,,,,,,20169893,
+213295999,213295993,0,False,residential,Ann Street,451.492,,,,,,,,,,,20169893,
+213295999,213298479,0,False,residential,Chapman Street,148.254,,,,,,,,,,,20173120,
+213296007,213279652,0,False,residential,Ann Street,124.146,,,,,,,,,,,20169893,
+213296007,213298432,0,False,tertiary,West Seneca Street,142.757,,,,,,,,,,,20172625,CR 139
+213298429,213298432,0,False,residential,Prospect Street,123.55,,,,,,,,,,,20170073,
+213298429,213298483,0,False,residential,Water Street,8.995,,,,,,,,,,,20171773,
+213298429,213279652,0,False,residential,Water Street,139.55,,,,,,,,,,,20171773,
+213298432,213298435,0,False,residential,Prospect Street,140.114,,,,,,,,,,,20170073,
+213298432,213298429,0,False,residential,Prospect Street,123.55,,,,,,,,,,,20170073,
+213298432,213296007,0,False,tertiary,West Seneca Street,142.757,,,,,,,,,,,20172625,CR 139
+213298432,213287281,0,False,tertiary,West Seneca Street,238.376,,,,,,,,,,,20172625,CR 139
+213298435,213298438,0,False,residential,Prospect Street,120.907,,,,,,,,,,,20170073,
+213298435,213298432,0,False,residential,Prospect Street,140.114,,,,,,,,,,,20170073,
+213298435,213315747,0,False,residential,Seneca Street,101.474,,,,,,,,,,,20171395,
+213298438,213298435,0,False,residential,Prospect Street,120.907,,,,,,,,,,,20170073,
+213298438,213298443,0,False,residential,Prospect Street,209.283,,,,,,,,,,,20170073,
+213298438,213285930,0,False,residential,Brown Street,191.862,,,,,,,,,,,20170263,
+213298443,213298438,0,False,residential,Prospect Street,209.283,,,,,,,,,,,20170073,
+213298443,213285937,0,False,primary,"['State Highway 96A', 'North Street']",187.861,2,,,,,,,,,,"[20172984, 48840394]",NY 96A
+213298479,213298483,0,False,residential,Prospect Street,139.55,,,,,,,,,,,20170080,
+213298479,213295999,0,False,residential,Chapman Street,148.254,,,,,,,,,,,20173120,
+213298479,213287269,0,False,residential,Chapman Street,189.569,,,,,,,,,,,20173120,
+213298483,213298429,0,False,residential,Water Street,8.995,,,,,,,,,,,20171773,
+213298483,213287278,0,False,residential,Water Street,215.572,,,,,,,,,,,20171773,
+213298483,213298479,0,False,residential,Prospect Street,139.55,,,,,,,,,,,20170080,
+213315747,213298435,0,False,residential,Seneca Street,101.474,,,,,,,,,,,20171395,

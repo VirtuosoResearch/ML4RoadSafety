@@ -1,0 +1,79 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+49455676,1393229280,0,False,primary,Greenmount Avenue,66.62,4,,,25 mph,,,,,,,522361563,MD 45
+49455676,49527545,0,False,primary,Greenmount Avenue,72.533,4,,,25 mph,,,,,,,522361563,MD 45
+49458480,49500803,0,False,residential,East 30th Street,32.024,2,,,,,,,,,,6008195,
+49458480,49459961,0,False,residential,East 30th Street,70.418,2,,,,,,,,,,6008195,
+49459949,49541546,0,False,residential,East 27th Street,67.375,,,,,,,,,,,91651541,
+49459949,683673450,0,False,residential,Mathews Street,132.894,,,,25 mph,,,,,,,396230706,
+49459949,49556367,0,False,residential,"['Reese Street', 'East 27th Street']",252.461,,,,25 mph,,,,,,,"[91651541, 6017334]",
+49459949,49459950,0,False,residential,Mathews Street,137.421,,,,25 mph,,,,,,,396230706,
+49459950,49459949,0,False,residential,Mathews Street,137.421,,,,25 mph,,,,,,,396230706,
+49459950,49459955,0,True,tertiary,Mathews Street,93.715,2,,,25 mph,,,,,,,396230707,
+49459955,49459960,0,False,residential,Mathews Street,77.327,,,,25 mph,,,,,,,6003247,
+49459955,49556369,0,False,tertiary,Exeter Hall Avenue,199.916,2,,,30 mph,,,,,,,6021203,
+49459955,1393229280,0,False,tertiary,Exeter Hall Avenue,153.394,2,,,30 mph,,,,,,,6021203,
+49459960,49459961,0,False,residential,Mathews Street,64.379,,,,25 mph,,,,,,,6003247,
+49459960,49459955,0,False,residential,Mathews Street,77.327,,,,25 mph,,,,,,,6003247,
+49459960,49554954,0,False,residential,East 29th Street,104.243,,,,,,,,,,,6018521,
+49459961,49459960,0,False,residential,Mathews Street,64.379,,,,25 mph,,,,,,,6003247,
+49459961,49458480,0,False,residential,East 30th Street,70.418,2,,,,,,,,,,6008195,
+49459961,49500790,0,False,residential,East 30th Street,180.359,2,,,,,,,,,,6008195,
+49459961,49459965,0,False,residential,Mathews Street,184.495,,,,25 mph,,,,,,,431799773,
+49459965,49508058,0,False,residential,Montpelier Street,151.281,2,,,,,,,,,,6010456,
+49459965,49459961,0,False,residential,Mathews Street,184.495,,,,25 mph,,,,,,,431799773,
+49461708,49461709,0,False,residential,Independence Street,78.224,2,,,,,,,,,,118671480,
+49461708,49461717,0,False,residential,Independence Street,69.176,,,,,,,,,,,6003408,
+49461709,49461708,0,False,residential,Independence Street,78.224,2,,,,,,,,,,118671480,
+49461709,49508058,0,False,residential,Montpelier Street,171.068,2,,,,,,,,,,6010456,
+49461717,49461708,0,False,residential,Independence Street,69.176,,,,,,,,,,,6003408,
+49461717,49500790,0,False,residential,East 30th Street,109.27,2,,,,,,,,,,6008195,
+49500790,49459961,0,False,residential,East 30th Street,180.359,2,,,,,,,,,,6008195,
+49500790,49461717,0,False,residential,East 30th Street,109.27,2,,,,,,,,,,6008195,
+49500803,49500805,0,False,residential,East 30th Street,90.48,2,,,,,,,,,,6008195,
+49500803,49554954,0,False,residential,Limond Place,66.147,,,,,,,,,,,6016915,
+49500803,49458480,0,False,residential,East 30th Street,32.024,2,,,,,,,,,,6008195,
+49500805,49500803,0,False,residential,East 30th Street,90.48,2,,,,,,,,,,6008195,
+49500805,49500869,0,False,primary,Greenmount Avenue,47.759,4,,,25 mph,,,,,,,125266906,MD 45
+49500805,49527551,0,False,primary,Greenmount Avenue,63.448,4,,,25 mph,,,,,,,125266906,MD 45
+49500869,1334171942,0,False,primary,Greenmount Avenue,68.979,4,,,25 mph,,,,,,,125266906,MD 45
+49500869,49500805,0,False,primary,Greenmount Avenue,47.759,4,,,25 mph,,,,,,,125266906,MD 45
+49507652,49527540,0,False,primary,Greenmount Avenue,99.788,4,,,25 mph,,,,,,,424994494,MD 45
+49508058,49461709,0,False,residential,Montpelier Street,171.068,2,,,,,,,,,,6010456,
+49508058,49459965,0,False,residential,Montpelier Street,151.281,2,,,,,,,,,,6010456,
+49508058,49500790,0,True,residential,"['Ellerslie Avenue', 'Reese Street', 'Fillmore Street']",200.45,,,,,,,,,,,"[118671481, 118671485, 6021229]",
+49521755,49527545,0,False,primary,Greenmount Avenue,69.164,4,,,25 mph,,,,,,,"[522361563, 424994494]",MD 45
+49521755,49527540,0,False,primary,Greenmount Avenue,68.111,4,,,25 mph,,,,,,,424994494,MD 45
+49527540,49541546,0,False,residential,East 27th Street,70.211,,,,,,,,,,,91651541,
+49527540,49521755,0,False,primary,Greenmount Avenue,68.111,4,,,25 mph,,,,,,,424994494,MD 45
+49527540,49507652,0,False,primary,Greenmount Avenue,99.788,4,,,25 mph,,,,,,,424994494,MD 45
+49527545,49459950,0,True,tertiary,East 28th Street,138.637,2,,,,,,,,,,93108174,
+49527545,49455676,0,False,primary,Greenmount Avenue,72.533,4,,,25 mph,,,,,,,522361563,MD 45
+49527545,49521755,0,False,primary,Greenmount Avenue,69.164,4,,,25 mph,,,,,,,"[522361563, 424994494]",MD 45
+49527551,49554954,0,False,residential,East 29th Street,74.907,,,,,,,,,,,6018521,
+49527551,49500805,0,False,primary,Greenmount Avenue,63.448,4,,,25 mph,,,,,,,125266906,MD 45
+49527551,1393229280,0,False,primary,Greenmount Avenue,42.918,4,,,25 mph,,,,,,,125266906,MD 45
+49541546,49541547,0,False,residential,Boone Street,67.551,,,,,,,,,,,6014017,
+49541546,683673470,0,False,residential,Boone Street,135.381,,,,,,,,,,,6014017,
+49541546,49459949,0,False,residential,East 27th Street,67.375,,,,,,,,,,,91651541,
+49541546,49527540,0,False,residential,East 27th Street,70.211,,,,,,,,,,,91651541,
+49541547,49541546,0,False,residential,Boone Street,67.551,,,,,,,,,,,6014017,
+49542246,1323164041,0,False,residential,East 31st Street,122.227,,,,,,,,,,,6021369,
+49542246,49516031,0,True,tertiary,Old York Road,61.119,2,,,,,,,,,,431797762,
+49554954,49500803,0,False,residential,Limond Place,66.147,,,,,,,,,,,6016915,
+49554954,49527551,0,False,residential,East 29th Street,74.907,,,,,,,,,,,6018521,
+49554954,49459960,0,False,residential,East 29th Street,104.243,,,,,,,,,,,6018521,
+49556367,49556369,0,False,residential,Reese Street,31.881,,,,25 mph,,,,,,,6017334,
+49556367,49459949,0,False,residential,"['Reese Street', 'East 27th Street']",252.461,,,,25 mph,,,,,,,"[91651541, 6017334]",
+49556367,49559880,0,False,residential,East 28th Street,101.753,,,,,,,,,,,6018188,
+49556369,49556367,0,False,residential,Reese Street,31.881,,,,25 mph,,,,,,,6017334,
+49556369,49559880,0,False,tertiary,Exeter Hall Avenue,97.789,2,,,30 mph,,,,,,,6021203,
+49556369,49459955,0,False,tertiary,Exeter Hall Avenue,199.916,2,,,30 mph,,,,,,,6021203,
+49559880,49556367,0,False,residential,East 28th Street,101.753,,,,,,,,,,,6018188,
+49559880,49556369,0,False,tertiary,Exeter Hall Avenue,97.789,2,,,30 mph,,,,,,,6021203,
+683673450,49459949,0,False,residential,Mathews Street,132.894,,,,25 mph,,,,,,,396230706,
+683673470,49541546,0,False,residential,Boone Street,135.381,,,,,,,,,,,6014017,
+1323164041,49542246,0,False,residential,East 31st Street,122.227,,,,,,,,,,,6021369,
+1334171942,49500869,0,False,primary,Greenmount Avenue,68.979,4,,,25 mph,,,,,,,125266906,MD 45
+1393229280,49527551,0,False,primary,Greenmount Avenue,42.918,4,,,25 mph,,,,,,,125266906,MD 45
+1393229280,49459955,0,False,tertiary,Exeter Hall Avenue,153.394,2,,,30 mph,,,,,,,6021203,
+1393229280,49455676,0,False,primary,Greenmount Avenue,66.62,4,,,25 mph,,,,,,,522361563,MD 45

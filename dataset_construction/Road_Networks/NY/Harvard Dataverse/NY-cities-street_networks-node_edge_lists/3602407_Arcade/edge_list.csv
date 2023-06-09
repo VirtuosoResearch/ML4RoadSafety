@@ -1,0 +1,155 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+221673253,221714889,0,False,residential,Clearview Drive,122.665,,,,,,,,,,,20652001,
+221673253,221673267,0,False,secondary,Liberty Street,360.642,,,,30 mph,,,,,,,128845465,NY 98
+221673253,1422733797,0,False,secondary,Liberty Street,192.08,,,,30 mph,,,,,,,128845465,NY 98
+221673267,221673288,0,False,secondary,Liberty Street,246.797,,,,30 mph,,,,,,,20647868,NY 98
+221673267,221673253,0,False,secondary,Liberty Street,360.642,,,,30 mph,,,,,,,128845465,NY 98
+221673267,221702123,0,False,residential,Haskell Avenue,119.316,,,,,,,,,,,20651839,
+221673288,221673267,0,False,secondary,Liberty Street,246.797,,,,30 mph,,,,,,,20647868,NY 98
+221673288,221702078,0,False,residential,Mill Street,147.641,,,,,,,,,,,20650872,
+221673288,221673297,0,False,secondary,Liberty Street,186.552,,,,30 mph,,,,,,,20647868,NY 98
+221673297,221725151,0,False,secondary,Main Street,75.02,,,,30 mph,,,,,,,20652981,NY 39
+221673297,221673288,0,False,secondary,Liberty Street,186.552,,,,30 mph,,,,,,,20647868,NY 98
+221673297,221718114,0,False,secondary,East Main Street,81.192,,,,30 mph,,,yes,,,,"[20652296, 155907285, 155907286]",NY 39; NY 98
+221686970,221687010,0,False,residential,,72.525,,,,,,,,,,,20649286,
+221686970,221687006,0,False,residential,,43.432,,,,,,,,,,,20649286,
+221686970,1422733798,0,False,residential,,920.268,,,,,,,,,,,20649286,
+221687006,221686970,0,False,residential,,43.432,,,,,,,,,,,20649286,
+221687006,1422733798,0,False,residential,,83.447,,,,,,,,,,,20649286,
+221687006,221718132,0,False,residential,Parkview Court,192.205,,,,,,,,,,,20653066,
+221687010,221686970,0,False,residential,,72.525,,,,,,,,,,,20649286,
+221687010,221718128,0,False,residential,Clough Avenue,213.884,,,,,,,,,,,20652556,
+221687010,221720968,0,False,residential,Clough Avenue,89.553,,,,,,,,,,,20652556,
+221687010,221711721,0,False,residential,Grove Street,121.922,,,,,,,,,,,20653438,
+221689591,221689603,0,False,residential,,171.594,,,,,,,,,,,20649532,
+221689591,221702078,0,False,residential,Mill Street,65.181,,,,,,,,,,,20650872,
+221689591,221702063,0,False,residential,Mill Street,83.524,,,,,,,,,,,20650872,
+221689603,221689591,0,False,residential,,171.594,,,,,,,,,,,20649532,
+221690928,221708995,0,False,residential,Park Street,312.73,,,,,,,,,,,20651473,
+221690928,221708992,0,False,residential,Park Street,154.093,,,,,,,,,,,20651473,
+221690928,221690956,0,False,residential,,146.725,,,,,,,,,,,20649707,
+221690956,221690928,0,False,residential,,146.725,,,,,,,,,,,20649707,
+221701718,221701726,0,False,residential,North Street,263.526,,,,,,,,,,,20650850,
+221701718,1323082104,0,False,residential,North Street,419.659,,,,,,,,,,,20650850,
+221701718,221703224,0,False,residential,Church Street,299.961,,,,,,,yes,,,,"[155907283, 155907284, 20653678]",
+221701726,2106187200,0,False,residential,North Street,93.136,,,,,,,,,,,20650850,
+221701726,221701718,0,False,residential,North Street,263.526,,,,,,,,,,,20650850,
+221701726,221717708,0,False,residential,Douglas Drive,225.447,,,,,,,,,,,20652257,
+221701735,221701742,0,False,residential,North Street,352.853,,,,,,,,,,,20650850,
+221701735,2106187200,0,False,residential,North Street,266.709,,,,,,,,,,,20650850,
+221701735,221703207,0,False,residential,West Street,461.633,,,,,,,yes,,,,"[20653515, 155907293, 155907294]",
+221701742,221701735,0,False,residential,North Street,352.853,,,,,,,,,,,20650850,
+221701863,1323082104,0,False,secondary,North Street,212.117,,,,30 mph,,,,,,,20650853,NY 98
+221702063,221709001,0,False,residential,Park Street,312.976,,,,,,,,,,,20651473,
+221702063,221689591,0,False,residential,Mill Street,83.524,,,,,,,,,,,20650872,
+221702063,221708995,0,False,residential,Park Street,281.919,,,,,,,,,,,20651473,
+221702078,221673288,0,False,residential,Mill Street,147.641,,,,,,,,,,,20650872,
+221702078,221689591,0,False,residential,Mill Street,65.181,,,,,,,,,,,20650872,
+221702078,221725151,0,False,residential,Railroad Avenue,243.515,,,,,,,,,,,20654436,
+221702116,221702123,0,False,residential,Glenwood Drive,269.448,,,,,,,,,,,20650878,
+221702116,221702123,1,False,residential,Haskell Avenue,327.214,,,,,,,,,,,20651838,
+221702116,221712424,0,False,residential,Haskell Avenue,220.247,,,,,,,,,,,20651838,
+221702123,221702116,0,False,residential,Glenwood Drive,269.448,,,,,,,,,,,20650878,
+221702123,221702116,1,False,residential,Haskell Avenue,327.214,,,,,,,,,,,20651838,
+221702123,221673267,0,False,residential,Haskell Avenue,119.316,,,,,,,,,,,20651839,
+221703174,221703184,0,False,secondary,West Main Street,163.349,,,,40 mph,,,,,,,20650973,NY 39
+221703174,221703233,0,False,secondary,"['Main Street', 'West Main Street']",553.422,,,,40 mph,,,yes,,,,"[20650979, 20652955, 76793646]",NY 39
+221703174,221705999,0,False,residential,Sawmill Drive,301.935,,,,,,,,,,,20651509,
+221703174,221724587,0,False,residential,Edwards Street,449.283,,,,,,,,,,,20653125,
+221703184,221703174,0,False,secondary,West Main Street,163.349,,,,40 mph,,,,,,,20650973,NY 39
+221703184,221703207,0,False,secondary,West Main Street,1302.612,,,,"['30 mph', '40 mph']",,,,,,,"[117441101, 20650973]",NY 39
+221703184,2106194914,0,False,residential,Steele Avenue,931.152,,,,,,,,,,,20652932,
+221703207,221703220,0,False,secondary,West Main Street,536.927,,,,30 mph,,,,,,,117441101,NY 39
+221703207,221701735,0,False,residential,West Street,461.633,,,,,,,yes,,,,"[20653515, 155907293, 155907294]",
+221703207,221703184,0,False,secondary,West Main Street,1302.612,,,,"['30 mph', '40 mph']",,,,,,,"[20650973, 117441101]",NY 39
+221703220,221709024,0,False,residential,Prospect Street,364.425,,,,,,,,,,,20651477,
+221703220,221703224,0,False,secondary,West Main Street,67.827,,,,30 mph,,,,,,,117441101,NY 39
+221703220,221703207,0,False,secondary,West Main Street,536.927,,,,30 mph,,,,,,,117441101,NY 39
+221703224,221709001,0,False,secondary,Main Street,40.092,,,,30 mph,,,,,,,20652981,NY 39
+221703224,221703220,0,False,secondary,West Main Street,67.827,,,,30 mph,,,,,,,117441101,NY 39
+221703224,221701718,0,False,residential,Church Street,299.961,,,,,,,yes,,,,"[155907283, 155907284, 20653678]",
+221703233,221705973,0,False,residential,Hurdville Road,48.546,,,,,,,,,,,155907287,
+221703233,221703174,0,False,secondary,"['Main Street', 'West Main Street']",553.422,,,,40 mph,,,yes,,,,"[20652955, 76793646, 20650979]",NY 39
+221704396,221718136,0,False,secondary,East Main Street,130.278,,,,30 mph,,,,,,,40823973,NY 39
+221704396,221704413,0,False,residential,Sherman Drive,261.78,,,,,,,,,,,20651076,
+221704413,221704396,0,False,residential,Sherman Drive,261.78,,,,,,,,,,,20651076,
+221705973,221703233,0,False,residential,Hurdville Road,48.546,,,,,,,,,,,155907287,
+221705973,904746762,0,False,residential,Rule Drive,241.786,,,,,,,,,,,20651213,
+221705999,221703174,0,False,residential,Sawmill Drive,301.935,,,,,,,,,,,20651509,
+221707154,221707160,0,False,residential,Maple Street,218.806,,,,,,,,,,,20651316,
+221707154,221711721,0,False,residential,Grove Street,98.106,,,,,,,,,,,20653438,
+221707154,221718121,0,False,residential,"['Pearl Street', 'Grove Street']",359.344,,,,,,,,,,,"[20652418, 20653438]",
+221707160,221707154,0,False,residential,Maple Street,218.806,,,,,,,,,,,20651316,
+221707160,221711724,0,False,secondary,East Main Street,92.01,,,,30 mph,,,,,,,40823973,NY 39
+221707160,221718123,0,False,secondary,East Main Street,193.305,,,,30 mph,,,,,,,40823973,NY 39
+221708986,221708992,0,False,residential,Park Street,317.697,,,,,,,,,,,20651473,
+221708992,221690928,0,False,residential,Park Street,154.093,,,,,,,,,,,20651473,
+221708992,221708986,0,False,residential,Park Street,317.697,,,,,,,,,,,20651473,
+221708992,221732960,0,False,residential,Mt View Drive,367.228,,,,,,,,,,,20653780,
+221708995,221690928,0,False,residential,Park Street,312.73,,,,,,,,,,,20651473,
+221708995,221720102,0,False,residential,Sullivan Avenue,125.25,,,,,,,,,,,20652466,
+221708995,221702063,0,False,residential,Park Street,281.919,,,,,,,,,,,20651473,
+221709001,221702063,0,False,residential,Park Street,312.976,,,,,,,,,,,20651473,
+221709001,221703224,0,False,secondary,Main Street,40.092,,,,30 mph,,,,,,,20652981,NY 39
+221709001,221725151,0,False,secondary,Main Street,39.435,,,,30 mph,,,,,,,20652981,NY 39
+221709024,221703220,0,False,residential,Prospect Street,364.425,,,,,,,,,,,20651477,
+221711721,221711724,0,False,residential,Allen Street,217.851,,,,,,,,,,,20651745,
+221711721,221707154,0,False,residential,Grove Street,98.106,,,,,,,,,,,20653438,
+221711721,221687010,0,False,residential,Grove Street,121.922,,,,,,,,,,,20653438,
+221711724,221711721,0,False,residential,Allen Street,217.851,,,,,,,,,,,20651745,
+221711724,221718128,0,False,secondary,East Main Street,124.741,,,,30 mph,,,,,,,40823973,NY 39
+221711724,221707160,0,False,secondary,East Main Street,92.01,,,,30 mph,,,,,,,40823973,NY 39
+221712424,1682545551,0,False,residential,Deacon Drive,346.624,,,,,,,,,,,20651818,
+221712424,221702116,0,False,residential,Haskell Avenue,220.247,,,,,,,,,,,20651838,
+221714889,221673253,0,False,residential,Clearview Drive,122.665,,,,,,,,,,,20652001,
+221717708,221701726,0,False,residential,Douglas Drive,225.447,,,,,,,,,,,20652257,
+221718114,221726328,0,False,residential,Sanford Avenue,55.603,,,,,,,,,,,20653094,
+221718114,221718121,0,False,secondary,East Main Street,123.475,,,,30 mph,,,,,,,155907286,NY 39; NY 98
+221718114,221673297,0,False,secondary,East Main Street,81.192,,,,30 mph,,,yes,,,,"[20652296, 155907285, 155907286]",NY 39; NY 98
+221718121,221718123,0,False,secondary,East Main Street,17.322,,,,30 mph,,,,,,,155907286,NY 39; NY 98
+221718121,221718114,0,False,secondary,East Main Street,123.475,,,,30 mph,,,,,,,155907286,NY 39; NY 98
+221718121,221707154,0,False,residential,"['Grove Street', 'Pearl Street']",359.344,,,,,,,,,,,"[20652418, 20653438]",
+221718123,221707160,0,False,secondary,East Main Street,193.305,,,,30 mph,,,,,,,40823973,NY 39
+221718123,221718121,0,False,secondary,East Main Street,17.322,,,,30 mph,,,,,,,155907286,NY 39; NY 98
+221718123,1323082104,0,False,secondary,"['Water Street', 'North Street']",200.42,,,,30 mph,,,yes,,,,"[20650853, 155907291, 155907292, 20654085]",NY 98
+221718128,221687010,0,False,residential,Clough Avenue,213.884,,,,,,,,,,,20652556,
+221718128,221718132,0,False,secondary,East Main Street,105.407,,,,30 mph,,,,,,,40823973,NY 39
+221718128,221711724,0,False,secondary,East Main Street,124.741,,,,30 mph,,,,,,,40823973,NY 39
+221718132,221718136,0,False,secondary,East Main Street,81.674,,,,30 mph,,,,,,,40823973,NY 39
+221718132,221718128,0,False,secondary,East Main Street,105.407,,,,30 mph,,,,,,,40823973,NY 39
+221718132,221687006,0,False,residential,Parkview Court,192.205,,,,,,,,,,,20653066,
+221718136,1422733798,0,False,residential,Madison Avenue,183.695,,,,,,,,,,,20652595,
+221718136,221704396,0,False,secondary,East Main Street,130.278,,,,30 mph,,,,,,,40823973,NY 39
+221718136,221718132,0,False,secondary,East Main Street,81.674,,,,30 mph,,,,,,,40823973,NY 39
+221720102,221708995,0,False,residential,Sullivan Avenue,125.25,,,,,,,,,,,20652466,
+221720102,221723806,0,False,residential,Jackson Avenue,208.173,,,,,,,,,,,20652824,
+221720102,221720113,0,False,residential,Sullivan Avenue,138.137,,,,,,,,,,,20652466,
+221720113,221720102,0,False,residential,Sullivan Avenue,138.137,,,,,,,,,,,20652466,
+221720968,221687010,0,False,residential,Clough Avenue,89.553,,,,,,,,,,,20652556,
+221723806,221720102,0,False,residential,Jackson Avenue,208.173,,,,,,,,,,,20652824,
+221724587,221724594,0,False,residential,William Street,85.827,,,,,,,,,,,20652917,
+221724587,2106194914,0,False,residential,Edwards Street,192.441,,,,,,,,,,,20653125,
+221724587,221703174,0,False,residential,Edwards Street,449.283,,,,,,,,,,,20653125,
+221724594,221724587,0,False,residential,William Street,85.827,,,,,,,,,,,20652917,
+221725151,221673297,0,False,secondary,Main Street,75.02,,,,30 mph,,,,,,,20652981,NY 39
+221725151,221709001,0,False,secondary,Main Street,39.435,,,,30 mph,,,,,,,20652981,NY 39
+221725151,221702078,0,False,residential,Railroad Avenue,243.515,,,,,,,,,,,20654436,
+221726328,221718114,0,False,residential,Sanford Avenue,55.603,,,,,,,,,,,20653094,
+221732960,221708992,0,False,residential,Mt View Drive,367.228,,,,,,,,,,,20653780,
+904746762,221705973,0,False,residential,Rule Drive,241.786,,,,,,,,,,,20651213,
+1323082104,221701718,0,False,residential,North Street,419.659,,,,,,,,,,,20650850,
+1323082104,221718123,0,False,secondary,"['Water Street', 'North Street']",200.42,,,,30 mph,,,yes,,,,"[20654085, 155907291, 155907292, 20650853]",NY 98
+1323082104,221701863,0,False,secondary,North Street,212.117,,,,30 mph,,,,,,,20650853,NY 98
+1422733796,1422733797,0,False,residential,Stuart Ave,94.831,,,,,,,,,,,128845463,
+1422733797,1422733796,0,False,residential,Stuart Ave,94.831,,,,,,,,,,,128845463,
+1422733797,221673253,0,False,secondary,Liberty Street,192.08,,,,30 mph,,,,,,,128845465,NY 98
+1422733798,221718136,0,False,residential,Madison Avenue,183.695,,,,,,,,,,,20652595,
+1422733798,221687006,0,False,residential,,83.447,,,,,,,,,,,20649286,
+1422733798,221686970,0,False,residential,,920.268,,,,,,,,,,,20649286,
+1682545551,221712424,0,False,residential,Deacon Drive,346.624,,,,,,,,,,,20651818,
+2106187200,221701726,0,False,residential,North Street,93.136,,,,,,,,,,,20650850,
+2106187200,221701735,0,False,residential,North Street,266.709,,,,,,,,,,,20650850,
+2106194914,221703184,0,False,residential,Steele Avenue,931.152,,,,,,,,,,,20652932,
+2106194914,2106194925,0,False,residential,Edwards Street,256.943,,,,,,,,,,,20653125,
+2106194914,221724587,0,False,residential,Edwards Street,192.441,,,,,,,,,,,20653125,
+2106194925,2106194914,0,False,residential,Edwards Street,256.943,,,,,,,,,,,20653125,

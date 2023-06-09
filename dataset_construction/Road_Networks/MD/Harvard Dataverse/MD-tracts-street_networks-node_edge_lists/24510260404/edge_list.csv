@@ -1,0 +1,302 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+49381933,49381935,0,True,primary,North Point Road,79.501,2,,,50 mph,,,,,,,49655061,MD 151
+49381933,49554727,0,False,unclassified,Quad Avenue,21.333,,,,,,,,,,,83533496,
+49381935,49554729,0,False,residential,Quad Avenue,17.753,2,,,25 mph,,,,,,,6021520,
+49381935,49381937,0,True,primary,North Point Road,62.253,2,,,50 mph,,,,,,,49655061,MD 151
+49381937,867678779,0,True,"['primary_link', 'tertiary']",North Point Road,109.769,1,,,25 mph,,,,,,,"[83532956, 6003702]",
+49381937,49439744,0,True,primary,North Point Road,80.435,2,,,50 mph,,,,,,,49655061,MD 151
+49384771,49384779,0,True,secondary_link,,34.669,1,,,,,,,,,,5992459,
+49384779,49384787,0,True,secondary,East Lombard Street,70.628,2,,,40 mph,,,,,,,127124554,
+49384787,49384838,0,True,secondary,East Lombard Street,58.89,2,,,40 mph,,,,,,,49667337,
+49384787,49404468,0,False,secondary,East Lombard Street,1422.513,"['4', '3']",,,40 mph,,,,,,,"[424994440, 547945310, 47994846, 547945311]",
+49384838,49384771,0,True,secondary,East Lombard Street,38.078,2,,,40 mph,,,,,,,49667337,
+49384888,49384889,0,False,residential,East Oliver Street,16.736,,,,,,,,,,,5992472,
+49384888,49456951,0,True,secondary,Edison Highway,116.622,2,,,30 mph,,,,,,,192464197,
+49384889,49384888,0,False,residential,East Oliver Street,16.736,,,,,,,,,,,5992472,
+49384889,49469165,0,True,secondary,Edison Highway,59.285,2,,,30 mph,,,,,,,192464195,
+49385699,982862633,0,True,primary_link,,117.21,1,,,,,,,,,,84601054,
+49385699,49477915,0,True,primary,Pulaski Highway,421.817,3,,,"['30 mph', '40 mph']",,,yes,,,,"[49655152, 472368388, 120770830]",US 40
+49391294,49391328,0,True,motorway_link,,248.886,"['2', '1']",,,,,,,,,,"[239750356, 5993228]",
+49391328,49391344,0,True,motorway_link,,96.955,1,,,,,,,,,,51266509,
+49391328,49391384,0,True,motorway_link,,96.775,1,,,,,,,,,,239750355,
+49391344,1165954016,0,False,primary,Debelius Avenue,93.893,2,,,25 mph,,,,,,,501285345,
+49391344,49391384,0,True,primary,Debelius Avenue,65.079,1,,,25 mph,,,,,,,47986370,
+49391384,610317683,0,True,primary_link,,57.003,1,,,,,,,,,,47986369,
+49391761,49391766,0,True,primary_link,,183.137,1,,,,,,,,,,5993247,
+49391761,49398972,0,True,primary,Pulaski Highway,142.363,3,,,30 mph,,,,,,,198707937,US 40
+49391766,49545814,0,True,primary_link,,221.876,1,,,,,,yes,,,,"[49655144, 49655145, 49655138, 5997517]",
+49391766,4453501389,0,True,motorway_link,,190.61,1,,,,,,yes,,,,"[47986424, 448327247]",
+49398972,2468399969,0,True,primary,Pulaski Highway,134.93,3,,,30 mph,,,,,,,198707937,US 40
+49401341,49532461,0,True,primary,Pulaski Highway,37.402,3,,,40 mph,,,,,,,175281164,US 40
+49401341,982862408,0,True,primary_link,,30.333,1,,,,,,,,,,84601009,
+49401443,982862408,0,True,primary,Pulaski Highway,26.053,3,,,40 mph,,,,,,,49655095,US 40
+49401443,49532461,0,True,primary_link,,39.039,1,,,,,,,,,,84601004,
+49402673,49514119,0,False,primary,Mapleton Avenue,30.26,2,,,25 mph,,,,,,,6010248,
+49402673,49461756,0,True,primary,Erdman Avenue,256.095,2,,,50 mph,,,,,,,49655142,MD 151
+49404468,49570200,0,False,secondary,East Lombard Street,15.293,4,,,40 mph,,,,,,,424994441,
+49404468,49384787,0,False,secondary,East Lombard Street,1422.513,"['4', '3']",,,40 mph,,,,,,,"[424994440, 47994846, 547945310, 547945311]",
+49412619,49467131,0,True,residential,Duncanwood Lane,110.149,,,,30 mph,,,,,,,113926766,
+49412619,49469168,0,False,residential,Duncanwood Lane,233.025,,,,30 mph,,,,,,,6004407,
+49415847,49391294,0,True,motorway,Harbor Tunnel Thruway,745.792,2,,,55 mph,,,yes,,,,"[501285336, 49655098, 49655100, 90079493]",I 895
+49417895,49514119,0,False,primary,Mapleton Avenue,37.405,2,,,25 mph,,,,,,,198707924,
+49417895,49417886,0,True,primary_link,,53.079,1,,,,,,,,,,5996758,
+49417895,49514126,0,False,primary,Mapleton Avenue,146.56,2,,,25 mph,,,yes,,,,"[198707922, 49655155, 49655154]",
+49417943,49422268,0,True,primary,Pulaski Highway,68.942,3,,,30 mph,,,,,,,198707939,US 40
+49422268,1104181074,0,True,primary,Pulaski Highway,64.457,3,,,30 mph,,,,,,,198707939,US 40
+49422268,2468399969,0,False,primary_link,,17.068,2,,,,,,,,,,239024301,
+49426662,49426663,0,False,secondary,Moravia Park Drive,18.174,2,,,25 mph,,,,,,,336424267,
+49426662,49475494,0,True,primary,Pulaski Highway,203.442,3,,,40 mph,,,,,,,336421913,US 40
+49426663,49428202,0,True,trunk,Pulaski Highway,45.138,3,,,45 mph,,,,,,,336424182,US 40
+49426663,49426662,0,False,secondary,Moravia Park Drive,18.174,2,,,25 mph,,,,,,,336424267,
+49428202,49401341,0,True,primary,Pulaski Highway,378.114,3,,,40 mph,,,,,,,175281164,US 40
+49430946,49464633,0,False,residential,Jefferson Street,38.04,2,,,,,,,,,,390357611,
+49433825,49475179,0,False,residential,North Dean Street,15.801,2,,,25 mph,,,,,,,113924564,
+49433825,895744916,0,True,primary,East Monument Street,226.965,2,,,35 mph,,,,,,,6005222,
+49438511,49475219,0,True,primary,Pulaski Highway,139.149,3,,,30 mph,,,,,,,198707935,US 40
+49439744,631347720,0,True,tertiary,North Point Road,13.393,1,,,,,,,,,,6000641,
+49439744,49461757,0,True,primary,Erdman Avenue,577.959,2,,,50 mph,,,,,,,49667429,MD 151
+49441207,631298010,0,True,motorway,,1137.14,3,,,55 mph,,,yes,,,,"[49660601, 49655073, 49655069, 49655071]",I 95
+49453417,49532449,0,True,primary,Pulaski Highway,105.415,3,,,40 mph,,,yes,,,,"[49655097, 423600370]",US 40
+49454220,49454221,0,False,tertiary,East Preston Street,15.857,2,,,,,,,,,,"[192464193, 98289434]",
+49454220,49482495,0,True,secondary,Edison Highway,115.489,"['2', '3']",,,30 mph,,,,,,,"[548257217, 548257218]",
+49454221,49454220,0,False,tertiary,East Preston Street,15.857,2,,,,,,,,,,"[192464193, 98289434]",
+49454221,49456953,0,True,secondary,Edison Highway,121.001,2,,,30 mph,,,,,,,192464195,
+49456951,49456953,0,False,residential,East Hoffman Street,16.438,2,,,25 mph,,,,,,,76518429,
+49456951,49454220,0,True,secondary,Edison Highway,121.041,2,,,30 mph,,,,,,,192464197,
+49456953,49456951,0,False,residential,East Hoffman Street,16.438,2,,,25 mph,,,,,,,76518429,
+49456953,49384889,0,True,secondary,Edison Highway,116.989,2,,,30 mph,,,,,,,192464195,
+49458886,2965421672,0,False,tertiary,North Kresson Street,40.987,3,,,30 mph,,,,,,,285838261,
+49458886,2965421671,0,False,residential,East Fayette Street,37.126,2,,,,,,,,,,6003113,
+49458886,49544573,0,False,residential,"['North Janney Street', 'East Fayette Street']",204.879,2,,,,,,,,,,"[6014352, 6003113]",
+49458891,2965421671,0,False,residential,East Fayette Street,93.365,2,,,,,,,,,,6003113,
+49458995,49492138,0,False,primary,North Highland Avenue,70.465,2,,,25 mph,,,,,,,49664165,
+49458995,49458997,0,False,tertiary,East Fayette Street,162.046,2,,,30 mph,,,,,,,113925165,
+49458995,49532247,0,False,primary,North Highland Avenue,125.678,4,,,25 mph,,,,,,,547154710,
+49458997,49458999,0,False,residential,East Fayette Street,101.872,2,,,,,,,,,,6003117,
+49458997,49515389,0,False,tertiary,North Conkling Street,74.294,2,,,30 mph,,,,,,,6011609,
+49458997,49492139,0,False,tertiary,North Conkling Street,70.009,2,,,30 mph,,,,,,,6011609,
+49458997,49458995,0,False,tertiary,East Fayette Street,162.046,2,,,30 mph,,,,,,,113925165,
+49458999,49458997,0,False,residential,East Fayette Street,101.872,2,,,,,,,,,,6003117,
+49458999,49496763,0,True,residential,North Dean Street,74.087,1,,,25 mph,,,,,,,6007764,
+49461736,49461756,0,False,residential,,147.51,2,,,25 mph,,,,,,,6003414,
+49461756,49461757,0,False,primary,Debelius Avenue,30.065,2,,,25 mph,,,,,,,98057414,
+49461756,49461736,0,False,residential,,147.51,2,,,25 mph,,,,,,,6003414,
+49461756,631347720,0,True,primary,Erdman Avenue,562.822,2,,,50 mph,,,,,,,49655142,MD 151
+49461757,49461756,0,False,primary,Debelius Avenue,30.065,2,,,25 mph,,,,,,,98057414,
+49461757,1165954001,0,True,primary,Erdman Avenue,19.627,2,,,50 mph,,,,,,,501285344,MD 151
+49461757,1165954016,0,False,primary,Debelius Avenue,23.102,2,,,25 mph,,,,,,,501285346,
+49461780,982862469,0,True,primary,Pulaski Highway,200.098,3,,,40 mph,,,yes,,,,"[49655096, 49655150]",US 40
+49461780,867678779,0,False,tertiary,North Point Road,351.436,"['2', '1']",,,25 mph,,,,,,,"[192818832, 192818833, 83532955]",
+49464633,49537909,0,False,primary,North Highland Avenue,110.608,4,,,25 mph,,,,,,,195248672,
+49464633,49430946,0,False,residential,Jefferson Street,38.04,2,,,,,,,,,,390357611,
+49464633,49532247,0,False,primary,North Highland Avenue,132.095,4,,,25 mph,,,,,,,"[195248672, 547154708]",
+49469165,49469168,0,False,residential,Duncanwood Lane,232.987,,,,30 mph,,,,,,,6004407,
+49469165,49467100,0,True,secondary,Edison Highway,52.716,2,,,30 mph,,,,,,,192464195,
+49469168,49412619,0,False,residential,Duncanwood Lane,233.025,,,,30 mph,,,,,,,6004407,
+49469168,49469165,0,False,residential,Duncanwood Lane,232.987,,,,30 mph,,,,,,,6004407,
+49474035,49526600,0,False,tertiary,North Conkling Street,63.631,2,,,30 mph,,,,,,,6011609,
+49474035,49506601,0,False,tertiary,North Conkling Street,60.457,2,,,30 mph,,,,,,,6011609,
+49474602,49474605,0,False,primary,South Haven Street,129.073,4,,,30 mph,yes,,,,,,6005190,MD 150
+49474602,49498958,0,False,primary,North Haven Street,479.124,4,,,30 mph,yes,,,,,,6007962,MD 150
+49474605,49474602,0,False,primary,South Haven Street,129.073,4,,,30 mph,yes,,,,,,6005190,MD 150
+49475177,895744916,0,False,primary,North Highland Avenue,17.813,4,,,25 mph,,,,,,,197879535,
+49475177,49475179,0,True,primary,East Monument Street,229.986,2,,,35 mph,,,,,,,197879518,
+49475177,49537909,0,False,primary,North Highland Avenue,124.17,4,,,25 mph,,,,,,,"[195248672, 548257212]",
+49475179,49433825,0,False,residential,North Dean Street,15.801,2,,,25 mph,,,,,,,113924564,
+49475179,49496771,0,False,residential,North Dean Street,124.88,2,,,25 mph,,,,,,,113924564,
+49475179,49475185,0,True,primary,East Monument Street,338.575,2,,,35 mph,,,,,,,197879518,
+49475185,49475206,0,False,secondary,North Haven Street,15.14,4,,,30 mph,,,,,,,47994849,
+49475185,49498958,0,False,secondary,North Haven Street,281.625,4,,,30 mph,,,,,,,47994849,
+49475185,5286773447,0,True,primary,East Monument Street,67.397,2,,,35 mph,,,,,,,"[547151012, 197879518]",
+49475189,49475211,0,False,tertiary,North Kresson Street,15.034,3,,,30 mph,,,,,,,392291178,
+49475189,49475198,0,True,primary,East Monument Street,526.303,3,,,35 mph,,,,,,,"[98214820, 72656677]",
+49475189,49478550,0,False,tertiary,North Kresson Street,207.277,3,,,30 mph,,,,,,,"[392291177, 392291178, 285838261]",
+49475198,49391761,0,True,primary,Pulaski Highway,191.862,3,,,30 mph,,,,,,,6012443,US 40
+49475198,49478550,0,False,primary,Pulaski Highway,553.958,4,,,30 mph,,,,,,,"[548449169, 47986418, 188567743]",US 40
+49475206,49475185,0,False,secondary,North Haven Street,15.14,4,,,30 mph,,,,,,,47994849,
+49475206,49433825,0,True,primary,East Monument Street,337.682,2,,,35 mph,,,,,,,6005222,
+49475206,49547548,0,False,tertiary,"['North Haven Street', 'Ashland Avenue']",289.794,2,,,30 mph,,,,,,,"[49650189, 75890855]",
+49475211,49478562,0,False,tertiary,North Kresson Street,222.572,2,,,25 mph,,,,,,,49650204,
+49475211,49475189,0,False,tertiary,North Kresson Street,15.034,3,,,30 mph,,,,,,,392291178,
+49475211,5286773445,0,True,primary,East Monument Street,201.722,2,,,35 mph,,,,,,,"[547151009, 547151010]",
+49475219,49475198,0,True,primary,Pulaski Highway,87.663,2,,,30 mph,,,,,,,120487130,US 40
+49475219,49475211,0,True,primary,East Monument Street,602.375,2,,,35 mph,,,,,,,547151010,
+49475494,49475497,0,False,residential,62nd Street,17.44,2,,,25 mph,,,,,,,123054262,
+49475497,527753711,0,True,trunk,Pulaski Highway,73.16,3,,,45 mph,,,,,,,6012450,US 40
+49475497,49475494,0,False,residential,62nd Street,17.44,2,,,25 mph,,,,,,,123054262,
+49477915,982862854,0,False,residential,Armistead Avenue,17.13,,,,25 mph,,,yes,,,,"[6005497, 198707901]",
+49477915,982862949,0,True,primary,Pulaski Highway,117.22,3,,,30 mph,,,,,,,501283949,US 40
+49478540,49478542,0,True,tertiary,North Kresson Street,27.309,2,,,30 mph,,,,,,,6005554,
+49478540,49544573,0,False,residential,East Fairmount Avenue,65.185,2,,,,,,,,,,6020456,
+49478542,49458886,0,True,tertiary,North Kresson Street,110.818,2,,,30 mph,,,,,,,6005554,
+49478542,49568059,0,False,residential,East Fairmount Avenue,87.493,2,,,,,,,,,,6020479,
+49478550,49475189,0,False,tertiary,North Kresson Street,207.277,3,,,30 mph,,,,,,,"[392291177, 392291178, 285838261]",
+49478550,2965421672,0,False,tertiary,North Kresson Street,248.864,3,,,30 mph,,,,,,,285838261,
+49478550,49498958,0,False,primary,Pulaski Highway,255.878,4,,,30 mph,,,,,,,548449169,US 40
+49478550,49475198,0,False,primary,Pulaski Highway,553.958,4,,,30 mph,,,,,,,"[548449169, 47986418, 188567743]",US 40
+49478562,49478565,0,False,tertiary,North Kresson Street,152.809,2,,,25 mph,,,,,,,49650204,
+49478562,49475211,0,False,tertiary,North Kresson Street,222.572,2,,,25 mph,,,,,,,49650204,
+49478562,49544576,0,False,tertiary,Ashland Avenue,84.082,2,,,30 mph,,,,,,,75890855,
+49478562,49541159,0,False,residential,Ashland Avenue,81.668,,,,,,,,,,,113926362,
+49478565,49544578,0,False,residential,East Eager Street,83.337,,,,,,,,,,,6021195,
+49478565,49478562,0,False,tertiary,North Kresson Street,152.809,2,,,25 mph,,,,,,,49650204,
+49478565,49478568,0,False,residential,North Kresson Street,136.721,,,,,,,,,,,113926359,
+49478565,49541159,0,False,residential,"['East Eager Street', 'North Lehigh Street']",231.85,,,,,,,,,,,"[6021195, 6013932]",
+49478568,49478565,0,False,residential,North Kresson Street,136.721,,,,,,,,,,,113926359,
+49480629,631347106,0,True,primary,North Point Boulevard,10.97,2,,,50 mph,,,,,,,5320391,MD 151
+49482475,49547550,0,False,residential,"['Iris Avenue', 'East Chase Street', 'East Biddle Street']",1098.086,2,,,25 mph,no,,,,,,"[219111011, 6007655, 72656647, 218965624, 6014933, 532778584, 6010271]",
+49482475,49482495,0,False,tertiary,East Biddle Street,17.317,2,,,25 mph,,,,,,,113926357,
+49482475,49454221,0,True,secondary,Edison Highway,115.508,2,,,30 mph,,,,,,,548257216,
+49482486,621235778,0,False,secondary,Edison Highway,157.669,4,,,30 mph,,,yes,,,,"[51061112, 51061113]",
+49482495,49482475,0,False,tertiary,East Biddle Street,17.317,2,,,25 mph,,,,,,,113926357,
+49482495,621235778,0,True,secondary,Edison Highway,217.586,2,,,30 mph,,,,,,,192464196,
+49492138,49458995,0,False,primary,North Highland Avenue,70.465,2,,,25 mph,,,,,,,49664165,
+49492138,49547311,0,False,primary,North Highland Avenue,73.083,2,,,25 mph,,,,,,,49664165,
+49492138,49492139,0,False,residential,Esther Place,161.411,2,,,25 mph,,,,,,,6007373,
+49492139,49492140,0,False,residential,Esther Place,98.601,2,,,25 mph,,,,,,,6007373,
+49492139,49492138,0,False,residential,Esther Place,161.411,2,,,25 mph,,,,,,,6007373,
+49492139,49458997,0,False,tertiary,North Conkling Street,70.009,2,,,30 mph,,,,,,,6011609,
+49492139,49526600,0,False,tertiary,North Conkling Street,73.103,2,,,30 mph,,,,,,,6011609,
+49492140,49492139,0,False,residential,Esther Place,98.601,2,,,25 mph,,,,,,,6007373,
+49492140,49458999,0,True,residential,North Dean Street,70.989,1,,,25 mph,,,,,,,6007764,
+49496763,49515389,0,True,residential,Roberts Place,104.329,1,,,40,,,,,,,6010411,
+49496763,49496765,0,True,residential,North Dean Street,88.191,1,,,25 mph,,,,,,,6007764,
+49496765,49526607,0,False,primary,Pulaski Highway,109.554,4,,,30 mph,,,,,,,188567738,US 40
+49496765,49532228,0,False,primary,Pulaski Highway,131.208,4,,,30 mph,,,,,,,188567738,US 40
+49496771,49475179,0,False,residential,North Dean Street,124.88,2,,,25 mph,,,,,,,113924564,
+49497059,1266341831,0,True,secondary,Edison Highway,7.963,3,,,30 mph,,,,,,,197950019,
+49497059,49475177,0,True,primary,East Madison Street,262.739,"['2', '3']",,,25 mph,,,,,,,"[547151018, 6007786]",
+49498958,49475185,0,False,secondary,North Haven Street,281.625,4,,,30 mph,,,,,,,47994849,
+49498958,49474602,0,False,primary,North Haven Street,479.124,4,,,30 mph,yes,,,,,,6007962,MD 150
+49498958,49532228,0,False,primary,Pulaski Highway,174.614,4,,,30 mph,,,,,,,188567738,US 40
+49498958,49478550,0,False,primary,Pulaski Highway,255.878,4,,,30 mph,,,,,,,548449169,US 40
+49504442,49504446,0,False,residential,North Newkirk Street,11.998,,,,,,,,,,,113926360,
+49504446,49504448,0,False,residential,North Newkirk Street,93.0,,,,,,,,,,,113926360,
+49504446,49504442,0,False,residential,North Newkirk Street,11.998,,,,,,,,,,,113926360,
+49504446,49576911,0,False,residential,Ashland Avenue,83.814,,,,,,,,,,,113926362,
+49504448,49504446,0,False,residential,North Newkirk Street,93.0,,,,,,,,,,,113926360,
+49506601,49474035,0,False,tertiary,North Conkling Street,60.457,2,,,30 mph,,,,,,,6011609,
+49514119,49402673,0,False,primary,Mapleton Avenue,30.26,2,,,25 mph,,,,,,,6010248,
+49514119,49417886,0,True,primary,Erdman Avenue,39.876,2,,,50 mph,,,,,,,198707917,MD 151
+49514119,49417895,0,False,primary,Mapleton Avenue,37.405,2,,,25 mph,,,,,,,198707924,
+49514126,982862949,0,False,primary,Mapleton Avenue,16.833,2,,,25 mph,,,,,,,198707923,
+49514126,49417895,0,False,primary,Mapleton Avenue,146.56,2,,,25 mph,,,yes,,,,"[198707922, 49655154, 49655155]",
+49514126,982862854,0,True,primary,Pulaski Highway,113.146,3,,,30 mph,,,yes,,,,"[198707940, 49655151]",US 40
+49515389,49526607,0,False,tertiary,North Conkling Street,73.912,2,,,30 mph,,,,,,,6011609,
+49515389,49458997,0,False,tertiary,North Conkling Street,74.294,2,,,30 mph,,,,,,,6011609,
+49526600,49492139,0,False,tertiary,North Conkling Street,73.103,2,,,30 mph,,,,,,,6011609,
+49526600,49474035,0,False,tertiary,North Conkling Street,63.631,2,,,30 mph,,,,,,,6011609,
+49526600,49547311,0,False,residential,East Fairmount Avenue,161.818,2,,,25 mph,,,,,,,6020481,
+49526607,49496765,0,False,primary,Pulaski Highway,109.554,4,,,30 mph,,,,,,,188567738,US 40
+49526607,49515389,0,False,tertiary,North Conkling Street,73.912,2,,,30 mph,,,,,,,6011609,
+49526607,49532247,0,False,primary,Pulaski Highway,162.348,4,,,30 mph,,,,,,,188567738,US 40
+49532228,1355274963,0,False,residential,Orleans Street,114.191,,,,,,,,,,,"[120981121, 84601124]",
+49532228,49496765,0,False,primary,Pulaski Highway,131.208,4,,,30 mph,,,,,,,188567738,US 40
+49532228,49498958,0,False,primary,Pulaski Highway,174.614,4,,,30 mph,,,,,,,188567738,US 40
+49532247,49526607,0,False,primary,Pulaski Highway,162.348,4,,,30 mph,,,,,,,188567738,US 40
+49532247,49464633,0,False,primary,North Highland Avenue,132.095,4,,,25 mph,,,,,,,"[195248672, 547154708]",
+49532247,49458995,0,False,primary,North Highland Avenue,125.678,4,,,25 mph,,,,,,,547154710,
+49532449,49385699,0,True,primary,Pulaski Highway,352.082,3,,,40 mph,,,,,,,49655092,US 40
+49532449,49461780,0,True,primary_link,,146.486,1,,,,,,,,,,84601017,
+49532461,49453417,0,True,primary,Pulaski Highway,81.18,3,,,40 mph,,,,,,,175281164,US 40
+49537909,49464633,0,False,primary,North Highland Avenue,110.608,4,,,25 mph,,,,,,,195248672,
+49537909,2765783477,0,False,residential,McElderry Street,42.645,1,,,40,,,,,,,192574237,
+49537909,49475177,0,False,primary,North Highland Avenue,124.17,4,,,25 mph,,,,,,,"[195248672, 548257212]",
+49541159,49576911,0,False,residential,Ashland Avenue,78.617,,,,,,,,,,,113926362,
+49541159,49478562,0,False,residential,Ashland Avenue,81.668,,,,,,,,,,,113926362,
+49541159,49478565,0,False,residential,"['East Eager Street', 'North Lehigh Street']",231.85,,,,,,,,,,,"[6021195, 6013932]",
+49544571,49544573,0,False,residential,North Janney Street,111.267,2,,,,,,,,,,6014352,
+49544573,49544571,0,False,residential,North Janney Street,111.267,2,,,,,,,,,,6014352,
+49544573,49458886,0,False,residential,"['North Janney Street', 'East Fayette Street']",204.879,2,,,,,,,,,,"[6014352, 6003113]",
+49544573,49478540,0,False,residential,East Fairmount Avenue,65.185,2,,,,,,,,,,6020456,
+49544573,49568021,0,False,residential,East Fairmount Avenue,74.719,2,,,,,,,,,,6020456,
+49544576,49544578,0,False,residential,North Janney Street,152.998,,,,,,,,,,,6014353,
+49544576,49478562,0,False,tertiary,Ashland Avenue,84.082,2,,,30 mph,,,,,,,75890855,
+49544576,49547548,0,False,tertiary,Ashland Avenue,80.789,2,,,30 mph,,,,,,,75890855,
+49544578,5169593404,0,False,residential,North Janney Street,87.76,,,,,,,,,,,6014353,
+49544578,49544576,0,False,residential,North Janney Street,152.998,,,,,,,,,,,6014353,
+49544578,49478565,0,False,residential,East Eager Street,83.337,,,,,,,,,,,6021195,
+49544578,49547550,0,False,residential,East Eager Street,84.414,,,,,,,,,,,6021195,
+49545814,49402673,0,True,primary,Erdman Avenue,117.454,2,,,50 mph,,,,,,,49655142,MD 151
+49547311,49492138,0,False,primary,North Highland Avenue,73.083,2,,,25 mph,,,,,,,49664165,
+49547311,49526600,0,False,residential,East Fairmount Avenue,161.818,2,,,25 mph,,,,,,,6020481,
+49547548,49547550,0,False,residential,Iris Avenue,153.162,,,,,,,,,,,6014933,
+49547548,49544576,0,False,tertiary,Ashland Avenue,80.789,2,,,30 mph,,,,,,,75890855,
+49547548,49475206,0,False,tertiary,"['North Haven Street', 'Ashland Avenue']",289.794,2,,,30 mph,,,,,,,"[49650189, 75890855]",
+49547550,49547548,0,False,residential,Iris Avenue,153.162,,,,,,,,,,,6014933,
+49547550,49544578,0,False,residential,East Eager Street,84.414,,,,,,,,,,,6021195,
+49547550,49482475,0,False,residential,"['Iris Avenue', 'East Chase Street', 'East Biddle Street']",1098.086,2,,,25 mph,no,,,,,,"[219111011, 6007655, 72656647, 532778584, 6014933, 218965624, 6010271]",
+49547550,49570411,0,False,residential,East Eager Street,60.32,,,,,,,,,,,6021195,
+49554727,3932444384,0,True,primary,North Point Road,97.28,2,,,50 mph,,,,,,,6016832,MD 151
+49554727,49381933,0,False,unclassified,Quad Avenue,21.333,,,,,,,,,,,83533496,
+49554727,49572255,0,False,unclassified,Quad Avenue,434.06,,,,,,,,,,,83533496,
+49554729,49554727,0,True,primary,North Point Road,72.563,2,,,50 mph,,,,,,,6016832,MD 151
+49554729,49381935,0,False,residential,Quad Avenue,17.753,2,,,25 mph,,,,,,,6021520,
+49568021,49544573,0,False,residential,East Fairmount Avenue,74.719,2,,,,,,,,,,6020456,
+49568059,49478542,0,False,residential,East Fairmount Avenue,87.493,2,,,,,,,,,,6020479,
+49570200,49404468,0,False,secondary,East Lombard Street,15.293,4,,,40 mph,,,,,,,424994441,
+49570411,49547550,0,False,residential,East Eager Street,60.32,,,,,,,,,,,6021195,
+49572255,49554727,0,False,unclassified,Quad Avenue,434.06,,,,,,,,,,,83533496,
+49576911,49577955,0,False,residential,North Macon Street,84.958,,,,,,,,,,,6023008,
+49576911,49504446,0,False,residential,Ashland Avenue,83.814,,,,,,,,,,,113926362,
+49576911,49541159,0,False,residential,Ashland Avenue,78.617,,,,,,,,,,,113926362,
+49577955,49576911,0,False,residential,North Macon Street,84.958,,,,,,,,,,,6023008,
+322701019,322701025,0,True,motorway,,809.588,"['4', '3']",,,55 mph,,,yes,,,,"[49655072, 49655074, 121069389]",I 95
+527753612,49426662,0,True,primary,Pulaski Highway,208.122,3,,,40 mph,,,,,,,120770831,US 40
+527753711,49426663,0,True,trunk,Pulaski Highway,131.176,3,,,45 mph,,,,,,,6012450,US 40
+527753711,49441207,0,True,motorway_link,,606.487,1,,,,,,yes,,,,"[6000865, 49660586]",
+602434521,49480629,0,True,secondary,Kane Street,18.79,2,,,25 mph,,,,,,,513595496,
+602434521,3932444386,0,True,primary,North Point Road,458.695,2,,,50 mph,,,,yes,,,"[49655050, 49655052, 49655060, 49655061, 5992156]",MD 151
+610317683,982862611,0,True,primary,Pulaski Highway,35.161,3,,,40 mph,,,,,,,49655150,US 40
+610317814,49438511,0,True,primary,Pulaski Highway,101.421,3,,,30 mph,,,,,,,198707935,US 40
+621235778,49482475,0,True,secondary,Edison Highway,218.078,"['2', '3']",,,30 mph,,,,,,,"[548257215, 6006063]",
+621235778,49482486,0,False,secondary,Edison Highway,157.669,4,,,30 mph,,,yes,,,,"[51061112, 51061113]",
+631347106,602434521,0,True,secondary,Kane Street,15.601,2,,,25 mph,,,,,,,425004756,
+631347720,49554729,0,True,primary,North Point Road,130.396,2,,,50 mph,,,,,,,6016832,MD 151
+867678779,49439744,0,True,tertiary,North Point Road,52.477,1,,,,,,,,,,6000641,
+867678779,49461780,0,False,tertiary,North Point Road,351.436,"['2', '1']",,,25 mph,,,,,,,"[192818832, 192818833, 83532955]",
+895744916,49475177,0,False,primary,North Highland Avenue,17.813,4,,,25 mph,,,,,,,197879535,
+895744916,1266341831,0,True,primary,East Madison Street,263.259,3,,,25 mph,,,,,,,"[197950016, 547151017, 98057875]",
+982862408,527753612,0,True,primary,Pulaski Highway,194.146,3,,,40 mph,,,,,,,49655095,US 40
+982862469,49401443,0,True,primary,Pulaski Highway,166.123,3,,,40 mph,,,yes,,,,"[49655096, 49655095]",US 40
+982862469,49453417,0,True,primary_link,,54.227,1,,,,,,yes,,,,"[84601021, 84601023]",
+982862611,982862633,0,True,primary,Pulaski Highway,244.961,3,,,40 mph,,,,,,,49655150,US 40
+982862611,49385699,0,True,primary_link,,134.303,1,,,,,,,,,,84601048,
+982862633,49461780,0,True,primary,Pulaski Highway,96.87,3,,,40 mph,,,,,,,49655150,US 40
+982862854,49477915,0,False,residential,Armistead Avenue,17.13,,,,25 mph,,,yes,,,,"[6005497, 198707901]",
+982862854,610317683,0,True,primary,Pulaski Highway,257.784,3,,,"['30 mph', '40 mph']",,,yes,,,,"[198707933, 49655150]",US 40
+982862949,49514126,0,False,primary,Mapleton Avenue,16.833,2,,,25 mph,,,,,,,198707923,
+982862949,49417943,0,True,primary,Pulaski Highway,78.661,3,,,30 mph,,,,,,,198707939,US 40
+1104181074,610317814,0,True,primary,Pulaski Highway,76.086,3,,,30 mph,,,,,,,198707932,US 40
+1165954001,49514119,0,True,primary,Erdman Avenue,240.965,2,,,50 mph,,,,,,,501285343,MD 151
+1165954016,49391344,0,False,primary,Debelius Avenue,93.893,2,,,25 mph,,,,,,,501285345,
+1165954016,49461757,0,False,primary,Debelius Avenue,23.102,2,,,25 mph,,,,,,,501285346,
+1165954016,1165954001,0,True,primary_link,,30.251,1,,,,,,,,,,100896226,
+1266341831,49482486,0,True,secondary,Edison Highway,163.8,2,,,30 mph,,,,,,,"[197950018, 197950020]",
+1355274963,49532228,0,False,residential,Orleans Street,114.191,,,,,,,,,,,"[120981121, 84601124]",
+2468399969,49422268,0,False,primary_link,,17.068,2,,,,,,,,,,239024301,
+2468399969,49514126,0,True,primary,Pulaski Highway,149.238,3,,,30 mph,,,,,,,198707937,US 40
+2765783477,49537909,0,False,residential,McElderry Street,42.645,1,,,40,,,,,,,192574237,
+2965421671,49458891,0,False,residential,East Fayette Street,93.365,2,,,,,,,,,,6003113,
+2965421671,2965421672,0,True,residential,,51.729,2,,,,,,,,,,292983549,
+2965421671,49458886,0,False,residential,East Fayette Street,37.126,2,,,,,,,,,,6003113,
+2965421672,49458886,0,False,tertiary,North Kresson Street,40.987,3,,,30 mph,,,,,,,285838261,
+2965421672,49478550,0,False,tertiary,North Kresson Street,248.864,3,,,30 mph,,,,,,,285838261,
+3932444383,49381933,0,True,primary,North Point Road,84.776,2,,,50 mph,,,,,,,49655061,MD 151
+3932444383,3932444384,0,False,primary_link,,13.828,,,,,,,,,,,390092194,
+3932444384,3932444383,0,False,primary_link,,13.828,,,,,,,,,,,390092194,
+3932444384,3932444385,0,True,primary,North Point Road,61.747,2,,,50 mph,,,,,,,6016832,MD 151
+3932444385,3932444386,0,False,primary_link,,12.471,,,,,,,,,,,390092195,
+3932444385,49480629,0,True,primary,North Point Road,450.294,2,,,50 mph,,,,yes,,,"[6016832, 49655048, 49655053, 49655056, 49655062]",MD 151
+3932444386,3932444383,0,True,primary,North Point Road,61.11,2,,,50 mph,,,,,,,49655061,MD 151
+3932444386,3932444385,0,False,primary_link,,12.471,,,,,,,,,,,390092195,
+4453500986,49415051,0,True,motorway,Harbor Tunnel Thruway,611.525,2,,,55 mph,,,yes,,,,"[49655136, 49655137]",I 895
+4453501389,4453500986,0,True,motorway_link,,17.258,1,,,,,,yes,,,,501284130,
+4453501398,4453501389,0,True,motorway_link,,233.924,1,,,,,,yes,,,,"[5999857, 448327244]",
+4453501398,49398972,0,True,primary_link,,209.504,1,,,,,,,,,,130452007,US 40 Truck
+4453501399,4453501398,0,True,primary_link,,39.896,1,,,,,,,,,,405241571,US 40 Truck
+4453501399,49545814,0,True,primary,Erdman Avenue,246.12,2,,,"['35 mph', '50 mph']",,,yes,,,,"[49655147, 49655143]",MD 151
+5169593404,49544578,0,False,residential,North Janney Street,87.76,,,,,,,,,,,6014353,
+5286773445,49475206,0,True,primary,East Monument Street,43.632,2,,,35 mph,,,,,,,6005222,
+5286773447,49475189,0,True,primary,East Monument Street,177.126,2,,,35 mph,,,,,,,"[547151011, 547151013, 547151014]",
+5286773447,5286773445,0,True,primary_link,,28.232,1,,,,,,,,,,547151016,

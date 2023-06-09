@@ -1,0 +1,12 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+182557040,182714794,0,False,residential,White Haven Drive,22.475,,,,,,,,,,,17652031,
+182557040,182695976,0,False,residential,White Haven Drive,45.544,,,,,,,,,,,17640864,
+182695976,4243416240,0,False,secondary,Church Creek Road,8.27,,,,,,,,,,,17645350,MD 16
+182695976,182557040,0,False,residential,White Haven Drive,45.544,,,,,,,,,,,17640864,
+182714794,182557040,0,False,residential,White Haven Drive,22.475,,,,,,,,,,,17652031,
+182714794,4243416240,0,False,secondary,Church Creek Road,36.057,,,,,,,,,,,465555421,MD 16
+182714794,4243416230,0,False,secondary,Golden Hill Road,34.611,,,,,,,,,,,465555422,MD 335
+4243416230,4243416240,0,True,secondary_link,,55.087,,,,,,,,,,,424989751,
+4243416230,182714794,0,False,secondary,Golden Hill Road,34.611,,,,,,,,,,,465555422,MD 335
+4243416240,182695976,0,False,secondary,Church Creek Road,8.27,,,,,,,,,,,17645350,MD 16
+4243416240,182714794,0,False,secondary,Church Creek Road,36.057,,,,,,,,,,,465555421,MD 16

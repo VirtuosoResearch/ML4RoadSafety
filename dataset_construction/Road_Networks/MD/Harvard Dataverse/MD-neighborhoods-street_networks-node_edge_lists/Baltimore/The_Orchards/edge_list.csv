@@ -1,0 +1,54 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+49444238,49444262,0,False,tertiary,West Lake Avenue,93.146,2,,,25 mph,,,,,,,5319982,
+49444238,49444262,1,False,residential,,129.385,,,,,,,,,,,6001279,
+49444262,49444238,0,False,tertiary,West Lake Avenue,93.146,2,,,25 mph,,,,,,,5319982,
+49444262,49444238,1,False,residential,,129.385,,,,,,,,,,,6001279,
+49444262,49528555,0,False,tertiary,West Lake Avenue,101.479,2,,,25 mph,,,,,,,5319982,
+49460542,49460543,0,False,residential,Boxhill Lane,152.509,,,,,,,,,,,228438778,
+49460542,49563332,0,False,residential,Tamworth Road,124.148,,,,,,,,,,,228438779,
+49460543,49465119,0,False,residential,Saint Georges Road,69.604,,,,,,,,,,,6003953,
+49460543,49460550,0,False,residential,Boxhill Lane,183.382,,,,,,,,,,,228438778,
+49460543,49460542,0,False,residential,Boxhill Lane,152.509,,,,,,,,,,,228438778,
+49460550,49488358,0,False,residential,West Melrose Avenue,106.898,,,,,,,,,,,6006935,
+49460550,49566686,0,False,residential,Stony Run Drive,112.234,,,,,,,,,,,6020433,
+49460550,49460543,0,False,residential,Boxhill Lane,183.382,,,,,,,,,,,228438778,
+49465119,49460543,0,False,residential,Saint Georges Road,69.604,,,,,,,,,,,6003953,
+49465119,49522397,0,False,residential,Saint Georges Road,180.837,,,,,,,,,,,6003956,
+49465119,49563332,0,False,residential,Greenleaf Road,157.989,,,,,,,,,,,6019051,
+49488354,49494211,0,False,primary,North Charles Street,245.49,4,,,30 mph,,,,,,,512031902,MD 139
+49488354,49488358,0,False,residential,West Melrose Avenue,111.071,,,,,,,,,,,6006935,
+49488354,49522397,0,False,primary,North Charles Street,116.576,4,,,30 mph,,,,,,,187473013,MD 139
+49488358,49460550,0,False,residential,West Melrose Avenue,106.898,,,,,,,,,,,6006935,
+49488358,49488354,0,False,residential,West Melrose Avenue,111.071,,,,,,,,,,,6006935,
+49488358,49494234,0,False,residential,Greenleaf Road,206.24,,,,,,,,,,,6019045,
+49494211,49522409,0,False,primary,North Charles Street,91.236,4,,,30 mph,,,,,,,512031897,MD 139
+49494211,49488354,0,False,primary,North Charles Street,245.49,4,,,30 mph,,,,,,,512031902,MD 139
+49494211,49494234,0,False,residential,Bellemore Road,119.294,,,,,,,,,,,6007609,
+49494234,49494254,0,False,residential,Bellemore Road,107.078,,,,,,,,,,,6007609,
+49494234,49494211,0,False,residential,Bellemore Road,119.294,,,,,,,,,,,6007609,
+49494234,49488358,0,False,residential,Greenleaf Road,206.24,,,,,,,,,,,6019045,
+49494254,49566686,0,False,residential,Stony Run Drive,99.743,,,,,,,,,,,6020433,
+49494254,49494234,0,False,residential,Bellemore Road,107.078,,,,,,,,,,,6007609,
+49494254,49528555,0,False,residential,Stony Run Drive,109.787,,,,,,,,,,,6020433,
+49522391,49522397,0,False,primary,North Charles Street,197.131,4,,,30 mph,,,,,,,187473013,MD 139
+49522391,49563332,0,False,residential,Tamworth Road,94.039,,,,,,,,,,,228438779,
+49522397,49465119,0,False,residential,Saint Georges Road,180.837,,,,,,,,,,,6003956,
+49522397,49488354,0,False,primary,North Charles Street,116.576,4,,,30 mph,,,,,,,187473013,MD 139
+49522397,49522391,0,False,primary,North Charles Street,197.131,4,,,30 mph,,,,,,,187473013,MD 139
+49522409,49522416,0,False,primary,North Charles Street,69.365,4,,,30 mph,,,,,,,95105772,MD 139
+49522409,49494211,0,False,primary,North Charles Street,91.236,4,,,30 mph,,,,,,,512031897,MD 139
+49522409,49528555,0,False,tertiary,West Lake Avenue,216.353,"['3', '2']",,,25 mph,,,,,,,"[544804761, 512031901]",
+49522416,49522409,0,False,primary,North Charles Street,69.365,4,,,30 mph,,,,,,,95105772,MD 139
+49522416,49522418,0,False,primary,North Charles Street,7.315,4,,,30 mph,,,,,,,95105772,MD 139
+49522418,49522416,0,False,primary,North Charles Street,7.315,4,,,30 mph,,,,,,,95105772,MD 139
+49522418,49522420,0,False,primary,North Charles Street,132.126,4,,,30 mph,,,,,,,95105772,MD 139
+49522420,49522418,0,False,primary,North Charles Street,132.126,4,,,30 mph,,,,,,,95105772,MD 139
+49528555,49444262,0,False,tertiary,West Lake Avenue,101.479,2,,,25 mph,,,,,,,5319982,
+49528555,49522418,0,True,residential,"['Charlesmeade Road', 'Stony Run Drive']",254.582,,,,,,,,,,,"[303570176, 6019042]",
+49528555,49494254,0,False,residential,Stony Run Drive,109.787,,,,,,,,,,,6020433,
+49528555,49522409,0,False,tertiary,West Lake Avenue,216.353,"['2', '3']",,,25 mph,,,,,,,"[544804761, 512031901]",
+49563332,49465119,0,False,residential,Greenleaf Road,157.989,,,,,,,,,,,6019051,
+49563332,49522391,0,False,residential,Tamworth Road,94.039,,,,,,,,,,,228438779,
+49563332,49460542,0,False,residential,Tamworth Road,124.148,,,,,,,,,,,228438779,
+49566686,49494254,0,False,residential,Stony Run Drive,99.743,,,,,,,,,,,6020433,
+49566686,49460550,0,False,residential,Stony Run Drive,112.234,,,,,,,,,,,6020433,

@@ -1,0 +1,51 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+211583580,211583590,0,False,residential,Southside Avenue,234.422,,,,,,,,,,,20041857,
+211583580,211685291,0,False,residential,Union Street,185.259,,,,,,,,,,,20047946,
+211583590,211583580,0,False,residential,Southside Avenue,234.422,,,,,,,,,,,20041857,
+211583590,211718372,0,False,secondary,Main Street,116.304,,,,,,,,,,,20049628,NY 83
+211583590,211583598,0,False,tertiary,Southside Avenue,451.336,,,,,,,,,,,368036400,
+211583598,211583601,0,False,tertiary,Southside Avenue,181.449,,,,,,,,,,,368036400,
+211583598,211718372,0,False,tertiary,Center Street,470.912,,,,,,,,,,,20054165,
+211583598,211583590,0,False,tertiary,Southside Avenue,451.336,,,,,,,,,,,368036400,
+211583601,211583598,0,False,tertiary,Southside Avenue,181.449,,,,,,,,,,,368036400,
+211583601,211634286,0,False,residential,Depot Street,329.037,,,,,,,,,,,20048126,
+211634286,211634297,0,False,residential,Railroad Avenue,592.36,,,,,,,,,,,20045505,
+211634286,211740951,0,False,residential,"['Maple Avenue', 'Depot Street']",348.819,,,,,,,,,,,"[20050770, 20048126]",
+211634286,211583601,0,False,residential,Depot Street,329.037,,,,,,,,,,,20048126,
+211634297,211634286,0,False,residential,Railroad Avenue,592.36,,,,,,,,,,,20045505,
+211634297,211718387,0,False,secondary,Main Street,207.082,,,,,,,,,,,20049628,NY 83
+211634297,211718372,0,False,secondary,Main Street,223.504,,,,,,,,,,,20049628,NY 83
+211668313,211668318,0,False,residential,Hess Street,64.902,,,,,,,,,,,20047190,
+211668313,211718396,0,False,residential,Maple Avenue,141.966,,,,,,,,,,,20050770,
+211668313,211740951,0,False,residential,Maple Avenue,180.81,,,,,,,,,,,20050770,
+211668313,211718393,0,False,residential,Orchard Street,237.006,,,,,,,,,,,20050915,
+211668318,211668313,0,False,residential,Hess Street,64.902,,,,,,,,,,,20047190,
+211685291,211753974,0,False,tertiary,Center Street,21.262,,,,,,,,,,,368036398,
+211685291,211583580,0,False,residential,Union Street,185.259,,,,,,,,,,,20047946,
+211702373,211718396,0,False,secondary,North Main Street,237.345,,,,,,,,,,,20050623,NY 83
+211718372,211634297,0,False,secondary,Main Street,223.504,,,,,,,,,,,20049628,NY 83
+211718372,211583590,0,False,secondary,Main Street,116.304,,,,,,,,,,,20049628,NY 83
+211718372,211583598,0,False,tertiary,Center Street,470.912,,,,,,,,,,,20054165,
+211718372,211784545,0,False,tertiary,Center Street,118.994,,,,,,,,,,,368036398,
+211718387,211718393,0,False,secondary,Main Street,190.242,,,,,,,,,,,20049628,NY 83
+211718387,211634297,0,False,secondary,Main Street,207.082,,,,,,,,,,,20049628,NY 83
+211718387,211753975,0,False,residential,Prospect Street,476.843,,,,,,,,,,,20051480,
+211718393,211718396,0,False,secondary,Main Street,103.488,,,,,,,,,,,20049628,NY 83
+211718393,211718387,0,False,secondary,Main Street,190.242,,,,,,,,,,,20049628,NY 83
+211718393,211668313,0,False,residential,Orchard Street,237.006,,,,,,,,,,,20050915,
+211718396,211718393,0,False,secondary,Main Street,103.488,,,,,,,,,,,20049628,NY 83
+211718396,211668313,0,False,residential,Maple Avenue,141.966,,,,,,,,,,,20050770,
+211718396,211702373,0,False,secondary,North Main Street,237.345,,,,,,,,,,,20050623,NY 83
+211740951,211668313,0,False,residential,Maple Avenue,180.81,,,,,,,,,,,20050770,
+211740951,211634286,0,False,residential,"['Maple Avenue', 'Depot Street']",348.819,,,,,,,,,,,"[20050770, 20048126]",
+211740951,211799069,0,False,residential,Wiley Street,213.213,,,,,,,,,,,20054506,
+211753974,211753975,0,False,residential,Prospect Street,120.589,,,,,,,,,,,20051480,
+211753974,211685291,0,False,tertiary,Center Street,21.262,,,,,,,,,,,368036398,
+211753974,211784545,0,False,tertiary,Center Street,78.25,,,,,,,,,,,368036398,
+211753975,211753974,0,False,residential,Prospect Street,120.589,,,,,,,,,,,20051480,
+211753975,211718387,0,False,residential,Prospect Street,476.843,,,,,,,,,,,20051480,
+211753975,211784545,0,False,residential,Hadley Street,184.263,,,,,,,,,,,20053641,
+211784545,211753974,0,False,tertiary,Center Street,78.25,,,,,,,,,,,368036398,
+211784545,211753975,0,False,residential,Hadley Street,184.263,,,,,,,,,,,20053641,
+211784545,211718372,0,False,tertiary,Center Street,118.994,,,,,,,,,,,368036398,
+211799069,211740951,0,False,residential,Wiley Street,213.213,,,,,,,,,,,20054506,

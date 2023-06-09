@@ -1,0 +1,535 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+102836760,102968209,0,False,residential,Marthas Court West,137.446,,,,,,,,,,,11535012,
+102844397,103023032,0,False,secondary,Burkittsville Road,96.727,2,,,,,,,,,,185915303,MD 17
+102844397,1966014915,0,False,secondary,Burkittsville Road,19.166,2,,,,,,,,,,185915303,MD 17
+102844404,102844397,0,True,motorway_link,,136.472,,,,,,,,,,,11535990,
+102844404,1966014883,0,True,motorway_link,,42.055,,,,,,,,,,,11549077,
+102844410,102976426,0,True,motorway,Jefferson National Pike,617.348,2,,,65 mph,,,,,,,49089896,US 340
+102844410,102844404,0,True,motorway_link,,312.296,,,,,,,,,,,444420724,
+102848383,102996807,0,False,residential,North Virginia Avenue,138.544,,,,,,,,,,,11536444,
+102848383,2858750036,0,False,secondary,West Potomac Street,60.46,2,,,,,,,,,,11553282,
+102848383,103017284,0,False,residential,"['Walnut Street', 'South Virginia Avenue']",149.636,,,,,,,,,,,"[358460532, 359188884]",
+102854995,103002001,0,False,secondary,Jefferson Pike,977.937,2,,,,,,,,,,52967252,MD 180
+102854995,103006977,0,False,secondary,Jefferson Pike,119.093,2,,,,,,,,,,52967252,MD 180
+102854995,103003409,0,False,residential,3rd Street,106.959,,,,,,,,,,,282158272,
+102862448,103004394,0,False,residential,West Boss Arnold Road,594.43,,,,,,,,,,,166897899,
+102873491,103064015,0,False,residential,West C Street,324.575,,,,,,,,,,,11538754,
+102873491,102873499,0,False,residential,West C Street,22.756,,,,,,,,,,,11538754,
+102873491,102996811,0,False,residential,North Dayton Avenue,106.695,,,,,,,,,,,11556596,
+102873499,102873491,0,False,residential,West C Street,22.756,,,,,,,,,,,11538754,
+102873499,103046362,0,False,residential,West C Street,96.861,,,,,,,,,,,11538754,
+102873499,103042119,0,False,residential,North Dayton Avenue,88.195,,,,,,,,,,,11556597,
+102877710,102877720,0,False,residential,Janice Street,753.131,,,,,,,,,,,358986200,
+102877720,103006977,0,False,secondary,Petersville Road,935.588,2,,,,,,,,,,44120803,MD 79
+102877720,3638043134,0,False,secondary,Petersville Road,490.672,2,,,,,,,,,,44120803,MD 79
+102877720,102877710,0,False,residential,Janice Street,753.131,,,,,,,,,,,358986200,
+102900465,102994549,0,False,primary,Burkittsville Road,10.091,2,,,40 mph,,,,,,,414876501,MD 17
+102900465,3640115900,0,False,primary,Burkittsville Road,55.286,2,,,40 mph,,,,,,,414876501,MD 17
+102900467,3640115900,0,True,motorway_link,,76.597,,,,,,,,,,,11548249,
+102900467,102900465,0,True,motorway_link,,53.442,,,,,,,,,,,414876504,
+102900472,102900467,0,True,motorway_link,,203.871,,,,,,,,,,,11541260,
+102900472,102994536,0,True,motorway,Jefferson National Pike,544.483,2,,,65 mph,,,,,,,137661871,US 340
+102902451,103002619,0,False,residential,"['New York Avenue', 'Water Street']",433.856,,,,,,,,,,,"[11541450, 11552154]",
+102903790,102903792,0,False,residential,Moore Street,100.931,,,,,,,,,,,282186415,
+102903790,103009346,0,False,secondary,Knoxville Road,155.483,2,,,,,,,,,,11552713,MD 478
+102903790,103009407,0,False,secondary,Knoxville Road,189.244,2,,,,,,,,,,11552713,MD 478
+102903792,102903795,0,False,residential,Moore Street,37.508,,,,,,,,,,,282186415,
+102903792,102903790,0,False,residential,Moore Street,100.931,,,,,,,,,,,282186415,
+102903792,103009346,0,False,residential,"['Western Avenue', 'Tritapoe Drive']",233.021,,,,,,,,,,,"[281908497, 11561516]",
+102903792,103040414,0,False,residential,Tritapoe Drive,195.78,,,,,,,,,,,281908497,
+102903795,102903792,0,False,residential,Moore Street,37.508,,,,,,,,,,,282186415,
+102924668,103009380,0,False,secondary,Knoxville Road,160.367,2,,,,,,,,,,52967959,MD 180
+102924668,102924699,0,True,motorway_link,,600.827,,,,,,,,,,,11543690,
+102929019,103024472,0,False,residential,South Mountain Road,505.897,,,,,,,,,,,11544058,
+102929019,103009380,0,False,residential,South Mountain Road,338.355,,,,,,,,,,,11544058,
+102929019,2646457775,0,False,residential,Mountain Lane,434.159,,,,,,,,,,,11546123,
+102935488,102968209,0,False,residential,Marthas Court East,410.301,,,,,,,,,,,11561910,
+102946452,1298893353,0,True,primary,Burkittsville Road,47.881,1,,,,,,,,,,91536862,MD 17
+102946452,103069516,0,False,primary,Burkittsville Road,140.245,2,,,40 mph,,,,,,,160555229,MD 17
+102968186,2861123105,0,False,tertiary,Rosemont Drive,150.016,2,,,,,,,,,,11556535,
+102968186,103041556,0,False,tertiary,Rosemont Drive,12.434,2,,,,,,,,,,11556535,
+102968209,102836760,0,False,residential,Marthas Court West,137.446,,,,,,,,,,,11535012,
+102968209,102968186,0,True,residential,Maplecrest Drive,181.814,,,,,,,,,,,11548050,
+102968209,2861123114,0,False,residential,Maplecrest Court,385.603,,,,,,,,,,,11560554,
+102968209,102935488,0,False,residential,Marthas Court East,410.301,,,,,,,,,,,11561910,
+102969740,3640115900,0,False,primary,Burkittsville Road,40.883,2,,,40 mph,,,,,,,52967240,MD 17
+102969740,102994543,0,True,motorway_link,,124.857,,,,,,,,,,,11551551,
+102969740,671076517,0,False,primary,Burkittsville Road,36.558,2,,,40 mph,,,,,,,52967240,MD 17
+102976426,102924699,0,True,motorway,Jefferson National Pike,3049.74,2,,,65 mph,,,yes,,,,"[49089896, 137661868, 137661869]",US 340
+102988378,103000841,0,False,primary,Burkittsville Road,51.136,2,,,40 mph,,,,,,,11559485,MD 17
+102988378,1298893354,0,True,primary_link,,84.016,1,,,,,,,,,,11550681,MD 17
+102988378,1726096538,0,False,primary,Burkittsville Road,716.97,2,,,40 mph,,,,,,,114731264,MD 17
+102994536,103084966,0,True,motorway,Jefferson National Pike,2060.592,2,,,65 mph,,,,,,,137661871,US 340
+102994543,102994536,0,True,motorway_link,,248.874,,,,,,,,,,,11551551,
+102994549,102900465,0,False,primary,Burkittsville Road,10.091,2,,,40 mph,,,,,,,414876501,MD 17
+102994549,102994543,0,True,motorway_link,,49.259,,,,,,,,,,,11551552,
+102994549,1966014910,0,False,primary,Burkittsville Road,109.057,2,,,40 mph,,,yes,,,,"[52967288, 414876501, 52967287]",MD 17
+102996807,102848383,0,False,residential,North Virginia Avenue,138.544,,,,,,,,,,,11536444,
+102996807,103046362,0,False,residential,"['North Virginia Avenue', 'West C Street']",216.176,,,,,,,,,,,"[11561336, 11538754]",
+102996807,102996809,0,False,residential,West B Street,107.528,,,,,,,,,,,358981406,
+102996807,3638042176,0,False,residential,West B Street,67.125,,,,,,,,,,,358981406,
+102996809,102996811,0,False,residential,West B Street,123.04,,,,,,,,,,,358981406,
+102996809,103046362,0,False,residential,North Delaware Avenue,111.163,,,,,,,,,,,11557072,
+102996809,103040439,0,False,residential,North Delaware Avenue,59.461,,,,,,,,,,,11557072,
+102996809,102996807,0,False,residential,West B Street,107.528,,,,,,,,,,,358981406,
+102996811,102996813,0,False,residential,West B Street,91.93,,,,,,,,,,,358981406,
+102996811,102996809,0,False,residential,West B Street,123.04,,,,,,,,,,,358981406,
+102996811,102873491,0,False,residential,North Dayton Avenue,106.695,,,,,,,,,,,11556596,
+102996811,103040441,0,False,residential,North Dayton Avenue,78.423,,,,,,,,,,,11556596,
+102996813,102996815,0,False,residential,West B Street,169.862,,,,,,,,,,,358981406,
+102996813,102996811,0,False,residential,West B Street,91.93,,,,,,,,,,,358981406,
+102996813,103025284,0,False,residential,North Georgia Avenue,96.58,,,,,,,,,,,11554607,
+102996815,102996813,0,False,residential,West B Street,169.862,,,,,,,,,,,358981406,
+102996815,103040442,0,False,residential,Florida Avenue,124.297,,,,,,,,,,,11561379,
+102996815,102996823,0,False,residential,West B Street,104.313,,,,,,,,,,,358981406,
+102996823,103064015,0,False,residential,Central Avenue,67.044,,,,,,,,,,,11558988,
+102996823,103040444,0,False,residential,Central Avenue,152.821,,,,,,,,,,,11558988,
+102996823,102996815,0,False,residential,West B Street,104.313,,,,,,,,,,,358981406,
+102999468,103023032,0,False,secondary,Burkittsville Road,1372.552,2,,,,,,,,,,"[11560896, 185915303]",MD 17
+103000841,102988378,0,False,primary,Burkittsville Road,51.136,2,,,40 mph,,,,,,,11559485,MD 17
+103000841,1298893354,0,False,primary,Petersville Road,58.425,2,,,,,,,,,,114731291,MD 17
+103000841,103006941,0,False,secondary,Petersville Road,380.821,2,,,,,,,,,,44120803,MD 79
+103002001,103045112,0,False,secondary,Jefferson Pike,195.708,2,,,,,,,,,,52967252,MD 180
+103002001,102854995,0,False,secondary,Jefferson Pike,977.937,2,,,,,,,,,,52967252,MD 180
+103002618,103002619,0,False,residential,New York Avenue,10.288,,,,,,,,,,,11552154,
+103002618,103006949,0,False,residential,Chick Lane,403.689,,,,,,,,,,,11558314,
+103002618,103058986,0,False,residential,Chick Lane,171.963,,,,,,,,,,,11558315,
+103002619,103002618,0,False,residential,New York Avenue,10.288,,,,,,,,,,,11552154,
+103002619,102902451,0,False,residential,"['New York Avenue', 'Water Street']",433.856,,,,,,,,,,,"[11541450, 11552154]",
+103002619,103059007,0,False,residential,New York Avenue,247.261,,,,,,,,,,,11558316,
+103003409,102854995,0,False,residential,3rd Street,106.959,,,,,,,,,,,282158272,
+103003815,103003817,0,False,residential,Addition Avenue,101.08,,,,,,,,,,,11552257,
+103003815,103009404,0,False,secondary,Knoxville Road,207.272,2,,,,,,,,,,11552713,MD 478
+103003815,103009325,0,False,secondary,West Potomac Street,716.496,2,,,,,,,,,,358461026,MD 478
+103003817,103003815,0,False,residential,Addition Avenue,101.08,,,,,,,,,,,11552257,
+103003817,103003819,0,False,residential,Addition Avenue,49.202,,,,,,,,,,,11552257,
+103003817,103040444,0,False,residential,Brunswick Street,589.411,,,,,,,,,,,11556426,
+103003817,103052674,0,False,residential,Tritapoe Drive,206.716,,,,,,,,,,,281908497,
+103003819,103003817,0,False,residential,Addition Avenue,49.202,,,,,,,,,,,11552257,
+103004394,102862448,0,False,residential,West Boss Arnold Road,594.43,,,,,,,,,,,166897899,
+103006882,671070504,0,False,primary,Petersville Road,22.885,2,,,30 mph,,,,,,,118062403,MD 17
+103006941,103041556,0,False,tertiary,Rosemont Drive,1232.274,2,,,,,,,,,,11556535,
+103006941,103006949,0,False,secondary,Petersville Road,450.195,2,,,,,,,,,,44120803,MD 79
+103006941,103000841,0,False,secondary,Petersville Road,380.821,2,,,,,,,,,,44120803,MD 79
+103006949,103002618,0,False,residential,Chick Lane,403.689,,,,,,,,,,,11558314,
+103006949,3638043134,0,False,secondary,Petersville Road,629.429,2,,,,,,,,,,44120803,MD 79
+103006949,103006941,0,False,secondary,Petersville Road,450.195,2,,,,,,,,,,44120803,MD 79
+103006977,103020806,0,False,secondary,Jefferson Pike,6.535,2,,,,,,,,,,52967252,MD 180
+103006977,102877720,0,False,secondary,Petersville Road,935.588,2,,,,,,,,,,44120803,MD 79
+103006977,102854995,0,False,secondary,Jefferson Pike,119.093,2,,,,,,,,,,52967252,MD 180
+103008346,103008348,0,False,residential,1st Street,161.468,,,,,,,,,,,11552634,
+103008346,103020806,0,False,secondary,Jefferson Pike,200.329,2,,,,,,,,,,52967252,MD 180
+103008346,103063972,0,False,secondary,Jefferson Pike,66.797,2,,,,,,,,,,52967252,MD 180
+103008348,103008346,0,False,residential,1st Street,161.468,,,,,,,,,,,11552634,
+103009319,671070495,0,False,secondary,West Potomac Street,91.529,2,,,,,,,,,,11553282,
+103009319,103015260,0,False,secondary,West Potomac Street,129.324,2,,,,,,,,,,11553282,
+103009319,103040441,0,False,residential,North Dayton Avenue,86.366,,,,,,,,,,,11556596,
+103009319,103017282,0,False,residential,South Dayton Avenue,103.319,,,,,,,,,,,11559633,
+103009325,671070495,0,False,secondary,West Potomac Street,166.892,2,,,,,,,,,,11553282,
+103009325,103040442,0,False,residential,Florida Avenue,84.802,,,,,,,,,,,11561379,
+103009325,103003815,0,False,secondary,West Potomac Street,716.496,2,,,,,,,,,,358461026,MD 478
+103009346,103009372,0,False,secondary,Knoxville Road,1550.93,2,,,,,,,,,,11552713,MD 478
+103009346,102903790,0,False,secondary,Knoxville Road,155.483,2,,,,,,,,,,11552713,MD 478
+103009346,102903792,0,False,residential,"['Western Avenue', 'Tritapoe Drive']",233.021,,,,,,,,,,,"[281908497, 11561516]",
+103009372,103009346,0,False,secondary,Knoxville Road,1550.93,2,,,,,,,,,,11552713,MD 478
+103009372,2861295193,0,False,secondary,Jefferson Pike,16.434,2,,,,,,,,,,11560597,MD 180
+103009372,103009380,0,False,secondary,Knoxville Road,235.803,2,,,,,,,,,,52967959,MD 180
+103009380,102924668,0,False,secondary,Knoxville Road,160.367,2,,,,,,,,,,52967959,MD 180
+103009380,102929019,0,False,residential,South Mountain Road,338.355,,,,,,,,,,,11544058,
+103009380,103009372,0,False,secondary,Knoxville Road,235.803,2,,,,,,,,,,52967959,MD 180
+103009388,102924668,0,True,motorway_link,,330.778,,,,,,,,,,,52967960,
+103009388,102900472,0,True,motorway,Jefferson National Pike,2765.789,2,,,65 mph,,,yes,,,,"[23891307, 23891308, 137661873, 414876502, 187916283]",US 340
+103009404,103009407,0,False,secondary,Knoxville Road,185.175,2,,,,,,,,,,11552713,MD 478
+103009404,103003815,0,False,secondary,Knoxville Road,207.272,2,,,,,,,,,,11552713,MD 478
+103009404,103052674,0,False,residential,McDonald Avenue,100.589,,,,,,,,,,,11557638,
+103009407,102903790,0,False,secondary,Knoxville Road,189.244,2,,,,,,,,,,11552713,MD 478
+103009407,103009404,0,False,secondary,Knoxville Road,185.175,2,,,,,,,,,,11552713,MD 478
+103009407,103040414,0,False,residential,Woodland Avenue,101.211,,,,,,,,,,,282186416,
+103012089,103017282,0,False,residential,Walnut Street,91.955,,,,,,,,,,,358460532,
+103012089,671070495,0,False,residential,South Georgia Avenue,1136.753,,,,,,,,,,,11552945,
+103012089,2858750038,0,False,residential,"['Walnut Street', 'Jaynies Way']",118.941,,,,,,,,,,,"[11553555, 358460532]",
+103014394,103014398,0,False,residential,Weston Drive,229.589,,,,,,,,,,,11553183,
+103014394,103071082,0,False,secondary,Jefferson Pike,395.658,2,,,,,,,,,,52967252,MD 180
+103014394,671076668,0,False,secondary,Jefferson Pike,1756.235,2,,,,,,,,,,52967252,MD 180
+103014398,103014398,0,False,residential,Weston Drive,375.999,,,,,,,,,,,11553183,
+103014398,103014398,1,False,residential,Weston Drive,375.999,,,,,,,,,,,11553183,
+103014398,103014394,0,False,residential,Weston Drive,229.589,,,,,,,,,,,11553183,
+103015260,103009319,0,False,secondary,West Potomac Street,129.324,2,,,,,,,,,,11553282,
+103015260,2858750036,0,False,secondary,West Potomac Street,43.909,2,,,,,,,,,,11553282,
+103015260,103017283,0,False,residential,South Delaware Avenue,101.416,,,,,,,,,,,11556036,
+103015260,103040439,0,False,residential,North Delaware Avenue,85.794,,,,,,,,,,,11557072,
+103017282,103017283,0,False,residential,Walnut Street,129.661,,,,,,,,,,,358460532,
+103017282,103012089,0,False,residential,Walnut Street,91.955,,,,,,,,,,,358460532,
+103017282,103009319,0,False,residential,South Dayton Avenue,103.319,,,,,,,,,,,11559633,
+103017283,103017282,0,False,residential,Walnut Street,129.661,,,,,,,,,,,358460532,
+103017283,103015260,0,False,residential,South Delaware Avenue,101.416,,,,,,,,,,,11556036,
+103017283,103017284,0,False,residential,Walnut Street,49.851,,,,,,,,,,,358460532,
+103017284,2858750036,0,False,residential,Whistle Alley,99.494,,,,,,,,,,,357447481,
+103017284,102848383,0,False,residential,"['Walnut Street', 'South Virginia Avenue']",149.636,,,,,,,,,,,"[359188884, 358460532]",
+103017284,103017283,0,False,residential,Walnut Street,49.851,,,,,,,,,,,358460532,
+103020806,103006977,0,False,secondary,Jefferson Pike,6.535,2,,,,,,,,,,52967252,MD 180
+103020806,103020807,0,False,residential,2nd Street,155.064,,,,,,,,,,,11554054,
+103020806,103008346,0,False,secondary,Jefferson Pike,200.329,2,,,,,,,,,,52967252,MD 180
+103020807,103020806,0,False,residential,2nd Street,155.064,,,,,,,,,,,11554054,
+103023032,102844397,0,False,secondary,Burkittsville Road,96.727,2,,,,,,,,,,185915303,MD 17
+103023032,103024472,0,False,residential,"['East Mountain Road', 'South Mountain Road']",3452.193,,,,,,,,,,,"[11554354, 282186727]",
+103023032,102999468,0,False,secondary,Burkittsville Road,1372.552,2,,,,,,,,,,"[11560896, 185915303]",MD 17
+103024472,103024475,0,False,residential,Ash Drive,8.571,,,,,,,,,,,282186726,
+103024472,102929019,0,False,residential,South Mountain Road,505.897,,,,,,,,,,,11544058,
+103024472,103023032,0,False,residential,"['East Mountain Road', 'South Mountain Road']",3452.193,,,,,,,,,,,"[11554354, 282186727]",
+103024475,103024472,0,False,residential,Ash Drive,8.571,,,,,,,,,,,282186726,
+103024475,103085571,0,False,residential,Scotch Pine Drive,232.762,,,,,,,,,,,11561462,
+103024475,103024488,0,False,residential,Ash Drive,251.458,,,,,,,,,,,282186726,
+103024488,103024475,0,False,residential,Ash Drive,251.458,,,,,,,,,,,282186726,
+103025284,103040442,0,False,residential,Brunswick Street,165.908,,,,,,,,,,,11556426,
+103025284,103040441,0,False,residential,Brunswick Street,91.393,,,,,,,,,,,11556426,
+103025284,102996813,0,False,residential,North Georgia Avenue,96.58,,,,,,,,,,,11554607,
+103025284,671070495,0,False,residential,North Georgia Avenue,85.055,,,,,,,,,,,11554607,
+103026874,103026924,0,False,residential,Frazer Road,1278.547,,,,,,,,,,,281967457,
+103026924,2859244972,0,False,secondary,Point of Rocks Road,275.449,,,,,,,,,,,11555041,MD 464
+103026924,103026874,0,False,residential,Frazer Road,1278.547,,,,,,,,,,,281967457,
+103040414,102903792,0,False,residential,Tritapoe Drive,195.78,,,,,,,,,,,281908497,
+103040414,103052674,0,False,residential,Tritapoe Drive,177.405,,,,,,,,,,,281908497,
+103040414,103009407,0,False,residential,Woodland Avenue,101.211,,,,,,,,,,,282186416,
+103040439,103040441,0,False,residential,Brunswick Street,129.102,,,,,,,,,,,11556426,
+103040439,102996809,0,False,residential,North Delaware Avenue,59.461,,,,,,,,,,,11557072,
+103040439,103015260,0,False,residential,North Delaware Avenue,85.794,,,,,,,,,,,11557072,
+103040441,103025284,0,False,residential,Brunswick Street,91.393,,,,,,,,,,,11556426,
+103040441,103040439,0,False,residential,Brunswick Street,129.102,,,,,,,,,,,11556426,
+103040441,102996811,0,False,residential,North Dayton Avenue,78.423,,,,,,,,,,,11556596,
+103040441,103009319,0,False,residential,North Dayton Avenue,86.366,,,,,,,,,,,11556596,
+103040442,103025284,0,False,residential,Brunswick Street,165.908,,,,,,,,,,,11556426,
+103040442,103040444,0,False,residential,Brunswick Street,124.047,,,,,,,,,,,11556426,
+103040442,102996815,0,False,residential,Florida Avenue,124.297,,,,,,,,,,,11561379,
+103040442,103009325,0,False,residential,Florida Avenue,84.802,,,,,,,,,,,11561379,
+103040444,103003817,0,False,residential,Brunswick Street,589.411,,,,,,,,,,,11556426,
+103040444,103040442,0,False,residential,Brunswick Street,124.047,,,,,,,,,,,11556426,
+103040444,102996823,0,False,residential,Central Avenue,152.821,,,,,,,,,,,11558988,
+103041556,102968186,0,False,tertiary,Rosemont Drive,12.434,2,,,,,,,,,,11556535,
+103041556,103006941,0,False,tertiary,Rosemont Drive,1232.274,2,,,,,,,,,,11556535,
+103041556,102968209,0,True,residential,Maplecrest Drive,182.505,,,,,,,,,,,11560552,
+103042119,3638043101,0,False,residential,"['North Dayton Avenue', 'West E Street']",201.758,,,,,,,,,,,"[11556597, 11555279]",
+103042119,102873499,0,False,residential,North Dayton Avenue,88.195,,,,,,,,,,,11556597,
+103042119,103046362,0,False,residential,"['West D Street', 'North Delaware Avenue']",166.898,,,,,,,,,,,"[11557072, 11558342]",
+103045112,103002001,0,False,secondary,Jefferson Pike,195.708,2,,,,,,,,,,52967252,MD 180
+103046362,102873499,0,False,residential,West C Street,96.861,,,,,,,,,,,11538754,
+103046362,102996807,0,False,residential,"['North Virginia Avenue', 'West C Street']",216.176,,,,,,,,,,,"[11561336, 11538754]",
+103046362,103042119,0,False,residential,"['West D Street', 'North Delaware Avenue']",166.898,,,,,,,,,,,"[11557072, 11558342]",
+103046362,102996809,0,False,residential,North Delaware Avenue,111.163,,,,,,,,,,,11557072,
+103052674,103009404,0,False,residential,McDonald Avenue,100.589,,,,,,,,,,,11557638,
+103052674,103040414,0,False,residential,Tritapoe Drive,177.405,,,,,,,,,,,281908497,
+103052674,103003817,0,False,residential,Tritapoe Drive,206.716,,,,,,,,,,,281908497,
+103058986,103002618,0,False,residential,Chick Lane,171.963,,,,,,,,,,,11558315,
+103059007,103002619,0,False,residential,New York Avenue,247.261,,,,,,,,,,,11558316,
+103063972,103063975,0,False,residential,Shady Lane,222.563,,,,,,,,,,,11558981,
+103063972,103008346,0,False,secondary,Jefferson Pike,66.797,2,,,,,,,,,,52967252,MD 180
+103063972,103071082,0,False,secondary,Jefferson Pike,229.622,2,,,,,,,,,,52967252,MD 180
+103063975,103063972,0,False,residential,Shady Lane,222.563,,,,,,,,,,,11558981,
+103064015,102873491,0,False,residential,West C Street,324.575,,,,,,,,,,,11538754,
+103064015,2858750083,0,False,residential,Central Avenue,452.1,,,,,,,,,,,"[11558988, 11551439]",
+103064015,102996823,0,False,residential,Central Avenue,67.044,,,,,,,,,,,11558988,
+103069516,1726096467,0,True,primary,Burkittsville Road,202.558,2,,,40 mph,,,,,,,74272105,MD 17
+103069516,102946452,0,False,primary,Burkittsville Road,140.245,2,,,40 mph,,,,,,,160555229,MD 17
+103071082,103063972,0,False,secondary,Jefferson Pike,229.622,2,,,,,,,,,,52967252,MD 180
+103071082,103014394,0,False,secondary,Jefferson Pike,395.658,2,,,,,,,,,,52967252,MD 180
+103081349,103081349,0,False,residential,Cemetery Circle,647.545,,,,,,,,,,,11560923,
+103081349,103081349,1,False,residential,Cemetery Circle,647.545,,,,,,,,,,,11560923,
+103081349,2861295193,0,False,residential,Cemetery Circle,47.733,,,,,,,,,,,11560923,
+103085571,103024475,0,False,residential,Scotch Pine Drive,232.762,,,,,,,,,,,11561462,
+671070495,103012089,0,False,residential,South Georgia Avenue,1136.753,,,,,,,,,,,11552945,
+671070495,103009325,0,False,secondary,West Potomac Street,166.892,2,,,,,,,,,,11553282,
+671070495,103009319,0,False,secondary,West Potomac Street,91.529,2,,,,,,,,,,11553282,
+671070495,103025284,0,False,residential,North Georgia Avenue,85.055,,,,,,,,,,,11554607,
+671070504,1280814325,0,True,primary,Petersville Road,26.033,1,,,,,,,,,,118062402,MD 17
+671070504,103006882,0,False,primary,Petersville Road,22.885,2,,,30 mph,,,,,,,118062403,MD 17
+671076517,102969740,0,False,primary,Burkittsville Road,36.558,2,,,40 mph,,,,,,,52967240,MD 17
+671076517,671076620,0,True,primary,Burkittsville Road,28.91,1,,,,,,,,,,91536863,MD 17
+671076600,671076517,0,True,primary,Burkittsville Road,23.697,1,,,,,,,,,,52967241,MD 17
+671076600,671076620,0,True,primary,,15.369,1,,,,,,,,,roundabout,52967244,MD 180
+671076620,671076623,0,True,primary,,6.41,1,,,,,,,,,roundabout,114731262,MD 17;MD 180
+671076623,671076665,0,True,secondary,Jefferson Pike,47.712,,,,,,,,,,,52967249,MD 180
+671076623,671076631,0,True,primary,,19.208,1,,,,,,,,,roundabout,114731272,MD 17
+671076631,1298893358,0,True,primary,,2.857,1,,,,,,,,,roundabout,114731251,MD 17;MD 180
+671076658,1298893361,0,True,primary,,23.276,1,,,,,,,,,roundabout,114731238,MD 17
+671076658,671076668,0,True,secondary,Jefferson Pike,47.894,,,,,,,,,,,114731270,MD 180
+671076665,671076631,0,True,secondary,Jefferson Pike,46.016,,,,,,,,,,,114731243,MD 180
+671076665,2861129539,0,False,secondary,Jefferson Pike,242.407,2,,,,,,,,,,358983952,MD 180
+671076668,103014394,0,False,secondary,Jefferson Pike,1756.235,2,,,,,,,,,,52967252,MD 180
+671076668,1298893361,0,True,secondary,Jefferson Pike,45.136,,,,,,,,,,,114731257,MD 180
+878272733,1726096475,0,True,primary,,40.128,1,,,15 mph,,,,,,roundabout,74272099,MD 17
+878272733,1726096403,0,True,primary,Burkittsville Road,341.52,2,,,,,,,,,,160555231,MD 17
+878272754,1726099767,0,False,residential,Hope Farm Court,10.988,,,,,,,,,,,74272102,
+878272754,878272759,0,False,residential,Hope Farm Court,265.064,,,,,,,,,,,74272102,
+878272754,1726096471,0,True,residential,Potomac View Parkway,97.339,,,,,,,,,,,160554715,
+878272759,878272754,0,False,residential,Hope Farm Court,265.064,,,,,,,,,,,74272102,
+878272759,878272759,0,False,residential,Hope Farm Court,145.727,,,,,,,,,,,74272104,
+878272759,878272759,1,False,residential,Hope Farm Court,145.727,,,,,,,,,,,74272104,
+1280814337,671070504,0,True,primary,Petersville Road,26.841,1,,,,,,,,,,11552557,MD 17
+1280814337,1280814325,0,True,primary,,17.451,1,,,,,,,,,roundabout,114731241,
+1298893353,671076658,0,True,primary,,3.951,1,,,,,,,,,roundabout,114731288,MD 17;MD 180
+1298893354,103000841,0,False,primary,Petersville Road,58.425,2,,,,,,,,,,114731291,MD 17
+1298893358,102946452,0,True,primary,Burkittsville Road,43.577,1,,,,,,,,,,114731240,MD 17
+1298893358,1298893353,0,True,primary,,20.723,1,,,,,,,,,roundabout,114731254,MD 180
+1298893361,671076600,0,True,primary,,3.357,1,,,,,,,,,roundabout,114731276,MD 17;MD 180
+1726096397,1726096409,0,True,residential,,21.704,,,,,,,,,,roundabout,160554346,
+1726096397,1726099752,0,True,residential,Potomac View Parkway,150.521,,,,,,,,,,,160554731,
+1726096399,1726096536,0,False,residential,Crums Hollow Drive,83.623,,,,,,,,,,,160554341,
+1726096399,1726096535,0,False,residential,Moore Spring Court,63.367,,,,,,,,,,,160554344,
+1726096399,1726096534,0,False,residential,Moore Spring Court,138.322,,,,,,,,,,,160554344,
+1726096403,1726096406,0,True,primary,,6.499,1,,,15 mph,,,,,,roundabout,74272113,MD 17
+1726096404,1726096439,0,True,residential,,5.585,,,,,,,,,,roundabout,160554346,
+1726096406,1726096466,0,True,primary,,21.939,1,,,15 mph,,,,,,roundabout,74272113,MD 17
+1726096406,2861123105,0,True,tertiary_link,,42.602,,,,,,,,,,,282177019,
+1726096409,1726096457,0,True,residential,,4.692,,,,,,,,,,roundabout,160554346,
+1726096437,1726096491,0,True,residential,,12.485,,,,,,,,,,roundabout,160554339,
+1726096437,1726096498,0,True,residential,Potomac View Pkwy,26.001,,,,,,,,,,,160554340,
+1726096439,2861122497,0,True,residential,,14.707,,,,,,,,,,roundabout,160554346,
+1726096439,1726096532,0,True,residential,Dutchmans Creek Drive,36.85,,,,,,,,,,,282177010,
+1726096440,1726096516,0,False,residential,Dutchmans Creek Drive,30.609,,,,,,,,,,,186247065,
+1726096440,1726105073,0,True,residential,Dutchmans Creek Drive,58.72,,,,,,,,,,,160554345,
+1726096446,1726096530,0,False,residential,Potomac View Parkway,12.639,,,,,,,,,,,282177016,
+1726096456,1726096505,0,True,primary,,33.704,1,,,15 mph,,,,,,roundabout,74272099,MD 17
+1726096456,1726096538,0,True,primary,Burkittsville Road,206.392,1,,,40 mph,,,,,,,160554347,MD 17
+1726096457,1726096470,0,True,residential,,18.78,,,,,,,,,,roundabout,160554346,
+1726096457,1726096470,1,True,residential,Dutchmans Creek Drive,134.197,,,,,,,,,,,307661738,
+1726096458,1726096509,0,True,primary,,13.009,1,,,15 mph,,,,,,roundabout,74272113,MD 17
+1726096458,1726096440,0,True,residential,Dutchmans Creek Drive,61.661,,,,,,,,,,,160554345,
+1726096459,1726096536,0,False,residential,Crums Hollow Drive,89.209,,,,,,,,,,,160554341,
+1726096459,1726099857,0,False,residential,Volunteer Drive,167.797,,,,,,,,,,,160554726,
+1726096459,1726099820,0,False,residential,Volunteer Drive,162.906,,,,,,,,,,,160554726,
+1726096466,1726096467,0,True,primary,,32.325,1,,,15 mph,,,,,,roundabout,74272113,MD 17
+1726096466,103069516,0,True,primary,Burkittsville Road,200.469,2,,,40 mph,,,,,,,186509132,MD 17
+1726096467,1726096458,0,True,primary,,6.494,1,,,15 mph,,,,,,roundabout,74272113,MD 17
+1726096470,1726096515,0,True,residential,,4.698,,,,,,,,,,roundabout,160554346,
+1726096471,1726096513,0,True,residential,,16.338,,,,,,,,,,roundabout,160554339,
+1726096475,1726096456,0,True,primary,,23.817,1,,,15 mph,,,,,,roundabout,74272099,MD 17
+1726096475,1726096521,0,True,residential,Volunteer Drive,144.686,,,,,,,,,,,282177023,
+1726096491,1726096499,0,True,residential,,6.235,,,,,,,,,,roundabout,160554339,
+1726096493,1726096403,0,True,primary,,23.626,1,,,15 mph,,,,,,roundabout,74272113,MD 17
+1726096498,1726096508,0,False,residential,Potomac View Parkway,71.399,,,,,,,,,,,282177016,
+1726096498,1726096491,0,True,residential,Potomac View Pkwy,26.882,,,,,,,,,,,282177014,
+1726096499,1726096521,0,True,residential,,15.189,,,,,,,,,,roundabout,160554339,
+1726096499,1726096456,0,True,residential,Volunteer Drive,148.668,,,,,,,,,,,282177025,
+1726096500,1726096534,0,True,residential,,13.411,,,,,,,,,,roundabout,160554343,
+1726096500,1726096518,0,False,residential,Appalachian Way,93.706,,,,,,,,,,,160554714,
+1726096502,1726096471,0,True,residential,,17.235,,,,,,,,,,roundabout,160554339,
+1726096502,1726099767,0,True,residential,Potomac View Parkway,104.16,,,,,,,,,,,160554711,
+1726096505,878272733,0,True,primary,,16.145,1,,,15 mph,,,,,,roundabout,74272099,MD 17
+1726096508,1726096498,0,False,residential,Potomac View Parkway,71.399,,,,,,,,,,,282177016,
+1726096508,1726096518,0,False,residential,Yourtee Spring Drive,102.15,,,,,,,,,,,160554338,
+1726096508,1726096530,0,False,residential,Potomac View Parkway,147.001,,,,,,,,,,,282177016,
+1726096509,1726105073,0,True,primary,Burkittsville Road,8.386,2,,,40 mph,,,,,,,74272100,MD 17
+1726096509,1726096493,0,True,primary,,12.989,1,,,15 mph,,,,,,roundabout,74272113,MD 17
+1726096513,1726096533,0,True,residential,,16.332,,,,,,,,,,roundabout,160554339,
+1726096513,1726099809,0,True,residential,Volunteer Drive,30.366,,,,,,,,,,,282177022,
+1726096515,1726096404,0,True,residential,,21.786,,,,,,,,,,roundabout,160554346,
+1726096515,878272754,0,True,residential,Potomac View Parkway,159.736,,,,,,,,,,,160554715,
+1726096516,1726096440,0,False,residential,Dutchmans Creek Drive,30.609,,,,,,,,,,,186247065,
+1726096516,1726096532,0,False,residential,Dutchmans Creek Drive,98.116,,,,,,,,,,,186247065,
+1726096516,1969335732,0,False,unclassified,,12.436,,,,,,,,,,,186247066,
+1726096516,1969335733,0,False,unclassified,,14.929,,,,,,,,,,,186247066,
+1726096518,1726096536,0,False,residential,Yourtee Spring Drive,158.947,,,,,,,,,,,160554338,
+1726096518,1726096508,0,False,residential,Yourtee Spring Drive,102.15,,,,,,,,,,,160554338,
+1726096518,1726096500,0,False,residential,Appalachian Way,93.706,,,,,,,,,,,160554714,
+1726096518,1726099857,0,False,residential,Appalachian Way,89.304,,,,,,,,,,,160554714,
+1726096519,1726099767,0,False,residential,Hope Farm Court,12.556,,,,,,,,,,,74272102,
+1726096521,1726096502,0,True,residential,,5.514,,,,,,,,,,roundabout,160554339,
+1726096530,1726096446,0,False,residential,Potomac View Parkway,12.639,,,,,,,,,,,282177016,
+1726096530,1726096508,0,False,residential,Potomac View Parkway,147.001,,,,,,,,,,,282177016,
+1726096530,3128625810,0,False,residential,Potomac View Parkway,416.586,,,,25 mph,,,,,,,358444272,
+1726096532,1726096516,0,False,residential,Dutchmans Creek Drive,98.116,,,,,,,,,,,186247065,
+1726096532,2861122497,0,True,residential,Dutchmans Creek Drive,37.617,,,,,,,,,,,282177012,
+1726096533,1726096437,0,True,residential,,9.643,,,,,,,,,,roundabout,160554339,
+1726096534,1726096500,0,True,residential,,45.649,,,,,,,,,,roundabout,160554343,
+1726096534,1726096399,0,False,residential,Moore Spring Court,138.322,,,,,,,,,,,160554344,
+1726096535,1726096399,0,False,residential,Moore Spring Court,63.367,,,,,,,,,,,160554344,
+1726096535,1726096535,0,False,residential,Moore Spring Court,49.784,,,,,,,,,,,160554337,
+1726096535,1726096535,1,False,residential,Moore Spring Court,49.784,,,,,,,,,,,160554337,
+1726096536,1726096399,0,False,residential,Crums Hollow Drive,83.623,,,,,,,,,,,160554341,
+1726096536,1726096518,0,False,residential,Yourtee Spring Drive,158.947,,,,,,,,,,,160554338,
+1726096536,1726096459,0,False,residential,Crums Hollow Drive,89.209,,,,,,,,,,,160554341,
+1726096538,102988378,0,False,primary,Burkittsville Road,716.97,2,,,40 mph,,,,,,,114731264,MD 17
+1726096538,1726096505,0,True,primary,Burkittsville Road,209.501,1,,,,,,,,,,160554336,MD 17
+1726099744,1726099752,0,False,residential,Potomac View Parkway,71.872,,,,,,,,,,,160554727,
+1726099744,1726099815,0,False,residential,Potomac View Parkway,157.344,,,,,,,,,,,160554727,
+1726099744,1726099780,0,False,residential,Lander Creek Drive,126.152,,,,,,,,,,,160554732,
+1726099750,1726099817,0,False,residential,,77.272,,,,,,,,,,,282177564,
+1726099752,1726096409,0,True,residential,Potomac View Parkway,152.688,,,,,,,,,,,74272101,
+1726099752,1726099744,0,False,residential,Potomac View Parkway,71.872,,,,,,,,,,,160554727,
+1726099767,878272754,0,False,residential,Hope Farm Court,10.988,,,,,,,,,,,74272102,
+1726099767,1726096519,0,False,residential,Hope Farm Court,12.556,,,,,,,,,,,74272102,
+1726099767,1726096404,0,True,residential,Potomac View Parkway,165.211,,,,,,,,,,,160554711,
+1726099777,1726099817,0,False,residential,Shenandoah Square South,88.739,,,,,,,,,,,160554710,
+1726099777,1726099887,0,False,residential,Sheer Street,10.389,,,,,,,,,,,160554713,
+1726099777,1726099861,0,False,residential,Sheer Street,44.234,,,,,,,,,,,160554713,
+1726099780,1726099868,0,False,residential,Sheer Street,7.305,,,,,,,,,,,160554713,
+1726099780,1726099884,0,False,residential,Lander Creek Drive,88.822,,,,,,,,,,,160554732,
+1726099780,1726099826,0,False,residential,Sheer Street,158.333,,,,,,,,,,,160554713,
+1726099780,1726099744,0,False,residential,Lander Creek Drive,126.152,,,,,,,,,,,160554732,
+1726099808,1726099884,0,False,residential,Village Green Way,10.917,,,,,,,,,,,160554725,
+1726099809,1726099857,0,False,residential,Volunteer Drive,96.849,,,,,,,,,,,160554726,
+1726099809,1726096533,0,True,residential,Volunteer Drive,32.128,,,,,,,,,,,282177021,
+1726099815,4034013307,0,False,residential,Shenandoah View Parkway,14.147,,,,,,,,,,,160554719,
+1726099815,4034013308,0,False,residential,Potomac View Parkway,9.226,,,,,,,,,,,160554727,
+1726099815,1726099861,0,False,residential,Shenandoah View Parkway,96.868,,,,,,,,,,,160554719,
+1726099815,1726099744,0,False,residential,Potomac View Parkway,157.344,,,,,,,,,,,160554727,
+1726099817,1726099777,0,False,residential,Shenandoah Square South,88.739,,,,,,,,,,,160554710,
+1726099817,1726099886,0,False,residential,Village Green Way,6.935,,,,,,,,,,,160554725,
+1726099817,1726099850,0,False,residential,Village Green Way,91.359,,,,,,,,,,,160554725,
+1726099817,1726099750,0,False,residential,,77.272,,,,,,,,,,,282177564,
+1726099820,1726099820,0,True,residential,,52.692,,,,,,,,,,roundabout,160554722,
+1726099820,1726096459,0,False,residential,Volunteer Drive,162.906,,,,,,,,,,,160554726,
+1726099826,1726099861,0,False,residential,Sheer Street,47.029,,,,,,,,,,,160554713,
+1726099826,1726099780,0,False,residential,Sheer Street,158.333,,,,,,,,,,,160554713,
+1726099826,1726099850,0,False,residential,Shenandoah Square North,85.945,,,,,,,,,,,160554730,
+1726099850,1726099817,0,False,residential,Village Green Way,91.359,,,,,,,,,,,160554725,
+1726099850,1726099884,0,False,residential,Village Green Way,158.499,,,,,,,,,,,160554725,
+1726099850,1726099826,0,False,residential,Shenandoah Square North,85.945,,,,,,,,,,,160554730,
+1726099857,1726096518,0,False,residential,Appalachian Way,89.304,,,,,,,,,,,160554714,
+1726099857,1726099809,0,False,residential,Volunteer Drive,96.849,,,,,,,,,,,160554726,
+1726099857,1726096459,0,False,residential,Volunteer Drive,167.797,,,,,,,,,,,160554726,
+1726099861,1726099777,0,False,residential,Sheer Street,44.234,,,,,,,,,,,160554713,
+1726099861,1726099826,0,False,residential,Sheer Street,47.029,,,,,,,,,,,160554713,
+1726099861,1726099815,0,False,residential,Shenandoah View Parkway,96.868,,,,,,,,,,,160554719,
+1726099868,1726099780,0,False,residential,Sheer Street,7.305,,,,,,,,,,,160554713,
+1726099884,1726099780,0,False,residential,Lander Creek Drive,88.822,,,,,,,,,,,160554732,
+1726099884,1726099850,0,False,residential,Village Green Way,158.499,,,,,,,,,,,160554725,
+1726099884,1726099808,0,False,residential,Village Green Way,10.917,,,,,,,,,,,160554725,
+1726099884,2861129539,0,False,residential,Lander Creek Drive,98.625,,,,,,,,,,,160554732,
+1726099886,1726099817,0,False,residential,Village Green Way,6.935,,,,,,,,,,,160554725,
+1726099887,1726099777,0,False,residential,Sheer Street,10.389,,,,,,,,,,,160554713,
+1726105073,1726096493,0,True,residential,Dutchmans Creek Drive,5.991,,,,,,,,,,,160554345,
+1726105073,1726096475,0,True,primary,Burkittsville Road,336.879,2,,,40 mph,,,,,,,74272100,MD 17
+1966014883,1966014893,0,True,primary,,7.754,,,,,,,,,,roundabout,187901613,MD 17
+1966014893,1966014917,0,True,primary,,26.129,,,,,,,,,,roundabout,185915305,
+1966014893,1966014915,0,True,secondary,Burkittsville Road,77.326,,,,,,,,,,,187901605,MD 17
+1966014898,1966014883,0,True,primary,,31.23,,,,,,,,,,roundabout,187901613,MD 17
+1966014910,102994549,0,False,primary,Burkittsville Road,109.057,2,,,40 mph,,,yes,,,,"[52967288, 414876501, 52967287]",MD 17
+1966014910,1966014898,0,True,primary,Burkittsville Road,29.291,2,,,40 mph,,,,,,,187901604,MD 17
+1966014913,1966014910,0,True,primary,Burkittsville Road,27.467,2,,,40 mph,,,,,,,185915304,MD 17
+1966014913,1966014898,0,True,primary,,21.947,,,,,,,,,,roundabout,187901643,
+1966014915,102844397,0,False,secondary,Burkittsville Road,19.166,2,,,,,,,,,,185915303,MD 17
+1966014915,1966014917,0,True,secondary,Burkittsville Road,74.875,,,,,,,,,,,114731246,MD 17
+1966014917,1966014918,0,True,primary,,10.823,,,,,,,,,,roundabout,187901612,MD 17
+1966014918,1966014913,0,True,primary,,21.326,,,,,,,,,,roundabout,187901612,MD 17
+1966014918,102976426,0,True,motorway_link,,260.762,,,,,,,,,,,359254886,
+1969335732,1726096516,0,False,unclassified,,12.436,,,,,,,,,,,186247066,
+1969335733,1726096516,0,False,unclassified,,14.929,,,,,,,,,,,186247066,
+2142144498,2142144526,0,False,residential,Afton Court,116.214,,,,,,,,,,,204194134,
+2142144500,2859244972,0,False,secondary,Point of Rocks Road,17.388,,,,,,,,,,,11555041,MD 464
+2142144500,2142144503,0,True,residential,Galyn Drive,56.758,,,,,,,,,,,204194183,
+2142144503,2859244978,0,True,residential,,17.361,,,,,,,,,,roundabout,204194129,
+2142144511,2142144526,0,False,residential,Galyn Drive,87.822,,,,,,,,,,,204194164,
+2142144511,2859244977,0,True,residential,,20.254,,,,,,,,,,roundabout,204194129,
+2142144522,2142144511,0,True,residential,,20.907,,,,,,,,,,roundabout,204194129,
+2142144522,2142144540,0,False,residential,Evan Court,125.176,,,,,,,,,,,204194176,
+2142144526,2142144511,0,False,residential,Galyn Drive,87.822,,,,,,,,,,,204194164,
+2142144526,2142144498,0,False,residential,Afton Court,116.214,,,,,,,,,,,204194134,
+2142144526,2142144547,0,False,residential,Galyn Drive,358.766,,,,,,,,,,,204194164,
+2142144526,2142144534,0,False,residential,Fiona Way,84.637,,,,,,,,,,,204194189,
+2142144534,2142144554,0,False,residential,Sheridan Lane,280.685,,,,,,,,,,,204194112,
+2142144534,2142144554,1,False,residential,Fiona Way,109.092,,,,,,,,,,,204194189,
+2142144534,2142144526,0,False,residential,Fiona Way,84.637,,,,,,,,,,,204194189,
+2142144540,2142144522,0,False,residential,Evan Court,125.176,,,,,,,,,,,204194176,
+2142144547,2142144579,0,False,residential,Jeffery Lane,156.152,,,,,,,,,,,204194110,
+2142144547,2859245007,0,False,residential,Galyn Drive,166.553,,,,,,,,,,,204194164,
+2142144547,2142144526,0,False,residential,Galyn Drive,358.766,,,,,,,,,,,204194164,
+2142144554,2142144534,0,False,residential,Sheridan Lane,280.685,,,,,,,,,,,204194112,
+2142144554,2142144534,1,False,residential,Fiona Way,109.092,,,,,,,,,,,204194189,
+2142144554,2142144570,0,False,residential,Fiona Way,79.652,,,,,,,,,,,204194189,
+2142144560,2859244978,0,False,residential,Brad Alan Drive,310.671,,,,,,,,,,,204194209,
+2142144570,2142144570,0,False,residential,Fiona Way,370.868,,,,,,,,,,,204194189,
+2142144570,2142144570,1,False,residential,Fiona Way,370.868,,,,,,,,,,,204194189,
+2142144570,2142144554,0,False,residential,Fiona Way,79.652,,,,,,,,,,,204194189,
+2142144579,4341386253,0,False,residential,Jeffery Lane,231.015,,,,,,,,,,,204194110,
+2142144579,2142144547,0,False,residential,Jeffery Lane,156.152,,,,,,,,,,,204194110,
+2142144579,2859245018,0,False,residential,Rick Michael Way E,119.251,,,,,,,,,,,204194196,
+2142144594,2142144605,0,False,residential,Jennifer Lynn Drive,168.199,,,,,,,,,,,204194115,
+2142144594,2142144619,0,False,residential,Galyn Drive,183.927,,,,,,,,,,,281967461,
+2142144594,2859245022,0,False,residential,Galyn Drive,115.721,,,,,,,,,,,281967461,
+2142144605,2142144594,0,False,residential,Jennifer Lynn Drive,168.199,,,,,,,,,,,204194115,
+2142144605,2142144624,0,False,residential,Jennifer Lynn Drive,205.578,,,,,,,,,,,204194115,
+2142144605,2142144619,0,False,residential,Galyn Drive,126.547,,,,,,,,,,,281967461,
+2142144619,2142144637,0,False,residential,Donovan Court,235.347,,,,,,,,,,,204194118,
+2142144619,2142144605,0,False,residential,Galyn Drive,126.547,,,,,,,,,,,281967461,
+2142144619,2142144594,0,False,residential,Galyn Drive,183.927,,,,,,,,,,,281967461,
+2142144624,2142144605,0,False,residential,Jennifer Lynn Drive,205.578,,,,,,,,,,,204194115,
+2142144637,2142144619,0,False,residential,Donovan Court,235.347,,,,,,,,,,,204194118,
+2646457775,102929019,0,False,residential,Mountain Lane,434.159,,,,,,,,,,,11546123,
+2858750036,103015260,0,False,secondary,West Potomac Street,43.909,2,,,,,,,,,,11553282,
+2858750036,102848383,0,False,secondary,West Potomac Street,60.46,2,,,,,,,,,,11553282,
+2858750036,103017284,0,False,residential,Whistle Alley,99.494,,,,,,,,,,,357447481,
+2858750038,103012089,0,False,residential,"['Walnut Street', 'Jaynies Way']",118.941,,,,,,,,,,,"[11553555, 358460532]",
+2858750083,103064015,0,False,residential,Central Avenue,452.1,,,,,,,,,,,"[11558988, 11551439]",
+2859244972,2142144500,0,False,secondary,Point of Rocks Road,17.388,,,,,,,,,,,11555041,MD 464
+2859244972,103026924,0,False,secondary,Point of Rocks Road,275.449,,,,,,,,,,,11555041,MD 464
+2859244977,2142144503,0,True,residential,,13.901,,,,,,,,,,roundabout,204194129,
+2859244977,2859244972,0,True,residential,Galyn Drive,66.438,,,,,,,,,,,281967460,
+2859244978,2142144522,0,True,residential,,25.327,,,,,,,,,,roundabout,204194129,
+2859244978,2142144560,0,False,residential,Brad Alan Drive,310.671,,,,,,,,,,,204194209,
+2859245002,2859245010,0,False,residential,,23.046,,,,,,,,,,,281967459,
+2859245007,2142144547,0,False,residential,Galyn Drive,166.553,,,,,,,,,,,204194164,
+2859245007,2859245018,0,True,residential,,30.867,,,,,,,,,,roundabout,281967458,
+2859245010,2859245002,0,False,residential,,23.046,,,,,,,,,,,281967459,
+2859245010,2859245007,0,True,residential,,28.268,,,,,,,,,,roundabout,281967458,
+2859245018,2142144579,0,False,residential,Rick Michael Way E,119.251,,,,,,,,,,,204194196,
+2859245018,2859245022,0,True,residential,,30.148,,,,,,,,,,roundabout,281967458,
+2859245022,2859245010,0,True,residential,,28.548,,,,,,,,,,roundabout,281967458,
+2859245022,2142144594,0,False,residential,Galyn Drive,115.721,,,,,,,,,,,281967461,
+2861122497,1726096397,0,True,residential,,4.325,,,,,,,,,,roundabout,160554346,
+2861123105,102968186,0,False,tertiary,Rosemont Drive,150.016,2,,,,,,,,,,11556535,
+2861123105,2861123106,0,False,tertiary,Rosemont Drive,14.365,2,,,,,,,,,,11556535,
+2861123106,2861123107,0,False,tertiary,Rosemont Drive,59.212,2,,,,,,,,,,11556535,
+2861123106,2861123105,0,False,tertiary,Rosemont Drive,14.365,2,,,,,,,,,,11556535,
+2861123106,1726096466,0,True,tertiary_link,,37.347,,,,,,,,,,,282177017,
+2861123107,2861123106,0,False,tertiary,Rosemont Drive,59.212,2,,,,,,,,,,11556535,
+2861123114,102968209,0,False,residential,Maplecrest Court,385.603,,,,,,,,,,,11560554,
+2861129539,1726099884,0,False,residential,Lander Creek Drive,98.625,,,,,,,,,,,160554732,
+2861129539,671076665,0,False,secondary,Jefferson Pike,242.407,2,,,,,,,,,,358983952,MD 180
+2861129539,2861295193,0,False,secondary,Jefferson Pike,2395.555,2,,,,,,,,,,"[358983952, 11560597]",MD 180
+2861295193,2861129539,0,False,secondary,Jefferson Pike,2395.555,2,,,,,,,,,,"[358983952, 11560597]",MD 180
+2861295193,103009372,0,False,secondary,Jefferson Pike,16.434,2,,,,,,,,,,11560597,MD 180
+2861295193,103081349,0,False,residential,Cemetery Circle,47.733,,,,,,,,,,,11560923,
+3128625797,3128625810,0,False,residential,Dargon Quarry Lane,65.783,,,,,,,,,,,307661744,
+3128625803,3128625804,0,False,residential,Potomac View Parkway,89.433,,,,,,,,,,,307661735,
+3128625803,4228442313,0,False,residential,Potomac View Parkway,263.366,,,,,,,,,,,307661735,
+3128625803,3128625827,0,False,residential,Dargon Quarry Lane,189.464,,,,,,,,,,,307661744,
+3128625804,3128625803,0,False,residential,Potomac View Parkway,89.433,,,,,,,,,,,307661735,
+3128625804,3128625809,0,False,residential,Long Farm Circle,357.381,,,,,,,,,,,307661742,
+3128625804,3128625809,1,True,residential,Potomac View Parkway,96.055,,,,,,,,,,,358444273,
+3128625804,3633757862,0,False,residential,Long Farm Lane,85.496,,,,,,,,,,,358444229,
+3128625809,3128625804,0,True,residential,Potomac View Parkway,96.429,,,,,,,,,,,307661737,
+3128625809,3128625804,1,False,residential,Long Farm Circle,357.381,,,,,,,,,,,307661742,
+3128625809,3128625810,0,False,residential,Potomac View Parkway,90.043,,,,25 mph,,,,,,,358444272,
+3128625810,3128625827,0,False,residential,Dargon Quarry Lane,433.752,,,,,,,,,,,307661744,
+3128625810,3128625797,0,False,residential,Dargon Quarry Lane,65.783,,,,,,,,,,,307661744,
+3128625810,1726096530,0,False,residential,Potomac View Parkway,416.586,,,,25 mph,,,,,,,358444272,
+3128625810,3128625809,0,False,residential,Potomac View Parkway,90.043,,,,25 mph,,,,,,,358444272,
+3128625827,3640044577,0,False,residential,,56.448,,,,,,,,,,,307661736,
+3128625827,3128625803,0,False,residential,Dargon Quarry Lane,189.464,,,,,,,,,,,307661744,
+3128625827,3128625810,0,False,residential,Dargon Quarry Lane,433.752,,,,,,,,,,,307661744,
+3633757862,4228442303,0,False,residential,Long Farm Lane,91.309,,,,,,,,,,,358444229,
+3633757862,3128625804,0,False,residential,Long Farm Lane,85.496,,,,,,,,,,,358444229,
+3633757862,4228442304,0,False,residential,Drydock Street,245.57,,,,,,,,,,,358458034,
+3638042176,102996807,0,False,residential,West B Street,67.125,,,,,,,,,,,358981406,
+3638042176,1280814346,0,True,residential,West B Street,15.327,,,,,,,,,,,358981409,
+3638043101,103042119,0,False,residential,"['North Dayton Avenue', 'West E Street']",201.758,,,,,,,,,,,"[11556597, 11555279]",
+3638043134,102877720,0,False,secondary,Petersville Road,490.672,2,,,,,,,,,,44120803,MD 79
+3638043134,103006949,0,False,secondary,Petersville Road,629.429,2,,,,,,,,,,44120803,MD 79
+3638043134,3638043164,0,False,residential,,378.617,,,,,,,,,,,358981410,
+3638043164,3638043134,0,False,residential,,378.617,,,,,,,,,,,358981410,
+3640044577,3128625827,0,False,residential,,56.448,,,,,,,,,,,307661736,
+3640115900,102969740,0,False,primary,Burkittsville Road,40.883,2,,,40 mph,,,,,,,52967240,MD 17
+3640115900,102900465,0,False,primary,Burkittsville Road,55.286,2,,,40 mph,,,,,,,414876501,MD 17
+4034013307,1726099815,0,False,residential,Shenandoah View Parkway,14.147,,,,,,,,,,,160554719,
+4034013308,1726099815,0,False,residential,Potomac View Parkway,9.226,,,,,,,,,,,160554727,
+4228442303,4228442305,0,False,residential,Long Farm Lane,33.03,,,,,,,,,,,358444229,
+4228442303,3633757862,0,False,residential,Long Farm Lane,91.309,,,,,,,,,,,358444229,
+4228442303,4228442304,0,False,residential,Wills Creek Drive,128.189,,,,,,,,,,,423144454,
+4228442304,3633757862,0,False,residential,Drydock Street,245.57,,,,,,,,,,,358458034,
+4228442304,4228442306,0,False,residential,Drydock Street,78.6,,,,,,,,,,,423144453,
+4228442304,4228442303,0,False,residential,Wills Creek Drive,128.189,,,,,,,,,,,423144454,
+4228442305,4228442303,0,False,residential,Long Farm Lane,33.03,,,,,,,,,,,358444229,
+4228442306,4228442304,0,False,residential,Drydock Street,78.6,,,,,,,,,,,423144453,
+4228442313,3128625803,0,False,residential,Potomac View Parkway,263.366,,,,,,,,,,,307661735,
+4341386253,2142144579,0,False,residential,Jeffery Lane,231.015,,,,,,,,,,,204194110,

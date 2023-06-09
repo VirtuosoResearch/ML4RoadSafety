@@ -1,0 +1,42 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+49458236,49459868,0,False,residential,Homewood Terrace,86.944,,,,,,,,,,,6003245,
+49458236,1288432868,0,False,residential,Homewood Terrace,104.54,,,,,,,,,,,6003245,
+49459868,49458236,0,False,residential,Homewood Terrace,86.944,,,,,,,,,,,6003245,
+49476448,49538746,0,False,residential,Southway,99.754,,,,,,,,,,,117447451,
+49476448,1323163992,0,False,residential,Southway,111.536,,,,,,,,,,,117447451,
+49484044,49514014,0,False,primary,Greenmount Avenue,54.655,4,,,25 mph,,,,,,,546440246,MD 45
+49484044,49527561,0,False,primary,Greenmount Avenue,51.352,4,,,25 mph,,,,,,,546440246,MD 45
+49486353,49527561,0,False,primary,Greenmount Avenue,84.087,4,,,25 mph,,,,,,,"[546440246, 526709478]",MD 45
+49494473,860788267,0,False,secondary,East University Parkway,61.949,2,,,30 mph,,,,,,,6011538,
+49494478,49494473,0,True,residential,University Place,80.269,1,,,,,,,,,,6007629,
+49494478,49500503,0,False,residential,Birkwood Place,114.512,,,,,,,,,,,6008144,
+49494481,49555824,0,False,residential,Barclay Street,48.472,,,,,,,,,,,288727075,
+49494481,49494478,0,True,residential,University Place,124.44,1,,,,,,,,,,6007629,
+49494481,49559388,0,False,residential,Barclay Street,66.215,2,,,,,,,,,,218105405,
+49500503,49494478,0,False,residential,Birkwood Place,114.512,,,,,,,,,,,6008144,
+49500503,49559388,0,False,residential,Barclay Street,76.537,2,,,,,,,,,,218105405,
+49500503,49514004,0,False,residential,Barclay Street,29.154,2,,,,,,,,,,218105405,
+49514004,49500503,0,False,residential,Barclay Street,29.154,2,,,,,,,,,,218105405,
+49514014,49484044,0,False,primary,Greenmount Avenue,54.655,4,,,25 mph,,,,,,,546440246,MD 45
+49514014,49514004,0,True,residential,Venable Avenue,140.407,,,,,,,,,,,288727076,
+49514981,740230208,0,True,residential,Greenway,163.687,2,,,25 mph,,,,,,,119972028,
+49514987,49514981,0,True,residential,Chancery Road,86.347,,,,,,,,,,,554761570,
+49527561,49486353,0,False,primary,Greenmount Avenue,84.087,4,,,25 mph,,,,,,,"[526709478, 546440246]",MD 45
+49527561,49484044,0,False,primary,Greenmount Avenue,51.352,4,,,25 mph,,,,,,,546440246,MD 45
+49538746,49459868,0,True,residential,Guilford Terrace,93.019,1,,,,,,,,,,6013605,
+49538746,49555824,0,False,residential,Southway,90.377,,,,,,,,,,,117447451,
+49538746,49476448,0,False,residential,Southway,99.754,,,,,,,,,,,117447451,
+49555824,49494481,0,False,residential,Barclay Street,48.472,,,,,,,,,,,288727075,
+49555824,49555826,0,False,residential,Southway,43.068,,,,,,,,,,,117447451,
+49555824,49538746,0,False,residential,Southway,90.377,,,,,,,,,,,117447451,
+49555826,1696905163,0,False,residential,Southway,82.73,,,,,,,,,,,117447451,
+49555826,49555824,0,False,residential,Southway,43.068,,,,,,,,,,,117447451,
+49559388,49527561,0,True,residential,Calvin Avenue,139.982,,,,,,,,,,,6018018,
+49559388,49494481,0,False,residential,Barclay Street,66.215,2,,,,,,,,,,218105405,
+49559388,49500503,0,False,residential,Barclay Street,76.537,2,,,,,,,,,,218105405,
+860788267,49494473,0,False,secondary,East University Parkway,61.949,2,,,30 mph,,,,,,,6011538,
+1288432868,49458236,0,False,residential,Homewood Terrace,104.54,,,,,,,,,,,6003245,
+1288432868,1323163992,0,True,residential,North Calvert Street,115.835,1,,,25 mph,,,,,,,49667509,
+1323163992,49514987,0,True,residential,North Calvert Street,5.393,1,,,25 mph,,,,,,,49667509,
+1323163992,49476448,0,False,residential,Southway,111.536,,,,,,,,,,,117447451,
+1696905163,49555826,0,False,residential,Southway,82.73,,,,,,,,,,,117447451,

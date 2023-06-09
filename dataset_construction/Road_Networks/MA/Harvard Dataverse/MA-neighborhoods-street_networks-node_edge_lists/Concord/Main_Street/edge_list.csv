@@ -1,0 +1,35 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+65204047,65241958,0,False,residential,Wood Street,79.959,2,9.1,,,,,,,,,8915339,
+65214167,65230690,0,False,secondary,Main Street,282.079,2,14.6,,,,,,,,,8915502,MA 62
+65214167,65241958,0,False,secondary,Main Street,236.153,2,14.6,,,,,yes,,,,"[246461568, 233416827, 8915502]",MA 62
+65221216,65238159,0,False,secondary,Main Street,169.626,2,14.6,,,,,,,,,8915502,MA 62
+65221216,65274019,0,False,secondary,Main Street,81.669,2,14.6,,,,,,,,,8915502,MA 62
+65230690,65274019,0,False,secondary,Main Street,145.378,2,14.6,,,,,,,,,8915502,MA 62
+65230690,65214167,0,False,secondary,Main Street,282.079,2,14.6,,,,,,,,,8915502,MA 62
+65238159,65251181,0,False,secondary,Main Street,157.66,2,14.6,,,,,,,,,8915502,MA 62
+65238159,65221216,0,False,secondary,Main Street,169.626,2,14.6,,,,,,,,,8915502,MA 62
+65241958,65204047,0,False,residential,Wood Street,79.959,2,9.1,,,,,,,,,8915339,
+65241958,65214167,0,False,secondary,Main Street,236.153,2,14.6,,,,,yes,,,,"[246461568, 233416827, 8915502]",MA 62
+65245207,2476134893,0,False,tertiary,Sudbury Road,99.8,2,14.0,,,,,,,,,8915577,
+65246813,65269891,0,False,residential,Keyes Road,530.885,2,10.7,,,,,,,,,8916091,
+65251181,2476134893,0,False,secondary,Main Street,222.666,2,14.6,,,,,,,,,8915502,MA 62
+65251181,65238159,0,False,secondary,Main Street,157.66,2,14.6,,,,,,,,,8915502,MA 62
+65268174,65277094,0,False,secondary,Main Street,74.6,2,18.3,,,,,,,,,8915191,MA 62
+65268174,65277377,0,False,tertiary,Walden Street,123.793,2,11.0,,,,,,,,,8915491,
+65268174,65269891,0,False,secondary,Main Street,81.371,2,17.1,,,,,,,,,8915610,MA 62
+65269891,65268174,0,False,secondary,Main Street,81.371,2,17.1,,,,,,,,,8915610,MA 62
+65269891,2476134893,0,False,secondary,Main Street,97.041,2,"['14.6', '17.1']",,,,,,,,,"[8915610, 8915502]",MA 62
+65269891,65246813,0,False,residential,Keyes Road,530.885,2,10.7,,,,,,,,,8916091,
+65274019,65221216,0,False,secondary,Main Street,81.669,2,14.6,,,,,,,,,8915502,MA 62
+65274019,65230690,0,False,secondary,Main Street,145.378,2,14.6,,,,,,,,,8915502,MA 62
+65277094,65268174,0,False,secondary,Main Street,74.6,2,18.3,,,,,,,,,8915191,MA 62
+65277377,2460828400,0,False,tertiary,Walden Street,134.084,2,11.0,,,,,,,,,8915491,
+65277377,65268174,0,False,tertiary,Walden Street,123.793,2,11.0,,,,,,,,,8915491,
+2460828400,65277377,0,False,tertiary,Walden Street,134.084,2,11.0,,,,,,,,,8915491,
+2460828400,5320399296,0,False,residential,Walden Square,41.37,,,,,,,,,,,550892151,
+2476134893,65269891,0,False,secondary,Main Street,97.041,2,"['14.6', '17.1']",,,,,,,,,"[8915610, 8915502]",MA 62
+2476134893,65251181,0,False,secondary,Main Street,222.666,2,14.6,,,,,,,,,8915502,MA 62
+2476134893,65245207,0,False,tertiary,Sudbury Road,99.8,2,14.0,,,,,,,,,8915577,
+5320399296,5320399296,0,False,residential,Walden Square,45.275,,,,,,,,,,,550892151,
+5320399296,5320399296,1,False,residential,Walden Square,45.275,,,,,,,,,,,550892151,
+5320399296,2460828400,0,False,residential,Walden Square,41.37,,,,,,,,,,,550892151,

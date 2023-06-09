@@ -1,0 +1,104 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+212930480,221665672,0,False,secondary,Buffalo Road,282.083,,,,,,,,,,,20647136,NY 33
+221623765,221689508,0,False,secondary,South Lake Road,45.384,,,,,,,,,,,20646608,NY 19
+221623765,221665620,0,False,secondary,"['South Lake Road', 'South Lake Street']",124.652,,,,,,,,,,,"[20646608, 20647128]",NY 19
+221623776,221689508,0,False,secondary,Clinton Street Road,48.051,,,,,,,,,,,566201560,NY 33
+221623776,221623765,0,True,secondary_link,,41.182,,,,,,,,,,,20643455,
+221623776,221665649,0,False,secondary,Clinton Street Road,397.19,,,,,,,,,,,566201560,NY 33
+221644895,221689508,0,False,secondary,Clinton Street Road,36.507,,,,,,,,,,,38174489,NY 33
+221654806,221654864,0,False,residential,,391.818,,,,,,,,,,,20645971,
+221654864,221654806,0,False,residential,,391.818,,,,,,,,,,,20645971,
+221654864,221676833,0,False,residential,"['Gates Street', 'Church Street']",452.318,,,,,,,,,,,"[20652024, 20649208]",
+221654864,221713302,0,False,residential,Church Street,125.4,,,,,,,,,,,20652024,
+221663042,221686606,0,False,residential,Trisha Lane,135.014,,,,,,,,,,,20649951,
+221663042,221709586,0,False,residential,Canterbury Court,21.26,,,,,,,,,,,20651525,
+221663042,221663054,0,False,residential,Canterbury Lane,238.916,,,,,,,,,,,20646917,
+221663054,221681353,0,False,residential,"['Canterbury Lane', 'Winterberry Lane']",268.313,,,,,,,,,,,"[20648692, 20646917]",
+221663054,221663042,0,False,residential,Canterbury Lane,238.916,,,,,,,,,,,20646917,
+221663054,221721932,0,False,residential,"['Springdale Lane', 'McCabe Court']",161.327,,,,,,,,,,,"[20652655, 20646991]",
+221665617,221694642,0,False,secondary,South Lake Avenue,18.114,,,,,,,,,,,20650074,NY 19
+221665617,221665620,0,False,secondary,South Lake Street,356.5,,,,,,,,,,,20647128,NY 19
+221665620,221623765,0,False,secondary,"['South Lake Road', 'South Lake Street']",124.652,,,,,,,,,,,"[20647128, 20646608]",NY 19
+221665620,221665617,0,False,secondary,South Lake Street,356.5,,,,,,,,,,,20647128,NY 19
+221665620,221665649,0,False,unclassified,Appletree Road,353.787,,,,,,,,,,,20653211,
+221665638,221665649,0,False,secondary,Buffalo Road,150.18,,,,,,,,,,,20647130,NY 33
+221665638,221665686,0,False,secondary,Buffalo Road,872.052,,,,,,,,,,,20647136,NY 33
+221665649,221665638,0,False,secondary,Buffalo Road,150.18,,,,,,,,,,,20647130,NY 33
+221665649,221665620,0,False,unclassified,Appletree Road,353.787,,,,,,,,,,,20653211,
+221665649,221623776,0,False,secondary,Clinton Street Road,397.19,,,,,,,,,,,566201560,NY 33
+221665672,221665676,0,False,secondary,Buffalo Road,215.743,,,,,,,,,,,20647136,NY 33
+221665672,212930480,0,False,secondary,Buffalo Road,282.083,,,,,,,,,,,20647136,NY 33
+221665672,221687819,0,False,residential,Rochester Street,800.229,,,,,,,,,,,20653183,
+221665676,221665686,0,False,secondary,Buffalo Road,240.594,,,,,,,,,,,20647136,NY 33
+221665676,221665672,0,False,secondary,Buffalo Road,215.743,,,,,,,,,,,20647136,NY 33
+221665676,221675993,0,False,residential,Munger Street,649.93,,,,,,,,,,,20648148,
+221665686,221665638,0,False,secondary,Buffalo Road,872.052,,,,,,,,,,,20647136,NY 33
+221665686,221665676,0,False,secondary,Buffalo Road,240.594,,,,,,,,,,,20647136,NY 33
+221665686,221694642,0,False,residential,Parkview Drive,890.983,,,,,,,,,,,20651433,
+221672743,221676842,0,False,secondary,North Lake Avenue,85.686,,,,,,,,,,,20648225,NY 19
+221672743,221687819,0,False,residential,Rochester Street,137.261,,,,,,,,,,,20653183,
+221672743,221672771,0,False,residential,Buffalo Street,360.035,,,,,,,,,,,20647828,
+221672743,221694623,0,False,secondary,South Lake Avenue,355.113,,,,,,,,,,,20650074,NY 19
+221672771,221672775,0,False,residential,Buffalo Street,293.823,,,,,,,,,,,20647828,
+221672771,221672743,0,False,residential,Buffalo Street,360.035,,,,,,,,,,,20647828,
+221672771,221725057,0,False,residential,"['Richmond Avenue', 'Richmand Avenue']",403.493,,,,,,,,,,,"[20648402, 20652971]",
+221672775,221672771,0,False,residential,Buffalo Street,293.823,,,,,,,,,,,20647828,
+221672775,221686606,0,False,residential,Emily Court,142.44,,,,,,,,,,,20649249,
+221675993,221665676,0,False,residential,Munger Street,649.93,,,,,,,,,,,20648148,
+221675993,221687819,0,False,residential,Clinton Street,203.27,,,,,,,,,,,20649370,
+221675993,221694623,0,False,residential,"['Mc Kenzie Street', 'Clinton Street']",349.685,,,,,,,,,,,"[20652232, 20649370]",
+221676811,221676823,0,False,secondary,North Lake Avenue,163.374,,,,,,,,,,,20648225,NY 19
+221676811,221685235,0,False,residential,Hunter Street,420.965,,,,,,,,,,,20650528,
+221676823,221676827,0,False,secondary,North Lake Avenue,8.132,,,,,,,,,,,20648225,NY 19
+221676823,221676811,0,False,secondary,North Lake Avenue,163.374,,,,,,,,,,,20648225,NY 19
+221676823,221701727,0,False,residential,Gibson Place,109.229,,,,,,,,,,,20650841,
+221676827,221676823,0,False,secondary,North Lake Avenue,8.132,,,,,,,,,,,20648225,NY 19
+221676827,221676833,0,False,secondary,North Lake Avenue,103.204,,,,,,,,,,,20648225,NY 19
+221676827,221713302,0,False,residential,Gibson Street,386.044,,,,,,,,,,,20651873,
+221676833,221676842,0,False,secondary,North Lake Avenue,59.299,,,,,,,,,,,20648225,NY 19
+221676833,221676827,0,False,secondary,North Lake Avenue,103.204,,,,,,,,,,,20648225,NY 19
+221676833,221654864,0,False,residential,"['Gates Street', 'Church Street']",452.318,,,,,,,,,,,"[20649208, 20652024]",
+221676842,221672743,0,False,secondary,North Lake Avenue,85.686,,,,,,,,,,,20648225,NY 19
+221676842,221688853,0,False,residential,Leroy Street,97.973,,,,,,,,,,,20652608,
+221676842,221676833,0,False,secondary,North Lake Avenue,59.299,,,,,,,,,,,20648225,NY 19
+221681353,221729738,0,False,residential,Kaymar Drive,167.739,,,,,,,,,,,20653421,
+221681353,221663054,0,False,residential,"['Canterbury Lane', 'Winterberry Lane']",268.313,,,,,,,,,,,"[20648692, 20646917]",
+221685235,221676811,0,False,residential,Hunter Street,420.965,,,,,,,,,,,20650528,
+221685235,221713302,0,False,residential,Church Street,164.69,,,,,,,,,,,20652024,
+221686606,221686608,0,False,residential,Emily Court,83.585,,,,,,,,,,,20649249,
+221686606,221663042,0,False,residential,Trisha Lane,135.014,,,,,,,,,,,20649951,
+221686606,221672775,0,False,residential,Emily Court,142.44,,,,,,,,,,,20649249,
+221686608,221686606,0,False,residential,Emily Court,83.585,,,,,,,,,,,20649249,
+221687819,221672743,0,False,residential,Rochester Street,137.261,,,,,,,,,,,20653183,
+221687819,221687825,0,False,residential,Clinton Street,85.915,,,,,,,,,,,20649370,
+221687819,221675993,0,False,residential,Clinton Street,203.27,,,,,,,,,,,20649370,
+221687819,221665672,0,False,residential,Rochester Street,800.229,,,,,,,,,,,20653183,
+221687825,221688832,0,False,residential,Spring Street,13.563,,,,,,,,,,,20649484,
+221687825,221688853,0,False,residential,Leroy Street,25.974,,,,,,,,,,,20652608,
+221687825,221721576,0,False,residential,Leroy Street,206.497,,,,,,,,,,,20652608,
+221687825,221687819,0,False,residential,Clinton Street,85.915,,,,,,,,,,,20649370,
+221688832,221687825,0,False,residential,Spring Street,13.563,,,,,,,,,,,20649484,
+221688832,221688853,0,False,residential,Spring Street,29.745,,,,,,,,,,,20649486,
+221688832,221688846,0,False,residential,Spring Street,238.111,,,,,,,,,,,20649484,
+221688846,221688832,0,False,residential,Spring Street,238.111,,,,,,,,,,,20649484,
+221688853,221688832,0,False,residential,Spring Street,29.745,,,,,,,,,,,20649486,
+221688853,221676842,0,False,residential,Leroy Street,97.973,,,,,,,,,,,20652608,
+221688853,221687825,0,False,residential,Leroy Street,25.974,,,,,,,,,,,20652608,
+221689508,221623765,0,False,secondary,South Lake Road,45.384,,,,,,,,,,,20646608,NY 19
+221689508,221644895,0,False,secondary,Clinton Street Road,36.507,,,,,,,,,,,38174489,NY 33
+221689508,221623776,0,False,secondary,Clinton Street Road,48.051,,,,,,,,,,,566201560,NY 33
+221694623,221694642,0,False,secondary,South Lake Avenue,458.202,,,,,,,,,,,20650074,NY 19
+221694623,221672743,0,False,secondary,South Lake Avenue,355.113,,,,,,,,,,,20650074,NY 19
+221694623,221675993,0,False,residential,"['Clinton Street', 'Mc Kenzie Street']",349.685,,,,,,,,,,,"[20652232, 20649370]",
+221694642,221665617,0,False,secondary,South Lake Avenue,18.114,,,,,,,,,,,20650074,NY 19
+221694642,221694623,0,False,secondary,South Lake Avenue,458.202,,,,,,,,,,,20650074,NY 19
+221694642,221665686,0,False,residential,Parkview Drive,890.983,,,,,,,,,,,20651433,
+221701727,221676823,0,False,residential,Gibson Place,109.229,,,,,,,,,,,20650841,
+221709586,221663042,0,False,residential,Canterbury Court,21.26,,,,,,,,,,,20651525,
+221713302,221676827,0,False,residential,Gibson Street,386.044,,,,,,,,,,,20651873,
+221713302,221654864,0,False,residential,Church Street,125.4,,,,,,,,,,,20652024,
+221713302,221685235,0,False,residential,Church Street,164.69,,,,,,,,,,,20652024,
+221721576,221687825,0,False,residential,Leroy Street,206.497,,,,,,,,,,,20652608,
+221721932,221663054,0,False,residential,"['Springdale Lane', 'McCabe Court']",161.327,,,,,,,,,,,"[20646991, 20652655]",
+221725057,221672771,0,False,residential,"['Richmond Avenue', 'Richmand Avenue']",403.493,,,,,,,,,,,"[20648402, 20652971]",
+221729738,221681353,0,False,residential,Kaymar Drive,167.739,,,,,,,,,,,20653421,

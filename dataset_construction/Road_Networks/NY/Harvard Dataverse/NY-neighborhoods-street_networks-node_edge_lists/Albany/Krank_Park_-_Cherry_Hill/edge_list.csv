@@ -1,0 +1,53 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+41272200,41395297,0,False,secondary,South Pearl Street,33.976,,,,30 mph,,,,,,,44507546,NY 32
+41272200,41482852,0,False,secondary,South Pearl Street,66.4,,,,30 mph,,,,,,,44507546,NY 32
+41272200,41296140,0,False,residential,1st Avenue,183.92,,,,,,,,,,,5569371,
+41296140,41296143,0,False,residential,1st Avenue,30.66,,,,,,,,,,,5569371,
+41296140,41272200,0,False,residential,1st Avenue,183.92,,,,,,,,,,,5569371,
+41296140,41300728,0,False,residential,Cherry Hill Street,197.778,,,,,,,,,,,5571372,
+41296143,41296147,0,False,residential,1st Avenue,77.578,,,,,,,,,,,5569371,
+41296143,41296140,0,False,residential,1st Avenue,30.66,,,,,,,,,,,5569371,
+41296147,41296143,0,False,residential,1st Avenue,77.578,,,,,,,,,,,5569371,
+41296147,41411552,0,False,residential,"['1st Avenue', 'Krank Street']",264.667,,,,,,,,,,,"[5569371, 5595980]",
+41296147,41349470,0,False,residential,Elmendorf Street,93.28,,,,,,,,,,,5574675,
+41300726,41300728,0,False,tertiary,McCarty Avenue,182.613,,,,30 mph,,,,,,,5569808,
+41300726,41395297,0,False,secondary,South Pearl Street,185.271,,,,30 mph,,,,,,,35902070,NY 32
+41300728,41300726,0,False,tertiary,McCarty Avenue,182.613,,,,30 mph,,,,,,,5569808,
+41300728,41300738,0,False,tertiary,McCarty Avenue,89.732,,,,30 mph,,,,,,,5569808,
+41300728,41300738,1,False,residential,Nutgrove Lane,238.702,,,,,,,,,,,5582824,
+41300728,41296140,0,False,residential,Cherry Hill Street,197.778,,,,,,,,,,,5571372,
+41300738,41300728,0,False,tertiary,McCarty Avenue,89.732,,,,30 mph,,,,,,,5569808,
+41300738,41300728,1,False,residential,Nutgrove Lane,238.702,,,,,,,,,,,5582824,
+41307745,41307751,0,False,residential,Batcher Street,51.665,,,,,,,,,,,5570604,
+41307745,41307756,0,False,residential,Batcher Street,50.13,,,,,,,,,,,5570607,
+41307745,41374616,0,False,residential,Porter Court,33.786,,,,,,,,,,,5589430,
+41307751,41307745,0,False,residential,Batcher Street,51.665,,,,,,,,,,,5570604,
+41307751,41393246,0,True,residential,Odell Street,168.145,,,,,,,,,,,5594983,
+41307756,41307745,0,False,residential,Batcher Street,50.13,,,,,,,,,,,5570607,
+41349470,41296147,0,False,residential,Elmendorf Street,93.28,,,,,,,,,,,5574675,
+41362274,41393236,0,False,tertiary,2nd Avenue,55.237,,,,30 mph,,,,,,,5578474,
+41362274,41393233,0,False,tertiary,2nd Avenue,57.406,,,,30 mph,,,,,,,5578474,
+41362274,41362278,0,False,residential,Broad Street,157.329,,,,,,,,,,,554569492,
+41362278,41482852,0,False,residential,Bouck Street,55.824,,,,,,,,,,,5586195,
+41362278,41362274,0,False,residential,Broad Street,157.329,,,,,,,,,,,554569492,
+41362278,41374619,0,False,residential,"['Seymore Avenue', 'Broad Street']",166.873,,,,,,,,,,,"[5579866, 554569492]",
+41374616,41374619,0,True,residential,Benjamin Street,43.673,,,,,,,,,,,5576936,
+41374616,41307745,0,False,residential,Porter Court,33.786,,,,,,,,,,,5589430,
+41374619,41296143,0,True,residential,Benjamin Street,134.856,,,,,,,,,,,5576936,
+41374619,41411549,0,False,residential,Seymore Avenue,88.357,,,,,,,,,,,5579866,
+41374619,41362278,0,False,residential,"['Seymore Avenue', 'Broad Street']",166.873,,,,,,,,,,,"[5579866, 554569492]",
+41393233,41362274,0,False,tertiary,2nd Avenue,57.406,,,,30 mph,,,,,,,5578474,
+41393233,41482852,0,False,secondary,South Pearl Street,156.957,,,,30 mph,,,,,,,44507546,NY 32
+41393236,41362274,0,False,tertiary,2nd Avenue,55.237,,,,30 mph,,,,,,,5578474,
+41395297,41272200,0,False,secondary,South Pearl Street,33.976,,,,30 mph,,,,,,,44507546,NY 32
+41395297,41300726,0,False,secondary,South Pearl Street,185.271,,,,30 mph,,,,,,,35902070,NY 32
+41411549,41411552,0,False,residential,Seymore Avenue,32.264,,,,,,,,,,,5579866,
+41411549,41307751,0,True,residential,Odell Street,41.474,,,,,,,,,,,5594983,
+41411549,41374619,0,False,residential,Seymore Avenue,88.357,,,,,,,,,,,5579866,
+41411552,41411549,0,False,residential,Seymore Avenue,32.264,,,,,,,,,,,5579866,
+41411552,41540464,0,False,residential,Krank Street,100.563,,,,,,,,,,,5595980,
+41411552,41296147,0,False,residential,"['1st Avenue', 'Krank Street']",264.667,,,,,,,,,,,"[5569371, 5595980]",
+41482852,41362278,0,False,residential,Bouck Street,55.824,,,,,,,,,,,5586195,
+41482852,41272200,0,False,secondary,South Pearl Street,66.4,,,,30 mph,,,,,,,44507546,NY 32
+41482852,41393233,0,False,secondary,South Pearl Street,156.957,,,,30 mph,,,,,,,44507546,NY 32
+41540464,41411552,0,False,residential,Krank Street,100.563,,,,,,,,,,,5595980,

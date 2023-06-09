@@ -1,0 +1,113 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+49378069,49378089,0,False,unclassified,Magazine Road,125.186,,,,,,,,,,,5991808,
+49378069,49523992,0,False,tertiary,Fort Armistead Road,745.495,,,,,,,,,,,6011306,
+49378069,49523965,0,False,tertiary,Fort Armistead Road,151.048,,,,,,,,,,,6011306,
+49378089,49378069,0,False,unclassified,Magazine Road,125.186,,,,,,,,,,,5991808,
+49379171,5469700498,0,False,unclassified,Dock Road,156.882,,,,,,,,,,,5991888,
+49379171,49393192,0,False,unclassified,Fort Armistead Road,838.417,,,,,,,,,,,5993375,
+49379171,49523992,0,False,tertiary,Fort Armistead Road,33.074,,,,,,,,,,,6011306,
+49381198,1334544702,0,False,primary,Quarantine Road,36.47,3,,,,,,,,,,"[425131754, 425131757]",
+49381198,49382275,0,False,primary,Quarantine Road,173.725,4,,,,,,yes,,,,"[52118195, 52118196, 425131755, 536873775]",
+49381200,49381198,0,True,motorway_link,,30.811,1,,,,,,,,,,404847305,
+49381200,1334544702,0,True,motorway_link,,48.548,1,,,,,,,,,,118711746,
+49381219,49381200,0,True,motorway_link,,472.429,"['1', '2', '3']",,,,,,,,,,"[5992101, 425131758, 425131759]",
+49381219,49508982,0,True,motorway,Baltimore Beltway,1584.23,2,,,55 mph,,,yes,,,,"[90079475, 54327491, 54327495]",I 695
+49382275,49510768,0,False,unclassified,Quarantine Road,78.702,,,,,,,,,,,121507844,
+49382275,49382261,0,True,motorway_link,,665.01,1,,,,,,,,,,5992188,
+49382275,49381198,0,False,primary,Quarantine Road,173.725,4,,,,,,yes,,,,"[425131755, 52118196, 52118195, 536873775]",
+49382384,49382384,0,False,unclassified,Hockley Road,2730.058,,,,,permissive,,,,,,6020553,
+49382384,49382384,1,False,unclassified,Hockley Road,2730.058,,,,,permissive,,,,,,6020553,
+49382384,49510768,0,False,unclassified,Hockley Road,32.846,,,,,permissive,,,,,,6020553,
+49393192,49379171,0,False,unclassified,Fort Armistead Road,838.417,,,,,,,,,,,5993375,
+49413807,2926513779,0,False,unclassified,Old Pennington Avenue,315.42,,,,,,,,,,,5995955,
+49413807,49506970,0,False,unclassified,Old Pennington Avenue,166.475,,,,,,,,,,,5995955,
+49413807,49431953,0,False,unclassified,East Ordnance Road,34.546,,,,,,,,,,,47998157,
+49415813,49431951,0,True,secondary,Pennington Avenue,91.056,,,,,,,,,,,47998155,MD 173
+49416709,49465629,0,False,primary,Hawkins Point Road,164.881,,,,,,,,,,,70949199,MD 173
+49416709,49416710,0,False,unclassified,Concrete Road,52.301,,,,,permissive,,,,,,568546402,
+49416709,49465620,0,False,primary,Hawkins Point Road,426.538,,,,,,,yes,,,,"[6004000, 70949198, 70949199]",MD 173
+49416710,49416709,0,False,unclassified,Concrete Road,52.301,,,,,permissive,,,,,,568546402,
+49416760,49416761,0,True,motorway_link,,12.287,1,,,,,,,,,,52350076,
+49416760,49523965,0,True,tertiary,Fort Armistead Road,166.817,,,,,,,,,,,182742608,
+49416761,49416762,0,True,motorway_link,,41.307,1,,,,,,,,,,52350076,
+49416761,49457111,0,True,primary,Fort Armistead Road,196.847,,,,,,,,,,,289879268,
+49416762,49508982,0,True,motorway_link,,518.542,1,,,,,,yes,,,,"[118711736, 54327492, 52350076]",
+49423549,49416762,0,True,motorway_link,,45.973,1,,,,,,,,,,5997734,
+49423549,49416761,0,True,tertiary,Fort Armistead Road,41.24,,,,,,,,,,,52350077,
+49431951,49431953,0,False,primary,East Ordnance Road,15.677,,,,,,,,,,,77315606,MD 710
+49431951,49506775,0,True,primary,Pennington Avenue,45.982,,,,,,,,,,,160639135,MD 173
+49431953,49431951,0,False,primary,East Ordnance Road,15.677,,,,,,,,,,,77315606,MD 710
+49431953,49413807,0,False,unclassified,East Ordnance Road,34.546,,,,,,,,,,,47998157,
+49431953,49506970,0,True,secondary,Pennington Avenue,170.167,,,,,,,,,,,160639131,MD 173
+49433508,49433529,0,True,primary,Fort Smallwood Road,210.522,,,,,,,,,,,512468589,MD 173
+49433508,49433529,1,True,primary_link,,236.172,,,,,,jughandle,,,,,5999661,
+49433529,49465739,0,True,primary,Fort Armistead Road,13.175,,,,,,,,,,,512468588,
+49443182,49457096,0,False,unclassified,Hawkins Point Road,183.545,,,,,,,,,,,6004006,
+49448994,49465739,0,True,primary,Fort Smallwood Road,49.704,,,,,,,,,,,225185508,MD 173
+49448994,49449006,0,True,primary_link,,70.856,,,,,,,,,,,6001933,
+49449006,2934145534,0,True,primary,Fort Armistead Road,175.81,,,,,,,,,,,6011307,
+49457096,49457111,0,False,unclassified,Thoms Road,161.383,,,,,,,,,,,6002927,
+49457096,49443182,0,False,unclassified,Hawkins Point Road,183.545,,,,,,,,,,,6004006,
+49457096,49465717,0,False,unclassified,Hawkins Point Road,323.155,,,,,,,,,,,6004006,
+49457111,2934145534,0,False,unclassified,Thoms Road,9.469,,,,,,,,,,,6002927,
+49457111,49457096,0,False,unclassified,Thoms Road,161.383,,,,,,,,,,,6002927,
+49457111,49465737,0,True,primary,Fort Armistead Road,220.246,,,,,,,,,,,289879268,
+49465614,49465620,0,False,primary,Hawkins Point Road,200.011,,,,,,,,,,,6004000,MD 173
+49465614,49431953,0,True,primary,Pennington Avenue,924.071,,,,,,,movable,,,,"[61337280, 52118186, 6009324]",MD 173
+49465620,49416709,0,False,primary,Hawkins Point Road,426.538,,,,,,,yes,,,,"[6004000, 70949198, 70949199]",MD 173
+49465620,49465614,0,False,primary,Hawkins Point Road,200.011,,,,,,,,,,,6004000,MD 173
+49465629,49510092,0,False,unclassified,Arundel Cove Avenue,144.325,,,,,,,,,,,6012083,
+49465629,49465632,0,False,primary,Hawkins Point Road,89.78,,,,,,,,,,,70949199,MD 173
+49465629,49416709,0,False,primary,Hawkins Point Road,164.881,,,,,,,,,,,70949199,MD 173
+49465632,49510098,0,False,unclassified,Cove Avenue,144.085,,,,,,,,,,,6021381,
+49465632,49465629,0,False,primary,Hawkins Point Road,89.78,,,,,,,,,,,70949199,MD 173
+49465632,49465646,0,False,primary,Hawkins Point Road,253.499,,,,,,,,,,,70949199,MD 173
+49465646,610421611,0,True,primary,Hawkins Point Road,202.974,,,,,,,,,,,47998146,MD 173
+49465646,49465632,0,False,primary,Hawkins Point Road,253.499,,,,,,,,,,,70949199,MD 173
+49465699,610421611,0,False,primary,Quarantine Road,13.646,,,,,,,,,,,6009827,
+49465699,1334544702,0,False,primary,Quarantine Road,74.938,4,,,,,,,,,,425131756,
+49465699,49465646,0,True,primary,Hawkins Point Road,203.821,,,,,,,,,,,475154400,MD 173
+49465717,49457096,0,False,unclassified,Hawkins Point Road,323.155,,,,,,,,,,,6004006,
+49465717,49465699,0,True,primary,Hawkins Point Road,295.823,,,,,,,,,,,475154400,MD 173
+49465737,49433529,0,True,primary,Fort Armistead Road,16.348,,,,,,,,,,,289879268,
+49465737,49465717,0,True,primary,Fort Smallwood Road,291.591,,,,,,,,,,,225185510,MD 173
+49465739,49465737,0,True,primary,Fort Smallwood Road,10.393,,,,,,,,,,,225185509,MD 173
+49465739,49449006,0,True,primary,Fort Armistead Road,43.708,,,,,,,,,,,512468587,
+49506775,49465614,0,True,primary,Pennington Avenue,885.468,,,,,,,movable,,,,"[52118184, 6012045, 160639135]",MD 173
+49506791,49506800,0,False,secondary,Pennington Avenue,212.123,,,,,,,,,,,47998154,MD 173
+49506791,49415813,0,True,secondary,Pennington Avenue,118.22,,,,,,,,,,,47998155,MD 173
+49506800,49506791,0,False,secondary,Pennington Avenue,212.123,,,,,,,,,,,47998154,MD 173
+49506970,49506791,0,True,secondary,Pennington Avenue,38.37,,,,,,,,,,,160639131,MD 173
+49506970,49413807,0,False,unclassified,Old Pennington Avenue,166.475,,,,,,,,,,,5995955,
+49508982,266995332,0,True,motorway,Baltimore Beltway,1513.877,2,,,55 mph,,,yes,,,,"[54240207, 54240231, 24555622, 54327495]",I 695
+49509081,49382275,0,True,motorway_link,,498.999,"['1', '3']",,,,,,,,,,"[425131760, 52118197]",
+49509081,49382261,0,True,motorway,Baltimore Beltway,1134.311,2,,,55 mph,,,,,,,54327493,I 695
+49509136,49509081,0,True,motorway,Baltimore Beltway,2053.061,2,,,55 mph,,,yes,,,,"[54327493, 54327494, 24555623, 24555626, 54240235, 54240218]",I 695
+49510092,49510098,0,False,unclassified,Bungalow Avenue,88.91,,,,,,,,,,,6009721,
+49510092,610421713,0,False,unclassified,Arundel Cove Avenue,135.413,,,,,,,,,,,6012083,
+49510092,49465629,0,False,unclassified,Arundel Cove Avenue,144.325,,,,,,,,,,,6012083,
+49510098,2932651500,0,False,unclassified,Bungalow Avenue,50.588,,,,,,,,,,,6009721,
+49510098,49510092,0,False,unclassified,Bungalow Avenue,88.91,,,,,,,,,,,6009721,
+49510098,49465632,0,False,unclassified,Cove Avenue,144.085,,,,,,,,,,,6021381,
+49510768,49382275,0,False,unclassified,Quarantine Road,78.702,,,,,,,,,,,121507844,
+49510768,49382384,0,False,unclassified,Hockley Road,32.846,,,,,permissive,,,,,,6020553,
+49510768,49510872,0,False,unclassified,Quarantine Road,1273.349,,,,,,,,,,,"[121507844, 568808599]",
+49510872,49510768,0,False,unclassified,Quarantine Road,1273.349,,,,,,,,,,,"[121507844, 568808599]",
+49523965,49378069,0,False,tertiary,Fort Armistead Road,151.048,,,,,,,,,,,6011306,
+49523965,49423549,0,True,tertiary,Fort Armistead Road,117.626,,,,,,,,,,,52350077,
+49523992,49379171,0,False,tertiary,Fort Armistead Road,33.074,,,,,,,,,,,6011306,
+49523992,49378069,0,False,tertiary,Fort Armistead Road,745.495,,,,,,,,,,,6011306,
+49523992,49562752,0,False,unclassified,Lagaret Road,149.351,,,,,,,,,,,6018945,
+49562752,49523992,0,False,unclassified,Lagaret Road,149.351,,,,,,,,,,,6018945,
+610421611,49465699,0,False,primary,Quarantine Road,13.646,,,,,,,,,,,6009827,
+610421611,2291512820,0,False,unclassified,Efficiency Way,145.17,,,,,,,,,,,220028943,
+610421611,49433508,0,True,primary,"['Fort Smallwood Road', 'Hawkins Point Road']",374.318,,,,,,,,,,,"[47998146, 475154399]",MD 173
+610421713,49510092,0,False,unclassified,Arundel Cove Avenue,135.413,,,,,,,,,,,6012083,
+1334544702,49465699,0,False,primary,Quarantine Road,74.938,4,,,,,,,,,,425131756,
+1334544702,49381198,0,False,primary,Quarantine Road,36.47,3,,,,,,,,,,"[425131754, 425131757]",
+2291512820,610421611,0,False,unclassified,Efficiency Way,145.17,,,,,,,,,,,220028943,
+2926513779,49413807,0,False,unclassified,Old Pennington Avenue,315.42,,,,,,,,,,,5995955,
+2932651500,49510098,0,False,unclassified,Bungalow Avenue,50.588,,,,,,,,,,,6009721,
+2934145534,49457111,0,False,unclassified,Thoms Road,9.469,,,,,,,,,,,6002927,
+2934145534,49416760,0,True,primary,Fort Armistead Road,194.093,,,,,,,,,,,6011307,
+5469700498,49379171,0,False,unclassified,Dock Road,156.882,,,,,,,,,,,5991888,

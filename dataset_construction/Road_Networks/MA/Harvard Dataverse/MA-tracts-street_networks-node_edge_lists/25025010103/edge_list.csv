@@ -1,0 +1,29 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+61340762,61341720,0,False,residential,Silber Way,49.893,2,16.5,,25 mph,,,,,,,8646498,
+61340762,3049427276,0,False,residential,"['Granby Street', 'Back Street']",296.457,"['2', '1']","['18.3', '4.9']",,25 mph,,,,,,,"[133340784, 242252161, 8652526]",
+61341295,61341720,0,True,residential,Bay State Road,223.047,1,16.5,,25 mph,,,,,,,8647328,
+61341295,61450263,0,False,residential,Deerfield Street,133.216,2,16.5,,25 mph,,,,,,,8652041,
+61341720,61340762,0,False,residential,Silber Way,49.893,2,16.5,,25 mph,,,,,,,8646498,
+61341720,3049427276,0,True,residential,Bay State Road,254.535,1,16.5,,25 mph,,,,,,,8647111,
+61341720,61450281,0,False,residential,Silber Way,106.15,2,16.5,,25 mph,,,,,,,8651597,
+61358045,1220083325,0,True,secondary,Beacon Street,46.641,2,30.2,,,,,,,,,325811606,MA 2
+61367805,61447017,0,True,primary,Commonwealth Avenue,259.945,"['2', '3']","['51.2', '47.0']",,,,,,,,,"[426494697, 8648572]",US 20
+61380123,61380067,0,True,trunk_link,,28.937,1,17.1,,,,,,,,,8641793,
+61380123,2498606458,0,True,primary_link,,26.314,1,,,,,,,,,,242377199,
+61389572,61450281,0,True,primary,Commonwealth Avenue,203.527,2,47.0,,,,,,,,,240745677,US 20
+61389587,1220083322,0,True,primary,Commonwealth Avenue,8.906,2,47.0,,,,,,,,,519869879,US 20
+61389587,61389572,0,True,primary_link,,29.003,,,,,,,,,,,8646307,
+61447017,2498606458,0,False,primary,University Road,105.396,2,17.1,,,,,,,,,"[426828611, 8637940]",
+61450263,61341295,0,False,residential,Deerfield Street,133.216,2,16.5,,25 mph,,,,,,,8652041,
+61450263,61389572,0,True,primary,Commonwealth Avenue,78.982,2,47.0,,,,,,,,,240745677,US 20
+61450281,61341720,0,False,residential,Silber Way,106.15,2,16.5,,25 mph,,,,,,,8651597,
+61450281,61452326,0,True,primary,Commonwealth Avenue,253.683,2,47.0,,,,,,,,,519868599,US 20
+61452326,61455275,0,True,residential,Granby Street,22.274,2,18.3,,25 mph,,,,,,,325811198,
+61452326,61367805,0,True,primary,Commonwealth Avenue,244.275,"['2', '3']",47.0,,,,,,,,,"[519868604, 426494693]",US 20
+61455275,61389587,0,True,primary,Commonwealth Avenue,460.645,2,47.0,,,,,,,,,"[519869878, 196203206, 519869879]",US 20
+1220083322,1220083325,0,True,primary_link,,28.341,,,,,,,,,,,105961640,
+1220083322,61358045,0,True,primary,Commonwealth Avenue,48.731,2,47.0,,,,,,,,,519869879,US 20
+2498606458,61380067,0,True,primary_link,,15.767,1,,,,,,,,,,242377200,
+2498606458,61447017,0,False,primary,University Road,105.396,2,17.1,,,,,,,,,"[426828611, 8637940]",
+3049427276,61452326,0,True,residential,Granby Street,96.661,2,18.3,,25 mph,,,,,,,8646700,
+3049427276,61340762,0,False,residential,"['Granby Street', 'Back Street']",296.457,"['2', '1']","['18.3', '4.9']",,25 mph,,,,,,,"[133340784, 242252161, 8652526]",
