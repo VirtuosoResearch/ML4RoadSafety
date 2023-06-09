@@ -1,0 +1,11 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+42443054,42450044,0,False,secondary,East 96th Street,215.779,,,,,,,,,,,353220080,
+42443054,4779073675,0,False,secondary,East 96th Street,210.531,,,,,,,,,,,"[592374690, 420886628, 420886630]",
+42443056,42449010,0,False,residential,East 97th Street,228.756,,,,,,,,,,,46694771,
+42443056,42443054,0,True,primary,2nd Avenue,84.317,"['4', '5']",,,,,,,,,,"[195743323, 569266478]",
+42443058,42443056,0,True,primary,2nd Avenue,156.934,"['4', '5']",,,,,,,,,,"[226015267, 569266476]",
+42449010,42443056,0,False,residential,East 97th Street,228.756,,,,,,,,,,,46694771,
+42450044,42443054,0,False,secondary,East 96th Street,215.779,,,,,,,,,,,353220080,
+4779073675,42443054,0,False,secondary,East 96th Street,210.531,,,,,,,,,,,"[592374690, 420886628, 420886630]",
+4779073676,4779073675,0,True,secondary,East 96th Street,17.91,2,,,,,,,,,,485176771,
+4779073676,42449010,0,True,primary,1st Avenue,81.412,,,,,,,,,,,"[420886249, 195743309]",

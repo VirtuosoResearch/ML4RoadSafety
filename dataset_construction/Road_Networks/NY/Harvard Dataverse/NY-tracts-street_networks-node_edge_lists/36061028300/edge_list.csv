@@ -1,0 +1,25 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+42421785,42443520,0,False,residential,Bogardus Place,201.182,,,,,,,,,,,5671285,
+42421785,42421786,0,True,tertiary,Hillside Avenue,239.745,,,,,,,,,,,164839571,
+42421786,42421791,0,True,tertiary,Hillside Avenue,127.585,,,,,,,,,,,164839571,
+42421791,42448930,0,True,residential,Sickles Street,90.62,,,,,,,,,,,5671645,
+42421791,4814440062,0,True,tertiary,Hillside Avenue,215.959,,,,,,,,,,,164839571,
+42427780,42429109,0,False,primary,Broadway,51.422,4,,,,,,,,,,223486858,US 9
+42427780,42429104,0,False,primary,Broadway,134.514,4,,,,,,,,,,223486858,US 9
+42429104,42427780,0,False,primary,Broadway,134.514,4,,,,,,,,,,223486858,US 9
+42429104,42453591,0,False,tertiary,Fairview Avenue,106.978,,,,,,,,,,,5672264,
+42429109,42427780,0,False,primary,Broadway,51.422,4,,,,,,,,,,223486858,US 9
+42431177,42452485,0,False,primary,Nagle Avenue,77.809,,,,,,,,,,,164839573,
+42431177,42448930,0,False,primary,Nagle Avenue,74.894,,,,,,,,,,,164839573,
+42443520,42421786,0,True,residential,Ellwood Street,66.248,,,,,,,,,,,5671112,
+42443520,42421785,0,False,residential,Bogardus Place,201.182,,,,,,,,,,,5671285,
+42443522,42443520,0,True,residential,Ellwood Street,85.992,,,,,,,,,,,5671112,
+42443522,42448930,0,False,primary,Nagle Avenue,104.886,,,,,,,,,,,164839573,
+42448930,42431177,0,False,primary,Nagle Avenue,74.894,,,,,,,,,,,164839573,
+42448930,42443522,0,False,primary,Nagle Avenue,104.886,,,,,,,,,,,164839573,
+42452485,42431177,0,False,primary,Nagle Avenue,77.809,,,,,,,,,,,164839573,
+42453591,42429104,0,False,tertiary,Fairview Avenue,106.978,,,,,,,,,,,5672264,
+42453591,42429109,0,True,residential,"['West 193rd Street', 'Broadway Terrace']",217.69,,,,,,,,,,,"[5673208, 5670177]",
+1764387328,42421785,0,True,tertiary,Hillside Avenue,99.366,,,,,,,,,,,164839571,
+1764400300,1764405362,0,True,primary_link,,18.155,,,,,,,,,,,164842478,
+4814440062,1764400300,0,True,primary,Nagle Avenue,10.136,,,,,,,,,,,164842044,

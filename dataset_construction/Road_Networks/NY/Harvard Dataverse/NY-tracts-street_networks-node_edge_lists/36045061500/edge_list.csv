@@ -1,0 +1,435 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+212385888,212481470,0,False,residential,Glenn Avenue,224.962,,,,,,,,,,,20103766,
+212385888,212513231,0,False,secondary,Coffeen Street,110.705,,,,,,,,,,,139260086,NY 12F
+212385888,212488275,0,False,secondary,Coffeen Street,161.199,,,,,,,,,,,139260086,NY 12F
+212385888,212385907,0,True,unclassified,,99.103,,,,,,,,,,,557142260,
+212385907,212407876,0,True,unclassified,,108.457,,,,,,,,,,,20096232,
+212385907,212385916,0,True,unclassified,,42.101,,,,,,,,,,,557142260,
+212385916,212513231,0,False,unclassified,Gaffney Drive,137.944,,,,,,,,,,,557142212,
+212385916,212407876,0,False,unclassified,Gaffney Drive,75.746,,,,,,,,,,,557142212,
+212386677,212513236,0,False,secondary,Coffeen Street,91.183,,,,,,,,,,,139260086,NY 12F
+212386735,212445198,0,False,primary,Arsenal Street,187.106,"['7', '5', '6']",,,30 mph,,,,,,,"[322291097, 322291098, 322291099]",NY 3
+212391366,212577114,0,False,residential,Waterman Drive,22.528,,,,,,,,,,,20108707,
+212391366,212391377,0,False,residential,,184.795,,,,,,,,,,,20095005,
+212391366,212557624,0,False,residential,Waterman Drive,86.623,,,,,,,,,,,20108707,
+212391377,212391366,0,False,residential,,184.795,,,,,,,,,,,20095005,
+212403875,212519897,0,False,residential,Scio Street,36.139,,,,,,,,,,,20103704,
+212403875,212507169,0,False,residential,Exchange Street,259.659,,,,,,,,,,,"[20095962, 20102966]",
+212403875,212519909,0,False,residential,Scio Street,143.538,,,,,,,,,,,20103704,
+212407876,212385916,0,False,unclassified,Gaffney Drive,75.746,,,,,,,,,,,557142212,
+212407876,212424628,0,False,unclassified,Gaffney Drive,304.15,,,,,,,,,,,557142212,
+212408615,212408617,0,False,residential,,52.939,,,,,,,,,,,20096302,
+212408615,212562959,0,False,unclassified,Gaffney Drive,82.106,,,,,,,,,,,20107835,
+212408615,212513231,0,False,unclassified,Gaffney Drive,255.001,,,,,,,,,,,20107835,
+212408617,212408615,0,False,residential,,52.939,,,,,,,,,,,20096302,
+212408617,212409527,0,False,residential,,71.611,,,,,,,,,,,20096390,
+212408617,212409547,0,False,residential,,106.502,,,,,,,,,,,20096390,
+212409527,212408617,0,False,residential,,71.611,,,,,,,,,,,20096390,
+212409547,212408617,0,False,residential,,106.502,,,,,,,,,,,20096390,
+212409547,212562959,0,False,residential,Faichney Drive,70.545,,,,,,,,,,,20111622,
+212414233,212414240,0,False,residential,,97.451,,,,,,,,,,,20096734,
+212414233,212424628,0,False,unclassified,"['Gaffney Drive', 'Rand Drive']",823.74,,,,,,,,,,,"[557142212, 20113039]",
+212414233,212513217,0,False,unclassified,Rand Drive,222.903,,,,,,,,,,,20113039,
+212414240,212414244,0,False,residential,,173.378,,,,,,,,,,,20096734,
+212414240,212414233,0,False,residential,,97.451,,,,,,,,,,,20096734,
+212414240,212425897,0,False,residential,,36.249,,,,,,,,,,,20097670,
+212414240,212425870,0,False,residential,,180.337,,,,,,,,,,,20097670,
+212414244,212414240,0,False,residential,,173.378,,,,,,,,,,,20096734,
+212414244,212523715,0,False,residential,William T Field Drive,464.692,,,,,,,,,,,20103971,
+212414244,212523669,0,False,residential,William T Field Drive,104.381,,,,,,,,,,,20103971,
+212419388,212419391,0,False,residential,,44.894,,,,,,,,,,,20097116,
+212419388,212565817,0,False,residential,Darby Lane,38.086,,,,,,,,,,,20107997,
+212419388,212565808,0,False,residential,Darby Lane,62.471,,,,,,,,,,,20107997,
+212419391,212419388,0,False,residential,,44.894,,,,,,,,,,,20097116,
+212419391,212628439,0,False,residential,Hayes Court,35.476,,,,,,,,,,,20111988,
+212419391,212628432,0,False,residential,Hayes Court,63.858,,,,,,,,,,,20111988,
+212422279,212422287,0,False,residential,,217.757,,,,,,,,,,,20097362,
+212422279,212422288,0,False,unclassified,South Massey Street,425.466,,,,,,,,,,,20101012,
+212422279,444217515,0,False,unclassified,South Massey Street,246.069,,,,,,,,,,,20101012,
+212422287,212422279,0,False,residential,,217.757,,,,,,,,,,,20097362,
+212422288,212422293,0,False,residential,,257.44,,,,,,,,,,,20097363,
+212422288,212473041,0,False,unclassified,South Massey Street,108.875,,,,,,,,,,,20101012,
+212422288,212422279,0,False,unclassified,South Massey Street,425.466,,,,,,,,,,,20101012,
+212422293,212422288,0,False,residential,,257.44,,,,,,,,,,,20097363,
+212424628,212513226,0,False,unclassified,North Hycliff Drive,569.961,,,,,,,,,,,20106449,
+212424628,212407876,0,False,unclassified,Gaffney Drive,304.15,,,,,,,,,,,557142212,
+212424628,212414233,0,False,unclassified,"['Gaffney Drive', 'Rand Drive']",823.74,,,,,,,,,,,"[557142212, 20113039]",
+212425823,212568683,0,False,residential,Coleman Avenue,346.991,,,,,,,,,,,20113024,
+212425870,212414240,0,False,residential,,180.337,,,,,,,,,,,20097670,
+212425897,212414240,0,False,residential,,36.249,,,,,,,,,,,20097670,
+212434404,212434409,0,False,primary,North Massey Street,155.769,4,,,,,,,,,,20098314,US 11;NY 12
+212434404,212568660,0,False,primary,Arsenal Street,151.244,,,,30 mph,,,,,,,45206267,NY 3
+212434404,212589321,0,False,primary,Massey Street South,217.652,4,,,,,,,,,,45759578,US 11
+212434409,212434404,0,False,primary,North Massey Street,155.769,4,,,,,,,,,,20098314,US 11;NY 12
+212434409,212434420,0,False,primary,North Massey Street,123.671,4,,,,,,,,,,20098314,US 11;NY 12
+212434409,212574295,0,False,residential,Prospect Street,141.457,,,,,,,,,,,20108533,
+212434420,212434409,0,False,primary,North Massey Street,123.671,4,,,,,,,,,,20098314,US 11;NY 12
+212434420,212434426,0,False,primary,North Massey Street,56.051,4,,,,,,,,,,20098314,US 11;NY 12
+212434420,212492403,0,False,secondary,Coffeen Street,109.503,,,,,,,,,,,45842749,NY 12F
+212434426,212434420,0,False,primary,North Massey Street,56.051,4,,,,,,,,,,20098314,US 11;NY 12
+212434426,212434434,0,False,primary,North Massey Street,58.23,4,,,,,,,,,,20098314,US 11;NY 12
+212434434,212434426,0,False,primary,North Massey Street,58.23,4,,,,,,,,,,20098314,US 11;NY 12
+212434441,212568679,0,False,primary,Arsenal Street,194.72,,,,30 mph,,,,,,,49036385,NY 3
+212434441,212434465,0,False,residential,Bellew Avenue South,429.534,,,,,,,,,,,20098316,
+212434441,212459117,0,False,residential,Bellew Avenue,211.945,,,,,,,,,,,20106161,
+212434441,212508192,0,False,primary,Arsenal Street,93.006,,,,30 mph,,,,,,,49036385,NY 3
+212434465,212434441,0,False,residential,Bellew Avenue South,429.534,,,,,,,,,,,20098316,
+212434465,212434465,0,False,residential,"['South Bellew Avenue', 'Waterman Drive', 'Rail Drive', 'Roundhouse Drive']",1050.793,,,,,,,,,,,"[20109504, 20108707, 20100150, 20106303]",
+212434465,212434465,1,False,residential,"['Rail Drive', 'South Bellew Avenue', 'Waterman Drive', 'Roundhouse Drive']",1050.793,,,,,,,,,,,"[20109504, 20108707, 20100150, 20106303]",
+212434465,212557624,0,False,residential,Waterman Drive,345.992,,,,,,,,,,,20108707,
+212442298,212442336,0,False,residential,South Hycliff Drive,155.819,,,,,,,,,,,20105001,
+212442298,212442336,1,False,residential,Po Valley Road,266.061,,,,,,,,,,,20098692,
+212442298,212535363,0,False,residential,South Hycliff Drive,44.629,,,,,,,,,,,20105001,
+212442336,212442298,0,False,residential,South Hycliff Drive,155.819,,,,,,,,,,,20105001,
+212442336,212442298,1,False,residential,Po Valley Road,266.061,,,,,,,,,,,20098692,
+212442336,212535369,0,False,residential,South Hycliff Drive,152.086,,,,,,,,,,,20105001,
+212445198,212562903,0,False,primary,Arsenal Street,189.7,,,,30 mph,,,,,,,49036385,NY 3
+212445198,212445240,0,False,unclassified,Stateway Plaza,712.057,,,,,,,,,,,"[20098852, 340479038]",
+212445198,212386735,0,False,primary,Arsenal Street,187.106,"['7', '5', '6']",,,30 mph,,,,,,,"[322291097, 322291098, 322291099]",NY 3
+212445240,212562903,0,False,unclassified,Gaffney Drive,556.013,,,,,,,,,,,"[20107835, 20107829]",
+212445240,212562959,0,False,unclassified,Gaffney Drive,381.25,,,,,,,,,,,20107835,
+212445240,212445198,0,False,unclassified,Stateway Plaza,712.057,,,,,,,,,,,"[20098852, 340479038]",
+212448414,212448416,0,False,residential,Dimmick Street,19.128,,,,,,,,,,,20099038,
+212448414,212584154,0,False,unclassified,Massey Street South,151.809,,,,,,,,,,,20109443,
+212448414,212473389,0,False,unclassified,Massey Street South,21.316,,,,,,,,,,,20109443,
+212448416,212448418,0,False,residential,Dimmick Street,144.041,,,,,,,,,,,20099038,
+212448416,212448414,0,False,residential,Dimmick Street,19.128,,,,,,,,,,,20099038,
+212448416,212473389,0,False,residential,Mullin Street,16.073,,,,,,,,,,,20112509,
+212448416,212637032,0,False,residential,Mullin Street,179.117,,,,,,,,,,,20112509,
+212448418,212448420,0,False,residential,Dimmick Street,63.92,,,,,,,,,,,20099038,
+212448418,212448416,0,False,residential,Dimmick Street,144.041,,,,,,,,,,,20099038,
+212448418,212520578,0,False,residential,Ten Eyck Street,182.096,,,,,,,,,,,20103758,
+212448420,212448418,0,False,residential,Dimmick Street,63.92,,,,,,,,,,,20099038,
+212448420,212519926,0,False,residential,Ten Eyck Street West,236.987,,,,,,,,,,,20103705,
+212459117,212544998,0,False,residential,Bellew Avenue,226.911,,,,,,,,,,,20106161,
+212459117,212459125,0,False,residential,Ely Street,277.145,,,,,,,,,,,20099900,
+212459117,212434441,0,False,residential,Bellew Avenue,211.945,,,,,,,,,,,20106161,
+212459125,212459117,0,False,residential,Ely Street,277.145,,,,,,,,,,,20099900,
+212459125,212527830,0,False,residential,Emmett Street,92.115,,,,,,,,,,,20108322,
+212459125,212544998,0,False,residential,Emmett Street,155.957,,,,,,,,,,,20108322,
+212461479,212461483,0,False,residential,Duffy Street,237.114,,,,,,,,,,,20100038,
+212461483,212461486,0,False,residential,Duffy Street,142.903,,,,,,,,,,,20100038,
+212461483,212461479,0,False,residential,Duffy Street,237.114,,,,,,,,,,,20100038,
+212461483,212540798,0,False,residential,Glen Street,135.708,,,,,,,,,,,20105684,
+212461486,212527812,0,False,primary,Arsenal Street,111.733,,,,30 mph,,,,,,,49036385,NY 3
+212461486,212461483,0,False,residential,Duffy Street,142.903,,,,,,,,,,,20100038,
+212461486,212494379,0,False,primary,Arsenal Street,69.776,,,,30 mph,,,,,,,49036385,NY 3
+212466619,212563524,0,False,residential,Pine Street,74.377,,,,,,,,,,,20109079,
+212466619,212466630,0,False,residential,South Meadow Street,249.167,,,,,,,,,,,20100460,
+212466619,212519926,0,False,residential,Pine Street,118.57,,,,,,,,,,,20109079,
+212466630,212466632,0,False,residential,South Meadow Street,142.877,,,,,,,,,,,20100460,
+212466630,212466619,0,False,residential,South Meadow Street,249.167,,,,,,,,,,,20100460,
+212466630,212528843,0,False,residential,Meadow Avenue,73.863,,,,,,,,,,,20104419,
+212466632,212466630,0,False,residential,South Meadow Street,142.877,,,,,,,,,,,20100460,
+212466632,212466637,0,False,residential,South Meadow Street,164.317,,,,,,,,,,,20100460,
+212466632,212473389,0,False,residential,Mullin Street West,151.43,,,,,,,,,,,20101028,
+212466632,212473381,0,False,residential,Mullin Street West,150.167,,,,,,,,,,,20101028,
+212466637,212584154,0,False,residential,Cross Street,230.456,,,,,,,,,,,20109139,
+212466637,212466641,0,False,residential,South Meadow Street,123.597,,,,,,,,,,,20100460,
+212466637,212466632,0,False,residential,South Meadow Street,164.317,,,,,,,,,,,20100460,
+212466637,212507169,0,False,residential,"['Exchange Street', 'Cross Street']",318.481,,,,,,,,,,,"[20109139, 20102966]",
+212466641,212507169,0,True,residential,Stone Street,192.372,,,,,,,,,,,20112266,
+212466641,212466645,0,False,residential,South Meadow Street,159.539,,,,,,,,,,,20100460,
+212466641,212466637,0,False,residential,South Meadow Street,123.597,,,,,,,,,,,20100460,
+212466645,212519897,0,False,primary,Arsenal Street,78.579,,,,30 mph,,,,,,,45206267,NY 3
+212466645,212568660,0,False,primary,Arsenal Street,151.006,,,,30 mph,,,,,,,45206267,NY 3
+212466645,212466641,0,False,residential,South Meadow Street,159.539,,,,,,,,,,,20100460,
+212466645,212482516,0,False,residential,North Meadow Street,291.663,,,,,,,,,,,20101562,
+212471430,212584925,0,False,residential,Cedar Street,104.238,,,,,,,,,,,20109178,
+212471430,212584942,0,False,residential,Cedar Street,87.69,,,,,,,,,,,20109178,
+212471430,212471442,0,False,residential,Swan Street,160.153,,,,,,,,,,,20100917,
+212471442,212518235,0,False,residential,Breen Avenue,46.695,,,,,,,,,,,20103605,
+212471442,212518233,0,False,residential,Breen Avenue,123.173,,,,,,,,,,,20103605,
+212471442,212471430,0,False,residential,Swan Street,160.153,,,,,,,,,,,20100917,
+212473041,212473059,0,False,unclassified,South Massey Street,270.797,,,,,,,,,,,20101012,
+212473041,212422288,0,False,unclassified,South Massey Street,108.875,,,,,,,,,,,20101012,
+212473059,212473068,0,False,unclassified,South Massey Street,396.647,,,,,,,,,,,20101012,
+212473059,212473041,0,False,unclassified,South Massey Street,270.797,,,,,,,,,,,20101012,
+212473068,212578110,0,False,unclassified,Massey Street South,114.452,,,,,,,,,,,20109443,
+212473068,212473059,0,False,unclassified,South Massey Street,396.647,,,,,,,,,,,20101012,
+212473377,212473381,0,False,residential,Mullin Street West,54.68,,,,,,,,,,,20101028,
+212473381,212466632,0,False,residential,Mullin Street West,150.167,,,,,,,,,,,20101028,
+212473381,212473377,0,False,residential,Mullin Street West,54.68,,,,,,,,,,,20101028,
+212473381,212563524,0,False,residential,Portage Street,394.545,,,,,,,,,,,20107858,
+212473389,212448414,0,False,unclassified,Massey Street South,21.316,,,,,,,,,,,20109443,
+212473389,212466632,0,False,residential,Mullin Street West,151.43,,,,,,,,,,,20101028,
+212473389,212519926,0,False,unclassified,Massey Street South,296.9,,,,,,,,,,,20109443,
+212473389,212448416,0,False,residential,Mullin Street,16.073,,,,,,,,,,,20112509,
+212473939,212473941,0,False,residential,Boon Street,228.464,,,,,,,,,,,20101057,
+212473939,212557648,0,False,primary,Arsenal Street,67.304,,,,30 mph,,,,,,,49036385,NY 3
+212473939,212518231,0,False,primary,Arsenal Street,136.041,,,,30 mph,,,,,,,49036385,NY 3
+212473941,212473943,0,False,residential,Boon Street,141.243,,,,,,,,,,,20101057,
+212473941,212473939,0,False,residential,Boon Street,228.464,,,,,,,,,,,20101057,
+212473941,212518235,0,False,residential,Eddy Street,131.519,,,,,,,,,,,20113199,
+212473943,212473941,0,False,residential,Boon Street,141.243,,,,,,,,,,,20101057,
+212473943,212518237,0,False,residential,Emmett Street,130.108,,,,,,,,,,,20108322,
+212473943,212571050,0,False,residential,Emmett Street,141.462,,,,,,,,,,,20108322,
+212474351,212474358,0,False,residential,Haney Street,324.253,,,,,,,,,,,20101087,
+212474358,212474375,0,False,residential,Haney Street,350.348,,,,,,,,,,,20101087,
+212474358,212474351,0,False,residential,Haney Street,324.253,,,,,,,,,,,20101087,
+212474358,212593037,0,False,residential,"['Whitford Street', 'Mather Street']",295.17,,,,,,,,,,,"[20109752, 20104213]",
+212474375,212562903,0,False,primary,Arsenal Street,83.541,,,,30 mph,,,,,,,49036385,NY 3
+212474375,212474358,0,False,residential,Haney Street,350.348,,,,,,,,,,,20101087,
+212474375,212568683,0,False,primary,Arsenal Street,326.286,,,,30 mph,,,,,,,49036385,NY 3
+212481470,212481472,0,False,residential,Stanton Street,44.507,,,,,,,,,,,20101490,
+212481470,212385888,0,False,residential,Glenn Avenue,224.962,,,,,,,,,,,20103766,
+212481470,212520689,0,False,residential,Glenn Avenue,105.477,,,,,,,,,,,20103765,
+212481472,212481470,0,False,residential,Stanton Street,44.507,,,,,,,,,,,20101490,
+212482516,212574295,0,False,residential,Prospect Street,136.686,,,,,,,,,,,20108533,
+212482516,212482532,0,False,residential,North Meadow Street,145.52,,,,,,,,,,,"[70560952, 20101562]",
+212482516,212466645,0,False,residential,North Meadow Street,291.663,,,,,,,,,,,20101562,
+212482532,212482540,0,False,residential,Black River Parkway,32.235,,,,,,,,,,,20108706,
+212482532,212513181,0,False,secondary,Coffeen Street,89.039,,,,,,,,,,,45842749,NY 12F
+212482532,212513169,0,False,secondary,Coffeen Street,103.232,,,,,,,,,,,45842749,NY 12F
+212482532,212482516,0,False,residential,North Meadow Street,145.52,,,,,,,,,,,"[70560952, 20101562]",
+212482540,212482546,0,False,residential,North Meadow Street,133.9,,,,,,,,,,,20101564,
+212482540,212576979,0,False,residential,Black River Parkway,113.962,,,,,,,,,,,20108706,
+212482540,212482532,0,False,residential,Black River Parkway,32.235,,,,,,,,,,,20108706,
+212482546,212521496,0,False,residential,Newell Street,85.085,,,,,,,,,,,20111647,
+212482546,212561939,0,False,residential,Newell Street,69.873,,,,,,,,,,,20111647,
+212482546,212482540,0,False,residential,North Meadow Street,133.9,,,,,,,,,,,20101564,
+212488208,212488211,0,False,residential,Belvedere Way,98.921,,,,,,,,,,,20101794,
+212488208,212628432,0,False,residential,Hycliff Drive South,45.504,,,,,,,,,,,20112146,
+212488208,212535363,0,False,residential,"['South Hycliff Drive', 'Hycliff Drive South']",252.722,,,,,,,,,,,"[20105001, 20112146]",
+212488211,212488208,0,False,residential,Belvedere Way,98.921,,,,,,,,,,,20101794,
+212488275,212513226,0,False,secondary,Coffeen Street,90.556,,,,,,,,,,,139260086,NY 12F
+212488275,212488281,0,False,residential,Kendall Avenue North,87.79,,,,,,,,,,,20101799,
+212488275,212385888,0,False,secondary,Coffeen Street,161.199,,,,,,,,,,,139260086,NY 12F
+212488281,212488275,0,False,residential,Kendall Avenue North,87.79,,,,,,,,,,,20101799,
+212492403,212492406,0,False,residential,Waltham Street,97.541,,,,,,,,,,,20102036,
+212492403,212513169,0,False,secondary,Coffeen Street,46.613,,,,,,,,,,,45842749,NY 12F
+212492403,212434420,0,False,secondary,Coffeen Street,109.503,,,,,,,,,,,45842749,NY 12F
+212492406,212492403,0,False,residential,Waltham Street,97.541,,,,,,,,,,,20102036,
+212494371,212494379,0,False,residential,Casey Street,311.967,,,,,,,,,,,20102184,
+212494379,212568683,0,False,primary,Arsenal Street,130.738,,,,30 mph,,,,,,,49036385,NY 3
+212494379,212494371,0,False,residential,Casey Street,311.967,,,,,,,,,,,20102184,
+212494379,212461486,0,False,primary,Arsenal Street,69.776,,,,30 mph,,,,,,,49036385,NY 3
+212507169,212466637,0,False,residential,"['Exchange Street', 'Cross Street']",318.481,,,,,,,,,,,"[20109139, 20102966]",
+212507169,212403875,0,False,residential,Exchange Street,259.659,,,,,,,,,,,"[20095962, 20102966]",
+212508188,212508192,0,False,residential,Smith Street,275.381,,,,,,,,,,,20103031,
+212508192,212508188,0,False,residential,Smith Street,275.381,,,,,,,,,,,20103031,
+212508192,212557648,0,False,primary,Arsenal Street,150.119,,,,30 mph,,,,,,,49036385,NY 3
+212508192,212434441,0,False,primary,Arsenal Street,93.006,,,,30 mph,,,,,,,49036385,NY 3
+212513169,212574295,0,False,residential,Orchard Street North,136.27,,,,,,,,,,,20109421,
+212513169,212492403,0,False,secondary,Coffeen Street,46.613,,,,,,,,,,,45842749,NY 12F
+212513169,212482532,0,False,secondary,Coffeen Street,103.232,,,,,,,,,,,45842749,NY 12F
+212513181,212513183,0,False,secondary,Coffeen Street,143.834,,,,,,,,,,,45842749,NY 12F
+212513181,212561966,0,False,residential,Howk Street,179.501,,,,,,,,,,,20107765,
+212513181,212561939,0,False,residential,Howk Street,155.74,,,,,,,,,,,20107765,
+212513181,212482532,0,False,secondary,Coffeen Street,89.039,,,,,,,,,,,45842749,NY 12F
+212513183,212513181,0,False,secondary,Coffeen Street,143.834,,,,,,,,,,,45842749,NY 12F
+212513183,212561939,0,False,residential,"['Newell Street', 'Engine Street']",313.218,,,,,,,,,,,"[20112860, 20111647]",
+212513183,212513187,0,False,secondary,Coffeen Street,142.825,,,,,,,,,,,45842749,NY 12F
+212513187,212584932,0,False,residential,Cedar Street,143.308,,,,,,,,,,,20109178,
+212513187,212513190,0,False,secondary,Coffeen Street,148.529,,,,,,,,,,,45842749,NY 12F
+212513187,212513183,0,False,secondary,Coffeen Street,142.825,,,,,,,,,,,45842749,NY 12F
+212513190,212518247,0,False,residential,Breen Avenue,142.938,,,,,,,,,,,20103605,
+212513190,212513193,0,False,secondary,Coffeen Street,60.219,,,,,,,,,,,45842749,NY 12F
+212513190,212513187,0,False,secondary,Coffeen Street,148.529,,,,,,,,,,,45842749,NY 12F
+212513193,212513190,0,False,secondary,Coffeen Street,60.219,,,,,,,,,,,45842749,NY 12F
+212513193,212520830,0,False,residential,"['Sill Street', 'Lawrence Street']",270.352,,,,,,,,,,,"[20109059, 20109014]",
+212513193,212513197,0,False,secondary,Coffeen Street,140.595,,,,,,,,,,,139260086,NY 12F
+212513197,212513199,0,False,secondary,Coffeen Street,20.378,,,,,,,,,,,139260086,NY 12F
+212513197,212589757,0,False,residential,Hewitt,98.197,,,,,,,,,,,20109490,
+212513197,212513193,0,False,secondary,Coffeen Street,140.595,,,,,,,,,,,139260086,NY 12F
+212513199,212520830,0,False,residential,Vanduzee Street,116.575,,,,,,,,,,,20103777,
+212513199,212513197,0,False,secondary,Coffeen Street,20.378,,,,,,,,,,,139260086,NY 12F
+212513199,212513204,0,False,secondary,Coffeen Street,220.711,,,,,,,,,,,139260086,NY 12F
+212513204,212513207,0,False,secondary,Coffeen Street,21.98,,,,,,,,,,,139260086,NY 12F
+212513204,212582391,0,False,residential,Fair Street,117.268,,,,,,,,,,,20111863,
+212513204,212513199,0,False,secondary,Coffeen Street,220.711,,,,,,,,,,,139260086,NY 12F
+212513207,212513210,0,False,secondary,Coffeen Street,117.298,,,,,,,,,,,139260086,NY 12F
+212513207,212513204,0,False,secondary,Coffeen Street,21.98,,,,,,,,,,,139260086,NY 12F
+212513207,212523669,0,False,residential,William T Field Drive,117.962,,,,,,,,,,,20103971,
+212513210,212513207,0,False,secondary,Coffeen Street,117.298,,,,,,,,,,,139260086,NY 12F
+212513210,212544998,0,False,residential,Bellew Avenue,403.441,,,,,,,,,,,20106161,
+212513210,212513217,0,False,secondary,Coffeen Street,154.81,,,,,,,,,,,139260086,NY 12F
+212513217,212513220,0,False,secondary,Coffeen Street,121.842,,,,,,,,,,,139260086,NY 12F
+212513217,212414233,0,False,unclassified,Rand Drive,222.903,,,,,,,,,,,20113039,
+212513217,212513210,0,False,secondary,Coffeen Street,154.81,,,,,,,,,,,139260086,NY 12F
+212513220,212513217,0,False,secondary,Coffeen Street,121.842,,,,,,,,,,,139260086,NY 12F
+212513220,212527864,0,False,residential,Wealtha Avenue,201.674,,,,,,,,,,,20107953,
+212513220,212513226,0,False,secondary,Coffeen Street,139.09,,,,,,,,,,,139260086,NY 12F
+212513226,212535369,0,False,residential,South Hycliff Drive,121.619,,,,,,,,,,,20105001,
+212513226,212488275,0,False,secondary,Coffeen Street,90.556,,,,,,,,,,,139260086,NY 12F
+212513226,212424628,0,False,unclassified,North Hycliff Drive,569.961,,,,,,,,,,,20106449,
+212513226,212513220,0,False,secondary,Coffeen Street,139.09,,,,,,,,,,,139260086,NY 12F
+212513231,212408615,0,False,unclassified,Gaffney Drive,255.001,,,,,,,,,,,20107835,
+212513231,212513236,0,False,secondary,Coffeen Street,247.764,,,,,,,,,,,139260086,NY 12F
+212513231,212385888,0,False,secondary,Coffeen Street,110.705,,,,,,,,,,,139260086,NY 12F
+212513231,212385916,0,False,unclassified,Gaffney Drive,137.944,,,,,,,,,,,557142212,
+212513236,212386677,0,False,secondary,Coffeen Street,91.183,,,,,,,,,,,139260086,NY 12F
+212513236,212542396,0,False,unclassified,College Heights,203.827,,,,,,,,,,,20105898,
+212513236,212513231,0,False,secondary,Coffeen Street,247.764,,,,,,,,,,,139260086,NY 12F
+212518231,212518233,0,False,residential,Breen Avenue,52.232,,,,,,,,,,,20103605,
+212518231,212473939,0,False,primary,Arsenal Street,136.041,,,,30 mph,,,,,,,49036385,NY 3
+212518231,212568672,0,False,primary,Arsenal Street,8.5,,,,30 mph,,,,,,,49036385,NY 3
+212518233,212471442,0,False,residential,Breen Avenue,123.173,,,,,,,,,,,20103605,
+212518233,212518231,0,False,residential,Breen Avenue,52.232,,,,,,,,,,,20103605,
+212518233,212584925,0,False,residential,Cedar Street,163.368,,,,,,,,,,,20109176,
+212518235,212518237,0,False,residential,Breen Avenue,135.501,,,,,,,,,,,20103605,
+212518235,212471442,0,False,residential,Breen Avenue,46.695,,,,,,,,,,,20103605,
+212518235,212473941,0,False,residential,Eddy Street,131.519,,,,,,,,,,,20113199,
+212518237,212518235,0,False,residential,Breen Avenue,135.501,,,,,,,,,,,20103605,
+212518237,212473943,0,False,residential,Emmett Street,130.108,,,,,,,,,,,20108322,
+212518237,212518247,0,False,residential,Breen Avenue,137.984,,,,,,,,,,,20103605,
+212518247,212513190,0,False,residential,Breen Avenue,142.938,,,,,,,,,,,20103605,
+212518247,212518237,0,False,residential,Breen Avenue,137.984,,,,,,,,,,,20103605,
+212518247,212584932,0,False,residential,Prospect Street West,148.556,,,,,,,,,,,20110927,
+212519897,212403875,0,False,residential,Scio Street,36.139,,,,,,,,,,,20103704,
+212519897,212466645,0,False,primary,Arsenal Street,78.579,,,,30 mph,,,,,,,45206267,NY 3
+212519897,212568672,0,False,primary,Arsenal Street,333.273,,,,30 mph,,,yes,,,,"[49036385, 45206267, 49036396]",NY 3
+212519909,212403875,0,False,residential,Scio Street,143.538,,,,,,,,,,,20103704,
+212519926,212578110,0,False,unclassified,Massey Street South,160.236,,,,,,,,,,,20109443,
+212519926,212448420,0,False,residential,Ten Eyck Street West,236.987,,,,,,,,,,,20103705,
+212519926,212466619,0,False,residential,Pine Street,118.57,,,,,,,,,,,20109079,
+212519926,212473389,0,False,unclassified,Massey Street South,296.9,,,,,,,,,,,20109443,
+212520578,212448418,0,False,residential,Ten Eyck Street,182.096,,,,,,,,,,,20103758,
+212520578,212637032,0,False,primary,Holcomb Street,143.157,2,,,,,,,,,,45759577,US 11
+212520689,212481470,0,False,residential,Glenn Avenue,105.477,,,,,,,,,,,20103765,
+212520689,212535363,0,False,residential,Riva Ridge Road,341.775,,,,,,,,,,,20109292,
+212520689,212535369,0,False,residential,Riva Ridge Road,233.789,,,,,,,,,,,20109292,
+212520830,212520831,0,False,residential,Vanduzee Street,99.198,,,,,,,,,,,20103777,
+212520830,212513199,0,False,residential,Vanduzee Street,116.575,,,,,,,,,,,20103777,
+212520830,212582391,0,False,residential,Lawrence Street,221.734,,,,,,,,,,,20109014,
+212520830,212513193,0,False,residential,"['Sill Street', 'Lawrence Street']",270.352,,,,,,,,,,,"[20109059, 20109014]",
+212520831,212520830,0,False,residential,Vanduzee Street,99.198,,,,,,,,,,,20103777,
+212520831,212595420,0,False,residential,Earl Street,105.067,,,,,,,,,,,20109901,
+212521496,212482546,0,False,residential,Newell Street,85.085,,,,,,,,,,,20111647,
+212521496,212576979,0,False,residential,"['Whitewater Way', 'Waterman Drive']",73.93,,,,,,,,,,,"[20108704, 20103822]",
+212523669,212582391,0,False,residential,Lawrence Street,20.419,,,,,,,,,,,20109014,
+212523669,212414244,0,False,residential,William T Field Drive,104.381,,,,,,,,,,,20103971,
+212523669,212513207,0,False,residential,William T Field Drive,117.962,,,,,,,,,,,20103971,
+212523715,212414244,0,False,residential,William T Field Drive,464.692,,,,,,,,,,,20103971,
+212525054,212565808,0,False,residential,"['Magrath Street', 'Hycliff Drive South']",131.764,,,,,,,,,,,"[20104082, 20112146]",
+212527812,212461486,0,False,primary,Arsenal Street,111.733,,,,30 mph,,,,,,,49036385,NY 3
+212527812,212568679,0,False,primary,Arsenal Street,22.924,,,,30 mph,,,,,,,49036385,NY 3
+212527812,212527830,0,False,residential,Palmer Street,444.883,,,,,,,,,,,20104346,
+212527830,212527864,0,False,residential,Palmer Street,398.796,,,,,,,,,,,20104346,
+212527830,212527812,0,False,residential,Palmer Street,444.883,,,,,,,,,,,20104346,
+212527830,212459125,0,False,residential,Emmett Street,92.115,,,,,,,,,,,20108322,
+212527864,212527830,0,False,residential,Palmer Street,398.796,,,,,,,,,,,20104346,
+212527864,212513220,0,False,residential,Wealtha Avenue,201.674,,,,,,,,,,,20107953,
+212527864,212565074,0,False,residential,Wealtha Avenue,207.498,,,,,,,,,,,20107953,
+212528843,212466630,0,False,residential,Meadow Avenue,73.863,,,,,,,,,,,20104419,
+212535363,212442298,0,False,residential,South Hycliff Drive,44.629,,,,,,,,,,,20105001,
+212535363,212488208,0,False,residential,"['South Hycliff Drive', 'Hycliff Drive South']",252.722,,,,,,,,,,,"[20105001, 20112146]",
+212535363,212520689,0,False,residential,Riva Ridge Road,341.775,,,,,,,,,,,20109292,
+212535363,212565074,0,False,residential,Riva Ridge Drive South,174.997,,,,,,,,,,,20111151,
+212535369,212513226,0,False,residential,South Hycliff Drive,121.619,,,,,,,,,,,20105001,
+212535369,212442336,0,False,residential,South Hycliff Drive,152.086,,,,,,,,,,,20105001,
+212535369,212520689,0,False,residential,Riva Ridge Road,233.789,,,,,,,,,,,20109292,
+212536495,212536498,0,False,residential,Clinton Street,45.229,,,,,,,,,,,20105133,
+212536495,212637032,0,False,primary,Holcomb Street,137.598,2,,,,,,,,,,45759577,US 11
+212536495,212589318,0,False,primary,Holcomb Street,93.13,2,,,,,,,,,,45759577,US 11
+212536498,212536495,0,False,residential,Clinton Street,45.229,,,,,,,,,,,20105133,
+212536498,212584154,0,False,unclassified,Massey Street South,29.076,,,,,,,,,,,20109443,
+212536498,212589318,0,False,unclassified,Massey Street South,113.187,,,,,,,,,,,20109443,
+212540798,212623391,0,False,residential,Dorsey Street,202.488,,,,,,,,,,,20111679,
+212540798,212461483,0,False,residential,Glen Street,135.708,,,,,,,,,,,20105684,
+212540798,212568679,0,False,residential,Dorsey Street,143.006,,,,,,,,,,,20111679,
+212542396,212513236,0,False,unclassified,College Heights,203.827,,,,,,,,,,,20105898,
+212544998,212459117,0,False,residential,Bellew Avenue,226.911,,,,,,,,,,,20106161,
+212544998,212571050,0,False,residential,Emmett Street,184.695,,,,,,,,,,,20108322,
+212544998,212513210,0,False,residential,Bellew Avenue,403.441,,,,,,,,,,,20106161,
+212544998,212459125,0,False,residential,Emmett Street,155.957,,,,,,,,,,,20108322,
+212557615,212557615,0,False,residential,Willow Street,123.287,,,,,,,,,,,20107517,
+212557615,212557615,1,False,residential,Willow Street,123.287,,,,,,,,,,,20107517,
+212557615,212557624,0,False,residential,Willow Street,35.406,,,,,,,,,,,20107517,
+212557624,212557648,0,False,residential,Willow Street,333.647,,,,,,,,,,,20107517,
+212557624,212557615,0,False,residential,Willow Street,35.406,,,,,,,,,,,20107517,
+212557624,212391366,0,False,residential,Waterman Drive,86.623,,,,,,,,,,,20108707,
+212557624,212434465,0,False,residential,Waterman Drive,345.992,,,,,,,,,,,20108707,
+212557648,212508192,0,False,primary,Arsenal Street,150.119,,,,30 mph,,,,,,,49036385,NY 3
+212557648,212473939,0,False,primary,Arsenal Street,67.304,,,,30 mph,,,,,,,49036385,NY 3
+212557648,212557624,0,False,residential,Willow Street,333.647,,,,,,,,,,,20107517,
+212561939,212482546,0,False,residential,Newell Street,69.873,,,,,,,,,,,20111647,
+212561939,212513181,0,False,residential,Howk Street,155.74,,,,,,,,,,,20107765,
+212561939,212513183,0,False,residential,"['Newell Street', 'Engine Street']",313.218,,,,,,,,,,,"[20112860, 20111647]",
+212561966,212513181,0,False,residential,Howk Street,179.501,,,,,,,,,,,20107765,
+212562903,212445198,0,False,primary,Arsenal Street,189.7,,,,30 mph,,,,,,,49036385,NY 3
+212562903,212474375,0,False,primary,Arsenal Street,83.541,,,,30 mph,,,,,,,49036385,NY 3
+212562903,212445240,0,False,unclassified,Gaffney Drive,556.013,,,,,,,,,,,"[20107835, 20107829]",
+212562959,212408615,0,False,unclassified,Gaffney Drive,82.106,,,,,,,,,,,20107835,
+212562959,212445240,0,False,unclassified,Gaffney Drive,381.25,,,,,,,,,,,20107835,
+212562959,212409547,0,False,residential,Faichney Drive,70.545,,,,,,,,,,,20111622,
+212563524,212583331,0,False,residential,Pine Street,37.001,,,,,,,,,,,20109079,
+212563524,212466619,0,False,residential,Pine Street,74.377,,,,,,,,,,,20109079,
+212563524,212473381,0,False,residential,Portage Street,394.545,,,,,,,,,,,20107858,
+212565064,212565074,0,False,residential,Wealtha Avenue,72.805,,,,,,,,,,,20107953,
+212565074,212527864,0,False,residential,Wealtha Avenue,207.498,,,,,,,,,,,20107953,
+212565074,212565064,0,False,residential,Wealtha Avenue,72.805,,,,,,,,,,,20107953,
+212565074,212535363,0,False,residential,Riva Ridge Drive South,174.997,,,,,,,,,,,20111151,
+212565808,212419388,0,False,residential,Darby Lane,62.471,,,,,,,,,,,20107997,
+212565808,212628432,0,False,residential,Hycliff Drive South,44.117,,,,,,,,,,,20112146,
+212565808,212525054,0,False,residential,"['Magrath Street', 'Hycliff Drive South']",131.764,,,,,,,,,,,"[20112146, 20104082]",
+212565817,212419388,0,False,residential,Darby Lane,38.086,,,,,,,,,,,20107997,
+212568660,212574295,0,False,residential,Orchard Street North,224.036,,,,,,,,,,,20109421,
+212568660,212590315,0,False,residential,Orchard Street South,187.914,,,,,,,,,,,20109530,
+212568660,212466645,0,False,primary,Arsenal Street,151.006,,,,30 mph,,,,,,,45206267,NY 3
+212568660,212434404,0,False,primary,Arsenal Street,151.244,,,,30 mph,,,,,,,45206267,NY 3
+212568672,212518231,0,False,primary,Arsenal Street,8.5,,,,30 mph,,,,,,,49036385,NY 3
+212568672,212584925,0,False,residential,Sand Street,275.831,,,,,,,,,,,20109619,
+212568672,212519897,0,False,primary,Arsenal Street,333.273,,,,30 mph,,,yes,,,,"[49036385, 45206267, 49036396]",NY 3
+212568679,212527812,0,False,primary,Arsenal Street,22.924,,,,30 mph,,,,,,,49036385,NY 3
+212568679,212434441,0,False,primary,Arsenal Street,194.72,,,,30 mph,,,,,,,49036385,NY 3
+212568679,212540798,0,False,residential,Dorsey Street,143.006,,,,,,,,,,,20111679,
+212568683,212494379,0,False,primary,Arsenal Street,130.738,,,,30 mph,,,,,,,49036385,NY 3
+212568683,212425823,0,False,residential,Coleman Avenue,346.991,,,,,,,,,,,20113024,
+212568683,212474375,0,False,primary,Arsenal Street,326.286,,,,30 mph,,,,,,,49036385,NY 3
+212571050,212544998,0,False,residential,Emmett Street,184.695,,,,,,,,,,,20108322,
+212571050,212473943,0,False,residential,Emmett Street,141.462,,,,,,,,,,,20108322,
+212571050,212638500,0,False,residential,Conger Avenue,140.62,,,,,,,,,,,20112577,
+212574295,212482516,0,False,residential,Prospect Street,136.686,,,,,,,,,,,20108533,
+212574295,212513169,0,False,residential,Orchard Street North,136.27,,,,,,,,,,,20109421,
+212574295,212568660,0,False,residential,Orchard Street North,224.036,,,,,,,,,,,20109421,
+212574295,212434409,0,False,residential,Prospect Street,141.457,,,,,,,,,,,20108533,
+212576979,212521496,0,False,residential,"['Whitewater Way', 'Waterman Drive']",73.93,,,,,,,,,,,"[20108704, 20103822]",
+212576979,212482540,0,False,residential,Black River Parkway,113.962,,,,,,,,,,,20108706,
+212577114,212391366,0,False,residential,Waterman Drive,22.528,,,,,,,,,,,20108707,
+212578110,212519926,0,False,unclassified,Massey Street South,160.236,,,,,,,,,,,20109443,
+212578110,212473068,0,False,unclassified,Massey Street South,114.452,,,,,,,,,,,20109443,
+212582391,212523669,0,False,residential,Lawrence Street,20.419,,,,,,,,,,,20109014,
+212582391,212520830,0,False,residential,Lawrence Street,221.734,,,,,,,,,,,20109014,
+212582391,212513204,0,False,residential,Fair Street,117.268,,,,,,,,,,,20111863,
+212583331,212563524,0,False,residential,Pine Street,37.001,,,,,,,,,,,20109079,
+212584154,212466637,0,False,residential,Cross Street,230.456,,,,,,,,,,,20109139,
+212584154,212536498,0,False,unclassified,Massey Street South,29.076,,,,,,,,,,,20109443,
+212584154,212448414,0,False,unclassified,Massey Street South,151.809,,,,,,,,,,,20109443,
+212584925,212471430,0,False,residential,Cedar Street,104.238,,,,,,,,,,,20109178,
+212584925,212518233,0,False,residential,Cedar Street,163.368,,,,,,,,,,,20109176,
+212584925,212568672,0,False,residential,Sand Street,275.831,,,,,,,,,,,20109619,
+212584932,212513187,0,False,residential,Cedar Street,143.308,,,,,,,,,,,20109178,
+212584932,212584936,0,False,residential,Cedar Street,118.508,,,,,,,,,,,20109178,
+212584932,212584936,1,False,residential,"['Cedar Avenue', 'Prospect Street West']",289.303,,,,,,,,,,,"[20112419, 20110927]",
+212584932,212518247,0,False,residential,Prospect Street West,148.556,,,,,,,,,,,20110927,
+212584936,212584942,0,False,residential,Cedar Street,68.134,,,,,,,,,,,20109178,
+212584936,212584932,0,False,residential,Cedar Street,118.508,,,,,,,,,,,20109178,
+212584936,212584932,1,False,residential,"['Cedar Avenue', 'Prospect Street West']",289.303,,,,,,,,,,,"[20112419, 20110927]",
+212584942,212471430,0,False,residential,Cedar Street,87.69,,,,,,,,,,,20109178,
+212584942,212645607,0,False,residential,Rainsford Street,77.138,,,,,,,,,,,20113060,
+212584942,212584936,0,False,residential,Cedar Street,68.134,,,,,,,,,,,20109178,
+212589318,212589321,0,False,primary,Massey Street South,148.757,4,,,,,,,,,,45759578,US 11
+212589318,212536498,0,False,unclassified,Massey Street South,113.187,,,,,,,,,,,20109443,
+212589318,212536495,0,False,primary,Holcomb Street,93.13,2,,,,,,,,,,45759577,US 11
+212589321,212590315,0,True,residential,Stone Street,140.356,,,,,,,,,,,20112266,
+212589321,212589318,0,False,primary,Massey Street South,148.757,4,,,,,,,,,,45759578,US 11
+212589321,212434404,0,False,primary,Massey Street South,217.652,4,,,,,,,,,,45759578,US 11
+212589757,212513197,0,False,residential,Hewitt,98.197,,,,,,,,,,,20109490,
+212590315,212568660,0,False,residential,Orchard Street South,187.914,,,,,,,,,,,20109530,
+212590315,212466641,0,True,residential,Stone Street,140.256,,,,,,,,,,,20112266,
+212591068,212597099,0,False,residential,Commerce Park,90.305,,,,,,,,,,,20109966,
+212593037,212474358,0,False,residential,"['Whitford Street', 'Mather Street']",295.17,,,,,,,,,,,"[20109752, 20104213]",
+212595420,212520831,0,False,residential,Earl Street,105.067,,,,,,,,,,,20109901,
+212597099,212591068,0,False,residential,Commerce Park,90.305,,,,,,,,,,,20109966,
+212623391,212540798,0,False,residential,Dorsey Street,202.488,,,,,,,,,,,20111679,
+212628432,212565808,0,False,residential,Hycliff Drive South,44.117,,,,,,,,,,,20112146,
+212628432,212488208,0,False,residential,Hycliff Drive South,45.504,,,,,,,,,,,20112146,
+212628432,212419391,0,False,residential,Hayes Court,63.858,,,,,,,,,,,20111988,
+212628439,212419391,0,False,residential,Hayes Court,35.476,,,,,,,,,,,20111988,
+212637032,212520578,0,False,primary,Holcomb Street,143.157,2,,,,,,,,,,45759577,US 11
+212637032,212448416,0,False,residential,Mullin Street,179.117,,,,,,,,,,,20112509,
+212637032,212536495,0,False,primary,Holcomb Street,137.598,2,,,,,,,,,,45759577,US 11
+212638500,212571050,0,False,residential,Conger Avenue,140.62,,,,,,,,,,,20112577,
+212645607,212584942,0,False,residential,Rainsford Street,77.138,,,,,,,,,,,20113060,
+444217515,212422279,0,False,unclassified,South Massey Street,246.069,,,,,,,,,,,20101012,

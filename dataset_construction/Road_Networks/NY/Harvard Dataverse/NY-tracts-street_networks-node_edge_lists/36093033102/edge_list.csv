@@ -1,0 +1,834 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+41974570,41974583,0,False,residential,School Drive,131.206,,,,,,,,,,,5642044,
+41974583,41974644,0,False,secondary,Main Street,157.37,,,,,,,,,,,5646641,NY 395
+41974583,41974570,0,False,residential,School Drive,131.206,,,,,,,,,,,5642044,
+41974583,41977904,0,False,secondary,Main Street,335.918,,,,,,,,,,,5646641,NY 395
+41974644,42030033,0,False,secondary,Main Street,86.397,,,,,,,,,,,5646641,NY 395
+41974644,41974583,0,False,secondary,Main Street,157.37,,,,,,,,,,,5646641,NY 395
+41974644,42018759,0,False,residential,"['School Drive', 'Alexander Road']",2779.993,,,,,,,,,,,"[5642050, 5645735]",
+41975115,41975146,0,False,residential,,648.997,,,,,,,,,,,5642083,
+41975146,41975115,0,False,residential,,648.997,,,,,,,,,,,5642083,
+41975146,42000514,0,False,tertiary,Batter Street,104.57,,,,,,,,,,,5646562,CR 94
+41975146,42028775,0,False,tertiary,Batter Street,213.093,,,,,,,,,,,5646562,CR 94
+41976825,41976829,0,False,residential,,51.107,,,,,,,,,,,5642203,
+41976825,42050527,0,False,tertiary,Chadwick Road,94.137,,,,35 mph,,,,,,,38522075,CR 131
+41976825,42022228,0,False,tertiary,Chadwick Road,594.306,,,,35 mph,,,yes,,,,"[200238187, 38522074, 38522075]",CR 131
+41976829,41976825,0,False,residential,,51.107,,,,,,,,,,,5642203,
+41976829,4197664484,0,False,residential,,48.808,,,,,,,,,,,5642833,
+41976829,4197674804,0,False,residential,,13.335,,,,,,,,,,,419764276,
+41977670,41977671,0,False,residential,,194.072,,,,,,,,,,,5642268,
+41977670,42019343,0,False,tertiary,Skyline Drive,698.746,,,,,,,,,,,232581650,CR 86
+41977670,42019315,0,False,tertiary,Skyline Drive,185.808,,,,,,,,,,,232581650,CR 86
+41977671,41977670,0,False,residential,,194.072,,,,,,,,,,,5642268,
+41977715,41977722,0,False,residential,,229.226,,,,,,,,,,,5642273,
+41977715,42026378,0,False,tertiary,Scotch Ridge Road,746.473,,,,,,,,,,,5649052,CR 70
+41977715,42057493,0,False,tertiary,Scotch Ridge Road,774.003,,,,,,,,,,,5649052,CR 70
+41977722,41977715,0,False,residential,,229.226,,,,,,,,,,,5642273,
+41977837,41977838,0,False,residential,,111.52,,,,,,,,,,,5642282,
+41977837,42026378,0,False,residential,Depot Road,484.698,,,,,,,,,,,93405268,
+41977837,42025281,0,False,residential,Depot Road,855.364,,,,,,,,,,,93405268,
+41977838,41977837,0,False,residential,,111.52,,,,,,,,,,,5642282,
+41977904,41977906,0,False,residential,,31.847,,,,,,,,,,,5642292,
+41977904,42008421,0,False,secondary,Main Street,79.898,,,,,,,,,,,5646641,NY 395
+41977904,41974583,0,False,secondary,Main Street,335.918,,,,,,,,,,,5646641,NY 395
+41977906,41977904,0,False,residential,,31.847,,,,,,,,,,,5642292,
+41978107,41978119,0,False,residential,,124.585,,,,,,,,,,,5642309,
+41978107,42057435,0,False,tertiary,Cole Road,1173.46,,,,,,,,,,,5648436,CR 84
+41978107,42030040,0,False,tertiary,Cole Road,1065.092,,,,,,,,,,,5648436,CR 84
+41978119,41978107,0,False,residential,,124.585,,,,,,,,,,,5642309,
+41978982,41978983,0,False,residential,,53.872,,,,,,,,,,,5642373,
+41978982,42026249,0,False,residential,Depot Road,59.528,,,,,,,,,,,5646347,
+41978982,42026257,0,False,residential,Depot Road,71.869,,,,,,,,,,,5646347,
+41978983,41978982,0,False,residential,,53.872,,,,,,,,,,,5642373,
+41978983,42026249,0,False,residential,Van Patten Road,97.175,,,,,,,,,,,5649203,
+41978983,42072269,0,False,residential,Van Patten Road,1450.038,,,,,,,,,,,5649203,
+41979129,3017912626,0,False,primary,,24.796,,,,,,,,,,,38522063,
+41979129,3017912632,0,False,primary,,19.437,,,,,,,,,,,38522063,
+41979129,41979125,0,True,motorway_link,,600.183,,,,,,,,,,,5642398,
+41979159,3017912629,0,True,motorway_link,,382.452,,,,50 mph,,,,,,,38522061,
+41979159,41979125,0,True,motorway,,995.229,"['2', '3']",,,65 mph,,,,,,,"[128246922, 38522067]",I 88
+41979517,41979563,0,False,residential,,129.878,,,,,,,,,,,5642425,
+41979517,41979563,1,False,secondary,Duanesburg Quaker Street Road,82.824,,,,55 mph,,,,,,,53290586,NY 7
+41979517,42057435,0,False,secondary,Duanesburg Quaker Street Road,71.135,,,,55 mph,,,,,,,53290586,NY 7
+41979563,41979570,0,False,residential,,48.713,,,,,,,,,,,5642425,
+41979563,42049936,0,False,secondary,Duanesburg Quaker Street Road,78.181,,,,55 mph,,,,,,,53290586,NY 7
+41979563,41979517,0,False,residential,,129.878,,,,,,,,,,,5642425,
+41979563,41979517,1,False,secondary,Duanesburg Quaker Street Road,82.824,,,,55 mph,,,,,,,53290586,NY 7
+41979570,41979563,0,False,residential,,48.713,,,,,,,,,,,5642425,
+41979729,41987048,0,False,tertiary,Mc Guire School Road,98.224,,,,,,,,,,,5649120,CR 141
+41979729,41979744,0,False,residential,,234.123,,,,,,,,,,,5642441,
+41979729,41979754,0,False,tertiary,Mc Guire School Road,136.917,,,,,,,,,,,5649120,CR 141
+41979744,41979729,0,False,residential,,234.123,,,,,,,,,,,5642441,
+41979754,41979775,0,False,residential,,195.911,,,,,,,,,,,5642445,
+41979754,41979729,0,False,tertiary,Mc Guire School Road,136.917,,,,,,,,,,,5649120,CR 141
+41979754,42049128,0,False,tertiary,Mc Guire School Road,312.179,,,,,,,,,,,5649120,CR 141
+41979775,41979754,0,False,residential,,195.911,,,,,,,,,,,5642445,
+41979782,42002676,0,False,tertiary,Herrick Road,134.949,,,,55 mph,,,,,,,5644405,CR 143
+41979782,42002698,0,False,tertiary,Herrick Road,1188.708,,,,55 mph,,,,,,,5644405,CR 143
+41979782,42046565,0,False,residential,Finch Road,385.938,,,,,,,,,,,5647897,
+41980257,41980260,0,False,residential,,137.431,,,,,,,,,,,5642489,
+41980257,42000503,0,False,secondary,Mariaville Road,1181.873,,,,"['40 mph', '55 mph']",,,,,,,"[200216106, 414888430]",NY 159
+41980260,41980257,0,False,residential,,137.431,,,,,,,,,,,5642489,
+41980268,41980273,0,False,residential,,121.738,,,,,,,,,,,5642491,
+41980268,42035120,0,False,residential,Hillside Road,380.187,,,,,,,,,,,5647157,
+41980268,42035124,0,False,residential,Hillside Road,152.675,,,,,,,,,,,5647159,
+41980273,41980268,0,False,residential,,121.738,,,,,,,,,,,5642491,
+41980317,3017913540,0,False,secondary,,151.951,,,,,,,,,,,5642499,
+41980317,42060961,0,False,secondary,"['Duanesburg Road', 'Schenectady Duanesburg Road']",830.249,,,,55 mph,,,,,,,"[155529484, 5648597]",NY 7
+41980317,42010499,0,False,secondary,Schenectady Duanesburg Road,1118.87,,,,"['35 mph', '55 mph']",,,,,,,"[5648792, 155529484]",NY 7
+41980322,3017913533,0,False,primary,,9.301,,,,,,,,,,,120704027,
+41980322,3017913540,0,False,secondary,,25.872,,,,,,,,,,,5642499,
+41980322,41986945,0,True,motorway_link,,406.989,,,,30 mph,,,,,,,5643069,
+41980334,3017912626,0,False,primary,,106.857,,,,,,,,,,,38522063,
+41980334,42049288,0,False,primary,Western Turnpike,204.403,2,,,55 mph,,,,,,,38522065,US 20
+41980334,444153459,0,False,primary,Western Turnpike,300.67,2,,,55 mph,,,,,,,120704026,US 20
+41980953,42035120,0,False,residential,Hilltop Road,163.718,,,,,,,,,,,5648153,
+41980953,2256924345,0,False,secondary,Mariaville Road,13.0,,,,40 mph,,,,,,,200216106,NY 159
+41980953,42028927,0,False,secondary,Mariaville Road,924.251,,,,40 mph,,,,,,,200216106,NY 159
+41980965,2256924345,0,False,residential,,108.093,,,,,,,,,,,5642545,
+41981963,42015681,0,False,residential,Mill Road,26.337,,,,,,,,,,,5645461,
+41981963,41986763,0,False,residential,,85.461,,,,,,,,,,,5643059,
+41981963,42015701,0,False,residential,Mill Road,130.078,,,,,,,,,,,5645461,
+41982290,41982296,0,False,residential,,275.979,,,,,,,,,,,5642644,
+41982290,42019503,0,False,tertiary,Skyline Drive,341.431,,,,,,,,,,,232581650,CR 86
+41982296,41982290,0,False,residential,,275.979,,,,,,,,,,,5642644,
+41984151,4197664484,0,False,residential,,66.453,,,,,,,,,,,5642833,
+41985718,41985720,0,False,residential,,277.027,,,,,,,,,,,5642963,
+41985718,42008272,0,False,residential,Turnbull Road,429.987,,,,,,,,,,,5648475,
+41985718,41988679,0,False,residential,Turnbull Road,1819.733,,,,,,,,,,,5648475,
+41985720,41985718,0,False,residential,,277.027,,,,,,,,,,,5642963,
+41985861,41985863,0,False,residential,,111.445,,,,,,,,,,,5642975,
+41985861,42054891,0,False,tertiary,Dennison Road,346.903,,,,,,,,,,,5649560,CR 96
+41985861,42052122,0,False,tertiary,Dennison Road,684.198,,,,,,,,,,,5649560,CR 96
+41985863,41985861,0,False,residential,,111.445,,,,,,,,,,,5642975,
+41985930,42024154,0,False,residential,Hardin Road,1263.393,,,,,,,,,,,5649262,
+41986102,41986106,0,False,residential,,43.167,,,,,,,,,,,5642997,
+41986106,41986102,0,False,residential,,43.167,,,,,,,,,,,5642997,
+41986106,42064780,0,False,residential,"['Coons Road', 'Koons Road']",657.006,,,,,,,,,,,"[5648809, 5647245]",
+41986106,42054847,0,False,residential,Esperance Station Road,467.707,,,,,,,,,,,5648304,
+41986106,42054811,0,False,residential,Esperance Station Road,391.175,,,,,,,,,,,5648304,
+41986750,41986753,0,False,residential,,102.205,,,,,,,,,,,5643055,
+41986750,42049119,0,False,residential,Turnbull Road,158.47,,,,,,,,,,,5648475,
+41986750,41988679,0,False,residential,Turnbull Road,175.05,,,,,,,,,,,5648475,
+41986753,41986750,0,False,residential,,102.205,,,,,,,,,,,5643055,
+41986763,41981963,0,False,residential,,85.461,,,,,,,,,,,5643059,
+41986779,41986782,0,False,residential,,259.477,,,,,,,,,,,5643060,
+41986779,42003905,0,False,secondary,Mariaville Road,754.321,,,,40 mph,,,,,,,200216106,NY 159
+41986779,691616000,0,False,secondary,Mariaville Road,479.106,,,,40 mph,,,,,,,200216106,NY 159
+41986782,41986779,0,False,residential,,259.477,,,,,,,,,,,5643060,
+41986782,41986791,0,False,residential,,79.039,,,,,,,,,,,5643060,
+41986782,41988047,0,False,residential,,194.904,,,,,,,,,,,5643189,
+41986791,41986782,0,False,residential,,79.039,,,,,,,,,,,5643060,
+41986953,3017913536,0,True,motorway_link,,389.315,,,,30 mph,,,,,,,38522060,
+41986953,41986945,0,True,motorway,,817.891,3,,,65 mph,,,,,,,189259454,I 88
+41987034,41987041,0,False,residential,,124.632,,,,,,,,,,,5643078,
+41987034,42014202,0,False,tertiary,Mc Guire School Road,269.364,,,,,,,,,,,5649120,CR 141
+41987034,41987048,0,False,tertiary,Mc Guire School Road,55.457,,,,,,,,,,,5649120,CR 141
+41987041,41987034,0,False,residential,,124.632,,,,,,,,,,,5643078,
+41987048,41987050,0,False,residential,,68.344,,,,,,,,,,,5643079,
+41987048,41979729,0,False,tertiary,Mc Guire School Road,98.224,,,,,,,,,,,5649120,CR 141
+41987048,41987034,0,False,tertiary,Mc Guire School Road,55.457,,,,,,,,,,,5649120,CR 141
+41987050,41987048,0,False,residential,,68.344,,,,,,,,,,,5643079,
+41987711,42070981,0,False,residential,North Knight Road,1396.509,,,,,,,,,,,"[5649136, 5643147]",
+41988047,41986782,0,False,residential,,194.904,,,,,,,,,,,5643189,
+41988679,41988681,0,False,residential,,102.734,,,,,,,,,,,5643266,
+41988679,41986750,0,False,residential,Turnbull Road,175.05,,,,,,,,,,,5648475,
+41988679,41985718,0,False,residential,Turnbull Road,1819.733,,,,,,,,,,,5648475,
+41988681,41988679,0,False,residential,,102.734,,,,,,,,,,,5643266,
+41988708,41988710,0,False,residential,,122.121,,,,,,,,,,,5643270,
+41988708,42023985,0,False,tertiary,Scotch Ridge Road,838.147,,,,,,,,,,,5649052,CR 70
+41988708,42026378,0,False,tertiary,Scotch Ridge Road,1062.36,,,,,,,,,,,5649052,CR 70
+41988710,41988708,0,False,residential,,122.121,,,,,,,,,,,5643270,
+41989651,41989722,0,False,residential,Fiddler Road,414.242,,,,,,,,,,,5643357,
+41989651,42008604,0,False,tertiary,Weaver Road,486.484,,,,40 mph,,,,,,,5644880,CR 125
+41989651,42008499,0,False,tertiary,Weaver Road,1143.779,,,,40 mph,,,,,,,5644880,CR 125
+41989722,41989651,0,False,residential,Fiddler Road,414.242,,,,,,,,,,,5643357,
+41989816,41989933,0,False,residential,Brown Road,1451.692,,,,,,,,,,,5643383,
+41989933,41989816,0,False,residential,Brown Road,1451.692,,,,,,,,,,,5643383,
+41989933,41998275,0,False,tertiary,Oak Hill Road,1052.879,,,,,,,,,,,5644039,CR 155
+41989933,42003339,0,False,secondary,Esperance-Schoharie Co Line Road,1994.141,,,,,,,,,,,5644459,NY 30
+41989933,42054811,0,False,secondary,"['Esperance-Esperance Station Road', 'Esperance-Schoharie Co Line Road']",220.673,,,,,,,,,,,"[5644459, 5649029]",NY 30
+41990915,41990918,0,False,residential,Railroad Avenue,128.854,,,,,,,,,,,5643483,
+41990915,42008421,0,False,secondary,Main Street,133.274,,,,,,,,,,,5646641,NY 395
+41990915,42029938,0,False,secondary,Main Street,190.377,,,,,,,yes,,,,"[47468160, 5646641, 5646637]",NY 395
+41990918,42035761,0,False,residential,Rose Street,82.22,,,,,,,,,,,5647237,
+41990918,41990928,0,False,residential,Railroad Avenue,108.831,,,,,,,,,,,5643483,
+41990918,41990915,0,False,residential,Railroad Avenue,128.854,,,,,,,,,,,5643483,
+41990928,41990918,0,False,residential,Railroad Avenue,108.831,,,,,,,,,,,5643483,
+41993321,41993387,0,False,residential,East Hardin Road,500.147,,,,,,,,,,,5643678,
+41993321,42005229,0,False,tertiary,Lake Road,2698.63,,,,,,,,,,,"[432971136, 432971137, 414886310]",
+41993321,42005092,0,False,tertiary,Lake Road,1275.501,,,,,,,,,,,"[432971137, 432971135]",
+41993387,41993321,0,False,residential,East Hardin Road,500.147,,,,,,,,,,,5643678,
+41993475,41993532,0,False,tertiary,Eatons Corners Road,2425.619,,,,,,,,,,,5643691,CR 147
+41993475,42021888,0,False,secondary,State Highway 30,2978.287,,,,,,,,,,,5648428,NY 30
+41993475,42056965,0,False,secondary,State Highway 30,488.479,,,,,,,,,,,5648428,NY 30
+41993475,42007053,0,False,tertiary,Mc Guire School Road,249.978,,,,,,,,,,,5649120,CR 141
+41993532,41993542,0,False,tertiary,Eatons Corners Road,271.324,,,,,,,,,,,5643691,CR 147
+41993532,41993475,0,False,tertiary,Eatons Corners Road,2425.619,,,,,,,,,,,5643691,CR 147
+41993532,42008938,0,False,residential,Clines Drive,501.146,,,,,,,,,,,5647865,
+41993542,42059964,0,False,residential,Mill Point Road,16.002,,,,,,,,,,,5649211,
+41993542,41993532,0,False,tertiary,Eatons Corners Road,271.324,,,,,,,,,,,5643691,CR 147
+41993542,42021874,0,False,tertiary,Braman Corners Road,2164.208,,,,,,,,,,,5647229,CR 102
+41993851,41993854,0,False,residential,Albert Road,297.701,,,,,,,,,,,5643727,
+41993851,42049119,0,False,primary,Western Turnpike,632.733,2,,,55 mph,,,,,,,85380212,US 20
+41993851,42043358,0,False,primary,Western Turnpike,523.534,2,,,55 mph,,,,,,,85380212,US 20
+41993854,41993851,0,False,residential,Albert Road,297.701,,,,,,,,,,,5643727,
+41995161,41995234,0,False,residential,Marantha Way,250.594,,,,,,,,,,,5643837,
+41995161,41995161,0,False,residential,Marantha Way,188.238,,,,,,,,,,,5643836,
+41995161,41995161,1,False,residential,Marantha Way,188.238,,,,,,,,,,,5643836,
+41995234,41995161,0,False,residential,Marantha Way,250.594,,,,,,,,,,,5643837,
+41995234,42031584,0,False,tertiary,Youngs Road,526.781,,,,,,,,,,,5648135,CR 153
+41995234,42021228,0,False,tertiary,Youngs Road,1037.091,,,,,,,,,,,5648135,CR 153
+41998224,3177916678,0,False,secondary,State Highway 30,44.593,,,,,,,,,,,20166478,NY 30
+41998224,41998275,0,False,tertiary,Oak Hill Road,2212.087,,,,,,,,,,,5644039,CR 155
+41998224,42003339,0,False,secondary,Esperance-Schoharie Co Line Road,669.242,,,,,,,,,,,5644459,NY 30
+41998275,41989933,0,False,tertiary,Oak Hill Road,1052.879,,,,,,,,,,,5644039,CR 155
+41998275,41998224,0,False,tertiary,Oak Hill Road,2212.087,,,,,,,,,,,5644039,CR 155
+41998275,42031584,0,False,residential,Schoonmaker Road,1827.981,,,,,,,,,,,5646815,
+41999410,42008412,0,False,residential,Newton Street,39.745,,,,,,,,,,,5649128,
+41999410,41999419,0,False,residential,Charles Street,151.799,,,,,,,,,,,5644125,
+41999410,42070824,0,False,residential,Newton Street,101.11,,,,,,,,,,,5649128,
+41999419,41999410,0,False,residential,Charles Street,151.799,,,,,,,,,,,5644125,
+41999643,2408408667,0,False,tertiary,Creek Road,1250.154,,,,,,,,,,,5644146,CR 106
+41999643,42055745,0,False,residential,Annies Alley,385.758,,,,,,,,,,,5648352,
+41999768,42036627,0,False,tertiary,Millers Corners Road,27.374,,,,,,,,,,,5644153,CR 145
+41999768,42035657,0,False,tertiary,Braman Corners Road,65.869,,,,,,,,,,,5647229,CR 102
+41999768,42021874,0,False,tertiary,Braman Corners Road,164.009,,,,,,,,,,,5647229,CR 102
+42000310,42000679,0,False,residential,"['Lawson Road', 'Hartman Road']",1815.978,,,,,,,,,,,"[5644409, 5644212]",
+42000310,42014591,0,False,tertiary,Levey Road,1284.296,,,,,,,,,,,5647074,CR 129
+42000310,42054913,0,False,residential,Fitzdom Road,1361.239,,,,,,,,,,,5649582,
+42000476,42000500,0,False,residential,South Shore Road,1054.636,,,,,,,,,,,5644242,
+42000476,42000476,0,False,residential,South Shore Road,85.469,,,,,,,,,,,5644247,
+42000476,42000476,1,False,residential,South Shore Road,85.469,,,,,,,,,,,5644247,
+42000500,42000503,0,False,residential,South Shore Road,275.971,,,,,,,,,,,5644242,
+42000500,42000476,0,False,residential,South Shore Road,1054.636,,,,,,,,,,,5644242,
+42000500,42006412,0,False,residential,Lake Avenue,289.063,,,,,,,,,,,5646443,
+42000503,42000500,0,False,residential,South Shore Road,275.971,,,,,,,,,,,5644242,
+42000503,42006412,0,False,secondary,Mariaville Road,29.42,,,,40 mph,,,,,,,200216106,NY 159
+42000503,41980257,0,False,secondary,Mariaville Road,1181.873,,,,"['40 mph', '55 mph']",,,,,,,"[200216106, 414888430]",NY 159
+42000507,42000514,0,False,residential,South Shore Road,408.295,,,,,,,,,,,5644244,
+42000507,42000507,0,False,residential,South Shore Road,106.31,,,,,,,,,,,5644246,
+42000507,42000507,1,False,residential,South Shore Road,106.31,,,,,,,,,,,5644246,
+42000514,42000507,0,False,residential,South Shore Road,408.295,,,,,,,,,,,5644244,
+42000514,42028927,0,False,tertiary,Batter Street,802.944,,,,,,,,,,,5646562,CR 94
+42000514,41975146,0,False,tertiary,Batter Street,104.57,,,,,,,,,,,5646562,CR 94
+42000679,42014567,0,False,residential,"['North Scotch Bush Road', 'Scotch Bush Road']",1696.833,,,,,,,,,,,"[5644252, 5646047]",
+42000679,42000310,0,False,residential,"['Lawson Road', 'Hartman Road']",1815.978,,,,,,,,,,,"[5644409, 5644212]",
+42001399,42001415,0,False,residential,Overlook Heights Road,253.058,,,,,,,,,,,5644312,
+42001399,42030124,0,False,primary,Western Turnpike,172.44,2,,,55 mph,,,,,,,85380212,US 20
+42001399,42007367,0,False,primary,Western Turnpike,280.699,2,,,55 mph,,,,,,,85380212,US 20
+42001415,42001415,0,False,residential,Overlook Heights Road,112.544,,,,,,,,,,,5644312,
+42001415,42001415,1,False,residential,Overlook Heights Road,112.544,,,,,,,,,,,5644312,
+42001415,42001399,0,False,residential,Overlook Heights Road,253.058,,,,,,,,,,,5644312,
+42002443,42002447,0,False,residential,Mc Millan Road,707.088,,,,,,,,,,,5644392,
+42002443,42023931,0,False,secondary,State Highway 30,1070.629,,,,,,,,,,,5648428,NY 30
+42002443,42057086,0,False,secondary,State Highway 30,663.902,,,,,,,,,,,5648428,NY 30
+42002447,42002443,0,False,residential,Mc Millan Road,707.088,,,,,,,,,,,5644392,
+42002631,42019136,0,False,unclassified,Skyline Drive,399.671,,,,,,,,,,,5645819,
+42002631,42002642,0,False,tertiary,Herrick Road,405.881,,,,55 mph,,,,,,,5644405,CR 143
+42002631,42019165,0,False,tertiary,Skyline Drive,823.299,,,,,,,,,,,232581650,CR 86
+42002642,42002676,0,False,tertiary,Herrick Road,1116.716,,,,55 mph,,,,,,,5644405,CR 143
+42002642,42002631,0,False,tertiary,Herrick Road,405.881,,,,55 mph,,,,,,,5644405,CR 143
+42002642,42062496,0,False,residential,Courtney Drive,160.941,,,,,,,,,,,5648687,
+42002676,41979782,0,False,tertiary,Herrick Road,134.949,,,,55 mph,,,,,,,5644405,CR 143
+42002676,42002642,0,False,tertiary,Herrick Road,1116.716,,,,55 mph,,,,,,,5644405,CR 143
+42002676,42051541,0,False,residential,Gordinier Road,666.382,,,,,,,,,,,5648150,
+42002698,41979782,0,False,tertiary,Herrick Road,1188.708,,,,55 mph,,,,,,,5644405,CR 143
+42002698,42057086,0,False,secondary,State Highway 30,336.1,,,,,,,,,,,5648428,NY 30
+42002698,42035657,0,False,secondary,State Highway 30,294.445,,,,,,,,,,,5648428,NY 30
+42003339,41998224,0,False,secondary,Esperance-Schoharie Co Line Road,669.242,,,,,,,,,,,5644459,NY 30
+42003339,41989933,0,False,secondary,Esperance-Schoharie Co Line Road,1994.141,,,,,,,,,,,5644459,NY 30
+42003339,42016656,0,False,residential,Upper Brown Road,1179.759,,,,,,,,,,,5645535,
+42003886,42033029,0,False,residential,Frosty Acres Drive,282.272,,,,,,,,,,,5649422,
+42003894,42003990,0,False,secondary,Mariaville-Montgomery Co Line Road,53.206,,,,,,,,,,,5644498,
+42003894,42057143,0,False,secondary,State Highway 30,104.468,,,,,,,,,,,5648428,NY 30
+42003894,42023931,0,False,secondary,State Highway 30,979.578,,,,,,,,,,,5648428,NY 30
+42003905,42003918,0,False,secondary,Mariaville-Montgomery Co Line Road,1802.163,,,,,,,,,,,5644507,
+42003905,42014591,0,False,tertiary,Levey Road,1187.813,,,,,,,,,,,5647074,CR 129
+42003905,41986779,0,False,secondary,Mariaville Road,754.321,,,,40 mph,,,,,,,200216106,NY 159
+42003918,42003921,0,False,secondary,Mariaville-Montgomery Co Line Road,26.655,,,,,,,,,,,5644507,
+42003918,42014461,0,False,residential,Scotch Bush Road,23.061,,,,,,,,,,,5646048,
+42003918,42003905,0,False,secondary,Mariaville-Montgomery Co Line Road,1802.163,,,,,,,,,,,5644507,
+42003921,42003918,0,False,secondary,Mariaville-Montgomery Co Line Road,26.655,,,,,,,,,,,5644507,
+42003921,42014461,0,False,residential,Wells Road,30.234,,,,,,,,,,,5645376,
+42003921,42003987,0,False,secondary,Mariaville-Montgomery Co Line Road,1559.421,,,,,,,,,,,5644507,
+42003921,42028638,0,False,residential,North Road,1226.963,,,,,,,,,,,5649159,
+42003987,42003990,0,False,secondary,Mariaville-Montgomery Co Line Road,324.939,,,,,,,,,,,5644507,
+42003987,42003921,0,False,secondary,Mariaville-Montgomery Co Line Road,1559.421,,,,,,,,,,,5644507,
+42003990,42003894,0,False,secondary,Mariaville-Montgomery Co Line Road,53.206,,,,,,,,,,,5644498,
+42003990,42003987,0,False,secondary,Mariaville-Montgomery Co Line Road,324.939,,,,,,,,,,,5644507,
+42003990,42057143,0,False,secondary,Mariaville Road,97.353,,,,,,,,,,,5648529,
+42004114,42004221,0,False,tertiary,Suits Road,2749.01,,,,55 mph,,,,,,,5644532,CR 64
+42004114,42049324,0,False,tertiary,Mott Road,996.774,,,,55 mph,,,,,,,5649266,CR 76
+42004221,42004114,0,False,tertiary,Suits Road,2749.01,,,,55 mph,,,,,,,5644532,CR 64
+42004221,42049324,0,False,primary,Western Turnpike,2600.458,2,,,55 mph,,,,,,,120704026,US 20
+42004221,42015288,0,False,primary,Western Turnpike,563.978,2,,,55 mph,,,,,,,120704026,US 20
+42005092,4281392584,0,False,tertiary,Lake Road,1021.499,,,,,,,,,,,414888429,
+42005092,42033029,0,False,residential,Tidball Road,1000.03,,,,,,,,,,,429009384,
+42005092,41993321,0,False,tertiary,Lake Road,1275.501,,,,,,,,,,,"[432971137, 432971135]",
+42005229,42024135,0,False,tertiary,Duanesburg Churches Road,612.96,,,,,,,,,,,5646207,CR 127
+42005229,42024154,0,False,tertiary,Duanesburg Churches Road,1012.524,,,,,,,,,,,414886308,CR 127
+42005229,41993321,0,False,tertiary,Lake Road,2698.63,,,,,,,,,,,"[432971136, 432971137, 414886310]",
+42005933,42005990,0,False,tertiary,Skyline Drive,589.439,,,,,,,,,,,232581650,CR 86
+42005933,42005990,1,False,residential,Old Dare Road,741.005,,,,,,,,,,,5644664,
+42005933,42019308,0,False,tertiary,Skyline Drive,271.316,,,,,,,,,,,232581650,CR 86
+42005990,42005933,0,False,tertiary,Skyline Drive,589.439,,,,,,,,,,,232581650,CR 86
+42005990,42005933,1,False,residential,Old Dare Road,741.005,,,,,,,,,,,5644664,
+42005990,42019255,0,False,tertiary,Skyline Drive,362.549,,,,,,,,,,,232581650,CR 86
+42006404,42006412,0,False,residential,Spring Road,500.902,,,,,,,,,,,5644716,
+42006412,42000503,0,False,secondary,Mariaville Road,29.42,,,,40 mph,,,,,,,200216106,NY 159
+42006412,42006404,0,False,residential,Spring Road,500.902,,,,,,,,,,,5644716,
+42006412,42000500,0,False,residential,Lake Avenue,289.063,,,,,,,,,,,5646443,
+42006412,42039594,0,False,secondary,Mariaville Road,355.297,,,,40 mph,,,,,,,200216106,NY 159
+42007053,42007059,0,False,residential,Dare Road,536.007,,,,,,,,,,,5644762,
+42007053,41993475,0,False,tertiary,Mc Guire School Road,249.978,,,,,,,,,,,5649120,CR 141
+42007053,42060499,0,False,tertiary,Mc Guire School Road,194.776,,,,,,,,,,,5649120,CR 141
+42007059,42007053,0,False,residential,Dare Road,536.007,,,,,,,,,,,5644762,
+42007367,42049128,0,False,primary,Western Turnpike,760.858,2,,,55 mph,,,,,,,85380212,US 20
+42007367,42007426,0,False,tertiary,Knight Road,1823.074,,,,,,,,,,,5644793,CR 139
+42007367,42001399,0,False,primary,Western Turnpike,280.699,2,,,55 mph,,,,,,,85380212,US 20
+42007426,42007367,0,False,tertiary,Knight Road,1823.074,,,,,,,,,,,5644793,CR 139
+42007426,42019255,0,False,tertiary,Skyline Drive,658.72,,,,,,,,,,,232581650,CR 86
+42007426,42019165,0,False,tertiary,Skyline Drive,1044.085,,,,,,,,,,,232581650,CR 86
+42007426,42007462,0,False,unclassified,Knight Road,959.401,,,,,,,,,,,232581651,
+42007462,42007426,0,False,unclassified,Knight Road,959.401,,,,,,,,,,,232581651,
+42008210,42008254,0,False,residential,Thousand Acre Road,1987.361,,,,,,,,,,,5644865,
+42008210,42051389,0,False,tertiary,Youngs Road,1794.871,,,,,,,,,,,5648135,CR 153
+42008210,42031584,0,False,tertiary,Youngs Road,163.093,,,,,,,,,,,5648135,CR 153
+42008254,42008272,0,False,residential,Thousand Acre Road,1252.165,,,,,,,,,,,5644865,
+42008254,42008210,0,False,residential,Thousand Acre Road,1987.361,,,,,,,,,,,5644865,
+42008254,42043358,0,False,residential,Gage Road,2715.468,,,,,,,,,,,5647798,
+42008254,42043288,0,False,residential,Gage Road,1049.519,,,,,,,,,,,5647798,
+42008272,41985718,0,False,residential,Turnbull Road,429.987,,,,,,,,,,,5648475,
+42008272,42008412,0,False,residential,Thousand Acre Road,1454.278,,,,,,,,,,,5644865,
+42008272,42008254,0,False,residential,Thousand Acre Road,1252.165,,,,,,,,,,,5644865,
+42008412,42008418,0,False,residential,Thousand Acre Road,92.093,,,,,,,,,,,5644865,
+42008412,41999410,0,False,residential,Newton Street,39.745,,,,,,,,,,,5649128,
+42008412,42008272,0,False,residential,Thousand Acre Road,1454.278,,,,,,,,,,,5644865,
+42008418,42008421,0,False,residential,Thousand Acre Road,41.561,,,,,,,,,,,5644865,
+42008418,42008412,0,False,residential,Thousand Acre Road,92.093,,,,,,,,,,,5644865,
+42008418,42079801,0,False,residential,Elm Street,127.221,,,,,,,,,,,5649613,
+42008421,42008418,0,False,residential,Thousand Acre Road,41.561,,,,,,,,,,,5644865,
+42008421,41977904,0,False,secondary,Main Street,79.898,,,,,,,,,,,5646641,NY 395
+42008421,41990915,0,False,secondary,Main Street,133.274,,,,,,,,,,,5646641,NY 395
+42008499,41989651,0,False,tertiary,Weaver Road,1143.779,,,,40 mph,,,,,,,5644880,CR 125
+42008499,42022247,0,False,tertiary,Schoharie Turnpike,485.086,,,,55 mph,,,,,,,38522077,CR 74
+42008499,42022356,0,False,tertiary,Schoharie Turnpike,1923.726,,,,55 mph,,,,,,,"[414882574, 414886303]",CR 74
+42008604,41989651,0,False,tertiary,Weaver Road,486.484,,,,40 mph,,,,,,,5644880,CR 125
+42008604,42057435,0,False,secondary,Duanesburg Road,1167.058,,,,55 mph,,,,,,,5648603,NY 7
+42008604,3707355806,0,False,secondary,Duanesburg Road,1300.325,,,,"['35 mph', '55 mph']",,,yes,,,,"[93405258, 415943795, 53290588, 93405254]",NY 7
+42008938,42008943,0,False,residential,Fobes Drive,170.908,,,,,,,,,,,5644908,
+42008938,41993532,0,False,residential,Clines Drive,501.146,,,,,,,,,,,5647865,
+42008938,42045526,0,False,residential,Clines Drive,1011.033,,,,,,,,,,,5647865,
+42008943,42008938,0,False,residential,Fobes Drive,170.908,,,,,,,,,,,5644908,
+42009007,42049936,0,False,residential,Largeteau Road,179.918,,,,,,,,,,,5648059,
+42010499,42010501,0,False,residential,North Avenue,202.199,,,,30 mph,,,,,,,5645032,
+42010499,42027140,0,False,secondary,Duanesburg Road,111.741,,,,35 mph,,,,,,,414886304,NY 7
+42010499,41980317,0,False,secondary,Schenectady Duanesburg Road,1118.87,,,,"['35 mph', '55 mph']",,,,,,,"[5648792, 155529484]",NY 7
+42010501,42010499,0,False,residential,North Avenue,202.199,,,,30 mph,,,,,,,5645032,
+42010501,42027143,0,False,primary,Western Turnpike,118.787,2,,,35 mph,,,,,,,414886307,US 20
+42010501,42032332,0,False,primary,Western Turnpike,256.165,2,,,"['35 mph', '55 mph']",,,,,,,"[53291299, 414886307]",US 20
+42014202,42014240,0,False,residential,Garnsey Road,658.05,,,,,,,,,,,5645338,
+42014202,42060499,0,False,tertiary,Mc Guire School Road,2531.028,,,,,,,,,,,5649120,CR 141
+42014202,41987034,0,False,tertiary,Mc Guire School Road,269.364,,,,,,,,,,,5649120,CR 141
+42014240,42014202,0,False,residential,Garnsey Road,658.05,,,,,,,,,,,5645338,
+42014461,42003921,0,False,residential,Wells Road,30.234,,,,,,,,,,,5645376,
+42014461,42003918,0,False,residential,Scotch Bush Road,23.061,,,,,,,,,,,5646048,
+42014461,42014567,0,False,residential,Wells Road,989.261,,,,,,,,,,,5645373,
+42014567,42014591,0,False,residential,Wells Road,1538.997,,,,,,,,,,,5645373,
+42014567,42014461,0,False,residential,Wells Road,989.261,,,,,,,,,,,5645373,
+42014567,42000679,0,False,residential,"['North Scotch Bush Road', 'Scotch Bush Road']",1696.833,,,,,,,,,,,"[5644252, 5646047]",
+42014591,42014567,0,False,residential,Wells Road,1538.997,,,,,,,,,,,5645373,
+42014591,42000310,0,False,tertiary,Levey Road,1284.296,,,,,,,,,,,5647074,CR 129
+42014591,42003905,0,False,tertiary,Levey Road,1187.813,,,,,,,,,,,5647074,CR 129
+42015278,444153459,0,False,residential,Deer Run,42.864,,,,,,,,,,,5645945,
+42015280,42015288,0,False,residential,Dusty Road,73.636,,,,,,,,,,,5645418,
+42015288,42015280,0,False,residential,Dusty Road,73.636,,,,,,,,,,,5645418,
+42015288,444153459,0,False,primary,Western Turnpike,89.979,2,,,55 mph,,,,,,,120704026,US 20
+42015288,42004221,0,False,primary,Western Turnpike,563.978,2,,,55 mph,,,,,,,120704026,US 20
+42015681,41981963,0,False,residential,Mill Road,26.337,,,,,,,,,,,5645461,
+42015681,42054861,0,False,secondary,Mariaville Road,107.296,,,,40 mph,,,,,,,200216106,NY 159
+42015681,42028927,0,False,secondary,Mariaville Road,196.415,,,,40 mph,,,,,,,200216106,NY 159
+42015701,41981963,0,False,residential,Mill Road,130.078,,,,,,,,,,,5645461,
+42016656,42003339,0,False,residential,Upper Brown Road,1179.759,,,,,,,,,,,5645535,
+42017273,42017277,0,False,tertiary,Gallupville Road,742.722,,,,,,,,,,,5645600,CR 135
+42017273,42038510,0,False,tertiary,Salsburg Road,676.988,,,,,,,,,,,5647477,CR 78
+42017277,42017273,0,False,tertiary,Gallupville Road,742.722,,,,,,,,,,,5645600,CR 135
+42017277,42017315,0,False,tertiary,Gallupville Road,1737.357,,,,,,,,,,,5645600,CR 135
+42017315,42017277,0,False,tertiary,Gallupville Road,1737.357,,,,,,,,,,,5645600,CR 135
+42017315,42032720,0,False,tertiary,Darby Hill Road,549.331,,,,,,,yes,,,,"[232493304, 38522078, 38522079]",CR 133
+42017315,42032665,0,False,tertiary,Darby Hill Road,725.254,,,,,,,,,,,232493304,CR 133
+42018759,42049128,0,False,primary,Western Turnpike,56.047,2,,,55 mph,,,,,,,85380212,US 20
+42018759,41974644,0,False,residential,"['School Drive', 'Alexander Road']",2779.993,,,,,,,,,,,"[5642050, 5645735]",
+42018759,42049119,0,False,primary,Western Turnpike,744.897,2,,,55 mph,,,,,,,85380212,US 20
+42018896,42018937,0,False,residential,Sandy Lane Drive,851.703,,,,,,,,,,,5645760,
+42018896,42050140,0,False,residential,Duane Lake Road,1947.878,,,,,,,,,,,5648067,
+42018896,42049488,0,False,residential,Duane Lake Road,349.489,,,,,,,,,,,5648067,
+42018937,42018896,0,False,residential,Sandy Lane Drive,851.703,,,,,,,,,,,5645760,
+42019136,42002631,0,False,unclassified,Skyline Drive,399.671,,,,,,,,,,,5645819,
+42019165,42042001,0,False,residential,Hillman Road,960.169,,,,,,,,,,,5647749,
+42019165,42007426,0,False,tertiary,Skyline Drive,1044.085,,,,,,,,,,,232581650,CR 86
+42019165,42002631,0,False,tertiary,Skyline Drive,823.299,,,,,,,,,,,232581650,CR 86
+42019255,42024135,0,False,residential,Mudge Road,2312.318,,,,,,,,,,,5648544,
+42019255,42049144,0,False,residential,Mudge Road,1697.195,,,,,,,,,,,5648544,
+42019255,42005990,0,False,tertiary,Skyline Drive,362.549,,,,,,,,,,,232581650,CR 86
+42019255,42007426,0,False,tertiary,Skyline Drive,658.72,,,,,,,,,,,232581650,CR 86
+42019308,42053774,0,False,residential,Delevan Road,108.292,,,,,,,,,,,5648261,
+42019308,42019315,0,False,tertiary,Skyline Drive,163.994,,,,,,,,,,,232581650,CR 86
+42019308,42005933,0,False,tertiary,Skyline Drive,271.316,,,,,,,,,,,232581650,CR 86
+42019315,42053774,0,False,residential,Delevan Road,133.965,,,,,,,,,,,5648263,
+42019315,41977670,0,False,tertiary,Skyline Drive,185.808,,,,,,,,,,,232581650,CR 86
+42019315,42019308,0,False,tertiary,Skyline Drive,163.994,,,,,,,,,,,232581650,CR 86
+42019343,42024135,0,False,tertiary,Duanesburg Churches Road,1667.439,,,,,,,,,,,5646207,CR 127
+42019343,42023985,0,False,tertiary,Duanesburg Churches Road,1008.04,,,,,,,,,,,5646207,CR 127
+42019343,42019437,0,False,tertiary,Skyline Drive,1607.194,,,,,,,,,,,232581650,CR 86
+42019343,41977670,0,False,tertiary,Skyline Drive,698.746,,,,,,,,,,,232581650,CR 86
+42019437,42064822,0,False,residential,Liddle Road,363.027,,,,,,,,,,,5648810,
+42019437,42019503,0,False,tertiary,Skyline Drive,2140.225,,,,,,,,,,,232581650,CR 86
+42019437,42019343,0,False,tertiary,Skyline Drive,1607.194,,,,,,,,,,,232581650,CR 86
+42019503,41982290,0,False,tertiary,Skyline Drive,341.431,,,,,,,,,,,232581650,CR 86
+42019503,42019437,0,False,tertiary,Skyline Drive,2140.225,,,,,,,,,,,232581650,CR 86
+42019503,42033057,0,False,residential,Tidball Road,221.698,,,,,,,,,,,432971148,
+42019503,42033029,0,False,residential,Tidball Road,298.747,,,,,,,,,,,432971148,
+42020815,42020818,0,False,residential,Deer Run,18.081,,,,,,,,,,,5645941,
+42020815,42020853,0,False,residential,Deer Run,9.082,,,,,,,,,,,5645941,
+42020818,42020824,0,False,residential,Deer Run,16.378,,,,,,,,,,,5645941,
+42020818,42020815,0,False,residential,Deer Run,18.081,,,,,,,,,,,5645941,
+42020824,42020831,0,False,residential,Deer Run,16.585,,,,,,,,,,,5645941,
+42020824,42020818,0,False,residential,Deer Run,16.378,,,,,,,,,,,5645941,
+42020831,42020837,0,False,residential,Deer Run,17.623,,,,,,,,,,,5645941,
+42020831,42020824,0,False,residential,Deer Run,16.585,,,,,,,,,,,5645941,
+42020837,42020843,0,False,residential,Deer Run,13.574,,,,,,,,,,,5645941,
+42020837,42020831,0,False,residential,Deer Run,17.623,,,,,,,,,,,5645941,
+42020843,42020848,0,False,residential,Deer Run,13.542,,,,,,,,,,,5645941,
+42020843,42020837,0,False,residential,Deer Run,13.574,,,,,,,,,,,5645941,
+42020848,42020853,0,False,residential,Deer Run,14.792,,,,,,,,,,,5645941,
+42020848,42020843,0,False,residential,Deer Run,13.542,,,,,,,,,,,5645941,
+42020853,42020815,0,False,residential,Deer Run,9.082,,,,,,,,,,,5645941,
+42020853,42020848,0,False,residential,Deer Run,14.792,,,,,,,,,,,5645941,
+42020904,42020934,0,False,residential,Rocchio Road,599.094,,,,,,,,,,,5645947,
+42020904,42028758,0,False,tertiary,Batter Street,402.394,,,,,,,,,,,5646562,CR 94
+42020904,42028638,0,False,tertiary,Batter Street,1680.815,,,,,,,,,,,5646562,CR 94
+42020934,42020904,0,False,residential,Rocchio Road,599.094,,,,,,,,,,,5645947,
+42021228,42043288,0,False,secondary,"['Duanesburg Road', 'Central Bridge Road']",1886.729,,,,55 mph,,,,,,,"[5648586, 5645966]",NY 7
+42021228,41995234,0,False,tertiary,Youngs Road,1037.091,,,,,,,,,,,5648135,CR 153
+42021874,41999768,0,False,tertiary,Braman Corners Road,164.009,,,,,,,,,,,5647229,CR 102
+42021874,42021888,0,False,residential,Ladds Road,79.883,,,,,,,,,,,5646025,
+42021874,41993542,0,False,tertiary,Braman Corners Road,2164.208,,,,,,,,,,,5647229,CR 102
+42021888,42021874,0,False,residential,Ladds Road,79.883,,,,,,,,,,,5646025,
+42021888,42036627,0,False,secondary,State Highway 30,198.096,,,,,,,,,,,5648428,NY 30
+42021888,41993475,0,False,secondary,State Highway 30,2978.287,,,,,,,,,,,5648428,NY 30
+42022195,3277879915,0,False,tertiary,Schoharie Turnpike,57.999,,,,35 mph,,,,,,,5646064,CR 74
+42022195,3277879916,0,False,secondary,Duanesburg Road,56.989,,,,45 mph,,,,,,,53290585,NY 7
+42022195,3277879914,0,False,secondary,State Highway 395,54.903,,,,,,,,,,,5646833,NY 395
+42022195,42046865,0,False,tertiary,Quaker Lane,732.173,,,,,,,,,,,5648786,CR 90
+42022195,42032720,0,False,tertiary,Darby Hill Road,195.208,,,,,,,,,,,38522079,CR 133
+42022195,42046872,0,False,secondary,Duanesburg Road,719.381,,,,"['55 mph', '45 mph']",,,,,,,"[53290585, 5648586]",NY 7
+42022198,3277879915,0,False,tertiary,Schoharie Turnpike,23.949,,,,35 mph,,,,,,,5646064,CR 74
+42022198,42022228,0,False,tertiary,Schoharie Turnpike,1139.548,,,,"['35 mph', '55 mph']",,,yes,,,,"[5646064, 200238195, 38522076, 38522077]",CR 74
+42022198,42032720,0,False,residential,Maple Avenue,361.02,,,,,,,,,,,5647722,
+42022228,42022247,0,False,tertiary,Schoharie Turnpike,1871.736,,,,55 mph,,,,,,,38522077,CR 74
+42022228,42022198,0,False,tertiary,Schoharie Turnpike,1139.548,,,,"['35 mph', '55 mph']",,,yes,,,,"[5646064, 200238195, 38522076, 38522077]",CR 74
+42022228,41976825,0,False,tertiary,Chadwick Road,594.306,,,,35 mph,,,yes,,,,"[38522074, 200238187, 38522075]",CR 131
+42022247,42008499,0,False,tertiary,Schoharie Turnpike,485.086,,,,55 mph,,,,,,,38522077,CR 74
+42022247,42022228,0,False,tertiary,Schoharie Turnpike,1871.736,,,,55 mph,,,,,,,38522077,CR 74
+42022356,42008499,0,False,tertiary,Schoharie Turnpike,1923.726,,,,55 mph,,,,,,,"[414882574, 414886303]",CR 74
+42022356,42022403,0,False,tertiary,Schoharie Turnpike,1253.908,,,,55 mph,,,,,,,414882575,CR 74
+42022403,42050140,0,False,residential,Duane Road,191.426,,,,,,,,,,,5648707,
+42022403,42022408,0,False,tertiary,Schoharie Turnpike,201.55,,,,55 mph,,,,,,,414882575,CR 74
+42022403,42022356,0,False,tertiary,Schoharie Turnpike,1253.908,,,,55 mph,,,,,,,414882575,CR 74
+42022408,42022432,0,False,tertiary,Schoharie Turnpike,397.652,,,,55 mph,,,,,,,414882575,CR 74
+42022408,42022403,0,False,tertiary,Schoharie Turnpike,201.55,,,,55 mph,,,,,,,414882575,CR 74
+42022432,42049497,0,False,tertiary,North Mansion Road,1416.81,,,,40 mph,,,,,,,5648033,CR 121
+42022432,42022453,0,False,tertiary,Schoharie Turnpike,2310.564,,,,55 mph,,,,,,,414882575,CR 74
+42022432,42022408,0,False,tertiary,Schoharie Turnpike,397.652,,,,55 mph,,,,,,,414882575,CR 74
+42022453,42063644,0,False,residential,Fonda Lane,986.509,,,,,,,,,,,5648753,
+42022453,42049324,0,False,tertiary,Schoharie Turnpike,185.179,,,,55 mph,,,,,,,414882575,CR 74
+42022453,42022432,0,False,tertiary,Schoharie Turnpike,2310.564,,,,55 mph,,,,,,,414882575,CR 74
+42022638,42022711,0,False,residential,Thompson Drive,847.387,,,,,,,,,,,5646095,
+42022638,42049324,0,False,primary,Western Turnpike,874.954,2,,,55 mph,,,,,,,120704026,US 20
+42022711,42022638,0,False,residential,Thompson Drive,847.387,,,,,,,,,,,5646095,
+42022894,42022988,0,False,residential,Featherstonehaugh Road,1209.069,,,,,,,,,,,5646127,
+42022988,42049288,0,False,primary,Western Turnpike,133.44,2,,,55 mph,,,,,,,38522065,US 20
+42022988,42022894,0,False,residential,Featherstonehaugh Road,1209.069,,,,,,,,,,,5646127,
+42022988,42032332,0,False,primary,Western Turnpike,581.233,2,,,55 mph,,,yes,,,,"[38522064, 38522065, 53291299]",US 20
+42023746,42023931,0,False,tertiary,Duanesburg Churches Road,1452.993,,,,,,,,,,,5646200,CR 127
+42023746,42028638,0,False,tertiary,Batter Street,559.373,,,,,,,,,,,5646562,CR 94
+42023746,42024187,0,False,tertiary,Duanesburg Churches Road,719.482,,,,,,,,,,,414886308,CR 127
+42023931,42023746,0,False,tertiary,Duanesburg Churches Road,1452.993,,,,,,,,,,,5646200,CR 127
+42023931,42003894,0,False,secondary,State Highway 30,979.578,,,,,,,,,,,5648428,NY 30
+42023931,42002443,0,False,secondary,State Highway 30,1070.629,,,,,,,,,,,5648428,NY 30
+42023941,42023985,0,False,tertiary,Duanesburg Churches Road,739.857,,,,,,,,,,,5646207,CR 127
+42023941,42049172,0,False,primary,Western Turnpike,807.337,2,,,55 mph,,,,,,,85380212,US 20
+42023941,42027226,0,False,primary,Western Turnpike,792.931,2,,,55 mph,,,,,,,414886306,US 20
+42023985,42019343,0,False,tertiary,Duanesburg Churches Road,1008.04,,,,,,,,,,,5646207,CR 127
+42023985,42023941,0,False,tertiary,Duanesburg Churches Road,739.857,,,,,,,,,,,5646207,CR 127
+42023985,41988708,0,False,tertiary,Scotch Ridge Road,838.147,,,,,,,,,,,5649052,CR 70
+42024135,42005229,0,False,tertiary,Duanesburg Churches Road,612.96,,,,,,,,,,,5646207,CR 127
+42024135,42019343,0,False,tertiary,Duanesburg Churches Road,1667.439,,,,,,,,,,,5646207,CR 127
+42024135,42019255,0,False,residential,Mudge Road,2312.318,,,,,,,,,,,5648544,
+42024154,41985930,0,False,residential,Hardin Road,1263.393,,,,,,,,,,,5649262,
+42024154,42070981,0,False,tertiary,Hardin Road,1369.767,,,,,,,,,,,232495873,CR 100
+42024154,42024187,0,False,tertiary,Duanesburg Churches Road,700.778,,,,,,,,,,,414886308,CR 127
+42024154,42005229,0,False,tertiary,Duanesburg Churches Road,1012.524,,,,,,,,,,,414886308,CR 127
+42024187,42055545,0,False,residential,Gutha Road,812.376,,,,,,,,,,,5648342,
+42024187,42023746,0,False,tertiary,Duanesburg Churches Road,719.482,,,,,,,,,,,414886308,CR 127
+42024187,42024154,0,False,tertiary,Duanesburg Churches Road,700.778,,,,,,,,,,,414886308,CR 127
+42025281,42025332,0,False,residential,Little Dale Farm Road,959.821,,,,,,,,,,,5646289,
+42025281,41977837,0,False,residential,Depot Road,855.364,,,,,,,,,,,93405268,
+42025281,42026257,0,False,residential,Depot Road,690.756,,,,,,,yes,,,,"[5646347, 93405268, 93405263]",
+42025332,42025281,0,False,residential,Little Dale Farm Road,959.821,,,,,,,,,,,5646289,
+42026230,3707355810,0,False,secondary,Duanesburg Road,33.257,,,,35 mph,,,,,,,414886304,NY 7
+42026230,3707355809,0,False,primary,Western Turnpike,54.641,2,,,35 mph,,,,,,,414886307,US 20
+42026230,3707355806,0,False,secondary,Duanesburg Road,54.451,,,,35 mph,,,,,,,414886305,NY 7
+42026230,42027143,0,False,primary,Western Turnpike,379.401,2,,,35 mph,,,,,,,414886307,US 20
+42026249,41978982,0,False,residential,Depot Road,59.528,,,,,,,,,,,5646347,
+42026249,41978983,0,False,residential,Van Patten Road,97.175,,,,,,,,,,,5649203,
+42026249,3707355810,0,False,residential,Depot Road,531.592,,,,,,,,,,,5646347,
+42026257,42025281,0,False,residential,Depot Road,690.756,,,,,,,yes,,,,"[5646347, 93405268, 93405263]",
+42026257,41978982,0,False,residential,Depot Road,71.869,,,,,,,,,,,5646347,
+42026257,42049865,0,False,residential,Park Road,653.826,,,,,,,,,,,47468176,
+42026378,42061917,0,False,residential,Humphrey Road,835.997,,,,,,,,,,,5648640,
+42026378,41988708,0,False,tertiary,Scotch Ridge Road,1062.36,,,,,,,,,,,5649052,CR 70
+42026378,41977715,0,False,tertiary,Scotch Ridge Road,746.473,,,,,,,,,,,5649052,CR 70
+42026378,41977837,0,False,residential,Depot Road,484.698,,,,,,,,,,,93405268,
+42027140,42027143,0,False,residential,Duane Avenue,150.213,,,,,,,,,,,5646411,
+42027140,42010499,0,False,secondary,Duanesburg Road,111.741,,,,35 mph,,,,,,,414886304,NY 7
+42027140,3707355810,0,False,secondary,Duanesburg Road,310.294,,,,35 mph,,,,,,,414886304,NY 7
+42027143,42027140,0,False,residential,Duane Avenue,150.213,,,,,,,,,,,5646411,
+42027143,42010501,0,False,primary,Western Turnpike,118.787,2,,,35 mph,,,,,,,414886307,US 20
+42027143,42026230,0,False,primary,Western Turnpike,379.401,2,,,35 mph,,,,,,,414886307,US 20
+42027226,42027260,0,False,residential,Ash Lane,1151.231,,,,,,,,,,,5646424,
+42027226,3707355809,0,False,primary,Western Turnpike,1097.051,2,,,"['35 mph', '55 mph']",,,,,,,"[414886306, 415943851, 85380213]",US 20
+42027226,42023941,0,False,primary,Western Turnpike,792.931,2,,,55 mph,,,,,,,414886306,US 20
+42027260,42027226,0,False,residential,Ash Lane,1151.231,,,,,,,,,,,5646424,
+42028638,42020904,0,False,tertiary,Batter Street,1680.815,,,,,,,,,,,5646562,CR 94
+42028638,42023746,0,False,tertiary,Batter Street,559.373,,,,,,,,,,,5646562,CR 94
+42028638,42003921,0,False,residential,North Road,1226.963,,,,,,,,,,,5649159,
+42028758,42028775,0,False,tertiary,Batter Street,567.558,,,,,,,,,,,5646562,CR 94
+42028758,42020904,0,False,tertiary,Batter Street,402.394,,,,,,,,,,,5646562,CR 94
+42028758,42034322,0,False,residential,Levey Road,245.762,,,,,,,,,,,5647071,
+42028775,41975146,0,False,tertiary,Batter Street,213.093,,,,,,,,,,,5646562,CR 94
+42028775,42028758,0,False,tertiary,Batter Street,567.558,,,,,,,,,,,5646562,CR 94
+42028775,42065458,0,False,residential,Lake Connection Road,497.682,,,,,,,,,,,429009382,
+42028927,42000514,0,False,tertiary,Batter Street,802.944,,,,,,,,,,,5646562,CR 94
+42028927,42015681,0,False,secondary,Mariaville Road,196.415,,,,40 mph,,,,,,,200216106,NY 159
+42028927,41980953,0,False,secondary,Mariaville Road,924.251,,,,40 mph,,,,,,,200216106,NY 159
+42029938,41990915,0,False,secondary,Main Street,190.377,,,,,,,yes,,,,"[47468160, 5646641, 5646637]",NY 395
+42029938,3277879914,0,False,secondary,"['Main Street', 'State Highway 395']",789.726,,,,,,,,,,,"[5646833, 5646637]",NY 395
+42029938,42050527,0,False,tertiary,East Shore Road,1006.625,,,,,,,,,,,5649300,CR 80
+42029938,42060910,0,False,residential,West Shore Road,1462.518,,,,,,,,,,,5649577,
+42030033,41974644,0,False,secondary,Main Street,86.397,,,,,,,,,,,5646641,NY 395
+42030033,42030040,0,False,secondary,Main Street,114.127,,,,,,,,,,,5646641,NY 395
+42030033,42039558,0,False,residential,Stewart Lane,260.951,,,,,,,,,,,5648552,
+42030040,42030061,0,False,secondary,Main Street,178.034,,,,,,,,,,,5646641,NY 395
+42030040,42030033,0,False,secondary,Main Street,114.127,,,,,,,,,,,5646641,NY 395
+42030040,41978107,0,False,tertiary,Cole Road,1065.092,,,,,,,,,,,5648436,CR 84
+42030061,42030116,0,False,secondary,Main Street,1587.994,,,,,,,,,,,5646641,NY 395
+42030061,42030040,0,False,secondary,Main Street,178.034,,,,,,,,,,,5646641,NY 395
+42030061,42039558,0,False,residential,Cooley Heights,130.854,,,,,,,,,,,5647624,
+42030116,42030161,0,False,secondary,Main Street,130.91,,,,,,,,,,,5646641,NY 395
+42030116,42030061,0,False,secondary,Main Street,1587.994,,,,,,,,,,,5646641,NY 395
+42030124,42030161,0,False,primary,Western Turnpike,91.291,2,,,55 mph,,,,,,,85380212,US 20
+42030124,42030116,0,True,secondary,Main Street,177.539,,,,,,,,,,,47468154,NY 395
+42030124,42001399,0,False,primary,Western Turnpike,172.44,2,,,55 mph,,,,,,,85380212,US 20
+42030161,42049144,0,False,primary,Western Turnpike,211.904,2,,,55 mph,,,,,,,85380212,US 20
+42030161,42030124,0,False,primary,Western Turnpike,91.291,2,,,55 mph,,,,,,,85380212,US 20
+42030161,42030116,0,False,secondary,Main Street,130.91,,,,,,,,,,,5646641,NY 395
+42031536,42031536,0,False,residential,Rebecca Lane,374.619,,,,,,,,,,,5646800,
+42031536,42031536,1,False,residential,Rebecca Lane,374.619,,,,,,,,,,,5646800,
+42031536,42031564,0,False,residential,Rebecca Lane,359.128,,,,,,,,,,,5646807,
+42031564,42031536,0,False,residential,Rebecca Lane,359.128,,,,,,,,,,,5646807,
+42031564,691616092,0,False,secondary,Mariaville Scotch Church Rd; State Highway 160,505.568,,,,55 mph,,,,,,,5648311,NY 160
+42031564,42054913,0,False,secondary,Mariaville Scotch Church Rd; State Highway 160,665.774,,,,55 mph,,,,,,,5648311,NY 160
+42031584,41995234,0,False,tertiary,Youngs Road,526.781,,,,,,,,,,,5648135,CR 153
+42031584,41998275,0,False,residential,Schoonmaker Road,1827.981,,,,,,,,,,,5646815,
+42031584,42008210,0,False,tertiary,Youngs Road,163.093,,,,,,,,,,,5648135,CR 153
+42032140,42032142,0,False,tertiary,Old Route 30,53.247,,,,,,,,,,,232495874,CR 157
+42032140,42047314,0,False,residential,Mexico Road,136.16,,,,,,,,,,,5647938,
+42032140,2408408653,0,False,tertiary,Old Route 30,1084.234,,,,,,,,,,,232495874,CR 157
+42032142,42032140,0,False,tertiary,Old Route 30,53.247,,,,,,,,,,,232495874,CR 157
+42032142,42049077,0,False,primary,Western Turnpike,588.171,2,,,"['35 mph', '55 mph']",,,,,,,"[85379896, 85380212]",US 20
+42032261,42032332,0,False,residential,Crosier Road,140.529,,,,,,,,,,,5646877,
+42032261,42032310,0,False,residential,Crosier Road,203.49,,,,,,,,,,,5646875,
+42032261,42032324,0,False,residential,Crosier Road,39.995,,,,,,,,,,,5646877,
+42032310,42032261,0,False,residential,Crosier Road,203.49,,,,,,,,,,,5646875,
+42032324,42032261,0,False,residential,Crosier Road,39.995,,,,,,,,,,,5646877,
+42032332,42032261,0,False,residential,Crosier Road,140.529,,,,,,,,,,,5646877,
+42032332,42022988,0,False,primary,Western Turnpike,581.233,2,,,55 mph,,,yes,,,,"[38522064, 38522065, 53291299]",US 20
+42032332,42010501,0,False,primary,Western Turnpike,256.165,2,,,"['35 mph', '55 mph']",,,,,,,"[53291299, 414886307]",US 20
+42032665,42038510,0,False,tertiary,Salsburg Road,1084.419,,,,,,,,,,,5647477,CR 78
+42032665,42017315,0,False,tertiary,Darby Hill Road,725.254,,,,,,,,,,,232493304,CR 133
+42032720,42022198,0,False,residential,Maple Avenue,361.02,,,,,,,,,,,5647722,
+42032720,42022195,0,False,tertiary,Darby Hill Road,195.208,,,,,,,,,,,38522079,CR 133
+42032720,42017315,0,False,tertiary,Darby Hill Road,549.331,,,,,,,yes,,,,"[232493304, 38522078, 38522079]",CR 133
+42033029,42003886,0,False,residential,Frosty Acres Drive,282.272,,,,,,,,,,,5649422,
+42033029,42005092,0,False,residential,Tidball Road,1000.03,,,,,,,,,,,429009384,
+42033029,42019503,0,False,residential,Tidball Road,298.747,,,,,,,,,,,432971148,
+42033057,42019503,0,False,residential,Tidball Road,221.698,,,,,,,,,,,432971148,
+42034322,42028758,0,False,residential,Levey Road,245.762,,,,,,,,,,,5647071,
+42035120,41980268,0,False,residential,Hillside Road,380.187,,,,,,,,,,,5647157,
+42035120,41980953,0,False,residential,Hilltop Road,163.718,,,,,,,,,,,5648153,
+42035120,42051582,0,False,residential,Hilltop Road,1014.697,,,,,,,,,,,"[5648152, 5648153]",
+42035124,41980268,0,False,residential,Hillside Road,152.675,,,,,,,,,,,5647159,
+42035124,42039594,0,False,tertiary,Weast Road,289.984,,,,30 mph,,,,,,,5647650,CR 111
+42035657,41999768,0,False,tertiary,Braman Corners Road,65.869,,,,,,,,,,,5647229,CR 102
+42035657,42036627,0,False,secondary,State Highway 30,63.762,,,,,,,,,,,5648428,NY 30
+42035657,42002698,0,False,secondary,State Highway 30,294.445,,,,,,,,,,,5648428,NY 30
+42035761,41990918,0,False,residential,Rose Street,82.22,,,,,,,,,,,5647237,
+42036627,41999768,0,False,tertiary,Millers Corners Road,27.374,,,,,,,,,,,5644153,CR 145
+42036627,42035657,0,False,secondary,State Highway 30,63.762,,,,,,,,,,,5648428,NY 30
+42036627,42021888,0,False,secondary,State Highway 30,198.096,,,,,,,,,,,5648428,NY 30
+42038510,42032665,0,False,tertiary,Salsburg Road,1084.419,,,,,,,,,,,5647477,CR 78
+42038510,42017273,0,False,tertiary,Salsburg Road,676.988,,,,,,,,,,,5647477,CR 78
+42038510,42076607,0,False,residential,Jones Road,732.827,,,,,,,,,,,5649450,
+42039558,42039563,0,False,residential,Cooley Heights,72.414,,,,,,,,,,,5647624,
+42039558,42030061,0,False,residential,Cooley Heights,130.854,,,,,,,,,,,5647624,
+42039558,42030033,0,False,residential,Stewart Lane,260.951,,,,,,,,,,,5648552,
+42039563,42039558,0,False,residential,Cooley Heights,72.414,,,,,,,,,,,5647624,
+42039594,2256924345,0,False,secondary,Mariaville Road,73.506,,,,40 mph,,,,,,,200216106,NY 159
+42039594,42035124,0,False,tertiary,Weast Road,289.984,,,,30 mph,,,,,,,5647650,CR 111
+42039594,42006412,0,False,secondary,Mariaville Road,355.297,,,,40 mph,,,,,,,200216106,NY 159
+42042001,42019165,0,False,residential,Hillman Road,960.169,,,,,,,,,,,5647749,
+42043288,42008254,0,False,residential,Gage Road,1049.519,,,,,,,,,,,5647798,
+42043288,42060910,0,False,secondary,Duanesburg Road,1985.405,,,,55 mph,,,,,,,5648586,NY 7
+42043288,42021228,0,False,secondary,"['Duanesburg Road', 'Central Bridge Road']",1886.729,,,,55 mph,,,,,,,"[5648586, 5645966]",NY 7
+42043358,42008254,0,False,residential,Gage Road,2715.468,,,,,,,,,,,5647798,
+42043358,41993851,0,False,primary,Western Turnpike,523.534,2,,,55 mph,,,,,,,85380212,US 20
+42043358,42047668,0,False,primary,Western Turnpike,525.626,2,,,55 mph,,,,,,,85380212,US 20
+42045526,42008938,0,False,residential,Clines Drive,1011.033,,,,,,,,,,,5647865,
+42046565,41979782,0,False,residential,Finch Road,385.938,,,,,,,,,,,5647897,
+42046865,42046872,0,False,residential,Bull Street,178.733,,,,,,,,,,,5647913,
+42046865,42022195,0,False,tertiary,Quaker Lane,732.173,,,,,,,,,,,5648786,CR 90
+42046865,3277879919,0,False,tertiary,Quaker Lane,405.625,,,,,,,,,,,5648786,CR 90
+42046872,42060910,0,False,secondary,Duanesburg Road,95.742,,,,55 mph,,,,,,,5648586,NY 7
+42046872,42046865,0,False,residential,Bull Street,178.733,,,,,,,,,,,5647913,
+42046872,42022195,0,False,secondary,Duanesburg Road,719.381,,,,"['45 mph', '55 mph']",,,,,,,"[53290585, 5648586]",NY 7
+42047314,42032140,0,False,residential,Mexico Road,136.16,,,,,,,,,,,5647938,
+42047668,42047675,0,False,residential,Wendy Lane,460.347,,,,,,,,,,,5647957,
+42047668,42043358,0,False,primary,Western Turnpike,525.626,2,,,55 mph,,,,,,,85380212,US 20
+42047668,42049082,0,False,primary,Western Turnpike,1285.779,2,,,55 mph,,,,,,,85380212,US 20
+42047675,42047668,0,False,residential,Wendy Lane,460.347,,,,,,,,,,,5647957,
+42047675,42047675,0,False,residential,Wendy Lane,121.873,,,,,,,,,,,5647958,
+42047675,42047675,1,False,residential,Wendy Lane,121.873,,,,,,,,,,,5647958,
+42049077,42051389,0,False,tertiary,Youngs Road,314.562,,,,,,,,,,,5648135,CR 153
+42049077,42049082,0,False,primary,Western Turnpike,124.257,2,,,55 mph,,,,,,,85380212,US 20
+42049077,42032142,0,False,primary,Western Turnpike,588.171,2,,,"['35 mph', '55 mph']",,,,,,,"[85379896, 85380212]",US 20
+42049082,42049077,0,False,primary,Western Turnpike,124.257,2,,,55 mph,,,,,,,85380212,US 20
+42049082,42056929,0,False,secondary,State Highway 30,1370.363,,,,,,,,,,,5648428,NY 30
+42049082,42051389,0,False,secondary,Esperance-Esperance Station Road,347.587,,,,,,,,,,,5649029,NY 30
+42049082,42047668,0,False,primary,Western Turnpike,1285.779,2,,,55 mph,,,,,,,85380212,US 20
+42049119,41986750,0,False,residential,Turnbull Road,158.47,,,,,,,,,,,5648475,
+42049119,42018759,0,False,primary,Western Turnpike,744.897,2,,,55 mph,,,,,,,85380212,US 20
+42049119,41993851,0,False,primary,Western Turnpike,632.733,2,,,55 mph,,,,,,,85380212,US 20
+42049128,42007367,0,False,primary,Western Turnpike,760.858,2,,,55 mph,,,,,,,85380212,US 20
+42049128,42018759,0,False,primary,Western Turnpike,56.047,2,,,55 mph,,,,,,,85380212,US 20
+42049128,41979754,0,False,tertiary,Mc Guire School Road,312.179,,,,,,,,,,,5649120,CR 141
+42049144,42030161,0,False,primary,Western Turnpike,211.904,2,,,55 mph,,,,,,,85380212,US 20
+42049144,42019255,0,False,residential,Mudge Road,1697.195,,,,,,,,,,,5648544,
+42049144,42049172,0,False,primary,Western Turnpike,1376.686,2,,,55 mph,,,,,,,85380212,US 20
+42049172,42053791,0,False,residential,Delevan Road,917.304,,,,,,,,,,,5648262,
+42049172,42023941,0,False,primary,Western Turnpike,807.337,2,,,55 mph,,,,,,,85380212,US 20
+42049172,42049144,0,False,primary,Western Turnpike,1376.686,2,,,55 mph,,,,,,,85380212,US 20
+42049288,42022988,0,False,primary,Western Turnpike,133.44,2,,,55 mph,,,,,,,38522065,US 20
+42049288,42049488,0,False,tertiary,North Mansion Road,682.124,,,,40 mph,,,,,,,5648033,CR 121
+42049288,41980334,0,False,primary,Western Turnpike,204.403,2,,,55 mph,,,,,,,38522065,US 20
+42049324,42004114,0,False,tertiary,Mott Road,996.774,,,,55 mph,,,,,,,5649266,CR 76
+42049324,42022638,0,False,primary,Western Turnpike,874.954,2,,,55 mph,,,,,,,120704026,US 20
+42049324,42004221,0,False,primary,Western Turnpike,2600.458,2,,,55 mph,,,,,,,120704026,US 20
+42049324,42022453,0,False,tertiary,Schoharie Turnpike,185.179,,,,55 mph,,,,,,,414882575,CR 74
+42049488,42049497,0,False,tertiary,North Mansion Road,350.177,,,,40 mph,,,,,,,5648033,CR 121
+42049488,42049288,0,False,tertiary,North Mansion Road,682.124,,,,40 mph,,,,,,,5648033,CR 121
+42049488,42018896,0,False,residential,Duane Lake Road,349.489,,,,,,,,,,,5648067,
+42049497,42022432,0,False,tertiary,North Mansion Road,1416.81,,,,40 mph,,,,,,,5648033,CR 121
+42049497,42049488,0,False,tertiary,North Mansion Road,350.177,,,,40 mph,,,,,,,5648033,CR 121
+42049497,42050140,0,False,residential,Duane Lake Road,1190.206,,,,,,,,,,,5648067,
+42049865,42026257,0,False,residential,Park Road,653.826,,,,,,,,,,,47468176,
+42049936,42009007,0,False,residential,Largeteau Road,179.918,,,,,,,,,,,5648059,
+42049936,41979563,0,False,secondary,Duanesburg Quaker Street Road,78.181,,,,55 mph,,,,,,,53290586,NY 7
+42049936,42064214,0,False,secondary,Duanesburg Quaker Street Road,1311.598,,,,"['45 mph', '55 mph']",,,,,,,"[5648784, 53290586]",NY 7
+42050140,42022403,0,False,residential,Duane Road,191.426,,,,,,,,,,,5648707,
+42050140,42049497,0,False,residential,Duane Lake Road,1190.206,,,,,,,,,,,5648067,
+42050140,42018896,0,False,residential,Duane Lake Road,1947.878,,,,,,,,,,,5648067,
+42050527,41976825,0,False,tertiary,Chadwick Road,94.137,,,,35 mph,,,,,,,38522075,CR 131
+42050527,42064214,0,False,secondary,Duanesburg Quaker Street Road,102.894,,,,45 mph,,,,,,,5648784,NY 7
+42050527,42029938,0,False,tertiary,East Shore Road,1006.625,,,,,,,,,,,5649300,CR 80
+42050527,3277879906,0,False,secondary,Duanesburg Road,1127.952,,,,45 mph,,,,,,,53290585,NY 7
+42051389,42049077,0,False,tertiary,Youngs Road,314.562,,,,,,,,,,,5648135,CR 153
+42051389,42008210,0,False,tertiary,Youngs Road,1794.871,,,,,,,,,,,5648135,CR 153
+42051389,42049082,0,False,secondary,Esperance-Esperance Station Road,347.587,,,,,,,,,,,5649029,NY 30
+42051389,42051448,0,False,secondary,Esperance-Esperance Station Road,1007.323,,,,,,,,,,,5649029,NY 30
+42051448,42051481,0,False,residential,Barton Drive,786.58,,,,,,,,,,,5648145,
+42051448,42051389,0,False,secondary,Esperance-Esperance Station Road,1007.323,,,,,,,,,,,5649029,NY 30
+42051448,42054847,0,False,secondary,Esperance-Esperance Station Road,778.409,,,,,,,,,,,5649029,NY 30
+42051481,42051448,0,False,residential,Barton Drive,786.58,,,,,,,,,,,5648145,
+42051541,42002676,0,False,residential,Gordinier Road,666.382,,,,,,,,,,,5648150,
+42051582,42035120,0,False,residential,Hilltop Road,1014.697,,,,,,,,,,,"[5648152, 5648153]",
+42052122,41985861,0,False,tertiary,Dennison Road,684.198,,,,,,,,,,,5649560,CR 96
+42053774,42053779,0,False,residential,Delevan Road,73.578,,,,,,,,,,,5648261,
+42053774,42019308,0,False,residential,Delevan Road,108.292,,,,,,,,,,,5648261,
+42053774,42019315,0,False,residential,Delevan Road,133.965,,,,,,,,,,,5648263,
+42053779,42053774,0,False,residential,Delevan Road,73.578,,,,,,,,,,,5648261,
+42053791,42049172,0,False,residential,Delevan Road,917.304,,,,,,,,,,,5648262,
+42053951,42057493,0,False,residential,"['Mt View Lane', 'Mt View Road']",1635.774,,,,,,,,,,,"[5648268, 5648438]",
+42054811,41986106,0,False,residential,Esperance Station Road,391.175,,,,,,,,,,,5648304,
+42054811,42054847,0,False,secondary,Esperance-Esperance Station Road,384.813,,,,,,,,,,,5649029,NY 30
+42054811,41989933,0,False,secondary,"['Esperance-Esperance Station Road', 'Esperance-Schoharie Co Line Road']",220.673,,,,,,,,,,,"[5644459, 5649029]",NY 30
+42054847,41986106,0,False,residential,Esperance Station Road,467.707,,,,,,,,,,,5648304,
+42054847,42051448,0,False,secondary,Esperance-Esperance Station Road,778.409,,,,,,,,,,,5649029,NY 30
+42054847,42054811,0,False,secondary,Esperance-Esperance Station Road,384.813,,,,,,,,,,,5649029,NY 30
+42054847,2408408643,0,False,tertiary,Old Route 30,610.009,,,,,,,,,,,232495874,CR 157
+42054861,42054864,0,False,secondary,Mariaville Scotch Church Rd; State Highway 160,99.122,,,,55 mph,,,,,,,5648311,NY 160
+42054861,691616000,0,False,secondary,Mariaville Road,97.816,,,,40 mph,,,,,,,200216106,NY 159
+42054861,42015681,0,False,secondary,Mariaville Road,107.296,,,,40 mph,,,,,,,200216106,NY 159
+42054864,42054891,0,False,secondary,Mariaville Scotch Church Rd; State Highway 160,1823.359,,,,55 mph,,,,,,,5648311,NY 160
+42054864,42054861,0,False,secondary,Mariaville Scotch Church Rd; State Highway 160,99.122,,,,55 mph,,,,,,,5648311,NY 160
+42054864,691616000,0,False,secondary,,76.829,,,,,,,,,,,54970935,
+42054891,41985861,0,False,tertiary,Dennison Road,346.903,,,,,,,,,,,5649560,CR 96
+42054891,42054913,0,False,secondary,Mariaville Scotch Church Rd; State Highway 160,1130.01,,,,55 mph,,,,,,,5648311,NY 160
+42054891,42054864,0,False,secondary,Mariaville Scotch Church Rd; State Highway 160,1823.359,,,,55 mph,,,,,,,5648311,NY 160
+42054913,42031564,0,False,secondary,Mariaville Scotch Church Rd; State Highway 160,665.774,,,,55 mph,,,,,,,5648311,NY 160
+42054913,42054891,0,False,secondary,Mariaville Scotch Church Rd; State Highway 160,1130.01,,,,55 mph,,,,,,,5648311,NY 160
+42054913,42000310,0,False,residential,Fitzdom Road,1361.239,,,,,,,,,,,5649582,
+42055545,42055548,0,False,residential,Gutha Road,98.3,,,,,,,,,,,5648342,
+42055545,42055548,1,False,residential,Gutha Road,275.202,,,,,,,,,,,5648347,
+42055545,42024187,0,False,residential,Gutha Road,812.376,,,,,,,,,,,5648342,
+42055548,42055545,0,False,residential,Gutha Road,98.3,,,,,,,,,,,5648342,
+42055548,42055545,1,False,residential,Gutha Road,275.202,,,,,,,,,,,5648347,
+42055548,42055611,0,False,residential,Gutha Road,318.119,,,,,,,,,,,5648345,
+42055548,42055556,0,False,residential,Gutha Road,121.899,,,,,,,,,,,5648342,
+42055556,42055548,0,False,residential,Gutha Road,121.899,,,,,,,,,,,5648342,
+42055556,42055556,0,False,residential,Gutha Road,280.541,,,,,,,,,,,5648344,
+42055556,42055556,1,False,residential,Gutha Road,280.541,,,,,,,,,,,5648344,
+42055611,42055548,0,False,residential,Gutha Road,318.119,,,,,,,,,,,5648345,
+42055745,41999643,0,False,residential,Annies Alley,385.758,,,,,,,,,,,5648352,
+42056929,42056965,0,False,secondary,State Highway 30,1076.799,,,,,,,,,,,5648428,NY 30
+42056929,42049082,0,False,secondary,State Highway 30,1370.363,,,,,,,,,,,5648428,NY 30
+42056929,42076737,0,False,residential,Easton Road,768.313,,,,,,,,,,,5649461,
+42056965,42060499,0,False,residential,Waddell Road,261.116,,,,,,,,,,,5648565,
+42056965,41993475,0,False,secondary,State Highway 30,488.479,,,,,,,,,,,5648428,NY 30
+42056965,42056929,0,False,secondary,State Highway 30,1076.799,,,,,,,,,,,5648428,NY 30
+42057086,42002443,0,False,secondary,State Highway 30,663.902,,,,,,,,,,,5648428,NY 30
+42057086,42002698,0,False,secondary,State Highway 30,336.1,,,,,,,,,,,5648428,NY 30
+42057086,42073449,0,False,tertiary,Hardin Road,561.176,,,,,,,,,,,232495873,CR 100
+42057143,42003894,0,False,secondary,State Highway 30,104.468,,,,,,,,,,,5648428,NY 30
+42057143,42003990,0,False,secondary,Mariaville Road,97.353,,,,,,,,,,,5648529,
+42057435,41978107,0,False,tertiary,Cole Road,1173.46,,,,,,,,,,,5648436,CR 84
+42057435,42008604,0,False,secondary,Duanesburg Road,1167.058,,,,55 mph,,,,,,,5648603,NY 7
+42057435,41979517,0,False,secondary,Duanesburg Quaker Street Road,71.135,,,,55 mph,,,,,,,53290586,NY 7
+42057493,42053951,0,False,residential,"['Mt View Lane', 'Mt View Road']",1635.774,,,,,,,,,,,"[5648268, 5648438]",
+42057493,41977715,0,False,tertiary,Scotch Ridge Road,774.003,,,,,,,,,,,5649052,CR 70
+42059964,41993542,0,False,residential,Mill Point Road,16.002,,,,,,,,,,,5649211,
+42060499,42056965,0,False,residential,Waddell Road,261.116,,,,,,,,,,,5648565,
+42060499,42007053,0,False,tertiary,Mc Guire School Road,194.776,,,,,,,,,,,5649120,CR 141
+42060499,42014202,0,False,tertiary,Mc Guire School Road,2531.028,,,,,,,,,,,5649120,CR 141
+42060910,42046872,0,False,secondary,Duanesburg Road,95.742,,,,55 mph,,,,,,,5648586,NY 7
+42060910,42043288,0,False,secondary,Duanesburg Road,1985.405,,,,55 mph,,,,,,,5648586,NY 7
+42060910,42029938,0,False,residential,West Shore Road,1462.518,,,,,,,,,,,5649577,
+42060961,42073232,0,False,residential,Bittner Drive,118.82,,,,,,,,,,,5649255,
+42060961,41980317,0,False,secondary,"['Duanesburg Road', 'Schenectady Duanesburg Road']",830.249,,,,55 mph,,,,,,,"[155529484, 5648597]",NY 7
+42061917,42026378,0,False,residential,Humphrey Road,835.997,,,,,,,,,,,5648640,
+42062496,42062504,0,False,residential,Courtney Drive,326.327,,,,,,,,,,,5648687,
+42062496,42002642,0,False,residential,Courtney Drive,160.941,,,,,,,,,,,5648687,
+42062496,42076953,0,False,residential,Lea Drive,1240.177,,,,,,,,,,,5649472,
+42062504,42062496,0,False,residential,Courtney Drive,326.327,,,,,,,,,,,5648687,
+42062504,42062504,0,False,residential,Courtney Drive,631.24,,,,,,,,,,,5648689,
+42062504,42062504,1,False,residential,Courtney Drive,631.24,,,,,,,,,,,5648689,
+42063644,42022453,0,False,residential,Fonda Lane,986.509,,,,,,,,,,,5648753,
+42064214,42068734,0,False,residential,Acorn Drive,143.103,,,,,,,,,,,5649041,
+42064214,42049936,0,False,secondary,Duanesburg Quaker Street Road,1311.598,,,,"['55 mph', '45 mph']",,,,,,,"[5648784, 53290586]",NY 7
+42064214,42050527,0,False,secondary,Duanesburg Quaker Street Road,102.894,,,,45 mph,,,,,,,5648784,NY 7
+42064780,41986106,0,False,residential,"['Coons Road', 'Koons Road']",657.006,,,,,,,,,,,"[5648809, 5647245]",
+42064822,42019437,0,False,residential,Liddle Road,363.027,,,,,,,,,,,5648810,
+42064822,42064822,0,False,residential,Liddle Road,420.454,,,,,,,,,,,5648812,
+42064822,42064822,1,False,residential,Liddle Road,420.454,,,,,,,,,,,5648812,
+42065458,42028775,0,False,residential,Lake Connection Road,497.682,,,,,,,,,,,429009382,
+42068734,42064214,0,False,residential,Acorn Drive,143.103,,,,,,,,,,,5649041,
+42068734,42068734,0,False,residential,Acorn Drive,95.259,,,,,,,,,,,5649042,
+42068734,42068734,1,False,residential,Acorn Drive,95.259,,,,,,,,,,,5649042,
+42070824,41999410,0,False,residential,Newton Street,101.11,,,,,,,,,,,5649128,
+42070981,41987711,0,False,residential,North Knight Road,1396.509,,,,,,,,,,,"[5649136, 5643147]",
+42070981,42073449,0,False,tertiary,Hardin Road,945.769,,,,,,,,,,,232495873,CR 100
+42070981,42024154,0,False,tertiary,Hardin Road,1369.767,,,,,,,,,,,232495873,CR 100
+42072269,41978983,0,False,residential,Van Patten Road,1450.038,,,,,,,,,,,5649203,
+42072269,42075058,0,False,residential,Fuez Lane,336.091,,,,,,,,,,,"[5649363, 93405262]",
+42073232,42060961,0,False,residential,Bittner Drive,118.82,,,,,,,,,,,5649255,
+42073449,42079566,0,False,residential,North Hillman Road,855.522,,,,,,,,,,,5649593,
+42073449,42057086,0,False,tertiary,Hardin Road,561.176,,,,,,,,,,,232495873,CR 100
+42073449,42070981,0,False,tertiary,Hardin Road,945.769,,,,,,,,,,,232495873,CR 100
+42075058,42072269,0,False,residential,Fuez Lane,336.091,,,,,,,,,,,"[5649363, 93405262]",
+42076607,42038510,0,False,residential,Jones Road,732.827,,,,,,,,,,,5649450,
+42076649,42076649,0,False,residential,Easton Road,113.634,,,,,,,,,,,5649457,
+42076649,42076649,1,False,residential,Easton Road,113.634,,,,,,,,,,,5649457,
+42076649,42076737,0,False,residential,Easton Road,34.951,,,,,,,,,,,5649461,
+42076737,42076753,0,False,residential,Easton Road,52.902,,,,,,,,,,,5649462,
+42076737,42076649,0,False,residential,Easton Road,34.951,,,,,,,,,,,5649461,
+42076737,42056929,0,False,residential,Easton Road,768.313,,,,,,,,,,,5649461,
+42076753,42076737,0,False,residential,Easton Road,52.902,,,,,,,,,,,5649462,
+42076953,42062496,0,False,residential,Lea Drive,1240.177,,,,,,,,,,,5649472,
+42076953,42076953,0,False,residential,Lea Drive,189.287,,,,,,,,,,,5649473,
+42076953,42076953,1,False,residential,Lea Drive,189.287,,,,,,,,,,,5649473,
+42079566,42073449,0,False,residential,North Hillman Road,855.522,,,,,,,,,,,5649593,
+42079801,42008418,0,False,residential,Elm Street,127.221,,,,,,,,,,,5649613,
+444153459,42015278,0,False,residential,Deer Run,42.864,,,,,,,,,,,5645945,
+444153459,42015288,0,False,primary,Western Turnpike,89.979,2,,,55 mph,,,,,,,120704026,US 20
+444153459,41980334,0,False,primary,Western Turnpike,300.67,2,,,55 mph,,,,,,,120704026,US 20
+691616000,42054864,0,False,secondary,,76.829,,,,,,,,,,,54970935,
+691616000,41986779,0,False,secondary,Mariaville Road,479.106,,,,40 mph,,,,,,,200216106,NY 159
+691616000,42054861,0,False,secondary,Mariaville Road,97.816,,,,40 mph,,,,,,,200216106,NY 159
+691616092,42031564,0,False,secondary,Mariaville Scotch Church Rd; State Highway 160,505.568,,,,55 mph,,,,,,,5648311,NY 160
+2256924345,41980953,0,False,secondary,Mariaville Road,13.0,,,,40 mph,,,,,,,200216106,NY 159
+2256924345,42039594,0,False,secondary,Mariaville Road,73.506,,,,40 mph,,,,,,,200216106,NY 159
+2256924345,41980965,0,False,residential,,108.093,,,,,,,,,,,5642545,
+2408408643,2408408667,0,False,tertiary,Creek Road,31.563,,,,,,,,,,,232495871,CR 106
+2408408643,2408408653,0,False,tertiary,Old Route 30,36.277,,,,,,,,,,,232495874,CR 157
+2408408643,42054847,0,False,tertiary,Old Route 30,610.009,,,,,,,,,,,232495874,CR 157
+2408408653,2408408667,0,False,tertiary,Creek Road,44.655,,,,,,,,,,,5644146,CR 106
+2408408653,42032140,0,False,tertiary,Old Route 30,1084.234,,,,,,,,,,,232495874,CR 157
+2408408653,2408408643,0,False,tertiary,Old Route 30,36.277,,,,,,,,,,,232495874,CR 157
+2408408667,2408408653,0,False,tertiary,Creek Road,44.655,,,,,,,,,,,5644146,CR 106
+2408408667,41999643,0,False,tertiary,Creek Road,1250.154,,,,,,,,,,,5644146,CR 106
+2408408667,2408408643,0,False,tertiary,Creek Road,31.563,,,,,,,,,,,232495871,CR 106
+3017912626,41980334,0,False,primary,,106.857,,,,,,,,,,,38522063,
+3017912626,41979129,0,False,primary,,24.796,,,,,,,,,,,38522063,
+3017912629,3017912626,0,True,motorway_link,,39.01,,,,,,,,,,,297891576,
+3017912629,3017912632,0,True,motorway_link,,34.151,,,,50 mph,,,,,,,405184476,
+3017912632,41979129,0,False,primary,,19.437,,,,,,,,,,,38522063,
+3017912632,3017913533,0,False,primary,,155.006,,,,,,,yes,,,,"[317607797, 38522062, 38522063]",
+3017913533,41980322,0,False,primary,,9.301,,,,,,,,,,,120704027,
+3017913533,3017912632,0,False,primary,,155.006,,,,,,,yes,,,,"[317607797, 38522062, 38522063]",
+3017913536,3017913540,0,True,motorway_link,,37.123,,,,,,,,,,,297891575,
+3017913536,3017913533,0,True,motorway_link,,30.325,,,,30 mph,,,,,,,378459101,
+3017913540,41980317,0,False,secondary,,151.951,,,,,,,,,,,5642499,
+3017913540,41980322,0,False,secondary,,25.872,,,,,,,,,,,5642499,
+3177916678,41998224,0,False,secondary,State Highway 30,44.593,,,,,,,,,,,20166478,NY 30
+3277879906,3277879916,0,False,secondary,Duanesburg Road,7.62,,,,45 mph,,,,,,,53290585,NY 7
+3277879906,42050527,0,False,secondary,Duanesburg Road,1127.952,,,,45 mph,,,,,,,53290585,NY 7
+3277879906,3277879914,0,True,secondary_link,,53.11,,,,,,,,,,,321073183,
+3277879914,42029938,0,False,secondary,"['Main Street', 'State Highway 395']",789.726,,,,,,,,,,,"[5646833, 5646637]",NY 395
+3277879914,42022195,0,False,secondary,State Highway 395,54.903,,,,,,,,,,,5646833,NY 395
+3277879915,42022198,0,False,tertiary,Schoharie Turnpike,23.949,,,,35 mph,,,,,,,5646064,CR 74
+3277879915,42022195,0,False,tertiary,Schoharie Turnpike,57.999,,,,35 mph,,,,,,,5646064,CR 74
+3277879915,3277879916,0,False,unclassified,,15.861,,,,,,,,,,,321073184,
+3277879916,3277879906,0,False,secondary,Duanesburg Road,7.62,,,,45 mph,,,,,,,53290585,NY 7
+3277879916,42022195,0,False,secondary,Duanesburg Road,56.989,,,,45 mph,,,,,,,53290585,NY 7
+3277879916,3277879915,0,False,unclassified,,15.861,,,,,,,,,,,321073184,
+3277879919,42046865,0,False,tertiary,Quaker Lane,405.625,,,,,,,,,,,5648786,CR 90
+3707355806,42026230,0,False,secondary,Duanesburg Road,54.451,,,,35 mph,,,,,,,414886305,NY 7
+3707355806,42008604,0,False,secondary,Duanesburg Road,1300.325,,,,"['35 mph', '55 mph']",,,yes,,,,"[93405258, 415943795, 53290588, 93405254]",NY 7
+3707355809,42026230,0,False,primary,Western Turnpike,54.641,2,,,35 mph,,,,,,,414886307,US 20
+3707355809,3707355806,0,True,primary_link,,23.043,,,,,,,,,,,366750170,
+3707355809,42027226,0,False,primary,Western Turnpike,1097.051,2,,,"['35 mph', '55 mph']",,,,,,,"[414886306, 415943851, 85380213]",US 20
+3707355810,42027140,0,False,secondary,Duanesburg Road,310.294,,,,35 mph,,,,,,,414886304,NY 7
+3707355810,42026230,0,False,secondary,Duanesburg Road,33.257,,,,35 mph,,,,,,,414886304,NY 7
+3707355810,42026249,0,False,residential,Depot Road,531.592,,,,,,,,,,,5646347,
+4197664484,41984151,0,False,residential,,66.453,,,,,,,,,,,5642833,
+4197664484,41976829,0,False,residential,,48.808,,,,,,,,,,,5642833,
+4197664484,4197664485,0,False,residential,,21.139,,,,,,,,,,,419763952,
+4197664485,4197664484,0,False,residential,,21.139,,,,,,,,,,,419763952,
+4197674804,41976829,0,False,residential,,13.335,,,,,,,,,,,419764276,
+4281392584,4281393156,0,False,residential,Judith Lane,423.71,,,,,,,,,,,"[5648419, 414888428, 429009381]",
+4281392584,4281393156,1,False,tertiary,Lake Road,353.833,,,,,,,,,,,414888429,
+4281392584,42005092,0,False,tertiary,Lake Road,1021.499,,,,,,,,,,,414888429,
+4281393156,4281392584,0,False,residential,Judith Lane,423.71,,,,,,,,,,,"[5648419, 414888428, 429009381]",
+4281393156,4281392584,1,False,tertiary,Lake Road,353.833,,,,,,,,,,,414888429,

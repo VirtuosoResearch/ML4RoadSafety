@@ -1,0 +1,202 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+221786893,222258940,0,False,tertiary,Dupont Avenue,82.046,,,,,,,,,,,20697291,
+221786893,222004300,0,False,tertiary,,224.845,,,,,,,,,,,31722648,
+221789892,221789892,0,False,residential,,156.221,,,,,,,,,,,20659691,
+221789892,221789892,1,False,residential,,156.221,,,,,,,,,,,20659691,
+221789892,221795303,0,False,residential,,108.296,,,,,,,,,,,20660288,
+221795303,221867583,0,False,secondary,Little Britain Road,104.073,,,,,,,,,,,31722643,NY 207
+221795303,221789892,0,False,residential,,108.296,,,,,,,,,,,20660288,
+221795303,221867576,0,False,secondary,Little Britain Road,250.775,,,,,,,,,,,31722643,NY 207
+221822777,221822813,0,False,residential,,122.749,,,,,,,,,,,20663724,
+221822777,221854659,0,False,"['residential', 'tertiary']","['Chestnut Street', 'Locust Street']",269.801,,,,,,,,,,,"[20679656, 20706230]",
+221822777,222057402,0,False,residential,Locust Street,133.257,,,,,,,,,,,20679656,
+221822813,221822777,0,False,residential,,122.749,,,,,,,,,,,20663724,
+221828742,221828779,0,False,residential,South William Street,104.474,,,,,,,,,,,52435315,
+221828742,221828779,1,False,residential,,373.831,,,,,,,,,,,20664550,
+221828742,221957468,0,False,residential,South William Street,159.677,,,,,,,,,,,52435315,
+221828779,221828742,0,False,residential,South William Street,104.474,,,,,,,,,,,52435315,
+221828779,221828742,1,False,residential,,373.831,,,,,,,,,,,20664550,
+221828779,221840841,0,False,residential,South William Street,227.259,,,,,,,,,,,52435315,
+221840829,221840833,0,False,primary,South Robinson Avenue,97.442,2,,,45 mph,,,,,,,20666000,US 9W
+221840829,221937297,0,False,residential,Ann Street,392.885,,,,,,,,,,,20673186,
+221840833,221840836,0,False,primary,South Robinson Avenue,78.055,2,,,45 mph,,,,,,,20666000,US 9W
+221840833,221840829,0,False,primary,South Robinson Avenue,97.442,2,,,45 mph,,,,,,,20666000,US 9W
+221840833,221881998,0,False,residential,Washington Street,442.623,,,,,,,,,,,20707928,
+221840836,221840838,0,False,primary,South Robinson Avenue,73.903,2,,,45 mph,,,,,,,20666000,US 9W
+221840836,221840833,0,False,primary,South Robinson Avenue,78.055,2,,,45 mph,,,,,,,20666000,US 9W
+221840838,221840841,0,False,primary,South Robinson Avenue,103.968,2,,,45 mph,,,,,,,20666000,US 9W
+221840838,221840836,0,False,primary,South Robinson Avenue,73.903,2,,,45 mph,,,,,,,20666000,US 9W
+221840841,221840845,0,False,primary,South Robinson Avenue,258.12,2,,,45 mph,,,,,,,20666000,US 9W
+221840841,221840838,0,False,primary,South Robinson Avenue,103.968,2,,,45 mph,,,,,,,20666000,US 9W
+221840841,221828779,0,False,residential,South William Street,227.259,,,,,,,,,,,52435315,
+221840845,221840841,0,False,primary,South Robinson Avenue,258.12,2,,,45 mph,,,,,,,20666000,US 9W
+221840845,417745630,0,False,primary,South Robinson Avenue,135.007,"['4', '2']",,,45 mph,,,,,,,"[20666000, 121772553]",US 9W
+221840845,221913493,0,False,residential,Dickson Street,393.962,,,,,,,,,,,20671662,
+221849241,222192317,0,True,tertiary,Dupont Ave,326.383,,,,,,,,,,,43194007,
+221854638,221946187,0,True,tertiary,Dupont Ave,86.619,,,,,,,,,,,43194007,
+221854638,221882019,0,False,tertiary,Washington Terrace,97.072,,,,,,,,,,,20669735,
+221854638,221854654,0,False,secondary,Broadway,603.798,,,,,,,,,,,32356044,NY 17K
+221854654,222057402,0,False,secondary,Wisner Avenue,62.185,,,,,,,,,,,202055392,NY 207
+221854654,221908640,0,False,tertiary,,147.985,,,,,,,,,,,31722648,
+221854654,221854638,0,False,secondary,Broadway,603.798,,,,,,,,,,,32356044,NY 17K
+221854654,221854659,0,False,secondary,Broadway,308.486,,,,,,,,,,,192179215,NY 17K
+221854659,221854664,0,False,secondary,Broadway,89.113,,,,,,,,,,,192179215,NY 17K
+221854659,221908651,0,False,tertiary,Fowler Avenue,124.988,,,,,,,,,,,20681351,
+221854659,221822777,0,False,"['residential', 'tertiary']","['Chestnut Street', 'Locust Street']",269.801,,,,,,,,,,,"[20679656, 20706230]",
+221854659,221854654,0,False,secondary,Broadway,308.486,,,,,,,,,,,192179215,NY 17K
+221854664,222147707,0,False,residential,Nott Place,125.827,,,,,,,,,,,20687908,
+221854664,221854668,0,False,secondary,Broadway,78.749,,,,,,,,,,,192179215,NY 17K
+221854664,221854659,0,False,secondary,Broadway,89.113,,,,,,,,,,,192179215,NY 17K
+221854668,222005541,0,False,residential,Mc Dowell Place,119.557,,,,,,,,,,,20677101,
+221854668,221854664,0,False,secondary,Broadway,78.749,,,,,,,,,,,192179215,NY 17K
+221861245,221882012,0,False,tertiary,Washington Terrace,62.094,,,,,,,,,,,20669735,
+221861245,221867520,0,False,tertiary,Little Britain Road,249.172,,,,,,,yes,,,,"[20667928, 202055381, 202055382]",
+221861245,221881998,0,False,tertiary,Washington Terrace,371.595,,,,,,,,,,,20669735,
+221863643,221863658,0,False,residential,Ellis Avenue,359.41,,,,,,,,,,,20668122,
+221863643,221867543,0,False,tertiary,Little Britain Road,127.131,,,,,,,,,,,202055381,
+221863643,221867520,0,False,tertiary,Little Britain Road,92.578,,,,,,,,,,,202055381,
+221863658,221863679,0,False,residential,Ellis Avenue,309.509,,,,,,,,,,,20668122,
+221863658,221863643,0,False,residential,Ellis Avenue,359.41,,,,,,,,,,,20668122,
+221863658,221992174,0,False,residential,Beach Street,106.116,,,,,,,,,,,20681312,
+221863679,221863658,0,False,residential,Ellis Avenue,309.509,,,,,,,,,,,20668122,
+221867520,221880177,0,False,residential,Cerone Place,332.87,,,,,,,,,,,20669600,
+221867520,221863643,0,False,tertiary,Little Britain Road,92.578,,,,,,,,,,,202055381,
+221867520,221861245,0,False,tertiary,Little Britain Road,249.172,,,,,,,yes,,,,"[20667928, 202055381, 202055382]",
+221867543,221992174,0,False,residential,Temple Avenue,284.135,,,,,,,,,,,20676485,
+221867543,221867576,0,False,tertiary,Little Britain Road,349.922,,,,,,,,,,,202055381,
+221867543,221863643,0,False,tertiary,Little Britain Road,127.131,,,,,,,,,,,202055381,
+221867576,222057402,0,False,secondary,Wisner Avenue,163.255,,,,,,,yes,,,,"[202055392, 20680835, 202055391]",NY 207
+221867576,221795303,0,False,secondary,Little Britain Road,250.775,,,,,,,,,,,31722643,NY 207
+221867576,221867543,0,False,tertiary,Little Britain Road,349.922,,,,,,,,,,,202055381,
+221867583,221795303,0,False,secondary,Little Britain Road,104.073,,,,,,,,,,,31722643,NY 207
+221867583,222030405,0,False,residential,Carroll Street,147.939,,,,,,,,,,,20678110,
+221867583,221867595,0,False,secondary,Little Britain Road,251.151,,,,,,,,,,,31722643,NY 207
+221867595,222423146,0,False,residential,Corwin Court,150.856,,,,,,,,,,,20712073,
+221867595,221867583,0,False,secondary,Little Britain Road,251.151,,,,,,,,,,,31722643,NY 207
+221880177,221867520,0,False,residential,Cerone Place,332.87,,,,,,,,,,,20669600,
+221880177,222243543,0,False,residential,Lake Drive,583.315,,,,,,,,,,,20696002,
+221880177,222112160,0,False,residential,Lake Drive,373.571,,,,,,,,,,,20696002,
+221881998,221861245,0,False,tertiary,Washington Terrace,371.595,,,,,,,,,,,20669735,
+221881998,221840833,0,False,residential,Washington Street,442.623,,,,,,,,,,,20707928,
+221881998,222243363,0,False,secondary,Lake Street,163.454,,,,,,,,,,,20711885,NY 32
+221881998,221937297,0,False,secondary,Lake Street,112.246,,,,,,,,,,,20711885,NY 32
+221882012,221882019,0,False,tertiary,Washington Terrace,16.669,,,,,,,,,,,20669735,
+221882012,221861245,0,False,tertiary,Washington Terrace,62.094,,,,,,,,,,,20669735,
+221882012,222117763,0,False,residential,Old Little Britain Road,131.234,,,,,,,,,,,20684786,
+221882019,221882012,0,False,tertiary,Washington Terrace,16.669,,,,,,,,,,,20669735,
+221882019,221854638,0,False,tertiary,Washington Terrace,97.072,,,,,,,,,,,20669735,
+221908640,222072834,0,False,tertiary,,110.012,,,,,,,,,,,31722648,
+221908640,221908651,0,False,residential,Maple Street,267.814,,,,,,,,,,,20671331,
+221908640,221854654,0,False,tertiary,,147.985,,,,,,,,,,,31722648,
+221908651,221908654,0,False,residential,Maple Street,226.797,,,,,,,,,,,20671331,
+221908651,222078290,0,False,tertiary,Fowler Avenue,97.525,,,,,,,,,,,20681351,
+221908651,221908640,0,False,residential,Maple Street,267.814,,,,,,,,,,,20671331,
+221908651,221854659,0,False,tertiary,Fowler Avenue,124.988,,,,,,,,,,,20681351,
+221908654,221908651,0,False,residential,Maple Street,226.797,,,,,,,,,,,20671331,
+221909628,221849241,0,True,tertiary,Dupont Ave,59.572,,,,,,,,,,,43194007,
+221913493,221913497,0,False,residential,Dickson Street,48.833,,,,,,,,,,,20671662,
+221913493,221840845,0,False,residential,Dickson Street,393.962,,,,,,,,,,,20671662,
+221913493,3350351492,0,False,residential,Kinney Court,150.96,,,,,,,,,,,20693761,
+221913497,221913501,0,False,residential,Dickson Street,61.93,,,,,,,,,,,20671662,
+221913497,221913493,0,False,residential,Dickson Street,48.833,,,,,,,,,,,20671662,
+221913497,222128810,0,False,residential,Commercial Place,169.499,,,,,,,,,,,20686043,
+221913501,221913497,0,False,residential,Dickson Street,61.93,,,,,,,,,,,20671662,
+221913501,221957468,0,False,residential,Walsh Avenue,235.528,,,,,,,,,,,20674373,
+221937297,221840829,0,False,residential,Ann Street,392.885,,,,,,,,,,,20673186,
+221937297,221881998,0,False,secondary,Lake Street,112.246,,,,,,,,,,,20711885,NY 32
+221939364,222258949,0,False,residential,Thompson Street,171.391,,,,,,,,,,,20711167,
+221939364,221939370,0,False,tertiary,South Street,60.918,,,,,,,,,,,68010192,
+221939370,444050421,0,False,tertiary,South Street,78.67,,,,,,,,,,,68010192,
+221939370,221939364,0,False,tertiary,South Street,60.918,,,,,,,,,,,68010192,
+221939388,222258964,0,False,residential,Court Place,54.453,,,,,,,,,,,20706947,
+221939388,444050437,0,False,tertiary,South Street,32.217,,,,,,,,,,,68010192,
+221939388,444050421,0,False,tertiary,South Street,59.037,,,,,,,,,,,68010192,
+221939394,222258964,0,False,tertiary,Dupont Avenue,147.004,,,,,,,,,,,20697291,
+221939394,444050437,0,False,tertiary,South Street,96.796,,,,,,,,,,,68010192,
+221943195,221943213,0,False,residential,Vanamee Street,87.089,,,,,,,,,,,20673526,
+221943195,222258949,0,False,residential,Thompson Street,133.541,,,,,,,,,,,20711167,
+221943195,222349070,0,False,residential,Thompson Street,256.384,,,,,,,,,,,20711167,
+221943213,221943224,0,False,residential,Vanamee Street,70.73,,,,,,,,,,,20673526,
+221943213,221943195,0,False,residential,Vanamee Street,87.089,,,,,,,,,,,20673526,
+221943213,444050514,0,False,residential,Belknap Street,75.976,,,,,,,,,,,20713141,
+221943224,221943213,0,False,residential,Vanamee Street,70.73,,,,,,,,,,,20673526,
+221946187,221909628,0,True,tertiary,Dupont Ave,207.789,,,,,,,,,,,43194007,
+221957468,221913501,0,False,residential,Walsh Avenue,235.528,,,,,,,,,,,20674373,
+221957468,222378747,0,False,residential,South William Street,78.938,,,,,,,,,,,52435315,
+221957468,221828742,0,False,residential,South William Street,159.677,,,,,,,,,,,52435315,
+221992174,221992214,0,False,residential,Temple Avenue,568.681,,,,,,,,,,,20676485,
+221992174,221867543,0,False,residential,Temple Avenue,284.135,,,,,,,,,,,20676485,
+221992174,221863658,0,False,residential,Beach Street,106.116,,,,,,,,,,,20681312,
+221992214,221992174,0,False,residential,Temple Avenue,568.681,,,,,,,,,,,20676485,
+222004300,222004304,0,False,residential,Oak Street,217.944,,,,,,,,,,,20677048,
+222004300,222072834,0,False,tertiary,,108.885,,,,,,,,,,,31722648,
+222004300,221786893,0,False,tertiary,,224.845,,,,,,,,,,,31722648,
+222004304,222004300,0,False,residential,Oak Street,217.944,,,,,,,,,,,20677048,
+222004304,222078301,0,False,tertiary,Fowler Avenue,38.416,,,,,,,,,,,20681351,
+222004304,222078290,0,False,tertiary,Fowler Avenue,107.358,,,,,,,,,,,20681351,
+222005541,221854668,0,False,residential,Mc Dowell Place,119.557,,,,,,,,,,,20677101,
+222030398,222030405,0,False,residential,Carroll Street,48.818,,,,,,,,,,,20678110,
+222030405,221867583,0,False,residential,Carroll Street,147.939,,,,,,,,,,,20678110,
+222030405,222030398,0,False,residential,Carroll Street,48.818,,,,,,,,,,,20678110,
+222030405,222065388,0,False,residential,West High Street,33.941,,,,,,,,,,,20680226,
+222057402,221854654,0,False,secondary,Wisner Avenue,62.185,,,,,,,,,,,202055392,NY 207
+222057402,221822777,0,False,residential,Locust Street,133.257,,,,,,,,,,,20679656,
+222057402,221867576,0,False,secondary,Wisner Avenue,163.255,,,,,,,yes,,,,"[202055392, 20680835, 202055391]",NY 207
+222065388,222030405,0,False,residential,West High Street,33.941,,,,,,,,,,,20680226,
+222072834,222004300,0,False,tertiary,,108.885,,,,,,,,,,,31722648,
+222072834,221908640,0,False,tertiary,,110.012,,,,,,,,,,,31722648,
+222072834,222078290,0,False,residential,Poplar Street,243.093,,,,,,,,,,,20710560,
+222078290,221908651,0,False,tertiary,Fowler Avenue,97.525,,,,,,,,,,,20681351,
+222078290,222004304,0,False,tertiary,Fowler Avenue,107.358,,,,,,,,,,,20681351,
+222078290,222407868,0,False,residential,Poplar Street,212.894,,,,,,,,,,,20710560,
+222078290,222072834,0,False,residential,Poplar Street,243.093,,,,,,,,,,,20710560,
+222078301,222078311,0,False,tertiary,Fowler Avenue,110.032,,,,,,,,,,,20681351,
+222078301,222004304,0,False,tertiary,Fowler Avenue,38.416,,,,,,,,,,,20681351,
+222078301,222349070,0,False,residential,White Street,96.137,,,,,,,,,,,20706023,
+222078311,222078318,0,False,tertiary,Fowler Avenue,208.275,,,,,,,,,,,20681351,
+222078311,222078301,0,False,tertiary,Fowler Avenue,110.032,,,,,,,,,,,20681351,
+222078311,222258940,0,False,residential,Favoriti Avenue,209.61,,,,,,,,,,,20713099,
+222078318,222078311,0,False,tertiary,Fowler Avenue,208.275,,,,,,,,,,,20681351,
+222078318,222258940,0,False,tertiary,Dupont Avenue,148.882,,,,,,,,,,,20697291,
+222078318,222258949,0,False,tertiary,Dupont Avenue,102.177,,,,,,,,,,,20697291,
+222112160,222112179,0,False,residential,Lakeside Plaza,114.284,,,,,,,,,,,20684219,
+222112160,222112179,1,False,residential,Lake Drive,74.141,,,,,,,,,,,20696002,
+222112160,221880177,0,False,residential,Lake Drive,373.571,,,,,,,,,,,20696002,
+222112179,222112160,0,False,residential,Lakeside Plaza,114.284,,,,,,,,,,,20684219,
+222112179,222112160,1,False,residential,Lake Drive,74.141,,,,,,,,,,,20696002,
+222112179,222243363,0,False,residential,Lake Drive,254.743,,,,,,,,,,,20696002,
+222117763,221882012,0,False,residential,Old Little Britain Road,131.234,,,,,,,,,,,20684786,
+222128810,221913497,0,False,residential,Commercial Place,169.499,,,,,,,,,,,20686043,
+222147707,221854664,0,False,residential,Nott Place,125.827,,,,,,,,,,,20687908,
+222192317,221786893,0,True,tertiary,Dupont Ave,324.963,,,,,,,,,,,43194007,
+222243363,222378747,0,False,secondary,Lake Street,114.797,,,,,,,,,,,20711885,NY 32
+222243363,222112179,0,False,residential,Lake Drive,254.743,,,,,,,,,,,20696002,
+222243363,221881998,0,False,secondary,Lake Street,163.454,,,,,,,,,,,20711885,NY 32
+222243543,221880177,0,False,residential,Lake Drive,583.315,,,,,,,,,,,20696002,
+222243543,222378747,0,False,secondary,Lake Street,416.032,,,,,,,yes,,,,"[20711885, 192181756, 192181757]",NY 32
+222258940,222078318,0,False,tertiary,Dupont Avenue,148.882,,,,,,,,,,,20697291,
+222258940,221786893,0,False,tertiary,Dupont Avenue,82.046,,,,,,,,,,,20697291,
+222258940,222078311,0,False,residential,Favoriti Avenue,209.61,,,,,,,,,,,20713099,
+222258949,222258964,0,False,tertiary,Dupont Avenue,80.173,,,,,,,,,,,20697291,
+222258949,222078318,0,False,tertiary,Dupont Avenue,102.177,,,,,,,,,,,20697291,
+222258949,221939364,0,False,residential,Thompson Street,171.391,,,,,,,,,,,20711167,
+222258949,221943195,0,False,residential,Thompson Street,133.541,,,,,,,,,,,20711167,
+222258964,222258949,0,False,tertiary,Dupont Avenue,80.173,,,,,,,,,,,20697291,
+222258964,221939388,0,False,residential,Court Place,54.453,,,,,,,,,,,20706947,
+222258964,221939394,0,False,tertiary,Dupont Avenue,147.004,,,,,,,,,,,20697291,
+222349070,222349080,0,False,residential,White Street,26.443,,,,,,,,,,,20706023,
+222349070,222078301,0,False,residential,White Street,96.137,,,,,,,,,,,20706023,
+222349070,221943195,0,False,residential,Thompson Street,256.384,,,,,,,,,,,20711167,
+222349080,222349070,0,False,residential,White Street,26.443,,,,,,,,,,,20706023,
+222378747,222243363,0,False,secondary,Lake Street,114.797,,,,,,,,,,,20711885,NY 32
+222378747,222243543,0,False,secondary,Lake Street,416.032,,,,,,,yes,,,,"[192181757, 192181756, 20711885]",NY 32
+222378747,221957468,0,False,residential,South William Street,78.938,,,,,,,,,,,52435315,
+222407868,222078290,0,False,residential,Poplar Street,212.894,,,,,,,,,,,20710560,
+222423146,221867595,0,False,residential,Corwin Court,150.856,,,,,,,,,,,20712073,
+417745630,221840845,0,False,primary,South Robinson Avenue,135.007,"['4', '2']",,,45 mph,,,,,,,"[20666000, 121772553]",US 9W
+444050421,221939388,0,False,tertiary,South Street,59.037,,,,,,,,,,,68010192,
+444050421,221939370,0,False,tertiary,South Street,78.67,,,,,,,,,,,68010192,
+444050437,221939388,0,False,tertiary,South Street,32.217,,,,,,,,,,,68010192,
+444050437,221939394,0,False,tertiary,South Street,96.796,,,,,,,,,,,68010192,
+444050514,221943213,0,False,residential,Belknap Street,75.976,,,,,,,,,,,20713141,
+3350351492,221913493,0,False,residential,Kinney Court,150.96,,,,,,,,,,,20693761,

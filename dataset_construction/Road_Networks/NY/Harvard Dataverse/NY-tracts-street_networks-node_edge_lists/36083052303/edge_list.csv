@@ -1,0 +1,197 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+41713067,41713068,0,False,residential,,36.006,,,,,,,,,,,5614647,
+41713067,41796735,0,False,residential,St Joseph Court,84.301,,,,,,,,,,,5624116,
+41713067,41895117,0,False,residential,Avenue B East,31.176,,,,,,,,,,,5636653,
+41713068,41713067,0,False,residential,,36.006,,,,,,,,,,,5614647,
+41718915,41718915,0,False,residential,Excelsior Way,227.512,,,,,,,,,,,5615547,
+41718915,41718915,1,False,residential,Excelsior Way,227.512,,,,,,,,,,,5615547,
+41718915,41718982,0,False,residential,Excelsior Way,154.234,,,,,,,,,,,5615549,
+41718982,41718915,0,False,residential,Excelsior Way,154.234,,,,,,,,,,,5615549,
+41718982,41726366,0,False,tertiary,Peck Road,134.805,,,,30 mph,,,,,,,5616329,CR 69
+41718982,41726359,0,False,tertiary,Peck Road,152.745,,,,30 mph,,,,,,,5616329,CR 69
+41720774,41720782,0,False,tertiary,Hidley Road,39.068,,,,35 mph,,,,,,,5615764,CR 67
+41720774,916257412,0,False,tertiary,Hidley Road,504.512,,,,35 mph,,,,,,,5615764,CR 67
+41720782,41720774,0,False,tertiary,Hidley Road,39.068,,,,35 mph,,,,,,,5615764,CR 67
+41720782,41768064,0,False,tertiary,Hidley Road,37.215,,,,30 mph,,,,,,,5622689,CR 67; CR 68
+41726329,41726339,0,False,tertiary,Peck Road,37.545,,,,30 mph,,,,,,,5616329,CR 69
+41726329,584381602,0,False,tertiary,Pershing Avenue,187.013,,,,30 mph,,,,,,,5620837,CR 68
+41726329,41767923,0,False,tertiary,Pershing Avenue,444.741,,,,30 mph,,,,,,,5620837,CR 68
+41726339,41726341,0,False,tertiary,Peck Road,77.797,,,,30 mph,,,,,,,5616329,CR 69
+41726339,41726329,0,False,tertiary,Peck Road,37.545,,,,30 mph,,,,,,,5616329,CR 69
+41726339,41787509,0,False,residential,Grace Court,127.005,,,,,,,,,,,5623042,
+41726341,41726343,0,False,tertiary,Peck Road,25.795,,,,30 mph,,,,,,,5616329,CR 69
+41726341,41726339,0,False,tertiary,Peck Road,77.797,,,,30 mph,,,,,,,5616329,CR 69
+41726341,41790707,0,False,residential,Rays Way,97.474,,,,,,,,,,,5623396,
+41726343,41726345,0,False,tertiary,Peck Road,87.037,,,,30 mph,,,,,,,5616329,CR 69
+41726343,41726341,0,False,tertiary,Peck Road,25.795,,,,30 mph,,,,,,,5616329,CR 69
+41726343,41787509,0,False,residential,Avenue A East,34.141,,,,,,,,,,,5636371,
+41726345,41726347,0,False,tertiary,Peck Road,44.636,,,,30 mph,,,,,,,5616329,CR 69
+41726345,41726343,0,False,tertiary,Peck Road,87.037,,,,30 mph,,,,,,,5616329,CR 69
+41726345,41787507,0,False,residential,Avenue B East,32.591,,,,,,,,,,,5636653,
+41726347,41726345,0,False,tertiary,Peck Road,44.636,,,,30 mph,,,,,,,5616329,CR 69
+41726347,41726356,0,False,tertiary,Peck Road,190.172,,,,30 mph,,,,,,,5616329,CR 69
+41726347,1057716752,0,False,residential,Lake View Road,88.285,,,,,,,,,,,5641720,
+41726356,41726359,0,False,tertiary,Peck Road,106.208,,,,30 mph,,,,,,,5616329,CR 69
+41726356,41726347,0,False,tertiary,Peck Road,190.172,,,,30 mph,,,,,,,5616329,CR 69
+41726356,41733227,0,False,residential,Drake Way,296.187,,,,,,,,,,,5627974,
+41726359,41726356,0,False,tertiary,Peck Road,106.208,,,,30 mph,,,,,,,5616329,CR 69
+41726359,41718982,0,False,tertiary,Peck Road,152.745,,,,30 mph,,,,,,,5616329,CR 69
+41726359,41733227,0,False,residential,Mallard Way,87.547,,,,,,,,,,,5617122,
+41726366,41726452,0,False,tertiary,Peck Road,1842.714,,,,30 mph,,,,,,,5616329,CR 69
+41726366,41718982,0,False,tertiary,Peck Road,134.805,,,,30 mph,,,,,,,5616329,CR 69
+41726366,41773864,0,False,residential,Aeries View Road,261.206,,,,,,,,,,,5621491,
+41726452,41726366,0,False,tertiary,Peck Road,1842.714,,,,30 mph,,,,,,,5616329,CR 69
+41733227,41733229,0,False,residential,Mallard Way,68.399,,,,,,,,,,,5617122,
+41733227,41726359,0,False,residential,Mallard Way,87.547,,,,,,,,,,,5617122,
+41733227,41726356,0,False,residential,Drake Way,296.187,,,,,,,,,,,5627974,
+41733229,41733227,0,False,residential,Mallard Way,68.399,,,,,,,,,,,5617122,
+41735994,41735995,0,False,residential,Clara Court,72.262,,,,30 mph,,,,,,,5617463,
+41735994,41743457,0,False,tertiary,Troy Avenue,141.635,,,,25 mph,,,,,,,5637802,CR 67
+41735994,41811042,0,False,tertiary,Troy Avenue,220.253,,,,25 mph,,,,,,,5637802,CR 67
+41735995,41735998,0,False,residential,Clara Court,73.285,,,,30 mph,,,,,,,5617463,
+41735995,41735994,0,False,residential,Clara Court,72.262,,,,30 mph,,,,,,,5617463,
+41735995,41811045,0,False,residential,Burns Avenue,208.021,,,,30 mph,,,,,,,5626255,
+41735995,41743457,0,False,residential,"['Burns Avenue', 'Lillian Court']",203.182,,,,30 mph,,,,,,,"[5618266, 5626255]",
+41735998,41735995,0,False,residential,Clara Court,73.285,,,,30 mph,,,,,,,5617463,
+41735998,41861786,0,False,residential,South Lakeview Avenue,62.223,,,,30 mph,,,,,,,5632314,
+41735998,41768050,0,False,residential,South Lakeview Avenue,174.504,,,,30 mph,,,,,,,5632314,
+41743457,41768074,0,False,tertiary,Troy Avenue,133.021,,,,25 mph,,,,,,,5637802,CR 67
+41743457,41735994,0,False,tertiary,Troy Avenue,141.635,,,,25 mph,,,,,,,5637802,CR 67
+41743457,41735995,0,False,residential,"['Burns Avenue', 'Lillian Court']",203.182,,,,30 mph,,,,,,,"[5618266, 5626255]",
+41754549,584381602,0,False,residential,Tiffany Place,243.735,,,,25 mph,,,,,,,5619405,
+41754549,41807288,0,False,residential,Thomas Drive,236.023,,,,25 mph,,,,,,,5625346,
+41754549,41807232,0,False,residential,Thomas Drive,74.304,,,,25 mph,,,,,,,5625346,
+41760381,41807296,0,False,residential,Thomas Drive,57.745,,,,25 mph,,,,,,,5625346,
+41760381,41807288,0,False,residential,Thomas Drive,133.13,,,,25 mph,,,,,,,5625346,
+41767905,41767923,0,False,tertiary,Pershing Avenue,245.045,,,,30 mph,,,,,,,5620837,CR 68
+41767905,41856586,0,False,secondary,West Sand Lake Road,95.036,,,,45 mph,,,,,,,52704385,NY 150
+41767923,41726329,0,False,tertiary,Pershing Avenue,444.741,,,,30 mph,,,,,,,5620837,CR 68
+41767923,41767905,0,False,tertiary,Pershing Avenue,245.045,,,,30 mph,,,,,,,5620837,CR 68
+41767923,649746147,0,False,residential,Ridgewood Drive,199.143,,,,30 mph,,,,,,,5624028,
+41767923,41815288,0,False,residential,Michael Street,168.158,,,,30 mph,,,,,,,5626165,
+41768015,41768022,0,False,tertiary,Pershing Avenue,106.3,,,,30 mph,,,,,,,5620837,CR 68
+41768015,584381602,0,False,tertiary,Pershing Avenue,472.801,,,,30 mph,,,,,,,5620837,CR 68
+41768015,41840970,0,False,residential,Lakeshore Drive,195.27,,,,,,,,,,,5629324,
+41768022,41768025,0,False,tertiary,Pershing Avenue,34.644,,,,30 mph,,,,,,,5620837,CR 68
+41768022,41768015,0,False,tertiary,Pershing Avenue,106.3,,,,30 mph,,,,,,,5620837,CR 68
+41768022,41871856,0,False,residential,Haig Avenue,189.777,,,,,,,,,,,5639284,
+41768025,41768028,0,False,tertiary,Pershing Avenue,66.317,,,,30 mph,,,,,,,5620837,CR 68
+41768025,41768022,0,False,tertiary,Pershing Avenue,34.644,,,,30 mph,,,,,,,5620837,CR 68
+41768025,41850799,0,False,residential,Shore Court,100.453,,,,,,,,,,,5630647,
+41768028,41768025,0,False,tertiary,Pershing Avenue,66.317,,,,30 mph,,,,,,,5620837,CR 68
+41768028,41768035,0,False,tertiary,Pershing Avenue,88.057,,,,30 mph,,,,,,,5620837,CR 68
+41768028,41894772,0,False,residential,Overlook Avenue,483.252,,,,,,,,,,,5636608,
+41768035,41768037,0,False,tertiary,Pershing Avenue,70.651,,,,30 mph,,,,,,,5620837,CR 68
+41768035,41768028,0,False,tertiary,Pershing Avenue,88.057,,,,30 mph,,,,,,,5620837,CR 68
+41768035,41857601,0,False,residential,Franklin Avenue,239.484,,,,,,,,,,,5636114,
+41768035,41850799,0,False,residential,Leslie Avenue,128.961,,,,,,,,,,,5636439,
+41768037,41768035,0,False,tertiary,Pershing Avenue,70.651,,,,30 mph,,,,,,,5620837,CR 68
+41768037,41768046,0,False,tertiary,Pershing Avenue,45.488,,,,30 mph,,,,,,,5620837,CR 68
+41768037,41857601,0,False,residential,"['Pleasant Avenue', 'Hannah Court']",237.069,,,,,,,,,,,"[5631621, 5623607]",
+41768046,41768050,0,False,tertiary,Pershing Avenue,76.739,,,,30 mph,,,,,,,5620837,CR 68
+41768046,41768037,0,False,tertiary,Pershing Avenue,45.488,,,,30 mph,,,,,,,5620837,CR 68
+41768046,41811037,0,False,residential,Liberty Avenue,156.334,,,,,,,,,,,5625709,
+41768050,41768063,0,False,tertiary,Pershing Avenue,166.222,,,,30 mph,,,,,,,5620837,CR 68
+41768050,41768046,0,False,tertiary,Pershing Avenue,76.739,,,,30 mph,,,,,,,5620837,CR 68
+41768050,41735998,0,False,residential,South Lakeview Avenue,174.504,,,,30 mph,,,,,,,5632314,
+41768063,41768064,0,False,tertiary,Pershing Avenue,43.863,,,,30 mph,,,,,,,5620837,CR 68
+41768063,41768050,0,False,tertiary,Pershing Avenue,166.222,,,,30 mph,,,,,,,5620837,CR 68
+41768063,41768074,0,False,tertiary,Pershing Avenue,29.332,,,,30 mph,,,,,,,5620839,
+41768064,41768063,0,False,tertiary,Pershing Avenue,43.863,,,,30 mph,,,,,,,5620837,CR 68
+41768064,41720782,0,False,tertiary,Hidley Road,37.215,,,,30 mph,,,,,,,5622689,CR 67; CR 68
+41768064,41768074,0,False,tertiary,Troy Avenue,39.587,,,,25 mph,,,,,,,5637802,CR 67
+41768074,41768064,0,False,tertiary,Troy Avenue,39.587,,,,25 mph,,,,,,,5637802,CR 67
+41768074,41743457,0,False,tertiary,Troy Avenue,133.021,,,,25 mph,,,,,,,5637802,CR 67
+41768074,41768063,0,False,tertiary,Pershing Avenue,29.332,,,,30 mph,,,,,,,5620839,
+41773864,41773864,0,False,residential,Aeries View Road,84.69,,,,,,,,,,,5621486,
+41773864,41773864,1,False,residential,Aeries View Road,84.69,,,,,,,,,,,5621486,
+41773864,41726366,0,False,residential,Aeries View Road,261.206,,,,,,,,,,,5621491,
+41776944,41806780,0,False,residential,Grandview Avenue,103.628,,,,30 mph,,,,,,,5625280,
+41776944,41776947,0,False,residential,Worthington Boulevard,116.108,,,,30 mph,,,,,,,50952927,
+41776944,443234221,0,False,residential,Worthington Boulevard,134.785,,,,30 mph,,,,,,,50952927,
+41776944,41806795,0,False,residential,Grandview Avenue,177.87,,,,30 mph,,,,,,,5625280,
+41776947,41776944,0,False,residential,Worthington Boulevard,116.108,,,,30 mph,,,,,,,50952927,
+41787507,41787509,0,False,residential,Grace Court,84.501,,,,,,,,,,,5623042,
+41787507,41895117,0,False,residential,Avenue B East,28.45,,,,,,,,,,,5636653,
+41787507,41726345,0,False,residential,Avenue B East,32.591,,,,,,,,,,,5636653,
+41787509,41787507,0,False,residential,Grace Court,84.501,,,,,,,,,,,5623042,
+41787509,41726343,0,False,residential,Avenue A East,34.141,,,,,,,,,,,5636371,
+41787509,41892779,0,False,residential,Avenue A East,29.103,,,,,,,,,,,5636371,
+41787509,41726339,0,False,residential,Grace Court,127.005,,,,,,,,,,,5623042,
+41790707,41726341,0,False,residential,Rays Way,97.474,,,,,,,,,,,5623396,
+41796735,41796737,0,False,residential,St Joseph Court,78.018,,,,,,,,,,,5624116,
+41796735,41892779,0,False,residential,Avenue A,29.207,,,,,,,,,,,5637723,
+41796735,41713067,0,False,residential,St Joseph Court,84.301,,,,,,,,,,,5624116,
+41796737,41796735,0,False,residential,St Joseph Court,78.018,,,,,,,,,,,5624116,
+41803203,41803235,0,False,residential,Mary View Drive,397.75,,,,,,,,,,,5624769,
+41803203,41911247,0,False,tertiary,Geiser Road,869.993,,,,35 mph,,,,,,,33099338,CR 67
+41803203,41885481,0,False,tertiary,Geiser Road,630.81,,,,"['35 mph', '30 mph']",,,,,,,"[33099338, 5641987]",CR 67
+41803235,41803203,0,False,residential,Mary View Drive,397.75,,,,,,,,,,,5624769,
+41806779,41806780,0,False,residential,Grandview Avenue,120.411,,,,30 mph,,,,,,,5625280,
+41806780,41776944,0,False,residential,Grandview Avenue,103.628,,,,30 mph,,,,,,,5625280,
+41806780,41806779,0,False,residential,Grandview Avenue,120.411,,,,30 mph,,,,,,,5625280,
+41806780,41893629,0,False,residential,Kuhl Boulevard,173.888,,,,30 mph,,,,,,,5636479,
+41806795,41776944,0,False,residential,Grandview Avenue,177.87,,,,30 mph,,,,,,,5625280,
+41807232,41807232,0,False,residential,Thomas Drive,100.469,,,,25 mph,,,,,,,5625344,
+41807232,41807232,1,False,residential,Thomas Drive,100.469,,,,25 mph,,,,,,,5625344,
+41807232,41754549,0,False,residential,Thomas Drive,74.304,,,,25 mph,,,,,,,5625346,
+41807288,41760381,0,False,residential,Thomas Drive,133.13,,,,25 mph,,,,,,,5625346,
+41807288,41754549,0,False,residential,Thomas Drive,236.023,,,,25 mph,,,,,,,5625346,
+41807288,41824735,0,False,residential,Sunrise Terrace,176.779,,,,25 mph,,,,,,,5627398,
+41807296,41760381,0,False,residential,Thomas Drive,57.745,,,,25 mph,,,,,,,5625346,
+41807296,41807296,0,False,residential,Thomas Drive,103.944,,,,25 mph,,,,,,,5625347,
+41807296,41807296,1,False,residential,Thomas Drive,103.944,,,,25 mph,,,,,,,5625347,
+41811037,41768046,0,False,residential,Liberty Avenue,156.334,,,,,,,,,,,5625709,
+41811042,41811045,0,False,residential,Liberty Avenue,62.954,,,,30 mph,,,,,,,5625712,
+41811042,41735994,0,False,tertiary,Troy Avenue,220.253,,,,25 mph,,,,,,,5637802,CR 67
+41811045,41811042,0,False,residential,Liberty Avenue,62.954,,,,30 mph,,,,,,,5625712,
+41811045,41811056,0,False,residential,Liberty Avenue,88.29,,,,30 mph,,,,,,,5625712,
+41811045,41735995,0,False,residential,Burns Avenue,208.021,,,,30 mph,,,,,,,5626255,
+41811056,41811045,0,False,residential,Liberty Avenue,88.29,,,,30 mph,,,,,,,5625712,
+41815288,41767923,0,False,residential,Michael Street,168.158,,,,30 mph,,,,,,,5626165,
+41815288,41815288,0,False,residential,Michael Street,106.129,,,,30 mph,,,,,,,5635247,
+41815288,41815288,1,False,residential,Michael Street,106.129,,,,30 mph,,,,,,,5635247,
+41824735,41807288,0,False,residential,Sunrise Terrace,176.779,,,,25 mph,,,,,,,5627398,
+41824735,41824735,0,False,residential,Sunrise Terrace,98.396,,,,25 mph,,,,,,,5627404,
+41824735,41824735,1,False,residential,Sunrise Terrace,98.396,,,,25 mph,,,,,,,5627404,
+41840970,41850799,0,False,residential,Leslie Avenue,70.135,,,,,,,,,,,5636439,
+41840970,41768015,0,False,residential,Lakeshore Drive,195.27,,,,,,,,,,,5629324,
+41841039,443234221,0,False,residential,Northview Avenue,235.206,,,,30 mph,,,,,,,5629329,
+41850799,41840970,0,False,residential,Leslie Avenue,70.135,,,,,,,,,,,5636439,
+41850799,41768025,0,False,residential,Shore Court,100.453,,,,,,,,,,,5630647,
+41850799,41768035,0,False,residential,Leslie Avenue,128.961,,,,,,,,,,,5636439,
+41856586,41767905,0,False,secondary,West Sand Lake Road,95.036,,,,45 mph,,,,,,,52704385,NY 150
+41857601,41768037,0,False,residential,"['Pleasant Avenue', 'Hannah Court']",237.069,,,,,,,,,,,"[5631621, 5623607]",
+41857601,41890287,0,False,residential,Franklin Avenue,88.597,,,,,,,,,,,5636114,
+41857601,41768035,0,False,residential,Franklin Avenue,239.484,,,,,,,,,,,5636114,
+41861786,41735998,0,False,residential,South Lakeview Avenue,62.223,,,,30 mph,,,,,,,5632314,
+41871856,41871873,0,False,residential,Hillside Avenue,170.649,,,,,,,,,,,5633880,
+41871856,41931597,0,False,residential,Haig Avenue,382.935,,,,,,,,,,,5639284,
+41871856,41768022,0,False,residential,Haig Avenue,189.777,,,,,,,,,,,5639284,
+41871873,41871856,0,False,residential,Hillside Avenue,170.649,,,,,,,,,,,5633880,
+41885481,41885516,0,False,residential,Camp Scully Way,323.541,,,,,,,,,,,5635496,
+41885481,41803203,0,False,tertiary,Geiser Road,630.81,,,,"['35 mph', '30 mph']",,,,,,,"[33099338, 5641987]",CR 67
+41885516,41885481,0,False,residential,Camp Scully Way,323.541,,,,,,,,,,,5635496,
+41890287,41857601,0,False,residential,Franklin Avenue,88.597,,,,,,,,,,,5636114,
+41892779,41787509,0,False,residential,Avenue A East,29.103,,,,,,,,,,,5636371,
+41892779,41796735,0,False,residential,Avenue A,29.207,,,,,,,,,,,5637723,
+41892779,41932942,0,False,residential,Smith Court,72.052,,,,,,,,,,,5639383,
+41892779,41895117,0,False,residential,Smith Court,85.462,,,,,,,,,,,5639383,
+41893629,41806780,0,False,residential,Kuhl Boulevard,173.888,,,,30 mph,,,,,,,5636479,
+41894772,41768028,0,False,residential,Overlook Avenue,483.252,,,,,,,,,,,5636608,
+41895117,41787507,0,False,residential,Avenue B East,28.45,,,,,,,,,,,5636653,
+41895117,41713067,0,False,residential,Avenue B East,31.176,,,,,,,,,,,5636653,
+41895117,41892779,0,False,residential,Smith Court,85.462,,,,,,,,,,,5639383,
+41911247,41803203,0,False,tertiary,Geiser Road,869.993,,,,35 mph,,,,,,,33099338,CR 67
+41931597,41871856,0,False,residential,Haig Avenue,382.935,,,,,,,,,,,5639284,
+41932942,41892779,0,False,residential,Smith Court,72.052,,,,,,,,,,,5639383,
+443234221,41776944,0,False,residential,Worthington Boulevard,134.785,,,,30 mph,,,,,,,50952927,
+443234221,41841039,0,False,residential,Northview Avenue,235.206,,,,30 mph,,,,,,,5629329,
+584381602,41754549,0,False,residential,Tiffany Place,243.735,,,,25 mph,,,,,,,5619405,
+584381602,41768015,0,False,tertiary,Pershing Avenue,472.801,,,,30 mph,,,,,,,5620837,CR 68
+584381602,41726329,0,False,tertiary,Pershing Avenue,187.013,,,,30 mph,,,,,,,5620837,CR 68
+649746147,41767923,0,False,residential,Ridgewood Drive,199.143,,,,30 mph,,,,,,,5624028,
+649746147,649746147,0,False,residential,Ridgewood Drive,100.491,,,,30 mph,,,,,,,50952924,
+649746147,649746147,1,False,residential,Ridgewood Drive,100.491,,,,30 mph,,,,,,,50952924,
+916257412,41720774,0,False,tertiary,Hidley Road,504.512,,,,35 mph,,,,,,,5615764,CR 67
+1057716752,41726347,0,False,residential,Lake View Road,88.285,,,,,,,,,,,5641720,

@@ -1,0 +1,67 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+42471383,42471385,0,True,residential,East 26th Street,268.592,1,,,,,,,,,,5675858,E 26 St
+42471383,42526275,0,True,residential,Avenue V,78.985,2,,,,,,,,,,5681687,
+42471385,42471386,0,True,residential,East 26th Street,237.981,1,,,,,,,,,,5675858,E 26 St
+42471385,42526279,0,False,residential,Avenue W,79.254,2,,,,,,,,,,5681696,Ave W
+42471385,42520501,0,False,residential,Avenue W,82.059,2,,,,,,,,,,5681696,Ave W
+42471386,42471389,0,True,residential,East 26th Street,238.093,1,,,,,,,,,,5675858,E 26 St
+42471386,42526284,0,False,residential,Avenue X,78.839,2,,,,,,,,,,246262045,
+42471386,42520504,0,False,residential,Avenue X,82.396,2,,,,,,,,,,246262045,
+42471389,42526289,0,False,residential,Avenue Y,79.108,,,,,,,,,,,5681760,
+42471389,42520508,0,False,residential,Avenue Y,81.897,,,,,,,,,,,5681760,
+42477048,42481831,0,True,residential,Avenue V,85.537,2,,,,,,,,,,5681687,
+42477057,42481836,0,False,residential,Avenue W,86.516,2,,,,,,,,,,5681696,Ave W
+42477057,42502572,0,False,residential,Avenue W,79.087,2,,,,,,,,,,5681696,Ave W
+42477057,42477048,0,True,residential,East 29th Street,268.703,1,,,,,,,,,,552292852,
+42477060,5391643301,0,False,residential,Avenue X,87.101,2,,,,,,,,,,246262045,
+42477060,42502575,0,False,residential,Avenue X,79.105,2,,,,,,,,,,246262045,
+42477060,42477057,0,True,residential,East 29th Street,237.933,1,,,,,,,,,,552292852,
+42477064,42502577,0,False,residential,Avenue Y,78.606,,,,,,,,,,,5681760,
+42477064,5391643302,0,False,residential,Avenue Y,80.582,,,,,,,,,,,5681760,
+42477064,42477060,0,True,residential,East 29th Street,238.007,1,,,,,,,,,,552292852,
+42481831,42481836,0,False,secondary,Nostrand Avenue,267.834,4,,,,,,,,,,221720834,
+42481836,42477057,0,False,residential,Avenue W,86.516,2,,,,,,,,,,5681696,Ave W
+42481836,5391643301,0,False,secondary,Nostrand Avenue,237.456,4,,,,,,,,,,221720834,
+42481836,42481831,0,False,secondary,Nostrand Avenue,267.834,4,,,,,,,,,,221720834,
+42481842,42505741,0,False,residential,Avenue Y,76.201,,,,,,,,,,,5681760,
+42481842,5391643302,0,False,residential,Avenue Y,13.394,,,,,,,,,,,5681760,
+42481842,5391643301,0,True,secondary,Nostrand Avenue,239.944,,,,25 mph,,,,,,,558972367,
+42502566,42477048,0,True,residential,Avenue V,79.1,2,,,,,,,,,,5681687,
+42502566,42502572,0,True,residential,East 28th Street,268.592,1,,,,,,,,,,47652593,
+42502572,42477057,0,False,residential,Avenue W,79.087,2,,,,,,,,,,5681696,Ave W
+42502572,42526279,0,False,residential,Avenue W,78.92,2,,,,,,,,,,5681696,Ave W
+42502572,42502575,0,True,residential,East 28th Street,238.043,1,,,,,,,,,,47652593,
+42502575,42502577,0,True,residential,East 28th Street,238.079,1,,,,,,,,,,47652593,
+42502575,42477060,0,False,residential,Avenue X,79.105,2,,,,,,,,,,246262045,
+42502575,42526284,0,False,residential,Avenue X,78.99,2,,,,,,,,,,246262045,
+42502577,42477064,0,False,residential,Avenue Y,78.606,,,,,,,,,,,5681760,
+42502577,42526289,0,False,residential,Avenue Y,79.41,,,,,,,,,,,5681760,
+42505739,5391643301,0,False,residential,Avenue X,82.877,2,,,,,,,,,,246262045,
+42505741,42481842,0,False,residential,Avenue Y,76.201,,,,,,,,,,,5681760,
+42505741,42505739,0,True,residential,Haring Street,239.607,,,,,,,,,,,278726431,
+42520498,42471383,0,True,residential,Avenue V,82.307,2,,,,,,,,,,5681687,
+42520498,42520501,0,False,secondary,Bedford Avenue,268.629,,,,,,,,,,,221441122,
+42520501,42471385,0,False,residential,Avenue W,82.059,2,,,,,,,,,,5681696,Ave W
+42520501,42520504,0,False,secondary,Bedford Avenue,237.933,,,,,,,,,,,221441122,
+42520501,42520498,0,False,secondary,Bedford Avenue,268.629,,,,,,,,,,,221441122,
+42520504,42520501,0,False,secondary,Bedford Avenue,237.933,,,,,,,,,,,221441122,
+42520504,42471386,0,False,residential,Avenue X,82.396,2,,,,,,,,,,246262045,
+42520504,42520508,0,False,secondary,Bedford Avenue,238.165,,,,,,,,,,,221441122,
+42520508,42471389,0,False,residential,Avenue Y,81.897,,,,,,,,,,,5681760,
+42520508,42520504,0,False,secondary,Bedford Avenue,238.165,,,,,,,,,,,221441122,
+42526275,42502566,0,True,residential,Avenue V,79.183,2,,,,,,,,,,5681687,
+42526279,42502572,0,False,residential,Avenue W,78.92,2,,,,,,,,,,5681696,Ave W
+42526279,42471385,0,False,residential,Avenue W,79.254,2,,,,,,,,,,5681696,Ave W
+42526279,42526275,0,True,residential,East 27th Street,268.519,1,,,,,,,,,,47652594,
+42526284,42526279,0,True,residential,East 27th Street,237.921,1,,,,,,,,,,47652594,
+42526284,42471386,0,False,residential,Avenue X,78.839,2,,,,,,,,,,246262045,
+42526284,42502575,0,False,residential,Avenue X,78.99,2,,,,,,,,,,246262045,
+42526289,42502577,0,False,residential,Avenue Y,79.41,,,,,,,,,,,5681760,
+42526289,42471389,0,False,residential,Avenue Y,79.108,,,,,,,,,,,5681760,
+42526289,42526284,0,True,residential,East 27th Street,238.019,1,,,,,,,,,,47652594,
+5391643301,42477060,0,False,residential,Avenue X,87.101,2,,,,,,,,,,246262045,
+5391643301,42481836,0,False,secondary,Nostrand Avenue,237.456,4,,,,,,,,,,221720834,
+5391643301,42505739,0,False,residential,Avenue X,82.877,2,,,,,,,,,,246262045,
+5391643301,5391643302,0,True,secondary,Nostrand Avenue,239.255,4,,,,,,,,,,587355789,
+5391643302,42481842,0,False,residential,Avenue Y,13.394,,,,,,,,,,,5681760,
+5391643302,42477064,0,False,residential,Avenue Y,80.582,,,,,,,,,,,5681760,

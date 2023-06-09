@@ -1,0 +1,306 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+41248466,41248473,0,False,residential,Oxford Place,141.921,,,,30 mph,,,,,,,5563832,
+41248466,41289019,0,False,tertiary,Gipp Road,50.372,,,,30 mph,,,,,,,5583392,
+41248466,41451272,0,False,tertiary,Gipp Road,77.527,,,,30 mph,,,,,,,5583392,
+41248473,41248475,0,False,residential,Oxford Place,107.978,,,,30 mph,,,,,,,5563832,
+41248473,41307851,0,False,residential,York Road,92.789,,,,30 mph,,,,,,,5570617,
+41248473,41248466,0,False,residential,Oxford Place,141.921,,,,30 mph,,,,,,,5563832,
+41248475,41248473,0,False,residential,Oxford Place,107.978,,,,30 mph,,,,,,,5563832,
+41249662,41270570,0,True,motorway_link,,87.549,,,,30 mph,,,,,,,5566288,
+41249662,41252046,0,True,motorway_link,,112.246,,,,"['15 mph', '30 mph']",,,,,,,"[5564248, 33297722]",
+41249688,41249662,0,True,motorway_link,,340.06,,,,30 mph,,,yes,,,,"[33297721, 5563991]",
+41249688,4122379641,0,True,motorway,Adirondack Northway,672.829,"['2', '4']",,,45 mph,,,,,,,"[410396673, 248318408, 248318409, 98245488, 263438684]",
+41250861,41278010,0,False,tertiary,Rapp Road,242.853,,,,30 mph,,,,,,,"[5595408, 191001913]",CR 203
+41250861,41555059,0,False,tertiary,Rapp Road,254.697,,,,,,,,,,,5595408,CR 203
+41252046,2546122869,0,True,motorway_link,,490.52,,,,"['55 mph', '15 mph']",,,yes,,,,"[5564248, 33297755, 33297757]",
+41253798,41340405,0,False,residential,West University Drive,53.212,,,,25 mph,,,,,,,319491389,
+41253798,41253783,0,True,unclassified,SUNYA Access Road,75.956,,,,,,,,,,,5564440,
+41253798,41340442,0,False,residential,West University Drive,998.38,,,,25 mph,,,,,,,"[248788872, 319491389]",
+41255240,41417839,0,False,primary,Western Avenue,158.633,4,,,40 mph,,,,,,,86369100,US 20
+41255240,41300506,0,False,primary,Western Avenue,144.148,4,,,40 mph,,,,,,,86369100,US 20
+41255240,41451088,0,False,residential,Gabriel Terrace,115.089,,,,30 mph,,,,,,,5583375,
+41265840,41370982,0,False,residential,Waverly Place,162.864,,,,30 mph,,,,,,,5576635,
+41267593,41300344,0,False,primary,Western Avenue,104.725,4,,,40 mph,,,,,,,103590085,US 20
+41276426,2546122869,0,True,motorway,Adirondack Northway,464.422,2,,,55 mph,,,,,,,"[68519513, 248318411, 263438685]",
+41277776,41252046,0,True,motorway_link,,79.015,,,,15 mph,,,,,,,5567141,
+41278010,41250861,0,True,tertiary,Rapp Road,209.919,,,,,,,,,,,5567167,CR 203
+41278010,41250861,1,False,tertiary,Rapp Road,242.853,,,,30 mph,,,,,,,"[5595408, 191001913]",CR 203
+41278349,41285196,0,True,unclassified,SUNYA Access Road,5.275,,,,25 mph,,,,,,,319491388,
+41285196,41340257,0,True,unclassified,SUNYA Access Road,37.869,,,,25 mph,,,,,,,319491388,
+41285196,41285210,0,True,unclassified,SUNYA Access Road,57.361,,,,25 mph,,,,,,,5568115,
+41285210,41340257,0,False,unclassified,East University Drive,38.22,,,,25 mph,,,,,,,170407018,
+41289019,41289027,0,False,residential,Willey Street,375.856,,,,30 mph,,,,,,,5568661,
+41289019,41339713,0,False,tertiary,Gipp Road,89.262,,,,30 mph,,,,,,,5583392,
+41289019,41248466,0,False,tertiary,Gipp Road,50.372,,,,30 mph,,,,,,,5583392,
+41289027,41289019,0,False,residential,Willey Street,375.856,,,,30 mph,,,,,,,5568661,
+41292714,41292715,0,False,residential,Pauline Avenue,44.196,,,,30 mph,,,,,,,5569035,
+41292714,41411537,0,False,residential,Friar Tuck Road,203.549,,,,30 mph,,,,,,,192331784,
+41292714,41381125,0,False,residential,Pauline Avenue,108.441,,,,30 mph,,,,,,,5577461,
+41292714,41381125,1,False,residential,"['Maid Marion Road', 'Robinhood Road', 'Friar Tuck Road']",250.261,,,,30 mph,,,,,,,"[192331784, 5586712, 5581292]",
+41292715,41292714,0,False,residential,Pauline Avenue,44.196,,,,30 mph,,,,,,,5569035,
+41294808,41385441,0,False,primary,Western Avenue,134.233,4,,,40 mph,,,,,,,195448910,US 20
+41294808,41294814,0,False,residential,Knowles Terrace,130.314,,,,30 mph,,,,,,,5569244,
+41294808,41416866,0,False,primary,Western Avenue,109.148,4,,,40 mph,,,,,,,195448910,US 20
+41294814,41294808,0,False,residential,Knowles Terrace,130.314,,,,30 mph,,,,,,,5569244,
+41299943,41381083,0,False,residential,"['Marie Avenue', 'Seeley Drive']",290.964,,,,30 mph,,,,,,,"[5569745, 5586042]",
+41299943,444087249,0,False,residential,Pine Knob Drive,120.804,,,,30 mph,,,,,,,5578886,
+41299943,41329558,0,False,residential,Pine Knob Drive,199.705,,,,30 mph,,,,,,,5578886,
+41300344,1003218265,0,False,primary,Western Avenue,35.474,4,,,40 mph,,,,,,,86355972,US 20
+41300344,41267593,0,False,primary,Western Avenue,104.725,4,,,40 mph,,,,,,,103590085,US 20
+41300506,41300510,0,False,residential,Lawton Terrace,120.407,,,,30 mph,,,,,,,5569780,
+41300506,41255240,0,False,primary,Western Avenue,144.148,4,,,40 mph,,,,,,,86369100,US 20
+41300506,41555059,0,False,primary,Western Avenue,166.002,4,,,40 mph,,,,,,,"[210086955, 86369100]",US 20
+41300510,41300511,0,False,residential,Lawton Terrace,111.606,,,,30 mph,,,,,,,5569780,
+41300510,41300506,0,False,residential,Lawton Terrace,120.407,,,,30 mph,,,,,,,5569780,
+41300510,41451088,0,False,residential,Rielton Court,138.34,,,,30 mph,,,,,,,5593109,
+41300511,41300513,0,False,residential,Lawton Terrace,37.299,,,,30 mph,,,,,,,5569780,
+41300511,41300510,0,False,residential,Lawton Terrace,111.606,,,,30 mph,,,,,,,5569780,
+41300511,41451088,0,False,residential,"['Gabriel Terrace', 'Tiernan Court']",230.989,,,,30 mph,,,,,,,"[5575194, 5583375]",
+41300513,41300511,0,False,residential,Lawton Terrace,37.299,,,,30 mph,,,,,,,5569780,
+41300784,41307850,0,False,primary,Western Avenue,89.671,4,,,40 mph,,,,,,,210086955,US 20
+41300784,41411444,0,False,primary,Western Avenue,126.192,4,,,40 mph,,,,,,,210086955,US 20
+41301924,41340432,0,False,tertiary,Fuller Road,32.158,2,,,40 mph,,,,,,,5582636,CR 156
+41301924,41318069,0,False,tertiary,Fuller Road,112.465,2,,,40 mph,,,,,,,5582636,CR 156
+41301924,41301943,0,False,residential,Mercer Street,333.328,,,,30 mph,,,,,,,5569929,
+41301943,41318073,0,False,residential,Tracy Street,106.54,,,,30 mph,,,,,,,5576700,
+41301943,41318073,1,False,residential,"['Ann Street', 'Providence Street', 'Mercer Street']",621.042,,,,30 mph,,,,,,,"[5569929, 5594132, 5571681]",
+41301943,41301924,0,False,residential,Mercer Street,333.328,,,,30 mph,,,,,,,5569929,
+41301943,41387658,0,False,residential,"['Warren Street', 'Tracy Street']",395.701,,,,30 mph,,,,,,,"[5578043, 5576700]",
+41303709,41303733,0,False,residential,Elmwood Street,407.135,,,,30 mph,,,,,,,5570128,
+41303709,41517181,0,False,primary,Western Avenue,115.34,4,,,40 mph,,,,,,,195448910,US 20
+41303709,41442779,0,False,primary,Western Avenue,108.918,4,,,40 mph,,,,,,,195448910,US 20
+41303733,41318069,0,False,tertiary,Fuller Road,46.287,2,,,40 mph,,,,,,,5582636,CR 156
+41303733,41442791,0,False,tertiary,Fuller Road,100.509,2,,,40 mph,,,,,,,5582636,CR 156
+41303733,41303709,0,False,residential,Elmwood Street,407.135,,,,30 mph,,,,,,,5570128,
+41307850,41307851,0,False,residential,York Road,99.021,,,,30 mph,,,,,,,5570617,
+41307850,41300784,0,False,primary,Western Avenue,89.671,4,,,40 mph,,,,,,,210086955,US 20
+41307850,41451269,0,False,primary,Western Avenue,254.808,4,,,40 mph,,,,,,,210086955,US 20
+41307851,41248473,0,False,residential,York Road,92.789,,,,30 mph,,,,,,,5570617,
+41307851,41307850,0,False,residential,York Road,99.021,,,,30 mph,,,,,,,5570617,
+41307851,41383493,0,False,residential,Kent Place,121.924,,,,30 mph,,,,,,,5577718,
+41307851,41383481,0,False,residential,Kent Place,196.383,,,,30 mph,,,,,,,5577718,
+41318069,41301924,0,False,tertiary,Fuller Road,112.465,2,,,40 mph,,,,,,,5582636,CR 156
+41318069,41303733,0,False,tertiary,Fuller Road,46.287,2,,,40 mph,,,,,,,5582636,CR 156
+41318069,41318073,0,False,residential,Providence Street,325.289,,,,30 mph,,,,,,,5571681,
+41318073,41301943,0,False,residential,Tracy Street,106.54,,,,30 mph,,,,,,,5576700,
+41318073,41301943,1,False,residential,"['Ann Street', 'Providence Street', 'Mercer Street']",621.042,,,,30 mph,,,,,,,"[5571681, 5569929, 5594132]",
+41318073,41318069,0,False,residential,Providence Street,325.289,,,,30 mph,,,,,,,5571681,
+41328218,41328220,0,False,residential,Toll Lane,108.754,,,,30 mph,,,,,,,5572854,
+41328218,41339733,0,False,residential,Northgate Drive,284.206,,,,30 mph,,,,,,,5577311,
+41328218,41379195,0,False,residential,Northgate Drive,241.388,,,,30 mph,,,,,,,5577313,
+41328220,41328218,0,False,residential,Toll Lane,108.754,,,,30 mph,,,,,,,5572854,
+41328220,41328228,0,False,residential,Toll Lane,43.743,,,,30 mph,,,,,,,5572854,
+41328220,41392543,0,False,residential,Turnstile Drive,234.545,,,,30 mph,,,,,,,5591066,
+41328228,41328220,0,False,residential,Toll Lane,43.743,,,,30 mph,,,,,,,5572854,
+41328228,41339733,0,False,residential,Northgate Drive,134.68,,,,30 mph,,,,,,,5577311,
+41328228,41379111,0,False,residential,Northgate Drive,261.057,,,,30 mph,,,,,,,5577311,
+41329558,41381101,0,False,residential,Pine Knob Drive,69.856,,,,30 mph,,,,,,,5578886,
+41329558,444087251,0,False,residential,Gladwish Avenue,283.548,,,,30 mph,,,,,,,5572985,
+41329558,41299943,0,False,residential,Pine Knob Drive,199.705,,,,30 mph,,,,,,,5578886,
+41336610,41379296,0,False,primary,Western Avenue,96.541,4,,,40 mph,,,,,,,426187105,US 20
+41336610,41541842,0,False,primary,Western Avenue,95.098,4,,,40 mph,,,,,,,426187105,US 20
+41339713,41339733,0,False,residential,Turnpike Lane,289.058,,,,30 mph,,,,,,,5574110,
+41339713,41374070,0,False,tertiary,Gipp Road,368.851,,,,30 mph,,,,,,,5583392,
+41339713,41289019,0,False,tertiary,Gipp Road,89.262,,,,30 mph,,,,,,,5583392,
+41339733,41339713,0,False,residential,Turnpike Lane,289.058,,,,30 mph,,,,,,,5574110,
+41339733,41328218,0,False,residential,Northgate Drive,284.206,,,,30 mph,,,,,,,5577311,
+41339733,41328228,0,False,residential,Northgate Drive,134.68,,,,30 mph,,,,,,,5577311,
+41340257,41340405,0,False,unclassified,University Drive,22.174,,,,25 mph,,,,,,,103743162,
+41340257,41285210,0,False,unclassified,East University Drive,38.22,,,,25 mph,,,,,,,170407018,
+41340405,41253783,0,True,unclassified,SUNYA Access Road,42.522,,,,,,,,,,,5574148,
+41340405,41340257,0,False,unclassified,University Drive,22.174,,,,25 mph,,,,,,,103743162,
+41340405,41253798,0,False,residential,West University Drive,53.212,,,,25 mph,,,,,,,319491389,
+41340432,41387658,0,False,tertiary,Fuller Road,78.935,2,,,40 mph,,,,,,,5582636,CR 156
+41340432,41301924,0,False,tertiary,Fuller Road,32.158,2,,,40 mph,,,,,,,5582636,CR 156
+41340432,41340442,0,False,unclassified,Great Dane Drive,191.409,,,,25 mph,,,,,,,5574155,
+41340442,41340432,0,False,unclassified,Great Dane Drive,191.409,,,,25 mph,,,,,,,5574155,
+41340442,41253798,0,False,residential,West University Drive,998.38,,,,25 mph,,,,,,,"[248788872, 319491389]",
+41341789,41341789,0,False,residential,Camp Terrace,71.226,,,,30 mph,,,,,,,5574240,
+41341789,41341789,1,False,residential,Camp Terrace,71.226,,,,30 mph,,,,,,,5574240,
+41341789,41341872,0,False,residential,Camp Terrace,285.518,,,,30 mph,,,,,,,5574243,
+41341872,41393037,0,False,residential,Camp Terrace,40.59,,,,30 mph,,,,,,,5578452,
+41341872,41341789,0,False,residential,Camp Terrace,285.518,,,,30 mph,,,,,,,5574243,
+41341872,41393069,0,False,residential,Brooks Road,325.348,,,,30 mph,,,,,,,192331778,
+41349063,41442791,0,False,unclassified,Executive Park Drive,370.582,,,,20 mph,,,,,,,5586040,
+41360908,41360917,0,False,residential,Alvina Boulevard,398.494,,,,30 mph,,,,,,,5575593,
+41360908,41435943,0,False,primary,Western Avenue,170.661,4,,,40 mph,,,,,,,426187105,US 20
+41360908,41455559,0,False,primary,Western Avenue,82.903,4,,,40 mph,,,,,,,426187105,US 20
+41360917,41360920,0,False,residential,Alvina Boulevard,59.074,,,,30 mph,,,,,,,5575593,
+41360917,41381477,0,False,residential,Little John Road,119.012,,,,30 mph,,,,,,,5584151,
+41360917,41360908,0,False,residential,Alvina Boulevard,398.494,,,,30 mph,,,,,,,5575593,
+41360920,41360922,0,False,residential,Alvina Boulevard,106.423,,,,30 mph,,,,,,,5575593,
+41360920,41360917,0,False,residential,Alvina Boulevard,59.074,,,,30 mph,,,,,,,5575593,
+41360920,41411534,0,False,residential,Robinhood Road,110.517,,,,30 mph,,,,,,,5586712,
+41360922,41360920,0,False,residential,Alvina Boulevard,106.423,,,,30 mph,,,,,,,5575593,
+41360922,41411537,0,False,residential,"['Friar Tuck Road', 'Alvina Boulevard']",185.482,,,,30 mph,,,,,,,"[192331784, 5575593]",
+41360922,41379199,0,False,residential,Northgate Drive,122.28,,,,30 mph,,,,,,,5577313,
+41370982,41265840,0,False,residential,Waverly Place,162.864,,,,30 mph,,,,,,,5576635,
+41370982,41385441,0,False,primary,Western Avenue,37.755,4,,,40 mph,,,,,,,195448910,US 20
+41370982,41535314,0,False,primary,Western Avenue,116.046,4,,,40 mph,,,,,,,195448910,US 20
+41374070,41374074,0,False,residential,Francis Avenue,141.322,,,,30 mph,,,,,,,5576889,
+41374070,41384781,0,False,residential,Victor Drive,138.406,,,,30 mph,,,,,,,5580323,
+41374070,41451203,0,False,tertiary,Gipp Road,144.053,,,,30 mph,,,,,,,5583382,
+41374070,41339713,0,False,tertiary,Gipp Road,368.851,,,,30 mph,,,,,,,5583392,
+41374074,41418615,0,False,residential,Velina Drive,166.581,,,,30 mph,,,,,,,5580502,
+41374074,41374070,0,False,residential,Francis Avenue,141.322,,,,30 mph,,,,,,,5576889,
+41374074,41384785,0,False,residential,Velina Drive,120.997,,,,30 mph,,,,,,,5580502,
+41379111,41392543,0,False,residential,Drawbridge Road,137.652,,,,30 mph,,,,,,,5578413,
+41379111,41328228,0,False,residential,Northgate Drive,261.057,,,,30 mph,,,,,,,5577311,
+41379111,41381477,0,False,residential,"['Drawbridge Road', 'Sherwood Forest Road', 'Ransom Road']",405.249,,,,30 mph,,,,,,,"[5578413, 5584350, 5577495]",
+41379195,41392543,0,False,residential,Drawbridge Road,105.798,,,,30 mph,,,,,,,5578413,
+41379195,41379199,0,False,residential,Northgate Drive,107.664,,,,30 mph,,,,,,,5577313,
+41379195,41328218,0,False,residential,Northgate Drive,241.388,,,,30 mph,,,,,,,5577313,
+41379199,41381477,0,False,residential,Sherwood Forest Road,159.486,,,,30 mph,,,,,,,5577495,
+41379199,41360922,0,False,residential,Northgate Drive,122.28,,,,30 mph,,,,,,,5577313,
+41379199,41379195,0,False,residential,Northgate Drive,107.664,,,,30 mph,,,,,,,5577313,
+41379296,41336610,0,False,primary,Western Avenue,96.541,4,,,40 mph,,,,,,,426187105,US 20
+41379296,41381080,0,False,primary,Western Avenue,110.02,4,,,40 mph,,,,,,,426187105,US 20
+41381080,41381083,0,False,residential,Pauline Avenue,117.787,,,,30 mph,,,,,,,5577461,
+41381080,41421562,0,False,primary,Western Avenue,207.419,4,,,40 mph,,,,,,,426187105,US 20
+41381080,41379296,0,False,primary,Western Avenue,110.02,4,,,40 mph,,,,,,,426187105,US 20
+41381083,41460672,0,False,residential,Seeley Drive,108.737,,,,30 mph,,,,,,,5586042,
+41381083,41381101,0,False,residential,Pauline Avenue,244.626,,,,30 mph,,,,,,,5577461,
+41381083,41381080,0,False,residential,Pauline Avenue,117.787,,,,30 mph,,,,,,,5577461,
+41381083,41299943,0,False,residential,"['Marie Avenue', 'Seeley Drive']",290.964,,,,30 mph,,,,,,,"[5569745, 5586042]",
+41381101,41329558,0,False,residential,Pine Knob Drive,69.856,,,,30 mph,,,,,,,5578886,
+41381101,41381125,0,False,residential,Pauline Avenue,187.594,,,,30 mph,,,,,,,5577461,
+41381101,41381083,0,False,residential,Pauline Avenue,244.626,,,,30 mph,,,,,,,5577461,
+41381101,41399280,0,False,residential,Pine Knob Drive,161.68,,,,30 mph,,,,,,,5578886,
+41381125,41292714,0,False,residential,Pauline Avenue,108.441,,,,30 mph,,,,,,,5577461,
+41381125,41292714,1,False,residential,"['Robinhood Road', 'Friar Tuck Road', 'Maid Marion Road']",250.261,,,,30 mph,,,,,,,"[5586712, 192331784, 5581292]",
+41381125,41381101,0,False,residential,Pauline Avenue,187.594,,,,30 mph,,,,,,,5577461,
+41381125,41411534,0,False,residential,Robinhood Road,249.305,,,,30 mph,,,,,,,5586712,
+41381477,41379199,0,False,residential,Sherwood Forest Road,159.486,,,,30 mph,,,,,,,5577495,
+41381477,41360917,0,False,residential,Little John Road,119.012,,,,30 mph,,,,,,,5584151,
+41381477,41379111,0,False,residential,"['Sherwood Forest Road', 'Ransom Road', 'Drawbridge Road']",405.249,,,,30 mph,,,,,,,"[5578413, 5584350, 5577495]",
+41383481,41451272,0,False,tertiary,Gipp Road,30.336,,,,30 mph,,,,,,,5583392,
+41383481,41307851,0,False,residential,Kent Place,196.383,,,,30 mph,,,,,,,5577718,
+41383481,41451269,0,False,tertiary,Gipp Road,117.012,,,,30 mph,,,,,,,5583392,
+41383493,41307851,0,False,residential,Kent Place,121.924,,,,30 mph,,,,,,,5577718,
+41384781,41384785,0,False,residential,Rickey Boulevard,121.272,,,,30 mph,,,,,,,5577803,
+41384781,41416549,0,False,residential,Victor Drive,382.67,,,,30 mph,,,,,,,5580323,
+41384781,41374070,0,False,residential,Victor Drive,138.406,,,,30 mph,,,,,,,5580323,
+41384785,41416549,0,False,residential,Velina Drive,303.544,,,,30 mph,,,,,,,5580502,
+41384785,41384781,0,False,residential,Rickey Boulevard,121.272,,,,30 mph,,,,,,,5577803,
+41384785,41374074,0,False,residential,Velina Drive,120.997,,,,30 mph,,,,,,,5580502,
+41385441,41294808,0,False,primary,Western Avenue,134.233,4,,,40 mph,,,,,,,195448910,US 20
+41385441,41370982,0,False,primary,Western Avenue,37.755,4,,,40 mph,,,,,,,195448910,US 20
+41387658,41340432,0,False,tertiary,Fuller Road,78.935,2,,,40 mph,,,,,,,5582636,CR 156
+41387658,41301943,0,False,residential,"['Warren Street', 'Tracy Street']",395.701,,,,30 mph,,,,,,,"[5578043, 5576700]",
+41392543,41379195,0,False,residential,Drawbridge Road,105.798,,,,30 mph,,,,,,,5578413,
+41392543,41379111,0,False,residential,Drawbridge Road,137.652,,,,30 mph,,,,,,,5578413,
+41392543,41328220,0,False,residential,Turnstile Drive,234.545,,,,30 mph,,,,,,,5591066,
+41393037,41341872,0,False,residential,Camp Terrace,40.59,,,,30 mph,,,,,,,5578452,
+41393037,41549938,0,False,primary,Western Avenue,7.566,4,,,40 mph,,,,,,,210086955,US 20
+41393037,41466148,0,False,primary,Western Avenue,364.686,4,,,40 mph,,,,,,,210086955,US 20
+41393069,41341872,0,False,residential,Brooks Road,325.348,,,,30 mph,,,,,,,192331778,
+41399280,41381101,0,False,residential,Pine Knob Drive,161.68,,,,30 mph,,,,,,,5578886,
+41399280,41421567,0,False,residential,"['Pine Knob Drive', 'Arlene Avenue']",342.212,,,,30 mph,,,,,,,"[5580762, 5578886]",
+41399280,41460672,0,False,residential,Patricia Avenue,244.422,,,,30 mph,,,,,,,5584184,
+41407789,41407789,0,False,residential,"['West Parkwood Street', 'East Parkwood Street']",582.253,,,,30 mph,,,,,,,"[5579560, 182922991]",
+41407789,41407789,1,False,residential,"['West Parkwood Street', 'East Parkwood Street']",582.253,,,,30 mph,,,,,,,"[5579560, 182922991]",
+41407789,41517181,0,False,residential,Parkwood Street,272.711,,,,30 mph,,,,,,,5589751,
+41411444,41300784,0,False,primary,Western Avenue,126.192,4,,,40 mph,,,,,,,210086955,US 20
+41411444,41437878,0,False,primary,Western Avenue,170.609,4,,,40 mph,,,,,,,"[426187105, 210086955]",US 20
+41411534,41411537,0,False,residential,Nottingham Road,163.324,,,,30 mph,,,,,,,5579862,
+41411534,41360920,0,False,residential,Robinhood Road,110.517,,,,30 mph,,,,,,,5586712,
+41411534,41381125,0,False,residential,Robinhood Road,249.305,,,,30 mph,,,,,,,5586712,
+41411537,41411534,0,False,residential,Nottingham Road,163.324,,,,30 mph,,,,,,,5579862,
+41411537,41292714,0,False,residential,Friar Tuck Road,203.549,,,,30 mph,,,,,,,192331784,
+41411537,41360922,0,False,residential,"['Alvina Boulevard', 'Friar Tuck Road']",185.482,,,,30 mph,,,,,,,"[192331784, 5575593]",
+41413269,41416866,0,False,primary,Western Avenue,56.989,4,,,40 mph,,,,,,,195448910,US 20
+41414818,41527856,0,False,primary,Western Avenue,75.027,4,,,40 mph,,,,,,,210086955,US 20
+41414818,41549938,0,False,primary,Western Avenue,117.719,4,,,40 mph,,,,,,,210086955,US 20
+41416549,41384785,0,False,residential,Velina Drive,303.544,,,,30 mph,,,,,,,5580502,
+41416549,41384781,0,False,residential,Victor Drive,382.67,,,,30 mph,,,,,,,5580323,
+41416549,41418690,0,False,residential,Velina Drive,239.136,,,,30 mph,,,,,,,5580502,
+41416866,41413269,0,False,primary,Western Avenue,56.989,4,,,40 mph,,,,,,,195448910,US 20
+41416866,41294808,0,False,primary,Western Avenue,109.148,4,,,40 mph,,,,,,,195448910,US 20
+41417839,41255240,0,False,primary,Western Avenue,158.633,4,,,40 mph,,,,,,,86369100,US 20
+41418615,41374074,0,False,residential,Velina Drive,166.581,,,,30 mph,,,,,,,5580502,
+41418615,41451203,0,False,tertiary,Gipp Road,130.738,,,,30 mph,,,,,,,5583382,
+41418615,41451244,0,False,tertiary,Gipp Road,183.569,,,,30 mph,,,,,,,5583386,
+41418690,41416549,0,False,residential,Velina Drive,239.136,,,,30 mph,,,,,,,5580502,
+41418690,41418690,0,False,residential,Velina Drive,126.124,,,,30 mph,,,,,,,5580504,
+41418690,41418690,1,False,residential,Velina Drive,126.124,,,,30 mph,,,,,,,5580504,
+41421562,41455579,0,False,primary,Western Avenue,13.04,4,,,40 mph,,,,,,,426187105,US 20
+41421562,41421567,0,False,residential,Arlene Avenue,116.588,,,,30 mph,,,,,,,5580762,
+41421562,41381080,0,False,primary,Western Avenue,207.419,4,,,40 mph,,,,,,,426187105,US 20
+41421567,41460672,0,False,residential,Seeley Drive,107.306,,,,30 mph,,,,,,,5586042,
+41421567,41399280,0,False,residential,"['Pine Knob Drive', 'Arlene Avenue']",342.212,,,,30 mph,,,,,,,"[5580762, 5578886]",
+41421567,41421562,0,False,residential,Arlene Avenue,116.588,,,,30 mph,,,,,,,5580762,
+41435943,41555040,0,False,primary,Western Avenue,97.21,4,,,40 mph,,,,,,,426187105,US 20
+41435943,41360908,0,False,primary,Western Avenue,170.661,4,,,40 mph,,,,,,,426187105,US 20
+41437878,41411444,0,False,primary,Western Avenue,170.609,4,,,40 mph,,,,,,,"[426187105, 210086955]",US 20
+41437878,41555040,0,False,primary,Western Avenue,108.021,4,,,40 mph,,,,,,,426187105,US 20
+41442779,41442791,0,False,tertiary,Fuller Road,297.288,2,,,40 mph,,,,,,,5582636,CR 156
+41442779,41303709,0,False,primary,Western Avenue,108.918,4,,,40 mph,,,,,,,195448910,US 20
+41442791,41303733,0,False,tertiary,Fuller Road,100.509,2,,,40 mph,,,,,,,5582636,CR 156
+41442791,41442779,0,False,tertiary,Fuller Road,297.288,2,,,40 mph,,,,,,,5582636,CR 156
+41442791,41349063,0,False,unclassified,Executive Park Drive,370.582,,,,20 mph,,,,,,,5586040,
+41451088,41547592,0,False,residential,Rielton Court,51.534,,,,30 mph,,,,,,,5593109,
+41451088,41300510,0,False,residential,Rielton Court,138.34,,,,30 mph,,,,,,,5593109,
+41451088,41300511,0,False,residential,"['Gabriel Terrace', 'Tiernan Court']",230.989,,,,30 mph,,,,,,,"[5575194, 5583375]",
+41451088,41255240,0,False,residential,Gabriel Terrace,115.089,,,,30 mph,,,,,,,5583375,
+41451203,41418615,0,False,tertiary,Gipp Road,130.738,,,,30 mph,,,,,,,5583382,
+41451203,41374070,0,False,tertiary,Gipp Road,144.053,,,,30 mph,,,,,,,5583382,
+41451203,41486784,0,False,residential,Woodridge Court,104.862,,,,30 mph,,,,,,,5586484,
+41451244,41418615,0,False,tertiary,Gipp Road,183.569,,,,30 mph,,,,,,,5583386,
+41451244,41453127,0,False,residential,Paden Circle,175.977,,,,30 mph,,,,,,,5583552,
+41451269,41383481,0,False,tertiary,Gipp Road,117.012,,,,30 mph,,,,,,,5583392,
+41451269,41466148,0,False,primary,Western Avenue,142.774,4,,,40 mph,,,,,,,210086955,US 20
+41451269,41307850,0,False,primary,Western Avenue,254.808,4,,,40 mph,,,,,,,210086955,US 20
+41451272,41383481,0,False,tertiary,Gipp Road,30.336,,,,30 mph,,,,,,,5583392,
+41451272,41248466,0,False,tertiary,Gipp Road,77.527,,,,30 mph,,,,,,,5583392,
+41451272,41476415,0,False,residential,Pine Street,256.72,,,,30 mph,,,,,,,5585567,
+41453127,41451244,0,False,residential,Paden Circle,175.977,,,,30 mph,,,,,,,5583552,
+41455559,41455579,0,False,primary,Western Avenue,16.517,4,,,40 mph,,,,,,,426187105,US 20
+41455559,41360908,0,False,primary,Western Avenue,82.903,4,,,40 mph,,,,,,,426187105,US 20
+41455579,41455559,0,False,primary,Western Avenue,16.517,4,,,40 mph,,,,,,,426187105,US 20
+41455579,41421562,0,False,primary,Western Avenue,13.04,4,,,40 mph,,,,,,,426187105,US 20
+41460672,41381083,0,False,residential,Seeley Drive,108.737,,,,30 mph,,,,,,,5586042,
+41460672,41421567,0,False,residential,Seeley Drive,107.306,,,,30 mph,,,,,,,5586042,
+41460672,41399280,0,False,residential,Patricia Avenue,244.422,,,,30 mph,,,,,,,5584184,
+41466148,41393037,0,False,primary,Western Avenue,364.686,4,,,40 mph,,,,,,,210086955,US 20
+41466148,41451269,0,False,primary,Western Avenue,142.774,4,,,40 mph,,,,,,,210086955,US 20
+41476415,41451272,0,False,residential,Pine Street,256.72,,,,30 mph,,,,,,,5585567,
+41486784,41451203,0,False,residential,Woodridge Court,104.862,,,,30 mph,,,,,,,5586484,
+41502427,41502433,0,False,residential,Glenwood Street,489.84,,,,30 mph,,,,,,,5588208,
+41502427,41535314,0,False,primary,Western Avenue,108.861,4,,,40 mph,,,,,,,195448910,US 20
+41502427,41517181,0,False,primary,Western Avenue,113.45,4,,,40 mph,,,,,,,195448910,US 20
+41502433,41502427,0,False,residential,Glenwood Street,489.84,,,,30 mph,,,,,,,5588208,
+41517181,41407789,0,False,residential,Parkwood Street,272.711,,,,30 mph,,,,,,,5589751,
+41517181,41502427,0,False,primary,Western Avenue,113.45,4,,,40 mph,,,,,,,195448910,US 20
+41517181,41303709,0,False,primary,Western Avenue,115.34,4,,,40 mph,,,,,,,195448910,US 20
+41527827,41527827,0,False,residential,Westmere Terrace,96.172,,,,30 mph,,,,,,,5590862,
+41527827,41527827,1,False,residential,Westmere Terrace,96.172,,,,30 mph,,,,,,,5590862,
+41527827,41527856,0,False,residential,Westmere Terrace,349.664,,,,30 mph,,,,,,,5590863,
+41527856,3659153107,0,False,primary,Western Avenue,60.703,4,,,40 mph,,,,,,,210086955,US 20
+41527856,41414818,0,False,primary,Western Avenue,75.027,4,,,40 mph,,,,,,,210086955,US 20
+41527856,41527827,0,False,residential,Westmere Terrace,349.664,,,,30 mph,,,,,,,5590863,
+41535314,41566273,0,False,residential,Norwood Street,470.342,,,,30 mph,,,,,,,5595233,
+41535314,41370982,0,False,primary,Western Avenue,116.046,4,,,40 mph,,,,,,,195448910,US 20
+41535314,41502427,0,False,primary,Western Avenue,108.861,4,,,40 mph,,,,,,,195448910,US 20
+41541842,41336610,0,False,primary,Western Avenue,95.098,4,,,40 mph,,,,,,,426187105,US 20
+41547592,41451088,0,False,residential,Rielton Court,51.534,,,,30 mph,,,,,,,5593109,
+41549938,41393037,0,False,primary,Western Avenue,7.566,4,,,40 mph,,,,,,,210086955,US 20
+41549938,41414818,0,False,primary,Western Avenue,117.719,4,,,40 mph,,,,,,,210086955,US 20
+41555040,41437878,0,False,primary,Western Avenue,108.021,4,,,40 mph,,,,,,,426187105,US 20
+41555040,41435943,0,False,primary,Western Avenue,97.21,4,,,40 mph,,,,,,,426187105,US 20
+41555059,41250861,0,False,tertiary,Rapp Road,254.697,,,,,,,,,,,5595408,CR 203
+41555059,41300506,0,False,primary,Western Avenue,166.002,4,,,40 mph,,,,,,,"[210086955, 86369100]",US 20
+41555059,3659153107,0,False,primary,Western Avenue,50.537,4,,,40 mph,,,,,,,210086955,US 20
+41566273,41535314,0,False,residential,Norwood Street,470.342,,,,30 mph,,,,,,,5595233,
+444087249,444087251,0,False,secondary,New Karner Road,107.648,,,,45 mph,,,,,,,5572081,NY 155;CR 157
+444087249,41299943,0,False,residential,Pine Knob Drive,120.804,,,,30 mph,,,,,,,5578886,
+444087251,444087249,0,False,secondary,New Karner Road,107.648,,,,45 mph,,,,,,,5572081,NY 155;CR 157
+444087251,41329558,0,False,residential,Gladwish Avenue,283.548,,,,30 mph,,,,,,,5572985,
+1003218265,41300344,0,False,primary,Western Avenue,35.474,4,,,40 mph,,,,,,,86355972,US 20
+1003218265,1136595600,0,False,primary,Western Avenue,118.594,4,,,,,,yes,,,,"[86355976, 98245476]",US 20
+1136595600,1003218265,0,False,primary,Western Avenue,118.594,4,,,,,,yes,,,,"[86355976, 98245476]",US 20
+3659153107,41527856,0,False,primary,Western Avenue,60.703,4,,,40 mph,,,,,,,210086955,US 20
+3659153107,3659153108,0,False,residential,Crossgates Mall Road,56.762,,,,,,,,,,,361441055,
+3659153107,41555059,0,False,primary,Western Avenue,50.537,4,,,40 mph,,,,,,,210086955,US 20
+3659153108,3659153107,0,False,residential,Crossgates Mall Road,56.762,,,,,,,,,,,361441055,
+4122379641,41300344,0,True,motorway_link,,39.917,2,,,,,,,,,,263438683,
+4122379641,1003218265,0,True,motorway_link,,48.423,2,,,,,,,,,,410396672,

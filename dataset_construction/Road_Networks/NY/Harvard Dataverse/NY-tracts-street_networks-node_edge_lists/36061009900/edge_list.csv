@@ -1,0 +1,123 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+42422258,42430589,0,True,secondary,11th Avenue,84.127,,,,25 mph,,,,,,,5669945,
+42427390,42427393,0,True,unclassified,West 20th Street,224.076,,,,25 mph,,,,,,,5669643,
+42427393,42443677,0,True,trunk,11th Avenue,79.561,3,,,35 mph,,,,,,,194923801,NY 9A
+42427483,42453630,0,True,primary,10th Avenue,78.497,,69.5 ft,,25 mph,,,,,,,396444293,
+42427494,246580797,0,False,secondary,West 24th Street,22.684,,,,25 mph,,,,,,,22904166,
+42427494,42445314,0,True,trunk,12th Avenue,166.526,"['4', '3']",,,35 mph,,,,,,,"[194923803, 118714476]",NY 9A
+42427494,246580466,0,False,secondary,West 24th Street,164.255,,,,25 mph,,,,,,,"[420908136, 22916319, 420908135]",
+42427821,42437693,0,True,primary,10th Avenue,79.607,,69.6 ft,,25 mph,,,,,,,396444295,
+42427821,42427824,0,True,unclassified,West 29th Street,273.984,,,,25 mph,,,,,,,506680906,
+42427824,42430603,0,True,secondary,11th Avenue,80.378,,,,25 mph,,,,,,,46481095,
+42427824,42427828,0,True,unclassified,West 29th Street,265.382,,,,25 mph,,,,,,,506680906,
+42427828,4899886584,0,True,unclassified,West 29th Street,19.344,,,,25 mph,,,,,,,506680906,
+42427828,42437699,0,True,trunk,12th Avenue,83.701,4,,,35 mph,,,,,,,118714476,NY 9A
+42429664,42454381,0,True,primary,10th Avenue,74.252,,,,25 mph,,,,,,,127693200,
+42429666,4872623863,0,True,trunk,11th Avenue,68.645,3,,,35 mph,,,,,,,194923801,NY 9A
+42429666,42429664,0,True,unclassified,West 18th Street,167.708,,,,25 mph,,,,,,,194923794,
+42430589,246580758,0,False,secondary,West 23rd Street,10.096,,,,25 mph,,,,,,,584971507,
+42430589,42437914,0,False,secondary,West 23rd Street,267.641,,,,25 mph,,,,,,,116672333,
+42430589,246580466,0,True,secondary,11th Avenue,83.184,,,,25 mph,,,,,,,"[420908128, 46431818]",
+42430594,246580444,0,True,secondary,11th Avenue,24.916,,,,25 mph,,,,,,,46481095,
+42430597,42430594,0,True,secondary,11th Avenue,77.111,,,,25 mph,,,,,,,46481095,
+42430600,42430597,0,True,secondary,11th Avenue,77.262,,,,25 mph,,,,,,,46481095,
+42430600,42434827,0,True,residential,West 27th Street,229.482,,,,25 mph,,,,,,,22916379,
+42430603,42430600,0,True,secondary,11th Avenue,78.762,,,,25 mph,,,,,,,46481095,
+42430603,42438674,0,True,residential,West 28th Street,274.41,,,,25 mph,,,,,,,5670719,
+42430607,42427824,0,True,secondary,11th Avenue,79.949,,,,25 mph,,,,,,,46481095,
+42430607,42437693,0,True,primary,West 30th Street,272.391,,,,25 mph,,,,,,,68668540,
+42430629,42446678,0,True,unclassified,West 33rd Street,270.641,,,,25 mph,,,yes,,,,"[46481752, 194926843]",
+42430629,42430607,0,True,secondary,11th Avenue,234.048,,,,25 mph,,,yes,,,,"[194926849, 46481095]",
+42430633,42430639,0,False,primary,11th Avenue,85.741,,,,25 mph,,,yes,,,,46481744,
+42430633,3270031002,0,False,primary,West 34th Street,143.959,6,,,25 mph,yes,,yes,,,,"[273019810, 46481755]",
+42430633,42430629,0,True,secondary,11th Avenue,84.538,,,,25 mph,,,yes,,,,95181774,
+42430633,42437678,0,False,primary,West 34th Street,269.404,,,,25 mph,,,yes,,,,"[46481754, 584971499]",
+42430639,42430643,0,False,primary,11th Avenue,77.855,,,,25 mph,,,yes,,,,46481744,
+42430639,42430633,0,False,primary,11th Avenue,85.741,,,,25 mph,,,yes,,,,46481744,
+42430643,42430639,0,False,primary,11th Avenue,77.855,,,,25 mph,,,yes,,,,46481744,
+42430643,3270031031,0,True,secondary,West 36th Street,111.721,,,,,,,yes,,,,"[420902585, 5672142]",
+42430643,42430646,0,False,primary,11th Avenue,76.798,,,,25 mph,,,yes,,,,"[46481744, 460589632]",
+42430646,42430651,0,False,primary,11th Avenue,77.786,,,,,,,,,,,36801165,
+42430646,42430643,0,False,primary,11th Avenue,76.798,,,,25 mph,,,yes,,,,"[460589632, 46481744]",
+42430651,42430646,0,False,primary,11th Avenue,77.786,,,,,,,,,,,36801165,
+42434285,42437914,0,True,primary,10th Avenue,84.676,,,,25 mph,,,,,,,46490540,
+42434285,42422258,0,True,unclassified,West 22nd Street,267.529,,,,25 mph,,,,,,,5670247,
+42434827,42438684,0,True,trunk,12th Avenue,80.673,4,,,35 mph,,,,,,,118714476,NY 9A
+42437670,3270031002,0,False,primary,West 34th Street,130.714,6,,,25 mph,yes,,,,,,273019810,
+42437670,42455735,0,True,primary,10th Avenue,85.224,,69.6 ft,,25 mph,,,,,,,496986803,
+42437678,247081122,0,False,primary,West 34th Street,22.14,,,,25 mph,,,,,,,194926845,
+42437678,42430633,0,False,primary,West 34th Street,269.404,,,,25 mph,,,yes,,,,"[46481754, 584971499]",
+42437693,42451695,0,True,primary,10th Avenue,78.177,,69.6 ft,,25 mph,,,,,,,396444295,
+42437699,42446678,0,True,trunk,12th Avenue,230.817,4,,,35 mph,,,,,,,118714476,NY 9A
+42437699,42430607,0,True,primary,West 30th Street,271.202,,,,25 mph,,,,,,,46432187,
+42437914,42427483,0,True,primary,10th Avenue,84.44,,,,25 mph,,,,,,,46490540,
+42437914,42430589,0,False,secondary,West 23rd Street,267.641,,,,25 mph,,,,,,,116672333,
+42438674,42427821,0,True,primary,10th Avenue,78.464,,69.6 ft,,25 mph,,,,,,,396444295,
+42438684,42430603,0,True,residential,West 28th Street,246.173,,,,25 mph,,,,,,,5670719,
+42438684,42427828,0,True,trunk,12th Avenue,80.938,4,,,35 mph,,,,,,,118714476,NY 9A
+42439286,42429664,0,True,primary,10th Avenue,74.292,,,,25 mph,,,,,,,194923800,
+42439286,42439295,0,True,residential,West 17th Street,139.936,,,,25 mph,,,,,,,541329572,
+42439295,246580346,0,True,residential,West 17th Street,17.944,,,,25 mph,,,,,,,541329577,
+42439295,42429666,0,True,trunk,11th Avenue,76.585,3,,,35 mph,,,,,,,194923802,NY 9A
+42443677,246579597,0,True,trunk,11th Avenue,28.27,3,,,35 mph,,,,,,,194923801,NY 9A
+42443975,42430646,0,True,secondary,West 37th Street,275.773,,,,,,,yes,,,,"[46481738, 46481739, 36806679]",
+42445314,42434827,0,True,trunk,12th Avenue,79.295,4,,,35 mph,,,,,,,118714476,NY 9A
+42445314,42430597,0,True,residential,West 26th Street,210.377,1,,,25 mph,,,,,,,5671311,
+42445766,42445769,0,True,secondary,West 15th Street,79.408,,,,25 mph,,,,,,,"[194923792, 420895286]",
+42445766,42449341,0,True,primary,10th Avenue,80.927,,,,25 mph,,,,building_passage,,,"[194923800, 485556246, 485556247]",
+42445769,246648063,0,True,secondary,West 15th Street,24.344,,,,25 mph,,,,,,,194923793,
+42445769,42449345,0,True,trunk,11th Avenue,88.747,3,,,35 mph,,,,,,,194923802,NY 9A
+42446668,42430629,0,True,unclassified,"['West 33rd Street', 'West 33 Street']",274.071,1,,,25 mph,no,,yes,,,,"[460585329, 498635438]",
+42446668,42437670,0,True,primary,10th Avenue,84.727,,69.6 ft,,25 mph,,,,,,,589494595,
+42446678,42437678,0,True,trunk,12th Avenue,86.297,4,,,35 mph,,,,,,,194926850,NY 9A
+42449341,42439286,0,True,primary,10th Avenue,74.918,,,,25 mph,,,,,,,194923800,
+42449345,42439295,0,True,trunk,11th Avenue,82.654,3,,,35 mph,,,,,,,194923802,NY 9A
+42449345,42449341,0,True,residential,West 16th Street,110.091,,,,25 mph,,,,,,,348477347,
+42451695,42446668,0,True,primary,10th Avenue,156.128,,69.6 ft,,25 mph,,,,,,,396444295,
+42452975,42443975,0,True,primary,10th Avenue,78.113,,69.6 ft,,25 mph,,,,,,,496986803,
+42453630,42430594,0,True,residential,West 25th Street,273.75,1,,,25 mph,,,,,,,483704512,
+42454381,42427390,0,True,primary,10th Avenue,74.251,,,,25 mph,,,,,,,127693200,
+42455735,3270031028,0,True,unclassified,West 35th Street,126.83,,,,,,,,,,,273019814,
+42455735,42452975,0,True,primary,10th Avenue,78.348,,69.6 ft,,25 mph,,,,,,,496986803,
+246579597,246580736,0,True,trunk,12th Avenue,47.716,3,,,35 mph,,,,,,,464847780,NY 9A
+246579597,42422258,0,True,secondary,11th Avenue,56.556,,,,25 mph,,,,,,,22904053,
+246579753,373903786,0,True,trunk,11th Avenue,292.407,3,,,35 mph,,,,,,,34625464,NY 9A
+246580346,246580982,0,True,trunk,11th Avenue,66.76,"['4', '3']",,,35 mph,,,,,,,"[420895276, 420895277]",NY 9A
+246580444,246580466,0,True,secondary,11th Avenue,57.425,,,,25 mph,,,,,,,22904150,
+246580444,42427483,0,True,"['unclassified', 'residential']","['11th Avenue', 'West 24th Street']",317.751,,,,25 mph,,,,,,,"[22904113, 22904062, 22904055]",
+246580466,246580758,0,True,secondary,11th Avenue,79.53,,,,25 mph,,,,,,,"[22904149, 420908127]",
+246580466,42427494,0,False,secondary,West 24th Street,164.255,,,,25 mph,,,,,,,"[420908136, 420908135, 22916319]",
+246580736,246579753,0,True,secondary,11th Avenue,20.684,,,,25 mph,,,,,,,234489459,
+246580736,42427494,0,True,trunk,12th Avenue,239.015,3,,,35 mph,,,,,,,"[22903913, 194923804, 34625463]",NY 9A
+246580758,42430589,0,False,secondary,West 23rd Street,10.096,,,,25 mph,,,,,,,584971507,
+246580758,246580736,0,True,secondary,11th Avenue,97.674,,,,25 mph,,,,,,,194923799,
+246580797,42427494,0,False,secondary,West 24th Street,22.684,,,,25 mph,,,,,,,22904166,
+246580797,246579753,0,True,trunk,12th Avenue,268.219,3,,,35 mph,,,,,,,"[194923805, 194923806]",NY 9A
+246580982,42449345,0,True,residential,West 16th Street,29.946,,,,25 mph,,,,,,,5671698,
+246580982,246648063,0,True,trunk,11th Avenue,124.383,3,,,35 mph,,,,,,,308322431,NY 9A
+246648063,402480678,0,True,trunk,11th Avenue,67.773,3,,,35 mph,,,,,,,308322431,NY 9A
+246648219,42445766,0,True,primary,10th Avenue,37.6,,,,25 mph,,,,,,,22909152,
+246650510,42437699,0,True,primary,West 30th Street,22.316,,,,25 mph,,,,,,,46226331,
+246650510,4899886584,0,True,trunk,12th Avenue,87.751,3,,,35 mph,,,,,,,68325104,NY 9A
+247081122,42437678,0,False,primary,West 34th Street,22.14,,,,25 mph,,,,,,,194926845,
+247081122,246650510,0,True,trunk,12th Avenue,316.683,"['4', '3']",,,35 mph,,,,,,,"[420908131, 420908132]",NY 9A
+373903786,42429666,0,True,unclassified,West 18th Street,17.432,,,,25 mph,,,,,,,5669835,
+373903786,246580346,0,True,trunk,11th Avenue,77.188,3,,,35 mph,,,,,,,420895277,NY 9A
+3270030707,3270031002,0,False,residential,Hudson Boulevard East,61.806,,,,,,,,,,,320480540,
+3270031002,42437670,0,False,primary,West 34th Street,130.714,6,,,25 mph,yes,,,,,,273019810,
+3270031002,42430633,0,False,primary,West 34th Street,143.959,6,,,25 mph,yes,,yes,,,,"[273019810, 46481755]",
+3270031002,3270031028,0,False,residential,Hudson Boulevard East,85.387,,,,,,,,,,,320480540,
+3270031002,3270030707,0,False,residential,Hudson Boulevard East,61.806,,,,,,,,,,,320480540,
+3270031028,3270031029,0,True,unclassified,West 35th Street,46.9,,,,,,,,,,,273019814,
+3270031028,3270031030,0,True,residential,Hudson Boulevard East,79.22,,,,,,,,,,,532302787,
+3270031028,3270031002,0,False,residential,Hudson Boulevard East,85.387,,,,,,,,,,,320480540,
+3270031029,42430639,0,True,unclassified,West 35th Street,101.393,,,,,,,yes,,,,"[46481748, 273019814]",
+3270031030,42452975,0,True,secondary,West 36th Street,120.455,,,,,,,,,,,420902585,
+3270031031,3270031029,0,True,residential,Hudson Boulevard West,79.801,,,,,,,,,,,320480539,
+3270031031,3270031030,0,True,secondary,West 36th Street,43.356,,,,,,,,,,,420902585,
+4133206254,246648219,0,True,trunk_link,,59.374,2,,,25 mph,,,,,,,46334603,
+4872623863,42427393,0,True,trunk,11th Avenue,90.574,3,,,35 mph,,,,,,,194923801,NY 9A
+4872623863,42454381,0,True,unclassified,West 19th Street,198.414,,,,25 mph,,,,,,,22914182,
+4899886546,42445314,0,True,residential,West 26th Street,18.395,1,,,25 mph,,,,,,,5671311,
+4899886546,246580797,0,True,trunk,12th Avenue,160.27,"['4', '3']",,,35 mph,,,,,,,"[420908133, 420908134]",NY 9A
+4899886584,4899886546,0,True,trunk,12th Avenue,238.537,"['4', '3']",,,35 mph,,,,,,,"[68325104, 420908130]",NY 9A

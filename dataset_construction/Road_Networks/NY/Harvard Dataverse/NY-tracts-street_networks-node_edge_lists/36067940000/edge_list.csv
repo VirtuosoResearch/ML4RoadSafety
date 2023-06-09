@@ -1,0 +1,100 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+212715324,212715327,0,False,unclassified,,16.116,,,,,,,,,,,20117715,
+212715324,212794424,0,True,primary,,444.707,1,,,35 mph,,,,,,,"[280926432, 361072123]",US 11
+212715327,212715324,0,False,unclassified,,16.116,,,,,,,,,,,20117715,
+212715327,212755511,0,True,primary,,142.671,2,,,35 mph,,,,,,,121772554,US 11
+212729045,212754001,0,False,residential,,84.835,,,,,,,,,,,20121234,
+212731238,212731279,0,False,residential,,295.355,,,,,,,,,,,20118922,
+212731238,213021206,0,False,residential,Martin Lane,408.503,,,,,,,,,,,20144524,
+212731238,213023262,0,False,residential,Martin Lane,588.878,,,,,,,,,,,20144528,
+212731279,212731238,0,False,residential,,295.355,,,,,,,,,,,20118922,
+212731937,212858431,0,False,primary,,295.561,2,,,35 mph,,,,,,,223284022,US 11
+212731956,212731937,0,True,motorway_link,,310.5,1,,,,,,,,,,20118997,
+212731956,212756011,0,True,motorway,,960.243,2,,,65 mph,,,yes,,,,"[322291138, 43322230, 43322231]",I 81
+212733725,212860447,0,False,residential,Webster Road,1089.458,,,,,,,,,,,560777183,
+212747325,212747329,0,True,motorway_link,,22.334,1,,,,,,,,,,20120586,
+212747325,212756023,0,False,primary,,75.407,2,,,35 mph,,,,,,,36897249,US 11
+212747325,212764174,0,False,primary,,149.373,2,,,35 mph,,,,,,,36897249,US 11
+212747329,212756011,0,True,motorway_link,,254.92,1,,,,,,,,,,20121502,
+212750745,212787313,0,True,secondary,Syracuse Tully Valley Road,51.309,1,,,55 mph,,,,,,,45759689,NY 11A
+212750745,212790890,0,False,residential,West Conklin Avenue,149.347,,,,,,,,,,,20133116,
+212754001,212729045,0,False,residential,,84.835,,,,,,,,,,,20121234,
+212754001,212787313,0,False,secondary,Syracuse Tully Valley Road,1001.935,2,,,55 mph,,,,,,,362641162,NY 11A
+212754001,213021244,0,False,secondary,Syracuse Tully Valley Road,1962.655,2,,,"['30 mph', '55 mph']",,,yes,,,,"[362641161, 362641162, 316458579, 316458580]",NY 11A
+212755507,212755511,0,False,unclassified,,15.744,,,,,,,,,,,20121437,
+212755507,212715324,0,True,primary,,142.216,1,,,35 mph,,,,,,,361072123,US 11
+212755511,212755507,0,False,unclassified,,15.744,,,,,,,,,,,20121437,
+212755511,3655939227,0,True,primary,,472.007,2,,,35 mph,,,,,,,121772554,US 11
+212755854,212789178,0,False,residential,Old Route 11,185.585,,,,,,,,,,,20145905,
+212756023,212747329,0,True,motorway_link,,78.886,1,,,,,,,,,,20121502,
+212756023,212747325,0,False,primary,,75.407,2,,,35 mph,,,,,,,36897249,US 11
+212756023,212858431,0,False,primary,,61.203,2,,,35 mph,,,,,,,223284022,US 11
+212764174,212789188,0,False,primary,,58.737,2,,,35 mph,,,,,,,36897249,US 11
+212764174,212764193,0,True,motorway_link,,372.88,1,,,,,,,,,,20122573,
+212764174,212747325,0,False,primary,,149.373,2,,,35 mph,,,,,,,36897249,US 11
+212768266,213023262,0,False,residential,Hemlock Road,36.304,,,,,,,,,,,20147382,
+212768266,213021244,0,False,residential,Hemlock Road,174.039,,,,,,,,,,,20147382,
+212768266,213021235,0,False,residential,Webster Road,179.333,,,,,,,,,,,560777182,
+212787203,212836553,0,False,secondary,Syracuse Tully Valley Road,2956.587,2,,,"['30 mph', '55 mph']",,,,,,,"[362641161, 20144387, 20125005]",NY 11A
+212787203,213087264,0,False,residential,Buffalo Hill Road,303.578,,,,,,,,,,,322866755,
+212787313,212787322,0,False,secondary,Syracuse Tully Valley Road,37.572,2,,,55 mph,,,,,,,20125008,NY 11A
+212787313,212754001,0,False,secondary,Syracuse Tully Valley Road,1001.935,2,,,55 mph,,,,,,,362641162,NY 11A
+212787322,212787313,0,False,secondary,Syracuse Tully Valley Road,37.572,2,,,55 mph,,,,,,,20125008,NY 11A
+212787322,3655939227,0,False,primary,,125.828,4,,,35 mph,,,,,,,"[20131291, 20125591]",US 11
+212789009,212860447,0,False,residential,Hemlock Road,234.972,,,,,,,,,,,20131482,
+212789009,212860355,0,False,residential,Hemlock Road,780.72,,,,,,,,,,,20131482,
+212789009,212789013,0,False,residential,Quarry Road,34.646,,,,,,,yes,,,,"[36897248, 316458577, 316458578]",
+212789013,212789273,0,False,residential,Frontage Road,61.635,,,,,,,,,,,20131097,
+212789013,212789009,0,False,residential,Quarry Road,34.646,,,,,,,yes,,,,"[36897248, 316458577, 316458578]",
+212789013,212789178,0,False,residential,Quarry Road,1995.859,,,,,,,,,,,36897248,
+212789178,212789180,0,False,residential,Quarry Road,64.524,,,,,,,,,,,36897248,
+212789178,212755854,0,False,residential,Old Route 11,185.585,,,,,,,,,,,20145905,
+212789178,212789013,0,False,residential,Quarry Road,1995.859,,,,,,,,,,,36897248,
+212789180,212789178,0,False,residential,Quarry Road,64.524,,,,,,,,,,,36897248,
+212789180,212789273,0,False,residential,Frontage Road,2596.736,,,,,,,,,,,20131097,
+212789180,212789188,0,False,residential,Quarry Road,74.688,,,,,,,,,,,36897248,
+212789188,212764174,0,False,primary,,58.737,2,,,35 mph,,,,,,,36897249,US 11
+212789188,212794424,0,False,primary,,12.873,2,,,35 mph,,,,,,,36897249,US 11
+212789188,212789180,0,False,residential,Quarry Road,74.688,,,,,,,,,,,36897248,
+212789208,212789188,0,True,motorway_link,,452.405,1,,,,,,,,,,20125191,
+212789208,212764193,0,True,motorway,,856.356,2,,,65 mph,,,yes,,,,"[43322228, 195327540, 43322229]",I 81
+212789273,212789334,0,False,residential,Quarry Road,588.622,,,,,,,,,,,20125204,
+212789273,212789180,0,False,residential,Frontage Road,2596.736,,,,,,,,,,,20131097,
+212789273,212789013,0,False,residential,Frontage Road,61.635,,,,,,,,,,,20131097,
+212789334,212789273,0,False,residential,Quarry Road,588.622,,,,,,,,,,,20125204,
+212790890,212750745,0,False,residential,West Conklin Avenue,149.347,,,,,,,,,,,20133116,
+212791513,212791547,0,False,residential,Lions Den Road,656.029,,,,,,,,,,,20125346,
+212791513,213034875,0,False,secondary,South Onondaga Road,1434.517,2,,,45 mph,,,,,,,313217980,NY 80
+212791513,212836502,0,False,secondary,South Onondaga Road,928.199,2,,,45 mph,,,,,,,313217980,NY 80
+212791547,212791513,0,False,residential,Lions Den Road,656.029,,,,,,,,,,,20125346,
+212794424,212789188,0,False,primary,,12.873,2,,,35 mph,,,,,,,36897249,US 11
+212794424,212715327,0,True,primary,,437.448,"['2', '1']",,,35 mph,,,,,,,"[121772554, 20125575]",US 11
+212836502,212836553,0,False,residential,Gibson Road,1406.883,,,,,,,yes,,,,"[299655867, 299655868, 20129293]",
+212836502,212791513,0,False,secondary,South Onondaga Road,928.199,2,,,45 mph,,,,,,,313217980,NY 80
+212836553,212836502,0,False,residential,Gibson Road,1406.883,,,,,,,yes,,,,"[299655867, 299655868, 20129293]",
+212836553,213021206,0,False,secondary,Syracuse Tully Valley Road,132.498,2,,,30 mph,,,,,,,362641161,NY 11A
+212836553,212787203,0,False,secondary,Syracuse Tully Valley Road,2956.587,2,,,"['30 mph', '55 mph']",,,,,,,"[362641161, 20144387, 20125005]",NY 11A
+212858431,212894620,0,False,residential,Kennedy Road Spur,102.802,,,,,,,,,,,20144114,
+212858431,212731937,0,False,primary,,295.561,2,,,35 mph,,,,,,,223284022,US 11
+212858431,212756023,0,False,primary,,61.203,2,,,35 mph,,,,,,,223284022,US 11
+212860355,212789009,0,False,residential,Hemlock Road,780.72,,,,,,,,,,,20131482,
+212860447,212789009,0,False,residential,Hemlock Road,234.972,,,,,,,,,,,20131482,
+212860447,213023262,0,False,residential,Hemlock Road,601.938,,,,,,,,,,,20147382,
+212860447,212733725,0,False,residential,Webster Road,1089.458,,,,,,,,,,,560777183,
+212894620,212858431,0,False,residential,Kennedy Road Spur,102.802,,,,,,,,,,,20144114,
+213021206,212731238,0,False,residential,Martin Lane,408.503,,,,,,,,,,,20144524,
+213021206,213021235,0,False,secondary,Syracuse Tully Valley Road,504.858,2,,,30 mph,,,,,,,362641161,NY 11A
+213021206,212836553,0,False,secondary,Syracuse Tully Valley Road,132.498,2,,,30 mph,,,,,,,362641161,NY 11A
+213021235,213021244,0,False,secondary,Syracuse Tully Valley Road,201.329,2,,,30 mph,,,,,,,362641161,NY 11A
+213021235,213021206,0,False,secondary,Syracuse Tully Valley Road,504.858,2,,,30 mph,,,,,,,362641161,NY 11A
+213021235,212768266,0,False,residential,Webster Road,179.333,,,,,,,,,,,560777182,
+213021244,212768266,0,False,residential,Hemlock Road,174.039,,,,,,,,,,,20147382,
+213021244,212754001,0,False,secondary,Syracuse Tully Valley Road,1962.655,2,,,"['30 mph', '55 mph']",,,yes,,,,"[362641161, 362641162, 316458579, 316458580]",NY 11A
+213021244,213021235,0,False,secondary,Syracuse Tully Valley Road,201.329,2,,,30 mph,,,,,,,362641161,NY 11A
+213023262,212731238,0,False,residential,Martin Lane,588.878,,,,,,,,,,,20144528,
+213023262,212860447,0,False,residential,Hemlock Road,601.938,,,,,,,,,,,20147382,
+213023262,212768266,0,False,residential,Hemlock Road,36.304,,,,,,,,,,,20147382,
+213034875,212791513,0,False,secondary,South Onondaga Road,1434.517,2,,,45 mph,,,,,,,313217980,NY 80
+213087264,212787203,0,False,residential,Buffalo Hill Road,303.578,,,,,,,,,,,322866755,
+3655939227,212787322,0,False,primary,,125.828,4,,,35 mph,,,,,,,"[20131291, 20125591]",US 11
+3655939227,212755507,0,True,primary,,471.527,1,,,35 mph,,,,,,,361072123,US 11

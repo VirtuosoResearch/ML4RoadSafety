@@ -1,0 +1,257 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+41679988,41680039,0,False,residential,Bleecker Avenue,14.642,,,,30 mph,,,,,,,5624486,
+41679988,41718812,0,False,residential,Bleecker Avenue,129.359,,,,30 mph,,,,,,,5624486,
+41680034,41680036,0,False,residential,Highland Avenue,126.407,,,,30 mph,,,,,,,5609592,
+41680034,41790582,0,False,residential,Prospect Avenue,124.462,,,,30 mph,,,,,,,5641334,
+41680034,41723309,0,False,residential,"['Prospect Avenue', 'Christie Street']",111.553,,,,30 mph,,,,,,,"[5615962, 5641334]",
+41680036,41680039,0,False,residential,Highland Avenue,166.329,,,,30 mph,,,,,,,5609592,
+41680036,41680034,0,False,residential,Highland Avenue,126.407,,,,30 mph,,,,,,,5609592,
+41680036,41718806,0,False,tertiary,Brunswick Avenue,144.026,,,,30 mph,,,,,,,5625287,
+41680036,41790585,0,False,tertiary,Brunswick Avenue,82.619,,,,30 mph,,,,,,,5625287,
+41680039,41680036,0,False,residential,Highland Avenue,166.329,,,,30 mph,,,,,,,5609592,
+41680039,41679988,0,False,residential,Bleecker Avenue,14.642,,,,30 mph,,,,,,,5624486,
+41685805,41685812,0,True,primary_link,,28.333,,,,,,,,,,,5610472,
+41685805,41806549,0,True,primary,River Street,53.9,1,,,30 mph,,,,,,,44580088,US 4
+41685812,41718451,0,True,primary,King Street,40.376,1,,,30 mph,,,,,,,5635242,US 4
+41686485,41686486,0,True,residential,,15.641,,,,,,,,,,,5610544,
+41686485,41806566,0,False,tertiary,Peoples Avenue,52.897,,,,30 mph,,,,,,,5626991,
+41691957,41822729,0,True,secondary,Congress Street,138.82,2,,,30 mph,,,,,,,267844561,NY 2
+41691957,41822752,0,False,secondary,"['Ferry Street', 'Congress Street']",224.943,"['4', '2']",,,30 mph,,,,,,,"[35360219, 267844564]",NY 2
+41699163,41739332,0,True,primary,Hutton Street,42.713,,,,30 mph,,,,,,,5640132,
+41699177,41700123,0,True,motorway_link,,108.001,1,,,30 mph,,,,,,,5612688,
+41699177,41699163,0,True,motorway_link,,80.375,1,,,15 mph,,,,,,,125832879,
+41700123,41739273,0,False,tertiary,6th Avenue,216.725,4,,,30 mph,,,,,,,79635182,
+41718451,41806554,0,False,residential,"['Laundry Place', 'Bridge Avenue']",107.231,,,,,,,,,,,"[5638509, 5615494]",
+41718451,41806148,0,True,primary,King Street,80.194,1,,,30 mph,,,,,,,5635242,US 4
+41718801,41718802,0,False,residential,Tibbits Avenue,82.442,,,,30 mph,,,,,,,5615538,
+41718801,41854701,0,False,residential,14th Street,36.841,,,,30 mph,,,,,,,314585466,
+41718801,41723306,0,False,residential,14th Street,115.441,,,,30 mph,,,,,,,314585466,
+41718802,41718801,0,False,residential,Tibbits Avenue,82.442,,,,30 mph,,,,,,,5615538,
+41718802,41723309,0,False,tertiary,15th Street,110.674,,,,30 mph,,,,,,,5638361,
+41718802,41718806,0,False,tertiary,Tibbits Avenue,198.089,,,,30 mph,,,,,,,102506991,
+41718806,41718810,0,False,tertiary,Tibbits Avenue,56.33,,,,30 mph,,,,,,,102506991,
+41718806,41680036,0,False,tertiary,Brunswick Avenue,144.026,,,,30 mph,,,,,,,5625287,
+41718806,41718802,0,False,tertiary,Tibbits Avenue,198.089,,,,30 mph,,,,,,,102506991,
+41718810,41718812,0,False,tertiary,Tibbits Avenue,123.643,,,,30 mph,,,,,,,102506991,
+41718810,41718806,0,False,tertiary,Tibbits Avenue,56.33,,,,30 mph,,,,,,,102506991,
+41718812,41679988,0,False,residential,Bleecker Avenue,129.359,,,,30 mph,,,,,,,5624486,
+41718812,41718810,0,False,tertiary,Tibbits Avenue,123.643,,,,30 mph,,,,,,,102506991,
+41719459,41719502,0,True,primary,4th Street,8.515,2,,,30 mph,,,,,,,121772758,US 4
+41719466,41958365,0,False,residential,Williams Street,62.725,,,,,,,,,,,5640994,
+41719466,41719459,0,True,residential,Grand Street,59.864,,,,30 mph,,,,,,,5615597,
+41719471,41865859,0,True,residential,5th Avenue,129.936,,,,30 mph,,,,,,,73141180,
+41719471,41719466,0,True,residential,Grand Street,50.709,,,,30 mph,,,,,,,5615597,
+41719477,41719471,0,True,residential,Grand Street,105.783,,,,30 mph,,,,,,,5615597,
+41719477,41739293,0,False,tertiary,6th Avenue,110.182,,,,30 mph,,,,,,,107999639,
+41719477,41739284,0,False,tertiary,6th Avenue,73.934,,,,30 mph,,,,,,,107999639,
+41719492,41953986,0,True,primary,River Street,147.958,2,,,30 mph,,,,,,,231219048,US 4
+41719502,41719492,0,True,primary_link,,51.126,,,,30 mph,,,,,,,43085984,
+41719502,41826713,0,True,primary,4th Street,65.812,2,,,30 mph,,,,,,,121772758,US 4
+41722537,41722543,0,False,tertiary,Spring Avenue,188.662,,,,30 mph,,,,,,,89907187,
+41722537,41871112,0,False,tertiary,Spring Avenue,88.753,,,,30 mph,,,yes,,,,"[5615905, 89907187, 89907191]",
+41722543,41722537,0,False,tertiary,Spring Avenue,188.662,,,,30 mph,,,,,,,89907187,
+41723303,41854697,0,False,residential,13th Street,155.245,,,,30 mph,,,,,,,314585465,
+41723303,41822780,0,True,residential,13th Street,98.101,,,,,,,,,,,5637650,
+41723306,41723303,0,True,residential,Christie Street,81.859,,,,30 mph,,,,,,,270482714,
+41723306,41718801,0,False,residential,14th Street,115.441,,,,30 mph,,,,,,,314585466,
+41723306,41914779,0,False,residential,14th Street,137.016,,,,30 mph,,,,,,,314585466,
+41723309,41723306,0,True,residential,Christie Street,82.607,,,,30 mph,,,,,,,270482714,
+41723309,41680034,0,False,residential,"['Prospect Avenue', 'Christie Street']",111.553,,,,30 mph,,,,,,,"[5615962, 5641334]",
+41723309,41718802,0,False,tertiary,15th Street,110.674,,,,30 mph,,,,,,,5638361,
+41723309,41919269,0,False,tertiary,15th Street,138.797,,,,30 mph,,,,,,,5638361,
+41725342,41699163,0,True,residential,Corpral William A Dickerson Place,152.639,,,,,,,,,,,5616187,
+41734728,41734732,0,True,primary,3rd Street,142.87,1,,,30 mph,,,,,,,5617332,US 4
+41734728,41781256,0,False,tertiary,River Street,135.596,,,,30 mph,,,,,,,5630452,
+41734728,41826727,0,True,residential,Fulton Street,98.557,,,,30 mph,,,,,,,39474323,
+41734732,41734735,0,True,primary,3rd Street,140.299,1,,,30 mph,,,,,,,5617332,US 4
+41734732,41781263,0,True,residential,Broadway,106.15,,,,30 mph,,,,,,,39525370,
+41734735,41734736,0,True,primary,3rd Street,139.734,1,,,30 mph,,,,,,,5617332,US 4
+41734735,41826731,0,True,residential,State Street,100.22,,,,30 mph,,,,,,,39585908,
+41734736,41734737,0,True,primary,3rd Street,125.22,1,,,30 mph,,,,,,,5617332,US 4
+41734736,41781271,0,True,primary,Congress Street,102.539,2,,,30 mph,,,,,,,262245074,NY 2
+41734737,41826739,0,True,primary,Ferry Street,101.393,2,,,30 mph,,,,,,,51863809,NY 2
+41735915,41822787,0,False,secondary,Congress Street,86.434,2,,,30 mph,,,,,,,35360219,NY 2
+41735915,41787491,0,False,secondary,Congress Street,10.1,2,,,30 mph,,,,,,,35360219,NY 2
+41735915,41771236,0,False,residential,"['Cypress Street', 'Hale Street']",127.446,,,,,,,,,,,"[5617459, 5623403]",
+41735915,41914779,0,True,residential,14th Street,61.412,,,,30 mph,,,,,,,5638061,
+41737997,41776921,0,False,tertiary,Hill Street,58.638,,,,30 mph,,,,,,,5633781,
+41739273,41739284,0,False,tertiary,6th Avenue,225.556,4,,,30 mph,,,,,,,79635182,
+41739273,41700123,0,False,tertiary,6th Avenue,216.725,4,,,30 mph,,,,,,,79635182,
+41739284,41806566,0,False,tertiary,Federal Street,52.054,,,,30 mph,,,,,,,73142891,
+41739284,41806557,0,False,tertiary,Federal Street,101.929,,,,30 mph,,,,,,,73142891,
+41739284,41739273,0,False,tertiary,6th Avenue,225.556,4,,,30 mph,,,,,,,79635182,
+41739284,41719477,0,False,tertiary,6th Avenue,73.934,,,,30 mph,,,,,,,107999639,
+41739293,473667959,0,False,residential,Fulton Street,51.114,,,,30 mph,,,,,,,39534097,
+41739293,41739294,0,False,tertiary,6th Avenue,141.216,,,,30 mph,,,,,,,107999639,
+41739293,41719477,0,False,tertiary,6th Avenue,110.182,,,,30 mph,,,,,,,107999639,
+41739294,41805609,0,True,residential,Broadway,104.867,,,,30 mph,,,,,,,39525370,
+41739294,41739299,0,False,tertiary,6th Avenue,140.131,,,,30 mph,,,,,,,107999639,
+41739294,41739293,0,False,tertiary,6th Avenue,141.216,,,,30 mph,,,,,,,107999639,
+41739299,41822729,0,True,residential,"['7th Avenue', 'State Street']",225.303,,,,30 mph,,,,,,,"[39585908, 5630829]",
+41739299,41739301,0,False,tertiary,6th Avenue,143.949,,,,30 mph,,,,,,,107999639,
+41739299,41739294,0,False,tertiary,6th Avenue,140.131,,,,30 mph,,,,,,,107999639,
+41739301,1239938921,0,False,tertiary,6th Avenue,124.716,,,,30 mph,,,,,,,107999639,
+41739301,41739299,0,False,tertiary,6th Avenue,143.949,,,,30 mph,,,,,,,107999639,
+41739301,41822718,0,True,secondary,Congress Street,104.296,2,,,30 mph,,,,,,,267844561,NY 2
+41739324,41739273,0,True,residential,Jacob Street,20.001,,,,30 mph,,,,,,,74754966,
+41739324,41725342,0,True,residential,Old 6th Avenue,138.808,,,,30 mph,,,,,,,87996393,
+41739332,41725342,0,True,residential,Old 6th Avenue,106.352,,,,,,,,,,,5617847,
+41739332,41865872,0,True,primary,Hutton Street,100.196,,,,30 mph,,,,,,,5640132,
+41748449,41748450,0,True,tertiary,1st Street,102.285,,,,30 mph,,,,,,,5618725,
+41748449,41904541,0,True,tertiary,River Street,129.011,,,,30 mph,,,,,,,102506990,
+41748450,41748452,0,True,tertiary,1st Street,142.393,,,,30 mph,,,,,,,5618725,
+41748450,41904541,0,False,residential,State Street,70.378,,,,,,,,,,,39533945,
+41748450,41781268,0,True,residential,State Street,104.416,,,,30 mph,,,,,,,39585908,
+41748452,41748459,0,True,tertiary,1st Street,272.601,,,,30 mph,,,,,,,5618725,
+41748452,1851806877,0,True,primary,Congress Street,102.393,2,,,30 mph,,,,,,,262245074,NY 2
+41748459,41919858,0,True,tertiary,Division Street,108.167,,,,30 mph,,,,,,,5638398,
+41760116,41760117,0,False,residential,Arthur Court,61.379,,,,,,,,,,,5620081,
+41760116,41776921,0,False,tertiary,Hill Street,56.176,,,,30 mph,,,,,,,5633781,
+41760117,41760116,0,False,residential,Arthur Court,61.379,,,,,,,,,,,5620081,
+41771232,41787494,0,False,residential,Marshall Street,42.021,,,,,,,,,,,5623038,
+41771232,41787491,0,False,residential,Marshall Street,57.199,,,,,,,,,,,5623038,
+41771232,41771236,0,False,residential,Walnut Street,111.91,,,,,,,,,,,588518845,
+41771232,5620971550,0,False,residential,Walnut Street,52.153,,,,,,,,,,,588518845,
+41771236,41771232,0,False,residential,Walnut Street,111.91,,,,,,,,,,,588518845,
+41771236,41735915,0,False,residential,"['Hale Street', 'Cypress Street']",127.446,,,,,,,,,,,"[5617459, 5623403]",
+41771236,41787494,0,False,residential,"['Hale Street', 'Birch Street']",148.302,,,,,,,,,,,"[5623403, 5626060]",
+41776921,41776923,0,False,residential,Buckley Street,73.077,,,,,,,,,,,5621837,
+41776921,41760116,0,False,tertiary,Hill Street,56.176,,,,30 mph,,,,,,,5633781,
+41776921,41737997,0,False,tertiary,Hill Street,58.638,,,,30 mph,,,,,,,5633781,
+41776923,41776921,0,False,residential,Buckley Street,73.077,,,,,,,,,,,5621837,
+41779235,41797810,0,False,residential,Havermans Avenue,63.54,,,,,,,,,,,5630324,
+41779235,41848456,0,False,residential,Havermans Avenue,105.084,,,,,,,,,,,5630324,
+41781256,41734728,0,False,tertiary,River Street,135.596,,,,30 mph,,,,,,,5630452,
+41781256,41805600,0,True,tertiary,River Street,77.58,,,,30 mph,,,,,,,102506990,
+41781263,41805600,0,True,residential,Broadway,57.145,,,,30 mph,,,,,,,39525370,
+41781263,41781256,0,True,tertiary,2nd Street,55.134,,,,30 mph,,,,,,,103495371,
+41781268,41781263,0,True,tertiary,2nd Street,140.623,,,,30 mph,,,,,,,103495371,
+41781268,41734735,0,True,residential,State Street,104.923,,,,30 mph,,,,,,,39585908,
+41781271,41781268,0,True,tertiary,2nd Street,140.656,,,,30 mph,,,,,,,103495371,
+41781271,41748452,0,True,primary,Congress Street,104.709,2,,,30 mph,,,,,,,262245074,NY 2
+41781280,41748459,0,True,tertiary,Division Street,102.72,,,,30 mph,,,,,,,5638398,
+41781280,41781271,0,True,tertiary,2nd Street,284.427,,,,30 mph,,,,,,,103495371,
+41787491,41771232,0,False,residential,Marshall Street,57.199,,,,,,,,,,,5623038,
+41787491,41735915,0,False,secondary,Congress Street,10.1,2,,,30 mph,,,,,,,35360219,NY 2
+41787491,41822780,0,False,secondary,Congress Street,103.104,2,,,30 mph,,,,,,,35360219,NY 2
+41787494,41771232,0,False,residential,Marshall Street,42.021,,,,,,,,,,,5623038,
+41787494,41814302,0,False,residential,Birch Street,30.344,,,,,,,,,,,5626060,
+41787494,41771236,0,False,residential,"['Hale Street', 'Birch Street']",148.302,,,,,,,,,,,"[5623403, 5626060]",
+41790489,41848456,0,False,residential,"['Havermans Avenue', 'Liberty Street']",142.694,,,,,,,,,,,"[39525529, 5630324]",
+41790582,41790585,0,False,residential,Bank Street,140.212,,,,30 mph,,,,,,,5623377,
+41790582,41964035,0,False,residential,Prospect Avenue,67.814,,,,30 mph,,,,,,,5641334,
+41790582,41680034,0,False,residential,Prospect Avenue,124.462,,,,30 mph,,,,,,,5641334,
+41790585,41790582,0,False,residential,Bank Street,140.212,,,,30 mph,,,,,,,5623377,
+41790585,41680036,0,False,tertiary,Brunswick Avenue,82.619,,,,30 mph,,,,,,,5625287,
+41797810,41848461,0,False,residential,Havermans Avenue,50.429,,,,,,,,,,,5630324,
+41797810,41779235,0,False,residential,Havermans Avenue,63.54,,,,,,,,,,,5630324,
+41805600,41748449,0,True,tertiary,River Street,61.128,,,,30 mph,,,,,,,102506990,
+41805604,41734732,0,True,residential,Broadway,100.133,,,,30 mph,,,,,,,39525370,
+41805604,41826727,0,True,primary,4th Street,142.125,2,,,30 mph,,,,,,,121772758,US 4
+41805609,41805604,0,True,residential,Broadway,103.163,,,,30 mph,,,,,,,39525370,
+41805609,41865851,0,True,residential,5th Avenue,141.306,,,,30 mph,,,,,,,73141180,
+41806148,41806151,0,True,residential,Jacob Street,30.511,,,,30 mph,,,,,,,73236400,
+41806148,41806190,0,True,primary,King Street,29.946,1,,,30 mph,,,,,,,5635242,US 4
+41806151,868728700,0,True,residential,Jacob Street,44.171,,,,30 mph,,,,,,,73236400,
+41806151,41806154,0,True,residential,Jacob Street,27.296,,,,30 mph,,,,,,,74754966,
+41806154,868728700,0,True,residential,5th Avenue,35.346,,,,30 mph,,,,,,,39688917,
+41806154,41739324,0,True,residential,Jacob Street,88.973,,,,30 mph,,,,,,,74754966,
+41806188,41685805,0,True,primary,River Street,129.457,1,,,30 mph,,,,,,,44580088,US 4
+41806190,41806188,0,True,unclassified,Jacob Street,75.642,,,,30 mph,,,,,,,5625206,
+41806190,41883201,0,True,primary,King Street,175.831,1,,,30 mph,,,,,,,5635242,US 4
+41806549,41826713,0,False,primary,4th Street,39.02,5,,,30 mph,,,,,,,231219049,US 4
+41806549,41806554,0,False,tertiary,Federal Street,52.507,,,,30 mph,,,,,,,5625239,
+41806549,41685812,0,True,primary,King Street,49.087,1,,,30 mph,,,,,,,5635242,US 4
+41806554,867659269,0,False,tertiary,Federal Street,52.838,,,,30 mph,,,,,,,5625239,
+41806554,41806549,0,False,tertiary,Federal Street,52.507,,,,30 mph,,,,,,,5625239,
+41806554,41718451,0,False,residential,"['Laundry Place', 'Bridge Avenue']",107.231,,,,,,,,,,,"[5638509, 5615494]",
+41806557,867659269,0,False,tertiary,Federal Street,11.619,,,,30 mph,,,,,,,73142891,
+41806557,41806154,0,True,residential,5th Avenue,204.786,,,,30 mph,,,,,,,39688917,
+41806557,41739284,0,False,tertiary,Federal Street,101.929,,,,30 mph,,,,,,,73142891,
+41806566,41686485,0,False,tertiary,Peoples Avenue,52.897,,,,30 mph,,,,,,,5626991,
+41806566,41686486,0,True,tertiary,Federal Street,54.29,,,,30 mph,,,,,,,37858528,
+41806566,41739284,0,False,tertiary,Federal Street,52.054,,,,30 mph,,,,,,,73142891,
+41814302,41787494,0,False,residential,Birch Street,30.344,,,,,,,,,,,5626060,
+41822701,1851806877,0,False,residential,Congress Street,68.37,,,,30 mph,,,,,,,35393995,
+41822701,5620958635,0,False,residential,"['Front Street', 'State Street']",165.334,,,,30 mph,,,,,,,"[43085560, 588517298, 5637448, 588517300]",
+41822701,41919858,0,False,residential,"['Front Street', 'Division Street']",340.787,,,,30 mph,,,,,,,"[43085560, 43085561]",
+41822715,41826731,0,True,primary,4th Street,140.889,1,,,30 mph,,,,,,,103495365,US 4
+41822715,41734736,0,True,primary,Congress Street,101.181,2,,,30 mph,,,,,,,262245074,NY 2
+41822718,41849563,0,True,tertiary,5th Avenue,123.175,,,,30 mph,,,,,,,262245085,
+41822718,41822715,0,True,secondary,Congress Street,103.727,2,,,30 mph,,,,,,,267844561,NY 2
+41822729,41739301,0,True,secondary,Congress Street,47.601,2,,,30 mph,,,,,,,267844561,NY 2
+41822752,41822773,0,False,secondary,Congress Street,269.808,2,,,30 mph,,,,,,,35360219,NY 2
+41822752,41691957,0,False,secondary,"['Ferry Street', 'Congress Street']",224.943,"['4', '2']",,,30 mph,,,,,,,"[35360219, 267844564]",NY 2
+41822773,1053141666,0,False,secondary,Congress Street,7.821,2,,,30 mph,,,,,,,35360219,NY 2
+41822773,41840901,0,True,unclassified,Prospect Park Road,30.86,,,,,,,,,,,5640868,
+41822773,41822752,0,False,secondary,Congress Street,269.808,2,,,30 mph,,,,,,,35360219,NY 2
+41822780,41787491,0,False,secondary,Congress Street,103.104,2,,,30 mph,,,,,,,35360219,NY 2
+41822780,1053141666,0,False,secondary,Congress Street,63.116,2,,,30 mph,,,,,,,35360219,NY 2
+41822787,41735915,0,False,secondary,Congress Street,86.434,2,,,30 mph,,,,,,,35360219,NY 2
+41822787,41919269,0,False,tertiary,15th Street,105.723,,,,30 mph,,,,,,,5638361,
+41826713,41806549,0,False,primary,4th Street,39.02,5,,,30 mph,,,,,,,231219049,US 4
+41826713,41719492,0,True,primary,River Street,41.362,2,,,30 mph,,,,,,,231219048,US 4
+41826722,41719459,0,True,primary,4th Street,35.607,2,,,30 mph,,,,,,,121772758,US 4
+41826727,41865859,0,True,residential,Fulton Street,107.919,,,,30 mph,,,,,,,39474323,
+41826727,41826722,0,True,primary,4th Street,111.949,2,,,30 mph,,,,,,,121772758,US 4
+41826731,41805604,0,True,primary,4th Street,141.048,1,,,30 mph,,,,,,,103495365,US 4
+41826731,41865851,0,True,residential,State Street,104.022,,,,30 mph,,,,,,,39585908,
+41826739,41822715,0,True,primary,4th Street,124.898,1,,,30 mph,,,,,,,103495365,US 4
+41826739,41849563,0,True,secondary,Ferry Street,105.414,2,,,30 mph,,,,,,,262245078,NY 2
+41830824,5620958635,0,True,residential,Chamberlain Way,495.396,,,,,,,,,,,39474987,
+41830824,41734728,0,True,primary,River Street,77.414,2,,,30 mph,,,,,,,231219048,US 4
+41840804,4299328561,0,False,unclassified,Park Road,807.077,,,,,,,,,,,5629310,
+41840901,4299328561,0,True,unclassified,Prospect Park Road,9.345,,,,,,,,,,,5640868,
+41840901,1055378191,0,False,unclassified,Prospect Park Road,414.785,,,,,,,,,,,5640860,
+41848456,41779235,0,False,residential,Havermans Avenue,105.084,,,,,,,,,,,5630324,
+41848456,41790489,0,False,residential,"['Havermans Avenue', 'Liberty Street']",142.694,,,,,,,,,,,"[39525529, 5630324]",
+41848461,41797810,0,False,residential,Havermans Avenue,50.429,,,,,,,,,,,5630324,
+41849563,1239938921,0,True,secondary,Ferry Street,102.591,2,,,30 mph,,,,,,,262245078,NY 2
+41854697,41723303,0,False,residential,13th Street,155.245,,,,30 mph,,,,,,,314585465,
+41854697,41822752,0,True,residential,"['11th Street', 'Farm Street']",224.188,,,,30 mph,,,,,,,"[5631226, 5641516]",
+41854697,41854701,0,False,residential,Farm Street,82.202,,,,30 mph,,,,,,,314585467,
+41854701,41718801,0,False,residential,14th Street,36.841,,,,30 mph,,,,,,,314585466,
+41854701,41854697,0,False,residential,Farm Street,82.202,,,,30 mph,,,,,,,314585467,
+41865851,41822718,0,True,residential,5th Avenue,143.341,,,,30 mph,,,,,,,73141180,
+41865851,41739299,0,True,residential,State Street,102.188,,,,30 mph,,,,,,,39585908,
+41865859,41739293,0,True,residential,Fulton Street,103.594,,,,30 mph,,,,,,,39474323,
+41865859,41805609,0,True,residential,5th Avenue,140.405,,,,30 mph,,,,,,,73141180,
+41865872,41944313,0,True,primary,Hutton Street,116.009,,,,30 mph,,,,,,,5640132,
+41871112,41722537,0,False,tertiary,Spring Avenue,88.753,,,,30 mph,,,yes,,,,"[5615905, 89907187, 89907191]",
+41871112,41871148,0,False,residential,Hill Street,151.826,,,,,,,,,,,5633786,
+41871148,41871112,0,False,residential,Hill Street,151.826,,,,,,,,,,,5633786,
+41883201,41944313,0,False,primary,River Street,61.51,2,,,30 mph,,,,,,,5640647,US 4
+41883201,41806188,0,True,primary,River Street,146.736,1,,,30 mph,,,,,,,44580088,US 4
+41904541,5620958635,0,False,residential,State Street,40.352,,,,,,,,,,,5637448,
+41904541,41748450,0,False,residential,State Street,70.378,,,,,,,,,,,39533945,
+41904541,1851806877,0,True,tertiary,River Street,144.666,,,,30 mph,,,,,,,102506990,
+41914779,41919269,0,False,residential,Richmond Street,79.218,,,,30 mph,,,,,,,5641308,
+41914779,41723306,0,False,residential,14th Street,137.016,,,,30 mph,,,,,,,314585466,
+41919269,41914779,0,False,residential,Richmond Street,79.218,,,,30 mph,,,,,,,5641308,
+41919269,41723309,0,False,tertiary,15th Street,138.797,,,,30 mph,,,,,,,5638361,
+41919269,41822787,0,False,tertiary,15th Street,105.723,,,,30 mph,,,,,,,5638361,
+41919858,41822701,0,False,residential,"['Front Street', 'Division Street']",340.787,,,,30 mph,,,,,,,"[43085560, 43085561]",
+41944313,41883201,0,False,primary,River Street,61.51,2,,,30 mph,,,,,,,5640647,US 4
+41953986,41830824,0,True,primary,River Street,35.073,2,,,30 mph,,,,,,,231219048,US 4
+41953986,41826722,0,True,residential,Museum Place,100.175,,,,,,,,,,,5641886,
+41958365,41719466,0,False,residential,Williams Street,62.725,,,,,,,,,,,5640994,
+41964035,41790582,0,False,residential,Prospect Avenue,67.814,,,,30 mph,,,,,,,5641334,
+473667959,41739293,0,False,residential,Fulton Street,51.114,,,,30 mph,,,,,,,39534097,
+867659269,41806554,0,False,tertiary,Federal Street,52.838,,,,30 mph,,,,,,,5625239,
+867659269,41806557,0,False,tertiary,Federal Street,11.619,,,,30 mph,,,,,,,73142891,
+867659269,41719471,0,True,residential,5th Avenue,86.952,,,,30 mph,,,,,,,73141180,
+868728700,41865872,0,True,residential,5th Avenue,198.906,,,,30 mph,,,,,,,39688917,
+1053141666,41822773,0,False,secondary,Congress Street,7.821,2,,,30 mph,,,,,,,35360219,NY 2
+1053141666,41822780,0,False,secondary,Congress Street,63.116,2,,,30 mph,,,,,,,35360219,NY 2
+1055378191,41840901,0,False,unclassified,Prospect Park Road,414.785,,,,,,,,,,,5640860,
+1239938921,41739301,0,False,tertiary,6th Avenue,124.716,,,,30 mph,,,,,,,107999639,
+1239938921,41691957,0,True,secondary,Ferry Street,197.875,2,,,30 mph,,,,,,,262245078,NY 2
+1851806877,41822701,0,False,residential,Congress Street,68.37,,,,30 mph,,,,,,,35393995,
+2544579475,41734737,0,True,primary,"['Ferry Street', 'Congress Street']",434.058,2,,,30 mph,,,yes,yes,,,"[5630464, 51863809, 51863810, 5627086]",NY 2
+2544579475,41919858,0,True,primary_link,,222.933,,,,,,,yes,,,,"[247573562, 106208372]",
+3247277558,41699177,0,True,motorway_link,,223.12,2,,,30 mph,,,yes,,,,"[5612523, 318328981]",
+4299328561,41840804,0,False,unclassified,Park Road,807.077,,,,,,,,,,,5629310,
+4299328561,1053141666,0,True,unclassified,Park Road,36.977,,,,,,,,,,,90750555,
+5620958635,41904541,0,False,residential,State Street,40.352,,,,,,,,,,,5637448,
+5620958635,41822701,0,False,residential,"['Front Street', 'State Street']",165.334,,,,30 mph,,,,,,,"[5637448, 588517298, 588517300, 43085560]",
+5620971550,41771232,0,False,residential,Walnut Street,52.153,,,,,,,,,,,588518845,

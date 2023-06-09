@@ -1,0 +1,25 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+62691953,4753051241,0,False,residential,Romoda Drive,443.972,,,,,,,,,,,8754689,
+62691953,62847512,0,False,residential,Romoda Drive,109.27,,,,,,,,,,,8754689,
+62691953,2738427132,0,False,residential,,102.378,,,,,,,,,,,268509070,
+62726338,62851751,0,False,tertiary,Park Street,76.812,,,,,,,,,,,8752844,
+62726338,62734955,0,False,tertiary,Park Street,272.881,,,,,,,,,,,8752844,
+62734955,62726338,0,False,tertiary,Park Street,272.881,,,,,,,,,,,8752844,
+62759786,4224210219,0,False,secondary,State Highway 68,81.045,,,,,,,,,,,355218630,NY 68
+62759786,4224210214,0,False,secondary,State Highway 68,1598.24,,,,,,,,,,,355218630,NY 68
+62847512,62691953,0,False,residential,Romoda Drive,109.27,,,,,,,,,,,8754689,
+62847512,62880867,0,False,residential,"['Romoda Drive', 'St Lawrence University']",320.803,,,,,,,,,,,"[8754689, 387425292]",
+62851751,62726338,0,False,tertiary,Park Street,76.812,,,,,,,,,,,8752844,
+62851751,62880867,0,False,residential,University Avenue,278.165,,,,,,,,,,,8757889,
+62880867,62851751,0,False,residential,University Avenue,278.165,,,,,,,,,,,8757889,
+62880867,62847512,0,False,residential,"['Romoda Drive', 'St Lawrence University']",320.803,,,,,,,,,,,"[8754689, 387425292]",
+2722473247,2738427132,0,False,residential,,354.19,,,,,,,,,,,"[266729682, 268509070]",
+2738427132,2738427133,0,False,residential,,28.309,,,,,,,,,,,268509072,
+2738427132,62691953,0,False,residential,,102.378,,,,,,,,,,,268509070,
+2738427132,2722473247,0,False,residential,,354.19,,,,,,,,,,,"[266729682, 268509070]",
+2738427133,2738427132,0,False,residential,,28.309,,,,,,,,,,,268509072,
+4224210214,4753051241,0,False,trunk,East Main Street,655.811,2,,,,,,,,,,8744923,US 11;NY 68
+4224210214,62759786,0,False,secondary,State Highway 68,1598.24,,,,,,,,,,,355218630,NY 68
+4224210219,62759786,0,False,secondary,State Highway 68,81.045,,,,,,,,,,,355218630,NY 68
+4753051241,4224210214,0,False,trunk,East Main Street,655.811,2,,,,,,,,,,8744923,US 11;NY 68
+4753051241,62691953,0,False,residential,Romoda Drive,443.972,,,,,,,,,,,8754689,

@@ -1,0 +1,217 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+43001734,43028772,0,False,residential,Miller Road,79.587,,,,,,,,,,,150866843,
+43001734,43001746,0,False,residential,Quarry Road,1438.788,,,,,,,,,,,5714761,
+43001734,43025403,0,False,residential,Miller Road,262.944,,,,,,,,,,,150866843,
+43001746,43001734,0,False,residential,Quarry Road,1438.788,,,,,,,,,,,5714761,
+43005248,43032276,0,False,residential,James Avenue,568.208,,,,,,,,,,,5717952,
+43005248,43040083,0,False,secondary,Hyde Park Boulevard,101.428,,,,,,,,,,,53192313,NY 61
+43005248,3642932918,0,True,secondary,Hyde Park Boulevard,103.661,,,,,,,,,,,111646275,NY 61
+43013332,43028759,0,False,residential,"['Grauer Road', 'Colonial Drive']",1638.436,,,,,,,,,,,"[5719137, 5715931]",
+43013332,3586106871,0,False,residential,Grauer Road,809.002,,,,,,,,,,,5715931,
+43013332,43033097,0,False,residential,Hermitage Street,155.59,,,,,,,,,,,5717991,
+43015797,43015800,0,False,residential,Rhode Island Avenue,258.03,2,,,,,,,,,,5716231,
+43015797,43040085,0,False,secondary,Hyde Park Boulevard,95.992,,,,,,,,,,,53192313,NY 61
+43015800,43015804,0,False,residential,Rhode Island Avenue,166.239,2,,,,,,,,,,5716231,
+43015800,43015797,0,False,residential,Rhode Island Avenue,258.03,2,,,,,,,,,,5716231,
+43015800,43031423,0,False,residential,Portland Street,92.385,2,,,,,,,,,,5717909,
+43015804,43015808,0,False,residential,Rhode Island Avenue,81.623,2,,,,,,,,,,5716231,
+43015804,43015800,0,False,residential,Rhode Island Avenue,166.239,2,,,,,,,,,,5716231,
+43015804,43020366,0,False,residential,Saint Paul Street,92.082,2,,,,,,,,,,467674034,
+43015808,43015810,0,False,residential,Rhode Island Avenue,81.556,2,,,,,,,,,,5716231,
+43015808,43015804,0,False,residential,Rhode Island Avenue,81.623,2,,,,,,,,,,5716231,
+43015810,43015815,0,False,residential,Rhode Island Avenue,81.735,2,,,,,,,,,,5716231,
+43015810,43015808,0,False,residential,Rhode Island Avenue,81.556,2,,,,,,,,,,5716231,
+43015810,43018645,0,False,residential,Lincoln Street,294.806,2,,,,,,,,,,5716565,
+43015815,43015810,0,False,residential,Rhode Island Avenue,81.735,2,,,,,,,,,,5716231,
+43015815,43029206,0,False,residential,Petroleum Street,275.586,2,,,,,,,,,,5718568,
+43015815,673882324,0,False,residential,Rhode Island Avenue,165.05,2,,,,,,,,,,5716231,
+43015823,43015825,0,False,residential,Rhode Island Avenue,82.287,2,,,,,,,,,,5716231,
+43015823,673882324,0,False,residential,Rhode Island Avenue,80.937,2,,,,,,,,,,5716231,
+43015825,43015827,0,False,residential,Rhode Island Avenue,80.681,2,,,,,,,,,,5716231,
+43015825,43015823,0,False,residential,Rhode Island Avenue,82.287,2,,,,,,,,,,5716231,
+43015827,43015829,0,False,residential,Rhode Island Avenue,32.971,2,,,,,,,,,,5716231,
+43015827,43015825,0,False,residential,Rhode Island Avenue,80.681,2,,,,,,,,,,5716231,
+43015827,43029217,0,False,residential,Norman Street,178.484,2,,,,,,,,,,5718349,
+43015829,43015827,0,False,residential,Rhode Island Avenue,32.971,2,,,,,,,,,,5716231,
+43017822,43017823,0,False,residential,John Street,113.066,,,,,,,,,,,5716452,
+43017822,3586106863,0,False,residential,Isherwood Drive,528.802,,,,,,,,,,,5719497,
+43017822,43021279,0,False,residential,"['Isherwood Drive', 'Woodard Avenue']",652.86,,,,,,,,,,,"[5719497, 5716902]",
+43017823,43017826,0,False,residential,John Street,108.645,,,,,,,,,,,5716452,
+43017823,43017822,0,False,residential,John Street,113.066,,,,,,,,,,,5716452,
+43017823,3586106866,0,False,residential,Creekside Parkway,444.17,,,,,,,,,,,5719399,
+43017823,43057150,0,False,residential,Creekside Parkway,171.315,,,,,,,,,,,5719399,
+43017826,43017828,0,False,residential,John Street,105.234,,,,,,,,,,,5716452,
+43017826,43017823,0,False,residential,John Street,108.645,,,,,,,,,,,5716452,
+43017826,3586106869,0,False,residential,Chester Avenue,364.081,,,,,,,,,,,5718823,
+43017826,43047418,0,False,residential,Chester Avenue,160.432,,,,,,,,,,,5718823,
+43017828,43017830,0,False,residential,John Street,94.083,,,,,,,,,,,5716452,
+43017828,43017830,1,False,residential,"['Liberty Avenue', 'Bank Street', 'Pomeroy Avenue']",434.416,,,,,,,,,,,"[353238720, 5719675, 5718062]",
+43017828,43017826,0,False,residential,John Street,105.234,,,,,,,,,,,5716452,
+43017828,3586106874,0,False,residential,Liberty Avenue,290.033,,,,,,,,,,,5719675,
+43017830,43017834,0,False,residential,John Street,91.25,,,,,,,,,,,5716452,
+43017830,43017828,0,False,residential,John Street,94.083,,,,,,,,,,,5716452,
+43017830,43017828,1,False,residential,"['Liberty Avenue', 'Bank Street', 'Pomeroy Avenue']",434.416,,,,,,,,,,,"[353238720, 5719675, 5718062]",
+43017830,3586106880,0,False,residential,Pomeroy Avenue,218.132,,,,,,,,,,,5718062,
+43017834,43017836,0,False,residential,John Street,90.418,,,,,,,,,,,5716452,
+43017834,43017830,0,False,residential,John Street,91.25,,,,,,,,,,,5716452,
+43017834,3586106883,0,False,residential,Fox Avenue,159.804,,,,,,,,,,,5718914,
+43017834,43048709,0,False,residential,Fox Avenue,136.006,,,,,,,,,,,5718914,
+43017836,43017834,0,False,residential,John Street,90.418,,,,,,,,,,,5716452,
+43017836,43042183,0,False,primary,Witmer Road,92.139,,,,,,,,,,,28434019,NY 31
+43017836,43049821,0,False,primary,Witmer Road,392.222,,,,,,,,,,,28434019,NY 31
+43018530,1975018619,0,False,residential,Tuscarora Road,99.457,,,,,,,,,,,150866288,
+43018645,43015810,0,False,residential,Lincoln Street,294.806,2,,,,,,,,,,5716565,
+43018645,43029206,0,False,tertiary,Lockport Road,85.179,2,,,,,,,,,,5717797,
+43018645,43018780,0,False,tertiary,Lockport Road,25.339,2,,,,,,,,,,5717797,
+43018780,43018645,0,False,tertiary,Lockport Road,25.339,2,,,,,,,,,,5717797,
+43018867,43040087,0,False,secondary,Hyde Park Boulevard,7.143,,,,,,,,,,,53192313,NY 61
+43020360,43020363,0,False,residential,Saint Paul Street,85.587,2,,,,,,,,,,5716781,
+43020360,43031415,0,False,residential,Birch Avenue,161.967,2,,,,,,,,,,5718359,
+43020363,43020360,0,False,residential,Saint Paul Street,85.587,2,,,,,,,,,,5716781,
+43020363,43020366,0,False,residential,Saint Paul Street,89.976,2,,,,,,,,,,467674035,
+43020363,43031418,0,False,residential,Nevada Avenue,162.514,2,,,,,,,,,,"[467674036, 5718580]",
+43020366,43015804,0,False,residential,Saint Paul Street,92.082,2,,,,,,,,,,467674034,
+43020366,43020363,0,False,residential,Saint Paul Street,89.976,2,,,,,,,,,,467674035,
+43020366,43031423,0,False,residential,Louisiana Avenue,163.866,2,,,,,,,,,,467674037,
+43021279,43057145,0,False,residential,Creekside Parkway,144.043,,,,,,,,,,,5719398,
+43021279,43021282,0,False,residential,Woodard Avenue,499.049,,,,,,,,,,,5716902,
+43021279,43017822,0,False,residential,"['Isherwood Drive', 'Woodard Avenue']",652.86,,,,,,,,,,,"[5719497, 5716902]",
+43021282,43021279,0,False,residential,Woodard Avenue,499.049,,,,,,,,,,,5716902,
+43021282,43049821,0,False,primary,Witmer Road,229.073,,,,,,,,,,,28434019,NY 31
+43021282,256905727,0,False,primary,Witmer Road,164.906,,,,,,,,,,,28434019,NY 31
+43025403,43025405,0,False,residential,Lee Drive,132.704,,,,,,,,,,,5717398,
+43025403,43028759,0,False,residential,Miller Road,334.14,,,,,,,,,,,150866843,
+43025403,43001734,0,False,residential,Miller Road,262.944,,,,,,,,,,,150866843,
+43025405,1637348989,0,False,residential,Lee Drive,121.51,,,,,,,,,,,5717398,
+43025405,43025403,0,False,residential,Lee Drive,132.704,,,,,,,,,,,5717398,
+43025405,43027654,0,False,residential,Taylor Drive,263.021,,,,,,,,,,,5719319,
+43027231,43040087,0,False,secondary,Hyde Park Boulevard,79.961,,,,,,,,,,,53192313,NY 61
+43027654,43027655,0,False,residential,Thomas Court,127.21,,,,,,,,,,,5717664,
+43027654,43052359,0,False,residential,"['Jackson Drive', 'Taylor Drive']",319.297,,,,,,,,,,,"[150867302, 5719319]",
+43027654,43025405,0,False,residential,Taylor Drive,263.021,,,,,,,,,,,5719319,
+43027655,43027654,0,False,residential,Thomas Court,127.21,,,,,,,,,,,5717664,
+43027655,43052359,0,False,residential,Colonial Drive,198.763,,,,,,,,,,,5719137,
+43027655,43028759,0,False,residential,Colonial Drive,221.593,,,,,,,,,,,5719137,
+43028759,43027655,0,False,residential,Colonial Drive,221.593,,,,,,,,,,,5719137,
+43028759,43025403,0,False,residential,Miller Road,334.14,,,,,,,,,,,150866843,
+43028759,43013332,0,False,residential,"['Grauer Road', 'Colonial Drive']",1638.436,,,,,,,,,,,"[5719137, 5715931]",
+43028772,43001734,0,False,residential,Miller Road,79.587,,,,,,,,,,,150866843,
+43028836,43028840,0,False,residential,Pennsylvania Avenue,325.804,,,,,,,,,,,5717770,
+43028836,43028855,0,False,secondary,Witmer Road,28.624,,,,,,,,,,,5718991,NY 31
+43028836,43049644,0,False,secondary,Witmer Road,37.577,,,,,,,,,,,5718991,NY 31
+43028840,43028836,0,False,residential,Pennsylvania Avenue,325.804,,,,,,,,,,,5717770,
+43028853,43028855,0,False,residential,Pennsylvania Avenue,794.731,,,,,,,,,,,5717772,
+43028853,1271450234,0,True,secondary,Hyde Park Boulevard,177.554,,,,,,,,,,,111646275,NY 61
+43028855,43028853,0,False,residential,Pennsylvania Avenue,794.731,,,,,,,,,,,5717772,
+43028855,43049803,0,False,secondary,Witmer Road,91.931,,,,,,,,,,,5718991,NY 31
+43028855,43028836,0,False,secondary,Witmer Road,28.624,,,,,,,,,,,5718991,NY 31
+43029193,43031415,0,False,residential,Portland Street,100.454,2,,,,,,,,,,5717909,
+43029206,43018645,0,False,tertiary,Lockport Road,85.179,2,,,,,,,,,,5717797,
+43029206,43015815,0,False,residential,Petroleum Street,275.586,2,,,,,,,,,,5718568,
+43029217,43015827,0,False,residential,Norman Street,178.484,2,,,,,,,,,,5718349,
+43030231,1637350049,0,False,residential,Shanie Drive,11.754,,,,,,,,,,,5718842,
+43030231,43033097,0,False,residential,Shanie Drive,106.81,,,,,,,,,,,5718842,
+43030231,43030248,0,False,residential,Theresa Lane,151.807,,,,,,,,,,,5717860,
+43030231,43030259,0,False,residential,Theresa Lane,231.161,,,,,,,,,,,5717861,
+43030248,43030231,0,False,residential,Theresa Lane,151.807,,,,,,,,,,,5717860,
+43030259,43031039,0,False,residential,Kay Ellen Drive,218.95,,,,,,,,,,,5717887,
+43030259,43030231,0,False,residential,Theresa Lane,231.161,,,,,,,,,,,5717861,
+43031039,43030259,0,False,residential,Kay Ellen Drive,218.95,,,,,,,,,,,5717887,
+43031415,43031418,0,False,residential,Portland Street,88.957,2,,,,,,,,,,5717909,
+43031415,43029193,0,False,residential,Portland Street,100.454,2,,,,,,,,,,5717909,
+43031415,43020360,0,False,residential,Birch Avenue,161.967,2,,,,,,,,,,5718359,
+43031415,43040087,0,False,residential,Birch Avenue,177.409,2,,,,,,,,,,5718359,
+43031418,43031423,0,False,residential,Portland Street,88.957,2,,,,,,,,,,5717909,
+43031418,43031415,0,False,residential,Portland Street,88.957,2,,,,,,,,,,5717909,
+43031418,43020363,0,False,residential,Nevada Avenue,162.514,2,,,,,,,,,,"[467674036, 5718580]",
+43031423,43015800,0,False,residential,Portland Street,92.385,2,,,,,,,,,,5717909,
+43031423,43031418,0,False,residential,Portland Street,88.957,2,,,,,,,,,,5717909,
+43031423,43020366,0,False,residential,Louisiana Avenue,163.866,2,,,,,,,,,,467674037,
+43032276,43005248,0,False,residential,James Avenue,568.208,,,,,,,,,,,5717952,
+43032276,43049630,0,False,secondary,Witmer Road,100.317,,,,,,,,,,,5718991,NY 31
+43032276,43049795,0,False,secondary,Witmer Road,130.822,,,,,,,,,,,5718991,NY 31
+43033097,43030231,0,False,residential,Shanie Drive,106.81,,,,,,,,,,,5718842,
+43033097,43047645,0,False,residential,Shanie Drive,13.013,,,,,,,,,,,5718842,
+43033097,43013332,0,False,residential,Hermitage Street,155.59,,,,,,,,,,,5717991,
+43035047,43035050,0,False,residential,Sweet Home Road,496.442,,,,,,,,,,,5718082,
+43035047,43042183,0,True,secondary,Military Road,157.155,4,,,,,,,,,,352840643,NY 265
+43035050,43035047,0,False,residential,Sweet Home Road,496.442,,,,,,,,,,,5718082,
+43040072,326162567,0,False,unclassified,Power Auth Service Drive,747.28,,,,,,,,,,,"[366773595, 366773597]",
+43040083,43005248,0,False,secondary,Hyde Park Boulevard,101.428,,,,,,,,,,,53192313,NY 61
+43040083,43049795,0,False,residential,Maryland Avenue,449.74,,,,,,,,,,,102235780,
+43040085,43015797,0,False,secondary,Hyde Park Boulevard,95.992,,,,,,,,,,,53192313,NY 61
+43040087,43031415,0,False,residential,Birch Avenue,177.409,2,,,,,,,,,,5718359,
+43040087,43018867,0,False,secondary,Hyde Park Boulevard,7.143,,,,,,,,,,,53192313,NY 61
+43040087,43027231,0,False,secondary,Hyde Park Boulevard,79.961,,,,,,,,,,,53192313,NY 61
+43042183,43017836,0,False,primary,Witmer Road,92.139,,,,,,,,,,,28434019,NY 31
+43042183,3586106883,0,True,secondary,Military Road,127.891,4,,,,,,,,,,352840645,NY 265
+43043248,43043251,0,False,residential,Kline Road,113.8,,,,,,,,,,,5718559,
+43043248,1637349045,0,False,residential,Donna Drive,48.895,,,,,,,,,,,5719370,
+43043248,43044963,0,False,residential,Donna Drive,161.587,,,,,,,,,,,5719370,
+43043251,43043248,0,False,residential,Kline Road,113.8,,,,,,,,,,,5718559,
+43043251,1637347473,0,False,residential,Laurel Road,60.998,,,,,,,,,,,5718572,
+43044963,43043248,0,False,residential,Donna Drive,161.587,,,,,,,,,,,5719370,
+43044963,43052359,0,False,residential,"['Colonial Drive', 'Garlow Road']",428.745,,,,,,,,,,,"[5718656, 5719137]",
+43047418,43017826,0,False,residential,Chester Avenue,160.432,,,,,,,,,,,5718823,
+43047645,43033097,0,False,residential,Shanie Drive,13.013,,,,,,,,,,,5718842,
+43048709,43017834,0,False,residential,Fox Avenue,136.006,,,,,,,,,,,5718914,
+43049630,43049633,0,False,residential,Delaware Avenue,382.356,,,,,,,,,,,5718979,
+43049630,43049644,0,False,secondary,Witmer Road,81.305,,,,,,,,,,,5718991,NY 31
+43049630,43032276,0,False,secondary,Witmer Road,100.317,,,,,,,,,,,5718991,NY 31
+43049633,43049630,0,False,residential,Delaware Avenue,382.356,,,,,,,,,,,5718979,
+43049640,43049644,0,False,residential,Delaware Avenue,271.686,,,,,,,,,,,5718980,
+43049644,43049640,0,False,residential,Delaware Avenue,271.686,,,,,,,,,,,5718980,
+43049644,43028836,0,False,secondary,Witmer Road,37.577,,,,,,,,,,,5718991,NY 31
+43049644,43049630,0,False,secondary,Witmer Road,81.305,,,,,,,,,,,5718991,NY 31
+43049795,43032276,0,False,secondary,Witmer Road,130.822,,,,,,,,,,,5718991,NY 31
+43049795,43040083,0,False,residential,Maryland Avenue,449.74,,,,,,,,,,,102235780,
+43049803,43028855,0,False,secondary,Witmer Road,91.931,,,,,,,,,,,5718991,NY 31
+43049803,43056108,0,False,residential,Collins Avenue,196.758,,,,,,,,,,,5719329,
+43049803,43049806,0,False,secondary,Witmer Road,186.104,,,,,,,,,,,5718991,NY 31
+43049806,256905309,0,False,secondary,Witmer Road,587.558,,,,,,,,,,,5718991,NY 31
+43049806,43049803,0,False,secondary,Witmer Road,186.104,,,,,,,,,,,5718991,NY 31
+43049806,326162567,0,False,unclassified,Power Auth Service Drive,569.779,,,,,,,,,,,"[366773595, 5719388]",
+43049821,1637352217,0,False,residential,Witmer Industrial Estates,418.033,,,,,,,,,,,5719556,
+43049821,43017836,0,False,primary,Witmer Road,392.222,,,,,,,,,,,28434019,NY 31
+43049821,43021282,0,False,primary,Witmer Road,229.073,,,,,,,,,,,28434019,NY 31
+43052359,43027655,0,False,residential,Colonial Drive,198.763,,,,,,,,,,,5719137,
+43052359,43044963,0,False,residential,"['Colonial Drive', 'Garlow Road']",428.745,,,,,,,,,,,"[5718656, 5719137]",
+43052359,43027654,0,False,residential,"['Jackson Drive', 'Taylor Drive']",319.297,,,,,,,,,,,"[150867302, 5719319]",
+43056108,43049803,0,False,residential,Collins Avenue,196.758,,,,,,,,,,,5719329,
+43057145,43021279,0,False,residential,Creekside Parkway,144.043,,,,,,,,,,,5719398,
+43057150,43017823,0,False,residential,Creekside Parkway,171.315,,,,,,,,,,,5719399,
+256905309,256905727,0,False,primary,Witmer Road,114.27,,,,,,,,,,,28434018,NY 31
+256905309,43049806,0,False,secondary,Witmer Road,587.558,,,,,,,,,,,5718991,NY 31
+256905309,256905336,0,True,motorway_link,,282.961,,,,,,,,,,,23723633,
+256905423,256905727,0,True,motorway_link,,352.491,,,,,,,,,,,23723725,
+256905727,256905309,0,False,primary,Witmer Road,114.27,,,,,,,,,,,28434018,NY 31
+256905727,43021282,0,False,primary,Witmer Road,164.906,,,,,,,,,,,28434019,NY 31
+326162567,43040072,0,False,unclassified,Power Auth Service Drive,747.28,,,,,,,,,,,"[366773595, 366773597]",
+326162567,43049806,0,False,unclassified,Power Auth Service Drive,569.779,,,,,,,,,,,"[366773595, 5719388]",
+673882324,43015823,0,False,residential,Rhode Island Avenue,80.937,2,,,,,,,,,,5716231,
+673882324,43015815,0,False,residential,Rhode Island Avenue,165.05,2,,,,,,,,,,5716231,
+1271450234,43005237,0,True,secondary,Hyde Park Boulevard,116.981,,,,,,,,,,,111646275,NY 61
+1637347473,43043251,0,False,residential,Laurel Road,60.998,,,,,,,,,,,5718572,
+1637348989,43025405,0,False,residential,Lee Drive,121.51,,,,,,,,,,,5717398,
+1637349045,43043248,0,False,residential,Donna Drive,48.895,,,,,,,,,,,5719370,
+1637350049,43030231,0,False,residential,Shanie Drive,11.754,,,,,,,,,,,5718842,
+1637352217,43049821,0,False,residential,Witmer Industrial Estates,418.033,,,,,,,,,,,5719556,
+1975018619,43018530,0,False,residential,Tuscarora Road,99.457,,,,,,,,,,,150866288,
+3586106863,43017822,0,False,residential,Isherwood Drive,528.802,,,,,,,,,,,5719497,
+3586106866,43017823,0,False,residential,Creekside Parkway,444.17,,,,,,,,,,,5719399,
+3586106866,3586106863,0,True,secondary,Military Road,146.182,4,,,,,,,,,,352840645,NY 265
+3586106869,43017826,0,False,residential,Chester Avenue,364.081,,,,,,,,,,,5718823,
+3586106869,3586106866,0,True,secondary,Military Road,134.29,4,,,,,,,,,,352840645,NY 265
+3586106871,43013332,0,False,residential,Grauer Road,809.002,,,,,,,,,,,5715931,
+3586106871,43035047,0,True,secondary,Military Road,260.559,4,,,,,,,,,,352840643,NY 265
+3586106874,43017828,0,False,residential,Liberty Avenue,290.033,,,,,,,,,,,5719675,
+3586106874,3586106869,0,True,secondary,Military Road,131.092,4,,,,,,,,,,352840645,NY 265
+3586106880,43017830,0,False,residential,Pomeroy Avenue,218.132,,,,,,,,,,,5718062,
+3586106880,3586106874,0,True,secondary,Military Road,128.493,4,,,,,,,,,,352840645,NY 265
+3586106883,43017834,0,False,residential,Fox Avenue,159.804,,,,,,,,,,,5718914,
+3586106883,3586106880,0,True,secondary,Military Road,94.369,4,,,,,,,,,,352840645,NY 265
+3642932917,3642932918,0,False,unclassified,Delaware Avenue,197.665,,,,,,,,,,,359618165,
+3642932918,43028853,0,True,secondary,Hyde Park Boulevard,98.646,,,,,,,,,,,111646275,NY 61
+3642932918,3642932917,0,False,unclassified,Delaware Avenue,197.665,,,,,,,,,,,359618165,
+4637424989,4637424990,0,False,unclassified,,29.889,,,,,,,,,,,469418086,
+4637424990,4637424989,0,False,unclassified,,29.889,,,,,,,,,,,469418086,

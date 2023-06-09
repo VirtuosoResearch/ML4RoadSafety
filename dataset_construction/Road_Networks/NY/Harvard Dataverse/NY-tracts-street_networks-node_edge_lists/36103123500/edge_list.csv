@@ -1,0 +1,474 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+213374406,213374408,0,False,residential,,48.546,,,,,,,,,,,20176770,
+213374406,213807412,0,False,secondary,Oak Street,95.713,,,,,,,,,,,20216253,CR 12
+213374406,213807409,0,False,secondary,Oak Street,108.863,,,,,,,,,,,20216253,CR 12
+213374408,213374406,0,False,residential,,48.546,,,,,,,,,,,20176770,
+213395904,630791014,0,True,trunk,Sunrise Highway,380.677,3,,,,,,,,,,32082398,NY 27
+213395916,213741988,0,True,primary,Broadway,53.05,,,,,,,,,,,50501397,NY 110
+213406142,261377280,0,False,residential,,76.971,,,,,,,,,,,20180545,
+213406153,213450601,0,True,trunk,Sunrise Highway,126.548,3,,,,,,,,,,32082398,NY 27
+213406153,5663103512,0,True,trunk_link,,228.255,,,,,,,,,,,20181724,
+213408657,213395904,0,True,trunk_link,,218.334,,,,,,,,,,,20180894,
+213408657,214127894,0,False,residential,Washington Avenue,280.213,,,,,,,,,,,20239076,
+213408657,213414342,0,True,primary,Broadway,107.864,,,,,,,,,,,"[139437768, 50501314]",NY 110
+213414322,213395904,0,True,trunk,Sunrise Highway,138.778,3,,,,,,,,,,32082398,NY 27
+213414322,213414342,0,True,trunk_link,,184.746,,,,,,,,,,,20181727,
+213414342,213450616,0,True,primary,Broadway,98.126,,,,,,,yes,,,,"[139437768, 50501397, 183800943]",NY 110
+213450601,213414322,0,True,trunk,Sunrise Highway,91.974,3,,,,,,,,,,32082398,NY 27
+213450616,213395916,0,True,primary,Broadway,105.658,,,,,,,,,,,50501397,NY 110
+213450616,642343554,0,True,trunk_link,,202.533,,,,,,,,,,,20186212,
+213457430,214165118,0,False,residential,Avon Place,124.313,,,,,,,,,,,20241900,
+213457430,213457436,0,False,residential,Barberry Court,279.611,,,,,,,,,,,20186671,
+213457430,214165112,0,False,residential,Avon Place,155.352,,,,,,,,,,,20241900,
+213457436,213457430,0,False,residential,Barberry Court,279.611,,,,,,,,,,,20186671,
+213462330,213462338,0,False,secondary,County Line Road,80.836,,,,,,,,,,,224820008,CR 1
+213462330,261341596,0,False,secondary,County Line Road,7.824,,,,,,,,,,,224820016,CR 1
+213462330,213505558,0,False,residential,Greene Avenue,189.959,,,,,,,,,,,20217353,
+213462338,213500139,0,False,residential,Lewis Street,159.922,,,,,,,,,,,20189628,
+213462338,213462330,0,False,secondary,County Line Road,80.836,,,,,,,,,,,224820008,CR 1
+213462338,213462344,0,False,secondary,County Line Road,60.415,,,,,,,,,,,224820008,CR 1
+213462344,213462338,0,False,secondary,County Line Road,60.415,,,,,,,,,,,224820008,CR 1
+213462344,213462350,0,False,secondary,County Line Road,119.441,,,,,,,,,,,224820008,CR 1
+213462350,213462354,0,False,secondary,County Line Road,99.891,,,,,,,,,,,224820008,CR 1
+213462350,213500139,0,False,residential,Willis Avenue,81.47,,,,,,,,,,,20253351,
+213462350,213462344,0,False,secondary,County Line Road,119.441,,,,,,,,,,,224820008,CR 1
+213462354,213462350,0,False,secondary,County Line Road,99.891,,,,,,,,,,,224820008,CR 1
+213462354,213462356,0,False,secondary,County Line Road,25.191,,,,,,,,,,,224820008,CR 1
+213462354,213505550,0,False,residential,Sterling Place,327.283,,,,,,,,,,,20244892,
+213462356,213462354,0,False,secondary,County Line Road,25.191,,,,,,,,,,,224820008,CR 1
+213462356,213462358,0,False,secondary,County Line Road,130.601,,,,,,,,,,,224820008,CR 1
+213462358,213462356,0,False,secondary,County Line Road,130.601,,,,,,,,,,,224820008,CR 1
+213462358,642343555,0,False,secondary,County Line Road,218.24,,,,,,,,,,,469593358,CR 1
+213462358,213672490,0,False,tertiary,Louden Avenue,661.18,,,,,,,,,,,20205311,
+213462370,213563125,0,False,residential,Sunset Avenue,298.646,,,,,,,,,,,20194006,
+213462370,1651090789,0,False,secondary,County Line Road,39.7,,,,,,,,,,,49455850,CR 1
+213462370,213462379,0,False,secondary,County Line Road,108.257,,,,,,,,,,,49455850,CR 1
+213462379,213605224,0,False,residential,Lafayette Avenue,311.146,,,,,,,,,,,20198183,
+213462379,213462370,0,False,secondary,County Line Road,108.257,,,,,,,,,,,49455850,CR 1
+213462379,1651091399,0,False,secondary,County Line Road,50.782,,,,,,,,,,,49455850,CR 1
+213462382,214127894,0,False,residential,Washington Avenue,306.443,,,,,,,,,,,20239076,
+213462382,1651091399,0,False,secondary,County Line Road,56.598,,,,,,,,,,,49455850,CR 1
+213462382,213462392,0,False,secondary,County Line Road,95.355,,,,,,,,,,,49455850,CR 1
+213462392,213738735,0,False,residential,Locust Drive,163.627,,,,,,,,,,,20211615,
+213462392,213462382,0,False,secondary,County Line Road,95.355,,,,,,,,,,,49455850,CR 1
+213462392,213462397,0,False,secondary,County Line Road,92.418,,,,,,,,,,,49455850,CR 1
+213462397,213822806,0,False,residential,Maple Drive,210.112,,,,,,,,,,,20217487,
+213462397,213462392,0,False,secondary,County Line Road,92.418,,,,,,,,,,,49455850,CR 1
+213478514,213478517,0,False,residential,Bedell Place,196.883,,,,,,,,,,,20188111,
+213478514,214165118,0,False,tertiary,Bayview Avenue,63.779,,,,,,,,,,,20254680,
+213478514,213980006,0,False,tertiary,Bayview Avenue,317.754,,,,,,,,,,,20254680,
+213478517,213478520,0,False,residential,Bedell Place,67.097,,,,,,,,,,,20188111,
+213478517,213478514,0,False,residential,Bedell Place,196.883,,,,,,,,,,,20188111,
+213478517,213513107,0,False,residential,"['South Gaylore Drive', 'West Gaylore Drive']",284.772,,,,,,,,,,,"[20189323, 20250372]",
+213478520,213478517,0,False,residential,Bedell Place,67.097,,,,,,,,,,,20188111,
+213478520,213901802,0,False,residential,Forrest Place,130.357,,,,,,,,,,,20253219,
+213478520,213513107,0,False,residential,Forrest Place,210.147,,,,,,,,,,,20253219,
+213481804,213481806,0,False,residential,Windsor Court,75.773,,,,,,,,,,,20188366,
+213481804,3640000658,0,False,residential,Park Avenue,22.048,,,,,,,,,,,20210413,
+213481806,213481804,0,False,residential,Windsor Court,75.773,,,,,,,,,,,20188366,
+213500139,213462338,0,False,residential,Lewis Street,159.922,,,,,,,,,,,20189628,
+213500139,213815776,0,False,residential,Willis Avenue,106.921,,,,,,,,,,,20253351,
+213500139,213462350,0,False,residential,Willis Avenue,81.47,,,,,,,,,,,20253351,
+213505550,213505553,0,False,residential,Burch Avenue,97.205,,,,,,,,,,,20190005,
+213505550,214203739,0,False,residential,Sterling Place,226.459,,,,,,,,,,,20244892,
+213505550,213462354,0,False,residential,Sterling Place,327.283,,,,,,,,,,,20244892,
+213505553,213505550,0,False,residential,Burch Avenue,97.205,,,,,,,,,,,20190005,
+213505553,213815776,0,False,residential,Willis Avenue,105.857,,,,,,,,,,,20253351,
+213505553,213505558,0,False,residential,Burch Avenue,168.874,,,,,,,,,,,20190005,
+213505558,213505560,0,False,residential,Burch Avenue,59.561,,,,,,,,,,,20190005,
+213505558,213505553,0,False,residential,Burch Avenue,168.874,,,,,,,,,,,20190005,
+213505558,213821268,0,False,residential,Greene Avenue,127.501,,,,,,,,,,,20217353,
+213505558,213462330,0,False,residential,Greene Avenue,189.959,,,,,,,,,,,20217353,
+213505560,213505562,0,False,residential,Burch Avenue,70.441,,,,,,,,,,,20190005,
+213505560,213505558,0,False,residential,Burch Avenue,59.561,,,,,,,,,,,20190005,
+213505560,213821268,0,False,secondary,West Oak Street,138.355,,,,,,,,,,,20254946,CR 12
+213505560,2818614712,0,False,secondary,West Oak Street,104.433,,,,,,,,,,,20254946,CR 12
+213505562,213505560,0,False,residential,Burch Avenue,70.441,,,,,,,,,,,20190005,
+213505562,213711572,0,False,residential,Ireland Place,16.816,,,,,,,,,,,20244747,
+213505562,2818614715,0,False,residential,Ireland Place,58.308,,,,,,,,,,,20244747,
+213513107,213513110,0,False,residential,Gay-Lore Drive South,11.994,,,,,,,,,,,20190545,
+213513107,213478517,0,False,residential,"['South Gaylore Drive', 'West Gaylore Drive']",284.772,,,,,,,,,,,"[20189323, 20250372]",
+213513107,213478520,0,False,residential,Forrest Place,210.147,,,,,,,,,,,20253219,
+213513110,213513107,0,False,residential,Gay-Lore Drive South,11.994,,,,,,,,,,,20190545,
+213517788,213517790,0,False,residential,Moreland Court,77.489,,,,,,,,,,,20190801,
+213517788,213775849,0,False,residential,Wood Avenue,154.347,,,,,,,,,,,20241968,
+213517788,214165656,0,False,residential,Wood Avenue,114.94,,,,,,,,,,,20241968,
+213517790,213517792,0,False,residential,Moreland Court,63.773,,,,,,,,,,,20190801,
+213517790,213517788,0,False,residential,Moreland Court,77.489,,,,,,,,,,,20190801,
+213517790,213794606,0,False,residential,Bryan Avenue,77.59,,,,,,,,,,,20257384,
+213517790,214395162,0,False,residential,Bryan Avenue,77.297,,,,,,,,,,,20257384,
+213517792,213517790,0,False,residential,Moreland Court,63.773,,,,,,,,,,,20190801,
+213525779,213725858,0,False,secondary,Oak Street,36.03,,,,,,,,,,,20216253,CR 12
+213525779,213750278,0,False,secondary,Oak Street,72.817,,,,,,,,,,,20216253,CR 12
+213525779,214319345,0,False,residential,Benjamin Avenue,149.684,,,,,,,,,,,20251711,
+213563121,213563125,0,False,residential,Sunset Avenue,25.634,,,,,,,,,,,20194006,
+213563125,213462370,0,False,residential,Sunset Avenue,298.646,,,,,,,,,,,20194006,
+213563125,213563121,0,False,residential,Sunset Avenue,25.634,,,,,,,,,,,20194006,
+213563125,213605224,0,False,residential,Locust Avenue,104.089,,,,,,,,,,,20257308,
+213578860,213578861,0,True,residential,Wanser Place,185.181,,,,,,,,,,,20195515,
+213578860,213741949,0,False,primary,Broadway,46.475,,,,,,,,,,,20211839,NY 110
+213578860,213741940,0,False,primary,Broadway,193.276,,,,,,,,,,,20211839,NY 110
+213578861,213720112,0,False,residential,Park Avenue,232.43,,,,,,,,,,,20210413,
+213578861,5508190487,0,False,residential,Wanser Place,108.778,,,,,,,,,,,573564382,
+213578861,213720106,0,False,residential,Park Avenue,168.102,,,,,,,,,,,20210413,
+213584897,213584899,0,False,residential,North Railroad Avenue,193.279,,,,,,,,,,,20196143,
+213584897,213741973,0,False,primary,Broadway,53.5,,,,,,,,,,,20211839,NY 110
+213584897,213741968,0,False,primary,Broadway,39.792,,,,,,,,,,,20211839,NY 110
+213584897,214203739,0,False,residential,Sterling Place,197.74,,,,,,,,,,,20244892,
+213584899,213584897,0,False,residential,North Railroad Avenue,193.279,,,,,,,,,,,20196143,
+213592499,213734433,0,False,secondary,Dixon Avenue,83.029,,,,,,,,,,,49430483,CR 2
+213592499,213734436,0,False,secondary,Dixon Avenue,114.665,,,,,,,,,,,49430483,CR 2
+213592499,213734427,0,False,residential,"['West Ranick Drive', 'Ranick Drive East', 'Ranick Drive South']",592.578,,,,,,,,,,,"[20197193, 20196949, 20229359]",
+213595140,214395162,0,False,residential,Walter Street,76.431,,,,,,,,,,,20256364,
+213595686,213595694,0,False,residential,Lake Drive,92.687,,,,,,,,,,,20197255,
+213595694,213595702,0,False,residential,Lake Drive,84.614,,,,,,,,,,,20197255,
+213595694,213595686,0,False,residential,Lake Drive,92.687,,,,,,,,,,,20197255,
+213595702,213595708,0,False,residential,Lake Drive,79.267,,,,,,,,,,,20197255,
+213595702,213595694,0,False,residential,Lake Drive,84.614,,,,,,,,,,,20197255,
+213595708,213595711,0,False,residential,Lake Drive,77.961,,,,,,,,,,,20197255,
+213595708,213595702,0,False,residential,Lake Drive,79.267,,,,,,,,,,,20197255,
+213595711,213595714,0,False,residential,Lake Drive,78.839,,,,,,,,,,,20197255,
+213595711,213595708,0,False,residential,Lake Drive,77.961,,,,,,,,,,,20197255,
+213595714,213595711,0,False,residential,Lake Drive,78.839,,,,,,,,,,,20197255,
+213595714,213595722,0,False,residential,Lake Drive,94.327,,,,,,,,,,,20197255,
+213595722,213595725,0,False,residential,Lake Drive,79.328,,,,,,,,,,,20197255,
+213595722,213595714,0,False,residential,Lake Drive,94.327,,,,,,,,,,,20197255,
+213595725,213595722,0,False,residential,Lake Drive,79.328,,,,,,,,,,,20197255,
+213598179,214165656,0,False,primary,Merrick Road,95.575,,,,,,,,,,,20249752,NY 27A
+213598179,213676949,0,False,primary,Merrick Road,172.23,,,,,,,,,,,20249752,NY 27A
+213598179,213980006,0,False,tertiary,Bayview Avenue,427.54,,,,,,,,,,,20254680,
+213599029,213666747,0,False,residential,Ketcham Avenue,77.215,,,,,,,,,,,20204682,
+213599029,213599048,0,False,residential,Frost Lane,97.843,,,,,,,,,,,20197535,
+213599048,213599029,0,False,residential,Frost Lane,97.843,,,,,,,,,,,20197535,
+213605224,213462379,0,False,residential,Lafayette Avenue,311.146,,,,,,,,,,,20198183,
+213605224,214127894,0,False,residential,Locust Avenue,111.884,,,,,,,,,,,20257308,
+213605224,213563125,0,False,residential,Locust Avenue,104.089,,,,,,,,,,,20257308,
+213613536,213613539,0,False,residential,Powell Court,55.024,,,,,,,,,,,20199079,
+213613536,213665550,0,False,residential,Union Avenue,193.325,,,,,,,,,,,20204550,
+213613536,213665540,0,False,residential,Union Avenue,485.59,,,,,,,,,,,20204550,
+213613539,213613536,0,False,residential,Powell Court,55.024,,,,,,,,,,,20199079,
+213665540,213741965,0,False,primary,Broadway,100.107,,,,,,,,,,,20211839,NY 110
+213665540,213613536,0,False,residential,Union Avenue,485.59,,,,,,,,,,,20204550,
+213665540,213741958,0,False,primary,Broadway,136.264,,,,,,,,,,,20211839,NY 110
+213665540,213821273,0,False,residential,Greene Avenue,193.145,,,,,,,,,,,20217353,
+213665540,213720112,0,True,residential,Park Avenue,125.758,,,,,,,,,,,278160289,
+213665550,213613536,0,False,residential,Union Avenue,193.325,,,,,,,,,,,20204550,
+213665550,213807412,0,False,tertiary,Bayview Avenue,160.975,,,,,,,,,,,20254680,
+213665550,213901798,0,False,tertiary,Bayview Avenue,89.988,,,,,,,,,,,20254680,
+213666747,213666750,0,False,residential,Ketcham Avenue,263.844,,,,,,,,,,,20204682,
+213666747,213599029,0,False,residential,Ketcham Avenue,77.215,,,,,,,,,,,20204682,
+213666747,213813309,0,False,residential,Cedar Street,116.014,,,,,,,,,,,20257099,
+213666747,213720106,0,False,residential,Cedar Street,179.639,,,,,,,,,,,20257099,
+213666750,213666751,0,False,residential,Ketcham Avenue,151.763,,,,,,,,,,,20204682,
+213666750,213666747,0,False,residential,Ketcham Avenue,263.844,,,,,,,,,,,20204682,
+213666750,213813313,0,False,residential,Orchard Street,98.558,,,,,,,,,,,20242179,
+213666751,213666750,0,False,residential,Ketcham Avenue,151.763,,,,,,,,,,,20204682,
+213666751,213813318,0,False,residential,Ireland Place,103.379,,,,,,,,,,,20244747,
+213666751,213666755,0,False,residential,Ketcham Avenue,132.451,,,,,,,,,,,20204682,
+213666751,213720112,0,False,residential,Ireland Place,254.071,,,,,,,,,,,20244747,
+213666755,213666757,0,False,residential,Ketcham Avenue,16.05,,,,,,,,,,,20204682,
+213666755,213821268,0,False,residential,Greene Avenue,61.758,,,,,,,,,,,20217353,
+213666755,213666751,0,False,residential,Ketcham Avenue,132.451,,,,,,,,,,,20204682,
+213666755,213821273,0,False,residential,Greene Avenue,85.428,,,,,,,,,,,20217353,
+213666757,213666755,0,False,residential,Ketcham Avenue,16.05,,,,,,,,,,,20204682,
+213666757,214245440,0,False,secondary,West Oak Street,84.58,,,,,,,,,,,20254946,CR 12
+213666757,213821268,0,False,secondary,West Oak Street,59.533,,,,,,,,,,,20254946,CR 12
+213666757,213666763,0,False,residential,Ketcham Avenue,60.572,,,,,,,,,,,20204682,
+213666763,213666757,0,False,residential,Ketcham Avenue,60.572,,,,,,,,,,,20204682,
+213672490,213734412,0,False,primary,Broadway,114.649,,,,,,,,,,,20211839,NY 110
+213672490,213462358,0,False,tertiary,Louden Avenue,661.18,,,,,,,,,,,20205311,
+213672490,213741973,0,False,primary,Broadway,269.167,,,,,,,,,,,20211839,NY 110
+213676949,213598179,0,False,primary,Merrick Road,172.23,,,,,,,,,,,20249752,NY 27A
+213676949,213907670,0,False,primary,Merrick Road,85.365,,,,,,,,,,,20249752,NY 27A
+213680255,5663103518,0,False,residential,North Drive,12.973,,,,,,,,,,,20206264,
+213680255,213738710,0,True,primary,Broadway,55.25,,,,,,,,,,,50501332,NY 110
+213699839,213699840,0,False,residential,Elm Place,220.564,,,,,,,,,,,20208642,
+213699839,213765784,0,False,tertiary,Albany Avenue,90.601,,,,,,,,,,,49430485,
+213699839,213734416,0,False,tertiary,Albany Avenue,105.773,,,,,,,,,,,49430485,
+213699840,213699839,0,False,residential,Elm Place,220.564,,,,,,,,,,,20208642,
+213711563,261377284,0,False,residential,Cedar Street,77.221,,,,,,,,,,,20257099,
+213711563,213813309,0,False,residential,Cedar Street,99.595,,,,,,,,,,,20257099,
+213711563,213711569,0,False,residential,Oldfield Avenue,200.092,,,,,,,,,,,20209716,
+213711569,213813313,0,False,residential,Orchard Street,97.723,,,,,,,,,,,20242179,
+213711569,213711572,0,False,residential,Oldfield Avenue,215.452,,,,,,,,,,,20209716,
+213711569,213711563,0,False,residential,Oldfield Avenue,200.092,,,,,,,,,,,20209716,
+213711572,213505562,0,False,residential,Ireland Place,16.816,,,,,,,,,,,20244747,
+213711572,213813318,0,False,residential,Ireland Place,101.879,,,,,,,,,,,20244747,
+213711572,213711569,0,False,residential,Oldfield Avenue,215.452,,,,,,,,,,,20209716,
+213720106,3640000658,0,False,residential,Park Avenue,152.27,,,,,,,,,,,20210413,
+213720106,213578861,0,False,residential,Park Avenue,168.102,,,,,,,,,,,20210413,
+213720106,213666747,0,False,residential,Cedar Street,179.639,,,,,,,,,,,20257099,
+213720106,213741940,0,True,residential,Cedar Street,243.324,,,,,,,,,,,573563873,
+213720112,213578861,0,False,residential,Park Avenue,232.43,,,,,,,,,,,20210413,
+213720112,213666751,0,False,residential,Ireland Place,254.071,,,,,,,,,,,20244747,
+213720112,213741958,0,False,residential,Ireland Place,38.607,,,,,,,,,,,20244747,
+213725858,213525779,0,False,secondary,Oak Street,36.03,,,,,,,,,,,20216253,CR 12
+213734412,213741988,0,False,primary,Broadway,100.287,,,,,,,,,,,20211839,NY 110
+213734412,213672490,0,False,primary,Broadway,114.649,,,,,,,,,,,20211839,NY 110
+213734412,213734416,0,False,secondary,Dixon Avenue,235.998,,,,,,,,,,,49430484,CR 2
+213734416,213765796,0,False,tertiary,Albany Avenue,72.972,,,,,,,,,,,49430473,
+213734416,213734427,0,False,secondary,Dixon Avenue,306.669,,,,,,,,,,,49430483,CR 2
+213734416,213734412,0,False,secondary,Dixon Avenue,235.998,,,,,,,,,,,49430484,CR 2
+213734416,213699839,0,False,tertiary,Albany Avenue,105.773,,,,,,,,,,,49430485,
+213734427,213592499,0,False,residential,"['West Ranick Drive', 'Ranick Drive East', 'Ranick Drive South']",592.578,,,,,,,,,,,"[20197193, 20196949, 20229359]",
+213734427,213734416,0,False,secondary,Dixon Avenue,306.669,,,,,,,,,,,49430483,CR 2
+213734427,213734433,0,False,secondary,Dixon Avenue,38.877,,,,,,,,,,,49430483,CR 2
+213734433,213592499,0,False,secondary,Dixon Avenue,83.029,,,,,,,,,,,49430483,CR 2
+213734433,213734427,0,False,secondary,Dixon Avenue,38.877,,,,,,,,,,,49430483,CR 2
+213734436,213592499,0,False,secondary,Dixon Avenue,114.665,,,,,,,,,,,49430483,CR 2
+213734436,213734439,0,False,secondary,Dixon Avenue,140.729,,,,,,,,,,,49430483,CR 2
+213734436,214230249,0,False,tertiary,Bayview Avenue,417.905,,,,,,,,,,,20254680,
+213734439,213734436,0,False,secondary,Dixon Avenue,140.729,,,,,,,,,,,49430483,CR 2
+213734439,213734442,0,False,secondary,Dixon Avenue,79.883,,,,,,,,,,,49430483,CR 2
+213734439,213844090,0,False,residential,"['Edison Street East', 'Edison Street']",270.334,,,,,,,,,,,"[20223436, 20230116]",
+213734442,213734439,0,False,secondary,Dixon Avenue,79.883,,,,,,,,,,,49430483,CR 2
+213734442,213844090,0,False,residential,Deforest Street,200.186,,,,,,,,,,,20218994,
+213734442,213734448,0,False,secondary,Dixon Avenue,79.914,,,,,,,,,,,49430483,CR 2
+213734448,213734442,0,False,secondary,Dixon Avenue,79.914,,,,,,,,,,,49430483,CR 2
+213738710,5663103511,0,False,residential,Locust Drive,12.955,,,,,,,,,,,20211615,
+213738710,213742040,0,True,primary,Broadway,114.445,,,,,,,,,,,50501332,NY 110
+213738710,213738735,0,False,residential,Locust Drive,343.21,,,,,,,,,,,20211615,
+213738735,213822806,0,False,residential,Cedar Lane,95.744,,,,,,,,,,,20219697,
+213738735,213462392,0,False,residential,Locust Drive,163.627,,,,,,,,,,,20211615,
+213738735,213738710,0,False,residential,Locust Drive,343.21,,,,,,,,,,,20211615,
+213741933,213741940,0,False,primary,Broadway,207.793,,,,,,,,,,,20211839,NY 110
+213741940,213578860,0,False,primary,Broadway,193.276,,,,,,,,,,,20211839,NY 110
+213741940,213741933,0,False,primary,Broadway,207.793,,,,,,,,,,,20211839,NY 110
+213741940,214252450,0,False,residential,Salt Box Path,101.41,,,,,,,,,,,20247788,
+213741949,213578860,0,False,primary,Broadway,46.475,,,,,,,,,,,20211839,NY 110
+213741949,213741956,0,False,primary,Broadway,202.941,,,,,,,,,,,20211839,NY 110
+213741949,214252425,0,False,residential,Salt Box Path,124.259,,,,,,,,,,,20247782,
+213741956,213741958,0,False,primary,Broadway,43.779,,,,,,,,,,,20211839,NY 110
+213741956,213741949,0,False,primary,Broadway,202.941,,,,,,,,,,,20211839,NY 110
+213741956,214165112,0,False,residential,Avon Place,353.004,,,,,,,,,,,20241900,
+213741958,213741956,0,False,primary,Broadway,43.779,,,,,,,,,,,20211839,NY 110
+213741958,213665540,0,False,primary,Broadway,136.264,,,,,,,,,,,20211839,NY 110
+213741958,213720112,0,False,residential,Ireland Place,38.607,,,,,,,,,,,20244747,
+213741965,213741968,0,False,primary,Broadway,140.275,,,,,,,,,,,20211839,NY 110
+213741965,213665540,0,False,primary,Broadway,100.107,,,,,,,,,,,20211839,NY 110
+213741965,213807402,0,False,secondary,Oak Street,245.456,,,,,,,,,,,20216253,CR 12
+213741965,214245440,0,False,secondary,West Oak Street,190.167,,,,,,,,,,,20254946,CR 12
+213741968,213741965,0,False,primary,Broadway,140.275,,,,,,,,,,,20211839,NY 110
+213741968,213584897,0,False,primary,Broadway,39.792,,,,,,,,,,,20211839,NY 110
+213741968,213807402,0,False,residential,"['Railroad Avenue', 'Wellington Place']",456.175,,,,,,,,,,,"[20254844, 20236549]",
+213741973,213584897,0,False,primary,Broadway,53.5,,,,,,,,,,,20211839,NY 110
+213741973,213765777,0,False,tertiary,Albany Avenue,48.492,,,,,,,,,,,49430485,
+213741973,213672490,0,False,primary,Broadway,269.167,,,,,,,,,,,20211839,NY 110
+213741988,213734412,0,False,primary,Broadway,100.287,,,,,,,,,,,20211839,NY 110
+213741988,642343438,0,True,primary,Broadway,32.939,,,,,,,,,,,50501385,NY 110
+213741988,213765796,0,False,residential,Sprague Avenue,291.651,,,,,,,,,,,20218557,
+213742040,213408657,0,True,primary,Broadway,90.399,,,,,,,,,,,50501314,NY 110
+213742043,213680255,0,True,primary,Broadway,46.165,,,,,,,,,,,50501332,NY 110
+213742043,213822806,0,False,residential,Maple Drive,258.1,,,,,,,,,,,20217487,
+213750278,213525779,0,False,secondary,Oak Street,72.817,,,,,,,,,,,20216253,CR 12
+213750278,213807413,0,False,secondary,Oak Street,116.451,,,,,,,,,,,20216253,CR 12
+213750278,213750286,0,False,residential,Nicoll Avenue,154.271,,,,,,,,,,,20212478,
+213750278,213997527,0,False,residential,Lombardi Place,262.212,,,,,,,,,,,20229490,
+213750286,213750278,0,False,residential,Nicoll Avenue,154.271,,,,,,,,,,,20212478,
+213765777,213887917,0,False,residential,Mill Street,285.02,,,,,,,,,,,20222294,
+213765777,213741973,0,False,tertiary,Albany Avenue,48.492,,,,,,,,,,,49430485,
+213765777,213765784,0,False,tertiary,Albany Avenue,111.275,,,,,,,,,,,49430485,
+213765784,213862084,0,False,residential,Maple Place,240.3,,,,,,,,,,,20220411,
+213765784,213699839,0,False,tertiary,Albany Avenue,90.601,,,,,,,,,,,49430485,
+213765784,213765777,0,False,tertiary,Albany Avenue,111.275,,,,,,,,,,,49430485,
+213765796,213741988,0,False,residential,Sprague Avenue,291.651,,,,,,,,,,,20218557,
+213765796,213734416,0,False,tertiary,Albany Avenue,72.972,,,,,,,,,,,49430473,
+213766167,213907670,0,False,primary,Merrick Road,100.151,,,,,,,,,,,20249752,NY 27A
+213766167,3575468556,0,False,primary,Merrick Road,144.605,,,,,,,,,,,20249752,NY 27A
+213775849,213775852,0,False,residential,Russell Street,76.444,,,,,,,,,,,20214186,
+213775849,213980008,0,False,residential,Wood Avenue,198.75,,,,,,,,,,,20241968,
+213775849,213517788,0,False,residential,Wood Avenue,154.347,,,,,,,,,,,20241968,
+213775852,213775856,0,False,residential,Russell Street,75.261,,,,,,,,,,,20214186,
+213775852,213775849,0,False,residential,Russell Street,76.444,,,,,,,,,,,20214186,
+213775852,213980011,0,False,residential,Bryan Avenue,198.901,,,,,,,,,,,20257384,
+213775852,213794606,0,False,residential,Bryan Avenue,77.437,,,,,,,,,,,20257384,
+213775856,213775852,0,False,residential,Russell Street,75.261,,,,,,,,,,,20214186,
+213775856,213812027,0,False,residential,Peppermill Lane,12.94,,,,,,,,,,,20216616,
+213775856,213812106,0,False,residential,Peppermill Lane,155.256,,,,,,,,,,,20216621,
+213783249,261377282,0,False,residential,Cottage Place,129.332,,,,,,,,,,,20214692,
+213794606,213794613,0,False,residential,Whitney Drive,78.613,,,,,,,,,,,20215370,
+213794606,213775852,0,False,residential,Bryan Avenue,77.437,,,,,,,,,,,20257384,
+213794606,213517790,0,False,residential,Bryan Avenue,77.59,,,,,,,,,,,20257384,
+213794613,213794606,0,False,residential,Whitney Drive,78.613,,,,,,,,,,,20215370,
+213807402,213807409,0,False,secondary,Oak Street,214.342,,,,,,,,,,,20216253,CR 12
+213807402,213741965,0,False,secondary,Oak Street,245.456,,,,,,,,,,,20216253,CR 12
+213807402,213741968,0,False,residential,"['Wellington Place', 'Railroad Avenue']",456.175,,,,,,,,,,,"[20254844, 20236549]",
+213807409,214157610,0,False,residential,Lake Street,143.011,,,,,,,,,,,20241257,
+213807409,213374406,0,False,secondary,Oak Street,108.863,,,,,,,,,,,20216253,CR 12
+213807409,213807402,0,False,secondary,Oak Street,214.342,,,,,,,,,,,20216253,CR 12
+213807412,213807413,0,False,secondary,Oak Street,84.711,,,,,,,,,,,20216253,CR 12
+213807412,213374406,0,False,secondary,Oak Street,95.713,,,,,,,,,,,20216253,CR 12
+213807412,213665550,0,False,tertiary,Bayview Avenue,160.975,,,,,,,,,,,20254680,
+213807412,213997527,0,False,tertiary,Bayview Avenue,78.879,,,,,,,,,,,20254680,
+213807413,213750278,0,False,secondary,Oak Street,116.451,,,,,,,,,,,20216253,CR 12
+213807413,213807412,0,False,secondary,Oak Street,84.711,,,,,,,,,,,20216253,CR 12
+213807413,214075575,0,False,residential,Belmont Court,155.93,,,,,,,,,,,20235220,
+213812027,213775856,0,False,residential,Peppermill Lane,12.94,,,,,,,,,,,20216616,
+213812106,213775856,0,False,residential,Peppermill Lane,155.256,,,,,,,,,,,20216621,
+213813309,213711563,0,False,residential,Cedar Street,99.595,,,,,,,,,,,20257099,
+213813309,213666747,0,False,residential,Cedar Street,116.014,,,,,,,,,,,20257099,
+213813309,213813313,0,False,residential,Homestead Avenue,230.274,,,,,,,,,,,20216716,
+213813313,213813318,0,False,residential,Homestead Avenue,183.929,,,,,,,,,,,20216716,
+213813313,213711569,0,False,residential,Orchard Street,97.723,,,,,,,,,,,20242179,
+213813313,213666750,0,False,residential,Orchard Street,98.558,,,,,,,,,,,20242179,
+213813313,213813309,0,False,residential,Homestead Avenue,230.274,,,,,,,,,,,20216716,
+213813318,213813313,0,False,residential,Homestead Avenue,183.929,,,,,,,,,,,20216716,
+213813318,213711572,0,False,residential,Ireland Place,101.879,,,,,,,,,,,20244747,
+213813318,213666751,0,False,residential,Ireland Place,103.379,,,,,,,,,,,20244747,
+213815776,213815781,0,False,residential,William Street,166.675,,,,,,,,,,,20216905,
+213815776,213500139,0,False,residential,Willis Avenue,106.921,,,,,,,,,,,20253351,
+213815776,213505553,0,False,residential,Willis Avenue,105.857,,,,,,,,,,,20253351,
+213815781,213815776,0,False,residential,William Street,166.675,,,,,,,,,,,20216905,
+213821268,213666755,0,False,residential,Greene Avenue,61.758,,,,,,,,,,,20217353,
+213821268,213666757,0,False,secondary,West Oak Street,59.533,,,,,,,,,,,20254946,CR 12
+213821268,213505558,0,False,residential,Greene Avenue,127.501,,,,,,,,,,,20217353,
+213821268,213505560,0,False,secondary,West Oak Street,138.355,,,,,,,,,,,20254946,CR 12
+213821273,214245440,0,False,residential,John Street,43.094,,,,,,,,,,,20247341,
+213821273,213665540,0,False,residential,Greene Avenue,193.145,,,,,,,,,,,20217353,
+213821273,213666755,0,False,residential,Greene Avenue,85.428,,,,,,,,,,,20217353,
+213822806,213738735,0,False,residential,Cedar Lane,95.744,,,,,,,,,,,20219697,
+213822806,213462397,0,False,residential,Maple Drive,210.112,,,,,,,,,,,20217487,
+213822806,213742043,0,False,residential,Maple Drive,258.1,,,,,,,,,,,20217487,
+213840029,3575468556,0,False,primary,Merrick Road,3.379,,,,,,,,,,,20249752,NY 27A
+213844090,213734442,0,False,residential,Deforest Street,200.186,,,,,,,,,,,20218994,
+213844090,213734439,0,False,residential,"['Edison Street East', 'Edison Street']",270.334,,,,,,,,,,,"[20230116, 20223436]",
+213862084,213765784,0,False,residential,Maple Place,240.3,,,,,,,,,,,20220411,
+213887917,213765777,0,False,residential,Mill Street,285.02,,,,,,,,,,,20222294,
+213901798,213901802,0,False,residential,Terry Avenue,256.956,,,,,,,,,,,20223563,
+213901798,213665550,0,False,tertiary,Bayview Avenue,89.988,,,,,,,,,,,20254680,
+213901798,214165118,0,False,tertiary,Bayview Avenue,67.469,,,,,,,,,,,20254680,
+213901802,213901798,0,False,residential,Terry Avenue,256.956,,,,,,,,,,,20223563,
+213901802,214344184,0,False,residential,Forrest Place,93.968,,,,,,,,,,,20253219,
+213901802,213478520,0,False,residential,Forrest Place,130.357,,,,,,,,,,,20253219,
+213907670,213676949,0,False,primary,Merrick Road,85.365,,,,,,,,,,,20249752,NY 27A
+213907670,213766167,0,False,primary,Merrick Road,100.151,,,,,,,,,,,20249752,NY 27A
+213980006,213980008,0,False,residential,Towne Street,130.297,,,,,,,,,,,20228314,
+213980006,213478514,0,False,tertiary,Bayview Avenue,317.754,,,,,,,,,,,20254680,
+213980006,213598179,0,False,tertiary,Bayview Avenue,427.54,,,,,,,,,,,20254680,
+213980008,213980011,0,False,residential,Towne Street,75.772,,,,,,,,,,,20228314,
+213980008,213980006,0,False,residential,Towne Street,130.297,,,,,,,,,,,20228314,
+213980008,213775849,0,False,residential,Wood Avenue,198.75,,,,,,,,,,,20241968,
+213980011,213980013,0,False,residential,Towne Street,86.049,,,,,,,,,,,20228314,
+213980011,213980008,0,False,residential,Towne Street,75.772,,,,,,,,,,,20228314,
+213980011,213775852,0,False,residential,Bryan Avenue,198.901,,,,,,,,,,,20257384,
+213980013,213980011,0,False,residential,Towne Street,86.049,,,,,,,,,,,20228314,
+213997527,214230249,0,False,tertiary,Bayview Avenue,41.353,,,,,,,,,,,20254680,
+213997527,213750278,0,False,residential,Lombardi Place,262.212,,,,,,,,,,,20229490,
+213997527,213807412,0,False,tertiary,Bayview Avenue,78.879,,,,,,,,,,,20254680,
+214075575,213807413,0,False,residential,Belmont Court,155.93,,,,,,,,,,,20235220,
+214086428,214165112,0,False,residential,West Lake Drive,32.724,,,,,,,,,,,20252192,
+214086428,214086428,0,False,residential,"['East Lake Drive', 'West Lake Drive']",764.059,,,,,,,,,,,"[20236030, 20252191]",
+214086428,214086428,1,False,residential,"['East Lake Drive', 'West Lake Drive']",764.059,,,,,,,,,,,"[20236030, 20252191]",
+214127894,213462382,0,False,residential,Washington Avenue,306.443,,,,,,,,,,,20239076,
+214127894,213605224,0,False,residential,Locust Avenue,111.884,,,,,,,,,,,20257308,
+214127894,213408657,0,False,residential,Washington Avenue,280.213,,,,,,,,,,,20239076,
+214157610,214157612,0,False,residential,Lake Street,57.733,,,,,,,,,,,20241257,
+214157610,213807409,0,False,residential,Lake Street,143.011,,,,,,,,,,,20241257,
+214157610,214230249,0,False,residential,Austin Avenue,215.481,,,,,,,,,,,20246474,
+214157612,214157610,0,False,residential,Lake Street,57.733,,,,,,,,,,,20241257,
+214165112,214086428,0,False,residential,West Lake Drive,32.724,,,,,,,,,,,20252192,
+214165112,213457430,0,False,residential,Avon Place,155.352,,,,,,,,,,,20241900,
+214165112,213741956,0,False,residential,Avon Place,353.004,,,,,,,,,,,20241900,
+214165118,213457430,0,False,residential,Avon Place,124.313,,,,,,,,,,,20241900,
+214165118,213901798,0,False,tertiary,Bayview Avenue,67.469,,,,,,,,,,,20254680,
+214165118,213478514,0,False,tertiary,Bayview Avenue,63.779,,,,,,,,,,,20254680,
+214165656,213598179,0,False,primary,Merrick Road,95.575,,,,,,,,,,,20249752,NY 27A
+214165656,213517788,0,False,residential,Wood Avenue,114.94,,,,,,,,,,,20241968,
+214165656,214285159,0,False,primary,Merrick Road,77.856,,,,,,,,,,,20249752,NY 27A
+214203739,213505550,0,False,residential,Sterling Place,226.459,,,,,,,,,,,20244892,
+214203739,213584897,0,False,residential,Sterling Place,197.74,,,,,,,,,,,20244892,
+214203739,214245440,0,False,residential,John Street,233.014,,,,,,,,,,,20247341,
+214230249,213997527,0,False,tertiary,Bayview Avenue,41.353,,,,,,,,,,,20254680,
+214230249,214157610,0,False,residential,Austin Avenue,215.481,,,,,,,,,,,20246474,
+214230249,213734436,0,False,tertiary,Bayview Avenue,417.905,,,,,,,,,,,20254680,
+214245440,213821273,0,False,residential,John Street,43.094,,,,,,,,,,,20247341,
+214245440,213666757,0,False,secondary,West Oak Street,84.58,,,,,,,,,,,20254946,CR 12
+214245440,214203739,0,False,residential,John Street,233.014,,,,,,,,,,,20247341,
+214245440,213741965,0,False,secondary,West Oak Street,190.167,,,,,,,,,,,20254946,CR 12
+214252425,214252428,0,False,residential,Salt Box Path,27.07,,,,,,,,,,,20247782,
+214252425,214252432,0,False,residential,Salt Box Path,66.594,,,,,,,,,,,20247789,
+214252425,213741949,0,False,residential,Salt Box Path,124.259,,,,,,,,,,,20247782,
+214252428,214252425,0,False,residential,Salt Box Path,27.07,,,,,,,,,,,20247782,
+214252432,214252433,0,False,residential,Salt Box Path,42.124,,,,,,,,,,,20247784,
+214252432,214252425,0,False,residential,Salt Box Path,66.594,,,,,,,,,,,20247789,
+214252432,214252438,0,False,residential,Salt Box Path,61.967,,,,,,,,,,,20247789,
+214252433,214252432,0,False,residential,Salt Box Path,42.124,,,,,,,,,,,20247784,
+214252438,214252441,0,False,residential,Salt Box Path,41.96,,,,,,,,,,,20247786,
+214252438,214252432,0,False,residential,Salt Box Path,61.967,,,,,,,,,,,20247789,
+214252438,214252450,0,False,residential,Salt Box Path,57.872,,,,,,,,,,,20247789,
+214252441,214252438,0,False,residential,Salt Box Path,41.96,,,,,,,,,,,20247786,
+214252450,214252456,0,False,residential,Salt Box Path,35.612,,,,,,,,,,,20247788,
+214252450,214252438,0,False,residential,Salt Box Path,57.872,,,,,,,,,,,20247789,
+214252450,213741940,0,False,residential,Salt Box Path,101.41,,,,,,,,,,,20247788,
+214252456,214252450,0,False,residential,Salt Box Path,35.612,,,,,,,,,,,20247788,
+214285159,214165656,0,False,primary,Merrick Road,77.856,,,,,,,,,,,20249752,NY 27A
+214285159,214395162,0,False,residential,Bryan Avenue,71.416,,,,,,,,,,,20257384,
+214319345,213525779,0,False,residential,Benjamin Avenue,149.684,,,,,,,,,,,20251711,
+214335986,261377281,0,False,residential,Southwood Lane,113.053,,,,,,,,,,,20252738,
+214344184,213901802,0,False,residential,Forrest Place,93.968,,,,,,,,,,,20253219,
+214395162,213595140,0,False,residential,Walter Street,76.431,,,,,,,,,,,20256364,
+214395162,213517790,0,False,residential,Bryan Avenue,77.297,,,,,,,,,,,20257384,
+214395162,214285159,0,False,residential,Bryan Avenue,71.416,,,,,,,,,,,20257384,
+261341596,213462330,0,False,secondary,County Line Road,7.824,,,,,,,,,,,224820016,CR 1
+261367444,261377280,0,False,secondary,County Line Road,128.182,,,,,,,,,,,24120223,CR 1
+261377280,213406142,0,False,residential,,76.971,,,,,,,,,,,20180545,
+261377280,261377281,0,False,secondary,County Line Road,40.238,,,,,,,,,,,24120223,CR 1
+261377280,261367444,0,False,secondary,County Line Road,128.182,,,,,,,,,,,24120223,CR 1
+261377281,261377282,0,False,secondary,County Line Road,79.984,,,,,,,,,,,24120223,CR 1
+261377281,261377280,0,False,secondary,County Line Road,40.238,,,,,,,,,,,24120223,CR 1
+261377281,214335986,0,False,residential,Southwood Lane,113.053,,,,,,,,,,,20252738,
+261377282,261377281,0,False,secondary,County Line Road,79.984,,,,,,,,,,,24120223,CR 1
+261377282,213783249,0,False,residential,Cottage Place,129.332,,,,,,,,,,,20214692,
+261377282,261377284,0,False,secondary,County Line Road,161.258,,,,,,,,,,,24120223,CR 1
+261377284,213711563,0,False,residential,Cedar Street,77.221,,,,,,,,,,,20257099,
+261377284,261377287,0,False,secondary,County Line Road,321.597,,,,,,,,,,,24120223,CR 1
+261377284,261377282,0,False,secondary,County Line Road,161.258,,,,,,,,,,,24120223,CR 1
+261377287,261377284,0,False,secondary,County Line Road,321.597,,,,,,,,,,,24120223,CR 1
+360185618,642343554,0,True,trunk,Sunrise Highway,154.481,3,,,,,,,,,,224820019,NY 27
+360185618,213395916,0,True,trunk_link,,278.505,,,,,,,,,,,20179263,
+630791014,1651090789,0,False,secondary,County Line Road,167.339,,,,,,,,,,,49455850,CR 1
+630791014,642343555,0,False,secondary,County Line Road,27.219,,,,,,,,,,,469593358,CR 1
+642343438,642343439,0,True,primary,Broadway,113.948,,,,,,,,,,,50501385,NY 110
+642343438,642343523,0,True,trunk_link,,213.14,,,,,,,,,,,20180548,
+642343439,642343441,0,True,primary,Broadway,90.402,,,,,,,yes,,,,"[50501385, 50501388, 183800942]",NY 110
+642343441,213450601,0,True,trunk_link,,174.002,,,,,,,,,,,20186213,
+642343441,5663103512,0,True,primary,Broadway,84.562,,,,,,,,,,,"[50501388, 593679751]",NY 110
+642343447,642343439,0,True,trunk_link,,176.177,,,,,,,,,,,50501394,
+642343447,642343523,0,True,trunk,Sunrise Highway,121.401,3,,,,,,,,,,224820019,NY 27
+642343554,642343447,0,True,trunk,Sunrise Highway,111.015,3,,,,,,,,,,224820019,NY 27
+642343555,213462358,0,False,secondary,County Line Road,218.24,,,,,,,,,,,469593358,CR 1
+642343555,630791014,0,False,secondary,County Line Road,27.219,,,,,,,,,,,469593358,CR 1
+642343555,360185618,0,True,trunk,Sunrise Highway,363.708,3,,,,,,,,,,224820019,NY 27
+1651090789,630791014,0,False,secondary,County Line Road,167.339,,,,,,,,,,,49455850,CR 1
+1651090789,213462370,0,False,secondary,County Line Road,39.7,,,,,,,,,,,49455850,CR 1
+1651090789,3536630853,0,False,residential,Francesca Way,77.441,,,,,,,,,,,347325634,
+1651091399,213462379,0,False,secondary,County Line Road,50.782,,,,,,,,,,,49455850,CR 1
+1651091399,213462382,0,False,secondary,County Line Road,56.598,,,,,,,,,,,49455850,CR 1
+2818614711,2818614712,0,False,secondary,West Oak Street,35.516,,,,,,,,,,,20254946,CR 12
+2818614711,2818614715,0,True,residential,Ireland Place,59.701,,,,,,,,,,,593889669,
+2818614712,213505560,0,False,secondary,West Oak Street,104.433,,,,,,,,,,,20254946,CR 12
+2818614712,2818614711,0,False,secondary,West Oak Street,35.516,,,,,,,,,,,20254946,CR 12
+2818614715,213505562,0,False,residential,Ireland Place,58.308,,,,,,,,,,,20244747,
+2818614715,2818614712,0,True,residential,,36.776,,,,,,,,,,,277322841,
+3536630849,3536630851,0,False,residential,Sarah Court,257.064,,,,,,,,,,,347325636,
+3536630851,3536630853,0,False,residential,Sarah Court,114.48,,,,,,,,,,,347325636,
+3536630851,3536630853,1,False,residential,Francesca Way,157.532,,,,,,,,,,,347325634,
+3536630851,3536630849,0,False,residential,Sarah Court,257.064,,,,,,,,,,,347325636,
+3536630853,3536630851,0,False,residential,Sarah Court,114.48,,,,,,,,,,,347325636,
+3536630853,3536630851,1,False,residential,Francesca Way,157.532,,,,,,,,,,,347325634,
+3536630853,1651090789,0,False,residential,Francesca Way,77.441,,,,,,,,,,,347325634,
+3575468556,213840029,0,False,primary,Merrick Road,3.379,,,,,,,,,,,20249752,NY 27A
+3575468556,213766167,0,False,primary,Merrick Road,144.605,,,,,,,,,,,20249752,NY 27A
+3575468556,3575468589,0,False,residential,,279.908,,,,,,,,,,,351716130,
+3575468569,3575468578,0,False,residential,,98.898,,,,,,,,,,,351716132,
+3575468578,3575468569,0,False,residential,,98.898,,,,,,,,,,,351716132,
+3575468589,3575468556,0,False,residential,,279.908,,,,,,,,,,,351716130,
+3640000658,213720106,0,False,residential,Park Avenue,152.27,,,,,,,,,,,20210413,
+3640000658,213481804,0,False,residential,Park Avenue,22.048,,,,,,,,,,,20210413,
+3640000658,3640000659,0,False,residential,Windsor Court,120.921,,,,,,,,,,,359243349,
+3640000659,3640000658,0,False,residential,Windsor Court,120.921,,,,,,,,,,,359243349,
+5508190487,213578861,0,False,residential,Wanser Place,108.778,,,,,,,,,,,573564382,
+5663103511,213738710,0,False,residential,Locust Drive,12.955,,,,,,,,,,,20211615,
+5663103511,5663103518,0,True,primary,Broadway,55.002,,,,,,,,,,,593679751,NY 110
+5663103512,5663103511,0,True,primary,Broadway,249.436,,,,,,,,,,,593679751,NY 110
+5663103518,213680255,0,False,residential,North Drive,12.973,,,,,,,,,,,20206264,

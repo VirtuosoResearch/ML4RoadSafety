@@ -1,0 +1,381 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+212602330,212616414,0,True,motorway,,962.068,3,,,55 mph,,,yes,,,,"[38726304, 45791142, 45791143, 122189424, 38726297, 38726298, 38726302]",I 390
+212602358,212602330,0,True,motorway_link,,215.39,,,,,,,,,,,20110248,
+212602370,212602358,0,True,motorway_link,,90.502,,,,,,,,,,,20110248,
+212602370,212605785,0,False,primary,Chili Avenue,73.112,4,,,,,,,,,,584287453,NY 33A
+212602370,212605823,0,False,primary,Chili Avenue,252.237,4,,,,,,,,,,584287453,NY 33A
+212605785,212602358,0,True,motorway_link,,52.669,,,,,,,,,,,20110662,
+212605785,212765201,0,False,primary,Chili Avenue,143.782,4,,,,,,,,,,262830593,NY 33A
+212605785,212602370,0,False,primary,Chili Avenue,73.112,4,,,,,,,,,,584287453,NY 33A
+212605815,212602330,0,True,motorway,,361.819,3,,,55 mph,,,,,,,122189424,I 390
+212605815,212605785,0,True,motorway_link,,430.095,,,,,,,,,,,20110426,
+212605823,1294046072,0,False,motorway_link,,39.563,,,,,,,,,,,312593388,
+212605823,212630497,0,False,tertiary,Buell Road,728.191,,,,,,,,,,,20112117,CR 162
+212605823,212602370,0,False,primary,Chili Avenue,252.237,4,,,,,,,,,,584287453,NY 33A
+212612214,1294046072,0,True,motorway_link,,390.632,,,,,,,,,,,20110882,
+212612214,212605859,0,True,motorway,,405.702,3,,,55 mph,,,,,,,38726300,I 390
+212614383,583059907,0,False,primary,Brooks Avenue,115.183,,,,,,,,,,,378923935,NY 204
+212616414,212614383,0,True,motorway_link,,346.877,,,,,,,,,,,20111196,
+212616693,212612214,0,True,motorway,,820.667,3,,,55 mph,,,yes,,,,"[38726307, 45791140, 45791141, 38726309, 24016047, 38726299]",I 390
+212616965,212622005,0,False,primary,Brooks Avenue,100.377,,,,,,,yes,,,,38726310,NY 204
+212616965,583059907,0,False,primary,Brooks Avenue,137.907,,,,,,,,,,,378923935,NY 204
+212622005,212616965,0,False,primary,Brooks Avenue,100.377,,,,,,,yes,,,,38726310,NY 204
+212624965,212624969,0,False,residential,Raymond Drive,67.835,,,,,,,,,,,20111760,
+212624965,212624969,1,False,residential,"['Caroline Drive', 'Raymond Drive', 'Frederick Drive']",417.52,,,,,,,,,,,"[20111760, 20131721, 20132289]",
+212624965,212730578,0,False,residential,Pearwood Road,173.08,,,,,,,,,,,20118848,
+212624969,212624965,0,False,residential,Raymond Drive,67.835,,,,,,,,,,,20111760,
+212624969,212624965,1,False,residential,"['Caroline Drive', 'Raymond Drive', 'Frederick Drive']",417.52,,,,,,,,,,,"[20111760, 20132289, 20131721]",
+212624969,212869354,0,False,residential,Frederick Drive,42.979,,,,,,,,,,,20132289,
+212630497,212892464,0,False,residential,Ajax Road,221.193,,,,,,,,,,,20134648,
+212630497,212605823,0,False,tertiary,Buell Road,728.191,,,,,,,,,,,20112117,CR 162
+212631977,212794819,0,False,residential,Arrowhead Drive,405.097,,,,,,,,,,,20125606,
+212631977,212966512,0,False,residential,Ranch Village Lane,278.862,,,,,,,,,,,20140903,
+212631977,1858939219,0,False,residential,Old Beahan Road,227.224,,,,,,,,,,,"[114214680, 250657298]",
+212631979,1858939219,0,False,residential,Old Beahan Road,94.665,,,,,,,,,,,114214680,
+212631979,212765174,0,False,primary,Chili Avenue,115.19,4,,,,,,,,,,262830593,NY 33A
+212631979,2684858624,0,True,primary,Chili Avenue,131.842,4,,,,,,,,,,262830594,NY 33A
+212631979,3181769431,0,True,residential,Old Beahan Road,62.667,,,,,,,,,,,312328122,
+212631980,212631982,0,False,residential,Old Beahan Road,36.3,,,,,,,,,,,312328121,
+212631980,1479502773,0,False,residential,Old Beahan Road,13.205,,,,,,,,,,,312328121,
+212631980,212768980,0,True,primary,Brooks Avenue,162.232,,,,,,,,,,,139456691,NY 204
+212631982,212768978,0,False,residential,Brooks Avenue Extension,170.69,,,,,,,,,,,20123240,
+212631982,212631980,0,False,residential,Old Beahan Road,36.3,,,,,,,,,,,312328121,
+212631982,1111949304,0,False,residential,Old Beahan Road,249.152,,,,,,,,,,,312328121,
+212633075,212633089,0,False,residential,Kingswood Drive,129.46,,,,,,,,,,,20112268,
+212633075,212857444,0,False,residential,Bryn Mawr Road,356.234,,,,,,,,,,,20139525,
+212633075,212765144,0,False,residential,Bryn Mawr Road,88.782,,,,,,,,,,,20139525,
+212633089,212633093,0,False,residential,Kingswood Drive,65.555,,,,,,,,,,,20112268,
+212633089,212633075,0,False,residential,Kingswood Drive,129.46,,,,,,,,,,,20112268,
+212633089,212633127,0,False,residential,Hillswood Road,205.074,,,,,,,,,,,20131231,
+212633093,212633089,0,False,residential,Kingswood Drive,65.555,,,,,,,,,,,20112268,
+212633093,212925042,0,False,residential,Twin Circle Drive,106.773,,,,,,,,,,,20137271,
+212633093,212633127,0,False,residential,Kingswood Drive,304.194,,,,,,,,,,,20112268,
+212633127,212633093,0,False,residential,Kingswood Drive,304.194,,,,,,,,,,,20112268,
+212633127,212857444,0,False,residential,Hillswood Road,110.932,,,,,,,,,,,20131231,
+212633127,212633089,0,False,residential,Hillswood Road,205.074,,,,,,,,,,,20131231,
+212635928,212848098,0,False,secondary,Howard Road,69.158,,,,,,,,,,,41223249,
+212635928,212848094,0,False,secondary,Howard Road,30.435,,,,,,,,,,,41223249,
+212635928,212635949,0,False,residential,Loderdale Road,868.892,,,,,,,,,,,20112414,
+212635949,212878491,0,False,residential,Hinchey Road,125.109,,,,,,,,,,,20133163,
+212635949,212635928,0,False,residential,Loderdale Road,868.892,,,,,,,,,,,20112414,
+212635949,212848092,0,False,residential,Hinchey Road,742.622,,,,,,,,,,,20133163,
+212637000,212637003,0,False,residential,Buffalo Industrial Park,211.909,,,,,,,,,,,20112506,
+212637003,212637000,0,False,residential,Buffalo Industrial Park,211.909,,,,,,,,,,,20112506,
+212637003,212770584,0,False,secondary,Buffalo Road,685.913,,,,40 mph,,,,,,,38678435,NY 33
+212639957,212639959,0,False,residential,Marway Drive,335.001,,,,,,,,,,,20112664,
+212639957,212822007,0,False,tertiary,Pixley Road,324.046,,,,,,,,,,,20130699,CR 160
+212639959,212639957,0,False,residential,Marway Drive,335.001,,,,,,,,,,,20112664,
+212639959,212770608,0,False,residential,Marway Circle,522.034,,,,,,,,,,,20135206,
+212639959,212822007,0,False,residential,Marway Circle,524.607,,,,,,,,,,,20135206,
+212649501,212770608,0,False,secondary,Buffalo Road,278.332,,,,40 mph,,,,,,,38678435,NY 33
+212649501,212770596,0,False,secondary,Buffalo Road,116.206,,,,40 mph,,,,,,,38678435,NY 33
+212650919,212650921,0,False,residential,Renouf Drive,502.421,,,,,,,,,,,20113409,
+212650919,212755670,0,False,residential,Cheshire Lane,97.505,,,,,,,,,,,20121462,
+212650919,212755684,0,False,residential,Cheshire Lane,209.305,,,,,,,,,,,20121465,
+212650921,212650923,0,False,residential,Renouf Drive,83.018,,,,,,,,,,,20113409,
+212650921,212650919,0,False,residential,Renouf Drive,502.421,,,,,,,,,,,20113409,
+212650921,212878491,0,False,residential,Hinchey Road,113.071,,,,,,,,,,,20133163,
+212650921,212768551,0,False,residential,Hinchey Road,109.593,,,,,,,,,,,20133163,
+212650923,212650926,0,False,residential,Renouf Drive,245.342,,,,,,,,,,,20113409,
+212650923,212650921,0,False,residential,Renouf Drive,83.018,,,,,,,,,,,20113409,
+212650923,212674125,0,False,residential,Lyndale Drive,335.156,,,,,,,,,,,20116009,
+212650926,212650923,0,False,residential,Renouf Drive,245.342,,,,,,,,,,,20113409,
+212650926,212724520,0,False,primary,Chili Avenue,108.788,4,,,,,,,,,,262830593,NY 33A
+212650926,212765198,0,False,primary,Chili Avenue,123.455,4,,,,,,,,,,262830593,NY 33A
+212674122,212674125,0,False,residential,Jasmine Road,85.576,,,,,,,,,,,20114972,
+212674122,212799218,0,False,residential,Hinchey Road,53.318,,,,,,,,,,,20133163,
+212674122,212743343,0,False,residential,Hinchey Road,65.403,,,,,,,,,,,20133163,
+212674125,212674126,0,False,residential,Jasmine Road,70.211,,,,,,,,,,,20114972,
+212674125,212674122,0,False,residential,Jasmine Road,85.576,,,,,,,,,,,20114972,
+212674125,212650923,0,False,residential,Lyndale Drive,335.156,,,,,,,,,,,20116009,
+212674126,212674125,0,False,residential,Jasmine Road,70.211,,,,,,,,,,,20114972,
+212674126,212749397,0,False,primary,Chili Avenue,50.867,4,,,,,,,,,,262830593,NY 33A
+212674126,212691134,0,False,primary,Chili Avenue,154.117,4,,,,,,,,,,262830593,NY 33A
+212677603,212768990,0,False,primary,Brooks Avenue,172.071,,,,,,,,,,,26596670,NY 204
+212677603,212677610,0,False,residential,Deep Rock Road,383.95,,,,,,,,,,,20115271,
+212677610,212677603,0,False,residential,Deep Rock Road,383.95,,,,,,,,,,,20115271,
+212691134,212691137,0,False,residential,Stewart Drive,161.102,,,,,,,,,,,20116159,
+212691134,212674126,0,False,primary,Chili Avenue,154.117,4,,,,,,,,,,262830593,NY 33A
+212691134,212724520,0,False,primary,Chili Avenue,106.938,4,,,,,,,,,,262830593,NY 33A
+212691137,212691134,0,False,residential,Stewart Drive,161.102,,,,,,,,,,,20116159,
+212691137,212724523,0,False,residential,Laurel Avenue,97.63,,,,,,,,,,,20136853,
+212691137,212919139,0,False,residential,Laurel Avenue,35.866,,,,,,,,,,,20136853,
+212700935,212770596,0,False,secondary,Buffalo Road,114.187,,,,40 mph,,,,,,,38678435,NY 33
+212708263,212768990,0,False,primary,Brooks Avenue,7.503,,,,,,,,,,,26596670,NY 204
+212708263,212708268,0,False,residential,Burben Way,475.9,,,,,,,,,,,20117188,
+212708263,212768983,0,False,primary,Brooks Avenue,82.726,,,,,,,,,,,26596670,NY 204
+212708268,212708271,0,False,residential,Burben Way,54.933,,,,,,,,,,,20117188,
+212708268,212896904,0,False,residential,Ruth Ellen Way,346.047,,,,,,,,,,,20140940,
+212708268,212708263,0,False,residential,Burben Way,475.9,,,,,,,,,,,20117188,
+212708271,212708268,0,False,residential,Burben Way,54.933,,,,,,,,,,,20117188,
+212710357,212710380,0,False,residential,Kernwood Drive,467.469,,,,,,,,,,,20117358,
+212710357,212710380,1,False,residential,Kernwood Drive,137.473,,,,,,,,,,,20117358,
+212710357,212710394,0,False,residential,Kernwood Drive,140.966,,,,,,,,,,,20117361,
+212710380,212710357,0,False,residential,Kernwood Drive,137.473,,,,,,,,,,,20117358,
+212710380,212710357,1,False,residential,Kernwood Drive,467.469,,,,,,,,,,,20117358,
+212710380,212807433,0,False,residential,Henry Circle,273.399,,,,,,,,,,,20126646,
+212710394,212765144,0,False,primary,Chili Avenue,252.108,4,,,,,,,,,,49357932,NY 33A;NY 204
+212710394,212710357,0,False,residential,Kernwood Drive,140.966,,,,,,,,,,,20117361,
+212710394,212765148,0,False,primary,Chili Avenue,360.969,4,,,,,,,,,,49357932,NY 33A;NY 204
+212719469,212719492,0,False,residential,Marilyn Parkway,72.589,,,,,,,,,,,20118063,
+212719469,212719514,0,False,residential,Marilyn Parkway,85.505,,,,,,,,,,,20118066,
+212719469,212831791,0,False,residential,Lansing Circle North,150.444,,,,,,,,,,,20128802,
+212719492,212719469,0,False,residential,Marilyn Parkway,72.589,,,,,,,,,,,20118063,
+212719514,212719469,0,False,residential,Marilyn Parkway,85.505,,,,,,,,,,,20118066,
+212719514,212719540,0,False,residential,Marilyn Parkway,108.879,,,,,,,,,,,20118069,
+212719514,212832811,0,False,residential,Lansing Circle South,151.858,,,,,,,,,,,20128921,
+212719540,212848092,0,False,residential,Hinchey Road,158.038,,,,,,,,,,,20133163,
+212719540,212719514,0,False,residential,Marilyn Parkway,108.879,,,,,,,,,,,20118069,
+212719540,212864621,0,False,residential,Hinchey Road,617.81,,,,,,,,,,,20133163,
+212724520,212724523,0,False,residential,Ellis Drive,118.238,,,,,,,,,,,20118420,
+212724520,212691134,0,False,primary,Chili Avenue,106.938,4,,,,,,,,,,262830593,NY 33A
+212724520,212650926,0,False,primary,Chili Avenue,108.788,4,,,,,,,,,,262830593,NY 33A
+212724523,212724526,0,False,residential,Ellis Drive,47.147,,,,,,,,,,,20118420,
+212724523,212724520,0,False,residential,Ellis Drive,118.238,,,,,,,,,,,20118420,
+212724523,212691137,0,False,residential,Laurel Avenue,97.63,,,,,,,,,,,20136853,
+212724526,212724523,0,False,residential,Ellis Drive,47.147,,,,,,,,,,,20118420,
+212728344,212728348,0,False,residential,Merrydale Drive,514.315,,,,,,,,,,,20118687,
+212728344,212755670,0,False,residential,Cheshire Lane,93.709,,,,,,,,,,,20121462,
+212728344,212755668,0,False,residential,Cheshire Lane,89.169,,,,,,,,,,,20121462,
+212728348,212728344,0,False,residential,Merrydale Drive,514.315,,,,,,,,,,,20118687,
+212728348,212768551,0,False,residential,Hinchey Road,82.883,,,,,,,,,,,20133163,
+212728348,212799218,0,False,residential,Hinchey Road,91.564,,,,,,,,,,,20133163,
+212730578,212624965,0,False,residential,Pearwood Road,173.08,,,,,,,,,,,20118848,
+212730578,212765201,0,False,primary,Chili Avenue,62.01,4,,,,,,,,,,262830593,NY 33A
+212730578,212749397,0,False,primary,Chili Avenue,154.72,4,,,,,,,,,,262830593,NY 33A
+212743184,212852235,0,False,tertiary,Westside Drive,100.431,,,,,,,,,,,318186949,CR 119
+212743184,212743192,0,False,residential,Woodview Drive,275.669,,,,,,,,,,,20120089,
+212743192,212743184,0,False,residential,Woodview Drive,275.669,,,,,,,,,,,20120089,
+212743343,212674122,0,False,residential,Hinchey Road,65.403,,,,,,,,,,,20133163,
+212743343,212878488,0,False,residential,Hinchey Road,153.209,,,,,,,,,,,20133163,
+212743343,212743354,0,False,residential,Timpat Drive,403.236,,,,,,,,,,,20120104,
+212743354,212743343,0,False,residential,Timpat Drive,403.236,,,,,,,,,,,20120104,
+212749397,212749398,0,False,residential,Walbert Drive,256.941,,,,,,,,,,,20120767,
+212749397,212730578,0,False,primary,Chili Avenue,154.72,4,,,,,,,,,,262830593,NY 33A
+212749397,212674126,0,False,primary,Chili Avenue,50.867,4,,,,,,,,,,262830593,NY 33A
+212749398,212749397,0,False,residential,Walbert Drive,256.941,,,,,,,,,,,20120767,
+212755668,212728344,0,False,residential,Cheshire Lane,89.169,,,,,,,,,,,20121462,
+212755668,212799218,0,False,residential,Ingram Drive,514.022,,,,,,,,,,,20125995,
+212755668,212755684,0,False,residential,Dolman Drive,324.863,,,,,,,,,,,20128476,
+212755670,212650919,0,False,residential,Cheshire Lane,97.505,,,,,,,,,,,20121462,
+212755670,212728344,0,False,residential,Cheshire Lane,93.709,,,,,,,,,,,20121462,
+212755670,212768551,0,False,residential,Morncrest Drive,509.738,,,,,,,,,,,20123187,
+212755684,212650919,0,False,residential,Cheshire Lane,209.305,,,,,,,,,,,20121465,
+212755684,3367427215,0,False,residential,Dolman Drive,58.259,,,,,,,,,,,20128476,
+212755684,212755668,0,False,residential,Dolman Drive,324.863,,,,,,,,,,,20128476,
+212765144,1785598150,0,False,primary,Chili Avenue,99.701,4,,,,,,,,,,49357932,NY 33A;NY 204
+212765144,212710394,0,False,primary,Chili Avenue,252.108,4,,,,,,,,,,49357932,NY 33A;NY 204
+212765144,212633075,0,False,residential,Bryn Mawr Road,88.782,,,,,,,,,,,20139525,
+212765148,212808888,0,False,residential,Fisher Road,85.065,,,,,,,,,,,20140580,
+212765148,212710394,0,False,primary,Chili Avenue,360.969,4,,,,,,,,,,49357932,NY 33A;NY 204
+212765148,2684858616,0,False,primary,Chili Avenue,234.809,4,,,,,,,,,,49357932,NY 33A;NY 204
+212765163,2684858630,0,False,secondary,Howard Road,13.342,,,,,,,,,,,41223249,
+212765163,212896900,0,False,tertiary,Beahan Road,536.621,,,,,,,,,,,20135062,
+212765163,5661977558,0,True,primary,Chili Avenue,176.709,4,,,,,,,,,,26596665,NY 33A; NY 204
+212765171,2684858624,0,True,primary,Brooks Avenue,14.062,,,,,,,,,,,20123244,NY 204
+212765171,212631979,0,True,primary,Chili Avenue,131.789,4,,,,,,,,,,49357934,NY 33A
+212765174,212765182,0,False,primary,Chili Avenue,98.237,4,,,,,,,,,,262830593,NY 33A
+212765174,212631979,0,False,primary,Chili Avenue,115.19,4,,,,,,,,,,262830593,NY 33A
+212765174,212820618,0,False,residential,Dorstone Road,182.9,,,,,,,,,,,20127812,
+212765182,212851164,0,False,residential,Elham Road,125.136,,,,,,,,,,,20130585,
+212765182,212765183,0,False,primary,Chili Avenue,108.86,4,,,,,,,,,,262830593,NY 33A
+212765182,212765174,0,False,primary,Chili Avenue,98.237,4,,,,,,,,,,262830593,NY 33A
+212765183,212768983,0,False,residential,Sprucewood Lane,387.277,,,,,,,,,,,20136944,
+212765183,212765185,0,False,primary,Chili Avenue,30.927,4,,,,,,,,,,262830593,NY 33A
+212765183,212765182,0,False,primary,Chili Avenue,108.86,4,,,,,,,,,,262830593,NY 33A
+212765185,212966512,0,False,residential,Ranch Village Lane,118.997,,,,,,,,,,,20140902,
+212765185,212765183,0,False,primary,Chili Avenue,30.927,4,,,,,,,,,,262830593,NY 33A
+212765185,212765189,0,False,primary,Chili Avenue,81.717,4,,,,,,,,,,262830593,NY 33A
+212765189,212768990,0,False,residential,Marilou Drive,453.173,,,,,,,,,,,20125737,
+212765189,212765198,0,False,primary,Chili Avenue,134.744,4,,,,,,,,,,262830593,NY 33A
+212765189,212765185,0,False,primary,Chili Avenue,81.717,4,,,,,,,,,,262830593,NY 33A
+212765198,212878491,0,False,residential,Lettington Avenue,390.883,,,,,,,,,,,20133185,
+212765198,212650926,0,False,primary,Chili Avenue,123.455,4,,,,,,,,,,262830593,NY 33A
+212765198,212765189,0,False,primary,Chili Avenue,134.744,4,,,,,,,,,,262830593,NY 33A
+212765201,212730578,0,False,primary,Chili Avenue,62.01,4,,,,,,,,,,262830593,NY 33A
+212765201,212878488,0,False,residential,Hinchey Road,37.82,,,,,,,,,,,20133163,
+212765201,212605785,0,False,primary,Chili Avenue,143.782,4,,,,,,,,,,262830593,NY 33A
+212768551,212650921,0,False,residential,Hinchey Road,109.593,,,,,,,,,,,20133163,
+212768551,212728348,0,False,residential,Hinchey Road,82.883,,,,,,,,,,,20133163,
+212768551,212755670,0,False,residential,Morncrest Drive,509.738,,,,,,,,,,,20123187,
+212768978,212631982,0,False,residential,Brooks Avenue Extension,170.69,,,,,,,,,,,20123240,
+212768978,212768978,0,False,residential,Brooks Avenue Extension,135.008,,,,,,,,,,,20123240,
+212768978,212768978,1,False,residential,Brooks Avenue Extension,135.008,,,,,,,,,,,20123240,
+212768980,212768983,0,False,primary,Brooks Avenue,100.211,,,,,,,,,,,26596670,NY 204
+212768980,1479502773,0,True,primary,Brooks Avenue,163.406,,,,,,,,,,,20123244,NY 204
+212768983,212765183,0,False,residential,Sprucewood Lane,387.277,,,,,,,,,,,20136944,
+212768983,212768980,0,False,primary,Brooks Avenue,100.211,,,,,,,,,,,26596670,NY 204
+212768983,212708263,0,False,primary,Brooks Avenue,82.726,,,,,,,,,,,26596670,NY 204
+212768990,212677603,0,False,primary,Brooks Avenue,172.071,,,,,,,,,,,26596670,NY 204
+212768990,212708263,0,False,primary,Brooks Avenue,7.503,,,,,,,,,,,26596670,NY 204
+212768990,212765189,0,False,residential,Marilou Drive,453.173,,,,,,,,,,,20125737,
+212770584,212770586,0,False,secondary,Buffalo Road,265.151,,,,40 mph,,,,,,,38678435,NY 33
+212770584,212637003,0,False,secondary,Buffalo Road,685.913,,,,40 mph,,,,,,,38678435,NY 33
+212770586,212770584,0,False,secondary,Buffalo Road,265.151,,,,40 mph,,,,,,,38678435,NY 33
+212770586,212831791,0,False,secondary,Howard Road,1031.21,,,,40 mph,,,yes,,,,"[41223249, 38678441, 41223250]",
+212770596,212838706,0,False,residential,Bermar Park,297.487,,,,,,,,,,,20129459,
+212770596,212649501,0,False,secondary,Buffalo Road,116.206,,,,40 mph,,,,,,,38678435,NY 33
+212770596,212700935,0,False,secondary,Buffalo Road,114.187,,,,40 mph,,,,,,,38678435,NY 33
+212770608,212639959,0,False,residential,Marway Circle,522.034,,,,,,,,,,,20135206,
+212770608,212649501,0,False,secondary,Buffalo Road,278.332,,,,40 mph,,,,,,,38678435,NY 33
+212794819,212631977,0,False,residential,Arrowhead Drive,405.097,,,,,,,,,,,20125606,
+212794819,212829011,0,False,secondary,Howard Road,110.393,,,,,,,,,,,41223249,
+212794819,212848102,0,False,secondary,Howard Road,124.631,,,,,,,,,,,41223249,
+212799218,212755668,0,False,residential,Ingram Drive,514.022,,,,,,,,,,,20125995,
+212799218,212728348,0,False,residential,Hinchey Road,91.564,,,,,,,,,,,20133163,
+212799218,212674122,0,False,residential,Hinchey Road,53.318,,,,,,,,,,,20133163,
+212806509,212806513,0,False,residential,Wedgewood Drive,302.72,,,,,,,,,,,20126565,
+212806509,212852158,0,False,residential,Royal Oak Drive,109.744,,,,,,,,,,,20130687,
+212806509,212848098,0,False,residential,Royal Oak Drive,110.354,,,,,,,,,,,20130687,
+212806513,212806509,0,False,residential,Wedgewood Drive,302.72,,,,,,,,,,,20126565,
+212806513,212829015,0,False,residential,Greenbriar Drive,110.422,,,,,,,,,,,20128540,
+212806513,212829011,0,False,residential,Greenbriar Drive,110.802,,,,,,,,,,,20128540,
+212807430,212807433,0,False,residential,Henry Circle,23.964,,,,,,,,,,,20126646,
+212807433,212807430,0,False,residential,Henry Circle,23.964,,,,,,,,,,,20126646,
+212807433,212807444,0,False,residential,Henry Circle,61.11,,,,,,,,,,,20126647,
+212807433,212710380,0,False,residential,Henry Circle,273.399,,,,,,,,,,,20126646,
+212807444,212807433,0,False,residential,Henry Circle,61.11,,,,,,,,,,,20126647,
+212807444,212893116,0,False,residential,Fisher Road,15.676,,,,,,,,,,,20140580,
+212807444,212835182,0,False,residential,Fisher Road,91.929,,,,,,,,,,,20140580,
+212808846,212835182,0,False,residential,Fisher Road,108.254,,,,,,,,,,,20140580,
+212808846,212808888,0,False,residential,Mareeta Road,429.107,,,,,,,,,,,20126791,
+212808846,212808888,1,False,residential,Fisher Road,149.361,,,,,,,,,,,20140580,
+212808888,212765148,0,False,residential,Fisher Road,85.065,,,,,,,,,,,20140580,
+212808888,212808846,0,False,residential,Mareeta Road,429.107,,,,,,,,,,,20126791,
+212808888,212808846,1,False,residential,Fisher Road,149.361,,,,,,,,,,,20140580,
+212820618,212765174,0,False,residential,Dorstone Road,182.9,,,,,,,,,,,20127812,
+212822007,212639957,0,False,tertiary,Pixley Road,324.046,,,,,,,,,,,20130699,CR 160
+212822007,212639959,0,False,residential,Marway Circle,524.607,,,,,,,,,,,20135206,
+212829011,212806513,0,False,residential,Greenbriar Drive,110.802,,,,,,,,,,,20128540,
+212829011,212794819,0,False,secondary,Howard Road,110.393,,,,,,,,,,,41223249,
+212829011,2684858630,0,False,secondary,Howard Road,400.86,,,,,,,,,,,41223249,
+212829015,212806513,0,False,residential,Greenbriar Drive,110.422,,,,,,,,,,,20128540,
+212829015,212852158,0,False,residential,Westhaven Drive,303.488,,,,,,,,,,,20134176,
+212829015,212829030,0,False,residential,Greenbriar Drive,397.666,,,,,,,,,,,20128540,
+212829030,212852165,0,False,residential,Royal Oak Drive,66.8,,,,,,,,,,,20130687,
+212829030,212852158,0,False,residential,Royal Oak Drive,115.089,,,,,,,,,,,20130687,
+212829030,212829015,0,False,residential,Greenbriar Drive,397.666,,,,,,,,,,,20128540,
+212831791,212832811,0,False,secondary,Howard Road,106.648,,,,,,,,,,,41223249,
+212831791,212719469,0,False,residential,Lansing Circle North,150.444,,,,,,,,,,,20128802,
+212831791,212770586,0,False,secondary,Howard Road,1031.21,,,,40 mph,,,yes,,,,"[41223249, 41223250, 38678441]",
+212832811,212848092,0,False,secondary,Howard Road,89.863,,,,,,,,,,,41223249,
+212832811,212831791,0,False,secondary,Howard Road,106.648,,,,,,,,,,,41223249,
+212832811,212719514,0,False,residential,Lansing Circle South,151.858,,,,,,,,,,,20128921,
+212834908,212834910,0,False,residential,Frostholm Drive,152.009,,,,,,,,,,,20129138,
+212834910,212834908,0,False,residential,Frostholm Drive,152.009,,,,,,,,,,,20129138,
+212834910,212896904,0,False,tertiary,Beahan Road,5.449,,,,,,,,,,,20135062,
+212834910,212896900,0,False,tertiary,Beahan Road,91.07,,,,,,,,,,,20135062,
+212835182,212807444,0,False,residential,Fisher Road,91.929,,,,,,,,,,,20140580,
+212835182,212808846,0,False,residential,Fisher Road,108.254,,,,,,,,,,,20140580,
+212835182,212893116,0,False,residential,"['Overbrook Road', 'Belvedere Drive']",595.939,,,,,,,,,,,"[20134707, 20129165]",
+212838706,212770596,0,False,residential,Bermar Park,297.487,,,,,,,,,,,20129459,
+212838706,212838706,0,True,unclassified,,107.309,1,,,,,,,,,roundabout,203048136,
+212848092,212719540,0,False,residential,Hinchey Road,158.038,,,,,,,,,,,20133163,
+212848092,212848094,0,False,secondary,Howard Road,103.386,,,,,,,,,,,41223249,
+212848092,212832811,0,False,secondary,Howard Road,89.863,,,,,,,,,,,41223249,
+212848092,212635949,0,False,residential,Hinchey Road,742.622,,,,,,,,,,,20133163,
+212848094,212635928,0,False,secondary,Howard Road,30.435,,,,,,,,,,,41223249,
+212848094,212848092,0,False,secondary,Howard Road,103.386,,,,,,,,,,,41223249,
+212848094,212880388,0,False,residential,Brooklea Drive,630.28,,,,,,,,,,,20141238,
+212848098,212806509,0,False,residential,Royal Oak Drive,110.354,,,,,,,,,,,20130687,
+212848098,212848102,0,False,secondary,Howard Road,66.862,,,,,,,,,,,41223249,
+212848098,212635928,0,False,secondary,Howard Road,69.158,,,,,,,,,,,41223249,
+212848102,212794819,0,False,secondary,Howard Road,124.631,,,,,,,,,,,41223249,
+212848102,212848098,0,False,secondary,Howard Road,66.862,,,,,,,,,,,41223249,
+212848102,212966512,0,False,residential,Meadowdale Drive,891.62,,,,,,,,,,,20140282,
+212851164,212765182,0,False,residential,Elham Road,125.136,,,,,,,,,,,20130585,
+212852158,212829030,0,False,residential,Royal Oak Drive,115.089,,,,,,,,,,,20130687,
+212852158,212806509,0,False,residential,Royal Oak Drive,109.744,,,,,,,,,,,20130687,
+212852158,212829015,0,False,residential,Westhaven Drive,303.488,,,,,,,,,,,20134176,
+212852165,212829030,0,False,residential,Royal Oak Drive,66.8,,,,,,,,,,,20130687,
+212852228,212852235,0,False,tertiary,Pixley Road,342.257,,,,,,,,,,,20130699,CR 160
+212852235,212743184,0,False,tertiary,Westside Drive,100.431,,,,,,,,,,,318186949,CR 119
+212852235,212852228,0,False,tertiary,Pixley Road,342.257,,,,,,,,,,,20130699,CR 160
+212857444,212633127,0,False,residential,Hillswood Road,110.932,,,,,,,,,,,20131231,
+212857444,212957181,0,False,residential,Bryn Mawr Road,111.171,,,,,,,,,,,20139525,
+212857444,212633075,0,False,residential,Bryn Mawr Road,356.234,,,,,,,,,,,20139525,
+212864621,212864625,0,False,residential,Sandy Lane,113.441,,,,,,,,,,,20131833,
+212864621,212878495,0,False,residential,Hinchey Road,147.678,,,,,,,,,,,20133163,
+212864621,212719540,0,False,residential,Hinchey Road,617.81,,,,,,,,,,,20133163,
+212864625,212864621,0,False,residential,Sandy Lane,113.441,,,,,,,,,,,20131833,
+212864625,212870192,0,False,residential,Brooklea Drive,380.425,,,,,,,,,,,20141238,
+212864625,212880388,0,False,residential,Brooklea Drive,184.337,,,,,,,,,,,20141238,
+212869354,212624969,0,False,residential,Frederick Drive,42.979,,,,,,,,,,,20132289,
+212870110,212870167,0,False,residential,Firestone Drive,394.852,,,,,,,,,,,20132398,
+212870167,212880388,0,False,residential,Pinehurst Drive,167.942,,,,,,,,,,,20133383,
+212870167,212870192,0,False,residential,Firestone Drive,543.917,,,,,,,,,,,20132398,
+212870167,212870110,0,False,residential,Firestone Drive,394.852,,,,,,,,,,,20132398,
+212870192,212870226,0,False,residential,Firestone Drive,241.717,,,,,,,,,,,20132398,
+212870192,212870167,0,False,residential,Firestone Drive,543.917,,,,,,,,,,,20132398,
+212870192,212864625,0,False,residential,Brooklea Drive,380.425,,,,,,,,,,,20141238,
+212870226,212870192,0,False,residential,Firestone Drive,241.717,,,,,,,,,,,20132398,
+212870226,212878495,0,False,residential,Hinchey Road,474.815,,,,,,,,,,,20133163,
+212878488,212743343,0,False,residential,Hinchey Road,153.209,,,,,,,,,,,20133163,
+212878488,212765201,0,False,residential,Hinchey Road,37.82,,,,,,,,,,,20133163,
+212878488,634721016,0,False,residential,Hamlet Court,354.127,,,,,,,,,,,20137751,
+212878491,212635949,0,False,residential,Hinchey Road,125.109,,,,,,,,,,,20133163,
+212878491,212650921,0,False,residential,Hinchey Road,113.071,,,,,,,,,,,20133163,
+212878491,212765198,0,False,residential,Lettington Avenue,390.883,,,,,,,,,,,20133185,
+212878491,212878658,0,False,residential,Lettington Avenue,434.743,,,,,,,,,,,20133185,
+212878495,212864621,0,False,residential,Hinchey Road,147.678,,,,,,,,,,,20133163,
+212878495,212911011,0,False,residential,Foxe Harrow Drive,77.599,,,,,,,,,,,20136216,
+212878495,212870226,0,False,residential,Hinchey Road,474.815,,,,,,,,,,,20133163,
+212878658,212878491,0,False,residential,Lettington Avenue,434.743,,,,,,,,,,,20133185,
+212880388,212870167,0,False,residential,Pinehurst Drive,167.942,,,,,,,,,,,20133383,
+212880388,212864625,0,False,residential,Brooklea Drive,184.337,,,,,,,,,,,20141238,
+212880388,212848094,0,False,residential,Brooklea Drive,630.28,,,,,,,,,,,20141238,
+212892464,212630497,0,False,residential,Ajax Road,221.193,,,,,,,,,,,20134648,
+212893116,212807444,0,False,residential,Fisher Road,15.676,,,,,,,,,,,20140580,
+212893116,212835182,0,False,residential,"['Overbrook Road', 'Belvedere Drive']",595.939,,,,,,,,,,,"[20134707, 20129165]",
+212896900,212834910,0,False,tertiary,Beahan Road,91.07,,,,,,,,,,,20135062,
+212896900,212981905,0,False,residential,Fairholm Drive,178.867,,,,,,,,,,,20141391,
+212896900,212765163,0,False,tertiary,Beahan Road,536.621,,,,,,,,,,,20135062,
+212896904,212834910,0,False,tertiary,Beahan Road,5.449,,,,,,,,,,,20135062,
+212896904,212708268,0,False,residential,Ruth Ellen Way,346.047,,,,,,,,,,,20140940,
+212911011,212878495,0,False,residential,Foxe Harrow Drive,77.599,,,,,,,,,,,20136216,
+212919139,212691137,0,False,residential,Laurel Avenue,35.866,,,,,,,,,,,20136853,
+212925039,212925042,0,False,residential,Twin Circle Drive,101.68,,,,,,,,,,,20137270,
+212925042,212925045,0,False,residential,Twin Circle Drive,92.075,,,,,,,,,,,20137270,
+212925042,212925039,0,False,residential,Twin Circle Drive,101.68,,,,,,,,,,,20137270,
+212925042,212633093,0,False,residential,Twin Circle Drive,106.773,,,,,,,,,,,20137271,
+212925045,212925042,0,False,residential,Twin Circle Drive,92.075,,,,,,,,,,,20137270,
+212957181,212857444,0,False,residential,Bryn Mawr Road,111.171,,,,,,,,,,,20139525,
+212966512,212765185,0,False,residential,Ranch Village Lane,118.997,,,,,,,,,,,20140902,
+212966512,212631977,0,False,residential,Ranch Village Lane,278.862,,,,,,,,,,,20140903,
+212966512,212848102,0,False,residential,Meadowdale Drive,891.62,,,,,,,,,,,20140282,
+212981905,212896900,0,False,residential,Fairholm Drive,178.867,,,,,,,,,,,20141391,
+583059907,212614383,0,False,primary,Brooks Avenue,115.183,,,,,,,,,,,378923935,NY 204
+583059907,212616965,0,False,primary,Brooks Avenue,137.907,,,,,,,,,,,378923935,NY 204
+634721016,212878488,0,False,residential,Hamlet Court,354.127,,,,,,,,,,,20137751,
+634721016,634721016,0,False,residential,Hamlet Court,81.817,,,,,,,,,,,49953452,
+634721016,634721016,1,False,residential,Hamlet Court,81.817,,,,,,,,,,,49953452,
+1111949304,212631982,0,False,residential,Old Beahan Road,249.152,,,,,,,,,,,312328121,
+1294046070,212631980,0,True,primary,Brooks Avenue,95.521,,,,,,,,,,,139456691,NY 204
+1294046072,212605823,0,False,motorway_link,,39.563,,,,,,,,,,,312593388,
+1294046072,212605859,0,True,motorway_link,,467.428,,,,,,,,,,,312593389,
+1479502773,212631980,0,False,residential,Old Beahan Road,13.205,,,,,,,,,,,312328121,
+1479502773,3181769431,0,False,residential,Old Beahan Road,89.661,,,,,,,,,,,312328121,
+1479502773,212765171,0,True,primary,Brooks Avenue,127.454,,,,,,,,,,,20123244,NY 204
+1479502776,212765171,0,True,primary,Chili Avenue,10.521,,,,,,,,,,,26596666,NY 33A; NY 204
+1479502776,1294046070,0,True,primary,Brooks Avenue,43.489,,,,,,,,,,,134585109,
+1785598150,212765144,0,False,primary,Chili Avenue,99.701,4,,,,,,,,,,49357932,NY 33A;NY 204
+1785598150,1937571825,0,False,primary,Chili Avenue,45.774,4,,,,,,,,,,114214679,NY 33A
+1858939219,212631979,0,False,residential,Old Beahan Road,94.665,,,,,,,,,,,114214680,
+1858939219,212631977,0,False,residential,Old Beahan Road,227.224,,,,,,,,,,,"[114214680, 250657298]",
+1858939219,1858939246,0,False,residential,,29.919,,,,,,,,,,,175278956,
+1858939246,1858939219,0,False,residential,,29.919,,,,,,,,,,,175278956,
+1937571825,1785598150,0,False,primary,Chili Avenue,45.774,4,,,,,,,,,,114214679,NY 33A
+1937571828,1785598150,0,True,motorway,,101.546,2,,,,,,,,,,45801679,NY 204
+1937571828,1937571825,0,True,motorway_link,,86.077,,,,,,,,,,,183385295,
+2684858616,212765148,0,False,primary,Chili Avenue,234.809,4,,,,,,,,,,49357932,NY 33A;NY 204
+2684858616,212765163,0,True,primary,Chili Avenue,122.468,4,,,,,,,,,,262830592,NY 33A; NY 204
+2684858624,2684858628,0,True,primary,Chili Avenue,11.336,4,,,,,,,,,,262830595,NY 33A; NY 204
+2684858628,1479502776,0,True,primary,Brooks Avenue,14.114,,,,,,,,,,,134585109,
+2684858628,2684858630,0,True,primary,Chili Avenue,224.522,4,,,,,,,,,,262830595,NY 33A; NY 204
+2684858630,212765163,0,False,secondary,Howard Road,13.342,,,,,,,,,,,41223249,
+2684858630,212829011,0,False,secondary,Howard Road,400.86,,,,,,,,,,,41223249,
+2684858630,2684858616,0,True,primary,Chili Avenue,116.503,4,,,,,,,,,,262830596,NY 33A; NY 204
+3181769431,1479502773,0,False,residential,Old Beahan Road,89.661,,,,,,,,,,,312328121,
+3367427215,212755684,0,False,residential,Dolman Drive,58.259,,,,,,,,,,,20128476,
+5661977558,1479502776,0,True,primary,Chili Avenue,47.752,,,,,,,,,,,26596666,NY 33A; NY 204
+5661977558,1294046070,0,True,primary_link,,75.583,,,,,,,,,,,49357936,NY 204

@@ -1,0 +1,823 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+221340143,3815429679,0,False,primary,State Highway 22A,1777.279,,,,,,,,,,,247971201,NY 22A
+221340239,221340241,0,False,primary,State Highway 22A,395.842,,,,,,,,,,,247971201,NY 22A
+221340239,221485855,0,False,secondary,"Brick Church Road (former 273, now CR18)",44.287,,,,,,,,,,,232675163,CR 18
+221340239,3815429679,0,False,primary,State Highway 22A,855.404,,,,,,,,,,,247971201,NY 22A
+221340241,221340239,0,False,primary,State Highway 22A,395.842,,,,,,,,,,,247971201,NY 22A
+221340241,221427129,0,False,secondary,CR18A,293.338,,,,,,,,,,,20627530,
+221340241,221340310,0,False,primary,State Highway 22A,627.812,,,,,,,,,,,247971201,NY 22A
+221340310,221346510,0,False,residential,,173.715,,,,,,,,,,,20618776,
+221340310,221340452,0,False,primary,State Highway 22A,2644.357,,,,,,,,,,,247971201,NY 22A
+221340310,221340241,0,False,primary,State Highway 22A,627.812,,,,,,,,,,,247971201,NY 22A
+221340452,221340457,0,False,primary,State Highway 22A,458.79,,,,,,,,,,,247971201,NY 22A
+221340452,221616353,0,False,tertiary,Hickey Road,398.353,,,,,designated,,,,,,20643235,
+221340452,221340310,0,False,primary,State Highway 22A,2644.357,,,,,,,,,,,247971201,NY 22A
+221340457,221340461,0,False,primary,State Highway 22A,162.94,,,,,,,,,,,247971201,NY 22A
+221340457,221340461,1,False,residential,Krall Road,183.856,,,,,,,,,,,20631825,
+221340457,221340452,0,False,primary,State Highway 22A,458.79,,,,,,,,,,,247971201,NY 22A
+221340461,221340457,0,False,primary,State Highway 22A,162.94,,,,,,,,,,,247971201,NY 22A
+221340461,221340457,1,False,residential,Krall Road,183.856,,,,,,,,,,,20631825,
+221340461,221340468,0,False,primary,State Highway 22A,100.454,,,,,,,,,,,247971201,NY 22A
+221340468,221641796,0,False,tertiary,Manor Lane,244.3,,,,,,,,,,,20644922,
+221340468,221340461,0,False,primary,State Highway 22A,100.454,,,,,,,,,,,247971201,NY 22A
+221344970,221345336,0,False,residential,,478.596,,,,,,,,,,,20618658,
+221345336,221344970,0,False,residential,,478.596,,,,,,,,,,,20618658,
+221346510,221340310,0,False,residential,,173.715,,,,,,,,,,,20618776,
+221348056,221348084,0,False,residential,,133.345,,,,,,,,,,,20618917,
+221348056,221559631,0,False,residential,Ryder Road,1137.314,,,,,,,,,,,93543497,
+221348056,221559251,0,False,residential,Ryder Road,1390.701,,,,,,,yes,,,,"[93543497, 20638267, 93543501]",
+221348084,221348056,0,False,residential,,133.345,,,,,,,,,,,20618917,
+221353434,221353435,0,False,residential,,189.058,,,,,,,,,,,20619534,
+221353434,221465424,0,False,primary,"['Broadway Avenue', 'Whitehall Road']",207.241,2,,,45 mph,,,,,,,"[233630193, 20635503]",US 4;NY 22
+221353434,221369500,0,False,primary,Whitehall Road,35.364,2,,,45 mph,,,,,,,233630193,US 4;NY 22
+221353435,221353434,0,False,residential,,189.058,,,,,,,,,,,20619534,
+221356468,221356494,0,False,residential,,225.238,,,,,,,,,,,20619856,
+221356494,221356468,0,False,residential,,225.238,,,,,,,,,,,20619856,
+221362193,221520907,0,False,tertiary,Chapman Road  (formerly US-4),166.057,,,,,,,,,,,20637229,
+221362193,221454863,0,False,primary,,527.6,2,,,55 mph,,,,,,,358449826,US 4
+221362193,221520872,0,False,primary,,511.421,2,,,55 mph,,,,,,,358449826,US 4
+221362675,221620441,0,False,residential,,146.374,,,,,,,,,,,20620608,
+221362675,221620441,1,False,secondary,CR21,132.526,,,,,,,,,,,20643186,
+221362675,221560954,0,False,secondary,CR21,289.611,,,,,,,,,,,20643186,
+221362688,221557429,0,False,residential,Lamphere Lane,707.992,,,,,,,,,,,20644408,
+221363942,221418610,0,False,residential,Hyatt Lane,2183.063,,,,,,,,,,,"[20620772, 20628255]",
+221363942,221418523,0,False,residential,Upper Turnpike,549.74,,,,,,,,,,,20626895,
+221365962,221365964,0,False,residential,,36.033,,,,,,,,,,,20621038,
+221365962,1179513291,0,False,primary,Poultney Street,42.499,2,,,30 mph,,,,,,,83854420,US 4
+221365962,221410885,0,False,primary,Poultney Street,20.004,2,,,30 mph,,,,,,,83854420,US 4
+221365964,221365966,0,False,residential,,45.707,,,,,,,,,,,20621038,
+221365964,221365962,0,False,residential,,36.033,,,,,,,,,,,20621038,
+221365964,221366020,0,False,residential,,86.627,,,,,,,,,,,20621043,
+221365966,221365964,0,False,residential,,45.707,,,,,,,,,,,20621038,
+221366020,221365964,0,False,residential,,86.627,,,,,,,,,,,20621043,
+221367387,221367408,0,False,residential,,141.783,,,,,,,,,,,20621208,
+221367387,221367484,0,False,primary,Poultney Street,197.704,2,,,30 mph,,,yes,,,,"[83854440, 93543460, 93543487]",US 4
+221367387,221410897,0,False,primary,Poultney Street,281.348,2,,,30 mph,,,yes,,,,"[83854440, 83854436, 83854431]",US 4
+221367408,221367387,0,False,residential,,141.783,,,,,,,,,,,20621208,
+221367478,221410942,0,False,residential,William Street,37.679,,,,,,,,,,,20629085,
+221367478,221446574,0,False,residential,William Street,128.399,,,,,,,,,,,358449855,
+221367478,221367484,0,True,primary_link,,29.963,,,,,,,,,,,20621215,
+221367484,221410942,0,False,primary,Poultney Street,32.414,2,,,30 mph,,,,,,,358449731,US 4
+221367484,221367387,0,False,primary,Poultney Street,197.704,2,,,30 mph,,,yes,,,,"[83854440, 93543460, 93543487]",US 4
+221369032,221369035,0,False,residential,,30.953,,,,,,,,,,,20621425,
+221369032,221504087,0,False,residential,County Road 7A,38.319,,,,,,,,,,,20633933,
+221369032,221504101,0,False,residential,County Road 7A,218.046,,,,,,,,,,,20633936,
+221369035,221369032,0,False,residential,,30.953,,,,,,,,,,,20621425,
+221369469,221369500,0,False,primary,Whitehall Road,59.675,2,,,45 mph,,,,,,,233630193,US 4;NY 22
+221369469,221369500,1,False,residential,,137.304,,,,,,,,,,,20621480,
+221369469,221585715,0,False,primary,"['US Route 4', 'Whitehall Road']",3172.941,2,,,"['55 mph', '45 mph']",,,,,,,"[233630193, 44841055]",US 4;NY 22
+221369500,221369469,0,False,primary,Whitehall Road,59.675,2,,,45 mph,,,,,,,233630193,US 4;NY 22
+221369500,221369469,1,False,residential,,137.304,,,,,,,,,,,20621480,
+221369500,221369520,0,False,residential,,178.454,,,,,,,,,,,20621480,
+221369500,221353434,0,False,primary,Whitehall Road,35.364,2,,,45 mph,,,,,,,233630193,US 4;NY 22
+221369520,221369500,0,False,residential,,178.454,,,,,,,,,,,20621480,
+221379658,221379662,0,False,residential,,289.986,,,,,,,,,,,20622759,
+221379658,221552999,0,False,tertiary,Hickey Road,1294.987,,,,,designated,,,,,,20643235,
+221379658,221485585,0,False,tertiary,Hickey Road,505.742,,,,,designated,,,,,,20643235,
+221379662,221379658,0,False,residential,,289.986,,,,,,,,,,,20622759,
+221380888,221606727,0,False,tertiary,Gould Lane,1508.522,,,,,,,,,,,20642004,
+221381092,221381105,0,False,residential,,169.29,,,,,,,,,,,20622917,
+221381105,221381092,0,False,residential,,169.29,,,,,,,,,,,20622917,
+221385441,221561055,0,False,tertiary,Baker Road,202.019,,,,,,,,,,,20638387,
+221385441,221620576,0,False,tertiary,Winters Road,1904.1,,,,,,,,,,,20644051,
+221385441,221581642,0,False,tertiary,Winters Road,1786.872,,,,,,,,,,,20644051,
+221388191,221388193,0,False,residential,,195.588,,,,,,,,,,,20623739,
+221388191,221542846,0,False,residential,Perry Lane,57.879,,,,,,,,,,,20637115,
+221388191,221542816,0,False,residential,Perry Lane,321.291,,,,,,,,,,,20637115,
+221388193,221388191,0,False,residential,,195.588,,,,,,,,,,,20623739,
+221393249,221393259,0,False,residential,,129.852,,,,,,,,,,,20624405,
+221393249,221445355,0,False,residential,Buckley Road,1229.208,,,,,,,,,,,20628992,
+221393249,221397810,0,False,residential,Buckley Road,1460.93,,,,,,,,,,,20628992,
+221393259,221393249,0,False,residential,,129.852,,,,,,,,,,,20624405,
+221395987,221488270,0,False,residential,Adams Street,651.907,,,,,,,,,,,"[20624729, 20632682]",
+221397810,221397813,0,False,residential,,109.135,,,,,,,,,,,20624921,
+221397810,221393249,0,False,residential,Buckley Road,1460.93,,,,,,,,,,,20628992,
+221397810,221445193,0,False,residential,Buckley Road,187.255,,,,,,,,,,,20628992,
+221397813,221397810,0,False,residential,,109.135,,,,,,,,,,,20624921,
+221400118,221446987,0,False,residential,Saunders Street,496.951,,,,,,,,,,,20629132,
+221400118,221523464,0,False,residential,Neddo Street,221.201,,,,,,,,,,,20635604,
+221400118,221524465,0,False,residential,Neddo Street,344.957,,,,,,,,,,,20635604,
+221407555,221523346,0,False,primary,Broadway Avenue,93.502,2,,,30 mph,,,,,,,233630189,US 4;NY 22
+221407555,221465424,0,False,primary,Broadway Avenue,186.107,2,,,30 mph,,,,,,,233630189,US 4;NY 22
+221407555,221407563,0,False,residential,5th Avenue,116.467,,,,,,,,,,,20626003,
+221407563,221407566,0,False,residential,5th Avenue,96.76,,,,,,,,,,,20626003,
+221407563,221407555,0,False,residential,5th Avenue,116.467,,,,,,,,,,,20626003,
+221407563,221541818,0,False,residential,Vaughn Street,94.678,,,,,,,,,,,20637044,
+221407563,221541800,0,False,residential,Vaughn Street,40.575,,,,,,,,,,,20637044,
+221407566,221407569,0,False,residential,5th Avenue,50.88,,,,,,,,,,,20626003,
+221407566,221407563,0,False,residential,5th Avenue,96.76,,,,,,,,,,,20626003,
+221407566,221456148,0,False,residential,Blinn Street,93.941,,,,,,,,,,,20629831,
+221407566,221438236,0,False,residential,Blinn Street,47.722,,,,,,,,,,,20629831,
+221407569,221407566,0,False,residential,5th Avenue,50.88,,,,,,,,,,,20626003,
+221407712,221407714,0,False,residential,3rd Avenue,116.664,,,,,,,,,,,20626010,
+221407712,221495286,0,False,primary,Broadway Avenue,121.896,2,,,30 mph,,,,,,,233630189,US 4;NY 22
+221407712,221523346,0,False,primary,Broadway Avenue,82.476,2,,,30 mph,,,,,,,233630189,US 4;NY 22
+221407714,221407712,0,False,residential,3rd Avenue,116.664,,,,,,,,,,,20626010,
+221407714,221495294,0,False,residential,Vaughn Street,89.256,,,,,,,,,,,20637044,
+221407714,221541818,0,False,residential,Vaughn Street,89.502,,,,,,,,,,,20637044,
+221407714,221407720,0,False,residential,3rd Avenue,97.595,,,,,,,,,,,20626010,
+221407720,221456156,0,False,residential,Blinn Street,64.472,,,,,,,,,,,20629831,
+221407720,221407714,0,False,residential,3rd Avenue,97.595,,,,,,,,,,,20626010,
+221407720,221456148,0,False,residential,Blinn Street,96.926,,,,,,,,,,,20629831,
+221407835,221559251,0,False,primary,US Route 4,697.658,2,,,55 mph,,,,,,,44841055,US 4;NY 22
+221408629,221408929,0,False,tertiary,Tannerhill Road,2214.032,,,,,,,,,,,20626111,
+221408629,221612263,0,False,tertiary,Holcombville Road,2781.066,,,,,,,,,,,20642376,
+221408929,221408629,0,False,tertiary,Tannerhill Road,2214.032,,,,,,,,,,,20626111,
+221408929,221460428,0,False,tertiary,Truthville Road,666.868,,,,,,,,,,,20630206,
+221408929,221474631,0,False,tertiary,Welch Hill Road,1098.644,,,,,,,,,,,20631426,
+221409055,221594329,0,False,residential,"['Railroad Avenue', 'Northeast Street']",422.916,,,,,,,,,,,"[20626120, 20640925]",
+221410217,221636600,0,False,residential,Brookdale Avenue,11.986,,,,,,,,,,,20644489,
+221410217,221410225,0,False,residential,Pike Street,77.858,,,,,,,,,,,20626222,
+221410217,221636592,0,False,residential,Brookdale Avenue,44.771,,,,,,,,,,,20644489,
+221410225,221447037,0,False,residential,Saunders Street,31.881,,,,,,,,,,,20629132,
+221410225,221410217,0,False,residential,Pike Street,77.858,,,,,,,,,,,20626222,
+221410225,221447021,0,False,residential,Saunders Street,93.798,,,,,,,,,,,20629132,
+221410799,221410818,0,False,residential,Carlton Woods Way,143.495,,,,,,,,,,,20626279,
+221410799,221479984,0,False,tertiary,Carlton Road,835.827,,,,,,,,,,,20638111,
+221410799,221544515,0,False,tertiary,Carlton Road,494.308,,,,,,,,,,,20638111,
+221410818,221410799,0,False,residential,Carlton Woods Way,143.495,,,,,,,,,,,20626279,
+221410885,221365962,0,False,primary,Poultney Street,20.004,2,,,30 mph,,,,,,,83854420,US 4
+221410885,221458435,0,False,primary,Broadway Avenue,36.208,2,,,30 mph,,,,,,,233630189,US 4;NY 22
+221410885,1179513317,0,False,secondary,Broadway,62.364,,,,30 mph,,,,,,,31957602,NY 22
+221410897,221618395,0,False,residential,Riverside Drive,685.837,,,,,,,,,,,20642931,
+221410897,221447054,0,False,residential,"['Main Street', 'Skenesborough Drive']",698.925,,,,,,,,,,,"[20645924, 20634543]",
+221410897,221367387,0,False,primary,Poultney Street,281.348,2,,,30 mph,,,yes,,,,"[83854440, 83854436, 83854431]",US 4
+221410897,1179513291,0,False,primary,Poultney Street,132.202,2,,,30 mph,,,yes,,,,"[83854427, 358449740, 83854431]",US 4
+221410942,221367478,0,False,residential,William Street,37.679,,,,,,,,,,,20629085,
+221410942,221367484,0,False,primary,Poultney Street,32.414,2,,,30 mph,,,,,,,358449731,US 4
+221410942,221446557,0,False,residential,William Street,295.69,,,,,,,,,,,20629085,
+221410942,221410948,0,False,primary,Poultney Street,76.485,2,,,30 mph,,,,,,,358449731,US 4
+221410948,221410951,0,False,primary,Poultney Street,86.623,2,,,30 mph,,,,,,,358449731,US 4
+221410948,221485891,0,False,residential,Skene Street,207.537,,,,,,,,,,,20632511,
+221410948,221410942,0,False,primary,Poultney Street,76.485,2,,,30 mph,,,,,,,358449731,US 4
+221410951,221410956,0,False,primary,Poultney Street,84.051,2,,,30 mph,,,,,,,358449731,US 4
+221410951,221410948,0,False,primary,Poultney Street,86.623,2,,,30 mph,,,,,,,358449731,US 4
+221410951,221536414,0,False,residential,Potter Street,255.083,,,,,,,,,,,20636621,
+221410956,221410963,0,False,primary,Poultney Street,94.789,2,,,30 mph,,,,,,,358449731,US 4
+221410956,221410951,0,False,primary,Poultney Street,84.051,2,,,30 mph,,,,,,,358449731,US 4
+221410956,221498259,0,False,residential,Mountain Street,300.177,,,,,,,,,,,20633512,
+221410956,4417698349,0,False,residential,Davis Street,236.67,,,,,,,,,,,20644671,
+221410963,221410956,0,False,primary,Poultney Street,94.789,2,,,30 mph,,,,,,,358449731,US 4
+221410963,221451554,0,False,residential,Pauline Street,221.266,,,,,,,,,,,20629469,
+221410963,221410991,0,False,primary,Poultney Street,93.615,2,,,30 mph,,,,,,,358449731,US 4
+221410991,221421725,0,False,residential,Park Avenue,85.775,,,,,,,,,,,20627108,
+221410991,221411000,0,False,primary,Poultney Street,17.747,2,,,30 mph,,,,,,,358449731,US 4
+221410991,221410963,0,False,primary,Poultney Street,93.615,2,,,30 mph,,,,,,,358449731,US 4
+221411000,221410991,0,False,primary,Poultney Street,17.747,2,,,30 mph,,,,,,,358449731,US 4
+221411000,221421747,0,False,residential,Park Avenue,82.709,,,,,,,,,,,20627110,
+221411000,221411030,0,False,primary,Poultney Street,205.37,2,,,30 mph,,,,,,,358449731,US 4
+221411030,221582247,0,False,residential,Water Tower Road,647.626,,,,,,,,,,,20640014,
+221411030,221422201,0,False,primary,Poultney Street,282.436,2,,,"['30 mph', '45 mph']",,,,,,,"[123525882, 358449746, 358449731]",US 4
+221411030,221411000,0,False,primary,Poultney Street,205.37,2,,,30 mph,,,,,,,358449731,US 4
+221412428,221438236,0,False,residential,Blinn Street,137.328,,,,,,,,,,,20629831,
+221412428,221412449,0,False,residential,Spring Street,91.517,,,,,,,,,,,20626452,
+221412428,221465428,0,False,residential,7th Avenue,95.75,,,,,,,,,,,20630643,
+221412449,221412428,0,False,residential,Spring Street,91.517,,,,,,,,,,,20626452,
+221412843,221412859,0,False,tertiary,Whitehall-Grays Corner Road,645.865,,,,,,,,,,,20626495,CR 12
+221412843,221481254,0,False,secondary,Whitehall-Truthville Road,1756.506,,,,,,,,,,,20632034,CR 12
+221412843,221418846,0,False,residential,Upper Turnpike,223.408,,,,,,,,,,,247971204,
+221412859,221412897,0,False,tertiary,Whitehall-Grays Corner Road,641.287,,,,,,,,,,,20626495,CR 12
+221412859,221412843,0,False,tertiary,Whitehall-Grays Corner Road,645.865,,,,,,,,,,,20626495,CR 12
+221412859,221515770,0,False,residential,Rozell Way,570.998,,,,,,,,,,,20634826,
+221412897,221446541,0,False,"['residential', 'tertiary']","['Whitehall-Grays Corner Road', 'William Street', 'South Williams Street']",643.772,,,,,,,,,,,"[20629348, 20629085, 20626495]","['CR 23', 'CR 12']"
+221412897,221412859,0,False,tertiary,Whitehall-Grays Corner Road,641.287,,,,,,,,,,,20626495,CR 12
+221412897,221520918,0,False,residential,Greenmount Cemetery Lane,656.195,,,,,,,,,,,20635291,
+221418523,221519614,0,False,residential,Pratt Way,27.226,,,,,,,,,,,20635165,
+221418523,221418610,0,False,residential,Upper Turnpike,1410.725,,,,,,,,,,,20626895,
+221418523,221363942,0,False,residential,Upper Turnpike,549.74,,,,,,,,,,,20626895,
+221418610,221418745,0,False,residential,Upper Turnpike,1061.091,,,,,,,,,,,20626895,
+221418610,221418523,0,False,residential,Upper Turnpike,1410.725,,,,,,,,,,,20626895,
+221418610,221363942,0,False,residential,Hyatt Lane,2183.063,,,,,,,,,,,"[20620772, 20628255]",
+221418745,221418846,0,False,residential,Upper Turnpike,1426.018,,,,,,,yes,,,,"[247971203, 247971204, 20626895]",
+221418745,221418610,0,False,residential,Upper Turnpike,1061.091,,,,,,,,,,,20626895,
+221418745,221613589,0,False,residential,Morse Lane,1339.037,,,,,,,,,,,20642496,
+221418846,221454314,0,False,residential,Gray Lane,530.794,,,,,,,yes,,,,"[20629682, 247971185, 247971186]",
+221418846,221412843,0,False,residential,Upper Turnpike,223.408,,,,,,,,,,,247971204,
+221418846,221418745,0,False,residential,Upper Turnpike,1426.018,,,,,,,yes,,,,"[247971203, 247971204, 20626895]",
+221419863,221419889,0,False,residential,Hampton Heights Way,169.471,,,,,,,,,,,20626961,
+221419889,221419863,0,False,residential,Hampton Heights Way,169.471,,,,,,,,,,,20626961,
+221419898,221419903,0,False,residential,Mc Cotter Street,67.409,,,,,,,,,,,20626964,
+221419898,221446574,0,False,residential,William Street,145.695,,,,,,,,,,,358449855,
+221419898,221446589,0,False,residential,William Street,190.7,,,,,,,,,,,358449855,
+221419903,221419898,0,False,residential,Mc Cotter Street,67.409,,,,,,,,,,,20626964,
+221419903,221419910,0,False,residential,Mc Cotter Street,117.077,,,,,,,,,,,20626964,
+221419903,221485912,0,False,residential,Skene Street,213.751,,,,,,,,,,,20632511,
+221419903,221485891,0,False,residential,Skene Street,144.26,,,,,,,,,,,20632511,
+221419910,221498259,0,False,residential,Mountain Street,143.354,,,,,,,,,,,20633512,
+221419910,221419903,0,False,residential,Mc Cotter Street,117.077,,,,,,,,,,,20626964,
+221419910,221498272,0,False,residential,Mountain Street,134.166,,,,,,,,,,,20633512,
+221421725,221410991,0,False,residential,Park Avenue,85.775,,,,,,,,,,,20627108,
+221421725,221421747,0,False,residential,Park Avenue,18.617,,,,,,,,,,,20627117,
+221421725,221421736,0,False,residential,Park Avenue,121.865,,,,,,,,,,,20627108,
+221421736,221421797,0,False,residential,Elizabeth Street,46.237,,,,,,,,,,,444281878,
+221421736,221451554,0,False,residential,Elizabeth Street,104.229,,,,,,,,,,,444281878,
+221421736,221421725,0,False,residential,Park Avenue,121.865,,,,,,,,,,,20627108,
+221421747,221421725,0,False,residential,Park Avenue,18.617,,,,,,,,,,,20627117,
+221421747,221411000,0,False,residential,Park Avenue,82.709,,,,,,,,,,,20627110,
+221421747,221421805,0,False,residential,East Street,23.9,,,,,,,,,,,20639324,
+221421797,221467390,0,False,residential,Elizabeth Street,57.593,,,,,,,,,,,444281878,
+221421797,221421736,0,False,residential,Elizabeth Street,46.237,,,,,,,,,,,444281878,
+221421797,221421805,0,False,residential,Park Avenue,102.674,,,,,,,,,,,20627116,
+221421805,221573692,0,False,residential,East Street,111.677,,,,,,,,,,,20639324,
+221421805,221421797,0,False,residential,Park Avenue,102.674,,,,,,,,,,,20627116,
+221421805,221421747,0,False,residential,East Street,23.9,,,,,,,,,,,20639324,
+221422201,221422321,0,False,tertiary,Norton Road,1468.418,,,,,,,,,,,20627164,CR 9A
+221422201,221445193,0,False,primary,,288.512,2,,,45 mph,,,,,,,123525882,US 4
+221422201,221411030,0,False,primary,Poultney Street,282.436,2,,,"['30 mph', '45 mph']",,,,,,,"[123525882, 358449731, 358449746]",US 4
+221422321,221422201,0,False,tertiary,Norton Road,1468.418,,,,,,,,,,,20627164,CR 9A
+221422321,221434104,0,False,tertiary,Old Whitehall Rd,789.428,,,,,,,,,,,20634888,CR 9
+221422321,221484716,0,False,tertiary,"['North William Street', 'Old Whitehall Rd']",433.61,,,,,,,,,,,"[20634888, 20643278]",CR 9
+221422623,221422671,0,False,tertiary,Beckwith Road,879.604,,,,,,,,,,,20627194,CR 9B
+221422623,221485202,0,False,residential,Beckwith Road,1582.994,,,,,,,,,,,20643954,
+221422623,221516746,0,False,primary,,2409.082,2,,,55 mph,,,,,,,358449826,US 4
+221422623,221485273,0,False,primary,,2434.969,2,,,"['45 mph', '55 mph']",,,,,,,"[123525882, 358449826]",US 4
+221422671,221422623,0,False,tertiary,Beckwith Road,879.604,,,,,,,,,,,20627194,CR 9B
+221422671,221502713,0,False,tertiary,County Route 9,2238.69,,,,,,,,,,,20634906,CR 9
+221422671,221516514,0,False,tertiary,County Route 9,287.792,,,,,,,,,,,20634906,CR 9
+221426218,221426389,0,False,residential,Wade Road,1568.089,,,,,,,,,,,20627473,
+221426389,221426218,0,False,residential,Wade Road,1568.089,,,,,,,,,,,20627473,
+221426389,221479312,0,False,secondary,Sciota Road,327.994,,,,,,,,,,,20631867,CR 10
+221426471,221426614,0,False,residential,Forest Hill Way,621.391,,,,,,,,,,,20627484,
+221426471,221612263,0,False,secondary,CR21,854.966,,,,,,,,,,,20643186,
+221426471,221439308,0,False,secondary,"['County Road 21', 'CR21']",806.27,2,,,,,,,,,,"[247971184, 20643186]",CR 21
+221426614,221426471,0,False,residential,Forest Hill Way,621.391,,,,,,,,,,,20627484,
+221427129,221340241,0,False,secondary,CR18A,293.338,,,,,,,,,,,20627530,
+221427129,221501058,0,False,tertiary,Greenfield Lane,351.239,,,,,,,,,,,20633752,
+221427129,221615041,0,False,tertiary,Campbell Lane,484.898,,,,,,,,,,,20642605,
+221434104,221434182,0,False,residential,Stalker Road,961.32,,,,,,,,,,,20627985,
+221434104,221445355,0,False,tertiary,Old Whitehall Rd,1674.196,,,,,,,,,,,20634888,CR 9
+221434104,221422321,0,False,tertiary,Old Whitehall Rd,789.428,,,,,,,,,,,20634888,CR 9
+221434182,221434104,0,False,residential,Stalker Road,961.32,,,,,,,,,,,20627985,
+221434182,221479612,0,False,tertiary,East Bay Road,1664.623,,,,,,,,,,,232671050,CR 10
+221434182,221479464,0,False,tertiary,East Bay Road,999.167,,,,,,,,,,,232671050,CR 10
+221437525,221437608,0,False,tertiary,South Road,689.718,,,,,,,,,,,20628314,
+221437525,221439308,0,False,secondary,County Road 21,1622.994,2,,,,,,,,,,247971184,CR 21
+221437608,221437713,0,False,tertiary,South Road,1332.582,,,,,,,,,,,20628314,
+221437608,221437525,0,False,tertiary,South Road,689.718,,,,,,,,,,,20628314,
+221437608,221485588,0,False,tertiary,Hills Pond Road,3961.649,,,,,,,,,,,20639772,
+221437713,221437875,0,False,tertiary,South Road,2217.167,,,,,,,,,,,20628314,
+221437713,221437608,0,False,tertiary,South Road,1332.582,,,,,,,,,,,20628314,
+221437713,221504578,0,False,tertiary,North Quivey Hill Lane,1498.984,,,,,,,,,,,20634364,
+221437875,221437713,0,False,tertiary,South Road,2217.167,,,,,,,,,,,20628314,
+221437875,221485813,0,False,tertiary,Pratt Road,234.552,,,,,,,,,,,20637792,
+221437875,221485813,1,False,secondary,"Brick Church Road (former 273, now CR18)",226.406,,,,,,,,,,,232675163,CR 18
+221437875,221485588,0,False,secondary,"Brick Church Road (former 273, now CR18)",2669.692,,,,,,,,,,,232675163,CR 18
+221438236,221407566,0,False,residential,Blinn Street,47.722,,,,,,,,,,,20629831,
+221438236,221412428,0,False,residential,Blinn Street,137.328,,,,,,,,,,,20629831,
+221438236,221438255,0,False,residential,6th Avenue,70.417,,,,,,,,,,,20628350,
+221438255,221438236,0,False,residential,6th Avenue,70.417,,,,,,,,,,,20628350,
+221439308,221634746,0,False,residential,Ridgecrest Way,390.208,,,,,,,,,,,20644337,
+221439308,221426471,0,False,secondary,"['County Road 21', 'CR21']",806.27,2,,,,,,,,,,"[247971184, 20643186]",CR 21
+221439308,221437525,0,False,secondary,County Road 21,1622.994,2,,,,,,,,,,247971184,CR 21
+221445193,221397810,0,False,residential,Buckley Road,187.255,,,,,,,,,,,20628992,
+221445193,221485273,0,False,primary,,394.567,2,,,45 mph,,,,,,,123525882,US 4
+221445193,221422201,0,False,primary,,288.512,2,,,45 mph,,,,,,,123525882,US 4
+221445355,221393249,0,False,residential,Buckley Road,1229.208,,,,,,,,,,,20628992,
+221445355,221516496,0,False,tertiary,Old Whitehall Rd,469.048,,,,,,,,,,,20634888,CR 9
+221445355,221434104,0,False,tertiary,Old Whitehall Rd,1674.196,,,,,,,,,,,20634888,CR 9
+221446541,221446545,0,False,residential,William Street,111.441,,,,,,,,,,,20629085,
+221446541,221412897,0,False,"['residential', 'tertiary']","['Whitehall-Grays Corner Road', 'William Street', 'South Williams Street']",643.772,,,,,,,,,,,"[20629348, 20629085, 20626495]","['CR 23', 'CR 12']"
+221446541,221584326,0,False,residential,Montcalm Avenue,205.866,,,,,,,,,,,20640221,
+221446545,221446547,0,False,residential,William Street,8.571,,,,,,,,,,,20629085,
+221446545,221446541,0,False,residential,William Street,111.441,,,,,,,,,,,20629085,
+221446545,221535645,0,True,residential,Champlain Avenue,92.425,,,,,,,,,,,20638022,
+221446547,221446545,0,False,residential,William Street,8.571,,,,,,,,,,,20629085,
+221446547,221446557,0,False,residential,William Street,104.297,,,,,,,,,,,20629085,
+221446557,221410942,0,False,residential,William Street,295.69,,,,,,,,,,,20629085,
+221446557,221446547,0,False,residential,William Street,104.297,,,,,,,,,,,20629085,
+221446557,4417698349,0,False,residential,Elizabeth Street,126.861,,,,,,,,,,,444281878,
+221446574,221419898,0,False,residential,William Street,145.695,,,,,,,,,,,358449855,
+221446574,221367478,0,False,residential,William Street,128.399,,,,,,,,,,,358449855,
+221446574,221485891,0,False,residential,Wheeler Street,66.575,,,,,,,,,,,20642977,
+221446589,221485912,0,False,residential,Wilson Avenue,49.652,,,,,,,,,,,20633514,
+221446589,221446603,0,False,residential,William Street,108.061,,,,,,,,,,,358449855,
+221446589,221419898,0,False,residential,William Street,190.7,,,,,,,,,,,358449855,
+221446603,221597354,0,False,tertiary,North William Street,46.363,,,,,,,,,,,20643278,CR 9
+221446603,221447054,0,False,tertiary,Saunders Street,126.017,,,,,,,yes,,,,"[174392569, 47379690, 174549527]",
+221446603,221446589,0,False,residential,William Street,108.061,,,,,,,,,,,358449855,
+221446987,221446993,0,False,residential,Saunders Street,52.184,,,,,,,,,,,20629132,
+221446987,221400118,0,False,residential,Saunders Street,496.951,,,,,,,,,,,20629132,
+221446987,221526441,0,False,residential,Fern Street,139.232,,,,,,,,,,,20635766,
+221446993,221446997,0,False,residential,Saunders Street,101.876,,,,,,,,,,,20629132,
+221446993,221446987,0,False,residential,Saunders Street,52.184,,,,,,,,,,,20629132,
+221446993,221523430,0,False,residential,Bellamy Street,270.025,,,,,,,,,,,20636824,
+221446997,221447021,0,False,residential,Saunders Street,182.373,,,,,,,,,,,20629132,
+221446997,221446993,0,False,residential,Saunders Street,101.876,,,,,,,,,,,20629132,
+221446997,221490771,0,False,residential,West Saunders Street,57.284,,,,,,,,,,,20632938,
+221447021,221410225,0,False,residential,Saunders Street,93.798,,,,,,,,,,,20629132,
+221447021,221446997,0,False,residential,Saunders Street,182.373,,,,,,,,,,,20629132,
+221447021,221565038,0,False,residential,East Rock Avenue,150.777,,,,,,,,,,,20638681,
+221447037,221447040,0,False,residential,Saunders Street,74.43,,,,,,,,,,,20629132,
+221447037,221410225,0,False,residential,Saunders Street,31.881,,,,,,,,,,,20629132,
+221447037,221488195,0,False,residential,"['Blount Street', 'Lamb Street']",152.858,,,,,,,,,,,"[20632672, 20640061]",
+221447040,221447044,0,False,residential,Saunders Street,87.851,,,,,,,,,,,20629132,
+221447040,221447037,0,False,residential,Saunders Street,74.43,,,,,,,,,,,20629132,
+221447040,221488195,0,False,residential,West Street,83.231,,,,,,,,,,,20642918,
+221447040,221618200,0,False,residential,West Street,98.984,,,,,,,,,,,20642918,
+221447044,221447040,0,False,residential,Saunders Street,87.851,,,,,,,,,,,20629132,
+221447044,221523398,0,False,secondary,Broadway,58.327,,,,30 mph,,,,,,,358449655,NY 22
+221447044,221447054,0,False,tertiary,Saunders Street,92.013,,,,,,,,,,,233660637,
+221447044,221468243,0,False,secondary,Broadway,210.782,,,,30 mph,,,,,,,358449655,NY 22
+221447054,221410897,0,False,residential,"['Main Street', 'Skenesborough Drive']",698.925,,,,,,,,,,,"[20645924, 20634543]",
+221447054,221511615,0,False,residential,Main Street,73.083,,,,,,,,,,,174392568,
+221447054,221446603,0,False,tertiary,Saunders Street,126.017,,,,,,,yes,,,,"[174392569, 47379690, 174549527]",
+221447054,221447044,0,False,tertiary,Saunders Street,92.013,,,,,,,,,,,233660637,
+221450042,221450051,0,False,tertiary,Sirjane Lane,192.317,,,,,,,,,,,20629356,
+221450042,221459122,0,False,tertiary,Manchester Road,1450.09,,,,,,,,,,,20630098,
+221450042,221458985,0,False,tertiary,Manchester Road,599.646,,,,,,,,,,,20630098,
+221450051,221450042,0,False,tertiary,Sirjane Lane,192.317,,,,,,,,,,,20629356,
+221451554,221421736,0,False,residential,Elizabeth Street,104.229,,,,,,,,,,,444281878,
+221451554,4417698349,0,False,residential,Elizabeth Street,95.054,,,,,,,,,,,444281878,
+221451554,221410963,0,False,residential,Pauline Street,221.266,,,,,,,,,,,20629469,
+221454314,221418846,0,False,residential,Gray Lane,530.794,,,,,,,yes,,,,"[247971185, 20629682, 247971186]",
+221454863,221454899,0,False,tertiary,Golf Course Road,1217.628,,,,,,,,,,,20629724,CR 11A
+221454863,221362193,0,False,primary,,527.6,2,,,55 mph,,,,,,,358449826,US 4
+221454899,221454863,0,False,tertiary,Golf Course Road,1217.628,,,,,,,,,,,20629724,CR 11A
+221454899,221479984,0,False,secondary,Peck Woods Road,1323.537,,,,,,,,,,,20631929,CR 11
+221454899,221458985,0,False,secondary,Peck Woods Road,233.979,,,,,,,,,,,20631929,CR 11
+221456148,221407566,0,False,residential,Blinn Street,93.941,,,,,,,,,,,20629831,
+221456148,221541818,0,False,residential,4th Avenue,96.835,,,,,,,,,,,20639192,
+221456148,221407720,0,False,residential,Blinn Street,96.926,,,,,,,,,,,20629831,
+221456156,221407720,0,False,residential,Blinn Street,64.472,,,,,,,,,,,20629831,
+221456156,221495298,0,False,residential,2nd Avenue,159.097,,,,,,,,,,,20633319,
+221456156,221495294,0,False,residential,2nd Avenue,100.712,,,,,,,,,,,20633319,
+221456921,221484716,0,False,tertiary,Doig Street,877.046,,,,,,,,,,,20629901,CR 10
+221456921,221479464,0,False,tertiary,County Road 10,57.717,,,,,,,,,,,20631882,CR 10
+221456921,221456935,0,False,unclassified,Doig Street,49.89,,,,,,,,,,,174392570,
+221456935,221479464,0,False,unclassified,East Bay Road,47.998,,,,,,,,,,,20631942,
+221456935,221456921,0,False,unclassified,Doig Street,49.89,,,,,,,,,,,174392570,
+221458435,221410885,0,False,primary,Broadway Avenue,36.208,2,,,30 mph,,,,,,,233630189,US 4;NY 22
+221458435,221458445,0,False,residential,Maple Street,217.686,,,,,,,,,,,20630039,
+221458435,221523357,0,False,primary,Broadway Avenue,130.473,2,,,30 mph,,,,,,,233630189,US 4;NY 22
+221458445,221488218,0,False,residential,Smith Street,127.75,,,,,,,,,,,430426673,
+221458445,221458458,0,False,residential,Maple Street,251.668,,,,,,,,,,,20630039,
+221458445,221458435,0,False,residential,Maple Street,217.686,,,,,,,,,,,20630039,
+221458445,221523357,0,False,residential,"['Kirtland Street', 'Smith Street']",308.645,,,,,,,,,,,"[430426673, 20637481]",
+221458458,221458445,0,False,residential,Maple Street,251.668,,,,,,,,,,,20630039,
+221458985,221450042,0,False,tertiary,Manchester Road,599.646,,,,,,,,,,,20630098,
+221458985,221454899,0,False,secondary,Peck Woods Road,233.979,,,,,,,,,,,20631929,CR 11
+221459122,221459243,0,False,tertiary,Manchester Road,796.595,,,,,,,,,,,20630098,
+221459122,221450042,0,False,tertiary,Manchester Road,1450.09,,,,,,,,,,,20630098,
+221459122,221479984,0,False,tertiary,Vladyka Woods Road,2128.385,,,,,,,,,,,20638993,
+221459243,221459122,0,False,tertiary,Manchester Road,796.595,,,,,,,,,,,20630098,
+221459243,221540494,0,False,tertiary,Carver Falls Road,2906.717,,,,,,,,,,,20636968,
+221459243,221540858,0,False,tertiary,Carver Falls Lane,922.665,,,,,,,,,,,20636973,
+221460428,221408929,0,False,tertiary,Truthville Road,666.868,,,,,,,,,,,20630206,
+221460428,221619077,0,False,residential,Glasser Way,607.647,,,,,,,,,,,20643014,
+221465424,221465428,0,False,residential,7th Avenue,116.95,,,,,,,,,,,20630643,
+221465424,221407555,0,False,primary,Broadway Avenue,186.107,2,,,30 mph,,,,,,,233630189,US 4;NY 22
+221465424,221353434,0,False,primary,"['Broadway Avenue', 'Whitehall Road']",207.241,2,,,45 mph,,,,,,,"[233630193, 20635503]",US 4;NY 22
+221465428,221465424,0,False,residential,7th Avenue,116.95,,,,,,,,,,,20630643,
+221465428,221412428,0,False,residential,7th Avenue,95.75,,,,,,,,,,,20630643,
+221465428,221541792,0,False,residential,Vaughn Street,92.823,,,,,,,,,,,20637038,
+221467390,221421797,0,False,residential,Elizabeth Street,57.593,,,,,,,,,,,444281878,
+221468233,221618200,0,False,residential,West Street,103.466,,,,,,,,,,,20642918,
+221468233,221600908,0,False,residential,West Street,40.589,,,,,,,,,,,20642918,
+221468233,221468243,0,False,residential,Chapin Alley,95.561,,,,,,,,,,,20630869,
+221468243,221468233,0,False,residential,Chapin Alley,95.561,,,,,,,,,,,20630869,
+221468243,221447044,0,False,secondary,Broadway,210.782,,,,30 mph,,,,,,,358449655,NY 22
+221468243,221523383,0,False,secondary,Broadway,119.062,,,,30 mph,,,,,,,358449655,NY 22
+221474631,221408929,0,False,tertiary,Welch Hill Road,1098.644,,,,,,,,,,,20631426,
+221474631,221581642,0,False,tertiary,Hatch Hill Road,681.885,,,,,,,,,,,20639988,
+221475696,221475834,0,False,tertiary,Wescott Road,1707.545,,,,,,,,,,,20631520,
+221475696,221557509,0,False,tertiary,Carlton Road,581.008,,,,,,,,,,,20638111,
+221475696,221557429,0,False,tertiary,Carlton Road,1095.783,,,,,,,,,,,20638111,
+221475834,221475696,0,False,tertiary,Wescott Road,1707.545,,,,,,,,,,,20631520,
+221475834,221479687,0,False,secondary,Peck Woods Road,690.561,,,,,,,,,,,20631940,CR 11
+221475834,221480093,0,False,secondary,Peck Woods Road,1622.204,,,,,,,,,,,20631940,CR 11
+221479312,221426389,0,False,secondary,Sciota Road,327.994,,,,,,,,,,,20631867,CR 10
+221479312,221571006,0,False,secondary,Sciota Road,1788.251,,,,,,,,,,,20631867,CR 10
+221479312,221606727,0,False,tertiary,Abair Road,1790.986,,,,,,,,,,,20641948,
+221479464,221456921,0,False,tertiary,County Road 10,57.717,,,,,,,,,,,20631882,CR 10
+221479464,221456935,0,False,unclassified,East Bay Road,47.998,,,,,,,,,,,20631942,
+221479464,221434182,0,False,tertiary,East Bay Road,999.167,,,,,,,,,,,232671050,CR 10
+221479612,221609914,0,False,residential,Dodge Lane,2893.231,,,,,,,,,,,20642191,
+221479612,221479687,0,False,tertiary,East Bay Road,1430.495,,,,,,,,,,,232671050,CR 10
+221479612,221434182,0,False,tertiary,East Bay Road,1664.623,,,,,,,,,,,232671050,CR 10
+221479687,221571006,0,False,secondary,Sciota Road,1011.541,,,,,,,,,,,20631867,CR 10
+221479687,221475834,0,False,secondary,Peck Woods Road,690.561,,,,,,,,,,,20631940,CR 11
+221479687,221479612,0,False,tertiary,East Bay Road,1430.495,,,,,,,,,,,232671050,CR 10
+221479984,221480093,0,False,secondary,Peck Woods Road,1845.43,,,,,,,,,,,20631929,CR 11
+221479984,221454899,0,False,secondary,Peck Woods Road,1323.537,,,,,,,,,,,20631929,CR 11
+221479984,221410799,0,False,tertiary,Carlton Road,835.827,,,,,,,,,,,20638111,
+221479984,221459122,0,False,tertiary,Vladyka Woods Road,2128.385,,,,,,,,,,,20638993,
+221480093,221479984,0,False,secondary,Peck Woods Road,1845.43,,,,,,,,,,,20631929,CR 11
+221480093,221475834,0,False,secondary,Peck Woods Road,1622.204,,,,,,,,,,,20631940,CR 11
+221480093,221540494,0,False,tertiary,Abair Road,217.633,,,,,,,,,,,20641948,
+221481209,221481254,0,False,secondary,Whitehall-Truthville Road,718.542,,,,,,,,,,,20632034,CR 12
+221481209,221581642,0,False,tertiary,Hatch Hill Road,2399.166,,,,,,,,,,,20639988,
+221481254,221412843,0,False,secondary,Whitehall-Truthville Road,1756.506,,,,,,,,,,,20632034,CR 12
+221481254,221481209,0,False,secondary,Whitehall-Truthville Road,718.542,,,,,,,,,,,20632034,CR 12
+221481254,221485130,0,False,tertiary,Beckett Road,2635.302,,,,,,,,,,,20642515,
+221484716,221456921,0,False,tertiary,Doig Street,877.046,,,,,,,,,,,20629901,CR 10
+221484716,221422321,0,False,tertiary,"['North William Street', 'Old Whitehall Rd']",433.61,,,,,,,,,,,"[20634888, 20643278]",CR 9
+221484716,221491003,0,False,tertiary,North William Street,181.022,,,,,,,,,,,20643278,CR 9
+221485009,221485031,0,False,tertiary,former US-4,95.397,,,,,,,,,,,20632441,CR 18
+221485009,221485287,0,False,secondary,CR-21,64.482,,,,,,,,,,,232675162,CR 21
+221485009,221542816,0,False,secondary,Old Fair Haven Road CR-21 (former US-4),1173.428,,,,,,,,,,,379505941,CR 21
+221485031,221485287,0,False,secondary,"Brick Church Road (former 273, now CR18)",76.428,,,,,,,,,,,232675163,CR 18
+221485031,221485009,0,False,tertiary,former US-4,95.397,,,,,,,,,,,20632441,CR 18
+221485031,221485130,0,False,secondary,"Brick Church Road (former US-4 , 273, now CR18)",1412.716,,,,,,,,,,,379505940,CR 18
+221485130,221481254,0,False,tertiary,Beckett Road,2635.302,,,,,,,,,,,20642515,
+221485130,221485202,0,False,secondary,"Brick Church Road (former US-4 , 273, now CR18)",1181.475,,,,,,,,,,,379505940,CR 18
+221485130,221485031,0,False,secondary,"Brick Church Road (former US-4 , 273, now CR18)",1412.716,,,,,,,,,,,379505940,CR 18
+221485202,221422623,0,False,residential,Beckwith Road,1582.994,,,,,,,,,,,20643954,
+221485202,221485273,0,False,secondary,"Brick Church Road (former US-4 , 273, now CR18)",1934.617,,,,,,,,,,,379505940,CR 18
+221485202,221485130,0,False,secondary,"Brick Church Road (former US-4 , 273, now CR18)",1181.475,,,,,,,,,,,379505940,CR 18
+221485273,221422623,0,False,primary,,2434.969,2,,,"['55 mph', '45 mph']",,,,,,,"[358449826, 123525882]",US 4
+221485273,221445193,0,False,primary,,394.567,2,,,45 mph,,,,,,,123525882,US 4
+221485273,221485202,0,False,secondary,"Brick Church Road (former US-4 , 273, now CR18)",1934.617,,,,,,,,,,,379505940,CR 18
+221485287,221485031,0,False,secondary,"Brick Church Road (former 273, now CR18)",76.428,,,,,,,,,,,232675163,CR 18
+221485287,221620576,0,False,secondary,CR21,507.008,,,,,,,,,,,20643186,
+221485287,221485009,0,False,secondary,CR-21,64.482,,,,,,,,,,,232675162,CR 21
+221485287,221485569,0,False,secondary,"Brick Church Road (former 273, now CR18)",3360.304,,,,,,,,,,,232675163,CR 18
+221485569,221490969,0,False,residential,Queens Way,354.294,,,,,,,,,,,20632948,
+221485569,221485287,0,False,secondary,"Brick Church Road (former 273, now CR18)",3360.304,,,,,,,,,,,232675163,CR 18
+221485569,221485585,0,False,secondary,"Brick Church Road (former 273, now CR18)",169.466,,,,,,,,,,,232675163,CR 18
+221485585,221485588,0,False,secondary,"Brick Church Road (former 273, now CR18)",11.109,,,,,,,,,,,232675163,CR 18
+221485585,221379658,0,False,tertiary,Hickey Road,505.742,,,,,designated,,,,,,20643235,
+221485585,221485569,0,False,secondary,"Brick Church Road (former 273, now CR18)",169.466,,,,,,,,,,,232675163,CR 18
+221485588,221485585,0,False,secondary,"Brick Church Road (former 273, now CR18)",11.109,,,,,,,,,,,232675163,CR 18
+221485588,221437608,0,False,tertiary,Hills Pond Road,3961.649,,,,,,,,,,,20639772,
+221485588,221437875,0,False,secondary,"Brick Church Road (former 273, now CR18)",2669.692,,,,,,,,,,,232675163,CR 18
+221485813,221507514,0,False,residential,Dailey Way,249.398,,,,,,,,,,,20634241,
+221485813,221529858,0,False,tertiary,Staso Road,203.515,,,,,,,,,,,20636069,
+221485813,221437875,0,False,tertiary,Pratt Road,234.552,,,,,,,,,,,20637792,
+221485813,221437875,1,False,secondary,"Brick Church Road (former 273, now CR18)",226.406,,,,,,,,,,,232675163,CR 18
+221485813,221485838,0,False,secondary,"Brick Church Road (former 273, now CR18)",317.343,,,,,,,,,,,232675163,CR 18
+221485838,221529858,0,False,tertiary,Ballard Road,455.425,,,,,,,,,,,20641766,
+221485838,221485813,0,False,secondary,"Brick Church Road (former 273, now CR18)",317.343,,,,,,,,,,,232675163,CR 18
+221485838,221485855,0,False,secondary,"Brick Church Road (former 273, now CR18)",155.332,,,,,,,,,,,232675163,CR 18
+221485855,221595874,0,False,residential,Perry Heights Way,532.547,,,,,,,,,,,20641037,
+221485855,221485838,0,False,secondary,"Brick Church Road (former 273, now CR18)",155.332,,,,,,,,,,,232675163,CR 18
+221485855,221340239,0,False,secondary,"Brick Church Road (former 273, now CR18)",44.287,,,,,,,,,,,232675163,CR 18
+221485891,221536414,0,False,residential,Wheeler Street,100.11,,,,,,,,,,,20642977,
+221485891,221419903,0,False,residential,Skene Street,144.26,,,,,,,,,,,20632511,
+221485891,221410948,0,False,residential,Skene Street,207.537,,,,,,,,,,,20632511,
+221485891,221446574,0,False,residential,Wheeler Street,66.575,,,,,,,,,,,20642977,
+221485912,221498285,0,False,residential,Wilson Avenue,30.975,,,,,,,,,,,20633514,
+221485912,221419903,0,False,residential,Skene Street,213.751,,,,,,,,,,,20632511,
+221485912,221446589,0,False,residential,Wilson Avenue,49.652,,,,,,,,,,,20633514,
+221488195,221447040,0,False,residential,West Street,83.231,,,,,,,,,,,20642918,
+221488195,221447037,0,False,residential,"['Lamb Street', 'Blount Street']",152.858,,,,,,,,,,,"[20632672, 20640061]",
+221488195,221641327,0,False,residential,High Street,67.664,,,,,,,,,,,20644881,
+221488218,221494297,0,False,residential,Boardman Street,189.401,,,,,,,,,,,20633240,
+221488218,221458445,0,False,residential,Smith Street,127.75,,,,,,,,,,,430426673,
+221488218,221488226,0,False,residential,Smith Street,81.653,,,,,,,,,,,430426673,
+221488226,221533782,0,False,residential,Queen Street,133.723,,,,,,,,,,,20636421,
+221488226,221533779,0,False,residential,Queen Street,96.77,,,,,,,,,,,20636421,
+221488226,221488218,0,False,residential,Smith Street,81.653,,,,,,,,,,,430426673,
+221488270,221523357,0,False,primary,Broadway Avenue,92.833,2,,,30 mph,,,,,,,233630189,US 4;NY 22
+221488270,221523356,0,False,primary,Broadway Avenue,93.13,2,,,30 mph,,,,,,,233630189,US 4;NY 22
+221488270,221395987,0,False,residential,Adams Street,651.907,,,,,,,,,,,"[20624729, 20632682]",
+221490771,221490792,0,False,residential,West Saunders Street,74.752,,,,,,,,,,,20632934,
+221490771,221490835,0,False,residential,West Saunders Street,98.524,,,,,,,,,,,20632938,
+221490771,221446997,0,False,residential,West Saunders Street,57.284,,,,,,,,,,,20632938,
+221490792,221490771,0,False,residential,West Saunders Street,74.752,,,,,,,,,,,20632934,
+221490835,221490771,0,False,residential,West Saunders Street,98.524,,,,,,,,,,,20632938,
+221490969,221485569,0,False,residential,Queens Way,354.294,,,,,,,,,,,20632948,
+221491003,221491024,0,False,residential,Benjamin Street,102.189,,,,,,,,,,,20632953,
+221491003,221484716,0,False,tertiary,North William Street,181.022,,,,,,,,,,,20643278,CR 9
+221491003,221538386,0,False,tertiary,North William Street,715.021,,,,,,,,,,,20643278,CR 9
+221491024,221491003,0,False,residential,Benjamin Street,102.189,,,,,,,,,,,20632953,
+221494290,1179513317,0,False,secondary,Broadway,34.481,,,,30 mph,,,,,,,358449655,NY 22
+221494290,221494297,0,False,residential,Boardman Street,70.644,,,,,,,,,,,20633240,
+221494290,221656080,0,False,residential,East Boardman,61.834,,,,,,,,,,,20646112,
+221494290,221523371,0,False,secondary,Broadway,83.915,,,,30 mph,,,,,,,358449655,NY 22
+221494297,221488218,0,False,residential,Boardman Street,189.401,,,,,,,,,,,20633240,
+221494297,221533775,0,False,residential,West Street,82.139,,,,,,,,,,,20642912,
+221494297,221494290,0,False,residential,Boardman Street,70.644,,,,,,,,,,,20633240,
+221494360,221494362,0,False,residential,Natasha Street,57.686,,,,,,,,,,,20633254,
+221494362,221494360,0,False,residential,Natasha Street,57.686,,,,,,,,,,,20633254,
+221494362,221495345,0,False,residential,2nd Avenue,120.738,,,,,,,,,,,20633319,
+221494362,221495298,0,False,residential,2nd Avenue,78.065,,,,,,,,,,,20633319,
+221495286,221523356,0,False,primary,Broadway Avenue,83.02,2,,,30 mph,,,,,,,233630189,US 4;NY 22
+221495286,221495294,0,False,residential,2nd Avenue,122.424,,,,,,,,,,,20633319,
+221495286,221407712,0,False,primary,Broadway Avenue,121.896,2,,,30 mph,,,,,,,233630189,US 4;NY 22
+221495294,221456156,0,False,residential,2nd Avenue,100.712,,,,,,,,,,,20633319,
+221495294,221407714,0,False,residential,Vaughn Street,89.256,,,,,,,,,,,20637044,
+221495294,221495286,0,False,residential,2nd Avenue,122.424,,,,,,,,,,,20633319,
+221495294,221524942,0,False,residential,Vaughn Street,87.05,,,,,,,,,,,20637044,
+221495298,221456156,0,False,residential,2nd Avenue,159.097,,,,,,,,,,,20633319,
+221495298,221494362,0,False,residential,2nd Avenue,78.065,,,,,,,,,,,20633319,
+221495298,221591839,0,False,residential,Jalet Street,59.368,,,,,,,,,,,20640699,
+221495345,221494362,0,False,residential,2nd Avenue,120.738,,,,,,,,,,,20633319,
+221498259,221419910,0,False,residential,Mountain Street,143.354,,,,,,,,,,,20633512,
+221498259,221536414,0,False,residential,Wheeler Street,42.403,,,,,,,,,,,20642977,
+221498259,221410956,0,False,residential,Mountain Street,300.177,,,,,,,,,,,20633512,
+221498272,221419910,0,False,residential,Mountain Street,134.166,,,,,,,,,,,20633512,
+221498272,4417666953,0,False,residential,Mulholland Drive,211.488,,,,,,,,,,,20635209,
+221498272,221498285,0,False,residential,North Mountain Street,127.227,,,,,,,,,,,20641163,
+221498285,221485912,0,False,residential,Wilson Avenue,30.975,,,,,,,,,,,20633514,
+221498285,221584525,0,False,residential,North Mountain Street,36.161,,,,,,,,,,,20641163,
+221498285,221498272,0,False,residential,North Mountain Street,127.227,,,,,,,,,,,20641163,
+221501058,221427129,0,False,tertiary,Greenfield Lane,351.239,,,,,,,,,,,20633752,
+221502713,221502763,0,False,tertiary,Hollister Road,1249.073,,,,,,,,,,,20633892,
+221502713,221422671,0,False,tertiary,County Route 9,2238.69,,,,,,,,,,,20634906,CR 9
+221502713,221516746,0,False,tertiary,County Route 9,478.973,,,,,,,,,,,20634912,CR 9
+221502763,221502713,0,False,tertiary,Hollister Road,1249.073,,,,,,,,,,,20633892,
+221502763,221544515,0,False,tertiary,Chapman Road,368.149,,,,,,,,,,,379505945,
+221502763,221520907,0,False,tertiary,Chapman Road,1078.471,,,,,,,,,,,379505945,
+221504087,221369032,0,False,residential,County Road 7A,38.319,,,,,,,,,,,20633933,
+221504087,221523586,0,False,secondary,Broadway,909.501,,,,55 mph,,,,,,,233630191,NY 22
+221504101,221369032,0,False,residential,County Road 7A,218.046,,,,,,,,,,,20633936,
+221504578,221437713,0,False,tertiary,North Quivey Hill Lane,1498.984,,,,,,,,,,,20634364,
+221507514,221485813,0,False,residential,Dailey Way,249.398,,,,,,,,,,,20634241,
+221511615,221594407,0,False,residential,Division Street,23.395,,,,,,,,,,,20640931,
+221511615,221511637,0,False,residential,Main Street,140.607,,,,,,,,,,,174392568,
+221511615,221447054,0,False,residential,Main Street,73.083,,,,,,,,,,,174392568,
+221511637,221538386,0,False,residential,North Main Street,141.848,,,,,no,,yes,,,,"[114214056, 20642468, 20636782]",
+221511637,221637211,0,False,residential,High Street,52.573,,,,,,,,,,,20644873,
+221511637,221511645,0,False,residential,Main Street,42.558,,,,,,,,,,,174392568,
+221511637,221511615,0,False,residential,Main Street,140.607,,,,,,,,,,,174392568,
+221511645,221511647,0,False,residential,Main Street,42.275,,,,,,,,,,,174549522,
+221511645,221518841,0,False,residential,Clinton Street,169.352,,,,,,,yes,,,,"[114214057, 114214058, 20635086]",
+221511645,221511637,0,False,residential,Main Street,42.558,,,,,,,,,,,174392568,
+221511647,221511645,0,False,residential,Main Street,42.275,,,,,,,,,,,174549522,
+221511647,221538887,0,False,residential,Bellamy Street,55.996,,,,,,,,,,,20636826,
+221511647,221511705,0,False,residential,Main Street,389.334,,,,,,,,,,,174549522,
+221511705,221511647,0,False,residential,Main Street,389.334,,,,,,,,,,,174549522,
+221515770,221412859,0,False,residential,Rozell Way,570.998,,,,,,,,,,,20634826,
+221516496,221516500,0,False,tertiary,Carlton Road,47.322,,,,,,,,,,,20638111,
+221516496,221445355,0,False,tertiary,Old Whitehall Rd,469.048,,,,,,,,,,,20634888,CR 9
+221516496,221516514,0,False,tertiary,County Route 9,49.21,,,,,,,,,,,20634906,CR 9
+221516500,221516496,0,False,tertiary,Carlton Road,47.322,,,,,,,,,,,20638111,
+221516500,221516514,0,False,residential,County Road 9,28.821,,,,,,,,,,,20634909,
+221516500,221557429,0,False,tertiary,Carlton Road,1205.049,,,,,,,,,,,20638111,
+221516514,221422671,0,False,tertiary,County Route 9,287.792,,,,,,,,,,,20634906,CR 9
+221516514,221516496,0,False,tertiary,County Route 9,49.21,,,,,,,,,,,20634906,CR 9
+221516514,221516500,0,False,residential,County Road 9,28.821,,,,,,,,,,,20634909,
+221516746,221502713,0,False,tertiary,County Route 9,478.973,,,,,,,,,,,20634912,CR 9
+221516746,221520872,0,False,primary,,1966.958,2,,,55 mph,,,,,,,358449826,US 4
+221516746,221422623,0,False,primary,,2409.082,2,,,55 mph,,,,,,,358449826,US 4
+221516746,221542816,0,False,secondary,Old Fair Haven Road CR-21 (former US-4),2293.041,,,,,,,,,,,379505941,CR 21
+221518841,221511645,0,False,residential,Clinton Street,169.352,,,,,,,yes,,,,"[114214057, 114214058, 20635086]",
+221518841,221523430,0,False,secondary,Broadway,142.489,,,,"['30 mph', '45 mph']",,,,,,,"[233630190, 174549526]",NY 22
+221518841,221523398,0,False,secondary,Broadway,105.942,,,,30 mph,,,,,,,358449655,NY 22
+221519614,221418523,0,False,residential,Pratt Way,27.226,,,,,,,,,,,20635165,
+221520872,221520907,0,False,tertiary,Dewey Road  (formerly US-4),380.365,,,,,,,,,,,20635289,
+221520872,221362193,0,False,primary,,511.421,2,,,55 mph,,,,,,,358449826,US 4
+221520872,221516746,0,False,primary,,1966.958,2,,,55 mph,,,,,,,358449826,US 4
+221520907,221520872,0,False,tertiary,Dewey Road  (formerly US-4),380.365,,,,,,,,,,,20635289,
+221520907,221362193,0,False,tertiary,Chapman Road  (formerly US-4),166.057,,,,,,,,,,,20637229,
+221520907,221502763,0,False,tertiary,Chapman Road,1078.471,,,,,,,,,,,379505945,
+221520918,221412897,0,False,residential,Greenmount Cemetery Lane,656.195,,,,,,,,,,,20635291,
+221523346,221541818,0,False,residential,4th Avenue,116.922,,,,,,,,,,,20639192,
+221523346,221407555,0,False,primary,Broadway Avenue,93.502,2,,,30 mph,,,,,,,233630189,US 4;NY 22
+221523346,221407712,0,False,primary,Broadway Avenue,82.476,2,,,30 mph,,,,,,,233630189,US 4;NY 22
+221523356,221488270,0,False,primary,Broadway Avenue,93.13,2,,,30 mph,,,,,,,233630189,US 4;NY 22
+221523356,221495286,0,False,primary,Broadway Avenue,83.02,2,,,30 mph,,,,,,,233630189,US 4;NY 22
+221523356,221524942,0,False,residential,1st Avenue,123.532,,,,,,,,,,,20635633,
+221523356,221609431,0,False,residential,Cook Street,51.529,,,,,,,,,,,20642158,
+221523357,221488270,0,False,primary,Broadway Avenue,92.833,2,,,30 mph,,,,,,,233630189,US 4;NY 22
+221523357,221458445,0,False,residential,"['Kirtland Street', 'Smith Street']",308.645,,,,,,,,,,,"[20637481, 430426673]",
+221523357,221458435,0,False,primary,Broadway Avenue,130.473,2,,,30 mph,,,,,,,233630189,US 4;NY 22
+221523371,221533775,0,False,residential,Queen Street,94.574,,,,,,,,,,,20636421,
+221523371,221523378,0,False,secondary,Broadway,121.685,,,,30 mph,,,,,,,358449655,NY 22
+221523371,221494290,0,False,secondary,Broadway,83.915,,,,30 mph,,,,,,,358449655,NY 22
+221523378,221617261,0,False,residential,Gilmore Street,112.861,,,,,,,,,,,20642834,
+221523378,221523383,0,False,secondary,Broadway,178.29,,,,30 mph,,,,,,,358449655,NY 22
+221523378,221523371,0,False,secondary,Broadway,121.685,,,,30 mph,,,,,,,358449655,NY 22
+221523383,221572520,0,False,residential,School Street,85.348,,,,,,,,,,,20639227,
+221523383,221468243,0,False,secondary,Broadway,119.062,,,,30 mph,,,,,,,358449655,NY 22
+221523383,221523378,0,False,secondary,Broadway,178.29,,,,30 mph,,,,,,,358449655,NY 22
+221523398,221447044,0,False,secondary,Broadway,58.327,,,,30 mph,,,,,,,358449655,NY 22
+221523398,221594407,0,False,residential,Division Street,102.487,,,,,,,,,,,20640931,
+221523398,221518841,0,False,secondary,Broadway,105.942,,,,30 mph,,,,,,,358449655,NY 22
+221523430,221523434,0,False,secondary,Broadway,49.564,,,,45 mph,,,,,,,233630190,NY 22
+221523430,221446993,0,False,residential,Bellamy Street,270.025,,,,,,,,,,,20636824,
+221523430,221620268,0,False,residential,Lower Bellamy Street,136.266,,,,,,,,,,,20643138,
+221523430,221518841,0,False,secondary,Broadway,142.489,,,,"['30 mph', '45 mph']",,,,,,,"[233630190, 174549526]",NY 22
+221523434,221523430,0,False,secondary,Broadway,49.564,,,,45 mph,,,,,,,233630190,NY 22
+221523434,221636617,0,False,residential,Brookdale Avenue,73.656,,,,,,,,,,,20644493,
+221523434,221523446,0,False,secondary,Broadway,158.526,,,,45 mph,,,,,,,233630190,NY 22
+221523446,221523464,0,False,secondary,Broadway,188.242,,,,45 mph,,,,,,,233630190,NY 22
+221523446,221523434,0,False,secondary,Broadway,158.526,,,,45 mph,,,,,,,233630190,NY 22
+221523446,221524549,0,False,residential,Neddo Street,90.944,,,,,,,,,,,233630192,
+221523464,221524521,0,False,residential,Neddo Street,18.262,,,,,,,,,,,20635604,
+221523464,221400118,0,False,residential,Neddo Street,221.201,,,,,,,,,,,20635604,
+221523464,221523508,0,False,secondary,Broadway,590.203,,,,"['55 mph', '45 mph']",,,,,,,"[233630190, 233630191]",NY 22
+221523464,221523446,0,False,secondary,Broadway,188.242,,,,45 mph,,,,,,,233630190,NY 22
+221523508,221592408,0,False,residential,North Street,196.829,,,,,,,,,,,20640750,
+221523508,221524465,0,False,residential,North Street,127.653,,,,,,,,,,,20640750,
+221523508,221523586,0,False,secondary,Broadway,812.612,,,,55 mph,,,,,,,233630191,NY 22
+221523508,221523464,0,False,secondary,Broadway,590.203,,,,"['45 mph', '55 mph']",,,,,,,"[233630190, 233630191]",NY 22
+221523586,221524465,0,False,residential,Neddo Street,824.664,,,,,,,,,,,20635604,
+221523586,221504087,0,False,secondary,Broadway,909.501,,,,55 mph,,,,,,,233630191,NY 22
+221523586,221523508,0,False,secondary,Broadway,812.612,,,,55 mph,,,,,,,233630191,NY 22
+221524465,221400118,0,False,residential,Neddo Street,344.957,,,,,,,,,,,20635604,
+221524465,221523586,0,False,residential,Neddo Street,824.664,,,,,,,,,,,20635604,
+221524465,221523508,0,False,residential,North Street,127.653,,,,,,,,,,,20640750,
+221524521,221523464,0,False,residential,Neddo Street,18.262,,,,,,,,,,,20635604,
+221524549,221523446,0,False,residential,Neddo Street,90.944,,,,,,,,,,,233630192,
+221524942,221524970,0,False,residential,1st Avenue,326.517,,,,,,,,,,,20635633,
+221524942,221523356,0,False,residential,1st Avenue,123.532,,,,,,,,,,,20635633,
+221524942,221495294,0,False,residential,Vaughn Street,87.05,,,,,,,,,,,20637044,
+221524970,221524942,0,False,residential,1st Avenue,326.517,,,,,,,,,,,20635633,
+221526441,221446987,0,False,residential,Fern Street,139.232,,,,,,,,,,,20635766,
+221529858,221485813,0,False,tertiary,Staso Road,203.515,,,,,,,,,,,20636069,
+221529858,3815429679,0,False,tertiary,Staso Road,280.579,,,,,,,,,,,20636072,
+221529858,221485838,0,False,tertiary,Ballard Road,455.425,,,,,,,,,,,20641766,
+221533775,221533779,0,False,residential,Queen Street,92.298,,,,,,,,,,,20636421,
+221533775,221523371,0,False,residential,Queen Street,94.574,,,,,,,,,,,20636421,
+221533775,221494297,0,False,residential,West Street,82.139,,,,,,,,,,,20642912,
+221533775,221617261,0,False,residential,West Street,119.025,,,,,,,,,,,20642912,
+221533779,221488226,0,False,residential,Queen Street,96.77,,,,,,,,,,,20636421,
+221533779,221533775,0,False,residential,Queen Street,92.298,,,,,,,,,,,20636421,
+221533779,221617265,0,False,residential,Lafayette Street,117.345,,,,,,,,,,,20644584,
+221533782,221488226,0,False,residential,Queen Street,133.723,,,,,,,,,,,20636421,
+221535641,221535645,0,False,residential,Connecting Road,9.272,,,,,,,,,,,20636537,
+221535641,221446547,0,True,residential,Champlain Avenue,91.986,,,,,,,,,,,20638018,
+221535645,221535641,0,False,residential,Connecting Road,9.272,,,,,,,,,,,20636537,
+221535645,221535712,0,True,residential,Champlain Avenue,89.337,,,,,,,,,,,20638022,
+221535698,221535702,0,False,residential,Connecting Road,8.497,,,,,,,,,,,20636548,
+221535698,221535709,0,True,residential,Champlain Avenue,76.881,,,,,,,,,,,20638018,
+221535702,221535698,0,False,residential,Connecting Road,8.497,,,,,,,,,,,20636548,
+221535702,221556299,0,True,residential,Champlain Avenue,99.088,,,,,,,,,,,20638022,
+221535709,221535712,0,False,residential,Connecting Road,8.452,,,,,,,,,,,20636550,
+221535709,221535641,0,True,residential,Champlain Avenue,89.993,,,,,,,,,,,20638018,
+221535712,221535709,0,False,residential,Connecting Road,8.452,,,,,,,,,,,20636550,
+221535712,221535702,0,True,residential,Champlain Avenue,77.604,,,,,,,,,,,20638022,
+221536414,221498259,0,False,residential,Wheeler Street,42.403,,,,,,,,,,,20642977,
+221536414,221485891,0,False,residential,Wheeler Street,100.11,,,,,,,,,,,20642977,
+221536414,221410951,0,False,residential,Potter Street,255.083,,,,,,,,,,,20636621,
+221538386,221511637,0,False,residential,North Main Street,141.848,,,,,no,,yes,,,,"[114214056, 20642468, 20636782]",
+221538386,221491003,0,False,tertiary,North William Street,715.021,,,,,,,,,,,20643278,CR 9
+221538386,221597354,0,False,tertiary,North William Street,255.48,,,,,,,,,,,20643278,CR 9
+221538887,221511647,0,False,residential,Bellamy Street,55.996,,,,,,,,,,,20636826,
+221540494,221459243,0,False,tertiary,Carver Falls Road,2906.717,,,,,,,,,,,20636968,
+221540494,221606727,0,False,tertiary,Abair Road,203.33,,,,,,,,,,,20641948,
+221540494,221480093,0,False,tertiary,Abair Road,217.633,,,,,,,,,,,20641948,
+221540858,221459243,0,False,tertiary,Carver Falls Lane,922.665,,,,,,,,,,,20636973,
+221541792,221465428,0,False,residential,Vaughn Street,92.823,,,,,,,,,,,20637038,
+221541800,221407563,0,False,residential,Vaughn Street,40.575,,,,,,,,,,,20637044,
+221541818,221407714,0,False,residential,Vaughn Street,89.502,,,,,,,,,,,20637044,
+221541818,221456148,0,False,residential,4th Avenue,96.835,,,,,,,,,,,20639192,
+221541818,221523346,0,False,residential,4th Avenue,116.922,,,,,,,,,,,20639192,
+221541818,221407563,0,False,residential,Vaughn Street,94.678,,,,,,,,,,,20637044,
+221542816,221388191,0,False,residential,Perry Lane,321.291,,,,,,,,,,,20637115,
+221542816,221516746,0,False,secondary,Old Fair Haven Road CR-21 (former US-4),2293.041,,,,,,,,,,,379505941,CR 21
+221542816,221485009,0,False,secondary,Old Fair Haven Road CR-21 (former US-4),1173.428,,,,,,,,,,,379505941,CR 21
+221542846,221388191,0,False,residential,Perry Lane,57.879,,,,,,,,,,,20637115,
+221544515,221410799,0,False,tertiary,Carlton Road,494.308,,,,,,,,,,,20638111,
+221544515,221557509,0,False,tertiary,Carlton Road,592.36,,,,,,,,,,,20638111,
+221544515,221502763,0,False,tertiary,Chapman Road,368.149,,,,,,,,,,,379505945,
+221552999,221553067,0,False,residential,Wicked Hollow Way,456.995,,,,,,,,,,,20637778,
+221552999,3815430022,0,False,tertiary,Hickey Road,1882.242,,,,,designated,,,,,,20643235,
+221552999,221379658,0,False,tertiary,Hickey Road,1294.987,,,,,designated,,,,,,20643235,
+221553067,221553111,0,False,residential,Wicked Hollow Way,413.207,,,,,,,,,,,20637778,
+221553067,221552999,0,False,residential,Wicked Hollow Way,456.995,,,,,,,,,,,20637778,
+221553067,221553301,0,False,residential,Wicked Hollow Way,944.65,,,,,,,,,,,20637786,
+221553111,221553067,0,False,residential,Wicked Hollow Way,413.207,,,,,,,,,,,20637778,
+221553301,221553067,0,False,residential,Wicked Hollow Way,944.65,,,,,,,,,,,20637786,
+221556299,221535698,0,True,residential,Champlain Avenue,99.631,,,,,,,,,,,20638018,
+221556299,221556327,0,False,residential,Champlain Avenue,152.568,,,,,,,,,,,247861718,
+221556327,221556299,0,False,residential,Champlain Avenue,152.568,,,,,,,,,,,247861718,
+221557429,221475696,0,False,tertiary,Carlton Road,1095.783,,,,,,,,,,,20638111,
+221557429,221516500,0,False,tertiary,Carlton Road,1205.049,,,,,,,,,,,20638111,
+221557429,221362688,0,False,residential,Lamphere Lane,707.992,,,,,,,,,,,20644408,
+221557509,221544515,0,False,tertiary,Carlton Road,592.36,,,,,,,,,,,20638111,
+221557509,221475696,0,False,tertiary,Carlton Road,581.008,,,,,,,,,,,20638111,
+221557509,221560330,0,False,residential,Gordon Drive,75.563,,,,,,,,,,,20638323,
+221559251,221348056,0,False,residential,Ryder Road,1390.701,,,,,,,yes,,,,"[93543497, 20638267, 93543501]",
+221559251,221585762,0,False,primary,US Route 4,2769.624,2,,,55 mph,,,,,,,44841055,US 4;NY 22
+221559251,221407835,0,False,primary,US Route 4,697.658,2,,,55 mph,,,,,,,44841055,US 4;NY 22
+221559631,221348056,0,False,residential,Ryder Road,1137.314,,,,,,,,,,,93543497,
+221560330,221557509,0,False,residential,Gordon Drive,75.563,,,,,,,,,,,20638323,
+221560954,221561055,0,False,tertiary,Baker Road,1334.731,,,,,,,,,,,20638387,
+221560954,221362675,0,False,secondary,CR21,289.611,,,,,,,,,,,20643186,
+221560954,221612263,0,False,secondary,CR21,484.103,,,,,,,,,,,20643186,
+221561055,221385441,0,False,tertiary,Baker Road,202.019,,,,,,,,,,,20638387,
+221561055,221560954,0,False,tertiary,Baker Road,1334.731,,,,,,,,,,,20638387,
+221561055,221636794,0,False,residential,Pauquette Way,391.375,,,,,,,,,,,20644509,
+221563718,221572541,0,False,residential,School Street,263.177,,,,,,,,,,,139892648,
+221565038,221565041,0,False,residential,East Rock Avenue,111.084,,,,,,,,,,,20638681,
+221565038,221447021,0,False,residential,East Rock Avenue,150.777,,,,,,,,,,,20638681,
+221565038,221565055,0,False,residential,East Rock Avenue,73.831,,,,,,,,,,,20638683,
+221565041,221565038,0,False,residential,East Rock Avenue,111.084,,,,,,,,,,,20638681,
+221565055,221565038,0,False,residential,East Rock Avenue,73.831,,,,,,,,,,,20638683,
+221571006,221479312,0,False,secondary,Sciota Road,1788.251,,,,,,,,,,,20631867,CR 10
+221571006,221479687,0,False,secondary,Sciota Road,1011.541,,,,,,,,,,,20631867,CR 10
+221571006,221572651,0,False,residential,Ward Road,387.488,,,,,,,,,,,20640112,
+221572520,221572524,0,False,residential,School Street,30.769,,,,,,,,,,,20639227,
+221572520,221523383,0,False,residential,School Street,85.348,,,,,,,,,,,20639227,
+221572520,221600908,0,False,residential,West Street,86.93,,,,,,,,,,,20642918,
+221572524,221572520,0,False,residential,School Street,30.769,,,,,,,,,,,20639227,
+221572524,221572528,0,False,residential,School Street,96.866,,,,,,,,,,,"[139892648, 20639227]",
+221572524,221617261,0,False,residential,West Street,182.927,,,,,,,,,,,20642912,
+221572528,221617265,0,False,residential,Lafayette Street,187.467,,,,,,,,,,,20644584,
+221572528,221572541,0,False,residential,School Street,207.327,,,,,,,,,,,139892648,
+221572528,221572524,0,False,residential,School Street,96.866,,,,,,,,,,,"[139892648, 20639227]",
+221572541,221572609,0,False,residential,School Street,183.22,,,,,,,,,,,20639232,
+221572541,221617265,0,False,residential,Gilmore Street,390.489,,,,,,,,,,,20642834,
+221572541,221563718,0,False,residential,School Street,263.177,,,,,,,,,,,139892648,
+221572541,221572528,0,False,residential,School Street,207.327,,,,,,,,,,,139892648,
+221572609,221572541,0,False,residential,School Street,183.22,,,,,,,,,,,20639232,
+221572651,221571006,0,False,residential,Ward Road,387.488,,,,,,,,,,,20640112,
+221573692,221421805,0,False,residential,East Street,111.677,,,,,,,,,,,20639324,
+221581305,221584326,0,False,residential,"['East Montcalm Avenue', 'East Malcolm']",52.634,,,,,,,,,,,"[20644135, 20639943]",
+221581642,221481209,0,False,tertiary,Hatch Hill Road,2399.166,,,,,,,,,,,20639988,
+221581642,221474631,0,False,tertiary,Hatch Hill Road,681.885,,,,,,,,,,,20639988,
+221581642,221385441,0,False,tertiary,Winters Road,1786.872,,,,,,,,,,,20644051,
+221582247,221411030,0,False,residential,Water Tower Road,647.626,,,,,,,,,,,20640014,
+221584326,221446541,0,False,residential,Montcalm Avenue,205.866,,,,,,,,,,,20640221,
+221584326,221632364,0,False,residential,"['Montcalm Avenue', 'East Malcolm']",86.464,,,,,,,,,,,"[20644138, 20640221]",
+221584326,221581305,0,False,residential,"['East Montcalm Avenue', 'East Malcolm']",52.634,,,,,,,,,,,"[20639943, 20644135]",
+221584525,221584562,0,False,residential,Cliff Street,296.302,,,,,,,,,,,20640242,
+221584525,221597354,0,False,residential,North Mountain Street,95.4,,,,,,,,,,,20641163,
+221584525,221498285,0,False,residential,North Mountain Street,36.161,,,,,,,,,,,20641163,
+221584562,221584525,0,False,residential,Cliff Street,296.302,,,,,,,,,,,20640242,
+221585715,221585762,0,False,residential,Old State Road,495.842,,,,,,,,,,,20640289,
+221585715,221585762,1,False,primary,US Route 4,484.985,2,,,55 mph,,,,,,,44841055,US 4;NY 22
+221585715,221369469,0,False,primary,"['US Route 4', 'Whitehall Road']",3172.941,2,,,"['45 mph', '55 mph']",,,,,,,"[233630193, 44841055]",US 4;NY 22
+221585762,221585715,0,False,residential,Old State Road,495.842,,,,,,,,,,,20640289,
+221585762,221585715,1,False,primary,US Route 4,484.985,2,,,55 mph,,,,,,,44841055,US 4;NY 22
+221585762,221559251,0,False,primary,US Route 4,2769.624,2,,,55 mph,,,,,,,44841055,US 4;NY 22
+221591839,221495298,0,False,residential,Jalet Street,59.368,,,,,,,,,,,20640699,
+221592408,221592428,0,False,residential,North Street,178.573,,,,,,,,,,,20640750,
+221592408,221523508,0,False,residential,North Street,196.829,,,,,,,,,,,20640750,
+221592408,221594329,0,False,residential,Northeast Street,61.448,,,,,,,,,,,20640925,
+221592428,221592408,0,False,residential,North Street,178.573,,,,,,,,,,,20640750,
+221594329,221594354,0,False,residential,Northeast Street,109.379,,,,,,,,,,,20640927,
+221594329,221409055,0,False,residential,"['Railroad Avenue', 'Northeast Street']",422.916,,,,,,,,,,,"[20626120, 20640925]",
+221594329,221592408,0,False,residential,Northeast Street,61.448,,,,,,,,,,,20640925,
+221594354,221594329,0,False,residential,Northeast Street,109.379,,,,,,,,,,,20640927,
+221594407,221511615,0,False,residential,Division Street,23.395,,,,,,,,,,,20640931,
+221594407,221523398,0,False,residential,Division Street,102.487,,,,,,,,,,,20640931,
+221594407,221637211,0,False,residential,Center Street,108.238,,,,,,,,,,,20644546,
+221595874,221485855,0,False,residential,Perry Heights Way,532.547,,,,,,,,,,,20641037,
+221597354,221584525,0,False,residential,North Mountain Street,95.4,,,,,,,,,,,20641163,
+221597354,221538386,0,False,tertiary,North William Street,255.48,,,,,,,,,,,20643278,CR 9
+221597354,221446603,0,False,tertiary,North William Street,46.363,,,,,,,,,,,20643278,CR 9
+221600908,221468233,0,False,residential,West Street,40.589,,,,,,,,,,,20642918,
+221600908,221572520,0,False,residential,West Street,86.93,,,,,,,,,,,20642918,
+221600908,221600922,0,False,residential,Williamson Avenue,75.876,,,,,,,,,,,20641439,
+221600922,221600908,0,False,residential,Williamson Avenue,75.876,,,,,,,,,,,20641439,
+221606727,221479312,0,False,tertiary,Abair Road,1790.986,,,,,,,,,,,20641948,
+221606727,221540494,0,False,tertiary,Abair Road,203.33,,,,,,,,,,,20641948,
+221606727,221380888,0,False,tertiary,Gould Lane,1508.522,,,,,,,,,,,20642004,
+221609431,221523356,0,False,residential,Cook Street,51.529,,,,,,,,,,,20642158,
+221609914,221479612,0,False,residential,Dodge Lane,2893.231,,,,,,,,,,,20642191,
+221612263,221408629,0,False,tertiary,Holcombville Road,2781.066,,,,,,,,,,,20642376,
+221612263,221560954,0,False,secondary,CR21,484.103,,,,,,,,,,,20643186,
+221612263,221426471,0,False,secondary,CR21,854.966,,,,,,,,,,,20643186,
+221613589,221418745,0,False,residential,Morse Lane,1339.037,,,,,,,,,,,20642496,
+221615041,221427129,0,False,tertiary,Campbell Lane,484.898,,,,,,,,,,,20642605,
+221616353,221340452,0,False,tertiary,Hickey Road,398.353,,,,,designated,,,,,,20643235,
+221616353,3815430022,0,False,tertiary,Hickey Road,480.969,,,,,designated,,,,,,20643235,
+221616353,3815429840,0,False,tertiary,Roberts Lane,999.972,,,,,designated,,,,,,378125952,
+221617261,221617265,0,False,residential,Gilmore Street,94.576,,,,,,,,,,,20642834,
+221617261,221523378,0,False,residential,Gilmore Street,112.861,,,,,,,,,,,20642834,
+221617261,221572524,0,False,residential,West Street,182.927,,,,,,,,,,,20642912,
+221617261,221533775,0,False,residential,West Street,119.025,,,,,,,,,,,20642912,
+221617265,221617261,0,False,residential,Gilmore Street,94.576,,,,,,,,,,,20642834,
+221617265,221572528,0,False,residential,Lafayette Street,187.467,,,,,,,,,,,20644584,
+221617265,221572541,0,False,residential,Gilmore Street,390.489,,,,,,,,,,,20642834,
+221617265,221533779,0,False,residential,Lafayette Street,117.345,,,,,,,,,,,20644584,
+221618200,221447040,0,False,residential,West Street,98.984,,,,,,,,,,,20642918,
+221618200,221468233,0,False,residential,West Street,103.466,,,,,,,,,,,20642918,
+221618200,221636579,0,False,residential,Brookdale Avenue,32.407,,,,,,,,,,,20644488,
+221618395,221410897,0,False,residential,Riverside Drive,685.837,,,,,,,,,,,20642931,
+221619077,221460428,0,False,residential,Glasser Way,607.647,,,,,,,,,,,20643014,
+221620268,221523430,0,False,residential,Lower Bellamy Street,136.266,,,,,,,,,,,20643138,
+221620441,221362675,0,False,residential,,146.374,,,,,,,,,,,20620608,
+221620441,221362675,1,False,secondary,CR21,132.526,,,,,,,,,,,20643186,
+221620441,221620576,0,False,secondary,CR21,1561.137,,,,,,,,,,,20643186,
+221620576,221485287,0,False,secondary,CR21,507.008,,,,,,,,,,,20643186,
+221620576,221620441,0,False,secondary,CR21,1561.137,,,,,,,,,,,20643186,
+221620576,221385441,0,False,tertiary,Winters Road,1904.1,,,,,,,,,,,20644051,
+221632364,221584326,0,False,residential,"['Montcalm Avenue', 'East Malcolm']",86.464,,,,,,,,,,,"[20644138, 20640221]",
+221634746,221439308,0,False,residential,Ridgecrest Way,390.208,,,,,,,,,,,20644337,
+221636579,221618200,0,False,residential,Brookdale Avenue,32.407,,,,,,,,,,,20644488,
+221636592,221410217,0,False,residential,Brookdale Avenue,44.771,,,,,,,,,,,20644489,
+221636600,221410217,0,False,residential,Brookdale Avenue,11.986,,,,,,,,,,,20644489,
+221636617,221523434,0,False,residential,Brookdale Avenue,73.656,,,,,,,,,,,20644493,
+221636794,221561055,0,False,residential,Pauquette Way,391.375,,,,,,,,,,,20644509,
+221637211,221594407,0,False,residential,Center Street,108.238,,,,,,,,,,,20644546,
+221637211,221511637,0,False,residential,High Street,52.573,,,,,,,,,,,20644873,
+221637211,221641269,0,False,residential,High Street,39.734,,,,,,,,,,,20644873,
+221641269,221637211,0,False,residential,High Street,39.734,,,,,,,,,,,20644873,
+221641327,221488195,0,False,residential,High Street,67.664,,,,,,,,,,,20644881,
+221641796,221340468,0,False,tertiary,Manor Lane,244.3,,,,,,,,,,,20644922,
+221649825,221649843,0,False,residential,La May Road,155.86,,,,,,,,,,,20645554,
+221649843,221649825,0,False,residential,La May Road,155.86,,,,,,,,,,,20645554,
+221656080,221494290,0,False,residential,East Boardman,61.834,,,,,,,,,,,20646112,
+1179513291,221365962,0,False,primary,Poultney Street,42.499,2,,,30 mph,,,,,,,83854420,US 4
+1179513291,1179513317,0,True,secondary_link,,56.351,,,,,,,,,,,102205192,
+1179513291,221410897,0,False,primary,Poultney Street,132.202,2,,,30 mph,,,yes,,,,"[83854427, 358449740, 83854431]",US 4
+1179513317,221494290,0,False,secondary,Broadway,34.481,,,,30 mph,,,,,,,358449655,NY 22
+1179513317,221410885,0,False,secondary,Broadway,62.364,,,,30 mph,,,,,,,31957602,NY 22
+3815429679,221529858,0,False,tertiary,Staso Road,280.579,,,,,,,,,,,20636072,
+3815429679,221340239,0,False,primary,State Highway 22A,855.404,,,,,,,,,,,247971201,NY 22A
+3815429679,221340143,0,False,primary,State Highway 22A,1777.279,,,,,,,,,,,247971201,NY 22A
+3815429679,3815429725,0,False,tertiary,Staso Lane,174.466,,,,,,,,,,,378125941,
+3815429725,3815429679,0,False,tertiary,Staso Lane,174.466,,,,,,,,,,,378125941,
+3815429840,221616353,0,False,tertiary,Roberts Lane,999.972,,,,,designated,,,,,,378125952,
+3815429931,3815430022,0,False,residential,private,149.488,,,,,,,,,,,378125947,
+3815430022,221616353,0,False,tertiary,Hickey Road,480.969,,,,,designated,,,,,,20643235,
+3815430022,221552999,0,False,tertiary,Hickey Road,1882.242,,,,,designated,,,,,,20643235,
+3815430022,3815429931,0,False,residential,private,149.488,,,,,,,,,,,378125947,
+4417666953,221498272,0,False,residential,Mulholland Drive,211.488,,,,,,,,,,,20635209,
+4417698349,221451554,0,False,residential,Elizabeth Street,95.054,,,,,,,,,,,444281878,
+4417698349,221410956,0,False,residential,Davis Street,236.67,,,,,,,,,,,20644671,
+4417698349,221446557,0,False,residential,Elizabeth Street,126.861,,,,,,,,,,,444281878,

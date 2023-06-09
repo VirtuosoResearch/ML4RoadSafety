@@ -1,0 +1,645 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+106898055,211659880,0,False,primary,West Main Road,86.152,2,,,40 mph,,,,,,,20048898,US 20
+106902065,211642963,0,False,unclassified,Colton Road,1246.058,,,,,,,,,,,20047000,
+106902065,211774902,0,False,"['residential', 'unclassified']","['Stetson Road', 'State Line Road']",2327.002,,,,,,,,,,,"[20054568, 20054243, 20054245]",
+106903128,211722324,0,False,residential,Kress Road,471.189,2,,,,,,,,,,20049774,
+211584709,211643448,0,False,tertiary,Marks Corners Road,414.537,,,,,,,,,,,20046843,
+211584709,211584715,0,False,residential,Kidder Road,481.184,,,,,,,,,,,20041909,
+211584709,211651323,0,False,tertiary,Marks Corners Road,1228.277,,,,,,,,,,,20046843,
+211584715,211584719,0,False,residential,Kidder Road,171.115,,,,,,,,,,,20041909,
+211584715,211585934,0,False,residential,,137.107,,,,,,,,,,,20041969,
+211584715,211584709,0,False,residential,Kidder Road,481.184,,,,,,,,,,,20041909,
+211584719,211584715,0,False,residential,Kidder Road,171.115,,,,,,,,,,,20041909,
+211584719,211585951,0,False,residential,,356.056,,,,,,,,,,,20041971,
+211585934,211584715,0,False,residential,,137.107,,,,,,,,,,,20041969,
+211585951,211584719,0,False,residential,,356.056,,,,,,,,,,,20041971,
+211587060,211691646,0,False,residential,Welch Hill Road,462.076,,,,,,,,,,,20048303,
+211587060,211636243,0,False,residential,Welch Hill Road,1230.21,,,,,,,,,,,20048303,
+211587060,211731028,0,False,residential,Lombard Road,1211.825,,,,,,,,,,,20054543,
+211588402,211640550,0,False,secondary,West Lake Road,372.064,2,,,55 mph,,,,,,,20045822,NY 5
+211588402,211652264,0,False,secondary,East Lake Road,981.205,,,,55 mph,,,,,,,20053789,NY 5
+211588402,211694868,0,False,secondary,North State Street,449.291,,,,,,,,,,,38266995,NY 76
+211589525,211615034,0,True,motorway_link,,120.16,1,,,,,,,,,,480344780,
+211589525,211696888,0,False,secondary,Shortman Road,585.847,2,,,,,,,,,,"[480344778, 20048582]",
+211589525,211603937,0,False,secondary,Shortman Road,105.305,2,,,,,,,,,,480344786,
+211589537,211603937,0,True,motorway_link,,51.325,1,,,,,,,,,,20043074,
+211589537,211589525,0,True,motorway_link,,112.163,1,,,,,,,,,,480344779,
+211589555,211589537,0,True,motorway_link,,390.573,1,,,,,,,,,,20042164,
+211589555,211615018,0,True,motorway,New York State Thruway,552.168,2,,,65 mph,,,,,,,89946074,I 90
+211590438,211687126,0,False,residential,Boswell Street,118.186,,,,,,,,,,,20052694,
+211595446,211595470,0,True,motorway_link,,504.637,,,,,,,,,,,20042545,
+211595446,211595492,0,True,motorway,Southern Tier Expressway,930.302,2,,,65 mph,,,yes,,,,"[38653344, 38653345, 20047902]",I 86;NY 17
+211595470,211650425,0,False,secondary,,987.576,,,,,,,,,,,20046209,NY 426
+211595470,211610753,0,False,secondary,North East Road,172.277,,,,,,,,,,,"[20046209, 20047638]",NY 426
+211595470,211595492,0,True,motorway_link,,445.5,,,,,,,,,,,378904840,
+211597893,211597893,0,False,residential,,129.551,,,,,,,,,,,20042694,
+211597893,211597893,1,False,residential,,129.551,,,,,,,,,,,20042694,
+211597893,211676967,0,False,residential,Rod and Gun Road,889.637,,,,,,,,,,,20053104,
+211598701,211598711,0,False,unclassified,,57.563,,,,,,,,,,,20042743,
+211598701,211711923,0,False,residential,"['Camp Road', 'Klondyke Road']",1787.351,,,,,,,,,,,"[20048584, 20053587]",
+211598701,211658780,0,False,residential,Camp Road,152.486,,,,,,,,,,,20048584,
+211598711,211598701,0,False,unclassified,,57.563,,,,,,,,,,,20042743,
+211598711,211658840,0,False,residential,Mina Road,2012.824,,,,,,,,,,,20046697,
+211598711,211658780,0,False,residential,Mina Road,147.908,,,,,,,,,,,20046697,
+211601139,211601148,0,False,residential,,110.579,,,,,,,,,,,20042847,
+211601139,211720047,0,False,residential,Shadyside Road,728.476,,,,,,,,,,,20049692,
+211601139,211719977,0,False,residential,Shadyside Road,493.166,,,,,,,,,,,20049692,
+211601148,211601139,0,False,residential,,110.579,,,,,,,,,,,20042847,
+211601148,211601181,0,False,residential,,37.394,,,,,,,,,,,20042848,
+211601148,211601162,0,False,residential,,18.619,,,,,,,,,,,20042847,
+211601162,211601148,0,False,residential,,18.619,,,,,,,,,,,20042847,
+211601181,211601148,0,False,residential,,37.394,,,,,,,,,,,20042848,
+211603937,211615064,0,False,secondary,Shortman Road,15.453,2,,,,,,,,,,480344784,
+211603937,211589525,0,False,secondary,Shortman Road,105.305,2,,,,,,,,,,480344786,
+211610753,211595470,0,False,secondary,North East Road,172.277,,,,,,,,,,,"[20046209, 20047638]",NY 426
+211610753,211677223,0,False,secondary,North East Road,1595.763,,,,,,,,,,,139486938,NY 426
+211610753,211610734,0,True,motorway_link,,451.72,,,,,,,,,,,378904837,
+211610781,211610753,0,True,motorway_link,,373.214,,,,,,,,,,,20043572,
+211610781,211610734,0,True,motorway,Southern Tier Expressway,830.478,2,,,65 mph,,,yes,,,,"[38653346, 38653347, 38653341]",I 86;NY 17
+211612154,211612129,0,True,motorway_link,,372.465,1,,,,,,,,,,20043673,
+211612157,2703995722,0,False,secondary,Shortman Road,13.644,2,,,,,,,,,,480344788,
+211612157,2703995734,0,False,secondary,Shortman Road,27.099,2,,,,,,,,,,480344790,
+211612161,211627055,0,True,motorway_link,,75.358,1,,,,,,,,,,20044867,
+211612161,211612157,0,True,motorway_link,,36.108,1,,,,,,,,,,480344787,
+211612188,211612161,0,True,motorway_link,,252.17,1,,,,,,,,,,32239733,
+211612188,211612129,0,True,motorway,New York State Thruway,592.02,2,,,65 mph,,,,,,,161135221,I 90
+211615034,211615018,0,True,motorway_link,,257.235,1,,,,,,,,,,20043905,
+211615064,211603937,0,False,secondary,Shortman Road,15.453,2,,,,,,,,,,480344784,
+211615064,211615034,0,True,motorway_link,,27.378,1,,,,,,,,,,20043908,
+211615064,2703995722,0,False,secondary,Shortman Road,371.091,2,,,,,,yes,,,,"[38266990, 480344782, 38266992, 38266993, 38266991]",
+211615155,211615158,0,False,residential,,88.382,,,,,,,,,,,20043913,
+211615155,211699428,0,False,residential,Pleasant Street,208.718,,,,,,,,,,,20053108,
+211615155,211756242,0,False,residential,School Street,181.039,,,,,,,,,,,20051657,
+211615155,211650425,0,False,residential,School Street,317.274,,,,,,,,,,,20051657,
+211615158,211615155,0,False,residential,,88.382,,,,,,,,,,,20043913,
+211618514,211626802,0,False,residential,,16.57,,,,,,,,,,,20044850,
+211620339,211640458,0,False,residential,Lakeside Drive,138.203,,,,,,,,,,,20052873,
+211621638,211621640,0,False,residential,,114.993,,,,,,,,,,,20044422,
+211621638,211720057,0,False,residential,Woodland Shore,50.596,,,,,,,,,,,20049831,
+211621638,211720047,0,False,residential,Woodland Shore,56.328,,,,,,,,,,,20049831,
+211621640,211621638,0,False,residential,,114.993,,,,,,,,,,,20044422,
+211623062,211691717,0,False,residential,East Side Hill Road,104.957,,,,,,,,,,,20050861,
+211623062,211623084,0,False,residential,,155.05,,,,,,,,,,,20044543,
+211623062,444297199,0,False,residential,East Side Hill Road,1434.609,,,,,,,,,,,20050861,
+211623084,211623062,0,False,residential,,155.05,,,,,,,,,,,20044543,
+211623084,211691717,0,False,residential,Welch Hill Road,100.05,,,,,,,,,,,20048303,
+211623084,211691646,0,False,residential,Welch Hill Road,1377.155,,,,,,,,,,,20048303,
+211625235,211649286,0,False,residential,Bauers Lane,428.012,,,,,,,,,,,20046137,
+211626802,211618514,0,False,residential,,16.57,,,,,,,,,,,20044850,
+211627055,2703995734,0,False,secondary,Shortman Road,44.883,2,,,,,,,,,,480344789,
+211627055,211640471,0,False,secondary,Shortman Road,803.215,2,,,,,,,,,,139603568,
+211627092,211650417,0,False,secondary,,27.776,,,,,,,,,,,139486932,NY 426
+211627092,211650425,0,False,secondary,,248.874,,,,,,,,,,,20046209,NY 426
+211627092,211662749,0,True,secondary_link,,39.481,,,,,,,,,,,480415488,
+211627114,211650417,0,False,secondary,West Main Street,55.477,,,,,,,,,,,20048704,NY 426;NY 430
+211627114,211693241,0,False,secondary,West Main Street,49.57,,,,,,,,,,,139486957,NY 426;NY 430
+211627114,211627092,0,True,secondary_link,,60.025,,,,,,,,,,,20044872,NY 426
+211630575,211630586,0,False,residential,,80.14,,,,,,,,,,,20045211,
+211630575,211642746,0,False,residential,Case Division,266.532,,,,,,,,,,,20053303,
+211630575,211748947,0,False,residential,Case Division,81.427,,,,,,,,,,,20053306,
+211630586,211642730,0,False,residential,Lakeview Avenue,24.586,,,,,,,,,,,20045889,
+211630586,211630575,0,False,residential,,80.14,,,,,,,,,,,20045211,
+211630586,211642746,0,False,residential,Lakeview Avenue,139.647,,,,,,,,,,,20045889,
+211633761,211633774,0,False,residential,5th Avenue,341.146,,,,,,,,,,,20045464,
+211633761,211634010,0,False,secondary,East Lake Road,156.603,,,,,,,,,,,104328427,NY 5
+211633774,211633761,0,False,residential,5th Avenue,341.146,,,,,,,,,,,20045464,
+211633774,211633999,0,False,residential,Shore Drive,151.188,,,,,,,,,,,20048263,
+211633999,211691180,0,False,residential,Shore Drive,149.728,,,,,,,,,,,20048263,
+211633999,211634010,0,False,residential,3rd Avenue,364.797,,,,,,,,,,,20045479,
+211633999,211633774,0,False,residential,Shore Drive,151.188,,,,,,,,,,,20048263,
+211634010,211728973,0,False,secondary,East Lake Road,154.435,,,,,,,,,,,104328427,NY 5
+211634010,211633999,0,False,residential,3rd Avenue,364.797,,,,,,,,,,,20045479,
+211634010,211633761,0,False,secondary,East Lake Road,156.603,,,,,,,,,,,104328427,NY 5
+211636124,211636158,0,False,residential,Johnson Road,766.278,,,,,,,,,,,20045604,
+211636158,211636186,0,False,residential,Johnson Road,878.901,,,,,,,,,,,20045604,
+211636158,211636124,0,False,residential,Johnson Road,766.278,,,,,,,,,,,20045604,
+211636158,211767716,0,False,residential,East Johnson Road,1151.775,,,,,,,,,,,20053826,
+211636186,211636243,0,False,residential,Johnson Road,2454.087,,,,,,,,,,,20045604,
+211636186,211636158,0,False,residential,Johnson Road,878.901,,,,,,,,,,,20045604,
+211636186,211676971,0,False,residential,Sprague Road,1226.942,,,,,,,,,,,20054427,
+211636243,211636186,0,False,residential,Johnson Road,2454.087,,,,,,,,,,,20045604,
+211636243,211587060,0,False,residential,Welch Hill Road,1230.21,,,,,,,,,,,20048303,
+211636243,211767829,0,False,secondary,Sherman Road,1194.323,,,,,,,,,,,307466891,NY 76
+211636243,211730967,0,False,secondary,Sherman Road,1325.968,,,,,,,,,,,307466891,NY 76
+211636258,211636265,0,False,residential,Bourne Drive,81.697,,,,,,,,,,,20045607,
+211636265,211691553,0,False,primary,Main Street,72.828,2,,,35 mph,,,,,,,20049614,US 20
+211636265,211636258,0,False,residential,Bourne Drive,81.697,,,,,,,,,,,20045607,
+211636265,211652225,0,False,primary,Main Street,244.615,2,,,35 mph,,,,,,,20049614,US 20
+211640449,211640458,0,False,secondary,West Lake Road,224.52,2,,,55 mph,,,,,,,20045822,NY 5
+211640449,211778181,0,False,residential,Valley Drive,186.346,,,,,,,,,,,20053318,
+211640458,211620339,0,False,residential,Lakeside Drive,138.203,,,,,,,,,,,20052873,
+211640458,211640471,0,False,secondary,West Lake Road,339.941,2,,,55 mph,,,,,,,20045822,NY 5
+211640458,211640449,0,False,secondary,West Lake Road,224.52,2,,,55 mph,,,,,,,20045822,NY 5
+211640471,211640496,0,False,secondary,West Lake Road,924.534,2,,,55 mph,,,,,,,20045822,NY 5
+211640471,211640458,0,False,secondary,West Lake Road,339.941,2,,,55 mph,,,,,,,20045822,NY 5
+211640471,211627055,0,False,secondary,Shortman Road,803.215,2,,,,,,,,,,139603568,
+211640496,211709338,0,False,residential,Hoffman Drive,153.456,,,,,,,,,,,20049179,
+211640496,211640519,0,False,secondary,West Lake Road,877.399,2,,,55 mph,,,,,,,20045822,NY 5
+211640496,211640471,0,False,secondary,West Lake Road,924.534,2,,,55 mph,,,,,,,20045822,NY 5
+211640519,211640550,0,False,secondary,West Lake Road,630.887,2,,,55 mph,,,,,,,20045822,NY 5
+211640519,211640496,0,False,secondary,West Lake Road,877.399,2,,,55 mph,,,,,,,20045822,NY 5
+211640519,211712469,0,False,residential,Barnes Road,652.481,,,,,,,,,,,20049347,
+211640550,211588402,0,False,secondary,West Lake Road,372.064,2,,,55 mph,,,,,,,20045822,NY 5
+211640550,211640519,0,False,secondary,West Lake Road,630.887,2,,,55 mph,,,,,,,20045822,NY 5
+211640550,211693483,0,False,residential,Hamilton Road,735.521,,,,,,,,,,,20048423,
+211642557,211642626,0,False,secondary,South State Street,10.998,,,,,,,,,,,20048053,NY 76
+211642557,444297195,0,False,residential,Lakeview Avenue,342.878,,,,,,,,,,,20045883,
+211642557,211687095,0,False,secondary,South State Street,629.641,,,,,,,,,,,20048053,NY 76
+211642614,211727648,0,False,residential,Loomis Street,289.753,,,,,,,,,,,20054562,
+211642614,211642620,0,False,residential,Lakeview Avenue,397.996,,,,,,,,,,,20045886,
+211642614,444297210,0,False,residential,Loomis Street,638.196,,,,,,,,,,,20054562,
+211642620,211642623,0,False,residential,Lakeview Avenue,342.199,,,,,,,,,,,20045886,
+211642620,211642614,0,False,residential,Lakeview Avenue,397.996,,,,,,,,,,,20045886,
+211642620,211727655,0,False,residential,Maple Avenue,309.7,,,,,,,,,,,20050758,
+211642620,211719221,0,False,residential,Maple Avenue,635.505,,,,,,,,,,,20050758,
+211642623,211642626,0,False,residential,Lakeview Avenue,217.284,,,,,,,,,,,20045886,
+211642623,211642620,0,False,residential,Lakeview Avenue,342.199,,,,,,,,,,,20045886,
+211642623,211727664,0,False,residential,Goodrich Street,326.925,,,,,,,,,,,20051459,
+211642626,211642623,0,False,residential,Lakeview Avenue,217.284,,,,,,,,,,,20045886,
+211642626,211642557,0,False,secondary,South State Street,10.998,,,,,,,,,,,20048053,NY 76
+211642626,211687110,0,False,secondary,South State Street,338.922,,,,,,,,,,,20048053,NY 76
+211642730,211630586,0,False,residential,Lakeview Avenue,24.586,,,,,,,,,,,20045889,
+211642730,211748947,0,False,secondary,Sunnyside Road,72.429,,,,,,,,,,,20051202,NY 426
+211642730,211748916,0,False,secondary,Sunnyside Road,631.969,,,,,,,,,,,20051202,NY 426
+211642746,211642749,0,False,residential,Lakeview Avenue,44.401,,,,,,,,,,,20045889,
+211642746,211630586,0,False,residential,Lakeview Avenue,139.647,,,,,,,,,,,20045889,
+211642746,211630575,0,False,residential,Case Division,266.532,,,,,,,,,,,20053303,
+211642749,211642746,0,False,residential,Lakeview Avenue,44.401,,,,,,,,,,,20045889,
+211642963,211642966,0,False,tertiary,County Road 606,104.858,,,,,,,,,,,20045899,CR-606
+211642963,106902065,0,False,unclassified,Colton Road,1246.058,,,,,,,,,,,20047000,
+211642963,211700617,0,False,"['residential', 'unclassified']","['Bliss Road', 'Miller Road']",2237.382,,,,,,,,,,,"[20048752, 20049011]",
+211642963,211656491,0,False,tertiary,North Road,60.104,,,,,,,,,,,38653343,CR-606
+211642966,211642963,0,False,tertiary,County Road 606,104.858,,,,,,,,,,,20045899,CR-606
+211642966,211642986,0,False,tertiary,County Road 606,1117.564,,,,,,,,,,,20045899,CR-606
+211642966,211656491,0,False,residential,County Route 3,153.067,,,,,,,,,,,20046569,
+211642986,211642966,0,False,tertiary,County Road 606,1117.564,,,,,,,,,,,20045899,CR-606
+211642986,211661717,0,False,tertiary,Northeast Sherman Road,3580.253,,,,,,,,,,,20046863,CR-303
+211642986,211706971,0,False,tertiary,Miller Road,2490.951,,,,,,,,,,,20049019,CR-606
+211643448,211584709,0,False,tertiary,Marks Corners Road,414.537,,,,,,,,,,,20046843,
+211643448,211643505,0,False,residential,Mina-Cemetery Road,1504.05,,,,,,,,,,,20045937,
+211643448,211661399,0,False,tertiary,Marks Corners Road,1457.528,,,,,,,,,,,20046843,
+211643505,211643448,0,False,residential,Mina-Cemetery Road,1504.05,,,,,,,,,,,20045937,
+211643505,211764017,0,False,tertiary,County Road 622,1606.537,,,,,,,,,,,20052366,
+211643505,211661399,0,False,secondary,,1809.362,,,,,,,,,,,20054073,NY 430
+211643505,211737178,0,False,secondary,,1450.273,,,,,,,,,,,20054073,NY 430
+211649286,211787435,0,False,secondary,East Lake Road,197.639,,,,55 mph,,,,,,,20053789,NY 5
+211649286,211625235,0,False,residential,Bauers Lane,428.012,,,,,,,,,,,20046137,
+211649286,211750329,0,False,secondary,East Lake Road,502.086,,,,55 mph,,,,,,,20053789,NY 5
+211650417,211627114,0,False,secondary,West Main Street,55.477,,,,,,,,,,,20048704,NY 426;NY 430
+211650417,211627092,0,False,secondary,,27.776,,,,,,,,,,,139486932,NY 426
+211650417,211664268,0,False,residential,Mann Road,1967.177,,,,,,,,,,,20054687,
+211650417,211662749,0,False,secondary,Station Road,24.786,,,,,,,,,,,480415487,NY 430
+211650425,211627092,0,False,secondary,,248.874,,,,,,,,,,,20046209,NY 426
+211650425,211595470,0,False,secondary,,987.576,,,,,,,,,,,20046209,NY 426
+211650425,211615155,0,False,residential,School Street,317.274,,,,,,,,,,,20051657,
+211650574,211694853,0,False,secondary,North State Street,183.834,,,,,,,,,,,20048476,NY 76
+211650574,211650593,0,False,residential,Park Avenue,264.52,,,,,,,,,,,20046227,
+211650574,211694868,0,False,secondary,North State Street,679.927,,,,,,,yes,,,,"[38266994, 38266995, 20048476]",NY 76
+211650593,211650574,0,False,residential,Park Avenue,264.52,,,,,,,,,,,20046227,
+211651153,211679471,0,False,unclassified,West Mina Road,716.442,,,,,,,,,,,20049512,
+211651323,211651342,0,False,residential,Bailey Hill Road,2423.483,,,,,,,,,,,20046278,
+211651323,211584709,0,False,tertiary,Marks Corners Road,1228.277,,,,,,,,,,,20046843,
+211651323,211661311,0,False,tertiary,Marks Corners Road,2545.565,,,,,,,,,,,20046843,
+211651342,211651439,0,False,residential,Bailey Hill Road,3589.218,,,,,,,,,,,20046278,
+211651342,211651323,0,False,residential,Bailey Hill Road,2423.483,,,,,,,,,,,20046278,
+211651342,211737178,0,False,tertiary,Mina French Creek Road,1241.237,,,,,,,,,,,20050577,
+211651342,211737058,0,False,tertiary,Mina French Creek Road,3950.508,,,,,,,,,,,20050577,
+211651439,211651342,0,False,residential,Bailey Hill Road,3589.218,,,,,,,,,,,20046278,
+211651439,211756258,0,False,secondary,,214.834,,,,,,,,,,,20054073,NY 430
+211651439,211718463,0,False,secondary,,186.504,,,,,,,,,,,20054073,NY 430
+211652225,211652264,0,False,residential,Wiley Road,1788.223,,,,,,,yes,,,,"[38266996, 38266997, 20046318]",
+211652225,211718020,0,False,primary,Main Street,1274.011,2,,,35 mph,,,,,,,"[104328430, 20049614]",US 20
+211652225,211636265,0,False,primary,Main Street,244.615,2,,,35 mph,,,,,,,20049614,US 20
+211652264,211740497,0,False,secondary,East Lake Road,1209.517,,,,55 mph,,,,,,,20053789,NY 5
+211652264,211588402,0,False,secondary,East Lake Road,981.205,,,,55 mph,,,,,,,20053789,NY 5
+211652264,211652225,0,False,residential,Wiley Road,1788.223,,,,,,,yes,,,,"[38266996, 38266997, 20046318]",
+211656491,211642966,0,False,residential,County Route 3,153.067,,,,,,,,,,,20046569,
+211656491,211642963,0,False,tertiary,North Road,60.104,,,,,,,,,,,38653343,CR-606
+211656491,211774954,0,False,tertiary,North Road,2453.391,,,,,,,,,,,38653343,CR-606
+211658780,211598711,0,False,residential,Mina Road,147.908,,,,,,,,,,,20046697,
+211658780,211598701,0,False,residential,Camp Road,152.486,,,,,,,,,,,20048584,
+211658780,211764017,0,False,tertiary,County Road 622,439.39,,,,,,,,,,,20052366,
+211658840,211658864,0,False,residential,Mina Road,727.03,,,,,,,,,,,20046697,
+211658840,211598711,0,False,residential,Mina Road,2012.824,,,,,,,,,,,20046697,
+211658840,211711923,0,False,residential,Klondyke Road,873.726,,,,,,,,,,,20053580,
+211658864,211658840,0,False,residential,Mina Road,727.03,,,,,,,,,,,20046697,
+211658864,211661683,0,False,tertiary,Northeast Sherman Road,339.403,,,,,,,,,,,20046859,CR-303
+211658864,211661656,0,False,tertiary,Northeast Sherman Road,900.066,,,,,,,,,,,20046859,CR-303
+211659845,211659880,0,False,residential,Perdue Road,601.017,,,,,,,,,,,20046750,
+211659880,211719376,0,False,primary,West Main Road,277.826,2,,,40 mph,,,,,,,20048898,US 20
+211659880,106898055,0,False,primary,West Main Road,86.152,2,,,40 mph,,,,,,,20048898,US 20
+211659880,211659845,0,False,residential,Perdue Road,601.017,,,,,,,,,,,20046750,
+211661247,211675405,0,False,residential,Cherry Hill Road,79.992,,,,,,,,,,,20047546,
+211661247,211661284,0,False,tertiary,Marks Corners Road,156.554,,,,,,,,,,,20046843,
+211661284,211661308,0,False,tertiary,Marks Corners Road,870.97,,,,,,,,,,,20046843,
+211661284,211661247,0,False,tertiary,Marks Corners Road,156.554,,,,,,,,,,,20046843,
+211661284,211675405,0,False,residential,Cherry Hill Road,129.488,,,,,,,,,,,20047542,
+211661308,211661311,0,False,tertiary,Marks Corners Road,113.17,,,,,,,,,,,20046843,
+211661308,211661284,0,False,tertiary,Marks Corners Road,870.97,,,,,,,,,,,20046843,
+211661308,211701626,0,False,residential,French Creek Road,155.145,,,,,,,,,,,20048798,
+211661311,211661308,0,False,tertiary,Marks Corners Road,113.17,,,,,,,,,,,20046843,
+211661311,211651323,0,False,tertiary,Marks Corners Road,2545.565,,,,,,,,,,,20046843,
+211661311,211701626,0,False,residential,French Creek Road,107.631,,,,,,,,,,,20048796,
+211661399,211643448,0,False,tertiary,Marks Corners Road,1457.528,,,,,,,,,,,20046843,
+211661399,211699093,0,False,secondary,,820.241,,,,,,,yes,,,,"[38653336, 20054073, 38653337]",NY 430
+211661399,211643505,0,False,secondary,,1809.362,,,,,,,,,,,20054073,NY 430
+211661530,211661548,0,False,tertiary,Northeast Sherman Road,913.271,,,,,,,,,,,20046859,CR-303
+211661530,211661717,0,False,tertiary,Northeast Sherman Road,120.486,,,,,,,,,,,20046863,CR-303
+211661530,211690214,0,False,tertiary,South Ripley Road,87.341,,,,,,,,,,,20048218,CR-64
+211661548,211770432,0,False,residential,Sinden Road,187.036,,,,,,,,,,,20052845,
+211661548,211661582,0,False,tertiary,Northeast Sherman Road,250.542,,,,,,,,,,,20046859,CR-303
+211661548,211661530,0,False,tertiary,Northeast Sherman Road,913.271,,,,,,,,,,,20046859,CR-303
+211661582,211661654,0,False,tertiary,Northeast Sherman Road,2474.263,,,,,,,,,,,20046859,CR-303
+211661582,211661548,0,False,tertiary,Northeast Sherman Road,250.542,,,,,,,,,,,20046859,CR-303
+211661582,211770432,0,False,residential,Sinden Road,173.486,,,,,,,,,,,20052848,
+211661654,211661656,0,False,tertiary,Northeast Sherman Road,124.802,,,,,,,,,,,20046859,CR-303
+211661654,211661582,0,False,tertiary,Northeast Sherman Road,2474.263,,,,,,,,,,,20046859,CR-303
+211661654,211708613,0,False,residential,Post Road,1751.742,,,,,,,,,,,20049132,
+211661656,211661654,0,False,tertiary,Northeast Sherman Road,124.802,,,,,,,,,,,20046859,CR-303
+211661656,211658864,0,False,tertiary,Northeast Sherman Road,900.066,,,,,,,,,,,20046859,CR-303
+211661656,211711923,0,False,residential,Rater Road,510.017,,,,,,,,,,,20049316,
+211661683,211661694,0,False,tertiary,Northeast Sherman Road,203.721,,,,,,,,,,,20046859,CR-303
+211661683,211658864,0,False,tertiary,Northeast Sherman Road,339.403,,,,,,,,,,,20046859,CR-303
+211661683,211685478,0,False,residential,Meeder Road,264.426,,,,,,,,,,,20047962,
+211661694,211661683,0,False,tertiary,Northeast Sherman Road,203.721,,,,,,,,,,,20046859,CR-303
+211661694,211685478,0,False,secondary,Sherman Road,265.561,,,,,,,,,,,307466891,NY 76
+211661717,211642986,0,False,tertiary,Northeast Sherman Road,3580.253,,,,,,,,,,,20046863,CR-303
+211661717,211661530,0,False,tertiary,Northeast Sherman Road,120.486,,,,,,,,,,,20046863,CR-303
+211661717,211690214,0,False,residential,"['South Ripley Road', 'Wattlesburg Road']",114.721,,,,,,,,,,,"[20053724, 20048220]",
+211662749,211662805,0,False,secondary,Station Road,1458.995,,,,,,,,,,,20046919,NY 430
+211662749,211650417,0,False,secondary,Station Road,24.786,,,,,,,,,,,480415487,NY 430
+211662805,211662749,0,False,secondary,Station Road,1458.995,,,,,,,,,,,20046919,NY 430
+211662805,211716258,0,False,unclassified,West Mina Road,1216.903,,,,,,,,,,,20049512,
+211662805,211722324,0,False,unclassified,Greenman Road,1389.667,2,,,,,,yes,,,,"[145923026, 145923014, 20051727]",
+211664268,211664314,0,False,residential,West Mina Hill Road,952.325,,,,,,,,,,,20047012,
+211664268,211650417,0,False,residential,Mann Road,1967.177,,,,,,,,,,,20054687,
+211664314,211664268,0,False,residential,West Mina Hill Road,952.325,,,,,,,,,,,20047012,
+211664314,211716258,0,False,unclassified,West Mina Road,717.26,,,,,,,,,,,20049512,
+211664314,211679471,0,False,unclassified,West Mina Road,994.717,,,,,,,,,,,20049512,
+211673922,211717958,0,False,residential,Maple Avenue,143.092,,,,,,,,,,,20050758,
+211673922,211673933,0,False,residential,Wisner Street,129.31,,,,,,,,,,,20047478,
+211673922,211727655,0,False,residential,Maple Avenue,205.217,,,,,,,,,,,20050758,
+211673933,211673922,0,False,residential,Wisner Street,129.31,,,,,,,,,,,20047478,
+211675405,211661247,0,False,residential,Cherry Hill Road,79.992,,,,,,,,,,,20047546,
+211675405,211661284,0,False,residential,Cherry Hill Road,129.488,,,,,,,,,,,20047542,
+211675405,211675420,0,False,residential,Cherry Hill Road,653.276,,,,,,,,,,,20047546,
+211675420,211675405,0,False,residential,Cherry Hill Road,653.276,,,,,,,,,,,20047546,
+211676955,211676967,0,False,residential,Ottoway Road,698.712,,,,,,,,,,,20047629,
+211676967,211676971,0,False,residential,Ottoway Road,543.989,,,,,,,,,,,20047629,
+211676967,211676955,0,False,residential,Ottoway Road,698.712,,,,,,,,,,,20047629,
+211676967,211597893,0,False,residential,Rod and Gun Road,889.637,,,,,,,,,,,20053104,
+211676971,211676981,0,False,residential,Ottoway Road,523.537,,,,,,,,,,,20047629,
+211676971,211676967,0,False,residential,Ottoway Road,543.989,,,,,,,,,,,20047629,
+211676971,211636186,0,False,residential,Sprague Road,1226.942,,,,,,,,,,,20054427,
+211676981,211676971,0,False,residential,Ottoway Road,523.537,,,,,,,,,,,20047629,
+211676981,211767829,0,False,tertiary,Wattesburg Road,1922.817,,,,,,,,,,,20052747,CR-64
+211676981,211690214,0,False,tertiary,South Ripley Road,3885.966,,,,,,,yes,,,,"[258708369, 258708370, 20048218]",CR-64
+211677223,211757039,0,False,residential,Greenman Road,155.89,,,,,,,,,,,20051728,
+211677223,211677247,0,False,secondary,North East Road,245.14,,,,,,,,,,,139486938,NY 426
+211677223,211610753,0,False,secondary,North East Road,1595.763,,,,,,,,,,,139486938,NY 426
+211677247,211677223,0,False,secondary,North East Road,245.14,,,,,,,,,,,139486938,NY 426
+211677247,211757039,0,False,unclassified,Greenman Road,145.395,2,,,,,,,,,,145923017,
+211679471,211664314,0,False,unclassified,West Mina Road,994.717,,,,,,,,,,,20049512,
+211679471,211651153,0,False,unclassified,West Mina Road,716.442,,,,,,,,,,,20049512,
+211685478,211661683,0,False,residential,Meeder Road,264.426,,,,,,,,,,,20047962,
+211685478,211767716,0,False,secondary,Sherman Road,2981.203,,,,,,,,,,,307466891,NY 76
+211685478,211661694,0,False,secondary,Sherman Road,265.561,,,,,,,,,,,307466891,NY 76
+211686943,211686951,0,False,secondary,South State Street,190.356,,,,,,,,,,,20048053,NY 76
+211686943,211723061,0,False,residential,Greenbush Road,449.146,,,,,,,,,,,20049805,
+211686943,211767829,0,False,secondary,Sherman Road,58.306,,,,,,,,,,,307466891,NY 76
+211686951,211686955,0,False,secondary,South State Street,325.693,,,,,,,,,,,20048053,NY 76
+211686951,211686943,0,False,secondary,South State Street,190.356,,,,,,,,,,,20048053,NY 76
+211686951,211749978,0,False,residential,Carris Road,223.786,,,,,,,,,,,20051250,
+211686955,211687075,0,False,secondary,South State Street,1780.986,,,,,,,,,,,20048053,NY 76
+211686955,211686951,0,False,secondary,South State Street,325.693,,,,,,,,,,,20048053,NY 76
+211686955,211723061,0,False,residential,Greenbush Road,403.307,,,,,,,,,,,20049808,
+211687075,211687095,0,False,secondary,South State Street,319.358,,,,,,,,,,,20048053,NY 76
+211687075,211686955,0,False,secondary,South State Street,1780.986,,,,,,,,,,,20048053,NY 76
+211687075,444297201,0,False,residential,Shaver Street,306.751,,,,,,,,,,,20048290,
+211687095,211642557,0,False,secondary,South State Street,629.641,,,,,,,,,,,20048053,NY 76
+211687095,211687075,0,False,secondary,South State Street,319.358,,,,,,,,,,,20048053,NY 76
+211687095,211719221,0,False,residential,West Side Hill Road,564.744,,,,,,,,,,,20049665,
+211687095,444297201,0,False,residential,East Side Hill Road,227.881,,,,,,,,,,,20050861,
+211687110,211687113,0,False,secondary,South State Street,44.825,,,,,,,,,,,20048053,NY 76
+211687110,211727664,0,False,residential,Burton Avenue,214.154,,,,,,,,,,,20050036,
+211687110,211642626,0,False,secondary,South State Street,338.922,,,,,,,,,,,20048053,NY 76
+211687113,211687110,0,False,secondary,South State Street,44.825,,,,,,,,,,,20048053,NY 76
+211687113,211687126,0,False,secondary,South State Street,135.652,,,,,,,,,,,20048053,NY 76
+211687113,211691523,0,False,residential,Mechanic Street,316.536,,,,,,,,,,,20048546,
+211687126,211590438,0,False,residential,Boswell Street,118.186,,,,,,,,,,,20052694,
+211687126,211687133,0,False,secondary,South State Street,128.284,,,,,,,,,,,20048053,NY 76
+211687126,211687113,0,False,secondary,South State Street,135.652,,,,,,,,,,,20048053,NY 76
+211687133,211717964,0,False,primary,Main Street,149.937,2,,,35 mph,,,,,,,20049614,US 20
+211687133,211717961,0,False,primary,Main Street,220.69,2,,,35 mph,,,,,,,20049614,US 20
+211687133,211687126,0,False,secondary,South State Street,128.284,,,,,,,,,,,20048053,NY 76
+211687133,211694853,0,False,secondary,North State Street,482.573,,,,,,,,,,,20048476,NY 76
+211690214,211676981,0,False,tertiary,South Ripley Road,3885.966,,,,,,,yes,,,,"[258708369, 20048218, 258708370]",CR-64
+211690214,211661530,0,False,tertiary,South Ripley Road,87.341,,,,,,,,,,,20048218,CR-64
+211690214,211661717,0,False,residential,"['South Ripley Road', 'Wattlesburg Road']",114.721,,,,,,,,,,,"[20053724, 20048220]",
+211691180,211633999,0,False,residential,Shore Drive,149.728,,,,,,,,,,,20048263,
+211691180,211728952,0,False,residential,"['1st Avenue', 'Shore Drive']",568.717,,,,,,,,,,,"[20050102, 20048263]",
+211691180,211728973,0,False,residential,1st Avenue,367.342,,,,,,,,,,,20050105,
+211691523,211691553,0,False,residential,Shaver Street,245.726,,,,,,,,,,,20048288,
+211691523,444297195,0,False,residential,Shaver Street,408.066,,,,,,,,,,,20048288,
+211691523,211687113,0,False,residential,Mechanic Street,316.536,,,,,,,,,,,20048546,
+211691553,211636265,0,False,primary,Main Street,72.828,2,,,35 mph,,,,,,,20049614,US 20
+211691553,211691523,0,False,residential,Shaver Street,245.726,,,,,,,,,,,20048288,
+211691553,211717964,0,False,primary,Main Street,159.399,2,,,35 mph,,,,,,,20049614,US 20
+211691646,211623084,0,False,residential,Welch Hill Road,1377.155,,,,,,,,,,,20048303,
+211691646,211587060,0,False,residential,Welch Hill Road,462.076,,,,,,,,,,,20048303,
+211691646,211707483,0,False,residential,Belson Road,1605.802,,,,,,,,,,,20049061,
+211691717,211623062,0,False,residential,East Side Hill Road,104.957,,,,,,,,,,,20050861,
+211691717,211623084,0,False,residential,Welch Hill Road,100.05,,,,,,,,,,,20048303,
+211691717,211718020,0,False,residential,Brockway Road,1537.552,,,,,,,,,,,20050740,
+211693154,211693241,0,False,residential,Church Street,196.41,,,,,,,,,,,"[20048401, 20048394]",
+211693241,211627114,0,False,secondary,West Main Street,49.57,,,,,,,,,,,139486957,NY 426;NY 430
+211693241,211693154,0,False,residential,Church Street,196.41,,,,,,,,,,,"[20048401, 20048394]",
+211693241,211699439,0,False,secondary,West Main Street,79.613,,,,,,,,,,,139486957,NY 426;NY 430
+211693462,211717961,0,False,primary,Main Street,119.539,2,,,35 mph,,,,,,,20049614,US 20
+211693462,211693474,0,False,residential,Hamilton Road,990.241,,,,,,,,,,,20048422,
+211693462,211717958,0,False,primary,Main Street,220.962,2,,,35 mph,,,,,,,20049614,US 20
+211693474,211693462,0,False,residential,Hamilton Road,990.241,,,,,,,,,,,20048422,
+211693483,211640550,0,False,residential,Hamilton Road,735.521,,,,,,,,,,,20048423,
+211693679,211693800,0,False,residential,Cemetery Road,2912.875,,,,,,,,,,,20048428,
+211693679,211707483,0,False,residential,Belson Road,213.79,,,,,,,,,,,20049061,
+211693800,211693679,0,False,residential,Cemetery Road,2912.875,,,,,,,,,,,20048428,
+211693800,211718069,0,False,primary,Main Street,182.605,2,,,,,,,,,,104328430,US 20
+211693800,211718050,0,False,primary,Main Street,624.922,2,,,,,,,,,,104328430,US 20
+211694853,211650574,0,False,secondary,North State Street,183.834,,,,,,,,,,,20048476,NY 76
+211694853,211687133,0,False,secondary,North State Street,482.573,,,,,,,,,,,20048476,NY 76
+211694853,211717964,0,False,residential,Ross Street,609.996,,,,,,,,,,,20050152,
+211694868,211788972,0,False,residential,"['Tefft Road', 'Old State Road']",325.502,,,,,,,,,,,"[20053906, 20052315]",
+211694868,211588402,0,False,secondary,North State Street,449.291,,,,,,,,,,,38266995,NY 76
+211694868,211650574,0,False,secondary,North State Street,679.927,,,,,,,yes,,,,"[38266994, 38266995, 20048476]",NY 76
+211696888,211724265,0,False,primary,West Main Road,197.618,2,,,55 mph,,,,,,,20049854,US 20
+211696888,211589525,0,False,secondary,Shortman Road,585.847,2,,,,,,,,,,"[480344778, 20048582]",
+211696888,444296847,0,False,primary,West Main Road,1763.198,2,,,55 mph,,,,,,,20049854,US 20
+211699093,211699117,0,False,secondary,West Main Street,406.242,,,,,,,,,,,20048690,NY 430
+211699093,211755515,0,False,residential,Pelton Road,55.18,,,,,,,,,,,20051599,
+211699093,211661399,0,False,secondary,,820.241,,,,,,,yes,,,,"[38653336, 38653337, 20054073]",NY 430
+211699117,211699093,0,False,secondary,West Main Street,406.242,,,,,,,,,,,20048690,NY 430
+211699428,211615155,0,False,residential,Pleasant Street,208.718,,,,,,,,,,,20053108,
+211699428,211718463,0,False,secondary,"['Main Street', 'West Main Street']",169.223,,,,,,,,,,,"[20049635, 139486957]",NY 426;NY 430
+211699428,211699439,0,False,secondary,West Main Street,61.066,,,,,,,,,,,139486957,NY 426;NY 430
+211699439,211720263,0,False,residential,Shadyside Road,414.084,,,,,,,,,,,20049692,
+211699439,211699428,0,False,secondary,West Main Street,61.066,,,,,,,,,,,139486957,NY 426;NY 430
+211699439,211693241,0,False,secondary,West Main Street,79.613,,,,,,,,,,,139486957,NY 426;NY 430
+211700617,211642963,0,False,"['residential', 'unclassified']","['Bliss Road', 'Miller Road']",2237.382,,,,,,,,,,,"[20048752, 20049011]",
+211700617,211774954,0,False,unclassified,Sulphur Springs Road,1919.934,,,,,,,,,,,20053131,
+211700617,211774902,0,False,unclassified,Sulphur Springs Road,1166.787,,,,,,,,,,,20053131,
+211701626,211661311,0,False,residential,French Creek Road,107.631,,,,,,,,,,,20048796,
+211701626,211661308,0,False,residential,French Creek Road,155.145,,,,,,,,,,,20048798,
+211706971,211642986,0,False,tertiary,Miller Road,2490.951,,,,,,,,,,,20049019,CR-606
+211706971,211715727,0,False,residential,Irish Road,2647.404,,,,,,,,,,,332359554,
+211707483,211693679,0,False,residential,Belson Road,213.79,,,,,,,,,,,20049061,
+211707483,211691646,0,False,residential,Belson Road,1605.802,,,,,,,,,,,20049061,
+211707483,211731028,0,False,residential,Noble Road,1234.746,,,,,,,,,,,20050222,
+211708613,211661654,0,False,residential,Post Road,1751.742,,,,,,,,,,,20049132,
+211708613,211724455,0,False,residential,Kapta Road,1090.184,,,,,,,,,,,20049866,
+211708613,211770418,0,False,unclassified,Sulphur Springs Road,625.518,,,,,,,,,,,20053131,
+211709338,211640496,0,False,residential,Hoffman Drive,153.456,,,,,,,,,,,20049179,
+211711923,211661656,0,False,residential,Rater Road,510.017,,,,,,,,,,,20049316,
+211711923,211658840,0,False,residential,Klondyke Road,873.726,,,,,,,,,,,20053580,
+211711923,211598701,0,False,residential,"['Camp Road', 'Klondyke Road']",1787.351,,,,,,,,,,,"[20048584, 20053587]",
+211712469,211640519,0,False,residential,Barnes Road,652.481,,,,,,,,,,,20049347,
+211712501,444296847,0,False,primary,Main Street,41.094,2,,,35 mph,,,,,,,20049614,US 20
+211712501,211712537,0,False,residential,Barnes Road,1005.175,,,,,,,,,,,20049349,
+211712501,211717958,0,False,primary,Main Street,360.283,2,,,35 mph,,,,,,,20049614,US 20
+211712537,211712501,0,False,residential,Barnes Road,1005.175,,,,,,,,,,,20049349,
+211713073,211713089,0,False,residential,Tanner Road,1065.176,,,,,,,,,,,20049368,
+211713073,211737178,0,False,secondary,,509.541,,,,,,,,,,,20054073,NY 430
+211713073,211756258,0,False,secondary,,3203.019,,,,,,,,,,,20054073,NY 430
+211713089,211713127,0,False,residential,Tanner Road,931.96,,,,,,,,,,,20049368,
+211713089,211713073,0,False,residential,Tanner Road,1065.176,,,,,,,,,,,20049368,
+211713089,211802567,0,False,residential,Skellie Road,253.425,,,,,,,,,,,20054691,
+211713127,211713127,0,False,residential,Tanner Road,100.291,,,,,,,,,,,20049368,
+211713127,211713127,1,False,residential,Tanner Road,100.291,,,,,,,,,,,20049368,
+211713127,211713089,0,False,residential,Tanner Road,931.96,,,,,,,,,,,20049368,
+211713212,211713212,0,False,residential,Tanner Road,112.521,,,,,,,,,,,20049370,
+211713212,211713212,1,False,residential,Tanner Road,112.521,,,,,,,,,,,20049370,
+211713212,211781246,0,False,residential,"['Tanner Road', 'Hazen Road']",395.673,,,,,,,,,,,"[20049372, 20053485]",
+211715727,211706971,0,False,residential,Irish Road,2647.404,,,,,,,,,,,332359554,
+211716258,211662805,0,False,unclassified,West Mina Road,1216.903,,,,,,,,,,,20049512,
+211716258,211664314,0,False,unclassified,West Mina Road,717.26,,,,,,,,,,,20049512,
+211717958,211673922,0,False,residential,Maple Avenue,143.092,,,,,,,,,,,20050758,
+211717958,211693462,0,False,primary,Main Street,220.962,2,,,35 mph,,,,,,,20049614,US 20
+211717958,211712501,0,False,primary,Main Street,360.283,2,,,35 mph,,,,,,,20049614,US 20
+211717961,211687133,0,False,primary,Main Street,220.69,2,,,35 mph,,,,,,,20049614,US 20
+211717961,211693462,0,False,primary,Main Street,119.539,2,,,35 mph,,,,,,,20049614,US 20
+211717961,211727664,0,False,residential,Goodrich Street,323.362,,,,,,,,,,,20051459,
+211717964,211687133,0,False,primary,Main Street,149.937,2,,,35 mph,,,,,,,20049614,US 20
+211717964,211691553,0,False,primary,Main Street,159.399,2,,,35 mph,,,,,,,20049614,US 20
+211717964,211694853,0,False,residential,Ross Street,609.996,,,,,,,,,,,20050152,
+211718020,211740465,0,False,residential,Brockway Road,13.176,,,,,,,,,,,20050740,
+211718020,211691717,0,False,residential,Brockway Road,1537.552,,,,,,,,,,,20050740,
+211718020,211718050,0,False,primary,Main Street,1177.28,2,,,,,,,,,,104328430,US 20
+211718020,211652225,0,False,primary,Main Street,1274.011,2,,,35 mph,,,,,,,"[20049614, 104328430]",US 20
+211718050,211755622,0,False,residential,Klondike Road,1543.228,,,,,,,,,,,20051610,
+211718050,211693800,0,False,primary,Main Street,624.922,2,,,,,,,,,,104328430,US 20
+211718050,211718020,0,False,primary,Main Street,1177.28,2,,,,,,,,,,104328430,US 20
+211718069,211767970,0,False,residential,Barden Road,848.344,,,,,,,,,,,20052698,
+211718069,211718092,0,False,primary,Main Street,1185.63,2,,,,,,,,,,104328430,US 20
+211718069,211693800,0,False,primary,Main Street,182.605,2,,,,,,,,,,104328430,US 20
+211718092,211718100,0,False,residential,"['Forsyth Road North', 'Forsyth Road']",592.184,,,,,,,,,,,"[20051275, 20050663]",
+211718092,211718100,1,False,primary,Main Street,445.55,2,,,,,,,,,,104328430,US 20
+211718092,211718069,0,False,primary,Main Street,1185.63,2,,,,,,,,,,104328430,US 20
+211718100,211750329,0,False,residential,Forsyth Road North,1284.468,,,,,,,yes,,,,"[38267000, 20051275, 38266999]",
+211718100,211718092,0,False,residential,"['Forsyth Road', 'Forsyth Road North']",592.184,,,,,,,,,,,"[20051275, 20050663]",
+211718100,211718092,1,False,primary,Main Street,445.55,2,,,,,,,,,,104328430,US 20
+211718463,211699428,0,False,secondary,"['Main Street', 'West Main Street']",169.223,,,,,,,,,,,"[20049635, 139486957]",NY 426;NY 430
+211718463,211748947,0,False,secondary,Sunnyside Road,1977.71,,,,,,,,,,,20051202,NY 426
+211718463,211756242,0,False,tertiary,North Road,239.907,,,,,,,,,,,20053734,
+211718463,211651439,0,False,secondary,,186.504,,,,,,,,,,,20054073,NY 430
+211719221,444297210,0,False,residential,West Side Hill Road,397.986,,,,,,,,,,,20049665,
+211719221,211687095,0,False,residential,West Side Hill Road,564.744,,,,,,,,,,,20049665,
+211719221,211642620,0,False,residential,Maple Avenue,635.505,,,,,,,,,,,20050758,
+211719244,211719273,0,False,residential,West Side Hill Road,1897.245,,,,,,,,,,,20049665,
+211719244,444297210,0,False,residential,West Side Hill Road,47.447,,,,,,,,,,,20049665,
+211719244,211800157,0,False,residential,Loomis Street,519.778,,,,,,,,,,,20054560,
+211719273,211719354,0,False,residential,West Side Hill Road,1913.885,,,,,,,,,,,20049665,
+211719273,211719244,0,False,residential,West Side Hill Road,1897.245,,,,,,,,,,,20049665,
+211719273,211724265,0,False,residential,Philips Road,1198.712,,,,,,,,,,,20052351,
+211719354,211719376,0,False,residential,West Side Hill Road,997.315,,,,,,,,,,,20049665,
+211719354,211719273,0,False,residential,West Side Hill Road,1913.885,,,,,,,,,,,20049665,
+211719354,211749945,0,False,unclassified,Carris Road,595.584,,,,,,,,,,,20051249,
+211719376,211659880,0,False,primary,West Main Road,277.826,2,,,40 mph,,,,,,,20048898,US 20
+211719376,211724265,0,False,primary,West Main Road,1711.63,2,,,"['40 mph', '55 mph']",,,,,,,"[20048898, 20049854]",US 20
+211719376,211719354,0,False,residential,West Side Hill Road,997.315,,,,,,,,,,,20049665,
+211719977,211601139,0,False,residential,Shadyside Road,493.166,,,,,,,,,,,20049692,
+211719977,211748914,0,False,secondary,Sunnyside Road,694.778,,,,,,,,,,,20051202,NY 426
+211719977,211748869,0,False,secondary,Sunnyside Road,806.141,,,,,,,,,,,20051202,NY 426
+211720047,211720057,0,False,residential,Shadyside Road,75.441,,,,,,,,,,,20049692,
+211720047,211601139,0,False,residential,Shadyside Road,728.476,,,,,,,,,,,20049692,
+211720047,211621638,0,False,residential,Woodland Shore,56.328,,,,,,,,,,,20049831,
+211720057,211621638,0,False,residential,Woodland Shore,50.596,,,,,,,,,,,20049831,
+211720057,211720125,0,False,residential,Shadyside Road,1151.999,,,,,,,,,,,20049692,
+211720057,211720047,0,False,residential,Shadyside Road,75.441,,,,,,,,,,,20049692,
+211720125,211720160,0,False,residential,Shadyside Road,520.959,,,,,,,,,,,20049692,
+211720125,211720057,0,False,residential,Shadyside Road,1151.999,,,,,,,,,,,20049692,
+211720125,211757448,0,False,residential,Ball Diamond Road,206.38,,,,,,,,,,,20054434,
+211720160,211720163,0,False,residential,Shadyside Road,9.079,,,,,,,,,,,20049692,
+211720160,211720125,0,False,residential,Shadyside Road,520.959,,,,,,,,,,,20049692,
+211720160,211753027,0,False,residential,Shadyside Drive,385.62,,,,,,,,,,,20051409,
+211720163,211720160,0,False,residential,Shadyside Road,9.079,,,,,,,,,,,20049692,
+211720163,211720215,0,False,residential,Shadyside Road,396.916,,,,,,,,,,,20049692,
+211720163,211778701,0,False,residential,8th Street,121.903,,,,,,,,,,,20053340,
+211720215,211720263,0,False,residential,Shadyside Road,864.876,,,,,,,,,,,20049692,
+211720215,211720163,0,False,residential,Shadyside Road,396.916,,,,,,,,,,,20049692,
+211720215,211757448,0,False,residential,Parsonage Road,329.617,,,,,,,,,,,20051759,
+211720263,211699439,0,False,residential,Shadyside Road,414.084,,,,,,,,,,,20049692,
+211720263,211720215,0,False,residential,Shadyside Road,864.876,,,,,,,,,,,20049692,
+211720263,211757448,0,False,residential,Ball Diamond Road,1210.189,,,,,,,,,,,20054434,
+211722324,106903128,0,False,residential,Kress Road,471.189,2,,,,,,,,,,20049774,
+211722324,211757039,0,False,"['residential', 'unclassified']",Greenman Road,1073.794,2,,,,,,yes,,,,"[145923017, 145923022, 145923014]",
+211722324,211662805,0,False,unclassified,Greenman Road,1389.667,2,,,,,,yes,,,,"[145923026, 145923014, 20051727]",
+211723020,211723040,0,False,residential,Greenbush Road,410.729,,,,,,,,,,,20049805,
+211723040,211723061,0,False,residential,Greenbush Road,1007.414,,,,,,,,,,,20049805,
+211723040,211723020,0,False,residential,Greenbush Road,410.729,,,,,,,,,,,20049805,
+211723040,211779063,0,False,residential,East Carris Road,30.808,,,,,,,,,,,20053361,
+211723061,211686943,0,False,residential,Greenbush Road,449.146,,,,,,,,,,,20049805,
+211723061,211723040,0,False,residential,Greenbush Road,1007.414,,,,,,,,,,,20049805,
+211723061,211686955,0,False,residential,Greenbush Road,403.307,,,,,,,,,,,20049808,
+211724265,211696888,0,False,primary,West Main Road,197.618,2,,,55 mph,,,,,,,20049854,US 20
+211724265,211719376,0,False,primary,West Main Road,1711.63,2,,,"['55 mph', '40 mph']",,,,,,,"[20048898, 20049854]",US 20
+211724265,211719273,0,False,residential,Philips Road,1198.712,,,,,,,,,,,20052351,
+211724455,211708613,0,False,residential,Kapta Road,1090.184,,,,,,,,,,,20049866,
+211725073,211730967,0,False,secondary,Sherman Road,1813.294,,,,,,,,,,,307466891,NY 76
+211725073,211767716,0,False,secondary,Sherman Road,1265.816,,,,,,,,,,,307466891,NY 76
+211727648,211642614,0,False,residential,Loomis Street,289.753,,,,,,,,,,,20054562,
+211727648,211727655,0,False,residential,Burton Avenue,398.839,,,,,,,,,,,20050036,
+211727648,444296847,0,False,residential,Loomis Street,414.994,,,,,,,,,,,20054562,
+211727655,211727664,0,False,residential,Burton Avenue,343.153,,,,,,,,,,,20050036,
+211727655,211727648,0,False,residential,Burton Avenue,398.839,,,,,,,,,,,20050036,
+211727655,211673922,0,False,residential,Maple Avenue,205.217,,,,,,,,,,,20050758,
+211727655,211642620,0,False,residential,Maple Avenue,309.7,,,,,,,,,,,20050758,
+211727664,211687110,0,False,residential,Burton Avenue,214.154,,,,,,,,,,,20050036,
+211727664,211727655,0,False,residential,Burton Avenue,343.153,,,,,,,,,,,20050036,
+211727664,211717961,0,False,residential,Goodrich Street,323.362,,,,,,,,,,,20051459,
+211727664,211642623,0,False,residential,Goodrich Street,326.925,,,,,,,,,,,20051459,
+211728952,211691180,0,False,residential,"['1st Avenue', 'Shore Drive']",568.717,,,,,,,,,,,"[20050102, 20048263]",
+211728952,211728973,0,False,secondary,East Lake Road,209.734,,,,55 mph,,,,,,,"[104328427, 20053789]",NY 5
+211728952,211750329,0,False,secondary,East Lake Road,1125.351,,,,55 mph,,,,,,,20053789,NY 5
+211728973,211634010,0,False,secondary,East Lake Road,154.435,,,,,,,,,,,104328427,NY 5
+211728973,211691180,0,False,residential,1st Avenue,367.342,,,,,,,,,,,20050105,
+211728973,211728952,0,False,secondary,East Lake Road,209.734,,,,55 mph,,,,,,,"[104328427, 20053789]",NY 5
+211730967,211731028,0,False,residential,Noble Road,1471.452,,,,,,,,,,,20050222,
+211730967,211636243,0,False,secondary,Sherman Road,1325.968,,,,,,,,,,,307466891,NY 76
+211730967,211725073,0,False,secondary,Sherman Road,1813.294,,,,,,,,,,,307466891,NY 76
+211731028,211707483,0,False,residential,Noble Road,1234.746,,,,,,,,,,,20050222,
+211731028,211730967,0,False,residential,Noble Road,1471.452,,,,,,,,,,,20050222,
+211731028,211587060,0,False,residential,Lombard Road,1211.825,,,,,,,,,,,20054543,
+211737058,211651342,0,False,tertiary,Mina French Creek Road,3950.508,,,,,,,,,,,20050577,
+211737058,211748869,0,False,residential,Harrington Hill Road,1650.597,,,,,,,,,,,20054202,
+211737178,211651342,0,False,tertiary,Mina French Creek Road,1241.237,,,,,,,,,,,20050577,
+211737178,211643505,0,False,secondary,,1450.273,,,,,,,,,,,20054073,NY 430
+211737178,211713073,0,False,secondary,,509.541,,,,,,,,,,,20054073,NY 430
+211740465,211718020,0,False,residential,Brockway Road,13.176,,,,,,,,,,,20050740,
+211740482,211740497,0,False,residential,Brockway Road,850.501,,,,,,,,,,,38266998,
+211740497,211767979,0,False,secondary,East Lake Road,1652.539,,,,55 mph,,,,,,,20053789,NY 5
+211740497,211652264,0,False,secondary,East Lake Road,1209.517,,,,55 mph,,,,,,,20053789,NY 5
+211740497,211740482,0,False,residential,Brockway Road,850.501,,,,,,,,,,,38266998,
+211744110,211744158,0,False,residential,Kupta Road,1272.134,,,,,,,,,,,20050951,
+211744110,211764017,0,False,residential,Hazen Road,1265.502,,,,,,,,,,,20053482,
+211744110,211781246,0,False,residential,Hazen Road,2262.9,,,,,,,,,,,20053482,
+211744158,211744110,0,False,residential,Kupta Road,1272.134,,,,,,,,,,,20050951,
+211748869,211719977,0,False,secondary,Sunnyside Road,806.141,,,,,,,,,,,20051202,NY 426
+211748869,211737058,0,False,residential,Harrington Hill Road,1650.597,,,,,,,,,,,20054202,
+211748914,211748916,0,False,secondary,Sunnyside Road,90.774,,,,,,,,,,,20051202,NY 426
+211748914,211748916,1,False,residential,Meadows Road,276.643,,,,,,,,,,,20053540,
+211748914,211719977,0,False,secondary,Sunnyside Road,694.778,,,,,,,,,,,20051202,NY 426
+211748916,211642730,0,False,secondary,Sunnyside Road,631.969,,,,,,,,,,,20051202,NY 426
+211748916,211748914,0,False,secondary,Sunnyside Road,90.774,,,,,,,,,,,20051202,NY 426
+211748916,211748914,1,False,residential,Meadows Road,276.643,,,,,,,,,,,20053540,
+211748947,211718463,0,False,secondary,Sunnyside Road,1977.71,,,,,,,,,,,20051202,NY 426
+211748947,211642730,0,False,secondary,Sunnyside Road,72.429,,,,,,,,,,,20051202,NY 426
+211748947,211630575,0,False,residential,Case Division,81.427,,,,,,,,,,,20053306,
+211749945,211719354,0,False,unclassified,Carris Road,595.584,,,,,,,,,,,20051249,
+211749978,211686951,0,False,residential,Carris Road,223.786,,,,,,,,,,,20051250,
+211750329,211728952,0,False,secondary,East Lake Road,1125.351,,,,55 mph,,,,,,,20053789,NY 5
+211750329,211649286,0,False,secondary,East Lake Road,502.086,,,,55 mph,,,,,,,20053789,NY 5
+211750329,211718100,0,False,residential,Forsyth Road North,1284.468,,,,,,,yes,,,,"[38267000, 20051275, 38266999]",
+211753027,211720160,0,False,residential,Shadyside Drive,385.62,,,,,,,,,,,20051409,
+211755515,211699093,0,False,residential,Pelton Road,55.18,,,,,,,,,,,20051599,
+211755515,211764017,0,False,residential,Hazen Road,2030.125,,,,,,,,,,,20053482,
+211755622,211755622,0,False,residential,Klondike Road,98.423,,,,,,,,,,,20051606,
+211755622,211755622,1,False,residential,Klondike Road,98.423,,,,,,,,,,,20051606,
+211755622,211718050,0,False,residential,Klondike Road,1543.228,,,,,,,,,,,20051610,
+211756242,211756258,0,False,residential,School Street,250.239,,,,,,,,,,,20051657,
+211756242,211615155,0,False,residential,School Street,181.039,,,,,,,,,,,20051657,
+211756242,211781367,0,False,tertiary,North Road,3657.379,,,,,,,yes,,,,"[38653342, 20053734, 38653343]",CR-606
+211756242,211718463,0,False,tertiary,North Road,239.907,,,,,,,,,,,20053734,
+211756258,211756242,0,False,residential,School Street,250.239,,,,,,,,,,,20051657,
+211756258,211713073,0,False,secondary,,3203.019,,,,,,,,,,,20054073,NY 430
+211756258,211651439,0,False,secondary,,214.834,,,,,,,,,,,20054073,NY 430
+211757039,211677223,0,False,residential,Greenman Road,155.89,,,,,,,,,,,20051728,
+211757039,211677247,0,False,unclassified,Greenman Road,145.395,2,,,,,,,,,,145923017,
+211757039,211722324,0,False,"['residential', 'unclassified']",Greenman Road,1073.794,2,,,,,,yes,,,,"[145923017, 145923014, 145923022]",
+211757448,211720215,0,False,residential,Parsonage Road,329.617,,,,,,,,,,,20051759,
+211757448,211720263,0,False,residential,Ball Diamond Road,1210.189,,,,,,,,,,,20054434,
+211757448,211720125,0,False,residential,Ball Diamond Road,206.38,,,,,,,,,,,20054434,
+211764017,211658780,0,False,tertiary,County Road 622,439.39,,,,,,,,,,,20052366,
+211764017,211643505,0,False,tertiary,County Road 622,1606.537,,,,,,,,,,,20052366,
+211764017,211755515,0,False,residential,Hazen Road,2030.125,,,,,,,,,,,20053482,
+211764017,211744110,0,False,residential,Hazen Road,1265.502,,,,,,,,,,,20053482,
+211767716,211636158,0,False,residential,East Johnson Road,1151.775,,,,,,,,,,,20053826,
+211767716,211725073,0,False,secondary,Sherman Road,1265.816,,,,,,,,,,,307466891,NY 76
+211767716,211685478,0,False,secondary,Sherman Road,2981.203,,,,,,,,,,,307466891,NY 76
+211767829,211676981,0,False,tertiary,Wattesburg Road,1922.817,,,,,,,,,,,20052747,CR-64
+211767829,211686943,0,False,secondary,Sherman Road,58.306,,,,,,,,,,,307466891,NY 76
+211767829,211636243,0,False,secondary,Sherman Road,1194.323,,,,,,,,,,,307466891,NY 76
+211767970,211718069,0,False,residential,Barden Road,848.344,,,,,,,,,,,20052698,
+211767976,211767979,0,False,residential,Barden Road,332.819,,,,,,,,,,,20052702,
+211767979,211767976,0,False,residential,Barden Road,332.819,,,,,,,,,,,20052702,
+211767979,211787435,0,False,secondary,East Lake Road,941.826,,,,55 mph,,,,,,,20053789,NY 5
+211767979,211740497,0,False,secondary,East Lake Road,1652.539,,,,55 mph,,,,,,,20053789,NY 5
+211770418,211770432,0,False,residential,Sinden Road,1285.539,,,,,,,,,,,20052845,
+211770418,211708613,0,False,unclassified,Sulphur Springs Road,625.518,,,,,,,,,,,20053131,
+211770418,211774954,0,False,unclassified,Sulphur Springs Road,1929.539,,,,,,,,,,,20053131,
+211770432,211661548,0,False,residential,Sinden Road,187.036,,,,,,,,,,,20052845,
+211770432,211770418,0,False,residential,Sinden Road,1285.539,,,,,,,,,,,20052845,
+211770432,211661582,0,False,residential,Sinden Road,173.486,,,,,,,,,,,20052848,
+211774902,211700617,0,False,unclassified,Sulphur Springs Road,1166.787,,,,,,,,,,,20053131,
+211774902,106902065,0,False,"['residential', 'unclassified']","['Stetson Road', 'State Line Road']",2327.002,,,,,,,,,,,"[20054568, 20054243, 20054245]",
+211774954,211770418,0,False,unclassified,Sulphur Springs Road,1929.539,,,,,,,,,,,20053131,
+211774954,211700617,0,False,unclassified,Sulphur Springs Road,1919.934,,,,,,,,,,,20053131,
+211774954,211656491,0,False,tertiary,North Road,2453.391,,,,,,,,,,,38653343,CR-606
+211774954,211781367,0,False,tertiary,North Road,1961.527,,,,,,,,,,,38653343,CR-606
+211778181,211640449,0,False,residential,Valley Drive,186.346,,,,,,,,,,,20053318,
+211778701,211720163,0,False,residential,8th Street,121.903,,,,,,,,,,,20053340,
+211779063,211723040,0,False,residential,East Carris Road,30.808,,,,,,,,,,,20053361,
+211781246,211744110,0,False,residential,Hazen Road,2262.9,,,,,,,,,,,20053482,
+211781246,211781367,0,False,residential,Hazen Road,434.927,,,,,,,,,,,20053485,
+211781246,211713212,0,False,residential,"['Tanner Road', 'Hazen Road']",395.673,,,,,,,,,,,"[20049372, 20053485]",
+211781367,211781246,0,False,residential,Hazen Road,434.927,,,,,,,,,,,20053485,
+211781367,211774954,0,False,tertiary,North Road,1961.527,,,,,,,,,,,38653343,CR-606
+211781367,211756242,0,False,tertiary,North Road,3657.379,,,,,,,yes,,,,"[20053734, 38653342, 38653343]",CR-606
+211787435,211649286,0,False,secondary,East Lake Road,197.639,,,,55 mph,,,,,,,20053789,NY 5
+211787435,211767979,0,False,secondary,East Lake Road,941.826,,,,55 mph,,,,,,,20053789,NY 5
+211787435,211793777,0,False,residential,Ripley Beach Road,456.998,,,,,,,,,,,20054198,
+211788972,211694868,0,False,residential,"['Tefft Road', 'Old State Road']",325.502,,,,,,,,,,,"[20053906, 20052315]",
+211793777,211787435,0,False,residential,Ripley Beach Road,456.998,,,,,,,,,,,20054198,
+211800157,211719244,0,False,residential,Loomis Street,519.778,,,,,,,,,,,20054560,
+211800157,211800157,0,False,residential,Loomis Street,99.787,,,,,,,,,,,20054564,
+211800157,211800157,1,False,residential,Loomis Street,99.787,,,,,,,,,,,20054564,
+211802567,211713089,0,False,residential,Skellie Road,253.425,,,,,,,,,,,20054691,
+444296847,211712501,0,False,primary,Main Street,41.094,2,,,35 mph,,,,,,,20049614,US 20
+444296847,211696888,0,False,primary,West Main Road,1763.198,2,,,55 mph,,,,,,,20049854,US 20
+444296847,211727648,0,False,residential,Loomis Street,414.994,,,,,,,,,,,20054562,
+444297195,211642557,0,False,residential,Lakeview Avenue,342.878,,,,,,,,,,,20045883,
+444297195,211691523,0,False,residential,Shaver Street,408.066,,,,,,,,,,,20048288,
+444297195,444297199,0,False,residential,Shaver Street,640.713,,,,,,,,,,,20048288,
+444297199,444297195,0,False,residential,Shaver Street,640.713,,,,,,,,,,,20048288,
+444297199,211623062,0,False,residential,East Side Hill Road,1434.609,,,,,,,,,,,20050861,
+444297199,444297201,0,False,residential,East Side Hill Road,96.551,,,,,,,,,,,20050861,
+444297201,211687075,0,False,residential,Shaver Street,306.751,,,,,,,,,,,20048290,
+444297201,444297199,0,False,residential,East Side Hill Road,96.551,,,,,,,,,,,20050861,
+444297201,211687095,0,False,residential,East Side Hill Road,227.881,,,,,,,,,,,20050861,
+444297210,211719244,0,False,residential,West Side Hill Road,47.447,,,,,,,,,,,20049665,
+444297210,211719221,0,False,residential,West Side Hill Road,397.986,,,,,,,,,,,20049665,
+444297210,211642614,0,False,residential,Loomis Street,638.196,,,,,,,,,,,20054562,
+2703995722,211612157,0,False,secondary,Shortman Road,13.644,2,,,,,,,,,,480344788,
+2703995722,211615064,0,False,secondary,Shortman Road,371.091,2,,,,,,yes,,,,"[480344782, 38266990, 38266992, 38266993, 38266991]",
+2703995722,211612154,0,True,motorway_link,,25.816,1,,,,,,,,,,264749539,
+2703995734,211627055,0,False,secondary,Shortman Road,44.883,2,,,,,,,,,,480344789,
+2703995734,211612157,0,False,secondary,Shortman Road,27.099,2,,,,,,,,,,480344790,
+2703995734,211612154,0,True,motorway_link,,37.302,1,,,,,,,,,,264749538,

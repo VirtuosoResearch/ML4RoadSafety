@@ -1,0 +1,521 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+211823844,211823847,0,False,tertiary,Tom Miller Road,223.018,,,,,,,,,,,35971078,CR 26
+211823844,211918114,0,False,secondary,Military Turnpike,557.859,,,,,,,,,,,139437852,NY 190
+211823844,211918098,0,False,secondary,Military Turnpike,628.456,,,,,,,,,,,139437852,NY 190
+211823847,211874129,0,False,residential,Jubert Lane,201.417,,,,,,,,,,,20060990,
+211823847,211823859,0,False,tertiary,Tom Miller Road,958.776,,,,,,,,,,,35971078,CR 26
+211823847,211823844,0,False,tertiary,Tom Miller Road,223.018,,,,,,,,,,,35971078,CR 26
+211823859,211823847,0,False,tertiary,Tom Miller Road,958.776,,,,,,,,,,,35971078,CR 26
+211823859,211921654,0,False,tertiary,Banker Road,84.84,,,,,,,,,,,139779917,
+211823859,211921608,0,False,tertiary,Banker Road,1366.204,,,,,,,,,,,"[139779909, 139779917]",
+211825146,211858261,0,False,residential,Westland Avenue,288.216,,,,,,,,,,,20066293,
+211825146,211867360,0,False,secondary,Blake Road,117.101,,,,,,,,,,,139199302,NY 3
+211825146,211842756,0,False,secondary,Blake Road,341.599,,,,,,,,,,,139199302,NY 3
+211825414,211990059,0,False,residential,Jennings Road,1998.495,,,,,,,,,,,20069349,
+211826870,211826899,0,False,residential,,150.226,,,,,,,,,,,20056637,
+211826870,211879393,0,False,residential,Park Row Road,268.118,,,,,,,,,,,20067432,
+211826870,211864255,0,False,residential,Park Row Road,692.243,,,,,,,,,,,20067432,
+211826899,211826870,0,False,residential,,150.226,,,,,,,,,,,20056637,
+211831437,5379463678,0,False,residential,"['Baker Road', 'Chase Road']",595.698,,,,,,,,,,,"[20067520, 20064149]",
+211833414,211838781,0,False,secondary,County Road 3,10.876,,,,,,,,,,,20064940,NY 3
+211833414,211990059,0,False,residential,State Highway 970F,130.534,,,,,,,,,,,20068687,
+211833414,211864287,0,True,secondary,Water Street,131.793,,,,,,,,,,,45054121,NY 3
+211833454,211838791,0,False,secondary,,191.831,,,,,,,,,,,39707443,NY 374
+211833454,211833414,0,True,secondary,Water Street,664.795,,,,,,,yes,,,,"[39707440, 39707441, 39707442]",
+211833454,211990078,0,False,secondary,,462.872,,,,,,,,,,,39707443,NY 374
+211835448,211851409,0,False,residential,,36.076,,,,,,,,,,,20059114,
+211837343,211851231,0,False,residential,,10.218,,,,,,,,,,,20059091,
+211837343,211837349,0,False,residential,,28.325,,,,,,,,,,,20057853,
+211837343,211858169,0,False,residential,Hill Top Court,132.664,,,,,,,,,,,20069632,
+211837349,211837343,0,False,residential,,28.325,,,,,,,,,,,20057853,
+211838246,211921690,0,False,tertiary,Banker Road,43.85,,,,,,,,,,,139779917,
+211838246,211838262,0,False,residential,,125.527,,,,,,,,,,,20057973,
+211838246,211858185,0,False,tertiary,Banker Road,164.383,,,,,,,,,,,139779917,
+211838262,211838246,0,False,residential,,125.527,,,,,,,,,,,20057973,
+211838262,211858203,0,False,secondary,State Highway 22B,434.518,,,,,,,,,,,155202314,NY 22B
+211838262,211858185,0,False,secondary,State Highway 22B,102.428,,,,,,,,,,,155202314,NY 22B
+211838781,211833414,0,False,secondary,County Road 3,10.876,,,,,,,,,,,20064940,NY 3
+211838781,211838791,0,True,secondary,Water Street,401.109,,,,,,,,,,,45054122,
+211838781,211851409,0,False,secondary,Blake Road,154.215,,,,,,,,,,,139199302,NY 3
+211838791,211833454,0,False,secondary,,191.831,,,,,,,,,,,39707443,NY 374
+211838791,211990059,0,False,secondary,,435.665,,,,,,,,,,,39707443,NY 374
+211842756,211842760,0,False,residential,,76.785,,,,,,,,,,,20058294,
+211842756,211825146,0,False,secondary,Blake Road,341.599,,,,,,,,,,,139199302,NY 3
+211842756,211858277,0,False,secondary,Blake Road,211.57,,,,,,,,,,,139199302,NY 3
+211842760,211858271,0,False,secondary,State Highway 22B,94.857,,,,,,,,,,,155202314,NY 22B
+211842760,211842756,0,False,residential,,76.785,,,,,,,,,,,20058294,
+211842760,211858277,0,False,secondary,State Highway 22B,153.14,,,,,,,,,,,155202314,NY 22B
+211843198,211843205,0,False,residential,,199.272,,,,,,,,,,,20058325,
+211843198,211979369,0,False,residential,Akey Road,486.499,,,,,,,,,,,20069139,
+211843205,211843198,0,False,residential,,199.272,,,,,,,,,,,20058325,
+211843436,211843458,0,False,residential,,189.598,,,,,,,,,,,20058341,
+211843436,211843470,0,False,residential,Kent Falls Road,300.08,,,,,,,,,,,45054296,
+211843458,211843436,0,False,residential,,189.598,,,,,,,,,,,20058341,
+211843467,211843470,0,False,residential,,35.487,,,,,,,,,,,20058343,
+211843467,211975947,0,False,residential,Goddeau Road,22.563,,,,,,,,,,,155202294,
+211843467,211973995,0,False,residential,Goddeau Road,81.972,,,,,,,,,,,155202294,
+211843470,211843467,0,False,residential,,35.487,,,,,,,,,,,20058343,
+211843470,211975947,0,False,residential,Kent Falls Road,28.771,,,,,,,,,,,45054296,
+211843470,211843436,0,False,residential,Kent Falls Road,300.08,,,,,,,,,,,45054296,
+211845712,211854471,0,False,residential,Adirondack Park,417.835,,,,,,,,,,,20065504,
+211845712,211985780,0,False,residential,Trudeau Road,1034.124,,,,,,,,,,,20068069,
+211845712,3370923698,0,False,residential,Trudeau Road,254.054,,,,,,,,,,,20068069,
+211847784,211847797,0,False,residential,,73.94,,,,,,,,,,,20058777,
+211847797,211847784,0,False,residential,,73.94,,,,,,,,,,,20058777,
+211847797,211882857,0,False,residential,Laurel Lane,224.48,,,,,,,,,,,20067201,
+211850552,211975629,0,False,residential,Baker Road,52.217,,,,,,,,,,,20067520,
+211850552,5379463664,0,False,residential,Baker Road,209.038,,,,,,,,,,,20067520,
+211850552,211980434,0,False,residential,Norman Road,179.69,,,,,,,,,,,20067788,
+211851187,211851200,0,False,residential,,245.018,,,,,,,,,,,20059087,
+211851187,211990078,0,False,secondary,,801.56,,,,,,,,,,,39707443,NY 374
+211851187,211923489,0,False,secondary,,632.729,,,,,,,,,,,39707443,NY 374
+211851200,211851187,0,False,residential,,245.018,,,,,,,,,,,20059087,
+211851231,211837343,0,False,residential,,10.218,,,,,,,,,,,20059091,
+211851409,211835448,0,False,residential,,36.076,,,,,,,,,,,20059114,
+211851409,211838781,0,False,secondary,Blake Road,154.215,,,,,,,,,,,139199302,NY 3
+211851409,211987918,0,False,secondary,Blake Road,825.71,,,,,,,,,,,139199302,NY 3
+211851409,3613427144,0,False,residential,Goddeau Road,589.246,,,,,,,,,,,155202294,
+211852463,211916485,0,False,residential,Myrons Place,92.8,,,,,,,,,,,20069630,
+211852463,211987916,0,False,secondary,Blake Road,225.472,,,,,,,,,,,139199302,NY 3
+211852463,211882821,0,False,secondary,Blake Road,873.307,,,,,,,,,,,139199302,NY 3
+211852567,211852570,0,False,residential,,55.869,,,,,,,,,,,20059236,
+211852570,211852567,0,False,residential,,55.869,,,,,,,,,,,20059236,
+211852570,211858174,0,False,residential,Grace Street,238.886,,,,,,,,,,,20067494,
+211852570,211858177,0,False,residential,Brookside Avenue,409.731,,,,,,,,,,,20068472,
+211852582,211964936,0,False,residential,Rand Hill Road,35.354,,,,,,,,,,,20067058,
+211852582,211852614,0,False,residential,,803.365,,,,,,,,,,,20059241,
+211852614,211968588,0,False,residential,Rand Hill Road,105.273,,,,,,,,,,,20067058,
+211852614,211852582,0,False,residential,,803.365,,,,,,,,,,,20059241,
+211852614,211888157,0,False,residential,Rand Hill Road,301.41,,,,,,,,,,,20067058,
+211853438,211853443,0,False,residential,,49.206,,,,,,,,,,,20059324,
+211853438,211876565,0,False,residential,Nuthatch Lane,145.462,,,,,,,,,,,20061172,
+211853438,211882823,0,False,residential,Black Bear Path,334.56,,,,,,,,,,,20068833,
+211853443,211853438,0,False,residential,,49.206,,,,,,,,,,,20059324,
+211853713,444345139,0,False,secondary,Blake Road,49.435,,,,,,,,,,,139199302,NY 3
+211853713,211853732,0,False,secondary_link,,67.535,,,,,,,,,,,20059354,
+211853713,211907869,0,False,secondary,Blake Road,127.354,,,,,,,,,,,139199302,NY 3
+211853732,211907847,0,False,secondary,Military Turnpike,151.137,,,,,,,,,,,139437852,NY 190
+211853732,211853713,0,False,secondary_link,,67.535,,,,,,,,,,,20059354,
+211853732,444345139,0,False,secondary,Military Turnpike,61.008,,,,,,,,,,,139437852,NY 190
+211854471,211845712,0,False,residential,Adirondack Park,417.835,,,,,,,,,,,20065504,
+211858152,211867384,0,False,residential,Stillmeadow Lane,524.094,,,,,,,,,,,20060465,
+211858152,211968786,0,False,residential,Rand Hill Road,155.881,,,,,,,,,,,20067068,
+211858152,211858160,0,False,secondary,State Highway 22B,103.305,,,,,,,,,,,155202314,NY 22B
+211858160,211858164,0,False,secondary,State Highway 22B,241.887,,,,,,,,,,,155202314,NY 22B
+211858160,211989237,0,False,residential,Bushey Street,125.101,,,,,,,,,,,20068219,
+211858160,211858152,0,False,secondary,State Highway 22B,103.305,,,,,,,,,,,155202314,NY 22B
+211858164,211858160,0,False,secondary,State Highway 22B,241.887,,,,,,,,,,,155202314,NY 22B
+211858164,211908200,0,False,residential,La Pierre Lane,188.551,,,,,,,,,,,20063473,
+211858164,211858169,0,False,secondary,State Highway 22B,120.579,,,,,,,,,,,155202314,NY 22B
+211858169,211858171,0,False,secondary,State Highway 22B,53.882,,,,,,,,,,,155202314,NY 22B
+211858169,211837343,0,False,residential,Hill Top Court,132.664,,,,,,,,,,,20069632,
+211858169,211858164,0,False,secondary,State Highway 22B,120.579,,,,,,,,,,,155202314,NY 22B
+211858171,211952970,0,False,residential,Jan Street,104.187,,,,,,,,,,,20066156,
+211858171,211858174,0,False,secondary,State Highway 22B,10.234,,,,,,,,,,,155202314,NY 22B
+211858171,211858169,0,False,secondary,State Highway 22B,53.882,,,,,,,,,,,155202314,NY 22B
+211858174,211858177,0,False,secondary,State Highway 22B,173.345,,,,,,,,,,,155202314,NY 22B
+211858174,211858171,0,False,secondary,State Highway 22B,10.234,,,,,,,,,,,155202314,NY 22B
+211858174,211852570,0,False,residential,Grace Street,238.886,,,,,,,,,,,20067494,
+211858177,211858174,0,False,secondary,State Highway 22B,173.345,,,,,,,,,,,155202314,NY 22B
+211858177,211852570,0,False,residential,Brookside Avenue,409.731,,,,,,,,,,,20068472,
+211858177,211858185,0,False,secondary,State Highway 22B,109.052,,,,,,,,,,,155202314,NY 22B
+211858185,211838246,0,False,tertiary,Banker Road,164.383,,,,,,,,,,,139779917,
+211858185,211838262,0,False,secondary,State Highway 22B,102.428,,,,,,,,,,,155202314,NY 22B
+211858185,211858177,0,False,secondary,State Highway 22B,109.052,,,,,,,,,,,155202314,NY 22B
+211858203,211873377,0,False,residential,Pine Brook Drive,68.899,,,,,,,,,,,20060914,
+211858203,211858214,0,False,secondary,State Highway 22B,128.198,,,,,,,,,,,155202314,NY 22B
+211858203,211838262,0,False,secondary,State Highway 22B,434.518,,,,,,,,,,,155202314,NY 22B
+211858214,211873361,0,False,residential,Barcomb Avenue,599.132,,,,,,,,,,,20068176,
+211858214,211858229,0,False,secondary,State Highway 22B,184.763,,,,,,,,,,,155202314,NY 22B
+211858214,211858203,0,False,secondary,State Highway 22B,128.198,,,,,,,,,,,155202314,NY 22B
+211858229,211978503,0,False,residential,Val Haven Estates,158.979,,,,,,,,,,,20067682,
+211858229,211858243,0,False,secondary,State Highway 22B,263.581,,,,,,,,,,,155202314,NY 22B
+211858229,211858214,0,False,secondary,State Highway 22B,184.763,,,,,,,,,,,155202314,NY 22B
+211858243,211858856,0,False,residential,Fairview Court,65.104,,,,,,,,,,,20059868,
+211858243,211858254,0,False,secondary,State Highway 22B,137.567,,,,,,,,,,,155202314,NY 22B
+211858243,211858229,0,False,secondary,State Highway 22B,263.581,,,,,,,,,,,155202314,NY 22B
+211858254,211858257,0,False,secondary,State Highway 22B,70.905,,,,,,,,,,,155202314,NY 22B
+211858254,211999853,0,False,residential,Fairground Road,1133.35,,,,,,,,,,,20068724,
+211858254,211858243,0,False,secondary,State Highway 22B,137.567,,,,,,,,,,,155202314,NY 22B
+211858257,211858261,0,False,secondary,State Highway 22B,84.547,,,,,,,,,,,155202314,NY 22B
+211858257,211858254,0,False,secondary,State Highway 22B,70.905,,,,,,,,,,,155202314,NY 22B
+211858257,211867360,0,False,residential,Sheila Avenue,366.781,,,,,,,,,,,20060457,
+211858261,211858257,0,False,secondary,State Highway 22B,84.547,,,,,,,,,,,155202314,NY 22B
+211858261,211825146,0,False,residential,Westland Avenue,288.216,,,,,,,,,,,20066293,
+211858261,211858271,0,False,secondary,State Highway 22B,221.026,,,,,,,,,,,155202314,NY 22B
+211858271,211842760,0,False,secondary,State Highway 22B,94.857,,,,,,,,,,,155202314,NY 22B
+211858271,211952380,0,False,residential,Chantecler Court,295.048,,,,,,,,,,,20066121,
+211858271,211858261,0,False,secondary,State Highway 22B,221.026,,,,,,,,,,,155202314,NY 22B
+211858277,211952380,0,False,residential,Chantecler Court,36.272,,,,,,,,,,,20066121,
+211858277,211842756,0,False,secondary,Blake Road,211.57,,,,,,,,,,,139199302,NY 3
+211858277,211920831,0,False,secondary,Blake Road,560.145,,,,,,,,,,,139199302,NY 3
+211858277,211842760,0,False,secondary,State Highway 22B,153.14,,,,,,,,,,,155202314,NY 22B
+211858856,211858243,0,False,residential,Fairview Court,65.104,,,,,,,,,,,20059868,
+211860034,211968780,0,False,residential,Rand Hill Road,6.808,,,,,,,,,,,20067068,
+211860034,211860042,0,False,residential,Hilltop Court,141.449,,,,,,,,,,,20059967,
+211860034,211968786,0,False,residential,Rand Hill Road,80.577,,,,,,,,,,,20067068,
+211860042,211860034,0,False,residential,Hilltop Court,141.449,,,,,,,,,,,20059967,
+211863224,211954818,0,False,residential,Rand Hill Road,425.244,,,,,,,,,,,20067068,
+211863224,211863258,0,False,residential,Catherine Hayes Road,403.18,,,,,,,,,,,20060233,
+211863224,211968753,0,False,residential,Rand Hill Road,164.866,,,,,,,,,,,20067068,
+211863258,211863224,0,False,residential,Catherine Hayes Road,403.18,,,,,,,,,,,20060233,
+211863258,211863258,0,False,residential,Catherine Hayes Road,178.4,,,,,,,,,,,20060238,
+211863258,211863258,1,False,residential,Catherine Hayes Road,178.4,,,,,,,,,,,20060238,
+211864125,211864136,0,False,secondary,Water Street,139.981,,,,,,,,,,,155219633,NY 3
+211864136,211864139,0,False,secondary,Water Street,62.63,,,,,,,,,,,155219633,NY 3
+211864136,211882857,0,False,residential,Gougeville Springs Road,339.644,,,,,,,,,,,20061635,
+211864136,211864125,0,False,secondary,Water Street,139.981,,,,,,,,,,,155219633,NY 3
+211864139,211864136,0,False,secondary,Water Street,62.63,,,,,,,,,,,155219633,NY 3
+211864139,3370923698,0,False,residential,Trudeau Road,530.787,,,,,,,,,,,20068069,
+211864139,211864149,0,False,secondary,Water Street,281.599,,,,,,,,,,,155219633,NY 3
+211864149,211912871,0,False,residential,Cadyville Water Tower Road,210.041,,,,,,,,,,,20063872,
+211864149,211864180,0,False,secondary,Water Street,455.8,,,,,,,,,,,155219633,NY 3
+211864149,211864139,0,False,secondary,Water Street,281.599,,,,,,,,,,,155219633,NY 3
+211864180,211882857,0,False,residential,Gougeville Springs Road,466.238,,,,,,,,,,,20061635,
+211864180,211864186,0,False,secondary,Water Street,170.624,,,,,,,,,,,155219633,NY 3
+211864180,211864149,0,False,secondary,Water Street,455.8,,,,,,,,,,,155219633,NY 3
+211864186,211981904,0,False,residential,O'Connell Road,213.574,,,,,,,,,,,20067876,
+211864186,211864235,0,False,secondary,Water Street,1287.069,,,,,,,,,,,155219633,NY 3
+211864186,211864180,0,False,secondary,Water Street,170.624,,,,,,,,,,,155219633,NY 3
+211864235,211893211,0,False,residential,Harney Bridge Road,92.575,,,,,,,,,,,93815096,
+211864235,211864241,0,False,secondary,Water Street,49.207,,,,,,,,,,,155219633,NY 3
+211864235,211864186,0,False,secondary,Water Street,1287.069,,,,,,,,,,,155219633,NY 3
+211864241,211924371,0,False,residential,Church Road,473.416,,,,,,,,,,,20064750,
+211864241,211864247,0,False,secondary,Water Street,86.584,,,,,,,,,,,155219633,NY 3
+211864241,211864235,0,False,secondary,Water Street,49.207,,,,,,,,,,,155219633,NY 3
+211864247,211893224,0,False,residential,Gen R Parker Avenue,92.608,,,,,,,,,,,20065155,
+211864247,211864255,0,False,secondary,Water Street,111.882,,,,,,,,,,,155219633,NY 3
+211864247,211864241,0,False,secondary,Water Street,86.584,,,,,,,,,,,155219633,NY 3
+211864255,211826870,0,False,residential,Park Row Road,692.243,,,,,,,,,,,20067432,
+211864255,211864287,0,False,secondary,Water Street,1000.94,,,,,,,,,,,155219633,NY 3
+211864255,211864247,0,False,secondary,Water Street,111.882,,,,,,,,,,,155219633,NY 3
+211864287,211838781,0,True,secondary,Water Street,138.94,,,,,,,,,,,20058039,NY 3
+211864287,211864255,0,False,secondary,Water Street,1000.94,,,,,,,,,,,155219633,NY 3
+211867360,211858257,0,False,residential,Sheila Avenue,366.781,,,,,,,,,,,20060457,
+211867360,211909857,0,False,secondary,Blake Road,592.367,,,,,,,,,,,139199302,NY 3
+211867360,211825146,0,False,secondary,Blake Road,117.101,,,,,,,,,,,139199302,NY 3
+211867384,211858152,0,False,residential,Stillmeadow Lane,524.094,,,,,,,,,,,20060465,
+211873213,211873235,0,False,residential,Terry Lane,166.508,,,,,,,,,,,20060902,
+211873213,211884510,0,False,residential,Bradford Road,760.71,,,,,,,,,,,20061755,
+211873213,211884471,0,False,residential,Bradford Road,1003.457,,,,,,,,,,,20061755,
+211873235,211873213,0,False,residential,Terry Lane,166.508,,,,,,,,,,,20060902,
+211873358,211873361,0,False,residential,Pine Brook Drive,109.975,,,,,,,,,,,20060914,
+211873358,211873358,0,False,residential,Pine Brook Drive,86.415,,,,,,,,,,,20060918,
+211873358,211873358,1,False,residential,Pine Brook Drive,86.415,,,,,,,,,,,20060918,
+211873361,211873377,0,False,residential,Pine Brook Drive,537.987,,,,,,,,,,,20060914,
+211873361,211873358,0,False,residential,Pine Brook Drive,109.975,,,,,,,,,,,20060914,
+211873361,211858214,0,False,residential,Barcomb Avenue,599.132,,,,,,,,,,,20068176,
+211873377,211858203,0,False,residential,Pine Brook Drive,68.899,,,,,,,,,,,20060914,
+211873377,211873361,0,False,residential,Pine Brook Drive,537.987,,,,,,,,,,,20060914,
+211873377,211997242,0,False,residential,Ilene Drive,95.977,,,,,,,,,,,20068570,
+211873946,211873955,0,False,residential,Bracken Road,264.235,,,,,,,,,,,20060960,
+211873946,211968753,0,False,residential,Rand Hill Road,50.778,,,,,,,,,,,20067068,
+211873946,211968735,0,False,residential,Rand Hill Road,351.457,,,,,,,,,,,20067068,
+211873955,211873946,0,False,residential,Bracken Road,264.235,,,,,,,,,,,20060960,
+211873955,211968735,0,False,secondary,Blake Road,213.651,,,,,,,,,,,139199302,NY 3
+211873955,211884430,0,False,secondary,Blake Road,412.35,,,,,,,,,,,139199302,NY 3
+211874129,211823847,0,False,residential,Jubert Lane,201.417,,,,,,,,,,,20060990,
+211876565,211853438,0,False,residential,Nuthatch Lane,145.462,,,,,,,,,,,20061172,
+211876565,211881185,0,False,residential,Twin Birch Lane,221.2,,,,,,,,,,,20061522,
+211876565,211881148,0,False,residential,Twin Birch Lane,266.892,,,,,,,,,,,20061522,
+211877225,211877244,0,False,residential,St Louis Drive,138.969,,,,,,,,,,,20061234,
+211877225,211901523,0,False,secondary,Blake Road,278.098,,,,,,,,,,,139199302,NY 3
+211877225,211968735,0,False,secondary,Blake Road,677.099,,,,,,,,,,,139199302,NY 3
+211877244,211877264,0,False,residential,St Louis Drive,60.266,,,,,,,,,,,20061234,
+211877244,211877264,1,False,residential,Saint Louis Drive,42.976,,,,,,,,,,,20062936,
+211877244,211877225,0,False,residential,St Louis Drive,138.969,,,,,,,,,,,20061234,
+211877264,211877273,0,False,residential,St Louis Drive,20.715,,,,,,,,,,,20061235,
+211877264,211877244,0,False,residential,St Louis Drive,60.266,,,,,,,,,,,20061234,
+211877264,211877244,1,False,residential,Saint Louis Drive,42.976,,,,,,,,,,,20062936,
+211877273,211877264,0,False,residential,St Louis Drive,20.715,,,,,,,,,,,20061235,
+211877566,211877584,0,False,residential,Vista Drive,255.281,,,,,,,,,,,20061254,
+211877566,211987798,0,False,secondary,Blake Road,396.697,,,,,,,,,,,139199302,NY 3
+211877566,211921654,0,False,secondary,Blake Road,1142.329,,,,,,,,,,,139199302,NY 3
+211877584,211877566,0,False,residential,Vista Drive,255.281,,,,,,,,,,,20061254,
+211879393,211879414,0,False,residential,Shady Lane,330.234,,,,,,,,,,,20061392,
+211879393,211973995,0,False,residential,Park Row Road,236.272,,,,,,,,,,,20067432,
+211879393,211826870,0,False,residential,Park Row Road,268.118,,,,,,,,,,,20067432,
+211879414,3613427144,0,False,residential,Goddeau Road,45.422,,,,,,,,,,,155202294,
+211879414,211973995,0,False,residential,Goddeau Road,100.394,,,,,,,,,,,155202294,
+211879414,211879393,0,False,residential,Shady Lane,330.234,,,,,,,,,,,20061392,
+211880788,211990059,0,False,secondary,,178.889,,,,,,,,,,,39707443,NY 374
+211880788,211880799,0,False,residential,Darrah Road,88.311,,,,,,,,,,,20061491,
+211880788,211924395,0,False,secondary,,1123.401,,,,,,,,,,,39707443,NY 374
+211880799,211880788,0,False,residential,Darrah Road,88.311,,,,,,,,,,,20061491,
+211880799,211880799,0,False,residential,Darrah Road,85.152,,,,,,,,,,,20061494,
+211880799,211880799,1,False,residential,Darrah Road,85.152,,,,,,,,,,,20061494,
+211881148,211882826,0,False,residential,Blueberry Hill Road,32.844,,,,,,,,,,,20061630,
+211881148,211882823,0,False,residential,Blueberry Hill Road,109.896,,,,,,,,,,,20061630,
+211881148,211876565,0,False,residential,Twin Birch Lane,266.892,,,,,,,,,,,20061522,
+211881185,211876565,0,False,residential,Twin Birch Lane,221.2,,,,,,,,,,,20061522,
+211882417,211882435,0,False,residential,Labarge Drive,187.684,,,,,,,,,,,20061609,
+211882417,212019650,0,False,residential,Four Seasons Drive,118.166,,,,,,,,,,,20070203,
+211882417,211987798,0,False,residential,Four Seasons Drive,80.585,,,,,,,,,,,20070203,
+211882435,211882417,0,False,residential,Labarge Drive,187.684,,,,,,,,,,,20061609,
+211882821,211882823,0,False,residential,Blueberry Hill Road,25.53,,,,,,,,,,,20061630,
+211882821,211852463,0,False,secondary,Blake Road,873.307,,,,,,,,,,,139199302,NY 3
+211882821,211901497,0,False,secondary,Blake Road,573.314,,,,,,,,,,,139199302,NY 3
+211882823,211881148,0,False,residential,Blueberry Hill Road,109.896,,,,,,,,,,,20061630,
+211882823,211882821,0,False,residential,Blueberry Hill Road,25.53,,,,,,,,,,,20061630,
+211882823,211853438,0,False,residential,Black Bear Path,334.56,,,,,,,,,,,20068833,
+211882826,211881148,0,False,residential,Blueberry Hill Road,32.844,,,,,,,,,,,20061630,
+211882857,211864136,0,False,residential,Gougeville Springs Road,339.644,,,,,,,,,,,20061635,
+211882857,211864180,0,False,residential,Gougeville Springs Road,466.238,,,,,,,,,,,20061635,
+211882857,211847797,0,False,residential,Laurel Lane,224.48,,,,,,,,,,,20067201,
+211884430,211980542,0,False,secondary,Blake Road,21.705,,,,,,,,,,,139199302,NY 3
+211884430,211884435,0,False,residential,Bradford Road,114.827,,,,,,,,,,,20061755,
+211884430,211873955,0,False,secondary,Blake Road,412.35,,,,,,,,,,,139199302,NY 3
+211884435,211884440,0,False,residential,Bradford Road,229.049,,,,,,,,,,,20061755,
+211884435,211884430,0,False,residential,Bradford Road,114.827,,,,,,,,,,,20061755,
+211884435,2334093749,0,False,residential,Fay Lane,292.339,,,,,,,,,,,20069818,
+211884440,211884448,0,False,residential,Bradford Road,78.66,,,,,,,,,,,20061755,
+211884440,211884435,0,False,residential,Bradford Road,229.049,,,,,,,,,,,20061755,
+211884440,211968729,0,False,secondary,,680.735,,,,,,,,,,,39707443,NY 374
+211884440,211921608,0,False,secondary,,1655.068,,,,,,,,,,,39707443,NY 374
+211884448,211884467,0,False,residential,Bradford Road,504.967,,,,,,,,,,,20061755,
+211884448,211884440,0,False,residential,Bradford Road,78.66,,,,,,,,,,,20061755,
+211884448,212023505,0,False,residential,Village Drive,473.148,,,,,,,,,,,20070496,
+211884467,211884471,0,False,residential,Bradford Road,107.691,,,,,,,,,,,20061755,
+211884467,211884448,0,False,residential,Bradford Road,504.967,,,,,,,,,,,20061755,
+211884467,212018877,0,False,residential,Sherman Place North,260.18,,,,,,,,,,,20070134,
+211884471,211873213,0,False,residential,Bradford Road,1003.457,,,,,,,,,,,20061755,
+211884471,211884467,0,False,residential,Bradford Road,107.691,,,,,,,,,,,20061755,
+211884471,211921596,0,False,residential,Robinson Road,1442.988,,,,,,,,,,,20068307,
+211884510,211873213,0,False,residential,Bradford Road,760.71,,,,,,,,,,,20061755,
+211884510,211918025,0,False,secondary,Military Turnpike,344.824,,,,,,,,,,,139437852,NY 190
+211888157,211852614,0,False,residential,Rand Hill Road,301.41,,,,,,,,,,,20067058,
+211888157,211919103,0,False,residential,Rand Hill Road,1178.175,,,,,,,,,,,20067068,
+211888157,211983248,0,False,residential,Town Line Road,613.801,,,,,,,,,,,20067945,
+211893211,211893224,0,False,residential,Duke Avenue,170.347,,,,,,,,,,,20062375,
+211893211,211864235,0,False,residential,Harney Bridge Road,92.575,,,,,,,,,,,93815096,
+211893211,211929837,0,False,residential,Harney Bridge Road,112.921,,,,,,,,,,,93815096,
+211893224,211864247,0,False,residential,Gen R Parker Avenue,92.608,,,,,,,,,,,20065155,
+211893224,211893211,0,False,residential,Duke Avenue,170.347,,,,,,,,,,,20062375,
+211893224,211929837,0,False,residential,Gen R Parker Avenue,294.203,,,,,,,,,,,20065155,
+211897463,211979369,0,False,residential,Akey Road,331.222,,,,,,,,,,,20069139,
+211897463,211979369,1,False,residential,"['Pine Knoll Drive', 'Bittersweet Lane']",639.042,,,,,,,,,,,"[20067730, 20062687]",
+211897463,211990078,0,False,residential,Akey Road,291.899,,,,,,,,,,,20069139,
+211901497,211901523,0,False,residential,Pine Crest Drive,472.629,,,,,,,,,,,20062933,
+211901497,211901523,1,False,secondary,Blake Road,463.289,,,,,,,,,,,139199302,NY 3
+211901497,211882821,0,False,secondary,Blake Road,573.314,,,,,,,,,,,139199302,NY 3
+211901523,211901497,0,False,residential,Pine Crest Drive,472.629,,,,,,,,,,,20062933,
+211901523,211901497,1,False,secondary,Blake Road,463.289,,,,,,,,,,,139199302,NY 3
+211901523,211877225,0,False,secondary,Blake Road,278.098,,,,,,,,,,,139199302,NY 3
+211907847,211853732,0,False,secondary,Military Turnpike,151.137,,,,,,,,,,,139437852,NY 190
+211907847,2869399536,0,False,secondary,Military Turnpike,34.047,,,,,,,,,,,139437852,NY 190
+211907847,211907869,0,False,residential,Burnell Lane,209.489,,,,,,,,,,,20063446,
+211907869,211920831,0,False,secondary,Blake Road,33.91,,,,,,,,,,,139199302,NY 3
+211907869,211907847,0,False,residential,Burnell Lane,209.489,,,,,,,,,,,20063446,
+211907869,211853713,0,False,secondary,Blake Road,127.354,,,,,,,,,,,139199302,NY 3
+211908200,211858164,0,False,residential,La Pierre Lane,188.551,,,,,,,,,,,20063473,
+211908494,211968780,0,False,residential,Rand Hill Road,128.893,,,,,,,,,,,20067068,
+211908494,211908544,0,False,residential,Rand Hill Road,145.707,,,,,,,,,,,20067068,
+211908494,211908517,0,False,residential,Cemetery Road,289.121,,,,,,,,,,,20063497,
+211908517,211908494,0,False,residential,Cemetery Road,289.121,,,,,,,,,,,20063497,
+211908544,211908494,0,False,residential,Rand Hill Road,145.707,,,,,,,,,,,20067068,
+211908544,211908549,0,False,residential,Cemetery Road,32.594,,,,,,,,,,,20063501,
+211908544,211912894,0,False,residential,Kimberly Lane,463.139,,,,,,,,,,,20063876,
+211908544,211961224,0,False,residential,Rand Hill Road,113.417,,,,,,,,,,,20067068,
+211908549,211908544,0,False,residential,Cemetery Road,32.594,,,,,,,,,,,20063501,
+211909815,211909815,0,False,residential,Conifer Circle,88.828,,,,,,,,,,,20063617,
+211909815,211909815,1,False,residential,Conifer Circle,88.828,,,,,,,,,,,20063617,
+211909815,211909857,0,False,residential,Conifer Circle,207.002,,,,,,,,,,,20063620,
+211909857,211921654,0,False,secondary,Blake Road,164.657,,,,,,,,,,,139199302,NY 3
+211909857,211909815,0,False,residential,Conifer Circle,207.002,,,,,,,,,,,20063620,
+211909857,211867360,0,False,secondary,Blake Road,592.367,,,,,,,,,,,139199302,NY 3
+211912489,211912548,0,False,residential,Coal Road,337.376,,,,,,,,,,,20063839,
+211912489,211985780,0,False,secondary,,1995.004,,,,,,,,,,,39707443,NY 374
+211912489,211924386,0,False,secondary,,407.425,,,,,,,,,,,39707443,NY 374
+211912548,211912489,0,False,residential,Coal Road,337.376,,,,,,,,,,,20063839,
+211912871,211864149,0,False,residential,Cadyville Water Tower Road,210.041,,,,,,,,,,,20063872,
+211912894,211912896,0,False,residential,Kimberly Lane,81.379,,,,,,,,,,,20063876,
+211912894,211919395,0,False,residential,Rockland Drive,160.437,,,,,,,,,,,20064352,
+211912894,211908544,0,False,residential,Kimberly Lane,463.139,,,,,,,,,,,20063876,
+211912896,211912894,0,False,residential,Kimberly Lane,81.379,,,,,,,,,,,20063876,
+211912896,211912939,0,False,residential,Kimberly Lane,531.748,,,,,,,,,,,20063876,
+211912896,211968780,0,False,residential,Pine Ridge Drive,730.648,,,,,,,,,,,20068031,
+211912939,211912896,0,False,residential,Kimberly Lane,531.748,,,,,,,,,,,20063876,
+211916485,211916485,0,False,residential,Myron Place,98.719,,,,,,,,,,,20064127,
+211916485,211916485,1,False,residential,Myron Place,98.719,,,,,,,,,,,20064127,
+211916485,211852463,0,False,residential,Myrons Place,92.8,,,,,,,,,,,20069630,
+211918025,211918066,0,False,secondary,Military Turnpike,1305.606,,,,,,,,,,,139437852,NY 190
+211918025,211884510,0,False,secondary,Military Turnpike,344.824,,,,,,,,,,,139437852,NY 190
+211918066,211921596,0,False,residential,Robinson Road,34.941,,,,,,,,,,,20068307,
+211918066,211918087,0,False,secondary,Military Turnpike,362.794,,,,,,,,,,,139437852,NY 190
+211918066,211918025,0,False,secondary,Military Turnpike,1305.606,,,,,,,,,,,139437852,NY 190
+211918087,211921608,0,False,secondary,,272.743,,,,,,,,,,,39707443,NY 374
+211918087,211990199,0,False,secondary,,770.233,,,,,,,,,,,39707443,NY 374
+211918087,211918098,0,False,secondary,Military Turnpike,952.89,,,,,,,,,,,139437852,NY 190
+211918087,211918066,0,False,secondary,Military Turnpike,362.794,,,,,,,,,,,139437852,NY 190
+211918098,211823844,0,False,secondary,Military Turnpike,628.456,,,,,,,,,,,139437852,NY 190
+211918098,211918087,0,False,secondary,Military Turnpike,952.89,,,,,,,,,,,139437852,NY 190
+211918114,2869399536,0,False,secondary,Military Turnpike,456.504,,,,,,,,,,,139437852,NY 190
+211918114,211823844,0,False,secondary,Military Turnpike,557.859,,,,,,,,,,,139437852,NY 190
+211919103,211919108,0,False,residential,Pine View Terrace,163.087,,,,,,,,,,,20064324,
+211919103,211968729,0,False,residential,Rand Hill Road,1100.699,,,,,,,,,,,20067068,
+211919103,211888157,0,False,residential,Rand Hill Road,1178.175,,,,,,,,,,,20067068,
+211919108,211919103,0,False,residential,Pine View Terrace,163.087,,,,,,,,,,,20064324,
+211919395,211912894,0,False,residential,Rockland Drive,160.437,,,,,,,,,,,20064352,
+211919395,211961241,0,False,residential,Ashton Drive,141.195,,,,,,,,,,,20066503,
+211919395,211961224,0,False,residential,Ashton Drive,435.85,,,,,,,,,,,20066503,
+211920831,211907869,0,False,secondary,Blake Road,33.91,,,,,,,,,,,139199302,NY 3
+211920831,211858277,0,False,secondary,Blake Road,560.145,,,,,,,,,,,139199302,NY 3
+211921596,211921608,0,False,residential,Banker Road,304.196,,,,,,,,,,,20064545,
+211921596,211884471,0,False,residential,Robinson Road,1442.988,,,,,,,,,,,20068307,
+211921596,211918066,0,False,residential,Robinson Road,34.941,,,,,,,,,,,20068307,
+211921608,211921596,0,False,residential,Banker Road,304.196,,,,,,,,,,,20064545,
+211921608,211884440,0,False,secondary,,1655.068,,,,,,,,,,,39707443,NY 374
+211921608,211918087,0,False,secondary,,272.743,,,,,,,,,,,39707443,NY 374
+211921608,211823859,0,False,tertiary,Banker Road,1366.204,,,,,,,,,,,"[139779917, 139779909]",
+211921654,211909857,0,False,secondary,Blake Road,164.657,,,,,,,,,,,139199302,NY 3
+211921654,211877566,0,False,secondary,Blake Road,1142.329,,,,,,,,,,,139199302,NY 3
+211921654,211921670,0,False,tertiary,Banker Road,367.709,,,,,,,,,,,139779917,
+211921654,211823859,0,False,tertiary,Banker Road,84.84,,,,,,,,,,,139779917,
+211921670,211921673,0,False,residential,Old Orchard Street,176.716,,,,,,,,,,,20070358,
+211921670,211921673,1,False,tertiary,Banker Road,52.569,,,,,,,,,,,139779917,
+211921670,211921654,0,False,tertiary,Banker Road,367.709,,,,,,,,,,,139779917,
+211921673,211921677,0,False,tertiary,Banker Road,43.485,,,,,,,,,,,139779917,
+211921673,211921670,0,False,residential,Old Orchard Street,176.716,,,,,,,,,,,20070358,
+211921673,211921670,1,False,tertiary,Banker Road,52.569,,,,,,,,,,,139779917,
+211921677,211921673,0,False,tertiary,Banker Road,43.485,,,,,,,,,,,139779917,
+211921677,211921682,0,False,residential,Harpp Street,276.944,,,,,,,,,,,20067624,
+211921677,211921682,1,False,tertiary,Banker Road,49.479,,,,,,,,,,,139779917,
+211921682,211921677,0,False,residential,Harpp Street,276.944,,,,,,,,,,,20067624,
+211921682,211921677,1,False,tertiary,Banker Road,49.479,,,,,,,,,,,139779917,
+211921682,211921690,0,False,tertiary,Banker Road,220.315,,,,,,,,,,,139779917,
+211921690,211838246,0,False,tertiary,Banker Road,43.85,,,,,,,,,,,139779917,
+211921690,211962417,0,False,residential,Bullis Road,397.245,,,,,,,,,,,20066614,
+211921690,211921682,0,False,tertiary,Banker Road,220.315,,,,,,,,,,,139779917,
+211923489,211923492,0,False,residential,Reservoir Road,185.347,,,,,,,,,,,20064678,
+211923489,211851187,0,False,secondary,,632.729,,,,,,,,,,,39707443,NY 374
+211923489,211975629,0,False,secondary,,723.023,,,,,,,,,,,39707443,NY 374
+211923492,211923489,0,False,residential,Reservoir Road,185.347,,,,,,,,,,,20064678,
+211923492,211999043,0,False,residential,Forest Home Road,229.006,,,,,,,,,,,20068679,
+211923492,211999101,0,False,residential,Forest Home Road,378.123,,,,,,,,,,,20068679,
+211923541,211952438,0,False,residential,Bart Merrill Road,909.46,,,,,,,,,,,20067250,
+211924371,211924386,0,False,residential,Church Road,150.524,,,,,,,,,,,20064750,
+211924371,211864241,0,False,residential,Church Road,473.416,,,,,,,,,,,20064750,
+211924371,211924395,0,False,residential,Church Road,57.804,,,,,,,,,,,20064752,
+211924386,211924371,0,False,residential,Church Road,150.524,,,,,,,,,,,20064750,
+211924386,211912489,0,False,secondary,,407.425,,,,,,,,,,,39707443,NY 374
+211924386,211924395,0,False,secondary,,94.758,,,,,,,,,,,39707443,NY 374
+211924395,211924371,0,False,residential,Church Road,57.804,,,,,,,,,,,20064752,
+211924395,211924386,0,False,secondary,,94.758,,,,,,,,,,,39707443,NY 374
+211924395,211880788,0,False,secondary,,1123.401,,,,,,,,,,,39707443,NY 374
+211929837,211893224,0,False,residential,Gen R Parker Avenue,294.203,,,,,,,,,,,20065155,
+211929837,211893211,0,False,residential,Harney Bridge Road,112.921,,,,,,,,,,,93815096,
+211952380,211858277,0,False,residential,Chantecler Court,36.272,,,,,,,,,,,20066121,
+211952380,211952391,0,False,residential,Chantecler Court,35.602,,,,,,,,,,,20066122,
+211952380,211858271,0,False,residential,Chantecler Court,295.048,,,,,,,,,,,20066121,
+211952391,211952380,0,False,residential,Chantecler Court,35.602,,,,,,,,,,,20066122,
+211952438,211923541,0,False,residential,Bart Merrill Road,909.46,,,,,,,,,,,20067250,
+211952438,211971098,0,False,residential,Bart Merrill Road,579.19,,,,,,,,,,,20067250,
+211952970,211858171,0,False,residential,Jan Street,104.187,,,,,,,,,,,20066156,
+211954818,211863224,0,False,residential,Rand Hill Road,425.244,,,,,,,,,,,20067068,
+211954818,211954826,0,False,residential,Fawn Ridge Trail,85.979,,,,,,,,,,,20066233,
+211954818,211961224,0,False,residential,Rand Hill Road,537.263,,,,,,,,,,,20067068,
+211954826,211954818,0,False,residential,Fawn Ridge Trail,85.979,,,,,,,,,,,20066233,
+211961224,211919395,0,False,residential,Ashton Drive,435.85,,,,,,,,,,,20066503,
+211961224,211908544,0,False,residential,Rand Hill Road,113.417,,,,,,,,,,,20067068,
+211961224,211954818,0,False,residential,Rand Hill Road,537.263,,,,,,,,,,,20067068,
+211961241,211919395,0,False,residential,Ashton Drive,141.195,,,,,,,,,,,20066503,
+211962417,211921690,0,False,residential,Bullis Road,397.245,,,,,,,,,,,20066614,
+211964936,211852582,0,False,residential,Rand Hill Road,35.354,,,,,,,,,,,20067058,
+211964936,211968588,0,False,residential,Rand Hill Road,278.616,,,,,,,,,,,20067058,
+211968588,211852614,0,False,residential,Rand Hill Road,105.273,,,,,,,,,,,20067058,
+211968588,211964936,0,False,residential,Rand Hill Road,278.616,,,,,,,,,,,20067058,
+211968729,211968735,0,False,residential,Rand Hill Road,201.318,,,,,,,,,,,20067068,
+211968729,211919103,0,False,residential,Rand Hill Road,1100.699,,,,,,,,,,,20067068,
+211968729,211975629,0,False,secondary,,1106.808,,,,,,,,,,,39707443,NY 374
+211968729,211884440,0,False,secondary,,680.735,,,,,,,,,,,39707443,NY 374
+211968735,211873946,0,False,residential,Rand Hill Road,351.457,,,,,,,,,,,20067068,
+211968735,211968729,0,False,residential,Rand Hill Road,201.318,,,,,,,,,,,20067068,
+211968735,211877225,0,False,secondary,Blake Road,677.099,,,,,,,,,,,139199302,NY 3
+211968735,211873955,0,False,secondary,Blake Road,213.651,,,,,,,,,,,139199302,NY 3
+211968753,211863224,0,False,residential,Rand Hill Road,164.866,,,,,,,,,,,20067068,
+211968753,211873946,0,False,residential,Rand Hill Road,50.778,,,,,,,,,,,20067068,
+211968753,211980542,0,False,residential,Vaughn Road,410.625,,,,,,,,,,,20067795,
+211968780,211860034,0,False,residential,Rand Hill Road,6.808,,,,,,,,,,,20067068,
+211968780,211908494,0,False,residential,Rand Hill Road,128.893,,,,,,,,,,,20067068,
+211968780,211912896,0,False,residential,Pine Ridge Drive,730.648,,,,,,,,,,,20068031,
+211968786,211858152,0,False,residential,Rand Hill Road,155.881,,,,,,,,,,,20067068,
+211968786,211860034,0,False,residential,Rand Hill Road,80.577,,,,,,,,,,,20067068,
+211968786,212002207,0,False,residential,Lavene Drive,85.525,,,,,,,,,,,20068820,
+211971098,211952438,0,False,residential,Bart Merrill Road,579.19,,,,,,,,,,,20067250,
+211971098,211985780,0,False,secondary,,58.243,,,,,,,,,,,39707443,NY 374
+211973995,211879414,0,False,residential,Goddeau Road,100.394,,,,,,,,,,,155202294,
+211973995,211879393,0,False,residential,Park Row Road,236.272,,,,,,,,,,,20067432,
+211973995,211843467,0,False,residential,Goddeau Road,81.972,,,,,,,,,,,155202294,
+211975629,211850552,0,False,residential,Baker Road,52.217,,,,,,,,,,,20067520,
+211975629,211923489,0,False,secondary,,723.023,,,,,,,,,,,39707443,NY 374
+211975629,211968729,0,False,secondary,,1106.808,,,,,,,,,,,39707443,NY 374
+211975947,211843467,0,False,residential,Goddeau Road,22.563,,,,,,,,,,,155202294,
+211975947,211843470,0,False,residential,Kent Falls Road,28.771,,,,,,,,,,,45054296,
+211978503,211858229,0,False,residential,Val Haven Estates,158.979,,,,,,,,,,,20067682,
+211979369,211897463,0,False,residential,Akey Road,331.222,,,,,,,,,,,20069139,
+211979369,211897463,1,False,residential,"['Pine Knoll Drive', 'Bittersweet Lane']",639.042,,,,,,,,,,,"[20067730, 20062687]",
+211979369,211843198,0,False,residential,Akey Road,486.499,,,,,,,,,,,20069139,
+211980434,211850552,0,False,residential,Norman Road,179.69,,,,,,,,,,,20067788,
+211980542,211884430,0,False,secondary,Blake Road,21.705,,,,,,,,,,,139199302,NY 3
+211980542,211968753,0,False,residential,Vaughn Road,410.625,,,,,,,,,,,20067795,
+211980542,211987798,0,False,secondary,Blake Road,335.404,,,,,,,,,,,139199302,NY 3
+211981904,211864186,0,False,residential,O'Connell Road,213.574,,,,,,,,,,,20067876,
+211983248,211888157,0,False,residential,Town Line Road,613.801,,,,,,,,,,,20067945,
+211985780,211845712,0,False,residential,Trudeau Road,1034.124,,,,,,,,,,,20068069,
+211985780,211971098,0,False,secondary,,58.243,,,,,,,,,,,39707443,NY 374
+211985780,211912489,0,False,secondary,,1995.004,,,,,,,,,,,39707443,NY 374
+211987798,211882417,0,False,residential,Four Seasons Drive,80.585,,,,,,,,,,,20070203,
+211987798,211980542,0,False,secondary,Blake Road,335.404,,,,,,,,,,,139199302,NY 3
+211987798,211877566,0,False,secondary,Blake Road,396.697,,,,,,,,,,,139199302,NY 3
+211987916,211987918,0,False,secondary,Blake Road,219.751,,,,,,,,,,,139199302,NY 3
+211987916,212015288,0,False,residential,Hendrix Road,220.919,,,,,,,,,,,20069789,
+211987916,211852463,0,False,secondary,Blake Road,225.472,,,,,,,,,,,139199302,NY 3
+211987918,211990078,0,False,residential,Akey Road,281.362,,,,,,,,,,,20069139,
+211987918,211987916,0,False,secondary,Blake Road,219.751,,,,,,,,,,,139199302,NY 3
+211987918,211851409,0,False,secondary,Blake Road,825.71,,,,,,,,,,,139199302,NY 3
+211989237,211858160,0,False,residential,Bushey Street,125.101,,,,,,,,,,,20068219,
+211990059,211880788,0,False,secondary,,178.889,,,,,,,,,,,39707443,NY 374
+211990059,211833414,0,False,residential,State Highway 970F,130.534,,,,,,,,,,,20068687,
+211990059,211825414,0,False,residential,Jennings Road,1998.495,,,,,,,,,,,20069349,
+211990059,211838791,0,False,secondary,,435.665,,,,,,,,,,,39707443,NY 374
+211990078,211987918,0,False,residential,Akey Road,281.362,,,,,,,,,,,20069139,
+211990078,211897463,0,False,residential,Akey Road,291.899,,,,,,,,,,,20069139,
+211990078,211833454,0,False,secondary,,462.872,,,,,,,,,,,39707443,NY 374
+211990078,211851187,0,False,secondary,,801.56,,,,,,,,,,,39707443,NY 374
+211990199,211918087,0,False,secondary,,770.233,,,,,,,,,,,39707443,NY 374
+211997242,211997244,0,False,residential,Ilene Drive,32.054,,,,,,,,,,,20068566,
+211997242,211873377,0,False,residential,Ilene Drive,95.977,,,,,,,,,,,20068570,
+211997242,211997250,0,False,residential,Ilene Drive,177.806,,,,,,,,,,,20068570,
+211997244,211997242,0,False,residential,Ilene Drive,32.054,,,,,,,,,,,20068566,
+211997250,211997242,0,False,residential,Ilene Drive,177.806,,,,,,,,,,,20068570,
+211999043,211999043,0,False,residential,Forest Home Road,103.561,,,,,,,,,,,20068677,
+211999043,211999043,1,False,residential,Forest Home Road,103.561,,,,,,,,,,,20068677,
+211999043,211923492,0,False,residential,Forest Home Road,229.006,,,,,,,,,,,20068679,
+211999101,211923492,0,False,residential,Forest Home Road,378.123,,,,,,,,,,,20068679,
+211999101,211999101,0,False,residential,Forest Home Road,85.878,,,,,,,,,,,20068683,
+211999101,211999101,1,False,residential,Forest Home Road,85.878,,,,,,,,,,,20068683,
+211999853,211858254,0,False,residential,Fairground Road,1133.35,,,,,,,,,,,20068724,
+212002207,211968786,0,False,residential,Lavene Drive,85.525,,,,,,,,,,,20068820,
+212015288,211987916,0,False,residential,Hendrix Road,220.919,,,,,,,,,,,20069789,
+212018877,211884467,0,False,residential,Sherman Place North,260.18,,,,,,,,,,,20070134,
+212019650,211882417,0,False,residential,Four Seasons Drive,118.166,,,,,,,,,,,20070203,
+212023505,211884448,0,False,residential,Village Drive,473.148,,,,,,,,,,,20070496,
+444345139,211853713,0,False,secondary,Blake Road,49.435,,,,,,,,,,,139199302,NY 3
+444345139,211853732,0,False,secondary,Military Turnpike,61.008,,,,,,,,,,,139437852,NY 190
+2334093749,211884435,0,False,residential,Fay Lane,292.339,,,,,,,,,,,20069818,
+2869399536,211907847,0,False,secondary,Military Turnpike,34.047,,,,,,,,,,,139437852,NY 190
+2869399536,211918114,0,False,secondary,Military Turnpike,456.504,,,,,,,,,,,139437852,NY 190
+3370923697,3370923698,0,False,residential,,196.996,,,,,,,,,,,330133102,
+3370923698,211845712,0,False,residential,Trudeau Road,254.054,,,,,,,,,,,20068069,
+3370923698,211864139,0,False,residential,Trudeau Road,530.787,,,,,,,,,,,20068069,
+3370923698,3370923697,0,False,residential,,196.996,,,,,,,,,,,330133102,
+3613427144,211879414,0,False,residential,Goddeau Road,45.422,,,,,,,,,,,155202294,
+3613427144,211851409,0,False,residential,Goddeau Road,589.246,,,,,,,,,,,155202294,
+3613427144,3613427149,0,False,residential,,312.146,,,,,,,,,,,355802461,
+3613427149,3613427144,0,False,residential,,312.146,,,,,,,,,,,355802461,
+5379463664,211850552,0,False,residential,Baker Road,209.038,,,,,,,,,,,20067520,
+5379463664,5379463678,0,False,residential,Baker Road,210.103,,,,,,,,,,,20067520,
+5379463664,5379463678,1,False,residential,Sawyer Lane,457.543,,,,,,,,,,,557814528,
+5379463678,5379463664,0,False,residential,Baker Road,210.103,,,,,,,,,,,20067520,
+5379463678,5379463664,1,False,residential,Sawyer Lane,457.543,,,,,,,,,,,557814528,
+5379463678,211831437,0,False,residential,"['Baker Road', 'Chase Road']",595.698,,,,,,,,,,,"[20067520, 20064149]",

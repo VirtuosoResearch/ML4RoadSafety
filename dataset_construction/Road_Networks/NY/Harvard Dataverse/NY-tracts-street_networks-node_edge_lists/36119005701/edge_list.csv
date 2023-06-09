@@ -1,0 +1,147 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+254113371,254113374,0,False,residential,Harbor Lane,236.005,,,,,,,,,,,23464750,
+254113371,254839651,0,False,residential,Fort Slocum Road,166.981,,,,,,,,,,,23532917,
+254113371,254769955,0,False,residential,Fort Slocum Road,186.365,,,,,,,,,,,23532917,
+254113374,254113371,0,False,residential,Harbor Lane,236.005,,,,,,,,,,,23464750,
+254113374,254175605,0,False,residential,Harbor Lane West,157.215,,,,,,,,,,,23471721,
+254113374,1356032740,0,False,tertiary,"['Weyman Avenue', 'Glen Island Approach']",417.467,,,,,,,yes,,,,"[30194717, 121055517, 23530839, 121055527]",
+254113374,1355378769,0,False,tertiary,Weyman Avenue,277.27,,,,,,,yes,,,,"[132500937, 121055525, 121055517]",
+254122212,254122224,0,False,unclassified,,300.211,,,,,,,,,,,23465512,
+254122212,1356032740,0,False,unclassified,,76.671,,,,,,,,,,,23465512,
+254122212,254122227,0,False,unclassified,,33.365,,,,,,,,,,,23465515,
+254122224,254122212,0,False,unclassified,,300.211,,,,,,,,,,,23465512,
+254122227,254122212,0,False,unclassified,,33.365,,,,,,,,,,,23465515,
+254122227,254166383,0,False,tertiary,Weyman Avenue,85.338,,,,,,,,,,,23530839,
+254122227,1356032740,0,False,tertiary,Weyman Avenue,89.781,,,,,,,,,,,23530839,
+254125539,254175410,0,False,primary,Main Street,7.05,2,,,,,,,,,,23530510,US 1
+254125539,1354474337,0,False,primary,Main Street,31.023,2,,,,,,,,,,23530510,US 1
+254126171,254126146,0,True,motorway_link,,188.871,1,,,,,,,,,,120907909,
+254143199,254814096,0,False,tertiary,Pelham Road,30.817,,,,,,,,,,,581107344,65
+254143199,254143204,0,True,residential,,35.34,,,,,,,,,,,23467796,
+254143199,1356048855,0,False,tertiary,Pelham Road,22.262,,,,,,,,,,,581107344,65
+254143204,254638503,0,True,residential,Neptune Avenue,32.558,,,,,,,,,,,121060420,
+254155455,254155521,0,True,motorway_link,,60.97,1,,,,,,,,,,23469239,
+254155494,254155455,0,True,motorway_link,,355.165,,,,,,,,,,,23469236,
+254155494,254126146,0,True,motorway,New England Thruway,320.65,3,,,55 mph,,,,,,,71918226,I 95
+254155521,254813631,0,False,primary,Main Street,205.577,2,,,,,,,,,,420876312,US 1
+254160550,254160550,0,True,residential,Greens Way,60.457,,,,,permissive,,,,,,23469810,
+254160550,254173824,0,False,residential,Greens Way,137.272,,,,,permissive,,,,,,23471486,
+254166381,254168736,0,True,tertiary,Glen Island Park,46.774,,,,,,,,,,,23470543,
+254166381,254166383,0,True,tertiary,Glen Island Park,46.249,,,,,,,,,,,121055524,
+254166383,254168736,0,True,tertiary,Glen Island Park,49.591,,,,,,,,,,,23471544,
+254166383,254122227,0,False,tertiary,Weyman Avenue,85.338,,,,,,,,,,,23530839,
+254168736,254166381,0,True,tertiary,Glen Island Park,259.103,,,,,,,,,,,23470543,
+254173824,254160550,0,False,residential,Greens Way,137.272,,,,,permissive,,,,,,23471486,
+254173824,254651099,0,False,residential,Mount Tom Road,169.586,,,,,,,,,,,23514372,
+254173824,254650987,0,False,residential,Mount Tom Road,140.697,,,,,,,,,,,23514372,
+254175410,254125539,0,False,primary,Main Street,7.05,2,,,,,,,,,,23530510,US 1
+254175410,1354474426,0,False,primary,Main Street,30.824,2,,,,,,,,,,23530510,US 1
+254175605,254113374,0,False,residential,Harbor Lane West,157.215,,,,,,,,,,,23471721,
+254187193,254187194,0,False,residential,Brady Avenue,171.415,,,,,,,,,,,23472731,
+254187193,254799174,0,False,tertiary,Weyman Avenue,67.066,,,,,,,,,,,132500938,
+254187193,254724182,0,False,tertiary,Weyman Avenue,182.161,,,,,,,,,,,132500938,
+254187194,254187193,0,False,residential,Brady Avenue,171.415,,,,,,,,,,,23472731,
+254230129,254665702,0,False,tertiary,Pelham Road,8.03,,,,,,,,,,,581107344,65
+254230129,254230131,0,False,residential,Icard Lane,93.288,,,,,,,,,,,23476175,
+254230131,254230129,0,False,residential,Icard Lane,93.288,,,,,,,,,,,23476175,
+254247904,254247905,0,False,residential,Belvidere Place,109.093,,,,,,,,,,,23477508,
+254247904,3573075113,0,False,tertiary,Weyman Avenue,72.479,,,,,,,,,,,132500937,
+254247904,254650974,0,False,tertiary,Weyman Avenue,250.55,,,,,,,,,,,132500937,
+254247905,254247904,0,False,residential,Belvidere Place,109.093,,,,,,,,,,,23477508,
+254541526,254541589,0,False,residential,Whitewood Avenue,268.246,,,,,,,,,,,23503115,
+254541526,254814101,0,False,tertiary,Pelham Road,135.014,,,,,,,,,,,581107344,65
+254541589,254541526,0,False,residential,Whitewood Avenue,268.246,,,,,,,,,,,23503115,
+254558839,254769955,0,False,residential,Fort Slocum Road,9.837,,,,,,,,,,,23532917,
+254558839,254814096,0,False,residential,Fort Slocum Road,93.651,,,,,,,,,,,23532917,
+254558841,254622406,0,False,tertiary,Drake Avenue,38.276,,,,,,,,,,,23511553,
+254558841,254558839,0,True,residential,Nautilus Place,127.844,,,,,,,,,,,23503861,
+254558841,1356049124,0,False,tertiary,Drake Avenue,97.208,,,,,,,,,,,23511553,
+254622400,254875833,0,False,residential,Spruce Street,157.931,,,,,,,,,,,23537501,
+254622400,254622401,0,False,tertiary,Drake Avenue,99.559,,,,,,,,,,,23511553,
+254622401,254842668,0,False,residential,Saint Joseph Street,154.223,,,,,,,,,,,23533326,
+254622401,254622403,0,False,tertiary,Drake Avenue,248.821,,,,,,,,,,,23511553,
+254622401,254622400,0,False,tertiary,Drake Avenue,99.559,,,,,,,,,,,23511553,
+254622403,254622404,0,False,tertiary,Drake Avenue,69.637,,,,,,,,,,,23511553,
+254622403,254622401,0,False,tertiary,Drake Avenue,248.821,,,,,,,,,,,23511553,
+254622403,254806123,0,False,residential,Lee Court,150.878,,,,,,,,,,,23530117,
+254622404,254835651,0,False,residential,Lane Crest Avenue,90.719,,,,,,,,,,,23532449,
+254622404,1356049124,0,False,tertiary,Drake Avenue,117.429,,,,,,,,,,,23511553,
+254622404,254622403,0,False,tertiary,Drake Avenue,69.637,,,,,,,,,,,23511553,
+254622406,254558841,0,False,tertiary,Drake Avenue,38.276,,,,,,,,,,,23511553,
+254638503,1356048855,0,False,tertiary,Pelham Road,8.293,,,,,,,,,,,581107344,65
+254638503,1355378785,0,False,tertiary,Pelham Road,120.751,,,,,,,,,,,581107344,65
+254650974,254799174,0,False,tertiary,Weyman Avenue,67.09,,,,,,,,,,,132500938,
+254650974,254650987,0,False,residential,Mount Tom Road,214.684,,,,,,,,,,,23514372,
+254650974,254247904,0,False,tertiary,Weyman Avenue,250.55,,,,,,,,,,,132500937,
+254650987,254173824,0,False,residential,Mount Tom Road,140.697,,,,,,,,,,,23514372,
+254650987,254650974,0,False,residential,Mount Tom Road,214.684,,,,,,,,,,,23514372,
+254650987,254724199,0,False,residential,Park Ridge Avenue,306.256,,,,,,,,,,,23536576,
+254651099,254801527,0,False,residential,Hillcrest Drive,67.768,,,,,,,,,,,23529611,
+254651099,254173824,0,False,residential,Mount Tom Road,169.586,,,,,,,,,,,23514372,
+254665702,254230129,0,False,tertiary,Pelham Road,8.03,,,,,,,,,,,581107344,65
+254665702,254665707,0,False,residential,Shady Glen Court,138.389,,,,,,,,,,,23515748,
+254665702,254814090,0,False,tertiary,Pelham Road,180.212,,,,,,,,,,,581107344,65
+254665707,254665702,0,False,residential,Shady Glen Court,138.389,,,,,,,,,,,23515748,
+254668413,254668600,0,True,residential,Woodland Avenue,45.485,,,,,,,,,,,23516021,
+254668416,254668600,0,True,residential,Circuit Road,56.386,,,,,,,,,,,23533135,
+254668416,254668413,0,True,residential,Woodland Avenue,52.152,,,,,,,,,,,121195779,
+254668600,1357365163,0,True,residential,Circuit Road,6.42,,,,,,,,,,,23533135,
+254724182,254724199,0,True,residential,Emmett Terrace,228.721,,,,,,,,,,,23519543,
+254724182,254187193,0,False,tertiary,Weyman Avenue,182.161,,,,,,,,,,,132500938,
+254724199,254650987,0,False,residential,Park Ridge Avenue,306.256,,,,,,,,,,,23536576,
+254724199,254724221,0,False,residential,Emmett Terrace,46.271,,,,,,,,,,,121003583,
+254724221,254724199,0,False,residential,Emmett Terrace,46.271,,,,,,,,,,,121003583,
+254769955,254558839,0,False,residential,Fort Slocum Road,9.837,,,,,,,,,,,23532917,
+254769955,254769956,0,False,residential,Keogh Lane,144.152,,,,,,,,,,,23526913,
+254769955,254113371,0,False,residential,Fort Slocum Road,186.365,,,,,,,,,,,23532917,
+254769956,254769955,0,False,residential,Keogh Lane,144.152,,,,,,,,,,,23526913,
+254786016,1355378781,0,False,residential,Morgan Street,239.61,,,,,,,,,,,23528350,
+254799174,254650974,0,False,tertiary,Weyman Avenue,67.09,,,,,,,,,,,132500938,
+254799174,254187193,0,False,tertiary,Weyman Avenue,67.066,,,,,,,,,,,132500938,
+254799174,254799184,0,False,residential,Beattie Lane,169.044,,,,,,,,,,,23529369,
+254799184,254799174,0,False,residential,Beattie Lane,169.044,,,,,,,,,,,23529369,
+254801527,254651099,0,False,residential,Hillcrest Drive,67.768,,,,,,,,,,,23529611,
+254806123,254622403,0,False,residential,Lee Court,150.878,,,,,,,,,,,23530117,
+254813631,254823835,0,False,tertiary,Weyman Avenue,183.42,,,,,,,,,,,121003581,
+254813631,254155521,0,False,primary,Main Street,205.577,2,,,,,,,,,,420876312,US 1
+254814090,254668416,0,True,residential,Circuit Road,249.365,,,,,,,,,,,23533135,
+254814090,1356049124,0,False,tertiary,Pelham Road,108.709,,,,,,,,,,,581107344,65
+254814090,254665702,0,False,tertiary,Pelham Road,180.212,,,,,,,,,,,581107344,65
+254814096,254143199,0,False,tertiary,Pelham Road,30.817,,,,,,,,,,,581107344,65
+254814096,254558839,0,False,residential,Fort Slocum Road,93.651,,,,,,,,,,,23532917,
+254814096,1356049124,0,False,tertiary,Pelham Road,160.641,,,,,,,,,,,581107344,65
+254814101,1355378785,0,False,tertiary,Pelham Road,28.589,,,,,,,,,,,581107344,65
+254814101,1355378769,0,True,tertiary_link,,37.818,,,,,,,,,,,121003584,
+254814101,254541526,0,False,tertiary,Pelham Road,135.014,,,,,,,,,,,581107344,65
+254823835,254813631,0,False,tertiary,Weyman Avenue,183.42,,,,,,,,,,,121003581,
+254835651,254622404,0,False,residential,Lane Crest Avenue,90.719,,,,,,,,,,,23532449,
+254839651,254113371,0,False,residential,Fort Slocum Road,166.981,,,,,,,,,,,23532917,
+254842668,254622401,0,False,residential,Saint Joseph Street,154.223,,,,,,,,,,,23533326,
+254875833,254622400,0,False,residential,Spruce Street,157.931,,,,,,,,,,,23537501,
+1354474337,254125539,0,False,primary,Main Street,31.023,2,,,,,,,,,,23530510,US 1
+1354474356,1354474426,0,False,primary,Main Street,77.702,2,,,,,,,,,,23530510,US 1
+1354474426,254175410,0,False,primary,Main Street,30.824,2,,,,,,,,,,23530510,US 1
+1354474426,1354474356,0,False,primary,Main Street,77.702,2,,,,,,,,,,23530510,US 1
+1355378769,254113374,0,False,tertiary,Weyman Avenue,277.27,,,,,,,yes,,,,"[132500937, 121055517, 121055525]",
+1355378769,1355378785,0,False,tertiary,Weyman Avenue,30.881,,,,,,,,,,,132500937,
+1355378781,254786016,0,False,residential,Morgan Street,239.61,,,,,,,,,,,23528350,
+1355378785,254814101,0,False,tertiary,Pelham Road,28.589,,,,,,,,,,,581107344,65
+1355378785,1355378769,0,False,tertiary,Weyman Avenue,30.881,,,,,,,,,,,132500937,
+1355378785,3573075113,0,False,tertiary,Weyman Avenue,50.812,,,,,,,,,,,132500937,
+1355378785,254638503,0,False,tertiary,Pelham Road,120.751,,,,,,,,,,,581107344,65
+1356032740,254122212,0,False,unclassified,,76.671,,,,,,,,,,,23465512,
+1356032740,254122227,0,False,tertiary,Weyman Avenue,89.781,,,,,,,,,,,23530839,
+1356032740,254113374,0,False,tertiary,"['Weyman Avenue', 'Glen Island Approach']",417.467,,,,,,,yes,,,,"[121055517, 30194717, 121055527, 23530839]",
+1356048855,254638503,0,False,tertiary,Pelham Road,8.293,,,,,,,,,,,581107344,65
+1356048855,254143204,0,True,residential,Neptune Avenue,29.267,,,,,,,,,,,121060418,
+1356048855,254143199,0,False,tertiary,Pelham Road,22.262,,,,,,,,,,,581107344,65
+1356049124,254558841,0,False,tertiary,Drake Avenue,97.208,,,,,,,,,,,23511553,
+1356049124,254622404,0,False,tertiary,Drake Avenue,117.429,,,,,,,,,,,23511553,
+1356049124,254814096,0,False,tertiary,Pelham Road,160.641,,,,,,,,,,,581107344,65
+1356049124,254814090,0,False,tertiary,Pelham Road,108.709,,,,,,,,,,,581107344,65
+3573075107,3573075113,0,False,residential,Terrace Park Lane,92.832,,,,,,,,,,,351512311,
+3573075107,3573075107,0,False,residential,,40.576,,,,,,,,,,,351512312,
+3573075107,3573075107,1,False,residential,,40.576,,,,,,,,,,,351512312,
+3573075113,3573075107,0,False,residential,Terrace Park Lane,92.832,,,,,,,,,,,351512311,
+3573075113,1355378785,0,False,tertiary,Weyman Avenue,50.812,,,,,,,,,,,132500937,
+3573075113,254247904,0,False,tertiary,Weyman Avenue,72.479,,,,,,,,,,,132500937,

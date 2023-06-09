@@ -1,0 +1,235 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+43002175,265682146,0,False,secondary,Lockport Road,14.282,,,,,,,,,,,5717798,NY 93
+43002175,43029267,0,False,secondary,Lockport Road,93.116,,,,,,,,,,,5717798,NY 93
+43002175,265679277,0,True,motorway_link,,662.724,,,,,,,,,,,24445615,
+43005808,265682121,0,True,motorway,Niagara Scenic Parkway,550.652,2,,,55 mph,,,yes,,,,"[24445616, 24445721, 24445617]",NSP
+43009165,43024144,0,False,residential,Chestnut Street,257.67,,,,,,,,,,,5717240,
+43009165,43009167,0,False,residential,Lake Street,130.255,2,,,,,,,,,,108529730,
+43009165,830707164,0,False,residential,Carrollwood Drive,209.413,,,,,,,,,,,5715537,
+43009165,1244957626,0,False,residential,Lake Street,154.925,2,,,,,,,,,,108529730,
+43009167,43018034,0,False,residential,William Street,93.084,,,,,,,,,,,5716489,
+43009167,43043764,0,False,residential,Brookshire Road,485.721,,,,,,,,,,,5718711,
+43009167,43009165,0,False,residential,Lake Street,130.255,2,,,,,,,,,,108529730,
+43009167,43014909,0,False,residential,3rd Street,303.861,,,,,,,,,,,5716139,
+43010675,313248433,0,False,residential,Church Street,143.524,,,,,,,,,,,5717299,
+43010675,43032689,0,False,secondary,Main Street,174.096,,,,,,,,,,,108529746,NY 18F
+43010675,1919130714,0,False,secondary,Main Street,47.07,,,,,,,,,,,108529746,NY 18F
+43010683,43024070,0,False,secondary,Lockport Road,150.94,,,,,,,,,,,5717798,NY 93
+43010683,43032682,0,False,secondary,Main Street,140.055,,,,,,,,,,,108529746,NY 18F
+43010683,43018033,0,False,secondary,Main Street,203.705,,,,,,,,,,,108529746,NY 18F
+43010683,1919130714,0,True,residential,Water Street,402.381,,,,,,,,,,,5715667,
+43014909,43014911,0,False,residential,3rd Street,146.148,,,,,,,,,,,5716139,
+43014909,43029262,0,False,secondary,Lockport Road,645.793,,,,,,,,,,,5717798,NY 93
+43014909,43024070,0,False,secondary,Lockport Road,137.42,,,,,,,,,,,5717798,NY 93
+43014909,43009167,0,False,residential,3rd Street,303.861,,,,,,,,,,,5716139,
+43014911,313248443,0,False,residential,3rd Street,85.24,,,,,,,,,,,5716139,
+43014911,43014909,0,False,residential,3rd Street,146.148,,,,,,,,,,,5716139,
+43014911,43024077,0,False,residential,Hinman Street,141.975,,,,,,,,,,,5718052,
+43014918,43014921,0,False,residential,3rd Street,72.846,,,,,,,,,,,5716139,
+43014918,43024082,0,False,residential,Elliot Street,142.572,,,,,,,,,,,5719690,
+43014918,313248434,0,False,residential,3rd Street,132.48,,,,,,,,,,,5716139,
+43014921,43014918,0,False,residential,3rd Street,72.846,,,,,,,,,,,5716139,
+43015503,830710431,0,False,residential,Westwood Avenue,110.152,,,,,,,,,,,5716195,
+43015503,313248443,0,False,residential,Oak Street,642.877,,,,,,,,,,,5716820,
+43015503,830711355,0,False,residential,Oak Street,292.199,,,,,,,,,,,5716820,
+43017225,267473519,0,False,secondary,Lake Road,30.432,,,,,,,,,,,5716386,NY 18F
+43017225,43038474,0,False,residential,Lakeside Lane,298.541,,,,,,,,,,,5718299,
+43018033,43018034,0,False,residential,William Street,141.553,,,,,,,,,,,5716489,
+43018033,43010683,0,False,secondary,Main Street,203.705,,,,,,,,,,,108529746,NY 18F
+43018033,43024144,0,False,secondary,Main Street,123.368,,,,,,,,,,,108529746,NY 18F
+43018034,43009167,0,False,residential,William Street,93.084,,,,,,,,,,,5716489,
+43018034,43018033,0,False,residential,William Street,141.553,,,,,,,,,,,5716489,
+43018034,43024070,0,False,residential,2nd Street,246.956,,,,,,,,,,,5717230,
+43024070,43024077,0,False,residential,2nd Street,141.212,,,,,,,,,,,5717230,
+43024070,43014909,0,False,secondary,Lockport Road,137.42,,,,,,,,,,,5717798,NY 93
+43024070,43010683,0,False,secondary,Lockport Road,150.94,,,,,,,,,,,5717798,NY 93
+43024070,43018034,0,False,residential,2nd Street,246.956,,,,,,,,,,,5717230,
+43024077,313248433,0,False,residential,2nd Street,245.442,,,,,,,,,,,5717230,
+43024077,43024070,0,False,residential,2nd Street,141.212,,,,,,,,,,,5717230,
+43024077,43014911,0,False,residential,Hinman Street,141.975,,,,,,,,,,,5718052,
+43024077,43032682,0,False,residential,Hinman Street,147.572,,,,,,,,,,,5718052,
+43024082,313248433,0,False,residential,2nd Street,170.847,,,,,,,,,,,5717230,
+43024082,43014918,0,False,residential,Elliot Street,142.572,,,,,,,,,,,5719690,
+43024082,43032689,0,False,residential,Elliot Street,143.324,,,,,,,,,,,5719690,
+43024082,43032693,0,False,residential,"['Campbell Street', '2nd Street']",240.942,,,,,,,,,,,"[5719052, 5717230]",
+43024144,43009165,0,False,residential,Chestnut Street,257.67,,,,,,,,,,,5717240,
+43024144,43018033,0,False,secondary,Main Street,123.368,,,,,,,,,,,108529746,NY 18F
+43024936,43005808,0,True,motorway,Niagara Scenic Parkway,214.312,2,,,55 mph,,,,,,,24445721,NSP
+43029262,43029264,0,False,secondary,Lockport Road,20.671,,,,,,,,,,,5717798,NY 93
+43029262,43014909,0,False,secondary,Lockport Road,645.793,,,,,,,,,,,5717798,NY 93
+43029262,43035183,0,False,residential,Cherry Street,136.948,,,,,,,,,,,5718095,
+43029264,43029267,0,False,secondary,Lockport Road,358.348,,,,,,,,,,,5717798,NY 93
+43029264,43029262,0,False,secondary,Lockport Road,20.671,,,,,,,,,,,5717798,NY 93
+43029264,43043210,0,False,residential,Glenvale Road,233.442,,,,,,,,,,,5718556,
+43029267,43002175,0,False,secondary,Lockport Road,93.116,,,,,,,,,,,5717798,NY 93
+43029267,43029264,0,False,secondary,Lockport Road,358.348,,,,,,,,,,,5717798,NY 93
+43029267,43048364,0,False,residential,Elm Street,120.115,,,,,,,,,,,5719709,
+43032682,43024077,0,False,residential,Hinman Street,147.572,,,,,,,,,,,5718052,
+43032682,1919130714,0,False,secondary,Main Street,198.689,,,,,,,,,,,108529746,NY 18F
+43032682,43010683,0,False,secondary,Main Street,140.055,,,,,,,,,,,108529746,NY 18F
+43032689,43024082,0,False,residential,Elliot Street,143.324,,,,,,,,,,,5719690,
+43032689,43032693,0,False,secondary,Main Street,97.949,,,,,,,,,,,108529746,NY 18F
+43032689,43010675,0,False,secondary,Main Street,174.096,,,,,,,,,,,108529746,NY 18F
+43032693,43032689,0,False,secondary,Main Street,97.949,,,,,,,,,,,108529746,NY 18F
+43032693,43024082,0,False,residential,"['2nd Street', 'Campbell Street']",240.942,,,,,,,,,,,"[5719052, 5717230]",
+43032693,830808061,0,False,secondary,River Road,223.9,,,,,,,,,,,5719104,NY 18F
+43035183,43029262,0,False,residential,Cherry Street,136.948,,,,,,,,,,,5718095,
+43035183,830710076,0,False,residential,Northfield Drive,227.06,,,,,,,,,,,5718888,
+43035183,830709297,0,False,residential,Northfield Drive,239.576,,,,,,,,,,,5718888,
+43038474,43017225,0,False,residential,Lakeside Lane,298.541,,,,,,,,,,,5718299,
+43043210,43029264,0,False,residential,Glenvale Road,233.442,,,,,,,,,,,5718556,
+43043210,830707512,0,False,residential,"['Carrollwood Drive', 'Glenvale Road']",364.574,,,,,,,,,,,"[5715537, 5718556]",
+43043210,43043764,0,False,residential,Brookshire Road,140.492,,,,,,,,,,,5718711,
+43043764,43009167,0,False,residential,Brookshire Road,485.721,,,,,,,,,,,5718711,
+43043764,830707164,0,False,residential,Wingate Place,337.899,,,,,,,,,,,5718581,
+43043764,43043210,0,False,residential,Brookshire Road,140.492,,,,,,,,,,,5718711,
+43048364,830710076,0,False,residential,Northfield Drive,146.138,,,,,,,,,,,5718888,
+43048364,830710432,0,False,residential,Elm Street,384.381,,,,,,,,,,,5719709,
+43048364,43029267,0,False,residential,Elm Street,120.115,,,,,,,,,,,5719709,
+43052004,830717604,0,False,secondary,River Road,871.878,,,,,,,,,,,5719104,NY 18F
+43052004,830716787,0,False,secondary,River Road,400.24,,,,,,,,,,,5719104,NY 18F
+43052004,830717176,0,False,residential,Riverview Drive,146.819,,,,,,,,,,,69334123,
+265682121,265679277,0,True,motorway,Niagara Scenic Parkway,544.933,2,,,55 mph,,,,,,,24445616,NSP
+265682121,265682146,0,True,motorway_link,,467.429,,,,,,,,,,,24445621,
+265682146,43002175,0,False,secondary,Lockport Road,14.282,,,,,,,,,,,5717798,NY 93
+267473519,43017225,0,False,secondary,Lake Road,30.432,,,,,,,,,,,5716386,NY 18F
+267473519,1244957626,0,False,secondary,Lake Road,969.339,,,,,,,,,,,5716386,NY 18F
+313248433,43024082,0,False,residential,2nd Street,170.847,,,,,,,,,,,5717230,
+313248433,43024077,0,False,residential,2nd Street,245.442,,,,,,,,,,,5717230,
+313248433,43010675,0,False,residential,Church Street,143.524,,,,,,,,,,,5717299,
+313248433,313248434,0,False,residential,Church Street,149.684,,,,,,,,,,,5717299,
+313248434,43014918,0,False,residential,3rd Street,132.48,,,,,,,,,,,5716139,
+313248434,313248443,0,False,residential,3rd Street,194.797,,,,,,,,,,,5716139,
+313248434,313248433,0,False,residential,Church Street,149.684,,,,,,,,,,,5717299,
+313248443,43014911,0,False,residential,3rd Street,85.24,,,,,,,,,,,5716139,
+313248443,43015503,0,False,residential,Oak Street,642.877,,,,,,,,,,,5716820,
+313248443,313248434,0,False,residential,3rd Street,194.797,,,,,,,,,,,5716139,
+830707164,830707512,0,False,residential,Carrollwood Drive,343.514,,,,,,,,,,,5715537,
+830707164,43009165,0,False,residential,Carrollwood Drive,209.413,,,,,,,,,,,5715537,
+830707164,43043764,0,False,residential,Wingate Place,337.899,,,,,,,,,,,5718581,
+830707509,830707512,0,False,residential,Carrollwood Drive,61.801,,,,,,,,,,,69334028,
+830707509,830707509,0,False,residential,Carrollwood Drive,81.653,,,,,,,,,,,69334028,
+830707509,830707509,1,False,residential,Carrollwood Drive,81.653,,,,,,,,,,,69334028,
+830707512,830707509,0,False,residential,Carrollwood Drive,61.801,,,,,,,,,,,69334028,
+830707512,43043210,0,False,residential,"['Carrollwood Drive', 'Glenvale Road']",364.574,,,,,,,,,,,"[5715537, 5718556]",
+830707512,830707164,0,False,residential,Carrollwood Drive,343.514,,,,,,,,,,,5715537,
+830709289,830709297,0,False,residential,Westwood Avenue,144.904,,,,,,,,,,,5716195,
+830709289,830710431,0,False,residential,Westwood Avenue,74.123,,,,,,,,,,,5716195,
+830709289,830710216,0,False,residential,Parkside Place,300.878,,,,,,,,,,,5718071,
+830709297,830709621,0,False,residential,Northfield Drive,44.767,,,,,,,,,,,5718888,
+830709297,830709289,0,False,residential,Westwood Avenue,144.904,,,,,,,,,,,5716195,
+830709297,43035183,0,False,residential,Northfield Drive,239.576,,,,,,,,,,,5718888,
+830709621,830709297,0,False,residential,Northfield Drive,44.767,,,,,,,,,,,5718888,
+830710076,43048364,0,False,residential,Northfield Drive,146.138,,,,,,,,,,,5718888,
+830710076,43035183,0,False,residential,Northfield Drive,227.06,,,,,,,,,,,5718888,
+830710076,830710216,0,False,residential,Brampton Road,126.993,,,,,,,,,,,5719664,
+830710216,830709289,0,False,residential,Parkside Place,300.878,,,,,,,,,,,5718071,
+830710216,830710076,0,False,residential,Brampton Road,126.993,,,,,,,,,,,5719664,
+830710216,830710560,0,False,residential,Brampton Road,213.345,,,,,,,,,,,5719664,
+830710431,43015503,0,False,residential,Westwood Avenue,110.152,,,,,,,,,,,5716195,
+830710431,830710560,0,False,residential,Applewood Drive,241.068,,,,,,,,,,,69334031,
+830710431,830709289,0,False,residential,Westwood Avenue,74.123,,,,,,,,,,,5716195,
+830710432,43048364,0,False,residential,Elm Street,384.381,,,,,,,,,,,5719709,
+830710432,830710560,0,False,residential,Applewood Drive,109.502,,,,,,,,,,,69334031,
+830710432,830711355,0,False,residential,"['Elm Street', 'Oak Street']",172.367,,,,,,,,,,,"[5716820, 5719709]",
+830710560,830710432,0,False,residential,Applewood Drive,109.502,,,,,,,,,,,69334031,
+830710560,830710431,0,False,residential,Applewood Drive,241.068,,,,,,,,,,,69334031,
+830710560,830710216,0,False,residential,Brampton Road,213.345,,,,,,,,,,,5719664,
+830711354,830711355,0,False,residential,East Oak Terrace,80.006,,,,,,,,,,,5718109,
+830711354,2560699658,0,False,residential,East Oak Terrace,180.918,,,,,,,,,,,5718109,
+830711354,2560699660,0,False,residential,East Oak Terrace,30.319,,,,20 mph,,,,,,,249475812,
+830711355,830711354,0,False,residential,East Oak Terrace,80.006,,,,,,,,,,,5718109,
+830711355,830710432,0,False,residential,"['Oak Street', 'Elm Street']",172.367,,,,,,,,,,,"[5716820, 5719709]",
+830711355,43015503,0,False,residential,Oak Street,292.199,,,,,,,,,,,5716820,
+830712074,2560699658,0,False,residential,Ulrich Lane,66.544,,,,,,,,,,,69334034,
+830712075,2560699658,0,False,residential,Ulrich Lane,30.496,,,,,,,,,,,69334034,
+830716787,2638847685,0,False,secondary,River Road,74.942,,,,,,,,,,,5719104,NY 18F
+830716787,43052004,0,False,secondary,River Road,400.24,,,,,,,,,,,5719104,NY 18F
+830716787,2638847665,0,False,residential,Mary's Lane,200.057,,,,,,,,,,,69334068,
+830717172,830717178,0,False,residential,Hillview Drive,51.528,,,,,,,,,,,69334142,
+830717173,1057405679,0,False,residential,Hillview Drive,122.984,,,,,,,,,,,69334142,
+830717173,830717178,0,False,residential,Hillview Drive,135.135,,,,,,,,,,,69334142,
+830717173,830717176,0,False,residential,Riverview Drive,189.915,,,,,,,,,,,69334123,
+830717173,830717562,0,False,residential,Riverview Drive,96.927,,,,,,,,,,,69334123,
+830717175,830717177,0,False,residential,Parkdale Drive,43.431,,,,,,,,,,,69334164,
+830717176,830717177,0,False,residential,Parkdale Drive,137.193,,,,,,,,,,,69334164,
+830717176,43052004,0,False,residential,Riverview Drive,146.819,,,,,,,,,,,69334123,
+830717176,830717173,0,False,residential,Riverview Drive,189.915,,,,,,,,,,,69334123,
+830717177,830717176,0,False,residential,Parkdale Drive,137.193,,,,,,,,,,,69334164,
+830717177,830717175,0,False,residential,Parkdale Drive,43.431,,,,,,,,,,,69334164,
+830717177,830717178,0,False,residential,Walnut Lane,187.57,,,,,,,,,,,69334190,
+830717178,830717173,0,False,residential,Hillview Drive,135.135,,,,,,,,,,,69334142,
+830717178,830717172,0,False,residential,Hillview Drive,51.528,,,,,,,,,,,69334142,
+830717178,830717177,0,False,residential,Walnut Lane,187.57,,,,,,,,,,,69334190,
+830717257,830717260,0,False,residential,Fox Point Circle,83.734,,,,,,,,,,,69334241,
+830717260,830717562,0,False,residential,Riverview Drive,115.578,,,,,,,,,,,69334123,
+830717260,830717590,0,False,residential,Riverview Drive,353.471,,,,,,,,,,,69334123,
+830717260,830717257,0,False,residential,Fox Point Circle,83.734,,,,,,,,,,,69334241,
+830717562,3443672693,0,False,residential,Dansworth Drive,78.813,,,,,,,,,,,5718288,
+830717562,830717173,0,False,residential,Riverview Drive,96.927,,,,,,,,,,,69334123,
+830717562,830717260,0,False,residential,Riverview Drive,115.578,,,,,,,,,,,69334123,
+830717563,3443672693,0,False,residential,Dansworth Drive,483.271,,,,,,,,,,,5718288,
+830717563,3443672704,0,False,residential,Glengrove Road,134.578,,,,,,,,,,,69334435,
+830717563,830717585,0,False,residential,Glengrove Road,103.402,,,,,,,,,,,69334435,
+830717583,830717584,0,False,residential,Woodland Court,85.187,,,,,,,,,,,69334411,
+830717584,830717583,0,False,residential,Woodland Court,85.187,,,,,,,,,,,69334411,
+830717584,830717590,0,False,residential,Riverview Drive,175.288,,,,,,,,,,,69334123,
+830717584,830809324,0,False,residential,Riverview Drive,42.063,,,,,,,,,,,69334123,
+830717585,830717563,0,False,residential,Glengrove Road,103.402,,,,,,,,,,,69334435,
+830717590,830717260,0,False,residential,Riverview Drive,353.471,,,,,,,,,,,69334123,
+830717590,830717584,0,False,residential,Riverview Drive,175.288,,,,,,,,,,,69334123,
+830717590,3443672704,0,False,residential,Glengrove Road,154.597,,,,,,,,,,,69334435,
+830717593,830717624,0,False,residential,Brentwood Drive,22.664,,,,,,,,,,,69334549,
+830717593,830718167,0,False,residential,Howard Drive,79.354,,,,,,,,,,,69334497,
+830717593,830717628,0,False,residential,Brentwood Drive,444.716,,,,,,,,,,,69334549,
+830717604,830717622,0,False,secondary,River Road,198.615,,,,,,,,,,,5719104,NY 18F
+830717604,43052004,0,False,secondary,River Road,871.878,,,,,,,,,,,5719104,NY 18F
+830717604,830717628,0,False,residential,Howard Drive,141.455,,,,,,,,,,,69334497,
+830717617,830717622,0,False,residential,,261.467,,,,,,,,,,,69334522,
+830717622,830717604,0,False,secondary,River Road,198.615,,,,,,,,,,,5719104,NY 18F
+830717622,830717617,0,False,residential,,261.467,,,,,,,,,,,69334522,
+830717624,830717593,0,False,residential,Brentwood Drive,22.664,,,,,,,,,,,69334549,
+830717628,830717604,0,False,residential,Howard Drive,141.455,,,,,,,,,,,69334497,
+830717628,830718167,0,False,residential,Howard Drive,467.098,,,,,,,,,,,69334497,
+830717628,830717593,0,False,residential,Brentwood Drive,444.716,,,,,,,,,,,69334549,
+830718158,830718315,0,False,residential,Andre Place,44.422,,,,,,,,,,,5716385,
+830718158,830718309,0,False,residential,Andre Place,106.931,,,,,,,,,,,5716385,
+830718158,830718167,0,False,residential,Lynnbrook Drive,308.413,,,,,,,,,,,69334550,
+830718167,830717628,0,False,residential,Howard Drive,467.098,,,,,,,,,,,69334497,
+830718167,830717593,0,False,residential,Howard Drive,79.354,,,,,,,,,,,69334497,
+830718167,830718158,0,False,residential,Lynnbrook Drive,308.413,,,,,,,,,,,69334550,
+830718309,830718158,0,False,residential,Andre Place,106.931,,,,,,,,,,,5716385,
+830718315,830718158,0,False,residential,Andre Place,44.422,,,,,,,,,,,5716385,
+830808028,2837620743,0,False,residential,Swain Road,108.153,,,,,,,,,,,69341431,
+830808061,2638847685,0,False,secondary,River Road,187.07,,,,,,,,,,,5719104,NY 18F
+830808061,43032693,0,False,secondary,River Road,223.9,,,,,,,,,,,5719104,NY 18F
+830808061,2837620743,0,False,residential,Swain Road,198.488,,,,,,,,,,,69341431,
+830809322,830809324,0,False,residential,,77.417,,,,,,,,,,,69341490,
+830809324,830717584,0,False,residential,Riverview Drive,42.063,,,,,,,,,,,69334123,
+830809324,3443667463,0,False,residential,Riverview Drive,205.858,,,,,,,,,,,"[69334123, 337256813]",
+830809324,830809322,0,False,residential,,77.417,,,,,,,,,,,69341490,
+1057405679,830717173,0,False,residential,Hillview Drive,122.984,,,,,,,,,,,69334142,
+1244957626,267473519,0,False,secondary,Lake Road,969.339,,,,,,,,,,,5716386,NY 18F
+1244957626,43009165,0,False,residential,Lake Street,154.925,2,,,,,,,,,,108529730,
+1919130714,43010675,0,False,secondary,Main Street,47.07,,,,,,,,,,,108529746,NY 18F
+1919130714,43032682,0,False,secondary,Main Street,198.689,,,,,,,,,,,108529746,NY 18F
+2560699658,830712075,0,False,residential,Ulrich Lane,30.496,,,,,,,,,,,69334034,
+2560699658,830711354,0,False,residential,East Oak Terrace,180.918,,,,,,,,,,,5718109,
+2560699658,830712074,0,False,residential,Ulrich Lane,66.544,,,,,,,,,,,69334034,
+2560699660,830711354,0,False,residential,East Oak Terrace,30.319,,,,20 mph,,,,,,,249475812,
+2638847665,830716787,0,False,residential,Mary's Lane,200.057,,,,,,,,,,,69334068,
+2638847665,2837620743,0,False,residential,Mary's Lane,259.679,,,,,,,,,,,69334068,
+2638847665,2638847685,0,False,residential,Marys Lane,142.856,,,,,,,,,,,258548935,
+2638847685,830716787,0,False,secondary,River Road,74.942,,,,,,,,,,,5719104,NY 18F
+2638847685,830808061,0,False,secondary,River Road,187.07,,,,,,,,,,,5719104,NY 18F
+2638847685,2638847665,0,False,residential,Marys Lane,142.856,,,,,,,,,,,258548935,
+2837620743,2638847665,0,False,residential,Mary's Lane,259.679,,,,,,,,,,,69334068,
+2837620743,830808061,0,False,residential,Swain Road,198.488,,,,,,,,,,,69341431,
+2837620743,830808028,0,False,residential,Swain Road,108.153,,,,,,,,,,,69341431,
+3443667463,830809324,0,False,residential,Riverview Drive,205.858,,,,,,,,,,,"[69334123, 337256813]",
+3443672693,830717562,0,False,residential,Dansworth Drive,78.813,,,,,,,,,,,5718288,
+3443672693,830717563,0,False,residential,Dansworth Drive,483.271,,,,,,,,,,,5718288,
+3443672693,3443672704,0,False,residential,Hawthorne Place,392.408,,,,30 mph,,,,,,,337257088,
+3443672704,830717590,0,False,residential,Glengrove Road,154.597,,,,,,,,,,,69334435,
+3443672704,830717563,0,False,residential,Glengrove Road,134.578,,,,,,,,,,,69334435,
+3443672704,3443672693,0,False,residential,Hawthorne Place,392.408,,,,30 mph,,,,,,,337257088,

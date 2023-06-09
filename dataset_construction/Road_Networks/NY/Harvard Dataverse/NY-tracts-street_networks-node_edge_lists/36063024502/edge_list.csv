@@ -1,0 +1,347 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+43005802,43025348,0,True,motorway,Niagara Scenic Parkway,203.036,2,,,55 mph,,,,,,,5717395,NSP
+43005814,265680185,0,False,secondary,Lockport Road,12.91,,,,,,,,,,,5717798,NY 93
+43005814,265682177,0,True,motorway_link,,609.536,1,,,,,,,,,,24445622,
+43005816,265680185,0,True,motorway_link,,737.571,1,,,,,,,,,,5715137,
+43005816,265682177,0,True,motorway,Niagara Scenic Parkway,453.916,2,,,55 mph,,,,,,,24546454,NSP
+43006920,266889519,0,False,residential,,131.511,,,,,,,,,,,5715281,
+43006920,43017304,0,False,secondary,Lake Road,168.248,2,,,55 mph,,,,,,,24546269,NY 18
+43006920,43017192,0,False,secondary,Lake Road,723.6,2,,,55 mph,,,yes,,,,"[5716395, 24546268, 24546269]",NY 18
+43008815,267473231,0,False,secondary,Lake Road,88.091,,,,,,,,,,,5716386,NY 18F
+43008815,43029545,0,False,residential,Woodcliff Drive,45.915,,,,,,,,,,,5717816,
+43008815,43017192,0,False,secondary,Lake Road,406.374,,,,,,,yes,,,,"[24544840, 5716386, 24544845]",NY 18F
+43009942,43017890,0,False,residential,North Creek Road,116.129,,,,,,,,,,,5716468,
+43009942,43009966,0,False,residential,Creek Lane,1450.804,,,,,,,,,,,5715572,
+43009942,43017250,0,False,residential,North Creek Road,225.015,,,,,,,,,,,5716468,
+43009966,43009942,0,False,residential,Creek Lane,1450.804,,,,,,,,,,,5715572,
+43011173,43011247,0,False,residential,Porter Center Road,66.717,,,,,,,,,,,5715898,
+43011173,43011175,0,False,residential,Braley Road,1478.292,,,,,,,,,,,5715718,
+43011173,43013009,0,False,residential,Porter Center Road,1551.505,,,,,,,,,,,5715898,
+43011175,43011182,0,False,residential,Braley Road,232.495,,,,,,,,,,,5715718,
+43011175,43011173,0,False,residential,Braley Road,1478.292,,,,,,,,,,,5715718,
+43011175,43033169,0,False,residential,Dickersonville Road,2223.96,,,,,,,,,,,5719077,
+43011182,43011198,0,False,residential,Braley Road,2262.937,,,,,,,,,,,5715718,
+43011182,43011175,0,False,residential,Braley Road,232.495,,,,,,,,,,,5715718,
+43011182,43024289,0,False,residential,Dickersonville Road,1009.009,,,,,,,,,,,5719078,
+43011198,43011182,0,False,residential,Braley Road,2262.937,,,,,,,,,,,5715718,
+43011198,43048985,0,False,tertiary,Ransomville Road,1865.845,,,,,,,,,,,5718935,
+43011198,43033171,0,False,tertiary,Ransomville Road,2490.824,,,,,,,,,,,5718935,
+43011243,43033153,0,False,residential,Youngstown - Wilson Road,526.442,,,,,,,,,,,5717994,
+43011243,43011247,0,False,residential,Braley Road,2259.258,,,,,,,,,,,5715720,
+43011243,43012997,0,False,residential,Youngstown - Wilson Road,2485.36,,,,,,,,,,,5717994,
+43011247,43011173,0,False,residential,Porter Center Road,66.717,,,,,,,,,,,5715898,
+43011247,43012997,0,False,residential,Porter Center Road,978.707,,,,,,,,,,,5715898,
+43011247,43011243,0,False,residential,Braley Road,2259.258,,,,,,,,,,,5715720,
+43011984,43012003,0,False,secondary,Lake Road,102.625,2,,,55 mph,,,,,,,24546269,NY 18
+43011984,43012003,1,False,residential,Park Avenue,197.244,,,,,,,,,,,5715806,
+43011984,43017358,0,False,secondary,Lake Road,958.473,2,,,55 mph,,,,,,,24546269,NY 18
+43012003,43011984,0,False,secondary,Lake Road,102.625,2,,,55 mph,,,,,,,24546269,NY 18
+43012003,43011984,1,False,residential,Park Avenue,197.244,,,,,,,,,,,5715806,
+43012003,43016539,0,False,secondary,Lake Road,282.869,2,,,55 mph,,,,,,,24546269,NY 18
+43012754,43012759,0,False,secondary,Creek Road,317.084,,,,,,,,,,,5715876,NY 18
+43012754,43012885,0,False,secondary,Creek Road,994.715,,,,,,,,,,,5715880,NY 18
+43012754,43029976,0,False,tertiary,Blairville Road,765.909,,,,,,,,,,,5718549,CR 86
+43012759,43012769,0,False,secondary,Creek Road,427.726,,,,,,,,,,,5715876,NY 18
+43012759,43012754,0,False,secondary,Creek Road,317.084,,,,,,,,,,,5715876,NY 18
+43012759,43055004,0,False,tertiary,Balmer Road,2423.714,2,,,,,,,,,,5719530,
+43012769,43012759,0,False,secondary,Creek Road,427.726,,,,,,,,,,,5715876,NY 18
+43012769,43050693,0,False,residential,Calkins Road,980.624,,,,,,,,,,,5719046,
+43012878,43012885,0,False,secondary,Creek Road,1837.53,,,,,,,,,,,5715880,NY 18
+43012878,43017250,0,False,secondary,"['Creek Road', 'Lake Road']",874.216,,,,,,,,,,,"[5715880, 5716395]",NY 18
+43012878,43029282,0,False,secondary,Lockport Road,327.274,,,,,,,,,,,5717798,NY 93
+43012878,43029275,0,False,secondary,Lockport Road,915.082,,,,,,,,,,,5717798,NY 93
+43012885,43012754,0,False,secondary,Creek Road,994.715,,,,,,,,,,,5715880,NY 18
+43012885,43012878,0,False,secondary,Creek Road,1837.53,,,,,,,,,,,5715880,NY 18
+43012885,5010396985,0,False,residential,Cain Road,1991.651,,,,,,,,,,,5717333,
+43012984,43012985,0,False,residential,Porter Center Road,69.215,,,,,,,,,,,5715898,
+43012985,43012989,0,False,residential,Porter Center Road,115.223,,,,,,,,,,,5715898,
+43012985,43012984,0,False,residential,Porter Center Road,69.215,,,,,,,,,,,5715898,
+43012985,43049138,0,False,residential,Poter Center Extension,292.417,,,,,,,,,,,5718950,
+43012989,43012985,0,False,residential,Porter Center Road,115.223,,,,,,,,,,,5715898,
+43012989,43017351,0,False,secondary,Lake Road,1269.293,2,,,55 mph,,,,,,,24546269,NY 18
+43012989,43012997,0,False,residential,Porter Center Road,1329.712,,,,,,,,,,,5715898,
+43012989,2539160733,0,False,secondary,Lake Road,541.85,2,,,55 mph,,,,,,,24546269,NY 18
+43012997,43011247,0,False,residential,Porter Center Road,978.707,,,,,,,,,,,5715898,
+43012997,43012989,0,False,residential,Porter Center Road,1329.712,,,,,,,,,,,5715898,
+43012997,43033169,0,False,residential,Youngstown - Wilson Road,1236.002,,,,,,,,,,,5717994,
+43012997,43011243,0,False,residential,Youngstown - Wilson Road,2485.36,,,,,,,,,,,5717994,
+43013009,5010396981,0,False,residential,Porter Center Road,2062.057,,,,,,,yes,,,,"[5715898, 512411605, 512411606]",
+43013009,43011173,0,False,residential,Porter Center Road,1551.505,,,,,,,,,,,5715898,
+43013009,43029289,0,False,secondary,Lockport Road,2499.994,,,,,,,,,,,5717798,NY 93
+43013009,43024289,0,False,secondary,North Ridge Road,1790.754,,,,,,,,,,,5718646,NY 93
+43016387,43016389,0,False,residential,Saint Christopher Lane,194.079,,,,,,,,,,,5716298,
+43016387,43025617,0,False,residential,New Road,169.508,,,,,,,,,,,5719584,
+43016389,43016387,0,False,residential,Saint Christopher Lane,194.079,,,,,,,,,,,5716298,
+43016535,43016539,0,False,residential,Old Lake Road,602.305,,,,,,,,,,,5716316,
+43016535,43016539,1,False,secondary,Lake Road,495.931,2,,,55 mph,,,,,,,24546269,NY 18
+43016535,43017351,0,False,secondary,Lake Road,689.3,2,,,55 mph,,,,,,,24546269,NY 18
+43016539,43012003,0,False,secondary,Lake Road,282.869,2,,,55 mph,,,,,,,24546269,NY 18
+43016539,43016535,0,False,residential,Old Lake Road,602.305,,,,,,,,,,,5716316,
+43016539,43016535,1,False,secondary,Lake Road,495.931,2,,,55 mph,,,,,,,24546269,NY 18
+43017158,43017162,0,False,secondary,Lake Road,86.261,,,,,,,,,,,5716386,NY 18F
+43017158,2636066405,0,False,secondary,Lake Road,857.175,,,,,,,,,,,5716386,NY 18F
+43017158,43051847,0,False,residential,Johnston Drive,175.577,,,,,,,,,,,5719097,
+43017162,267473231,0,False,secondary,Lake Road,1542.905,,,,,,,,,,,5716386,NY 18F
+43017162,43017158,0,False,secondary,Lake Road,86.261,,,,,,,,,,,5716386,NY 18F
+43017162,43057539,0,False,residential,Orchard Drive,216.647,,,,,,,,,,,5719438,
+43017192,43006920,0,False,secondary,Lake Road,723.6,2,,,55 mph,,,yes,,,,"[5716395, 24546268, 24546269]",NY 18
+43017192,43017250,0,False,secondary,Lake Road,361.581,,,,,,,,,,,5716395,NY 18
+43017192,43008815,0,False,secondary,Lake Road,406.374,,,,,,,yes,,,,"[24544840, 5716386, 24544845]",NY 18F
+43017250,43017192,0,False,secondary,Lake Road,361.581,,,,,,,,,,,5716395,NY 18
+43017250,43012878,0,False,secondary,"['Creek Road', 'Lake Road']",874.216,,,,,,,,,,,"[5715880, 5716395]",NY 18
+43017250,43009942,0,False,residential,North Creek Road,225.015,,,,,,,,,,,5716468,
+43017304,43019141,0,False,residential,Cothran Road,645.622,,,,,,,,,,,5716633,
+43017304,266889539,0,False,secondary,Lake Road,389.205,2,,,55 mph,,,,,,,24546269,NY 18
+43017304,43006920,0,False,secondary,Lake Road,168.248,2,,,55 mph,,,,,,,24546269,NY 18
+43017316,2636088371,0,False,residential,Dietz Road,329.777,,,,,,,,,,,5718365,
+43017316,43017324,0,False,secondary,Lake Road,548.716,2,,,55 mph,,,,,,,24546269,NY 18
+43017316,266889549,0,False,secondary,Lake Road,208.883,2,,,55 mph,,,,,,,24546269,NY 18
+43017324,2539145261,0,False,secondary,Lake Road,157.175,2,,,55 mph,,,,,,,24546269,NY 18
+43017324,2292585970,0,False,residential,"['Greenwood Lane', 'Sunrise Lane']",348.274,,,,,,,,,,,"[5717730, 5716967]",
+43017324,43017316,0,False,secondary,Lake Road,548.716,2,,,55 mph,,,,,,,24546269,NY 18
+43017332,43022859,0,False,residential,Mallory Drive,183.717,,,,,,,,,,,5717097,
+43017332,43017336,0,False,secondary,Lake Road,66.036,2,,,55 mph,,,,,,,24546269,NY 18
+43017332,2539145261,0,False,secondary,Lake Road,1240.384,2,,,55 mph,,,,,,,24546269,NY 18
+43017336,2539154526,0,False,residential,Harrison Lane,119.85,,,,,,,,,,,5717777,
+43017336,2539159797,0,False,secondary,Lake Road,535.643,2,,,55 mph,,,,,,,24546269,NY 18
+43017336,43017332,0,False,secondary,Lake Road,66.036,2,,,55 mph,,,,,,,24546269,NY 18
+43017351,43012989,0,False,secondary,Lake Road,1269.293,2,,,55 mph,,,,,,,24546269,NY 18
+43017351,43033169,0,False,residential,Dickersonville Road,1456.544,,,,,,,,,,,5719077,
+43017351,43016535,0,False,secondary,Lake Road,689.3,2,,,55 mph,,,,,,,24546269,NY 18
+43017358,43033171,0,False,tertiary,Ransomville Road,1756.901,,,,,,,,,,,5718935,
+43017358,43011984,0,False,secondary,Lake Road,958.473,2,,,55 mph,,,,,,,24546269,NY 18
+43017890,43009942,0,False,residential,North Creek Road,116.129,,,,,,,,,,,5716468,
+43019141,43017304,0,False,residential,Cothran Road,645.622,,,,,,,,,,,5716633,
+43019141,43033153,0,False,residential,Youngstown - Wilson Road,533.306,,,,,,,,,,,5717994,
+43019141,43033138,0,False,residential,Youngstown - Wilson Road,987.845,,,,,,,,,,,5717994,
+43019723,43033138,0,False,residential,Meadow Drive,105.273,,,,,,,,,,,5719074,
+43019723,43019725,0,False,residential,Manor Drive,151.559,,,,,,,,,,,5716706,
+43019723,43029282,0,False,residential,Meadow Drive,246.127,,,,,,,,,,,5719074,
+43019725,43029286,0,False,secondary,Lockport Road,118.854,,,,,,,,,,,5717798,NY 93
+43019725,43029282,0,False,secondary,Lockport Road,114.217,,,,,,,,,,,5717798,NY 93
+43019725,43019723,0,False,residential,Manor Drive,151.559,,,,,,,,,,,5716706,
+43022859,43022862,0,False,residential,Mallory Drive,67.485,,,,,,,,,,,5717097,
+43022859,43017332,0,False,residential,Mallory Drive,183.717,,,,,,,,,,,5717097,
+43022859,43061610,0,False,residential,Groveland Avenue,122.205,,,,,,,,,,,5719699,
+43022862,43022859,0,False,residential,Mallory Drive,67.485,,,,,,,,,,,5717097,
+43024289,43024299,0,False,secondary,North Ridge Road,2184.888,,,,,,,,,,,5718646,NY 93
+43024289,43013009,0,False,secondary,North Ridge Road,1790.754,,,,,,,,,,,5718646,NY 93
+43024289,43051363,0,False,residential,Dickersonville Road,1543.858,,,,,,,,,,,5719078,
+43024289,43011182,0,False,residential,Dickersonville Road,1009.009,,,,,,,,,,,5719078,
+43024299,43024303,0,False,secondary,North Ridge Road,105.039,,,,,,,,,,,5718646,NY 93
+43024299,43058235,0,False,residential,Estes Place,161.831,,,,,,,,,,,5719474,
+43024299,43024289,0,False,secondary,North Ridge Road,2184.888,,,,,,,,,,,5718646,NY 93
+43024303,43024306,0,False,secondary,North Ridge Road,135.334,,,,,,,,,,,5718646,NY 93
+43024303,43024299,0,False,secondary,North Ridge Road,105.039,,,,,,,,,,,5718646,NY 93
+43024303,43027041,0,False,tertiary,Ransomville Road,151.157,,,,,,,,,,,5718935,
+43024303,43048985,0,False,tertiary,Ransomville Road,396.019,,,,,,,,,,,5718935,
+43024306,43024308,0,False,secondary,North Ridge Road,56.864,,,,,,,,,,,5718646,NY 93
+43024306,43024303,0,False,secondary,North Ridge Road,135.334,,,,,,,,,,,5718646,NY 93
+43024306,43027041,0,False,residential,Academy Street,235.287,,,,,,,,,,,5717603,
+43024308,43024306,0,False,secondary,North Ridge Road,56.864,,,,,,,,,,,5718646,NY 93
+43024308,43025617,0,False,residential,Curtis Avenue,458.247,,,,,,,,,,,5717433,
+43024944,43025295,0,True,motorway_link,,856.732,"['2', '1']",,,,,,,,,,"[29582296, 123684801, 123684798]",
+43025287,1244957601,0,True,"['motorway', 'unclassified']",Niagara Scenic Parkway,112.941,2,,,,,,,,,,"[24605628, 108529727]",NSP
+43025295,43025287,0,True,motorway,Niagara Scenic Parkway,885.666,2,,,,,,yes,,,,"[123684787, 24605628, 24605629]",NSP
+43025348,43025295,0,True,motorway,"['Robert Moses Parkway', 'Niagara Scenic Parkway']",990.449,"['2', '1']",,,,,,,,,,"[108529737, 123684787]",NSP
+43025348,266889477,0,True,motorway,Niagara Scenic Parkway,2980.624,2,,,55 mph,,,yes,,,,"[5715352, 24546270, 255968471]",NSP
+43025617,43048985,0,False,residential,New Road,212.137,,,,,,,,,,,5719584,
+43025617,43024308,0,False,residential,Curtis Avenue,458.247,,,,,,,,,,,5717433,
+43025617,43016387,0,False,residential,New Road,169.508,,,,,,,,,,,5719584,
+43027041,43048988,0,False,tertiary,Ransomville Road,636.994,,,,,,,,,,,5718935,
+43027041,43024303,0,False,tertiary,Ransomville Road,151.157,,,,,,,,,,,5718935,
+43027041,43024306,0,False,residential,Academy Street,235.287,,,,,,,,,,,5717603,
+43028900,2539154526,0,False,residential,Harrison Lane,141.606,,,,,,,,,,,5717777,
+43029275,43012878,0,False,secondary,Lockport Road,915.082,,,,,,,,,,,5717798,NY 93
+43029275,265680185,0,False,secondary,Lockport Road,786.167,,,,,,,,,,,5717798,NY 93
+43029275,43029976,0,False,unclassified,East Avenue,1984.097,2,,,45 mph,,,,,,,5717843,
+43029282,43019725,0,False,secondary,Lockport Road,114.217,,,,,,,,,,,5717798,NY 93
+43029282,43012878,0,False,secondary,Lockport Road,327.274,,,,,,,,,,,5717798,NY 93
+43029282,43019723,0,False,residential,Meadow Drive,246.127,,,,,,,,,,,5719074,
+43029286,43029289,0,False,secondary,Lockport Road,1227.584,,,,,,,,,,,5717798,NY 93
+43029286,43019725,0,False,secondary,Lockport Road,118.854,,,,,,,,,,,5717798,NY 93
+43029286,43033138,0,False,residential,Youngstown - Wilson Road,178.38,,,,,,,,,,,5717994,
+43029289,43029286,0,False,secondary,Lockport Road,1227.584,,,,,,,,,,,5717798,NY 93
+43029289,43033153,0,False,residential,Lutts Road,991.05,,,,,,,,,,,512411602,
+43029289,43013009,0,False,secondary,Lockport Road,2499.994,,,,,,,,,,,5717798,NY 93
+43029289,5010396985,0,False,residential,Lutts Road,1428.089,,,,,,,yes,,,,"[512411602, 512411603, 512411604]",
+43029545,43029547,0,False,residential,Woodcliff Drive,401.955,,,,,,,,,,,5717816,
+43029545,43008815,0,False,residential,Woodcliff Drive,45.915,,,,,,,,,,,5717816,
+43029545,43029555,0,False,residential,Four Mile Drive,831.738,,,,,,,,,,,5718300,
+43029547,2636087404,0,False,residential,Woodcliff Drive,157.325,,,,,,,,,,,5717816,
+43029547,2636087404,1,False,residential,,233.598,,,,,,,,,,,258219881,
+43029547,43029545,0,False,residential,Woodcliff Drive,401.955,,,,,,,,,,,5717816,
+43029555,43029559,0,False,residential,Woodcliff Drive,295.166,,,,,,,,,,,5717816,
+43029555,2636087404,0,False,residential,Woodcliff Drive,81.306,,,,,,,,,,,5717816,
+43029555,43029545,0,False,residential,Four Mile Drive,831.738,,,,,,,,,,,5718300,
+43029559,43029555,0,False,residential,Woodcliff Drive,295.166,,,,,,,,,,,5717816,
+43029976,43029275,0,False,unclassified,East Avenue,1984.097,2,,,45 mph,,,,,,,5717843,
+43029976,43012754,0,False,tertiary,Blairville Road,765.909,,,,,,,,,,,5718549,CR 86
+43032674,1244957643,0,False,unclassified,,203.435,,,,,,,,,,,"[108529720, 108529732]",
+43033138,43029286,0,False,residential,Youngstown - Wilson Road,178.38,,,,,,,,,,,5717994,
+43033138,43019723,0,False,residential,Meadow Drive,105.273,,,,,,,,,,,5719074,
+43033138,43019141,0,False,residential,Youngstown - Wilson Road,987.845,,,,,,,,,,,5717994,
+43033153,43011243,0,False,residential,Youngstown - Wilson Road,526.442,,,,,,,,,,,5717994,
+43033153,43019141,0,False,residential,Youngstown - Wilson Road,533.306,,,,,,,,,,,5717994,
+43033153,43029289,0,False,residential,Lutts Road,991.05,,,,,,,,,,,512411602,
+43033169,43033171,0,False,residential,Youngstown - Wilson Road,2387.981,,,,,,,,,,,5717994,
+43033169,43012997,0,False,residential,Youngstown - Wilson Road,1236.002,,,,,,,,,,,5717994,
+43033169,43011175,0,False,residential,Dickersonville Road,2223.96,,,,,,,,,,,5719077,
+43033169,43017351,0,False,residential,Dickersonville Road,1456.544,,,,,,,,,,,5719077,
+43033171,43033169,0,False,residential,Youngstown - Wilson Road,2387.981,,,,,,,,,,,5717994,
+43033171,43017358,0,False,tertiary,Ransomville Road,1756.901,,,,,,,,,,,5718935,
+43033171,43011198,0,False,tertiary,Ransomville Road,2490.824,,,,,,,,,,,5718935,
+43040245,2636088371,0,False,residential,Dietz Road,277.547,,,,,,,,,,,5718365,
+43048985,43024303,0,False,tertiary,Ransomville Road,396.019,,,,,,,,,,,5718935,
+43048985,43025617,0,False,residential,New Road,212.137,,,,,,,,,,,5719584,
+43048985,43011198,0,False,tertiary,Ransomville Road,1865.845,,,,,,,,,,,5718935,
+43048988,43027041,0,False,tertiary,Ransomville Road,636.994,,,,,,,,,,,5718935,
+43048988,43048989,0,False,tertiary,Ransomville Road,665.294,,,,,,,,,,,27235996,
+43048988,43051363,0,False,tertiary,Balmer Road,2122.272,2,,,,,,,,,,5719530,
+43048989,43059642,0,False,residential,Parker Road,299.788,,,,,,,,,,,5719559,
+43048989,43048988,0,False,tertiary,Ransomville Road,665.294,,,,,,,,,,,27235996,
+43049138,43012985,0,False,residential,Poter Center Extension,292.417,,,,,,,,,,,5718950,
+43050693,43012769,0,False,residential,Calkins Road,980.624,,,,,,,,,,,5719046,
+43051363,43024289,0,False,residential,Dickersonville Road,1543.858,,,,,,,,,,,5719078,
+43051363,43048988,0,False,tertiary,Balmer Road,2122.272,2,,,,,,,,,,5719530,
+43051363,5010396981,0,False,tertiary,Balmer Road,1791.035,2,,,,,,,,,,5719530,
+43051847,43017158,0,False,residential,Johnston Drive,175.577,,,,,,,,,,,5719097,
+43055004,5010396985,0,False,residential,Lutts Road,1204.716,,,,,,,,,,,512411603,
+43055004,5010396981,0,False,tertiary,Balmer Road,2420.928,2,,,,,,,,,,5719530,
+43055004,43012759,0,False,tertiary,Balmer Road,2423.714,2,,,,,,,,,,5719530,
+43057536,43057539,0,False,residential,Orchard Drive,29.204,,,,,,,,,,,5719437,
+43057539,43057544,0,False,residential,Orchard Drive,16.548,,,,,,,,,,,5719437,
+43057539,43057536,0,False,residential,Orchard Drive,29.204,,,,,,,,,,,5719437,
+43057539,43017162,0,False,residential,Orchard Drive,216.647,,,,,,,,,,,5719438,
+43057544,43057539,0,False,residential,Orchard Drive,16.548,,,,,,,,,,,5719437,
+43058235,43024299,0,False,residential,Estes Place,161.831,,,,,,,,,,,5719474,
+43059642,43048989,0,False,residential,Parker Road,299.788,,,,,,,,,,,5719559,
+43061610,43022859,0,False,residential,Groveland Avenue,122.205,,,,,,,,,,,5719699,
+265680185,43005814,0,False,secondary,Lockport Road,12.91,,,,,,,,,,,5717798,NY 93
+265680185,43029275,0,False,secondary,Lockport Road,786.167,,,,,,,,,,,5717798,NY 93
+265682177,43005802,0,True,motorway,Niagara Scenic Parkway,608.719,2,,,55 mph,,,yes,,,,"[24445618, 5717395, 24546454]",NSP
+266889477,266889539,0,True,motorway,Niagara Scenic Parkway,1047.537,2,,,55 mph,,,yes,,,,"[5715352, 24546274, 24546275]",NSP
+266889477,266889519,0,True,motorway_link,,547.68,,,,,,,,,,,24546272,
+266889519,266889581,0,False,residential,,295.167,,,,,,,,,,,5715281,
+266889519,43006920,0,False,residential,,131.511,,,,,,,,,,,5715281,
+266889539,266889549,0,False,secondary,Lake Road,15.309,2,,,55 mph,,,,,,,24546269,NY 18
+266889539,43017304,0,False,secondary,Lake Road,389.205,2,,,55 mph,,,,,,,24546269,NY 18
+266889549,266889539,0,False,secondary,Lake Road,15.309,2,,,55 mph,,,,,,,24546269,NY 18
+266889549,266889555,0,True,motorway,Niagara Scenic Parkway,360.845,2,,,55 mph,,,,,,,5714892,NSP
+266889549,43017316,0,False,secondary,Lake Road,208.883,2,,,55 mph,,,,,,,24546269,NY 18
+266889555,43024944,0,True,motorway,Niagara Scenic Parkway,3029.06,2,,,55 mph,,,yes,,,,"[5717348, 24546277, 24546278, 24546279, 5714892]",NSP
+266889581,268206489,0,False,residential,,71.555,,,,,,,,,,,5715281,
+266889581,266889519,0,False,residential,,295.167,,,,,,,,,,,5715281,
+266889581,266889555,0,True,motorway_link,,605.988,,,,,,,,,,,24546276,
+266891372,266891378,0,True,motorway_link,,49.878,,,,,,,,,,,24546479,
+266891378,43005816,0,True,motorway,Niagara Scenic Parkway,699.202,2,,,55 mph,,,,,,,24546454,NSP
+267473230,267473231,0,False,residential,Reece Court,119.878,,,,,,,,,,,24605553,
+267473231,43008815,0,False,secondary,Lake Road,88.091,,,,,,,,,,,5716386,NY 18F
+267473231,267473230,0,False,residential,Reece Court,119.878,,,,,,,,,,,24605553,
+267473231,43017162,0,False,secondary,Lake Road,1542.905,,,,,,,,,,,5716386,NY 18F
+268206489,266889581,0,False,residential,,71.555,,,,,,,,,,,5715281,
+1244957358,1244957421,0,False,residential,,19.869,,,,,,,,,,,108529736,
+1244957358,2636063689,0,False,residential,,31.46,,,,,,,,,,,108529736,
+1244957358,1244957726,0,False,residential,,53.508,,,,,,,,,,,108529750,
+1244957358,2636063688,0,False,residential,,88.827,,,,,,,,,,,"[108529750, 108529751]",
+1244957383,1244957741,0,False,residential,,19.498,,,,,,,,,,,108529736,
+1244957383,2636066405,0,False,secondary,Lake Road,443.479,,,,,,,,,,,5716386,NY 18F
+1244957383,1244957746,0,False,secondary,Lake Road,232.583,,,,,,,,,,,5716386,NY 18F
+1244957401,1244957595,0,True,motorway,Niagara Scenic Parkway,82.887,2,,,,,,,,,,5717383,NSP
+1244957421,1244957358,0,False,residential,,19.869,,,,,,,,,,,108529736,
+1244957425,1244957465,0,False,unclassified,,21.992,,,,,,,,,,,181494081,
+1244957425,1244957519,0,True,unclassified,,111.825,,,,,,,,,,,108529744,
+1244957429,1244957584,0,True,unclassified,,57.786,,,,,,,,,,,108529718,
+1244957429,1320278586,0,False,unclassified,,456.128,,,,,,,,,,,108529721,
+1244957451,1244957755,0,False,unclassified,Old Lake Road,223.957,,,,,,,,,,,108529723,
+1244957465,1244957425,0,False,unclassified,,21.992,,,,,,,,,,,181494081,
+1244957470,1244957401,0,True,motorway,Niagara Scenic Parkway,65.011,2,,,,,,,,,,5717383,NSP
+1244957470,1244957753,0,True,unclassified,,101.287,,,,,,,,,,roundabout,108529733,
+1244957478,1244957772,0,False,unclassified,,287.505,,,,,,,,,,,108529748,
+1244957478,1244957643,0,False,unclassified,,788.323,,,,,,,,,,,108529724,
+1244957478,1244957643,1,False,unclassified,,439.472,,,,,,,,,,,108529748,
+1244957506,1244957429,0,True,unclassified,,63.284,,,,,,,,,,,108529719,
+1244957506,1244957584,0,True,unclassified,,55.402,,,,,,,,,,roundabout,108529733,
+1244957519,1244957506,0,True,unclassified,,22.562,,,,,,,,,,roundabout,108529733,
+1244957583,1244957772,0,True,unclassified,,44.629,,,,,,,,,,,108529725,
+1244957583,1244957625,0,True,unclassified,,38.946,,,,,,,,,,roundabout,108529733,
+1244957584,1244957583,0,True,unclassified,,26.532,,,,,,,,,,roundabout,108529733,
+1244957593,1244957519,0,True,unclassified,,135.336,,,,,,,,,,roundabout,108529733,
+1244957593,1244957465,0,True,unclassified,,151.502,,,,,,,,,,,463590608,
+1244957601,1244957753,0,True,unclassified,,80.18,,,,,,,,,,,108529722,
+1244957601,1244957401,0,True,unclassified,,84.894,,,,,,,,,,,108529728,
+1244957625,1244957470,0,True,unclassified,,119.804,,,,,,,,,,roundabout,108529733,
+1244957643,43032674,0,False,unclassified,,203.435,,,,,,,,,,,"[108529720, 108529732]",
+1244957643,1244957478,0,False,unclassified,,788.323,,,,,,,,,,,108529724,
+1244957643,1244957478,1,False,unclassified,,439.472,,,,,,,,,,,108529748,
+1244957726,2636063690,0,False,residential,,30.181,,,,,,,,,,,108529747,
+1244957726,1244957358,0,False,residential,,53.508,,,,,,,,,,,108529750,
+1244957726,2636064198,0,False,residential,Powell Drive,53.693,,,,20 mph,,,,,,,258216973,
+1244957741,1244957755,0,False,unclassified,Old Lake Road,53.779,,,,,,,,,,,108529723,
+1244957741,2636063689,0,False,residential,,121.21,,,,,,,,,,,108529736,
+1244957741,1244957383,0,False,residential,,19.498,,,,,,,,,,,108529736,
+1244957741,2636063690,0,False,"['unclassified', 'residential']",Old Lake Road,176.097,,,,,,,,,,,"[108529747, 108529723]",
+1244957746,1244957383,0,False,secondary,Lake Road,232.583,,,,,,,,,,,5716386,NY 18F
+1244957746,43025287,0,True,motorway_link,,433.153,,,,,,,,,,,108529752,
+1244957753,1244957593,0,True,unclassified,,17.126,,,,,,,,,,roundabout,108529733,
+1244957755,1244957451,0,False,unclassified,Old Lake Road,223.957,,,,,,,,,,,108529723,
+1244957755,1244957741,0,False,unclassified,Old Lake Road,53.779,,,,,,,,,,,108529723,
+1244957755,2636063688,0,False,residential,,120.486,,,,,,,,,,,108529751,
+1244957772,1244957478,0,False,unclassified,,287.505,,,,,,,,,,,108529748,
+1244957772,1244957625,0,True,unclassified,,50.636,,,,,,,,,,,108529745,
+1320278493,1320278586,0,False,unclassified,,51.693,,,,,,,,,,,117216426,
+1320278586,1320278493,0,False,unclassified,,51.693,,,,,,,,,,,117216426,
+1320278586,4588557799,0,False,unclassified,,82.217,,,,,,,,,,,108529721,
+1320278586,1244957429,0,False,unclassified,,456.128,,,,,,,,,,,108529721,
+2292585968,2292585970,0,False,residential,Sunrise Lane,234.946,,,,,,,,,,,5717730,
+2292585970,2292585968,0,False,residential,Sunrise Lane,234.946,,,,,,,,,,,5717730,
+2292585970,43017324,0,False,residential,"['Greenwood Lane', 'Sunrise Lane']",348.274,,,,,,,,,,,"[5717730, 5716967]",
+2292585970,2539145277,0,False,residential,"['Greenwood Lane', 'Sunrise Lane']",152.722,,,,,,,,,,,"[246956969, 220136314]",
+2539145261,43017324,0,False,secondary,Lake Road,157.175,2,,,55 mph,,,,,,,24546269,NY 18
+2539145261,43017332,0,False,secondary,Lake Road,1240.384,2,,,55 mph,,,,,,,24546269,NY 18
+2539145261,2539145277,0,False,residential,Greenwood Lane,310.245,,,,,,,,,,,246956969,
+2539145277,2292585970,0,False,residential,"['Greenwood Lane', 'Sunrise Lane']",152.722,,,,,,,,,,,"[246956969, 220136314]",
+2539145277,2539145261,0,False,residential,Greenwood Lane,310.245,,,,,,,,,,,246956969,
+2539145277,2539145288,0,False,residential,Sunrise Lane,42.768,,,,,,,,,,,246956970,
+2539145288,2539145277,0,False,residential,Sunrise Lane,42.768,,,,,,,,,,,246956970,
+2539154526,43028900,0,False,residential,Harrison Lane,141.606,,,,,,,,,,,5717777,
+2539154526,43017336,0,False,residential,Harrison Lane,119.85,,,,,,,,,,,5717777,
+2539154526,2539154550,0,False,residential,Harrison Lane,240.882,,,,20 mph,,,,,,,246958853,
+2539154550,2539154526,0,False,residential,Harrison Lane,240.882,,,,20 mph,,,,,,,246958853,
+2539159797,2539160733,0,False,secondary,Lake Road,46.877,2,,,55 mph,,,,,,,24546269,NY 18
+2539159797,43017336,0,False,secondary,Lake Road,535.643,2,,,55 mph,,,,,,,24546269,NY 18
+2539159797,2539159804,0,False,residential,,161.733,,,,20 mph,,,,,,,246959000,
+2539159804,2539159797,0,False,residential,,161.733,,,,20 mph,,,,,,,246959000,
+2539160733,2539159797,0,False,secondary,Lake Road,46.877,2,,,55 mph,,,,,,,24546269,NY 18
+2539160733,43012989,0,False,secondary,Lake Road,541.85,2,,,55 mph,,,,,,,24546269,NY 18
+2539160733,2539160744,0,False,residential,,275.541,,,,20 mph,,,,,,,246959169,
+2539160744,2539160733,0,False,residential,,275.541,,,,20 mph,,,,,,,246959169,
+2636063688,1244957755,0,False,residential,,120.486,,,,,,,,,,,108529751,
+2636063688,2636063689,0,False,residential,Wilksmore Street,54.186,,,,20 mph,,,,,,,258216931,
+2636063688,1244957358,0,False,residential,,88.827,,,,,,,,,,,"[108529750, 108529751]",
+2636063689,1244957358,0,False,residential,,31.46,,,,,,,,,,,108529736,
+2636063689,1244957741,0,False,residential,,121.21,,,,,,,,,,,108529736,
+2636063689,2636063690,0,False,residential,Wilksmore Street,55.564,,,,20 mph,,,,,,,258216931,
+2636063689,2636063688,0,False,residential,Wilksmore Street,54.186,,,,20 mph,,,,,,,258216931,
+2636063690,1244957726,0,False,residential,,30.181,,,,,,,,,,,108529747,
+2636063690,2636063689,0,False,residential,Wilksmore Street,55.564,,,,20 mph,,,,,,,258216931,
+2636063690,1244957741,0,False,"['unclassified', 'residential']",Old Lake Road,176.097,,,,,,,,,,,"[108529723, 108529747]",
+2636064198,1244957726,0,False,residential,Powell Drive,53.693,,,,20 mph,,,,,,,258216973,
+2636066405,43017158,0,False,secondary,Lake Road,857.175,,,,,,,,,,,5716386,NY 18F
+2636066405,1244957383,0,False,secondary,Lake Road,443.479,,,,,,,,,,,5716386,NY 18F
+2636066405,2636066416,0,False,residential,,188.637,,,,,,,,,,,258217019,
+2636066416,2636066405,0,False,residential,,188.637,,,,,,,,,,,258217019,
+2636087404,43029547,0,False,residential,Woodcliff Drive,157.325,,,,,,,,,,,5717816,
+2636087404,43029547,1,False,residential,,233.598,,,,,,,,,,,258219881,
+2636087404,43029555,0,False,residential,Woodcliff Drive,81.306,,,,,,,,,,,5717816,
+2636088371,43040245,0,False,residential,Dietz Road,277.547,,,,,,,,,,,5718365,
+2636088371,43017316,0,False,residential,Dietz Road,329.777,,,,,,,,,,,5718365,
+2636088371,2636088381,0,False,residential,,239.185,,,,,,,,,,,258219918,
+2636088381,2636088371,0,False,residential,,239.185,,,,,,,,,,,258219918,
+4588557799,1320278586,0,False,unclassified,,82.217,,,,,,,,,,,108529721,
+5010396981,43051363,0,False,tertiary,Balmer Road,1791.035,2,,,,,,,,,,5719530,
+5010396981,43055004,0,False,tertiary,Balmer Road,2420.928,2,,,,,,,,,,5719530,
+5010396981,43013009,0,False,residential,Porter Center Road,2062.057,,,,,,,yes,,,,"[5715898, 512411605, 512411606]",
+5010396985,43055004,0,False,residential,Lutts Road,1204.716,,,,,,,,,,,512411603,
+5010396985,43012885,0,False,residential,Cain Road,1991.651,,,,,,,,,,,5717333,
+5010396985,43029289,0,False,residential,Lutts Road,1428.089,,,,,,,yes,,,,"[512411602, 512411603, 512411604]",

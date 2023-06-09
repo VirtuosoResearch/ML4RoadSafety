@@ -1,0 +1,82 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+64822880,111367480,0,True,motorway_link,,829.458,2,,,55 mph,,,yes,,,,"[12808197, 44007630, 44007631]",
+64822880,1276461490,0,True,motorway,New York State Thruway,450.663,3,,,55 mph,,,,,,,"[123643611, 103705118]",I 90
+111237132,111334744,0,False,residential,Tindle Avenue,259.928,,,,,,,,,,,12292463,
+111275199,111370724,0,False,tertiary,Indian Church Road,187.433,,,,,,,,,,,77305841,
+111275199,1057848576,0,False,primary_link,,244.835,,,,,,,,,,,"[91133427, 107119822]",
+111285584,111334731,0,False,residential,Flohr Avenue,270.064,,,,,,,,,,,12298667,
+111285591,111334733,0,False,residential,Bellwood Avenue,289.642,,,,,,,,,,,12313582,
+111285593,111334736,0,False,residential,Delray Avenue,327.751,,,,,,,,,,,12308132,
+111285597,111334740,0,False,residential,Thorndale Avenue,365.788,,,,,,,,,,,12291269,
+111334723,111334726,0,False,residential,Graham Avenue,81.696,,,,,,,,,,,12283748,
+111334723,111496568,0,False,residential,Klas Avenue,283.49,,,,,,,,,,,12307736,
+111334723,111357492,0,False,residential,"['Klas Avenue', 'North Seneca Street']",354.795,,,,,,,,,,,"[12307736, 12286412, 12286413]",
+111334726,111334723,0,False,residential,Graham Avenue,81.696,,,,,,,,,,,12283748,
+111334726,111357492,0,False,residential,Dirkson Avenue,270.634,,,,,,,,,,,12287970,
+111334726,111334729,0,False,residential,Graham Avenue,82.287,,,,,,,,,,,12283748,
+111334726,111371134,0,False,residential,Dirkson Avenue,283.812,,,,,,,,,,,12287970,
+111334729,111334731,0,False,residential,Graham Avenue,81.134,,,,,,,,,,,12283748,
+111334729,111334726,0,False,residential,Graham Avenue,82.287,,,,,,,,,,,12283748,
+111334729,111357495,0,False,primary,Harlem Road,275.48,,,,,,,,,,,12303300,NY 240
+111334729,111496571,0,False,primary,Harlem Road,284.211,,,,,,,,,,,12303300,NY 240
+111334731,111334733,0,False,residential,Graham Avenue,82.039,,,,,,,,,,,12283748,
+111334731,111334729,0,False,residential,Graham Avenue,81.134,,,,,,,,,,,12283748,
+111334731,111285584,0,False,residential,Flohr Avenue,270.064,,,,,,,,,,,12298667,
+111334731,111467105,0,False,residential,Flohr Avenue,283.8,,,,,,,,,,,12298667,
+111334733,111334736,0,False,residential,Graham Avenue,82.503,,,,,,,,,,,12283748,
+111334733,111334731,0,False,residential,Graham Avenue,82.039,,,,,,,,,,,12283748,
+111334733,111285591,0,False,residential,Bellwood Avenue,289.642,,,,,,,,,,,12313582,
+111334733,111496584,0,False,residential,Bellwood Avenue,284.874,,,,,,,,,,,12313582,
+111334736,111334740,0,False,residential,Graham Avenue,82.776,,,,,,,,,,,12283748,
+111334736,111334733,0,False,residential,Graham Avenue,82.503,,,,,,,,,,,12283748,
+111334736,111496587,0,False,residential,Delray Avenue,286.861,,,,,,,,,,,12308132,
+111334736,111285593,0,False,residential,Delray Avenue,327.751,,,,,,,,,,,12308132,
+111334740,111334736,0,False,residential,Graham Avenue,82.776,,,,,,,,,,,12283748,
+111334740,111334744,0,False,residential,Graham Avenue,82.772,,,,,,,,,,,12283748,
+111334740,111285597,0,False,residential,Thorndale Avenue,365.788,,,,,,,,,,,12291269,
+111334740,111400731,0,False,residential,Thorndale Avenue,288.119,,,,,,,,,,,12291269,
+111334744,111237132,0,False,residential,Tindle Avenue,259.928,,,,,,,,,,,12292463,
+111334744,111334740,0,False,residential,Graham Avenue,82.772,,,,,,,,,,,12283748,
+111334744,111412060,0,False,residential,Tindle Avenue,290.113,,,,,,,,,,,12292463,
+111357492,111357495,0,False,residential,North Seneca Street,51.446,,,,,,,,,,,12286412,
+111357492,111334726,0,False,residential,Dirkson Avenue,270.634,,,,,,,,,,,12287970,
+111357492,111334723,0,False,residential,"['Klas Avenue', 'North Seneca Street']",354.795,,,,,,,,,,,"[12307736, 12286412, 12286413]",
+111357495,111357492,0,False,residential,North Seneca Street,51.446,,,,,,,,,,,12286412,
+111357495,111334729,0,False,primary,Harlem Road,275.48,,,,,,,,,,,12303300,NY 240
+111357495,1057848576,0,False,primary,Harlem Road,591.619,,,,,,,,,,,"[107119833, 12303307]",NY 240
+111367480,111367489,0,True,motorway,Aurora Expressway,368.582,3,,,55 mph,,,yes,,,,"[231162009, 32925691, 12808212]",NY 400
+111367489,1377984943,0,True,motorway_link,,411.752,,,,,,,,,,,12808202,
+111370724,111370726,0,False,residential,Olean Avenue,93.784,,,,,,,,,,,12287923,
+111370724,111275199,0,False,tertiary,Indian Church Road,187.433,,,,,,,,,,,77305841,
+111370726,111370724,0,False,residential,Olean Avenue,93.784,,,,,,,,,,,12287923,
+111371134,111496571,0,False,secondary,Seneca Street,81.021,,,,,,,,,,,97822613,NY 16
+111371134,111496568,0,False,secondary,Seneca Street,80.311,,,,,,,,,,,97822613,NY 16
+111371134,111334726,0,False,residential,Dirkson Avenue,283.812,,,,,,,,,,,12287970,
+111400731,111496587,0,False,secondary,Seneca Street,82.781,,,,,,,,,,,97822613,NY 16
+111400731,111334740,0,False,residential,Thorndale Avenue,288.119,,,,,,,,,,,12291269,
+111400731,111412060,0,False,secondary,Seneca Street,83.05,,,,,,,,,,,97822613,NY 16
+111412060,111334744,0,False,residential,Tindle Avenue,290.113,,,,,,,,,,,12292463,
+111412060,111400731,0,False,secondary,Seneca Street,83.05,,,,,,,,,,,97822613,NY 16
+111467105,111496584,0,False,secondary,Seneca Street,82.131,,,,,,,,,,,97822613,NY 16
+111467105,111496571,0,False,secondary,Seneca Street,81.94,,,,,,,,,,,97822613,NY 16
+111467105,111334731,0,False,residential,Flohr Avenue,283.8,,,,,,,,,,,12298667,
+111496568,111334723,0,False,residential,Klas Avenue,283.49,,,,,,,,,,,12307736,
+111496568,111371134,0,False,secondary,Seneca Street,80.311,,,,,,,,,,,97822613,NY 16
+111496571,111467105,0,False,secondary,Seneca Street,81.94,,,,,,,,,,,97822613,NY 16
+111496571,111371134,0,False,secondary,Seneca Street,81.021,,,,,,,,,,,97822613,NY 16
+111496571,111334729,0,False,primary,Harlem Road,284.211,,,,,,,,,,,12303300,NY 240
+111496584,111496587,0,False,secondary,Seneca Street,83.524,,,,,,,,,,,97822613,NY 16
+111496584,111467105,0,False,secondary,Seneca Street,82.131,,,,,,,,,,,97822613,NY 16
+111496584,111334733,0,False,residential,Bellwood Avenue,284.874,,,,,,,,,,,12313582,
+111496587,111334736,0,False,residential,Delray Avenue,286.861,,,,,,,,,,,12308132,
+111496587,111400731,0,False,secondary,Seneca Street,82.781,,,,,,,,,,,97822613,NY 16
+111496587,111496584,0,False,secondary,Seneca Street,83.524,,,,,,,,,,,97822613,NY 16
+117151098,111367480,0,True,motorway_link,,388.963,,,,,,,,,,,"[12808200, 103705070]",
+117151098,64128138,0,True,motorway,New York State Thruway,574.256,3,,,55 mph,,,,,,,"[103892956, 103705084]",I 90
+123975314,1377984943,0,True,motorway_link,,950.048,,,,,,,yes,,,,"[46532647, 123643609, 123643607, 13489721, 100558331]",
+123975314,1377984916,0,True,motorway,Aurora Expressway,319.977,2,,,55 mph,,,,,,,46532662,NY 400
+123978459,64128138,0,True,motorway_link,,320.902,2,,,,,,,,,,13490103,
+123978459,1276461490,0,True,motorway_link,,701.614,,,,55 mph,,,yes,,,,"[103892949, 44007628, 103705060, 44007629]",
+1057848576,111275199,0,False,primary_link,,244.835,,,,,,,,,,,"[91133427, 107119822]",
+1057848576,111357495,0,False,primary,Harlem Road,591.619,,,,,,,,,,,"[107119833, 12303307]",NY 240
+1377984916,123978459,0,True,motorway,Aurora Expressway,749.138,2,,,55 mph,,,yes,,,,"[32925697, 32925698, 46532662, 84921191]",NY 400

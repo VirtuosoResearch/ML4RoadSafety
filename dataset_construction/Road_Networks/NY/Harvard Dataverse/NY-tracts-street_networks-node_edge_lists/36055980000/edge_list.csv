@@ -1,0 +1,106 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+212599949,212616735,0,True,motorway,,614.26,3,,,55 mph,,,,,,,24016047,I 390
+212614394,212614422,0,True,motorway_link,,449.586,,,,,,,,,,,20111032,
+212614422,212618525,0,True,motorway,,816.934,3,,,55 mph,,,,,,,38726304,I 390
+212616735,212621958,0,True,motorway,,320.435,3,,,55 mph,,,,,,,24016047,I 390
+212616735,212616714,0,True,motorway_link,,327.689,,,,,,,,,,,378923938,
+212618525,212618546,0,True,motorway_link,,188.84,1,,,,,,,,,,20111357,
+212618525,212621786,0,True,motorway,,195.819,3,,,55 mph,,,,,,,38726304,I 390
+212618546,1937571812,0,True,motorway_link,,87.377,,,,,,,,,,,183385279,
+212618546,212618554,0,True,motorway_link,,101.92,1,,,,,,,,,,20111357,
+212618554,1034257291,0,False,primary,Scottsville Road,107.094,,,,,,,,,,,303877452,NY 383
+212618554,1937571812,0,False,primary,Scottsville Road,43.207,,,,,,,,,,,303877452,NY 383
+212621689,1937571823,0,True,motorway_link,,408.561,1,,,,,,,,,,20111595,
+212621689,212599949,0,True,motorway,,347.811,3,,,55 mph,,,,,,,24016047,I 390
+212621756,1937571812,0,False,primary,Scottsville Road,10.277,,,,,,,,,,,303877452,NY 383
+212621756,1937571815,0,True,motorway_link,,49.922,1,,,,,,,,,,20111600,
+212630502,583059905,0,False,primary,Brooks Avenue,58.63,,,,,,,,,,,318186947,NY 204
+212630502,212722291,0,False,primary,Brooks Avenue,283.331,,,,,,,,,,,318186947,NY 204
+212631927,212631931,0,False,residential,Old Beahan Road,234.001,,,,,,,,,,,20112194,
+212631931,212631927,0,False,residential,Old Beahan Road,234.001,,,,,,,,,,,20112194,
+212631931,212631954,0,False,residential,Old Beahan Road,175.783,,,,,,,,,,,20112197,
+212631931,212822256,0,False,residential,"['Weidner Road', 'Millstead Way']",665.5,,,,,,,,,,,"[20125172, 20134877]",
+212631954,212631931,0,False,residential,Old Beahan Road,175.783,,,,,,,,,,,20112197,
+212656081,212706016,0,False,primary,Scottsville Road,163.076,,,,,,,,,,,303877452,NY 383
+212656081,1034257100,0,False,primary,Scottsville Road,399.612,,,,,,,,,,,303877452,NY 383
+212665291,212665322,0,False,residential,Cherokee Circle,77.909,2,,,,,,,,,,20114260,
+212665291,212706016,0,False,residential,"['Air Park Drive', 'Airpark Drive']",823.487,2,,,,,,,,,,"[20136852, 20130054]",
+212665291,212706054,0,False,primary,Scottsville Road,385.56,,,,,,,,,,,303877452,NY 383
+212665291,4512887851,0,False,primary,Scottsville Road,194.95,,,,,,,,,,,303877452,NY 383
+212665322,212665291,0,False,residential,Cherokee Circle,77.909,2,,,,,,,,,,20114260,
+212665322,4512887851,0,False,residential,Aztec Drive,256.251,,,,,,,,,,,20127127,
+212665322,212706054,0,False,residential,"['Comanche Circle', 'Aztec Drive']",526.935,,,,,,,,,,,"[20138044, 20127127]",
+212706016,212665291,0,False,residential,"['Air Park Drive', 'Airpark Drive']",823.487,2,,,,,,,,,,"[20136852, 20130054]",
+212706016,4512887851,0,False,primary,Scottsville Road,361.062,,,,,,,,,,,303877452,NY 383
+212706016,212656081,0,False,primary,Scottsville Road,163.076,,,,,,,,,,,303877452,NY 383
+212706054,212665322,0,False,residential,"['Comanche Circle', 'Aztec Drive']",526.935,,,,,,,,,,,"[20138044, 20127127]",
+212706054,212706066,0,False,primary,Scottsville Road,219.926,,,,,,,,,,,303877452,NY 383
+212706054,212665291,0,False,primary,Scottsville Road,385.56,,,,,,,,,,,303877452,NY 383
+212706066,212706054,0,False,primary,Scottsville Road,219.926,,,,,,,,,,,303877452,NY 383
+212722169,212630502,0,True,unclassified,Airport Road,132.463,,,,,,,,,,,20118284,
+212722169,212722211,0,True,unclassified,Airport Road,473.235,,,,,,,,,,,20118286,
+212722185,212722169,0,True,unclassified,Airport Road,270.785,,,,,,,,,,,20118284,
+212722185,212722940,0,False,residential,East Airport Road,151.534,,,,,,,,,,,20126678,
+212722211,212722220,0,True,unclassified,Airport Road,65.198,,,,,,,,,,,20118286,
+212722220,212722185,0,True,unclassified,Airport Way,792.911,,,,,,,yes,,,,"[108528905, 20124554, 108528868]",
+212722228,212782329,0,True,unclassified,Greater Rochester Internationa,28.149,,,,,,,,,,,20130194,
+212722228,212782332,0,True,unclassified,Greater Rochester Internationa,43.848,,,,,,,,,,,20130193,
+212722291,212769000,0,False,primary,Brooks Avenue,96.736,,,,,,,,,,,318186947,NY 204
+212722291,212722228,0,True,unclassified,Airport Road,522.462,,,,,,,yes,,,,"[40995249, 40995250, 20118291]",
+212722291,212630502,0,False,primary,Brooks Avenue,283.331,,,,,,,,,,,318186947,NY 204
+212722304,212722211,0,True,unclassified,Airport Road,61.745,,,,,,,,,,,20118293,
+212722304,212782329,0,False,residential,Airport Way,94.561,2,,,,,,,,,,20124550,
+212722304,212769000,0,False,residential,Airport Way,92.82,2,,,,,,,,,,20124550,
+212722940,212762411,0,False,residential,Freight Building Road,133.193,,,,,,,,,,,20122323,
+212722940,1034257091,0,False,residential,Eastside Way,1163.844,,,,,,,,yes,,,"[20118336, 89163520, 89163500]",
+212722940,212722185,0,False,residential,East Airport Road,151.534,,,,,,,,,,,20126678,
+212762411,212722940,0,False,residential,Freight Building Road,133.193,,,,,,,,,,,20122323,
+212764182,212789018,0,False,tertiary,Beahan Road,373.567,,,,,,,,,,,20135062,
+212769000,212722291,0,False,primary,Brooks Avenue,96.736,,,,,,,,,,,318186947,NY 204
+212769000,1244951369,0,False,primary,Brooks Avenue,130.737,,,,,,,,,,,318186947,NY 204
+212769000,212722304,0,False,residential,Airport Way,92.82,2,,,,,,,,,,20124550,
+212782329,212782332,0,False,residential,Airport Way,40.613,2,,,,,,,,,,20124550,
+212782329,212722304,0,False,residential,Airport Way,94.561,2,,,,,,,,,,20124550,
+212782329,212722220,0,True,unclassified,Airport Way,105.841,,,,,,,,,,,20124554,
+212782332,212782329,0,False,residential,Airport Way,40.613,2,,,,,,,,,,20124550,
+212782332,5385160453,0,False,residential,Airport Way,568.197,2,,,,,,,,,,20124550,
+212789018,212896975,0,False,tertiary,Beahan Road,208.234,,,,,,,,,,,20135062,
+212789018,212764182,0,False,tertiary,Beahan Road,373.567,,,,,,,,,,,20135062,
+212791932,212614422,0,True,motorway,,371.532,3,,,55 mph,,,,,,,38726304,I 390
+212822256,212631931,0,False,residential,"['Weidner Road', 'Millstead Way']",665.5,,,,,,,,,,,"[20125172, 20134877]",
+212822256,212822264,0,False,tertiary,Paul Road,317.288,,,,,,,yes,,,,"[259053400, 525783696, 525783695]",
+212822264,5114377686,0,False,residential,,261.948,,,,,,,,,,,109197310,
+212822264,212822379,0,False,tertiary,Paul Road,1553.862,,,,,,,,,,,525783695,
+212822264,212822256,0,False,tertiary,Paul Road,317.288,,,,,,,yes,,,,"[525783696, 259053400, 525783695]",
+212822275,5114377686,0,False,residential,,102.63,,,,,,,,,,,109197310,
+212822379,212897022,0,False,residential,Avion Drive,396.972,,,,,,,,,,,20135064,
+212822379,1250717763,0,False,tertiary,Paul Road,462.902,,,,,,,,,,,525783695,
+212822379,212822264,0,False,tertiary,Paul Road,1553.862,,,,,,,,,,,525783695,
+212896975,212789018,0,False,tertiary,Beahan Road,208.234,,,,,,,,,,,20135062,
+212897022,212822379,0,False,residential,Avion Drive,396.972,,,,,,,,,,,20135064,
+583059905,212630502,0,False,primary,Brooks Avenue,58.63,,,,,,,,,,,318186947,NY 204
+583059905,212614394,0,True,motorway_link,,166.259,,,,,,,,,,,20111032,
+1034257091,1034257100,0,False,residential,Eastside Way,146.41,,,,,,,,,,,"[89163500, 183385463]",
+1034257091,212722940,0,False,residential,Eastside Way,1163.844,,,,,,,,yes,,,"[89163520, 20118336, 89163500]",
+1034257100,1034257291,0,False,primary,Scottsville Road,121.335,,,,,,,,,,,303877452,NY 383
+1034257100,1034257091,0,False,residential,Eastside Way,146.41,,,,,,,,,,,"[89163500, 183385463]",
+1034257100,212656081,0,False,primary,Scottsville Road,399.612,,,,,,,,,,,303877452,NY 383
+1034257291,1034257100,0,False,primary,Scottsville Road,121.335,,,,,,,,,,,303877452,NY 383
+1034257291,212618554,0,False,primary,Scottsville Road,107.094,,,,,,,,,,,303877452,NY 383
+1034257291,1034257091,0,True,tertiary_link,,42.232,,,,,,,,,,,89163542,
+1244951369,212769000,0,False,primary,Brooks Avenue,130.737,,,,,,,,,,,318186947,NY 204
+1244951369,212722304,0,True,unclassified,,161.969,,,,,,,,,,,108528886,
+1250717763,212822379,0,False,tertiary,Paul Road,462.902,,,,,,,,,,,525783695,
+1937571812,212618554,0,False,primary,Scottsville Road,43.207,,,,,,,,,,,303877452,NY 383
+1937571812,212621756,0,False,primary,Scottsville Road,10.277,,,,,,,,,,,303877452,NY 383
+1937571815,212621786,0,True,motorway_link,,167.294,1,,,,,,,,,,20111600,
+1937571823,1937571816,0,True,motorway_link,,75.352,1,,,,,,,,,,183385298,
+1937571824,212599949,0,True,motorway_link,,541.522,1,,,,,,,,,,20110097,
+4512887851,212665322,0,False,residential,Aztec Drive,256.251,,,,,,,,,,,20127127,
+4512887851,212665291,0,False,primary,Scottsville Road,194.95,,,,,,,,,,,303877452,NY 383
+4512887851,212706016,0,False,primary,Scottsville Road,361.062,,,,,,,,,,,303877452,NY 383
+5114377686,212822275,0,False,residential,,102.63,,,,,,,,,,,109197310,
+5114377686,212822264,0,False,residential,,261.948,,,,,,,,,,,109197310,
+5114377686,5114377690,0,False,road,,256.364,,,,,,,,,,,525783697,
+5114377690,5114377686,0,False,road,,256.364,,,,,,,,,,,525783697,
+5385160453,212782332,0,False,residential,Airport Way,568.197,2,,,,,,,,,,20124550,

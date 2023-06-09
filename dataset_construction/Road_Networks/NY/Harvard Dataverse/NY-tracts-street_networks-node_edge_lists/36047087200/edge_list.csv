@@ -1,0 +1,42 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+42467319,42476247,0,True,residential,East 42nd Street,170.801,,,,,,,,,,,5676510,
+42467319,42467323,0,False,residential,Lenox Road,79.222,,,,,,,,,,,273202152,
+42467323,42467324,0,False,residential,Lenox Road,82.099,,,,,,,,,,,273202152,
+42467323,42467319,0,False,residential,Lenox Road,79.222,,,,,,,,,,,273202152,
+42467323,42494687,0,True,residential,East 43rd Street,141.496,,,,,,,,,,,276131095,
+42467324,42467325,0,False,residential,Lenox Road,82.126,,,,,,,,,,,273202152,
+42467324,42467323,0,False,residential,Lenox Road,82.099,,,,,,,,,,,273202152,
+42467324,42493154,0,True,residential,Troy Avenue,170.787,,,,,,,,,,,276055818,
+42467325,42467324,0,False,residential,Lenox Road,82.126,,,,,,,,,,,273202152,
+42467325,42484483,0,True,residential,East 45th Street,141.046,,,,,,,,,,,5677221,
+42476244,42467319,0,True,residential,East 42nd Street,141.15,,,,,,,,,,,5676510,
+42476244,42494687,0,False,residential,Clarkson Avenue,79.08,,,,,,,,,,,221570529,
+42476247,42476251,0,True,residential,East 42nd Street,217.657,,,,,,,,,,,5676510,
+42476247,42510386,0,False,primary,Linden Boulevard,79.064,"['2', '3']",,,,,,,,,,"[420908360, 420908362, 420908363]",NY 27
+42476251,42497411,0,False,secondary,Church Avenue,79.037,,,,,,,,,,,46137561,
+42484483,42493149,0,False,residential,Clarkson Avenue,81.854,,,,,,,,,,,221570529,
+42484484,42467325,0,True,residential,East 45th Street,171.12,,,,,,,,,,,5677221,
+42484484,42510396,0,False,primary,Linden Boulevard,78.971,2,,,,,,,,,,421092476,NY 27
+42484484,42493154,0,False,primary,Linden Boulevard,82.1,"['2', '3']",,,,,,,,,,"[420910104, 420910105, 420910106]",NY 27
+42484486,42484484,0,True,residential,East 45th Street,222.111,,,,,,,,,,,5677221,
+42484486,42497420,0,False,secondary,Church Avenue,79.151,,,,,,,,,,,46137561,
+42484486,42493158,0,False,secondary,Church Avenue,82.068,,,,,,,,,,,46137561,
+42493149,42467324,0,True,residential,Troy Avenue,141.247,,,,,,,,,,,133801442,
+42493149,42484483,0,False,residential,Clarkson Avenue,81.854,,,,,,,,,,,221570529,
+42493149,42494687,0,False,residential,Clarkson Avenue,82.416,,,,,,,,,,,221570529,
+42493154,42493158,0,True,residential,Troy Avenue,220.441,,,,,,,,,,,276055825,
+42493154,42510386,0,False,primary,Linden Boulevard,82.092,2,,,,,,,,,,420910107,NY 27
+42493154,42484484,0,False,primary,Linden Boulevard,82.1,"['2', '3']",,,,,,,,,,"[420910104, 420910105, 420910106]",NY 27
+42493158,42484486,0,False,secondary,Church Avenue,82.068,,,,,,,,,,,46137561,
+42493158,42497411,0,False,secondary,Church Avenue,82.089,,,,,,,,,,,46137561,
+42494687,42493149,0,False,residential,Clarkson Avenue,82.416,,,,,,,,,,,221570529,
+42494687,42476244,0,False,residential,Clarkson Avenue,79.08,,,,,,,,,,,221570529,
+42497411,42493158,0,False,secondary,Church Avenue,82.089,,,,,,,,,,,46137561,
+42497411,42476251,0,False,secondary,Church Avenue,79.037,,,,,,,,,,,46137561,
+42497411,42510386,0,True,residential,East 43rd Street,219.215,,,,,,,,,,,276131096,
+42497420,42484486,0,False,secondary,Church Avenue,79.151,,,,,,,,,,,46137561,
+42510386,42467323,0,True,residential,East 43rd Street,170.676,,,,,,,,,,,276131093,
+42510386,42493154,0,False,primary,Linden Boulevard,82.092,2,,,,,,,,,,420910107,NY 27
+42510386,42476247,0,False,primary,Linden Boulevard,79.064,"['2', '3']",,,,,,,,,,"[420908360, 420908362, 420908363]",NY 27
+42510396,42497420,0,True,residential,East 46th Street,223.129,,,,,,,,,,,5681816,
+42510396,42484484,0,False,primary,Linden Boulevard,78.971,2,,,,,,,,,,421092476,NY 27

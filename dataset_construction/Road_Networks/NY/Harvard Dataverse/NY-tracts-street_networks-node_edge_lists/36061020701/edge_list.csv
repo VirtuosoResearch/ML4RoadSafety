@@ -1,0 +1,10 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+42435380,3579432161,0,True,residential,West 121st Street,140.557,,,,,,,,,,,5671297,
+42435380,3579432160,0,False,secondary,Morningside Drive,87.312,2,,,,,,,,,,418371676,
+42442578,1504153626,0,False,secondary,Amsterdam Avenue,74.171,,,,,,,,,,,327917960,
+1504153626,42442578,0,False,secondary,Amsterdam Avenue,74.171,,,,,,,,,,,327917960,
+1504153626,3579432160,0,False,residential,West 120th Street,152.578,,,,,,,,,,,165893413,
+1504153626,3579432161,0,False,secondary,Amsterdam Avenue,85.404,,,,,,,,,,,196116971,
+3579432160,1504153626,0,False,residential,West 120th Street,152.578,,,,,,,,,,,165893413,
+3579432160,42435380,0,False,secondary,Morningside Drive,87.312,2,,,,,,,,,,418371676,
+3579432161,1504153626,0,False,secondary,Amsterdam Avenue,85.404,,,,,,,,,,,196116971,

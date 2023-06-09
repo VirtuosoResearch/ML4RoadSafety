@@ -1,0 +1,629 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+213571028,213578562,0,False,unclassified,,19.967,,,,,,,,,,,20208871,
+213573691,213804532,0,True,secondary,Onteora Trail,337.916,,,,45 mph,,,yes,,,,"[234073716, 234070701, 234070702]",NY 28
+213573709,213598438,0,True,motorway_link,,176.304,,,,,,,,,,,20197484,
+213577669,214051609,0,False,tertiary,Sawkill Road,91.363,,,,45 mph,,,,,,,38226883,CR 31
+213577669,213577676,0,False,residential,,90.077,,,,,,,,,,,20195382,
+213577669,214093797,0,False,tertiary,Sawkill Road,318.817,,,,45 mph,,,yes,,,,"[134927192, 38226883, 134927196]",CR 31
+213577676,213577669,0,False,residential,,90.077,,,,,,,,,,,20195382,
+213577876,213577891,0,False,residential,,175.198,,,,,,,,,,,20195409,
+213577891,213577876,0,False,residential,,175.198,,,,,,,,,,,20195409,
+213577891,213906631,0,False,residential,Murray Road,83.431,,,,,,,,,,,20223886,
+213577891,213646374,0,False,residential,Murray Road,126.432,,,,,,,,,,,20223886,
+213577914,213577924,0,False,residential,,315.72,,,,,,,,,,,20195414,
+213577914,213721772,0,False,residential,Murray Road,195.954,,,,,,,,,,,20223886,
+213577914,213906631,0,False,residential,Murray Road,60.038,,,,,,,,,,,20223886,
+213577924,213577914,0,False,residential,,315.72,,,,,,,,,,,20195414,
+213578562,213571028,0,False,unclassified,,19.967,,,,,,,,,,,20208871,
+213590826,213804532,0,False,residential,Modica Lane,10.831,,,,,,,,,,,234074846,
+213590826,213623539,0,True,secondary,Onteora Trail,334.507,,,,45 mph,,,yes,,,,"[20213818, 234070700, 234070703]",NY 28
+213590859,213590859,0,False,residential,,102.216,,,,,,,,,,,20196784,
+213590859,213590859,1,False,residential,,102.216,,,,,,,,,,,20196784,
+213590859,213828151,0,False,residential,Bogert Lane,343.854,,,,,,,,,,,20217804,
+213592773,213598206,0,True,secondary,Onteora Trail,228.497,,,,45 mph,,,,,,,40421349,NY 28
+213592773,2423723808,0,True,motorway_link,,375.329,,,,,,,,,,,233763543,
+213595312,213595309,0,True,motorway_link,,196.458,,,,,,,,,,,20197226,
+213595312,213651387,0,False,tertiary,Sawkill Road,81.54,,,,45 mph,,,,,,,38226883,CR 31
+213595312,213641026,0,False,tertiary,Sawkill Road,990.566,,,,45 mph,,,,,,,38226883,CR 31
+213595318,213595312,0,True,motorway_link,,217.706,,,,,,,,,,,20197226,
+213595318,213595309,0,True,motorway,Clayton 'Peg Leg' Bates Highway,416.205,2,,,55 mph,,,yes,,,,"[40421353, 40421354, 448596015]",US 209
+213596427,213596429,0,False,residential,,32.587,,,,,,,,,,,20197312,
+213596427,213831425,0,False,residential,Jockey Hill Road,21.249,,,,,,,,,,,20218035,
+213596427,213831369,0,False,residential,Jockey Hill Road,512.51,,,,,,,,,,,20218035,
+213596429,213596427,0,False,residential,,32.587,,,,,,,,,,,20197312,
+213596429,213831425,0,False,tertiary,Sawkill Road,25.049,,,,45 mph,,,,,,,239449414,CR 30
+213596429,213853549,0,False,tertiary,Sawkill Road,630.539,,,,45 mph,,,,,,,239449414,CR 30
+213598136,2421009478,0,True,motorway_link,,571.027,,,,,,,,,,,20197456,
+213598136,213670077,0,True,motorway,Clayton 'Peg Leg' Bates Highway,248.339,2,,,55 mph,,,,,,,40421352,US 209
+213598199,213595318,0,True,motorway,Clayton 'Peg Leg' Bates Highway,3157.331,2,,,55 mph,,,,,,,448596015,US 209
+213598206,213590826,0,True,secondary,Onteora Trail,137.315,,,,45 mph,,,,,,,448596016,NY 28
+213598243,2423723808,0,True,motorway,Clayton 'Peg Leg' Bates Highway,282.35,2,,,55 mph,,,,,,,448596015,US 209
+213598243,213598206,0,True,motorway_link,,489.251,,,,,,,,,,,20197467,
+213598316,1361118277,0,True,motorway_link,,376.937,,,,,,,,,,,20197470,
+213598316,213659721,0,True,secondary,Onteora Trail,302.429,2,,,45 mph,,,,,,,234064588,NY 28
+213598438,2420495274,0,True,motorway_link,,106.135,,,,,,,,,,,20197484,
+213598438,213573691,0,True,motorway_link,,173.105,,,,,,,,,,,20205509,
+213598568,213662926,0,True,motorway,New York State Thruway,446.335,2,,,65 mph,,,,,,,239449412,I 87
+213598568,213573709,0,True,motorway_link,,1015.052,,,,40 mph,,,yes,,,,"[38226800, 20197484, 38226798]",
+213607082,213845422,0,False,residential,Jason Court,276.491,,,,,,,,,,,"[20236162, 20198407]",
+213607082,213813227,0,False,residential,Douglas Drive,56.956,,,,,,,,,,,20233571,
+213607082,214053398,0,False,residential,Douglas Drive,62.84,,,,,,,,,,,20233571,
+213608374,213608461,0,False,residential,,751.448,,,,,,,,,,,20198501,
+213608374,213636073,0,False,residential,Morey Hill Road,1319.583,,,,,,,,,,,20216471,
+213608461,213608374,0,False,residential,,751.448,,,,,,,,,,,20198501,
+213608508,213608515,0,False,residential,,106.381,,,,,,,,,,,20198505,
+213608508,213761716,0,False,residential,"['Main Street', 'Ruby Road']",1440.988,,,,,,,,,,,"[20228252, 20212302]",
+213608508,213747883,0,False,residential,Ruby Road,1629.119,,,,,,,,,,,20212302,
+213608515,213608508,0,False,residential,,106.381,,,,,,,,,,,20198505,
+213608521,213608535,0,False,residential,,117.906,,,,,,,,,,,20198506,
+213608535,213608521,0,False,residential,,117.906,,,,,,,,,,,20198506,
+213608535,213741099,0,False,residential,East Side Hill Road,135.82,,,,,,,,,,,20237729,
+213608535,214108254,0,False,residential,East Side Hill Road,44.709,,,,,,,,,,,20237729,
+213617457,213598568,0,True,motorway,New York State Thruway,7122.833,2,,,65 mph,,,yes,,,,"[109964385, 38226796, 160302821, 239449412]",I 87
+213617464,213617457,0,True,motorway_link,,96.76,,,,,,,,,,,118396929,
+213617506,213617500,0,True,motorway_link,,66.782,,,,30 mph,,,,,,,20199476,
+213617506,213617457,0,True,motorway,New York State Thruway,533.186,2,,,65 mph,,,,,,,160302821,I 87
+213619497,213677886,0,False,residential,,461.306,,,,,,,,,,,"[349572178, 20205965]",
+213623539,213623555,0,True,tertiary_link,,240.388,,,,40 mph,,,,,,,"[20200130, 69018996]",
+213623539,2420495246,0,True,secondary,Onteora Trail,112.227,,,,,,,,,,,234073715,NY 28
+213623555,214022173,0,True,tertiary,Washington Avenue,30.761,,,,30 mph,,,,,,,69018944,
+213626465,213626475,0,False,residential,,290.979,,,,,,,,,,,20200470,
+213626465,213626475,1,False,residential,Valley View,296.355,,,,,,,,,,,20211159,
+213626465,213731320,0,False,residential,Valley View,137.042,,,,,,,,,,,20211159,
+213626475,213626465,0,False,residential,,290.979,,,,,,,,,,,20200470,
+213626475,213626465,1,False,residential,Valley View,296.355,,,,,,,,,,,20211159,
+213626475,213731320,0,False,residential,Valley View,889.374,,,,,,,,,,,20211159,
+213630710,213800920,0,False,residential,Old Route 28,265.045,,,,,,,,,,,20215797,
+213636073,213608374,0,False,residential,Morey Hill Road,1319.583,,,,,,,,,,,20216471,
+213636073,2423723953,0,False,secondary,Onteora Trail,161.435,4,,,45 mph,,,,,,,234064587,NY 28
+213636073,2423723787,0,False,secondary,Onteora Trail,1616.524,4,,,45 mph,,,,,,,234064587,NY 28
+213641026,213641046,0,False,residential,,269.109,,,,,,,,,,,20202006,
+213641026,213595312,0,False,tertiary,Sawkill Road,990.566,,,,45 mph,,,,,,,38226883,CR 31
+213641026,214099404,0,False,tertiary,Sawkill Road,1507.887,,,,45 mph,,,,,,,38226883,CR 31
+213641046,213641026,0,False,residential,,269.109,,,,,,,,,,,20202006,
+213646327,213646336,0,False,residential,,92.257,,,,,,,,,,,20202549,
+213646327,213851095,0,False,residential,"['Barbara Terrace', 'Clearhorn Road']",165.136,,,,,,,,,,,"[20219608, 20220892]",
+213646327,213868620,0,False,residential,Clearhorn Road,347.446,,,,,,,,,,,20220892,
+213646336,213646327,0,False,residential,,92.257,,,,,,,,,,,20202549,
+213646374,213646389,0,False,residential,,240.607,,,,,,,,,,,20202556,
+213646374,213577891,0,False,residential,Murray Road,126.432,,,,,,,,,,,20223886,
+213646374,213906543,0,False,residential,Murray Road,295.659,,,,,,,,,,,20223886,
+213646389,213646374,0,False,residential,,240.607,,,,,,,,,,,20202556,
+213648395,213648396,0,False,residential,,67.575,,,,,,,,,,,20202732,
+213648395,213648546,0,False,residential,Gallis Hill Road,79.087,,,,,,,,,,,20211147,
+213648395,213731285,0,False,residential,Gallis Hill Road,669.202,,,,,,,,,,,20211147,
+213648396,213648395,0,False,residential,,67.575,,,,,,,,,,,20202732,
+213648546,213648395,0,False,residential,Gallis Hill Road,79.087,,,,,,,,,,,20211147,
+213648546,213648552,0,False,residential,,111.275,,,,,,,,,,,20202744,
+213648546,213731178,0,False,residential,Gallis Hill Road,79.634,,,,,,,,,,,20211147,
+213648552,213648546,0,False,residential,,111.275,,,,,,,,,,,20202744,
+213651373,213651387,0,True,motorway_link,,215.155,,,,,,,,,,,20203042,
+213651373,213651409,0,True,motorway,Clayton 'Peg Leg' Bates Highway,455.397,2,,,55 mph,,,yes,,,,"[40421352, 38227037, 40421351]",US 209
+213651387,214051609,0,False,tertiary,Sawkill Road,36.076,,,,45 mph,,,,,,,38226883,CR 31
+213651387,213651409,0,True,motorway_link,,252.321,,,,,,,,,,,20203042,
+213651387,213595312,0,False,tertiary,Sawkill Road,81.54,,,,45 mph,,,,,,,38226883,CR 31
+213651409,213598136,0,True,motorway,Clayton 'Peg Leg' Bates Highway,3206.798,2,,,55 mph,,,,,,,40421352,US 209
+213659675,1361118277,0,True,motorway,Clayton 'Peg Leg' Bates Highway,245.095,2,,,55 mph,,,,,,,40421352,US 209
+213659675,213659721,0,True,motorway_link,,344.727,,,,,,,,,,,20203908,
+213659721,213592773,0,True,secondary,Onteora Trail,162.016,2,,,45 mph,,,yes,,,,"[234064588, 40421348]",NY 28
+213662793,213662803,0,True,motorway_link,,127.703,,,,,,,,,,,20204250,
+213662793,2420495274,0,True,secondary,Kingston Traffic Circle,34.836,,,,,,,,,,roundabout,233703276,NY 28
+213662803,213662811,0,True,motorway_link,,206.125,,,,,,,,,,,20204250,
+213662811,213662926,0,True,motorway_link,,981.39,,,,,,,yes,,,,"[38226833, 20204250, 38226799]",
+213662811,214004834,0,True,motorway_link,,596.193,,,,,,,,,,,20208236,
+213662944,213573709,0,True,motorway_link,,559.711,,,,,,,,,,,20204262,
+213662944,214004834,0,True,motorway,New York State Thruway,771.026,2,,,65 mph,,,,,,,38226797,I 87
+213667804,213667812,0,False,residential,,62.81,,,,,,,,,,,20204817,
+213667804,213778964,0,False,residential,Circle Drive,116.101,,,,,,,,,,,20214408,
+213667804,213778930,0,False,residential,Circle Drive,100.501,,,,,,,,,,,20214408,
+213667804,213667820,0,False,residential,,56.564,,,,,,,,,,,415577233,
+213667812,213667804,0,False,residential,,62.81,,,,,,,,,,,20204817,
+213667820,213667804,0,False,residential,,56.564,,,,,,,,,,,415577233,
+213670010,213670077,0,True,motorway_link,,324.007,,,,,,,,,,,20205041,
+213670010,2421009478,0,True,secondary,Onteora Trail,308.12,2,,,45 mph,,,,,,,234064590,NY 28
+213670077,213659675,0,True,motorway,Clayton 'Peg Leg' Bates Highway,163.162,2,,,55 mph,,,,,,,40421352,US 209
+213671370,213671423,0,False,residential,,322.144,,,,,,,,,,,20205169,
+213671370,213671423,1,False,residential,Brigham Lane,220.256,,,,,,,,,,,20227438,
+213671370,213706793,0,False,residential,Brigham Lane,139.707,,,,,,,,,,,20227438,
+213671423,213671370,0,False,residential,,322.144,,,,,,,,,,,20205169,
+213671423,213671370,1,False,residential,Brigham Lane,220.256,,,,,,,,,,,20227438,
+213671423,213965245,0,False,residential,Brigham Lane,667.704,,,,,,,,,,,20227438,
+213672410,213672428,0,False,residential,,97.258,,,,,,,,,,,20205300,
+213672410,213908190,0,False,tertiary,Sawkill Road,1319.956,,,,45 mph,,,,,,,239449414,CR 30
+213672410,214093797,0,False,tertiary,Sawkill Road,327.002,,,,45 mph,,,,,,,239449414,CR 30
+213672428,213672410,0,False,residential,,97.258,,,,,,,,,,,20205300,
+213677479,213677497,0,False,residential,,639.78,,,,,,,,,,,20205911,
+213677479,213677497,1,False,residential,Farm-To-Market Road,1316.756,,,,,,,,,,,20234243,
+213677479,214062794,0,False,residential,Farm-To-Market Road,975.574,,,,,,,,,,,20234243,
+213677497,213677503,0,False,residential,,388.503,,,,,,,,,,,20205911,
+213677497,213677479,0,False,residential,,639.78,,,,,,,,,,,20205911,
+213677497,213677479,1,False,residential,Farm-To-Market Road,1316.756,,,,,,,,,,,20234243,
+213677503,213677497,0,False,residential,,388.503,,,,,,,,,,,20205911,
+213677886,213713231,0,False,secondary,State Highway 28,173.701,,,,45 mph,,,,,,,48207234,NY 28
+213677886,213619497,0,False,residential,,461.306,,,,,,,,,,,"[349572178, 20205965]",
+213677886,213769221,0,False,secondary,State Highway 28,694.347,,,,45 mph,,,,,,,48207234,NY 28
+213680450,213761716,0,False,residential,German Street,543.417,,,,,,,,,,,20213247,
+213685401,213685439,0,False,residential,,520.502,,,,,,,,,,,20206900,
+213685401,214050836,0,False,tertiary,Sawkill Ruby Road,331.681,,,,,,,,,,,20236725,CR 31
+213685401,214093797,0,False,tertiary,Sawkill Ruby Road,1137.67,,,,,,,,,,,20236725,CR 31
+213685439,213685401,0,False,residential,,520.502,,,,,,,,,,,20206900,
+213692768,213692771,0,False,residential,,47.749,,,,,,,,,,,20207813,
+213692768,213759875,0,False,residential,Jockey Hill Road,34.131,,,,,,,,,,,20218035,
+213692768,213831369,0,False,residential,Jockey Hill Road,879.021,,,,,,,,,,,20218035,
+213692771,213692768,0,False,residential,,47.749,,,,,,,,,,,20207813,
+213692771,213760071,0,False,residential,Hill Road,1560.109,,,,,,,,,,,20213146,
+213692771,213759875,0,False,residential,Hill Road,32.274,,,,,,,,,,,20213146,
+213692866,213692876,0,False,residential,,92.881,,,,,,,,,,,20207823,
+213692866,213812228,0,False,residential,"['Denver Road', 'Magic Drive']",85.34,,,,,,,,,,,"[20216638, 20240582]",
+213692866,213812280,0,False,residential,Denver Road,222.426,,,,,,,,,,,20240582,
+213692876,213692866,0,False,residential,,92.881,,,,,,,,,,,20207823,
+213694131,213694201,0,True,motorway_link,,322.559,,,,,,,,,,,20207969,
+213694131,213598199,0,True,motorway,Clayton 'Peg Leg' Bates Highway,234.48,2,,,55 mph,,,,,,,448596015,US 209
+213694201,213670010,0,True,secondary,Onteora Trail,110.145,,,,45 mph,,,yes,,,,"[40421346, 20220231]",NY 28
+213695160,213695198,0,False,residential,,646.113,,,,,,,,,,,20208115,
+213695198,213695160,0,False,residential,,646.113,,,,,,,,,,,20208115,
+213695198,213731285,0,False,tertiary,Hurley Mountain Road,891.579,,,,,,,,,,,20240204,CR 5
+213697228,213662803,0,True,motorway_link,,185.924,,,,,,,,,,,20208347,
+213697228,2420495311,0,True,motorway,Colonel Chandler Drive,83.402,2,,,55 mph,,,,,,,134947774,I 587;NY 28
+213705869,213705883,0,False,residential,Ruby Meadows Road,240.183,,,,,,,,,,,20209293,
+213705869,213799150,0,False,residential,Main Street,55.186,,,,,,,,,,,20228349,
+213705869,213980369,0,False,residential,Main Street,299.467,,,,,,,,,,,20228349,
+213705883,213705869,0,False,residential,Ruby Meadows Road,240.183,,,,,,,,,,,20209293,
+213706772,213706793,0,False,tertiary,Leggs Mills Road,479.017,,,,,,,,,,,20209361,CR 31
+213706772,213818762,0,False,tertiary,Old Kings Highway,160.751,,,,,,,,,,,20217140,CR 31
+213706772,214093766,0,False,tertiary,County Road 31,131.536,,,,,,,,,,,20239787,CR 31
+213706793,213706801,0,False,tertiary,Leggs Mills Road,118.144,,,,,,,,,,,20209361,CR 31
+213706793,213706772,0,False,tertiary,Leggs Mills Road,479.017,,,,,,,,,,,20209361,CR 31
+213706793,213671370,0,False,residential,Brigham Lane,139.707,,,,,,,,,,,20227438,
+213706801,213706793,0,False,tertiary,Leggs Mills Road,118.144,,,,,,,,,,,20209361,CR 31
+213706801,213992554,0,False,residential,Van Etten Lane,488.374,,,,,,,,,,,20229146,
+213709242,2423792524,0,False,residential,Petronella Road,39.606,,,,,,,,,,,20236810,
+213709247,213886632,0,False,residential,Calumet Road,88.044,,,,,,,,,,,20222204,
+213713231,213677886,0,False,secondary,State Highway 28,173.701,,,,45 mph,,,,,,,48207234,NY 28
+213713231,213769178,0,False,secondary,State Highway 28,851.62,,,,45 mph,,,,,,,48207234,NY 28
+213713447,213713456,0,False,residential,Bluestone Road,98.714,,,,,,,,,,,20209889,
+213713447,213997125,0,False,residential,West Road,274.928,,,,,,,,,,,20229453,
+213713447,213997106,0,False,residential,West Road,80.004,,,,,,,,,,,20229453,
+213713456,213713447,0,False,residential,Bluestone Road,98.714,,,,,,,,,,,20209889,
+213716141,213716232,0,False,residential,Elisa Landi Drive,659.326,,,,,,,,,,,20210140,
+213716141,213842320,0,False,residential,City View Terrace,879.241,,,,,,,,,,,234064586,
+213716141,213842208,0,False,residential,City View Terrace,971.895,,,,,,,,,,,234064586,
+213716232,213785891,0,False,residential,"['Elisa Landi Drive', 'Tall Oaks Drive']",438.024,,,,,,,,,,,"[20210140, 20214862]",
+213716232,213716141,0,False,residential,Elisa Landi Drive,659.326,,,,,,,,,,,20210140,
+213716232,213719008,0,False,residential,Hillside Court,159.247,,,,,,,,,,,20210343,
+213719008,213716232,0,False,residential,Hillside Court,159.247,,,,,,,,,,,20210343,
+213721739,213721772,0,False,residential,Miggins Road,405.319,,,,,,,,,,,20210551,
+213721772,213721739,0,False,residential,Miggins Road,405.319,,,,,,,,,,,20210551,
+213721772,213868620,0,False,residential,Murray Road,352.817,,,,,,,,,,,20223886,
+213721772,213577914,0,False,residential,Murray Road,195.954,,,,,,,,,,,20223886,
+213730979,213730985,0,False,residential,Fellow Lane,35.721,,,,,,,,,,,20211126,
+213730979,213747246,0,False,residential,Church Street,112.637,,,,,,,,,,,20212262,
+213730979,213747207,0,False,residential,Church Street,227.167,,,,,,,,,,,20212262,
+213730985,213746822,0,False,residential,Felton Lane,22.121,,,,,,,,,,,20212223,
+213730985,214074518,0,False,residential,"['Fellow Lane', 'Heppner Lane']",354.638,,,,,,,,,,,"[20235146, 20211126]",
+213730985,213730979,0,False,residential,Fellow Lane,35.721,,,,,,,,,,,20211126,
+213731113,213731177,0,False,residential,Gallis Hill Road,452.546,,,,,,,,,,,20211147,
+213731113,213731113,0,False,residential,Gallis Hill Road,143.833,,,,,,,,,,,20211151,
+213731113,213731113,1,False,residential,Gallis Hill Road,143.833,,,,,,,,,,,20211151,
+213731177,213731178,0,False,residential,Gallis Hill Road,12.744,,,,,,,,,,,20211147,
+213731177,213731113,0,False,residential,Gallis Hill Road,452.546,,,,,,,,,,,20211147,
+213731177,213807087,0,False,residential,Stickles Terrace,1702.001,,,,,,,,,,,20216209,
+213731177,213731417,0,False,residential,"['Valley View', 'Valley Vw']",180.929,,,,,,,,,,,"[20233529, 20211161]",
+213731178,213731177,0,False,residential,Gallis Hill Road,12.744,,,,,,,,,,,20211147,
+213731178,213648546,0,False,residential,Gallis Hill Road,79.634,,,,,,,,,,,20211147,
+213731178,213731320,0,False,residential,Valley View,239.706,,,,,,,,,,,20211159,
+213731285,213648395,0,False,residential,Gallis Hill Road,669.202,,,,,,,,,,,20211147,
+213731285,213800920,0,False,tertiary,Hurley Mountain Road,404.075,,,,,,,,,,,20240204,CR 5
+213731285,213695198,0,False,tertiary,Hurley Mountain Road,891.579,,,,,,,,,,,20240204,CR 5
+213731320,213626465,0,False,residential,Valley View,137.042,,,,,,,,,,,20211159,
+213731320,213731178,0,False,residential,Valley View,239.706,,,,,,,,,,,20211159,
+213731320,213626475,0,False,residential,Valley View,889.374,,,,,,,,,,,20211159,
+213731417,213731177,0,False,residential,"['Valley View', 'Valley Vw']",180.929,,,,,,,,,,,"[20211161, 20233529]",
+213737042,213737076,0,False,residential,Melissa Road,369.499,,,,,,,,,,,20211519,
+213737042,213769614,0,False,tertiary,Sawkill Road,299.261,,,,45 mph,,,,,,,239449414,CR 30
+213737042,213848116,0,False,tertiary,Sawkill Road,235.78,,,,45 mph,,,,,,,239449414,CR 30
+213737076,213737108,0,False,residential,Melissa Road,336.269,,,,,,,,,,,20211519,
+213737076,213737042,0,False,residential,Melissa Road,369.499,,,,,,,,,,,20211519,
+213737076,213769614,0,False,residential,Melissa Lane,75.37,,,,,,,,,,,20213840,
+213737108,213737076,0,False,residential,Melissa Road,336.269,,,,,,,,,,,20211519,
+213737108,213809969,0,False,tertiary,Sawkill Road,161.619,,,,45 mph,,,,,,,239449414,CR 30
+213737108,213769614,0,False,tertiary,Sawkill Road,265.948,,,,45 mph,,,,,,,239449414,CR 30
+213740294,213740373,0,False,residential,Skytop Drive,543.268,,,,,,,,,,,20211731,
+213740294,213842208,0,False,residential,Forest Hill Drive,285.89,,,,,,,,,,,20234157,
+213740294,214061373,0,False,residential,Forest Hill Drive,168.4,,,,,,,,,,,20234159,
+213740373,213740294,0,False,residential,Skytop Drive,543.268,,,,,,,,,,,20211731,
+213740699,213740764,0,False,residential,South Road,753.205,,,,,,,,,,,20211755,
+213740699,213741099,0,False,residential,South Road,812.396,,,,,,,,,,,20211784,
+213740699,214093988,0,False,residential,Cross Road,343.784,,,,,,,,,,,20236736,
+213740699,213867622,0,False,residential,Schneider Lane,214.647,,,,,,,,,,,20239502,
+213740764,213903437,0,False,residential,Main Street,29.087,,,,,,,,,,,20228252,
+213740764,213740699,0,False,residential,South Road,753.205,,,,,,,,,,,20211755,
+213740764,213747207,0,False,residential,Main Street,210.907,,,,,,,,,,,20228252,
+213741018,213741099,0,False,residential,South Road,1006.527,,,,,,,,,,,20211784,
+213741018,213747883,0,False,tertiary,Hallihans Hill Road,1739.841,,,,,,,,,,,20223979,
+213741018,213906772,0,False,tertiary,Hallihans Hill Road,389.824,,,,,,,,,,,20223979,
+213741099,213740699,0,False,residential,South Road,812.396,,,,,,,,,,,20211784,
+213741099,213741018,0,False,residential,South Road,1006.527,,,,,,,,,,,20211784,
+213741099,213608535,0,False,residential,East Side Hill Road,135.82,,,,,,,,,,,20237729,
+213741212,213741215,0,False,residential,South Road,75.698,,,,,,,,,,,20211786,
+213741215,213741212,0,False,residential,South Road,75.698,,,,,,,,,,,20211786,
+213741215,213747246,0,False,residential,Midiron Drive,108.826,,,,,,,,,,,20217596,
+213743726,213743735,0,False,residential,Sheehan Lane,48.684,,,,,,,,,,,20211986,
+213743726,213743793,0,False,residential,Sheehan Lane,199.159,,,,,,,yes,,,,"[20211993, 38227107, 20236391]",
+213743726,213746518,0,False,residential,Sheehan Lane,40.844,,,,,,,,,,,20236391,
+213743735,213746518,0,False,tertiary,Old Kings Highway,57.038,,,,,,,,,,,20217140,CR 31
+213743735,213743726,0,False,residential,Sheehan Lane,48.684,,,,,,,,,,,20211986,
+213743735,213818836,0,False,tertiary,Old Kings Highway,245.606,,,,,,,,,,,20217140,CR 31
+213743749,213889527,0,False,residential,Main Street,42.344,,,,,,,,,,,20228349,
+213743749,213743769,0,False,residential,Sheehan Lane,268.693,,,,,,,,,,,20211993,
+213743749,213751402,0,False,residential,"['Main Street', 'Sheehan Lane']",226.589,,,,,,,,,,,"[20211993, 20228252]",
+213743769,213743793,0,False,residential,Sheehan Lane,457.861,,,,,,,,,,,20211993,
+213743769,213743749,0,False,residential,Sheehan Lane,268.693,,,,,,,,,,,20211993,
+213743793,213743726,0,False,residential,Sheehan Lane,199.159,,,,,,,yes,,,,"[20211993, 38227107, 20236391]",
+213743793,213743769,0,False,residential,Sheehan Lane,457.861,,,,,,,,,,,20211993,
+213743793,1331622245,0,False,residential,Service Road,425.665,,,,,,,,,,,20214833,
+213746518,213743735,0,False,tertiary,Old Kings Highway,57.038,,,,,,,,,,,20217140,CR 31
+213746518,213743726,0,False,residential,Sheehan Lane,40.844,,,,,,,,,,,20236391,
+213746822,213730985,0,False,residential,Felton Lane,22.121,,,,,,,,,,,20212223,
+213747207,213730979,0,False,residential,Church Street,227.167,,,,,,,,,,,20212262,
+213747207,214052836,0,False,residential,"['Byrne Lane', 'Berny Lane']",265.085,,,,,,,,,,,"[20233520, 20217454]",
+213747207,213740764,0,False,residential,Main Street,210.907,,,,,,,,,,,20228252,
+213747207,213761716,0,False,residential,Main Street,795.575,,,,,,,,,,,20228252,
+213747246,213730979,0,False,residential,Church Street,112.637,,,,,,,,,,,20212262,
+213747246,213741215,0,False,residential,Midiron Drive,108.826,,,,,,,,,,,20217596,
+213747883,213608508,0,False,residential,Ruby Road,1629.119,,,,,,,,,,,20212302,
+213747883,213908190,0,False,tertiary,Hallihans Hill Road,400.209,,,,,,,,,,,20223979,
+213747883,213741018,0,False,tertiary,Hallihans Hill Road,1739.841,,,,,,,,,,,20223979,
+213751402,213743749,0,False,residential,"['Main Street', 'Sheehan Lane']",226.589,,,,,,,,,,,"[20211993, 20228252]",
+213751402,213903437,0,False,residential,Main Street,209.449,,,,,,,,,,,20228252,
+213759875,213692768,0,False,residential,Jockey Hill Road,34.131,,,,,,,,,,,20218035,
+213759875,213692771,0,False,residential,Hill Road,32.274,,,,,,,,,,,20213146,
+213759875,2423723787,0,False,residential,Jockey Hill Road,3424.649,,,,,,,,,,,20218035,
+213760071,213692771,0,False,residential,Hill Road,1560.109,,,,,,,,,,,20213146,
+213760071,213853549,0,False,tertiary,Sawkill Road,921.983,,,,45 mph,,,,,,,239449414,CR 30
+213760071,213994230,0,False,tertiary,Sawkill Road,131.883,,,,45 mph,,,,,,,239449414,CR 30
+213761716,213680450,0,False,residential,German Street,543.417,,,,,,,,,,,20213247,
+213761716,213747207,0,False,residential,Main Street,795.575,,,,,,,,,,,20228252,
+213761716,213608508,0,False,residential,"['Main Street', 'Ruby Road']",1440.988,,,,,,,,,,,"[20228252, 20212302]",
+213765303,213765319,0,False,residential,Old Sawkill Road,434.457,,,,,,,,,,,20213533,
+213765319,213765303,0,False,residential,Old Sawkill Road,434.457,,,,,,,,,,,20213533,
+213765319,214073385,0,False,residential,Brabrant Road,592.312,,,,,,,,,,,20238115,
+213765319,214085051,0,False,tertiary,Sawkill Road,292.41,,,,45 mph,,,,,,,175473378,CR 31
+213765319,214087802,0,False,tertiary,Sawkill Road,255.81,,,,45 mph,,,,,,,175473378,CR 31
+213769178,213713231,0,False,secondary,State Highway 28,851.62,,,,45 mph,,,,,,,48207234,NY 28
+213769221,213809552,0,True,secondary,Onteora Trail,461.768,2,,,45 mph,,,,,,,27858858,NY 28
+213769221,213677886,0,False,secondary,State Highway 28,694.347,,,,45 mph,,,,,,,48207234,NY 28
+213769614,213737076,0,False,residential,Melissa Lane,75.37,,,,,,,,,,,20213840,
+213769614,213737108,0,False,tertiary,Sawkill Road,265.948,,,,45 mph,,,,,,,239449414,CR 30
+213769614,213737042,0,False,tertiary,Sawkill Road,299.261,,,,45 mph,,,,,,,239449414,CR 30
+213778930,213667804,0,False,residential,Circle Drive,100.501,,,,,,,,,,,20214408,
+213778930,213778964,0,False,residential,Rymrock Road,93.223,,,,,,,,,,,20232838,
+213778930,213931232,0,False,residential,Rymrock Road,53.527,,,,,,,,,,,20232838,
+213778964,213667804,0,False,residential,Circle Drive,116.101,,,,,,,,,,,20214408,
+213778964,213997106,0,False,residential,Rymrock Road,140.947,,,,,,,,,,,20232838,
+213778964,213778930,0,False,residential,Rymrock Road,93.223,,,,,,,,,,,20232838,
+213785891,213785895,0,False,residential,Tall Oaks Drive,258.498,,,,,,,,,,,20214862,
+213785891,213716232,0,False,residential,"['Elisa Landi Drive', 'Tall Oaks Drive']",438.024,,,,,,,,,,,"[20210140, 20214862]",
+213785891,214044492,0,False,residential,Tall Oaks Court,300.387,,,,,,,,,,,20232920,
+213785895,213785897,0,False,residential,Tall Oaks Drive,61.323,,,,,,,,,,,20214862,
+213785895,213785891,0,False,residential,Tall Oaks Drive,258.498,,,,,,,,,,,20214862,
+213785895,213823188,0,False,residential,Fawn Hill Court,74.085,,,,,,,,,,,20226044,
+213785897,213785895,0,False,residential,Tall Oaks Drive,61.323,,,,,,,,,,,20214862,
+213787931,213787938,0,False,residential,Sidden Lane,58.046,,,,,,,,,,,20214995,
+213787931,213818836,0,False,tertiary,Old Kings Highway,238.801,,,,,,,,,,,20217140,CR 31
+213787931,213818819,0,False,tertiary,Old Kings Highway,102.089,,,,,,,,,,,20217140,CR 31
+213787938,213787931,0,False,residential,Sidden Lane,58.046,,,,,,,,,,,20214995,
+213787944,213787958,0,False,residential,Sidden Lane,131.764,,,,,,,,,,,20214999,
+213787944,213805024,0,False,residential,Cedar Drive,251.533,,,,,,,,,,,20216075,
+213787944,213818819,0,False,tertiary,Old Kings Highway,392.884,,,,,,,,,,,20217140,CR 31
+213787944,213818806,0,False,tertiary,Old Kings Highway,270.738,,,,,,,,,,,20217140,CR 31
+213787958,213787944,0,False,residential,Sidden Lane,131.764,,,,,,,,,,,20214999,
+213798716,213798732,0,False,residential,Conners Road,113.835,,,,,,,,,,,20215643,
+213798716,214162366,0,False,residential,Powdermill Bridge Road,208.104,,,,,,,,,,,20241696,
+213798716,214162264,0,False,residential,Powdermill Bridge Road,163.152,,,,,,,,,,,20241696,
+213798732,213798716,0,False,residential,Conners Road,113.835,,,,,,,,,,,20215643,
+213799125,213799132,0,False,residential,Parkside Drive,19.574,,,,,,,,,,,20215663,
+213799125,213799161,0,False,residential,Parkside Drive,280.154,,,,,,,,,,,20215666,
+213799125,214053398,0,False,residential,Douglas Drive,18.551,,,,,,,,,,,20233572,
+213799132,213799136,0,False,residential,Parkside Drive,18.551,,,,,,,,,,,20215663,
+213799132,214053398,0,False,residential,Douglas Drive,31.334,,,,,,,,,,,20233571,
+213799132,213799125,0,False,residential,Parkside Drive,19.574,,,,,,,,,,,20215663,
+213799136,213799132,0,False,residential,Parkside Drive,18.551,,,,,,,,,,,20215663,
+213799136,213799145,0,False,residential,Parkside Drive,76.658,,,,,,,,,,,20215663,
+213799136,213845422,0,False,residential,Upper Frederick Drive,451.922,,,,,,,,,,,20220598,
+213799145,213799136,0,False,residential,Parkside Drive,76.658,,,,,,,,,,,20215663,
+213799145,213889425,0,False,residential,Main Street,211.225,,,,,,,,,,,20228349,
+213799145,213898738,0,False,residential,Main Street,428.649,,,,,,,,,,,20228349,
+213799150,213799156,0,False,residential,Parkside Drive,148.919,,,,,,,,,,,20215666,
+213799150,213898738,0,False,residential,Main Street,64.982,,,,,,,,,,,20228349,
+213799150,213705869,0,False,residential,Main Street,55.186,,,,,,,,,,,20228349,
+213799156,213799161,0,False,residential,Parkside Drive,77.044,,,,,,,,,,,20215666,
+213799156,213799150,0,False,residential,Parkside Drive,148.919,,,,,,,,,,,20215666,
+213799156,213817213,0,False,residential,Brookside Court,311.3,,,,,,,,,,,20234174,
+213799161,213799125,0,False,residential,Parkside Drive,280.154,,,,,,,,,,,20215666,
+213799161,213799156,0,False,residential,Parkside Drive,77.044,,,,,,,,,,,20215666,
+213799161,213817213,0,False,residential,Corwin Place,381.085,,,,,,,,,,,20217008,
+213800920,213630710,0,False,residential,Old Route 28,265.045,,,,,,,,,,,20215797,
+213800920,213860121,0,False,tertiary,Hurley Mountain Road,34.259,,,,,,,,,,,20240204,CR 5
+213800920,213731285,0,False,tertiary,Hurley Mountain Road,404.075,,,,,,,,,,,20240204,CR 5
+213804532,213590826,0,False,residential,Modica Lane,10.831,,,,,,,,,,,234074846,
+213804532,213859910,0,True,secondary,Onteora Trail,115.245,,,,45 mph,,,,,,,20220231,NY 28
+213804532,1561895274,0,False,residential,Modica Lane,321.452,,,,,,,,,,,234074846,
+213805024,213787944,0,False,residential,Cedar Drive,251.533,,,,,,,,,,,20216075,
+213807087,213731177,0,False,residential,Stickles Terrace,1702.001,,,,,,,,,,,20216209,
+213809538,213809552,0,False,secondary,Waughkonk Road,97.202,,,,,,,,,,,20216455,NY 28A
+213809538,2423723953,0,False,tertiary,,743.323,,,,,,,,,,,69018894,CR 50
+213809538,213842668,0,False,secondary,State Highway 28A,222.435,,,,,,,,,,,69018998,NY 28A; CR 50
+213809552,213809559,0,False,secondary,Waughkonk Road,12.612,,,,,,,,,,,20216455,NY 28A
+213809552,213809538,0,False,secondary,Waughkonk Road,97.202,,,,,,,,,,,20216455,NY 28A
+213809552,2423723734,0,True,secondary,Onteora Trail,595.031,2,,,45 mph,,,,,,,27858858,NY 28
+213809559,213809552,0,False,secondary,Waughkonk Road,12.612,,,,,,,,,,,20216455,NY 28A
+213809559,213809626,0,False,residential,Waughkonk Road,563.307,,,,,,,,,,,69018907,
+213809559,213769221,0,True,secondary,Onteora Trail,450.876,2,,,45 mph,,,,,,,234064589,NY 28
+213809626,213809559,0,False,residential,Waughkonk Road,563.307,,,,,,,,,,,69018907,
+213809969,213737108,0,False,tertiary,Sawkill Road,161.619,,,,45 mph,,,,,,,239449414,CR 30
+213812228,213951649,0,False,residential,Prince Lane,105.544,,,,,,,,,,,20240228,
+213812228,213812278,0,False,residential,Magic Drive,449.915,,,,,,,,,,,20216638,
+213812228,213692866,0,False,residential,"['Denver Road', 'Magic Drive']",85.34,,,,,,,,,,,"[20240582, 20216638]",
+213812278,213812280,0,False,residential,Magic Drive,78.506,,,,,,,,,,,20216638,
+213812278,213951649,0,False,residential,Prince Lane,105.257,,,,,,,,,,,20240228,
+213812278,213812228,0,False,residential,Magic Drive,449.915,,,,,,,,,,,20216638,
+213812280,213812278,0,False,residential,Magic Drive,78.506,,,,,,,,,,,20216638,
+213812280,214099404,0,False,residential,Denver Road,85.015,,,,,,,,,,,20240582,
+213812280,213692866,0,False,residential,Denver Road,222.426,,,,,,,,,,,20240582,
+213813227,213813307,0,False,residential,Douglas Drive,70.885,,,,,,,,,,,20233571,
+213813227,213813307,1,False,residential,Esther Place,557.3,,,,,,,,,,,20216712,
+213813227,213607082,0,False,residential,Douglas Drive,56.956,,,,,,,,,,,20233571,
+213813307,213813227,0,False,residential,Douglas Drive,70.885,,,,,,,,,,,20233571,
+213813307,213813227,1,False,residential,Esther Place,557.3,,,,,,,,,,,20216712,
+213813307,213845422,0,False,residential,Lower Frederick Drive,375.374,,,,,,,,,,,20219092,
+213817213,213817223,0,False,residential,Corwin Place,42.815,,,,,,,,,,,20217008,
+213817213,213799161,0,False,residential,Corwin Place,381.085,,,,,,,,,,,20217008,
+213817213,213799156,0,False,residential,Brookside Court,311.3,,,,,,,,,,,20234174,
+213817223,213817213,0,False,residential,Corwin Place,42.815,,,,,,,,,,,20217008,
+213818762,213818806,0,False,tertiary,Old Kings Highway,629.693,,,,,,,,,,,20217140,CR 31
+213818762,213706772,0,False,tertiary,Old Kings Highway,160.751,,,,,,,,,,,20217140,CR 31
+213818762,214093766,0,False,tertiary,Sawkill-Ruby Road,151.544,,,,,,,,,,,38227090,CR 31
+213818806,213787944,0,False,tertiary,Old Kings Highway,270.738,,,,,,,,,,,20217140,CR 31
+213818806,213818762,0,False,tertiary,Old Kings Highway,629.693,,,,,,,,,,,20217140,CR 31
+213818806,213848932,0,False,residential,Bogert Lane,178.639,,,,,,,,,,,"[20217800, 20219409]",
+213818819,213787931,0,False,tertiary,Old Kings Highway,102.089,,,,,,,,,,,20217140,CR 31
+213818819,213787944,0,False,tertiary,Old Kings Highway,392.884,,,,,,,,,,,20217140,CR 31
+213818819,213954338,0,False,residential,Thruview Farm Road,660.465,,,,,,,,,,,"[20226824, 20226838]",
+213818836,213743735,0,False,tertiary,Old Kings Highway,245.606,,,,,,,,,,,20217140,CR 31
+213818836,213787931,0,False,tertiary,Old Kings Highway,238.801,,,,,,,,,,,20217140,CR 31
+213818836,213879488,0,False,residential,Doris Lane,224.422,,,,,,,,,,,20221750,
+213823188,213785895,0,False,residential,Fawn Hill Court,74.085,,,,,,,,,,,20226044,
+213823188,213823202,0,False,residential,Oak Ridge Terrace,171.462,,,,,,,,,,,20217508,
+213823188,213942938,0,False,residential,Fawn Hill Court,212.668,,,,,,,,,,,20226044,
+213823202,213823188,0,False,residential,Oak Ridge Terrace,171.462,,,,,,,,,,,20217508,
+213828151,213848932,0,False,residential,Bogert Lane,9.121,,,,,,,,,,,20236877,
+213828151,213590859,0,False,residential,Bogert Lane,343.854,,,,,,,,,,,20217804,
+213828151,214095805,0,False,residential,Paupawey Court,162.723,,,,,,,,,,,20236880,
+213831369,213596427,0,False,residential,Jockey Hill Road,512.51,,,,,,,,,,,20218035,
+213831369,213692768,0,False,residential,Jockey Hill Road,879.021,,,,,,,,,,,20218035,
+213831369,213927837,0,False,residential,Nancy Court,182.972,,,,,,,,,,,20225049,
+213831369,213997106,0,False,residential,Rymrock Road,151.129,,,,,,,,,,,20232838,
+213831425,213596427,0,False,residential,Jockey Hill Road,21.249,,,,,,,,,,,20218035,
+213831425,214162264,0,False,residential,"['Powder Mill Bridge Road', 'Powdermill Bridge Road']",92.133,,,,,,,,,,,"[20224922, 20241687]",
+213831425,213848116,0,False,tertiary,Sawkill Road,57.612,,,,45 mph,,,,,,,239449414,CR 30
+213831425,213596429,0,False,tertiary,Sawkill Road,25.049,,,,45 mph,,,,,,,239449414,CR 30
+213842208,213859842,0,False,residential,Forest Hill Drive,58.729,,,,,,,,,,,20234157,
+213842208,213740294,0,False,residential,Forest Hill Drive,285.89,,,,,,,,,,,20234157,
+213842208,213716141,0,False,residential,City View Terrace,971.895,,,,,,,,,,,234064586,
+213842320,213716141,0,False,residential,City View Terrace,879.241,,,,,,,,,,,234064586,
+213842668,213842811,0,False,residential,Hoyer Road,1209.777,,,,,,,,,,,20218863,
+213842668,213842818,0,False,secondary,State Highway 28A,120.36,,,,,,,,,,,69018998,NY 28A; CR 50
+213842668,213809538,0,False,secondary,State Highway 28A,222.435,,,,,,,,,,,69018998,NY 28A; CR 50
+213842811,213842668,0,False,residential,Hoyer Road,1209.777,,,,,,,,,,,20218863,
+213842818,213842668,0,False,secondary,State Highway 28A,120.36,,,,,,,,,,,69018998,NY 28A; CR 50
+213845422,213813307,0,False,residential,Lower Frederick Drive,375.374,,,,,,,,,,,20219092,
+213845422,213799136,0,False,residential,Upper Frederick Drive,451.922,,,,,,,,,,,20220598,
+213845422,213607082,0,False,residential,Jason Court,276.491,,,,,,,,,,,"[20236162, 20198407]",
+213848101,213848116,0,False,residential,Old Ball Park Road,334.622,,,,,,,,,,,20219318,
+213848116,213848101,0,False,residential,Old Ball Park Road,334.622,,,,,,,,,,,20219318,
+213848116,213737042,0,False,tertiary,Sawkill Road,235.78,,,,45 mph,,,,,,,239449414,CR 30
+213848116,213831425,0,False,tertiary,Sawkill Road,57.612,,,,45 mph,,,,,,,239449414,CR 30
+213848932,213828151,0,False,residential,Bogert Lane,9.121,,,,,,,,,,,20236877,
+213848932,213818806,0,False,residential,Bogert Lane,178.639,,,,,,,,,,,"[20217800, 20219409]",
+213848932,213848943,0,False,residential,Bogert Lane,135.801,,,,,,,,,,,20219411,
+213848943,213848932,0,False,residential,Bogert Lane,135.801,,,,,,,,,,,20219411,
+213851095,213646327,0,False,residential,"['Barbara Terrace', 'Clearhorn Road']",165.136,,,,,,,,,,,"[20219608, 20220892]",
+213853549,213853601,0,False,residential,Sawkill Park Road,409.441,,,,,,,,,,,20219785,
+213853549,213596429,0,False,tertiary,Sawkill Road,630.539,,,,45 mph,,,,,,,239449414,CR 30
+213853549,213760071,0,False,tertiary,Sawkill Road,921.983,,,,45 mph,,,,,,,239449414,CR 30
+213853601,213853549,0,False,residential,Sawkill Park Road,409.441,,,,,,,,,,,20219785,
+213859790,213860121,0,False,tertiary,Hurley Mountain Road,15.257,,,,,,,,,,,20240204,CR 5
+213859790,2423723865,0,True,secondary,Onteora Trail,858.764,2,,,45 mph,,,,,,,234064590,NY 28
+213859842,213860061,0,False,residential,Forest Hill Drive,14.744,,,,,,,,,,,20234157,
+213859842,213842208,0,False,residential,Forest Hill Drive,58.729,,,,,,,,,,,20234157,
+213859842,213859790,0,True,secondary,Onteora Trail,602.557,2,,,45 mph,,,,,,,234064590,NY 28
+213859910,213598199,0,True,motorway_link,,341.452,,,,,,,,,,,20197462,
+213859910,213694201,0,True,secondary,Onteora Trail,208.792,,,,45 mph,,,,,,,20220231,NY 28
+213860061,213859842,0,False,residential,Forest Hill Drive,14.744,,,,,,,,,,,20234157,
+213860061,213598316,0,True,secondary,Onteora Trail,143.362,2,,,45 mph,,,,,,,234064588,NY 28
+213860121,213859790,0,False,tertiary,Hurley Mountain Road,15.257,,,,,,,,,,,20240204,CR 5
+213860121,213800920,0,False,tertiary,Hurley Mountain Road,34.259,,,,,,,,,,,20240204,CR 5
+213860121,213860061,0,True,secondary,Onteora Trail,615.384,2,,,45 mph,,,,,,,234064588,NY 28
+213867622,214134505,0,False,residential,Schneider Lane,33.307,,,,,,,,,,,20239502,
+213867622,213867659,0,False,residential,Scheffel Lane,313.288,,,,,,,,,,,20220813,
+213867622,213740699,0,False,residential,Schneider Lane,214.647,,,,,,,,,,,20239502,
+213867659,213867622,0,False,residential,Scheffel Lane,313.288,,,,,,,,,,,20220813,
+213868620,213646327,0,False,residential,Clearhorn Road,347.446,,,,,,,,,,,20220892,
+213868620,213721772,0,False,residential,Murray Road,352.817,,,,,,,,,,,20223886,
+213868620,213906772,0,False,residential,Murray Road,515.209,,,,,,,,,,,20223892,
+213876286,214099403,0,False,residential,Wood Road,1125.4,,,,,,,,,,,"[20241068, 20221478]",
+213879488,213879501,0,False,residential,Doris Lane,255.314,,,,,,,,,,,20221750,
+213879488,213818836,0,False,residential,Doris Lane,224.422,,,,,,,,,,,20221750,
+213879488,214056861,0,False,residential,Jeanette Lane,431.164,,,,,,,,,,,20233852,
+213879501,214056861,0,False,residential,North Brigham Lane,153.491,,,,,,,,,,,20235644,
+213879501,213879488,0,False,residential,Doris Lane,255.314,,,,,,,,,,,20221750,
+213879501,2565816779,0,False,residential,"['North Brigham Lane', 'Brigham Road']",150.039,,,,,,,,,,,"[20224680, 20235644]",
+213882317,213598243,0,True,motorway,Clayton 'Peg Leg' Bates Highway,451.137,"['2', '1']",,,55 mph,,,,,,,"[121646836, 40421350]",US 209
+213886632,213709247,0,False,residential,Calumet Road,88.044,,,,,,,,,,,20222204,
+213889425,213889527,0,False,residential,Dachenhouse Lane,767.716,,,,,,,,,,,20222415,
+213889425,213889527,1,False,residential,Main Street,256.251,,,,,,,,,,,20228349,
+213889425,213799145,0,False,residential,Main Street,211.225,,,,,,,,,,,20228349,
+213889527,213743749,0,False,residential,Main Street,42.344,,,,,,,,,,,20228349,
+213889527,213889425,0,False,residential,Dachenhouse Lane,767.716,,,,,,,,,,,20222415,
+213889527,213889425,1,False,residential,Main Street,256.251,,,,,,,,,,,20228349,
+213898738,213898792,0,False,residential,Wakeley Drive,174.693,,,,,,,,,,,20223336,
+213898738,213799145,0,False,residential,Main Street,428.649,,,,,,,,,,,20228349,
+213898738,213799150,0,False,residential,Main Street,64.982,,,,,,,,,,,20228349,
+213898792,213898738,0,False,residential,Wakeley Drive,174.693,,,,,,,,,,,20223336,
+213903437,213740764,0,False,residential,Main Street,29.087,,,,,,,,,,,20228252,
+213903437,213903460,0,False,residential,Lend Lane,239.91,,,,,,,,,,,20223696,
+213903437,213751402,0,False,residential,Main Street,209.449,,,,,,,,,,,20228252,
+213903460,213903437,0,False,residential,Lend Lane,239.91,,,,,,,,,,,20223696,
+213906543,213646374,0,False,residential,Murray Road,295.659,,,,,,,,,,,20223886,
+213906631,213577914,0,False,residential,Murray Road,60.038,,,,,,,,,,,20223886,
+213906631,213577891,0,False,residential,Murray Road,83.431,,,,,,,,,,,20223886,
+213906631,213928681,0,False,residential,Doogwood Lane,336.974,,,,,,,,,,,20225102,
+213906772,213868620,0,False,residential,Murray Road,515.209,,,,,,,,,,,20223892,
+213906772,213741018,0,False,tertiary,Hallihans Hill Road,389.824,,,,,,,,,,,20223979,
+213906772,213907768,0,False,tertiary,Hallihans Hill Road,1090.5,,,,,,,,,,,20223979,
+213907768,213906772,0,False,tertiary,Hallihans Hill Road,1090.5,,,,,,,,,,,20223979,
+213907768,213980342,0,False,tertiary,Sawkill-Ruby Road,780.465,,,,,,,,,,,"[20229358, 20236719]",CR 31
+213907768,214050836,0,False,tertiary,Sawkill Ruby Road,271.731,,,,,,,,,,,20236725,CR 31
+213908190,213747883,0,False,tertiary,Hallihans Hill Road,400.209,,,,,,,,,,,20223979,
+213908190,214036988,0,False,tertiary,Sawkill Road,139.161,,,,45 mph,,,,,,,239449414,CR 30
+213908190,213672410,0,False,tertiary,Sawkill Road,1319.956,,,,45 mph,,,,,,,239449414,CR 30
+213927837,213831369,0,False,residential,Nancy Court,182.972,,,,,,,,,,,20225049,
+213928681,213906631,0,False,residential,Doogwood Lane,336.974,,,,,,,,,,,20225102,
+213931232,213931261,0,False,residential,North Road,167.578,,,,,,,,,,,20225270,
+213931232,213778930,0,False,residential,Rymrock Road,53.527,,,,,,,,,,,20232838,
+213931232,214043374,0,False,residential,Rymrock Road,442.094,,,,,,,,,,,20232838,
+213931261,213931232,0,False,residential,North Road,167.578,,,,,,,,,,,20225270,
+213942938,213823188,0,False,residential,Fawn Hill Court,212.668,,,,,,,,,,,20226044,
+213951649,213812228,0,False,residential,Prince Lane,105.544,,,,,,,,,,,20240228,
+213951649,213812278,0,False,residential,Prince Lane,105.257,,,,,,,,,,,20240228,
+213951649,213951672,0,False,residential,Prince Court,55.585,,,,,,,,,,,20226660,
+213951672,213951649,0,False,residential,Prince Court,55.585,,,,,,,,,,,20226660,
+213954338,213818819,0,False,residential,Thruview Farm Road,660.465,,,,,,,,,,,"[20226824, 20226838]",
+213965245,213671423,0,False,residential,Brigham Lane,667.704,,,,,,,,,,,20227438,
+213980342,213980369,0,False,residential,Main Street,742.795,,,,,,,,,,,20228336,
+213980342,214093766,0,False,tertiary,Sawkill-Ruby Road,144.271,,,,,,,yes,,,,"[38227090, 38227091, 20236719]",CR 31
+213980342,213907768,0,False,tertiary,Sawkill-Ruby Road,780.465,,,,,,,,,,,"[20229358, 20236719]",CR 31
+213980369,213980380,0,False,residential,Main Street,138.636,,,,,,,,,,,20228336,
+213980369,213980342,0,False,residential,Main Street,742.795,,,,,,,,,,,20228336,
+213980369,213705869,0,False,residential,Main Street,299.467,,,,,,,,,,,20228349,
+213980380,213980369,0,False,residential,Main Street,138.636,,,,,,,,,,,20228336,
+213992554,213706801,0,False,residential,Van Etten Lane,488.374,,,,,,,,,,,20229146,
+213994230,214087497,0,False,residential,"['Meyers Road', 'Wintergreen Hill Road']",1133.506,,,,,,,,,,,"[20229237, 20236119]",
+213994230,213760071,0,False,tertiary,Sawkill Road,131.883,,,,45 mph,,,,,,,239449414,CR 30
+213994230,214036988,0,False,tertiary,Sawkill Road,146.856,,,,45 mph,,,,,,,239449414,CR 30
+213997106,213713447,0,False,residential,West Road,80.004,,,,,,,,,,,20229453,
+213997106,213831369,0,False,residential,Rymrock Road,151.129,,,,,,,,,,,20232838,
+213997106,213778964,0,False,residential,Rymrock Road,140.947,,,,,,,,,,,20232838,
+213997125,213713447,0,False,residential,West Road,274.928,,,,,,,,,,,20229453,
+214001646,214073385,0,False,residential,Maize Lane,160.017,,,,,,,,,,,20229753,
+214022148,214148055,0,False,residential,Sandy Road,358.002,,,,,,,,,,,20240528,
+214022148,214022156,0,False,tertiary,Washington Avenue,89.988,,,,30 mph,,,,,,,134947656,
+214022156,214037604,0,False,tertiary,Sawkill Road,35.091,,,,30 mph,,,,,,,39710977,CR 31
+214022156,214022173,0,False,tertiary,Washington Avenue,173.325,,,,30 mph,,,,,,,134947656,
+214022156,214022148,0,False,tertiary,Washington Avenue,89.988,,,,30 mph,,,,,,,134947656,
+214022173,1928646683,0,True,tertiary,Washington Avenue,67.236,,,,30 mph,,,,,,,20231349,
+214022173,214022156,0,False,tertiary,Washington Avenue,173.325,,,,30 mph,,,,,,,134947656,
+214036988,214036999,0,False,residential,Van Steenburgh Lane,127.292,,,,,,,,,,,20232386,
+214036988,213994230,0,False,tertiary,Sawkill Road,146.856,,,,45 mph,,,,,,,239449414,CR 30
+214036988,213908190,0,False,tertiary,Sawkill Road,139.161,,,,45 mph,,,,,,,239449414,CR 30
+214036999,214036988,0,False,residential,Van Steenburgh Lane,127.292,,,,,,,,,,,20232386,
+214037604,214037633,0,False,residential,Powells Lane,156.419,,,,,,,,,,,20232439,
+214037604,214087802,0,False,tertiary,Sawkill Road,426.746,,,,"['30 mph', '45 mph']",,,yes,,,,"[39710977, 175473378, 175473377]",CR 31
+214037604,214022156,0,False,tertiary,Sawkill Road,35.091,,,,30 mph,,,,,,,39710977,CR 31
+214037633,214037604,0,False,residential,Powells Lane,156.419,,,,,,,,,,,20232439,
+214043374,213931232,0,False,residential,Rymrock Road,442.094,,,,,,,,,,,20232838,
+214043374,214043374,0,False,residential,Rymrock Road,239.252,,,,,,,,,,,20232840,
+214043374,214043374,1,False,residential,Rymrock Road,239.252,,,,,,,,,,,20232840,
+214044492,213785891,0,False,residential,Tall Oaks Court,300.387,,,,,,,,,,,20232920,
+214050836,214050837,0,False,residential,Anita Court,99.164,,,,,,,,,,,20233352,
+214050836,213907768,0,False,tertiary,Sawkill Ruby Road,271.731,,,,,,,,,,,20236725,CR 31
+214050836,213685401,0,False,tertiary,Sawkill Ruby Road,331.681,,,,,,,,,,,20236725,CR 31
+214050837,214050836,0,False,residential,Anita Court,99.164,,,,,,,,,,,20233352,
+214051609,213577669,0,False,tertiary,Sawkill Road,91.363,,,,45 mph,,,,,,,38226883,CR 31
+214051609,213651387,0,False,tertiary,Sawkill Road,36.076,,,,45 mph,,,,,,,38226883,CR 31
+214051609,214051637,0,False,residential,Lem Boice Lane,328.651,,,,,,,,,,,20233420,
+214051637,214051609,0,False,residential,Lem Boice Lane,328.651,,,,,,,,,,,20233420,
+214051637,214051696,0,False,residential,Lem Boice Lane,174.562,,,,,,,,,,,20233426,
+214051637,214051647,0,False,residential,Lem Boice Lane,127.056,,,,,,,,,,,20233426,
+214051647,214051637,0,False,residential,Lem Boice Lane,127.056,,,,,,,,,,,20233426,
+214051696,214051637,0,False,residential,Lem Boice Lane,174.562,,,,,,,,,,,20233426,
+214052836,213747207,0,False,residential,"['Byrne Lane', 'Berny Lane']",265.085,,,,,,,,,,,"[20233520, 20217454]",
+214053398,213799132,0,False,residential,Douglas Drive,31.334,,,,,,,,,,,20233571,
+214053398,213607082,0,False,residential,Douglas Drive,62.84,,,,,,,,,,,20233571,
+214053398,213799125,0,False,residential,Douglas Drive,18.551,,,,,,,,,,,20233572,
+214056861,213879501,0,False,residential,North Brigham Lane,153.491,,,,,,,,,,,20235644,
+214056861,213879488,0,False,residential,Jeanette Lane,431.164,,,,,,,,,,,20233852,
+214056861,214081711,0,False,residential,North Brigham Lane,311.581,,,,,,,,,,,20235644,
+214061373,214061373,0,False,residential,Forest Hill Drive,839.652,,,,,,,,,,,20234152,
+214061373,214061373,1,False,residential,Forest Hill Drive,839.652,,,,,,,,,,,20234152,
+214061373,213740294,0,False,residential,Forest Hill Drive,168.4,,,,,,,,,,,20234159,
+214062794,213677479,0,False,residential,Farm-To-Market Road,975.574,,,,,,,,,,,20234243,
+214062794,214099403,0,False,tertiary,Sawkill Road,165.795,,,,45 mph,,,yes,,,,"[175473378, 38226883, 38226886]",CR 31
+214062794,214085051,0,False,tertiary,Sawkill Road,520.54,,,,45 mph,,,,,,,175473378,CR 31
+214073385,214001646,0,False,residential,Maize Lane,160.017,,,,,,,,,,,20229753,
+214073385,2423792540,0,False,residential,Weedy Drive,169.816,,,,,,,,,,,20235074,
+214073385,213765319,0,False,residential,Brabrant Road,592.312,,,,,,,,,,,20238115,
+214074518,213730985,0,False,residential,"['Fellow Lane', 'Heppner Lane']",354.638,,,,,,,,,,,"[20235146, 20211126]",
+214081711,214056861,0,False,residential,North Brigham Lane,311.581,,,,,,,,,,,20235644,
+214085051,2423792388,0,False,residential,Wood Road,161.313,,,,,,,,,,,20235934,
+214085051,214062794,0,False,tertiary,Sawkill Road,520.54,,,,45 mph,,,,,,,175473378,CR 31
+214085051,213765319,0,False,tertiary,Sawkill Road,292.41,,,,45 mph,,,,,,,175473378,CR 31
+214087497,213994230,0,False,residential,"['Meyers Road', 'Wintergreen Hill Road']",1133.506,,,,,,,,,,,"[20229237, 20236119]",
+214087784,214087802,0,False,residential,Barbarassa Road,187.441,,,,,,,,,,,20236131,
+214087802,214087784,0,False,residential,Barbarassa Road,187.441,,,,,,,,,,,20236131,
+214087802,213765319,0,False,tertiary,Sawkill Road,255.81,,,,45 mph,,,,,,,175473378,CR 31
+214087802,214037604,0,False,tertiary,Sawkill Road,426.746,,,,"['30 mph', '45 mph']",,,yes,,,,"[175473377, 175473378, 39710977]",CR 31
+214093766,213706772,0,False,tertiary,County Road 31,131.536,,,,,,,,,,,20239787,CR 31
+214093766,213818762,0,False,tertiary,Sawkill-Ruby Road,151.544,,,,,,,,,,,38227090,CR 31
+214093766,213980342,0,False,tertiary,Sawkill-Ruby Road,144.271,,,,,,,yes,,,,"[38227090, 38227091, 20236719]",CR 31
+214093797,213685401,0,False,tertiary,Sawkill Ruby Road,1137.67,,,,,,,,,,,20236725,CR 31
+214093797,213577669,0,False,tertiary,Sawkill Road,318.817,,,,45 mph,,,yes,,,,"[134927192, 38226883, 134927196]",CR 31
+214093797,213672410,0,False,tertiary,Sawkill Road,327.002,,,,45 mph,,,,,,,239449414,CR 30
+214093988,213740699,0,False,residential,Cross Road,343.784,,,,,,,,,,,20236736,
+214095805,213828151,0,False,residential,Paupawey Court,162.723,,,,,,,,,,,20236880,
+214099403,213876286,0,False,residential,Wood Road,1125.4,,,,,,,,,,,"[20241068, 20221478]",
+214099403,214099404,0,False,tertiary,Sawkill Road,17.851,,,,45 mph,,,,,,,38226883,CR 31
+214099403,214062794,0,False,tertiary,Sawkill Road,165.795,,,,45 mph,,,yes,,,,"[175473378, 38226883, 38226886]",CR 31
+214099404,213812280,0,False,residential,Denver Road,85.015,,,,,,,,,,,20240582,
+214099404,213641026,0,False,tertiary,Sawkill Road,1507.887,,,,45 mph,,,,,,,38226883,CR 31
+214099404,214099403,0,False,tertiary,Sawkill Road,17.851,,,,45 mph,,,,,,,38226883,CR 31
+214108254,213608535,0,False,residential,East Side Hill Road,44.709,,,,,,,,,,,20237729,
+214134505,213867622,0,False,residential,Schneider Lane,33.307,,,,,,,,,,,20239502,
+214148055,214022148,0,False,residential,Sandy Road,358.002,,,,,,,,,,,20240528,
+214162264,213831425,0,False,residential,"['Powder Mill Bridge Road', 'Powdermill Bridge Road']",92.133,,,,,,,,,,,"[20224922, 20241687]",
+214162264,213798716,0,False,residential,Powdermill Bridge Road,163.152,,,,,,,,,,,20241696,
+214162264,214162271,0,False,residential,Powdermill Bridge Road,314.905,,,,,,,,,,,20241696,
+214162271,214162264,0,False,residential,Powdermill Bridge Road,314.905,,,,,,,,,,,20241696,
+214162366,213798716,0,False,residential,Powdermill Bridge Road,208.104,,,,,,,,,,,20241696,
+1331622245,213743793,0,False,residential,Service Road,425.665,,,,,,,,,,,20214833,
+1361118277,213882317,0,True,motorway,,349.32,1,,,55 mph,,,,,,,121646835,US 209
+1561895274,213804532,0,False,residential,Modica Lane,321.452,,,,,,,,,,,234074846,
+1928646683,2420495256,0,True,tertiary,Washington Avenue,67.564,,,,30 mph,,,,,,,"[20231349, 69018902]",
+2420495174,1928646683,0,True,"['motorway_link', 'tertiary_link']",,220.284,,,,,,,,,,,"[182504364, 182504398]",
+2420495175,2420495174,0,True,motorway,Colonel Chandler Drive,97.748,2,,,55 mph,,,,,,,233703272,I 587;NY 28
+2420495175,2420495311,0,True,secondary,Kingston Traffic Circle,34.948,,,,,,,,,,roundabout,233703276,NY 28
+2420495246,2420495389,0,True,secondary,Kingston Traffic Circle,4.677,,,,,,,,,,roundabout,233703276,NY 28
+2420495256,2420495175,0,True,secondary,Kingston Traffic Circle,6.583,,,,,,,,,,roundabout,233703276,NY 28
+2420495274,2420495364,0,True,secondary,Kingston Traffic Circle,7.082,,,,,,,,,,roundabout,233703276,NY 28
+2420495311,213662793,0,True,secondary,Kingston Traffic Circle,7.114,,,,,,,,,,roundabout,233703276,NY 28
+2420495364,213573691,0,True,secondary,Onteora Trail,104.595,,,,,,,,,,,27858848,NY 28
+2420495364,2420495246,0,True,secondary,Kingston Traffic Circle,36.927,,,,,,,,,,roundabout,233703276,NY 28
+2420495389,213623555,0,True,tertiary,Washington Avenue,130.722,,,,,,,,,,,"[39710980, 175473383]",
+2420495389,2420495256,0,True,secondary,Kingston Traffic Circle,51.705,,,,,,,,,,roundabout,233703276,NY 28
+2421009478,213859842,0,True,secondary,Onteora Trail,237.243,2,,,45 mph,,,,,,,234064590,NY 28
+2423723734,2423723953,0,False,secondary,Onteora Trail,94.299,4,,,45 mph,,,,,,,234064587,NY 28
+2423723734,213809559,0,True,secondary,Onteora Trail,601.585,2,,,45 mph,,,,,,,234064589,NY 28
+2423723787,213759875,0,False,residential,Jockey Hill Road,3424.649,,,,,,,,,,,20218035,
+2423723787,213636073,0,False,secondary,Onteora Trail,1616.524,4,,,45 mph,,,,,,,234064587,NY 28
+2423723787,2423723865,0,False,secondary,Onteora Trail,205.026,4,,,45 mph,,,,,,,234064587,NY 28
+2423723808,213694131,0,True,motorway,Clayton 'Peg Leg' Bates Highway,82.535,2,,,55 mph,,,,,,,448596015,US 209
+2423723865,2423723787,0,False,secondary,Onteora Trail,205.026,4,,,45 mph,,,,,,,234064587,NY 28
+2423723865,213860121,0,True,secondary,Onteora Trail,852.851,2,,,45 mph,,,,,,,234064588,NY 28
+2423723953,2423723734,0,False,secondary,Onteora Trail,94.299,4,,,45 mph,,,,,,,234064587,NY 28
+2423723953,213809538,0,False,tertiary,,743.323,,,,,,,,,,,69018894,CR 50
+2423723953,213636073,0,False,secondary,Onteora Trail,161.435,4,,,45 mph,,,,,,,234064587,NY 28
+2423792388,214085051,0,False,residential,Wood Road,161.313,,,,,,,,,,,20235934,
+2423792524,213709242,0,False,residential,Petronella Road,39.606,,,,,,,,,,,20236810,
+2423792540,214073385,0,False,residential,Weedy Drive,169.816,,,,,,,,,,,20235074,
+2565816779,213879501,0,False,residential,"['North Brigham Lane', 'Brigham Road']",150.039,,,,,,,,,,,"[20224680, 20235644]",

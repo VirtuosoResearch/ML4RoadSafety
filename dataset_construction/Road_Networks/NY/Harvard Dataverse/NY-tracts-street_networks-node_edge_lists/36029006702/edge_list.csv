@@ -1,0 +1,61 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+111333286,111333291,0,True,residential,Linwood Avenue,242.16,,,,30 mph,,,,,,,12283591,
+111333286,111410222,0,False,tertiary,Summer Street,166.669,,,,30 mph,,,,,,,12292221,
+111333286,111410219,0,False,tertiary,Summer Street,167.822,,,,30 mph,,,,,,,12292221,
+111333291,111333298,0,True,residential,Linwood Avenue,245.858,,,,30 mph,,,,,,,12283591,
+111333291,111413759,0,False,residential,Barker Street,173.619,,,,30 mph,,,,,,,12292639,
+111333298,111444102,0,False,residential,Bryant Street,176.908,,,,30 mph,,,,,,,23641103,
+111333298,928439196,0,False,residential,Bryant Street,174.074,,,,30 mph,,,,,,,23641103,
+111339309,111444102,0,False,primary,Delaware Avenue,107.345,2,,,30 mph,,,,,,,23641431,NY 384
+111354263,111582461,0,False,primary,Main Street,84.212,6,,,30 mph,,,,,,,67508650,NY 5
+111358909,255961265,0,False,tertiary,North Street,101.292,2,,,30 mph,,,,,,,35375679,
+111404322,928439196,0,False,primary,Main Street,139.131,6,,,30 mph,,,,,,,67508650,NY 5
+111410219,111333286,0,False,tertiary,Summer Street,167.822,,,,30 mph,,,,,,,12292221,
+111410219,111582451,0,False,primary,Main Street,139.829,6,,,30 mph,,,,,,,67508650,NY 5
+111410222,111410226,0,False,tertiary,Summer Street,230.6,,,,30 mph,,,,,,,12292221,
+111410222,111333286,0,False,tertiary,Summer Street,166.669,,,,30 mph,,,,,,,12292221,
+111410222,111413759,0,False,primary,Delaware Avenue,235.916,,,,30 mph,,,,,,,246674326,NY 384
+111410222,255961263,0,False,primary,Delaware Avenue,274.461,,,,30 mph,,,,,,,246674326,NY 384
+111410226,111410222,0,False,tertiary,Summer Street,230.6,,,,30 mph,,,,,,,12292221,
+111410226,3574848235,0,False,residential,Oakland Place,198.869,,,,30 mph,,,,,,,12301311,
+111413759,111333291,0,False,residential,Barker Street,173.619,,,,30 mph,,,,,,,12292639,
+111413759,111410222,0,False,primary,Delaware Avenue,235.916,,,,30 mph,,,,,,,246674326,NY 384
+111413759,111444102,0,False,primary,Delaware Avenue,246.109,2,,,30 mph,,,,,,,"[246674326, 23641431]",NY 384
+111444102,910721602,0,False,residential,Bryant Street,179.718,,,,30 mph,,,,,,,23641103,
+111444102,111333298,0,False,residential,Bryant Street,176.908,,,,30 mph,,,,,,,23641103,
+111444102,111339309,0,False,primary,Delaware Avenue,107.345,2,,,30 mph,,,,,,,23641431,NY 384
+111444102,111413759,0,False,primary,Delaware Avenue,246.109,2,,,30 mph,,,,,,,"[246674326, 23641431]",NY 384
+111582451,111410219,0,False,primary,Main Street,139.829,6,,,30 mph,,,,,,,67508650,NY 5
+111582461,111354263,0,False,primary,Main Street,84.212,6,,,30 mph,,,,,,,67508650,NY 5
+111582461,928439196,0,False,primary,Main Street,77.323,6,,,30 mph,,,,,,,67508650,NY 5
+255960711,255961263,0,False,tertiary,North Street,164.993,2,,,30 mph,,,,,,,35375679,
+255960711,3633397518,0,False,tertiary,North Street,7.168,2,,,30 mph,,,,,,,35375679,
+255961262,3633397518,0,False,tertiary,North Street,68.771,2,,,30 mph,,,,,,,35375679,
+255961263,901708607,0,False,tertiary,North Street,133.147,2,,,30 mph,,,,,,,35375679,
+255961263,255960711,0,False,tertiary,North Street,164.993,2,,,30 mph,,,,,,,35375679,
+255961263,111410222,0,False,primary,Delaware Avenue,274.461,,,,30 mph,,,,,,,246674326,NY 384
+255961265,111358909,0,False,tertiary,North Street,101.292,2,,,30 mph,,,,,,,35375679,
+255961265,901708581,0,False,tertiary,North Street,64.075,2,,,30 mph,,,,,,,35375679,
+901708581,111333286,0,True,residential,Linwood Avenue,272.682,,,,30 mph,,,,,,,12283591,
+901708581,901708607,0,False,tertiary,North Street,30.587,2,,,30 mph,,,,,,,35375679,
+901708581,255961265,0,False,tertiary,North Street,64.075,2,,,30 mph,,,,,,,35375679,
+901708607,901708581,0,False,tertiary,North Street,30.587,2,,,30 mph,,,,,,,35375679,
+901708607,255961263,0,False,tertiary,North Street,133.147,2,,,30 mph,,,,,,,35375679,
+910721602,910721604,0,False,residential,Saint Georges Square,79.722,,,,30 mph,,,,,,,12293475,
+910721602,928439162,0,False,residential,Bryant Street,139.101,,,,30 mph,,,,,,,23641103,
+910721602,111444102,0,False,residential,Bryant Street,179.718,,,,30 mph,,,,,,,23641103,
+910721604,910721602,0,False,residential,Saint Georges Square,79.722,,,,30 mph,,,,,,,12293475,
+910721604,910721604,0,True,residential,Saint Georges Square,101.275,,,,30 mph,,,,,,,327148864,
+928439162,910721602,0,False,residential,Bryant Street,139.101,,,,30 mph,,,,,,,23641103,
+928439162,3574848235,0,False,residential,Oakland Place,273.265,,,,30 mph,,,,,,,12301311,
+928439196,111333298,0,False,residential,Bryant Street,174.074,,,,30 mph,,,,,,,23641103,
+928439196,111404322,0,False,primary,Main Street,139.131,6,,,30 mph,,,,,,,67508650,NY 5
+928439196,111582461,0,False,primary,Main Street,77.323,6,,,30 mph,,,,,,,67508650,NY 5
+3574848235,3574848236,0,False,residential,Saint Andrews Walk,93.175,,,,,,,,,,,351673250,
+3574848235,928439162,0,False,residential,Oakland Place,273.265,,,,30 mph,,,,,,,12301311,
+3574848235,111410226,0,False,residential,Oakland Place,198.869,,,,30 mph,,,,,,,12301311,
+3574848236,3574848235,0,False,residential,Saint Andrews Walk,93.175,,,,,,,,,,,351673250,
+3633397518,255960711,0,False,tertiary,North Street,7.168,2,,,30 mph,,,,,,,35375679,
+3633397518,3633397523,0,False,residential,Mayfair Lane,114.954,,,,,,,,,,,358414888,
+3633397518,255961262,0,False,tertiary,North Street,68.771,2,,,30 mph,,,,,,,35375679,
+3633397523,3633397518,0,False,residential,Mayfair Lane,114.954,,,,,,,,,,,358414888,

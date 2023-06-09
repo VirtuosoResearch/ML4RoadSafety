@@ -1,0 +1,73 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+43001991,43028505,0,False,residential,18th Street,180.411,,,,,,,,,,,5717800,
+43001991,43009604,0,False,secondary,Pine Avenue,36.023,2,,,30 mph,,,,,,,60219160,US 62 Business
+43001991,43010974,0,False,secondary,Pine Avenue,98.674,2,,,30 mph,,,,,,,60219160,US 62 Business
+43009604,43001991,0,False,secondary,Pine Avenue,36.023,2,,,30 mph,,,,,,,60219160,US 62 Business
+43009604,2778402450,0,False,secondary,Pine Avenue,62.13,2,,,30 mph,,,,,,,60219160,US 62 Business
+43010956,43042683,0,False,residential,Niagara Street,102.227,,,,,,,,,,,5718507,
+43010956,43010963,0,False,residential,19th Street,321.432,,,,,,,,,,,60219156,
+43010963,43015724,0,True,primary,Ferry Avenue,101.661,2,,,30 mph,,,,,,,26556043,US 62
+43010963,43010965,0,False,residential,19th Street,220.219,,,,,,,,,,,60219156,
+43010963,43010956,0,False,residential,19th Street,321.432,,,,,,,,,,,60219156,
+43010965,43028505,0,True,primary,Walnut Avenue,96.767,2,,,30 mph,,,,,,,5717753,US 62
+43010965,43010974,0,False,residential,19th Street,182.05,,,,,,,,,,,60219156,
+43010965,43010963,0,False,residential,19th Street,220.219,,,,,,,,,,,60219156,
+43010974,43010965,0,False,residential,19th Street,182.05,,,,,,,,,,,60219156,
+43010974,43052507,0,False,secondary,Pine Avenue,102.638,2,,,30 mph,,,,,,,60219160,US 62 Business
+43010974,43001991,0,False,secondary,Pine Avenue,98.674,2,,,30 mph,,,,,,,60219160,US 62 Business
+43015634,43015727,0,True,primary,Ferry Avenue,59.0,2,,,30 mph,,,,,,,26556043,US 62
+43015634,43015635,0,True,residential,21st Street,219.278,,,,,,,,,,,5716214,
+43015635,43015639,0,True,residential,21st Street,181.865,,,,,,,,,,,5716214,
+43015635,43028509,0,True,primary,Walnut Avenue,99.087,2,,,30 mph,,,,,,,5717753,US 62
+43015639,43052510,0,False,secondary,Pine Avenue,24.944,2,,,30 mph,,,,,,,60219160,US 62 Business
+43015639,43052507,0,False,secondary,Pine Avenue,98.622,2,,,30 mph,,,,,,,60219160,US 62 Business
+43015648,43015634,0,True,primary,Ferry Avenue,28.445,2,,,30 mph,,,,,,,26556043,US 62
+43015721,43028505,0,False,residential,18th Street,224.435,,,,,,,,,,,5717800,
+43015721,43010963,0,True,primary,Ferry Avenue,95.64,2,,,30 mph,,,,,,,26556043,US 62
+43015724,43042683,0,False,residential,20th Street,324.825,,,,,,,,,,,5719159,
+43015724,43015648,0,True,primary,Ferry Avenue,70.663,2,,,30 mph,,,,,,,26556043,US 62
+43015727,43042690,0,False,residential,22nd Street,331.654,,,,,,,,,,,5719549,
+43015727,43015730,0,True,primary,Ferry Avenue,15.389,2,,,30 mph,,,,,,,26556043,US 62
+43015730,747981266,0,True,primary,Ferry Avenue,76.006,2,,,30 mph,,,,,,,26556043,US 62
+43015733,43028516,0,True,residential,23rd Street,219.056,,,,,,,,,,,60219157,
+43015733,43015735,0,True,primary,Ferry Avenue,97.0,2,,,30 mph,,,,,,,26556043,US 62
+43015735,43018303,0,False,residential,24th Street,172.223,,,,,,,,,,,139645064,
+43015735,43027623,0,False,residential,24th Street,219.747,,,,,,,,,,,139645064,
+43018300,43050659,0,False,residential,23rd Street,79.304,,,,,,,,,,,5719064,
+43018300,43018303,0,False,residential,Orleans Avenue,120.318,,,,,,,,,,,5716517,
+43018300,747981266,0,False,residential,23rd Street,171.291,,,,,,,,,,,5719064,
+43018303,43015735,0,False,residential,24th Street,172.223,,,,,,,,,,,139645064,
+43018303,43018300,0,False,residential,Orleans Avenue,120.318,,,,,,,,,,,5716517,
+43024180,2778402450,0,False,secondary,Pine Avenue,8.667,2,,,30 mph,,,,,,,60219160,US 62 Business
+43027532,43051161,0,False,secondary,Pine Avenue,65.701,2,,,30 mph,,,,,,,60219160,US 62 Business
+43027623,43015735,0,False,residential,24th Street,219.747,,,,,,,,,,,139645064,
+43027623,43028516,0,True,primary,Walnut Avenue,98.158,2,,,30 mph,,,,,,,5717753,US 62
+43028505,43001991,0,False,residential,18th Street,180.411,,,,,,,,,,,5717800,
+43028505,43015721,0,False,residential,18th Street,224.435,,,,,,,,,,,5717800,
+43028509,43010965,0,True,primary,Walnut Avenue,102.829,2,,,30 mph,,,,,,,5717753,US 62
+43028509,43015724,0,True,residential,20th Street,220.454,,,,,,,,,,,345563611,
+43028513,43015635,0,True,primary,Walnut Avenue,72.283,2,,,30 mph,,,,,,,5717753,US 62
+43028513,43015730,0,True,residential,22nd Street,218.136,,,,,,,,,,,5719546,
+43028516,43051161,0,False,residential,23rd Street,181.251,,,,,,,,,,,345563613,
+43028516,43028513,0,True,primary,Walnut Avenue,99.354,2,,,30 mph,,,,,,,5717753,US 62
+43042683,43010956,0,False,residential,Niagara Street,102.227,,,,,,,,,,,5718507,
+43042683,43015724,0,False,residential,20th Street,324.825,,,,,,,,,,,5719159,
+43042690,43015727,0,False,residential,22nd Street,331.654,,,,,,,,,,,5719549,
+43050659,43050660,0,False,residential,Monroe Avenue,76.382,,,,,,,,,,,5719040,
+43050659,43018300,0,False,residential,23rd Street,79.304,,,,,,,,,,,5719064,
+43050660,43050659,0,False,residential,Monroe Avenue,76.382,,,,,,,,,,,5719040,
+43051161,43028516,0,False,residential,23rd Street,181.251,,,,,,,,,,,345563613,
+43051161,43027532,0,False,secondary,Pine Avenue,65.701,2,,,30 mph,,,,,,,60219160,US 62 Business
+43051161,43052514,0,False,secondary,Pine Avenue,98.007,2,,,30 mph,,,,,,,60219160,US 62 Business
+43052507,43015639,0,False,secondary,Pine Avenue,98.622,2,,,30 mph,,,,,,,60219160,US 62 Business
+43052507,43010974,0,False,secondary,Pine Avenue,102.638,2,,,30 mph,,,,,,,60219160,US 62 Business
+43052507,43028509,0,True,residential,20th Street,181.862,,,,,,,,,,,345563611,
+43052510,43052514,0,False,secondary,Pine Avenue,46.405,2,,,30 mph,,,,,,,60219160,US 62 Business
+43052510,43015639,0,False,secondary,Pine Avenue,24.944,2,,,30 mph,,,,,,,60219160,US 62 Business
+43052514,43052510,0,False,secondary,Pine Avenue,46.405,2,,,30 mph,,,,,,,60219160,US 62 Business
+43052514,43028513,0,True,residential,22nd Street,181.641,,,,,,,,,,,5719546,
+43052514,43051161,0,False,secondary,Pine Avenue,98.007,2,,,30 mph,,,,,,,60219160,US 62 Business
+747981266,43015733,0,True,primary,Ferry Avenue,22.855,2,,,30 mph,,,,,,,26556043,US 62
+747981266,43018300,0,False,residential,23rd Street,171.291,,,,,,,,,,,5719064,
+2778402450,43009604,0,False,secondary,Pine Avenue,62.13,2,,,30 mph,,,,,,,60219160,US 62 Business
+2778402450,43024180,0,False,secondary,Pine Avenue,8.667,2,,,30 mph,,,,,,,60219160,US 62 Business

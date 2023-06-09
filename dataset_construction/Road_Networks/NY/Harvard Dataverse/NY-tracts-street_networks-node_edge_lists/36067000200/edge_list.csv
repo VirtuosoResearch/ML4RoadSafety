@@ -1,0 +1,314 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+212740551,212978303,0,False,tertiary,Hiawatha Boulevard East,152.184,2,,,,,,,,,,317569539,
+212740551,213014169,0,False,tertiary,Hiawatha Boulevard East,152.964,2,,,,,,,,,,317569539,
+212740551,212858557,0,False,tertiary,Grant Boulevard,139.509,2,,,,,,,,,,487814285,
+212742843,212773366,0,False,secondary,Hiawatha Boulevard East,86.413,,,,,,,,,,,139750701,
+212751453,213097265,0,False,tertiary,Grant Boulevard,39.651,2,,,,,,,,,,226009118,
+212751453,212757403,0,False,tertiary,Grant Boulevard,58.563,2,,,,,,,,,,487814285,
+212751456,212956124,0,False,secondary,Court Street,6.693,2,,,,,,,,,,249488955,NY 298
+212751456,212751453,0,True,secondary_link,,73.213,1,,,,,,,,,,20120958,
+212751456,213097265,0,False,secondary,Court Street,51.623,2,,,,,,,,,,249488955,NY 298
+212757399,212757403,0,True,tertiary_link,,19.361,1,,,,,,,,,,20121686,
+212757399,213097261,0,False,residential,Grant Boulevard,85.805,,,,,,,,,,,249138783,
+212757403,213097653,0,False,tertiary,Grant Boulevard,45.352,2,,,,,,,,,,487814285,
+212757403,212751453,0,False,tertiary,Grant Boulevard,58.563,2,,,,,,,,,,487814285,
+212766635,212766637,0,False,residential,Gannett Alley,58.11,,,,,,,,,,,20133550,
+212766635,212881954,0,False,residential,Gannett Alley,154.0,,,,,,,,,,,20133550,
+212766635,212841078,0,False,residential,6th North Street,75.576,,,,,,,,,,,20129672,
+212766635,212841072,0,False,residential,6th North Street,57.963,,,,,,,,,,,20129672,
+212766637,212766635,0,False,residential,Gannett Alley,58.11,,,,,,,,,,,20133550,
+212773357,212773359,0,False,unclassified,Park Street,83.58,2,,,,,,,,,,20123717,
+212773357,212824795,0,True,unclassified,Washington Square,111.403,,,,,,,,,,,20147092,
+212773359,212858544,0,False,primary,Wolf Street,148.228,2,,,30 mph,,,,,,,20138411,US 11
+212773359,212796072,0,False,primary,Wolf Street,145.38,2,,,30 mph,,,,,,,20138411,US 11
+212773359,212773357,0,False,unclassified,Park Street,83.58,2,,,,,,,,,,20123717,
+212773359,212773361,0,False,secondary,Park Street,106.237,"['2', '3']",,,,,,,,,,"[317569549, 97528926]",NY 370
+212773361,212796075,0,False,residential,Exchange Place,145.86,,,,,,,,,,,20139096,
+212773361,212773366,0,False,secondary,Park Street,45.956,3,,,,,,,,,,317569549,NY 370
+212773361,212773359,0,False,secondary,Park Street,106.237,"['2', '3']",,,,,,,,,,"[317569549, 97528926]",NY 370
+212773366,212742843,0,False,secondary,Hiawatha Boulevard East,86.413,,,,,,,,,,,139750701,
+212773366,212912924,0,False,tertiary,Hiawatha Boulevard East,144.745,"['4', '2']",,,,,,,,,,"[317569539, 97536093]",
+212773366,212773361,0,False,secondary,Park Street,45.956,3,,,,,,,,,,317569549,NY 370
+212773489,212773492,0,False,unclassified,Park Street,146.043,2,,,,,,,,,,158398394,
+212773489,212970034,0,False,secondary,Court Street,75.997,2,,,,,,,,,,249488955,NY 298
+212773489,212912912,0,False,secondary,Court Street,145.323,2,,,,,,,,,,249488955,NY 298
+212773492,212912915,0,False,residential,Turtle Street,145.439,,,,,,,,,,,20148109,
+212773492,212970037,0,False,residential,Turtle Street,74.866,,,,,,,,,,,20148109,
+212773492,212773494,0,False,unclassified,Park Street,141.873,2,,,,,,,,,,158398394,
+212773492,212773489,0,False,unclassified,Park Street,146.043,2,,,,,,,,,,158398394,
+212773494,212912917,0,False,residential,Bear Street,145.907,,,,,,,,,,,97528877,
+212773494,212796066,0,False,residential,Bear Street,145.85,,,,,,,,,,,97528877,
+212773494,212773492,0,False,unclassified,Park Street,141.873,2,,,,,,,,,,158398394,
+212773494,212773499,0,False,unclassified,Park Street,81.886,2,,,,,,,,,,158398394,
+212773499,213053838,0,True,unclassified,Washington Square,55.503,,,,,,,,,,,20147092,
+212773499,212773494,0,False,unclassified,Park Street,81.886,2,,,,,,,,,,158398394,
+212778111,212824815,0,False,residential,Lemoyne Avenue,75.546,,,,,,,,,,,20128184,
+212778111,212824812,0,False,residential,Lemoyne Avenue,74.805,,,,,,,,,,,20128184,
+212778111,212778115,0,False,residential,Pennsylvania Avenue,145.692,,,,,,,,,,,20124132,
+212778115,212858561,0,False,primary,Wolf Street,75.565,2,,,30 mph,,,,,,,20138411,US 11
+212778115,212858557,0,False,primary,Wolf Street,76.736,2,,,30 mph,,,,,,,20138411,US 11
+212778115,212778111,0,False,residential,Pennsylvania Avenue,145.692,,,,,,,,,,,20124132,
+212784773,212970034,0,False,secondary,Court Street,74.632,2,,,,,,,,,,249488955,NY 298
+212784773,212796060,0,False,primary,North Salina Street,112.047,2,,,30 mph,,,,,,,347338311,US 11
+212796060,212796063,0,False,primary,North Salina Street,34.071,2,,,30 mph,,,,,,,347338311,US 11
+212796060,212784773,0,False,primary,North Salina Street,112.047,2,,,30 mph,,,,,,,347338311,US 11
+212796063,212970037,0,False,residential,Turtle Street,71.198,,,,,,,,,,,20148109,
+212796063,212796066,0,False,primary,North Salina Street,141.715,2,,,30 mph,,,,,,,347338311,US 11
+212796063,212796060,0,False,primary,North Salina Street,34.071,2,,,30 mph,,,,,,,347338311,US 11
+212796066,212773494,0,False,residential,Bear Street,145.85,,,,,,,,,,,97528877,
+212796066,212796069,0,False,primary,North Salina Street,144.652,2,,,30 mph,,,,,,,347338311,US 11
+212796066,212796063,0,False,primary,North Salina Street,141.715,2,,,30 mph,,,,,,,347338311,US 11
+212796069,212824795,0,False,residential,Lemoyne Avenue,84.598,,,,,,,,,,,20128178,
+212796069,212796066,0,False,primary,North Salina Street,144.652,2,,,30 mph,,,,,,,347338311,US 11
+212796069,212796072,0,False,primary,North Salina Street,146.396,2,,,30 mph,,,,,,,347338311,US 11
+212796072,212773359,0,False,primary,Wolf Street,145.38,2,,,30 mph,,,,,,,20138411,US 11
+212796072,212796075,0,False,primary,North Salina Street,107.204,2,,,,,,,,,,45739459,
+212796072,212796069,0,False,primary,North Salina Street,146.396,2,,,30 mph,,,,,,,347338311,US 11
+212796075,212773361,0,False,residential,Exchange Place,145.86,,,,,,,,,,,20139096,
+212796075,212796072,0,False,primary,North Salina Street,107.204,2,,,,,,,,,,45739459,
+212803729,213059902,0,False,secondary,Court Street,124.8,2,,,,,,,,,,249488955,NY 298
+212803729,213097261,0,False,secondary,Court Street,26.158,2,,,,,,,,,,249488955,NY 298
+212820972,212857048,0,False,residential,1st North Street,139.77,,,,,,,,,,,249138840,
+212820972,213014169,0,False,tertiary,Hiawatha Boulevard East,150.177,2,,,,,,,,,,317569539,
+212820972,213014166,0,False,tertiary,Hiawatha Boulevard East,153.864,2,,,,,,,,,,317569539,
+212824795,212796069,0,False,residential,Lemoyne Avenue,84.598,,,,,,,,,,,20128178,
+212824795,212773499,0,True,unclassified,Washington Square,122.323,,,,,,,,,,,20147092,
+212824803,212824804,0,False,residential,Lemoyne Avenue,83.877,,,,,,,,,,,20128184,
+212824803,212890933,0,True,unclassified,Washington Square,60.261,,,,,,,,,,,20147092,
+212824804,212824805,0,False,residential,Lemoyne Avenue,146.374,,,,,,,,,,,20128184,
+212824804,212824803,0,False,residential,Lemoyne Avenue,83.877,,,,,,,,,,,20128184,
+212824804,212890946,0,False,residential,Carbon Street,74.431,,,,,,,,,,,20136349,
+212824804,212912919,0,False,residential,Carbon Street,71.505,,,,,,,,,,,20136349,
+212824805,212824807,0,False,residential,Lemoyne Avenue,152.108,,,,,,,,,,,20128184,
+212824805,212824804,0,False,residential,Lemoyne Avenue,146.374,,,,,,,,,,,20128184,
+212824805,212858548,0,False,residential,Spring Street,145.908,,,,,,,,,,,20146797,
+212824805,212976651,0,False,residential,Spring Street,145.533,,,,,,,,,,,20146797,
+212824807,212824809,0,False,residential,Lemoyne Avenue,151.117,,,,,,,,,,,20128184,
+212824807,212824805,0,False,residential,Lemoyne Avenue,152.108,,,,,,,,,,,20128184,
+212824807,212857048,0,False,residential,1st North Street,146.264,,,,,,,,,,,249138840,
+212824807,212857045,0,False,residential,1st North Street,145.392,,,,,,,,,,,249138840,
+212824809,212824812,0,False,residential,Lemoyne Avenue,154.136,,,,,,,,,,,20128184,
+212824809,212824807,0,False,residential,Lemoyne Avenue,151.117,,,,,,,,,,,20128184,
+212824809,212858552,0,False,residential,2nd North Street,145.25,,,,,,,,,,,20147476,
+212824809,212976654,0,False,residential,2nd North Street,145.915,,,,,,,,,,,20147476,
+212824812,212778111,0,False,residential,Lemoyne Avenue,74.805,,,,,,,,,,,20128184,
+212824812,212824809,0,False,residential,Lemoyne Avenue,154.136,,,,,,,,,,,20128184,
+212824812,212858557,0,False,tertiary,Grant Boulevard,145.244,2,,,,,,,,,,487814285,
+212824812,212930054,0,False,tertiary,Grant Boulevard,110.35,2,,,,,,,,,,487814285,
+212824815,212824817,0,False,residential,Lemoyne Avenue,60.955,,,,,,,,,,,20128184,
+212824815,212778111,0,False,residential,Lemoyne Avenue,75.546,,,,,,,,,,,20128184,
+212824815,212858561,0,False,residential,4th North Street,145.391,,,,,,,,,,,20141083,
+212824817,212824821,0,False,residential,Lemoyne Avenue,94.625,,,,,,,,,,,20128184,
+212824817,212824815,0,False,residential,Lemoyne Avenue,60.955,,,,,,,,,,,20128184,
+212824817,212930058,0,False,residential,Burdick Avenue,110.872,,,,,,,,,,,20147368,
+212824821,212824817,0,False,residential,Lemoyne Avenue,94.625,,,,,,,,,,,20128184,
+212824821,212881954,0,True,residential,Willumae Drive,60.603,,,,,,,,,,,525726246,
+212824821,212824831,0,False,residential,Lemoyne Avenue,281.146,,,,,,,,,,,20128184,
+212824821,5116161133,0,False,residential,Stedman Street,65.447,,,,,,,,,,,20150260,
+212824821,212929432,0,False,residential,Willumae Drive,285.265,,,,,,,,,,,249138788,
+212824831,212944175,0,False,tertiary,7th North Street,66.997,2,,,30 mph,,,,,,,20138546,
+212824831,212824821,0,False,residential,Lemoyne Avenue,281.146,,,,,,,,,,,20128184,
+212824831,212944181,0,False,tertiary,7th North Street,138.287,2,,,30 mph,,,,,,,20138546,
+212841072,212766635,0,False,residential,6th North Street,57.963,,,,,,,,,,,20129672,
+212841072,212944181,0,False,residential,Stedman Street,126.164,,,,,,,,,,,20150260,
+212841072,5116161133,0,False,residential,Stedman Street,87.933,,,,,,,,,,,20150260,
+212841078,212941822,0,False,primary,Wolf Street,162.347,2,,,30 mph,,,,,,,20138411,US 11
+212841078,212841090,0,False,residential,6th North Street,149.962,,,,,,,,,,,20129672,
+212841078,212766635,0,False,residential,6th North Street,75.576,,,,,,,,,,,20129672,
+212841078,212858567,0,False,primary,Wolf Street,153.541,2,,,30 mph,,,,,,,20138411,US 11
+212841090,212841078,0,False,residential,6th North Street,149.962,,,,,,,,,,,20129672,
+212841090,212944184,0,False,tertiary,Hiawatha Boulevard East,201.691,2,,,,,,,,,,139750705,
+212841090,212984383,0,False,tertiary,Hiawatha Boulevard East,186.397,2,,,,,,,,,,317569539,
+212857042,212857044,0,False,residential,1st North Street,145.679,,,,,,,,,,,249138840,
+212857042,213048835,0,False,secondary,Court Street,153.477,2,,,,,,,,,,249488955,NY 298
+212857042,213059902,0,False,secondary,Court Street,150.86,2,,,,,,,,,,249488955,NY 298
+212857044,212857045,0,False,residential,1st North Street,140.852,,,,,,,,,,,249138840,
+212857044,212857042,0,False,residential,1st North Street,145.679,,,,,,,,,,,249138840,
+212857044,213059909,0,False,residential,Turtle Street,150.645,,,,,,,,,,,20148109,
+212857044,213048838,0,False,residential,Turtle Street,154.193,,,,,,,,,,,20148109,
+212857045,212976654,0,False,residential,Bear Street,149.495,,,,,,,,,,,97528877,
+212857045,212976651,0,False,residential,Bear Street,154.196,,,,,,,,,,,97528877,
+212857045,212857044,0,False,residential,1st North Street,140.852,,,,,,,,,,,249138840,
+212857045,212824807,0,False,residential,1st North Street,145.392,,,,,,,,,,,249138840,
+212857048,212858552,0,False,primary,Wolf Street,152.809,2,,,30 mph,,,,,,,20138411,US 11
+212857048,212858548,0,False,primary,Wolf Street,149.241,2,,,30 mph,,,,,,,20138411,US 11
+212857048,212820972,0,False,residential,1st North Street,139.77,,,,,,,,,,,249138840,
+212857048,212824807,0,False,residential,1st North Street,146.264,,,,,,,,,,,249138840,
+212858544,212890946,0,False,residential,Carbon Street,71.441,,,,,,,,,,,20136349,
+212858544,212858548,0,False,primary,Wolf Street,146.608,2,,,30 mph,,,,,,,20138411,US 11
+212858544,212773359,0,False,primary,Wolf Street,148.228,2,,,30 mph,,,,,,,20138411,US 11
+212858544,212912924,0,False,residential,Carbon Street,139.228,,,,,,,,,,,20136349,
+212858548,212857048,0,False,primary,Wolf Street,149.241,2,,,30 mph,,,,,,,20138411,US 11
+212858548,212858544,0,False,primary,Wolf Street,146.608,2,,,30 mph,,,,,,,20138411,US 11
+212858548,213014166,0,False,residential,Spring Street,139.635,,,,,,,,,,,20146797,
+212858548,212824805,0,False,residential,Spring Street,145.908,,,,,,,,,,,20146797,
+212858552,212858557,0,False,primary,Wolf Street,152.614,2,,,30 mph,,,,,,,20138411,US 11
+212858552,212857048,0,False,primary,Wolf Street,152.809,2,,,30 mph,,,,,,,20138411,US 11
+212858552,213014169,0,False,residential,2nd North Street,140.152,,,,,,,,,,,20147476,
+212858552,212824809,0,False,residential,2nd North Street,145.25,,,,,,,,,,,20147476,
+212858557,212778115,0,False,primary,Wolf Street,76.736,2,,,30 mph,,,,,,,20138411,US 11
+212858557,212858552,0,False,primary,Wolf Street,152.614,2,,,30 mph,,,,,,,20138411,US 11
+212858557,212740551,0,False,tertiary,Grant Boulevard,139.509,2,,,,,,,,,,487814285,
+212858557,212824812,0,False,tertiary,Grant Boulevard,145.244,2,,,,,,,,,,487814285,
+212858561,212858563,0,False,primary,Wolf Street,117.444,2,,,30 mph,,,,,,,20138411,US 11
+212858561,212778115,0,False,primary,Wolf Street,75.565,2,,,30 mph,,,,,,,20138411,US 11
+212858561,212978303,0,False,residential,4th North Street,139.72,,,,,,,,,,,20141083,
+212858561,212824815,0,False,residential,4th North Street,145.391,,,,,,,,,,,20141083,
+212858563,212858567,0,False,primary,Wolf Street,35.188,2,,,30 mph,,,,,,,20138411,US 11
+212858563,212858561,0,False,primary,Wolf Street,117.444,2,,,30 mph,,,,,,,20138411,US 11
+212858563,212984383,0,False,residential,Hiawatha Place,139.827,,,,,,,,,,,20141562,
+212858567,212858563,0,False,primary,Wolf Street,35.188,2,,,30 mph,,,,,,,20138411,US 11
+212858567,212841078,0,False,primary,Wolf Street,153.541,2,,,30 mph,,,,,,,20138411,US 11
+212858567,212881954,0,False,residential,Willumae Drive,85.765,,,,,,,,,,,525726245,
+212881954,212766635,0,False,residential,Gannett Alley,154.0,,,,,,,,,,,20133550,
+212881954,212858567,0,False,residential,Willumae Drive,85.765,,,,,,,,,,,525726245,
+212890933,212773357,0,True,unclassified,Washington Square,56.118,,,,,,,,,,,20147092,
+212890946,212858544,0,False,residential,Carbon Street,71.441,,,,,,,,,,,20136349,
+212890946,212824804,0,False,residential,Carbon Street,74.431,,,,,,,,,,,20136349,
+212890946,212890933,0,True,residential,Commonwealth Avenue,96.325,,,,,,,,,,,20134511,
+212911704,212911705,0,False,residential,Fordland Avenue,10.09,,,,,,,,,,,20136262,
+212911704,212929403,0,True,residential,Willumae Drive,76.49,,,,,,,,,,,20137617,
+212911705,212911704,0,False,residential,Fordland Avenue,10.09,,,,,,,,,,,20136262,
+212911705,212929425,0,True,residential,Willumae Drive,92.962,,,,,,,,,,,20137621,
+212911705,212911714,0,False,residential,Fordland Avenue,133.634,,,,,,,,,,,20136262,
+212911714,212911705,0,False,residential,Fordland Avenue,133.634,,,,,,,,,,,20136262,
+212911714,212944159,0,False,tertiary,7th North Street,135.526,2,,,30 mph,,,,,,,20138546,
+212912912,212912915,0,False,residential,Carbon Street,145.364,,,,,,,,,,,20136349,
+212912912,212773489,0,False,secondary,Court Street,145.323,2,,,,,,,,,,249488955,NY 298
+212912912,213048835,0,False,secondary,Court Street,146.18,2,,,,,,,,,,249488955,NY 298
+212912915,212912917,0,False,residential,Carbon Street,141.943,,,,,,,,,,,20136349,
+212912915,212912912,0,False,residential,Carbon Street,145.364,,,,,,,,,,,20136349,
+212912915,212773492,0,False,residential,Turtle Street,145.439,,,,,,,,,,,20148109,
+212912915,213048838,0,False,residential,Turtle Street,144.559,,,,,,,,,,,20148109,
+212912917,212912919,0,False,residential,Carbon Street,73.767,,,,,,,,,,,20136349,
+212912917,212912915,0,False,residential,Carbon Street,141.943,,,,,,,,,,,20136349,
+212912917,212976651,0,False,residential,Bear Street,144.229,,,,,,,,,,,97528877,
+212912917,212773494,0,False,residential,Bear Street,145.907,,,,,,,,,,,97528877,
+212912919,212824804,0,False,residential,Carbon Street,71.505,,,,,,,,,,,20136349,
+212912919,212912917,0,False,residential,Carbon Street,73.767,,,,,,,,,,,20136349,
+212912919,213053838,0,False,residential,Lacy Place,94.148,,,,,,,,,,,20148688,
+212912924,213014166,0,False,tertiary,Hiawatha Boulevard East,146.005,2,,,,,,,,,,317569539,
+212912924,212858544,0,False,residential,Carbon Street,139.228,,,,,,,,,,,20136349,
+212912924,212773366,0,False,tertiary,Hiawatha Boulevard East,144.745,"['4', '2']",,,,,,,,,,"[317569539, 97536093]",
+212929403,213050980,0,False,secondary,Court Street,8.836,2,,,,,,,,,,249488955,NY 298
+212929403,212929419,0,False,secondary,Court Street,8.318,2,,,,,,,,,,249488955,NY 298
+212929407,212911704,0,True,residential,Willumae Drive,92.942,,,,,,,,,,,20137617,
+212929407,212929425,0,False,residential,Cadillac Street,10.461,,,,,,,,,,,20144106,
+212929414,212929432,0,False,residential,Willumae Drive,7.875,,,,,,,,,,,249138788,
+212929414,212929407,0,True,residential,Willumae Drive,106.371,,,,,,,,,,,20137617,
+212929419,212929403,0,False,secondary,Court Street,8.318,2,,,,,,,,,,249488955,NY 298
+212929419,212944159,0,False,secondary,Court Street,117.827,2,,,,,,,,,,249488955,NY 298
+212929419,212911705,0,True,residential,Willumae Drive,81.789,,,,,,,,,,,20137621,
+212929425,212929407,0,False,residential,Cadillac Street,10.461,,,,,,,,,,,20144106,
+212929425,212929414,0,True,residential,Willumae Drive,106.386,,,,,,,,,,,20137621,
+212929432,213058598,0,False,residential,Turtle Street,92.615,,,,,,,,,,,20148109,
+212929432,212929414,0,False,residential,Willumae Drive,7.875,,,,,,,,,,,249138788,
+212929432,212824821,0,False,residential,Willumae Drive,285.265,,,,,,,,,,,249138788,
+212929432,212944171,0,False,residential,Turtle Street,197.204,2,,,,,,,,,,533677775,
+212930054,212976659,0,False,tertiary,Grant Boulevard,35.189,2,,,,,,,,,,487814285,
+212930054,212930058,0,False,residential,Murray Avenue,211.853,2,,,,,,,,,,20137675,
+212930054,212824812,0,False,tertiary,Grant Boulevard,110.35,2,,,,,,,,,,487814285,
+212930058,213047910,0,False,residential,Burdick Avenue,85.675,,,,,,,,,,,20147368,
+212930058,212930054,0,False,residential,Murray Avenue,211.853,2,,,,,,,,,,20137675,
+212930058,212824817,0,False,residential,Burdick Avenue,110.872,,,,,,,,,,,20147368,
+212941822,212841078,0,False,primary,Wolf Street,162.347,2,,,30 mph,,,,,,,20138411,US 11
+212941822,212944184,0,False,tertiary,7th North Street,167.07,2,,,30 mph,,,,,,,139750911,
+212941822,212944181,0,False,tertiary,7th North Street,133.83,2,,,30 mph,,,,,,,20138546,
+212944159,212929419,0,False,secondary,Court Street,117.827,2,,,,,,,,,,249488955,NY 298
+212944159,212911714,0,False,tertiary,7th North Street,135.526,2,,,30 mph,,,,,,,20138546,
+212944171,212944175,0,False,tertiary,7th North Street,85.584,2,,,30 mph,,,,,,,20138546,
+212944171,212929432,0,False,residential,Turtle Street,197.204,2,,,,,,,,,,533677775,
+212944175,212824831,0,False,tertiary,7th North Street,66.997,2,,,30 mph,,,,,,,20138546,
+212944175,212944171,0,False,tertiary,7th North Street,85.584,2,,,30 mph,,,,,,,20138546,
+212944175,212988991,0,False,residential,Bellshire Lane,109.832,,,,,,,,,,,20141868,
+212944181,212941822,0,False,tertiary,7th North Street,133.83,2,,,30 mph,,,,,,,20138546,
+212944181,212824831,0,False,tertiary,7th North Street,138.287,2,,,30 mph,,,,,,,20138546,
+212944181,212841072,0,False,residential,Stedman Street,126.164,,,,,,,,,,,20150260,
+212944184,212941822,0,False,tertiary,7th North Street,167.07,2,,,30 mph,,,,,,,139750911,
+212944184,212841090,0,False,tertiary,Hiawatha Boulevard East,201.691,2,,,,,,,,,,139750705,
+212956124,212751456,0,False,secondary,Court Street,6.693,2,,,,,,,,,,249488955,NY 298
+212956124,213058584,0,False,secondary,Court Street,112.302,2,,,,,,,,,,249488955,NY 298
+212956124,212956139,0,False,residential,Brace Street,162.351,,,,,,,,,,,20139435,
+212956139,213058608,0,False,residential,Turtle Street,79.764,,,,,,,,,,,20148109,
+212956139,212956124,0,False,residential,Brace Street,162.351,,,,,,,,,,,20139435,
+212956139,213070729,0,False,residential,Turtle Street,130.58,,,,,,,,,,,20148109,
+212970034,212970037,0,False,residential,Pastime Drive,145.839,,,,,,,,,,,20140553,
+212970034,212784773,0,False,secondary,Court Street,74.632,2,,,,,,,,,,249488955,NY 298
+212970034,212773489,0,False,secondary,Court Street,75.997,2,,,,,,,,,,249488955,NY 298
+212970037,212970034,0,False,residential,Pastime Drive,145.839,,,,,,,,,,,20140553,
+212970037,212773492,0,False,residential,Turtle Street,74.866,,,,,,,,,,,20148109,
+212970037,212796063,0,False,residential,Turtle Street,71.198,,,,,,,,,,,20148109,
+212976651,212857045,0,False,residential,Bear Street,154.196,,,,,,,,,,,97528877,
+212976651,212912917,0,False,residential,Bear Street,144.229,,,,,,,,,,,97528877,
+212976651,212824805,0,False,residential,Spring Street,145.533,,,,,,,,,,,20146797,
+212976651,213048838,0,False,residential,Spring Street,140.658,,,,,,,,,,,20146797,
+212976654,212857045,0,False,residential,Bear Street,149.495,,,,,,,,,,,97528877,
+212976654,212824809,0,False,residential,2nd North Street,145.915,,,,,,,,,,,20147476,
+212976654,213059909,0,False,residential,2nd North Street,141.808,,,,,,,,,,,20147476,
+212976654,212976659,0,False,residential,Bear Street,155.34,,,,,,,,,,,97528877,
+212976659,212930054,0,False,tertiary,Grant Boulevard,35.189,2,,,,,,,,,,487814285,
+212976659,213047902,0,False,tertiary,Grant Boulevard,52.125,2,,,,,,,,,,487814285,
+212976659,212976654,0,False,residential,Bear Street,155.34,,,,,,,,,,,97528877,
+212978303,212740551,0,False,tertiary,Hiawatha Boulevard East,152.184,2,,,,,,,,,,317569539,
+212978303,212858561,0,False,residential,4th North Street,139.72,,,,,,,,,,,20141083,
+212978303,212984383,0,False,tertiary,Hiawatha Boulevard East,121.091,2,,,,,,,,,,317569539,
+212984383,212858563,0,False,residential,Hiawatha Place,139.827,,,,,,,,,,,20141562,
+212984383,212841090,0,False,tertiary,Hiawatha Boulevard East,186.397,2,,,,,,,,,,317569539,
+212984383,212978303,0,False,tertiary,Hiawatha Boulevard East,121.091,2,,,,,,,,,,317569539,
+212988991,212944175,0,False,residential,Bellshire Lane,109.832,,,,,,,,,,,20141868,
+213014166,212820972,0,False,tertiary,Hiawatha Boulevard East,153.864,2,,,,,,,,,,317569539,
+213014166,212912924,0,False,tertiary,Hiawatha Boulevard East,146.005,2,,,,,,,,,,317569539,
+213014166,212858548,0,False,residential,Spring Street,139.635,,,,,,,,,,,20146797,
+213014169,212740551,0,False,tertiary,Hiawatha Boulevard East,152.964,2,,,,,,,,,,317569539,
+213014169,212820972,0,False,tertiary,Hiawatha Boulevard East,150.177,2,,,,,,,,,,317569539,
+213014169,212858552,0,False,residential,2nd North Street,140.152,,,,,,,,,,,20147476,
+213047902,212976659,0,False,tertiary,Grant Boulevard,52.125,2,,,,,,,,,,487814285,
+213047902,213047910,0,False,residential,Arnts Place,212.003,,,,,,,,,,,20146742,
+213047902,213070729,0,False,tertiary,Grant Boulevard,89.687,2,,,,,,,,,,487814285,
+213047910,212930058,0,False,residential,Burdick Avenue,85.675,,,,,,,,,,,20147368,
+213047910,213047902,0,False,residential,Arnts Place,212.003,,,,,,,,,,,20146742,
+213047910,213058608,0,False,residential,Burdick Avenue,88.388,,,,,,,,,,,20147368,
+213048835,213048838,0,False,residential,Spring Street,146.503,,,,,,,,,,,20146797,
+213048835,212912912,0,False,secondary,Court Street,146.18,2,,,,,,,,,,249488955,NY 298
+213048835,212857042,0,False,secondary,Court Street,153.477,2,,,,,,,,,,249488955,NY 298
+213048838,213048835,0,False,residential,Spring Street,146.503,,,,,,,,,,,20146797,
+213048838,212976651,0,False,residential,Spring Street,140.658,,,,,,,,,,,20146797,
+213048838,212857044,0,False,residential,Turtle Street,154.193,,,,,,,,,,,20148109,
+213048838,212912915,0,False,residential,Turtle Street,144.559,,,,,,,,,,,20148109,
+213050980,213058584,0,False,secondary,Court Street,130.31,2,,,,,,,,,,249488955,NY 298
+213050980,212929403,0,False,secondary,Court Street,8.836,2,,,,,,,,,,249488955,NY 298
+213053838,212824803,0,True,unclassified,Washington Square,58.564,,,,,,,,,,,20147092,
+213053838,212912919,0,False,residential,Lacy Place,94.148,,,,,,,,,,,20148688,
+213058584,212956124,0,False,secondary,Court Street,112.302,2,,,,,,,,,,249488955,NY 298
+213058584,213050980,0,False,secondary,Court Street,130.31,2,,,,,,,,,,249488955,NY 298
+213058584,213058598,0,False,residential,Burdick Avenue,220.09,,,,,,,,,,,20147367,
+213058598,212929432,0,False,residential,Turtle Street,92.615,,,,,,,,,,,20148109,
+213058598,213058608,0,False,residential,Turtle Street,10.202,,,,,,,,,,,20148109,
+213058598,213058584,0,False,residential,Burdick Avenue,220.09,,,,,,,,,,,20147367,
+213058608,213058598,0,False,residential,Turtle Street,10.202,,,,,,,,,,,20148109,
+213058608,212956139,0,False,residential,Turtle Street,79.764,,,,,,,,,,,20148109,
+213058608,213047910,0,False,residential,Burdick Avenue,88.388,,,,,,,,,,,20147368,
+213059902,212857042,0,False,secondary,Court Street,150.86,2,,,,,,,,,,249488955,NY 298
+213059902,212803729,0,False,secondary,Court Street,124.8,2,,,,,,,,,,249488955,NY 298
+213059902,213059909,0,False,residential,2nd North Street,145.381,,,,,,,,,,,20147476,
+213059909,212976654,0,False,residential,2nd North Street,141.808,,,,,,,,,,,20147476,
+213059909,213059902,0,False,residential,2nd North Street,145.381,,,,,,,,,,,20147476,
+213059909,213070729,0,False,residential,Turtle Street,157.28,,,,,,,,,,,20148109,
+213059909,212857044,0,False,residential,Turtle Street,150.645,,,,,,,,,,,20148109,
+213070729,213097653,0,False,tertiary,Grant Boulevard,6.39,2,,,,,,,,,,487814285,
+213070729,212956139,0,False,residential,Turtle Street,130.58,,,,,,,,,,,20148109,
+213070729,213059909,0,False,residential,Turtle Street,157.28,,,,,,,,,,,20148109,
+213070729,213047902,0,False,tertiary,Grant Boulevard,89.687,2,,,,,,,,,,487814285,
+213097261,212803729,0,False,secondary,Court Street,26.158,2,,,,,,,,,,249488955,NY 298
+213097261,213097265,0,False,secondary,Court Street,41.802,2,,,,,,,,,,249488955,NY 298
+213097261,212757399,0,False,residential,Grant Boulevard,85.805,,,,,,,,,,,249138783,
+213097265,212751453,0,False,tertiary,Grant Boulevard,39.651,2,,,,,,,,,,226009118,
+213097265,213097261,0,False,secondary,Court Street,41.802,2,,,,,,,,,,249488955,NY 298
+213097265,212751456,0,False,secondary,Court Street,51.623,2,,,,,,,,,,249488955,NY 298
+213097653,213070729,0,False,tertiary,Grant Boulevard,6.39,2,,,,,,,,,,487814285,
+213097653,212757403,0,False,tertiary,Grant Boulevard,45.352,2,,,,,,,,,,487814285,
+213097653,212757399,0,True,residential,Grant Boulevard,55.555,,,,,,,,,,,20149753,
+5116161133,212841072,0,False,residential,Stedman Street,87.933,,,,,,,,,,,20150260,
+5116161133,212824821,0,False,residential,Stedman Street,65.447,,,,,,,,,,,20150260,
+5116161133,5116161134,0,False,residential,Upper Stedman Street,143.147,,,,,,,,,,,526009407,
+5116161134,5116161133,0,False,residential,Upper Stedman Street,143.147,,,,,,,,,,,526009407,

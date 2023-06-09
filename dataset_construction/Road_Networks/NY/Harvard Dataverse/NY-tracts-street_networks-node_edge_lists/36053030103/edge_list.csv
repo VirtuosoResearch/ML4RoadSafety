@@ -1,0 +1,459 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+212535352,212535354,0,False,residential,,20.677,,,,,,,,,,,20105000,
+212535352,212535354,1,False,residential,Skenondoa Way,64.431,,,,,,,,,,,20110028,
+212535352,212598532,0,False,residential,Skenondoa Way,261.712,,,,,,,,,,,20110028,
+212535354,212535352,0,False,residential,,20.677,,,,,,,,,,,20105000,
+212535354,212535352,1,False,residential,Skenondoa Way,64.431,,,,,,,,,,,20110028,
+212535354,212569469,0,False,residential,Skenondoa Way,292.59,,,,,,,,,,,20110028,
+212536827,212536862,0,False,residential,,209.145,,,,,,,,,,,20105194,
+212536827,212554583,0,False,tertiary,Kenwood Avenue,47.587,,,,,,,,,,,180201865,CR 51
+212536827,212627172,0,False,tertiary,Kenwood Avenue,90.223,,,,,,,,,,,180201865,CR 51
+212536862,212627166,0,False,tertiary,Kenwood Avenue,21.294,,,,,,,,,,,180201865,CR 51
+212536862,212536827,0,False,residential,,209.145,,,,,,,,,,,20105194,
+212536862,212627172,0,False,tertiary,Kenwood Avenue,86.28,,,,,,,,,,,180201865,CR 51
+212536868,212536883,0,False,residential,,116.75,,,,,,,,,,,20105197,
+212536868,2351129498,0,False,tertiary,Mount Hope Avenue,426.681,,,,,,,,,,,20108020,CR 100
+212536868,212548734,0,False,tertiary,Mount Hope Avenue,158.224,,,,,,,,,,,20108020,CR 100
+212536883,212536903,0,False,residential,,152.563,,,,,,,,,,,20105197,
+212536883,212536868,0,False,residential,,116.75,,,,,,,,,,,20105197,
+212536883,212548734,0,False,residential,,219.023,,,,,,,,,,,20106550,
+212536903,212536883,0,False,residential,,152.563,,,,,,,,,,,20105197,
+212536924,212536926,0,False,residential,,132.256,,,,,,,,,,,20105203,
+212536924,212564465,0,False,tertiary,Middle Road,348.396,,,,,,,,,,,20107922,CR 33
+212536924,212550823,0,False,tertiary,Middle Road,319.02,,,,,,,,,,,20107922,CR 33
+212536926,212536924,0,False,residential,,132.256,,,,,,,,,,,20105203,
+212538686,212538948,0,False,secondary,Lenox Avenue,270.287,"['4', '2', '3']",,,45 mph,,,,,,,"[318382153, 318382154, 479716571, 479716570]",NY 365A
+212538686,212562841,0,False,secondary,Lenox Avenue,70.792,4,,,45 mph,,,,,,,318382155,NY 365A
+212538695,212562841,0,False,primary,Genesee Street,64.595,3,,,45 mph,,,,,,,318382148,NY 5
+212538695,212538686,0,True,primary_link,,42.088,1,,,,,,,,,,20105415,
+212538695,212562158,0,False,primary,Genesee Street,1717.208,"['2', '3']",,,45 mph,,,,,,,"[318382148, 318382143]",NY 5
+212538948,212538935,0,True,secondary_link,,72.193,,,,,,,,,,,20105450,
+212538948,212668627,0,False,secondary,Lenox Avenue,1158.928,"['4', '2', '3']",,,45 mph,,,,,,,"[347253953, 347253954, 347253955]",NY 365A
+212538948,212538686,0,False,secondary,Lenox Avenue,270.287,"['4', '2', '3']",,,45 mph,,,,,,,"[318382153, 479716570, 479716571, 318382154]",NY 365A
+212541349,2351129498,0,False,residential,,468.89,,,,,,,,,,,20105768,
+212541361,212632984,0,False,residential,Glenwood Circle,167.232,,,,,,,,,,,"[20112256, 20105771]",
+212541479,212568956,0,False,residential,North Lake Street,63.876,,,,,,,,,,,20108186,
+212541479,212541488,0,False,residential,,23.307,,,,,,,,,,,20105794,
+212541479,212560297,0,False,residential,North Lake Street,203.414,,,,,,,,,,,20108186,
+212541488,212568956,0,False,residential,Oneida Street,64.736,,,,,no,,,,,,20114444,
+212541488,212541479,0,False,residential,,23.307,,,,,,,,,,,20105794,
+212542639,212564465,0,False,tertiary,Middle Road,184.188,,,,,,,,,,,20107922,CR 33
+212542639,212542650,0,False,residential,,149.477,,,,,,,,,,,20105932,
+212542639,212546532,0,False,tertiary,Middle Road,437.474,,,,,,,,,,,20107922,CR 33
+212542650,212542639,0,False,residential,,149.477,,,,,,,,,,,20105932,
+212544174,212579305,0,False,residential,Stone Street,127.763,,,,,,,,,,,20110791,
+212544174,212569302,0,False,residential,Stone Street,56.256,,,,,,,,,,,20110791,
+212544174,212544179,0,False,residential,,118.575,,,,,,,,,,,20106073,
+212544179,212579313,0,False,secondary,Lenox Avenue,127.751,2,,,30 mph,,,,,,,139470116,NY 365A
+212544179,212544174,0,False,residential,,118.575,,,,,,,,,,,20106073,
+212544179,212594943,0,False,secondary,Lenox Avenue,647.687,"['4', '2']",,,"['30 mph', '45 mph']",,,,,,,"[347253954, 139470116, 309506335]",NY 365A
+212544971,212545016,0,False,residential,,266.961,,,,,,,,,,,20106163,
+212544971,212558291,0,False,residential,Hubbard Place,159.518,,,,,,,,,,,20107573,
+212544971,212558247,0,False,residential,Hubbard Place,706.045,,,,,,,,,,,20107573,
+212545016,212544971,0,False,residential,,266.961,,,,,,,,,,,20106163,
+212546496,212564465,0,False,residential,Johnson Gravel Bed,363.002,,,,,,,,,,,20110011,
+212546518,212546532,0,False,residential,,263.972,,,,,,,,,,,502140082,
+212546532,212542639,0,False,tertiary,Middle Road,437.474,,,,,,,,,,,20107922,CR 33
+212546532,212546518,0,False,residential,,263.972,,,,,,,,,,,502140082,
+212548734,212536883,0,False,residential,,219.023,,,,,,,,,,,20106550,
+212548734,212536868,0,False,tertiary,Mount Hope Avenue,158.224,,,,,,,,,,,20108020,CR 100
+212548734,212553614,0,False,tertiary,Mount Hope Avenue,458.854,,,,,,,,,,,20108020,CR 100
+212548918,212548972,0,False,residential,,410.064,,,,,,,,,,,20106578,
+212548918,212548972,1,False,secondary,Glenwood Avenue,107.275,2,,,,,,,,,,20109990,NY 46
+212548918,212580603,0,False,secondary,Glenwood Avenue,159.648,2,,,,,,,,,,20109990,NY 46
+212548918,212554155,0,False,tertiary,Fairview Avenue,797.965,,,,,,,,,,,20114730,CR 18
+212548972,212548918,0,False,residential,,410.064,,,,,,,,,,,20106578,
+212548972,212548918,1,False,secondary,Glenwood Avenue,107.275,2,,,,,,,,,,20109990,NY 46
+212548972,212597612,0,False,secondary,Glenwood Avenue,947.976,2,,,,,,,,,,20109990,NY 46
+212549273,212549286,0,False,residential,,66.665,,,,,,,,,,,20106618,
+212549273,212613474,0,False,tertiary,Union Street,149.834,,,,,,,,,,,20112883,CR 44
+212549273,212598620,0,False,tertiary,Union Street,623.021,,,,,,,,,,,20112883,CR 44
+212549286,212549289,0,False,residential,,68.276,,,,,,,,,,,20106618,
+212549286,212549273,0,False,residential,,66.665,,,,,,,,,,,20106618,
+212549286,212549309,0,False,residential,,111.015,,,,,,,,,,,20106619,
+212549289,212549286,0,False,residential,,68.276,,,,,,,,,,,20106618,
+212549309,212549286,0,False,residential,,111.015,,,,,,,,,,,20106619,
+212550823,212550836,0,False,residential,,247.913,,,,,,,,,,,20106757,
+212550823,212536924,0,False,tertiary,Middle Road,319.02,,,,,,,,,,,20107922,CR 33
+212550823,212564436,0,False,tertiary,Middle Road,722.396,,,,,,,,,,,20107922,CR 33
+212550836,212550823,0,False,residential,,247.913,,,,,,,,,,,20106757,
+212553206,212569302,0,False,residential,Birchwood Drive,492.61,,,,,,,,,,,20108202,
+212553206,212579291,0,False,residential,Sayles Street,245.552,,,,,,,,,,,20108833,
+212553206,212579282,0,False,residential,Sayles Street,133.759,,,,,,,,,,,20108833,
+212553614,212566142,0,False,tertiary,Mount Hope Avenue,65.175,,,,,,,,,,,20108020,CR 100
+212553614,212553619,0,False,residential,,82.444,,,,,,,,,,,20107088,
+212553614,212548734,0,False,tertiary,Mount Hope Avenue,458.854,,,,,,,,,,,20108020,CR 100
+212553619,212553614,0,False,residential,,82.444,,,,,,,,,,,20107088,
+212553688,212642564,0,False,secondary,State Route 46,110.807,2,,,,,,,,,,20115194,NY 46
+212553688,212553692,0,False,residential,,94.461,,,,,,,,,,,20107097,
+212553688,212566188,0,False,secondary,State Route 46,219.161,2,,,,,,,,,,20115194,NY 46
+212553692,212553688,0,False,residential,,94.461,,,,,,,,,,,20107097,
+212553704,212553711,0,False,residential,,334.292,,,,,,,,,,,20107102,
+212553704,212642564,0,False,secondary,State Route 46,325.862,2,,,,,,,,,,20115194,NY 46
+212553704,212676491,0,False,secondary,State Route 46,720.118,2,,,,,,,,,,20115194,NY 46
+212553711,212553704,0,False,residential,,334.292,,,,,,,,,,,20107102,
+212554155,212554160,0,False,residential,,188.306,,,,,,,,,,,20107153,
+212554155,212548918,0,False,tertiary,Fairview Avenue,797.965,,,,,,,,,,,20114730,CR 18
+212554155,212640620,0,False,tertiary,Fairview Avenue,539.458,,,,,,,,,,,20114730,CR 18
+212554160,212554155,0,False,residential,,188.306,,,,,,,,,,,20107153,
+212554239,212554241,0,False,residential,,66.454,,,,,,,,,,,243556439,
+212554241,212554239,0,False,residential,,66.454,,,,,,,,,,,243556439,
+212554241,212554241,0,False,residential,,480.642,,,,,,,,,,,"[20107162, 243556439]",
+212554241,212554241,1,False,residential,,480.642,,,,,,,,,,,"[20107162, 243556439]",
+212554583,212554586,0,False,residential,,119.069,,,,,,,,,,,20107201,
+212554583,212578432,0,False,tertiary,Kenwood Avenue,45.096,,,,,,,,,,,180201865,CR 51
+212554583,212536827,0,False,tertiary,Kenwood Avenue,47.587,,,,,,,,,,,180201865,CR 51
+212554586,212554583,0,False,residential,,119.069,,,,,,,,,,,20107201,
+212554729,212554736,0,False,residential,,153.432,,,,,,,,,,,20107215,
+212554729,212579268,0,False,primary,Genesee Street,53.37,2,,,45 mph,,,,,,,318382143,NY 5
+212554729,212667026,0,False,primary,Genesee Street,394.011,2,,,45 mph,,,,,,,318382143,NY 5
+212554736,212554729,0,False,residential,,153.432,,,,,,,,,,,20107215,
+212554736,212554736,0,False,residential,,338.218,,,,,,,,,,,20107217,
+212554736,212554736,1,False,residential,,338.218,,,,,,,,,,,20107217,
+212557644,212557660,0,False,residential,,110.015,,,,,,,,,,,20107518,
+212557660,212557644,0,False,residential,,110.015,,,,,,,,,,,20107518,
+212557660,212593715,0,False,residential,Fitch Street,162.076,,,,,,,,,,,20109799,
+212557660,212593695,0,False,residential,Fitch Street,871.734,,,,,,,,,,,20109799,
+212558247,212544971,0,False,residential,Hubbard Place,706.045,,,,,,,,,,,20107573,
+212558247,212681233,0,False,primary,Genesee Street,502.417,"['2', '3']",,,45 mph,,,,,,,"[318382140, 309506334]",NY 5
+212558247,212562841,0,False,primary,Genesee Street,214.981,3,,,45 mph,,,,,,,"[318382137, 318382150]",NY 5
+212558291,212544971,0,False,residential,Hubbard Place,159.518,,,,,,,,,,,20107573,
+212558291,212574425,0,False,tertiary,West Elm Street,1357.651,,,,,,,,,,,341460739,
+212558689,212564424,0,False,tertiary,Middle Road,1625.398,,,,,,,,,,,20107922,CR 33
+212559816,212559818,0,False,unclassified,Fields Drive,70.55,,,,,,,,,,,20107672,
+212559818,212559816,0,False,unclassified,Fields Drive,70.55,,,,,,,,,,,20107672,
+212559818,212559821,0,False,unclassified,Fields Drive,105.165,,,,,,,,,,,20107672,
+212559818,212562363,0,False,unclassified,Wayland Street,110.768,,,,,,,,,,,20108298,
+212559821,212559818,0,False,unclassified,Fields Drive,105.165,,,,,,,,,,,20107672,
+212559821,212562366,0,False,primary,Genesee Street,114.396,"['2', '3']",,,45 mph,,,,,,,"[318382144, 318382143]",NY 5
+212559821,212615717,0,False,primary,Genesee Street,632.023,2,,,45 mph,,,,,,,318382143,NY 5
+212559900,212563175,0,False,residential,South Willow Street,104.408,,,,,,,,,,,20107844,
+212559900,212563178,0,False,residential,South Willow Street,116.75,,,,,,,,,,,20107844,
+212560297,212560307,0,False,secondary,Lake Road,137.586,2,,,,,,,,,,20107699,NY 316
+212560297,212541479,0,False,residential,North Lake Street,203.414,,,,,,,,,,,20108186,
+212560307,212560320,0,False,secondary,Lake Road,204.093,2,,,,,,yes,,,,"[20107699, 83906716, 83906718]",NY 316
+212560307,212560297,0,False,secondary,Lake Road,137.586,2,,,,,,,,,,20107699,NY 316
+212560307,212702788,0,False,residential,"['Doran Road', 'Old N Main Street']",675.385,,,,,,,,,,,"[20111850, 20116814]",
+212560320,212560325,0,False,secondary,Lake Road,92.032,2,,,,,,,,,,83906718,NY 316
+212560320,212560307,0,False,secondary,Lake Road,204.093,2,,,,,,yes,,,,"[20107699, 83906716, 83906718]",NY 316
+212560320,212595544,0,False,tertiary,Canal Road,776.995,,,,,,,,,,,355199852,CR 76
+212560325,212560320,0,False,secondary,Lake Road,92.032,2,,,,,,,,,,83906718,NY 316
+212560325,212579464,0,False,residential,Tanner Road,93.56,,,,,,,,,,,20108840,
+212560325,212560337,0,False,secondary,Lake Road,1241.998,2,,,,,,,,,,83906718,NY 316
+212560337,212567814,0,False,residential,Betsinger Road,1400.878,,,,,,,,,,,20108132,
+212560337,212560399,0,False,secondary,Lake Road,1653.449,2,,,,,,,,,,83906718,NY 316
+212560337,212560325,0,False,secondary,Lake Road,1241.998,2,,,,,,,,,,83906718,NY 316
+212560399,212560337,0,False,secondary,Lake Road,1653.449,2,,,,,,,,,,83906718,NY 316
+212562158,212667026,0,False,primary,Genesee Street,80.613,2,,,45 mph,,,,,,,318382143,NY 5
+212562158,212562172,0,False,residential,Stoneliegh Road,181.677,,,,,,,,,,,20107782,
+212562158,212538695,0,False,primary,Genesee Street,1717.208,"['2', '3']",,,45 mph,,,,,,,"[318382148, 318382143]",NY 5
+212562172,212562174,0,False,residential,Stoneliegh Road,68.805,,,,,,,,,,,20107782,
+212562172,212562158,0,False,residential,Stoneliegh Road,181.677,,,,,,,,,,,20107782,
+212562172,212565017,0,False,residential,Hunt Valley Road,134.859,,,,,,,,,,,20107949,
+212562174,212562176,0,False,residential,Stoneliegh Road,143.024,,,,,,,,,,,20107782,
+212562174,212562172,0,False,residential,Stoneliegh Road,68.805,,,,,,,,,,,20107782,
+212562174,212669377,0,False,residential,Woodland Terrace,79.228,,,,,,,,,,,20114552,
+212562176,212562174,0,False,residential,Stoneliegh Road,143.024,,,,,,,,,,,20107782,
+212562176,212619700,0,False,residential,Patio Circle Drive,73.734,,,,,,,,,,,20107783,
+212562176,212565000,0,False,residential,Cedar Crest Lane,108.515,,,,,,,,,,,20110124,
+212562282,212562363,0,False,unclassified,Seneca Street,313.252,,,,,,,,,,,20107799,
+212562363,212562366,0,False,"['unclassified', 'residential']",Seneca Street,100.442,3,,,,,,,,,,"[318382169, 20107799]",
+212562363,212562282,0,False,unclassified,Seneca Street,313.252,,,,,,,,,,,20107799,
+212562363,212559818,0,False,unclassified,Wayland Street,110.768,,,,,,,,,,,20108298,
+212562366,212559821,0,False,primary,Genesee Street,114.396,"['2', '3']",,,45 mph,,,,,,,"[318382144, 318382143]",NY 5
+212562366,212572012,0,False,primary,Genesee Street,664.643,"['2', '3']",,,45 mph,,,,,,,"[318382133, 318382149]",NY 5
+212562366,212562363,0,False,"['unclassified', 'residential']",Seneca Street,100.442,3,,,,,,,,,,"[318382169, 20107799]",
+212562595,212562667,0,False,residential,Daniels Drive,38.204,,,,,,,,,,,20107814,
+212562595,212562644,0,False,residential,Daniels Drive,84.528,,,,,,,,,,,20107814,
+212562644,212562656,0,False,residential,Daniels Drive,63.332,,,,,,,,,,,20107811,
+212562644,212562595,0,False,residential,Daniels Drive,84.528,,,,,,,,,,,20107814,
+212562656,212562644,0,False,residential,Daniels Drive,63.332,,,,,,,,,,,20107811,
+212562667,212562595,0,False,residential,Daniels Drive,38.204,,,,,,,,,,,20107814,
+212562841,212538695,0,False,primary,Genesee Street,64.595,3,,,45 mph,,,,,,,318382148,NY 5
+212562841,212558247,0,False,primary,Genesee Street,214.981,3,,,45 mph,,,,,,,"[318382137, 318382150]",NY 5
+212562841,212538686,0,False,secondary,Lenox Avenue,70.792,4,,,45 mph,,,,,,,318382155,NY 365A
+212562894,212670345,0,False,residential,Crescent Avenue,11.529,,,,,,,,,,,20114624,
+212562894,212562935,0,False,residential,Wickens Road,358.04,,,,,,,,,,,20107831,
+212562894,212566142,0,False,residential,Crescent Avenue,1639.848,,,,,,,,,,,20114617,
+212562935,212562894,0,False,residential,Wickens Road,358.04,,,,,,,,,,,20107831,
+212562935,212670343,0,False,residential,Forest Avenue,271.178,,,,,,,,,,,20116062,
+212562935,212676491,0,False,residential,Forest Avenue,1747.136,,,,,,,,,,,276439954,
+212563175,212559900,0,False,residential,South Willow Street,104.408,,,,,,,,,,,20107844,
+212563175,212611180,0,False,residential,Stone Street,105.789,,,,,,,,,,,20110791,
+212563178,212559900,0,False,residential,South Willow Street,116.75,,,,,,,,,,,20107844,
+212563178,212571331,0,False,residential,North Willow Street,116.889,,,,,,,,,,,20116878,
+212563178,212579313,0,False,secondary,Lenox Avenue,332.036,2,,,30 mph,,,,,,,139470116,NY 365A
+212564424,212564436,0,False,tertiary,Middle Road,184.109,,,,,,,,,,,20107922,CR 33
+212564424,212558689,0,False,tertiary,Middle Road,1625.398,,,,,,,,,,,20107922,CR 33
+212564424,212582674,0,False,tertiary,"['Union Street', 'Cramer Avenue']",277.363,,,,,,,,,,,"[20112883, 20116487]",CR 44
+212564424,212611624,0,False,tertiary,Union Street,339.728,,,,,,,,,,,20112883,CR 44
+212564436,212550823,0,False,tertiary,Middle Road,722.396,,,,,,,,,,,20107922,CR 33
+212564436,212564424,0,False,tertiary,Middle Road,184.109,,,,,,,,,,,20107922,CR 33
+212564436,212582674,0,False,tertiary,Chapel Street,181.434,,,,,,,,,,,20109030,CR 44
+212564465,212542639,0,False,tertiary,Middle Road,184.188,,,,,,,,,,,20107922,CR 33
+212564465,212536924,0,False,tertiary,Middle Road,348.396,,,,,,,,,,,20107922,CR 33
+212564465,212546496,0,False,residential,Johnson Gravel Bed,363.002,,,,,,,,,,,20110011,
+212564978,2475169834,0,False,residential,Driftwood Drive,382.108,,,,,,,,,,,20107945,
+212564978,2475169854,0,False,residential,Willow Meadow Way,84.921,,,,,,,,,,,239744183,
+212564978,212668627,0,False,residential,Willow Meadow Way,110.017,,,,,,,,,,,239744183,
+212564997,212565000,0,False,residential,Driftwood Drive,100.626,,,,,,,,,,,20107945,
+212564997,2475169834,0,False,residential,Driftwood Drive,102.168,,,,,,,,,,,20107945,
+212564997,212565017,0,False,residential,Hunt Valley Road,183.178,,,,,,,,,,,20107949,
+212564997,212619727,0,False,residential,Hunt Valley Road,325.216,,,,,,,,,,,20111451,
+212565000,212564997,0,False,residential,Driftwood Drive,100.626,,,,,,,,,,,20107945,
+212565000,212562176,0,False,residential,Cedar Crest Lane,108.515,,,,,,,,,,,20110124,
+212565000,212619727,0,False,residential,Cedar Crest Lane,214.929,,,,,,,,,,,20116141,
+212565017,212564997,0,False,residential,Hunt Valley Road,183.178,,,,,,,,,,,20107949,
+212565017,212562172,0,False,residential,Hunt Valley Road,134.859,,,,,,,,,,,20107949,
+212565017,212651786,0,False,residential,Ryans Way,330.77,,,,,,,,,,,20113447,
+212566040,212566106,0,False,tertiary,Mount Hope Avenue,2067.907,,,,,,,,,,,20108020,CR 100
+212566040,212671449,0,False,residential,Abes Way,805.044,,,,,,,,,,,20115072,
+212566106,212566142,0,False,tertiary,Mount Hope Avenue,733.792,,,,,,,,,,,20108020,CR 100
+212566106,212566040,0,False,tertiary,Mount Hope Avenue,2067.907,,,,,,,,,,,20108020,CR 100
+212566142,212553614,0,False,tertiary,Mount Hope Avenue,65.175,,,,,,,,,,,20108020,CR 100
+212566142,212566106,0,False,tertiary,Mount Hope Avenue,733.792,,,,,,,,,,,20108020,CR 100
+212566142,212562894,0,False,residential,Crescent Avenue,1639.848,,,,,,,,,,,20114617,
+212566188,2351129498,0,False,tertiary,Mount Hope Avenue,626.477,,,,,,,,,,,20108020,CR 100
+212566188,212597606,0,False,secondary,"['Glenwood Avenue', 'State Route 46']",781.391,2,,,,,,,,,,"[20115194, 20109990]",NY 46
+212566188,212553688,0,False,secondary,State Route 46,219.161,2,,,,,,,,,,20115194,NY 46
+212567814,212590474,0,False,tertiary,Schoolheimer Road,319.002,,,,,,,,,,,20113963,CR 13
+212567814,212560337,0,False,residential,Betsinger Road,1400.878,,,,,,,,,,,20108132,
+212568956,212541479,0,False,residential,North Lake Street,63.876,,,,,,,,,,,20108186,
+212568956,212541488,0,False,residential,Oneida Street,64.736,,,,,no,,,,,,20114444,
+212568956,443190106,0,False,residential,Williams Street,384.347,,,,,,,,,,,37783391,
+212569302,212544174,0,False,residential,Stone Street,56.256,,,,,,,,,,,20110791,
+212569302,212553206,0,False,residential,Birchwood Drive,492.61,,,,,,,,,,,20108202,
+212569302,212594943,0,False,residential,Stone Street,637.558,,,,,,,,,,,20110791,
+212569453,212569455,0,False,residential,Dream Catcher Court,87.538,,,,,,,,,,,20108212,
+212569453,212598620,0,False,residential,Skenondoa Way,39.367,,,,,,,,,,,20110028,
+212569453,212598618,0,False,residential,Skenondoa Way,39.697,,,,,,,,,,,20110028,
+212569455,212569453,0,False,residential,Dream Catcher Court,87.538,,,,,,,,,,,20108212,
+212569469,212598511,0,False,residential,Skenondoa Way,48.341,,,,,,,,,,,20110028,
+212569469,212569484,0,False,residential,Dream Catcher Court,81.597,,,,,,,,,,,20108213,
+212569469,212598618,0,False,residential,Skenondoa Way,147.58,,,,,,,,,,,20110028,
+212569469,212535354,0,False,residential,Skenondoa Way,292.59,,,,,,,,,,,20110028,
+212569484,212569469,0,False,residential,Dream Catcher Court,81.597,,,,,,,,,,,20108213,
+212569550,212579291,0,False,residential,Sayles Street,82.322,,,,,,,,,,,20108833,
+212569550,212579305,0,False,residential,Sayles Street,117.349,,,,,,,,,,,20108833,
+212571331,212593732,0,False,residential,North Willow Street,80.441,,,,,,,,,,,20116878,
+212571331,212563178,0,False,residential,North Willow Street,116.889,,,,,,,,,,,20116878,
+212572012,212597651,0,False,primary,Genesee Street,153.552,"['2', '3']",,,45 mph,,,,,,,"[318382139, 318382133]",NY 5
+212572012,212562366,0,False,primary,Genesee Street,664.643,"['2', '3']",,,45 mph,,,,,,,"[318382149, 318382133]",NY 5
+212574425,212593695,0,False,residential,Fitch Street,79.572,,,,,,,,,,,20109799,
+212574425,212574433,0,False,tertiary,West Elm Street,69.539,,,,,,,,,,,341460739,
+212574425,212558291,0,False,tertiary,West Elm Street,1357.651,,,,,,,,,,,341460739,
+212574433,212593695,0,False,residential,Fitch Street,20.85,,,,,,,,,,,20109801,
+212574433,212574425,0,False,tertiary,West Elm Street,69.539,,,,,,,,,,,341460739,
+212578432,212554583,0,False,tertiary,Kenwood Avenue,45.096,,,,,,,,,,,180201865,CR 51
+212578432,212578440,0,False,residential,Skinner Road,56.527,,,,,,,,,,,20108792,
+212578432,212597923,0,False,tertiary,Kenwood Avenue,87.847,,,,,,,,,,,180201865,CR 51
+212578440,212578497,0,False,residential,Skinner Road,347.526,,,,,,,,,,,20108792,
+212578440,212578432,0,False,residential,Skinner Road,56.527,,,,,,,,,,,20108792,
+212578440,212597923,0,False,residential,The Orchard,140.218,,,,,,,,,,,20110002,
+212578497,212644391,0,False,residential,Golf Course Lane,46.714,,,,,,,,,,,20112992,
+212578497,212578558,0,False,residential,Skinner Road,590.066,,,,,,,,,,,20108792,
+212578497,212578440,0,False,residential,Skinner Road,347.526,,,,,,,,,,,20108792,
+212578558,212578497,0,False,residential,Skinner Road,590.066,,,,,,,,,,,20108792,
+212579268,212579271,0,False,residential,Sayles Street,126.867,,,,,,,,,,,20108833,
+212579268,212615717,0,False,primary,Genesee Street,103.205,2,,,45 mph,,,,,,,318382143,NY 5
+212579268,212554729,0,False,primary,Genesee Street,53.37,2,,,45 mph,,,,,,,318382143,NY 5
+212579271,212579275,0,False,residential,Sayles Street,157.401,,,,,,,,,,,20108833,
+212579271,212579268,0,False,residential,Sayles Street,126.867,,,,,,,,,,,20108833,
+212579271,212674032,0,False,residential,Valley View Drive,124.521,,,,,,,,,,,20116959,
+212579275,212674038,0,False,residential,Patio Circle Drive,124.168,,,,,,,,,,,20107783,
+212579275,212579279,0,False,residential,Sayles Street,141.808,,,,,,,,,,,20108833,
+212579275,212579271,0,False,residential,Sayles Street,157.401,,,,,,,,,,,20108833,
+212579279,212579282,0,False,residential,Sayles Street,111.884,,,,,,,,,,,20108833,
+212579279,212579282,1,False,residential,Morgan Lane,582.723,,,,,,,,,,,20111773,
+212579279,212579275,0,False,residential,Sayles Street,141.808,,,,,,,,,,,20108833,
+212579282,212579279,0,False,residential,Sayles Street,111.884,,,,,,,,,,,20108833,
+212579282,212579279,1,False,residential,Morgan Lane,582.723,,,,,,,,,,,20111773,
+212579282,212553206,0,False,residential,Sayles Street,133.759,,,,,,,,,,,20108833,
+212579291,212569550,0,False,residential,Sayles Street,82.322,,,,,,,,,,,20108833,
+212579291,212553206,0,False,residential,Sayles Street,245.552,,,,,,,,,,,20108833,
+212579305,212611180,0,False,residential,Stone Street,115.497,,,,,,,,,,,20110791,
+212579305,212544174,0,False,residential,Stone Street,127.763,,,,,,,,,,,20110791,
+212579305,212579313,0,False,residential,Sayles Street,143.855,,,,,,,,,,,20108833,
+212579305,212569550,0,False,residential,Sayles Street,117.349,,,,,,,,,,,20108833,
+212579313,212544179,0,False,secondary,Lenox Avenue,127.751,2,,,30 mph,,,,,,,139470116,NY 365A
+212579313,212579305,0,False,residential,Sayles Street,143.855,,,,,,,,,,,20108833,
+212579313,212563178,0,False,secondary,Lenox Avenue,332.036,2,,,30 mph,,,,,,,139470116,NY 365A
+212579464,212560325,0,False,residential,Tanner Road,93.56,,,,,,,,,,,20108840,
+212580603,212597651,0,False,secondary,Glenwood Avenue,167.056,2,,,,,,,,,,20109990,NY 46
+212580603,212548918,0,False,secondary,Glenwood Avenue,159.648,2,,,,,,,,,,20109990,NY 46
+212580603,212597660,0,False,residential,Glenwood Avenue,162.743,2,,,,,,,,,,20109991,
+212582674,212582696,0,False,tertiary,Chapel Street,272.886,,,,,,,,,,,20109030,CR 44
+212582674,212564436,0,False,tertiary,Chapel Street,181.434,,,,,,,,,,,20109030,CR 44
+212582674,212564424,0,False,tertiary,"['Union Street', 'Cramer Avenue']",277.363,,,,,,,,,,,"[20112883, 20116487]",CR 44
+212582696,212582715,0,False,tertiary,Chapel Street,239.645,,,,,,,,,,,20109030,CR 44
+212582696,212582674,0,False,tertiary,Chapel Street,272.886,,,,,,,,,,,20109030,CR 44
+212582696,212644391,0,False,residential,Golf Course Lane,162.057,,,,,,,,,,,20112990,
+212582715,212582696,0,False,tertiary,Chapel Street,239.645,,,,,,,,,,,20109030,CR 44
+212582715,212627166,0,False,tertiary,Kenwood Avenue,96.956,,,,,,,,,,,180201865,CR 51
+212590455,212590474,0,False,residential,Page Road,817.176,,,,,,,,,,,20109542,
+212590455,212695238,0,False,residential,Burdick Avenue North,556.302,,,,,,,,,,,20116370,
+212590474,212567814,0,False,tertiary,Schoolheimer Road,319.002,,,,,,,,,,,20113963,CR 13
+212590474,212590455,0,False,residential,Page Road,817.176,,,,,,,,,,,20109542,
+212590474,212629729,0,False,tertiary,Schoolheimer Road,974.839,,,,,,,,,,,20113963,CR 13
+212593695,212557660,0,False,residential,Fitch Street,871.734,,,,,,,,,,,20109799,
+212593695,212574425,0,False,residential,Fitch Street,79.572,,,,,,,,,,,20109799,
+212593695,212574433,0,False,residential,Fitch Street,20.85,,,,,,,,,,,20109801,
+212593715,212593732,0,False,residential,Fitch Street,508.929,,,,,,,,,,,20109799,
+212593715,212557660,0,False,residential,Fitch Street,162.076,,,,,,,,,,,20109799,
+212593732,212571331,0,False,residential,North Willow Street,80.441,,,,,,,,,,,20116878,
+212593732,212593715,0,False,residential,Fitch Street,508.929,,,,,,,,,,,20109799,
+212594943,212594956,0,False,residential,Geer Lane,181.699,,,,,,,,,,,20109881,
+212594943,212569302,0,False,residential,Stone Street,637.558,,,,,,,,,,,20110791,
+212594943,212668627,0,False,secondary,Lenox Avenue,305.724,4,,,45 mph,,,,,,,347253954,NY 365A
+212594943,212544179,0,False,secondary,Lenox Avenue,647.687,"['4', '2']",,,"['30 mph', '45 mph']",,,,,,,"[347253954, 139470116, 309506335]",NY 365A
+212594956,212594943,0,False,residential,Geer Lane,181.699,,,,,,,,,,,20109881,
+212595527,212598628,0,False,residential,Cobb Street,52.218,,,,,,,,,,,20110031,
+212595527,212595544,0,False,tertiary,Canal Road,866.008,2,,,,,,yes,,,,"[37783392, 37783393, 341460715, 355199852, 355199853]",CR 76
+212595544,212629729,0,False,tertiary,Schoolheimer Road,912.872,,,,,,,,,,,20113963,CR 13
+212595544,212560320,0,False,tertiary,Canal Road,776.995,,,,,,,,,,,355199852,CR 76
+212595544,212595527,0,False,tertiary,Canal Road,866.008,2,,,,,,yes,,,,"[37783392, 37783393, 341460715, 355199852, 355199853]",CR 76
+212597606,212597612,0,False,secondary,Glenwood Avenue,395.908,2,,,,,,,,,,20109990,NY 46
+212597606,212566188,0,False,secondary,"['Glenwood Avenue', 'State Route 46']",781.391,2,,,,,,,,,,"[20115194, 20109990]",NY 46
+212597606,212632984,0,False,residential,Glenwood Circle,84.853,,,,,,,,,,,20112253,
+212597612,212548972,0,False,secondary,Glenwood Avenue,947.976,2,,,,,,,,,,20109990,NY 46
+212597612,212597606,0,False,secondary,Glenwood Avenue,395.908,2,,,,,,,,,,20109990,NY 46
+212597612,212632984,0,False,residential,Glenwood Circle,411.411,,,,,,,,,,,20112256,
+212597651,212580603,0,False,secondary,Glenwood Avenue,167.056,2,,,,,,,,,,20109990,NY 46
+212597651,212572012,0,False,primary,Genesee Street,153.552,"['2', '3']",,,45 mph,,,,,,,"[318382139, 318382133]",NY 5
+212597651,212597660,0,False,primary,Genesee Street,77.89,4,,,45 mph,,,,,,,"[318382147, 318382135]",NY 5
+212597660,212580603,0,False,residential,Glenwood Avenue,162.743,2,,,,,,,,,,20109991,
+212597660,212597651,0,False,primary,Genesee Street,77.89,4,,,45 mph,,,,,,,"[318382147, 318382135]",NY 5
+212597923,212578440,0,False,residential,The Orchard,140.218,,,,,,,,,,,20110002,
+212597923,212578432,0,False,tertiary,Kenwood Avenue,87.847,,,,,,,,,,,180201865,CR 51
+212598511,212569469,0,False,residential,Skenondoa Way,48.341,,,,,,,,,,,20110028,
+212598511,212598532,0,False,residential,Skenondoa Way,119.04,,,,,,,,,,,20110028,
+212598511,212598532,1,False,residential,Grandmother Moon,224.683,,,,,,,,,,,20112478,
+212598532,212535352,0,False,residential,Skenondoa Way,261.712,,,,,,,,,,,20110028,
+212598532,212598511,0,False,residential,Skenondoa Way,119.04,,,,,,,,,,,20110028,
+212598532,212598511,1,False,residential,Grandmother Moon,224.683,,,,,,,,,,,20112478,
+212598618,212569453,0,False,residential,Skenondoa Way,39.697,,,,,,,,,,,20110028,
+212598618,212569469,0,False,residential,Skenondoa Way,147.58,,,,,,,,,,,20110028,
+212598618,212622597,0,False,residential,Runners Road,41.813,,,,,,,,,,,20114469,
+212598620,212569453,0,False,residential,Skenondoa Way,39.367,,,,,,,,,,,20110028,
+212598620,212549273,0,False,tertiary,Union Street,623.021,,,,,,,,,,,20112883,CR 44
+212598620,212642564,0,False,tertiary,Union Street,623.93,,,,,,,,,,,20112883,CR 44
+212598628,212595527,0,False,residential,Cobb Street,52.218,,,,,,,,,,,20110031,
+212611180,212563175,0,False,residential,Stone Street,105.789,,,,,,,,,,,20110791,
+212611180,212579305,0,False,residential,Stone Street,115.497,,,,,,,,,,,20110791,
+212611624,212613474,0,False,tertiary,Union Street,86.544,,,,,,,,,,,20112883,CR 44
+212611624,212611632,0,False,residential,Nelson Avenue,125.012,,,,,,,,,,,20110821,
+212611624,212564424,0,False,tertiary,Union Street,339.728,,,,,,,,,,,20112883,CR 44
+212611632,212611624,0,False,residential,Nelson Avenue,125.012,,,,,,,,,,,20110821,
+212613474,212611624,0,False,tertiary,Union Street,86.544,,,,,,,,,,,20112883,CR 44
+212613474,212613479,0,False,residential,Maplewood Avenue,184.329,,,,,,,,,,,20110972,
+212613474,212549273,0,False,tertiary,Union Street,149.834,,,,,,,,,,,20112883,CR 44
+212613479,212613474,0,False,residential,Maplewood Avenue,184.329,,,,,,,,,,,20110972,
+212613514,212613514,0,False,residential,Territory Road,211.843,,,,,,,,,,,20110975,
+212613514,212613514,1,False,residential,Territory Road,211.843,,,,,,,,,,,20110975,
+212613514,212613553,0,False,residential,Territory Road,555.96,,,,,,,,,,,20110979,
+212613553,212613514,0,False,residential,Territory Road,555.96,,,,,,,,,,,20110979,
+212613553,212676491,0,False,secondary,State Route 46,633.403,2,,,,,,,,,,20115194,NY 46
+212615717,212579268,0,False,primary,Genesee Street,103.205,2,,,45 mph,,,,,,,318382143,NY 5
+212615717,212615732,0,False,residential,Fultz Drive,116.563,,,,,,,,,,,20111140,
+212615717,212559821,0,False,primary,Genesee Street,632.023,2,,,45 mph,,,,,,,318382143,NY 5
+212615732,212615732,0,False,residential,"['Hagen Cir Drive', 'Fultz Drive']",550.454,,,,,,,,,,,"[20111140, 20117077]",
+212615732,212615732,1,False,residential,"['Hagen Cir Drive', 'Fultz Drive']",550.454,,,,,,,,,,,"[20111140, 20117077]",
+212615732,212615717,0,False,residential,Fultz Drive,116.563,,,,,,,,,,,20111140,
+212619700,212625221,0,False,residential,Patio Circle Drive,109.006,,,,,,,,,,,20107783,
+212619700,212562176,0,False,residential,Patio Circle Drive,73.734,,,,,,,,,,,20107783,
+212619700,212619727,0,False,residential,Hunt Valley Road,409.046,,,,,,,,,,,20111451,
+212619727,212564997,0,False,residential,Hunt Valley Road,325.216,,,,,,,,,,,20111451,
+212619727,212619700,0,False,residential,Hunt Valley Road,409.046,,,,,,,,,,,20111451,
+212619727,212565000,0,False,residential,Cedar Crest Lane,214.929,,,,,,,,,,,20116141,
+212622597,212622597,0,False,residential,"['Runners Road', 'Sweetgrass Lane']",1560.376,,,,,,,,,,,"[20111650, 20105099, 20114469]",
+212622597,212622597,1,False,residential,"['Runners Road', 'Sweetgrass Lane']",1560.376,,,,,,,,,,,"[20111650, 20105099, 20114469]",
+212622597,212598618,0,False,residential,Runners Road,41.813,,,,,,,,,,,20114469,
+212623882,212670343,0,False,residential,Forest Avenue,1196.888,,,,,,,,,,,20116062,
+212625221,212619700,0,False,residential,Patio Circle Drive,109.006,,,,,,,,,,,20107783,
+212625221,212625227,0,False,residential,Holt Place,33.605,,,,,,,,,,,20111780,
+212625221,212674038,0,False,residential,Patio Circle Drive,126.29,,,,,,,,,,,20107783,
+212625227,212625221,0,False,residential,Holt Place,33.605,,,,,,,,,,,20111780,
+212627166,212536862,0,False,tertiary,Kenwood Avenue,21.294,,,,,,,,,,,180201865,CR 51
+212627166,212627172,0,False,residential,The Vineyard,271.464,,,,,,,,,,,20112162,
+212627166,212582715,0,False,tertiary,Kenwood Avenue,96.956,,,,,,,,,,,180201865,CR 51
+212627172,212627166,0,False,residential,The Vineyard,271.464,,,,,,,,,,,20112162,
+212627172,212536827,0,False,tertiary,Kenwood Avenue,90.223,,,,,,,,,,,180201865,CR 51
+212627172,212536862,0,False,tertiary,Kenwood Avenue,86.28,,,,,,,,,,,180201865,CR 51
+212627467,212627496,0,False,residential,Foxwood Terrace,527.473,,,,,,,,,,,20111943,
+212627467,212664863,0,False,residential,Deerfield Drive,81.335,,,,,,,,,,,20114385,
+212627467,212667026,0,False,residential,Deerfield Drive,105.824,,,,,,,,,,,20114385,
+212627496,212627467,0,False,residential,Foxwood Terrace,527.473,,,,,,,,,,,20111943,
+212629729,212629739,0,False,tertiary,Old Schoolheimer Road,207.496,,,,,,,,,,,20112065,CR 13
+212629729,212590474,0,False,tertiary,Schoolheimer Road,974.839,,,,,,,,,,,20113963,CR 13
+212629729,212595544,0,False,tertiary,Schoolheimer Road,912.872,,,,,,,,,,,20113963,CR 13
+212629739,212629729,0,False,tertiary,Old Schoolheimer Road,207.496,,,,,,,,,,,20112065,CR 13
+212632984,212597606,0,False,residential,Glenwood Circle,84.853,,,,,,,,,,,20112253,
+212632984,212597612,0,False,residential,Glenwood Circle,411.411,,,,,,,,,,,20112256,
+212632984,212541361,0,False,residential,Glenwood Circle,167.232,,,,,,,,,,,"[20112256, 20105771]",
+212640620,212640657,0,False,residential,Brophy Road,453.985,,,,,,,,,,,20112745,
+212640620,212554155,0,False,tertiary,Fairview Avenue,539.458,,,,,,,,,,,20114730,CR 18
+212640620,212671449,0,False,tertiary,Fairview Avenue,3198.665,,,,,,,,,,,20114730,CR 18
+212640657,212640620,0,False,residential,Brophy Road,453.985,,,,,,,,,,,20112745,
+212642564,212553688,0,False,secondary,State Route 46,110.807,2,,,,,,,,,,20115194,NY 46
+212642564,212598620,0,False,tertiary,Union Street,623.93,,,,,,,,,,,20112883,CR 44
+212642564,212553704,0,False,secondary,State Route 46,325.862,2,,,,,,,,,,20115194,NY 46
+212644391,212578497,0,False,residential,Golf Course Lane,46.714,,,,,,,,,,,20112992,
+212644391,212644443,0,False,residential,Golf Course Lane,452.602,,,,,,,,,,,20112990,
+212644391,212582696,0,False,residential,Golf Course Lane,162.057,,,,,,,,,,,20112990,
+212644443,212644391,0,False,residential,Golf Course Lane,452.602,,,,,,,,,,,20112990,
+212651786,212565017,0,False,residential,Ryans Way,330.77,,,,,,,,,,,20113447,
+212664863,1884817775,0,False,residential,Baker Reservoir,413.389,,,,,,,,,,,20114226,
+212664863,212670685,0,False,residential,"['Deerfield Drive', 'Evergreen Valley Drive']",881.919,,,,,,,,,,,"[20114385, 20114659]",
+212664863,212627467,0,False,residential,Deerfield Drive,81.335,,,,,,,,,,,20114385,
+212667026,212562158,0,False,primary,Genesee Street,80.613,2,,,45 mph,,,,,,,318382143,NY 5
+212667026,212627467,0,False,residential,Deerfield Drive,105.824,,,,,,,,,,,20114385,
+212667026,212554729,0,False,primary,Genesee Street,394.011,2,,,45 mph,,,,,,,318382143,NY 5
+212668627,212564978,0,False,residential,Willow Meadow Way,110.017,,,,,,,,,,,239744183,
+212668627,212538948,0,False,secondary,Lenox Avenue,1158.928,"['4', '2', '3']",,,45 mph,,,,,,,"[347253953, 347253954, 347253955]",NY 365A
+212668627,212594943,0,False,secondary,Lenox Avenue,305.724,4,,,45 mph,,,,,,,347253954,NY 365A
+212669377,212562174,0,False,residential,Woodland Terrace,79.228,,,,,,,,,,,20114552,
+212669377,212669377,0,False,residential,Woodland Terrace,156.872,,,,,,,,,,,20114556,
+212669377,212669377,1,False,residential,Woodland Terrace,156.872,,,,,,,,,,,20114556,
+212670343,212670345,0,False,residential,Crescent Avenue,243.013,,,,,,,,,,,20114620,
+212670343,212562935,0,False,residential,Forest Avenue,271.178,,,,,,,,,,,20116062,
+212670343,212623882,0,False,residential,Forest Avenue,1196.888,,,,,,,,,,,20116062,
+212670345,212670343,0,False,residential,Crescent Avenue,243.013,,,,,,,,,,,20114620,
+212670345,212562894,0,False,residential,Crescent Avenue,11.529,,,,,,,,,,,20114624,
+212670345,212670352,0,False,residential,Crescent Avenue,392.96,,,,,,,,,,,20114624,
+212670352,212670345,0,False,residential,Crescent Avenue,392.96,,,,,,,,,,,20114624,
+212670685,212664863,0,False,residential,"['Deerfield Drive', 'Evergreen Valley Drive']",881.919,,,,,,,,,,,"[20114385, 20114659]",
+212671449,212640620,0,False,tertiary,Fairview Avenue,3198.665,,,,,,,,,,,20114730,CR 18
+212671449,212566040,0,False,residential,Abes Way,805.044,,,,,,,,,,,20115072,
+212674032,212704860,0,False,residential,Valley View Drive,120.077,,,,,,,,,,,20116959,
+212674032,212579271,0,False,residential,Valley View Drive,124.521,,,,,,,,,,,20116959,
+212674032,212674038,0,False,residential,Sugar Lane,159.283,,,,,,,,,,,20114960,
+212674038,212579275,0,False,residential,Patio Circle Drive,124.168,,,,,,,,,,,20107783,
+212674038,212625221,0,False,residential,Patio Circle Drive,126.29,,,,,,,,,,,20107783,
+212674038,212674032,0,False,residential,Sugar Lane,159.283,,,,,,,,,,,20114960,
+212676491,212553704,0,False,secondary,State Route 46,720.118,2,,,,,,,,,,20115194,NY 46
+212676491,212613553,0,False,secondary,State Route 46,633.403,2,,,,,,,,,,20115194,NY 46
+212676491,212562935,0,False,residential,Forest Avenue,1747.136,,,,,,,,,,,276439954,
+212681233,212683573,0,False,residential,Palmer Drive,112.269,,,,,,,,,,,20115689,
+212681233,212558247,0,False,primary,Genesee Street,502.417,"['2', '3']",,,45 mph,,,,,,,"[318382140, 309506334]",NY 5
+212683573,212683608,0,False,residential,Palmer Drive,350.07,,,,,,,,,,,20115689,
+212683573,212681233,0,False,residential,Palmer Drive,112.269,,,,,,,,,,,20115689,
+212683573,212702745,0,False,residential,Oatman Circle,248.742,,,,,,,,,,,20116811,
+212683608,212683573,0,False,residential,Palmer Drive,350.07,,,,,,,,,,,20115689,
+212695238,212590455,0,False,residential,Burdick Avenue North,556.302,,,,,,,,,,,20116370,
+212702745,212683573,0,False,residential,Oatman Circle,248.742,,,,,,,,,,,20116811,
+212702788,212560307,0,False,residential,"['Doran Road', 'Old N Main Street']",675.385,,,,,,,,,,,"[20111850, 20116814]",
+212704860,212674032,0,False,residential,Valley View Drive,120.077,,,,,,,,,,,20116959,
+443190106,212568956,0,False,residential,Williams Street,384.347,,,,,,,,,,,37783391,
+1884817775,212664863,0,False,residential,Baker Reservoir,413.389,,,,,,,,,,,20114226,
+2351129498,212541349,0,False,residential,,468.89,,,,,,,,,,,20105768,
+2351129498,212566188,0,False,tertiary,Mount Hope Avenue,626.477,,,,,,,,,,,20108020,CR 100
+2351129498,212536868,0,False,tertiary,Mount Hope Avenue,426.681,,,,,,,,,,,20108020,CR 100
+2475169834,212564997,0,False,residential,Driftwood Drive,102.168,,,,,,,,,,,20107945,
+2475169834,2475169836,0,False,residential,Willow Meadow Way,102.54,,,,,,,,,,,239744183,
+2475169834,212564978,0,False,residential,Driftwood Drive,382.108,,,,,,,,,,,20107945,
+2475169836,2475169834,0,False,residential,Willow Meadow Way,102.54,,,,,,,,,,,239744183,
+2475169836,2475169854,0,False,residential,Willow Meadow Way,343.712,,,,,,,,,,,239744183,
+2475169836,2475169854,1,False,residential,Willow Tree Terrace,250.712,,,,,,,,,,,239744184,
+2475169854,2475169836,0,False,residential,Willow Meadow Way,343.712,,,,,,,,,,,239744183,
+2475169854,2475169836,1,False,residential,Willow Tree Terrace,250.712,,,,,,,,,,,239744184,
+2475169854,212564978,0,False,residential,Willow Meadow Way,84.921,,,,,,,,,,,239744183,

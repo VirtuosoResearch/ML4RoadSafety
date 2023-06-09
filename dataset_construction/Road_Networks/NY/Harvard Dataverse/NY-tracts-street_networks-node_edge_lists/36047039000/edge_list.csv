@@ -1,0 +1,52 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+42467369,42485325,0,True,residential,East 7th Street,76.956,,,,,,,,,,,5677311,
+42467369,2282434945,0,True,residential,Crawford Avenue,142.141,,,,,,,,,,,228922159,
+42467372,42467369,0,True,residential,Crawford Avenue,192.589,,,,,,,,,,,228922159,
+42467372,42489258,0,False,secondary,Coney Island Avenue,81.2,"['4', '5']",,,,,,,,,,"[420568261, 420568273, 420568253]",
+42467372,42489257,0,False,secondary,Coney Island Avenue,76.522,4,,,,,,,,,,420568265,
+42485325,42489257,0,True,residential,Lancaster Avenue,199.053,,,,,,,,,,,228922162,
+42485330,42467369,0,True,residential,East 7th Street,80.306,,,,,,,,,,,5677311,
+42485330,42535415,0,False,residential,Avenue X,78.907,2,,,,,,,,,,208793269,
+42485330,42489258,0,False,residential,Avenue X,185.081,2,,,,,,,,,,208793269,
+42489253,42489257,0,False,secondary,Coney Island Avenue,81.199,"['4', '5']",,,,,,,,,,"[420568266, 420568282, 420568260]",
+42489257,42467372,0,False,secondary,Coney Island Avenue,76.522,4,,,,,,,,,,420568265,
+42489257,42489253,0,False,secondary,Coney Island Avenue,81.199,"['4', '5']",,,,,,,,,,"[420568282, 420568266, 420568260]",
+42489258,42485330,0,False,residential,Avenue X,185.081,2,,,,,,,,,,208793269,
+42489258,42467372,0,False,secondary,Coney Island Avenue,81.2,"['4', '5']",,,,,,,,,,"[420568273, 420568261, 420568253]",
+42498747,42498748,0,True,residential,East 4th Street,90.904,,,,,,,,,,,297831432,
+42498747,42530962,0,False,residential,Avenue V,79.152,2,,,,,,,,,,453708790,
+42498748,42529561,0,True,residential,Gravesend Neck Road,82.132,,,,,,,,,,,274866360,
+42498748,42498750,0,True,residential,East 4th Street,177.248,,,,,,,,,,,297831432,
+42498750,42530967,0,False,residential,Avenue W,79.157,,,,,,,,,,,5681698,Ave W
+42498750,42498751,0,True,residential,East 4th Street,157.004,,,,,,,,,,,297831432,
+42498751,42498753,0,True,residential,East 4th Street,81.308,,,,,,,,,,,297831432,
+42498753,2282434938,0,False,residential,Avenue X,94.185,,,,,,,,,,,208793256,
+42508867,2282434951,0,False,residential,Avenue W,23.994,,,,,,,,,,,5681698,Ave W
+42508867,2282434949,0,False,residential,Avenue W,23.818,,,,,,,,,,,5681698,Ave W
+42508867,42508875,0,False,primary,Ocean Parkway,250.428,"['7', '6']",,,,,,,,,,"[420566863, 420566865, 420566867, 420566868, 420566872]",
+42508875,2282434938,0,False,residential,Avenue X,24.451,,,,,,,,,,,208793256,
+42508875,42508867,0,False,primary,Ocean Parkway,250.428,"['7', '6']",,,,,,,,,,"[420566863, 420566865, 420566867, 420566868, 420566872]",
+42529561,2282434955,0,True,residential,Gravesend Neck Road,96.916,,,,,,,,,,,274866360,
+42529561,42530962,0,True,residential,East 5th Street,113.263,,,,,,,,,,,297831433,
+42529631,42498751,0,True,residential,Boulevard Court,78.841,,,,,,,,,,,5681147,
+42529631,42530967,0,True,residential,East 5th Street,156.845,,,,,,,,,,,297831433,
+42530962,42498747,0,False,residential,Avenue V,79.152,2,,,,,,,,,,453708790,
+42530962,2282434957,0,False,residential,Avenue V,93.537,2,,,,,,,,,,453708790,
+42530967,2282434949,0,False,residential,Avenue W,93.678,,,,,,,,,,,5681698,Ave W
+42530967,42498750,0,False,residential,Avenue W,79.157,,,,,,,,,,,5681698,Ave W
+42530967,42529561,0,True,residential,East 5th Street,155.452,,,,,,,,,,,297831433,
+42535415,42485330,0,False,residential,Avenue X,78.907,2,,,,,,,,,,208793269,
+2282434938,42498753,0,False,residential,Avenue X,94.185,,,,,,,,,,,208793256,
+2282434938,42508875,0,False,residential,Avenue X,24.451,,,,,,,,,,,208793256,
+2282434943,42529631,0,True,residential,Boulevard Court,42.223,,,,,,,,,,,5681147,
+2282434943,2282434938,0,True,residential,Ocean Parkway,84.987,1,,,,,,,,,,514667906,
+2282434945,2282434947,0,True,residential,Ocean Parkway,80.294,1,,,,,,,,,,219619530,
+2282434947,42485325,0,True,residential,Lancaster Avenue,116.982,,,,,,,,,,,228922162,
+2282434947,2282434951,0,True,residential,Ocean Parkway,84.576,1,,,,,,,,,,228922163,
+2282434949,42530967,0,False,residential,Avenue W,93.678,,,,,,,,,,,5681698,Ave W
+2282434949,2282434943,0,True,residential,Ocean Parkway,166.281,1,,,,,,,,,,514667906,
+2282434949,42508867,0,False,residential,Avenue W,23.818,,,,,,,,,,,5681698,Ave W
+2282434951,42508867,0,False,residential,Avenue W,23.994,,,,,,,,,,,5681698,Ave W
+2282434955,2282434949,0,True,residential,Ocean Parkway,128.964,1,,,,,,,,,,514667906,
+2282434957,2282434955,0,True,residential,Ocean Parkway,138.816,1,,,,,,,,,,514667906,
+2282434957,42530962,0,False,residential,Avenue V,93.537,2,,,,,,,,,,453708790,

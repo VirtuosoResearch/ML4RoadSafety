@@ -1,0 +1,27 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+42467292,42491690,0,False,primary,Flatbush Avenue,142.062,4,,,,,,,,,,221698687,
+42467292,42484790,0,False,primary,Flatbush Avenue,72.676,4,,,,,,,,,,221698687,
+42467292,42467294,0,True,residential,Lenox Road,278.198,,,,,,,,,,,5675053,
+42467294,1942053829,0,False,tertiary,Bedford Avenue,117.651,2,,,,,,,,,,5680289,
+42467294,42494660,0,False,tertiary,Bedford Avenue,141.905,2,,,,,,,,,,273202151,
+42484790,42491697,0,False,primary,Flatbush Avenue,88.351,4,,,,,,,,,,183794548,
+42484790,42467292,0,False,primary,Flatbush Avenue,72.676,4,,,,,,,,,,221698687,
+42484790,552189311,0,False,primary,Caton Avenue,236.918,2,,,,,,,,,,221698688,NY 27
+42484796,1942053829,0,False,tertiary,Bedford Avenue,45.546,2,,,,,,,,,,5680289,
+42484796,552189311,0,True,primary,Caton Avenue,68.931,1,,,,,,,,,,46137489,NY 27
+42489721,42491697,0,False,primary,Flatbush Avenue,107.608,4,,,,,,,,,,183794548,
+42489721,42489722,0,True,residential,Martense Street,78.001,,,,,,,,,,,573854721,
+42489722,42527843,0,False,residential,Martense Court,55.095,,,,,,,,,,,5680951,
+42491690,42467292,0,False,primary,Flatbush Avenue,142.062,4,,,,,,,,,,221698687,
+42491697,552188616,0,True,secondary,Linden Boulevard,227.472,1,,,,,,,,,,5679440,
+42491697,42484790,0,False,primary,Flatbush Avenue,88.351,4,,,,,,,,,,183794548,
+42491697,42489721,0,False,primary,Flatbush Avenue,107.608,4,,,,,,,,,,183794548,
+42494660,42491690,0,True,residential,Clarkson Avenue,287.429,,,,,,,,,,,5678159,
+42494660,42467294,0,False,tertiary,Bedford Avenue,141.905,2,,,,,,,,,,273202151,
+42527843,42489722,0,False,residential,Martense Court,55.095,,,,,,,,,,,5680951,
+552188616,42484796,0,True,primary,Linden Boulevard,38.21,,,,,,,,,,,46137488,NY 27
+552189311,552188616,0,True,primary,Caton Avenue,50.877,"['2', '1']",,,,,,,,,,"[183794510, 43653095]",NY 27
+552189311,42484790,0,False,primary,Caton Avenue,236.918,2,,,,,,,,,,221698688,NY 27
+1942053829,42484796,0,False,tertiary,Bedford Avenue,45.546,2,,,,,,,,,,5680289,
+1942053829,42467294,0,False,tertiary,Bedford Avenue,117.651,2,,,,,,,,,,5680289,
+1942053829,552189311,0,True,tertiary_link,,50.56,,,,,,,,,,,183794714,

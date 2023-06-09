@@ -1,0 +1,54 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+42730875,42730888,0,False,tertiary,Bronxwood Avenue,70.35,2,,,,,,,,,,420892041,
+42730888,42730875,0,False,tertiary,Bronxwood Avenue,70.35,2,,,,,,,,,,420892041,
+42730888,42746467,0,False,residential,East 211th Street,228.027,,,,,,,,,,,5697359,
+42730888,42730890,0,False,tertiary,Bronxwood Avenue,94.538,2,,,,,,,,,,420892041,
+42730890,42739401,0,False,secondary,East Gun Hill Road,145.716,,,,,,,,,,,224088625,
+42730890,42730888,0,False,tertiary,Bronxwood Avenue,94.538,2,,,,,,,,,,420892041,
+42739401,42739407,0,False,secondary,East Gun Hill Road,80.782,,,,,,,,,,,224088625,
+42739401,42730890,0,False,secondary,East Gun Hill Road,145.716,,,,,,,,,,,224088625,
+42739407,42746467,0,False,residential,Paulding Avenue,94.591,,,,,,,,,,,5699230,
+42739407,42739411,0,False,secondary,East Gun Hill Road,53.686,,,,,,,,,,,224088625,
+42739407,42739401,0,False,secondary,East Gun Hill Road,80.782,,,,,,,,,,,224088625,
+42739411,42739414,0,False,secondary,East Gun Hill Road,84.761,,,,,,,,,,,224088625,
+42739411,42739407,0,False,secondary,East Gun Hill Road,53.686,,,,,,,,,,,224088625,
+42739414,42739411,0,False,secondary,East Gun Hill Road,84.761,,,,,,,,,,,224088625,
+42739418,2855635803,0,False,residential,Laconia Avenue,52.572,,,,,,,,,,,555838676,
+42739418,42739423,0,False,secondary,East Gun Hill Road,92.204,,,,,,,,,,,555838677,
+42739423,42739428,0,False,secondary,East Gun Hill Road,79.579,,,,,,,,,,,555838677,
+42739423,42739418,0,False,secondary,East Gun Hill Road,92.204,,,,,,,,,,,555838677,
+42739428,42746472,0,False,primary,Boston Road,102.218,"['4', '5']",,,,,,,,,,"[420565553, 420565572, 420565540]",US 1
+42739428,42739423,0,False,secondary,East Gun Hill Road,79.579,,,,,,,,,,,555838677,
+42742527,42742529,0,False,residential,Monsignor Cahill Place,87.016,,,,,,,,,,,5697112,
+42742527,42765389,0,True,residential,East 212th Street,166.722,,,,,,,,,,,5699781,
+42742529,42742527,0,False,residential,Monsignor Cahill Place,87.016,,,,,,,,,,,5697112,
+42742529,42769642,0,True,residential,East 213th Street,128.964,,,,,,,,,,,5698937,
+42746467,42746470,0,False,residential,East 211th Street,212.776,,,,,,,,,,,5697359,
+42746467,42777759,0,False,residential,Paulding Avenue,85.925,,,,,,,,,,,5699230,
+42746467,42739407,0,False,residential,Paulding Avenue,94.591,,,,,,,,,,,5699230,
+42746467,42730888,0,False,residential,East 211th Street,228.027,,,,,,,,,,,5697359,
+42746470,42746472,0,False,residential,East 211th Street,224.965,,,,,,,,,,,5697359,
+42746470,42746467,0,False,residential,East 211th Street,212.776,,,,,,,,,,,5697359,
+42746470,42765389,0,False,residential,Laconia Avenue,87.075,,,,,,,,,,,555838676,
+42746470,2855635803,0,False,residential,Laconia Avenue,44.058,,,,,,,,,,,555838676,
+42746472,42746470,0,False,residential,East 211th Street,224.965,,,,,,,,,,,5697359,
+42746472,42739428,0,False,primary,Boston Road,102.218,"['4', '5']",,,,,,,,,,"[420565553, 420565540, 420565572]",US 1
+42746472,42767686,0,False,primary,Boston Road,74.98,"['4', '5']",,,,,,,,,,"[420565560, 420565569]",US 1
+42765389,42777759,0,True,residential,East 212th Street,212.93,,,,,,,,,,,5699781,
+42765389,42765393,0,False,residential,Laconia Avenue,87.113,,,,,,,,,,,555838676,
+42765389,42746470,0,False,residential,Laconia Avenue,87.075,,,,,,,,,,,555838676,
+42765393,42742529,0,True,residential,East 213th Street,166.488,,,,,,,,,,,5698937,
+42765393,42765389,0,False,residential,Laconia Avenue,87.113,,,,,,,,,,,555838676,
+42767686,42769638,0,False,primary,Boston Road,17.113,4,,,,,,,,,,420565567,US 1
+42767686,42746472,0,False,primary,Boston Road,74.98,"['4', '5']",,,,,,,,,,"[420565560, 420565569]",US 1
+42769638,42742527,0,True,residential,East 212th Street,91.995,,,,,,,,,,,5699781,
+42769638,42767686,0,False,primary,Boston Road,17.113,4,,,,,,,,,,420565567,US 1
+42769638,42769642,0,False,primary,Boston Road,69.073,"['4', '5']",,,,,,,,,,"[420565561, 420565563, 420565556]",US 1
+42769642,42769646,0,True,residential,East 213th Street,27.158,,,,,,,,,,,5698937,
+42769642,42769646,1,False,primary,Boston Road,27.158,5,,,,,,,,,,420565575,US 1
+42769642,42769638,0,False,primary,Boston Road,69.073,"['4', '5']",,,,,,,,,,"[420565561, 420565563, 420565556]",US 1
+42769646,42769642,0,False,primary,Boston Road,27.158,5,,,,,,,,,,420565575,US 1
+42773055,42765393,0,True,residential,East 213th Street,213.073,,,,,,,,,,,554034795,
+42777759,42746467,0,False,residential,Paulding Avenue,85.925,,,,,,,,,,,5699230,
+2855635803,42746470,0,False,residential,Laconia Avenue,44.058,,,,,,,,,,,555838676,
+2855635803,42739418,0,False,residential,Laconia Avenue,52.572,,,,,,,,,,,555838676,

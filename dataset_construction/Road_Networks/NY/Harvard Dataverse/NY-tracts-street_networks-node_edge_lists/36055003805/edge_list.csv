@@ -1,0 +1,489 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+212621582,212621586,0,False,residential,,28.048,,,,,,,,,,,20111582,
+212621586,212621582,0,False,residential,,28.048,,,,,,,,,,,20111582,
+212621586,212707457,0,False,residential,Crittenden Road,491.804,,,,,,,,,,,20130367,
+212625034,212625063,0,False,residential,Hawthorn Drive,717.617,,,,,,,yes,,,,"[24036242, 20111771, 24036243]",
+212625034,212625363,0,False,residential,Hawthorn Drive,58.35,,,,,,,,,,,20111786,
+212625063,212625296,0,False,residential,Hawthorn Drive,34.445,,,,,,,,,,,20111783,
+212625063,212625101,0,False,residential,Hawthorn Drive,437.724,,,,,,,,,,,"[24036243, 20111772]",
+212625063,212625034,0,False,residential,Hawthorn Drive,717.617,,,,,,,yes,,,,"[24036242, 24036243, 20111771]",
+212625101,212625063,0,False,residential,Hawthorn Drive,437.724,,,,,,,,,,,"[24036243, 20111772]",
+212625101,212625141,0,False,tertiary,East River Road,307.342,,,,,,,,,,,239248551,
+212625109,212625141,0,False,residential,Hawthorn Drive,1143.771,,,,,,,,,,,20111776,
+212625141,212625109,0,False,residential,Hawthorn Drive,1143.771,,,,,,,,,,,20111776,
+212625141,212625101,0,False,tertiary,East River Road,307.342,,,,,,,,,,,239248551,
+212625279,212625328,0,False,residential,Hawthorn Drive,33.257,,,,,,,,,,,116642205,
+212625279,4304816006,0,False,residential,"['Hawthorn Drive', 'Moore Road']",838.578,,,,,,,yes,,,,"[24016041, 24016042, 20111782]",
+212625279,212625363,0,False,residential,Hawthorn Drive,434.006,,,,,,,,,,,116642205,
+212625296,212625063,0,False,residential,Hawthorn Drive,34.445,,,,,,,,,,,20111783,
+212625306,212625328,0,False,residential,Hawthorn Drive,295.68,,,,,,,yes,,,,"[20111785, 24036246]",
+212625328,212625279,0,False,residential,Hawthorn Drive,33.257,,,,,,,,,,,116642205,
+212625328,212625306,0,False,residential,Hawthorn Drive,295.68,,,,,,,yes,,,,"[20111785, 24036246]",
+212625328,212625363,0,False,residential,Hawthorn Drive,368.192,,,,,,,,,,,116642204,
+212625363,212625034,0,False,residential,Hawthorn Drive,58.35,,,,,,,,,,,20111786,
+212625363,212625328,0,False,residential,Hawthorn Drive,368.192,,,,,,,,,,,116642204,
+212625363,212625279,0,False,residential,Hawthorn Drive,434.006,,,,,,,,,,,116642205,
+212632056,5221908877,0,False,primary,Mount Hope Avenue,46.022,4,,,30 mph,,,,,,,20134842,NY 15
+212632056,212632059,0,False,residential,Langslow Street,120.899,,,,,,,,,,,20112207,
+212632056,212882772,0,False,primary,Mount Hope Avenue,89.922,4,,,30 mph,,,,,,,20134842,NY 15
+212632059,212632066,0,False,residential,Langslow Street,121.59,,,,,,,,,,,20112207,
+212632059,212632056,0,False,residential,Langslow Street,120.899,,,,,,,,,,,20112207,
+212632059,212882776,0,False,residential,Phillips Drive,90.753,,,,,,,,,,,20134917,
+212632059,212796630,0,False,residential,Phillips Drive,90.724,,,,,,,,,,,20134917,
+212632066,212632059,0,False,residential,Langslow Street,121.59,,,,,,,,,,,20112207,
+212632066,212729286,0,False,secondary,South Avenue,90.788,2,,,30 mph,,,,,,,45883745,
+212632066,5156589306,0,False,secondary,South Avenue,52.307,2,,,30 mph,,,,,,,45883745,
+212632066,5156589305,0,False,unclassified,,52.984,2,,,,,,,,,,531188171,
+212636358,212882772,0,False,primary,Mount Hope Avenue,91.169,4,,,30 mph,,,,,,,20134842,NY 15
+212636358,3475200625,0,False,primary,Mount Hope Avenue,112.791,4,,,30 mph,,,,,,,20134842,NY 15
+212648635,212648750,0,False,residential,Green Knolls Drive,564.147,,,,,,,,,,,20113251,
+212648635,212648750,1,False,tertiary,Westfall Road,222.472,,,,30 mph,,,,,,,20115052,
+212648635,212674822,0,False,tertiary,Westfall Road,103.127,6,,,30 mph,,,,,,,"[20115052, 531813278]",
+212648750,212648635,0,False,residential,Green Knolls Drive,564.147,,,,,,,,,,,20113251,
+212648750,212648635,1,False,tertiary,Westfall Road,222.472,,,,30 mph,,,,,,,20115052,
+212648750,212674830,0,False,tertiary,Westfall Road,197.234,,,,30 mph,,,,,,,20115052,
+212648750,4218029698,0,False,unclassified,Stan Yale Drive,398.68,2,,,,,,,,,,422075745,
+212657515,2926831786,0,False,residential,Pavilion Street,209.43,,,,,,,,,,,20113737,
+212657515,212709746,0,False,secondary,South Avenue,109.547,2,,,30 mph,,,,,,,45883745,
+212660874,212660876,0,False,primary,Elmwood Avenue,45.491,6,,,30 mph,,,,,,,340303864,Elmwood Avenue;CR 87
+212660874,212927066,0,False,residential,Westview Terrace,372.181,,,,,,,,,,,"[20137419, 386400926]",
+212660874,2942744969,0,False,primary,Elmwood Avenue,71.887,6,,,30 mph,,,,,,,"[340303864, 593685054]",Elmwood Avenue;CR 87
+212660876,212660879,0,False,primary,Elmwood Avenue,39.475,6,,,30 mph,,,,,,,340303864,Elmwood Avenue;CR 87
+212660876,212660874,0,False,primary,Elmwood Avenue,45.491,6,,,30 mph,,,,,,,340303864,Elmwood Avenue;CR 87
+212660879,212660876,0,False,primary,Elmwood Avenue,39.475,6,,,30 mph,,,,,,,340303864,Elmwood Avenue;CR 87
+212660879,212671870,0,False,residential,Southview Terrace,372.189,,,,,,,,,,,20114751,
+212660879,212660882,0,False,primary,Elmwood Avenue,94.322,6,,,30 mph,,,,,,,340303864,Elmwood Avenue;CR 87
+212660882,2942716854,0,True,residential,Cook Street,123.783,,,,,,,,,,,20112441,
+212660882,212729286,0,False,secondary,South Avenue,101.634,2,,,30 mph,,,,,,,45883745,
+212660882,212729289,0,False,secondary,South Avenue,162.906,,,,,,,,,,,290770329,
+212660882,212660879,0,False,primary,Elmwood Avenue,94.322,6,,,30 mph,,,,,,,340303864,Elmwood Avenue;CR 87
+212660882,2942706303,0,True,primary,Elmwood Avenue,621.254,4,,,30 mph,,,,,,,"[356112216, 356112217, 356112218, 356112215]",
+212660885,212914378,0,False,residential,Meadowbrook Road,282.397,2,,,,,,,,,,20138113,
+212660885,2271213766,0,True,primary,Elmwood Avenue,168.804,4,,,30 mph,,,,,,,"[304153242, 304153244]",
+212660888,2942706303,0,False,residential,Azalea Road,11.354,,,,,,,,,,,20129097,
+212660888,212660885,0,True,primary,Elmwood Avenue,111.991,4,,,30 mph,,,,,,,304153245,
+212660888,212834446,0,False,residential,Azalea Road,239.058,,,,,,,,,,,20129097,
+212660892,212660888,0,True,primary,Elmwood Avenue,112.537,4,,,30 mph,,,,,,,304153246,
+212660892,212766934,0,False,residential,Laney Road,192.881,2,,,,,,,,,,20122948,
+212671870,212927066,0,False,residential,Fort Hill Terrace,83.622,,,,,,,,,,,249276449,
+212671870,212660879,0,False,residential,Southview Terrace,372.189,,,,,,,,,,,20114751,
+212671870,212729296,0,False,residential,Fort Hill Terrace,68.791,,,,,,,,,,,249276449,
+212674302,212674306,0,False,residential,Elmerston Road,218.866,,,,,,,,,,,20114998,
+212674302,212859421,0,False,primary,Mount Hope Avenue,28.486,4,,,30 mph,,,,,,,293075358,NY 15
+212674302,212894281,0,False,primary,Mount Hope Avenue,68.754,4,,,30 mph,,,,,,,293075358,NY 15
+212674306,2704451249,0,False,residential,Elmerston Road,260.14,,,,,,,,,,,20114998,
+212674306,212674302,0,False,residential,Elmerston Road,218.866,,,,,,,,,,,20114998,
+212674306,212755215,0,False,residential,Eastmoreland Drive,85.05,,,,,,,,,,,20121400,
+212674306,212683574,0,False,residential,Eastmoreland Drive,100.377,,,,,,,,,,,20121400,
+212674814,212755218,0,False,residential,Westmoreland Drive,144.719,,,,,,,,,,,20129129,
+212674814,212804559,0,False,primary,Mount Hope Avenue,96.14,4,,,30 mph,,,,,,,293075358,NY 15
+212674814,2497180585,0,False,primary,Mount Hope Avenue,156.989,4,,,30 mph,,,,,,,293075358,NY 15
+212674814,212674822,0,False,tertiary,Westfall Road,517.131,5,,,,,,,,,,"[531813280, 531813279]",
+212674822,212648635,0,False,tertiary,Westfall Road,103.127,6,,,30 mph,,,,,,,"[20115052, 531813278]",
+212674822,212674814,0,False,tertiary,Westfall Road,517.131,5,,,,,,,,,,"[531813280, 531813279]",
+212674822,5662809705,0,False,primary,East Henrietta Road,193.743,5,,,30 mph,,,,,,,"[303877688, 531813281]",NY 15A
+212674822,212942839,0,False,primary,East Henrietta Road,183.374,6,,,30 mph,,,,,,,"[531813282, 301947621]",NY 15A
+212674830,212648750,0,False,tertiary,Westfall Road,197.234,,,,30 mph,,,,,,,20115052,
+212674830,212812022,0,False,residential,Metropolitan Drive,133.401,,,,,,,,,,,20127089,
+212680442,212729303,0,False,secondary,South Avenue,38.725,,,,,,,,,,,290770329,
+212680442,212729300,0,False,secondary,South Avenue,80.867,,,,,,,,,,,290770329,
+212680444,212680442,0,True,residential,Warren Street,173.687,,,,,,,,,,,20115461,
+212680444,212782732,0,False,primary,East Henrietta Road,77.661,,,,30 mph,,,,,,,303877840,NY 15A
+212680444,212827157,0,False,primary,East Henrietta Road,79.061,,,,30 mph,,,,,,,303877840,NY 15A
+212683570,212894277,0,False,primary,Mount Hope Avenue,8.262,4,,,30 mph,,,,,,,293075358,NY 15
+212683570,212859421,0,False,primary,Mount Hope Avenue,78.198,4,,,30 mph,,,,,,,293075358,NY 15
+212683570,212683571,0,False,residential,Shelbourne Road,83.098,,,,,,,,,,,20115688,
+212683571,212683574,0,False,residential,Shelbourne Road,179.135,,,,,,,,,,,20115688,
+212683571,212683570,0,False,residential,Shelbourne Road,83.098,,,,,,,,,,,20115688,
+212683571,212684836,0,False,residential,Norfolk Street,184.314,,,,,,,,,,,20115775,
+212683574,2704451247,0,False,residential,Shelbourne Road,230.796,,,,,,,,,,,20115688,
+212683574,212683571,0,False,residential,Shelbourne Road,179.135,,,,,,,,,,,20115688,
+212683574,212674306,0,False,residential,Eastmoreland Drive,100.377,,,,,,,,,,,20121400,
+212683574,212755213,0,False,residential,Eastmoreland Drive,91.285,,,,,,,,,,,20121400,
+212684826,3475199657,0,False,residential,Norfolk Street,11.783,,,,,,,,,,,20115775,
+212684826,2704467927,0,True,tertiary,Crittenden Boulevard,186.548,4,,,,,,,,,,244499798,
+212684829,212684831,0,False,residential,Norfolk Street,76.034,,,,,,,,,,,20115775,
+212684829,3475199657,0,False,residential,Norfolk Street,76.647,,,,,,,,,,,20115775,
+212684829,2704451238,0,False,residential,Raleigh Street,220.943,,,,,,,,,,,20127841,
+212684829,5663134578,0,False,residential,Raleigh Street,264.388,,,,,,,,,,,20127841,
+212684831,212684834,0,False,residential,Norfolk Street,86.54,,,,,,,,,,,20115775,
+212684831,212684829,0,False,residential,Norfolk Street,76.034,,,,,,,,,,,20115775,
+212684831,212894269,0,False,residential,Rossiter Road,238.713,,,,,,,,,,,20139256,
+212684831,2704451240,0,False,residential,Rossiter Road,255.0,,,,,,,,,,,20139256,
+212684834,212684836,0,False,residential,Norfolk Street,90.175,,,,,,,,,,,20115775,
+212684834,212684831,0,False,residential,Norfolk Street,86.54,,,,,,,,,,,20115775,
+212684834,212774672,0,False,residential,Irvington Road,200.245,,,,,,,,,,,20123826,
+212684834,2704451236,0,False,residential,Irvington Road,293.848,,,,,,,,,,,20123826,
+212684836,212684834,0,False,residential,Norfolk Street,90.175,,,,,,,,,,,20115775,
+212684836,212755211,0,False,residential,Lattimore Road,179.824,,,,,,,,,,,20124948,
+212684836,212786678,0,False,residential,Lattimore Road,161.822,,,,,,,,,,,20124948,
+212684836,212683571,0,False,residential,Norfolk Street,184.314,,,,,,,,,,,20115775,
+212686038,212686062,0,False,residential,Castle Park,191.798,,,,,,,,,,,20115852,
+212686038,212837454,0,False,primary,Mount Hope Avenue,193.842,4,,,30 mph,,,,,,,20134842,NY 15
+212686038,212870485,0,False,primary,Mount Hope Avenue,131.397,4,,,30 mph,,,,,,,20134842,NY 15
+212686062,212686038,0,False,residential,Castle Park,191.798,,,,,,,,,,,20115852,
+212686062,212870485,0,False,residential,Reservoir Avenue,100.474,,,,,,,,,,,20132421,
+212707457,212621586,0,False,residential,Crittenden Road,491.804,,,,,,,,,,,20130367,
+212709743,212709745,0,False,tertiary,Highland Avenue,98.273,,,,30 mph,,,,,,,20117306,
+212709743,212870485,0,False,primary,Mount Hope Avenue,144.315,4,,,30 mph,,,,,,,20134842,NY 15
+212709743,212804982,0,False,primary,Mount Hope Avenue,124.782,4,,,30 mph,,,,,,,20134842,NY 15
+212709745,212709746,0,False,tertiary,Highland Avenue,181.132,,,,30 mph,,,,,,,20117306,
+212709745,212709743,0,False,tertiary,Highland Avenue,98.273,,,,30 mph,,,,,,,20117306,
+212709745,212804982,0,False,residential,Furman Crescent,224.814,,,,,,,,,,,20126471,
+212709746,212709745,0,False,tertiary,Highland Avenue,181.132,,,,30 mph,,,,,,,20117306,
+212709746,212729275,0,False,secondary,South Avenue,160.803,2,,,30 mph,,,,,,,45883745,
+212709746,850366867,0,False,tertiary,Highland Avenue,408.876,,,,30 mph,,,,,,,20117306,
+212709746,212657515,0,False,secondary,South Avenue,109.547,2,,,30 mph,,,,,,,45883745,
+212709778,850366843,0,False,tertiary,Highland Avenue,136.137,,,,30 mph,,,,,,,20117306,
+212709778,212834446,0,False,residential,Azalea Road,262.116,,,,,,,,,,,20129097,
+212709778,850366867,0,False,tertiary,Highland Avenue,127.432,,,,30 mph,,,,,,,20117306,
+212709787,212709791,0,False,tertiary,Highland Avenue,175.623,,,,30 mph,,,,,,,20117306,
+212709787,850366843,0,False,tertiary,Highland Avenue,149.88,,,,30 mph,,,,,,,20117306,
+212709787,2942706309,0,False,secondary,South Goodman Street,602.85,,,,,,,,,,,"[543319252, 139750894]",
+212709791,212709787,0,False,tertiary,Highland Avenue,175.623,,,,30 mph,,,,,,,20117306,
+212729275,212709746,0,False,secondary,South Avenue,160.803,2,,,30 mph,,,,,,,45883745,
+212729275,212917239,0,False,residential,Wall Street,173.06,,,,,,,,,,,20139205,
+212729275,212729278,0,False,secondary,South Avenue,109.505,2,,,30 mph,,,,,,,45883745,
+212729278,212917239,0,False,residential,May Street,92.633,,,,,,,,,,,20136702,
+212729278,5156589301,0,False,secondary,South Avenue,47.035,2,,,30 mph,,,,,,,45883745,
+212729278,212729275,0,False,secondary,South Avenue,109.505,2,,,30 mph,,,,,,,45883745,
+212729281,5156589306,0,False,secondary,South Avenue,39.694,2,,,30 mph,,,,,,,45883745,
+212729281,212796630,0,False,residential,Stewart Street,129.92,,,,,,,,,,,20125778,
+212729281,5156589301,0,False,secondary,South Avenue,43.434,2,,,30 mph,,,,,,,45883745,
+212729286,212882776,0,False,residential,Gold Street,116.937,,,,,,,,,,,20133651,
+212729286,212660882,0,False,secondary,South Avenue,101.634,2,,,30 mph,,,,,,,45883745,
+212729286,212632066,0,False,secondary,South Avenue,90.788,2,,,30 mph,,,,,,,45883745,
+212729286,5156589304,0,False,unclassified,,49.734,2,,,,,,,,,,531188170,
+212729289,212834225,0,False,residential,Southwood Drive,357.931,,,,,,,,,,,20139873,
+212729289,212729296,0,False,secondary,South Avenue,220.862,,,,,,,,,,,290770329,
+212729289,212660882,0,False,secondary,South Avenue,162.906,,,,,,,,,,,290770329,
+212729296,212729300,0,False,secondary,South Avenue,80.847,,,,,,,,,,,290770329,
+212729296,212671870,0,False,residential,Fort Hill Terrace,68.791,,,,,,,,,,,249276449,
+212729296,212729289,0,False,secondary,South Avenue,220.862,,,,,,,,,,,290770329,
+212729300,212827157,0,False,residential,Rosemount Street,217.893,,,,,,,,,,,20128390,
+212729300,212680442,0,False,secondary,South Avenue,80.867,,,,,,,,,,,290770329,
+212729300,212729296,0,False,secondary,South Avenue,80.847,,,,,,,,,,,290770329,
+212729303,212729307,0,False,secondary,South Avenue,42.108,,,,,,,,,,,290770329,
+212729303,212680442,0,False,secondary,South Avenue,38.725,,,,,,,,,,,290770329,
+212729303,5096959789,0,False,residential,Knab Troutman Road,77.351,,,,,,,,,,,20129067,
+212729307,212782732,0,False,residential,Boothe Street,126.19,,,,,,,,,,,20124579,
+212729307,212729303,0,False,secondary,South Avenue,42.108,,,,,,,,,,,290770329,
+212729307,212729314,0,False,secondary,South Avenue,187.952,,,,,,,,,,,290770329,
+212729314,212729316,0,False,secondary,South Avenue,73.465,,,,,,,,,,,290770329,
+212729314,212964794,0,False,residential,Science Parkway,495.412,,,,,,,,,,,20140147,
+212729314,212729307,0,False,secondary,South Avenue,187.952,,,,,,,,,,,290770329,
+212729316,212729314,0,False,secondary,South Avenue,73.465,,,,,,,,,,,290770329,
+212729316,5662809704,0,True,secondary,South Avenue,41.245,,,,,,,,,,,593625354,
+212729322,212859421,0,False,residential,Whiteford Road,389.911,,,,,,,,,,,20131375,
+212729322,5662809705,0,False,primary,East Henrietta Road,15.202,,,,30 mph,,,,,,,303877688,NY 15A
+212729322,5662809704,0,False,primary,East Henrietta Road,34.784,,,,30 mph,,,,,,,593625353,NY 15A
+212755211,212755213,0,False,residential,Eastmoreland Drive,92.059,,,,,,,,,,,20121400,
+212755211,212684836,0,False,residential,Lattimore Road,179.824,,,,,,,,,,,20124948,
+212755211,2704451241,0,False,residential,Lattimore Road,155.907,,,,,,,,,,,20124948,
+212755213,212683574,0,False,residential,Eastmoreland Drive,91.285,,,,,,,,,,,20121400,
+212755213,212755211,0,False,residential,Eastmoreland Drive,92.059,,,,,,,,,,,20121400,
+212755213,2704451243,0,False,residential,Stanford Road West,196.632,,,,,,,,,,,20132045,
+212755215,212755218,0,False,residential,Eastmoreland Drive,86.827,,,,,,,,,,,20121400,
+212755215,212674306,0,False,residential,Eastmoreland Drive,85.05,,,,,,,,,,,20121400,
+212755215,212804559,0,False,residential,Edgemont Road,182.169,,,,,,,,,,,20126432,
+212755215,2704451182,0,False,residential,Edgemont Road,283.831,,,,,,,,,,,20126432,
+212755218,212755215,0,False,residential,Eastmoreland Drive,86.827,,,,,,,,,,,20121400,
+212755218,212674814,0,False,residential,Westmoreland Drive,144.719,,,,,,,,,,,20129129,
+212755218,2704451182,0,False,residential,Westmoreland Drive,327.631,,,,,,,,,,,20129129,
+212766934,850366843,0,False,residential,Laney Road,352.788,2,,,,,,,,,,20122948,
+212766934,212834446,0,False,residential,Arbor Drive,103.389,2,,,,,,,,,,20136481,
+212766934,212660892,0,False,residential,Laney Road,192.881,2,,,,,,,,,,20122948,
+212774672,212684834,0,False,residential,Irvington Road,200.245,,,,,,,,,,,20123826,
+212774672,212894269,0,False,primary,Mount Hope Avenue,95.138,4,,,30 mph,,,,,,,293075358,NY 15
+212774672,212786678,0,False,primary,Mount Hope Avenue,96.199,4,,,30 mph,,,,,,,293075358,NY 15
+212782732,212729307,0,False,residential,Boothe Street,126.19,,,,,,,,,,,20124579,
+212782732,212900629,0,False,primary,East Henrietta Road,148.804,,,,30 mph,,,,,,,303877840,NY 15A
+212782732,212680444,0,False,primary,East Henrietta Road,77.661,,,,30 mph,,,,,,,303877840,NY 15A
+212786678,212684836,0,False,residential,Lattimore Road,161.822,,,,,,,,,,,20124948,
+212786678,212774672,0,False,primary,Mount Hope Avenue,96.199,4,,,30 mph,,,,,,,293075358,NY 15
+212786678,212894273,0,False,primary,Mount Hope Avenue,74.324,4,,,30 mph,,,,,,,293075358,NY 15
+212786681,2704451241,0,False,residential,Lattimore Road,193.333,,,,,,,,,,,20124948,
+212786681,3590480000,0,False,tertiary,Kendrick Road,236.755,,,,,,,,,,,264633648,
+212786681,2704451181,0,False,tertiary,Kendrick Road,323.871,,,,,,,,,,,264633648,
+212796627,212796630,0,False,residential,Stewart Street,121.109,,,,,,,,,,,20125778,
+212796627,212894260,0,False,primary,Mount Hope Avenue,89.379,4,,,30 mph,,,,,,,20134842,NY 15
+212796627,5221908877,0,False,primary,Mount Hope Avenue,43.67,4,,,30 mph,,,,,,,20134842,NY 15
+212796630,212894968,0,False,residential,Phillips Drive,89.379,,,,,,,,,,,20134917,
+212796630,212729281,0,False,residential,Stewart Street,129.92,,,,,,,,,,,20125778,
+212796630,212796627,0,False,residential,Stewart Street,121.109,,,,,,,,,,,20125778,
+212796630,212632059,0,False,residential,Phillips Drive,90.724,,,,,,,,,,,20134917,
+212804559,212755215,0,False,residential,Edgemont Road,182.169,,,,,,,,,,,20126432,
+212804559,212894281,0,False,primary,Mount Hope Avenue,25.532,4,,,30 mph,,,,,,,293075358,NY 15
+212804559,212674814,0,False,primary,Mount Hope Avenue,96.14,4,,,30 mph,,,,,,,293075358,NY 15
+212804982,212709743,0,False,primary,Mount Hope Avenue,124.782,4,,,30 mph,,,,,,,20134842,NY 15
+212804982,212709745,0,False,residential,Furman Crescent,224.814,,,,,,,,,,,20126471,
+212804982,212894260,0,False,primary,Mount Hope Avenue,87.763,4,,,30 mph,,,,,,,20134842,NY 15
+212812022,212812022,0,False,residential,Metropolitan Drive,405.714,,,,,,,,,,,20127089,
+212812022,212812022,1,False,residential,Metropolitan Drive,405.714,,,,,,,,,,,20127089,
+212812022,212674830,0,False,residential,Metropolitan Drive,133.401,,,,,,,,,,,20127089,
+212812582,3238452491,0,True,tertiary,Joseph C. Wilson Boulevard,383.441,2,,,,,,,,,,317566923,
+212827157,212729300,0,False,residential,Rosemount Street,217.893,,,,,,,,,,,20128390,
+212827157,212680444,0,False,primary,East Henrietta Road,79.061,,,,30 mph,,,,,,,303877840,NY 15A
+212827157,2942721815,0,False,primary,East Henrietta Road,90.785,,,,30 mph,,,,,,,303877840,NY 15A
+212834216,212834219,0,False,residential,Knab Troutman Road,154.439,2,,,15 mph,,,,,,,523582970,
+212834219,5097204827,0,False,residential,Southwood Drive,36.315,2,,,15 mph,,,,,,,20139870,
+212834219,5097204830,0,False,residential,Knab Troutman Road,32.32,2,,,15 mph,,,,,,,523582970,
+212834219,212834216,0,False,residential,Knab Troutman Road,154.439,2,,,15 mph,,,,,,,523582970,
+212834225,5097204830,0,False,residential,Knab Troutman Road,9.502,2,,,15 mph,,,,,,,523582970,
+212834225,212729289,0,False,residential,Southwood Drive,357.931,,,,,,,,,,,20139873,
+212834225,2773744899,0,False,residential,Knab Troutman Road,900.759,2,,,15 mph,,,,,,,523582970,
+212834446,212709778,0,False,residential,Azalea Road,262.116,,,,,,,,,,,20129097,
+212834446,212766934,0,False,residential,Arbor Drive,103.389,2,,,,,,,,,,20136481,
+212834446,212914378,0,False,residential,Arbor Drive,102.692,2,,,,,,,,,,20136481,
+212834446,212660888,0,False,residential,Azalea Road,239.058,,,,,,,,,,,20129097,
+212837454,212894240,0,False,primary,Mount Hope Avenue,83.059,4,,,30 mph,,,,,,,20134842,NY 15
+212837454,212686038,0,False,primary,Mount Hope Avenue,193.842,4,,,30 mph,,,,,,,20134842,NY 15
+212848168,212851324,0,False,primary,Mount Hope Avenue,125.143,4,,,30 mph,,,,,,,20134842,NY 15
+212848168,2704180825,0,False,primary,Mount Hope Avenue,95.963,4,,,30 mph,,,,,,,20134842,NY 15
+212851324,212848168,0,False,primary,Mount Hope Avenue,125.143,4,,,30 mph,,,,,,,20134842,NY 15
+212855858,212855858,0,False,residential,University Park,146.353,,,,,,,,,,,20131084,
+212855858,212855858,1,False,residential,University Park,146.353,,,,,,,,,,,20131084,
+212855858,2704451247,0,False,residential,University Park,132.306,,,,,,,,,,,20131084,
+212859421,212729322,0,False,residential,Whiteford Road,389.911,,,,,,,,,,,20131375,
+212859421,212683570,0,False,primary,Mount Hope Avenue,78.198,4,,,30 mph,,,,,,,293075358,NY 15
+212859421,212674302,0,False,primary,Mount Hope Avenue,28.486,4,,,30 mph,,,,,,,293075358,NY 15
+212870343,212870346,0,False,residential,Iola Circle,102.564,,,,,,,,,,,20132407,
+212870343,212942839,0,False,primary,East Henrietta Road,155.627,,,,30 mph,,,,,,,301947621,NY 15A
+212870346,212870350,0,False,residential,Iola Circle,33.705,,,,,,,,,,,20132407,
+212870346,212870343,0,False,residential,Iola Circle,102.564,,,,,,,,,,,20132407,
+212870346,4218029698,0,False,unclassified,Stan Yale Drive,158.409,2,,,,,,,,,,422075745,
+212870350,212870346,0,False,residential,Iola Circle,33.705,,,,,,,,,,,20132407,
+212870485,212709743,0,False,primary,Mount Hope Avenue,144.315,4,,,30 mph,,,,,,,20134842,NY 15
+212870485,212686062,0,False,residential,Reservoir Avenue,100.474,,,,,,,,,,,20132421,
+212870485,212686038,0,False,primary,Mount Hope Avenue,131.397,4,,,30 mph,,,,,,,20134842,NY 15
+212880402,2706022236,0,True,residential,McLean Street,173.986,,,,,,,,,,,20133384,
+212880402,212925920,0,False,residential,Harmon Place,100.35,,,,,,,,,,,20137344,
+212882772,212882776,0,False,residential,Gold Street,121.224,,,,,,,,,,,20133651,
+212882772,212632056,0,False,primary,Mount Hope Avenue,89.922,4,,,30 mph,,,,,,,20134842,NY 15
+212882772,212636358,0,False,primary,Mount Hope Avenue,91.169,4,,,30 mph,,,,,,,20134842,NY 15
+212882776,212882772,0,False,residential,Gold Street,121.224,,,,,,,,,,,20133651,
+212882776,2942716854,0,False,residential,Phillips Drive,91.297,,,,,,,,,,,20134917,
+212882776,212729286,0,False,residential,Gold Street,116.937,,,,,,,,,,,20133651,
+212882776,212632059,0,False,residential,Phillips Drive,90.753,,,,,,,,,,,20134917,
+212894240,2704180798,0,False,primary,Mount Hope Avenue,135.254,4,,,30 mph,,,,,,,20134842,NY 15
+212894240,212837454,0,False,primary,Mount Hope Avenue,83.059,4,,,30 mph,,,,,,,20134842,NY 15
+212894260,212894968,0,False,residential,May Street,121.108,,,,,,,,,,,20136702,
+212894260,212804982,0,False,primary,Mount Hope Avenue,87.763,4,,,30 mph,,,,,,,20134842,NY 15
+212894260,212796627,0,False,primary,Mount Hope Avenue,89.379,4,,,30 mph,,,,,,,20134842,NY 15
+212894269,212684831,0,False,residential,Rossiter Road,238.713,,,,,,,,,,,20139256,
+212894269,5663134597,0,False,primary,Mount Hope Avenue,21.895,4,,,30 mph,,,,,,,293075358,NY 15
+212894269,212774672,0,False,primary,Mount Hope Avenue,95.138,4,,,30 mph,,,,,,,293075358,NY 15
+212894273,212900629,0,False,residential,Brighton Park,262.853,,,,,,,,,,,20135332,
+212894273,212786678,0,False,primary,Mount Hope Avenue,74.324,4,,,30 mph,,,,,,,293075358,NY 15
+212894273,212894277,0,False,primary,Mount Hope Avenue,119.503,4,,,30 mph,,,,,,,293075358,NY 15
+212894277,212905370,0,False,residential,Redfern Drive,337.857,,,,,,,,,,,20135688,
+212894277,212894273,0,False,primary,Mount Hope Avenue,119.503,4,,,30 mph,,,,,,,293075358,NY 15
+212894277,212683570,0,False,primary,Mount Hope Avenue,8.262,4,,,30 mph,,,,,,,293075358,NY 15
+212894281,212674302,0,False,primary,Mount Hope Avenue,68.754,4,,,30 mph,,,,,,,293075358,NY 15
+212894281,212804559,0,False,primary,Mount Hope Avenue,25.532,4,,,30 mph,,,,,,,293075358,NY 15
+212894281,2780318157,0,False,residential,Cimarron Drive,209.089,,,,,,,,,,,20140913,
+212894968,212796630,0,False,residential,Phillips Drive,89.379,,,,,,,,,,,20134917,
+212894968,212917239,0,False,residential,May Street,46.238,,,,,,,,,,,20136702,
+212894968,212894260,0,False,residential,May Street,121.108,,,,,,,,,,,20136702,
+212900629,212894273,0,False,residential,Brighton Park,262.853,,,,,,,,,,,20135332,
+212900629,212905370,0,False,primary,East Henrietta Road,113.204,,,,30 mph,,,,,,,303877840,NY 15A
+212900629,212782732,0,False,primary,East Henrietta Road,148.804,,,,30 mph,,,,,,,303877840,NY 15A
+212905370,212894277,0,False,residential,Redfern Drive,337.857,,,,,,,,,,,20135688,
+212905370,5662809704,0,False,primary,East Henrietta Road,42.526,,,,30 mph,,,,,,,303877840,NY 15A
+212905370,212900629,0,False,primary,East Henrietta Road,113.204,,,,30 mph,,,,,,,303877840,NY 15A
+212914378,212834446,0,False,residential,Arbor Drive,102.692,2,,,,,,,,,,20136481,
+212914378,850366867,0,False,residential,Meadowbrook Road,190.829,2,,,,,,,,,,20138113,
+212914378,212660885,0,False,residential,Meadowbrook Road,282.397,2,,,,,,,,,,20138113,
+212917239,212894968,0,False,residential,May Street,46.238,,,,,,,,,,,20136702,
+212917239,212729278,0,False,residential,May Street,92.633,,,,,,,,,,,20136702,
+212917239,212729275,0,False,residential,Wall Street,173.06,,,,,,,,,,,20139205,
+212925920,212880402,0,False,residential,Harmon Place,100.35,,,,,,,,,,,20137344,
+212927066,212671870,0,False,residential,Fort Hill Terrace,83.622,,,,,,,,,,,249276449,
+212927066,3149342765,0,False,residential,Fort Hill Terrace,55.287,,,,,,,,,,,249276449,
+212927066,212660874,0,False,residential,Westview Terrace,372.181,,,,,,,,,,,"[20137419, 386400926]",
+212942839,212870343,0,False,primary,East Henrietta Road,155.627,,,,30 mph,,,,,,,301947621,NY 15A
+212942839,4218029698,0,False,residential,Stan Yale Drive,103.385,3,,,,,,,,,,20138491,
+212942839,212674822,0,False,primary,East Henrietta Road,183.374,6,,,30 mph,,,,,,,"[531813282, 301947621]",NY 15A
+212964794,212964815,0,False,residential,Science Parkway,77.711,,,,,,,,,,,20140143,
+212964794,361521597,0,False,residential,Science Parkway,207.091,,,,,,,,,,,20140147,
+212964794,212729314,0,False,residential,Science Parkway,495.412,,,,,,,,,,,20140147,
+212964815,212964794,0,False,residential,Science Parkway,77.711,,,,,,,,,,,20140143,
+212964815,212964815,0,True,residential,Science Parkway,102.657,,,,,,,,,,,327921555,
+361521597,212964794,0,False,residential,Science Parkway,207.091,,,,,,,,,,,20140147,
+361521597,361521597,0,True,residential,Science Parkway,143.954,,,,,,,,,,,327921547,
+850366843,212709778,0,False,tertiary,Highland Avenue,136.137,,,,30 mph,,,,,,,20117306,
+850366843,212766934,0,False,residential,Laney Road,352.788,2,,,,,,,,,,20122948,
+850366843,212709787,0,False,tertiary,Highland Avenue,149.88,,,,30 mph,,,,,,,20117306,
+850366867,212914378,0,False,residential,Meadowbrook Road,190.829,2,,,,,,,,,,20138113,
+850366867,212709778,0,False,tertiary,Highland Avenue,127.432,,,,30 mph,,,,,,,20117306,
+850366867,212709746,0,False,tertiary,Highland Avenue,408.876,,,,30 mph,,,,,,,20117306,
+2271213766,5156589724,0,False,unclassified,,75.43,2,,,,,,,,,,"[531188189, 272451527]",
+2271213766,212660882,0,True,primary,Elmwood Avenue,340.377,4,,,30 mph,,,,,,,"[304153243, 531188190]",
+2497180585,212674814,0,False,primary,Mount Hope Avenue,156.989,4,,,30 mph,,,,,,,293075358,NY 15
+2704180798,212880402,0,True,residential,McLean Street,103.481,,,,,,,,,,,20133384,
+2704180798,2704180825,0,False,primary,Mount Hope Avenue,247.509,4,,,30 mph,,,,,,,20134842,NY 15
+2704180798,212894240,0,False,primary,Mount Hope Avenue,135.254,4,,,30 mph,,,,,,,20134842,NY 15
+2704180825,212848168,0,False,primary,Mount Hope Avenue,95.963,4,,,30 mph,,,,,,,20134842,NY 15
+2704180825,2704180798,0,False,primary,Mount Hope Avenue,247.509,4,,,30 mph,,,,,,,20134842,NY 15
+2704451181,2704451182,0,False,residential,Westmoreland Drive,346.836,,,,,,,,,,,20129129,
+2704451181,212786681,0,False,tertiary,Kendrick Road,323.871,,,,,,,,,,,264633648,
+2704451182,2704451249,0,False,residential,Castleman Road,87.16,,,,,,,,,,,20120184,
+2704451182,212755215,0,False,residential,Edgemont Road,283.831,,,,,,,,,,,20126432,
+2704451182,2704451181,0,False,residential,Westmoreland Drive,346.836,,,,,,,,,,,20129129,
+2704451182,212755218,0,False,residential,Westmoreland Drive,327.631,,,,,,,,,,,20129129,
+2704451236,2704451241,0,False,residential,Castleman Road,105.007,,,,,,,,,,,20120184,
+2704451236,2704451240,0,False,residential,Castleman Road,90.289,,,,,,,,,,,20120184,
+2704451236,212684834,0,False,residential,Irvington Road,293.848,,,,,,,,,,,20123826,
+2704451238,2704451240,0,False,residential,Castleman Road,81.646,,,,,,,,,,,20120184,
+2704451238,3475199648,0,False,residential,Castleman Road,80.69,,,,,,,,,,,20120184,
+2704451238,212684829,0,False,residential,Raleigh Street,220.943,,,,,,,,,,,20127841,
+2704451240,2704451236,0,False,residential,Castleman Road,90.289,,,,,,,,,,,20120184,
+2704451240,2704451238,0,False,residential,Castleman Road,81.646,,,,,,,,,,,20120184,
+2704451240,212684831,0,False,residential,Rossiter Road,255.0,,,,,,,,,,,20139256,
+2704451241,2704451243,0,False,residential,Castleman Road,101.614,,,,,,,,,,,20120184,
+2704451241,2704451236,0,False,residential,Castleman Road,105.007,,,,,,,,,,,20120184,
+2704451241,212786681,0,False,residential,Lattimore Road,193.333,,,,,,,,,,,20124948,
+2704451241,212755211,0,False,residential,Lattimore Road,155.907,,,,,,,,,,,20124948,
+2704451243,2704451241,0,False,residential,Castleman Road,101.614,,,,,,,,,,,20120184,
+2704451243,212755213,0,False,residential,Stanford Road West,196.632,,,,,,,,,,,20132045,
+2704451243,2704451247,0,False,residential,Castleman Road,101.347,,,,,,,,,,,20120184,
+2704451247,212683574,0,False,residential,Shelbourne Road,230.796,,,,,,,,,,,20115688,
+2704451247,2704451249,0,False,residential,Castleman Road,99.836,,,,,,,,,,,20120184,
+2704451247,2704451243,0,False,residential,Castleman Road,101.347,,,,,,,,,,,20120184,
+2704451247,212855858,0,False,residential,University Park,132.306,,,,,,,,,,,20131084,
+2704451249,212674306,0,False,residential,Elmerston Road,260.14,,,,,,,,,,,20114998,
+2704451249,2704451182,0,False,residential,Castleman Road,87.16,,,,,,,,,,,20120184,
+2704451249,2704451247,0,False,residential,Castleman Road,99.836,,,,,,,,,,,20120184,
+2704467927,3475199648,0,False,residential,Castleman Road,11.747,,,,,,,,,,,20120184,
+2704467927,3590480000,0,True,tertiary,Crittenden Boulevard,340.274,4,,,,,,,,,,244499798,
+2773744899,5097204827,0,False,residential,Southwood Drive,331.573,2,,,15 mph,,,,,,,20139870,
+2773744899,212834225,0,False,residential,Knab Troutman Road,900.759,2,,,15 mph,,,,,,,523582970,
+2780318157,4211004893,0,False,residential,Cimarron Drive,37.506,,,,,,,,,,,20140913,
+2780318157,4211004893,1,False,residential,,53.356,,,,,,,,,,,273144190,
+2780318157,212894281,0,False,residential,Cimarron Drive,209.089,,,,,,,,,,,20140913,
+2926831786,212657515,0,False,residential,Pavilion Street,209.43,,,,,,,,,,,20113737,
+2942706303,212660888,0,False,residential,Azalea Road,11.354,,,,,,,,,,,20129097,
+2942706303,5662733156,0,True,primary,Elmwood Avenue,185.652,4,,,30 mph,,,,,,,356112220,
+2942706309,5662733156,0,False,secondary,South Goodman Street,10.192,,,,,,,,,,,543319252,
+2942706309,212660892,0,True,primary,Elmwood Avenue,72.833,4,,,30 mph,,,,,,,356112219,
+2942706309,212709787,0,False,secondary,South Goodman Street,602.85,,,,,,,,,,,"[543319252, 139750894]",
+2942716854,212882776,0,False,residential,Phillips Drive,91.297,,,,,,,,,,,20134917,
+2942716854,212636358,0,True,residential,Cook Street,120.581,,,,,,,,,,,20112441,
+2942716854,212660876,0,True,residential,Phillips Drive,70.434,,,,,,,,,,,290770330,
+2942721815,5663134581,0,True,tertiary,Crittenden Boulevard,12.464,4,,,,,,,,,,244499798,
+2942721815,2942721820,0,True,primary,Mount Hope Avenue,182.534,4,,,30 mph,,,,,,,"[290770064, 304152719]",NY 15
+2942721815,212827157,0,False,primary,East Henrietta Road,90.785,,,,30 mph,,,,,,,303877840,NY 15A
+2942721820,5663134584,0,False,residential,Celebration Drive,15.123,,,,,,,,,,,353878501,
+2942721820,5663134595,0,True,primary,Mount Hope Avenue,176.733,4,,,30 mph,,,,,,,"[304152719, 304152722, 304152723, 304152724, 304152725]",NY 15
+2942744969,5663134594,0,True,primary,Elmwood Avenue,10.578,,,,30 mph,,,,,,,290770068,Elmwood Avenue;CR 87
+2942744969,212660874,0,False,primary,Elmwood Avenue,71.887,6,,,30 mph,,,,,,,"[340303864, 593685054]",Elmwood Avenue;CR 87
+2942744985,3475196376,0,False,secondary_link,,10.977,,,,,,,,,,,340303868,
+2942744985,3167263689,0,True,primary,Elmwood Avenue,501.693,,,,30 mph,,,,,,,"[325214385, 325214395, 325214388, 325214390]",Elmwood Avenue;CR 87
+3028214763,3475200595,0,False,residential,East Drive,151.623,,,,,,,,,,,324518420,
+3028214763,3471758858,0,False,residential,East Drive,153.974,,,,,,,,,,,324518420,
+3028214763,5663134584,0,False,residential,Celebration Drive,250.503,,,,,,,,,,,353878501,
+3149342765,212927066,0,False,residential,Fort Hill Terrace,55.287,,,,,,,,,,,249276449,
+3167263689,3475196321,0,True,primary,Elmwood Avenue,27.481,,,,30 mph,,,,,,,479696587,Elmwood Avenue;CR 87
+3167263689,3475196328,0,False,primary,Elmwood Avenue,49.259,,,,,,,,,,,325214402,
+3167263689,3475199689,0,True,tertiary,Kendrick Road,53.768,,,,,,,,,,,340303865,
+3179236461,4304816006,0,False,tertiary,Joseph C. Wilson Boulevard,75.279,2,,,,,,,,,,24877394,
+3238452491,212812582,0,True,tertiary,Joseph C. Wilson Boulevard,387.437,,,,,,,,,,,317566925,
+3471758857,3475200595,0,False,residential,East Drive,11.366,,,,,,,,,,,324518420,
+3471758857,2942744985,0,True,primary,Elmwood Avenue,172.776,,,,30 mph,,,,,,,325214393,Elmwood Avenue;CR 87
+3471758858,212684826,0,True,tertiary,Crittenden Boulevard,99.111,4,,,,,,,,,,244499798,
+3471758858,3475199661,0,False,residential,East Drive,12.435,,,,,,,,,,,324518420,
+3471758858,3028214763,0,False,residential,East Drive,153.974,,,,,,,,,,,324518420,
+3475196321,3475196376,0,True,primary,Elmwood Avenue,473.195,,,,30 mph,,,,,,,340303863,Elmwood Avenue;CR 87
+3475196328,4304816006,0,False,primary,Elmwood Avenue,132.091,,,,,,,,,,,325214400,
+3475196328,3167263689,0,False,primary,Elmwood Avenue,49.259,,,,,,,,,,,325214402,
+3475196328,3475199689,0,True,tertiary_link,,87.792,,,,,,,,,,,340303870,
+3475196376,2942744985,0,False,secondary_link,,10.977,,,,,,,,,,,340303868,
+3475196376,3475200595,0,True,primary,Elmwood Avenue,172.432,,,,30 mph,,,,,,,340303863,Elmwood Avenue;CR 87
+3475199648,2704467927,0,False,residential,Castleman Road,11.747,,,,,,,,,,,20120184,
+3475199648,2704451238,0,False,residential,Castleman Road,80.69,,,,,,,,,,,20120184,
+3475199648,3475199657,0,True,tertiary,Crittenden Boulevard,189.136,4,,,,,,,,,,340303862,
+3475199657,212684826,0,False,residential,Norfolk Street,11.783,,,,,,,,,,,20115775,
+3475199657,212684829,0,False,residential,Norfolk Street,76.647,,,,,,,,,,,20115775,
+3475199657,3475199661,0,True,tertiary,Crittenden Boulevard,99.614,4,,,,,,,,,,340303862,
+3475199661,3471758858,0,False,residential,East Drive,12.435,,,,,,,,,,,324518420,
+3475199661,5663134580,0,True,tertiary,Crittenden Boulevard,194.543,4,,,,,,,,,,340303862,
+3475199689,3590480000,0,True,tertiary,Kendrick Road,141.016,,,,,,,,,,,479696586,
+3475200499,3475196321,0,True,tertiary,,37.799,,,,,,,,,,,340303869,
+3475200499,3167263689,0,True,tertiary,Kendrick Road,37.751,,,,,,,,,,,479696588,
+3475200595,3471758857,0,False,residential,East Drive,11.366,,,,,,,,,,,324518420,
+3475200595,3028214763,0,False,residential,East Drive,151.623,,,,,,,,,,,324518420,
+3475200595,5663134586,0,True,primary,Elmwood Avenue,322.78,,,,30 mph,,,,,,,340303863,Elmwood Avenue;CR 87
+3475200625,5663134589,0,True,primary,Mount Hope Avenue,12.226,4,,,30 mph,,,,,,,593685058,NY 15
+3475200625,212636358,0,False,primary,Mount Hope Avenue,112.791,4,,,30 mph,,,,,,,20134842,NY 15
+3590480000,212786681,0,False,tertiary,Kendrick Road,236.755,,,,,,,,,,,264633648,
+3590480000,3475199648,0,True,tertiary,Crittenden Boulevard,336.721,4,,,,,,,,,,340303862,
+3590480000,3475200499,0,True,tertiary,Kendrick Road,156.717,,,,,,,,,,,340303866,
+4211004893,4211004905,0,False,residential,Cimarron Drive,49.756,,,,,,,,,,,20140913,
+4211004893,2780318157,0,False,residential,Cimarron Drive,37.506,,,,,,,,,,,20140913,
+4211004893,2780318157,1,False,residential,,53.356,,,,,,,,,,,273144190,
+4211004905,4211004905,0,False,residential,Cimarron Drive,91.503,,,,,,,,,,,20140913,
+4211004905,4211004905,1,False,residential,Cimarron Drive,91.503,,,,,,,,,,,20140913,
+4211004905,4211004893,0,False,residential,Cimarron Drive,49.756,,,,,,,,,,,20140913,
+4218029698,212942839,0,False,residential,Stan Yale Drive,103.385,3,,,,,,,,,,20138491,
+4218029698,212648750,0,False,unclassified,Stan Yale Drive,398.68,2,,,,,,,,,,422075745,
+4218029698,212870346,0,False,unclassified,Stan Yale Drive,158.409,2,,,,,,,,,,422075745,
+4304816006,3179236461,0,False,tertiary,Joseph C. Wilson Boulevard,75.279,2,,,,,,,,,,24877394,
+4304816006,212625279,0,False,residential,"['Hawthorn Drive', 'Moore Road']",838.578,,,,,,,yes,,,,"[24016041, 24016042, 20111782]",
+4304816006,3475196328,0,False,primary,Elmwood Avenue,132.091,,,,,,,,,,,325214400,
+5096959789,212729303,0,False,residential,Knab Troutman Road,77.351,,,,,,,,,,,20129067,
+5097204827,212834219,0,False,residential,Southwood Drive,36.315,2,,,15 mph,,,,,,,20139870,
+5097204827,2773744899,0,False,residential,Southwood Drive,331.573,2,,,15 mph,,,,,,,20139870,
+5097204827,5097204830,0,False,residential,Southwood Drive,39.582,2,,,15 mph,,,,,,,523621167,
+5097204830,212834225,0,False,residential,Knab Troutman Road,9.502,2,,,15 mph,,,,,,,523582970,
+5097204830,212834219,0,False,residential,Knab Troutman Road,32.32,2,,,15 mph,,,,,,,523582970,
+5097204830,5097204827,0,False,residential,Southwood Drive,39.582,2,,,15 mph,,,,,,,523621167,
+5156589301,5156589303,0,False,unclassified,,52.798,2,,,,,,,,,,531188168,
+5156589301,212729281,0,False,secondary,South Avenue,43.434,2,,,30 mph,,,,,,,45883745,
+5156589301,212729278,0,False,secondary,South Avenue,47.035,2,,,30 mph,,,,,,,45883745,
+5156589303,5156589301,0,False,unclassified,,52.798,2,,,,,,,,,,531188168,
+5156589303,5156589307,0,False,unclassified,,83.043,2,,,,,,,,,,531188169,
+5156589303,5156589724,0,False,unclassified,,380.879,2,,,,,,,,,,531188188,
+5156589304,5156589305,0,False,unclassified,,86.062,2,,,,,,,,,,531188169,
+5156589304,5156589724,0,False,unclassified,,225.352,2,,,,,,,,,,272451527,
+5156589304,212729286,0,False,unclassified,,49.734,2,,,,,,,,,,531188170,
+5156589305,5156589304,0,False,unclassified,,86.062,2,,,,,,,,,,531188169,
+5156589305,5156589307,0,False,unclassified,,51.307,2,,,,,,,,,,531188169,
+5156589305,212632066,0,False,unclassified,,52.984,2,,,,,,,,,,531188171,
+5156589306,212729281,0,False,secondary,South Avenue,39.694,2,,,30 mph,,,,,,,45883745,
+5156589306,212632066,0,False,secondary,South Avenue,52.307,2,,,30 mph,,,,,,,45883745,
+5156589306,5156589307,0,False,unclassified,,53.02,2,,,,,,,,,,531188172,
+5156589307,5156589305,0,False,unclassified,,51.307,2,,,,,,,,,,531188169,
+5156589307,5156589303,0,False,unclassified,,83.043,2,,,,,,,,,,531188169,
+5156589307,5156589306,0,False,unclassified,,53.02,2,,,,,,,,,,531188172,
+5156589724,2271213766,0,False,unclassified,,75.43,2,,,,,,,,,,"[531188189, 272451527]",
+5156589724,5156589304,0,False,unclassified,,225.352,2,,,,,,,,,,272451527,
+5156589724,5156589303,0,False,unclassified,,380.879,2,,,,,,,,,,531188188,
+5221908876,5221908877,0,False,unclassified,,26.562,,,,,,,,,,,539694367,
+5221908877,212632056,0,False,primary,Mount Hope Avenue,46.022,4,,,30 mph,,,,,,,20134842,NY 15
+5221908877,5221908876,0,False,unclassified,,26.562,,,,,,,,,,,539694367,
+5221908877,212796627,0,False,primary,Mount Hope Avenue,43.67,4,,,30 mph,,,,,,,20134842,NY 15
+5662733156,2942706309,0,False,secondary,South Goodman Street,10.192,,,,,,,,,,,543319252,
+5662809704,212905370,0,False,primary,East Henrietta Road,42.526,,,,30 mph,,,,,,,303877840,NY 15A
+5662809704,212729322,0,False,primary,East Henrietta Road,34.784,,,,30 mph,,,,,,,593625353,NY 15A
+5662809705,212729322,0,False,primary,East Henrietta Road,15.202,,,,30 mph,,,,,,,303877688,NY 15A
+5662809705,212674822,0,False,primary,East Henrietta Road,193.743,5,,,30 mph,,,,,,,"[303877688, 531813281]",NY 15A
+5662809705,212729316,0,True,secondary,South Avenue,86.642,,,,,,,,,,,593625355,
+5663134578,212684829,0,False,residential,Raleigh Street,264.388,,,,,,,,,,,20127841,
+5663134578,5663134597,0,True,primary,Mount Hope Avenue,57.737,4,,,30 mph,,,,,,,593685058,NY 15
+5663134580,2942721815,0,True,tertiary,Crittenden Boulevard,10.885,4,,,,,,,,,,340303862,
+5663134580,5663134578,0,True,primary,Mount Hope Avenue,74.271,4,,,30 mph,,,,,,,593685058,NY 15
+5663134581,5663134580,0,True,primary,Mount Hope Avenue,5.593,4,,,30 mph,,,,,,,593685058,NY 15
+5663134581,3471758858,0,True,tertiary,Crittenden Boulevard,200.706,4,,,,,,,,,,244499798,
+5663134584,2942721820,0,False,residential,Celebration Drive,15.123,,,,,,,,,,,353878501,
+5663134584,3028214763,0,False,residential,Celebration Drive,250.503,,,,,,,,,,,353878501,
+5663134584,5663134581,0,True,primary,Mount Hope Avenue,174.231,4,,,30 mph,,,,,,,593685058,NY 15
+5663134586,5663134595,0,True,primary,Elmwood Avenue,12.221,,,,30 mph,,,,,,,340303863,Elmwood Avenue;CR 87
+5663134586,5663134584,0,True,primary,Mount Hope Avenue,173.794,4,,,30 mph,,,,,,,593685058,NY 15
+5663134589,3471758857,0,True,primary,Elmwood Avenue,328.309,,,,30 mph,,,,,,,290770068,Elmwood Avenue;CR 87
+5663134589,5663134586,0,True,primary,Mount Hope Avenue,13.482,4,,,30 mph,,,,,,,593685058,NY 15
+5663134594,5663134589,0,True,primary,Elmwood Avenue,9.993,,,,30 mph,,,,,,,290770068,Elmwood Avenue;CR 87
+5663134594,3475200625,0,True,primary,Mount Hope Avenue,9.265,4,,,30 mph,,,,,,,304152725,NY 15
+5663134595,5663134594,0,True,primary,Mount Hope Avenue,10.908,4,,,30 mph,,,,,,,304152725,NY 15
+5663134595,2942744969,0,True,primary,Elmwood Avenue,14.542,,,,30 mph,,,,,,,340303863,Elmwood Avenue;CR 87
+5663134597,212894269,0,False,primary,Mount Hope Avenue,21.895,4,,,30 mph,,,,,,,293075358,NY 15
+5663134597,2942721815,0,True,primary,Mount Hope Avenue,131.422,4,,,30 mph,,,,,,,"[304152409, 593685061]",NY 15

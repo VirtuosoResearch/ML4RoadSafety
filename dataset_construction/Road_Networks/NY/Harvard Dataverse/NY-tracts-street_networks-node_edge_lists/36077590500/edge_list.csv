@@ -1,0 +1,775 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+213131693,213149429,0,False,residential,,77.93,,,,,,,,,,,20153258,
+213131693,213152108,0,False,residential,,19.482,,,,,,,,,,,20153258,
+213131693,213131731,0,False,residential,,107.305,,,,,,,,,,,20151830,
+213131693,213149435,0,False,residential,,119.606,,,,,,,,,,,20153258,
+213131731,213149429,0,False,residential,,29.965,,,,,,,,,,,20153083,
+213131731,213131693,0,False,residential,,107.305,,,,,,,,,,,20151830,
+213131731,213149419,0,False,residential,,61.927,,,,,,,,,,,20153083,
+213131731,213149419,1,False,residential,Van Valkenburg Road,271.837,,,,,,,,,,,20166208,
+213132320,213174594,0,False,residential,Barlow Road,114.861,,,,,,,,,,,20164178,
+213132389,213132400,0,False,residential,,74.188,,,,,,,,,,,20151887,
+213132389,5118781976,0,False,primary,State Highway 28,769.593,,,,,,,,,,,20177489,NY 28
+213132389,213293220,0,False,primary,State Highway 28,68.255,,,,,,,,,,,20177489,NY 28
+213132400,213293220,0,False,tertiary,County Highway 35A,16.435,,,,,,,,,,,20169684,CR 35A
+213132400,213132389,0,False,residential,,74.188,,,,,,,,,,,20151887,
+213132400,213278100,0,False,tertiary,County Highway 35A,168.532,,,,,,,yes,,,,"[20172659, 20169684, 132357700]",CR 35A
+213132400,213293197,0,False,residential,School House Hill Road,200.12,,,,,,,,,,,20169686,
+213132898,213132915,0,True,motorway_link,,594.156,,,,,,,,,,,20151914,NY 28
+213132898,213132933,0,True,motorway,,1210.875,2,,,65 mph,,,yes,,,,"[38536766, 38536765, 48258606]",I 88
+213132915,213158624,0,False,unclassified,Gersoni Road,268.443,,,,,,,,,,,20163923,
+213132915,213132933,0,True,motorway_link,,626.862,,,,,,,,,,,38536764,
+213132915,213153328,0,False,primary,Gersoni Road,249.434,,,,,,,,,,,48258611,NY 28
+213133074,213332262,0,False,primary,State Highway 28,23.99,,,,,,,,,,,20177489,NY 28
+213133074,213133081,0,False,residential,,104.946,,,,,,,,,,,20151928,
+213133074,213340756,0,False,primary,State Highway 28,293.135,,,,,,,,,,,20177489,NY 28
+213133081,213205499,0,False,residential,Bob Wilson Road,54.758,,,,,,,,,,,20162328,
+213133081,213133074,0,False,residential,,104.946,,,,,,,,,,,20151928,
+213133081,213205514,0,False,residential,Bob Wilson Road,258.838,,,,,,,,,,,20162328,
+213133158,213133161,0,False,residential,,45.366,,,,,,,,,,,20151935,
+213133158,213214536,0,False,residential,Lee Drive,44.289,,,,,,,,,,,20166222,
+213133158,213240213,0,False,residential,Lee Drive,229.565,,,,,,,,,,,20166222,
+213133161,213133158,0,False,residential,,45.366,,,,,,,,,,,20151935,
+213134764,213134784,0,False,residential,,175.385,,,,,,,,,,,20152059,
+213134764,213134814,0,False,tertiary,County Highway 35,98.837,,,,,,,,,,,20180486,CR 35
+213134764,213331326,0,False,tertiary,County Highway 35,289.205,,,,,,,,,,,20180486,CR 35
+213134784,213134808,0,False,residential,,51.402,,,,,,,,,,,20152063,
+213134784,213134764,0,False,residential,,175.385,,,,,,,,,,,20152059,
+213134784,213134814,0,False,residential,,44.632,,,,,,,,,,,20152063,
+213134808,213134784,0,False,residential,,51.402,,,,,,,,,,,20152063,
+213134814,213134784,0,False,residential,,44.632,,,,,,,,,,,20152063,
+213134814,213134764,0,False,tertiary,County Highway 35,98.837,,,,,,,,,,,20180486,CR 35
+213137506,213137534,0,False,residential,,203.997,,,,,,,,,,,20152238,
+213137506,213164826,0,False,primary,State Highway 28,1321.869,,,,,,,,,,,20177489,NY 28
+213137506,213248731,0,False,primary,State Highway 28,656.718,,,,,,,,,,,20177489,NY 28
+213137534,213137506,0,False,residential,,203.997,,,,,,,,,,,20152238,
+213139385,213139388,0,False,residential,,193.484,,,,,,,,,,,20152382,
+213139388,213139391,0,False,residential,,300.9,,,,,,,,,,,20152382,
+213139388,213139385,0,False,residential,,193.484,,,,,,,,,,,20152382,
+213139388,213139399,0,False,residential,,93.562,,,,,,,,,,,20152383,
+213139391,213139388,0,False,residential,,300.9,,,,,,,,,,,20152382,
+213139391,213171764,0,False,residential,Dorr Edison Road,322.988,,,,,,,,,,,20177061,
+213139391,213139412,0,False,residential,Dorr Edison Road,168.951,,,,,,,,,,,20177061,
+213139399,213139388,0,False,residential,,93.562,,,,,,,,,,,20152383,
+213139409,213139412,0,False,residential,,343.567,,,,,,,,,,,20152384,
+213139412,213139409,0,False,residential,,343.567,,,,,,,,,,,20152384,
+213139412,213139391,0,False,residential,Dorr Edison Road,168.951,,,,,,,,,,,20177061,
+213139412,213292754,0,False,residential,"['Dorr Edson Road', 'Dorr Edison Road']",1994.292,,,,,,,,,,,"[20177061, 20172742]",
+213139436,213139447,0,False,residential,,750.583,,,,,,,,,,,"[20152385, 20152389]",
+213139436,213139447,1,False,primary,State Highway 28,176.4,,,,,,,,,,,20177489,NY 28
+213139436,213339803,0,False,primary,State Highway 28,55.379,,,,,,,,,,,20177489,NY 28
+213139447,213139436,0,False,residential,,750.583,,,,,,,,,,,"[20152385, 20152389]",
+213139447,213139436,1,False,primary,State Highway 28,176.4,,,,,,,,,,,20177489,NY 28
+213139447,213191096,0,False,primary,State Highway 28,368.396,,,,,,,,,,,20177489,NY 28
+213141759,213141794,0,False,residential,,106.294,,,,,,,,,,,20152539,
+213141759,213141794,1,False,tertiary,County Road 44,35.467,,,,,,,,,,,20175479,CR 44
+213141759,213362659,0,False,tertiary,County Road 44,1390.083,,,,,,,,,,,20175479,CR 44
+213141794,213141759,0,False,residential,,106.294,,,,,,,,,,,20152539,
+213141794,213141759,1,False,tertiary,County Road 44,35.467,,,,,,,,,,,20175479,CR 44
+213141794,213203039,0,False,tertiary,County Road 44,3246.604,,,,,,,,,,,20175479,CR 44
+213142231,213142234,0,False,residential,,25.339,,,,,,,,,,,20152571,
+213142231,213218779,0,False,tertiary,West Main Street,86.383,,,,,,,,,,,20167098,CR 44
+213142231,213142767,0,False,tertiary,West Main Street,21.482,,,,,,,,,,,20167098,CR 44
+213142234,213142231,0,False,residential,,25.339,,,,,,,,,,,20152571,
+213142285,213142289,0,False,residential,,41.145,,,,,,,,,,,20152576,
+213142285,213261195,0,False,tertiary,West Main Street,18.175,,,,,,,,,,,20167098,CR 44
+213142285,213142767,0,False,tertiary,West Main Street,30.283,,,,,,,,,,,20167098,CR 44
+213142289,213142285,0,False,residential,,41.145,,,,,,,,,,,20152576,
+213142387,213142389,0,False,residential,,27.871,,,,,,,,,,,20152582,
+213142387,213142424,0,False,primary,North Main Street,119.95,,,,,,,,,,,20170695,NY 28
+213142387,213218779,0,False,primary,North Main Street,201.97,,,,,,,,,,,20170695,NY 28
+213142389,213142387,0,False,residential,,27.871,,,,,,,,,,,20152582,
+213142424,213142427,0,False,residential,,50.681,,,,,,,,,,,20152584,
+213142424,213186763,0,False,primary,North Main Street,272.793,,,,,,,,,,,20170695,NY 28
+213142424,213142387,0,False,primary,North Main Street,119.95,,,,,,,,,,,20170695,NY 28
+213142427,213142424,0,False,residential,,50.681,,,,,,,,,,,20152584,
+213142518,213142518,0,False,residential,,167.905,,,,,,,,,,,20152598,
+213142518,213142518,1,False,residential,,167.905,,,,,,,,,,,20152598,
+213142518,213168313,0,False,residential,,117.429,,,,,,,,,,,20154614,
+213142561,213142561,0,False,residential,,114.72,,,,,,,,,,,20152599,
+213142561,213142561,1,False,residential,,114.72,,,,,,,,,,,20152599,
+213142561,213169295,0,False,residential,,109.823,,,,,,,,,,,20154721,
+213142767,213142768,0,False,residential,,68.62,,,,,,,,,,,20152618,
+213142767,213142285,0,False,tertiary,West Main Street,30.283,,,,,,,,,,,20167098,CR 44
+213142767,213142231,0,False,tertiary,West Main Street,21.482,,,,,,,,,,,20167098,CR 44
+213142768,213142767,0,False,residential,,68.62,,,,,,,,,,,20152618,
+213143987,213143996,0,False,residential,,41.786,,,,,,,,,,,20152697,
+213143996,213144007,0,False,residential,,219.392,,,,,,,,,,,20152697,
+213143996,213143987,0,False,residential,,41.786,,,,,,,,,,,20152697,
+213143996,213163812,0,False,residential,,224.626,,,,,,,,,,,20154190,
+213144007,213163812,0,False,residential,,15.968,,,,,,,,,,,20154258,
+213144007,213143996,0,False,residential,,219.392,,,,,,,,,,,20152697,
+213144007,213164728,0,False,residential,,215.283,,,,,,,,,,,20154258,
+213145952,213164826,0,False,primary,State Highway 28,41.235,,,,,,,,,,,20177489,NY 28
+213145952,213146066,0,False,residential,,563.628,,,,,,,,,,,20152843,
+213145952,213164948,0,False,primary,State Highway 28,778.604,,,,,,,,,,,20177489,NY 28
+213146066,213145952,0,False,residential,,563.628,,,,,,,,,,,20152843,
+213148774,213148930,0,False,residential,,891.837,,,,,,,,,,,20153046,
+213148930,213148774,0,False,residential,,891.837,,,,,,,,,,,20153046,
+213148930,213227199,0,False,primary,State Highway 28,794.887,,,,,,,,,,,20177489,NY 28
+213148930,213234424,0,False,primary,State Highway 28,894.876,,,,,,,,,,,20177489,NY 28
+213149419,213131731,0,False,residential,,61.927,,,,,,,,,,,20153083,
+213149419,213131731,1,False,residential,Van Valkenburg Road,271.837,,,,,,,,,,,20166208,
+213149419,213248731,0,False,residential,Van Valkenburg Road,124.157,,,,,,,,,,,20166208,
+213149429,213131731,0,False,residential,,29.965,,,,,,,,,,,20153083,
+213149429,213131693,0,False,residential,,77.93,,,,,,,,,,,20153258,
+213149429,213149435,0,False,residential,,42.793,,,,,,,,,,,20153083,
+213149429,213149435,1,False,residential,,357.387,,,,,,,,,,,20153258,
+213149435,213149429,0,False,residential,,42.793,,,,,,,,,,,20153083,
+213149435,213149429,1,False,residential,,357.387,,,,,,,,,,,20153258,
+213149435,213131693,0,False,residential,,119.606,,,,,,,,,,,20153258,
+213150227,213150230,0,False,residential,,133.964,,,,,,,,,,,20153152,
+213150227,213170437,0,False,residential,"['Tansy Hill Road', 'Eddie Martin Road']",208.873,,,,,,,,,,,"[20162549, 20165166]",
+213150227,213234436,0,False,residential,Tansy Hill Road,215.161,,,,,,,,,,,20165166,
+213150230,213150227,0,False,residential,,133.964,,,,,,,,,,,20153152,
+213150262,213150310,0,False,residential,,199.761,,,,,,,,,,,20153159,
+213150262,213153762,0,False,tertiary,County Highway 35,1946.082,,,,,,,,,,,20180527,CR 35
+213150262,213166897,0,False,tertiary,County Highway 35,1296.688,,,,,,,,,,,20180527,CR 35
+213150310,213150262,0,False,residential,,199.761,,,,,,,,,,,20153159,
+213152108,213131693,0,False,residential,,19.482,,,,,,,,,,,20153258,
+213153328,213153300,0,True,motorway_link,,555.55,,,,,,,,,,,20153352,NY 28
+213153328,213222289,0,False,primary,Gersoni Road,496.553,2,,,,,,yes,,,,"[197880456, 197880458, 48258607]",NY 28
+213153328,213132915,0,False,primary,Gersoni Road,249.434,,,,,,,,,,,48258611,NY 28
+213153341,213153300,0,True,motorway,,1080.743,2,,,65 mph,,,yes,,,,"[38536768, 38536767, 38522503]",I 88
+213153341,213153328,0,True,motorway_link,,539.921,,,,,,,,,,,38536763,
+213153762,213175694,0,False,tertiary,County Highway 35,18.681,,,,,,,,,,,20180527,CR 35
+213153762,213153794,0,False,residential,,427.364,,,,,,,,,,,20153383,
+213153762,213150262,0,False,tertiary,County Highway 35,1946.082,,,,,,,,,,,20180527,CR 35
+213153794,213153762,0,False,residential,,427.364,,,,,,,,,,,20153383,
+213155216,213155246,0,False,residential,Spoonville Road,28.14,,,,,,,,,,,20170793,
+213155216,213155246,1,False,residential,,53.562,,,,,,,,,,,20153495,
+213155216,213155246,2,False,residential,,46.933,,,,,,,,,,,20153495,
+213155216,213288672,0,False,residential,Spoonville Road,367.931,,,,,,,,,,,20170793,
+213155246,213155216,0,False,residential,Spoonville Road,28.14,,,,,,,,,,,20170793,
+213155246,213155216,1,False,residential,,46.933,,,,,,,,,,,20153495,
+213155246,213155216,2,False,residential,,53.562,,,,,,,,,,,20153495,
+213155246,213308520,0,False,residential,Spoonville Road,43.547,,,,,,,,,,,20170793,
+213157151,213157167,0,False,residential,,212.005,,,,,,,,,,,20153633,
+213157151,213164236,0,False,secondary,D. K. Lifgren Drive,195.184,,,,,,,,,,,20177438,
+213157151,213278642,0,False,secondary,D. K. Lifgren Drive,482.14,,,,,,,,,,,20177438,
+213157167,213164236,0,False,residential,,49.849,,,,,,,,,,,20154234,
+213157167,213157171,0,False,residential,,112.379,,,,,,,,,,,20153633,
+213157167,213157151,0,False,residential,,212.005,,,,,,,,,,,20153633,
+213157171,213157167,0,False,residential,,112.379,,,,,,,,,,,20153633,
+213158624,213158635,0,False,residential,,100.183,,,,,,,,,,,20153777,
+213158624,213132915,0,False,unclassified,Gersoni Road,268.443,,,,,,,,,,,20163923,
+213158624,213222210,0,False,unclassified,Gersoni Road,1211.232,,,,,,,,,,,20163923,
+213158635,213158624,0,False,residential,,100.183,,,,,,,,,,,20153777,
+213159599,213159617,0,False,residential,,149.442,,,,,,,,,,,20153858,
+213159599,213320425,0,False,residential,Burillo Road,1091.793,,,,,,,,,,,20171796,
+213159599,213320327,0,False,residential,Burillo Road,663.009,,,,,,,,,,,20171796,
+213159617,213159599,0,False,residential,,149.442,,,,,,,,,,,20153858,
+213162301,213169009,0,False,residential,,440.009,,,,,,,,,,,"[20154679, 20154063]",
+213162301,213164773,0,False,residential,,59.995,,,,,,,,,,,20154258,
+213162301,213164728,0,False,residential,,331.31,,,,,,,,,,,20154258,
+213162917,213191096,0,False,primary,State Highway 28,193.443,,,,,,,,,,,20177489,NY 28
+213162917,213162922,0,False,residential,,207.246,,,,,,,,,,,20154121,
+213162917,213222356,0,False,primary,State Highway 28,1070.66,,,,,,,,,,,20177489,NY 28
+213162922,213162925,0,False,residential,,114.063,,,,,,,,,,,20154121,
+213162922,213184879,0,False,residential,,139.244,,,,,,,,,,,20157691,
+213162922,213162917,0,False,residential,,207.246,,,,,,,,,,,20154121,
+213162925,213162922,0,False,residential,,114.063,,,,,,,,,,,20154121,
+213163812,213144007,0,False,residential,,15.968,,,,,,,,,,,20154258,
+213163812,213143996,0,False,residential,,224.626,,,,,,,,,,,20154190,
+213163812,213164694,0,False,residential,,111.636,,,,,,,,,,,20154258,
+213163845,213163849,0,False,residential,,73.088,,,,,,,,,,,20154193,
+213163845,213266447,0,False,residential,Collars Road,962.091,,,,,,,,,,,20167457,
+213163845,213266391,0,False,residential,Collars Road,58.291,,,,,,,,,,,20167457,
+213163849,213163845,0,False,residential,,73.088,,,,,,,,,,,20154193,
+213163849,213203395,0,False,residential,Kelly Corners Road,31.116,,,,,,,,,,,20170585,
+213163849,213219295,0,False,residential,Kelly Corners Road,752.513,,,,,,,,,,,20170585,
+213164236,213157167,0,False,residential,,49.849,,,,,,,,,,,20154234,
+213164236,213222356,0,False,secondary,D. K. Lifgren Drive,139.173,,,,,,,,,,,20177438,
+213164236,213157151,0,False,secondary,D. K. Lifgren Drive,195.184,,,,,,,,,,,20177438,
+213164694,213163812,0,False,residential,,111.636,,,,,,,,,,,20154258,
+213164728,213162301,0,False,residential,,331.31,,,,,,,,,,,20154258,
+213164728,213144007,0,False,residential,,215.283,,,,,,,,,,,20154258,
+213164728,213339995,0,False,residential,Silliman Cove Road,409.62,,,,,,,,,,,20173302,
+213164728,213164797,0,False,residential,Silliman Cove Road,47.632,,,,,,,,,,,20173302,
+213164773,213162301,0,False,residential,,59.995,,,,,,,,,,,20154258,
+213164797,213164818,0,False,residential,,65.811,,,,,,,,,,,20154262,
+213164797,213164818,1,False,residential,Silliman Cove Road,36.916,,,,,,,,,,,20173302,
+213164797,213164728,0,False,residential,Silliman Cove Road,47.632,,,,,,,,,,,20173302,
+213164818,213164797,0,False,residential,,65.811,,,,,,,,,,,20154262,
+213164818,213164797,1,False,residential,Silliman Cove Road,36.916,,,,,,,,,,,20173302,
+213164818,213339955,0,False,residential,Silliman Cove Road,121.016,,,,,,,,,,,20173302,
+213164826,213145952,0,False,primary,State Highway 28,41.235,,,,,,,,,,,20177489,NY 28
+213164826,213164861,0,False,residential,,129.262,,,,,,,,,,,20154264,
+213164826,213137506,0,False,primary,State Highway 28,1321.869,,,,,,,,,,,20177489,NY 28
+213164861,213164826,0,False,residential,,129.262,,,,,,,,,,,20154264,
+213164931,213164948,0,False,residential,,137.845,,,,,,,,,,,20154272,
+213164931,213164948,1,False,primary,State Highway 28,110.813,,,,,,,,,,,20177489,NY 28
+213164931,213234424,0,False,primary,State Highway 28,1019.372,,,,,,,,,,,20177489,NY 28
+213164948,213164931,0,False,residential,,137.845,,,,,,,,,,,20154272,
+213164948,213164931,1,False,primary,State Highway 28,110.813,,,,,,,,,,,20177489,NY 28
+213164948,213145952,0,False,primary,State Highway 28,778.604,,,,,,,,,,,20177489,NY 28
+213165001,213165098,0,False,residential,,649.974,,,,,,,,,,,20154281,
+213165001,213203142,0,False,residential,Lougheed Road,1346.478,,,,,,,,,,,20161783,
+213165001,213203039,0,False,residential,Lougheed Road,786.944,,,,,,,,,,,20161783,
+213165098,213165001,0,False,residential,,649.974,,,,,,,,,,,20154281,
+213165196,213165199,0,False,residential,,45.544,,,,,,,,,,,20154291,
+213165196,213202410,0,False,residential,Hall Road,93.684,,,,,,,,,,,20162921,
+213165196,213212124,0,False,residential,Hall Road,403.268,,,,,,,,,,,20162921,
+213165199,213165206,0,False,residential,,132.758,,,,,,,,,,,20154291,
+213165199,213165196,0,False,residential,,45.544,,,,,,,,,,,20154291,
+213165199,213165218,0,False,residential,,90.119,,,,,,,,,,,20154292,
+213165206,213165199,0,False,residential,,132.758,,,,,,,,,,,20154291,
+213165218,213165199,0,False,residential,,90.119,,,,,,,,,,,20154292,
+213166771,213166774,0,False,residential,,21.751,,,,,,,,,,,20154452,
+213166771,213167466,0,False,residential,Bob Wilson Road,227.928,,,,,,,,,,,20162328,
+213166771,213205528,0,False,residential,Bob Wilson Road,411.298,,,,,,,,,,,20162328,
+213166774,213166771,0,False,residential,,21.751,,,,,,,,,,,20154452,
+213166897,213189036,0,False,residential,Wightman Road,1776.396,,,,,,,,,,,20158725,
+213166897,213150262,0,False,tertiary,County Highway 35,1296.688,,,,,,,,,,,20180527,CR 35
+213166897,213331213,0,False,tertiary,County Highway 35,784.771,,,,,,,,,,,20180527,CR 35
+213167360,213238198,0,False,residential,Lakeshore Drive South,410.342,,,,,,,,,,,20165477,
+213167360,213238198,1,False,residential,Maple Drive,202.535,,,,,,,,,,,20170884,
+213167360,213238124,0,False,residential,Lakeshore Drive South,300.746,,,,,,,,,,,20165477,
+213167401,213167405,0,False,residential,,37.648,,,,,,,,,,,20154514,
+213167401,213362933,0,False,primary,State Highway 28,200.213,,,,,,,,,,,20177489,NY 28
+213167401,213205499,0,False,primary,State Highway 28,795.801,,,,,,,,,,,20177489,NY 28
+213167405,213167408,0,False,residential,,40.36,,,,,,,,,,,20154514,
+213167405,213167401,0,False,residential,,37.648,,,,,,,,,,,20154514,
+213167405,213167424,0,False,residential,,31.612,,,,,,,,,,,20154516,
+213167408,213167405,0,False,residential,,40.36,,,,,,,,,,,20154514,
+213167424,213167405,0,False,residential,,31.612,,,,,,,,,,,20154516,
+213167466,213167490,0,False,residential,,153.078,,,,,,,,,,,20154522,
+213167466,213169945,0,False,residential,Bob Wilson Road,204.747,,,,,,,,,,,20162328,
+213167466,213166771,0,False,residential,Bob Wilson Road,227.928,,,,,,,,,,,20162328,
+213167490,213167466,0,False,residential,,153.078,,,,,,,,,,,20154522,
+213168313,213142518,0,False,residential,,117.429,,,,,,,,,,,20154614,
+213168313,213173377,0,False,secondary,East Main Street,130.175,,,,35 mph,,,,,,,312740723,NY 166
+213168313,213218763,0,False,secondary,East Main Street,110.761,,,,35 mph,,,,,,,312740723,NY 166
+213168958,213323977,0,False,residential,Cliffside Circle,94.363,,,,,,,,,,,20172056,
+213168958,213168958,0,False,residential,Cliffside Circle,520.006,,,,,,,,,,,20172062,
+213168958,213168958,1,False,residential,Cliffside Circle,520.006,,,,,,,,,,,20172062,
+213169009,213162301,0,False,residential,,440.009,,,,,,,,,,,"[20154063, 20154679]",
+213169245,213169253,0,False,residential,,190.724,,,,,,,,,,,20154715,
+213169245,213169295,0,False,residential,Peterson Road,67.246,,,,,,,,,,,20164250,
+213169245,213225589,0,False,residential,Peterson Road,281.7,,,,,,,,,,,20164250,
+213169253,213169245,0,False,residential,,190.724,,,,,,,,,,,20154715,
+213169295,213142561,0,False,residential,,109.823,,,,,,,,,,,20154721,
+213169295,213218763,0,False,residential,"['Peterson Road', 'Peterson Street', 'River Street']",961.009,,,,,,,,,,,"[20164250, 20172686, 20161215]",
+213169295,213169245,0,False,residential,Peterson Road,67.246,,,,,,,,,,,20164250,
+213169945,213169956,0,False,residential,,231.994,,,,,,,,,,,20154777,
+213169945,213169956,1,False,residential,Bob Wilson Road,44.568,,,,,,,,,,,20162328,
+213169945,213167466,0,False,residential,Bob Wilson Road,204.747,,,,,,,,,,,20162328,
+213169956,213169945,0,False,residential,,231.994,,,,,,,,,,,20154777,
+213169956,213169945,1,False,residential,Bob Wilson Road,44.568,,,,,,,,,,,20162328,
+213169956,213205714,0,False,residential,Bob Wilson Road,243.402,,,,,,,,,,,20162328,
+213170437,213170441,0,False,residential,,31.849,,,,,,,,,,,20154824,
+213170437,213150227,0,False,residential,"['Tansy Hill Road', 'Eddie Martin Road']",208.873,,,,,,,,,,,"[20162549, 20165166]",
+213170437,213185858,0,False,residential,Eddie Martin Road,722.149,,,,,,,,,,,20162549,
+213170441,213170437,0,False,residential,,31.849,,,,,,,,,,,20154824,
+213170441,213170441,0,False,residential,,130.52,,,,,,,,,,,20155170,
+213170441,213170441,1,False,residential,,130.52,,,,,,,,,,,20155170,
+213170660,213170663,0,False,residential,,12.344,,,,,,,,,,,20154864,
+213170660,213173157,0,False,primary,North Main Street,35.042,,,,,,,,,,,20170695,NY 28
+213170660,213186763,0,False,primary,North Main Street,26.176,,,,,,,,,,,20170695,NY 28
+213170663,213170660,0,False,residential,,12.344,,,,,,,,,,,20154864,
+213171497,213171499,0,False,residential,,72.799,,,,,,,,,,,20154972,
+213171497,213325698,0,False,primary,State Highway 28,313.213,,,,,,,,,,,20177427,NY 28
+213171497,213173157,0,False,primary,"['State Highway 28', 'North Main Street']",268.284,,,,,,,,,,,"[20177427, 20170695]",NY 28
+213171499,213171497,0,False,residential,,72.799,,,,,,,,,,,20154972,
+213171760,213171764,0,False,residential,,210.895,,,,,,,,,,,20155007,
+213171764,213171760,0,False,residential,,210.895,,,,,,,,,,,20155007,
+213171764,213221061,0,False,residential,Dorr Edison Road,287.075,,,,,,,,,,,20177061,
+213171764,213139391,0,False,residential,Dorr Edison Road,322.988,,,,,,,,,,,20177061,
+213173068,213173079,0,False,residential,,102.836,,,,,,,,,,,20155127,
+213173068,213229706,0,False,residential,"['Grove Street', 'Maple Street']",208.473,,,,,,,,,,,"[20173440, 20164690]",
+213173068,213342617,0,False,residential,Grove Street,98.594,,,,,,,,,,,20173440,
+213173079,213173068,0,False,residential,,102.836,,,,,,,,,,,20155127,
+213173157,213173159,0,False,residential,,51.078,,,,,,,,,,,20155138,
+213173157,213171497,0,False,primary,"['State Highway 28', 'North Main Street']",268.284,,,,,,,,,,,"[20177427, 20170695]",NY 28
+213173157,213170660,0,False,primary,North Main Street,35.042,,,,,,,,,,,20170695,NY 28
+213173159,213173157,0,False,residential,,51.078,,,,,,,,,,,20155138,
+213173377,213173379,0,False,residential,,38.044,,,,,,,,,,,20155164,
+213173377,213218779,0,False,secondary,East Main Street,176.072,,,,35 mph,,,,,,,312740723,NY 166
+213173377,213168313,0,False,secondary,East Main Street,130.175,,,,35 mph,,,,,,,312740723,NY 166
+213173379,213173377,0,False,residential,,38.044,,,,,,,,,,,20155164,
+213173505,213266688,0,False,primary,State Highway 28,63.839,,,,,,,,,,,20177489,NY 28
+213173505,213173505,0,False,residential,,171.714,,,,,,,,,,,20155182,
+213173505,213173505,1,False,residential,,171.714,,,,,,,,,,,20155182,
+213173505,213190871,0,False,residential,Bennett Avenue,206.163,,,,,,,,,,,20168024,
+213173505,213225021,0,False,primary,State Highway 28,94.597,,,,,,,,,,,20177489,NY 28
+213174594,213174618,0,False,residential,,128.188,,,,,,,,,,,20155310,
+213174594,213132320,0,False,residential,Barlow Road,114.861,,,,,,,,,,,20164178,
+213174594,213225021,0,False,residential,Barlow Road,254.38,,,,,,,,,,,20164178,
+213174618,213174645,0,False,residential,,230.38,,,,,,,,,,,20155310,
+213174618,213174594,0,False,residential,,128.188,,,,,,,,,,,20155310,
+213174618,213205514,0,False,residential,Vito Molinari Road,363.684,,,,,,,,,,,20174815,
+213174645,213174618,0,False,residential,,230.38,,,,,,,,,,,20155310,
+213175694,213153762,0,False,tertiary,County Highway 35,18.681,,,,,,,,,,,20180527,CR 35
+213175694,213175723,0,False,residential,,529.872,,,,,,,,,,,20155467,
+213175694,213183728,0,False,tertiary,County Highway 35,680.041,,,,,,,,,,,20180527,CR 35
+213175723,213175694,0,False,residential,,529.872,,,,,,,,,,,20155467,
+213181838,213181841,0,False,residential,,21.277,,,,,,,,,,,20156854,
+213181838,213238103,0,False,tertiary,County Highway 35,139.914,,,,,,,,,,,20180463,
+213181838,213379556,0,False,tertiary,County Highway 35,145.745,,,,,,,,,,,20180463,
+213181841,213181838,0,False,residential,,21.277,,,,,,,,,,,20156854,
+213182694,213320298,0,False,residential,Moffre Road,1307.079,,,,,,,,,,,20173187,
+213183007,213183018,0,False,residential,,142.134,,,,,,,,,,,20157168,
+213183007,213266391,0,False,residential,Kelly Corners Road,751.401,,,,,,,,,,,20170585,
+213183007,213266532,0,False,residential,Kelly Corners Road,902.696,,,,,,,,,,,20170585,
+213183018,213183007,0,False,residential,,142.134,,,,,,,,,,,20157168,
+213183728,213183744,0,False,residential,,276.534,,,,,,,,,,,20157352,
+213183728,213206951,0,False,tertiary,County Highway 35,2167.633,,,,,,,,,,,20180527,CR 35
+213183728,213175694,0,False,tertiary,County Highway 35,680.041,,,,,,,,,,,20180527,CR 35
+213183744,213183728,0,False,residential,,276.534,,,,,,,,,,,20157352,
+213184025,213184073,0,False,residential,,468.149,,,,,,,,,,,20157448,
+213184025,213338305,0,False,tertiary,County Road 58,163.545,,,,,,,,,,,20173204,CR 58
+213184025,213222210,0,False,tertiary,County Road 58,407.047,,,,,,,,,,,20173204,CR 58
+213184073,213184025,0,False,residential,,468.149,,,,,,,,,,,20157448,
+213184879,213162922,0,False,residential,,139.244,,,,,,,,,,,20157691,
+213185217,213185239,0,False,residential,,162.049,,,,,,,,,,,20157799,
+213185217,213354375,0,False,residential,Upper Dutch Hill Road,1325.377,,,,,,,,,,,20177930,
+213185217,213219338,0,False,residential,Upper Dutch Hill Road,2554.84,,,,,,,,,,,20177930,
+213185239,213185217,0,False,residential,,162.049,,,,,,,,,,,20157799,
+213185768,213227199,0,False,residential,Dave West Drive,116.92,,,,,,,,,,,"[20157945, 20164412]",
+213185858,213185924,0,False,residential,,635.836,,,,,,,,,,,20157980,
+213185858,213170437,0,False,residential,Eddie Martin Road,722.149,,,,,,,,,,,20162549,
+213185858,213208146,0,False,residential,Eddie Martin Road,760.729,,,,,,,,,,,20162549,
+213185924,213185858,0,False,residential,,635.836,,,,,,,,,,,20157980,
+213186763,213186766,0,False,residential,,11.984,,,,,,,,,,,20158207,
+213186763,213170660,0,False,primary,North Main Street,26.176,,,,,,,,,,,20170695,NY 28
+213186763,213142424,0,False,primary,North Main Street,272.793,,,,,,,,,,,20170695,NY 28
+213186766,213186763,0,False,residential,,11.984,,,,,,,,,,,20158207,
+213188974,213188986,0,False,residential,Wightman Road,90.874,,,,,,,,,,,20158725,
+213188974,213320425,0,False,residential,Burillo Road,114.727,,,,,,,,,,,20171796,
+213188986,213189036,0,False,residential,Wightman Road,490.503,,,,,,,,,,,20158725,
+213188986,213188974,0,False,residential,Wightman Road,90.874,,,,,,,,,,,20158725,
+213188986,213320425,0,False,residential,Burillo Road,113.204,,,,,,,,,,,20171801,
+213189036,213166897,0,False,residential,Wightman Road,1776.396,,,,,,,,,,,20158725,
+213189036,213188986,0,False,residential,Wightman Road,490.503,,,,,,,,,,,20158725,
+213189036,213202282,0,False,residential,Boy Scout Road,2275.732,,,,,,,,,,,20161574,
+213190863,213190867,0,False,residential,Lake Street,44.334,,,,,,,,,,,20159110,
+213190867,213190871,0,False,residential,Lake Street,57.261,,,,,,,,,,,20159110,
+213190867,213190863,0,False,residential,Lake Street,44.334,,,,,,,,,,,20159110,
+213190867,213190884,0,False,residential,Lake Street,105.101,,,,,,,,,,,20159113,
+213190871,213190884,0,False,residential,Red Wing Circle,29.812,,,,,,,,,,,20167473,
+213190871,213190867,0,False,residential,Lake Street,57.261,,,,,,,,,,,20159110,
+213190871,213173505,0,False,residential,Bennett Avenue,206.163,,,,,,,,,,,20168024,
+213190884,213190871,0,False,residential,Red Wing Circle,29.812,,,,,,,,,,,20167473,
+213190884,213190867,0,False,residential,Lake Street,105.101,,,,,,,,,,,20159113,
+213190884,213266688,0,False,residential,Red Wing Circle,245.134,,,,,,,,,,,20167473,
+213191002,213191048,0,False,residential,Sunset Boulevard,392.458,,,,,,,,,,,20159140,
+213191002,213219166,0,False,residential,Joe Cornell Road,469.82,,,,,,,,,,,20168282,
+213191048,213191002,0,False,residential,Sunset Boulevard,392.458,,,,,,,,,,,20159140,
+213191048,213191048,0,False,residential,Sunset Boulevard,110.549,,,,,,,,,,,20159151,
+213191048,213191048,1,False,residential,Sunset Boulevard,110.549,,,,,,,,,,,20159151,
+213191096,213162917,0,False,primary,State Highway 28,193.443,,,,,,,,,,,20177489,NY 28
+213191096,213191136,0,False,residential,Knott's Motel Road,336.899,,,,,,,,,,,20159155,
+213191096,213139447,0,False,primary,State Highway 28,368.396,,,,,,,,,,,20177489,NY 28
+213191136,213191096,0,False,residential,Knott's Motel Road,336.899,,,,,,,,,,,20159155,
+213194491,213244187,0,False,secondary,Main Street,613.223,2,,,,,,,,,,100556829,NY 7
+213196467,213268437,0,False,residential,"['Lichenberger', 'Lichenberger Road']",1760.002,,,,,,,,,,,"[20176027, 20160262]",
+213196467,213205885,0,False,tertiary,County Highway 35,84.162,,,,,,,,,,,20180463,
+213196467,213240108,0,False,tertiary,County Highway 35,1562.742,,,,,,,,,,,20180463,
+213197434,213197493,0,False,residential,Chlorinator Road,630.622,,,,,,,,,,,20160585,
+213197434,213346134,0,False,tertiary,County Road 44,1272.456,,,,,,,,,,,20175479,CR 44
+213197434,213261201,0,False,tertiary,"['County Road 44', 'West Main Street']",671.726,,,,,,,,,,,"[20167098, 20175479]",CR 44
+213197493,213197434,0,False,residential,Chlorinator Road,630.622,,,,,,,,,,,20160585,
+213197493,213325698,0,False,residential,Oxbow Road,1307.213,,,,,,,,,,,20172185,
+213199656,213199788,0,False,residential,Hotaling Road,1305.617,,,,,,,,,,,20160993,
+213199656,213203299,0,False,residential,Lougheed Road,502.199,,,,,,,,,,,20161783,
+213199656,213203142,0,False,residential,Lougheed Road,1615.926,,,,,,,,,,,20161783,
+213199788,213199656,0,False,residential,Hotaling Road,1305.617,,,,,,,,,,,20160993,
+213199788,213305394,0,False,residential,Kelly Corners Road,1082.619,,,,,,,,,,,20170585,
+213199788,213219295,0,False,residential,Kelly Corners Road,717.654,,,,,,,,,,,20170585,
+213202282,213202410,0,False,residential,Boy Scout Road,1962.345,,,,,,,,,,,20161574,
+213202282,213189036,0,False,residential,Boy Scout Road,2275.732,,,,,,,,,,,20161574,
+213202410,213202282,0,False,residential,Boy Scout Road,1962.345,,,,,,,,,,,20161574,
+213202410,213165196,0,False,residential,Hall Road,93.684,,,,,,,,,,,20162921,
+213203039,213165001,0,False,residential,Lougheed Road,786.944,,,,,,,,,,,20161783,
+213203039,213362890,0,False,tertiary,County Road 44,286.212,,,,,,,,,,,20175479,CR 44
+213203039,213141794,0,False,tertiary,County Road 44,3246.604,,,,,,,,,,,20175479,CR 44
+213203142,213199656,0,False,residential,Lougheed Road,1615.926,,,,,,,,,,,20161783,
+213203142,213165001,0,False,residential,Lougheed Road,1346.478,,,,,,,,,,,20161783,
+213203142,213261915,0,False,residential,Loucks Road,487.135,,,,,,,,,,,20167158,
+213203299,213203313,0,False,residential,Lougheed Road,48.09,,,,,,,,,,,20161783,
+213203299,213199656,0,False,residential,Lougheed Road,502.199,,,,,,,,,,,20161783,
+213203299,213219544,0,False,residential,Lower Dutch Hill Road,55.98,,,,,,,,,,,20163626,
+213203313,213203395,0,False,residential,Lougheed Road,701.041,,,,,,,,,,,20161783,
+213203313,213203299,0,False,residential,Lougheed Road,48.09,,,,,,,,,,,20161783,
+213203313,213219544,0,False,residential,Lower Dutch Hill Road,44.5,,,,,,,,,,,20163623,
+213203395,213163849,0,False,residential,Kelly Corners Road,31.116,,,,,,,,,,,20170585,
+213203395,213266391,0,False,residential,Kelly Corners Road,27.344,,,,,,,,,,,20170585,
+213203395,213203313,0,False,residential,Lougheed Road,701.041,,,,,,,,,,,20161783,
+213205499,213133081,0,False,residential,Bob Wilson Road,54.758,,,,,,,,,,,20162328,
+213205499,213332262,0,False,primary,State Highway 28,40.8,,,,,,,,,,,20177489,NY 28
+213205499,213167401,0,False,primary,State Highway 28,795.801,,,,,,,,,,,20177489,NY 28
+213205514,213205528,0,False,residential,Bob Wilson Road,287.935,,,,,,,,,,,20162328,
+213205514,213133081,0,False,residential,Bob Wilson Road,258.838,,,,,,,,,,,20162328,
+213205514,213174618,0,False,residential,Vito Molinari Road,363.684,,,,,,,,,,,20174815,
+213205528,213166771,0,False,residential,Bob Wilson Road,411.298,,,,,,,,,,,20162328,
+213205528,213205514,0,False,residential,Bob Wilson Road,287.935,,,,,,,,,,,20162328,
+213205528,213323561,0,False,residential,Ingolsby Road,266.028,,,,,,,,,,,20172017,
+213205714,213169956,0,False,residential,Bob Wilson Road,243.402,,,,,,,,,,,20162328,
+213205885,213205900,0,False,residential,Happy Valley Road,215.153,,,,,,,,,,,20162343,
+213205885,213331213,0,False,tertiary,County Highway 35,595.316,,,,,,,,,,,20180463,
+213205885,213196467,0,False,tertiary,County Highway 35,84.162,,,,,,,,,,,20180463,
+213205900,213205885,0,False,residential,Happy Valley Road,215.153,,,,,,,,,,,20162343,
+213205900,213205927,0,False,residential,Happy Valley Road,174.955,,,,,,,,,,,20162346,
+213205900,213266102,0,False,residential,Happy Valley Spur,147.203,,,,,,,,,,,20167421,
+213205927,213205900,0,False,residential,Happy Valley Road,174.955,,,,,,,,,,,20162346,
+213206951,213225759,0,False,residential,Peterson Road,388.298,,,,,,,,,,,20164264,
+213206951,213331326,0,False,tertiary,County Highway 35,1530.209,,,,,,,,,,,20180527,CR 35
+213206951,213183728,0,False,tertiary,County Highway 35,2167.633,,,,,,,,,,,20180527,CR 35
+213208146,213185858,0,False,residential,Eddie Martin Road,760.729,,,,,,,,,,,20162549,
+213210624,213210640,0,False,residential,South Martindale Road,95.467,,,,,,,,,,,20162780,
+213210624,213362659,0,False,tertiary,County Road 44,599.88,,,,,,,,,,,20175479,CR 44
+213210624,213346134,0,False,tertiary,County Road 44,170.632,,,,,,,,,,,20175479,CR 44
+213210640,213210624,0,False,residential,South Martindale Road,95.467,,,,,,,,,,,20162780,
+213210640,213346134,0,False,residential,Sherman Road,141.661,,,,,,,,,,,20173794,
+213210640,213346069,0,False,residential,Sherman Road,1010.426,,,,,,,,,,,20173794,
+213212124,213165196,0,False,residential,Hall Road,403.268,,,,,,,,,,,20162921,
+213214536,213214537,0,False,residential,Goodyear Lane,77.351,,,,,,,,,,,20163132,
+213214536,213248867,0,False,residential,Lee Drive,172.952,,,,,,,,,,,20166222,
+213214536,213133158,0,False,residential,Lee Drive,44.289,,,,,,,,,,,20166222,
+213214537,213214536,0,False,residential,Goodyear Lane,77.351,,,,,,,,,,,20163132,
+213218746,213218763,0,False,secondary,East Main Street,138.786,,,,35 mph,,,,,,,"[20163553, 312740723]",NY 166
+213218746,213277513,0,False,residential,Kilts Road,116.015,,,,,,,,,,,20168539,
+213218763,213169295,0,False,residential,"['Peterson Road', 'Peterson Street', 'River Street']",961.009,,,,,,,,,,,"[20164250, 20172686, 20161215]",
+213218763,213168313,0,False,secondary,East Main Street,110.761,,,,35 mph,,,,,,,312740723,NY 166
+213218763,213218746,0,False,secondary,East Main Street,138.786,,,,35 mph,,,,,,,"[20163553, 312740723]",NY 166
+213218779,213142231,0,False,tertiary,West Main Street,86.383,,,,,,,,,,,20167098,CR 44
+213218779,213227168,0,False,primary,South Main Street,76.166,,,,,,,,,,,20167940,NY 28
+213218779,213142387,0,False,primary,North Main Street,201.97,,,,,,,,,,,20170695,NY 28
+213218779,213173377,0,False,secondary,East Main Street,176.072,,,,35 mph,,,,,,,312740723,NY 166
+213219166,213219295,0,False,residential,Bliss Gulf Road,1920.069,,,,,,,,,,,20163600,
+213219166,213191002,0,False,residential,Joe Cornell Road,469.82,,,,,,,,,,,20168282,
+213219166,213274638,0,False,residential,Joe Cornell Road,707.874,,,,,,,,,,,20168282,
+213219295,213219166,0,False,residential,Bliss Gulf Road,1920.069,,,,,,,,,,,20163600,
+213219295,213199788,0,False,residential,Kelly Corners Road,717.654,,,,,,,,,,,20170585,
+213219295,213163849,0,False,residential,Kelly Corners Road,752.513,,,,,,,,,,,20170585,
+213219338,213219486,0,False,residential,Lower Dutch Hill Road,3031.257,,,,,,,,,,,20163623,
+213219338,213185217,0,False,residential,Upper Dutch Hill Road,2554.84,,,,,,,,,,,20177930,
+213219338,213362890,0,False,residential,Upper Dutch Hill Road,806.866,,,,,,,,,,,20177930,
+213219486,213219488,0,False,residential,Lower Dutch Hill Road,42.239,,,,,,,,,,,20163623,
+213219486,213219338,0,False,residential,Lower Dutch Hill Road,3031.257,,,,,,,,,,,20163623,
+213219486,213354439,0,False,residential,Concrite Road,29.262,,,,,,,,,,,20174641,
+213219488,213219486,0,False,residential,Lower Dutch Hill Road,42.239,,,,,,,,,,,20163623,
+213219488,213219544,0,False,residential,Lower Dutch Hill Road,701.325,,,,,,,,,,,20163623,
+213219488,213354439,0,False,residential,Concrite Road,35.801,,,,,,,,,,,20174637,
+213219544,213203313,0,False,residential,Lower Dutch Hill Road,44.5,,,,,,,,,,,20163623,
+213219544,213219488,0,False,residential,Lower Dutch Hill Road,701.325,,,,,,,,,,,20163623,
+213219544,213203299,0,False,residential,Lower Dutch Hill Road,55.98,,,,,,,,,,,20163626,
+213221061,213221084,0,False,residential,Tiffeleti Road,334.286,,,,,,,,,,,20163788,
+213221061,213352675,0,False,residential,Dorr Edison Road,121.978,,,,,,,,,,,20177061,
+213221061,213171764,0,False,residential,Dorr Edison Road,287.075,,,,,,,,,,,20177061,
+213221084,213221061,0,False,residential,Tiffeleti Road,334.286,,,,,,,,,,,20163788,
+213222210,213158624,0,False,unclassified,Gersoni Road,1211.232,,,,,,,,,,,20163923,
+213222210,213184025,0,False,tertiary,County Road 58,407.047,,,,,,,,,,,20173204,CR 58
+213222289,213339859,0,False,residential,Nortons Road,607.196,,,,,,,,,,,20173291,
+213222289,213222356,0,False,primary,Gersoni Road,1563.108,,,,,,,yes,,,,"[197880456, 48258608, 48258610, 180651166, 180651167]",NY 28
+213222289,213153328,0,False,primary,Gersoni Road,496.553,2,,,,,,yes,,,,"[197880456, 197880458, 48258607]",NY 28
+213222356,213164236,0,False,secondary,D. K. Lifgren Drive,139.173,,,,,,,,,,,20177438,
+213222356,213162917,0,False,primary,State Highway 28,1070.66,,,,,,,,,,,20177489,NY 28
+213222356,213222289,0,False,primary,Gersoni Road,1563.108,,,,,,,yes,,,,"[197880456, 48258608, 48258610, 180651166, 180651167]",NY 28
+213225021,213174594,0,False,residential,Barlow Road,254.38,,,,,,,,,,,20164178,
+213225021,213340756,0,False,primary,State Highway 28,327.126,,,,,,,,,,,20177489,NY 28
+213225021,213173505,0,False,primary,State Highway 28,94.597,,,,,,,,,,,20177489,NY 28
+213225589,213169245,0,False,residential,Peterson Road,281.7,,,,,,,,,,,20164250,
+213225759,213206951,0,False,residential,Peterson Road,388.298,,,,,,,,,,,20164264,
+213227168,213227192,0,False,residential,Dave West Drive,641.066,,,,,,,,,,,20164410,
+213227168,213218779,0,False,primary,South Main Street,76.166,,,,,,,,,,,20167940,NY 28
+213227168,213271271,0,False,primary,South Main Street,120.655,,,,,,,,,,,20167940,NY 28
+213227192,213227168,0,False,residential,Dave West Drive,641.066,,,,,,,,,,,20164410,
+213227192,213271271,0,False,primary,South Main Street,130.754,,,,,,,,,,,20167940,NY 28
+213227192,213271256,0,False,primary,South Main Street,62.053,,,,,,,,,,,20167940,NY 28
+213227199,213185768,0,False,residential,Dave West Drive,116.92,,,,,,,,,,,"[20157945, 20164412]",
+213227199,213271256,0,False,primary,"['State Highway 28', 'South Main Street']",367.34,,,,,,,,,,,"[20177489, 20167940]",NY 28
+213227199,213148930,0,False,primary,State Highway 28,794.887,,,,,,,,,,,20177489,NY 28
+213229706,213346051,0,False,residential,Center Street,87.495,,,,,,,,,,,20177847,
+213229706,213173068,0,False,residential,"['Grove Street', 'Maple Street']",208.473,,,,,,,,,,,"[20173440, 20164690]",
+213229706,213384262,0,False,residential,Center Street,91.146,,,,,,,,,,,20177847,
+213234424,213234436,0,False,residential,Tansy Hill Road,425.431,,,,,,,,,,,20165166,
+213234424,213148930,0,False,primary,State Highway 28,894.876,,,,,,,,,,,20177489,NY 28
+213234424,213164931,0,False,primary,State Highway 28,1019.372,,,,,,,,,,,20177489,NY 28
+213234436,213150227,0,False,residential,Tansy Hill Road,215.161,,,,,,,,,,,20165166,
+213234436,213234424,0,False,residential,Tansy Hill Road,425.431,,,,,,,,,,,20165166,
+213234436,213362659,0,False,residential,Tansey Hill Road,2572.434,,,,,,,,,,,20178532,
+213238103,213238121,0,False,residential,Lakeshore Drive South,159.006,,,,,,,,,,,20165477,
+213238103,213240108,0,False,tertiary,County Highway 35,421.521,,,,,,,,,,,20180463,
+213238103,213181838,0,False,tertiary,County Highway 35,139.914,,,,,,,,,,,20180463,
+213238121,213238124,0,False,residential,Lakeshore Drive South,225.644,,,,,,,,,,,20165477,
+213238121,213238103,0,False,residential,Lakeshore Drive South,159.006,,,,,,,,,,,20165477,
+213238121,213240130,0,False,residential,Larsen Road,411.585,,,,,,,,,,,20171665,
+213238124,213167360,0,False,residential,Lakeshore Drive South,300.746,,,,,,,,,,,20165477,
+213238124,213238121,0,False,residential,Lakeshore Drive South,225.644,,,,,,,,,,,20165477,
+213238124,213379566,0,False,residential,Sunnikrest Road,634.312,,,,,,,,,,,20177314,
+213238198,213238222,0,False,residential,Lakeshore Drive South,247.66,,,,,,,,,,,20165477,
+213238198,213167360,0,False,residential,Lakeshore Drive South,410.342,,,,,,,,,,,20165477,
+213238198,213167360,1,False,residential,Maple Drive,202.535,,,,,,,,,,,20170884,
+213238222,213238198,0,False,residential,Lakeshore Drive South,247.66,,,,,,,,,,,20165477,
+213238222,213240130,0,False,residential,Lake Shore Drive North,57.391,,,,,,,,,,,20165633,
+213238222,213240180,0,False,residential,Lake Shore Drive North,330.601,,,,,,,,,,,20165643,
+213240108,213240130,0,False,residential,Lake Shore Drive North,188.176,,,,,,,,,,,20165633,
+213240108,213196467,0,False,tertiary,County Highway 35,1562.742,,,,,,,,,,,20180463,
+213240108,213238103,0,False,tertiary,County Highway 35,421.521,,,,,,,,,,,20180463,
+213240130,213238222,0,False,residential,Lake Shore Drive North,57.391,,,,,,,,,,,20165633,
+213240130,213240108,0,False,residential,Lake Shore Drive North,188.176,,,,,,,,,,,20165633,
+213240130,213248867,0,False,residential,Lee Drive,292.744,,,,,,,,,,,20166222,
+213240130,213238121,0,False,residential,Larsen Road,411.585,,,,,,,,,,,20171665,
+213240180,213240213,0,False,residential,Lake Shore Drive North,559.2,,,,,,,,,,,20165643,
+213240180,213238222,0,False,residential,Lake Shore Drive North,330.601,,,,,,,,,,,20165643,
+213240180,213248867,0,False,residential,Radley Road,83.509,,,,,,,,,,,20177719,
+213240213,213240180,0,False,residential,Lake Shore Drive North,559.2,,,,,,,,,,,20165643,
+213240213,213133158,0,False,residential,Lee Drive,229.565,,,,,,,,,,,20166222,
+213240213,213297947,0,False,residential,Journeys End,134.065,,,,,,,,,,,20170042,
+213244076,213244117,0,False,tertiary,County Highway 58,547.878,,,,,,,,,,,20165919,CR 58
+213244117,213244187,0,False,tertiary,County Highway 58,791.472,2,,,,,,yes,,,,"[183773601, 183773597, 20165919]",CR 58
+213244117,213244076,0,False,tertiary,County Highway 58,547.878,,,,,,,,,,,20165919,CR 58
+213244117,213320691,0,False,residential,Riverstone Road,291.645,,,,,,,,,,,20171837,
+213244187,213278642,0,False,secondary,Main Street,448.96,2,,,,,,,,,,100556829,NY 7
+213244187,213194491,0,False,secondary,Main Street,613.223,2,,,,,,,,,,100556829,NY 7
+213244187,213244117,0,False,tertiary,County Highway 58,791.472,2,,,,,,yes,,,,"[183773601, 183773597, 20165919]",CR 58
+213248731,5118781976,0,False,primary,State Highway 28,26.519,,,,,,,,,,,20177489,NY 28
+213248731,213149419,0,False,residential,Van Valkenburg Road,124.157,,,,,,,,,,,20166208,
+213248731,213137506,0,False,primary,State Highway 28,656.718,,,,,,,,,,,20177489,NY 28
+213248867,213240130,0,False,residential,Lee Drive,292.744,,,,,,,,,,,20166222,
+213248867,213214536,0,False,residential,Lee Drive,172.952,,,,,,,,,,,20166222,
+213248867,213240180,0,False,residential,Radley Road,83.509,,,,,,,,,,,20177719,
+213261195,213142285,0,False,tertiary,West Main Street,18.175,,,,,,,,,,,20167098,CR 44
+213261195,213261198,0,False,tertiary,West Main Street,215.352,,,,,,,,,,,20167098,CR 44
+213261195,213346017,0,False,residential,Division Street,172.021,,,,,,,,,,,20173772,
+213261198,213339335,0,False,residential,Brook Street,87.778,,,,,,,,,,,20173255,
+213261198,213261201,0,False,tertiary,West Main Street,55.525,,,,,,,,,,,20167098,CR 44
+213261198,213261195,0,False,tertiary,West Main Street,215.352,,,,,,,,,,,20167098,CR 44
+213261201,213197434,0,False,tertiary,"['County Road 44', 'West Main Street']",671.726,,,,,,,,,,,"[20167098, 20175479]",CR 44
+213261201,213261198,0,False,tertiary,West Main Street,55.525,,,,,,,,,,,20167098,CR 44
+213261201,2130277492,0,False,residential,Center Street,267.09,,,,,,,,,,,20177850,
+213261915,213203142,0,False,residential,Loucks Road,487.135,,,,,,,,,,,20167158,
+213266102,213205900,0,False,residential,Happy Valley Spur,147.203,,,,,,,,,,,20167421,
+213266391,213203395,0,False,residential,Kelly Corners Road,27.344,,,,,,,,,,,20170585,
+213266391,213163845,0,False,residential,Collars Road,58.291,,,,,,,,,,,20167457,
+213266391,213183007,0,False,residential,Kelly Corners Road,751.401,,,,,,,,,,,20170585,
+213266447,213266448,0,False,residential,Collars Road,50.107,,,,,,,,,,,20167457,
+213266447,213163845,0,False,residential,Collars Road,962.091,,,,,,,,,,,20167457,
+213266447,213274638,0,False,residential,Joe Cornell Road,35.451,,,,,,,,,,,20168282,
+213266448,213266447,0,False,residential,Collars Road,50.107,,,,,,,,,,,20167457,
+213266448,213266532,0,False,residential,Collars Road,1574.177,,,,,,,,,,,20167457,
+213266448,213274638,0,False,residential,Joe Cornell Road,54.988,,,,,,,,,,,20168286,
+213266532,213266448,0,False,residential,Collars Road,1574.177,,,,,,,,,,,20167457,
+213266532,213183007,0,False,residential,Kelly Corners Road,902.696,,,,,,,,,,,20170585,
+213266532,213273931,0,False,residential,Kelly Corners Road,256.262,,,,,,,,,,,20170585,
+213266688,213173505,0,False,primary,State Highway 28,63.839,,,,,,,,,,,20177489,NY 28
+213266688,213190884,0,False,residential,Red Wing Circle,245.134,,,,,,,,,,,20167473,
+213266688,213380979,0,False,primary,State Highway 28,135.914,,,,,,,,,,,20177489,NY 28
+213268434,213268437,0,False,residential,Linde Lane,106.976,,,,,,,,,,,20167651,
+213268437,213268434,0,False,residential,Linde Lane,106.976,,,,,,,,,,,20167651,
+213268437,213268440,0,False,residential,Linde Lane,72.149,,,,,,,,,,,20167651,
+213268437,213196467,0,False,residential,"['Lichenberger', 'Lichenberger Road']",1760.002,,,,,,,,,,,"[20176027, 20160262]",
+213268437,213320327,0,False,residential,Lichenberger,591.331,,,,,,,,,,,20176027,
+213268440,213268437,0,False,residential,Linde Lane,72.149,,,,,,,,,,,20167651,
+213271256,213227192,0,False,primary,South Main Street,62.053,,,,,,,,,,,20167940,NY 28
+213271256,213227199,0,False,primary,"['State Highway 28', 'South Main Street']",367.34,,,,,,,,,,,"[20177489, 20167940]",NY 28
+213271256,213342617,0,False,residential,Grove Street,103.62,,,,,,,,,,,20173440,
+213271271,213227168,0,False,primary,South Main Street,120.655,,,,,,,,,,,20167940,NY 28
+213271271,213227192,0,False,primary,South Main Street,130.754,,,,,,,,,,,20167940,NY 28
+213271271,213346017,0,False,residential,Center Street,112.298,,,,,,,,,,,20177847,
+213273931,213292458,0,False,residential,Kelly Corners Road,1268.29,,,,,,,,,,,20170577,
+213273931,213266532,0,False,residential,Kelly Corners Road,256.262,,,,,,,,,,,20170585,
+213274638,213219166,0,False,residential,Joe Cornell Road,707.874,,,,,,,,,,,20168282,
+213274638,213266447,0,False,residential,Joe Cornell Road,35.451,,,,,,,,,,,20168282,
+213274638,213266448,0,False,residential,Joe Cornell Road,54.988,,,,,,,,,,,20168286,
+213277513,213218746,0,False,residential,Kilts Road,116.015,,,,,,,,,,,20168539,
+213278100,213278108,0,False,residential,Riverview Drive,188.747,,,,,,,,,,,20168593,
+213278100,213132400,0,False,tertiary,County Highway 35A,168.532,,,,,,,yes,,,,"[20169684, 20172659, 132357700]",CR 35A
+213278100,213331213,0,False,tertiary,County Highway 35A,280.407,,,,,,,,,,,20172659,
+213278108,213278100,0,False,residential,Riverview Drive,188.747,,,,,,,,,,,20168593,
+213278642,213278645,0,False,secondary,Main Street,11.399,2,,,,,,,,,,100556829,NY 7
+213278642,213157151,0,False,secondary,D. K. Lifgren Drive,482.14,,,,,,,,,,,20177438,
+213278642,213244187,0,False,secondary,Main Street,448.96,2,,,,,,,,,,100556829,NY 7
+213278645,213278642,0,False,secondary,Main Street,11.399,2,,,,,,,,,,100556829,NY 7
+213278645,213313136,0,False,residential,Dk Lifgren Drive,410.123,,,,,,,,,,,20171152,
+213278645,213278795,0,False,secondary,Main Street,1670.453,2,,,,,,yes,,,,"[180651178, 180651180, 100556829]",NY 7
+213278795,213339955,0,False,tertiary,County Highway 35,1328.667,,,,,,,,,,,20180463,
+213278795,213278801,0,False,secondary,Main Street,36.731,,,,,,,,,,,180651178,NY 7
+213278795,213278645,0,False,secondary,Main Street,1670.453,2,,,,,,yes,,,,"[180651178, 180651180, 100556829]",NY 7
+213278801,213374765,0,False,residential,D Riddell Road,249.948,,,,,,,yes,,,,"[132357706, 132357709, 20176815]",
+213278801,213278795,0,False,secondary,Main Street,36.731,,,,,,,,,,,180651178,NY 7
+213286343,213286352,0,False,residential,Holiday Lane,47.304,,,,,,,,,,,20169150,
+213286343,213393584,0,False,residential,Lincoln Circle,33.137,,,,,,,,,,,20178927,
+213286343,213379566,0,False,residential,Lincoln Circle,91.291,,,,,,,,,,,20178927,
+213286352,213286343,0,False,residential,Holiday Lane,47.304,,,,,,,,,,,20169150,
+213288672,213288675,0,False,residential,Baptist Home Drive,73.95,,,,,,,,,,,20169296,
+213288672,213308581,0,False,residential,Spoonville Road,44.423,,,,,,,,,,,20170793,
+213288672,213155216,0,False,residential,Spoonville Road,367.931,,,,,,,,,,,20170793,
+213288675,213288672,0,False,residential,Baptist Home Drive,73.95,,,,,,,,,,,20169296,
+213292458,213273931,0,False,residential,Kelly Corners Road,1268.29,,,,,,,,,,,20170577,
+213292458,213305104,0,False,residential,Kelly Corners Road,1595.633,,,,,,,,,,,20170577,
+213292458,213354375,0,False,residential,Concrite Road,113.879,,,,,,,,,,,20174637,
+213292754,213292793,0,False,residential,Banner Road,904.005,,,,,,,,,,,20169642,
+213292754,213139412,0,False,residential,"['Dorr Edson Road', 'Dorr Edison Road']",1994.292,,,,,,,,,,,"[20177061, 20172742]",
+213292754,213332262,0,False,residential,Dorr Edson Road,242.545,,,,,,,,,,,20172742,
+213292793,213292884,0,False,residential,Banner Road,1438.789,,,,,,,,,,,20169642,
+213292793,213292754,0,False,residential,Banner Road,904.005,,,,,,,,,,,20169642,
+213292884,213292793,0,False,residential,Banner Road,1438.789,,,,,,,,,,,20169642,
+213292884,213352675,0,False,residential,Jumps Road,744.31,,,,,,,,,,,20174450,
+213292884,213304971,0,False,residential,"['The Hole Road', 'B George Road', 'Jumps Road']",2591.289,,,,,,,,,,,"[20174450, 20163966, 20177679]",
+213293197,213293214,0,False,residential,School House Hill Road,155.478,,,,,,,,,,,20169679,
+213293197,213132400,0,False,residential,School House Hill Road,200.12,,,,,,,,,,,20169686,
+213293197,213293220,0,False,primary,State Highway 28,186.104,,,,,,,,,,,20177489,NY 28
+213293197,213362933,0,False,primary,State Highway 28,794.612,,,,,,,,,,,20177489,NY 28
+213293214,213293197,0,False,residential,School House Hill Road,155.478,,,,,,,,,,,20169679,
+213293214,213293214,0,False,residential,School House Hill Road,189.176,,,,,,,,,,,20169689,
+213293214,213293214,1,False,residential,School House Hill Road,189.176,,,,,,,,,,,20169689,
+213293220,213132400,0,False,tertiary,County Highway 35A,16.435,,,,,,,,,,,20169684,CR 35A
+213293220,213132389,0,False,primary,State Highway 28,68.255,,,,,,,,,,,20177489,NY 28
+213293220,213293197,0,False,primary,State Highway 28,186.104,,,,,,,,,,,20177489,NY 28
+213297947,213240213,0,False,residential,Journeys End,134.065,,,,,,,,,,,20170042,
+213304971,213305104,0,False,residential,Kelly Corners Road,1887.359,,,,,,,,,,,20170577,
+213304971,213292884,0,False,residential,"['The Hole Road', 'B George Road', 'Jumps Road']",2591.289,,,,,,,,,,,"[20174450, 20163966, 20177679]",
+213305104,213292458,0,False,residential,Kelly Corners Road,1595.633,,,,,,,,,,,20170577,
+213305104,213304971,0,False,residential,Kelly Corners Road,1887.359,,,,,,,,,,,20170577,
+213305104,213352675,0,False,residential,Dorr Edison Road,1909.752,,,,,,,,,,,20177061,
+213305394,213199788,0,False,residential,Kelly Corners Road,1082.619,,,,,,,,,,,20170585,
+213305394,213362659,0,False,tertiary,County Highway 46,263.433,,,,,,,,,,,20175720,CR 46
+213305394,213365391,0,False,tertiary,County Highway 46,561.896,,,,,,,,,,,20175720,CR 46
+213308520,213362933,0,False,tertiary,County Road 44,69.285,,,,,,,,,,,20175479,CR 44
+213308520,213155246,0,False,residential,Spoonville Road,43.547,,,,,,,,,,,20170793,
+213308520,213308581,0,False,tertiary,County Road 44,276.259,,,,,,,,,,,20175479,CR 44
+213308581,213308588,0,False,tertiary,County Road 44,49.622,,,,,,,,,,,20175479,CR 44
+213308581,213288672,0,False,residential,Spoonville Road,44.423,,,,,,,,,,,20170793,
+213308581,213308520,0,False,tertiary,County Road 44,276.259,,,,,,,,,,,20175479,CR 44
+213308588,213308581,0,False,tertiary,County Road 44,49.622,,,,,,,,,,,20175479,CR 44
+213308588,213308604,0,False,residential,Spoonville Road,97.784,,,,,,,,,,,20170798,
+213308588,213362890,0,False,tertiary,County Road 44,850.779,,,,,,,,,,,20175479,CR 44
+213308604,213308588,0,False,residential,Spoonville Road,97.784,,,,,,,,,,,20170798,
+213313136,213278645,0,False,residential,Dk Lifgren Drive,410.123,,,,,,,,,,,20171152,
+213320298,213320327,0,False,residential,Burillo Road,229.096,,,,,,,,,,,20171796,
+213320298,213182694,0,False,residential,Moffre Road,1307.079,,,,,,,,,,,20173187,
+213320327,213159599,0,False,residential,Burillo Road,663.009,,,,,,,,,,,20171796,
+213320327,213320298,0,False,residential,Burillo Road,229.096,,,,,,,,,,,20171796,
+213320327,213268437,0,False,residential,Lichenberger,591.331,,,,,,,,,,,20176027,
+213320425,213188974,0,False,residential,Burillo Road,114.727,,,,,,,,,,,20171796,
+213320425,213159599,0,False,residential,Burillo Road,1091.793,,,,,,,,,,,20171796,
+213320425,213188986,0,False,residential,Burillo Road,113.204,,,,,,,,,,,20171801,
+213320691,213244117,0,False,residential,Riverstone Road,291.645,,,,,,,,,,,20171837,
+213323561,213205528,0,False,residential,Ingolsby Road,266.028,,,,,,,,,,,20172017,
+213323977,213168958,0,False,residential,Cliffside Circle,94.363,,,,,,,,,,,20172056,
+213323977,213379556,0,False,tertiary,County Highway 35,242.722,,,,,,,,,,,20180463,
+213323977,213358659,0,False,tertiary,County Highway 35,456.426,,,,,,,,,,,20180463,
+213325698,213197493,0,False,residential,Oxbow Road,1307.213,,,,,,,,,,,20172185,
+213325698,213171497,0,False,primary,State Highway 28,313.213,,,,,,,,,,,20177427,NY 28
+213331213,213278100,0,False,tertiary,County Highway 35A,280.407,,,,,,,,,,,20172659,
+213331213,213205885,0,False,tertiary,County Highway 35,595.316,,,,,,,,,,,20180463,
+213331213,213166897,0,False,tertiary,County Highway 35,784.771,,,,,,,,,,,20180527,CR 35
+213331326,213134764,0,False,tertiary,County Highway 35,289.205,,,,,,,,,,,20180486,CR 35
+213331326,213206951,0,False,tertiary,County Highway 35,1530.209,,,,,,,,,,,20180527,CR 35
+213332262,213205499,0,False,primary,State Highway 28,40.8,,,,,,,,,,,20177489,NY 28
+213332262,213133074,0,False,primary,State Highway 28,23.99,,,,,,,,,,,20177489,NY 28
+213332262,213292754,0,False,residential,Dorr Edson Road,242.545,,,,,,,,,,,20172742,
+213338305,213184025,0,False,tertiary,County Road 58,163.545,,,,,,,,,,,20173204,CR 58
+213339335,213339336,0,False,residential,Brook Street,61.462,,,,,,,,,,,20173255,
+213339335,213261198,0,False,residential,Brook Street,87.778,,,,,,,,,,,20173255,
+213339335,213339351,0,False,residential,Brook Street,130.612,,,,,,,,,,,20173257,
+213339336,213339335,0,False,residential,Brook Street,61.462,,,,,,,,,,,20173255,
+213339351,213339335,0,False,residential,Brook Street,130.612,,,,,,,,,,,20173257,
+213339803,213339823,0,False,residential,The Circle,365.635,,,,,,,,,,,20173286,
+213339803,213339823,1,False,primary,State Highway 28,242.364,,,,,,,,,,,20177489,NY 28
+213339803,213139436,0,False,primary,State Highway 28,55.379,,,,,,,,,,,20177489,NY 28
+213339823,213380979,0,False,primary,State Highway 28,115.486,,,,,,,,,,,20177489,NY 28
+213339823,213339803,0,False,residential,The Circle,365.635,,,,,,,,,,,20173286,
+213339823,213339803,1,False,primary,State Highway 28,242.364,,,,,,,,,,,20177489,NY 28
+213339859,213222289,0,False,residential,Nortons Road,607.196,,,,,,,,,,,20173291,
+213339955,213358659,0,False,tertiary,County Highway 35,78.884,,,,,,,,,,,20180463,
+213339955,213164818,0,False,residential,Silliman Cove Road,121.016,,,,,,,,,,,20173302,
+213339955,213278795,0,False,tertiary,County Highway 35,1328.667,,,,,,,,,,,20180463,
+213339995,213164728,0,False,residential,Silliman Cove Road,409.62,,,,,,,,,,,20173302,
+213340756,213340844,0,False,residential,Clover Hill Road,941.951,,,,,,,,,,,20173343,
+213340756,213133074,0,False,primary,State Highway 28,293.135,,,,,,,,,,,20177489,NY 28
+213340756,213225021,0,False,primary,State Highway 28,327.126,,,,,,,,,,,20177489,NY 28
+213340844,213340756,0,False,residential,Clover Hill Road,941.951,,,,,,,,,,,20173343,
+213342617,213173068,0,False,residential,Grove Street,98.594,,,,,,,,,,,20173440,
+213342617,213271256,0,False,residential,Grove Street,103.62,,,,,,,,,,,20173440,
+213342617,213346051,0,False,residential,Division Street,204.766,,,,,,,,,,,20173782,
+213346017,213346051,0,False,residential,Center Street,17.689,,,,,,,,,,,20177847,
+213346017,213261195,0,False,residential,Division Street,172.021,,,,,,,,,,,20173772,
+213346017,213271271,0,False,residential,Center Street,112.298,,,,,,,,,,,20177847,
+213346051,213229706,0,False,residential,Center Street,87.495,,,,,,,,,,,20177847,
+213346051,213346017,0,False,residential,Center Street,17.689,,,,,,,,,,,20177847,
+213346051,213342617,0,False,residential,Division Street,204.766,,,,,,,,,,,20173782,
+213346069,213210640,0,False,residential,Sherman Road,1010.426,,,,,,,,,,,20173794,
+213346069,213401767,0,False,residential,Martindale Road,367.455,,,,,,,,,,,20179981,
+213346069,213365391,0,False,residential,Martindale Road,527.003,,,,,,,,,,,20179985,
+213346134,213210640,0,False,residential,Sherman Road,141.661,,,,,,,,,,,20173794,
+213346134,213210624,0,False,tertiary,County Road 44,170.632,,,,,,,,,,,20175479,CR 44
+213346134,213197434,0,False,tertiary,County Road 44,1272.456,,,,,,,,,,,20175479,CR 44
+213352675,213292884,0,False,residential,Jumps Road,744.31,,,,,,,,,,,20174450,
+213352675,213305104,0,False,residential,Dorr Edison Road,1909.752,,,,,,,,,,,20177061,
+213352675,213221061,0,False,residential,Dorr Edison Road,121.978,,,,,,,,,,,20177061,
+213354375,213354439,0,False,residential,Concrite Road,1836.844,,,,,,,,,,,20174637,
+213354375,213292458,0,False,residential,Concrite Road,113.879,,,,,,,,,,,20174637,
+213354375,213185217,0,False,residential,Upper Dutch Hill Road,1325.377,,,,,,,,,,,20177930,
+213354439,213219488,0,False,residential,Concrite Road,35.801,,,,,,,,,,,20174637,
+213354439,213354375,0,False,residential,Concrite Road,1836.844,,,,,,,,,,,20174637,
+213354439,213219486,0,False,residential,Concrite Road,29.262,,,,,,,,,,,20174641,
+213358659,213339955,0,False,tertiary,County Highway 35,78.884,,,,,,,,,,,20180463,
+213358659,213358703,0,False,residential,Valleyview Estate Road,749.517,,,,,,,,,,,20175065,
+213358659,213323977,0,False,tertiary,County Highway 35,456.426,,,,,,,,,,,20180463,
+213358703,213358659,0,False,residential,Valleyview Estate Road,749.517,,,,,,,,,,,20175065,
+213362659,213141759,0,False,tertiary,County Road 44,1390.083,,,,,,,,,,,20175479,CR 44
+213362659,213210624,0,False,tertiary,County Road 44,599.88,,,,,,,,,,,20175479,CR 44
+213362659,213305394,0,False,tertiary,County Highway 46,263.433,,,,,,,,,,,20175720,CR 46
+213362659,213234436,0,False,residential,Tansey Hill Road,2572.434,,,,,,,,,,,20178532,
+213362890,213308588,0,False,tertiary,County Road 44,850.779,,,,,,,,,,,20175479,CR 44
+213362890,213203039,0,False,tertiary,County Road 44,286.212,,,,,,,,,,,20175479,CR 44
+213362890,213219338,0,False,residential,Upper Dutch Hill Road,806.866,,,,,,,,,,,20177930,
+213362933,213308520,0,False,tertiary,County Road 44,69.285,,,,,,,,,,,20175479,CR 44
+213362933,213293197,0,False,primary,State Highway 28,794.612,,,,,,,,,,,20177489,NY 28
+213362933,213167401,0,False,primary,State Highway 28,200.213,,,,,,,,,,,20177489,NY 28
+213365391,213305394,0,False,tertiary,County Highway 46,561.896,,,,,,,,,,,20175720,CR 46
+213365391,213346069,0,False,residential,Martindale Road,527.003,,,,,,,,,,,20179985,
+213374765,213278801,0,False,residential,D Riddell Road,249.948,,,,,,,yes,,,,"[132357706, 132357709, 20176815]",
+213379556,213379566,0,False,residential,Sunnikrest Road,96.646,,,,,,,,,,,20177314,
+213379556,213181838,0,False,tertiary,County Highway 35,145.745,,,,,,,,,,,20180463,
+213379556,213323977,0,False,tertiary,County Highway 35,242.722,,,,,,,,,,,20180463,
+213379566,213238124,0,False,residential,Sunnikrest Road,634.312,,,,,,,,,,,20177314,
+213379566,213379556,0,False,residential,Sunnikrest Road,96.646,,,,,,,,,,,20177314,
+213379566,213286343,0,False,residential,Lincoln Circle,91.291,,,,,,,,,,,20178927,
+213380979,213339823,0,False,primary,State Highway 28,115.486,,,,,,,,,,,20177489,NY 28
+213380979,213266688,0,False,primary,State Highway 28,135.914,,,,,,,,,,,20177489,NY 28
+213380979,213401542,0,False,residential,Sheetz Road,182.835,,,,,,,,,,,20179953,
+213384262,213229706,0,False,residential,Center Street,91.146,,,,,,,,,,,20177847,
+213393584,213286343,0,False,residential,Lincoln Circle,33.137,,,,,,,,,,,20178927,
+213399800,213399807,0,False,residential,Wilson Spur Road,6.855,,,,,,,,,,,20179734,
+213399800,213399806,0,False,residential,Wilson Spur Road,8.29,,,,,,,,,,,20179734,
+213399806,213399800,0,False,residential,Wilson Spur Road,8.29,,,,,,,,,,,20179734,
+213399806,213399843,0,False,residential,Wilson Spur Road,5.16,,,,,,,,,,,20179734,
+213399807,213399810,0,False,residential,Wilson Spur Road,4.889,,,,,,,,,,,20179734,
+213399807,213399800,0,False,residential,Wilson Spur Road,6.855,,,,,,,,,,,20179734,
+213399810,213399813,0,False,residential,Wilson Spur Road,4.648,,,,,,,,,,,20179734,
+213399810,213399807,0,False,residential,Wilson Spur Road,4.889,,,,,,,,,,,20179734,
+213399813,213399816,0,False,residential,Wilson Spur Road,4.899,,,,,,,,,,,20179734,
+213399813,213399810,0,False,residential,Wilson Spur Road,4.648,,,,,,,,,,,20179734,
+213399816,213399818,0,False,residential,Wilson Spur Road,6.24,,,,,,,,,,,20179734,
+213399816,213399813,0,False,residential,Wilson Spur Road,4.899,,,,,,,,,,,20179734,
+213399818,213399822,0,False,residential,Wilson Spur Road,5.662,,,,,,,,,,,20179734,
+213399818,213399816,0,False,residential,Wilson Spur Road,6.24,,,,,,,,,,,20179734,
+213399822,213399824,0,False,residential,Wilson Spur Road,5.883,,,,,,,,,,,20179734,
+213399822,213399818,0,False,residential,Wilson Spur Road,5.662,,,,,,,,,,,20179734,
+213399824,213399827,0,False,residential,Wilson Spur Road,5.904,,,,,,,,,,,20179734,
+213399824,213399822,0,False,residential,Wilson Spur Road,5.883,,,,,,,,,,,20179734,
+213399827,213399830,0,False,residential,Wilson Spur Road,4.475,,,,,,,,,,,20179734,
+213399827,213399824,0,False,residential,Wilson Spur Road,5.904,,,,,,,,,,,20179734,
+213399830,213399832,0,False,residential,Wilson Spur Road,4.978,,,,,,,,,,,20179734,
+213399830,213399827,0,False,residential,Wilson Spur Road,4.475,,,,,,,,,,,20179734,
+213399832,213399835,0,False,residential,Wilson Spur Road,4.814,,,,,,,,,,,20179734,
+213399832,213399830,0,False,residential,Wilson Spur Road,4.978,,,,,,,,,,,20179734,
+213399835,213399838,0,False,residential,Wilson Spur Road,5.552,,,,,,,,,,,20179734,
+213399835,213399832,0,False,residential,Wilson Spur Road,4.814,,,,,,,,,,,20179734,
+213399838,213399841,0,False,residential,Wilson Spur Road,5.791,,,,,,,,,,,20179734,
+213399838,213399835,0,False,residential,Wilson Spur Road,5.552,,,,,,,,,,,20179734,
+213399841,213399843,0,False,residential,Wilson Spur Road,4.897,,,,,,,,,,,20179734,
+213399841,213399838,0,False,residential,Wilson Spur Road,5.791,,,,,,,,,,,20179734,
+213399843,213399806,0,False,residential,Wilson Spur Road,5.16,,,,,,,,,,,20179734,
+213399843,213399841,0,False,residential,Wilson Spur Road,4.897,,,,,,,,,,,20179734,
+213401542,213380979,0,False,residential,Sheetz Road,182.835,,,,,,,,,,,20179953,
+213401767,213346069,0,False,residential,Martindale Road,367.455,,,,,,,,,,,20179981,
+2130277492,213261201,0,False,residential,Center Street,267.09,,,,,,,,,,,20177850,
+5118781976,213248731,0,False,primary,State Highway 28,26.519,,,,,,,,,,,20177489,NY 28
+5118781976,5118781977,0,False,residential,Eagle Aerie,26.116,1,,,5 mph,,,,,,,526365759,
+5118781976,213132389,0,False,primary,State Highway 28,769.593,,,,,,,,,,,20177489,NY 28
+5118781977,5118781976,0,False,residential,Eagle Aerie,26.116,1,,,5 mph,,,,,,,526365759,

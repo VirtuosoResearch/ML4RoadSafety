@@ -1,0 +1,711 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+61321928,2116888913,0,True,primary,,82.938,4,,,,,,,,,,201666364,US 9W
+61321928,2116849572,0,False,unclassified,,81.412,3,,,,,,,,,,"[427718835, 8614412]",
+213572419,213572437,0,False,residential,,267.298,,,,,,,,,,,"[20194873, 20194871]",
+213572437,213572419,0,False,residential,,267.298,,,,,,,,,,,"[20194873, 20194871]",
+213572437,213718673,0,False,tertiary,South Street,582.97,,,,,,,,,,,20227813,CR 22
+213572437,213972185,0,False,tertiary,South Street,673.318,,,,,,,,,,,20227813,CR 22
+213578380,213638000,0,True,primary,,1082.818,2,,,55 mph,,,,,,,201524165,US 9W
+213578408,2116888990,0,False,residential,Cross Creek Run,12.336,,,,,,,,,,,20221217,
+213578408,213578380,0,True,primary,,51.56,2,,,55 mph,,,,,,,201524165,US 9W
+213578408,213578380,1,True,primary_link,,67.791,,,,,,,,,,,20195465,
+213578706,213578760,0,False,residential,,673.429,,,,,,,,,,,20195491,
+213578706,213611158,0,False,tertiary,Pancake Hollow Road,207.314,2,,,35 mph,,,,,,,20214082,CR 15
+213578706,213679232,0,False,tertiary,Pancake Hollow Road,448.62,2,,,35 mph,,,,,,,20214082,CR 15
+213578760,213578706,0,False,residential,,673.429,,,,,,,,,,,20195491,
+213579327,213579335,0,False,residential,,68.796,,,,,,,,,,,20195577,
+213579327,213738603,0,False,tertiary,South Street,117.01,,,,,,,,,,,20227813,CR 22
+213579327,213579390,0,False,tertiary,South Street,180.686,,,,,,,,,,,20227813,CR 22
+213579335,213579338,0,False,residential,,88.253,,,,,,,,,,,20195577,
+213579335,213579338,1,False,residential,,244.501,,,,,,,,,,,20204804,
+213579335,213579327,0,False,residential,,68.796,,,,,,,,,,,20195577,
+213579338,213579335,0,False,residential,,88.253,,,,,,,,,,,20195577,
+213579338,213579335,1,False,residential,,244.501,,,,,,,,,,,20204804,
+213579338,213579386,0,False,residential,,393.27,,,,,,,,,,,20195577,
+213579338,213579386,1,False,residential,,229.472,,,,,,,,,,,20204804,
+213579386,213579390,0,False,residential,,145.301,,,,,,,,,,,20195577,
+213579386,213579338,0,False,residential,,393.27,,,,,,,,,,,20195577,
+213579386,213579338,1,False,residential,,229.472,,,,,,,,,,,20204804,
+213579390,213579386,0,False,residential,,145.301,,,,,,,,,,,20195577,
+213579390,213579327,0,False,tertiary,South Street,180.686,,,,,,,,,,,20227813,CR 22
+213579390,213634783,0,False,tertiary,South Street,399.105,,,,,,,,,,,20227813,CR 22
+213579401,213579439,0,False,residential,,300.817,,,,,,,,,,,20195580,
+213579401,213579439,1,False,tertiary,Hurds Road,101.48,,,,,,,,,,,20218104,
+213579401,213735795,0,False,tertiary,Hurds Road,897.191,,,,,,,,,,,20218104,
+213579439,213579401,0,False,residential,,300.817,,,,,,,,,,,20195580,
+213579439,213579401,1,False,tertiary,Hurds Road,101.48,,,,,,,,,,,20218104,
+213579439,213832331,0,False,tertiary,Hurds Road,364.834,,,,,,,,,,,20218104,
+213583612,213583653,0,False,residential,,307.228,,,,,,,,,,,20195995,
+213583612,213773399,0,False,tertiary,Pancake Hollow Road,196.97,2,,,35 mph,,,,,,,20214082,CR 15
+213583612,213773376,0,False,tertiary,Pancake Hollow Road,126.398,2,,,35 mph,,,,,,,20214082,CR 15
+213583653,213583612,0,False,residential,,307.228,,,,,,,,,,,20195995,
+213586390,213586407,0,False,residential,,154.094,,,,,,,,,,,20196300,
+213586390,213735706,0,False,tertiary,South Ohioville Road,806.519,,,,,,,,,,,38226236,
+213586390,213735795,0,False,tertiary,South Ohioville Road,231.245,,,,,,,,,,,38226236,
+213586407,213586390,0,False,residential,,154.094,,,,,,,,,,,20196300,
+213589308,213589311,0,False,residential,,223.536,,,,,,,,,,,20196617,
+213589308,213832331,0,False,tertiary,Hurds Road,196.475,,,,,,,,,,,20218104,
+213589308,213832307,0,False,tertiary,Hurds Road,142.617,,,,,,,,,,,20218104,
+213589311,213589308,0,False,residential,,223.536,,,,,,,,,,,20196617,
+213595595,213595612,0,False,residential,,211.102,,,,,,,,,,,20197249,
+213595595,213943582,0,False,tertiary,North Riverside Road,237.477,,,,,,,,,,,20226077,
+213595595,213943353,0,False,tertiary,North Riverside Road,1203.08,,,,,,,,,,,20226077,
+213595612,213595595,0,False,residential,,211.102,,,,,,,,,,,20197249,
+213599144,213599200,0,False,residential,,859.604,,,,,,,,,,,20197548,
+213599144,213599200,1,False,residential,Hawleys Corners Road,260.17,,,,,,,,,,,20237358,
+213599144,213699031,0,False,residential,Hawleys Corners Road,81.401,,,,,,,,,,,20237358,
+213599200,213599144,0,False,residential,,859.604,,,,,,,,,,,20197548,
+213599200,213599144,1,False,residential,Hawleys Corners Road,260.17,,,,,,,,,,,20237358,
+213599200,214102963,0,False,residential,Hawleys Corners Road,876.926,,,,,,,,,,,20237358,
+213599609,213912095,0,False,tertiary,Station Road,4.476,,,,,,,,,,,20228765,CR 22A
+213599609,213599616,0,False,residential,,173.677,,,,,,,,,,,20197594,
+213599609,213986485,0,False,tertiary,Station Road,296.067,,,,,,,,,,,20228765,CR 22A
+213599616,213599632,0,False,residential,,199.97,,,,,,,,,,,20197594,
+213599616,213599609,0,False,residential,,173.677,,,,,,,,,,,20197594,
+213599616,213599649,0,False,residential,,124.298,,,,,,,,,,,20199384,
+213599632,213599649,0,False,residential,,130.021,,,,,,,,,,,20197594,
+213599632,213599616,0,False,residential,,199.97,,,,,,,,,,,20197594,
+213599632,213656908,0,False,residential,,130.697,,,,,,,,,,,20203634,
+213599649,213599632,0,False,residential,,130.021,,,,,,,,,,,20197594,
+213599649,213599616,0,False,residential,,124.298,,,,,,,,,,,20199384,
+213599649,213616494,0,False,residential,,227.272,,,,,,,,,,,20199384,
+213607707,213607712,0,False,residential,,118.775,,,,,,,,,,,20198469,
+213607707,213787510,0,False,primary,Vineyard Avenue,229.853,2,,,,,,,,,,20231598,US 44;NY 55
+213607707,213972148,0,False,primary,Vineyard Avenue,170.518,2,,,,,,,,,,20231598,US 44;NY 55
+213607712,213607707,0,False,residential,,118.775,,,,,,,,,,,20198469,
+213611158,213611209,0,False,residential,,527.25,,,,,,,,,,,20198784,
+213611158,213686416,0,False,tertiary,Pancake Hollow Road,217.4,2,,,35 mph,,,,,,,20214082,CR 15
+213611158,213578706,0,False,tertiary,Pancake Hollow Road,207.314,2,,,35 mph,,,,,,,20214082,CR 15
+213611209,213611158,0,False,residential,,527.25,,,,,,,,,,,20198784,
+213611660,213707853,0,False,primary,Vineyard Avenue,61.339,2,,,,,,,,,,20231598,US 44;NY 55
+213611660,213611674,0,False,residential,,131.508,,,,,,,,,,,20198824,
+213611660,213707837,0,False,primary,Vineyard Avenue,165.939,2,,,,,,,,,,20231598,US 44;NY 55
+213611674,213611660,0,False,residential,,131.508,,,,,,,,,,,20198824,
+213612783,213612788,0,False,residential,,19.551,,,,,,,,,,,20198955,
+213612783,213766716,0,False,unclassified,South Elting Corners Road,30.226,,,,,,,,,,,20213643,
+213612783,213612929,0,False,unclassified,South Elting Corners Road,331.943,,,,,,,,,,,20213643,
+213612788,213612783,0,False,residential,,19.551,,,,,,,,,,,20198955,
+213612788,213766716,0,False,residential,Hawleys Corners Road,31.793,,,,,,,,,,,20237341,
+213612788,213612918,0,False,residential,Hawleys Corners Road,189.698,,,,,,,,,,,20237341,
+213612918,213612929,0,False,residential,,296.649,,,,,,,,,,,20198969,
+213612918,213612788,0,False,residential,Hawleys Corners Road,189.698,,,,,,,,,,,20237341,
+213612918,214102850,0,False,residential,Hawleys Corners Road,844.072,,,,,,,,,,,20237341,
+213612929,213612918,0,False,residential,,296.649,,,,,,,,,,,20198969,
+213612929,213612783,0,False,unclassified,South Elting Corners Road,331.943,,,,,,,,,,,20213643,
+213612929,213644958,0,False,unclassified,South Elting Corners Road,544.485,,,,,,,,,,,20213643,
+213613452,213613464,0,False,residential,,356.412,,,,,,,,,,,20199063,
+213613452,214051303,0,False,residential,Dogwood Knoll Road,543.232,,,,,,,,,,,20233394,
+213613452,214074115,0,False,residential,Crest Lane,150.409,,,,,,,,,,,20235128,
+213613464,213613452,0,False,residential,,356.412,,,,,,,,,,,20199063,
+213614416,213614424,0,False,residential,,125.073,,,,,,,,,,,20199210,
+213614424,213614441,0,False,residential,,154.44,,,,,,,,,,,20199210,
+213614424,213614416,0,False,residential,,125.073,,,,,,,,,,,20199210,
+213614424,213690109,0,False,residential,,63.999,,,,,,,,,,,20207491,
+213614441,213614464,0,False,residential,,128.17,,,,,,,,,,,20199210,
+213614441,213614424,0,False,residential,,154.44,,,,,,,,,,,20199210,
+213614441,213646449,0,False,residential,,80.823,,,,,,,,,,,20202563,
+213614464,213614532,0,False,residential,,361.571,,,,,,,,,,,20199210,
+213614464,213614532,1,False,residential,,96.863,,,,,,,,,,,20200035,
+213614464,213614441,0,False,residential,,128.17,,,,,,,,,,,20199210,
+213614532,213614464,0,False,residential,,361.571,,,,,,,,,,,20199210,
+213614532,213614464,1,False,residential,,96.863,,,,,,,,,,,20200035,
+213614532,213622746,0,False,residential,,107.464,,,,,,,,,,,20200035,
+213616464,213616466,0,False,residential,,307.799,,,,,,,,,,,20199382,
+213616464,213687262,0,False,primary,Vineyard Avenue,819.117,2,,,,,,,,,,20231598,US 44;NY 55
+213616464,213616473,0,False,primary,Vineyard Avenue,36.706,2,,,,,,,,,,20231598,US 44;NY 55
+213616466,213616464,0,False,residential,,307.799,,,,,,,,,,,20199382,
+213616473,213616487,0,False,residential,,380.936,,,,,,,,,,,20199383,
+213616473,213616464,0,False,primary,Vineyard Avenue,36.706,2,,,,,,,,,,20231598,US 44;NY 55
+213616473,2865684306,0,False,primary,Vineyard Avenue,194.612,2,,,,,,,,,,20231598,US 44;NY 55
+213616487,213616473,0,False,residential,,380.936,,,,,,,,,,,20199383,
+213616494,213599649,0,False,residential,,227.272,,,,,,,,,,,20199384,
+213616494,213779326,0,False,tertiary,Station Road,770.259,,,,,,,,,,,20228765,CR 22A
+213616494,213912095,0,False,tertiary,Station Road,187.143,,,,,,,,,,,20228765,CR 22A
+213621041,213621129,0,False,residential,,936.202,,,,,,,,,,,20199834,
+213621041,213805448,0,False,primary,Chapel Hill Road,613.796,2,,,,,,,,,,20238516,CR 11
+213621041,213707888,0,False,primary,Chapel Hill Road,57.29,2,,,,,,,,,,20238516,CR 11
+213621129,213621041,0,False,residential,,936.202,,,,,,,,,,,20199834,
+213622746,213614532,0,False,residential,,107.464,,,,,,,,,,,20200035,
+213631801,213764031,0,False,tertiary,Pancake Hollow Road,36.331,2,,,35 mph,,,,,,,20214082,CR 15
+213631801,213631926,0,False,residential,,1046.636,,,,,,,,,,,20201044,
+213631801,213686416,0,False,tertiary,Pancake Hollow Road,188.222,2,,,35 mph,,,,,,,20214082,CR 15
+213631926,213631801,0,False,residential,,1046.636,,,,,,,,,,,20201044,
+213634783,213634825,0,False,residential,,216.588,,,,,,,,,,,20201318,
+213634783,213579390,0,False,tertiary,South Street,399.105,,,,,,,,,,,20227813,CR 22
+213634783,213698609,0,False,tertiary,South Street,307.937,,,,,,,,,,,20227813,CR 22
+213634825,213634783,0,False,residential,,216.588,,,,,,,,,,,20201318,
+213636775,213986485,0,False,tertiary,Station Road,138.072,,,,,,,,,,,20228765,CR 22A
+213636775,213636797,0,False,residential,,297.842,,,,,,,,,,,20201536,
+213636775,213972305,0,False,tertiary,Station Road,113.657,,,,,,,,,,,20228765,CR 22A
+213636797,213636775,0,False,residential,,297.842,,,,,,,,,,,20201536,
+213638000,2116888977,0,True,primary_link,,11.994,,,,,,,,,,,20201682,
+213638000,213943313,0,True,primary,,685.875,2,,,55 mph,,,,,,,201524165,US 9W
+213638598,213638602,0,False,residential,,212.284,,,,,,,,,,,20201773,
+213638602,213638598,0,False,residential,,212.284,,,,,,,,,,,20201773,
+213638602,213705042,0,False,residential,Upper North Road,626.582,,,,,,,,,,,20209241,
+213638602,213704986,0,False,residential,Upper North Road,1436.206,,,,,,,,,,,20209241,
+213643891,213718664,0,False,residential,Crow Hill Road,49.469,,,,,,,,,,,20210316,
+213643891,213643967,0,False,residential,,458.444,,,,,,,,,,,20202286,
+213643891,213718659,0,False,residential,Crow Hill Road,57.939,,,,,,,,,,,20210316,
+213643967,213643891,0,False,residential,,458.444,,,,,,,,,,,20202286,
+213643967,213828011,0,False,tertiary,South Street,68.787,,,,,,,,,,,20227813,CR 22
+213643967,213972305,0,False,tertiary,South Street,141.236,,,,,,,,,,,20227813,CR 22
+213644958,213644979,0,False,residential,,156.192,,,,,,,,,,,20202385,
+213644958,213612929,0,False,unclassified,South Elting Corners Road,544.485,,,,,,,,,,,20213643,
+213644958,213766659,0,False,unclassified,South Elting Corners Road,407.407,,,,,,,,,,,20213643,
+213644979,213644958,0,False,residential,,156.192,,,,,,,,,,,20202385,
+213645100,213645160,0,False,residential,,157.5,,,,,,,,,,,20202407,
+213645100,213766659,0,False,unclassified,South Elting Corners Road,674.033,,,,,,,,,,,20213643,
+213645100,213645214,0,False,unclassified,South Elting Corners Road,109.671,,,,,,,,,,,20213643,
+213645160,213645100,0,False,residential,,157.5,,,,,,,,,,,20202407,
+213645214,213645218,0,False,residential,,105.436,,,,,,,,,,,20202415,
+213645214,213645100,0,False,unclassified,South Elting Corners Road,109.671,,,,,,,,,,,20213643,
+213645214,213676186,0,False,unclassified,South Elting Corners Road,135.904,,,,,,,,,,,20213643,
+213645218,213645214,0,False,residential,,105.436,,,,,,,,,,,20202415,
+213646449,213614441,0,False,residential,,80.823,,,,,,,,,,,20202563,
+213646463,213646479,0,False,residential,,184.801,,,,,,,,,,,20202565,
+213646463,213752866,0,False,residential,Kisor Road,558.386,,,,,,,,,,,59645407,
+213646463,213738650,0,False,residential,Kisor Road,294.519,,,,,,,,,,,59645407,
+213646479,213646463,0,False,residential,,184.801,,,,,,,,,,,20202565,
+213647056,213647136,0,False,residential,,393.042,,,,,,,,,,,20202615,
+213647056,213745712,0,False,residential,Millers Lane,139.273,,,,,,,,,,,20234651,
+213647056,214064365,0,False,residential,Millers Lane,234.038,,,,,,,,,,,20234651,
+213647136,213647056,0,False,residential,,393.042,,,,,,,,,,,20202615,
+213652313,213828041,0,False,residential,Costa Road,13.864,,,,,,,,,,,20217792,
+213652313,213652435,0,False,residential,,782.074,,,,,,,,,,,20203164,
+213652313,213828053,0,False,residential,Costa Road,151.415,,,,,,,,,,,20217792,
+213652435,213652313,0,False,residential,,782.074,,,,,,,,,,,20203164,
+213652435,213688139,0,False,tertiary,South Street,466.109,,,,,,,,,,,20227813,CR 22
+213652435,213828011,0,False,tertiary,South Street,488.831,,,,,,,,,,,20227813,CR 22
+213656908,213599632,0,False,residential,,130.697,,,,,,,,,,,20203634,
+213659861,213683101,0,False,tertiary,South Ohioville Road,33.825,,,,,,,,,,,20234354,
+213660225,213767408,0,False,tertiary,Pancake Hollow Road,175.519,2,,,35 mph,,,,,,,20214082,CR 15
+213660225,213660239,0,False,residential,,124.598,,,,,,,,,,,20203960,
+213660225,213767377,0,False,tertiary,Pancake Hollow Road,178.939,2,,,35 mph,,,,,,,20214082,CR 15
+213660239,213660225,0,False,residential,,124.598,,,,,,,,,,,20203960,
+213676186,213676207,0,False,residential,,250.333,,,,,,,,,,,20205738,
+213676186,213645214,0,False,unclassified,South Elting Corners Road,135.904,,,,,,,,,,,20213643,
+213676186,213766565,0,False,unclassified,South Elting Corners Road,1278.415,,,,,,,,,,,20213643,
+213676207,213676186,0,False,residential,,250.333,,,,,,,,,,,20205738,
+213676264,213676312,0,False,residential,,658.202,,,,,,,,,,,20205742,
+213676264,214102850,0,False,residential,Lily Lake Road,1766.575,,,,,,,,,,,20241218,
+213676264,213698925,0,False,residential,Lily Lake Road,356.185,,,,,,,,,,,20241218,
+213676312,213676264,0,False,residential,,658.202,,,,,,,,,,,20205742,
+213679221,213679232,0,False,residential,,269.529,,,,,,,,,,,20206116,
+213679232,213679221,0,False,residential,,269.529,,,,,,,,,,,20206116,
+213679232,213578706,0,False,tertiary,Pancake Hollow Road,448.62,2,,,35 mph,,,,,,,20214082,CR 15
+213679232,213710836,0,False,tertiary,Pancake Hollow Road,801.366,2,,,35 mph,,,,,,,20214082,CR 15
+213683101,213903430,0,False,tertiary,South Ohioville Road,138.4,,,,,,,,,,,20234354,
+213683101,213659861,0,False,tertiary,South Ohioville Road,33.825,,,,,,,,,,,20234354,
+213686416,213686436,0,False,residential,,250.169,,,,,,,,,,,20207028,
+213686416,213631801,0,False,tertiary,Pancake Hollow Road,188.222,2,,,35 mph,,,,,,,20214082,CR 15
+213686416,213611158,0,False,tertiary,Pancake Hollow Road,217.4,2,,,35 mph,,,,,,,20214082,CR 15
+213686436,213686416,0,False,residential,,250.169,,,,,,,,,,,20207028,
+213687262,213616464,0,False,primary,Vineyard Avenue,819.117,2,,,,,,,,,,20231598,US 44;NY 55
+213688139,213688167,0,False,residential,,455.73,,,,,,,,,,,20207247,
+213688139,213698609,0,False,tertiary,South Street,864.372,,,,,,,,,,,20227813,CR 22
+213688139,213652435,0,False,tertiary,South Street,466.109,,,,,,,,,,,20227813,CR 22
+213688167,213688139,0,False,residential,,455.73,,,,,,,,,,,20207247,
+213690109,213614424,0,False,residential,,63.999,,,,,,,,,,,20207491,
+213690109,213738638,0,False,primary,,745.384,2,,,55 mph,,,,,,,27727016,NY 299
+213690109,213738614,0,False,primary,,394.994,2,,,55 mph,,,,,,,27727016,NY 299
+213698609,213698626,0,False,residential,,301.88,,,,,,,,,,,20208520,
+213698609,213634783,0,False,tertiary,South Street,307.937,,,,,,,,,,,20227813,CR 22
+213698609,213688139,0,False,tertiary,South Street,864.372,,,,,,,,,,,20227813,CR 22
+213698626,213698609,0,False,residential,,301.88,,,,,,,,,,,20208520,
+213698925,213699012,0,False,residential,,895.487,,,,,,,,,,,20208563,
+213698925,213676264,0,False,residential,Lily Lake Road,356.185,,,,,,,,,,,20241218,
+213698925,214076842,0,False,residential,Lily Lake Road,1036.855,,,,,,,,,,,20241218,
+213699012,213698925,0,False,residential,,895.487,,,,,,,,,,,20208563,
+213699031,213699034,0,False,residential,,76.567,,,,,,,,,,,20208569,
+213699031,214022805,0,False,residential,Hawleys Corners Road,845.416,,,,,,,,,,,20237358,
+213699031,213599144,0,False,residential,Hawleys Corners Road,81.401,,,,,,,,,,,20237358,
+213699034,213699031,0,False,residential,,76.567,,,,,,,,,,,20208569,
+213699582,213699582,0,False,residential,,201.881,,,,,,,,,,,20208610,
+213699582,213699582,1,False,residential,,201.881,,,,,,,,,,,20208610,
+213699582,213943582,0,False,residential,John White Road,367.48,,,,,,,,,,,20233187,
+213700703,213700709,0,False,residential,,134.507,,,,,,,,,,,20208740,
+213700703,213773376,0,False,tertiary,Pancake Hollow Road,59.551,2,,,35 mph,,,,,,,20214082,CR 15
+213700703,213773363,0,False,tertiary,Pancake Hollow Road,78.107,2,,,35 mph,,,,,,,20214082,CR 15
+213700709,213700703,0,False,residential,,134.507,,,,,,,,,,,20208740,
+213704986,213638602,0,False,residential,Upper North Road,1436.206,,,,,,,,,,,20209241,
+213704986,213578408,0,True,primary,,223.151,"['2', '1']",,,55 mph,,,,,,,"[201524165, 31270518]",US 9W
+213705042,213705053,0,False,residential,Upper North Road,54.487,,,,,,,,,,,20209241,
+213705042,213638602,0,False,residential,Upper North Road,626.582,,,,,,,,,,,20209241,
+213705042,213943313,0,False,tertiary,North Riverside Road,51.439,,,,,,,,,,,20226072,CR 15
+213705042,213943582,0,False,tertiary,North Riverside Road,211.65,,,,,,,,,,,20226077,
+213705053,213705042,0,False,residential,Upper North Road,54.487,,,,,,,,,,,20209241,
+213707818,213932637,0,False,residential,Half Moon Road,490.646,,,,,,,,,,,20225335,
+213707818,213707837,0,False,primary,Vineyard Avenue,421.54,2,,,,,,,,,,20231598,US 44;NY 55
+213707837,213932637,0,False,residential,Half Moon Road,67.228,,,,,,,,,,,20225326,
+213707837,213707818,0,False,primary,Vineyard Avenue,421.54,2,,,,,,,,,,20231598,US 44;NY 55
+213707837,213611660,0,False,primary,Vineyard Avenue,165.939,2,,,,,,,,,,20231598,US 44;NY 55
+213707853,213611660,0,False,primary,Vineyard Avenue,61.339,2,,,,,,,,,,20231598,US 44;NY 55
+213707853,213707855,0,False,primary,Vineyard Avenue,108.111,2,,,,,,,,,,20231598,US 44;NY 55
+213707853,213788766,0,False,residential,Cusa Drive,254.159,,,,,,,,,,,20215066,
+213707855,213707853,0,False,primary,Vineyard Avenue,108.111,2,,,,,,,,,,20231598,US 44;NY 55
+213707855,213707888,0,False,primary,Vineyard Avenue,435.528,2,,,45 mph,,,,,,,"[440265894, 20231598]",US 44;NY 55
+213707855,214044738,0,False,tertiary,Orchard Road,151.852,,,,,,,,,,,20232937,CR 11
+213707888,213621041,0,False,primary,Chapel Hill Road,57.29,2,,,,,,,,,,20238516,CR 11
+213707888,213707911,0,False,secondary,Vineyard Avenue,272.449,2,,,"['30 mph', '45 mph']",,,,,,,"[121772523, 440265893]",US 44;NY 55
+213707888,213707855,0,False,primary,Vineyard Avenue,435.528,2,,,45 mph,,,,,,,"[20231598, 440265894]",US 44;NY 55
+213707911,213815510,0,False,residential,Cuomo Drive,530.144,,,,,,,,,,,20216869,
+213707911,213707888,0,False,secondary,Vineyard Avenue,272.449,2,,,"['30 mph', '45 mph']",,,,,,,"[121772523, 440265893]",US 44;NY 55
+213710836,213679232,0,False,tertiary,Pancake Hollow Road,801.366,2,,,35 mph,,,,,,,20214082,CR 15
+213710836,213773221,0,False,tertiary,Pancake Hollow Road,234.059,2,,,35 mph,,,,,,,20214082,CR 15
+213712961,213712972,0,False,residential,Pine Terrace,213.451,,,,,,,,,,,20209836,
+213712961,214102963,0,False,residential,North Chodikee Lake Road,717.616,,,,,,,,,,,20241236,
+213712961,213738673,0,False,residential,North Chodikee Lake Road,190.874,,,,,,,,,,,20241236,
+213712972,213712961,0,False,residential,Pine Terrace,213.451,,,,,,,,,,,20209836,
+213718659,213643891,0,False,residential,Crow Hill Road,57.939,,,,,,,,,,,20210316,
+213718659,213718673,0,False,residential,Crow Hill Road,71.856,,,,,,,,,,,20210318,
+213718664,213643891,0,False,residential,Crow Hill Road,49.469,,,,,,,,,,,20210316,
+213718664,213972305,0,False,tertiary,South Street,201.883,,,,,,,,,,,20227813,CR 22
+213718664,213718673,0,False,tertiary,South Street,146.208,,,,,,,,,,,20227813,CR 22
+213718673,213718659,0,False,residential,Crow Hill Road,71.856,,,,,,,,,,,20210318,
+213718673,213718664,0,False,tertiary,South Street,146.208,,,,,,,,,,,20227813,CR 22
+213718673,213572437,0,False,tertiary,South Street,582.97,,,,,,,,,,,20227813,CR 22
+213718883,213847635,0,False,primary,,13.713,2,,,,,,,,,,121772712,US 9W
+213728708,213728750,0,False,residential,Gabriety Road,528.402,,,,,,,,,,,20210989,
+213728708,213847758,0,False,residential,Wingate Way,454.126,,,,,,,,,,,20229716,
+213728750,213728708,0,False,residential,Gabriety Road,528.402,,,,,,,,,,,20210989,
+213728750,213805415,0,False,residential,Perkinsville Road,93.219,,,,,,,,,,,20219281,
+213728750,213847758,0,False,residential,Perkinsville Road,347.182,,,,,,,,,,,20219293,
+213729859,213729886,0,False,residential,Tricia Boulevard,197.458,,,,,,,,,,,20211060,
+213729859,2116888913,0,False,residential,Cummings Lane,623.418,,,,,,,,,,,20218377,
+213729859,2116888978,0,False,residential,Cummings Lane,187.59,,,,,,,,,,,20218377,
+213729886,213729859,0,False,residential,Tricia Boulevard,197.458,,,,,,,,,,,20211060,
+213729886,213905330,0,False,residential,John Court,358.986,,,,,,,,,,,20223792,
+213730011,213730072,0,False,residential,Weeds Mill Road,746.46,,,,,,,,,,,20211065,
+213730011,213738650,0,False,residential,Kisor Road,209.212,,,,,,,,,,,59645407,
+213730072,213730075,0,False,residential,Weeds Mill Road,52.655,,,,,,,,,,,20211065,
+213730072,213730011,0,False,residential,Weeds Mill Road,746.46,,,,,,,,,,,20211065,
+213730072,213738658,0,False,residential,Lily Lake Road,133.271,,,,,,,,,,,20241218,
+213730075,213730072,0,False,residential,Weeds Mill Road,52.655,,,,,,,,,,,20211065,
+213730075,213738675,0,False,tertiary,South Riverside Road,1280.799,,,,,,,,,,,20228584,
+213730075,213900238,0,False,tertiary,South Riverside Road,621.57,2,,,,,,,,,,20228586,CR 15
+213732727,213766716,0,False,unclassified,South Elting Corners Road,132.703,,,,,,,,,,,20213643,
+213735219,213735231,0,False,residential,Bellevue Road,190.37,,,,,,,,,,,20211408,
+213735219,213856899,0,False,residential,Raymond Avenue,143.613,,,,,,,,,,,20220018,
+213735219,213856823,0,False,residential,Raymond Avenue,144.407,,,,,,,,,,,20220018,
+213735231,213735379,0,False,residential,Bellevue Road,2062.511,,,,,,,,,,,20211408,
+213735231,213735219,0,False,residential,Bellevue Road,190.37,,,,,,,,,,,20211408,
+213735231,213856823,0,False,residential,Clearwater Road,183.493,,,,,,,,,,,20233657,
+213735379,213735408,0,False,residential,Bellevue Road,419.235,,,,,,,,,,,20211408,
+213735379,213735231,0,False,residential,Bellevue Road,2062.511,,,,,,,,,,,20211408,
+213735379,213808408,0,False,residential,Great View Lane,264.076,,,,,,,,,,,20216361,
+213735408,213735439,0,False,residential,Bellevue Road,263.187,,,,,,,,,,,20211408,
+213735408,213735379,0,False,residential,Bellevue Road,419.235,,,,,,,,,,,20211408,
+213735408,214155539,0,False,residential,Felsen Lane,312.544,,,,,,,,,,,20241075,
+213735439,213735408,0,False,residential,Bellevue Road,263.187,,,,,,,,,,,20211408,
+213735439,2116888975,0,False,residential,Red Top Road,1257.689,,,,,,,,,,,20212587,
+213735439,213751888,0,False,residential,Red Top Road,501.918,,,,,,,,,,,20212587,
+213735706,213779326,0,False,tertiary,South Ohioville Road,249.467,,,,,,,,,,,38226236,
+213735706,213586390,0,False,tertiary,South Ohioville Road,806.519,,,,,,,,,,,38226236,
+213735795,213579401,0,False,tertiary,Hurds Road,897.191,,,,,,,,,,,20218104,
+213735795,213586390,0,False,tertiary,South Ohioville Road,231.245,,,,,,,,,,,38226236,
+213735795,213745627,0,False,tertiary,South Ohioville Road,705.825,,,,,,,,,,,38226236,
+213738596,213738603,0,False,primary,,403.364,2,,,55 mph,,,,,,,27727016,NY 299
+213738603,213579327,0,False,tertiary,South Street,117.01,,,,,,,,,,,20227813,CR 22
+213738603,213738614,0,False,primary,,479.534,2,,,55 mph,,,,,,,27727016,NY 299
+213738603,213738596,0,False,primary,,403.364,2,,,55 mph,,,,,,,27727016,NY 299
+213738603,213766540,0,False,unclassified,South Elting Corners Road,377.66,"['4', '3']",,,,,,,,,,"[20213643, 463128540, 463128541, 463128542, 463128543]",
+213738614,213900665,0,False,residential,Park Lane,594.574,,,,,,,,,,,20227318,
+213738614,213690109,0,False,primary,,394.994,2,,,55 mph,,,,,,,27727016,NY 299
+213738614,213738603,0,False,primary,,479.534,2,,,55 mph,,,,,,,27727016,NY 299
+213738638,213738642,0,False,primary,,96.945,2,,,55 mph,,,,,,,27727016,NY 299
+213738638,213752866,0,False,tertiary,New Paltz Road,95.049,2,,,,,,,,,,"[20223466, 97454067]",
+213738638,213690109,0,False,primary,,745.384,2,,,55 mph,,,,,,,27727016,NY 299
+213738642,213738638,0,False,primary,,96.945,2,,,55 mph,,,,,,,27727016,NY 299
+213738642,213752766,0,False,tertiary,New Paltz Road,772.095,2,,,40 mph,,,,,,,"[20223448, 439627741]",CR 12
+213738642,213738650,0,False,primary,,461.349,2,,,55 mph,,,,,,,27727016,NY 299
+213738650,213738658,0,False,primary,,826.137,2,,,55 mph,,,,,,,27727016,NY 299
+213738650,213738642,0,False,primary,,461.349,2,,,55 mph,,,,,,,27727016,NY 299
+213738650,213646463,0,False,residential,Kisor Road,294.519,,,,,,,,,,,59645407,
+213738650,213730011,0,False,residential,Kisor Road,209.212,,,,,,,,,,,59645407,
+213738658,214076842,0,False,residential,Lily Lake Road,226.332,,,,,,,,,,,20241218,
+213738658,213730072,0,False,residential,Lily Lake Road,133.271,,,,,,,,,,,20241218,
+213738658,213738664,0,False,primary,,277.856,2,,,55 mph,,,,,,,27727016,NY 299
+213738658,213738650,0,False,primary,,826.137,2,,,55 mph,,,,,,,27727016,NY 299
+213738664,214053633,0,False,residential,Woodland Drive,365.153,,,,,,,,,,,20233591,
+213738664,213738673,0,False,primary,,840.836,2,,,55 mph,,,,,,,27727016,NY 299
+213738664,213738658,0,False,primary,,277.856,2,,,55 mph,,,,,,,27727016,NY 299
+213738673,213712961,0,False,residential,North Chodikee Lake Road,190.874,,,,,,,,,,,20241236,
+213738673,213738675,0,False,primary,,145.447,2,,,55 mph,,,,,,,27727016,NY 299
+213738673,213738664,0,False,primary,,840.836,2,,,55 mph,,,,,,,27727016,NY 299
+213738675,213730075,0,False,tertiary,South Riverside Road,1280.799,,,,,,,,,,,20228584,
+213738675,213738682,0,False,primary,,288.313,2,,,55 mph,,,yes,,,,"[27727016, 59645402, 59645403]",NY 299
+213738675,213738673,0,False,primary,,145.447,2,,,55 mph,,,,,,,27727016,NY 299
+213738682,213943353,0,False,tertiary,North Riverside Road,194.123,,,,,,,,,,,20226077,
+213738682,213738690,0,False,primary,,491.895,2,,,55 mph,,,,,,,59645402,NY 299
+213738682,213738675,0,False,primary,,288.313,2,,,55 mph,,,yes,,,,"[27727016, 59645402, 59645403]",NY 299
+213738682,214042421,0,False,residential,Riverside Road,98.824,,,,,,,,,,,59645409,
+213738690,213738691,0,False,primary,,561.556,2,,,55 mph,,,,,,,59645402,NY 299
+213738690,213943353,0,False,residential,Jane Wood Road,422.006,,,,,,,,,,,20240571,
+213738690,213738682,0,False,primary,,491.895,2,,,55 mph,,,,,,,59645402,NY 299
+213738691,213738690,0,False,primary,,561.556,2,,,55 mph,,,,,,,59645402,NY 299
+213745627,213745633,0,False,residential,Van de Water Road,268.134,,,,,,,,,,,20212141,
+213745627,213735795,0,False,tertiary,South Ohioville Road,705.825,,,,,,,,,,,38226236,
+213745627,214064365,0,False,tertiary,South Ohioville Road,148.65,,,,,,,,,,,38226236,
+213745633,213745627,0,False,residential,Van de Water Road,268.134,,,,,,,,,,,20212141,
+213745712,213745730,0,False,residential,Van de Water Road,134.585,,,,,,,,,,,20212152,
+213745712,214068069,0,False,residential,Millers Lane,84.022,,,,,,,,,,,20234651,
+213745712,213647056,0,False,residential,Millers Lane,139.273,,,,,,,,,,,20234651,
+213745730,213745712,0,False,residential,Van de Water Road,134.585,,,,,,,,,,,20212152,
+213751273,213900688,0,False,tertiary,New Paltz Road,18.894,2,,,,,,,,,,97454067,
+213751273,213751289,0,False,residential,Lorraine Meadows Road,113.119,,,,,,,,,,,20212544,
+213751273,213900677,0,False,tertiary,New Paltz Road,255.175,2,,,,,,,,,,97454067,
+213751289,213751273,0,False,residential,Lorraine Meadows Road,113.119,,,,,,,,,,,20212544,
+213751888,213735439,0,False,residential,Red Top Road,501.918,,,,,,,,,,,20212587,
+213752766,213730011,0,True,residential,Kisor Road,142.341,,,,,,,,,,,20212659,
+213752766,213900238,0,False,tertiary,New Paltz Road,349.026,2,,,40 mph,,,,,,,439627741,CR 12
+213752766,213738642,0,False,tertiary,New Paltz Road,772.095,2,,,40 mph,,,,,,,"[20223448, 439627741]",CR 12
+213752866,213646463,0,False,residential,Kisor Road,558.386,,,,,,,,,,,59645407,
+213752866,213900621,0,False,tertiary,New Paltz Road,255.417,2,,,,,,,,,,97454067,
+213752866,213738638,0,False,tertiary,New Paltz Road,95.049,2,,,,,,,,,,"[20223466, 97454067]",
+213759276,213759293,0,False,residential,Overlook Road,193.065,,,,,,,,,,,20213114,
+213759276,214102850,0,False,residential,Hawleys Corners Road,395.859,,,,,,,,,,,20237341,
+213759276,214022805,0,False,residential,Hawleys Corners Road,322.296,,,,,,,,,,,20237341,
+213759293,213759313,0,False,residential,Overlook Road,212.827,,,,,,,,,,,20213114,
+213759293,213759276,0,False,residential,Overlook Road,193.065,,,,,,,,,,,20213114,
+213759293,213759327,0,False,residential,Overlook Road,138.958,,,,,,,,,,,20213115,
+213759313,213759293,0,False,residential,Overlook Road,212.827,,,,,,,,,,,20213114,
+213759327,213759293,0,False,residential,Overlook Road,138.958,,,,,,,,,,,20213115,
+213764031,213631801,0,False,tertiary,Pancake Hollow Road,36.331,2,,,35 mph,,,,,,,20214082,CR 15
+213764031,213764084,0,False,residential,Farm Lane,423.958,,,,,,,,,,,20213419,
+213764031,213767408,0,False,tertiary,Pancake Hollow Road,137.215,2,,,35 mph,,,,,,,20214082,CR 15
+213764084,213764031,0,False,residential,Farm Lane,423.958,,,,,,,,,,,20213419,
+213766540,213766561,0,False,unclassified,South Elting Corners Road,371.017,,,,,,,,,,,20213643,
+213766540,213738603,0,False,unclassified,South Elting Corners Road,377.66,"['4', '3']",,,,,,,,,,"[20213643, 463128540, 463128541, 463128542, 463128543]",
+213766540,213900688,0,False,tertiary,New Paltz Road,252.867,2,,,,,,,,,,97454067,
+213766561,213766565,0,False,unclassified,South Elting Corners Road,207.943,,,,,,,,,,,20213643,
+213766561,213766540,0,False,unclassified,South Elting Corners Road,371.017,,,,,,,,,,,20213643,
+213766561,214069284,0,False,residential,Orchard Lane,106.289,,,,,,,,,,,20234739,
+213766565,213676186,0,False,unclassified,South Elting Corners Road,1278.415,,,,,,,,,,,20213643,
+213766565,213766561,0,False,unclassified,South Elting Corners Road,207.943,,,,,,,,,,,20213643,
+213766565,214069284,0,False,residential,Orchard Lane,308.659,,,,,,,,,,,20234736,
+213766659,213644958,0,False,unclassified,South Elting Corners Road,407.407,,,,,,,,,,,20213643,
+213766659,213645100,0,False,unclassified,South Elting Corners Road,674.033,,,,,,,,,,,20213643,
+213766659,214161658,0,False,residential,Robison Lane,149.877,,,,,,,,,,,20241615,
+213766716,213732727,0,False,unclassified,South Elting Corners Road,132.703,,,,,,,,,,,20213643,
+213766716,213612783,0,False,unclassified,South Elting Corners Road,30.226,,,,,,,,,,,20213643,
+213766716,213612788,0,False,residential,Hawleys Corners Road,31.793,,,,,,,,,,,20237341,
+213767377,213767401,0,False,residential,Tina Drive,663.691,,,,,,,,,,,20213706,
+213767377,213773363,0,False,tertiary,Pancake Hollow Road,109.42,2,,,35 mph,,,,,,,20214082,CR 15
+213767377,213660225,0,False,tertiary,Pancake Hollow Road,178.939,2,,,35 mph,,,,,,,20214082,CR 15
+213767401,213767377,0,False,residential,Tina Drive,663.691,,,,,,,,,,,20213706,
+213767408,213660225,0,False,tertiary,Pancake Hollow Road,175.519,2,,,35 mph,,,,,,,20214082,CR 15
+213767408,213767449,0,False,residential,Tina Drive,278.125,,,,,,,,,,,20213708,
+213767408,213764031,0,False,tertiary,Pancake Hollow Road,137.215,2,,,35 mph,,,,,,,20214082,CR 15
+213767449,213767408,0,False,residential,Tina Drive,278.125,,,,,,,,,,,20213708,
+213773124,213972148,0,False,tertiary,South Street,270.769,,,,,,,,,,,20227813,CR 22
+213773221,213710836,0,False,tertiary,Pancake Hollow Road,234.059,2,,,35 mph,,,,,,,20214082,CR 15
+213773363,213700703,0,False,tertiary,Pancake Hollow Road,78.107,2,,,35 mph,,,,,,,20214082,CR 15
+213773363,213767377,0,False,tertiary,Pancake Hollow Road,109.42,2,,,35 mph,,,,,,,20214082,CR 15
+213773363,213773376,0,False,residential,Rose Lane,216.826,,,,,,,,,,,"[20228984, 20228982]",
+213773376,213583612,0,False,tertiary,Pancake Hollow Road,126.398,2,,,35 mph,,,,,,,20214082,CR 15
+213773376,213700703,0,False,tertiary,Pancake Hollow Road,59.551,2,,,35 mph,,,,,,,20214082,CR 15
+213773376,213773363,0,False,residential,Rose Lane,216.826,,,,,,,,,,,"[20228984, 20228982]",
+213773399,213773557,0,False,tertiary,Pancake Hollow Road,1225.196,2,,,35 mph,,,,,,,20214082,CR 15
+213773399,213583612,0,False,tertiary,Pancake Hollow Road,196.97,2,,,35 mph,,,,,,,20214082,CR 15
+213773399,213962717,0,False,residential,Sundial Lane,714.401,,,,10 mph,,,,,,,20227272,
+213773557,213773567,0,False,tertiary,Pancake Hollow Road,47.032,2,,,35 mph,,,,,,,20214082,CR 15
+213773557,213773399,0,False,tertiary,Pancake Hollow Road,1225.196,2,,,35 mph,,,,,,,20214082,CR 15
+213773557,213773586,0,False,tertiary,Pancake Hollow Road,39.142,2,,,35 mph,,,,,,,20214083,
+213773567,213773586,0,False,tertiary,New Paltz Road,51.39,2,,,40 mph,,,,,,,439627740,CR 12
+213773567,213900238,0,False,tertiary,New Paltz Road,11.484,2,,,40 mph,,,,,,,439627741,CR 12
+213773567,213773557,0,False,tertiary,Pancake Hollow Road,47.032,2,,,35 mph,,,,,,,20214082,CR 15
+213773586,213773567,0,False,tertiary,New Paltz Road,51.39,2,,,40 mph,,,,,,,439627740,CR 12
+213773586,213773557,0,False,tertiary,Pancake Hollow Road,39.142,2,,,35 mph,,,,,,,20214083,
+213779326,213616494,0,False,tertiary,Station Road,770.259,,,,,,,,,,,20228765,CR 22A
+213779326,213735706,0,False,tertiary,South Ohioville Road,249.467,,,,,,,,,,,38226236,
+213787486,213787508,0,False,residential,Old Route 44,139.917,,,,,,,,,,,20214963,
+213787486,2865684306,0,False,primary,Vineyard Avenue,234.625,2,,,,,,,,,,20231598,US 44;NY 55
+213787486,213787510,0,False,primary,Vineyard Avenue,147.39,2,,,,,,,,,,20231598,US 44;NY 55
+213787508,213787510,0,False,residential,Old Route 44,31.585,,,,,,,,,,,20214963,
+213787508,213787486,0,False,residential,Old Route 44,139.917,,,,,,,,,,,20214963,
+213787508,213919988,0,False,residential,Picnic Woods Road,348.115,,,,,,,,,,,20224661,
+213787510,213787508,0,False,residential,Old Route 44,31.585,,,,,,,,,,,20214963,
+213787510,213787486,0,False,primary,Vineyard Avenue,147.39,2,,,,,,,,,,20231598,US 44;NY 55
+213787510,213607707,0,False,primary,Vineyard Avenue,229.853,2,,,,,,,,,,20231598,US 44;NY 55
+213788766,214082594,0,False,residential,Sharon Drive,91.601,,,,,,,,,,,20235719,
+213788766,213707853,0,False,residential,Cusa Drive,254.159,,,,,,,,,,,20215066,
+213788766,214082577,0,False,residential,Sharon Drive,473.836,,,,,,,,,,,20235719,
+213791376,213791441,0,False,residential,Elbow Lane,437.5,,,,,,,,,,,20215215,
+213791376,213791441,1,False,residential,Cross Creek Run,217.446,,,,,,,,,,,20221217,
+213791376,2116888990,0,False,residential,Cross Creek Run,60.803,,,,,,,,,,,20221217,
+213791441,213791376,0,False,residential,Elbow Lane,437.5,,,,,,,,,,,20215215,
+213791441,213791376,1,False,residential,Cross Creek Run,217.446,,,,,,,,,,,20221217,
+213791441,213873174,0,False,residential,Cross Creek Run,242.104,,,,,,,,,,,20221217,
+213796266,213900621,0,False,tertiary,New Paltz Road,71.874,2,,,,,,,,,,97454067,
+213796266,213796342,0,False,residential,Roxanne Boulevard,1033.013,,,,,,,,,,,20215490,
+213796266,213900630,0,False,tertiary,New Paltz Road,226.984,2,,,,,,,,,,97454067,
+213796342,213796266,0,False,residential,Roxanne Boulevard,1033.013,,,,,,,,,,,20215490,
+213805415,213805448,0,False,residential,Dellar Road,543.944,,,,,,,,,,,20216088,
+213805415,213847577,0,False,residential,Perkinsville Road,130.575,,,,,,,,,,,20219281,
+213805415,213728750,0,False,residential,Perkinsville Road,93.219,,,,,,,,,,,20219281,
+213805448,213805415,0,False,residential,Dellar Road,543.944,,,,,,,,,,,20216088,
+213805448,213847621,0,False,primary,Chapel Hill Road,726.895,2,,,,,,,,,,20238516,CR 11
+213805448,213621041,0,False,primary,Chapel Hill Road,613.796,2,,,,,,,,,,20238516,CR 11
+213808408,213735379,0,False,residential,Great View Lane,264.076,,,,,,,,,,,20216361,
+213815510,213707911,0,False,residential,Cuomo Drive,530.144,,,,,,,,,,,20216869,
+213824261,214120165,0,False,primary,Chapel Hill Road,60.018,2,,,,,,,,,,20238516,CR 11
+213824261,213847621,0,False,primary,Chapel Hill Road,188.542,2,,,,,,,,,,20238516,CR 11
+213824885,213824905,0,False,residential,Amanda Circle,269.947,,,,,,,,,,,20217611,
+213824885,214022903,0,False,residential,Martin Avenue,743.996,,,,,,,,,,,20231401,
+213824885,213969178,0,False,residential,Martin Avenue,405.062,,,,,,,,,,,20231401,
+213824905,213824885,0,False,residential,Amanda Circle,269.947,,,,,,,,,,,20217611,
+213824905,213824905,0,False,residential,Amanda Circle,548.664,,,,,,,,,,,20217614,
+213824905,213824905,1,False,residential,Amanda Circle,548.664,,,,,,,,,,,20217614,
+213828011,213828036,0,False,residential,Costa Road,254.223,,,,,,,,,,,20217792,
+213828011,213652435,0,False,tertiary,South Street,488.831,,,,,,,,,,,20227813,CR 22
+213828011,213643967,0,False,tertiary,South Street,68.787,,,,,,,,,,,20227813,CR 22
+213828036,213828041,0,False,residential,Costa Road,207.25,,,,,,,,,,,20217792,
+213828036,213828011,0,False,residential,Costa Road,254.223,,,,,,,,,,,20217792,
+213828036,213912107,0,False,residential,Janine Place,348.799,,,,,,,,,,,20233335,
+213828041,213652313,0,False,residential,Costa Road,13.864,,,,,,,,,,,20217792,
+213828041,213828036,0,False,residential,Costa Road,207.25,,,,,,,,,,,20217792,
+213828041,213912107,0,False,residential,Costa Drive,117.776,,,,,,,,,,,20224194,
+213828053,213652313,0,False,residential,Costa Road,151.415,,,,,,,,,,,20217792,
+213832307,213589308,0,False,tertiary,Hurds Road,142.617,,,,,,,,,,,20218104,
+213832307,213972185,0,False,"['residential', 'tertiary']","['Maple Avenue', 'Hurds Road']",431.467,,,,,,,,,,,"[20218104, 20239686]",
+213832307,213919988,0,False,residential,Picnic Woods Road,366.367,,,,,,,,,,,20224678,
+213832331,213579439,0,False,tertiary,Hurds Road,364.834,,,,,,,,,,,20218104,
+213832331,213589308,0,False,tertiary,Hurds Road,196.475,,,,,,,,,,,20218104,
+213832331,213919945,0,False,residential,Picnic Woods Road,228.26,,,,,,,,,,,20224661,
+213835968,2116888978,0,False,residential,Cummings Lane,11.767,,,,,,,,,,,20218377,
+213835968,960880423,0,True,primary,,272.349,2,,,55 mph,,,,,,,201524165,US 9W
+213838748,213838774,0,False,residential,Carly Drive,258.952,,,,,,,,,,,20218575,
+213838748,214157302,0,False,residential,North Chodikee Lake Road,2573.653,,,,,,,,,,,"[20241236, 20241229]",
+213838748,214102963,0,False,residential,North Chodikee Lake Road,409.668,,,,,,,,,,,20241236,
+213838774,213838794,0,False,residential,Carly Drive,260.03,,,,,,,,,,,20218575,
+213838774,213838794,1,False,residential,Carly Loop,269.781,,,,,,,,,,,20219841,
+213838774,213838748,0,False,residential,Carly Drive,258.952,,,,,,,,,,,20218575,
+213838794,213838801,0,False,residential,Carly Drive,107.774,,,,,,,,,,,20218575,
+213838794,213838774,0,False,residential,Carly Drive,260.03,,,,,,,,,,,20218575,
+213838794,213838774,1,False,residential,Carly Loop,269.781,,,,,,,,,,,20219841,
+213838801,213838794,0,False,residential,Carly Drive,107.774,,,,,,,,,,,20218575,
+213847577,213847614,0,False,residential,Perkinsville Road,517.056,,,,,,,,,,,20219281,
+213847577,213805415,0,False,residential,Perkinsville Road,130.575,,,,,,,,,,,20219281,
+213847577,213873454,0,False,residential,Sheep Lane,299.106,,,,,,,,,,,20221233,
+213847614,213847621,0,False,residential,Perkinsville Road,101.441,,,,,,,,,,,20219281,
+213847614,213847577,0,False,residential,Perkinsville Road,517.056,,,,,,,,,,,20219281,
+213847614,213902344,0,False,residential,Sara Lane,269.65,,,,,,,,,,,20223613,
+213847621,213847614,0,False,residential,Perkinsville Road,101.441,,,,,,,,,,,20219281,
+213847621,213824261,0,False,primary,Chapel Hill Road,188.542,2,,,,,,,,,,20238516,CR 11
+213847621,213805448,0,False,primary,Chapel Hill Road,726.895,2,,,,,,,,,,20238516,CR 11
+213847635,213718883,0,False,primary,,13.713,2,,,,,,,,,,121772712,US 9W
+213847635,213847713,0,False,residential,Perkinsville Road,955.7,,,,,,,,,,,20219293,
+213847635,214069357,0,False,primary,,653.011,2,,,,,,,,,,121772712,US 9W
+213847713,4455946674,0,False,residential,Perkinsville Road,507.03,,,,,,,,,,,20219293,
+213847713,213847635,0,False,residential,Perkinsville Road,955.7,,,,,,,,,,,20219293,
+213847713,214023903,0,False,residential,View Place,118.436,,,,,,,,,,,20231447,
+213847758,213728750,0,False,residential,Perkinsville Road,347.182,,,,,,,,,,,20219293,
+213847758,4455946674,0,False,residential,Perkinsville Road,303.017,,,,,,,,,,,20219293,
+213847758,213728708,0,False,residential,Wingate Way,454.126,,,,,,,,,,,20229716,
+213856823,213735219,0,False,residential,Raymond Avenue,144.407,,,,,,,,,,,20220018,
+213856823,213735231,0,False,residential,Clearwater Road,183.493,,,,,,,,,,,20233657,
+213856899,213735219,0,False,residential,Raymond Avenue,143.613,,,,,,,,,,,20220018,
+213873174,213873174,0,False,residential,Cross Creek Run,74.396,,,,,,,,,,,20221214,
+213873174,213873174,1,False,residential,Cross Creek Run,74.396,,,,,,,,,,,20221214,
+213873174,213791441,0,False,residential,Cross Creek Run,242.104,,,,,,,,,,,20221217,
+213873454,213847577,0,False,residential,Sheep Lane,299.106,,,,,,,,,,,20221233,
+213900238,213773567,0,False,tertiary,New Paltz Road,11.484,2,,,40 mph,,,,,,,439627741,CR 12
+213900238,213730075,0,False,tertiary,South Riverside Road,621.57,2,,,,,,,,,,20228586,CR 15
+213900238,213752766,0,False,tertiary,New Paltz Road,349.026,2,,,40 mph,,,,,,,439627741,CR 12
+213900621,213796266,0,False,tertiary,New Paltz Road,71.874,2,,,,,,,,,,97454067,
+213900621,213900630,0,False,residential,Toll Gate Road,318.962,,,,,,,,,,,20223868,
+213900621,213752866,0,False,tertiary,New Paltz Road,255.417,2,,,,,,,,,,97454067,
+213900630,213900634,0,False,tertiary,New Paltz Road,13.337,2,,,,,,,,,,97454067,
+213900630,213900621,0,False,residential,Toll Gate Road,318.962,,,,,,,,,,,20223868,
+213900630,213796266,0,False,tertiary,New Paltz Road,226.984,2,,,,,,,,,,97454067,
+213900634,213900630,0,False,tertiary,New Paltz Road,13.337,2,,,,,,,,,,97454067,
+213900634,213981683,0,False,residential,Arden Drive,158.22,,,,,,,,,,,20228406,
+213900634,213900653,0,False,tertiary,New Paltz Road,307.413,2,,,,,,,,,,97454067,
+213900653,213933726,0,False,residential,Whitley Lane,355.185,,,,,,,,,,,20225379,
+213900653,213900662,0,False,tertiary,New Paltz Road,48.676,2,,,,,,,,,,97454067,
+213900653,213900634,0,False,tertiary,New Paltz Road,307.413,2,,,,,,,,,,97454067,
+213900662,213900665,0,False,tertiary,New Paltz Road,16.816,2,,,,,,,,,,97454067,
+213900662,213900677,0,False,residential,Dirks Terrace,464.58,,,,,,,,,,,20238200,
+213900662,213900653,0,False,tertiary,New Paltz Road,48.676,2,,,,,,,,,,97454067,
+213900665,213900662,0,False,tertiary,New Paltz Road,16.816,2,,,,,,,,,,97454067,
+213900665,213738614,0,False,residential,Park Lane,594.574,,,,,,,,,,,20227318,
+213900665,213900677,0,False,tertiary,New Paltz Road,59.406,2,,,,,,,,,,97454067,
+213900677,213900662,0,False,residential,Dirks Terrace,464.58,,,,,,,,,,,20238200,
+213900677,213751273,0,False,tertiary,New Paltz Road,255.175,2,,,,,,,,,,97454067,
+213900677,213900665,0,False,tertiary,New Paltz Road,59.406,2,,,,,,,,,,97454067,
+213900688,213751273,0,False,tertiary,New Paltz Road,18.894,2,,,,,,,,,,97454067,
+213900688,214069284,0,False,residential,Orchard Lane,204.417,,,,,,,,,,,20234736,
+213900688,213766540,0,False,tertiary,New Paltz Road,252.867,2,,,,,,,,,,97454067,
+213901021,213901060,0,False,residential,Sam Williams Road,257.466,,,,,,,,,,,20223493,
+213901021,213901060,1,False,primary,,234.918,2,,,,,,,,,,121772712,US 9W
+213901021,214069357,0,False,residential,Mackey Road,719.238,,,,,,,,,,,20234754,
+213901021,214069357,1,False,primary,,659.637,2,,,,,,,,,,121772712,US 9W
+213901060,214001037,0,False,primary,,208.548,2,,,,,,,,,,121772712,US 9W
+213901060,213901021,0,False,residential,Sam Williams Road,257.466,,,,,,,,,,,20223493,
+213901060,213901021,1,False,primary,,234.918,2,,,,,,,,,,121772712,US 9W
+213902344,213847614,0,False,residential,Sara Lane,269.65,,,,,,,,,,,20223613,
+213903270,213903430,0,False,tertiary,South Ohioville Road,64.006,,,,,,,,,,,20234354,
+213903270,213903292,0,False,residential,Carolyn Drive,200.802,,,,,,,,,,,20223685,
+213903292,213903430,0,False,residential,Carolyn Drive,635.101,,,,,,,,,,,20223685,
+213903292,213903270,0,False,residential,Carolyn Drive,200.802,,,,,,,,,,,20223685,
+213903292,214132477,0,False,residential,Joan Place,101.694,,,,,,,,,,,20239383,
+213903430,213903270,0,False,tertiary,South Ohioville Road,64.006,,,,,,,,,,,20234354,
+213903430,213903292,0,False,residential,Carolyn Drive,635.101,,,,,,,,,,,20223685,
+213903430,213683101,0,False,tertiary,South Ohioville Road,138.4,,,,,,,,,,,20234354,
+213905330,213729886,0,False,residential,John Court,358.986,,,,,,,,,,,20223792,
+213912095,213599609,0,False,tertiary,Station Road,4.476,,,,,,,,,,,20228765,CR 22A
+213912095,213912107,0,False,residential,Costa Drive,170.743,,,,,,,,,,,20224194,
+213912095,213616494,0,False,tertiary,Station Road,187.143,,,,,,,,,,,20228765,CR 22A
+213912107,213828041,0,False,residential,Costa Drive,117.776,,,,,,,,,,,20224194,
+213912107,213912095,0,False,residential,Costa Drive,170.743,,,,,,,,,,,20224194,
+213912107,213828036,0,False,residential,Janine Place,348.799,,,,,,,,,,,20233335,
+213919945,213919988,0,False,residential,Picnic Woods Road,234.831,,,,,,,,,,,20224661,
+213919945,213832331,0,False,residential,Picnic Woods Road,228.26,,,,,,,,,,,20224661,
+213919945,2865684078,0,False,residential,Picnic Woods Road,574.648,,,,,,,,,,,20224671,
+213919988,213787508,0,False,residential,Picnic Woods Road,348.115,,,,,,,,,,,20224661,
+213919988,213919945,0,False,residential,Picnic Woods Road,234.831,,,,,,,,,,,20224661,
+213919988,213832307,0,False,residential,Picnic Woods Road,366.367,,,,,,,,,,,20224678,
+213920117,2865684078,0,False,residential,Picnic Woods Road,10.737,,,,,,,,,,,20224671,
+213932637,213707837,0,False,residential,Half Moon Road,67.228,,,,,,,,,,,20225326,
+213932637,213707818,0,False,residential,Half Moon Road,490.646,,,,,,,,,,,20225335,
+213932637,214050565,0,False,residential,Jonathan Court,182.648,,,,,,,,,,,20233330,
+213933726,213900653,0,False,residential,Whitley Lane,355.185,,,,,,,,,,,20225379,
+213943313,2116888975,0,False,tertiary,North Riverside Road,11.764,,,,,,,,,,,20226072,CR 15
+213943313,213705042,0,False,tertiary,North Riverside Road,51.439,,,,,,,,,,,20226072,CR 15
+213943313,213835968,0,True,primary,,134.321,2,,,55 mph,,,,,,,201524165,US 9W
+213943353,213595595,0,False,tertiary,North Riverside Road,1203.08,,,,,,,,,,,20226077,
+213943353,213738682,0,False,tertiary,North Riverside Road,194.123,,,,,,,,,,,20226077,
+213943353,213738690,0,False,residential,Jane Wood Road,422.006,,,,,,,,,,,20240571,
+213943582,213705042,0,False,tertiary,North Riverside Road,211.65,,,,,,,,,,,20226077,
+213943582,213595595,0,False,tertiary,North Riverside Road,237.477,,,,,,,,,,,20226077,
+213943582,213699582,0,False,residential,John White Road,367.48,,,,,,,,,,,20233187,
+213962717,213773399,0,False,residential,Sundial Lane,714.401,,,,10 mph,,,,,,,20227272,
+213969178,213969306,0,False,residential,Windsor Hill Road,708.05,,,,,,,,,,,20227616,
+213969178,213824885,0,False,residential,Martin Avenue,405.062,,,,,,,,,,,20231401,
+213969178,214022805,0,False,residential,Martin Avenue,535.909,,,,,,,,,,,20231401,
+213969306,213969178,0,False,residential,Windsor Hill Road,708.05,,,,,,,,,,,20227616,
+213972148,213773124,0,False,tertiary,South Street,270.769,,,,,,,,,,,20227813,CR 22
+213972148,213607707,0,False,primary,Vineyard Avenue,170.518,2,,,,,,,,,,20231598,US 44;NY 55
+213972185,213572437,0,False,tertiary,South Street,673.318,,,,,,,,,,,20227813,CR 22
+213972185,213832307,0,False,"['residential', 'tertiary']","['Maple Avenue', 'Hurds Road']",431.467,,,,,,,,,,,"[20218104, 20239686]",
+213972305,213643967,0,False,tertiary,South Street,141.236,,,,,,,,,,,20227813,CR 22
+213972305,213718664,0,False,tertiary,South Street,201.883,,,,,,,,,,,20227813,CR 22
+213972305,213636775,0,False,tertiary,Station Road,113.657,,,,,,,,,,,20228765,CR 22A
+213981683,213900634,0,False,residential,Arden Drive,158.22,,,,,,,,,,,20228406,
+213986485,213636775,0,False,tertiary,Station Road,138.072,,,,,,,,,,,20228765,CR 22A
+213986485,213599609,0,False,tertiary,Station Road,296.067,,,,,,,,,,,20228765,CR 22A
+213986485,2148480508,0,False,unclassified,,687.464,,,,,,,,,,,204870375,
+214001037,213901060,0,False,primary,,208.548,2,,,,,,,,,,121772712,US 9W
+214001037,214001194,0,False,residential,Blue Point Road,1086.861,,,,,,,,,,,20229724,
+214001037,214011354,0,False,primary,,321.734,2,,,,,,,,,,121772712,US 9W
+214001194,214001037,0,False,residential,Blue Point Road,1086.861,,,,,,,,,,,20229724,
+214001194,214001194,0,False,residential,Blue Point Road,778.292,,,,,,,,,,,20229729,
+214001194,214001194,1,False,residential,Blue Point Road,778.292,,,,,,,,,,,20229729,
+214011354,214011380,0,False,residential,Marie Road,187.47,,,,,,,,,,,20230441,
+214011354,214011380,1,False,primary,,170.563,2,,,,,,,,,,121772712,US 9W
+214011354,214001037,0,False,primary,,321.734,2,,,,,,,,,,121772712,US 9W
+214011380,214011354,0,False,residential,Marie Road,187.47,,,,,,,,,,,20230441,
+214011380,214011354,1,False,primary,,170.563,2,,,,,,,,,,121772712,US 9W
+214011380,214120165,0,False,residential,Chapel Hill Road,195.69,,,,,,,,,,,20238518,
+214011380,214136994,0,False,primary,,201.801,"['4', '2', '3']",,,,,,,,,,"[121772712, 121772694, 439176087]",US 9W
+214022805,213969178,0,False,residential,Martin Avenue,535.909,,,,,,,,,,,20231401,
+214022805,213759276,0,False,residential,Hawleys Corners Road,322.296,,,,,,,,,,,20237341,
+214022805,213699031,0,False,residential,Hawleys Corners Road,845.416,,,,,,,,,,,20237358,
+214022903,213824885,0,False,residential,Martin Avenue,743.996,,,,,,,,,,,20231401,
+214023903,213847713,0,False,residential,View Place,118.436,,,,,,,,,,,20231447,
+214042412,214042421,0,False,residential,Riverside Road,100.68,,,,,,,,,,,59645409,
+214042421,213738682,0,False,residential,Riverside Road,98.824,,,,,,,,,,,59645409,
+214042421,214042412,0,False,residential,Riverside Road,100.68,,,,,,,,,,,59645409,
+214044719,214044738,0,False,tertiary,Orchard Road,153.633,,,,,,,,,,,20232937,CR 11
+214044719,4455946668,0,False,residential,Fieldstone Court,149.438,,,,,,,,,,,448591161,
+214044738,213707855,0,False,tertiary,Orchard Road,151.852,,,,,,,,,,,20232937,CR 11
+214044738,214044719,0,False,tertiary,Orchard Road,153.633,,,,,,,,,,,20232937,CR 11
+214044738,214067240,0,False,residential,Lisa Drive,263.929,,,,,,,,,,,20234560,
+214050565,213932637,0,False,residential,Jonathan Court,182.648,,,,,,,,,,,20233330,
+214051303,213613452,0,False,residential,Dogwood Knoll Road,543.232,,,,,,,,,,,20233394,
+214053633,213738664,0,False,residential,Woodland Drive,365.153,,,,,,,,,,,20233591,
+214064365,213647056,0,False,residential,Millers Lane,234.038,,,,,,,,,,,20234651,
+214064365,213745627,0,False,tertiary,South Ohioville Road,148.65,,,,,,,,,,,38226236,
+214067240,214044738,0,False,residential,Lisa Drive,263.929,,,,,,,,,,,20234560,
+214068069,213745712,0,False,residential,Millers Lane,84.022,,,,,,,,,,,20234651,
+214069284,213900688,0,False,residential,Orchard Lane,204.417,,,,,,,,,,,20234736,
+214069284,213766565,0,False,residential,Orchard Lane,308.659,,,,,,,,,,,20234736,
+214069284,213766561,0,False,residential,Orchard Lane,106.289,,,,,,,,,,,20234739,
+214069357,213901021,0,False,residential,Mackey Road,719.238,,,,,,,,,,,20234754,
+214069357,213901021,1,False,primary,,659.637,2,,,,,,,,,,121772712,US 9W
+214069357,213847635,0,False,primary,,653.011,2,,,,,,,,,,121772712,US 9W
+214074115,213613452,0,False,residential,Crest Lane,150.409,,,,,,,,,,,20235128,
+214074115,214076762,0,False,residential,Oak Crest Drive,316.2,,,,,,,,,,,20235315,
+214074115,214076842,0,False,residential,Oak Crest Drive,813.83,,,,,,,,,,,20235322,
+214076762,214074115,0,False,residential,Oak Crest Drive,316.2,,,,,,,,,,,20235315,
+214076842,214074115,0,False,residential,Oak Crest Drive,813.83,,,,,,,,,,,20235322,
+214076842,213698925,0,False,residential,Lily Lake Road,1036.855,,,,,,,,,,,20241218,
+214076842,213738658,0,False,residential,Lily Lake Road,226.332,,,,,,,,,,,20241218,
+214082577,213788766,0,False,residential,Sharon Drive,473.836,,,,,,,,,,,20235719,
+214082594,213788766,0,False,residential,Sharon Drive,91.601,,,,,,,,,,,20235719,
+214102850,213612918,0,False,residential,Hawleys Corners Road,844.072,,,,,,,,,,,20237341,
+214102850,213759276,0,False,residential,Hawleys Corners Road,395.859,,,,,,,,,,,20237341,
+214102850,213676264,0,False,residential,Lily Lake Road,1766.575,,,,,,,,,,,20241218,
+214102963,213599200,0,False,residential,Hawleys Corners Road,876.926,,,,,,,,,,,20237358,
+214102963,213838748,0,False,residential,North Chodikee Lake Road,409.668,,,,,,,,,,,20241236,
+214102963,213712961,0,False,residential,North Chodikee Lake Road,717.616,,,,,,,,,,,20241236,
+214120165,347770192,0,False,primary,Chapel Hill Road,12.093,2,,,,,,,,,,20238516,CR 11
+214120165,213824261,0,False,primary,Chapel Hill Road,60.018,2,,,,,,,,,,20238516,CR 11
+214120165,214011380,0,False,residential,Chapel Hill Road,195.69,,,,,,,,,,,20238518,
+214132477,213903292,0,False,residential,Joan Place,101.694,,,,,,,,,,,20239383,
+214136994,214137113,0,False,residential,Macks Lane,1155.403,,,,,,,,,,,31269961,
+214136994,214011380,0,False,primary,,201.801,"['4', '2', '3']",,,,,,,,,,"[121772712, 121772694, 439176087]",US 9W
+214136994,347770192,0,False,primary,Chapel Hill Road,87.744,3,,,,,,,,,,439176083,CR 11
+214137113,214136994,0,False,residential,Macks Lane,1155.403,,,,,,,,,,,31269961,
+214155539,213735408,0,False,residential,Felsen Lane,312.544,,,,,,,,,,,20241075,
+214157302,213838748,0,False,residential,North Chodikee Lake Road,2573.653,,,,,,,,,,,"[20241236, 20241229]",
+214161658,213766659,0,False,residential,Robison Lane,149.877,,,,,,,,,,,20241615,
+347770192,214120165,0,False,primary,Chapel Hill Road,12.093,2,,,,,,,,,,20238516,CR 11
+347770192,214136994,0,False,primary,Chapel Hill Road,87.744,3,,,,,,,,,,439176083,CR 11
+960880371,960880423,0,False,residential,Water Tower Rd,221.557,,,,,,,,,,,82568151,
+960880423,960880371,0,False,residential,Water Tower Rd,221.557,,,,,,,,,,,82568151,
+2116849572,61321928,0,False,unclassified,,81.412,3,,,,,,,,,,"[427718835, 8614412]",
+2116888913,213729859,0,False,residential,Cummings Lane,623.418,,,,,,,,,,,20218377,
+2116888913,2116888978,0,True,primary,,789.809,4,,,,,,,,,,201666364,US 9W
+2116888941,2116888990,0,True,primary,,1082.147,4,,,,,,,,,,201666364,US 9W
+2116888975,213943313,0,False,tertiary,North Riverside Road,11.764,,,,,,,,,,,20226072,CR 15
+2116888975,213735439,0,False,residential,Red Top Road,1257.689,,,,,,,,,,,20212587,
+2116888975,2116888977,0,True,primary,,683.901,4,,,,,,,,,,201666364,US 9W
+2116888977,2116888941,0,True,primary,,50.719,4,,,,,,,,,,201666364,US 9W
+2116888977,2116888941,1,True,primary_link,,66.9,,,,,,,,,,,20201682,
+2116888978,213835968,0,False,residential,Cummings Lane,11.767,,,,,,,,,,,20218377,
+2116888978,213729859,0,False,residential,Cummings Lane,187.59,,,,,,,,,,,20218377,
+2116888978,2116888975,0,True,primary,,135.566,4,,,,,,,,,,201666364,US 9W
+2116888990,213578408,0,False,residential,Cross Creek Run,12.336,,,,,,,,,,,20221217,
+2116888990,213791376,0,False,residential,Cross Creek Run,60.803,,,,,,,,,,,20221217,
+2148480508,213986485,0,False,unclassified,,687.464,,,,,,,,,,,204870375,
+2865684078,213920117,0,False,residential,Picnic Woods Road,10.737,,,,,,,,,,,20224671,
+2865684078,213919945,0,False,residential,Picnic Woods Road,574.648,,,,,,,,,,,20224671,
+2865684078,2865684083,0,False,unclassified,,33.029,,,,,,,,,,,282626574,
+2865684082,2865684083,0,False,unclassified,,84.414,,,,,,,,,,,282626574,
+2865684083,2865684082,0,False,unclassified,,84.414,,,,,,,,,,,282626574,
+2865684083,2865684078,0,False,unclassified,,33.029,,,,,,,,,,,282626574,
+2865684083,2865684100,0,False,unclassified,,293.19,,,,,,,,,,,282626575,
+2865684099,2865684100,0,False,unclassified,,362.158,,,,,,,,,,,282626575,
+2865684100,2865684099,0,False,unclassified,,362.158,,,,,,,,,,,282626575,
+2865684100,2865684083,0,False,unclassified,,293.19,,,,,,,,,,,282626575,
+2865684100,2865684306,0,False,unclassified,,156.016,,,,,,,,,,,282626576,
+2865684306,213616473,0,False,primary,Vineyard Avenue,194.612,2,,,,,,,,,,20231598,US 44;NY 55
+2865684306,213787486,0,False,primary,Vineyard Avenue,234.625,2,,,,,,,,,,20231598,US 44;NY 55
+2865684306,2865684100,0,False,unclassified,,156.016,,,,,,,,,,,282626576,
+4268440450,4268440463,0,False,unclassified,,16.121,,,,,,,,,,,427643843,
+4268440450,4268440463,1,False,unclassified,,143.864,,,,,,,,,,,427643843,
+4268440463,4268440485,0,False,unclassified,,61.554,,,,,,,,,,,427643838,
+4268440463,4268440450,0,False,unclassified,,143.864,,,,,,,,,,,427643843,
+4268440463,4268440450,1,False,unclassified,,16.121,,,,,,,,,,,427643843,
+4268440485,4268440463,0,False,unclassified,,61.554,,,,,,,,,,,427643838,
+4455946667,4455946668,0,False,residential,Fieldstone Court,59.003,,,,,,,,,,,448591161,
+4455946668,4455946667,0,False,residential,Fieldstone Court,59.003,,,,,,,,,,,448591161,
+4455946668,214044719,0,False,residential,Fieldstone Court,149.438,,,,,,,,,,,448591161,
+4455946668,4455946670,0,False,residential,Deer Crossing,61.271,,,,,,,,,,,448591162,
+4455946670,4455946668,0,False,residential,Deer Crossing,61.271,,,,,,,,,,,448591162,
+4455946671,4455946674,0,False,residential,Wellington Place,168.617,,,,,,,,,,,448591163,
+4455946674,213847758,0,False,residential,Perkinsville Road,303.017,,,,,,,,,,,20219293,
+4455946674,213847713,0,False,residential,Perkinsville Road,507.03,,,,,,,,,,,20219293,
+4455946674,4455946671,0,False,residential,Wellington Place,168.617,,,,,,,,,,,448591163,

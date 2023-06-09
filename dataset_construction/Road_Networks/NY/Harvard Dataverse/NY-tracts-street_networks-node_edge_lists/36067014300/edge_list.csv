@@ -1,0 +1,371 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+212713545,212713549,0,False,residential,Highland Avenue,137.834,2,,,,,,,,,,20117575,
+212713545,212771132,0,False,secondary,West Manlius Street,185.046,2,,,30 mph,,,,,,,20123451,NY 290
+212713545,212771127,0,False,secondary,West Manlius Street,105.776,2,,,30 mph,,,,,,,20123451,NY 290
+212713545,212846487,0,False,tertiary,Burnet Avenue,522.217,2,,,30 mph,,,yes,,,,"[320844608, 54178646, 54178647]",
+212713549,212713551,0,False,residential,Highland Avenue,197.808,2,,,,,,,,,,20117575,
+212713549,212938353,0,False,residential,West Yates Street,103.34,,,,,,,,,,,20138126,
+212713549,212895468,0,False,residential,West Yates Street,107.13,,,,,,,,,,,20138126,
+212713549,212713545,0,False,residential,Highland Avenue,137.834,2,,,,,,,,,,20117575,
+212713551,212713549,0,False,residential,Highland Avenue,197.808,2,,,,,,,,,,20117575,
+212713551,212913714,0,False,residential,Midland Avenue,102.279,,,,,,,,,,,20136415,
+212713551,212895480,0,False,residential,Midland Avenue,109.299,,,,,,,,,,,20136415,
+212722733,212722782,0,True,motorway_link,,1011.884,"['1', '3']",,,,,,,,,,"[295266080, 20118315]",
+212722733,212725675,0,True,motorway_link,,221.175,1,,,,,,,,,,220390376,
+212722782,212722784,0,True,motorway_link,,12.536,3,,,,,,,,,,295266080,
+212722784,212747266,0,True,secondary,Bridge Street,11.926,3,,,40 mph,,,,,,,139601698,
+212725650,212725656,0,True,motorway_link,,168.576,1,,,35 mph,,,,,,,220390372,
+212725650,212731379,0,True,motorway_link,,257.322,1,,,,,,,,,,20118939,
+212725656,212722733,0,True,motorway_link,,184.761,2,,,35 mph,,,,,,,220390370,
+212725675,212747198,0,True,motorway,,539.869,3,,,55 mph,,,,,,,321188483,I 690
+212730936,212903284,0,False,tertiary,Burnet Avenue,38.316,3,,,30 mph,,,,,,,322760204,
+212730936,212846487,0,False,tertiary,Burnet Avenue,193.71,2,,,30 mph,,,,,,,320844608,
+212730948,212903284,0,True,primary,Thompson Road,79.832,3,,,40 mph,,,,,,,219283239,NY 635
+212730948,212730936,0,True,primary_link,,86.119,1,,,,,,,,,,20118892,
+212731314,212777370,0,False,secondary,East Manlius Street,40.883,2,,,30 mph,,,,,,,139456713,NY 290
+212731314,212731325,0,True,secondary,Bridge Street,55.356,1,,,30 mph,,,,,,,20118926,NY 290
+212731314,212771086,0,False,residential,"['North Center Street', 'Ray Street', 'East Terrace Street']",275.142,,,,,,,,,,,"[20131849, 20136420, 20151334]",
+212731314,212771086,1,False,secondary,East Manlius Street,95.961,2,,,30 mph,,,,,,,139456712,NY 290
+212731325,212731328,0,True,secondary,Bridge Street,43.202,1,,,30 mph,,,,,,,20118926,NY 290
+212731328,212752328,0,True,secondary_link,,78.975,1,,,30 mph,,,,,,,20121045,
+212731328,212777370,0,True,secondary,Bridge Street,71.74,2,,,30 mph,,,,,,,20130001,NY 290
+212731328,212844808,0,False,secondary,Bridge Street,175.096,"['2', '3']",,,30 mph,,,yes,,,,"[54184952, 54184948, 306247981]",NY 290
+212731379,212732392,0,True,primary,Thompson Road,132.423,3,,,40 mph,,,yes,,,,43249098,NY 635
+212732392,212732353,0,True,motorway_link,,256.579,1,,,,,,,,,,20119052,
+212732392,212746941,0,True,primary,Thompson Road,169.386,2,,,40 mph,,,,,,,43249110,NY 635
+212733423,212846487,0,False,unclassified,"['Carr Street', 'Clark Street', 'Kane Street']",563.9,,,,,,,,,,,"[20130148, 20140629, 20124135]",
+212742059,212746976,0,True,motorway_link,,207.097,2,,,,,,,,,,220390371,
+212742101,212742059,0,True,motorway_link,,931.964,"['2', '1']",,,,,,,,,,"[295266077, 324339727]",
+212742103,212758348,0,True,secondary,Bridge Street,12.619,2,,,40 mph,,,,,,,324339726,
+212742103,212742101,0,True,motorway_link,,61.226,2,,,,,,,,,,324339727,
+212742105,212742103,0,True,motorway_link,,12.238,2,,,,,,,,,,20119931,
+212742105,212844767,0,True,secondary,Bridge Street,283.043,"['4', '2']",,,40 mph,,,,,,,"[295266049, 295266053]",
+212742193,212725656,0,True,motorway_link,,276.824,1,,,,,,,,,,20119947,
+212742193,212731379,0,True,primary,Thompson Road,154.49,2,,,40 mph,,,,,,,219283248,NY 635
+212746941,212730948,0,True,primary,Thompson Road,136.224,"['4', '3']",,,40 mph,,,yes,,,,"[111654466, 111654475, 219283230]",NY 635
+212746976,212732353,0,True,motorway_link,,147.098,1,,,,,,,,,,20122721,
+212746976,212746941,0,True,motorway_link,,335.294,1,,,,,,,,,,193891606,
+212747000,212742059,0,True,motorway_link,,365.657,1,,,,,,,,,,20120547,
+212747261,212747198,0,True,motorway_link,,483.235,1,,,,,,,,,,20120578,
+212747264,212747261,0,True,motorway_link,,66.829,1,,,,,,,,,,20120578,
+212747264,212722782,0,True,secondary,Bridge Street,11.704,2,,,45 mph,,,,,,,139601707,
+212747266,212747264,0,True,motorway_link,,12.552,1,,,,,,,,,,20120578,
+212747266,212758352,0,True,secondary,Bridge Street,270.4,"['4', '2']",,,40 mph,,,,,,,"[295266048, 295266050]",
+212752328,212777370,0,False,tertiary,East Manlius Street,44.267,3,,,30 mph,,,,,,,306247983,
+212752328,213040135,0,False,tertiary,East Manlius Street,120.93,"['4', '2']",,,30 mph,,,,,,,"[306247984, 20148974]",
+212758337,212758348,0,True,motorway_link,,66.226,2,,,,,,,,,,20121811,
+212758337,212764559,0,True,motorway_link,,127.506,1,,,,,,,,,,335571828,
+212758348,212764559,0,True,secondary,Bridge Street,88.399,2,,,40 mph,,,,,,,328867155,
+212758348,212758352,0,True,motorway_link,,11.7,2,,,,,,,,,,328867159,
+212758352,212742105,0,True,secondary,Bridge Street,12.964,4,,,40 mph,,,,,,,328867154,
+212761680,212761847,0,True,primary,Thompson Road,45.413,4,,,40 mph,,,,,,,307723796,NY 635
+212761847,3129246838,0,True,primary,Thompson Road,62.141,4,,,40 mph,,,,,,,307723797,NY 635
+212763225,212747261,0,True,motorway_link,,121.972,1,,,,,,,,,,20122431,
+212763225,212747264,0,True,secondary,Bridge Street,84.611,2,,,45 mph,,,,,,,139601707,
+212764559,212763225,0,True,secondary,Bridge Street,98.422,2,,,40 mph,,,,,,,328867155,
+212764616,212758337,0,True,motorway_link,,291.129,1,,,,,,,,,,20122627,
+212764616,212747000,0,True,motorway,,503.554,3,,,55 mph,,,,,,,321188484,I 690
+212768318,212742101,0,True,motorway_link,,143.698,2,,,,,,,,,,"[295266088, 20123156]",
+212768318,212742103,0,True,secondary,Bridge Street,110.749,2,,,40 mph,,,,,,,295266054,
+212771086,212771090,0,False,secondary,West Manlius Street,21.002,2,,,30 mph,,,,,,,20123451,NY 290
+212771086,212731314,0,False,residential,"['North Center Street', 'East Terrace Street', 'Ray Street']",275.142,,,,,,,,,,,"[20131849, 20136420, 20151334]",
+212771086,212731314,1,False,secondary,East Manlius Street,95.961,2,,,30 mph,,,,,,,139456712,NY 290
+212771090,212771093,0,False,secondary,West Manlius Street,59.735,2,,,30 mph,,,,,,,20123451,NY 290
+212771090,212771086,0,False,secondary,West Manlius Street,21.002,2,,,30 mph,,,,,,,20123451,NY 290
+212771090,212913722,0,False,residential,North Center Street,119.191,,,,,,,,,,,20136417,
+212771093,212771090,0,False,secondary,West Manlius Street,59.735,2,,,30 mph,,,,,,,20123451,NY 290
+212771093,212771100,0,False,secondary,West Manlius Street,102.015,2,,,30 mph,,,,,,,20123451,NY 290
+212771093,212822005,0,False,residential,"['West Terrace Street', 'Ball Street']",195.872,,,,,,,,,,,"[20127938, 20146179]",
+212771100,212771104,0,False,secondary,West Manlius Street,14.333,2,,,30 mph,,,,,,,20123451,NY 290
+212771100,212822005,0,False,residential,Division Street,95.072,,,,,,,,,,,20148682,
+212771100,212771093,0,False,secondary,West Manlius Street,102.015,2,,,30 mph,,,,,,,20123451,NY 290
+212771104,212771107,0,False,secondary,West Manlius Street,46.6,2,,,30 mph,,,,,,,20123451,NY 290
+212771104,212771100,0,False,secondary,West Manlius Street,14.333,2,,,30 mph,,,,,,,20123451,NY 290
+212771104,213000342,0,False,residential,Silver Street,117.328,,,,,,,,,,,20142726,
+212771107,212771104,0,False,secondary,West Manlius Street,46.6,2,,,30 mph,,,,,,,20123451,NY 290
+212771107,212822008,0,False,residential,Division Street,91.785,,,,,,,,,,,20148685,
+212771107,212771114,0,False,secondary,West Manlius Street,49.637,2,,,30 mph,,,,,,,20123451,NY 290
+212771114,212771120,0,False,secondary,West Manlius Street,81.773,2,,,30 mph,,,,,,,20123451,NY 290
+212771114,212771107,0,False,secondary,West Manlius Street,49.637,2,,,30 mph,,,,,,,20123451,NY 290
+212771114,212781515,0,False,residential,North Street,119.061,,,,,,,,,,,20124482,
+212771120,212822017,0,False,residential,Charles Street,78.455,,,,,,,,,,,20132048,
+212771120,212771121,0,False,secondary,West Manlius Street,114.726,2,,,30 mph,,,,,,,20123451,NY 290
+212771120,212771114,0,False,secondary,West Manlius Street,81.773,2,,,30 mph,,,,,,,20123451,NY 290
+212771121,212771124,0,False,secondary,West Manlius Street,22.397,2,,,30 mph,,,,,,,20123451,NY 290
+212771121,212771120,0,False,secondary,West Manlius Street,114.726,2,,,30 mph,,,,,,,20123451,NY 290
+212771121,213002903,0,False,tertiary,Kinne Street,117.732,2,,,30 mph,,,,,,,20149700,
+212771124,212771121,0,False,secondary,West Manlius Street,22.397,2,,,30 mph,,,,,,,20123451,NY 290
+212771124,212822022,0,False,residential,Williams Street,80.764,,,,,,,,,,,20150813,
+212771124,212771127,0,False,secondary,West Manlius Street,65.238,2,,,30 mph,,,,,,,20123451,NY 290
+212771127,212713545,0,False,secondary,West Manlius Street,105.776,2,,,30 mph,,,,,,,20123451,NY 290
+212771127,212771124,0,False,secondary,West Manlius Street,65.238,2,,,30 mph,,,,,,,20123451,NY 290
+212771127,212895468,0,False,residential,East Avenue,179.449,,,,,,,,,,,20134947,
+212771132,212771134,0,False,secondary,West Manlius Street,9.408,2,,,30 mph,,,,,,,20123451,NY 290
+212771132,212713545,0,False,secondary,West Manlius Street,185.046,2,,,30 mph,,,,,,,20123451,NY 290
+212771132,212822054,0,False,residential,Marcy Street,71.084,,,,,,,,,,,20136399,
+212771134,212771136,0,False,secondary,West Manlius Street,99.168,2,,,30 mph,,,,,,,20123451,NY 290
+212771134,212771132,0,False,secondary,West Manlius Street,9.408,2,,,30 mph,,,,,,,20123451,NY 290
+212771134,212938353,0,False,residential,West Yates Street,28.138,,,,,,,,,,,20138126,
+212771136,1273415039,0,False,secondary,West Manlius Street,33.512,2,,,30 mph,,,,,,,20123451,NY 290
+212771136,212771134,0,False,secondary,West Manlius Street,99.168,2,,,30 mph,,,,,,,20123451,NY 290
+212771136,212780490,0,False,residential,Allen Street,132.092,2,,,30 mph,,,,,,,20124380,
+212771137,212771139,0,False,secondary,West Manlius Street,54.741,2,,,30 mph,,,,,,,20123451,NY 290
+212771137,1273415039,0,False,secondary,West Manlius Street,95.819,2,,,30 mph,,,,,,,20123451,NY 290
+212771139,212771141,0,False,secondary,West Manlius Street,103.772,2,,,30 mph,,,,,,,20123451,NY 290
+212771139,212771137,0,False,secondary,West Manlius Street,54.741,2,,,30 mph,,,,,,,20123451,NY 290
+212771139,213103870,0,False,residential,Horton Place,105.663,,,,,,,,,,,20150093,
+212771141,212771139,0,False,secondary,West Manlius Street,103.772,2,,,30 mph,,,,,,,20123451,NY 290
+212777363,212877712,0,False,residential,Stoutenger Street,216.45,2,,,,,,,,,,20133093,
+212777363,212895252,0,False,residential,"['Bagg Street', 'Johnson Street']",335.921,2,,,,,,,,,,"[316804211, 20134934]",
+212777363,212797087,0,False,residential,"['Johnson Street', 'South Center Street']",271.823,2,,,,,,,,,,"[316804211, 20136302]",
+212777370,212731314,0,False,secondary,East Manlius Street,40.883,2,,,30 mph,,,,,,,139456713,NY 290
+212777370,212752328,0,False,tertiary,East Manlius Street,44.267,3,,,30 mph,,,,,,,306247983,
+212777370,212777372,0,True,residential,Upton Street,119.013,2,,,,,,,,,,435252825,
+212777370,212731325,0,True,secondary_link,,36.345,1,,,30 mph,,,,,,,111725809,
+212777372,212777374,0,False,residential,Upton Street,111.802,2,,,,,,,,,,20124060,
+212777372,212913722,0,False,residential,East Ellis Street,157.748,,,,,,,,,,,20149394,
+212777372,213040138,0,False,residential,East Ellis Street,151.383,,,,,,,,,,,20149394,
+212777374,212777377,0,False,residential,Upton Street,105.184,2,,,,,,,,,,20124060,
+212777374,212777372,0,False,residential,Upton Street,111.802,2,,,,,,,,,,20124060,
+212777374,213028384,0,False,residential,East Yates Street,139.02,,,,,,,,,,,20144939,
+212777374,212913728,0,False,residential,East Yates Street,158.016,,,,,,,,,,,20144939,
+212777377,212777374,0,False,residential,Upton Street,105.184,2,,,,,,,,,,20124060,
+212777377,213016361,0,False,residential,East Heman Street,126.857,,,,,,,,,,,20143926,
+212777377,212913731,0,False,residential,East Heman Street,159.73,,,,,,,,,,,20143926,
+212780490,212913714,0,False,residential,Midland Avenue,97.059,,,,,,,,,,,20136415,
+212780490,212771136,0,False,residential,Allen Street,132.092,2,,,30 mph,,,,,,,20124380,
+212781515,212771114,0,False,residential,North Street,119.061,,,,,,,,,,,20124482,
+212781515,213002903,0,False,residential,West Ellis Street,199.285,,,,,,,,,,,20142907,
+212781515,213000342,0,False,residential,West Ellis Street,87.419,,,,,,,,,,,20142907,
+212783657,212783661,0,False,unclassified,Basile Rowe,65.196,3,,,,,,,,,,"[306247975, 20124655]",
+212783657,212820684,0,True,secondary,Manlius Center Road,210.476,"['2', '3']",,,45 mph,,,,,,,"[295266072, 20137951]",NY 290
+212783657,443479223,0,False,secondary,Manlius Center Road,233.797,"['4', '2']",,,45 mph,,,,,,,"[108822883, 248460351]",NY 290
+212783661,3103739554,0,False,unclassified,Basile Rowe,458.763,,,,,,,,,,,306247975,
+212783661,212783657,0,False,unclassified,Basile Rowe,65.196,3,,,,,,,,,,"[20124655, 306247975]",
+212783661,212820756,0,False,unclassified,Basile Rowe,202.162,2,,,,,,,,,,364365417,
+212797087,212983009,0,False,residential,"['Burke Street', '3rd Street']",171.616,2,,,,,,,,,,"[20125808, 20141454]",
+212797087,212777363,0,False,residential,"['Johnson Street', 'South Center Street']",271.823,2,,,,,,,,,,"[316804211, 20136302]",
+212797087,212912331,0,False,residential,South Center Street,98.645,2,,,,,,,,,,20136302,
+212820684,212820687,0,False,unclassified,1st Street,13.054,,,,,,,,,,,20127824,
+212820684,212934990,0,True,secondary,Manlius Center Road,356.832,"['5', '2', '3']",,,45 mph,,,,,,,"[139456761, 248460354, 295266071]",NY 290
+212820684,212914849,0,False,residential,East First Street,276.131,"['2', '3']",,,,,,,,,,"[361096227, 20136519]",
+212820687,212820684,0,False,unclassified,1st Street,13.054,,,,,,,,,,,20127824,
+212820687,212783657,0,True,secondary,Manlius Center Road,206.14,"['2', '3']",,,45 mph,,,,,,,"[295266073, 295266069]",NY 290
+212820687,212820756,0,False,unclassified,1st Street,65.554,"['2', '3']",,,,,,,,,,"[306247972, 306247973]",
+212820756,212820687,0,False,unclassified,1st Street,65.554,"['2', '3']",,,,,,,,,,"[306247972, 306247973]",
+212820756,212783661,0,False,unclassified,Basile Rowe,202.162,2,,,,,,,,,,364365417,
+212820756,212844767,0,False,unclassified,Basile Rowe,483.386,"['4', '2']",,,,,,,,,,"[364365417, 139456686, 295266047]",
+212822005,212822008,0,False,residential,West Terrace Street,62.862,,,,,,,,,,,20127938,
+212822005,212771100,0,False,residential,Division Street,95.072,,,,,,,,,,,20148682,
+212822005,212771093,0,False,residential,"['West Terrace Street', 'Ball Street']",195.872,,,,,,,,,,,"[20127938, 20146179]",
+212822008,212822005,0,False,residential,West Terrace Street,62.862,,,,,,,,,,,20127938,
+212822008,212771107,0,False,residential,Division Street,91.785,,,,,,,,,,,20148685,
+212822008,212822017,0,False,residential,West Terrace Street,153.044,,,,,,,,,,,20127938,
+212822017,212822022,0,False,residential,West Terrace Street,136.043,,,,,,,,,,,20127938,
+212822017,212771120,0,False,residential,Charles Street,78.455,,,,,,,,,,,20132048,
+212822017,212822008,0,False,residential,West Terrace Street,153.044,,,,,,,,,,,20127938,
+212822022,212822017,0,False,residential,West Terrace Street,136.043,,,,,,,,,,,20127938,
+212822022,212771124,0,False,residential,Williams Street,80.764,,,,,,,,,,,20150813,
+212822022,212822036,0,False,residential,West Terrace Street,272.95,,,,,,,,,,,20127938,
+212822036,212822022,0,False,residential,West Terrace Street,272.95,,,,,,,,,,,20127938,
+212822054,212771132,0,False,residential,Marcy Street,71.084,,,,,,,,,,,20136399,
+212822531,212958702,0,False,residential,East Yates Street,214.89,,,,,,,,,,,20144939,
+212822531,212822536,0,False,residential,Dausman Street,98.777,,,,,,,,,,,20127982,
+212822531,212958700,0,False,residential,East Ellis Street,226.331,,,,,,,,,,,20149394,
+212822536,212822540,0,False,residential,Dausman Street,211.071,,,,,,,,,,,20127982,
+212822536,213016364,0,False,residential,East Heman Street,108.033,,,,,,,,,,,20143926,
+212822536,212822531,0,False,residential,Dausman Street,98.777,,,,,,,,,,,20127982,
+212822536,213016059,0,False,residential,Mosher Street,216.837,,,,,,,,,,,20143901,
+212822540,212822542,0,False,residential,Dausman Street,241.586,,,,,,,,,,,20127982,
+212822540,212822536,0,False,residential,Dausman Street,211.071,,,,,,,,,,,20127982,
+212822540,213048814,0,False,residential,East Irving Street,105.396,,,,,,,,,,,20151224,
+212822540,213018688,0,False,residential,Bennett Manor Drive,143.302,,,,,,,,,,,20144148,
+212822542,212822540,0,False,residential,Dausman Street,241.586,,,,,,,,,,,20127982,
+212822542,212947889,0,False,tertiary,Hartwell Avenue,167.232,2,,,30 mph,,,,,,,20139657,
+212823776,212823779,0,False,residential,East Henrietta Street,117.696,,,,,,,,,,,20128104,
+212823776,212913736,0,False,residential,North Center Street,108.88,,,,,,,,,,,20136417,
+212823776,213000351,0,False,residential,"['Silver Street', 'Henrietta Street']",300.836,,,,,,,,,,,"[20139541, 20142726]",
+212823779,212823776,0,False,residential,East Henrietta Street,117.696,,,,,,,,,,,20128104,
+212839318,212839320,0,False,residential,Burrows Street,28.658,2,,,,,,,,,,20129522,
+212839320,212839318,0,False,residential,Burrows Street,28.658,2,,,,,,,,,,20129522,
+212839320,212839324,0,False,residential,Burrows Street,54.776,2,,,,,,,,,,20129522,
+212839320,212885394,0,False,residential,Phelps Street,162.937,2,,,,,,,,,,20133906,
+212839324,213088030,0,False,residential,"['Burrows Street', 'West 2nd Street']",464.778,2,,,,,,,,,,"[20129522, 20149197]",
+212839324,212839320,0,False,residential,Burrows Street,54.776,2,,,,,,,,,,20129522,
+212839324,212895252,0,False,residential,West 2nd Street,202.868,2,,,,,,,,,,20149198,
+212844767,212844815,0,False,secondary,Bridge Street,16.352,,,,30 mph,,,,,,,306247977,NY 290
+212844767,212820687,0,True,secondary,Manlius Center Road,423.089,"['4', '2', '3']",,,45 mph,,,,,,,"[20137954, 295266068, 295266070]",NY 290
+212844767,212820756,0,False,unclassified,Basile Rowe,483.386,"['4', '2']",,,,,,,,,,"[364365417, 139456686, 295266047]",
+212844808,212844814,0,False,secondary,Bridge Street,95.587,"['2', '3']",,,30 mph,,,,,,,"[306247978, 306247980, 139456687]",NY 290
+212844808,212731328,0,False,secondary,Bridge Street,175.096,"['2', '3']",,,30 mph,,,yes,,,,"[54184952, 54184948, 306247981]",NY 290
+212844808,212906918,0,False,residential,East 2nd Street,46.658,"['2', '3']",,,,,,,,,,"[139750602, 306247982]",
+212844814,212844815,0,False,secondary,Bridge Street,47.135,4,,,30 mph,,,,,,,139456688,NY 290
+212844814,212844808,0,False,secondary,Bridge Street,95.587,"['2', '3']",,,30 mph,,,,,,,"[306247978, 306247980, 139456687]",NY 290
+212844815,212844814,0,False,secondary,Bridge Street,47.135,4,,,30 mph,,,,,,,139456688,NY 290
+212844815,212844767,0,False,secondary,Bridge Street,16.352,,,,30 mph,,,,,,,306247977,NY 290
+212844815,212768318,0,True,secondary,Bridge Street,183.763,"['4', '3']",,,40 mph,,,,,,,"[20130010, 295266051]",
+212846487,212733423,0,False,unclassified,"['Carr Street', 'Clark Street', 'Kane Street']",563.9,,,,,,,,,,,"[20130148, 20140629, 20124135]",
+212846487,212713545,0,False,tertiary,Burnet Avenue,522.217,2,,,30 mph,,,yes,,,,"[320844608, 54178646, 54178647]",
+212846487,212730936,0,False,tertiary,Burnet Avenue,193.71,2,,,30 mph,,,,,,,320844608,
+212877708,212877712,0,False,residential,Stoutenger Street,96.236,2,,,,,,,,,,20133093,
+212877708,212912329,0,False,residential,West 1st Street,137.399,2,,,,,,,,,,20141418,
+212877708,212895252,0,False,residential,"['Bagg Street', 'West 1st Street']",205.899,2,,,,,,,,,,"[20141418, 20134934]",
+212877712,212877708,0,False,residential,Stoutenger Street,96.236,2,,,,,,,,,,20133093,
+212877712,212777363,0,False,residential,Stoutenger Street,216.45,2,,,,,,,,,,20133093,
+212877712,212895252,0,False,residential,West 2nd Street,134.21,2,,,,,,,,,,20149198,
+212877712,212912331,0,False,residential,West 2nd Street,136.91,2,,,,,,,,,,20149198,
+212885394,212839320,0,False,residential,Phelps Street,162.937,2,,,,,,,,,,20133906,
+212895252,212777363,0,False,residential,"['Bagg Street', 'Johnson Street']",335.921,2,,,,,,,,,,"[316804211, 20134934]",
+212895252,212877708,0,False,residential,"['Bagg Street', 'West 1st Street']",205.899,2,,,,,,,,,,"[20141418, 20134934]",
+212895252,212839324,0,False,residential,West 2nd Street,202.868,2,,,,,,,,,,20149198,
+212895252,212877712,0,False,residential,West 2nd Street,134.21,2,,,,,,,,,,20149198,
+212895468,212713549,0,False,residential,West Yates Street,107.13,,,,,,,,,,,20138126,
+212895468,212938348,0,False,residential,West Yates Street,92.193,,,,,,,,,,,20138126,
+212895468,212895477,0,False,residential,East Avenue,193.548,,,,,,,,,,,20134947,
+212895468,212771127,0,False,residential,East Avenue,179.449,,,,,,,,,,,20134947,
+212895477,212895480,0,False,residential,East Avenue,7.052,,,,,,,,,,,20134947,
+212895477,212913708,0,False,residential,Midland Avenue,101.762,,,,,,,,,,,20136413,
+212895477,212895468,0,False,residential,East Avenue,193.548,,,,,,,,,,,20134947,
+212895480,212895477,0,False,residential,East Avenue,7.052,,,,,,,,,,,20134947,
+212895480,212713551,0,False,residential,Midland Avenue,109.299,,,,,,,,,,,20136415,
+212900901,212900913,0,False,residential,Welch Street,98.477,2,,,,,,,,,,20135348,
+212900901,212914849,0,False,residential,East First Street,375.783,2,,,,,,,,,,20136519,
+212900901,212912329,0,False,residential,East First Street,154.67,2,,,,,,,,,,20136519,
+212900913,212912331,0,False,residential,East 2nd Street,154.696,2,,,,,,,,,,20140077,
+212900913,212900901,0,False,residential,Welch Street,98.477,2,,,,,,,,,,20135348,
+212900913,212906918,0,False,residential,East 2nd Street,51.347,2,,,,,,,,,,139750602,
+212903284,443479174,0,False,tertiary,Burnet Avenue,12.684,2,,,30 mph,,,,,,,322760203,
+212903284,212730936,0,False,tertiary,Burnet Avenue,38.316,3,,,30 mph,,,,,,,322760204,
+212903284,212776287,0,True,primary,Thompson Road,669.426,"['2', '3']",,,40 mph,,,,,,,"[193891601, 295408602]",NY 635
+212906918,212906954,0,False,residential,Old Bridge Street,422.612,2,,,,,,,,,,20135813,
+212906918,212844808,0,False,residential,East 2nd Street,46.658,"['2', '3']",,,,,,,,,,"[139750602, 306247982]",
+212906918,212900913,0,False,residential,East 2nd Street,51.347,2,,,,,,,,,,139750602,
+212906954,212906918,0,False,residential,Old Bridge Street,422.612,2,,,,,,,,,,20135813,
+212912329,212912331,0,False,residential,South Center Street,97.367,2,,,,,,,,,,20136302,
+212912329,212877708,0,False,residential,West 1st Street,137.399,2,,,,,,,,,,20141418,
+212912329,212900901,0,False,residential,East First Street,154.67,2,,,,,,,,,,20136519,
+212912331,212912329,0,False,residential,South Center Street,97.367,2,,,,,,,,,,20136302,
+212912331,212900913,0,False,residential,East 2nd Street,154.696,2,,,,,,,,,,20140077,
+212912331,212797087,0,False,residential,South Center Street,98.645,2,,,,,,,,,,20136302,
+212912331,212877712,0,False,residential,West 2nd Street,136.91,2,,,,,,,,,,20149198,
+212913482,1273415039,0,False,residential,Marcy Street,68.293,,,,,,,,,,,20136397,
+212913708,212895477,0,False,residential,Midland Avenue,101.762,,,,,,,,,,,20136413,
+212913708,213096964,0,False,tertiary,Kinne Street,35.756,2,,,30 mph,,,,,,,20149700,
+212913714,212780490,0,False,residential,Midland Avenue,97.059,,,,,,,,,,,20136415,
+212913714,212713551,0,False,residential,Midland Avenue,102.279,,,,,,,,,,,20136415,
+212913714,212938353,0,False,residential,West Avenue,199.03,,,,,,,,,,,20140648,
+212913722,213000342,0,False,residential,West Ellis Street,181.572,,,,,,,,,,,20142907,
+212913722,212777372,0,False,residential,East Ellis Street,157.748,,,,,,,,,,,20149394,
+212913722,212913728,0,False,residential,North Center Street,110.905,,,,,,,,,,,20136417,
+212913722,212771090,0,False,residential,North Center Street,119.191,,,,,,,,,,,20136417,
+212913728,212913731,0,False,residential,North Center Street,105.311,,,,,,,,,,,20136417,
+212913728,212938320,0,False,residential,West Yates Street,187.963,,,,,,,,,,,20138126,
+212913728,212777374,0,False,residential,East Yates Street,158.016,,,,,,,,,,,20144939,
+212913728,212913722,0,False,residential,North Center Street,110.905,,,,,,,,,,,20136417,
+212913731,212913728,0,False,residential,North Center Street,105.311,,,,,,,,,,,20136417,
+212913731,212925408,0,False,residential,West Heman Street,192.434,,,,,,,,,,,20137289,
+212913731,212777377,0,False,residential,East Heman Street,159.73,,,,,,,,,,,20143926,
+212913731,212913736,0,False,residential,North Center Street,139.807,,,,,,,,,,,20136417,
+212913736,213000351,0,False,residential,West Irving Street,196.842,,,,,,,,,,,20150907,
+212913736,212823776,0,False,residential,North Center Street,108.88,,,,,,,,,,,20136417,
+212913736,212913731,0,False,residential,North Center Street,139.807,,,,,,,,,,,20136417,
+212913736,213040141,0,False,residential,East Irving Street,275.007,,,,,,,,,,,20151224,
+212914168,443479223,0,False,secondary,Manlius Center Road,169.144,2,,,40 mph,,,,,,,194096099,NY 290
+212914849,212820684,0,False,residential,East First Street,276.131,"['2', '3']",,,,,,,,,,"[361096227, 20136519]",
+212914849,212900901,0,False,residential,East First Street,375.783,2,,,,,,,,,,20136519,
+212914849,212964059,0,False,residential,East 2nd Street,287.66,,,,,,,,,,,20140074,
+212925408,212913731,0,False,residential,West Heman Street,192.434,,,,,,,,,,,20137289,
+212925408,212938320,0,False,residential,Silver Street,106.749,,,,,,,,,,,20142726,
+212925408,212925412,0,False,residential,West Heman Street,289.69,,,,,,,,,,,20137289,
+212925408,213000351,0,False,residential,Silver Street,115.836,,,,,,,,,,,20142726,
+212925412,213096964,0,False,tertiary,Kinne Street,80.31,2,,,30 mph,,,,,,,20149700,
+212925412,212938348,0,False,tertiary,Kinne Street,78.307,2,,,30 mph,,,,,,,20149700,
+212925412,212925408,0,False,residential,West Heman Street,289.69,,,,,,,,,,,20137289,
+212934990,212844814,0,True,secondary_link,,88.914,1,,,,,,,,,,20122221,NY 290
+212934990,212844815,0,True,secondary,Manlius Center Road,74.19,4,,,45 mph,,,,,,,295266067,
+212938320,212913728,0,False,residential,West Yates Street,187.963,,,,,,,,,,,20138126,
+212938320,212925408,0,False,residential,Silver Street,106.749,,,,,,,,,,,20142726,
+212938320,212938348,0,False,residential,West Yates Street,288.13,,,,,,,,,,,20138126,
+212938320,213000342,0,False,residential,Silver Street,111.981,,,,,,,,,,,20142726,
+212938348,212895468,0,False,residential,West Yates Street,92.193,,,,,,,,,,,20138126,
+212938348,212925412,0,False,tertiary,Kinne Street,78.307,2,,,30 mph,,,,,,,20149700,
+212938348,213002903,0,False,tertiary,Kinne Street,95.681,2,,,30 mph,,,,,,,20149700,
+212938348,212938320,0,False,residential,West Yates Street,288.13,,,,,,,,,,,20138126,
+212938353,212713549,0,False,residential,West Yates Street,103.34,,,,,,,,,,,20138126,
+212938353,212771134,0,False,residential,West Yates Street,28.138,,,,,,,,,,,20138126,
+212938353,212913714,0,False,residential,West Avenue,199.03,,,,,,,,,,,20140648,
+212947889,212822542,0,False,tertiary,Hartwell Avenue,167.232,2,,,30 mph,,,,,,,20139657,
+212947889,212958713,0,False,tertiary,Hartwell Avenue,253.368,2,,,30 mph,,,,,,,20139657,
+212958700,212958702,0,False,tertiary,Hartwell Avenue,95.001,2,,,30 mph,,,,,,,20139657,
+212958700,213040138,0,False,residential,East Ellis Street,120.414,,,,,,,,,,,20149394,
+212958700,213040135,0,False,tertiary,"['East Manlius Street', 'Hartwell Avenue']",225.507,2,,,30 mph,,,,,,,"[20139657, 20148974]",
+212958700,212822531,0,False,residential,East Ellis Street,226.331,,,,,,,,,,,20149394,
+212958702,212958706,0,False,tertiary,Hartwell Avenue,103.439,2,,,30 mph,,,,,,,20139657,
+212958702,212958700,0,False,tertiary,Hartwell Avenue,95.001,2,,,30 mph,,,,,,,20139657,
+212958702,212822531,0,False,residential,East Yates Street,214.89,,,,,,,,,,,20144939,
+212958702,213028384,0,False,residential,East Yates Street,121.145,,,,,,,,,,,20144939,
+212958706,212958713,0,False,tertiary,Hartwell Avenue,186.533,2,,,30 mph,,,,,,,20139657,
+212958706,212958702,0,False,tertiary,Hartwell Avenue,103.439,2,,,30 mph,,,,,,,20139657,
+212958706,213016364,0,False,residential,East Heman Street,105.646,,,,,,,,,,,20143926,
+212958706,213016361,0,False,residential,East Heman Street,121.298,,,,,,,,,,,20143926,
+212958713,212958706,0,False,tertiary,Hartwell Avenue,186.533,2,,,30 mph,,,,,,,20139657,
+212958713,213048814,0,False,residential,East Irving Street,106.085,,,,,,,,,,,20151224,
+212958713,213040141,0,False,residential,East Irving Street,120.889,,,,,,,,,,,20151224,
+212958713,212947889,0,False,tertiary,Hartwell Avenue,253.368,2,,,30 mph,,,,,,,20139657,
+212964059,212914849,0,False,residential,East 2nd Street,287.66,,,,,,,,,,,20140074,
+212983009,212797087,0,False,residential,"['Burke Street', '3rd Street']",171.616,2,,,,,,,,,,"[20125808, 20141454]",
+213000342,212913722,0,False,residential,West Ellis Street,181.572,,,,,,,,,,,20142907,
+213000342,212938320,0,False,residential,Silver Street,111.981,,,,,,,,,,,20142726,
+213000342,212771104,0,False,residential,Silver Street,117.328,,,,,,,,,,,20142726,
+213000342,212781515,0,False,residential,West Ellis Street,87.419,,,,,,,,,,,20142907,
+213000351,212913736,0,False,residential,West Irving Street,196.842,,,,,,,,,,,20150907,
+213000351,212823776,0,False,residential,"['Silver Street', 'Henrietta Street']",300.836,,,,,,,,,,,"[20139541, 20142726]",
+213000351,212925408,0,False,residential,Silver Street,115.836,,,,,,,,,,,20142726,
+213000351,213096964,0,False,residential,West Irving Street,291.822,,,,,,,,,,,20150907,
+213002903,212938348,0,False,tertiary,Kinne Street,95.681,2,,,30 mph,,,,,,,20149700,
+213002903,212781515,0,False,residential,West Ellis Street,199.285,,,,,,,,,,,20142907,
+213002903,212771121,0,False,tertiary,Kinne Street,117.732,2,,,30 mph,,,,,,,20149700,
+213016059,212822536,0,False,residential,Mosher Street,216.837,,,,,,,,,,,20143901,
+213016361,212958706,0,False,residential,East Heman Street,121.298,,,,,,,,,,,20143926,
+213016361,212777377,0,False,residential,East Heman Street,126.857,,,,,,,,,,,20143926,
+213016361,213040141,0,False,residential,Mc Cool Avenue,173.41,,,,,,,,,,,20146047,
+213016361,213028384,0,False,residential,Mc Cool Avenue,104.998,,,,,,,,,,,20146047,
+213016364,212822536,0,False,residential,East Heman Street,108.033,,,,,,,,,,,20143926,
+213016364,212958706,0,False,residential,East Heman Street,105.646,,,,,,,,,,,20143926,
+213016364,213048814,0,False,residential,Spring Street,198.857,,,,,,,,,,,20146796,
+213018688,212822540,0,False,residential,Bennett Manor Drive,143.302,,,,,,,,,,,20144148,
+213028384,212958702,0,False,residential,East Yates Street,121.145,,,,,,,,,,,20144939,
+213028384,212777374,0,False,residential,East Yates Street,139.02,,,,,,,,,,,20144939,
+213028384,213016361,0,False,residential,Mc Cool Avenue,104.998,,,,,,,,,,,20146047,
+213028384,213040138,0,False,residential,Mc Cool Avenue,109.155,,,,,,,,,,,20146047,
+213040135,213040138,0,False,residential,Mc Cool Avenue,124.512,,,,,,,,,,,20146047,
+213040135,212752328,0,False,tertiary,East Manlius Street,120.93,"['4', '2']",,,30 mph,,,,,,,"[306247984, 20148974]",
+213040135,212958700,0,False,tertiary,"['East Manlius Street', 'Hartwell Avenue']",225.507,2,,,30 mph,,,,,,,"[20139657, 20148974]",
+213040138,213028384,0,False,residential,Mc Cool Avenue,109.155,,,,,,,,,,,20146047,
+213040138,212958700,0,False,residential,East Ellis Street,120.414,,,,,,,,,,,20149394,
+213040138,213040135,0,False,residential,Mc Cool Avenue,124.512,,,,,,,,,,,20146047,
+213040138,212777372,0,False,residential,East Ellis Street,151.383,,,,,,,,,,,20149394,
+213040141,213016361,0,False,residential,Mc Cool Avenue,173.41,,,,,,,,,,,20146047,
+213040141,212958713,0,False,residential,East Irving Street,120.889,,,,,,,,,,,20151224,
+213040141,212913736,0,False,residential,East Irving Street,275.007,,,,,,,,,,,20151224,
+213048814,212822540,0,False,residential,East Irving Street,105.396,,,,,,,,,,,20151224,
+213048814,212958713,0,False,residential,East Irving Street,106.085,,,,,,,,,,,20151224,
+213048814,213016364,0,False,residential,Spring Street,198.857,,,,,,,,,,,20146796,
+213088030,212839324,0,False,residential,"['Burrows Street', 'West 2nd Street']",464.778,2,,,,,,,,,,"[20129522, 20149197]",
+213096964,212913708,0,False,tertiary,Kinne Street,35.756,2,,,30 mph,,,,,,,20149700,
+213096964,212925412,0,False,tertiary,Kinne Street,80.31,2,,,30 mph,,,,,,,20149700,
+213096964,213000351,0,False,residential,West Irving Street,291.822,,,,,,,,,,,20150907,
+213103870,212771139,0,False,residential,Horton Place,105.663,,,,,,,,,,,20150093,
+443479174,212903284,0,False,tertiary,Burnet Avenue,12.684,2,,,30 mph,,,,,,,322760203,
+443479223,212914168,0,False,secondary,Manlius Center Road,169.144,2,,,40 mph,,,,,,,194096099,NY 290
+443479223,212783657,0,False,secondary,Manlius Center Road,233.797,"['4', '2']",,,45 mph,,,,,,,"[108822883, 248460351]",NY 290
+443479246,212764616,0,True,motorway,,495.84,"['4', '3']",,,55 mph,,,yes,,,,"[43249105, 321188482, 43249109, 124369990]",I 690
+1273415039,212771137,0,False,secondary,West Manlius Street,95.819,2,,,30 mph,,,,,,,20123451,NY 290
+1273415039,212771136,0,False,secondary,West Manlius Street,33.512,2,,,30 mph,,,,,,,20123451,NY 290
+1273415039,212913482,0,False,residential,Marcy Street,68.293,,,,,,,,,,,20136397,
+3103739554,3103739554,0,False,unclassified,Basile Rowe,70.551,,,,,,,,,,,306247975,
+3103739554,3103739554,1,False,unclassified,Basile Rowe,70.551,,,,,,,,,,,306247975,
+3103739554,212783661,0,False,unclassified,Basile Rowe,458.763,,,,,,,,,,,306247975,
+3129246832,3129246838,0,False,primary,Thompson Road,12.574,6,,,30 mph,,,,,,,307723795,NY 635
+3129246838,3129246832,0,False,primary,Thompson Road,12.574,6,,,30 mph,,,,,,,307723795,NY 635
+3129246838,212742193,0,True,primary,Thompson Road,76.758,"['2', '3']",,,40 mph,,,,,,,"[191044321, 219283219]",NY 635

@@ -1,0 +1,479 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+213411043,213411057,0,False,residential,Kirk Road,60.122,,,,,,,,,,,20190232,
+213411043,213436957,0,False,residential,Kirk Road,207.878,,,,,,,,,,,20190232,
+213411057,213499355,0,False,residential,Kirk Road,63.531,,,,,,,,,,,20190232,
+213411057,213411043,0,False,residential,Kirk Road,60.122,,,,,,,,,,,20190232,
+213411473,213508219,0,False,residential,Union Street,132.239,,,,,,,,,,,20190209,
+213411473,213411482,0,False,residential,Liberty Street,138.929,,,,,,,,,,,20181304,
+213411473,213504408,0,False,residential,"['Union Street', 'Factory Street']",314.958,,,,,,,,,,,"[20190209, 576933985]",
+213411482,213510405,0,False,residential,Yates Street,125.363,,,,,,,,,,,20191571,
+213411482,213528745,0,False,residential,Yates Street,62.92,,,,,,,,,,,20191571,
+213411482,213411473,0,False,residential,Liberty Street,138.929,,,,,,,,,,,20181304,
+213411503,213411516,0,False,unclassified,Mott Road,293.468,,,,,,,,,,,20181321,
+213411503,213545873,0,False,tertiary,North Road,1218.766,,,,,,,,,,,45393271,
+213411503,213515157,0,False,tertiary,North Road,266.981,,,,,,,,,,,45393271,
+213411516,213528930,0,False,residential,Palmer Drive,52.5,,,,,,,,,,,20192749,
+213411516,213411531,0,False,unclassified,Mott Road,125.181,,,,,,,,,,,20181321,
+213411516,213411503,0,False,unclassified,Mott Road,293.468,,,,,,,,,,,20181321,
+213411531,213411561,0,False,unclassified,Mott Road,1412.521,,,,,,,,,,,20181321,
+213411531,213411516,0,False,unclassified,Mott Road,125.181,,,,,,,,,,,20181321,
+213411531,213528930,0,False,residential,Cinderella Lane,146.874,,,,,,,,,,,"[20191589, 20191590]",
+213411561,213411582,0,False,unclassified,Mott Road,407.933,,,,,,,,,,,20181321,
+213411561,213411531,0,False,unclassified,Mott Road,1412.521,,,,,,,,,,,20181321,
+213411561,213446476,0,False,residential,Cady Lane,1216.903,,,,,,,,,,,20189306,
+213411582,213411606,0,False,unclassified,Mott Road,1039.773,,,,,,,,,,,20181321,
+213411582,213411561,0,False,unclassified,Mott Road,407.933,,,,,,,,,,,20181321,
+213411582,213471454,0,False,residential,Hart Road,484.011,,,,,,,,,,,20192573,
+213411606,213478478,0,False,unclassified,Herman Road,50.442,,,,,,,,,,,20192415,
+213411606,213411582,0,False,unclassified,Mott Road,1039.773,,,,,,,,,,,20181321,
+213411606,213446430,0,False,"['unclassified', 'residential']",Herman Road,667.502,,,,,,,yes,,,,"[117391194, 117391183, 20192415]",
+213411623,213411637,0,False,residential,,135.342,,,,,,,,,,,20181332,
+213411623,213444287,0,False,tertiary,Stevens Road,449.592,,,,,,,,,,,20190892,CR 104
+213411623,213488685,0,False,tertiary,Stevens Road,185.958,,,,,,,,,,,20190892,CR 104
+213411637,213411623,0,False,residential,,135.342,,,,,,,,,,,20181332,
+213411637,213444269,0,False,tertiary,Church Street,214.941,,,,,,,,,,,20191723,CR 180
+213411637,213488685,0,False,tertiary,Church Street,250.015,,,,,,,,,,,20191723,CR 180
+213411694,213411699,0,False,residential,,100.304,,,,,,,,,,,20181345,
+213411694,213488685,0,False,tertiary,McLean Cortland Road,2730.711,,,,"['30 mph', '55 mph']",,,,,,,"[20188825, 388553945]",CR 105
+213411699,213411694,0,False,residential,,100.304,,,,,,,,,,,20181345,
+213415212,213415255,0,False,residential,DPW Drive,754.932,,,,,,,,,,,"[303888600, 20181859]",
+213415255,213504408,0,False,secondary,Railroad Street,82.905,,,,30 mph,,,,,,,232364013,NY 38
+213415255,213504402,0,False,secondary,Railroad Street,103.235,,,,30 mph,,,,,,,232364013,NY 38
+213415255,213415212,0,False,residential,DPW Drive,754.932,,,,,,,,,,,"[303888600, 20181859]",
+213418773,213467796,0,False,residential,Wood Road,112.166,,,,,,,,,,,20190514,
+213418773,213467778,0,False,residential,Country Manor Estates,243.657,,,,,,,,,,,"[20182336, 20187365]",
+213418773,213512705,0,False,residential,Wood Road,450.139,,,,,,,,,,,20190514,
+213432062,213436963,0,False,primary,Dryden Road,82.711,2,,,55 mph,,,,,,,139470105,NY 13
+213432062,213432083,0,False,residential,Private Driveway,383.267,,,,,,,,,,,20184486,
+213432062,213432083,1,False,primary,Dryden Road,207.072,2,,,55 mph,,,,,,,139470105,NY 13
+213432083,213432062,0,False,residential,Private Driveway,383.267,,,,,,,,,,,20184486,
+213432083,213432062,1,False,primary,Dryden Road,207.072,2,,,55 mph,,,,,,,139470105,NY 13
+213432083,213436986,0,False,primary,Dryden Road,1128.261,2,,,55 mph,,,,,,,139470105,NY 13
+213432088,213436986,0,False,primary,Dryden Road,20.875,2,,,55 mph,,,,,,,139470105,NY 13
+213432088,213432111,0,False,residential,Trailer Park,330.943,,,,,,,,,,,20184491,
+213432088,213432111,1,False,primary,Dryden Road,81.803,2,,,55 mph,,,,,,,139470105,NY 13
+213432111,213432088,0,False,residential,Trailer Park,330.943,,,,,,,,,,,20184491,
+213432111,213432088,1,False,primary,Dryden Road,81.803,2,,,55 mph,,,,,,,139470105,NY 13
+213432111,213437015,0,False,primary,Dryden Road,868.285,2,,,55 mph,,,,,,,139470105,NY 13
+213433664,213433673,0,False,residential,Caswell Road,128.152,,,,,,,,,,,20184726,
+213433664,213479598,0,False,residential,Upper Creek Road,312.724,,,,,,,,,,,20188184,
+213433664,213465963,0,False,residential,Upper Creek Road,1111.288,,,,,,,,,,,20188184,
+213433673,213433683,0,False,residential,Caswell Road,411.544,,,,,,,,,,,20184726,
+213433673,213433664,0,False,residential,Caswell Road,128.152,,,,,,,,,,,20184726,
+213433673,213479958,0,False,residential,Deibler Drive,373.386,,,,,,,,,,,20188203,
+213433683,213433686,0,False,residential,Caswell Road,60.645,,,,,,,,,,,20184726,
+213433683,213433673,0,False,residential,Caswell Road,411.544,,,,,,,,,,,20184726,
+213433683,213499165,0,False,residential,Kingdom Road,29.205,,,,,,,,,,,20189549,
+213433686,213433683,0,False,residential,Caswell Road,60.645,,,,,,,,,,,20184726,
+213433686,213433732,0,False,residential,Caswell Road,2148.577,,,,,,,,,,,20184726,
+213433686,213499165,0,False,residential,Kingdom Road,63.619,,,,,,,,,,,20189550,
+213433732,213433740,0,False,residential,Caswell Road,986.487,,,,,,,,,,,20184726,
+213433732,213433686,0,False,residential,Caswell Road,2148.577,,,,,,,,,,,20184726,
+213433732,213438521,0,False,tertiary,West Dryden Road,1032.981,,,,,,,,,,,20185394,CR 108
+213433732,213439496,0,False,tertiary,West Dryden Road,1529.102,,,,,,,,,,,20185394,CR 108
+213433740,213433744,0,False,residential,Caswell Road,578.357,,,,,,,,,,,20184726,
+213433740,213433732,0,False,residential,Caswell Road,986.487,,,,,,,,,,,20184726,
+213433740,213488675,0,False,residential,Sundown Road,404.635,,,,,,,,,,,20188820,
+213433744,213433765,0,False,residential,Caswell Road,1735.908,,,,,,,,,,,20184726,
+213433744,213433740,0,False,residential,Caswell Road,578.357,,,,,,,,,,,20184726,
+213433744,213458238,0,False,residential,Bone Plain Road,1533.206,,,,,,,,,,,20186734,
+213433765,213433744,0,False,residential,Caswell Road,1735.908,,,,,,,,,,,20184726,
+213433765,213548847,0,False,secondary,Peruville Road,463.522,,,,,,,,,,,20193211,NY 34B
+213433765,213551188,0,False,secondary,Peruville Road,1081.881,,,,,,,,,,,20193211,NY 34B
+213436292,213436294,0,False,residential,Willow Drive,146.949,,,,,,,,,,,20185051,
+213436292,213504750,0,False,residential,Johnson Street,114.203,,,,,,,,,,,48400827,
+213436292,213499718,0,False,residential,Johnson Street,212.74,,,,,,,,,,,48400827,
+213436294,213436292,0,False,residential,Willow Drive,146.949,,,,,,,,,,,20185051,
+213436957,213411043,0,False,residential,Kirk Road,207.878,,,,,,,,,,,20190232,
+213436957,213436963,0,False,primary,Dryden Road,200.199,2,,,55 mph,,,,,,,139470105,NY 13
+213436963,213432062,0,False,primary,Dryden Road,82.711,2,,,55 mph,,,,,,,139470105,NY 13
+213436963,213436957,0,False,primary,Dryden Road,200.199,2,,,55 mph,,,,,,,139470105,NY 13
+213436986,213432088,0,False,primary,Dryden Road,20.875,2,,,55 mph,,,,,,,139470105,NY 13
+213436986,213432083,0,False,primary,Dryden Road,1128.261,2,,,55 mph,,,,,,,139470105,NY 13
+213436986,213514349,0,False,residential,Ringwood Road,2879.243,,,,55 mph,,,,,,,305605333,
+213437015,213499718,0,False,"['unclassified', 'residential']","['Johnson Street', 'Johnson Road']",2582.28,,,,,,,yes,,,,"[48400827, 20191299, 20190476, 48400829]",
+213437015,213535490,0,False,residential,Yellow Barn Road,155.722,,,,,,,,,,,20192047,
+213437015,213432111,0,False,primary,Dryden Road,868.285,2,,,55 mph,,,,,,,139470105,NY 13
+213437546,213444852,0,False,residential,Bell Lane,70.563,,,,,,,,,,,20191575,
+213437546,213437564,0,False,residential,Daisy Lane,175.034,,,,,,,,,,,20185198,
+213437546,213437564,1,False,residential,Bell Lane,343.813,,,,,,,,,,,20191575,
+213437564,213437546,0,False,residential,Daisy Lane,175.034,,,,,,,,,,,20185198,
+213437564,213437546,1,False,residential,Bell Lane,343.813,,,,,,,,,,,20191575,
+213437564,213444874,0,False,residential,Bell Lane,57.111,,,,,,,,,,,20191575,
+213438444,213438521,0,False,residential,Mill Street,1322.08,,,,,,,yes,,,,"[48400826, 20185298, 48400828]",
+213438444,213504750,0,False,residential,Johnson Street,103.94,,,,,,,,,,,48400827,
+213438444,213510402,0,False,secondary,Main Street,312.102,2,,,30 mph,,,,,,,139470118,NY 366
+213438444,213468109,0,False,secondary,Main Street,487.838,2,,,"['30 mph', '55 mph']",,,,,,,"[117391189, 139470118]",NY 366
+213438521,213439540,0,False,tertiary,West Dryden Road,348.693,,,,,,,,,,,20185394,CR 108
+213438521,213433732,0,False,tertiary,West Dryden Road,1032.981,,,,,,,,,,,20185394,CR 108
+213438521,213438444,0,False,residential,Mill Street,1322.08,,,,,,,yes,,,,"[20185298, 48400826, 48400828]",
+213439452,213439470,0,False,tertiary,West Dryden Road,730.056,,,,,,,,,,,20185394,CR 108
+213439452,213448207,0,False,"['residential', 'tertiary']","['West Dryden Road', 'Hanshaw Road']",1897.383,,,,,,,,,,,"[20185394, 20186079]",CR 108
+213439470,213439496,0,False,tertiary,West Dryden Road,1668.188,,,,,,,,,,,20185394,CR 108
+213439470,213439452,0,False,tertiary,West Dryden Road,730.056,,,,,,,,,,,20185394,CR 108
+213439470,213458218,0,False,tertiary,Sheldon Road,1545.198,,,,,,,,,,,20192127,CR 182
+213439470,213454228,0,False,tertiary,Sheldon Road,1650.596,,,,,,,,,,,20192127,CR 182
+213439496,213433732,0,False,tertiary,West Dryden Road,1529.102,,,,,,,,,,,20185394,CR 108
+213439496,213439470,0,False,tertiary,West Dryden Road,1668.188,,,,,,,,,,,20185394,CR 108
+213439496,213512804,0,False,residential,Wood Road,533.973,,,,,,,,,,,20190514,
+213439496,213512705,0,False,residential,Wood Road,2496.437,,,,,,,,,,,20190514,
+213439540,213438521,0,False,tertiary,West Dryden Road,348.693,,,,,,,,,,,20185394,CR 108
+213439540,213439546,0,False,tertiary,West Dryden Road,321.157,,,,,,,,,,,20185394,CR 108
+213439540,213479374,0,False,unclassified,Palmear Road,588.936,,,,,,,,,,,20190039,
+213439546,213439540,0,False,tertiary,West Dryden Road,321.157,,,,,,,,,,,20185394,CR 108
+213439546,213467206,0,False,secondary,Groton Road,525.984,,,,55 mph,,,,,,,20188172,NY 38
+213439546,213498700,0,False,residential,Brooklyn Road,1230.374,,,,,,,,,,,20191251,
+213439546,213498700,1,False,secondary,Freeville Groton Road,734.249,,,,55 mph,,,,,,,"[232364008, 20189513]",NY 38
+213444269,213444287,0,False,residential,Cemetery Lane,358.39,,,,,,,,,,,20185819,
+213444269,213482489,0,False,tertiary,Lafayette Road,1984.999,,,,,,,,,,,20188412,CR 180
+213444269,213411637,0,False,tertiary,Church Street,214.941,,,,,,,,,,,20191723,CR 180
+213444287,213444416,0,False,residential,Cemetery Lane,2229.862,,,,,,,yes,,,,"[20185819, 253652973, 253652974]",
+213444287,213444269,0,False,residential,Cemetery Lane,358.39,,,,,,,,,,,20185819,
+213444287,213518962,0,False,tertiary,Stevens Road,945.7,,,,,,,yes,,,,"[253653001, 253653002, 20190892]",CR 104
+213444287,213411623,0,False,tertiary,Stevens Road,449.592,,,,,,,,,,,20190892,CR 104
+213444416,213509454,0,False,tertiary,Salt Road,542.673,,,,,,,,,,,20190300,CR 102
+213444416,213509436,0,False,tertiary,Salt Road,1081.974,,,,,,,,,,,20190300,CR 102
+213444416,213444287,0,False,residential,Cemetery Lane,2229.862,,,,,,,yes,,,,"[20185819, 253652973, 253652974]",
+213444852,213468976,0,False,residential,Bell Lane,72.652,,,,,,,,,,,20191575,
+213444852,213437546,0,False,residential,Bell Lane,70.563,,,,,,,,,,,20191575,
+213444852,213444871,0,False,residential,Robin Lane,124.142,,,,,,,,,,,20185857,
+213444871,213444874,0,False,residential,Robin Lane,15.334,,,,,,,,,,,20185857,
+213444871,213468985,0,False,residential,Country Lane,57.84,,,,,,,,,,,20191754,
+213444871,213444852,0,False,residential,Robin Lane,124.142,,,,,,,,,,,20185857,
+213444874,213444877,0,False,residential,Robin Lane,50.753,,,,,,,,,,,20185857,
+213444874,213444871,0,False,residential,Robin Lane,15.334,,,,,,,,,,,20185857,
+213444874,213437564,0,False,residential,Bell Lane,57.111,,,,,,,,,,,20191575,
+213444877,213444874,0,False,residential,Robin Lane,50.753,,,,,,,,,,,20185857,
+213444877,213446758,0,False,tertiary,Fall Creek Road,166.779,,,,30 mph,,,,,,,117391197,CR 105
+213444877,213446741,0,False,tertiary,Fall Creek Road,49.373,,,,30 mph,,,,,,,117391197,CR 105
+213445597,213445603,0,False,residential,Ferguson Road,268.954,,,,,,,,,,,20185919,
+213445597,213535474,0,False,residential,Yellow Barn Road,399.054,,,,,,,,,,,20192047,
+213445597,213456417,0,False,residential,Yellow Barn Road,175.316,,,,,,,,,,,20192047,
+213445603,213445632,0,False,residential,Ferguson Road,997.947,,,,,,,,,,,20185919,
+213445603,213445597,0,False,residential,Ferguson Road,268.954,,,,,,,,,,,20185919,
+213445603,213514748,0,False,residential,Chelsey Circle,193.641,,,,,,,,,,,20190599,
+213445632,213445603,0,False,residential,Ferguson Road,997.947,,,,,,,,,,,20185919,
+213446349,213508219,0,False,secondary,Main Street,105.161,2,,,30 mph,,,,,,,139470118,NY 366
+213446349,213446361,0,False,tertiary,Fall Creek Road,106.17,,,,30 mph,,,,,,,20186004,CR 105
+213446349,213498700,0,False,secondary,"['Freeville Groton Road', 'Railroad Street']",111.347,,,,30 mph,,,yes,,,,"[20189513, 117391186, 232364013]",NY 38
+213446349,213504408,0,False,secondary,Railroad Street,173.054,,,,30 mph,,,,,,,232364013,NY 38
+213446361,213446387,0,False,tertiary,Fall Creek Road,280.442,,,,30 mph,,,,,,,20186004,CR 105
+213446361,213446349,0,False,tertiary,Fall Creek Road,106.17,,,,30 mph,,,,,,,20186004,CR 105
+213446361,213485030,0,False,residential,Heath Place,112.074,,,,,,,,,,,20188598,
+213446387,213446430,0,False,tertiary,Fall Creek Road,675.165,,,,"['30 mph', '55 mph']",,,yes,,,,"[388553930, 388553931, 20186004, 117391190]",CR 105
+213446387,213446361,0,False,tertiary,Fall Creek Road,280.442,,,,30 mph,,,,,,,20186004,CR 105
+213446387,213504402,0,False,residential,Cook Street,458.316,,,,,,,,,,,20192978,
+213446430,213449761,0,False,unclassified,Ed Hill Road,1719.43,,,,,,,,,,,20186160,
+213446430,213446476,0,False,tertiary,Fall Creek Road,925.7,,,,55 mph,,,yes,,,,"[117391184, 117391178, 117391191]",CR 105
+213446430,213411606,0,False,"['unclassified', 'residential']",Herman Road,667.502,,,,,,,yes,,,,"[20192415, 117391194, 117391183]",
+213446430,213446387,0,False,tertiary,Fall Creek Road,675.165,,,,"['30 mph', '55 mph']",,,yes,,,,"[388553930, 388553931, 20186004, 117391190]",CR 105
+213446476,213411561,0,False,residential,Cady Lane,1216.903,,,,,,,,,,,20189306,
+213446476,213446506,0,False,tertiary,Fall Creek Road,242.933,,,,55 mph,,,,,,,117391191,CR 105
+213446476,213446430,0,False,tertiary,Fall Creek Road,925.7,,,,55 mph,,,yes,,,,"[117391184, 117391178, 117391191]",CR 105
+213446506,213480167,0,False,residential,Leisure Lane,98.488,,,,,,,,,,,20189661,
+213446506,213446526,0,False,tertiary,Fall Creek Road,546.047,,,,55 mph,,,,,,,117391191,CR 105
+213446506,213446476,0,False,tertiary,Fall Creek Road,242.933,,,,55 mph,,,,,,,117391191,CR 105
+213446526,213452522,0,False,"['unclassified', 'residential']",Red Mill Road,825.988,,,,,no,,yes,,,,"[117391196, 20186870, 117391188]",
+213446526,213446639,0,False,tertiary,Fall Creek Road,1465.241,,,,55 mph,,,,,,,117391191,CR 105
+213446526,213446506,0,False,tertiary,Fall Creek Road,546.047,,,,55 mph,,,,,,,117391191,CR 105
+213446639,213446642,0,False,tertiary,Fall Creek Road,36.363,,,,55 mph,,,,,,,117391191,CR 105
+213446639,213454058,0,False,"['unclassified', 'residential']",West Malloryville Road,1272.315,,,,,,,yes,,,,"[117391176, 117391181, 20186413]",
+213446639,213446526,0,False,tertiary,Fall Creek Road,1465.241,,,,55 mph,,,,,,,117391191,CR 105
+213446642,213446639,0,False,tertiary,Fall Creek Road,36.363,,,,55 mph,,,,,,,117391191,CR 105
+213446642,213446688,0,False,tertiary,Fall Creek Road,618.91,,,,55 mph,,,,,,,117391191,CR 105
+213446642,213554540,0,False,residential,East Malloryville Road,528.44,,,,,,,,,,,421825523,
+213446688,213554540,0,False,tertiary,North Road,455.974,,,,,,,,,,,45393271,
+213446688,213446741,0,False,tertiary,Fall Creek Road,1219.28,,,,"['30 mph', '55 mph']",,,yes,,,,"[117391197, 388553932, 117391173, 117391191]",CR 105
+213446688,213446642,0,False,tertiary,Fall Creek Road,618.91,,,,55 mph,,,,,,,117391191,CR 105
+213446741,213468985,0,False,residential,Blackberry Lane,67.574,,,,,,,,,,,20187453,
+213446741,213444877,0,False,tertiary,Fall Creek Road,49.373,,,,30 mph,,,,,,,117391197,CR 105
+213446741,213446688,0,False,tertiary,Fall Creek Road,1219.28,,,,"['30 mph', '55 mph']",,,yes,,,,"[117391173, 388553932, 117391197, 117391191]",CR 105
+213446758,213488685,0,False,tertiary,School Street,355.487,,,,,,,yes,,,,"[117391179, 117391187, 20193979]",CR 105
+213446758,213509436,0,False,tertiary,Peruville Road,2375.374,,,,,,,,,,,49152338,CR 107
+213446758,213444877,0,False,tertiary,Fall Creek Road,166.779,,,,30 mph,,,,,,,117391197,CR 105
+213448181,213448198,0,False,residential,Hanshaw Road,1685.147,,,,,,,,,,,20186079,
+213448181,213464797,0,False,tertiary,Etna Road,1784.669,,,,,,,,,,,20187225,CR 109
+213448198,213448207,0,False,residential,Hanshaw Road,542.319,,,,,,,,,,,20186079,
+213448198,213448181,0,False,residential,Hanshaw Road,1685.147,,,,,,,,,,,20186079,
+213448198,213454225,0,False,tertiary,Neimi Road,1131.828,,,,,,,,,,,20186431,CR 182
+213448207,213532909,0,False,residential,Beacon View Circle,29.987,,,,,,,,,,,20191883,
+213448207,213439452,0,False,"['residential', 'tertiary']","['West Dryden Road', 'Hanshaw Road']",1897.383,,,,,,,,,,,"[20185394, 20186079]",CR 108
+213448207,213448198,0,False,residential,Hanshaw Road,542.319,,,,,,,,,,,20186079,
+213449761,213446430,0,False,unclassified,Ed Hill Road,1719.43,,,,,,,,,,,20186160,
+213449761,213452514,0,False,unclassified,Hile School Road,855.645,,,,,,,,,,,20186315,
+213451672,213451675,0,False,residential,George Jr Republic,84.341,,,,,,,,,,,20186272,
+213451672,213451681,0,False,residential,Mc Donald Circle,10.128,,,,,,,,,,,20190920,
+213451672,213540648,0,False,residential,"['Mc Donald Cir', 'Mc Donald Circle']",691.176,,,,,,,,,,,"[20190920, 70703301]",
+213451675,213451672,0,False,residential,George Jr Republic,84.341,,,,,,,,,,,20186272,
+213451675,213451685,0,False,secondary,George Road,10.738,,,,,,,,,,,20188103,NY 38
+213451675,213525992,0,False,secondary,Freeville Road,401.958,,,,35 mph,,,,,,,232364009,NY 38
+213451681,213451685,0,False,residential,George Jr Republic,85.123,,,,,,,,,,,20186273,
+213451681,213451672,0,False,residential,Mc Donald Circle,10.128,,,,,,,,,,,20190920,
+213451681,213519198,0,False,residential,Mc Donald Circle,1012.903,,,,,,,,,,,20190920,
+213451685,213451681,0,False,residential,George Jr Republic,85.123,,,,,,,,,,,20186273,
+213451685,213451675,0,False,secondary,George Road,10.738,,,,,,,,,,,20188103,NY 38
+213451685,213478475,0,False,secondary,Freeville Road,610.96,,,,35 mph,,,,,,,20193266,NY 38
+213452514,213452522,0,False,unclassified,Hile School Road,28.878,,,,,,,,,,,20186315,
+213452514,213449761,0,False,unclassified,Hile School Road,855.645,,,,,,,,,,,20186315,
+213452514,213452581,0,False,residential,Hile School Road,36.068,,,,,,,,,,,20186319,
+213452522,213452514,0,False,unclassified,Hile School Road,28.878,,,,,,,,,,,20186315,
+213452522,213452581,0,False,unclassified,Red Mill Road,41.799,,,,,,,,,,,117391188,
+213452522,213446526,0,False,"['unclassified', 'residential']",Red Mill Road,825.988,,,,,no,,yes,,,,"[117391188, 20186870, 117391196]",
+213452581,213452514,0,False,residential,Hile School Road,36.068,,,,,,,,,,,20186319,
+213452581,213454067,0,False,unclassified,Red Mill Road,534.476,,,,,,,,,,,117391188,
+213452581,213452522,0,False,unclassified,Red Mill Road,41.799,,,,,,,,,,,117391188,
+213454058,213454077,0,False,unclassified,West Malloryville Road,45.15,,,,,,,,,,,20186422,
+213454058,213454067,0,False,unclassified,West Malloryville Road,28.931,,,,,,,,,,,117391176,
+213454058,213446639,0,False,"['unclassified', 'residential']",West Malloryville Road,1272.315,,,,,,,yes,,,,"[117391176, 20186413, 117391181]",
+213454067,213454077,0,False,unclassified,West Malloryville Road,47.613,,,,,,,,,,,20186417,
+213454067,213454058,0,False,unclassified,West Malloryville Road,28.931,,,,,,,,,,,117391176,
+213454067,213452581,0,False,unclassified,Red Mill Road,534.476,,,,,,,,,,,117391188,
+213454077,213454067,0,False,unclassified,West Malloryville Road,47.613,,,,,,,,,,,20186417,
+213454077,213454158,0,False,unclassified,West Malloryville Road,505.956,,,,,,,,,,,20186422,
+213454077,213454058,0,False,unclassified,West Malloryville Road,45.15,,,,,,,,,,,20186422,
+213454158,213454164,0,False,unclassified,West Malloryville Road,936.18,,,,,,,,,,,20186422,
+213454158,213454077,0,False,unclassified,West Malloryville Road,505.956,,,,,,,,,,,20186422,
+213454164,213509436,0,False,tertiary,Peruville Road,41.701,,,,,,,,,,,49152338,CR 107
+213454164,213454158,0,False,unclassified,West Malloryville Road,936.18,,,,,,,,,,,20186422,
+213454225,213454228,0,False,tertiary,Neimi Road,414.911,,,,,,,,,,,20186431,CR 182
+213454225,213448198,0,False,tertiary,Neimi Road,1131.828,,,,,,,,,,,20186431,CR 182
+213454225,213543146,0,False,residential,Bailey Drive,354.12,,,,,,,,,,,20192645,
+213454228,213454225,0,False,tertiary,Neimi Road,414.911,,,,,,,,,,,20186431,CR 182
+213454228,213439470,0,False,tertiary,Sheldon Road,1650.596,,,,,,,,,,,20192127,CR 182
+213454228,213512705,0,False,tertiary,Sheldon Road,1975.944,,,,,,,,,,,20192127,CR 182
+213454347,213505253,0,False,residential,"['Sherbour Drive', 'Downey Lane']",139.606,,,,,,,,,,,"[20186440, 20189973]",
+213454347,213480674,0,False,secondary,Main Street,301.826,2,,,55 mph,,,yes,,,,"[117391193, 117391189, 117391182]",NY 366
+213456414,213456417,0,False,residential,Top Forty Road,168.274,,,,,,,,,,,20186597,
+213456417,213456414,0,False,residential,Top Forty Road,168.274,,,,,,,,,,,20186597,
+213456417,213535467,0,False,residential,Yellow Barn Road,143.598,,,,,,,,,,,20192047,
+213456417,213445597,0,False,residential,Yellow Barn Road,175.316,,,,,,,,,,,20192047,
+213458218,213458238,0,False,residential,Bone Plain Road,1678.929,,,,,,,,,,,20186734,
+213458218,213536792,0,False,tertiary,Sheldon Road,1765.082,,,,,,,,,,,20192127,CR 182
+213458218,213439470,0,False,tertiary,Sheldon Road,1545.198,,,,,,,,,,,20192127,CR 182
+213458238,213433744,0,False,residential,Bone Plain Road,1533.206,,,,,,,,,,,20186734,
+213458238,213458218,0,False,residential,Bone Plain Road,1678.929,,,,,,,,,,,20186734,
+213458238,213512868,0,False,residential,Wood Road,800.455,,,,,,,,,,,20190519,
+213458238,213548074,0,False,residential,North Wood Road,1749.721,,,,,,,,,,,20192965,
+213464797,213465942,0,False,tertiary,Etna Road,1395.131,,,,,,,,,,,20187225,CR 109
+213464797,213448181,0,False,tertiary,Etna Road,1784.669,,,,,,,,,,,20187225,CR 109
+213465942,213465963,0,False,tertiary,Etna Road,638.183,,,,,,,,,,,20187225,CR 109
+213465942,213464797,0,False,tertiary,Etna Road,1395.131,,,,,,,,,,,20187225,CR 109
+213465942,213467796,0,False,residential,Wood Road,262.809,,,,,,,,,,,20190514,
+213465963,213465942,0,False,tertiary,Etna Road,638.183,,,,,,,,,,,20187225,CR 109
+213465963,213433664,0,False,residential,Upper Creek Road,1111.288,,,,,,,,,,,20188184,
+213467206,213467224,0,False,residential,Cricket Lane,335.31,,,,,,,,,,,20187314,
+213467206,213479374,0,False,secondary,Groton Road,121.47,,,,55 mph,,,,,,,20188172,NY 38
+213467206,213439546,0,False,secondary,Groton Road,525.984,,,,55 mph,,,,,,,20188172,NY 38
+213467224,213467206,0,False,residential,Cricket Lane,335.31,,,,,,,,,,,20187314,
+213467232,213467235,0,False,residential,Thresher Place,149.221,,,,,,,,,,,20187315,
+213467232,213535474,0,False,residential,"['Corn Crib Road', 'Spring Run Road']",636.78,,,,,,,,,,,"[20192707, 20193262]",
+213467232,213535467,0,False,residential,"['Foothill Road', 'Spring Run Road']",559.715,,,,,,,,,,,"[20192707, 20193455]",
+213467235,213467232,0,False,residential,Thresher Place,149.221,,,,,,,,,,,20187315,
+213467778,213467786,0,False,residential,Country Manor Estates,87.117,,,,,,,,,,,20187365,
+213467778,213418773,0,False,residential,Country Manor Estates,243.657,,,,,,,,,,,"[20182336, 20187365]",
+213467778,213467796,0,False,residential,Country Manor Estates,124.478,,,,,,,,,,,20187366,
+213467786,213467778,0,False,residential,Country Manor Estates,87.117,,,,,,,,,,,20187365,
+213467796,213418773,0,False,residential,Wood Road,112.166,,,,,,,,,,,20190514,
+213467796,213467778,0,False,residential,Country Manor Estates,124.478,,,,,,,,,,,20187366,
+213467796,213465942,0,False,residential,Wood Road,262.809,,,,,,,,,,,20190514,
+213468109,213468125,0,False,residential,Cheryl Lane,282.397,,,,,,,,,,,20187387,
+213468109,213438444,0,False,secondary,Main Street,487.838,2,,,"['30 mph', '55 mph']",,,,,,,"[117391189, 139470118]",NY 366
+213468109,213480674,0,False,secondary,Main Street,104.92,,,,55 mph,,,,,,,117391189,NY 366
+213468125,213480683,0,False,residential,Kirby Drive,34.113,,,,,,,,,,,20188275,
+213468125,213468109,0,False,residential,Cheryl Lane,282.397,,,,,,,,,,,20187387,
+213468125,213480674,0,False,residential,Kirby Drive,198.318,,,,,,,,,,,20188275,
+213468976,213444852,0,False,residential,Bell Lane,72.652,,,,,,,,,,,20191575,
+213468976,213468985,0,False,residential,Blackberry Lane,90.499,,,,,,,,,,,20187453,
+213468976,213528836,0,False,residential,Bell Lane,126.182,,,,,,,,,,,20191575,
+213468985,213444871,0,False,residential,Country Lane,57.84,,,,,,,,,,,20191754,
+213468985,213446741,0,False,residential,Blackberry Lane,67.574,,,,,,,,,,,20187453,
+213468985,213468976,0,False,residential,Blackberry Lane,90.499,,,,,,,,,,,20187453,
+213469846,213469867,0,False,residential,Hart Drive,1121.619,,,,,,,,,,,20187525,
+213469846,213509454,0,False,residential,Stevens Road,1705.183,,,,,,,,,,,20190902,
+213469846,213518962,0,False,residential,Stevens Road,251.892,,,,,,,,,,,20190902,
+213469867,213469846,0,False,residential,Hart Drive,1121.619,,,,,,,,,,,20187525,
+213469867,213539054,0,False,residential,Davis Road,490.451,,,,,,,,,,,20193256,
+213469867,213509472,0,False,residential,Davis Road,1695.411,,,,,,,,,,,20193256,
+213471444,213471449,0,False,residential,Butler Lane,95.386,,,,,,,,,,,20187650,
+213471444,213540585,0,False,residential,Finn Circle,101.912,,,,,,,,,,,20192422,
+213471444,213519198,0,False,residential,Finn Circle,48.835,,,,,,,,,,,20192422,
+213471449,213471454,0,False,residential,Butler Lane,332.636,,,,,,,,,,,20187650,
+213471449,213471444,0,False,residential,Butler Lane,95.386,,,,,,,,,,,20187650,
+213471449,213519198,0,False,residential,Mc Donald Circle,80.858,,,,,,,,,,,20190920,
+213471454,213471449,0,False,residential,Butler Lane,332.636,,,,,,,,,,,20187650,
+213471454,213411582,0,False,residential,Hart Road,484.011,,,,,,,,,,,20192573,
+213471454,213542182,0,False,residential,Hart Road,861.621,,,,,,,,,,,20192573,
+213475166,213475192,0,False,residential,Midline Road,692.817,,,,,,,,,,,20187910,
+213475166,213535467,0,False,residential,Yellow Barn Road,4375.719,,,,,,,,,,,20192047,
+213475192,213475233,0,False,residential,Midline Road,920.512,,,,,,,,,,,20187910,
+213475192,213475166,0,False,residential,Midline Road,692.817,,,,,,,,,,,20187910,
+213475233,213475192,0,False,residential,Midline Road,920.512,,,,,,,,,,,20187910,
+213475233,213514349,0,False,residential,Ringwood Road,823.355,,,,55 mph,,,,,,,305605333,
+213478005,213548074,0,False,secondary,Peruville Road,263.849,,,,,,,,,,,20193211,NY 34B
+213478005,213536792,0,False,secondary,Peruville Road,1427.74,,,,,,,,,,,20193211,NY 34B
+213478475,213478478,0,False,unclassified,George Road,78.644,,,,,,,,,,,20188106,
+213478475,213504379,0,False,secondary,Railroad Street,125.168,,,,,,,,,,,20189897,NY 38
+213478475,213451685,0,False,secondary,Freeville Road,610.96,,,,35 mph,,,,,,,20193266,NY 38
+213478478,213478475,0,False,unclassified,George Road,78.644,,,,,,,,,,,20188106,
+213478478,213504379,0,False,unclassified,Railroad Street,84.147,,,,,,,,,,,20189899,
+213478478,213411606,0,False,unclassified,Herman Road,50.442,,,,,,,,,,,20192415,
+213479374,213467206,0,False,secondary,Groton Road,121.47,,,,55 mph,,,,,,,20188172,NY 38
+213479374,213439540,0,False,unclassified,Palmear Road,588.936,,,,,,,,,,,20190039,
+213479434,213548847,0,False,secondary,Peruville Road,785.324,,,,,,,,,,,20193211,NY 34B
+213479598,213433664,0,False,residential,Upper Creek Road,312.724,,,,,,,,,,,20188184,
+213479598,213499165,0,False,residential,Kingdom Road,347.587,,,,,,,,,,,20189549,
+213479958,213433673,0,False,residential,Deibler Drive,373.386,,,,,,,,,,,20188203,
+213480167,213446506,0,False,residential,Leisure Lane,98.488,,,,,,,,,,,20189661,
+213480167,213480195,0,False,residential,Meadow Drive,338.545,,,,,,,,,,,20188226,
+213480167,213480195,1,False,residential,Leisure Lane,382.125,,,,,,,,,,,20189661,
+213480195,213480167,0,False,residential,Meadow Drive,338.545,,,,,,,,,,,20188226,
+213480195,213480167,1,False,residential,Leisure Lane,382.125,,,,,,,,,,,20189661,
+213480195,213500545,0,False,residential,Leisure Lane,96.392,,,,,,,,,,,20189661,
+213480674,213468125,0,False,residential,Kirby Drive,198.318,,,,,,,,,,,20188275,
+213480674,213468109,0,False,secondary,Main Street,104.92,,,,55 mph,,,,,,,117391189,NY 366
+213480674,213454347,0,False,secondary,Main Street,301.826,2,,,55 mph,,,yes,,,,"[117391193, 117391189, 117391182]",NY 366
+213480683,213468125,0,False,residential,Kirby Drive,34.113,,,,,,,,,,,20188275,
+213482489,213444269,0,False,tertiary,Lafayette Road,1984.999,,,,,,,,,,,20188412,CR 180
+213482489,213512822,0,False,residential,Davis Road,616.312,,,,,,,,,,,253652980,
+213482489,213539054,0,False,residential,Davis Road,672.73,,,,,,,yes,,,,"[20193256, 253652979, 253652980]",
+213485030,213446361,0,False,residential,Heath Place,112.074,,,,,,,,,,,20188598,
+213488675,213433740,0,False,residential,Sundown Road,404.635,,,,,,,,,,,20188820,
+213488685,213411623,0,False,tertiary,Stevens Road,185.958,,,,,,,,,,,20190892,CR 104
+213488685,213527105,0,False,unclassified,Gulf Hill Road,1676.886,,,,,,,,,,,20191468,CR 106
+213488685,213411637,0,False,tertiary,Church Street,250.015,,,,,,,,,,,20191723,CR 180
+213488685,213446758,0,False,tertiary,School Street,355.487,,,,,,,yes,,,,"[117391187, 117391179, 20193979]",CR 105
+213488685,213411694,0,False,tertiary,McLean Cortland Road,2730.711,,,,"['30 mph', '55 mph']",,,,,,,"[388553945, 20188825]",CR 105
+213498700,213439546,0,False,secondary,Freeville Groton Road,734.249,,,,55 mph,,,,,,,"[232364008, 20189513]",NY 38
+213498700,213439546,1,False,residential,Brooklyn Road,1230.374,,,,,,,,,,,20191251,
+213498700,213446349,0,False,secondary,"['Freeville Groton Road', 'Railroad Street']",111.347,,,,30 mph,,,yes,,,,"[20189513, 117391186, 232364013]",NY 38
+213499165,213433683,0,False,residential,Kingdom Road,29.205,,,,,,,,,,,20189549,
+213499165,213479598,0,False,residential,Kingdom Road,347.587,,,,,,,,,,,20189549,
+213499165,213433686,0,False,residential,Kingdom Road,63.619,,,,,,,,,,,20189550,
+213499355,213411057,0,False,residential,Kirk Road,63.531,,,,,,,,,,,20190232,
+213499355,213508377,0,False,residential,Kirk Road,547.303,,,,,,,,,,,20190232,
+213499718,213506596,0,False,residential,"['Freeville Depot Road', 'Tanbark Circle']",364.603,,,,,,,,,,,"[20189592, 20190083]",
+213499718,213436292,0,False,residential,Johnson Street,212.74,,,,,,,,,,,48400827,
+213499718,213437015,0,False,"['unclassified', 'residential']","['Johnson Street', 'Johnson Road']",2582.28,,,,,,,yes,,,,"[20191299, 48400827, 20190476, 48400829]",
+213500545,213480195,0,False,residential,Leisure Lane,96.392,,,,,,,,,,,20189661,
+213504379,213478478,0,False,unclassified,Railroad Street,84.147,,,,,,,,,,,20189899,
+213504379,213478475,0,False,secondary,Railroad Street,125.168,,,,,,,,,,,20189897,NY 38
+213504379,213504402,0,False,secondary,Railroad Street,558.526,,,,30 mph,,,,,,,232364013,NY 38
+213504402,213446387,0,False,residential,Cook Street,458.316,,,,,,,,,,,20192978,
+213504402,213415255,0,False,secondary,Railroad Street,103.235,,,,30 mph,,,,,,,232364013,NY 38
+213504402,213504379,0,False,secondary,Railroad Street,558.526,,,,30 mph,,,,,,,232364013,NY 38
+213504408,213446349,0,False,secondary,Railroad Street,173.054,,,,30 mph,,,,,,,232364013,NY 38
+213504408,213415255,0,False,secondary,Railroad Street,82.905,,,,30 mph,,,,,,,232364013,NY 38
+213504408,213411473,0,False,residential,"['Union Street', 'Factory Street']",314.958,,,,,,,,,,,"[576933985, 20190209]",
+213504750,213504774,0,False,residential,Cedar Drive,201.368,,,,,,,,,,,20189929,
+213504750,213438444,0,False,residential,Johnson Street,103.94,,,,,,,,,,,48400827,
+213504750,213436292,0,False,residential,Johnson Street,114.203,,,,,,,,,,,48400827,
+213504774,213504750,0,False,residential,Cedar Drive,201.368,,,,,,,,,,,20189929,
+213505253,213454347,0,False,residential,"['Sherbour Drive', 'Downey Lane']",139.606,,,,,,,,,,,"[20186440, 20189973]",
+213506596,213499718,0,False,residential,"['Freeville Depot Road', 'Tanbark Circle']",364.603,,,,,,,,,,,"[20189592, 20190083]",
+213508219,213411473,0,False,residential,Union Street,132.239,,,,,,,,,,,20190209,
+213508219,213446349,0,False,secondary,Main Street,105.161,2,,,30 mph,,,,,,,139470118,NY 366
+213508219,213510405,0,False,secondary,Main Street,70.873,2,,,30 mph,,,,,,,139470118,NY 366
+213508377,213508379,0,False,residential,Kirk Road,73.584,,,,,,,,,,,20190232,
+213508377,213508379,1,False,residential,Conger Circle,369.479,,,,,,,,,,,20192566,
+213508377,213499355,0,False,residential,Kirk Road,547.303,,,,,,,,,,,20190232,
+213508379,213508377,0,False,residential,Kirk Road,73.584,,,,,,,,,,,20190232,
+213508379,213508377,1,False,residential,Conger Circle,369.479,,,,,,,,,,,20192566,
+213509436,213454164,0,False,tertiary,Peruville Road,41.701,,,,,,,,,,,49152338,CR 107
+213509436,213444416,0,False,tertiary,Salt Road,1081.974,,,,,,,,,,,20190300,CR 102
+213509436,213446758,0,False,tertiary,Peruville Road,2375.374,,,,,,,,,,,49152338,CR 107
+213509454,213509472,0,False,tertiary,Salt Road,1159.98,,,,,,,,,,,20190300,CR 102
+213509454,213444416,0,False,tertiary,Salt Road,542.673,,,,,,,,,,,20190300,CR 102
+213509454,213469846,0,False,residential,Stevens Road,1705.183,,,,,,,,,,,20190902,
+213509472,213509454,0,False,tertiary,Salt Road,1159.98,,,,,,,,,,,20190300,CR 102
+213509472,213469867,0,False,residential,Davis Road,1695.411,,,,,,,,,,,20193256,
+213510402,213510405,0,False,secondary,Main Street,196.404,2,,,30 mph,,,,,,,139470118,NY 366
+213510402,213556946,0,False,residential,Groton Avenue,227.718,,,,,,,,,,,20193637,
+213510402,213438444,0,False,secondary,Main Street,312.102,2,,,30 mph,,,,,,,139470118,NY 366
+213510405,213411482,0,False,residential,Yates Street,125.363,,,,,,,,,,,20191571,
+213510405,213508219,0,False,secondary,Main Street,70.873,2,,,30 mph,,,,,,,139470118,NY 366
+213510405,213510402,0,False,secondary,Main Street,196.404,2,,,30 mph,,,,,,,139470118,NY 366
+213512705,213439496,0,False,residential,Wood Road,2496.437,,,,,,,,,,,20190514,
+213512705,213418773,0,False,residential,Wood Road,450.139,,,,,,,,,,,20190514,
+213512705,213454228,0,False,tertiary,Sheldon Road,1975.944,,,,,,,,,,,20192127,CR 182
+213512804,213439496,0,False,residential,Wood Road,533.973,,,,,,,,,,,20190514,
+213512822,213482489,0,False,residential,Davis Road,616.312,,,,,,,,,,,253652980,
+213512868,213458238,0,False,residential,Wood Road,800.455,,,,,,,,,,,20190519,
+213514349,213436986,0,False,residential,Ringwood Road,2879.243,,,,55 mph,,,,,,,305605333,
+213514349,213475233,0,False,residential,Ringwood Road,823.355,,,,55 mph,,,,,,,305605333,
+213514748,213445603,0,False,residential,Chelsey Circle,193.641,,,,,,,,,,,20190599,
+213514748,213514748,0,False,residential,Chelsey Circle,107.932,,,,,,,,,,,20190600,
+213514748,213514748,1,False,residential,Chelsey Circle,107.932,,,,,,,,,,,20190600,
+213515157,213515195,0,False,primary,Cortland Road,1856.687,"['2', '3']",,,"['55 mph', '45 mph']",,,,,,,"[20190624, 280926426, 340109752, 340109753, 340109754]",NY 13
+213515157,213411503,0,False,tertiary,North Road,266.981,,,,,,,,,,,45393271,
+213515195,213515157,0,False,primary,Cortland Road,1856.687,"['2', '3']",,,"['45 mph', '55 mph']",,,,,,,"[20190624, 280926426, 340109752, 340109753, 340109754]",NY 13
+213515229,213547339,0,False,residential,Dutcher Road,1859.428,,,,,,,,,,,20192918,
+213518962,213469846,0,False,residential,Stevens Road,251.892,,,,,,,,,,,20190902,
+213518962,213539054,0,False,tertiary,Champlin Road,1106.81,,,,,,,,,,,20192293,CR 103
+213518962,213444287,0,False,tertiary,Stevens Road,945.7,,,,,,,yes,,,,"[253653001, 253653002, 20190892]",CR 104
+213519198,213451681,0,False,residential,Mc Donald Circle,1012.903,,,,,,,,,,,20190920,
+213519198,213471449,0,False,residential,Mc Donald Circle,80.858,,,,,,,,,,,20190920,
+213519198,213471444,0,False,residential,Finn Circle,48.835,,,,,,,,,,,20192422,
+213525992,213526012,0,False,residential,Old George Road,358.844,,,,,,,,,,,20191390,
+213525992,213451675,0,False,secondary,Freeville Road,401.958,,,,35 mph,,,,,,,232364009,NY 38
+213525992,213528223,0,False,secondary,Freeville Road,316.68,,,,"['35 mph', '55 mph']",,,,,,,"[232364009, 529288867]",NY 38
+213526012,213525992,0,False,residential,Old George Road,358.844,,,,,,,,,,,20191390,
+213526938,213527105,0,False,unclassified,Gulf Hill Road,501.353,,,,,,,,,,,20191468,CR 106
+213526938,213554540,0,False,unclassified,East Malloryville Road,1576.596,,,,,,,,,,,20193463,
+213527105,213526938,0,False,unclassified,Gulf Hill Road,501.353,,,,,,,,,,,20191468,CR 106
+213527105,213488685,0,False,unclassified,Gulf Hill Road,1676.886,,,,,,,,,,,20191468,CR 106
+213528223,213542182,0,False,secondary,Freeville Road,542.11,,,,,,,,,,,340109770,NY 38
+213528223,213525992,0,False,secondary,Freeville Road,316.68,,,,"['35 mph', '55 mph']",,,,,,,"[232364009, 529288867]",NY 38
+213528745,213411482,0,False,residential,Yates Street,62.92,,,,,,,,,,,20191571,
+213528836,213468976,0,False,residential,Bell Lane,126.182,,,,,,,,,,,20191575,
+213528930,213411516,0,False,residential,Palmer Drive,52.5,,,,,,,,,,,20192749,
+213528930,213411531,0,False,residential,Cinderella Lane,146.874,,,,,,,,,,,"[20191589, 20191590]",
+213528930,213544589,0,False,residential,Palmer Drive,183.226,,,,,,,,,,,20192749,
+213532909,213448207,0,False,residential,Beacon View Circle,29.987,,,,,,,,,,,20191883,
+213532909,213532909,0,False,residential,Beacon View Circle,431.091,,,,,,,,,,,20191882,
+213532909,213532909,1,False,residential,Beacon View Circle,431.091,,,,,,,,,,,20191882,
+213535467,213456417,0,False,residential,Yellow Barn Road,143.598,,,,,,,,,,,20192047,
+213535467,213475166,0,False,residential,Yellow Barn Road,4375.719,,,,,,,,,,,20192047,
+213535467,213467232,0,False,residential,"['Foothill Road', 'Spring Run Road']",559.715,,,,,,,,,,,"[20192707, 20193455]",
+213535474,213535490,0,False,residential,Yellow Barn Road,42.603,,,,,,,,,,,20192047,
+213535474,213445597,0,False,residential,Yellow Barn Road,399.054,,,,,,,,,,,20192047,
+213535474,213467232,0,False,residential,"['Corn Crib Road', 'Spring Run Road']",636.78,,,,,,,,,,,"[20192707, 20193262]",
+213535490,213437015,0,False,residential,Yellow Barn Road,155.722,,,,,,,,,,,20192047,
+213535490,213535474,0,False,residential,Yellow Barn Road,42.603,,,,,,,,,,,20192047,
+213535490,213548700,0,False,residential,Bear Circle,190.23,,,,,,,,,,,20193014,
+213536792,213458218,0,False,tertiary,Sheldon Road,1765.082,,,,,,,,,,,20192127,CR 182
+213536792,213478005,0,False,secondary,Peruville Road,1427.74,,,,,,,,,,,20193211,NY 34B
+213539054,213518962,0,False,tertiary,Champlin Road,1106.81,,,,,,,,,,,20192293,CR 103
+213539054,213482489,0,False,residential,Davis Road,672.73,,,,,,,yes,,,,"[20193256, 253652979, 253652980]",
+213539054,213469867,0,False,residential,Davis Road,490.451,,,,,,,,,,,20193256,
+213540585,213540648,0,False,residential,Finn Circle,305.309,,,,,,,,,,,20192421,
+213540585,213540648,1,False,residential,Finn Circle,120.641,,,,,,,,,,,20192421,
+213540585,213471444,0,False,residential,Finn Circle,101.912,,,,,,,,,,,20192422,
+213540648,213540585,0,False,residential,Finn Circle,120.641,,,,,,,,,,,20192421,
+213540648,213540585,1,False,residential,Finn Circle,305.309,,,,,,,,,,,20192421,
+213540648,213451672,0,False,residential,"['Mc Donald Circle', 'Mc Donald Cir']",691.176,,,,,,,,,,,"[20190920, 70703301]",
+213542182,213471454,0,False,residential,Hart Road,861.621,,,,,,,,,,,20192573,
+213542182,213528223,0,False,secondary,Freeville Road,542.11,,,,,,,,,,,340109770,NY 38
+213543146,213454225,0,False,residential,Bailey Drive,354.12,,,,,,,,,,,20192645,
+213544589,213528930,0,False,residential,Palmer Drive,183.226,,,,,,,,,,,20192749,
+213545873,213545905,0,False,residential,Annee Lane,516.905,,,,,,,,,,,20192813,
+213545873,213547339,0,False,tertiary,North Road,1374.684,,,,,,,,,,,45393271,
+213545873,213411503,0,False,tertiary,North Road,1218.766,,,,,,,,,,,45393271,
+213545905,213545873,0,False,residential,Annee Lane,516.905,,,,,,,,,,,20192813,
+213547339,213515229,0,False,residential,Dutcher Road,1859.428,,,,,,,,,,,20192918,
+213547339,213554540,0,False,tertiary,North Road,661.03,,,,,,,,,,,45393271,
+213547339,213545873,0,False,tertiary,North Road,1374.684,,,,,,,,,,,45393271,
+213548074,213478005,0,False,secondary,Peruville Road,263.849,,,,,,,,,,,20193211,NY 34B
+213548074,213458238,0,False,residential,North Wood Road,1749.721,,,,,,,,,,,20192965,
+213548074,213551188,0,False,secondary,Peruville Road,462.48,,,,,,,,,,,20193211,NY 34B
+213548700,213535490,0,False,residential,Bear Circle,190.23,,,,,,,,,,,20193014,
+213548700,213548700,0,False,residential,Bear Circle,110.752,,,,,,,,,,,20193017,
+213548700,213548700,1,False,residential,Bear Circle,110.752,,,,,,,,,,,20193017,
+213548847,213479434,0,False,secondary,Peruville Road,785.324,,,,,,,,,,,20193211,NY 34B
+213548847,213433765,0,False,secondary,Peruville Road,463.522,,,,,,,,,,,20193211,NY 34B
+213551188,213433765,0,False,secondary,Peruville Road,1081.881,,,,,,,,,,,20193211,NY 34B
+213551188,213548074,0,False,secondary,Peruville Road,462.48,,,,,,,,,,,20193211,NY 34B
+213554540,213526938,0,False,unclassified,East Malloryville Road,1576.596,,,,,,,,,,,20193463,
+213554540,213446688,0,False,tertiary,North Road,455.974,,,,,,,,,,,45393271,
+213554540,213547339,0,False,tertiary,North Road,661.03,,,,,,,,,,,45393271,
+213554540,213446642,0,False,residential,East Malloryville Road,528.44,,,,,,,,,,,421825523,
+213556946,213510402,0,False,residential,Groton Avenue,227.718,,,,,,,,,,,20193637,

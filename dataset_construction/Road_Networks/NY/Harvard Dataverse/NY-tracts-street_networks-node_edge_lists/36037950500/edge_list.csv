@@ -1,0 +1,224 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+221617210,221618166,0,False,primary,Oak Street,18.906,2,,,30 mph,,,,,,,48680027,NY 98
+221617210,221674902,0,False,primary,Oak Street,439.127,2,,,30 mph,,,,,,,48680027,NY 98
+221618151,221652189,0,False,primary,West Main Street,68.781,,,,,,,,,,,48680032,NY 5;NY 63
+221618151,221667818,0,False,primary,West Main Street,73.411,,,,,,,,,,,48680032,NY 5;NY 63
+221618151,221618161,0,False,residential,North Lyon Street,415.22,,,,,,,,,,,20642911,
+221618151,221699940,0,False,residential,South Lyon Street,258.992,,,,,,,yes,,,,"[197101354, 197101355, 20650837]",
+221618161,221618163,0,False,residential,North Lyon Street,149.17,,,,,,,,,,,20642911,
+221618161,221618151,0,False,residential,North Lyon Street,415.22,,,,,,,,,,,20642911,
+221618161,221663833,0,False,residential,La Crosse Avenue,78.366,,,,,,,,,,,20651526,
+221618163,221618166,0,False,residential,North Lyon Street,62.512,,,,,,,,,,,20642911,
+221618163,221618161,0,False,residential,North Lyon Street,149.17,,,,,,,,,,,20642911,
+221618163,221678484,0,False,residential,Richmond Avenue,161.593,,,,,,,,,,,20648399,
+221618163,221674892,0,False,residential,Richmond Avenue,39.425,,,,,,,,,,,20648399,
+221618166,221618163,0,False,residential,North Lyon Street,62.512,,,,,,,,,,,20642911,
+221618166,221617210,0,False,primary,Oak Street,18.906,2,,,30 mph,,,,,,,48680027,NY 98
+221618166,221674892,0,False,primary,Oak Street,67.178,2,,,30 mph,,,,,,,48680027,NY 98
+221625396,221656504,0,False,residential,South Main Street,133.082,,,,,,,,,,,113341046,
+221625396,221699954,0,False,residential,South Main Street,64.132,,,,,,,,,,,113341046,
+221625396,221625410,0,False,residential,,172.115,,,,,,,,,,,20643594,
+221625410,221625396,0,False,residential,,172.115,,,,,,,,,,,20643594,
+221629047,221632037,0,False,primary,West Main Street,26.417,,,,,,,,,,,48680032,NY 5;NY 63
+221629047,221667814,0,False,primary,West Main Street,112.321,,,,,,,,,,,48680032,NY 5;NY 63
+221632037,221667818,0,False,primary,West Main Street,3.16,,,,,,,,,,,48680032,NY 5;NY 63
+221632037,221629047,0,False,primary,West Main Street,26.417,,,,,,,,,,,48680032,NY 5;NY 63
+221634222,221674907,0,False,primary,Oak Street,129.917,2,,,30 mph,,,,,,,48680027,NY 98
+221634222,221636351,0,False,primary,Oak Street,50.609,2,,,,,,,,,,322577368,NY 98
+221636351,221646548,0,False,secondary,Oak Street,57.378,2,,,,,,,,,,121963452,NY 98
+221636351,221668874,0,False,secondary,Park Road,486.299,,,,,,,,,,,139811572,
+221636351,221634222,0,False,primary,Oak Street,50.609,2,,,,,,,,,,322577368,NY 98
+221637792,221641141,0,False,secondary,Lewiston Road,54.962,,,,,,,,,,,20652711,NY 63
+221637792,221641123,0,False,primary,West Main Street,80.963,,,,,,,,,,,68167189,NY 5;NY 63
+221637792,221695334,0,False,primary,West Main Street Road,160.786,,,,45 mph,,,,,,,295310121,NY 5
+221639477,221694582,0,False,secondary,Pearl Street,280.03,,,,30 mph,,,,,,,20650073,NY 33
+221639477,221694575,0,False,secondary,Pearl Street,131.065,,,,30 mph,,,,,,,20650073,NY 33
+221641123,221641141,0,True,secondary_link,,109.68,,,,,,,,,,,20644852,NY 63
+221641123,221667854,0,False,primary,West Main Street,111.687,,,,,,,,,,,48680032,NY 5;NY 63
+221641123,221637792,0,False,primary,West Main Street,80.963,,,,,,,,,,,68167189,NY 5;NY 63
+221641141,221637792,0,False,secondary,Lewiston Road,54.962,,,,,,,,,,,20652711,NY 63
+221641141,221669800,0,False,secondary,Lewiston Road,221.344,,,,,,,,,,,68167192,NY 63
+221643462,221643486,0,False,residential,Dewey Avenue,37.78,,,,,,,,,,,20651611,
+221643462,221643486,1,False,residential,,75.43,,,,,,,,,,,20645072,
+221643462,221645119,0,False,residential,Dewey Avenue,69.831,,,,,,,,,,,20651611,
+221643486,221643462,0,False,residential,Dewey Avenue,37.78,,,,,,,,,,,20651611,
+221643486,221643462,1,False,residential,,75.43,,,,,,,,,,,20645072,
+221643486,221694585,0,False,residential,Dewey Avenue,96.987,,,,,,,,,,,20651611,
+221645092,221666115,0,False,residential,Birchwood Drive,24.54,,,,,,,,,,,20647191,
+221645092,221666127,0,False,residential,,128.683,,,,,,,,,,,20645192,
+221645092,221666127,1,False,residential,Birchwood Drive,23.654,,,,,,,,,,,20647191,
+221645108,221645119,0,False,residential,Dewey Avenue,38.637,,,,,,,,,,,20651611,
+221645108,221645119,1,False,residential,,73.994,,,,,,,,,,,20645195,
+221645108,221666155,0,False,residential,Dewey Avenue,62.955,,,,,,,,,,,20651611,
+221645119,221645108,0,False,residential,Dewey Avenue,38.637,,,,,,,,,,,20651611,
+221645119,221645108,1,False,residential,,73.994,,,,,,,,,,,20645195,
+221645119,221643462,0,False,residential,Dewey Avenue,69.831,,,,,,,,,,,20651611,
+221646548,221636351,0,False,secondary,Oak Street,57.378,2,,,,,,,,,,121963452,NY 98
+221652189,221667822,0,False,primary,West Main Street,90.35,,,,,,,,,,,48680032,NY 5;NY 63
+221652189,221618151,0,False,primary,West Main Street,68.781,,,,,,,,,,,48680032,NY 5;NY 63
+221652189,221652204,0,False,residential,,96.201,,,,,,,,,,,20645742,
+221652204,221652189,0,False,residential,,96.201,,,,,,,,,,,20645742,
+221656497,221656504,0,False,residential,,110.102,,,,,,,,,,,20646173,
+221656504,221699956,0,False,residential,South Main Street,86.833,,,,,,,,,,,113341046,
+221656504,221625396,0,False,residential,South Main Street,133.082,,,,,,,,,,,113341046,
+221656504,221656497,0,False,residential,,110.102,,,,,,,,,,,20646173,
+221662679,221694585,0,False,secondary,Pearl Street,94.291,,,,30 mph,,,,,,,20650073,NY 33
+221662679,221662688,0,False,residential,Roosevelt Avenue,367.738,,,,,,,,,,,20646880,
+221662688,221662693,0,False,residential,Roosevelt Avenue,180.131,,,,,,,,,,,20646880,
+221662688,221662679,0,False,residential,Roosevelt Avenue,367.738,,,,,,,,,,,20646880,
+221662693,221699954,0,False,residential,South Main Street,94.505,,,,,,,,,,,113341046,
+221662693,221697568,0,False,residential,South Main Street,115.714,,,,,,,,,,,113341046,
+221662693,221662688,0,False,residential,Roosevelt Avenue,180.131,,,,,,,,,,,20646880,
+221663749,221667839,0,False,primary,West Main Street,121.831,,,,,,,,,,,48680032,NY 5;NY 63
+221663749,221663770,0,False,residential,Bogue Avenue,577.755,,,,,,,,,,,20646988,
+221663749,221667848,0,False,primary,West Main Street,50.05,,,,,,,,,,,48680032,NY 5;NY 63
+221663770,221663749,0,False,residential,Bogue Avenue,577.755,,,,,,,,,,,20646988,
+221663770,221678504,0,False,residential,Richmond Avenue,115.866,,,,,,,,,,,20648399,
+221663770,221678489,0,False,residential,Richmond Avenue,122.08,,,,,,,,,,,20648399,
+221663833,221674886,0,False,residential,La Crosse Avenue,47.258,,,,,,,,,,,20651526,
+221663833,221682318,0,False,residential,Montclair Avenue,160.384,,,,,,,,,,,20650910,
+221663833,221618161,0,False,residential,La Crosse Avenue,78.366,,,,,,,,,,,20651526,
+221665987,221665990,0,False,residential,West Avenue,146.781,,,,,,,,,,,20647169,
+221665987,221675327,0,False,residential,Union Street,94.834,,,,,,,,,,,20650764,
+221665987,221667833,0,False,residential,Union Street,254.485,,,,,,,,,,,20650764,
+221665990,221665991,0,False,residential,West Avenue,58.238,,,,,,,,,,,20647169,
+221665990,221665987,0,False,residential,West Avenue,146.781,,,,,,,,,,,20647169,
+221665990,221675322,0,False,residential,Woodrow Road,96.342,,,,,,,,,,,20649217,
+221665990,221667839,0,False,residential,Woodrow Road,253.242,,,,,,,,,,,20649217,
+221665991,221665990,0,False,residential,West Avenue,58.238,,,,,,,,,,,20647169,
+221666113,221666115,0,False,residential,Birchwood Drive,110.797,,,,,,,,,,,20647191,
+221666113,221699956,0,False,residential,River Street,404.869,,,,,,,,,,,20652759,
+221666113,221694575,0,False,residential,River Street,424.565,,,,,,,,,,,20652759,
+221666115,221645092,0,False,residential,Birchwood Drive,24.54,,,,,,,,,,,20647191,
+221666115,221666113,0,False,residential,Birchwood Drive,110.797,,,,,,,,,,,20647191,
+221666115,221721340,0,False,residential,Spencer Court,150.301,,,,,,,,,,,20652584,
+221666127,221645092,0,False,residential,,128.683,,,,,,,,,,,20645192,
+221666127,221645092,1,False,residential,Birchwood Drive,23.654,,,,,,,,,,,20647191,
+221666127,221666155,0,False,residential,Birchwood Drive,263.555,,,,,,,,,,,20647191,
+221666155,221699954,0,False,residential,Dewey Avenue,295.775,,,,,,,,,,,20651611,
+221666155,221666127,0,False,residential,Birchwood Drive,263.555,,,,,,,,,,,20647191,
+221666155,221645108,0,False,residential,Dewey Avenue,62.955,,,,,,,,,,,20651611,
+221667814,221629047,0,False,primary,West Main Street,112.321,,,,,,,,,,,48680032,NY 5;NY 63
+221667814,221722710,0,False,residential,Holland Avenue,103.021,,,,,,,,,,,20652729,
+221667818,221618151,0,False,primary,West Main Street,73.411,,,,,,,,,,,48680032,NY 5;NY 63
+221667818,221632037,0,False,primary,West Main Street,3.16,,,,,,,,,,,48680032,NY 5;NY 63
+221667818,221702439,0,False,residential,Montclair Avenue,177.863,,,,,,,,,,,20650910,
+221667822,221667826,0,False,primary,West Main Street,85.204,,,,,,,,,,,48680032,NY 5;NY 63
+221667822,221652189,0,False,primary,West Main Street,90.35,,,,,,,,,,,48680032,NY 5;NY 63
+221667822,221678484,0,False,residential,Vernon Avenue,558.532,,,,,,,,,,,20648872,
+221667826,221667833,0,False,primary,West Main Street,72.044,,,,,,,,,,,48680032,NY 5;NY 63
+221667826,221667822,0,False,primary,West Main Street,85.204,,,,,,,,,,,48680032,NY 5;NY 63
+221667826,221685389,0,False,residential,"['Kingsbury Avenue', 'Dennis Drive']",464.606,,,,,,,,,,,"[20649130, 20649735]",
+221667833,221667826,0,False,primary,West Main Street,72.044,,,,,,,,,,,48680032,NY 5;NY 63
+221667833,221665987,0,False,residential,Union Street,254.485,,,,,,,,,,,20650764,
+221667833,221667839,0,False,primary,West Main Street,144.722,,,,,,,,,,,48680032,NY 5;NY 63
+221667839,221663749,0,False,primary,West Main Street,121.831,,,,,,,,,,,48680032,NY 5;NY 63
+221667839,221665990,0,False,residential,Woodrow Road,253.242,,,,,,,,,,,20649217,
+221667839,221667833,0,False,primary,West Main Street,144.722,,,,,,,,,,,48680032,NY 5;NY 63
+221667848,221667854,0,False,primary,West Main Street,57.046,,,,,,,,,,,48680032,NY 5;NY 63
+221667848,221663749,0,False,primary,West Main Street,50.05,,,,,,,,,,,48680032,NY 5;NY 63
+221667848,221699956,0,False,residential,River Street,410.704,,,,,,,yes,,,,"[20652759, 197101350, 197101351]",
+221667854,221667848,0,False,primary,West Main Street,57.046,,,,,,,,,,,48680032,NY 5;NY 63
+221667854,221678504,0,False,residential,Redfield Parkway,620.461,,,,,,,,,,,20651021,
+221667854,221641123,0,False,primary,West Main Street,111.687,,,,,,,,,,,48680032,NY 5;NY 63
+221668874,221636351,0,False,secondary,Park Road,486.299,,,,,,,,,,,139811572,
+221668874,221669851,0,False,tertiary,Park Road,691.369,,,,,,,,,,,224284936,
+221669463,221669466,0,False,residential,Meadowcrest Drive,98.033,,,,,,,,,,,20647513,
+221669463,221699956,0,False,residential,South Main Street,127.461,,,,,,,,,,,113341046,
+221669466,221669469,0,False,residential,Meadowcrest Drive,66.137,,,,,,,,,,,20647513,
+221669466,221669463,0,False,residential,Meadowcrest Drive,98.033,,,,,,,,,,,20647513,
+221669466,221685770,0,False,residential,Edgewood Drive,126.017,,,,,,,,,,,20649161,
+221669469,221669473,0,False,residential,Meadowcrest Drive,194.485,,,,,,,,,,,20647513,
+221669469,221669466,0,False,residential,Meadowcrest Drive,66.137,,,,,,,,,,,20647513,
+221669473,221669469,0,False,residential,Meadowcrest Drive,194.485,,,,,,,,,,,20647513,
+221669800,221641141,0,False,secondary,Lewiston Road,221.344,,,,,,,,,,,68167192,NY 63
+221669851,221668874,0,False,tertiary,Park Road,691.369,,,,,,,,,,,224284936,
+221669851,221677101,0,False,residential,Richmond Avenue,260.939,,,,,,,,,,,566783941,
+221673076,221674883,0,False,primary,Oak Street,63.163,2,,,30 mph,,,,,,,48680027,NY 98
+221673076,221674880,0,False,primary,Oak Street,129.103,2,,,30 mph,,,,,,,48680027,NY 98
+221674880,221673076,0,False,primary,Oak Street,129.103,2,,,30 mph,,,,,,,48680027,NY 98
+221674880,221722710,0,False,residential,Raymond Avenue,116.977,,,,,,,,,,,20653335,
+221674883,221682314,0,False,residential,Allen Street,16.335,,,,,,,,,,,20648788,
+221674883,221674886,0,False,primary,Oak Street,213.277,2,,,30 mph,,,,,,,48680027,NY 98
+221674883,221673076,0,False,primary,Oak Street,63.163,2,,,30 mph,,,,,,,48680027,NY 98
+221674886,221663833,0,False,residential,La Crosse Avenue,47.258,,,,,,,,,,,20651526,
+221674886,221674883,0,False,primary,Oak Street,213.277,2,,,30 mph,,,,,,,48680027,NY 98
+221674892,221618166,0,False,primary,Oak Street,67.178,2,,,30 mph,,,,,,,48680027,NY 98
+221674892,221618163,0,False,residential,Richmond Avenue,39.425,,,,,,,,,,,20648399,
+221674902,221674904,0,False,primary,Oak Street,87.623,2,,,30 mph,,,,,,,48680027,NY 98
+221674902,221617210,0,False,primary,Oak Street,439.127,2,,,30 mph,,,,,,,48680027,NY 98
+221674904,221674907,0,False,primary,Oak Street,319.919,2,,,30 mph,,,,,,,48680027,NY 98
+221674904,221674902,0,False,primary,Oak Street,87.623,2,,,30 mph,,,,,,,48680027,NY 98
+221674904,221700651,0,False,residential,Union Street,311.547,,,,,,,,,,,20650764,
+221674907,221674904,0,False,primary,Oak Street,319.919,2,,,30 mph,,,,,,,48680027,NY 98
+221674907,221634222,0,False,primary,Oak Street,129.917,2,,,30 mph,,,,,,,48680027,NY 98
+221675322,221675327,0,False,residential,Soccio Street,147.521,,,,,,,,,,,20648065,
+221675322,221665990,0,False,residential,Woodrow Road,96.342,,,,,,,,,,,20649217,
+221675322,221678489,0,False,residential,Woodrow Road,203.495,,,,,,,,,,,20649217,
+221675327,221675322,0,False,residential,Soccio Street,147.521,,,,,,,,,,,20648065,
+221675327,221685389,0,False,residential,Union Street,47.322,,,,,,,,,,,20650764,
+221675327,221665987,0,False,residential,Union Street,94.834,,,,,,,,,,,20650764,
+221677071,221677101,0,False,residential,Batavia Downs Race Trak,431.102,,,,,,,,,,,20648255,
+221677101,221678504,0,False,residential,Richmond Avenue,79.567,,,,,,,,,,,566783941,
+221677101,221677071,0,False,residential,Batavia Downs Race Trak,431.102,,,,,,,,,,,20648255,
+221677101,221669851,0,False,residential,Richmond Avenue,260.939,,,,,,,,,,,566783941,
+221678484,221678486,0,False,residential,Richmond Avenue,155.412,,,,,,,,,,,20648399,
+221678484,221618163,0,False,residential,Richmond Avenue,161.593,,,,,,,,,,,20648399,
+221678484,221667822,0,False,residential,Vernon Avenue,558.532,,,,,,,,,,,20648872,
+221678486,221678484,0,False,residential,Richmond Avenue,155.412,,,,,,,,,,,20648399,
+221678486,221678489,0,False,residential,Richmond Avenue,147.18,,,,,,,,,,,20648399,
+221678486,221700651,0,False,residential,Union Street,237.546,,,,,,,,,,,20650764,
+221678486,221685389,0,False,residential,Union Street,156.872,,,,,,,,,,,20650764,
+221678489,221663770,0,False,residential,Richmond Avenue,122.08,,,,,,,,,,,20648399,
+221678489,221678486,0,False,residential,Richmond Avenue,147.18,,,,,,,,,,,20648399,
+221678489,221675322,0,False,residential,Woodrow Road,203.495,,,,,,,,,,,20649217,
+221678504,221677101,0,False,residential,Richmond Avenue,79.567,,,,,,,,,,,566783941,
+221678504,221663770,0,False,residential,Richmond Avenue,115.866,,,,,,,,,,,20648399,
+221678504,221667854,0,False,residential,Redfield Parkway,620.461,,,,,,,,,,,20651021,
+221682314,221682318,0,False,residential,Allen Street,137.911,,,,,,,,,,,20648788,
+221682314,221674883,0,False,residential,Allen Street,16.335,,,,,,,,,,,20648788,
+221682314,221721204,0,False,residential,Holland Avenue,83.557,,,,,,,,,,,20652729,
+221682318,221682314,0,False,residential,Allen Street,137.911,,,,,,,,,,,20648788,
+221682318,221702439,0,False,residential,Montclair Avenue,84.747,,,,,,,,,,,20650910,
+221682318,221663833,0,False,residential,Montclair Avenue,160.384,,,,,,,,,,,20650910,
+221685389,221675327,0,False,residential,Union Street,47.322,,,,,,,,,,,20650764,
+221685389,221667826,0,False,residential,"['Kingsbury Avenue', 'Dennis Drive']",464.606,,,,,,,,,,,"[20649130, 20649735]",
+221685389,221678486,0,False,residential,Union Street,156.872,,,,,,,,,,,20650764,
+221685770,221669466,0,False,residential,Edgewood Drive,126.017,,,,,,,,,,,20649161,
+221694575,221639477,0,False,secondary,Pearl Street,131.065,,,,30 mph,,,,,,,20650073,NY 33
+221694575,221666113,0,False,residential,River Street,424.565,,,,,,,,,,,20652759,
+221694582,221694585,0,False,secondary,Pearl Street,20.017,,,,30 mph,,,,,,,20650073,NY 33
+221694582,221639477,0,False,secondary,Pearl Street,280.03,,,,30 mph,,,,,,,20650073,NY 33
+221694585,221662679,0,False,secondary,Pearl Street,94.291,,,,30 mph,,,,,,,20650073,NY 33
+221694585,221694582,0,False,secondary,Pearl Street,20.017,,,,30 mph,,,,,,,20650073,NY 33
+221694585,221643486,0,False,residential,Dewey Avenue,96.987,,,,,,,,,,,20651611,
+221695334,221637792,0,False,primary,West Main Street Road,160.786,,,,45 mph,,,,,,,295310121,NY 5
+221697568,221662693,0,False,residential,South Main Street,115.714,,,,,,,,,,,113341046,
+221697568,221699948,0,False,residential,South Main Street,111.12,,,,,,,,,,,113341046,
+221699940,221618151,0,False,residential,South Lyon Street,258.992,,,,,,,yes,,,,"[197101354, 197101355, 20650837]",
+221699940,221699948,0,False,residential,South Main Street,40.425,,,,,,,,,,,113341046,
+221699948,221697568,0,False,residential,South Main Street,111.12,,,,,,,,,,,113341046,
+221699948,221699940,0,False,residential,South Main Street,40.425,,,,,,,,,,,113341046,
+221699954,221666155,0,False,residential,Dewey Avenue,295.775,,,,,,,,,,,20651611,
+221699954,221625396,0,False,residential,South Main Street,64.132,,,,,,,,,,,113341046,
+221699954,221662693,0,False,residential,South Main Street,94.505,,,,,,,,,,,113341046,
+221699956,221669463,0,False,residential,South Main Street,127.461,,,,,,,,,,,113341046,
+221699956,221656504,0,False,residential,South Main Street,86.833,,,,,,,,,,,113341046,
+221699956,221667848,0,False,residential,River Street,410.704,,,,,,,yes,,,,"[197101351, 197101350, 20652759]",
+221699956,221666113,0,False,residential,River Street,404.869,,,,,,,,,,,20652759,
+221700621,221700651,0,False,residential,Union Square,152.025,,,,,,,,,,,20650732,
+221700651,221700621,0,False,residential,Union Square,152.025,,,,,,,,,,,20650732,
+221700651,221674904,0,False,residential,Union Street,311.547,,,,,,,,,,,20650764,
+221700651,221678486,0,False,residential,Union Street,237.546,,,,,,,,,,,20650764,
+221702439,221682318,0,False,residential,Montclair Avenue,84.747,,,,,,,,,,,20650910,
+221702439,221721204,0,False,residential,Olin Avenue,138.987,,,,,,,,,,,20652571,
+221702439,221667818,0,False,residential,Montclair Avenue,177.863,,,,,,,,,,,20650910,
+221721204,221702439,0,False,residential,Olin Avenue,138.987,,,,,,,,,,,20652571,
+221721204,221682314,0,False,residential,Holland Avenue,83.557,,,,,,,,,,,20652729,
+221721204,221722710,0,False,residential,Holland Avenue,76.61,,,,,,,,,,,20652729,
+221721340,221721340,0,False,residential,Spencer Court,87.802,,,,,,,,,,,20652582,
+221721340,221721340,1,False,residential,Spencer Court,87.802,,,,,,,,,,,20652582,
+221721340,221666115,0,False,residential,Spencer Court,150.301,,,,,,,,,,,20652584,
+221722710,221721204,0,False,residential,Holland Avenue,76.61,,,,,,,,,,,20652729,
+221722710,221667814,0,False,residential,Holland Avenue,103.021,,,,,,,,,,,20652729,
+221722710,221674880,0,False,residential,Raymond Avenue,116.977,,,,,,,,,,,20653335,

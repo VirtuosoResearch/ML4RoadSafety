@@ -1,0 +1,784 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+41680208,41680246,0,False,residential,Old Troy Road,681.027,,,,30 mph,,,yes,,,,"[5609619, 215117486, 215117487]",
+41680208,41915843,0,False,residential,Brossel Road,249.506,,,,,,,,,,,5638138,
+41680246,41812758,0,False,residential,Pittsfield Avenue,83.58,,,,30 mph,,,,,,,5637102,
+41680246,41680256,0,False,residential,Old Troy Road,189.604,,,,30 mph,,,,,,,161118778,
+41680246,41680208,0,False,residential,Old Troy Road,681.027,,,,30 mph,,,yes,,,,"[5609619, 215117486, 215117487]",
+41680256,41680272,0,False,residential,Columbia Drive,443.599,,,,30 mph,,,,,,,5625648,
+41680256,41680272,1,False,residential,Old Troy Road,279.699,,,,30 mph,,,,,,,161118778,
+41680256,41680246,0,False,residential,Old Troy Road,189.604,,,,30 mph,,,,,,,161118778,
+41680272,41777582,0,False,residential,Columbia Drive,16.837,,,,30 mph,,,,,,,5625648,
+41680272,41680256,0,False,residential,Columbia Drive,443.599,,,,30 mph,,,,,,,5625648,
+41680272,41680256,1,False,residential,Old Troy Road,279.699,,,,30 mph,,,,,,,161118778,
+41680272,41680278,0,False,residential,Old Troy Road,116.918,,,,30 mph,,,,,,,161118778,
+41680278,41733885,0,False,residential,Anna Bell Lane,11.964,,,,30 mph,,,,,,,5638405,
+41680278,41919977,0,False,residential,Anna Bell Lane,111.443,,,,30 mph,,,,,,,161118775,
+41680278,41680272,0,False,residential,Old Troy Road,116.918,,,,30 mph,,,,,,,161118778,
+41691330,41708230,0,True,motorway,,2091.928,3,,,65 mph,,,yes,,,,"[35343912, 196672899, 32865724, 32865723]",I 90
+41693062,2567269041,0,False,primary,Troy Road,97.136,2,,,45 mph,,,,,,,5621911,US 4
+41693062,1851845572,0,False,primary,Columbia Turnpike,71.819,4,,,40 mph,,,,,,,246815872,US 9;US 20
+41693062,41711477,0,False,primary,Columbia Turnpike,46.443,4,,,40 mph,,,,,,,246815872,US 9;US 20
+41695331,41695333,0,False,residential,Southern Avenue,36.904,,,,30 mph,,,,,,,5611855,
+41695331,41730485,0,False,residential,Southern Avenue,42.299,,,,30 mph,,,,,,,5616821,
+41695331,41730509,0,False,residential,Southern Avenue,184.207,,,,30 mph,,,,,,,"[193811289, 44165221]",
+41695333,41695331,0,False,residential,Southern Avenue,36.904,,,,30 mph,,,,,,,5611855,
+41695333,41865064,0,False,tertiary,Hampton Avenue,125.044,,,,30 mph,,,,,,,184426780,CR 60
+41697969,41697970,0,False,residential,,71.528,,,,,,,,,,,5612316,
+41697969,41862109,0,False,residential,Mill Creek,16.326,,,,,,,,,,,5632371,
+41697969,41862106,0,False,residential,Mill Creek,17.974,,,,,,,,,,,5632371,
+41697970,41697969,0,False,residential,,71.528,,,,,,,,,,,5612316,
+41697970,41715510,0,False,residential,,28.973,,,,,,,,,,,5614986,
+41697970,41697979,0,False,residential,,116.574,,,,,,,,,,,5612316,
+41697979,41697970,0,False,residential,,116.574,,,,,,,,,,,5612316,
+41699518,41759215,0,False,residential,Terrace Avenue,134.311,,,,30 mph,,,,,,,5619964,
+41708096,41792311,0,False,residential,Spring Avenue East,71.596,,,,30 mph,,,,,,,5623599,
+41708096,41792307,0,False,residential,Spring Avenue East,41.338,,,,30 mph,,,,,,,5623599,
+41708096,41708100,0,False,residential,Lake Shore Drive,33.866,,,,30 mph,,,,,,,5613819,
+41708100,41792307,0,False,residential,Lake Shore Drive,34.769,,,,30 mph,,,,,,,5636716,
+41708100,41708096,0,False,residential,Lake Shore Drive,33.866,,,,30 mph,,,,,,,5613819,
+41708100,41774913,0,False,residential,Lake Shore Drive,54.031,,,,30 mph,,,,,,,5636716,
+41710306,2567269041,0,False,primary,Troy Road,19.493,2,,,45 mph,,,,,,,5621911,US 4
+41710306,41777557,0,False,primary,Troy Road,40.044,2,,,45 mph,,,,,,,246815873,US 4
+41711477,41693062,0,False,primary,Columbia Turnpike,46.443,4,,,40 mph,,,,,,,246815872,US 9;US 20
+41711882,41711884,0,False,residential,,22.935,,,,,,,,,,,5614439,
+41711882,41849902,0,False,residential,Rockport Court South,23.596,,,,,,,,,,,5630517,
+41711882,41748074,0,False,residential,Rockport Court South,110.032,,,,,,,,,,,5630517,
+41711884,41711882,0,False,residential,,22.935,,,,,,,,,,,5614439,
+41711886,41711889,0,False,residential,,14.312,,,,,,,,,,,5614440,
+41711889,41711890,0,False,residential,,16.076,,,,,,,,,,,5614440,
+41711889,41711886,0,False,residential,,14.312,,,,,,,,,,,5614440,
+41711889,41733533,0,False,residential,"['Fair Field Court', 'Fair Court']",19.903,,,,,,,,,,,"[5626301, 5625695]",
+41711890,41711889,0,False,residential,,16.076,,,,,,,,,,,5614440,
+41715510,41697970,0,False,residential,,28.973,,,,,,,,,,,5614986,
+41719564,41798841,0,False,primary,Columbia Turnpike,24.956,4,,,40 mph,,,,,,,33104249,US 9;US 20
+41719564,41719579,0,False,residential,Bruen Court,323.155,,,,30 mph,,,,,,,5615616,
+41719564,41753169,0,False,primary,Columbia Turnpike,79.764,4,,,40 mph,,,,,,,33104249,US 9;US 20
+41719579,41719564,0,False,residential,Bruen Court,323.155,,,,30 mph,,,,,,,5615616,
+41719833,41719836,0,False,residential,Chatham Court,51.189,,,,,,,,,,,5615641,
+41719833,41733529,0,False,residential,Commons Drive,31.393,,,,,,,,,,,5617160,
+41719833,41733494,0,False,residential,Commons Drive,258.373,,,,,,,,,,,5617160,
+41719836,41719833,0,False,residential,Chatham Court,51.189,,,,,,,,,,,5615641,
+41720192,1540329945,0,True,residential,Forrest Drive,48.081,,,,,,,,,,,5616466,
+41720192,41794298,0,False,primary,Columbia Turnpike,113.35,4,,,40 mph,,,,,,,105926480,US 9;US 20
+41724115,41724119,0,False,residential,Pennsylvania Avenue,199.614,,,,30 mph,,,,,,,5616067,
+41724119,41724121,0,False,residential,Pennsylvania Avenue,125.837,,,,30 mph,,,,,,,5616067,
+41724119,41806974,0,False,tertiary,Sherwood Avenue,77.627,,,,30 mph,,,,,,,5640043,CR 59
+41724119,41724115,0,False,residential,Pennsylvania Avenue,199.614,,,,30 mph,,,,,,,5616067,
+41724119,41917914,0,False,tertiary,Sherwood Avenue,256.156,,,,30 mph,,,,,,,5640043,CR 59
+41724121,41724119,0,False,residential,Pennsylvania Avenue,125.837,,,,30 mph,,,,,,,5616067,
+41726223,41726311,0,False,residential,Stock Lane,11.739,,,,25 mph,,,,,,,5616313,
+41726223,41726322,0,False,residential,Stock Lane,24.597,,,,25 mph,,,,,,,5616313,
+41726223,41738388,0,False,residential,Old Red Mill Road,1098.447,,,,30 mph,,,yes,,,,"[215117484, 215117485, 5618215]",
+41726234,41726300,0,False,residential,Betty Anne Drive,10.697,,,,25 mph,,,,,,,5630028,
+41726234,41726311,0,True,residential,Stock Lane,57.99,,,,25 mph,,,,,,,5616307,
+41726240,41726297,0,False,residential,Christina Drive,13.066,,,,25 mph,,,,,,,5638929,
+41726240,41726234,0,True,residential,Stock Lane,110.376,,,,25 mph,,,,,,,5616307,
+41726242,41726240,0,True,residential,Stock Lane,43.632,,,,25 mph,,,,,,,5616307,
+41726242,41876864,0,False,residential,Theresa Lane,73.466,,,,25 mph,,,,,,,5634513,
+41726242,41726295,0,False,residential,Theresa Lane,12.21,,,,25 mph,,,,,,,5634513,
+41726249,41726242,0,True,residential,Stock Lane,58.114,,,,25 mph,,,,,,,5616307,
+41726249,41726286,0,False,residential,Stock Lane,311.03,,,,25 mph,,,,,,,53764567,
+41726286,41726249,0,False,residential,Stock Lane,311.03,,,,25 mph,,,,,,,53764567,
+41726295,41726242,0,False,residential,Theresa Lane,12.21,,,,25 mph,,,,,,,5634513,
+41726295,41726249,0,True,residential,Stock Lane,60.518,,,,25 mph,,,,,,,215117488,
+41726297,41726240,0,False,residential,Christina Drive,13.066,,,,25 mph,,,,,,,5638929,
+41726297,41726295,0,True,residential,Stock Lane,43.418,,,,25 mph,,,,,,,215117488,
+41726297,41780038,0,False,residential,Christina Drive,115.818,,,,25 mph,,,,,,,5638929,
+41726300,41726234,0,False,residential,Betty Anne Drive,10.697,,,,25 mph,,,,,,,5630028,
+41726300,41780031,0,False,residential,Betty Anne Drive,154.943,,,,25 mph,,,,,,,5630028,
+41726300,41726297,0,True,residential,Stock Lane,109.622,,,,25 mph,,,,,,,215117488,
+41726311,41726223,0,False,residential,Stock Lane,11.739,,,,25 mph,,,,,,,5616313,
+41726311,41726300,0,True,residential,Stock Lane,59.47,,,,25 mph,,,,,,,215117488,
+41726322,41726223,0,False,residential,Stock Lane,24.597,,,,25 mph,,,,,,,5616313,
+41726322,41926656,0,False,residential,Robert Lane,9.047,,,,25 mph,,,,,,,112401604,
+41726322,41834403,0,False,secondary,Red Mill Road,883.958,,,,45 mph,,,,,,,5632734,NY 151
+41726322,41864549,0,False,secondary,Red Mill Road,360.606,,,,45 mph,,,,,,,5632734,NY 151
+41727230,41741572,0,False,primary,Troy Road,854.456,"['4', '3']",,,45 mph,,,,,,,"[66098281, 121772579, 66098271]",US 4
+41727520,588031097,0,False,residential,Forrest Pointe Drive,5.524,,,,,,,,,,,46053460,
+41727520,588031102,0,False,residential,Forrest Drive,288.447,,,,,,,,,,,140623098,
+41727520,588031101,0,False,residential,Forrest Drive,51.447,,,,,,,,,,,140623098,
+41728488,41832746,0,False,tertiary,Elliot Road,56.768,,,,30 mph,,,,,,,88513307,CR 56
+41730485,41695331,0,False,residential,Southern Avenue,42.299,,,,30 mph,,,,,,,5616821,
+41730509,41730511,0,False,residential,Southern Avenue,92.943,,,,30 mph,,,,,,,44165221,
+41730509,41882805,0,False,residential,Hudson Avenue,110.615,,,,30 mph,,,,,,,5635190,
+41730509,41695331,0,False,residential,Southern Avenue,184.207,,,,30 mph,,,,,,,"[193811289, 44165221]",
+41730511,41730509,0,False,residential,Southern Avenue,92.943,,,,30 mph,,,,,,,44165221,
+41730511,41931621,0,False,residential,Washington Avenue West,68.687,,,,30 mph,,,,,,,5639288,
+41730511,41730515,0,False,residential,Southern Avenue,95.695,,,,30 mph,,,,,,,44165221,
+41730515,41779385,0,False,residential,Madison Avenue West,34.199,,,,30 mph,,,,,,,5622125,
+41730515,41730519,0,False,residential,Southern Avenue,81.322,,,,30 mph,,,,,,,44165221,
+41730515,41730511,0,False,residential,Southern Avenue,95.695,,,,30 mph,,,,,,,44165221,
+41730519,41730520,0,False,residential,Southern Avenue,74.978,,,,30 mph,,,,,,,44165221,
+41730519,41730515,0,False,residential,Southern Avenue,81.322,,,,30 mph,,,,,,,44165221,
+41730519,41895590,0,False,residential,Spring Avenue West,138.543,,,,30 mph,,,,,,,5640188,
+41730520,41730519,0,False,residential,Southern Avenue,74.978,,,,30 mph,,,,,,,44165221,
+41730520,41895584,0,False,residential,Maryland Avenue West,154.358,,,,30 mph,,,,,,,5638472,
+41730520,41730523,0,False,residential,Southern Avenue,73.39,,,,30 mph,,,,,,,44165221,
+41730523,41730520,0,False,residential,Southern Avenue,73.39,,,,30 mph,,,,,,,44165221,
+41731397,41822180,0,False,tertiary,Third Avenue Extension,89.401,2,,,45 mph,,,,,,,32826460,
+41731397,41731404,0,False,residential,Rosebud Court,138.988,,,,25 mph,,,,,,,5616919,
+41731397,1000243402,0,False,tertiary,Third Avenue Extension,120.913,2,,,45 mph,,,,,,,32826460,
+41731404,41731397,0,False,residential,Rosebud Court,138.988,,,,25 mph,,,,,,,5616919,
+41731404,41731404,0,False,residential,Rosebud Court,45.388,,,,25 mph,,,,,,,5634343,
+41731404,41731404,1,False,residential,Rosebud Court,45.388,,,,25 mph,,,,,,,5634343,
+41732974,41732977,0,False,residential,New York Avenue,205.098,,,,30 mph,,,,,,,5617094,
+41732974,41806974,0,False,tertiary,Sherwood Avenue,77.628,,,,30 mph,,,,,,,5640043,CR 59
+41732974,41827232,0,False,tertiary,Sherwood Avenue,74.735,,,,30 mph,,,,,,,5640043,CR 59
+41732974,41868910,0,False,residential,"['New York Avenue', 'Massachusetts Avenue']",493.244,,,,30 mph,,,,,,,"[5617094, 5636743]",
+41732977,41732974,0,False,residential,New York Avenue,205.098,,,,30 mph,,,,,,,5617094,
+41733494,41777606,0,False,primary,Troy Road,39.708,2,,,45 mph,,,,,,,250248373,US 4
+41733494,41719833,0,False,residential,Commons Drive,258.373,,,,,,,,,,,5617160,
+41733494,41777613,0,False,primary,Troy Road,75.036,2,,,45 mph,,,,,,,250248373,US 4
+41733529,41733533,0,False,residential,Commons Drive,18.068,,,,,,,,,,,5617160,
+41733529,41719833,0,False,residential,Commons Drive,31.393,,,,,,,,,,,5617160,
+41733529,41733536,0,False,residential,"['Donna Lynn Drive', 'Commons Drive', 'Yorkshire Drive', 'Dover Drive']",492.51,,,,,,,,,,,"[5630776, 5617160, 5641770, 5641648]",
+41733533,41733536,0,False,residential,Commons Drive,40.672,,,,,,,,,,,5617160,
+41733533,41733529,0,False,residential,Commons Drive,18.068,,,,,,,,,,,5617160,
+41733533,41711889,0,False,residential,"['Fair Field Court', 'Fair Court']",19.903,,,,,,,,,,,"[5626301, 5625695]",
+41733536,41733533,0,False,residential,Commons Drive,40.672,,,,,,,,,,,5617160,
+41733536,41733529,0,False,residential,"['Donna Lynn Drive', 'Commons Drive', 'Yorkshire Drive', 'Dover Drive']",492.51,,,,,,,,,,,"[5617160, 5641770, 5630776, 5641648]",
+41733536,41748072,0,False,residential,Donna Lynn Drive,52.362,,,,30 mph,,,,,,,"[5630773, 5618695]",
+41733885,41680278,0,False,residential,Anna Bell Lane,11.964,,,,30 mph,,,,,,,5638405,
+41733885,41777600,0,False,primary,Troy Road,203.184,2,,,45 mph,,,,,,,250248373,US 4
+41733885,41777582,0,False,primary,Troy Road,116.878,2,,,45 mph,,,,,,,250248373,US 4
+41734898,41734900,0,False,residential,Pinehurst Avenue,84.044,,,,30 mph,,,,,,,5617353,
+41734898,41865051,0,False,tertiary,Hampton Avenue,50.004,,,,30 mph,,,,,,,184426780,CR 60
+41734898,41865046,0,False,tertiary,Hampton Avenue,70.802,,,,30 mph,,,,,,,184426780,CR 60
+41734900,41734898,0,False,residential,Pinehurst Avenue,84.044,,,,30 mph,,,,,,,5617353,
+41734900,41774069,0,False,residential,Tampa Avenue,217.402,,,,30 mph,,,,,,,5621510,
+41734900,41734914,0,False,residential,Pinehurst Avenue,281.574,,,,30 mph,,,,,,,5617353,
+41734914,41774069,0,False,residential,McCullough Place,78.698,,,,,,,,,,,5634187,
+41734914,41734923,0,False,residential,Pinehurst Avenue,147.538,,,,30 mph,,,,,,,5617353,
+41734914,41734900,0,False,residential,Pinehurst Avenue,281.574,,,,30 mph,,,,,,,5617353,
+41734914,41874128,0,False,residential,McCullough Place,119.558,,,,,,,,,,,5634187,
+41734923,41774069,0,False,residential,Tampa Avenue,103.929,,,,30 mph,,,,,,,5621510,
+41734923,41734926,0,False,residential,Pinehurst Avenue,90.356,,,,30 mph,,,,,,,5617353,
+41734923,41734914,0,False,residential,Pinehurst Avenue,147.538,,,,30 mph,,,,,,,5617353,
+41734926,41772659,0,False,residential,Hampton Avenue,76.234,,,,30 mph,,,,,,,5632822,
+41734926,41734923,0,False,residential,Pinehurst Avenue,90.356,,,,30 mph,,,,,,,5617353,
+41734926,1949036606,0,False,residential,Hampton Avenue,115.748,,,,30 mph,,,,,,,5632822,
+41737908,41737910,0,False,residential,Plaza Avenue,110.203,,,,25 mph,,,,,,,5617682,
+41737908,41822183,0,False,residential,Rockefeller Boulevard,113.492,,,,25 mph,,,,,,,5626971,
+41737908,41822191,0,False,residential,Rockefeller Boulevard,271.99,,,,25 mph,,,,,,,5626971,
+41737910,41737908,0,False,residential,Plaza Avenue,110.203,,,,25 mph,,,,,,,5617682,
+41737910,41737944,0,False,residential,Plaza Avenue,292.198,,,,25 mph,,,,,,,5617682,
+41737910,41973448,0,False,residential,Capitol Place,292.499,,,,25 mph,,,,,,,5641959,
+41737944,41737951,0,False,residential,Plaza Avenue,150.401,,,,25 mph,,,,,,,5617682,
+41737944,41737910,0,False,residential,Plaza Avenue,292.198,,,,25 mph,,,,,,,5617682,
+41737944,41738199,0,False,residential,Sandra Lane,134.599,,,,25 mph,,,,,,,5617723,
+41737951,41822180,0,False,tertiary,Third Avenue Extension,230.49,2,,,45 mph,,,,,,,32826460,
+41737951,41737944,0,False,residential,Plaza Avenue,150.401,,,,25 mph,,,,,,,5617682,
+41737951,41862192,0,False,tertiary,Third Avenue Extension,212.178,2,,,45 mph,,,,,,,32826460,
+41738096,41876100,0,False,tertiary,Third Avenue Extension,127.778,2,,,45 mph,,,,,,,32826460,
+41738096,41794217,0,False,tertiary,Third Avenue Extension,45.87,2,,,45 mph,,,,,,,32826460,
+41738096,41738105,0,False,residential,Meadow Lane,104.363,,,,30 mph,,,,,,,5617697,
+41738105,41738096,0,False,residential,Meadow Lane,104.363,,,,30 mph,,,,,,,5617697,
+41738105,41738115,0,False,residential,Meadow Lane,116.56,,,,30 mph,,,,,,,5617699,
+41738105,41841145,0,False,residential,Pauline Court,148.609,,,,30 mph,,,,,,,5635880,
+41738115,41738105,0,False,residential,Meadow Lane,116.56,,,,30 mph,,,,,,,5617699,
+41738199,41855051,0,False,residential,Justine Court,46.304,,,,25 mph,,,,,,,5631288,
+41738199,41737944,0,False,residential,Sandra Lane,134.599,,,,25 mph,,,,,,,5617723,
+41738199,41855078,0,False,residential,Justine Court,58.114,,,,25 mph,,,,,,,5631288,
+41738388,41879899,0,False,residential,"['Kitty Court', 'Kitty Lane']",414.667,,,,30 mph,,,,,,,"[5634836, 5617750]",
+41738388,41742798,0,False,residential,Old Red Mill Road,153.5,,,,30 mph,,,,,,,215117485,
+41738388,41726223,0,False,residential,Old Red Mill Road,1098.447,,,,30 mph,,,yes,,,,"[215117484, 215117485, 5618215]",
+41739790,41796039,0,False,residential,Eileen Drive,175.693,,,,30 mph,,,,,,,5624033,
+41739790,41796035,0,False,residential,Eileen Drive,16.632,,,,30 mph,,,,,,,5624033,
+41739790,41834656,0,False,residential,Steffie Ray Lane,115.801,,,,30 mph,,,,,,,5617920,
+41741572,41741596,0,False,unclassified,Empire Drive,306.207,,,,,,,,,,,5618123,
+41741572,2501028986,0,False,primary,Troy Road,95.351,4,,,45 mph,,,,,,,121772579,US 4
+41741572,41727230,0,False,primary,Troy Road,854.456,"['4', '3']",,,45 mph,,,,,,,"[66098281, 121772579, 66098271]",US 4
+41741596,41741572,0,False,unclassified,Empire Drive,306.207,,,,,,,,,,,5618123,
+41742798,41777613,0,False,residential,Couse Place,374.539,,,,48,,,,,,,5633642,
+41742798,1765663788,0,False,residential,Old Red Mill Road,41.267,,,,30 mph,,,,,,,215117485,
+41742798,41738388,0,False,residential,Old Red Mill Road,153.5,,,,30 mph,,,,,,,215117485,
+41744743,41744746,0,False,residential,Ruth Avenue,46.884,,,,30 mph,,,,,,,5618376,
+41744743,41877442,0,False,residential,Clinton Street,73.676,,,,30 mph,,,,,,,201309988,
+41744746,41744743,0,False,residential,Ruth Avenue,46.884,,,,30 mph,,,,,,,5618376,
+41747781,41747783,0,False,residential,Willow Lane,182.386,,,,,,,,,,,5618652,
+41747781,41857066,0,False,secondary,Third Avenue,110.675,,,,45 mph,,,,,,,52577629,NY 151
+41747781,41779356,0,False,secondary,Third Avenue,63.052,,,,45 mph,,,,,,,52577629,NY 151
+41747783,41747781,0,False,residential,Willow Lane,182.386,,,,,,,,,,,5618652,
+41748072,41748074,0,False,residential,Donna Lynn Drive,58.031,,,,30 mph,,,,,,,5618695,
+41748072,41850219,0,False,residential,Huntington Court,43.395,,,,,,,,,,,5630564,
+41748072,41733536,0,False,residential,Donna Lynn Drive,52.362,,,,30 mph,,,,,,,"[5630773, 5618695]",
+41748074,41748075,0,False,residential,Donna Lynn Drive,17.214,,,,30 mph,,,,,,,5618695,
+41748074,41748072,0,False,residential,Donna Lynn Drive,58.031,,,,30 mph,,,,,,,5618695,
+41748074,41711882,0,False,residential,Rockport Court South,110.032,,,,,,,,,,,5630517,
+41748075,41748074,0,False,residential,Donna Lynn Drive,17.214,,,,30 mph,,,,,,,5618695,
+41748075,41748086,0,False,residential,Donna Lynn Drive,80.696,,,,30 mph,,,,,,,5618695,
+41748075,41850222,0,False,residential,Huntington Court,118.959,,,,,,,,,,,5630564,
+41748086,41748097,0,False,residential,Donna Lynn Drive,52.43,,,,30 mph,,,,,,,5618695,
+41748086,41748075,0,False,residential,Donna Lynn Drive,80.696,,,,30 mph,,,,,,,5618695,
+41748086,41768998,0,False,residential,Fox Run Circle,66.242,,,,,,,,,,,5620907,
+41748097,41748100,0,False,residential,Donna Lynn Drive,64.83,,,,30 mph,,,,,,,5618695,
+41748097,41748086,0,False,residential,Donna Lynn Drive,52.43,,,,30 mph,,,,,,,5618695,
+41748097,41748105,0,False,residential,Stirrup Drive,223.649,,,,,,,,,,,5637236,
+41748100,41748097,0,False,residential,Donna Lynn Drive,64.83,,,,30 mph,,,,,,,5618695,
+41748100,41748105,0,False,residential,Donna Lynn Drive,56.475,,,,30 mph,,,,,,,5618695,
+41748100,41785606,0,False,residential,Bridle Place,60.379,,,,,,,,,,,5622865,
+41748105,41748117,0,False,residential,Donna Lynn Drive,209.744,,,,30 mph,,,,,,,5618695,
+41748105,41748100,0,False,residential,Donna Lynn Drive,56.475,,,,30 mph,,,,,,,5618695,
+41748105,41748097,0,False,residential,Stirrup Drive,223.649,,,,,,,,,,,5637236,
+41748117,41748105,0,False,residential,Donna Lynn Drive,209.744,,,,30 mph,,,,,,,5618695,
+41748117,41780064,0,False,secondary,Luther Road,116.32,,,,45 mph,,,,,,,164975546,NY 151
+41748117,41850205,0,False,secondary,Luther Road,119.867,,,,45 mph,,,,,,,164975546,NY 151
+41748680,41748685,0,False,residential,Maryland Avenue East,190.207,,,,30 mph,,,,,,,5618730,
+41748680,41895584,0,False,residential,Lake Shore Drive,288.025,,,,25 mph,,,,,,,184426785,
+41748680,41792307,0,False,residential,"['Spring Avenue East', 'Lake Shore Drive']",143.533,,,,"['25 mph', '30 mph']",,,,,,,"[184426785, 5636708]",
+41748685,41792311,0,False,residential,Spring Place,79.234,,,,30 mph,,,,,,,5623847,
+41748685,41772672,0,False,residential,"['Summit Avenue', 'Maryland Avenue East']",266.347,,,,30 mph,,,,,,,"[5618730, 5621349]",
+41748685,41748680,0,False,residential,Maryland Avenue East,190.207,,,,30 mph,,,,,,,5618730,
+41749613,41749619,0,False,residential,Sunset Avenue,173.002,,,,30 mph,,,,,,,5618863,
+41749613,41772659,0,False,residential,Summit Avenue,78.248,,,,30 mph,,,,,,,5621349,
+41749613,41772657,0,False,residential,Summit Avenue,107.998,,,,30 mph,,,,,,,5621349,
+41749619,41749613,0,False,residential,Sunset Avenue,173.002,,,,30 mph,,,,,,,5618863,
+41749619,41864995,0,False,tertiary,Eastern Avenue,82.014,,,,30 mph,,,,,,,32919973,CR 60
+41749619,41864549,0,False,tertiary,Eastern Avenue,294.832,,,,30 mph,,,,,,,32919973,CR 60
+41753169,41770817,0,False,residential,Lakeview Avenue,292.858,,,,30 mph,,,,,,,5621131,
+41753169,41719564,0,False,primary,Columbia Turnpike,79.764,4,,,40 mph,,,,,,,33104249,US 9;US 20
+41753323,41753324,0,False,residential,Mohawk Avenue,138.744,,,,30 mph,,,,,,,5619323,
+41753324,41753326,0,False,residential,Mohawk Avenue,172.183,,,,30 mph,,,,,,,5619323,
+41753324,41753323,0,False,residential,Mohawk Avenue,138.744,,,,30 mph,,,,,,,5619323,
+41753324,41865060,0,False,residential,Western Avenue,80.15,,,,30 mph,,,,,,,5640044,
+41753324,41882805,0,False,residential,Western Avenue,81.762,,,,30 mph,,,,,,,5640044,
+41753326,41753324,0,False,residential,Mohawk Avenue,172.183,,,,30 mph,,,,,,,5619323,
+41753326,41865052,0,False,residential,Lake Shore Drive,81.931,,,,25 mph,,,,,,,184426785,
+41753326,41882807,0,False,residential,Lake Shore Drive,84.745,,,,25 mph,,,,,,,184426785,
+41757534,41838609,0,False,residential,Valentine Drive,102.32,,,,25 mph,,,,,,,5628984,
+41757534,41757559,0,False,residential,Mill Run,300.24,,,,25 mph,,,,,,,5619760,
+41757534,41779961,0,False,residential,Valentine Drive,139.711,,,,25 mph,,,,,,,5628984,
+41757559,41757562,0,False,residential,Mill Run,107.336,,,,25 mph,,,,,,,5619760,
+41757559,41757534,0,False,residential,Mill Run,300.24,,,,25 mph,,,,,,,5619760,
+41757559,41779961,0,False,residential,Deer Run,169.975,,,,25 mph,,,,,,,5622179,
+41757562,41757559,0,False,residential,Mill Run,107.336,,,,25 mph,,,,,,,5619760,
+41757562,41784881,0,False,residential,Robin Lane,133.556,,,,25 mph,,,,,,,5622758,
+41757562,41784837,0,False,residential,Robin Lane,497.809,,,,25 mph,,,,,,,5622758,
+41759215,41759216,0,False,residential,Terrace Avenue,9.095,,,,30 mph,,,,,,,5619964,
+41759215,2245339891,0,False,residential,Hill Avenue,38.327,,,,30 mph,,,,,,,5626227,
+41759215,41699518,0,False,residential,Terrace Avenue,134.311,,,,30 mph,,,,,,,5619964,
+41759216,41759215,0,False,residential,Terrace Avenue,9.095,,,,30 mph,,,,,,,5619964,
+41759216,2245339892,0,False,primary,Troy Road,35.709,2,,,45 mph,,,,,,,250248373,US 4
+41759216,41759221,0,False,primary,Troy Road,20.215,2,,,45 mph,,,,,,,250248373,US 4
+41759221,41759223,0,False,residential,Herrington Avenue,70.733,,,,30 mph,,,,,,,5619966,
+41759221,41759216,0,False,primary,Troy Road,20.215,2,,,45 mph,,,,,,,250248373,US 4
+41759221,41777557,0,False,primary,Troy Road,615.139,2,,,45 mph,,,,,,,"[246815873, 250248373]",US 4
+41759223,41759221,0,False,residential,Herrington Avenue,70.733,,,,30 mph,,,,,,,5619966,
+41765811,41828122,0,False,tertiary,Red Mill Road,83.964,,,,30 mph,,,,,,,32894028,CR 63
+41768998,41748086,0,False,residential,Fox Run Circle,66.242,,,,,,,,,,,5620907,
+41769277,41769277,0,False,residential,Alice Lane,85.263,,,,,,,,,,,5620919,
+41769277,41769277,1,False,residential,Alice Lane,85.263,,,,,,,,,,,5620919,
+41769277,663451604,0,False,residential,Alice Lane,38.897,,,,,,,,,,,5620920,
+41769318,663451604,0,False,residential,Alice Lane,163.349,,,,,,,,,,,5620920,
+41769318,41813512,0,False,residential,Lois Lane,141.394,,,,25 mph,,,,,,,5625963,
+41769318,41813494,0,False,residential,Lois Lane,97.375,,,,25 mph,,,,,,,5625963,
+41770817,41753169,0,False,residential,Lakeview Avenue,292.858,,,,30 mph,,,,,,,5621131,
+41772657,41749613,0,False,residential,Summit Avenue,107.998,,,,30 mph,,,,,,,5621349,
+41772659,41772663,0,False,residential,Summit Avenue,91.347,,,,30 mph,,,,,,,5621349,
+41772659,41749613,0,False,residential,Summit Avenue,78.248,,,,30 mph,,,,,,,5621349,
+41772659,41734926,0,False,residential,Hampton Avenue,76.234,,,,30 mph,,,,,,,5632822,
+41772659,41864995,0,False,residential,Hampton Avenue,195.577,,,,30 mph,,,,,,,5632822,
+41772663,41772664,0,False,residential,Summit Avenue,87.946,,,,30 mph,,,,,,,5621349,
+41772663,41772659,0,False,residential,Summit Avenue,91.347,,,,30 mph,,,,,,,5621349,
+41772663,41864994,0,False,tertiary,Hudson Avenue,134.169,,,,30 mph,,,,,,,37856554,CR 60
+41772663,41882800,0,False,tertiary,Hudson Avenue,218.375,,,,30 mph,,,,,,,37856554,CR 60
+41772664,41772666,0,False,residential,Summit Avenue,78.871,,,,30 mph,,,,,,,5621349,
+41772664,41772663,0,False,residential,Summit Avenue,87.946,,,,30 mph,,,,,,,5621349,
+41772664,41895639,0,False,residential,Washington Avenue East,320.088,,,,30 mph,,,,,,,5638819,
+41772664,41893109,0,False,residential,Washington Avenue East,244.889,,,,30 mph,,,,,,,5638819,
+41772666,41772672,0,False,residential,Summit Avenue,81.688,,,,30 mph,,,,,,,5621349,
+41772666,41772664,0,False,residential,Summit Avenue,78.871,,,,30 mph,,,,,,,5621349,
+41772666,41774913,0,False,residential,Madison Avenue East,290.553,,,,30 mph,,,,,,,5621614,
+41772666,41893109,0,False,residential,"['Madison Avenue East', 'Eastern Avenue']",344.335,,,,30 mph,,,,,,,"[37856555, 5621614]",
+41772672,41772666,0,False,residential,Summit Avenue,81.688,,,,30 mph,,,,,,,5621349,
+41772672,2038899633,0,False,residential,Spring Avenue East,31.504,,,,30 mph,,,,,,,5623599,
+41772672,41748685,0,False,residential,"['Summit Avenue', 'Maryland Avenue East']",266.347,,,,30 mph,,,,,,,"[5618730, 5621349]",
+41772672,41792311,0,False,residential,Spring Avenue East,202.704,,,,30 mph,,,,,,,5623599,
+41774069,41734923,0,False,residential,Tampa Avenue,103.929,,,,30 mph,,,,,,,5621510,
+41774069,41734900,0,False,residential,Tampa Avenue,217.402,,,,30 mph,,,,,,,5621510,
+41774069,41734914,0,False,residential,McCullough Place,78.698,,,,,,,,,,,5634187,
+41774069,41865035,0,False,residential,McCullough Place,97.404,,,,,,,,,,,5634187,
+41774913,41772666,0,False,residential,Madison Avenue East,290.553,,,,30 mph,,,,,,,5621614,
+41774913,41708100,0,False,residential,Lake Shore Drive,54.031,,,,30 mph,,,,,,,5636716,
+41774913,41895639,0,False,residential,Lake Shore Drive,80.827,,,,30 mph,,,,,,,5636716,
+41777557,41832710,0,False,residential,Iroquois Place,325.294,,,,30 mph,,,,,,,5628711,
+41777557,41759221,0,False,primary,Troy Road,615.139,2,,,45 mph,,,,,,,"[246815873, 250248373]",US 4
+41777557,41710306,0,False,primary,Troy Road,40.044,2,,,45 mph,,,,,,,246815873,US 4
+41777572,41777575,0,False,primary,Troy Road,75.677,2,,,45 mph,,,,,,,250248373,US 4
+41777572,2245339892,0,False,primary,Troy Road,5.286,2,,,45 mph,,,,,,,250248373,US 4
+41777572,41812760,0,False,residential,Greenbush Avenue,194.13,,,,30 mph,,,,,,,5635769,
+41777575,41812758,0,False,residential,Pittsfield Avenue,145.677,,,,30 mph,,,,,,,5637102,
+41777575,41777572,0,False,primary,Troy Road,75.677,2,,,45 mph,,,,,,,250248373,US 4
+41777575,2245339891,0,False,residential,"['Hill Avenue', 'Pittsfield Avenue']",119.696,,,,30 mph,,,,,,,"[5626227, 5637102]",
+41777575,41777582,0,False,primary,Troy Road,530.609,2,,,45 mph,,,,,,,250248373,US 4
+41777582,41680272,0,False,residential,Columbia Drive,16.837,,,,30 mph,,,,,,,5625648,
+41777582,41733885,0,False,primary,Troy Road,116.878,2,,,45 mph,,,,,,,250248373,US 4
+41777582,41777575,0,False,primary,Troy Road,530.609,2,,,45 mph,,,,,,,250248373,US 4
+41777600,41777606,0,False,residential,Mill Creek Drive,180.731,,,,,,,,,,,"[219045307, 5641947]",
+41777600,41777606,1,False,primary,Troy Road,151.177,2,,,45 mph,,,,,,,250248373,US 4
+41777600,41733885,0,False,primary,Troy Road,203.184,2,,,45 mph,,,,,,,250248373,US 4
+41777606,41733494,0,False,primary,Troy Road,39.708,2,,,45 mph,,,,,,,250248373,US 4
+41777606,41777600,0,False,residential,Mill Creek Drive,180.731,,,,,,,,,,,"[5641947, 219045307]",
+41777606,41777600,1,False,primary,Troy Road,151.177,2,,,45 mph,,,,,,,250248373,US 4
+41777613,41742798,0,False,residential,Couse Place,374.539,,,,48,,,,,,,5633642,
+41777613,41777622,0,False,primary,Troy Road,288.824,2,,,45 mph,,,,,,,250248373,US 4
+41777613,41733494,0,False,primary,Troy Road,75.036,2,,,45 mph,,,,,,,250248373,US 4
+41777622,1765663779,0,True,primary,Troy Road,83.757,,,,45 mph,,,,,,,164975551,US 4
+41777622,41777613,0,False,primary,Troy Road,288.824,2,,,45 mph,,,,,,,250248373,US 4
+41779356,41779358,0,False,residential,Eddy Lane,105.514,,,,30 mph,,,,,,,5622121,
+41779356,41747781,0,False,secondary,Third Avenue,63.052,,,,45 mph,,,,,,,52577629,NY 151
+41779356,41842010,0,False,secondary,Third Avenue,147.724,,,,45 mph,,,,,,,52577629,NY 151
+41779358,41779356,0,False,residential,Eddy Lane,105.514,,,,30 mph,,,,,,,5622121,
+41779358,41818111,0,False,residential,Empire Circle,488.973,,,,30 mph,,,,,,,5626506,
+41779358,41818111,1,False,residential,Empire Circle,81.514,,,,30 mph,,,,,,,5626506,
+41779385,41730515,0,False,residential,Madison Avenue West,34.199,,,,30 mph,,,,,,,5622125,
+41779385,41779394,0,False,residential,Madison Avenue West,126.907,,,,30 mph,,,,,,,5622125,
+41779385,41931621,0,False,residential,Western Avenue,80.668,,,,30 mph,,,,,,,5640044,
+41779394,41779385,0,False,residential,Madison Avenue West,126.907,,,,30 mph,,,,,,,5622125,
+41779394,41895607,0,False,residential,Lake Shore Drive,73.961,,,,25 mph,,,,,,,184426785,
+41779394,41895590,0,False,residential,Lake Shore Drive,81.877,,,,25 mph,,,,,,,184426785,
+41779961,41838612,0,False,residential,Valentine Drive,26.558,,,,25 mph,,,,,,,5628984,
+41779961,41757559,0,False,residential,Deer Run,169.975,,,,25 mph,,,,,,,5622179,
+41779961,41757534,0,False,residential,Valentine Drive,139.711,,,,25 mph,,,,,,,5628984,
+41779968,41779968,0,False,residential,McDonald Lane,70.874,,,,25 mph,,,,,,,5622181,
+41779968,41779968,1,False,residential,McDonald Lane,70.874,,,,25 mph,,,,,,,5622181,
+41779968,41780031,0,False,residential,McDonald Lane,89.006,,,,25 mph,,,,,,,5622188,
+41779991,41779991,0,False,residential,McDonald Lane,63.478,,,,25 mph,,,,,,,5622185,
+41779991,41779991,1,False,residential,McDonald Lane,63.478,,,,25 mph,,,,,,,5622185,
+41779991,41780038,0,False,residential,McDonald Lane,183.647,,,,25 mph,,,,,,,5622188,
+41780031,41780038,0,False,residential,McDonald Lane,128.643,,,,25 mph,,,,,,,5622188,
+41780031,41779968,0,False,residential,McDonald Lane,89.006,,,,25 mph,,,,,,,5622188,
+41780031,41726300,0,False,residential,Betty Anne Drive,154.943,,,,25 mph,,,,,,,5630028,
+41780038,41779991,0,False,residential,McDonald Lane,183.647,,,,25 mph,,,,,,,5622188,
+41780038,41780031,0,False,residential,McDonald Lane,128.643,,,,25 mph,,,,,,,5622188,
+41780038,41726297,0,False,residential,Christina Drive,115.818,,,,25 mph,,,,,,,5638929,
+41780064,41850200,0,False,secondary,Luther Road,116.759,,,,45 mph,,,,,,,164975546,NY 151
+41780064,41748117,0,False,secondary,Luther Road,116.32,,,,45 mph,,,,,,,164975546,NY 151
+41784827,41784834,0,False,residential,Robin Lane,163.513,,,,25 mph,,,,,,,5622758,
+41784827,41862812,0,False,secondary,Red Mill Road,169.599,,,,45 mph,,,,,,,5632734,NY 151
+41784827,41864517,0,False,secondary,Red Mill Road,202.867,,,,45 mph,,,,,,,5632734,NY 151
+41784834,41784837,0,False,residential,Robin Lane,128.35,,,,25 mph,,,,,,,5622758,
+41784834,41784827,0,False,residential,Robin Lane,163.513,,,,25 mph,,,,,,,5622758,
+41784834,41784885,0,False,residential,Heather Lane,239.291,,,,25 mph,,,,,,,5623310,
+41784837,41784834,0,False,residential,Robin Lane,128.35,,,,25 mph,,,,,,,5622758,
+41784837,41757562,0,False,residential,Robin Lane,497.809,,,,25 mph,,,,,,,5622758,
+41784837,41784881,0,False,residential,Carriage Road,192.392,,,,25 mph,,,,,,,5630351,
+41784881,41757562,0,False,residential,Robin Lane,133.556,,,,25 mph,,,,,,,5622758,
+41784881,41784885,0,False,residential,Robin Lane,113.418,,,,25 mph,,,,,,,5622758,
+41784881,41784837,0,False,residential,Carriage Road,192.392,,,,25 mph,,,,,,,5630351,
+41784885,41784889,0,False,residential,Robin Lane,106.972,,,,25 mph,,,,,,,5622758,
+41784885,41784881,0,False,residential,Robin Lane,113.418,,,,25 mph,,,,,,,5622758,
+41784885,41784834,0,False,residential,Heather Lane,239.291,,,,25 mph,,,,,,,5623310,
+41784889,41827225,0,False,secondary,Red Mill Road,81.746,,,,45 mph,,,,,,,5632734,NY 151
+41784889,41784885,0,False,residential,Robin Lane,106.972,,,,25 mph,,,,,,,5622758,
+41784889,41864517,0,False,secondary,Red Mill Road,119.171,,,,45 mph,,,,,,,5632734,NY 151
+41785606,41785606,0,False,residential,Bridle Place,62.132,,,,,,,,,,,5622862,
+41785606,41785606,1,False,residential,Bridle Place,62.132,,,,,,,,,,,5622862,
+41785606,41748100,0,False,residential,Bridle Place,60.379,,,,,,,,,,,5622865,
+41791220,41791221,0,False,residential,Meagan Lane,56.635,,,,25 mph,,,,,,,5623474,
+41791220,41926678,0,False,residential,Robert Lane,6.31,,,,25 mph,,,,,,,52047457,
+41791220,41813494,0,False,residential,Rose Lane,299.592,,,,25 mph,,,,,,,"[52047456, 5632889]",
+41791220,41813512,0,False,residential,Robert Lane,167.201,,,,25 mph,,,,,,,52047457,
+41791221,41791220,0,False,residential,Meagan Lane,56.635,,,,25 mph,,,,,,,5623474,
+41791221,41791221,0,False,residential,Meagan Lane,84.214,,,,25 mph,,,,,,,5623476,
+41791221,41791221,1,False,residential,Meagan Lane,84.214,,,,25 mph,,,,,,,5623476,
+41792307,41708096,0,False,residential,Spring Avenue East,41.338,,,,30 mph,,,,,,,5623599,
+41792307,41708100,0,False,residential,Lake Shore Drive,34.769,,,,30 mph,,,,,,,5636716,
+41792307,41748680,0,False,residential,"['Spring Avenue East', 'Lake Shore Drive']",143.533,,,,"['25 mph', '30 mph']",,,,,,,"[184426785, 5636708]",
+41792311,41708096,0,False,residential,Spring Avenue East,71.596,,,,30 mph,,,,,,,5623599,
+41792311,41748685,0,False,residential,Spring Place,79.234,,,,30 mph,,,,,,,5623847,
+41792311,41772672,0,False,residential,Spring Avenue East,202.704,,,,30 mph,,,,,,,5623599,
+41793707,41798890,0,False,primary,Columbia Turnpike,533.253,4,,,40 mph,,,,,,,105926480,US 9;US 20
+41794217,41738096,0,False,tertiary,Third Avenue Extension,45.87,2,,,45 mph,,,,,,,32826460,
+41794217,41794222,0,False,residential,Fiddlers Lane,137.767,,,,30 mph,,,,,,,5623794,
+41794217,41857066,0,False,tertiary,Third Avenue Extension,78.329,2,,,45 mph,,,,,,,32826460,
+41794222,41794224,0,False,residential,Fiddlers Lane,12.772,,,,30 mph,,,,,,,5623794,
+41794222,41794217,0,False,residential,Fiddlers Lane,137.767,,,,30 mph,,,,,,,5623794,
+41794222,41832029,0,False,residential,Tanners Lane,179.623,,,,30 mph,,,,,,,5628174,
+41794224,41794222,0,False,residential,Fiddlers Lane,12.772,,,,30 mph,,,,,,,5623794,
+41794298,41720192,0,False,primary,Columbia Turnpike,113.35,4,,,40 mph,,,,,,,105926480,US 9;US 20
+41796035,41739790,0,False,residential,Eileen Drive,16.632,,,,30 mph,,,,,,,5624033,
+41796035,41828122,0,False,tertiary,Red Mill Road,101.456,,,,30 mph,,,,,,,32894028,CR 63
+41796035,41834656,0,False,tertiary,Red Mill Road,108.592,,,,30 mph,,,,,,,32894028,CR 63
+41796039,41739790,0,False,residential,Eileen Drive,175.693,,,,30 mph,,,,,,,5624033,
+41797217,41797218,0,False,residential,New Hampshire Avenue,175.66,,,,30 mph,,,,,,,5640772,
+41797218,41827245,0,False,tertiary,Sherwood Avenue,76.047,,,,30 mph,,,,,,,5640043,CR 59
+41797218,41904528,0,False,tertiary,Sherwood Avenue,74.809,,,,30 mph,,,,,,,5640043,CR 59
+41797218,41955741,0,False,residential,New Hampshire Avenue,68.488,,,,30 mph,,,,,,,5640772,
+41797218,41797217,0,False,residential,New Hampshire Avenue,175.66,,,,30 mph,,,,,,,5640772,
+41798841,41719564,0,False,primary,Columbia Turnpike,24.956,4,,,40 mph,,,,,,,33104249,US 9;US 20
+41798890,41793707,0,False,primary,Columbia Turnpike,533.253,4,,,40 mph,,,,,,,105926480,US 9;US 20
+41798947,1851845572,0,False,primary,Columbia Turnpike,162.224,4,,,40 mph,,,,,,,88463007,US 9;US 20
+41798947,41832710,0,False,tertiary,Elliot Road,192.142,,,,30 mph,,,,,,,88513307,CR 56
+41806974,41806980,0,False,residential,New Jersey Avenue,179.219,,,,30 mph,,,,,,,5625306,
+41806974,41724119,0,False,tertiary,Sherwood Avenue,77.627,,,,30 mph,,,,,,,5640043,CR 59
+41806974,41732974,0,False,tertiary,Sherwood Avenue,77.628,,,,30 mph,,,,,,,5640043,CR 59
+41806974,41812822,0,False,residential,"['New Jersey Avenue', 'Ontario Avenue']",508.221,,,,30 mph,,,,,,,"[5625306, 5625876]",
+41806980,41806974,0,False,residential,New Jersey Avenue,179.219,,,,30 mph,,,,,,,5625306,
+41812758,41812760,0,False,residential,Springfield Avenue,77.627,,,,30 mph,,,,,,,5625867,
+41812758,41680246,0,False,residential,Pittsfield Avenue,83.58,,,,30 mph,,,,,,,5637102,
+41812758,41777575,0,False,residential,Pittsfield Avenue,145.677,,,,30 mph,,,,,,,5637102,
+41812760,41812758,0,False,residential,Springfield Avenue,77.627,,,,30 mph,,,,,,,5625867,
+41812760,41887484,0,False,residential,Greenbush Avenue,35.856,,,,30 mph,,,,,,,5635769,
+41812760,41812766,0,False,residential,Springfield Avenue,48.276,,,,30 mph,,,,,,,5625867,
+41812760,41777572,0,False,residential,Greenbush Avenue,194.13,,,,30 mph,,,,,,,5635769,
+41812766,41812760,0,False,residential,Springfield Avenue,48.276,,,,30 mph,,,,,,,5625867,
+41812822,41865056,0,False,tertiary,Hampton Avenue,78.918,,,,30 mph,,,,,,,184426780,CR 60
+41812822,41865052,0,False,tertiary,Hampton Avenue,14.89,,,,30 mph,,,,,,,184426780,CR 60
+41812822,41806974,0,False,residential,"['New Jersey Avenue', 'Ontario Avenue']",508.221,,,,30 mph,,,,,,,"[5625306, 5625876]",
+41813494,41769318,0,False,residential,Lois Lane,97.375,,,,25 mph,,,,,,,5625963,
+41813494,41791220,0,False,residential,Rose Lane,299.592,,,,25 mph,,,,,,,"[52047456, 5632889]",
+41813494,41865403,0,False,residential,Rose Lane,430.311,,,,25 mph,,,,,,,52047456,
+41813512,41769318,0,False,residential,Lois Lane,141.394,,,,25 mph,,,,,,,5625963,
+41813512,41926710,0,False,residential,Robert Lane,55.481,,,,25 mph,,,,,,,52047457,
+41813512,41791220,0,False,residential,Robert Lane,167.201,,,,25 mph,,,,,,,52047457,
+41818111,41779358,0,False,residential,Empire Circle,81.514,,,,30 mph,,,,,,,5626506,
+41818111,41779358,1,False,residential,Empire Circle,488.973,,,,30 mph,,,,,,,5626506,
+41818111,41842028,0,False,residential,Valley View Avenue,157.162,,,,30 mph,,,,,,,5635979,
+41818302,41842010,0,False,secondary,Third Avenue,184.562,,,,45 mph,,,,,,,52577629,NY 151
+41822180,41737951,0,False,tertiary,Third Avenue Extension,230.49,2,,,45 mph,,,,,,,32826460,
+41822180,41731397,0,False,tertiary,Third Avenue Extension,89.401,2,,,45 mph,,,,,,,32826460,
+41822180,41822183,0,False,residential,Rockefeller Boulevard,211.052,,,,25 mph,,,,,,,5626971,
+41822183,41737908,0,False,residential,Rockefeller Boulevard,113.492,,,,25 mph,,,,,,,5626971,
+41822183,41822180,0,False,residential,Rockefeller Boulevard,211.052,,,,25 mph,,,,,,,5626971,
+41822183,41822191,0,False,residential,Capitol Place,486.71,,,,25 mph,,,,,,,5641959,
+41822191,41737908,0,False,residential,Rockefeller Boulevard,271.99,,,,25 mph,,,,,,,5626971,
+41822191,41973431,0,False,residential,Capitol Place,135.731,,,,25 mph,,,,,,,5641959,
+41822191,41822183,0,False,residential,Capitol Place,486.71,,,,25 mph,,,,,,,5641959,
+41827225,41834800,0,False,secondary,Red Mill Road,24.767,,,,45 mph,,,,,,,5628508,NY 151
+41827225,41784889,0,False,secondary,Red Mill Road,81.746,,,,45 mph,,,,,,,5632734,NY 151
+41827225,41885014,0,False,unclassified,Discovery Drive,874.202,,,,30 mph,,,,,,,123323365,
+41827232,41868910,0,False,residential,Connecticut Avenue,355.344,,,,30 mph,,,,,,,5633435,
+41827232,41732974,0,False,tertiary,Sherwood Avenue,74.735,,,,30 mph,,,,,,,5640043,CR 59
+41827232,41854659,0,False,tertiary,Sherwood Avenue,76.46,,,,30 mph,,,,,,,5640043,CR 59
+41827244,41827245,0,False,residential,Vermont Avenue,205.982,,,,30 mph,,,,,,,5627694,
+41827245,41827247,0,False,residential,Vermont Avenue,114.387,,,,30 mph,,,,,,,5627694,
+41827245,41827244,0,False,residential,Vermont Avenue,205.982,,,,30 mph,,,,,,,5627694,
+41827245,41896064,0,False,tertiary,Sherwood Avenue,76.066,,,,30 mph,,,,,,,5640043,CR 59
+41827245,41797218,0,False,tertiary,Sherwood Avenue,76.047,,,,30 mph,,,,,,,5640043,CR 59
+41827247,41827245,0,False,residential,Vermont Avenue,114.387,,,,30 mph,,,,,,,5627694,
+41828122,41796035,0,False,tertiary,Red Mill Road,101.456,,,,30 mph,,,,,,,32894028,CR 63
+41828122,41765811,0,False,tertiary,Red Mill Road,83.964,,,,30 mph,,,,,,,32894028,CR 63
+41830506,41876236,0,False,tertiary,Third Avenue Extension,95.754,2,,,45 mph,,,,,,,32826460,
+41830506,1041263932,0,False,tertiary,Third Avenue Extension,11.075,2,,,45 mph,,,,,,,32826460,
+41830506,41830508,0,False,unclassified,Krey Boulevard,87.897,,,,30 mph,,,,,,,5628025,
+41830508,41830506,0,False,unclassified,Krey Boulevard,87.897,,,,30 mph,,,,,,,5628025,
+41830508,1041263932,0,False,unclassified,Krey Boulevard,87.41,,,,30 mph,,,,,,,89827358,
+41830508,41830529,0,False,unclassified,Krey Boulevard,379.372,,,,30 mph,,,,,,,89827376,
+41830529,41830508,0,False,unclassified,Krey Boulevard,379.372,,,,30 mph,,,,,,,89827376,
+41832016,41832029,0,False,residential,Tanners Lane,123.935,,,,30 mph,,,,,,,5628174,
+41832029,41876100,0,False,residential,Cobblers Lane,115.226,,,,30 mph,,,,,,,5636579,
+41832029,41794222,0,False,residential,Tanners Lane,179.623,,,,30 mph,,,,,,,5628174,
+41832029,41832016,0,False,residential,Tanners Lane,123.935,,,,30 mph,,,,,,,5628174,
+41832710,41777557,0,False,residential,Iroquois Place,325.294,,,,30 mph,,,,,,,5628711,
+41832710,41798947,0,False,tertiary,Elliot Road,192.142,,,,30 mph,,,,,,,88513307,CR 56
+41832746,41728488,0,False,tertiary,Elliot Road,56.768,,,,30 mph,,,,,,,88513307,CR 56
+41834348,41834403,0,False,unclassified,Tempel Lane,1805.652,,,,30 mph,,,,,,,5628447,
+41834403,41834348,0,False,unclassified,Tempel Lane,1805.652,,,,30 mph,,,,,,,5628447,
+41834403,1765663788,0,False,secondary,Red Mill Road,135.665,,,,45 mph,,,,,,,5632734,NY 151
+41834403,41726322,0,False,secondary,Red Mill Road,883.958,,,,45 mph,,,,,,,5632734,NY 151
+41834656,41739790,0,False,residential,Steffie Ray Lane,115.801,,,,30 mph,,,,,,,5617920,
+41834656,41834687,0,False,tertiary,Red Mill Road,182.749,,,,30 mph,,,,,,,32894028,CR 63
+41834656,41796035,0,False,tertiary,Red Mill Road,108.592,,,,30 mph,,,,,,,32894028,CR 63
+41834687,41838609,0,False,secondary,Barrack Road,400.533,,,,45 mph,,,,,,,5631548,NY 151
+41834687,41834800,0,False,secondary,Red Mill Road,129.918,,,,45 mph,,,,,,,5632720,NY 151
+41834687,41834656,0,False,tertiary,Red Mill Road,182.749,,,,30 mph,,,,,,,32894028,CR 63
+41834800,41827225,0,False,secondary,Red Mill Road,24.767,,,,45 mph,,,,,,,5628508,NY 151
+41834800,41834687,0,False,secondary,Red Mill Road,129.918,,,,45 mph,,,,,,,5632720,NY 151
+41834800,41933641,0,False,residential,Flora Circle,110.983,,,,30 mph,,,,,,,5639422,
+41838609,41757534,0,False,residential,Valentine Drive,102.32,,,,25 mph,,,,,,,5628984,
+41838609,41857066,0,False,secondary,Barrack Road,507.958,,,,45 mph,,,,,,,5631548,NY 151
+41838609,41834687,0,False,secondary,Barrack Road,400.533,,,,45 mph,,,,,,,5631548,NY 151
+41838612,41779961,0,False,residential,Valentine Drive,26.558,,,,25 mph,,,,,,,5628984,
+41841144,41841145,0,False,residential,Hillcrest Lane,137.838,,,,30 mph,,,,,,,5629348,
+41841144,41876100,0,False,tertiary,Third Avenue Extension,14.267,2,,,45 mph,,,,,,,32826460,
+41841144,41876182,0,False,tertiary,Third Avenue Extension,224.149,2,,,45 mph,,,,,,,32826460,
+41841145,41841144,0,False,residential,Hillcrest Lane,137.838,,,,30 mph,,,,,,,5629348,
+41841145,41888366,0,False,residential,Pauline Court,103.465,,,,30 mph,,,,,,,5635880,
+41841145,41738105,0,False,residential,Pauline Court,148.609,,,,30 mph,,,,,,,5635880,
+41841149,41841205,0,False,residential,Olcott Lane,539.51,,,,30 mph,,,,,,,"[267992446, 5629358]",
+41841149,41864549,0,False,secondary,Red Mill Road,306.123,,,,45 mph,,,,,,,5632734,NY 151
+41841149,41862812,0,False,secondary,Red Mill Road,117.651,,,,45 mph,,,,,,,5632734,NY 151
+41841205,41841149,0,False,residential,Olcott Lane,539.51,,,,30 mph,,,,,,,"[5629358, 267992446]",
+41842010,41842028,0,False,residential,Malibu Hill,213.073,,,,30 mph,,,,,,,5629463,
+41842010,41779356,0,False,secondary,Third Avenue,147.724,,,,45 mph,,,,,,,52577629,NY 151
+41842010,41818302,0,False,secondary,Third Avenue,184.562,,,,45 mph,,,,,,,52577629,NY 151
+41842028,41842035,0,False,residential,Malibu Hill,90.048,,,,30 mph,,,,,,,5629463,
+41842028,41842010,0,False,residential,Malibu Hill,213.073,,,,30 mph,,,,,,,5629463,
+41842028,41818111,0,False,residential,Valley View Avenue,157.162,,,,30 mph,,,,,,,5635979,
+41842035,41842028,0,False,residential,Malibu Hill,90.048,,,,30 mph,,,,,,,5629463,
+41842035,41842035,0,False,residential,Malibu Hill,115.51,,,,30 mph,,,,,,,5629470,
+41842035,41842035,1,False,residential,Malibu Hill,115.51,,,,30 mph,,,,,,,5629470,
+41849902,41711882,0,False,residential,Rockport Court South,23.596,,,,,,,,,,,5630517,
+41850200,41780064,0,False,secondary,Luther Road,116.759,,,,45 mph,,,,,,,164975546,NY 151
+41850205,41850208,0,False,secondary,Luther Road,62.616,,,,45 mph,,,,,,,164975546,NY 151
+41850205,41748117,0,False,secondary,Luther Road,119.867,,,,45 mph,,,,,,,164975546,NY 151
+41850208,41850205,0,False,secondary,Luther Road,62.616,,,,45 mph,,,,,,,164975546,NY 151
+41850219,41748072,0,False,residential,Huntington Court,43.395,,,,,,,,,,,5630564,
+41850219,41850222,0,False,residential,Huntington Court,22.461,,,,,,,,,,,5630564,
+41850219,41850222,1,False,residential,Huntington Court,54.841,,,,,,,,,,,74784728,
+41850222,41748075,0,False,residential,Huntington Court,118.959,,,,,,,,,,,5630564,
+41850222,41850219,0,False,residential,Huntington Court,22.461,,,,,,,,,,,5630564,
+41850222,41850219,1,False,residential,Huntington Court,54.841,,,,,,,,,,,74784728,
+41854652,41854659,0,False,residential,Rhode Island Avenue,298.218,,,,30 mph,,,,,,,5631223,
+41854652,41896064,0,False,residential,Massachusetts Avenue,339.469,,,,30 mph,,,,,,,5636743,
+41854652,41868910,0,False,residential,Massachusetts Avenue,100.496,,,,30 mph,,,,,,,5636743,
+41854659,41827232,0,False,tertiary,Sherwood Avenue,76.46,,,,30 mph,,,,,,,5640043,CR 59
+41854659,41896064,0,False,tertiary,Sherwood Avenue,76.19,,,,30 mph,,,,,,,5640043,CR 59
+41854659,41854652,0,False,residential,Rhode Island Avenue,298.218,,,,30 mph,,,,,,,5631223,
+41855051,41738199,0,False,residential,Justine Court,46.304,,,,25 mph,,,,,,,5631288,
+41855051,41855051,0,False,residential,Justine Court,90.197,,,,25 mph,,,,,,,5631278,
+41855051,41855051,1,False,residential,Justine Court,90.197,,,,25 mph,,,,,,,5631278,
+41855078,41855078,0,False,residential,Justine Court,84.833,,,,25 mph,,,,,,,5631285,
+41855078,41855078,1,False,residential,Justine Court,84.833,,,,25 mph,,,,,,,5631285,
+41855078,41738199,0,False,residential,Justine Court,58.114,,,,25 mph,,,,,,,5631288,
+41857066,41747781,0,False,secondary,Third Avenue,110.675,,,,45 mph,,,,,,,52577629,NY 151
+41857066,41838609,0,False,secondary,Barrack Road,507.958,,,,45 mph,,,,,,,5631548,NY 151
+41857066,41794217,0,False,tertiary,Third Avenue Extension,78.329,2,,,45 mph,,,,,,,32826460,
+41859888,41859889,0,False,residential,Genesee Avenue,239.169,,,,30 mph,,,,,,,5632014,
+41859888,41865064,0,False,tertiary,Hampton Avenue,50.721,,,,30 mph,,,,,,,184426780,CR 60
+41859888,41865060,0,False,tertiary,Hampton Avenue,64.505,,,,30 mph,,,,,,,184426780,CR 60
+41859889,41859888,0,False,residential,Genesee Avenue,239.169,,,,30 mph,,,,,,,5632014,
+41862106,41697969,0,False,residential,Mill Creek,17.974,,,,,,,,,,,5632371,
+41862109,41697969,0,False,residential,Mill Creek,16.326,,,,,,,,,,,5632371,
+41862192,41862200,0,False,residential,Woodlawn Avenue,410.991,,,,30 mph,,,,,,,5632383,
+41862192,1041263932,0,False,tertiary,Third Avenue Extension,447.757,2,,,45 mph,,,,,,,32826460,
+41862192,41737951,0,False,tertiary,Third Avenue Extension,212.178,2,,,45 mph,,,,,,,32826460,
+41862200,41862192,0,False,residential,Woodlawn Avenue,410.991,,,,30 mph,,,,,,,5632383,
+41862424,41862425,0,False,residential,Eva Street,79.883,,,,30 mph,,,,,,,5632410,
+41862424,41877442,0,False,residential,Clinton Street,72.151,,,,30 mph,,,,,,,201309988,
+41862424,41877451,0,False,residential,Clinton Street,126.052,,,,30 mph,,,,,,,201309988,
+41862425,41862424,0,False,residential,Eva Street,79.883,,,,30 mph,,,,,,,5632410,
+41862812,2733694991,0,False,residential,Oriel Lane,704.87,,,,30 mph,,,,,,,"[5632469, 267992447]",
+41862812,41841149,0,False,secondary,Red Mill Road,117.651,,,,45 mph,,,,,,,5632734,NY 151
+41862812,41784827,0,False,secondary,Red Mill Road,169.599,,,,45 mph,,,,,,,5632734,NY 151
+41864517,41904528,0,False,tertiary,Sherwood Avenue,73.19,,,,30 mph,,,,,,,5640043,CR 59
+41864517,41784827,0,False,secondary,Red Mill Road,202.867,,,,45 mph,,,,,,,5632734,NY 151
+41864517,41784889,0,False,secondary,Red Mill Road,119.171,,,,45 mph,,,,,,,5632734,NY 151
+41864549,41726322,0,False,secondary,Red Mill Road,360.606,,,,45 mph,,,,,,,5632734,NY 151
+41864549,41841149,0,False,secondary,Red Mill Road,306.123,,,,45 mph,,,,,,,5632734,NY 151
+41864549,41749619,0,False,tertiary,Eastern Avenue,294.832,,,,30 mph,,,,,,,32919973,CR 60
+41864994,1949036606,0,False,tertiary,Hampton Avenue,63.04,,,,30 mph,,,,,,,5632805,CR 60
+41864994,41772663,0,False,tertiary,Hudson Avenue,134.169,,,,30 mph,,,,,,,37856554,CR 60
+41864994,41882786,0,False,residential,Hudson Avenue,219.594,,,,30 mph,,,,,,,5635189,
+41864995,41882800,0,False,tertiary,Eastern Avenue,81.454,,,,30 mph,,,,,,,32919973,CR 60
+41864995,41749619,0,False,tertiary,Eastern Avenue,82.014,,,,30 mph,,,,,,,32919973,CR 60
+41864995,41772659,0,False,residential,Hampton Avenue,195.577,,,,30 mph,,,,,,,5632822,
+41865035,41774069,0,False,residential,McCullough Place,97.404,,,,,,,,,,,5634187,
+41865035,41865046,0,False,tertiary,Hampton Avenue,151.641,,,,30 mph,,,,,,,184426780,CR 60
+41865035,1949036606,0,False,tertiary,Hampton Avenue,51.162,,,,30 mph,,,,,,,184426780,CR 60
+41865046,41882786,0,False,residential,Park Avenue,104.003,,,,30 mph,,,,,,,5639376,
+41865046,41734898,0,False,tertiary,Hampton Avenue,70.802,,,,30 mph,,,,,,,184426780,CR 60
+41865046,41865035,0,False,tertiary,Hampton Avenue,151.641,,,,30 mph,,,,,,,184426780,CR 60
+41865051,41734898,0,False,tertiary,Hampton Avenue,50.004,,,,30 mph,,,,,,,184426780,CR 60
+41865051,41895705,0,False,residential,Lake Shore Drive,312.355,,,,30 mph,,,,,,,5636725,
+41865051,41865052,0,False,tertiary,Hampton Avenue,82.056,,,,30 mph,,,,,,,184426780,CR 60
+41865052,41812822,0,False,tertiary,Hampton Avenue,14.89,,,,30 mph,,,,,,,184426780,CR 60
+41865052,41865051,0,False,tertiary,Hampton Avenue,82.056,,,,30 mph,,,,,,,184426780,CR 60
+41865052,41753326,0,False,residential,Lake Shore Drive,81.931,,,,25 mph,,,,,,,184426785,
+41865056,41865057,0,False,tertiary,Hampton Avenue,80.867,,,,30 mph,,,,,,,184426780,CR 60
+41865056,41812822,0,False,tertiary,Hampton Avenue,78.918,,,,30 mph,,,,,,,184426780,CR 60
+41865056,41876930,0,False,residential,Saint Clair Avenue,203.033,,,,30 mph,,,,,,,5634524,
+41865057,41865060,0,False,tertiary,Hampton Avenue,12.299,,,,30 mph,,,,,,,184426780,CR 60
+41865057,41865056,0,False,tertiary,Hampton Avenue,80.867,,,,30 mph,,,,,,,184426780,CR 60
+41865057,41943027,0,False,residential,Western Avenue,222.863,,,,30 mph,,,,,,,5640045,
+41865060,41753324,0,False,residential,Western Avenue,80.15,,,,30 mph,,,,,,,5640044,
+41865060,41859888,0,False,tertiary,Hampton Avenue,64.505,,,,30 mph,,,,,,,184426780,CR 60
+41865060,41865057,0,False,tertiary,Hampton Avenue,12.299,,,,30 mph,,,,,,,184426780,CR 60
+41865064,41859888,0,False,tertiary,Hampton Avenue,50.721,,,,30 mph,,,,,,,184426780,CR 60
+41865064,41877442,0,False,residential,Muriel Avenue,175.809,,,,30 mph,,,,,,,5638272,
+41865064,41695333,0,False,tertiary,Hampton Avenue,125.044,,,,30 mph,,,,,,,184426780,CR 60
+41865403,41813494,0,False,residential,Rose Lane,430.311,,,,25 mph,,,,,,,52047456,
+41865403,41865403,0,False,residential,Rose Lane,75.212,,,,25 mph,,,,,,,52047460,
+41865403,41865403,1,False,residential,Rose Lane,75.212,,,,25 mph,,,,,,,52047460,
+41868910,41827232,0,False,residential,Connecticut Avenue,355.344,,,,30 mph,,,,,,,5633435,
+41868910,41854652,0,False,residential,Massachusetts Avenue,100.496,,,,30 mph,,,,,,,5636743,
+41868910,41732974,0,False,residential,"['New York Avenue', 'Massachusetts Avenue']",493.244,,,,30 mph,,,,,,,"[5617094, 5636743]",
+41874128,41734914,0,False,residential,McCullough Place,119.558,,,,,,,,,,,5634187,
+41876100,41832029,0,False,residential,Cobblers Lane,115.226,,,,30 mph,,,,,,,5636579,
+41876100,41841144,0,False,tertiary,Third Avenue Extension,14.267,2,,,45 mph,,,,,,,32826460,
+41876100,41738096,0,False,tertiary,Third Avenue Extension,127.778,2,,,45 mph,,,,,,,32826460,
+41876182,41895195,0,False,residential,Cedar Crest Drive,115.755,,,,30 mph,,,,,,,5636667,
+41876182,1000243402,0,False,tertiary,Third Avenue Extension,325.931,2,,,45 mph,,,,,,,32826460,
+41876182,41841144,0,False,tertiary,Third Avenue Extension,224.149,2,,,45 mph,,,,,,,32826460,
+41876236,41898368,0,False,residential,Patroon Lane,197.171,,,,30 mph,,,,,,,5637067,
+41876236,41830506,0,False,tertiary,Third Avenue Extension,95.754,2,,,45 mph,,,,,,,32826460,
+41876864,41726242,0,False,residential,Theresa Lane,73.466,,,,25 mph,,,,,,,5634513,
+41876864,41876864,0,False,residential,Theresa Lane,44.805,,,,25 mph,,,,,,,5634511,
+41876864,41876864,1,False,residential,Theresa Lane,44.805,,,,25 mph,,,,,,,5634511,
+41876930,41865056,0,False,residential,Saint Clair Avenue,203.033,,,,30 mph,,,,,,,5634524,
+41877442,41917914,0,False,residential,Muriel Avenue,74.683,,,,30 mph,,,,,,,5638272,
+41877442,41862424,0,False,residential,Clinton Street,72.151,,,,30 mph,,,,,,,201309988,
+41877442,41865064,0,False,residential,Muriel Avenue,175.809,,,,30 mph,,,,,,,5638272,
+41877442,41744743,0,False,residential,Clinton Street,73.676,,,,30 mph,,,,,,,201309988,
+41877451,41862424,0,False,residential,Clinton Street,126.052,,,,30 mph,,,,,,,201309988,
+41879899,41738388,0,False,residential,"['Kitty Court', 'Kitty Lane']",414.667,,,,30 mph,,,,,,,"[5634836, 5617750]",
+41882786,41895705,0,False,residential,Park Avenue,106.652,,,,30 mph,,,,,,,5639376,
+41882786,41865046,0,False,residential,Park Avenue,104.003,,,,30 mph,,,,,,,5639376,
+41882786,41864994,0,False,residential,Hudson Avenue,219.594,,,,30 mph,,,,,,,5635189,
+41882800,41864995,0,False,tertiary,Eastern Avenue,81.454,,,,30 mph,,,,,,,32919973,CR 60
+41882800,41772663,0,False,tertiary,Hudson Avenue,218.375,,,,30 mph,,,,,,,37856554,CR 60
+41882800,41893109,0,False,residential,Eastern Avenue,78.341,,,,30 mph,,,,,,,37856555,
+41882805,41882807,0,False,residential,Hudson Avenue,145.518,,,,30 mph,,,,,,,5635190,
+41882805,41753324,0,False,residential,Western Avenue,81.762,,,,30 mph,,,,,,,5640044,
+41882805,41931621,0,False,residential,Western Avenue,79.209,,,,30 mph,,,,,,,5640044,
+41882805,41730509,0,False,residential,Hudson Avenue,110.615,,,,30 mph,,,,,,,5635190,
+41882807,41882805,0,False,residential,Hudson Avenue,145.518,,,,30 mph,,,,,,,5635190,
+41882807,41753326,0,False,residential,Lake Shore Drive,84.745,,,,25 mph,,,,,,,184426785,
+41882807,41895607,0,False,residential,Lake Shore Drive,87.037,,,,25 mph,,,,,,,184426785,
+41885014,41885034,0,False,residential,Carpinello Road,209.791,,,,30 mph,,,,,,,33046849,
+41885014,41827225,0,False,unclassified,Discovery Drive,874.202,,,,30 mph,,,,,,,123323365,
+41885014,41885045,0,False,unclassified,Discovery Drive,318.748,,,,30 mph,,,,,,,123323365,
+41885034,41885014,0,False,residential,Carpinello Road,209.791,,,,30 mph,,,,,,,33046849,
+41885041,1375673041,0,False,residential,Catskill Avenue,8.719,,,,30 mph,,,,,,,32968778,
+41885041,41885045,0,True,unclassified,Discovery Drive,37.755,,,,,,,,,,,5613381,
+41885041,41905058,0,False,residential,Catskill Avenue,354.414,,,,30 mph,,,,,,,32968778,
+41885045,1375673041,0,True,unclassified,Discovery Drive,35.584,,,,,,,,,,,123323366,
+41885045,41885014,0,False,unclassified,Discovery Drive,318.748,,,,30 mph,,,,,,,123323365,
+41887484,41812760,0,False,residential,Greenbush Avenue,35.856,,,,30 mph,,,,,,,5635769,
+41888366,41841145,0,False,residential,Pauline Court,103.465,,,,30 mph,,,,,,,5635880,
+41893109,41772664,0,False,residential,Washington Avenue East,244.889,,,,30 mph,,,,,,,5638819,
+41893109,41772666,0,False,residential,"['Madison Avenue East', 'Eastern Avenue']",344.335,,,,30 mph,,,,,,,"[37856555, 5621614]",
+41893109,41882800,0,False,residential,Eastern Avenue,78.341,,,,30 mph,,,,,,,37856555,
+41895190,41895195,0,False,residential,Cedar Crest Drive,21.005,,,,30 mph,,,,,,,5636667,
+41895190,41895195,1,False,residential,Cedar Crest Drive,84.104,,,,30 mph,,,,,,,5637131,
+41895190,1000243358,0,False,residential,Cedar Crest Drive,68.245,,,,30 mph,,,,,,,5637130,
+41895195,41895190,0,False,residential,Cedar Crest Drive,21.005,,,,30 mph,,,,,,,5636667,
+41895195,41895190,1,False,residential,Cedar Crest Drive,84.104,,,,30 mph,,,,,,,5637131,
+41895195,41876182,0,False,residential,Cedar Crest Drive,115.755,,,,30 mph,,,,,,,5636667,
+41895584,41730520,0,False,residential,Maryland Avenue West,154.358,,,,30 mph,,,,,,,5638472,
+41895584,41895590,0,False,residential,Lake Shore Drive,85.389,,,,25 mph,,,,,,,184426785,
+41895584,41748680,0,False,residential,Lake Shore Drive,288.025,,,,25 mph,,,,,,,184426785,
+41895590,41730519,0,False,residential,Spring Avenue West,138.543,,,,30 mph,,,,,,,5640188,
+41895590,41779394,0,False,residential,Lake Shore Drive,81.877,,,,25 mph,,,,,,,184426785,
+41895590,41895584,0,False,residential,Lake Shore Drive,85.389,,,,25 mph,,,,,,,184426785,
+41895607,41931621,0,False,residential,Washington Avenue West,120.134,,,,30 mph,,,,,,,5639288,
+41895607,41882807,0,False,residential,Lake Shore Drive,87.037,,,,25 mph,,,,,,,184426785,
+41895607,41779394,0,False,residential,Lake Shore Drive,73.961,,,,25 mph,,,,,,,184426785,
+41895639,41895705,0,False,residential,Lake Shore Drive,22.186,,,,30 mph,,,,,,,5636725,
+41895639,41772664,0,False,residential,Washington Avenue East,320.088,,,,30 mph,,,,,,,5638819,
+41895639,41774913,0,False,residential,Lake Shore Drive,80.827,,,,30 mph,,,,,,,5636716,
+41895705,41895639,0,False,residential,Lake Shore Drive,22.186,,,,30 mph,,,,,,,5636725,
+41895705,41882786,0,False,residential,Park Avenue,106.652,,,,30 mph,,,,,,,5639376,
+41895705,41865051,0,False,residential,Lake Shore Drive,312.355,,,,30 mph,,,,,,,5636725,
+41896064,41854659,0,False,tertiary,Sherwood Avenue,76.19,,,,30 mph,,,,,,,5640043,CR 59
+41896064,41827245,0,False,tertiary,Sherwood Avenue,76.066,,,,30 mph,,,,,,,5640043,CR 59
+41896064,2074032375,0,False,residential,Massachusetts Avenue,135.782,,,,30 mph,,,,,,,5636743,
+41896064,41854652,0,False,residential,Massachusetts Avenue,339.469,,,,30 mph,,,,,,,5636743,
+41898368,41876236,0,False,residential,Patroon Lane,197.171,,,,30 mph,,,,,,,5637067,
+41904528,41904530,0,False,residential,State Street,102.307,,,,30 mph,,,,,,,5637444,
+41904528,41797218,0,False,tertiary,Sherwood Avenue,74.809,,,,30 mph,,,,,,,5640043,CR 59
+41904528,41864517,0,False,tertiary,Sherwood Avenue,73.19,,,,30 mph,,,,,,,5640043,CR 59
+41904530,41904528,0,False,residential,State Street,102.307,,,,30 mph,,,,,,,5637444,
+41905058,41885041,0,False,residential,Catskill Avenue,354.414,,,,30 mph,,,,,,,32968778,
+41915843,41680208,0,False,residential,Brossel Road,249.506,,,,,,,,,,,5638138,
+41917914,41877442,0,False,residential,Muriel Avenue,74.683,,,,30 mph,,,,,,,5638272,
+41917914,41724119,0,False,tertiary,Sherwood Avenue,256.156,,,,30 mph,,,,,,,5640043,CR 59
+41919977,41680278,0,False,residential,Anna Bell Lane,111.443,,,,30 mph,,,,,,,161118775,
+41926656,41726322,0,False,residential,Robert Lane,9.047,,,,25 mph,,,,,,,112401604,
+41926656,41926678,0,True,residential,Robert Lane,128.868,,,,25 mph,,,,,,,5638847,
+41926678,41791220,0,False,residential,Robert Lane,6.31,,,,25 mph,,,,,,,52047457,
+41926678,41926656,0,True,residential,Robert Lane,127.918,,,,25 mph,,,,,,,5638843,
+41926710,41926710,0,False,residential,Robert Lane,82.864,,,,25 mph,,,,,,,5638850,
+41926710,41926710,1,False,residential,Robert Lane,82.864,,,,25 mph,,,,,,,5638850,
+41926710,41813512,0,False,residential,Robert Lane,55.481,,,,25 mph,,,,,,,52047457,
+41931621,41882805,0,False,residential,Western Avenue,79.209,,,,30 mph,,,,,,,5640044,
+41931621,41895607,0,False,residential,Washington Avenue West,120.134,,,,30 mph,,,,,,,5639288,
+41931621,41730511,0,False,residential,Washington Avenue West,68.687,,,,30 mph,,,,,,,5639288,
+41931621,41779385,0,False,residential,Western Avenue,80.668,,,,30 mph,,,,,,,5640044,
+41933641,41834800,0,False,residential,Flora Circle,110.983,,,,30 mph,,,,,,,5639422,
+41933641,41933641,0,False,residential,Flora Circle,99.653,,,,30 mph,,,,,,,5639423,
+41933641,41933641,1,False,residential,Flora Circle,99.653,,,,30 mph,,,,,,,5639423,
+41943027,41865057,0,False,residential,Western Avenue,222.863,,,,30 mph,,,,,,,5640045,
+41955741,41797218,0,False,residential,New Hampshire Avenue,68.488,,,,30 mph,,,,,,,5640772,
+41973431,41973448,0,False,residential,Capitol Place,31.536,,,,25 mph,,,,,,,5641959,
+41973431,41973448,1,False,residential,Capitol Place,112.493,,,,25 mph,,,,,,,5641962,
+41973431,41822191,0,False,residential,Capitol Place,135.731,,,,25 mph,,,,,,,5641959,
+41973448,41737910,0,False,residential,Capitol Place,292.499,,,,25 mph,,,,,,,5641959,
+41973448,41973431,0,False,residential,Capitol Place,31.536,,,,25 mph,,,,,,,5641959,
+41973448,41973431,1,False,residential,Capitol Place,112.493,,,,25 mph,,,,,,,5641962,
+587358712,587358717,0,False,residential,Forrest Pointe Drive,173.537,,,,,,,,,,,46053460,
+587358712,588031097,0,False,residential,Forrest Pointe Drive,111.624,,,,,,,,,,,46053460,
+587358712,588031102,0,False,residential,Rockrose Drive,163.35,,,,,,,,,,,46053461,
+587358717,587358712,0,False,residential,Forrest Pointe Drive,173.537,,,,,,,,,,,46053460,
+587358744,588031110,0,False,residential,Rockrose Drive,301.382,,,,,,,,,,,46053461,
+587358744,588031102,0,False,residential,Rockrose Drive,495.156,,,,,,,,,,,46053461,
+587358744,587358767,0,False,residential,Windsor Crossing,152.707,,,,,,,,,,,46053464,
+587358767,587358744,0,False,residential,Windsor Crossing,152.707,,,,,,,,,,,46053464,
+588031097,41727520,0,False,residential,Forrest Pointe Drive,5.524,,,,,,,,,,,46053460,
+588031097,587358712,0,False,residential,Forrest Pointe Drive,111.624,,,,,,,,,,,46053460,
+588031097,588031101,0,False,residential,Forrest Drive,105.522,,,,,,,,,,,46121392,
+588031101,1540329945,0,False,residential,Forrest Drive,22.706,,,,,,,,,,,140623098,
+588031101,588031097,0,False,residential,Forrest Drive,105.522,,,,,,,,,,,46121392,
+588031101,41727520,0,False,residential,Forrest Drive,51.447,,,,,,,,,,,140623098,
+588031102,587358744,0,False,residential,Rockrose Drive,495.156,,,,,,,,,,,46053461,
+588031102,587358712,0,False,residential,Rockrose Drive,163.35,,,,,,,,,,,46053461,
+588031102,41727520,0,False,residential,Forrest Drive,288.447,,,,,,,,,,,140623098,
+588031110,587358744,0,False,residential,Rockrose Drive,301.382,,,,,,,,,,,46053461,
+588031110,588031110,0,False,residential,Rockrose Drive,122.219,,,,,,,,,,,46121391,
+588031110,588031110,1,False,residential,Rockrose Drive,122.219,,,,,,,,,,,46121391,
+663451604,41769277,0,False,residential,Alice Lane,38.897,,,,,,,,,,,5620920,
+663451604,41769318,0,False,residential,Alice Lane,163.349,,,,,,,,,,,5620920,
+663451604,663451607,0,False,residential,Siena Lane,124.037,,,,,,,,,,,52047458,
+663451607,663451604,0,False,residential,Siena Lane,124.037,,,,,,,,,,,52047458,
+663451607,663451607,0,False,residential,Siena Lane,76.204,,,,,,,,,,,52047459,
+663451607,663451607,1,False,residential,Siena Lane,76.204,,,,,,,,,,,52047459,
+1000243323,1000243396,0,False,residential,Redwood Court,26.344,,,,30 mph,,,,,,,86175392,
+1000243323,1000243345,0,False,residential,Redwood Court,85.699,,,,30 mph,,,,,,,86175392,
+1000243323,1000243358,0,False,residential,Cedar Crest Drive,142.091,,,,30 mph,,,,,,,5637130,
+1000243345,1000243323,0,False,residential,Redwood Court,85.699,,,,30 mph,,,,,,,86175392,
+1000243345,1000243402,0,False,residential,Redwood Court,56.569,,,,30 mph,,,,,,,86175392,
+1000243345,1000243358,0,False,residential,Sequoia Drive,174.114,,,,30 mph,,,,,,,86175395,
+1000243358,1000243323,0,False,residential,Cedar Crest Drive,142.091,,,,30 mph,,,,,,,5637130,
+1000243358,41895190,0,False,residential,Cedar Crest Drive,68.245,,,,30 mph,,,,,,,5637130,
+1000243358,1000243345,0,False,residential,Sequoia Drive,174.114,,,,30 mph,,,,,,,86175395,
+1000243396,1000243323,0,False,residential,Redwood Court,26.344,,,,30 mph,,,,,,,86175392,
+1000243396,1000243396,0,False,residential,Redwood Court,70.664,,,,30 mph,,,,,,,86175394,
+1000243396,1000243396,1,False,residential,Redwood Court,70.664,,,,30 mph,,,,,,,86175394,
+1000243402,1000243345,0,False,residential,Redwood Court,56.569,,,,30 mph,,,,,,,86175392,
+1000243402,41731397,0,False,tertiary,Third Avenue Extension,120.913,2,,,45 mph,,,,,,,32826460,
+1000243402,41876182,0,False,tertiary,Third Avenue Extension,325.931,2,,,45 mph,,,,,,,32826460,
+1041263932,41830506,0,False,tertiary,Third Avenue Extension,11.075,2,,,45 mph,,,,,,,32826460,
+1041263932,41862192,0,False,tertiary,Third Avenue Extension,447.757,2,,,45 mph,,,,,,,32826460,
+1041263932,41830508,0,False,unclassified,Krey Boulevard,87.41,,,,30 mph,,,,,,,89827358,
+1375673041,41885041,0,False,residential,Catskill Avenue,8.719,,,,30 mph,,,,,,,32968778,
+1510083693,2501028969,0,False,unclassified,Mannix Road,40.642,,,,30 mph,,,,,,,137701154,
+1540329945,588031101,0,False,residential,Forrest Drive,22.706,,,,,,,,,,,140623098,
+1540329945,41720192,0,True,residential,Forrest Drive,47.913,,,,,,,,,,,140623100,
+1765663777,41777622,0,True,primary,Troy Road,88.481,,,,45 mph,,,,,,,164975550,US 4
+1765663777,1765663779,0,True,primary,,17.984,,,,,,,,,,roundabout,172868573,US 4;NY 151
+1765663779,1765663780,0,True,primary,,22.843,,,,,,,,,,roundabout,172868573,US 4;NY 151
+1765663780,41850208,0,True,secondary,Luther Road,96.5,,,,45 mph,,,,,,,5630531,NY 151
+1765663784,1765663777,0,True,primary,,11.906,,,,,,,,,,roundabout,172868573,US 4;NY 151
+1765663788,41834403,0,False,secondary,Red Mill Road,135.665,,,,45 mph,,,,,,,5632734,NY 151
+1765663788,1765663784,0,True,secondary,Red Mill Road,44.138,,,,45 mph,,,,,,,164975547,NY 151
+1765663788,41742798,0,False,residential,Old Red Mill Road,41.267,,,,30 mph,,,,,,,215117485,
+1765663790,1765663788,0,True,secondary,Red Mill Road,45.503,,,,45 mph,,,,,,,164975548,NY 151
+1765663790,1765663784,0,True,primary,,17.0,,,,,,,,,,roundabout,172868573,US 4;NY 151
+1765663797,1765663790,0,True,primary,,13.664,,,,,,,,,,roundabout,172868573,US 4;NY 151
+1851845572,41710306,0,True,primary_link,,157.446,,,,,,,,,,,5614181,
+1851845572,41798947,0,False,primary,Columbia Turnpike,162.224,4,,,40 mph,,,,,,,88463007,US 9;US 20
+1851845572,41693062,0,False,primary,Columbia Turnpike,71.819,4,,,40 mph,,,,,,,246815872,US 9;US 20
+1949036606,41864994,0,False,tertiary,Hampton Avenue,63.04,,,,30 mph,,,,,,,5632805,CR 60
+1949036606,41734926,0,False,residential,Hampton Avenue,115.748,,,,30 mph,,,,,,,5632822,
+1949036606,41865035,0,False,tertiary,Hampton Avenue,51.162,,,,30 mph,,,,,,,184426780,CR 60
+2038899633,41772672,0,False,residential,Spring Avenue East,31.504,,,,30 mph,,,,,,,5623599,
+2074032375,41896064,0,False,residential,Massachusetts Avenue,135.782,,,,30 mph,,,,,,,5636743,
+2245339891,41759215,0,False,residential,Hill Avenue,38.327,,,,30 mph,,,,,,,5626227,
+2245339891,2245339892,0,False,residential,Hill Avenue,22.241,,,,,,,,,,,215117483,
+2245339891,41777575,0,False,residential,"['Hill Avenue', 'Pittsfield Avenue']",119.696,,,,30 mph,,,,,,,"[5626227, 5637102]",
+2245339892,2245339891,0,False,residential,Hill Avenue,22.241,,,,,,,,,,,215117483,
+2245339892,41777572,0,False,primary,Troy Road,5.286,2,,,45 mph,,,,,,,250248373,US 4
+2245339892,41759216,0,False,primary,Troy Road,35.709,2,,,45 mph,,,,,,,250248373,US 4
+2501028961,2501028954,0,True,primary,Troy Road,15.889,,,,,,,,,,roundabout,242645737,
+2501028969,2501028961,0,True,unclassified,Mannix Road,26.464,,,,30 mph,,,,,,,242645736,
+2501028969,1510083693,0,False,unclassified,Mannix Road,40.642,,,,30 mph,,,,,,,137701154,
+2501028986,41741572,0,False,primary,Troy Road,95.351,4,,,45 mph,,,,,,,121772579,US 4
+2501028986,3915184820,0,True,primary,Troy Road,127.401,2,,,45 mph,,,,,,,242645740,US 4
+2567269041,41711477,0,True,primary_link,,111.195,,,,,,,,,,,5614372,
+2567269041,41710306,0,False,primary,Troy Road,19.493,2,,,45 mph,,,,,,,5621911,US 4
+2567269041,41693062,0,False,primary,Troy Road,97.136,2,,,45 mph,,,,,,,5621911,US 4
+2733694991,41862812,0,False,residential,Oriel Lane,704.87,,,,30 mph,,,,,,,"[5632469, 267992447]",
+3915184820,3915184821,0,True,primary,Troy Road,7.165,,,,,,,,,,roundabout,242645737,
+3915184821,2501028969,0,True,unclassified,Mannix Road,23.663,,,,30 mph,,,,,,,242645735,
+3915184821,2501028961,0,True,primary,Troy Road,18.549,,,,,,,,,,roundabout,242645737,

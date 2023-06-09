@@ -1,0 +1,318 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+213263300,213263302,0,False,residential,Walnut Street,107.2,,,,,,,,,,,20167265,
+213263300,213263370,0,False,residential,Walnut Street,102.832,,,,,,,,,,,20167265,
+213263300,213293072,0,False,residential,Oak Street,117.427,,,,,,,,,,,20170035,
+213263302,213263304,0,False,residential,Walnut Street,90.945,,,,,,,,,,,20167265,
+213263302,213263300,0,False,residential,Walnut Street,107.2,,,,,,,,,,,20167265,
+213263304,213263302,0,False,residential,Walnut Street,90.945,,,,,,,,,,,20167265,
+213263304,213289148,0,False,residential,Chapel Street,117.865,,,,,,,,,,,20169347,
+213263304,213318660,0,False,residential,"['Ridge Street', 'Walnut Street']",233.731,,,,,,,,,,,"[20167265, 20171637]",
+213263363,213263365,0,False,residential,Walnut Street,95.739,,,,,,,,,,,20167263,
+213263363,213287397,0,False,primary,Fall Street,34.287,2,,,,,,,,,,20169225,US 20;NY 5;NY 414
+213263365,213263363,0,False,residential,Walnut Street,95.739,,,,,,,,,,,20167263,
+213263365,213293063,0,False,residential,Miller Street,108.397,,,,,,,,,,,20170902,
+213263365,213263370,0,False,residential,Miller Street,9.61,,,,,,,,,,,20170902,
+213263370,213263365,0,False,residential,Miller Street,9.61,,,,,,,,,,,20170902,
+213263370,213263300,0,False,residential,Walnut Street,102.832,,,,,,,,,,,20167265,
+213265409,213265412,0,False,residential,,19.291,,,,,,,,,,,20167376,
+213265409,213283251,0,False,primary,Auburn Road,274.148,2,,,,,,,,,,20171571,US 20;NY 5
+213265409,213295986,0,False,primary,Auburn Road,766.557,2,,,,,,,,,,20171571,US 20;NY 5
+213265412,213265409,0,False,residential,,19.291,,,,,,,,,,,20167376,
+213265412,213265422,0,False,residential,,247.526,,,,,,,,,,,20167376,
+213265412,213272973,0,False,residential,,80.506,,,,,,,,,,,20168118,
+213265422,213265412,0,False,residential,,247.526,,,,,,,,,,,20167376,
+213265422,213283251,0,False,secondary,,169.852,,,,,,,,,,,339479931,NY 318
+213265422,213283222,0,False,secondary,,1917.522,,,,,,,,,,,339479931,NY 318
+213272973,213265412,0,False,residential,,80.506,,,,,,,,,,,20168118,
+213273641,213273666,0,False,primary,Auburn Road,56.029,2,,,,,,,,,,20171571,US 20;NY 5
+213273641,213273666,1,False,residential,,115.77,,,,,,,,,,,20168173,
+213273641,213275960,0,False,primary,"['Auburn Street', 'Auburn Road']",1424.934,2,,,,,,,,,,"[20169832, 20171571]",US 20;NY 5
+213273666,213273641,0,False,primary,Auburn Road,56.029,2,,,,,,,,,,20171571,US 20;NY 5
+213273666,213273641,1,False,residential,,115.77,,,,,,,,,,,20168173,
+213273666,213277356,0,False,primary,Auburn Road,136.992,2,,,,,,,,,,20171571,US 20;NY 5
+213273681,213273691,0,False,residential,,150.354,,,,,,,,,,,20168175,
+213273681,213306350,0,False,tertiary,Gravel Road,641.683,,,,,,,,,,,20171368,CR 101
+213273681,213313763,0,False,tertiary,Gravel Road,826.632,,,,,,,,,,,20171368,CR 101
+213273691,213273681,0,False,residential,,150.354,,,,,,,,,,,20168175,
+213273864,213273864,0,False,residential,Rodman Drive,137.722,,,,,,,,,,,20168193,
+213273864,213273864,1,False,residential,Rodman Drive,137.722,,,,,,,,,,,20168193,
+213273864,213275960,0,False,residential,Rodman Drive,379.455,,,,,,,,,,,20168399,
+213274042,213297044,0,False,tertiary,Black Brook Road,528.882,,,,,,,,,,,20170590,CR 102
+213275556,213308181,0,False,residential,Troy Street,370.119,,,,,,,,,,,20172679,
+213275556,213311959,0,False,residential,Troy Street,163.73,,,,,,,,,,,20172679,
+213275556,213292890,0,False,residential,Tyre Avenue,314.054,,,,,,,,,,,20172728,
+213275960,213273864,0,False,residential,Rodman Drive,379.455,,,,,,,,,,,20168399,
+213275960,213273641,0,False,primary,"['Auburn Street', 'Auburn Road']",1424.934,2,,,,,,,,,,"[20169832, 20171571]",US 20;NY 5
+213275960,213280282,0,False,primary,Auburn Street,382.333,2,,,,,,,,,,20169832,US 20;NY 5
+213276072,213280259,0,False,residential,Lamb Road,74.976,,,,,,,,,,,20168717,
+213277356,213277364,0,False,residential,,164.653,,,,,,,,,,,20168521,
+213277356,213295986,0,False,primary,Auburn Road,456.428,2,,,,,,,,,,20171571,US 20;NY 5
+213277356,213273666,0,False,primary,Auburn Road,136.992,2,,,,,,,,,,20171571,US 20;NY 5
+213277364,213277356,0,False,residential,,164.653,,,,,,,,,,,20168521,
+213279888,213295349,0,False,primary,Auburn Street,20.101,2,,,,,,,,,,20169832,US 20;NY 5
+213279888,213295346,0,False,primary,Auburn Street,44.861,2,,,,,,,,,,20169832,US 20;NY 5
+213279888,213279894,0,False,residential,Cayuga Street,30.024,,,,,,,,,,,20168671,
+213279894,213279888,0,False,residential,Cayuga Street,30.024,,,,,,,,,,,20168671,
+213279894,213292946,0,False,residential,Cayuga Street,230.342,,,,,,,,,,,44697319,
+213279894,213295346,0,False,residential,Cayuga Street,52.221,,,,,,,,,,,44697319,
+213280259,213276072,0,False,residential,Lamb Road,74.976,,,,,,,,,,,20168717,
+213280259,213280282,0,False,residential,Lamb Road,456.126,,,,,,,,,,,20168717,
+213280259,213287026,0,False,residential,Johnston Street,1211.331,,,,,,,,,,,20169199,
+213280282,213280259,0,False,residential,Lamb Road,456.126,,,,,,,,,,,20168717,
+213280282,213275960,0,False,primary,Auburn Street,382.333,2,,,,,,,,,,20169832,US 20;NY 5
+213280282,213295349,0,False,primary,Auburn Street,373.976,2,,,,,,,,,,20169832,US 20;NY 5
+213281609,213281636,0,False,residential,Tall Oaks Drive,44.835,,,,,,,,,,,20172677,
+213281609,213281636,1,False,residential,Green Belt Circle,85.848,,,,,,,,,,,20168837,
+213281609,213311973,0,False,residential,Troy Street,22.207,,,,,,,,,,,20172679,
+213281636,213281609,0,False,residential,Tall Oaks Drive,44.835,,,,,,,,,,,20172677,
+213281636,213281609,1,False,residential,Green Belt Circle,85.848,,,,,,,,,,,20168837,
+213281636,213287528,0,False,residential,Tall Oaks Drive,365.162,,,,,,,,,,,20172677,
+213282510,213282512,0,False,residential,Rumsey Street,53.505,,,,,,,,,,,20168888,
+213282510,213300893,0,False,residential,Ridge Street,22.56,,,,,,,,,,,20171637,
+213282510,213318660,0,False,residential,Ridge Street,302.976,,,,,,,,,,,20171637,
+213282512,213282510,0,False,residential,Rumsey Street,53.505,,,,,,,,,,,20168888,
+213283222,213296974,0,False,tertiary,Gravel Road,926.679,,,,,,,,,,,20171368,CR 101
+213283222,213265422,0,False,secondary,,1917.522,,,,,,,,,,,339479931,NY 318
+213283251,213265409,0,False,primary,Auburn Road,274.148,2,,,,,,,,,,20171571,US 20;NY 5
+213283251,213265422,0,False,secondary,,169.852,,,,,,,,,,,339479931,NY 318
+213283741,213283756,0,False,residential,Porter Street,273.468,,,,,,,,,,,20168956,
+213283741,213293114,0,False,residential,Clinton Street,955.84,,,,,,,,,,,20169668,
+213283741,213284380,0,False,residential,Clinton Street,132.467,,,,,,,,,,,20169668,
+213283756,213296445,0,False,residential,Mynderse Street,89.033,,,,,,,,,,,20170951,
+213283756,213284391,0,False,residential,Mynderse Street,94.36,,,,,,,,,,,20170951,
+213283756,213283764,0,False,residential,Porter Street,270.91,,,,,,,,,,,20168956,
+213283756,213283741,0,False,residential,Porter Street,273.468,,,,,,,,,,,20168956,
+213283764,213283773,0,False,residential,Porter Street,110.598,,,,,,,,,,,20168956,
+213283764,213283756,0,False,residential,Porter Street,270.91,,,,,,,,,,,20168956,
+213283764,213296443,0,False,residential,Troy Street,88.729,,,,,,,,,,,20172679,
+213283764,213284399,0,False,residential,Troy Street,106.193,,,,,,,,,,,20172679,
+213283773,213284837,0,False,residential,State Street,375.816,,,,,,,,,,,20169645,
+213283773,213292910,0,False,residential,State Street,96.118,,,,,,,,,,,20169645,
+213283773,213283764,0,False,residential,Porter Street,110.598,,,,,,,,,,,20168956,
+213284380,213284391,0,False,residential,Van Cleef Street,181.682,,,,,,,,,,,20168998,
+213284380,213283741,0,False,residential,Clinton Street,132.467,,,,,,,,,,,20169668,
+213284380,213293080,0,False,residential,Clinton Street,130.743,,,,,,,,,,,20169668,
+213284391,213283756,0,False,residential,Mynderse Street,94.36,,,,,,,,,,,20170951,
+213284391,213302632,0,False,residential,Mynderse Street,101.397,,,,,,,,,,,20170951,
+213284391,213284399,0,False,residential,Van Cleef Street,230.705,,,,,,,,,,,20168998,
+213284391,213284380,0,False,residential,Van Cleef Street,181.682,,,,,,,,,,,20168998,
+213284399,213302643,0,False,residential,Troy Street,111.284,,,,,,,,,,,20172679,
+213284399,213284391,0,False,residential,Van Cleef Street,230.705,,,,,,,,,,,20168998,
+213284399,213283764,0,False,residential,Troy Street,106.193,,,,,,,,,,,20172679,
+213284821,213298513,0,False,primary,Cayuga Street,100.307,2,,,,,,,,,,121772454,US 20;NY 5
+213284821,213295706,0,False,primary,Cayuga Street,93.023,2,,,,,,,,,,121772454,US 20;NY 5
+213284821,213284837,0,False,residential,Beryl Avenue,187.606,,,,,,,,,,,20169030,
+213284837,213292914,0,False,residential,State Street,19.866,,,,,,,,,,,20169645,
+213284837,213283773,0,False,residential,State Street,375.816,,,,,,,,,,,20169645,
+213284837,213284821,0,False,residential,Beryl Avenue,187.606,,,,,,,,,,,20169030,
+213287026,213287057,0,False,residential,Johnston Street,108.125,,,,,,,,,,,20169199,
+213287026,213319054,0,False,residential,"['Johnston Street', 'Pine Street']",271.305,,,,,,,,,,,"[20171675, 20169197]",
+213287026,213280259,0,False,residential,Johnston Street,1211.331,,,,,,,,,,,20169199,
+213287057,213287026,0,False,residential,Johnston Street,108.125,,,,,,,,,,,20169199,
+213287057,213287066,0,False,residential,Johnston Street,146.017,,,,,,,,,,,20169199,
+213287057,213317226,0,False,residential,Maple Street,91.386,,,,,,,,,,,20171843,
+213287066,213317228,0,False,primary,Cayuga Street,145.679,2,,,,,,,,,,121772454,US 20;NY 5
+213287066,213298513,0,False,primary,Cayuga Street,88.511,2,,,,,,,,,,121772454,US 20;NY 5
+213287066,213287057,0,False,residential,Johnston Street,146.017,,,,,,,,,,,20169199,
+213287397,213263363,0,False,primary,Fall Street,34.287,2,,,,,,,,,,20169225,US 20;NY 5;NY 414
+213287397,213287406,0,False,primary,Fall Street,77.125,2,,,,,,,,,,"[20169225, 100137894]",US 20;NY 5;NY 414
+213287397,213309465,0,False,residential,South Walnut Street,59.98,,,,,,,,,,,20170875,
+213287406,213293063,0,False,residential,Clinton Street,95.675,,,,,,,,,,,20169668,
+213287406,213287414,0,False,primary,Fall Street,86.261,2,,,,,,,,,,100137894,US 20;NY 5;NY 414
+213287406,213287397,0,False,primary,Fall Street,77.125,2,,,,,,,,,,"[20169225, 100137894]",US 20;NY 5;NY 414
+213287414,213297880,0,False,residential,Mynderse Street,221.963,,,,,,,,,,,20170951,
+213287414,213287419,0,False,primary,Fall Street,61.296,2,,,,,,,,,,100137894,US 20;NY 5;NY 414
+213287414,213287406,0,False,primary,Fall Street,86.261,2,,,,,,,,,,100137894,US 20;NY 5;NY 414
+213287419,213291989,0,False,residential,State Street,272.822,,,,,,,,,,,20169645,
+213287419,213308649,0,False,residential,Water Street,78.54,,,,,,,,,,,20171777,
+213287419,213287423,0,False,primary,Fall Street,185.043,2,,,,,,,,,,100137894,US 20;NY 5;NY 414
+213287419,213287414,0,False,primary,Fall Street,61.296,2,,,,,,,,,,100137894,US 20;NY 5;NY 414
+213287423,213287430,0,False,primary,Fall Street,60.473,2,,,,,,,,,,44697316,US 20;NY 5;NY 414
+213287423,213287419,0,False,primary,Fall Street,185.043,2,,,,,,,,,,100137894,US 20;NY 5;NY 414
+213287430,213330555,0,False,primary,Cayuga Street,80.211,3,,,,,,,,,,44697314,US 20;NY 5
+213287430,213287455,0,False,residential,Fall Street,120.442,,,,,,,,,,,44697315,
+213287430,213287423,0,False,primary,Fall Street,60.473,2,,,,,,,,,,44697316,US 20;NY 5;NY 414
+213287455,213318093,0,False,residential,Trinity Lane,9.669,,,,,,,,,,,20171592,
+213287455,213287469,0,False,residential,Fall Street,93.735,,,,,,,,,,,44697315,
+213287455,213287430,0,False,residential,Fall Street,120.442,,,,,,,,,,,44697315,
+213287469,213287455,0,False,residential,Fall Street,93.735,,,,,,,,,,,44697315,
+213287528,213287541,0,False,residential,Edgewood Road,155.927,,,,,,,,,,,20169231,
+213287528,213287541,1,False,residential,"['Leland Drive', 'Tall Oaks Drive']",406.446,,,,,,,,,,,"[20170764, 20172677]",
+213287528,213281636,0,False,residential,Tall Oaks Drive,365.162,,,,,,,,,,,20172677,
+213287541,213287528,0,False,residential,Edgewood Road,155.927,,,,,,,,,,,20169231,
+213287541,213287528,1,False,residential,"['Leland Drive', 'Tall Oaks Drive']",406.446,,,,,,,,,,,"[20170764, 20172677]",
+213287541,213308181,0,False,residential,Leland Drive,332.758,,,,,,,,,,,20170764,
+213289148,213263304,0,False,residential,Chapel Street,117.865,,,,,,,,,,,20169347,
+213289148,213293080,0,False,residential,Clinton Street,212.023,,,,,,,,,,,20169668,
+213289148,213289155,0,False,residential,Chapel Street,105.178,,,,,,,,,,,20169347,
+213289148,213293075,0,False,residential,Clinton Street,187.445,,,,,,,,,,,20169668,
+213289155,213289161,0,False,residential,Chapel Street,82.331,,,,,,,,,,,20169347,
+213289155,213289148,0,False,residential,Chapel Street,105.178,,,,,,,,,,,20169347,
+213289155,213302632,0,False,residential,Mynderse Street,243.086,,,,,,,,,,,20170951,
+213289155,213292001,0,False,residential,Mynderse Street,74.407,,,,,,,,,,,20170951,
+213289161,213289164,0,False,residential,Chapel Street,96.054,,,,,,,,,,,20169347,
+213289161,213295901,0,False,residential,Troy Street,155.597,,,,,,,,,,,20172679,
+213289161,213289155,0,False,residential,Chapel Street,82.331,,,,,,,,,,,20169347,
+213289164,213289161,0,False,residential,Chapel Street,96.054,,,,,,,,,,,20169347,
+213289164,213292920,0,False,residential,State Street,19.994,,,,,,,,,,,20169645,
+213289164,213292917,0,False,residential,State Street,37.486,,,,,,,,,,,20169645,
+213291989,213292920,0,False,residential,State Street,46.805,,,,,,,,,,,20169645,
+213291989,213292001,0,False,residential,Jefferson Street,153.431,,,,,,,,,,,20169592,
+213291989,213287419,0,False,residential,State Street,272.822,,,,,,,,,,,20169645,
+213292001,213297880,0,False,residential,Mynderse Street,83.402,,,,,,,,,,,20170951,
+213292001,213291989,0,False,residential,Jefferson Street,153.431,,,,,,,,,,,20169592,
+213292001,213289155,0,False,residential,Mynderse Street,74.407,,,,,,,,,,,20170951,
+213292890,213292946,0,False,residential,State Street,53.583,,,,,,,,,,,20169646,
+213292890,213292905,0,False,residential,State Street,203.736,,,,,,,,,,,20169645,
+213292890,213275556,0,False,residential,Tyre Avenue,314.054,,,,,,,,,,,20172728,
+213292905,213292910,0,False,residential,State Street,109.76,,,,,,,,,,,20169645,
+213292905,213292890,0,False,residential,State Street,203.736,,,,,,,,,,,20169645,
+213292905,213311959,0,False,residential,Butler Avenue,188.739,,,,,,,,,,,20171385,
+213292910,213283773,0,False,residential,State Street,96.118,,,,,,,,,,,20169645,
+213292910,213292905,0,False,residential,State Street,109.76,,,,,,,,,,,20169645,
+213292910,213296443,0,False,residential,Boston Avenue,144.267,,,,,,,,,,,20169940,
+213292914,213292917,0,False,residential,State Street,119.147,,,,,,,,,,,20169645,
+213292914,213284837,0,False,residential,State Street,19.866,,,,,,,,,,,20169645,
+213292914,213295901,0,False,residential,John Street,97.92,,,,,,,,,,,20169879,
+213292917,213289164,0,False,residential,State Street,37.486,,,,,,,,,,,20169645,
+213292917,213292914,0,False,residential,State Street,119.147,,,,,,,,,,,20169645,
+213292917,213295706,0,False,residential,North Park Street,233.442,,,,,,,,,,,20169862,
+213292920,213291989,0,False,residential,State Street,46.805,,,,,,,,,,,20169645,
+213292920,213289164,0,False,residential,State Street,19.994,,,,,,,,,,,20169645,
+213292920,213303616,0,False,residential,South Park Street,184.472,,,,,,,,,,,20170481,
+213292946,213292890,0,False,residential,State Street,53.583,,,,,,,,,,,20169646,
+213292946,213313763,0,False,"['residential', 'tertiary']","['Cayuga Street', 'Gravel Road']",504.502,,,,,,,,,,,"[20171368, 44697319]",CR 101
+213292946,213279894,0,False,residential,Cayuga Street,230.342,,,,,,,,,,,44697319,
+213293063,213287406,0,False,residential,Clinton Street,95.675,,,,,,,,,,,20169668,
+213293063,213263365,0,False,residential,Miller Street,108.397,,,,,,,,,,,20170902,
+213293063,213293072,0,False,residential,Clinton Street,110.984,,,,,,,,,,,20169668,
+213293072,213293075,0,False,residential,Clinton Street,9.905,,,,,,,,,,,20169668,
+213293072,213293063,0,False,residential,Clinton Street,110.984,,,,,,,,,,,20169668,
+213293072,213263300,0,False,residential,Oak Street,117.427,,,,,,,,,,,20170035,
+213293075,213293072,0,False,residential,Clinton Street,9.905,,,,,,,,,,,20169668,
+213293075,213297880,0,False,residential,Oak Street,94.207,,,,,,,,,,,20170034,
+213293075,213289148,0,False,residential,Clinton Street,187.445,,,,,,,,,,,20169668,
+213293080,213289148,0,False,residential,Clinton Street,212.023,,,,,,,,,,,20169668,
+213293080,213284380,0,False,residential,Clinton Street,130.743,,,,,,,,,,,20169668,
+213293080,213302632,0,False,residential,Daniels Street,97.574,,,,,,,,,,,20170401,
+213293114,213283741,0,False,residential,Clinton Street,955.84,,,,,,,,,,,20169668,
+213293114,213297044,0,False,tertiary,Black Brook Road,2388.057,,,,,,,,,,,20170590,CR 102
+213293114,213300893,0,False,"['residential', 'tertiary']","['Ridge Street', 'Black Brook Road']",956.816,,,,,,,,,,,"[20171637, 20170590]",CR 102
+213295346,213279888,0,False,primary,Auburn Street,44.861,2,,,,,,,,,,20169832,US 20;NY 5
+213295346,213279894,0,False,residential,Cayuga Street,52.221,,,,,,,,,,,44697319,
+213295346,213319057,0,False,primary,Cayuga Street,112.999,2,,,,,,,,,,121772454,US 20;NY 5
+213295349,213279888,0,False,primary,Auburn Street,20.101,2,,,,,,,,,,20169832,US 20;NY 5
+213295349,213280282,0,False,primary,Auburn Street,373.976,2,,,,,,,,,,20169832,US 20;NY 5
+213295349,213320218,0,False,residential,Oxford Place,115.207,,,,,,,,,,,20171783,
+213295603,213308649,0,False,residential,"['Cowing Street', 'Southern Lane']",309.798,,,,,,,,,,,"[20170807, 20169855]",
+213295706,213284821,0,False,primary,Cayuga Street,93.023,2,,,,,,,,,,121772454,US 20;NY 5
+213295706,213292917,0,False,residential,North Park Street,233.442,,,,,,,,,,,20169862,
+213295706,213303616,0,False,primary,Cayuga Street,117.675,2,,,,,,,,,,121772454,US 20;NY 5
+213295901,213292914,0,False,residential,John Street,97.92,,,,,,,,,,,20169879,
+213295901,213302643,0,False,residential,Troy Street,137.758,,,,,,,,,,,20172679,
+213295901,213289161,0,False,residential,Troy Street,155.597,,,,,,,,,,,20172679,
+213295901,213295913,0,False,residential,John Street,112.362,,,,,,,,,,,20169879,
+213295913,213295901,0,False,residential,John Street,112.362,,,,,,,,,,,20169879,
+213295942,213295986,0,False,residential,Hyatt Road,991.271,,,,,,,,,,,20169889,
+213295986,213295942,0,False,residential,Hyatt Road,991.271,,,,,,,,,,,20169889,
+213295986,213306350,0,False,residential,George Road,1850.571,,,,,,,,,,,20170638,
+213295986,213265409,0,False,primary,Auburn Road,766.557,2,,,,,,,,,,20171571,US 20;NY 5
+213295986,213277356,0,False,primary,Auburn Road,456.428,2,,,,,,,,,,20171571,US 20;NY 5
+213296443,213296445,0,False,residential,Boston Avenue,275.75,,,,,,,,,,,20169940,
+213296443,213311959,0,False,residential,Troy Street,105.554,,,,,,,,,,,20172679,
+213296443,213292910,0,False,residential,Boston Avenue,144.267,,,,,,,,,,,20169940,
+213296443,213283764,0,False,residential,Troy Street,88.729,,,,,,,,,,,20172679,
+213296445,213296447,0,False,residential,Boston Avenue,60.951,,,,,,,,,,,20169940,
+213296445,213296443,0,False,residential,Boston Avenue,275.75,,,,,,,,,,,20169940,
+213296445,213310648,0,False,residential,Mynderse Street,111.844,,,,,,,,,,,20170951,
+213296445,213283756,0,False,residential,Mynderse Street,89.033,,,,,,,,,,,20170951,
+213296447,213296445,0,False,residential,Boston Avenue,60.951,,,,,,,,,,,20169940,
+213296974,213306350,0,False,tertiary,Gravel Road,107.434,,,,,,,,,,,20171368,CR 101
+213296974,213297044,0,False,residential,King Road,1963.724,,,,,,,,,,,20169983,
+213296974,213283222,0,False,tertiary,Gravel Road,926.679,,,,,,,,,,,20171368,CR 101
+213297044,213296974,0,False,residential,King Road,1963.724,,,,,,,,,,,20169983,
+213297044,213274042,0,False,tertiary,Black Brook Road,528.882,,,,,,,,,,,20170590,CR 102
+213297044,213293114,0,False,tertiary,Black Brook Road,2388.057,,,,,,,,,,,20170590,CR 102
+213297880,213293075,0,False,residential,Oak Street,94.207,,,,,,,,,,,20170034,
+213297880,213292001,0,False,residential,Mynderse Street,83.402,,,,,,,,,,,20170951,
+213297880,213287414,0,False,residential,Mynderse Street,221.963,,,,,,,,,,,20170951,
+213298513,213298517,0,False,residential,Prospect Street,132.532,,,,,,,,,,,20170084,
+213298513,213287066,0,False,primary,Cayuga Street,88.511,2,,,,,,,,,,121772454,US 20;NY 5
+213298513,213284821,0,False,primary,Cayuga Street,100.307,2,,,,,,,,,,121772454,US 20;NY 5
+213298517,213298513,0,False,residential,Prospect Street,132.532,,,,,,,,,,,20170084,
+213300893,213282510,0,False,residential,Ridge Street,22.56,,,,,,,,,,,20171637,
+213300893,213300936,0,False,residential,Highland Park,531.532,,,,,,,,,,,20170265,
+213300893,213293114,0,False,"['residential', 'tertiary']","['Ridge Street', 'Black Brook Road']",956.816,,,,,,,,,,,"[20171637, 20170590]",CR 102
+213300936,213300893,0,False,residential,Highland Park,531.532,,,,,,,,,,,20170265,
+213302632,213284391,0,False,residential,Mynderse Street,101.397,,,,,,,,,,,20170951,
+213302632,213302643,0,False,residential,Daniels Street,188.777,,,,,,,,,,,20170401,
+213302632,213293080,0,False,residential,Daniels Street,97.574,,,,,,,,,,,20170401,
+213302632,213289155,0,False,residential,Mynderse Street,243.086,,,,,,,,,,,20170951,
+213302643,213284399,0,False,residential,Troy Street,111.284,,,,,,,,,,,20172679,
+213302643,213295901,0,False,residential,Troy Street,137.758,,,,,,,,,,,20172679,
+213302643,213302632,0,False,residential,Daniels Street,188.777,,,,,,,,,,,20170401,
+213303616,1251755676,0,False,primary,Cayuga Street,17.667,2,,,,,,,,,,121772454,US 20;NY 5
+213303616,213292920,0,False,residential,South Park Street,184.472,,,,,,,,,,,20170481,
+213303616,213295706,0,False,primary,Cayuga Street,117.675,2,,,,,,,,,,121772454,US 20;NY 5
+213306350,213296974,0,False,tertiary,Gravel Road,107.434,,,,,,,,,,,20171368,CR 101
+213306350,213295986,0,False,residential,George Road,1850.571,,,,,,,,,,,20170638,
+213306350,213273681,0,False,tertiary,Gravel Road,641.683,,,,,,,,,,,20171368,CR 101
+213307306,213309465,0,False,residential,Water Street,46.337,,,,,,,,,,,20171777,
+213307306,213308649,0,False,residential,Water Street,100.797,,,,,,,,,,,20171777,
+213308181,213287541,0,False,residential,Leland Drive,332.758,,,,,,,,,,,20170764,
+213308181,213311973,0,False,residential,Troy Street,116.631,,,,,,,,,,,20172679,
+213308181,213275556,0,False,residential,Troy Street,370.119,,,,,,,,,,,20172679,
+213308649,213295603,0,False,residential,"['Cowing Street', 'Southern Lane']",309.798,,,,,,,,,,,"[20169855, 20170807]",
+213308649,213307306,0,False,residential,Water Street,100.797,,,,,,,,,,,20171777,
+213308649,213287419,0,False,residential,Water Street,78.54,,,,,,,,,,,20171777,
+213309465,213307306,0,False,residential,Water Street,46.337,,,,,,,,,,,20171777,
+213309465,213287397,0,False,residential,South Walnut Street,59.98,,,,,,,,,,,20170875,
+213310648,213296445,0,False,residential,Mynderse Street,111.844,,,,,,,,,,,20170951,
+213310648,213310667,0,False,residential,Mynderse Street,171.873,,,,,,,,,,,20170951,
+213310648,213311959,0,False,residential,Butler Avenue,276.79,,,,,,,,,,,20171385,
+213310667,213310648,0,False,residential,Mynderse Street,171.873,,,,,,,,,,,20170951,
+213311959,213296443,0,False,residential,Troy Street,105.554,,,,,,,,,,,20172679,
+213311959,213292905,0,False,residential,Butler Avenue,188.739,,,,,,,,,,,20171385,
+213311959,213310648,0,False,residential,Butler Avenue,276.79,,,,,,,,,,,20171385,
+213311959,213275556,0,False,residential,Troy Street,163.73,,,,,,,,,,,20172679,
+213311973,213313763,0,False,residential,Rittmer Lane,369.261,,,,,,,,,,,20171210,
+213311973,213281609,0,False,residential,Troy Street,22.207,,,,,,,,,,,20172679,
+213311973,213308181,0,False,residential,Troy Street,116.631,,,,,,,,,,,20172679,
+213313763,213311973,0,False,residential,Rittmer Lane,369.261,,,,,,,,,,,20171210,
+213313763,213273681,0,False,tertiary,Gravel Road,826.632,,,,,,,,,,,20171368,CR 101
+213313763,213292946,0,False,"['residential', 'tertiary']","['Cayuga Street', 'Gravel Road']",504.502,,,,,,,,,,,"[20171368, 44697319]",CR 101
+213317226,213317228,0,False,residential,Elwell Street,135.009,,,,,,,,,,,20171519,
+213317226,213319054,0,False,residential,Maple Street,71.525,,,,,,,,,,,20171843,
+213317226,213287057,0,False,residential,Maple Street,91.386,,,,,,,,,,,20171843,
+213317228,213317226,0,False,residential,Elwell Street,135.009,,,,,,,,,,,20171519,
+213317228,213319057,0,False,primary,Cayuga Street,72.04,2,,,,,,,,,,121772454,US 20;NY 5
+213317228,213287066,0,False,primary,Cayuga Street,145.679,2,,,,,,,,,,121772454,US 20;NY 5
+213318093,213318101,0,False,residential,Trinity Lane,71.576,,,,,,,,,,,20171592,
+213318093,213318101,1,False,residential,Boue Drive,135.065,,,,,,,,,,,20171940,
+213318093,213287455,0,False,residential,Trinity Lane,9.669,,,,,,,,,,,20171592,
+213318101,213318118,0,False,residential,Trinity Lane,61.551,,,,,,,,,,,20171592,
+213318101,213318093,0,False,residential,Trinity Lane,71.576,,,,,,,,,,,20171592,
+213318101,213318093,1,False,residential,Boue Drive,135.065,,,,,,,,,,,20171940,
+213318118,213318101,0,False,residential,Trinity Lane,61.551,,,,,,,,,,,20171592,
+213318118,1251755676,0,False,primary,Cayuga Street,148.34,"['2', '3']",,,,,,,,,,"[44937064, 121772454]",US 20;NY 5
+213318118,213330555,0,False,primary,Cayuga Street,35.058,3,,,,,,,,,,44937064,US 20;NY 5
+213318660,213282510,0,False,residential,Ridge Street,302.976,,,,,,,,,,,20171637,
+213318660,213263304,0,False,residential,"['Ridge Street', 'Walnut Street']",233.731,,,,,,,,,,,"[20167265, 20171637]",
+213319054,213319057,0,False,residential,Pine Street,135.83,,,,,,,,,,,20171675,
+213319054,213317226,0,False,residential,Maple Street,71.525,,,,,,,,,,,20171843,
+213319054,213287026,0,False,residential,"['Johnston Street', 'Pine Street']",271.305,,,,,,,,,,,"[20171675, 20169197]",
+213319054,213320218,0,False,residential,Maple Street,177.776,,,,,,,,,,,20171843,
+213319057,213319054,0,False,residential,Pine Street,135.83,,,,,,,,,,,20171675,
+213319057,213317228,0,False,primary,Cayuga Street,72.04,2,,,,,,,,,,121772454,US 20;NY 5
+213319057,213295346,0,False,primary,Cayuga Street,112.999,2,,,,,,,,,,121772454,US 20;NY 5
+213320218,213295349,0,False,residential,Oxford Place,115.207,,,,,,,,,,,20171783,
+213320218,213320218,0,False,residential,Maple Street,503.91,,,,,,,,,,,20171841,
+213320218,213320218,1,False,residential,Maple Street,503.91,,,,,,,,,,,20171841,
+213320218,213319054,0,False,residential,Maple Street,177.776,,,,,,,,,,,20171843,
+213330555,213287423,0,True,primary,Cayuga Street,94.541,1,,,,,,,,,,20172594,US 20;NY 5
+213330555,213287430,0,False,primary,Cayuga Street,80.211,3,,,,,,,,,,44697314,US 20;NY 5
+213330555,213318118,0,False,primary,Cayuga Street,35.058,3,,,,,,,,,,44937064,US 20;NY 5
+1251755634,1251755676,0,False,residential,Bove Street,126.389,,,,,,,,,,,109314630,
+1251755676,213303616,0,False,primary,Cayuga Street,17.667,2,,,,,,,,,,121772454,US 20;NY 5
+1251755676,1251755634,0,False,residential,Bove Street,126.389,,,,,,,,,,,109314630,
+1251755676,213318118,0,False,primary,Cayuga Street,148.34,"['2', '3']",,,,,,,,,,"[44937064, 121772454]",US 20;NY 5

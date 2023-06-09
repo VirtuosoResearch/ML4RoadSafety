@@ -1,0 +1,755 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+41251842,41251843,0,False,residential,,164.003,,,,,,,,,,,5564215,
+41251842,41493754,0,False,tertiary,County Road 403,309.839,,,,,,,,,,,5587226,CR 403
+41251842,41418893,0,False,tertiary,County Road 403,379.577,,,,,,,,,,,5587226,CR 403
+41251843,41251842,0,False,residential,,164.003,,,,,,,,,,,5564215,
+41252470,41252585,0,False,tertiary,County Road 359,143.428,,,,,,,,,,,5585357,CR 359
+41252470,41252585,1,False,residential,,272.695,,,,,,,,,,,5564298,
+41252470,41473586,0,False,tertiary,County Road 359,855.75,,,,,,,,,,,5585357,CR 359
+41252585,41252470,0,False,tertiary,County Road 359,143.428,,,,,,,,,,,5585357,CR 359
+41252585,41252470,1,False,residential,,272.695,,,,,,,,,,,5564298,
+41252585,41318479,0,False,tertiary,County Road 359,701.555,,,,,,,,,,,5585357,CR 359
+41262879,41262882,0,False,residential,,72.392,,,,,,,,,,,5565413,
+41262879,41391430,0,False,tertiary,Fox Creek Road,17.238,,,,,,,,,,,5578354,CR 352
+41262879,41391446,0,False,tertiary,Fox Creek Road,193.901,,,,,,,,,,,5578354,CR 352
+41262882,41262879,0,False,residential,,72.392,,,,,,,,,,,5565413,
+41265043,41265045,0,False,residential,,70.72,,,,,,,,,,,5565667,
+41265043,41325327,0,False,tertiary,County Road 403,306.313,,,,,,,,,,,5587226,CR 403
+41265043,41274406,0,False,tertiary,County Road 403,29.646,,,,,,,,,,,5587226,CR 403
+41265045,41265043,0,False,residential,,70.72,,,,,,,,,,,5565667,
+41271488,41271494,0,False,residential,,71.631,,,,,,,,,,,5566419,
+41271488,41350214,0,False,residential,Davis Mount Road,35.757,,,,,,,,,,,5574736,
+41271488,41307108,0,False,residential,Davis Mountain Road,1324.783,,,,,,,,,,,5588890,
+41271494,41271488,0,False,residential,,71.631,,,,,,,,,,,5566419,
+41271494,41386499,0,False,residential,Edwards Hill Road,678.489,,,,,,,,,,,5577927,
+41271494,41350214,0,False,residential,Edwards Hill Road,61.586,,,,,,,,,,,5577927,
+41271846,41271885,0,False,residential,,159.59,,,,,,,,,,,5566464,
+41271846,41271885,1,False,unclassified,Miller Road,45.309,,,,,,,,,,,5574574,
+41271846,41348248,0,False,unclassified,Miller Road,359.6,,,,,,,,,,,5574574,
+41271885,41271846,0,False,residential,,159.59,,,,,,,,,,,5566464,
+41271885,41271846,1,False,unclassified,Miller Road,45.309,,,,,,,,,,,5574574,
+41271885,41348483,0,False,unclassified,Miller Road,1822.663,,,,,,,,,,,5574574,
+41274406,41274410,0,False,residential,,93.866,,,,,,,,,,,5566781,
+41274406,41265043,0,False,tertiary,County Road 403,29.646,,,,,,,,,,,5587226,CR 403
+41274406,41462817,0,False,tertiary,County Road 403,431.468,,,,,,,,,,,5587226,CR 403
+41274410,41274406,0,False,residential,,93.866,,,,,,,,,,,5566781,
+41279860,41445360,0,False,residential,McCulloch Cross Road,254.927,,,,,,,,,,,5582868,
+41279860,41445323,0,False,residential,McCulloch Cross Road,706.724,,,,,,,,,,,5582868,
+41279860,41566415,0,False,residential,Peckam Hollow Road,616.182,,,,,,,,,,,5595246,
+41282207,41282216,0,False,residential,,73.001,,,,,,,,,,,5567720,
+41282207,41391592,0,False,tertiary,Fox Creek Road,2497.902,,,,,,,yes,,,,"[240742764, 240742765, 240742767]",CR 352
+41282207,41391446,0,False,tertiary,Fox Creek Road,554.811,,,,,,,yes,,,,"[5578354, 240742766, 240742767]",CR 352
+41282216,41282207,0,False,residential,,73.001,,,,,,,,,,,5567720,
+41283212,41343095,0,False,tertiary,County Road 358,51.859,,,,,,,,,,,5585329,CR 358
+41283212,41283223,0,False,residential,,40.831,,,,,,,,,,,5567864,
+41283212,41473572,0,False,tertiary,County Road 358,780.678,,,,,,,,,,,5585329,CR 358
+41283223,41283212,0,False,residential,,40.831,,,,,,,,,,,5567864,
+41283223,41343095,0,False,residential,Kenyon Road,54.101,,,,,,,,,,,5579514,
+41283223,41407086,0,False,residential,Kenyon Road,1360.159,,,,,,,,,,,5579514,
+41286998,41287023,0,False,residential,,331.499,,,,,,,,,,,5568370,
+41286998,41469488,0,False,tertiary,County Road 357,894.605,,,,,,,,,,,5585291,CR 357
+41286998,41452927,0,False,tertiary,County Road 357,159.209,,,,,,,,,,,5585291,CR 357
+41287023,41286998,0,False,residential,,331.499,,,,,,,,,,,5568370,
+41287702,41287704,0,False,residential,,25.551,,,,,,,,,,,5568454,
+41287702,41342999,0,False,residential,Cheese Hill Road,60.436,,,,,,,,,,,5574308,
+41287702,41342845,0,False,residential,Cheese Hill Road,1814.944,,,,,,,,,,,5574308,
+41287704,41287702,0,False,residential,,25.551,,,,,,,,,,,5568454,
+41289742,41289749,0,False,residential,Four Wheel Drive,120.659,,,,,,,,,,,5568726,
+41289742,41357138,0,False,residential,Smith Road,681.999,,,,,,,,,,,5575272,
+41289742,41356956,0,False,residential,Smith Road,862.353,,,,,,,,,,,5575272,
+41289749,41289742,0,False,residential,Four Wheel Drive,120.659,,,,,,,,,,,5568726,
+41291271,213214230,0,False,tertiary,Gulf Road,54.046,,,,,,,,,,,495502530,
+41291271,41291357,0,False,residential,Gulf Road Extension,1788.519,,,,,,,,,,,5568913,
+41291271,41291382,0,False,tertiary,Gulf Road,973.515,,,,,,,,,,,495503787,
+41291357,41291271,0,False,residential,Gulf Road Extension,1788.519,,,,,,,,,,,5568913,
+41291357,41357877,0,False,tertiary,County Road 12,432.568,,,,,,,,,,,5595574,CR 12
+41291357,41568680,0,False,tertiary,County Road 12,455.216,,,,,,,,,,,5595574,CR 12
+41291366,41315207,0,False,residential,Crystal Lake Road,93.773,,,,,,,,,,,5576183,
+41291366,41367282,0,False,residential,Crystal Lake Road,140.691,,,,,,,,,,,5576183,
+41291366,41291382,0,False,tertiary,Gulf Road,258.764,,,,,,,,,,,495503787,
+41291382,41309531,0,False,tertiary,County Road 10,335.814,,,,,,,,,,,5595513,CR 10
+41291382,41472957,0,False,tertiary,County Road 10,305.692,,,,,,,,,,,5595513,CR 10
+41291382,41291366,0,False,tertiary,Gulf Road,258.764,,,,,,,,,,,495503787,
+41291382,41291271,0,False,tertiary,Gulf Road,973.515,,,,,,,,,,,495503787,
+41293334,41293343,0,False,residential,Durland Lane,197.712,,,,,,,,,,,5569082,
+41293334,41368628,0,False,residential,Stevens Road,97.568,,,,,,,,,,,5578628,
+41293334,41395855,0,False,residential,Stevens Road,612.945,,,,,,,,,,,5578628,
+41293343,41293334,0,False,residential,Durland Lane,197.712,,,,,,,,,,,5569082,
+41296948,41296963,0,False,residential,Bull Frog Camp Lane,167.164,,,,,,,,,,,5569487,
+41296948,41444845,0,False,residential,Pond Hill Road,1155.788,,,,,,,,,,,5589279,
+41296948,41360670,0,False,residential,Pond Hill Road,191.563,,,,,,,,,,,5589279,
+41296963,41296963,0,False,residential,Bull Frog Camp Lane,101.157,,,,,,,,,,,5569487,
+41296963,41296963,1,False,residential,Bull Frog Camp Lane,101.157,,,,,,,,,,,5569487,
+41296963,41296948,0,False,residential,Bull Frog Camp Lane,167.164,,,,,,,,,,,5569487,
+41298998,41299008,0,False,residential,Overbaugh Road,362.191,,,,,,,,,,,5569649,
+41298998,41493663,0,False,tertiary,Marks Road,134.233,,,,,,,,,,,5592612,CR 403
+41299008,41298998,0,False,residential,Overbaugh Road,362.191,,,,,,,,,,,5569649,
+41299008,41493663,0,False,tertiary,County Road 403,327.943,,,,,,,,,,,5587226,CR 403
+41299008,41493629,0,False,tertiary,County Road 403,235.72,,,,,,,,,,,5587226,CR 403
+41300899,41300918,0,False,residential,Sunset Hill Lane,197.555,,,,,,,,,,,5569821,
+41300899,41526216,0,False,tertiary,County Road 10,67.297,,,,,,,,,,,5595513,CR 10
+41300899,41470830,0,False,tertiary,County Road 10,1149.178,,,,,,,,,,,5595513,CR 10
+41300918,41300899,0,False,residential,Sunset Hill Lane,197.555,,,,,,,,,,,5569821,
+41302108,41302173,0,False,residential,CCC Road,2030.197,,,,,,,,,,,5569952,
+41302108,41302181,0,False,residential,CCC Road,1548.136,,,,,,,,,,,5569961,
+41302108,41342845,0,False,residential,Scutt Road,1911.737,,,,,,,,,,,5580224,
+41302173,41302108,0,False,residential,CCC Road,2030.197,,,,,,,,,,,5569952,
+41302173,41343085,0,False,residential,Cheese Hill Road,716.974,,,,,,,,,,,5574308,
+41302173,41343010,0,False,residential,Cheese Hill Road,858.448,,,,,,,,,,,5574308,
+41302181,41302108,0,False,residential,CCC Road,1548.136,,,,,,,,,,,5569961,
+41302181,41470830,0,False,tertiary,County Road 353,532.278,,,,,,,,,,,5585150,CR 353
+41302832,41302863,0,False,residential,Sugar Bush Hill Road,207.258,,,,,,,,,,,5570023,
+41302832,41391078,0,False,tertiary,Fox Creek Road,41.95,,,,,,,,,,,5578332,CR 352
+41302832,41469284,0,False,tertiary,"['County Road 351', 'Fox Creek Road']",156.442,,,,,,,,,,,"[5585033, 5578332]","['CR 351', 'CR 352']"
+41302863,41302832,0,False,residential,Sugar Bush Hill Road,207.258,,,,,,,,,,,5570023,
+41303621,41303632,0,False,residential,Sandy Lane,110.938,,,,,,,,,,,5570113,
+41303621,41437359,0,False,residential,Pucker Street,1864.929,,,,,,,,,,,5582093,
+41303621,41437204,0,False,residential,Pucker Street,790.38,,,,,,,,,,,5582093,
+41303632,41303621,0,False,residential,Sandy Lane,110.938,,,,,,,,,,,5570113,
+41304141,41304200,0,False,residential,Jonesville Road,432.376,,,,,,,,,,,5570196,
+41304141,41426476,0,False,residential,Travis Hill Road,1403.516,,,,,,,,,,,5592544,
+41304141,41335040,0,False,residential,Travis Hill Road,1235.998,,,,,,,,,,,5592544,
+41304200,41304141,0,False,residential,Jonesville Road,432.376,,,,,,,,,,,5570196,
+41306098,41306134,0,False,residential,Dapice Lane,564.262,,,,,,,,,,,5570416,
+41306134,41306098,0,False,residential,Dapice Lane,564.262,,,,,,,,,,,5570416,
+41306134,41542635,0,False,residential,Travis Hill Road,2712.962,,,,,,,,,,,5592544,
+41306134,41426476,0,False,residential,Travis Hill Road,802.105,,,,,,,,,,,5592544,
+41307108,41307140,0,False,residential,Brenner Lane,535.226,,,,,,,,,,,5570544,
+41307108,41461815,0,False,residential,Davis Mountain Road,1246.259,,,,,,,,,,,5588879,
+41307108,41271488,0,False,residential,Davis Mountain Road,1324.783,,,,,,,,,,,5588890,
+41307140,41307108,0,False,residential,Brenner Lane,535.226,,,,,,,,,,,5570544,
+41309531,41309541,0,False,residential,Bush Lane,118.255,,,,,,,,,,,5570787,
+41309531,41512357,0,False,tertiary,County Road 10,764.374,,,,,,,,,,,5595513,CR 10
+41309531,41291382,0,False,tertiary,County Road 10,335.814,,,,,,,,,,,5595513,CR 10
+41309541,41309562,0,False,residential,Bush Lane,227.019,,,,,,,,,,,5570787,
+41309541,41309531,0,False,residential,Bush Lane,118.255,,,,,,,,,,,5570787,
+41309541,41367319,0,False,residential,Reiner Lane,204.245,,,,,,,,,,,5587389,
+41309562,41309541,0,False,residential,Bush Lane,227.019,,,,,,,,,,,5570787,
+41309562,41367340,0,False,residential,Crystal Lake Road,102.926,,,,,,,,,,,5576183,
+41309562,41367319,0,False,residential,Crystal Lake Road,46.011,,,,,,,,,,,5576183,
+41309683,41523332,0,False,residential,Dalena Lane,21.037,,,,,,,,,,,5590387,
+41309683,41309691,0,False,residential,Franklin Road,40.919,,,,,,,,,,,5570801,
+41309683,41315203,0,False,residential,Wolf Road,86.292,,,,,,,,,,,5595298,
+41309691,41309683,0,False,residential,Franklin Road,40.919,,,,,,,,,,,5570801,
+41313013,41319024,0,False,tertiary,County Road 361,1545.245,,,,,,,,,,,5571822,CR 361
+41313013,41416674,0,False,tertiary,Albany Hill Road,2032.14,,,,,,,,,,,5590779,CR 361
+41313973,41391402,0,False,tertiary,Fox Creek Road,10.194,,,,,,,,,,,5578354,CR 352
+41313973,41314028,0,False,residential,Buckhorn Mt Road,473.826,,,,,,,,,,,5571212,
+41313973,41391417,0,False,tertiary,Fox Creek Road,256.547,,,,,,,,,,,5578354,CR 352
+41314028,41314158,0,False,residential,Buckhorn Mt Road,1180.269,,,,,,,,,,,5571212,
+41314028,41314158,1,False,residential,Buckhorn Mt Road,861.779,,,,,,,,,,,5571229,
+41314028,41313973,0,False,residential,Buckhorn Mt Road,473.826,,,,,,,,,,,5571212,
+41314158,41314028,0,False,residential,Buckhorn Mt Road,1180.269,,,,,,,,,,,5571212,
+41314158,41314028,1,False,residential,Buckhorn Mt Road,861.779,,,,,,,,,,,5571229,
+41314158,41314169,0,False,residential,Buckhorn Mt Road,534.505,,,,,,,,,,,5571229,
+41314169,41314158,0,False,residential,Buckhorn Mt Road,534.505,,,,,,,,,,,5571229,
+41315197,41315203,0,False,residential,Lake Road,54.28,,,,,,,,,,,5571293,
+41315203,41315207,0,False,residential,Lake Road,94.384,,,,,,,,,,,5571293,
+41315203,41315197,0,False,residential,Lake Road,54.28,,,,,,,,,,,5571293,
+41315203,41309683,0,False,residential,Wolf Road,86.292,,,,,,,,,,,5595298,
+41315207,41315203,0,False,residential,Lake Road,94.384,,,,,,,,,,,5571293,
+41315207,41367319,0,False,residential,Crystal Lake Road,275.302,,,,,,,,,,,5576183,
+41315207,41291366,0,False,residential,Crystal Lake Road,93.773,,,,,,,,,,,5576183,
+41315961,41334941,0,False,secondary,Potter Hollow Road,1413.942,,,,,,,yes,,,,"[159332121, 5571405, 68520085]",NY 81
+41315961,41334995,0,False,residential,Arnold Road,2116.431,,,,,,,,,,,5580782,
+41316919,41316922,0,False,residential,Rivenburg Lane,28.465,,,,,,,,,,,5571519,
+41316919,41316996,0,False,tertiary,County Road 354,33.252,,,,,,,,,,,5582055,CR 354
+41316919,41412763,0,False,tertiary,County Road 354,289.56,,,,,,,,,,,5582055,CR 354
+41316922,41316919,0,False,residential,Rivenburg Lane,28.465,,,,,,,,,,,5571519,
+41316922,41316996,0,False,residential,Rivenburg Lane,37.811,,,,,,,,,,,5571525,
+41316922,41316935,0,False,residential,Rivenburg Lane,372.822,,,,,,,,,,,5571525,
+41316935,41316922,0,False,residential,Rivenburg Lane,372.822,,,,,,,,,,,5571525,
+41316996,41316922,0,False,residential,Rivenburg Lane,37.811,,,,,,,,,,,5571525,
+41316996,41437204,0,False,tertiary,County Road 354,858.11,,,,,,,,,,,5582055,CR 354
+41316996,41316919,0,False,tertiary,County Road 354,33.252,,,,,,,,,,,5582055,CR 354
+41318113,41318193,0,False,tertiary,County Road 360,1067.796,,,,,,,,,,,5571732,CR 360
+41318113,41391207,0,False,tertiary,Fox Creek Road,604.034,,,,,,,,,,,5578332,CR 352
+41318113,41391315,0,False,tertiary,Fox Creek Road,1057.723,,,,,,,,,,,5578354,CR 352
+41318113,41400712,0,False,tertiary,County Road 357,658.639,,,,,,,,,,,5585291,CR 357
+41318193,41318379,0,False,tertiary,County Road 360,3346.916,,,,,,,,,,,5571732,CR 360
+41318193,41318113,0,False,tertiary,County Road 360,1067.796,,,,,,,,,,,5571732,CR 360
+41318193,41445323,0,False,residential,Hale Road,996.996,,,,,,,,,,,5590110,
+41318379,41318479,0,False,tertiary,County Road 360,1374.419,,,,,,,,,,,5571732,CR 360
+41318379,41318193,0,False,tertiary,County Road 360,3346.916,,,,,,,,,,,5571732,CR 360
+41318379,41375611,0,False,residential,Kellie Road,1780.916,,,,,,,,,,,5577033,
+41318479,41318379,0,False,tertiary,County Road 360,1374.419,,,,,,,,,,,5571732,CR 360
+41318479,41410716,0,False,tertiary,County Road 359,510.42,,,,,,,,,,,5585357,CR 359
+41318479,41252585,0,False,tertiary,County Road 359,701.555,,,,,,,,,,,5585357,CR 359
+41318932,41318947,0,False,tertiary,County Road 361,259.227,,,,,,,,,,,5571822,CR 361
+41318932,41444361,0,False,tertiary,County Road 351,1375.939,,,,,,,,,,,5585015,CR 351
+41318932,41468910,0,False,tertiary,County Road 351,1157.394,,,,,,,,,,,5585015,CR 351
+41318932,41514564,0,False,residential,Willsey Road,1337.014,,,,,,,,,,,5589723,
+41318947,41319024,0,False,tertiary,County Road 361,2046.583,,,,,,,,,,,5571822,CR 361
+41318947,41318932,0,False,tertiary,County Road 361,259.227,,,,,,,,,,,5571822,CR 361
+41318947,41466879,0,False,residential,Carr Lane,435.991,,,,,,,,,,,5584760,
+41319024,41313013,0,False,tertiary,County Road 361,1545.245,,,,,,,,,,,5571822,CR 361
+41319024,41318947,0,False,tertiary,County Road 361,2046.583,,,,,,,,,,,5571822,CR 361
+41319347,41319410,0,False,tertiary,County Road 362,944.344,,,,,,,,,,,5571900,CR 362
+41319347,41437204,0,False,tertiary,County Road 354,497.858,,,,,,,,,,,5582055,CR 354
+41319347,41436823,0,False,tertiary,Potter Hollow Road,128.164,,,,,,,,,,,233884326,
+41319410,41319462,0,False,tertiary,County Road 362,710.78,,,,,,,,,,,5571900,CR 362
+41319410,41319347,0,False,tertiary,County Road 362,944.344,,,,,,,,,,,5571900,CR 362
+41319410,41357138,0,False,residential,Smith Road,809.211,,,,,,,,,,,5575272,
+41319462,41319524,0,False,tertiary,County Road 362,683.314,,,,,,,,,,,5571900,CR 362
+41319462,41319410,0,False,tertiary,County Road 362,710.78,,,,,,,,,,,5571900,CR 362
+41319462,41343713,0,False,residential,Knowles Road,1467.769,,,,,,,,,,,5574332,
+41319524,41319462,0,False,tertiary,County Road 362,683.314,,,,,,,,,,,5571900,CR 362
+41319524,41340594,0,False,residential,Bates Hollow Road,467.142,,,,,,,,,,,5574162,
+41319904,41320010,0,False,residential,Camp Medusa Road,262.745,,,,,,,,,,,5571958,
+41319904,41391078,0,False,residential,Rau Lane,199.105,,,,,,,,,,,5585047,
+41320010,41319904,0,False,residential,Camp Medusa Road,262.745,,,,,,,,,,,5571958,
+41320010,41391110,0,False,tertiary,Fox Creek Road,613.437,,,,,,,,,,,5578332,CR 352
+41320010,41391078,0,False,tertiary,Fox Creek Road,50.458,,,,,,,,,,,5578332,CR 352
+41325327,41325349,0,False,residential,Otter Hill Road,147.401,,,,,,,,,,,5572539,
+41325327,41493629,0,False,tertiary,County Road 403,99.675,,,,,,,,,,,5587226,CR 403
+41325327,41265043,0,False,tertiary,County Road 403,306.313,,,,,,,,,,,5587226,CR 403
+41325349,41325327,0,False,residential,Otter Hill Road,147.401,,,,,,,,,,,5572539,
+41326519,41326709,0,False,residential,Stone Crop Road,832.311,,,,,,,,,,,5572655,
+41326519,41352772,0,False,residential,Huyack Road,354.811,,,,,,,,,,,5574929,
+41326519,41352676,0,False,residential,Huyack Road,262.241,,,,,,,,,,,5574929,
+41326709,41352676,0,False,residential,Pond Hill Road,79.846,,,,,,,,,,,5589279,
+41326709,41326519,0,False,residential,Stone Crop Road,832.311,,,,,,,,,,,5572655,
+41326709,41360670,0,False,residential,Pond Hill Road,1109.274,,,,,,,,,,,5589279,
+41329786,41329902,0,False,tertiary,County Road 354,33.832,,,,,,,,,,,5582055,CR 354
+41329786,41329793,0,False,residential,Engle Road,63.255,,,,,,,,,,,5573010,
+41329793,41329786,0,False,residential,Engle Road,63.255,,,,,,,,,,,5573010,
+41329902,41329786,0,False,tertiary,County Road 354,33.832,,,,,,,,,,,5582055,CR 354
+41329902,41412763,0,False,tertiary,County Road 354,173.304,,,,,,,,,,,5582055,CR 354
+41334941,41436913,0,False,tertiary,Potter Hollow Road,212.051,,,,,,,,,,,68520079,
+41334941,41334967,0,False,secondary,State Highway 145,742.189,,,,55 mph,,,,,,,68520083,NY 145
+41334941,41315961,0,False,secondary,Potter Hollow Road,1413.942,,,,,,,yes,,,,"[159332121, 5571405, 68520085]",NY 81
+41334967,41436913,0,True,residential,Burkhardt Road,663.333,,,,,,,,,,,5583089,
+41334967,41334995,0,False,secondary,State Highway 145,874.451,,,,55 mph,,,yes,,,,"[68520083, 159332132, 159332134]",NY 145
+41334967,41334941,0,False,secondary,State Highway 145,742.189,,,,55 mph,,,,,,,68520083,NY 145
+41334995,41386368,0,False,residential,Edwards Hill Road,129.541,,,,,,,,,,,5577927,
+41334995,41315961,0,False,residential,Arnold Road,2116.431,,,,,,,,,,,5580782,
+41334995,41335003,0,False,secondary,State Highway 145,378.119,,,,"['40 mph', '55 mph']",,,,,,,"[592133093, 159332134]",NY 145
+41334995,41334967,0,False,secondary,State Highway 145,874.451,,,,55 mph,,,yes,,,,"[68520083, 159332132, 159332134]",NY 145
+41335003,41335005,0,False,secondary,State Highway 145,93.98,,,,40 mph,,,,,,,592133093,NY 145
+41335003,41475085,0,False,residential,Mercer Lane,48.58,,,,,,,,,,,159332116,
+41335003,41334995,0,False,secondary,State Highway 145,378.119,,,,"['40 mph', '55 mph']",,,,,,,"[592133093, 159332134]",NY 145
+41335005,41335008,0,False,secondary,State Highway 145,88.398,,,,40 mph,,,,,,,592133093,NY 145
+41335005,41335003,0,False,secondary,State Highway 145,93.98,,,,40 mph,,,,,,,592133093,NY 145
+41335005,41475085,0,False,residential,"['Mill Turn Road', 'Mill Lane']",117.036,,,,,,,,,,,"[5584938, 5589515]",
+41335008,41335011,0,False,secondary,State Highway 145,46.662,,,,40 mph,,,,,,,592133093,NY 145
+41335008,41335005,0,False,secondary,State Highway 145,88.398,,,,40 mph,,,,,,,592133093,NY 145
+41335008,41391592,0,True,residential,County Rte 352 Extended,94.626,,,,,,,,,,,5591847,
+41335011,41391592,0,False,tertiary,Fox Creek Road,72.487,,,,,,,,,,,240742764,CR 352
+41335011,41335008,0,False,secondary,State Highway 145,46.662,,,,40 mph,,,,,,,592133093,NY 145
+41335011,41335040,0,False,secondary,State Highway 145,442.375,,,,40 mph,,,yes,,,,"[240742771, 240742772, 592133093]",NY 145
+41335040,41304141,0,False,residential,Travis Hill Road,1235.998,,,,,,,,,,,5592544,
+41335040,41335050,0,False,secondary,State Highway 145,300.203,,,,40 mph,,,,,,,240742771,NY 145
+41335040,41335011,0,False,secondary,State Highway 145,442.375,,,,40 mph,,,yes,,,,"[240742771, 240742772, 592133093]",NY 145
+41335050,41335052,0,False,secondary,State Highway 145,96.585,,,,40 mph,,,,,,,240742771,NY 145
+41335050,41393952,0,False,residential,Snyder Lane,272.173,,,,,,,yes,,,,"[159332130, 5578518, 159332127]",
+41335050,41335040,0,False,secondary,State Highway 145,300.203,,,,40 mph,,,,,,,240742771,NY 145
+41335052,41335050,0,False,secondary,State Highway 145,96.585,,,,40 mph,,,,,,,240742771,NY 145
+41335052,41383204,0,False,residential,Schoolhouse Lane,157.173,,,,,,,,,,,5577693,
+41335052,41335060,0,False,secondary,State Highway 145,164.095,,,,40 mph,,,,,,,240742771,NY 145
+41335060,1314453008,0,False,secondary,State Highway 145,7.351,,,,40 mph,,,,,,,68520084,NY 145
+41335060,41342792,0,False,residential,Cheese Hill Road,3164.893,,,,,,,,,,,5574308,
+41335060,41335052,0,False,secondary,State Highway 145,164.095,,,,40 mph,,,,,,,240742771,NY 145
+41335493,41335566,0,False,residential,Tower Road,1081.92,,,,,,,,,,,5573687,
+41335493,41512320,0,False,residential,Pond Hill Road,64.383,,,,,,,,,,,5589279,
+41335493,41503090,0,False,residential,Pond Hill Road,242.839,,,,,,,,,,,5589279,
+41335566,41335493,0,False,residential,Tower Road,1081.92,,,,,,,,,,,5573687,
+41335566,41489716,0,False,residential,Pond Hill Road,94.486,,,,,,,,,,,5589279,
+41335566,41512320,0,False,residential,Pond Hill Road,226.509,,,,,,,,,,,5589279,
+41340594,41319524,0,False,residential,Bates Hollow Road,467.142,,,,,,,,,,,5574162,
+41340594,41397057,0,False,residential,Kings Lane,229.108,,,,,,,,,,,5578705,
+41342792,41342845,0,False,residential,Cheese Hill Road,1051.342,,,,,,,,,,,5574308,
+41342792,41335060,0,False,residential,Cheese Hill Road,3164.893,,,,,,,,,,,5574308,
+41342792,41571797,0,False,residential,Stiefel Lane,876.294,,,,,,,,,,,5595881,
+41342845,41287702,0,False,residential,Cheese Hill Road,1814.944,,,,,,,,,,,5574308,
+41342845,41342792,0,False,residential,Cheese Hill Road,1051.342,,,,,,,,,,,5574308,
+41342845,41302108,0,False,residential,Scutt Road,1911.737,,,,,,,,,,,5580224,
+41342999,41287702,0,False,residential,Cheese Hill Road,60.436,,,,,,,,,,,5574308,
+41342999,41343010,0,False,residential,Cheese Hill Road,45.728,,,,,,,,,,,5574308,
+41342999,41542635,0,False,residential,Travis Hill Road,31.08,,,,,,,,,,,5592547,
+41343010,41542635,0,False,residential,Travis Hill Road,38.031,,,,,,,,,,,5592544,
+41343010,41302173,0,False,residential,Cheese Hill Road,858.448,,,,,,,,,,,5574308,
+41343010,41342999,0,False,residential,Cheese Hill Road,45.728,,,,,,,,,,,5574308,
+41343085,41343095,0,False,residential,Cheese Hill Road,295.42,,,,,,,,,,,5574308,
+41343085,41302173,0,False,residential,Cheese Hill Road,716.974,,,,,,,,,,,5574308,
+41343085,41407848,0,False,residential,Camp Cass Road,368.729,,,,,,,,,,,5579567,
+41343095,41283212,0,False,tertiary,County Road 358,51.859,,,,,,,,,,,5585329,CR 358
+41343095,41343085,0,False,residential,Cheese Hill Road,295.42,,,,,,,,,,,5574308,
+41343095,41283223,0,False,residential,Kenyon Road,54.101,,,,,,,,,,,5579514,
+41343095,41407848,0,False,tertiary,County Road 358,409.095,,,,,,,,,,,5585329,CR 358
+41343713,41319462,0,False,residential,Knowles Road,1467.769,,,,,,,,,,,5574332,
+41343713,41356918,0,False,residential,Smith Road,913.703,,,,,,,,,,,5575272,
+41348233,41348248,0,False,unclassified,Miller Road,44.388,,,,,,,,,,,5574574,
+41348233,41348880,0,False,unclassified,Gillford Hollow Road,31.781,,,,,,,,,,,5582038,
+41348233,41395843,0,False,unclassified,Gillford Hollow Road,293.173,,,,,,,,,,,5582038,
+41348248,41348880,0,False,residential,Miller Road,32.209,,,,,,,,,,,5574592,
+41348248,41271846,0,False,unclassified,Miller Road,359.6,,,,,,,,,,,5574574,
+41348248,41348233,0,False,unclassified,Miller Road,44.388,,,,,,,,,,,5574574,
+41348483,41271885,0,False,unclassified,Miller Road,1822.663,,,,,,,,,,,5574574,
+41348483,41381621,0,False,tertiary,County Road 6,2370.754,,,,,,,,,,,5577522,CR 6
+41348880,41348248,0,False,residential,Miller Road,32.209,,,,,,,,,,,5574592,
+41348880,41348233,0,False,unclassified,Gillford Hollow Road,31.781,,,,,,,,,,,5582038,
+41350214,41271488,0,False,residential,Davis Mount Road,35.757,,,,,,,,,,,5574736,
+41350214,41271494,0,False,residential,Edwards Hill Road,61.586,,,,,,,,,,,5577927,
+41350214,41386430,0,False,residential,Edwards Hill Road,597.314,,,,,,,,,,,5577927,
+41351835,41351844,0,False,residential,Chase Lane,317.748,,,,,,,,,,,5574861,
+41351835,41514564,0,False,residential,Rugg Road,552.762,,,,,,,,,,,5589491,
+41351835,41468910,0,False,residential,Rugg Road,585.468,,,,,,,,,,,5589494,
+41351844,41351835,0,False,residential,Chase Lane,317.748,,,,,,,,,,,5574861,
+41352676,41326709,0,False,residential,Pond Hill Road,79.846,,,,,,,,,,,5589279,
+41352676,41326519,0,False,residential,Huyack Road,262.241,,,,,,,,,,,5574929,
+41352676,41406043,0,False,residential,Pond Hill Road,471.372,,,,,,,,,,,5589279,
+41352772,41352781,0,False,residential,Huyack Road,209.801,,,,,,,,,,,5574929,
+41352772,41326519,0,False,residential,Huyack Road,354.811,,,,,,,,,,,5574929,
+41352772,41368462,0,False,residential,Exit Road,212.838,,,,,,,,,,,5584594,
+41352781,41352772,0,False,residential,Huyack Road,209.801,,,,,,,,,,,5574929,
+41352781,41368496,0,False,secondary,Delaware Turnpike,567.476,,,,,,,,,,,5576463,NY 85
+41352781,41368462,0,False,secondary,Delaware Turnpike,375.019,,,,,,,,,,,5576463,NY 85
+41356918,41478556,0,False,residential,Stoney-Lonesome Lane,26.025,,,,,,,,,,,5585792,
+41356918,41356922,0,False,residential,Smith Road,26.796,,,,,,,,,,,5575272,
+41356918,41343713,0,False,residential,Smith Road,913.703,,,,,,,,,,,5575272,
+41356922,41478556,0,False,residential,Stoney-Lonesome Lane,32.68,,,,,,,,,,,5585795,
+41356922,41356956,0,False,residential,Smith Road,306.065,,,,,,,,,,,5575272,
+41356922,41356918,0,False,residential,Smith Road,26.796,,,,,,,,,,,5575272,
+41356956,41289742,0,False,residential,Smith Road,862.353,,,,,,,,,,,5575272,
+41356956,41356922,0,False,residential,Smith Road,306.065,,,,,,,,,,,5575272,
+41356956,41560595,0,False,residential,Walker Road,126.838,,,,,,,,,,,5594653,
+41357138,41319410,0,False,residential,Smith Road,809.211,,,,,,,,,,,5575272,
+41357138,41289742,0,False,residential,Smith Road,681.999,,,,,,,,,,,5575272,
+41357138,41567591,0,False,residential,Cook Road,1486.631,,,,,,,,,,,5595365,
+41357877,41357899,0,False,residential,Table Top Lane,105.94,,,,,,,,,,,5575350,
+41357877,41506925,0,False,tertiary,County Road 12,1463.595,,,,,,,,,,,5595574,CR 12
+41357877,41291357,0,False,tertiary,County Road 12,432.568,,,,,,,,,,,5595574,CR 12
+41357899,41357877,0,False,residential,Table Top Lane,105.94,,,,,,,,,,,5575350,
+41358887,41358905,0,False,residential,Camp Winsoki Road,224.178,,,,,,,,,,,5575421,
+41358887,41503090,0,False,residential,Pond Hill Road,394.778,,,,,,,,,,,5589279,
+41358887,41445731,0,False,residential,Pond Hill Road,283.294,,,,,,,,,,,5589279,
+41358905,41359033,0,False,residential,Camp Winsoki Road,703.764,,,,,,,,,,,5575421,
+41358905,41358887,0,False,residential,Camp Winsoki Road,224.178,,,,,,,,,,,5575421,
+41358905,41530383,0,False,residential,Carlson Road,260.729,,,,,,,,,,,5591155,
+41359033,41359048,0,False,residential,Camp Winsoki Road,200.217,,,,,,,,,,,5575421,
+41359033,41358905,0,False,residential,Camp Winsoki Road,703.764,,,,,,,,,,,5575421,
+41359033,41512320,0,False,residential,New Camp Road,1254.786,,,,,,,,,,,5591018,
+41359048,41359090,0,False,residential,Camp Winsoki Road,433.928,,,,,,,,,,,5575421,
+41359048,41359033,0,False,residential,Camp Winsoki Road,200.217,,,,,,,,,,,5575421,
+41359048,41495528,0,False,residential,Smigel Lane,361.334,,,,,,,,,,,5587378,
+41359090,41359048,0,False,residential,Camp Winsoki Road,433.928,,,,,,,,,,,5575421,
+41360670,41360748,0,False,residential,Gravett Road,1036.317,,,,,,,,,,,5575580,
+41360670,41296948,0,False,residential,Pond Hill Road,191.563,,,,,,,,,,,5589279,
+41360670,41326709,0,False,residential,Pond Hill Road,1109.274,,,,,,,,,,,5589279,
+41360748,41360670,0,False,residential,Gravett Road,1036.317,,,,,,,,,,,5575580,
+41367282,41472957,0,False,tertiary,County Road 10,12.601,,,,,,,,,,,5595513,CR 10
+41367282,41291366,0,False,residential,Crystal Lake Road,140.691,,,,,,,,,,,5576183,
+41367282,41473036,0,False,tertiary,County Road 10,177.72,,,,,,,,,,,5595513,CR 10
+41367319,41309562,0,False,residential,Crystal Lake Road,46.011,,,,,,,,,,,5576183,
+41367319,41315207,0,False,residential,Crystal Lake Road,275.302,,,,,,,,,,,5576183,
+41367319,41309541,0,False,residential,Reiner Lane,204.245,,,,,,,,,,,5587389,
+41367340,41309562,0,False,residential,Crystal Lake Road,102.926,,,,,,,,,,,5576183,
+41368432,41368442,0,False,tertiary,Delaware Turnpike,93.483,,,,,,,,,,,5576446,CR 353
+41368432,41470993,0,False,tertiary,"['County Road 353', 'Delaware Turnpike']",500.397,,,,,,,,,,,"[5585150, 5576446]",CR 353
+41368432,41406013,0,False,residential,Pond Hill Road,187.659,,,,,,,,,,,5589279,
+41368442,41368432,0,False,tertiary,Delaware Turnpike,93.483,,,,,,,,,,,5576446,CR 353
+41368442,41368462,0,False,secondary,Delaware Turnpike,535.014,,,,,,,,,,,5576463,NY 85
+41368442,41469157,0,False,tertiary,County Road 351,107.07,,,,,,,,,,,5585015,CR 351
+41368462,41352781,0,False,secondary,Delaware Turnpike,375.019,,,,,,,,,,,5576463,NY 85
+41368462,41368442,0,False,secondary,Delaware Turnpike,535.014,,,,,,,,,,,5576463,NY 85
+41368462,41352772,0,False,residential,Exit Road,212.838,,,,,,,,,,,5584594,
+41368496,41368610,0,False,secondary,Delaware Turnpike,1910.578,,,,,,,,,,,5576463,NY 85
+41368496,41352781,0,False,secondary,Delaware Turnpike,567.476,,,,,,,,,,,5576463,NY 85
+41368496,41381621,0,False,tertiary,Shufelt Road,84.662,,,,,,,,,,,5577970,CR 6
+41368496,41469157,0,False,residential,Methodist Hill Road,1392.845,,,,,,,,,,,5590020,
+41368610,41368628,0,False,secondary,Delaware Turnpike,143.477,,,,,,,,,,,5576463,NY 85
+41368610,41368496,0,False,secondary,Delaware Turnpike,1910.578,,,,,,,,,,,5576463,NY 85
+41368610,41449312,0,False,residential,Bolte Lane,447.377,,,,,,,,,,,5583205,
+41368628,41368610,0,False,secondary,Delaware Turnpike,143.477,,,,,,,,,,,5576463,NY 85
+41368628,41293334,0,False,residential,Stevens Road,97.568,,,,,,,,,,,5578628,
+41371915,41371958,0,False,residential,Cole Road,344.99,,,,,,,,,,,5576731,
+41371958,41371975,0,False,residential,Cole Road,201.513,,,,,,,,,,,5576731,
+41371958,41371915,0,False,residential,Cole Road,344.99,,,,,,,,,,,5576731,
+41371958,41372020,0,False,residential,Cole Road,292.152,,,,,,,,,,,5576734,
+41371975,41493754,0,False,tertiary,County Road 403,90.989,,,,,,,,,,,5587226,CR 403
+41371975,41371958,0,False,residential,Cole Road,201.513,,,,,,,,,,,5576731,
+41371975,41372020,0,False,tertiary,County Road 403,303.107,,,,,,,,,,,5587226,CR 403
+41372020,41371958,0,False,residential,Cole Road,292.152,,,,,,,,,,,5576734,
+41372020,41469343,0,False,tertiary,County Road 403,816.595,,,,,,,,,,,5587226,CR 403
+41372020,41371975,0,False,tertiary,County Road 403,303.107,,,,,,,,,,,5587226,CR 403
+41375611,41318379,0,False,residential,Kellie Road,1780.916,,,,,,,,,,,5577033,
+41375611,41473714,0,False,tertiary,County Road 358,1847.014,,,,,,,,,,,5585338,CR 358
+41375611,41473586,0,False,tertiary,County Road 358,2269.476,,,,,,,,,,,5585338,CR 358
+41381621,41348483,0,False,tertiary,County Road 6,2370.754,,,,,,,,,,,5577522,CR 6
+41381621,41368496,0,False,tertiary,Shufelt Road,84.662,,,,,,,,,,,5577970,CR 6
+41381621,41395944,0,False,unclassified,Gillford Hollow Road,1525.342,,,,,,,,,,,5582038,
+41383204,41335052,0,False,residential,Schoolhouse Lane,157.173,,,,,,,,,,,5577693,
+41386368,41386430,0,False,residential,Edwards Hill Road,1421.762,,,,,,,,,,,5577927,
+41386368,41334995,0,False,residential,Edwards Hill Road,129.541,,,,,,,,,,,5577927,
+41386368,41535814,0,False,residential,Sanacore Lane,316.279,,,,,,,,,,,5591726,
+41386430,41350214,0,False,residential,Edwards Hill Road,597.314,,,,,,,,,,,5577927,
+41386430,41386368,0,False,residential,Edwards Hill Road,1421.762,,,,,,,,,,,5577927,
+41386430,41414624,0,False,residential,Fish Road,1286.17,,,,,,,,,,,5593334,
+41386499,41386574,0,False,residential,Edwards Hill Road,1027.709,,,,,,,,,,,5577927,
+41386499,41271494,0,False,residential,Edwards Hill Road,678.489,,,,,,,,,,,5577927,
+41386499,41405259,0,False,residential,Jordan Drive,419.936,,,,,,,,,,,5579365,
+41386574,41386499,0,False,residential,Edwards Hill Road,1027.709,,,,,,,,,,,5577927,
+41388007,41568673,0,False,tertiary,County Road 10,40.259,,,,,,,,,,,5595499,CR 10
+41388007,41388035,0,False,residential,Packard Road,223.256,,,,,,,,,,,5578078,
+41388007,41568680,0,False,tertiary,County Road 10,72.441,,,,,,,,,,,5595499,CR 10
+41388035,41388052,0,False,residential,Packard Road,123.681,,,,,,,,,,,5578078,
+41388035,41388007,0,False,residential,Packard Road,223.256,,,,,,,,,,,5578078,
+41388035,41568673,0,False,residential,Callahan Lane,97.771,,,,,,,,,,,5595822,
+41388052,41568673,0,False,tertiary,County Road 10,60.761,,,,,,,,,,,5595499,CR 10
+41388052,41388035,0,False,residential,Packard Road,123.681,,,,,,,,,,,5578078,
+41388052,41512357,0,False,tertiary,County Road 10,94.307,,,,,,,,,,,5595499,CR 10
+41391078,41320010,0,False,tertiary,Fox Creek Road,50.458,,,,,,,,,,,5578332,CR 352
+41391078,41302832,0,False,tertiary,Fox Creek Road,41.95,,,,,,,,,,,5578332,CR 352
+41391078,41319904,0,False,residential,Rau Lane,199.105,,,,,,,,,,,5585047,
+41391110,41391141,0,False,tertiary,Fox Creek Road,740.879,,,,,,,,,,,5578332,CR 352
+41391110,41320010,0,False,tertiary,Fox Creek Road,613.437,,,,,,,,,,,5578332,CR 352
+41391110,41461885,0,False,residential,Niles Road,820.369,,,,,,,,,,,5584304,
+41391141,41391184,0,False,tertiary,Fox Creek Road,585.852,,,,,,,,,,,5578332,CR 352
+41391141,41391110,0,False,tertiary,Fox Creek Road,740.879,,,,,,,,,,,5578332,CR 352
+41391141,41398514,0,False,residential,Sayre Road,339.135,,,,,,,,,,,5578807,
+41391184,41391207,0,False,tertiary,Fox Creek Road,220.441,,,,,,,,,,,5578332,CR 352
+41391184,41391141,0,False,tertiary,Fox Creek Road,585.852,,,,,,,,,,,5578332,CR 352
+41391184,41398514,0,False,residential,Gerard Road,651.485,,,,,,,,,,,5591441,
+41391207,41318113,0,False,tertiary,Fox Creek Road,604.034,,,,,,,,,,,5578332,CR 352
+41391207,41391184,0,False,tertiary,Fox Creek Road,220.441,,,,,,,,,,,5578332,CR 352
+41391207,41400712,0,False,residential,Barger Road,745.77,,,,,,,,,,,5579021,
+41391315,41391349,0,False,tertiary,Fox Creek Road,551.028,,,,,,,,,,,5578354,CR 352
+41391315,41318113,0,False,tertiary,Fox Creek Road,1057.723,,,,,,,,,,,5578354,CR 352
+41391315,41398336,0,False,residential,Sayre Road,298.1,,,,,,,,,,,5578807,
+41391315,41473714,0,False,residential,Lewisdale Road,1462.955,,,,,,,,,,,5588292,
+41391349,41391402,0,False,tertiary,Fox Creek Road,935.686,,,,,,,,,,,5578354,CR 352
+41391349,41391315,0,False,tertiary,Fox Creek Road,551.028,,,,,,,,,,,5578354,CR 352
+41391349,41473714,0,False,tertiary,County Road 358,907.773,,,,,,,,,,,5585338,CR 358
+41391402,41313973,0,False,tertiary,Fox Creek Road,10.194,,,,,,,,,,,5578354,CR 352
+41391402,41391349,0,False,tertiary,Fox Creek Road,935.686,,,,,,,,,,,5578354,CR 352
+41391402,41406962,0,False,residential,Kenyon Road,136.377,,,,,,,,,,,5579514,
+41391417,41391430,0,False,tertiary,Fox Creek Road,168.342,,,,,,,,,,,5578354,CR 352
+41391417,41313973,0,False,tertiary,Fox Creek Road,256.547,,,,,,,,,,,5578354,CR 352
+41391417,41406962,0,False,residential,Kenyon Road,173.644,,,,,,,,,,,5579515,
+41391430,41262879,0,False,tertiary,Fox Creek Road,17.238,,,,,,,,,,,5578354,CR 352
+41391430,41391417,0,False,tertiary,Fox Creek Road,168.342,,,,,,,,,,,5578354,CR 352
+41391430,41426389,0,False,residential,Pearson Road,131.042,,,,,,,,,,,5581148,
+41391446,41282207,0,False,tertiary,Fox Creek Road,554.811,,,,,,,yes,,,,"[5578354, 240742766, 240742767]",CR 352
+41391446,41262879,0,False,tertiary,Fox Creek Road,193.901,,,,,,,,,,,5578354,CR 352
+41391446,41426494,0,False,residential,Pearson Road,141.359,,,,,,,,,,,5581148,
+41391592,41335011,0,False,tertiary,Fox Creek Road,72.487,,,,,,,,,,,240742764,CR 352
+41391592,41282207,0,False,tertiary,Fox Creek Road,2497.902,,,,,,,yes,,,,"[240742764, 240742765, 240742767]",CR 352
+41393952,41335050,0,False,residential,Snyder Lane,272.173,,,,,,,yes,,,,"[159332130, 5578518, 159332127]",
+41395843,41395944,0,False,unclassified,Gillford Hollow Road,66.617,,,,,,,,,,,5582038,
+41395843,41395855,0,False,residential,Stevens Road,61.624,,,,,,,,,,,5578628,
+41395843,41348233,0,False,unclassified,Gillford Hollow Road,293.173,,,,,,,,,,,5582038,
+41395855,41293334,0,False,residential,Stevens Road,612.945,,,,,,,,,,,5578628,
+41395855,41395843,0,False,residential,Stevens Road,61.624,,,,,,,,,,,5578628,
+41395855,41395944,0,False,residential,Stevens Road,43.499,,,,,,,,,,,5578632,
+41395944,41395843,0,False,unclassified,Gillford Hollow Road,66.617,,,,,,,,,,,5582038,
+41395944,41395855,0,False,residential,Stevens Road,43.499,,,,,,,,,,,5578632,
+41395944,41381621,0,False,unclassified,Gillford Hollow Road,1525.342,,,,,,,,,,,5582038,
+41397057,41340594,0,False,residential,Kings Lane,229.108,,,,,,,,,,,5578705,
+41398336,41398486,0,False,residential,Sayre Road,2136.444,,,,,,,,,,,5578807,
+41398336,41391315,0,False,residential,Sayre Road,298.1,,,,,,,,,,,5578807,
+41398336,41407896,0,False,residential,Hahne Morris Trailer Court,86.295,,,,,,,,,,,5579569,
+41398486,41398514,0,False,residential,Sayre Road,560.098,,,,,,,,,,,5578807,
+41398486,41398336,0,False,residential,Sayre Road,2136.444,,,,,,,,,,,5578807,
+41398486,41534907,0,False,residential,Fink Lane,139.726,,,,,,,,,,,5591612,
+41398514,41391141,0,False,residential,Sayre Road,339.135,,,,,,,,,,,5578807,
+41398514,41398486,0,False,residential,Sayre Road,560.098,,,,,,,,,,,5578807,
+41398514,41391184,0,False,residential,Gerard Road,651.485,,,,,,,,,,,5591441,
+41398514,41461885,0,False,residential,Gerard Road,864.62,,,,,,,,,,,5591441,
+41400712,41400722,0,False,residential,Barger Road,375.718,,,,,,,,,,,5579021,
+41400712,41391207,0,False,residential,Barger Road,745.77,,,,,,,,,,,5579021,
+41400712,41450245,0,False,tertiary,County Road 357,725.304,,,,,,,,,,,5585291,CR 357
+41400712,41318113,0,False,tertiary,County Road 357,658.639,,,,,,,,,,,5585291,CR 357
+41400722,41400785,0,False,residential,Barger Road,777.671,,,,,,,,,,,5579021,
+41400722,41400712,0,False,residential,Barger Road,375.718,,,,,,,,,,,5579021,
+41400722,41467515,0,False,residential,Stubbolo Lane,687.281,,,,,,,,,,,5584805,
+41400785,41400722,0,False,residential,Barger Road,777.671,,,,,,,,,,,5579021,
+41405259,41386499,0,False,residential,Jordan Drive,419.936,,,,,,,,,,,5579365,
+41406013,41406043,0,False,residential,Rice Road,285.451,,,,,,,,,,,5579447,
+41406013,41406043,1,False,residential,Pond Hill Road,103.532,,,,,,,,,,,5589279,
+41406013,41368432,0,False,residential,Pond Hill Road,187.659,,,,,,,,,,,5589279,
+41406043,41406013,0,False,residential,Rice Road,285.451,,,,,,,,,,,5579447,
+41406043,41406013,1,False,residential,Pond Hill Road,103.532,,,,,,,,,,,5589279,
+41406043,41352676,0,False,residential,Pond Hill Road,471.372,,,,,,,,,,,5589279,
+41406962,41407086,0,False,residential,Kenyon Road,3211.847,,,,,,,,,,,5579514,
+41406962,41391402,0,False,residential,Kenyon Road,136.377,,,,,,,,,,,5579514,
+41406962,41391417,0,False,residential,Kenyon Road,173.644,,,,,,,,,,,5579515,
+41407086,41283223,0,False,residential,Kenyon Road,1360.159,,,,,,,,,,,5579514,
+41407086,41406962,0,False,residential,Kenyon Road,3211.847,,,,,,,,,,,5579514,
+41407086,41527187,0,False,residential,Roney Road,3669.871,,,,,,,,,,,5590830,
+41407848,41343085,0,False,residential,Camp Cass Road,368.729,,,,,,,,,,,5579567,
+41407848,41343095,0,False,tertiary,County Road 358,409.095,,,,,,,,,,,5585329,CR 358
+41407848,41470873,0,False,tertiary,County Road 358,411.619,,,,,,,,,,,5585329,CR 358
+41407896,41398336,0,False,residential,Hahne Morris Trailer Court,86.295,,,,,,,,,,,5579569,
+41410716,41468642,0,False,residential,"['Cooley Road', 'Hickory Hill Road']",1470.86,,,,,,,,,,,"[5584953, 5579813]",
+41410716,41470988,0,False,tertiary,County Road 359,506.892,,,,,,,,,,,5585357,CR 359
+41410716,41318479,0,False,tertiary,County Road 359,510.42,,,,,,,,,,,5585357,CR 359
+41412763,41412902,0,False,residential,Tanglewood Road,2008.671,,,,,,,,,,,5580005,
+41412763,41316919,0,False,tertiary,County Road 354,289.56,,,,,,,,,,,5582055,CR 354
+41412763,41329902,0,False,tertiary,County Road 354,173.304,,,,,,,,,,,5582055,CR 354
+41412902,41412763,0,False,residential,Tanglewood Road,2008.671,,,,,,,,,,,5580005,
+41412902,41455602,0,False,residential,Frieda's Hill Lane,411.227,,,,,,,,,,,5583769,
+41414624,41414670,0,False,residential,Wintergreen Lane,393.453,,,,,,,,,,,5580193,
+41414624,41386430,0,False,residential,Fish Road,1286.17,,,,,,,,,,,5593334,
+41414670,41414624,0,False,residential,Wintergreen Lane,393.453,,,,,,,,,,,5580193,
+41416674,41416695,0,False,residential,Trinity Lane,74.435,,,,,,,,,,,5580330,
+41416674,41313013,0,False,tertiary,Albany Hill Road,2032.14,,,,,,,,,,,5590779,CR 361
+41416674,41469121,0,False,tertiary,Albany Hill Road,23.843,,,,,,,,,,,5590779,CR 361
+41416695,41416674,0,False,residential,Trinity Lane,74.435,,,,,,,,,,,5580330,
+41418893,41418928,0,False,residential,Stedman Road,773.727,,,,,,,,,,,5580519,
+41418893,41251842,0,False,tertiary,County Road 403,379.577,,,,,,,,,,,5587226,CR 403
+41418893,41466826,0,False,tertiary,County Road 403,323.389,,,,,,,,,,,5587226,CR 403
+41418928,41418893,0,False,residential,Stedman Road,773.727,,,,,,,,,,,5580519,
+41422038,41445731,0,False,residential,Pond Hill Road,1527.902,,,,,,,,,,,5589279,
+41422038,41444845,0,False,residential,Pond Hill Road,26.808,,,,,,,,,,,5589279,
+41426389,41426394,0,False,residential,Pearson Road,32.49,,,,,,,,,,,5581142,
+41426389,41391430,0,False,residential,Pearson Road,131.042,,,,,,,,,,,5581148,
+41426389,41426494,0,False,residential,Pearson Road,30.372,,,,,,,,,,,5581148,
+41426394,41426436,0,False,residential,Pearson Road,362.13,,,,,,,,,,,5581142,
+41426394,41426389,0,False,residential,Pearson Road,32.49,,,,,,,,,,,5581142,
+41426394,41426494,0,False,residential,Pearson Road,30.562,,,,,,,,,,,5581149,
+41426436,41426476,0,False,residential,Pearson Road,731.321,,,,,,,,,,,5581142,
+41426436,41426394,0,False,residential,Pearson Road,362.13,,,,,,,,,,,5581142,
+41426436,41527187,0,False,residential,Roney Road,256.733,,,,,,,,,,,5590830,
+41426476,41426436,0,False,residential,Pearson Road,731.321,,,,,,,,,,,5581142,
+41426476,41306134,0,False,residential,Travis Hill Road,802.105,,,,,,,,,,,5592544,
+41426476,41304141,0,False,residential,Travis Hill Road,1403.516,,,,,,,,,,,5592544,
+41426494,41426389,0,False,residential,Pearson Road,30.372,,,,,,,,,,,5581148,
+41426494,41391446,0,False,residential,Pearson Road,141.359,,,,,,,,,,,5581148,
+41426494,41426394,0,False,residential,Pearson Road,30.562,,,,,,,,,,,5581149,
+41436823,41543696,0,False,residential,Bates Lane,532.686,,,,,,,,,,,5592657,
+41436823,41436913,0,False,tertiary,Potter Hollow Road,1444.799,,,,,,,,,,,68520079,
+41436823,41319347,0,False,tertiary,Potter Hollow Road,128.164,,,,,,,,,,,233884326,
+41436913,41334941,0,False,tertiary,Potter Hollow Road,212.051,,,,,,,,,,,68520079,
+41436913,41436823,0,False,tertiary,Potter Hollow Road,1444.799,,,,,,,,,,,68520079,
+41437204,41319347,0,False,tertiary,County Road 354,497.858,,,,,,,,,,,5582055,CR 354
+41437204,41316996,0,False,tertiary,County Road 354,858.11,,,,,,,,,,,5582055,CR 354
+41437204,41303621,0,False,residential,Pucker Street,790.38,,,,,,,,,,,5582093,
+41437359,41303621,0,False,residential,Pucker Street,1864.929,,,,,,,,,,,5582093,
+41444208,41514564,0,False,residential,Willsey Road,58.989,,,,,,,,,,,5589723,
+41444208,41444231,0,False,residential,Fleming Road,398.648,,,,,,,,,,,5582772,
+41444208,41445372,0,False,residential,Willsey Road,254.344,,,,,,,,,,,5589723,
+41444231,41444361,0,False,residential,Fleming Road,1908.462,,,,,,,,,,,5582772,
+41444231,41444208,0,False,residential,Fleming Road,398.648,,,,,,,,,,,5582772,
+41444231,41445360,0,False,residential,Victoria Drive,971.901,,,,,,,,,,,5583532,
+41444361,41444231,0,False,residential,Fleming Road,1908.462,,,,,,,,,,,5582772,
+41444361,41469121,0,False,tertiary,County Road 351,2283.126,,,,,,,,,,,5585015,CR 351
+41444361,41318932,0,False,tertiary,County Road 351,1375.939,,,,,,,,,,,5585015,CR 351
+41444701,41444858,0,False,tertiary,County Road 353,50.434,,,,,,,,,,,5585150,CR 353
+41444701,41444707,0,False,residential,Bryan Road,51.293,,,,,,,,,,,5582820,
+41444701,41470988,0,False,tertiary,County Road 353,1227.396,,,,,,,,,,,5585150,CR 353
+41444707,41444858,0,False,residential,Bryan Road,33.726,,,,,,,,,,,5582821,
+41444707,41444845,0,False,residential,Bryan Road,2144.877,,,,,,,,,,,5582820,
+41444707,41444701,0,False,residential,Bryan Road,51.293,,,,,,,,,,,5582820,
+41444845,41444707,0,False,residential,Bryan Road,2144.877,,,,,,,,,,,5582820,
+41444845,41422038,0,False,residential,Pond Hill Road,26.808,,,,,,,,,,,5589279,
+41444845,41296948,0,False,residential,Pond Hill Road,1155.788,,,,,,,,,,,5589279,
+41444858,41444707,0,False,residential,Bryan Road,33.726,,,,,,,,,,,5582821,
+41444858,41444701,0,False,tertiary,County Road 353,50.434,,,,,,,,,,,5585150,CR 353
+41444858,41470910,0,False,tertiary,County Road 353,1332.724,,,,,,,,,,,5585150,CR 353
+41445323,41279860,0,False,residential,McCulloch Cross Road,706.724,,,,,,,,,,,5582868,
+41445323,41520493,0,False,residential,Hale Road,1435.341,,,,,,,,,,,5590104,
+41445323,41318193,0,False,residential,Hale Road,996.996,,,,,,,,,,,5590110,
+41445360,41445372,0,False,residential,McCulloch Cross Road,390.385,,,,,,,,,,,5582868,
+41445360,41279860,0,False,residential,McCulloch Cross Road,254.927,,,,,,,,,,,5582868,
+41445360,41444231,0,False,residential,Victoria Drive,971.901,,,,,,,,,,,5583532,
+41445372,41445360,0,False,residential,McCulloch Cross Road,390.385,,,,,,,,,,,5582868,
+41445372,41444208,0,False,residential,Willsey Road,254.344,,,,,,,,,,,5589723,
+41445372,41473180,0,False,residential,Willsey Road,2155.069,,,,,,,,,,,5589723,
+41445621,41445731,0,False,residential,Littner Road,2070.991,,,,,,,,,,,5582889,
+41445621,41470910,0,False,tertiary,County Road 353,333.656,,,,,,,,,,,5585150,CR 353
+41445621,41470873,0,False,tertiary,County Road 353,971.725,,,,,,,,,,,5585150,CR 353
+41445731,41445621,0,False,residential,Littner Road,2070.991,,,,,,,,,,,5582889,
+41445731,41358887,0,False,residential,Pond Hill Road,283.294,,,,,,,,,,,5589279,
+41445731,41422038,0,False,residential,Pond Hill Road,1527.902,,,,,,,,,,,5589279,
+41449312,41368610,0,False,residential,Bolte Lane,447.377,,,,,,,,,,,5583205,
+41450099,41450355,0,False,tertiary,County Road 351,33.048,,,,,,,,,,,5585033,CR 351
+41450099,41450111,0,False,residential,North Road,27.593,,,,,,,,,,,5583285,
+41450099,41469343,0,False,tertiary,County Road 351,274.152,,,,,,,,,,,5585033,CR 351
+41450111,41450245,0,False,residential,North Road,2257.626,,,,,,,,,,,5583285,
+41450111,41450099,0,False,residential,North Road,27.593,,,,,,,,,,,5583285,
+41450111,41450355,0,False,residential,North Road,25.793,,,,,,,,,,,5583293,
+41450245,41473180,0,False,tertiary,County Road 357,9.617,,,,,,,,,,,5585291,CR 357
+41450245,41450111,0,False,residential,North Road,2257.626,,,,,,,,,,,5583285,
+41450245,41400712,0,False,tertiary,County Road 357,725.304,,,,,,,,,,,5585291,CR 357
+41450355,41450099,0,False,tertiary,County Road 351,33.048,,,,,,,,,,,5585033,CR 351
+41450355,41450111,0,False,residential,North Road,25.793,,,,,,,,,,,5583293,
+41450355,41467426,0,False,tertiary,County Road 351,275.541,,,,,,,,,,,5585033,CR 351
+41452927,41452972,0,False,residential,Gifford Lane,520.311,,,,,,,,,,,5583537,
+41452927,41286998,0,False,tertiary,County Road 357,159.209,,,,,,,,,,,5585291,CR 357
+41452927,41473192,0,False,tertiary,County Road 357,1112.429,,,,,,,,,,,5585291,CR 357
+41452972,41452927,0,False,residential,Gifford Lane,520.311,,,,,,,,,,,5583537,
+41455602,41412902,0,False,residential,Frieda's Hill Lane,411.227,,,,,,,,,,,5583769,
+41461815,41461885,0,False,residential,Niles Road,1182.648,,,,,,,,,,,5584304,
+41461815,41307108,0,False,residential,Davis Mountain Road,1246.259,,,,,,,,,,,5588879,
+41461885,41391110,0,False,residential,Niles Road,820.369,,,,,,,,,,,5584304,
+41461885,41461815,0,False,residential,Niles Road,1182.648,,,,,,,,,,,5584304,
+41461885,41398514,0,False,residential,Gerard Road,864.62,,,,,,,,,,,5591441,
+41462817,41274406,0,False,tertiary,County Road 403,431.468,,,,,,,,,,,5587226,CR 403
+41466826,41418893,0,False,tertiary,County Road 403,323.389,,,,,,,,,,,5587226,CR 403
+41466826,41493663,0,False,tertiary,County Road 403,561.519,,,,,,,,,,,5587226,CR 403
+41466879,41318947,0,False,residential,Carr Lane,435.991,,,,,,,,,,,5584760,
+41467426,41467428,0,False,residential,South Street,129.913,,,,,,,,,,,5584789,
+41467426,41469284,0,False,tertiary,County Road 351,36.439,,,,,,,,,,,5585033,CR 351
+41467426,41450355,0,False,tertiary,County Road 351,275.541,,,,,,,,,,,5585033,CR 351
+41467428,41467426,0,False,residential,South Street,129.913,,,,,,,,,,,5584789,
+41467515,41400722,0,False,residential,Stubbolo Lane,687.281,,,,,,,,,,,5584805,
+41468642,41410716,0,False,residential,"['Cooley Road', 'Hickory Hill Road']",1470.86,,,,,,,,,,,"[5584953, 5579813]",
+41468783,41468910,0,False,tertiary,County Road 351,1489.778,,,,,,,,,,,5585015,CR 351
+41468783,41469488,0,False,tertiary,County Road 351,447.388,,,,,,,,,,,5585035,CR 351
+41468910,41318932,0,False,tertiary,County Road 351,1157.394,,,,,,,,,,,5585015,CR 351
+41468910,41468783,0,False,tertiary,County Road 351,1489.778,,,,,,,,,,,5585015,CR 351
+41468910,41351835,0,False,residential,Rugg Road,585.468,,,,,,,,,,,5589494,
+41469121,41469124,0,False,tertiary,County Road 351,15.974,,,,,,,,,,,5585015,CR 351
+41469121,41444361,0,False,tertiary,County Road 351,2283.126,,,,,,,,,,,5585015,CR 351
+41469121,41416674,0,False,tertiary,Albany Hill Road,23.843,,,,,,,,,,,5590779,CR 361
+41469124,41469121,0,False,tertiary,County Road 351,15.974,,,,,,,,,,,5585015,CR 351
+41469124,41469143,0,False,tertiary,County Road 351,70.185,,,,,,,,,,,5585015,CR 351
+41469124,41516058,0,False,residential,Fishermans Lane,238.467,,,,,,,,,,,5589658,
+41469143,41469157,0,False,tertiary,County Road 351,161.903,,,,,,,,,,,5585015,CR 351
+41469143,41469124,0,False,tertiary,County Road 351,70.185,,,,,,,,,,,5585015,CR 351
+41469143,41516058,0,False,residential,Bennett Lane,87.956,,,,,,,,,,,5593273,
+41469157,41368442,0,False,tertiary,County Road 351,107.07,,,,,,,,,,,5585015,CR 351
+41469157,41469143,0,False,tertiary,County Road 351,161.903,,,,,,,,,,,5585015,CR 351
+41469157,41368496,0,False,residential,Methodist Hill Road,1392.845,,,,,,,,,,,5590020,
+41469284,41467426,0,False,tertiary,County Road 351,36.439,,,,,,,,,,,5585033,CR 351
+41469284,41302832,0,False,tertiary,"['County Road 351', 'Fox Creek Road']",156.442,,,,,,,,,,,"[5585033, 5578332]","['CR 351', 'CR 352']"
+41469284,41545221,0,False,residential,Red Barn Lane,92.006,,,,,,,,,,,5592818,
+41469343,41469447,0,False,tertiary,County Road 351,2366.612,,,,,,,,,,,5585033,CR 351
+41469343,41450099,0,False,tertiary,County Road 351,274.152,,,,,,,,,,,5585033,CR 351
+41469343,41372020,0,False,tertiary,County Road 403,816.595,,,,,,,,,,,5587226,CR 403
+41469447,41469488,0,False,tertiary,County Road 351,908.071,,,,,,,,,,,5585033,CR 351
+41469447,41469343,0,False,tertiary,County Road 351,2366.612,,,,,,,,,,,5585033,CR 351
+41469447,41487098,0,False,residential,Tornatore Lane,544.66,,,,,,,,,,,5586511,
+41469488,41469447,0,False,tertiary,County Road 351,908.071,,,,,,,,,,,5585033,CR 351
+41469488,41468783,0,False,tertiary,County Road 351,447.388,,,,,,,,,,,5585035,CR 351
+41469488,41286998,0,False,tertiary,County Road 357,894.605,,,,,,,,,,,5585291,CR 357
+41470830,41470870,0,False,tertiary,County Road 353,1196.705,,,,,,,,,,,5585150,CR 353
+41470830,41302181,0,False,tertiary,County Road 353,532.278,,,,,,,,,,,5585150,CR 353
+41470830,41300899,0,False,tertiary,County Road 10,1149.178,,,,,,,,,,,5595513,CR 10
+41470870,41470873,0,False,tertiary,County Road 353,48.996,,,,,,,,,,,5585150,CR 353
+41470870,41470830,0,False,tertiary,County Road 353,1196.705,,,,,,,,,,,5585150,CR 353
+41470870,41503079,0,False,residential,"['Thunder Hill Road', 'Olmo Lane']",1946.873,,,,,,,,,,,"[5588084, 5588279]",
+41470873,41470870,0,False,tertiary,County Road 353,48.996,,,,,,,,,,,5585150,CR 353
+41470873,41445621,0,False,tertiary,County Road 353,971.725,,,,,,,,,,,5585150,CR 353
+41470873,41407848,0,False,tertiary,County Road 358,411.619,,,,,,,,,,,5585329,CR 358
+41470910,41444858,0,False,tertiary,County Road 353,1332.724,,,,,,,,,,,5585150,CR 353
+41470910,41445621,0,False,tertiary,County Road 353,333.656,,,,,,,,,,,5585150,CR 353
+41470910,41473572,0,False,residential,Ted E Bear Drive,610.443,,,,,,,,,,,5586894,
+41470988,41470993,0,False,tertiary,County Road 353,85.604,,,,,,,,,,,5585150,CR 353
+41470988,41444701,0,False,tertiary,County Road 353,1227.396,,,,,,,,,,,5585150,CR 353
+41470988,41410716,0,False,tertiary,County Road 359,506.892,,,,,,,,,,,5585357,CR 359
+41470993,41368432,0,False,tertiary,"['County Road 353', 'Delaware Turnpike']",500.397,,,,,,,,,,,"[5576446, 5585150]",CR 353
+41470993,41470988,0,False,tertiary,County Road 353,85.604,,,,,,,,,,,5585150,CR 353
+41470993,41520493,0,False,residential,Hale Road,3126.857,,,,,,,,,,,5590104,
+41472957,41367282,0,False,tertiary,County Road 10,12.601,,,,,,,,,,,5595513,CR 10
+41472957,41473036,0,False,residential,Church Road,353.89,,,,,,,,,,,5585282,
+41472957,41291382,0,False,tertiary,County Road 10,305.692,,,,,,,,,,,5595513,CR 10
+41473036,41472957,0,False,residential,Church Road,353.89,,,,,,,,,,,5585282,
+41473036,41367282,0,False,tertiary,County Road 10,177.72,,,,,,,,,,,5595513,CR 10
+41473036,41526216,0,False,tertiary,County Road 10,124.157,,,,,,,,,,,5595513,CR 10
+41473180,41450245,0,False,tertiary,County Road 357,9.617,,,,,,,,,,,5585291,CR 357
+41473180,41473192,0,False,tertiary,County Road 357,110.807,,,,,,,,,,,5585291,CR 357
+41473180,41445372,0,False,residential,Willsey Road,2155.069,,,,,,,,,,,5589723,
+41473192,41452927,0,False,tertiary,County Road 357,1112.429,,,,,,,,,,,5585291,CR 357
+41473192,41473180,0,False,tertiary,County Road 357,110.807,,,,,,,,,,,5585291,CR 357
+41473192,41480433,0,False,residential,Jaycox Road,870.979,,,,,,,,,,,5585975,
+41473572,41473586,0,False,tertiary,County Road 358,213.687,,,,,,,,,,,5585329,CR 358
+41473572,41283212,0,False,tertiary,County Road 358,780.678,,,,,,,,,,,5585329,CR 358
+41473572,41470910,0,False,residential,Ted E Bear Drive,610.443,,,,,,,,,,,5586894,
+41473586,41473572,0,False,tertiary,County Road 358,213.687,,,,,,,,,,,5585329,CR 358
+41473586,41375611,0,False,tertiary,County Road 358,2269.476,,,,,,,,,,,5585338,CR 358
+41473586,41252470,0,False,tertiary,County Road 359,855.75,,,,,,,,,,,5585357,CR 359
+41473714,41391349,0,False,tertiary,County Road 358,907.773,,,,,,,,,,,5585338,CR 358
+41473714,41375611,0,False,tertiary,County Road 358,1847.014,,,,,,,,,,,5585338,CR 358
+41473714,41391315,0,False,residential,Lewisdale Road,1462.955,,,,,,,,,,,5588292,
+41475058,41475085,0,False,residential,Mercer Lane,389.725,,,,,,,yes,,,,"[159332113, 159332116, 5585446]",
+41475085,41335005,0,False,residential,"['Mill Turn Road', 'Mill Lane']",117.036,,,,,,,,,,,"[5584938, 5589515]",
+41475085,41335003,0,False,residential,Mercer Lane,48.58,,,,,,,,,,,159332116,
+41475085,41475058,0,False,residential,Mercer Lane,389.725,,,,,,,yes,,,,"[159332113, 159332116, 5585446]",
+41478486,41478556,0,False,residential,Stoney-Lonesome Lane,629.587,,,,,,,,,,,5585792,
+41478556,41356918,0,False,residential,Stoney-Lonesome Lane,26.025,,,,,,,,,,,5585792,
+41478556,41356922,0,False,residential,Stoney-Lonesome Lane,32.68,,,,,,,,,,,5585795,
+41478556,41478486,0,False,residential,Stoney-Lonesome Lane,629.587,,,,,,,,,,,5585792,
+41480433,41473192,0,False,residential,Jaycox Road,870.979,,,,,,,,,,,5585975,
+41487098,41469447,0,False,residential,Tornatore Lane,544.66,,,,,,,,,,,5586511,
+41489684,41512357,0,False,residential,Pond Hill Road,7.699,,,,,,,,,,,5589279,
+41489684,41489716,0,False,residential,Jubilee Road,198.757,,,,,,,,,,,5586721,
+41489684,41489716,1,False,residential,Pond Hill Road,90.097,,,,,,,,,,,5589279,
+41489716,41489684,0,False,residential,Jubilee Road,198.757,,,,,,,,,,,5586721,
+41489716,41489684,1,False,residential,Pond Hill Road,90.097,,,,,,,,,,,5589279,
+41489716,41335566,0,False,residential,Pond Hill Road,94.486,,,,,,,,,,,5589279,
+41493629,41299008,0,False,tertiary,County Road 403,235.72,,,,,,,,,,,5587226,CR 403
+41493629,41325327,0,False,tertiary,County Road 403,99.675,,,,,,,,,,,5587226,CR 403
+41493629,41549400,0,False,residential,Deer Lane,165.193,,,,,,,,,,,5593337,
+41493663,41466826,0,False,tertiary,County Road 403,561.519,,,,,,,,,,,5587226,CR 403
+41493663,41299008,0,False,tertiary,County Road 403,327.943,,,,,,,,,,,5587226,CR 403
+41493663,41298998,0,False,tertiary,Marks Road,134.233,,,,,,,,,,,5592612,CR 403
+41493754,41371975,0,False,tertiary,County Road 403,90.989,,,,,,,,,,,5587226,CR 403
+41493754,41251842,0,False,tertiary,County Road 403,309.839,,,,,,,,,,,5587226,CR 403
+41495528,41359048,0,False,residential,Smigel Lane,361.334,,,,,,,,,,,5587378,
+41503079,41503090,0,False,residential,Thunder Hill Road,298.024,,,,,,,,,,,5588279,
+41503079,41470870,0,False,residential,"['Thunder Hill Road', 'Olmo Lane']",1946.873,,,,,,,,,,,"[5588084, 5588279]",
+41503079,41503112,0,False,residential,Thunder Hill Road,91.745,,,,,,,,,,,5588281,
+41503079,41503097,0,False,residential,Thunder Hill Road,122.007,,,,,,,,,,,5588281,
+41503090,41503079,0,False,residential,Thunder Hill Road,298.024,,,,,,,,,,,5588279,
+41503090,41335493,0,False,residential,Pond Hill Road,242.839,,,,,,,,,,,5589279,
+41503090,41358887,0,False,residential,Pond Hill Road,394.778,,,,,,,,,,,5589279,
+41503097,41503079,0,False,residential,Thunder Hill Road,122.007,,,,,,,,,,,5588281,
+41503112,41503079,0,False,residential,Thunder Hill Road,91.745,,,,,,,,,,,5588281,
+41506925,41357877,0,False,tertiary,County Road 12,1463.595,,,,,,,,,,,5595574,CR 12
+41512320,41335566,0,False,residential,Pond Hill Road,226.509,,,,,,,,,,,5589279,
+41512320,41335493,0,False,residential,Pond Hill Road,64.383,,,,,,,,,,,5589279,
+41512320,41359033,0,False,residential,New Camp Road,1254.786,,,,,,,,,,,5591018,
+41512357,41489684,0,False,residential,Pond Hill Road,7.699,,,,,,,,,,,5589279,
+41512357,41388052,0,False,tertiary,County Road 10,94.307,,,,,,,,,,,5595499,CR 10
+41512357,41309531,0,False,tertiary,County Road 10,764.374,,,,,,,,,,,5595513,CR 10
+41514564,41444208,0,False,residential,Willsey Road,58.989,,,,,,,,,,,5589723,
+41514564,41351835,0,False,residential,Rugg Road,552.762,,,,,,,,,,,5589491,
+41514564,41318932,0,False,residential,Willsey Road,1337.014,,,,,,,,,,,5589723,
+41516058,41469124,0,False,residential,Fishermans Lane,238.467,,,,,,,,,,,5589658,
+41516058,41548871,0,False,residential,Bennett Lane,215.299,,,,,,,,,,,5593272,
+41516058,41469143,0,False,residential,Bennett Lane,87.956,,,,,,,,,,,5593273,
+41520493,41470993,0,False,residential,Hale Road,3126.857,,,,,,,,,,,5590104,
+41520493,41445323,0,False,residential,Hale Road,1435.341,,,,,,,,,,,5590104,
+41520493,41546538,0,False,residential,Mc Manus Lane,421.995,,,,,,,,,,,5592981,
+41523332,41309683,0,False,residential,Dalena Lane,21.037,,,,,,,,,,,5590387,
+41526216,41526268,0,False,residential,South Shore Road,676.964,,,,,,,,,,,5590731,
+41526216,41473036,0,False,tertiary,County Road 10,124.157,,,,,,,,,,,5595513,CR 10
+41526216,41300899,0,False,tertiary,County Road 10,67.297,,,,,,,,,,,5595513,CR 10
+41526268,41526216,0,False,residential,South Shore Road,676.964,,,,,,,,,,,5590731,
+41527187,41407086,0,False,residential,Roney Road,3669.871,,,,,,,,,,,5590830,
+41527187,41426436,0,False,residential,Roney Road,256.733,,,,,,,,,,,5590830,
+41527187,41553145,0,False,residential,Kraker Lane,273.427,,,,,,,,,,,5593775,
+41530383,41358905,0,False,residential,Carlson Road,260.729,,,,,,,,,,,5591155,
+41534907,41398486,0,False,residential,Fink Lane,139.726,,,,,,,,,,,5591612,
+41535814,41386368,0,False,residential,Sanacore Lane,316.279,,,,,,,,,,,5591726,
+41542635,41343010,0,False,residential,Travis Hill Road,38.031,,,,,,,,,,,5592544,
+41542635,41306134,0,False,residential,Travis Hill Road,2712.962,,,,,,,,,,,5592544,
+41542635,41342999,0,False,residential,Travis Hill Road,31.08,,,,,,,,,,,5592547,
+41543696,41543729,0,False,residential,Bates Lane,147.256,,,,,,,,,,,5592657,
+41543696,41436823,0,False,residential,Bates Lane,532.686,,,,,,,,,,,5592657,
+41543696,41543748,0,False,residential,Bates Lane,185.021,,,,,,,,,,,5592660,
+41543729,41543696,0,False,residential,Bates Lane,147.256,,,,,,,,,,,5592657,
+41543748,41543696,0,False,residential,Bates Lane,185.021,,,,,,,,,,,5592660,
+41545221,41469284,0,False,residential,Red Barn Lane,92.006,,,,,,,,,,,5592818,
+41546538,41520493,0,False,residential,Mc Manus Lane,421.995,,,,,,,,,,,5592981,
+41548871,41516058,0,False,residential,Bennett Lane,215.299,,,,,,,,,,,5593272,
+41549400,41493629,0,False,residential,Deer Lane,165.193,,,,,,,,,,,5593337,
+41553145,41527187,0,False,residential,Kraker Lane,273.427,,,,,,,,,,,5593775,
+41560595,41356956,0,False,residential,Walker Road,126.838,,,,,,,,,,,5594653,
+41566415,41279860,0,False,residential,Peckam Hollow Road,616.182,,,,,,,,,,,5595246,
+41567591,41357138,0,False,residential,Cook Road,1486.631,,,,,,,,,,,5595365,
+41568673,41388007,0,False,tertiary,County Road 10,40.259,,,,,,,,,,,5595499,CR 10
+41568673,41388052,0,False,tertiary,County Road 10,60.761,,,,,,,,,,,5595499,CR 10
+41568673,41388035,0,False,residential,Callahan Lane,97.771,,,,,,,,,,,5595822,
+41568680,41388007,0,False,tertiary,County Road 10,72.441,,,,,,,,,,,5595499,CR 10
+41568680,41291357,0,False,tertiary,County Road 12,455.216,,,,,,,,,,,5595574,CR 12
+41571797,41342792,0,False,residential,Stiefel Lane,876.294,,,,,,,,,,,5595881,
+213214230,41291271,0,False,tertiary,Gulf Road,54.046,,,,,,,,,,,495502530,
+1314434464,1314434468,0,False,road,,113.357,,,,,,,,,,,116637467,
+1314434464,1314453008,0,False,secondary,State Highway 145,334.425,,,,"['40 mph', '55 mph']",,,,,,,"[68520084, 592133095]",NY 145
+1314434468,1314434464,0,False,road,,113.357,,,,,,,,,,,116637467,
+1314453008,41335060,0,False,secondary,State Highway 145,7.351,,,,40 mph,,,,,,,68520084,NY 145
+1314453008,1314434464,0,False,secondary,State Highway 145,334.425,,,,"['40 mph', '55 mph']",,,,,,,"[68520084, 592133095]",NY 145
+1314453008,2824694642,0,False,unclassified,,293.61,,,,,yes,,,,,,278039086,
+2824694642,1314453008,0,False,unclassified,,293.61,,,,,yes,,,,,,278039086,

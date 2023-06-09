@@ -1,0 +1,819 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+120049906,120049965,0,False,residential,,27.38,,,,,,,,,,,13046416,
+120049965,120050039,0,False,residential,,55.996,,,,,,,,,,,13046416,
+120049965,120049906,0,False,residential,,27.38,,,,,,,,,,,13046416,
+120049965,120050460,0,False,residential,,417.692,,,,,,,,,,,13046487,
+120050039,120049965,0,False,residential,,55.996,,,,,,,,,,,13046416,
+120050039,120242080,0,False,residential,Nipher Road,400.05,,,,,,,,,,,13078743,
+120050039,120255308,0,False,residential,Nipher Road,100.52,,,,,,,,,,,13078743,
+120050460,120049965,0,False,residential,,417.692,,,,,,,,,,,13046487,
+120050460,120051122,0,False,residential,,68.042,,,,,,,,,,,13046493,
+120051122,120050460,0,False,residential,,68.042,,,,,,,,,,,13046493,
+120061543,120890584,0,False,residential,Plat Drive,41.317,,,,,,,,,,,13166140,
+120061895,120061921,0,False,residential,,36.64,,,,,,,,,,,13047464,
+120061895,120061921,1,False,residential,,49.446,,,,,,,,,,,13047459,
+120061895,120062005,0,False,residential,,270.391,,,,,,,,,,,13047464,
+120061921,120061895,0,False,residential,,36.64,,,,,,,,,,,13047464,
+120061921,120061895,1,False,residential,,49.446,,,,,,,,,,,13047459,
+120061921,120061981,0,False,residential,,58.542,,,,,,,,,,,13047464,
+120061921,120061963,0,False,residential,,90.501,,,,,,,,,,,13047459,
+120061963,120061921,0,False,residential,,90.501,,,,,,,,,,,13047459,
+120061981,120061921,0,False,residential,,58.542,,,,,,,,,,,13047464,
+120062005,120061895,0,False,residential,,270.391,,,,,,,,,,,13047464,
+120062005,120106854,0,False,secondary,,142.099,,,,,,,,,,,139324098,NY 53
+120062417,120062469,0,False,residential,,157.851,,,,,,,,,,,13047505,
+120062417,120554256,0,False,residential,Turnpike Road,635.932,,,,,,,,,,,244248653,
+120062417,120553713,0,False,residential,Turnpike Road,704.369,,,,,,,yes,,,,"[244248650, 13097852, 244248653]",
+120062469,120062417,0,False,residential,,157.851,,,,,,,,,,,13047505,
+120095834,120095856,0,False,residential,,23.856,,,,,,,,,,,13051031,
+120095834,120101909,0,False,residential,Veterans Avenue,50.63,,,,,,,,,,,330247908,
+120095834,120822144,0,False,residential,Veterans Avenue,32.821,,,,,,,,,,,330247908,
+120095856,120095834,0,False,residential,,23.856,,,,,,,,,,,13051031,
+120095856,120822216,0,False,residential,Gettysburg Avenue,123.455,,,,,,,,,,,330409821,
+120095856,120822144,0,False,residential,Gettysburg Avenue,23.395,,,,,,,,,,,330409821,
+120097058,120097065,0,False,tertiary_link,,17.338,,,,,,,,,,,13051157,
+120097058,120325980,0,False,unclassified,West Morris Street,66.518,,,,30 mph,,,,,,,558314947,
+120097058,120402595,0,False,unclassified,West Morris Street,206.405,,,,30 mph,,,,,,,558314947,
+120097065,120097058,0,False,tertiary_link,,17.338,,,,,,,,,,,13051157,
+120097065,120325980,0,False,tertiary,West Steuben Street,60.998,,,,,,,,,,,13209313,
+120097065,121303793,0,False,tertiary,West Steuben Street,188.999,,,,,,,,,,,13209313,
+120097155,120097163,0,False,residential,,39.388,,,,,,,,,,,13051176,
+120097155,120890584,0,False,tertiary,County Route 15,381.099,,,,,,,,,,,13123381,CR 15
+120097155,120551248,0,False,tertiary,County Route 15,212.403,,,,,,,,,,,13123381,CR 15
+120097163,120097155,0,False,residential,,39.388,,,,,,,,,,,13051176,
+120100166,120177142,0,True,motorway,Southern Tier Expressway,3991.438,2,,,65 mph,,,yes,,,,"[40420927, 40420920, 40420921, 40420924, 40420925, 108658077, 108658111]",I 86;NY 17;NY 15
+120100223,120100166,0,True,motorway_link,,467.241,,,,,,,,,,,13051489,
+120100223,120325932,0,False,secondary,,213.442,,,,,,,,,,,13132398,NY 53
+120100223,120106854,0,False,secondary,,145.281,,,,,,,,,,,139324098,NY 53
+120100264,120100166,0,True,motorway,Southern Tier Expressway,845.111,2,,,65 mph,,,yes,,,,"[67901384, 40420926, 40420927]",I 86;NY 17;NY 15
+120100264,120100223,0,True,motorway_link,,377.675,,,,,,,,,,,378920787,
+120101909,120095834,0,False,residential,Veterans Avenue,50.63,,,,,,,,,,,330247908,
+120103272,120199231,0,True,motorway,Southern Tier Expressway,3186.654,2,,,65 mph,,,yes,,,,"[108658081, 108658094, 40420917, 40420918, 40420919, 40420922, 40420923]",I 86;NY 17;NY 15
+120103363,120103272,0,True,motorway_link,,499.599,,,,,,,,,,,13051812,
+120103363,120124318,0,False,secondary,West Washington Street,475.212,,,,,,,,,,,369168926,NY 415
+120103363,3729829205,0,False,secondary,West Washington Street,121.109,,,,,,,,,,,369168926,NY 415
+120103418,120103272,0,True,motorway,Southern Tier Expressway,833.947,2,,,65 mph,,,yes,,,,"[40420916, 40420917, 40420911]",I 86;NY 17;NY 15
+120103418,120103363,0,True,motorway_link,,329.96,,,,,,,,,,,378920799,
+120106511,120106517,0,False,residential,,168.892,,,,,,,,,,,13052208,
+120106517,120106524,0,False,residential,,100.023,,,,,,,,,,,13052208,
+120106517,120106511,0,False,residential,,168.892,,,,,,,,,,,13052208,
+120106517,120297493,0,False,residential,Hickory Hill,94.222,,,,,,,,,,,13113340,
+120106517,120121988,0,False,residential,Hickory Hill,35.849,,,,,,,,,,,13113340,
+120106524,120106517,0,False,residential,,100.023,,,,,,,,,,,13052208,
+120106524,120772066,0,False,tertiary,County Route 13,26.675,,,,45 mph;55 mph,,,,,,,13199244,CR 13
+120106524,121078626,0,False,tertiary,County Route 13,176.197,,,,45 mph;55 mph,,,,,,,13199244,CR 13
+120106711,120106732,0,False,residential,,185.882,,,,,,,,,,,13052242,
+120106711,120361826,0,False,residential,Fort Hill Road,412.861,,,,,,,,,,,13078447,
+120106711,120361116,0,False,residential,Fort Hill Road,1106.842,,,,,,,,,,,13078447,
+120106732,120106711,0,False,residential,,185.882,,,,,,,,,,,13052242,
+120106797,120106854,0,True,motorway_link,,413.153,,,,,,,,,,,13052258,
+120106797,120106882,0,True,motorway,Southern Tier Expressway,824.29,2,,,65 mph,,,yes,,,,"[40420928, 40420929, 40420923]",I 86;NY 17;NY 15
+120106854,120062005,0,False,secondary,,142.099,,,,,,,,,,,139324098,NY 53
+120106854,120100223,0,False,secondary,,145.281,,,,,,,,,,,139324098,NY 53
+120106854,120106882,0,True,motorway_link,,425.286,,,,,,,,,,,378920774,
+120113100,120113133,0,False,residential,,598.405,,,,,,,,,,,13052966,
+120113133,120113100,0,False,residential,,598.405,,,,,,,,,,,13052966,
+120115695,120859760,0,False,tertiary,Haverling Street,191.526,,,,,,,,,,,52050500,
+120115695,121707897,0,False,tertiary,"['County Route 13', 'Haverling Street']",535.227,,,,45 mph;55 mph,,,,,,,"[13199244, 52050500]",CR 13
+120121761,120121769,0,False,residential,,136.742,,,,,,,,,,,13053907,
+120121761,120121813,0,False,residential,Hickory Hill,23.812,,,,,,,,,,,13113368,
+120121761,120297493,0,False,residential,Hickory Hill,51.273,,,,,,,,,,,13113368,
+120121769,120121761,0,False,residential,,136.742,,,,,,,,,,,13053907,
+120121769,120121789,0,False,residential,,23.409,,,,,,,,,,,13073195,
+120121769,120297493,0,False,residential,,135.486,,,,,,,,,,,13073195,
+120121789,120297517,0,False,residential,,32.194,,,,,,,,,,,13073195,
+120121789,120121769,0,False,residential,,23.409,,,,,,,,,,,13073195,
+120121789,120121813,0,False,residential,,142.91,,,,,,,,,,,13053913,
+120121813,120121789,0,False,residential,,142.91,,,,,,,,,,,13053913,
+120121813,120297517,0,False,residential,Hickory Hill,173.699,,,,,,,,,,,13113368,
+120121813,120121761,0,False,residential,Hickory Hill,23.812,,,,,,,,,,,13113368,
+120121988,120121997,0,False,residential,,67.102,,,,,,,,,,,13053942,
+120121988,120106517,0,False,residential,Hickory Hill,35.849,,,,,,,,,,,13113340,
+120121988,120772066,0,False,residential,Hickory Hill,111.464,,,,,,,,,,,13113346,
+120121997,120122006,0,False,residential,,99.863,,,,,,,,,,,13053942,
+120121997,120121988,0,False,residential,,67.102,,,,,,,,,,,13053942,
+120121997,120179971,0,False,residential,,38.693,,,,,,,,,,,13059681,
+120122006,120121997,0,False,residential,,99.863,,,,,,,,,,,13053942,
+120124145,120124071,0,True,motorway_link,,256.828,,,,,,,,,,,13054146,
+120124153,120124325,0,False,secondary,West Washington Street,13.624,,,,,,,,,,,479715332,NY 415
+120124153,120124145,0,True,motorway_link,,67.625,,,,,,,,,,,479715331,
+120124153,120124318,0,False,secondary,West Washington Street,98.08,,,,,,,,,,,479715334,NY 415
+120124173,120402815,0,False,secondary,West Morris Street,51.828,,,,,,,,,,,358650651,NY 415
+120124173,120558561,0,False,secondary,West Washington Street,179.617,,,,,,,,,,,13054154,NY 415
+120124173,120402704,0,False,tertiary,West Morris Street,374.632,,,,30 mph,,,,,,,13081419,
+120124173,3729829205,0,False,secondary,West Washington Street,55.026,,,,,,,,,,,330411956,NY 415
+120124318,120124145,0,True,motorway_link,,128.071,,,,,,,,,,,13072668,
+120124318,120103363,0,False,secondary,West Washington Street,475.212,,,,,,,,,,,369168926,NY 415
+120124318,120124153,0,False,secondary,West Washington Street,98.08,,,,,,,,,,,479715334,NY 415
+120124325,120124153,0,False,secondary,West Washington Street,13.624,,,,,,,,,,,479715332,NY 415
+120124325,120274794,0,False,residential,West Washington Street,137.534,,,,,,,,,,,13098143,
+120131370,120131400,0,False,residential,,146.94,,,,,,,,,,,13054969,
+120131370,121318253,0,False,residential,Unionville Road,1869.327,,,,,,,,,,,13162576,
+120131370,120148129,0,False,residential,Unionville Road,908.167,,,,,,,,,,,13162576,
+120131400,120131370,0,False,residential,,146.94,,,,,,,,,,,13054969,
+120143014,120143020,0,False,residential,,102.825,,,,,,,,,,,13056156,
+120143014,120340287,0,False,residential,Johnson Road,764.56,,,,,,,,,,,13076850,
+120143014,120339487,0,False,residential,Johnson Road,665.606,,,,,,,,,,,13076850,
+120143020,120143014,0,False,residential,,102.825,,,,,,,,,,,13056156,
+120148129,120148139,0,False,residential,,69.831,,,,,,,,,,,13056554,
+120148129,120131370,0,False,residential,Unionville Road,908.167,,,,,,,,,,,13162576,
+120148129,120562451,0,False,residential,Unionville Road,284.317,,,,,,,,,,,13162576,
+120148139,120148129,0,False,residential,,69.831,,,,,,,,,,,13056554,
+120148212,120148274,0,False,residential,,515.171,,,,,,,,,,,13056560,
+120148212,120551248,0,False,tertiary,County Route 15,1118.038,,,,,,,,,,,13123381,CR 15
+120148212,120890216,0,False,tertiary,County Route 15,224.74,,,,,,,,,,,13123381,CR 15
+120148274,120148212,0,False,residential,,515.171,,,,,,,,,,,13056560,
+120153246,120153268,0,False,residential,,43.642,,,,,,,,,,,13056929,
+120153246,120153346,0,False,residential,Chamberlain Road,240.038,,,,,,,,,,,13101288,
+120153246,120288684,0,False,residential,Chamberlain Road,191.876,,,,,,,,,,,13101288,
+120153268,120153346,0,False,residential,,266.418,,,,,,,,,,,13056929,
+120153268,120153246,0,False,residential,,43.642,,,,,,,,,,,13056929,
+120153268,120229047,0,False,residential,,309.36,,,,,,,,,,,13066569,
+120153346,120153268,0,False,residential,,266.418,,,,,,,,,,,13056929,
+120153346,120183454,0,False,residential,Chamberlain Road,428.334,,,,,,,,,,,13101288,
+120153346,120153246,0,False,residential,Chamberlain Road,240.038,,,,,,,,,,,13101288,
+120155641,120155666,0,False,residential,River Road,321.202,,,,,,,,,,,13057090,
+120155641,120822144,0,False,residential,Veterans Avenue,124.794,,,,,,,,,,,330247908,
+120155641,121186728,0,False,residential,"['Veterans Avenue', 'West Washington Street']",239.312,,,,,,,yes,,,,"[13130665, 154880708, 330247908, 13098143]",
+120155666,3372025267,0,False,residential,River Road,300.783,,,,,,,,,,,13057090,
+120155666,120155641,0,False,residential,River Road,321.202,,,,,,,,,,,13057090,
+120155666,120822216,0,False,residential,Purple Heart Avenue,201.315,,,,,,,,,,,13181441,
+120155798,3372025267,0,False,residential,River Road,160.058,,,,,,,,,,,13057090,
+120155798,120891758,0,False,residential,"['Longwell Lane', 'Gettysburg Avenue']",783.664,,,,,,,,,,,"[13188361, 330409820]",
+120155798,3372025265,0,False,residential,Gettysburg Avenue,59.313,,,,,,,,,,,330409820,
+120161455,120161463,0,False,residential,,94.309,,,,,,,,,,,13057516,
+120161455,120327369,0,False,residential,Pheasant Lane,58.975,,,,,,,,,,,13075870,
+120161455,120326981,0,False,residential,Pheasant Lane,468.125,,,,,,,,,,,13075870,
+120161463,120161455,0,False,residential,,94.309,,,,,,,,,,,13057516,
+120164649,120164668,0,False,residential,,220.101,,,,,,,,,,,13057754,
+120164649,121076613,0,False,tertiary,County Route 14,363.964,,,,,,,,,,,13138842,CR14
+120164649,120361116,0,False,tertiary,County Route 14,430.71,,,,,,,,,,,13138842,CR14
+120164668,120164649,0,False,residential,,220.101,,,,,,,,,,,13057754,
+120166523,120166603,0,False,residential,,122.945,,,,,,,,,,,13057914,
+120166523,120891621,0,False,tertiary,County Route 15,979.892,,,,,,,,,,,13123381,CR 15
+120166523,120891417,0,False,tertiary,County Route 15,153.626,,,,,,,,,,,13123381,CR 15
+120166603,120166523,0,False,residential,,122.945,,,,,,,,,,,13057914,
+120174416,120891621,0,False,tertiary,County Route 15,9.022,,,,,,,,,,,13123381,CR 15
+120174416,120174448,0,False,residential,,42.743,,,,,,,,,,,13058926,
+120174416,120174469,0,False,tertiary,County Route 15,141.857,,,,,,,,,,,13123381,CR 15
+120174448,120174416,0,False,residential,,42.743,,,,,,,,,,,13058926,
+120174469,120174510,0,False,residential,,35.25,,,,,,,,,,,13058936,
+120174469,120891758,0,False,tertiary,County Route 15,421.75,,,,,,,,,,,13123381,CR 15
+120174469,120174416,0,False,tertiary,County Route 15,141.857,,,,,,,,,,,13123381,CR 15
+120174510,120174469,0,False,residential,,35.25,,,,,,,,,,,13058936,
+120174573,120234885,0,False,residential,,228.429,,,,,,,,,,,13067062,
+120177142,120124325,0,True,motorway_link,,347.758,,,,,,,,,,,13059299,
+120177142,120124071,0,True,motorway,Southern Tier Expressway,453.134,2,,,65 mph,,,,,,,40420921,I 86;NY 17;NY 15
+120179765,120179922,0,False,residential,,233.298,,,,,,,,,,,13059675,
+120179922,120179952,0,False,residential,,36.665,,,,,,,,,,,13059675,
+120179922,120179765,0,False,residential,,233.298,,,,,,,,,,,13059675,
+120179922,120293791,0,False,residential,,242.053,,,,,,,,,,,13072820,
+120179952,120179971,0,False,residential,,205.915,,,,,,,,,,,13059675,
+120179952,120179971,1,False,residential,,157.039,,,,,,,,,,,13059681,
+120179952,120179922,0,False,residential,,36.665,,,,,,,,,,,13059675,
+120179971,120121997,0,False,residential,,38.693,,,,,,,,,,,13059681,
+120179971,120179952,0,False,residential,,205.915,,,,,,,,,,,13059675,
+120179971,120179952,1,False,residential,,157.039,,,,,,,,,,,13059681,
+120183454,120183541,0,False,residential,,632.838,,,,,,,,,,,13060242,
+120183454,120153346,0,False,residential,Chamberlain Road,428.334,,,,,,,,,,,13101288,
+120183454,120288537,0,False,tertiary,Campbell Creek,356.403,,,,,,,,,,,13138686,CR 14
+120183454,120844840,0,False,tertiary,Campbell Creek,1325.789,,,,,,,,,,,13138686,CR 14
+120183541,120183454,0,False,residential,,632.838,,,,,,,,,,,13060242,
+120189176,120189184,0,False,residential,,170.366,,,,,,,,,,,13061190,
+120189184,120189176,0,False,residential,,170.366,,,,,,,,,,,13061190,
+120192587,120192653,0,False,residential,,527.42,,,,,,,,,,,13061763,
+120192587,120590765,0,False,residential,Shattuck Road,2611.587,,,,,,,,,,,13200638,
+120192653,120192587,0,False,residential,,527.42,,,,,,,,,,,13061763,
+120192696,120192758,0,False,residential,,469.559,,,,,,,,,,,13061778,
+120192696,120561224,0,False,residential,Buck Settlement Road,551.56,,,,,,,,,,,13098341,
+120192696,120478101,0,False,residential,Buck Settlement Road,529.923,,,,,,,,,,,13098341,
+120192758,120192696,0,False,residential,,469.559,,,,,,,,,,,13061778,
+120193997,121268126,0,False,residential,Spaulding Drive,55.361,,,,,,,,,,,13157978,
+120193997,121268126,1,False,residential,,120.587,,,,,,,,,,,13061972,
+120193997,121268097,0,False,residential,Spaulding Drive,75.109,,,,,,,,,,,13157978,
+120194869,120194898,0,False,residential,,168.159,,,,,,,,,,,13062142,
+120194869,120891417,0,False,tertiary,County Route 15,971.841,,,,,,,,,,,13123381,CR 15
+120194869,120891131,0,False,tertiary,County Route 15,73.903,,,,,,,,,,,13123381,CR 15
+120194898,120194869,0,False,residential,,168.159,,,,,,,,,,,13062142,
+120199231,120199347,0,True,motorway_link,,861.439,,,,,,,,,,,13062955,
+120199231,120199347,1,True,motorway,Southern Tier Expressway,849.14,2,,,65 mph,,,,,,,40420923,I 86;NY 17;NY 15
+120199347,120106797,0,True,motorway,Southern Tier Expressway,278.829,2,,,65 mph,,,,,,,40420923,I 86;NY 17;NY 15
+120209419,120209454,0,False,residential,,183.981,,,,,,,,,,,13064636,
+120209419,121268097,0,False,residential,Spaulding Drive,583.928,,,,,,,,,,,13157978,
+120209419,120645575,0,False,residential,Spaulding Drive,124.774,,,,,,,,,,,13157978,
+120209454,120209419,0,False,residential,,183.981,,,,,,,,,,,13064636,
+120210455,120210503,0,False,residential,,298.454,,,,,,,,,,,13064750,
+120210455,120210503,1,False,residential,Harrisburg Hollow Road,162.526,,,,,,,,,,,13190821,
+120210455,121126969,0,False,residential,Harrisburg Hollow Road,104.198,,,,,,,,,,,13190821,
+120210503,120210455,0,False,residential,,298.454,,,,,,,,,,,13064750,
+120210503,120210455,1,False,residential,Harrisburg Hollow Road,162.526,,,,,,,,,,,13190821,
+120210503,120285019,0,False,residential,Harrisburg Hollow Road,890.423,,,,,,,,,,,13190821,
+120218618,120271144,0,False,residential,,61.732,,,,,,,,,,,13070384,
+120218630,120218782,0,False,residential,,61.336,,,,,,,,,,,13065673,
+120218782,120218630,0,False,residential,,61.336,,,,,,,,,,,13065673,
+120229047,120288684,0,False,residential,Chamberlain Road,28.034,,,,,,,,,,,13101288,
+120229047,120153268,0,False,residential,,309.36,,,,,,,,,,,13066569,
+120229047,120597633,0,False,residential,Chamberlain Road,1079.167,,,,,,,,,,,13101288,
+120229266,120229343,0,False,residential,,99.835,,,,,,,,,,,13066603,
+120229266,120229322,0,False,residential,,133.439,,,,,,,,,,,13066590,
+120229266,120229446,0,False,residential,,199.981,,,,,,,,,,,13066603,
+120229322,120229343,0,False,residential,Snell Hill Road,55.57,,,,,,,,,,,13121876,
+120229322,120229266,0,False,residential,,133.439,,,,,,,,,,,13066590,
+120229343,120229266,0,False,residential,,99.835,,,,,,,,,,,13066603,
+120229343,120229322,0,False,residential,Snell Hill Road,55.57,,,,,,,,,,,13121876,
+120229343,120229446,0,False,residential,Snell Hill Road,102.243,,,,,,,,,,,13121876,
+120229446,120229266,0,False,residential,,199.981,,,,,,,,,,,13066603,
+120229446,120597389,0,False,residential,Snell Hill Road,653.11,,,,,,,,,,,13121876,
+120229446,120229343,0,False,residential,Snell Hill Road,102.243,,,,,,,,,,,13121876,
+120230121,120230154,0,False,residential,,187.205,,,,,,,,,,,13066672,
+120230121,120891131,0,False,residential,Shannon Road,430.403,,,,,,,,,,,13186576,
+120230121,121566584,0,False,residential,Shannon Road,1540.878,,,,,,,,,,,13186576,
+120230154,120230121,0,False,residential,,187.205,,,,,,,,,,,13066672,
+120234854,120234885,0,False,residential,,275.34,,,,,,,,,,,13067062,
+120234854,121064844,0,False,residential,Moore Road,1755.704,,,,,,,,,,,13199863,
+120234854,121715121,0,False,residential,Moore Road,347.365,,,,,,,,,,,13199863,
+120234885,120174573,0,False,residential,,228.429,,,,,,,,,,,13067062,
+120234885,120234854,0,False,residential,,275.34,,,,,,,,,,,13067062,
+120234885,120277075,0,False,residential,,403.31,,,,,,,,,,,13071007,
+120242080,120242148,0,False,residential,,161.485,,,,,,,,,,,13067669,
+120242080,120050039,0,False,residential,Nipher Road,400.05,,,,,,,,,,,13078743,
+120242148,120242080,0,False,residential,,161.485,,,,,,,,,,,13067669,
+120244983,120245004,0,False,residential,,376.761,,,,,,,,,,,13067888,
+120244983,120478101,0,False,residential,Coss Corners Road,1235.783,,,,,,,,,,,13087300,
+120244983,120477957,0,False,residential,Coss Corners Road,367.504,,,,,,,,,,,13087300,
+120245004,120244983,0,False,residential,,376.761,,,,,,,,,,,13067888,
+120245803,120245815,0,False,residential,,28.603,,,,,,,,,,,13067947,
+120245803,120645575,0,False,secondary,State Highway 415,144.76,,,,,,,,,,,13105122,NY 415
+120245803,120402881,0,False,secondary,"['West Morris Street', 'State Highway 415']",934.899,,,,,,,,,,,"[13105122, 358650651]",NY 415
+120245815,120245803,0,False,residential,,28.603,,,,,,,,,,,13067947,
+120255308,120255439,0,False,residential,,502.305,,,,,,,,,,,13068849,
+120255308,120050039,0,False,residential,Nipher Road,100.52,,,,,,,,,,,13078743,
+120255308,120365255,0,False,residential,Nipher Road,885.645,,,,,,,,,,,13078743,
+120255439,120255308,0,False,residential,,502.305,,,,,,,,,,,13068849,
+120256217,120256235,0,False,residential,,73.56,,,,,,,,,,,13068915,
+120256217,120597389,0,False,residential,Chamberlain Road,345.756,,,,,,,,,,,13101288,
+120256217,120366181,0,False,residential,Chamberlain Road,689.487,,,,,,,,,,,13101288,
+120256235,120256217,0,False,residential,,73.56,,,,,,,,,,,13068915,
+120256308,120256322,0,False,residential,,64.176,,,,,,,,,,,13068924,
+120256308,120366181,0,False,residential,Chamberlain Road,311.551,,,,,,,,,,,13101288,
+120256322,120256308,0,False,residential,,64.176,,,,,,,,,,,13068924,
+120260056,120260109,0,False,residential,,1326.971,,,,,,,,,,,"[13069296, 13069292]",
+120260084,120260109,0,False,residential,,195.852,,,,,,,,,,,13069296,
+120260109,120260056,0,False,residential,,1326.971,,,,,,,,,,,"[13069296, 13069292]",
+120260109,120260084,0,False,residential,,195.852,,,,,,,,,,,13069296,
+120260109,120260245,0,False,residential,,110.292,,,,,,,,,,,13069314,
+120260245,120260109,0,False,residential,,110.292,,,,,,,,,,,13069314,
+120265886,120265954,0,False,residential,,202.193,,,,,,,,,,,13069853,
+120265886,120265954,1,False,tertiary,County Route 10,169.662,,,,55 mph,,,,,,,413210764,CR10
+120265886,121250085,0,False,tertiary,County Route 10,1455.726,,,,55 mph,,,,,,,"[13137200, 413210764]",CR10
+120265954,120265886,0,False,residential,,202.193,,,,,,,,,,,13069853,
+120265954,120265886,1,False,tertiary,County Route 10,169.662,,,,55 mph,,,,,,,413210764,CR10
+120265954,120550198,0,False,tertiary,County Route 10,191.216,,,,55 mph,,,,,,,413210764,CR10
+120271144,120218618,0,False,residential,,61.732,,,,,,,,,,,13070384,
+120271196,120271225,0,False,residential,,148.562,,,,,,,,,,,13070390,
+120271196,120591503,0,False,residential,Emerson Road,847.293,,,,,,,,,,,13100863,
+120271196,120590765,0,False,residential,Emerson Road,1847.893,,,,,,,,,,,13100863,
+120271225,120271196,0,False,residential,,148.562,,,,,,,,,,,13070390,
+120274794,120274833,0,False,residential,Belfast Street,57.596,,,,,,,,,,,13070796,
+120274794,121186728,0,False,residential,West Washington Street,138.046,,,,,,,,,,,13098143,
+120274794,120124325,0,False,residential,West Washington Street,137.534,,,,,,,,,,,13098143,
+120274833,120274794,0,False,residential,Belfast Street,57.596,,,,,,,,,,,13070796,
+120274833,3372025263,0,False,residential,Belfast Street,77.964,,,,,,,,,,,13149197,
+120274833,121186745,0,False,residential,Belfast Street,73.29,,,,,,,,,,,13149197,
+120276717,120276782,0,False,residential,,534.327,,,,,,,,,,,13070969,
+120276782,120276717,0,False,residential,,534.327,,,,,,,,,,,13070969,
+120276782,120727522,0,False,residential,Robinson Road,1843.927,,,,,,,,,,,13170886,
+120276782,121415073,0,False,residential,Robinson Road,184.687,,,,,,,,,,,13170886,
+120276837,120276901,0,False,residential,,506.77,,,,,,,,,,,13070978,
+120276901,120276837,0,False,residential,,506.77,,,,,,,,,,,13070978,
+120276901,120844219,0,False,tertiary,County Route 15,940.739,,,,,,,,,,,13123381,CR 15
+120276901,120890584,0,False,tertiary,County Route 15,598.7,,,,,,,,,,,13123381,CR 15
+120277075,120234885,0,False,residential,,403.31,,,,,,,,,,,13071007,
+120282063,120749230,0,False,residential,San Juan Avenue,214.696,,,,,,,,,,,13202294,
+120285019,120285221,0,False,residential,,458.669,,,,,,,,,,,13071862,
+120285019,120339487,0,False,residential,Harrisburg Hollow Road,436.79,,,,,,,,,,,13190821,
+120285019,120210503,0,False,residential,Harrisburg Hollow Road,890.423,,,,,,,,,,,13190821,
+120285221,120285019,0,False,residential,,458.669,,,,,,,,,,,13071862,
+120285244,120285276,0,False,residential,,443.845,,,,,,,,,,,13071870,
+120285244,120293791,0,False,tertiary,County Route 13,282.97,,,,45 mph;55 mph,,,,,,,13199244,CR 13
+120285244,120904656,0,False,tertiary,County Route 13,1211.275,,,,45 mph;55 mph,,,,,,,13199244,CR 13
+120285276,120285244,0,False,residential,,443.845,,,,,,,,,,,13071870,
+120288537,120288564,0,False,residential,,167.956,,,,,,,,,,,13072263,
+120288537,120365255,0,False,tertiary,Campbell Creek,1289.239,,,,,,,,,,,13138686,CR 14
+120288537,120183454,0,False,tertiary,Campbell Creek,356.403,,,,,,,,,,,13138686,CR 14
+120288564,120288537,0,False,residential,,167.956,,,,,,,,,,,13072263,
+120288684,120229047,0,False,residential,Chamberlain Road,28.034,,,,,,,,,,,13101288,
+120288684,120288724,0,False,residential,,76.216,,,,,,,,,,,13072286,
+120288684,120153246,0,False,residential,Chamberlain Road,191.876,,,,,,,,,,,13101288,
+120288724,120288684,0,False,residential,,76.216,,,,,,,,,,,13072286,
+120293791,120179922,0,False,residential,,242.053,,,,,,,,,,,13072820,
+120293791,120772066,0,False,tertiary,County Route 13,240.304,,,,45 mph;55 mph,,,,,,,13199244,CR 13
+120293791,120285244,0,False,tertiary,County Route 13,282.97,,,,45 mph;55 mph,,,,,,,13199244,CR 13
+120297493,120121769,0,False,residential,,135.486,,,,,,,,,,,13073195,
+120297493,120106517,0,False,residential,Hickory Hill,94.222,,,,,,,,,,,13113340,
+120297493,120121761,0,False,residential,Hickory Hill,51.273,,,,,,,,,,,13113368,
+120297517,120297528,0,False,residential,,153.196,,,,,,,,,,,13073195,
+120297517,120121789,0,False,residential,,32.194,,,,,,,,,,,13073195,
+120297517,120121813,0,False,residential,Hickory Hill,173.699,,,,,,,,,,,13113368,
+120297528,120297517,0,False,residential,,153.196,,,,,,,,,,,13073195,
+120319919,120339487,0,False,residential,Harrisburg Hollow Road,1269.431,,,,,,,,,,,13190821,
+120325805,120325932,0,False,residential,Railroad Avenue,377.829,,,,,,,,,,,13075779,
+120325805,120862682,0,False,residential,Avoca Back Road,253.752,,,,,,,,,,,13121228,
+120325932,120872273,0,False,secondary,,28.118,,,,,,,,,,,13132398,NY 53
+120325932,120325805,0,False,residential,Railroad Avenue,377.829,,,,,,,,,,,13075779,
+120325932,120100223,0,False,secondary,,213.442,,,,,,,,,,,13132398,NY 53
+120325980,120402670,0,False,tertiary,West Morris Street,84.108,,,,30 mph,,,,,,,13081419,
+120325980,120403008,0,False,residential,"['Railroad Avenue', 'Cohocton Street']",296.436,,,,,,,,,,,"[13075784, 13153957]",
+120325980,120097065,0,False,tertiary,West Steuben Street,60.998,,,,,,,,,,,13209313,
+120325980,120097058,0,False,unclassified,West Morris Street,66.518,,,,30 mph,,,,,,,558314947,
+120326981,120161455,0,False,residential,Pheasant Lane,468.125,,,,,,,,,,,13075870,
+120326981,121126508,0,False,residential,Snyder Hill Road,241.153,,,,,,,,,,,13155828,
+120326981,120432631,0,False,residential,"['Snyder Hill Road', 'Maple Heights']",660.894,,,,,,,,,,,"[13180184, 13155828]",
+120327369,120161455,0,False,residential,Pheasant Lane,58.975,,,,,,,,,,,13075870,
+120337629,120558474,0,False,secondary,West Washington Street,156.98,,,,,,,,,,,13054154,NY 415
+120337629,120558456,0,False,secondary,West Washington Street,101.228,,,,,,,,,,,13054154,NY 415
+120337629,120558456,1,False,residential,"['Keller Street', 'Ellis Avenue']",587.03,,,,,,,,,,,"[13150392, 13076684]",
+120339487,120143014,0,False,residential,Johnson Road,665.606,,,,,,,,,,,13076850,
+120339487,120319919,0,False,residential,Harrisburg Hollow Road,1269.431,,,,,,,,,,,13190821,
+120339487,120285019,0,False,residential,Harrisburg Hollow Road,436.79,,,,,,,,,,,13190821,
+120340287,120143014,0,False,residential,Johnson Road,764.56,,,,,,,,,,,13076850,
+120361116,120106711,0,False,residential,Fort Hill Road,1106.842,,,,,,,,,,,13078447,
+120361116,120164649,0,False,tertiary,County Route 14,430.71,,,,,,,,,,,13138842,CR14
+120361116,120591503,0,False,tertiary,County Route 14,2090.035,,,,,,,,,,,13138842,CR14
+120361826,120106711,0,False,residential,Fort Hill Road,412.861,,,,,,,,,,,13078447,
+120361826,120554256,0,False,residential,Middle Road,2113.448,,,,,,,,,,,13120389,
+120365255,120255308,0,False,residential,Nipher Road,885.645,,,,,,,,,,,13078743,
+120365255,120646161,0,False,tertiary,Campbell Creek,906.664,,,,,,,,,,,13138686,CR 14
+120365255,120288537,0,False,tertiary,Campbell Creek,1289.239,,,,,,,,,,,13138686,CR 14
+120366181,120256217,0,False,residential,Chamberlain Road,689.487,,,,,,,,,,,13101288,
+120366181,120256308,0,False,residential,Chamberlain Road,311.551,,,,,,,,,,,13101288,
+120370812,120370827,0,False,residential,Spring Street,70.33,,,,,,,,,,,13079040,
+120370812,120432573,0,False,residential,Wood Street,111.929,,,,30 mph,,,,,,,13144836,
+120370812,120731590,0,False,residential,Wood Street,22.769,,,,30 mph,,,,,,,13144836,
+120370827,120370812,0,False,residential,Spring Street,70.33,,,,,,,,,,,13079040,
+120383323,120383347,0,False,residential,Water Street,119.228,,,,,,,,,,,13079922,
+120383323,120402881,0,False,secondary,West Morris Street,193.878,,,,,,,,,,,358650651,NY 415
+120383323,120402815,0,False,secondary,West Morris Street,194.11,,,,,,,,,,,358650651,NY 415
+120383347,121322555,0,False,residential,Denwood Terrace,67.667,,,,,,,,,,,13162969,
+120383347,120383323,0,False,residential,Water Street,119.228,,,,,,,,,,,13079922,
+120383347,120383380,0,False,residential,Water Street,63.943,,,,,,,,,,,358642964,
+120383380,120383347,0,False,residential,Water Street,63.943,,,,,,,,,,,358642964,
+120395004,120403008,0,False,residential,Cameron Street,314.152,,,,30 mph,,,yes,,,,"[330249155, 132986494, 132986495]",
+120395004,120462738,0,False,residential,Cameron Street,119.735,,,,30 mph,,,,,,,330249155,
+120402595,120403008,0,False,residential,Cameron Street,117.846,,,,30 mph,,,,,,,13081432,
+120402595,121303793,0,False,residential,Pine Street,110.992,,,,,,,,,,,13161182,
+120402595,120097058,0,False,unclassified,West Morris Street,206.405,,,,30 mph,,,,,,,558314947,
+120402670,120325980,0,False,tertiary,West Morris Street,84.108,,,,30 mph,,,,,,,13081419,
+120402670,120402704,0,False,tertiary,West Morris Street,265.465,,,,30 mph,,,,,,,13081419,
+120402670,121156362,0,False,residential,Cruger Street,140.538,,,,,,,,,,,13201704,
+120402704,120124173,0,False,tertiary,West Morris Street,374.632,,,,30 mph,,,,,,,13081419,
+120402704,120402670,0,False,tertiary,West Morris Street,265.465,,,,30 mph,,,,,,,13081419,
+120402704,120558534,0,False,residential,Hubbell Street,200.178,,,,,,,,,,,13152253,
+120402815,120124173,0,False,secondary,West Morris Street,51.828,,,,,,,,,,,358650651,NY 415
+120402815,3729829205,0,True,secondary,,57.136,,,,,,,,,,,50472614,NY 415
+120402815,120383323,0,False,secondary,West Morris Street,194.11,,,,,,,,,,,358650651,NY 415
+120402881,121186709,0,False,residential,Crane Street,104.781,,,,,,,,,,,13149190,
+120402881,120245803,0,False,secondary,"['West Morris Street', 'State Highway 415']",934.899,,,,,,,,,,,"[13105122, 358650651]",NY 415
+120402881,120383323,0,False,secondary,West Morris Street,193.878,,,,,,,,,,,358650651,NY 415
+120403008,120402595,0,False,residential,Cameron Street,117.846,,,,30 mph,,,,,,,13081432,
+120403008,120325980,0,False,residential,"['Railroad Avenue', 'Cohocton Street']",296.436,,,,,,,,,,,"[13075784, 13153957]",
+120403008,120395004,0,False,residential,Cameron Street,314.152,,,,30 mph,,,yes,,,,"[330249155, 132986494, 132986495]",
+120432573,120432589,0,False,residential,Charles Street,211.473,,,,30 mph,,,,,,,13083854,
+120432573,121141547,0,False,residential,Wood Street,113.755,,,,30 mph,,,,,,,13144836,
+120432573,120370812,0,False,residential,Wood Street,111.929,,,,30 mph,,,,,,,13144836,
+120432589,120432573,0,False,residential,Charles Street,211.473,,,,30 mph,,,,,,,13083854,
+120432589,120576138,0,False,residential,Kingsley Street,113.162,,,,30 mph,,,,,,,13099584,
+120432589,120432631,0,False,residential,Charles Street,254.349,,,,30 mph,,,,,,,13083854,
+120432631,120432589,0,False,residential,Charles Street,254.349,,,,30 mph,,,,,,,13083854,
+120432631,120326981,0,False,residential,"['Snyder Hill Road', 'Maple Heights']",660.894,,,,,,,,,,,"[13180184, 13155828]",
+120432631,121307184,0,False,residential,Maple Heights,391.824,,,,,,,,,,,13180184,
+120462738,120395004,0,False,residential,Cameron Street,119.735,,,,30 mph,,,,,,,330249155,
+120462738,121250085,0,False,"['residential', 'tertiary']","['County Route 10', 'Cameron Street']",238.373,,,,"['30 mph', '55 mph']",,,,,,,"[13137200, 330249155]",CR10
+120477640,120477852,0,False,residential,Coss Corners Road,2000.081,,,,,,,,,,,13087300,
+120477640,120613304,0,False,residential,Wind Fall Road,1186.711,,,,,,,,,,,13149163,
+120477852,120477947,0,False,residential,Coss Corners Road,1476.966,,,,,,,,,,,13087300,
+120477852,120477640,0,False,residential,Coss Corners Road,2000.081,,,,,,,,,,,13087300,
+120477852,121057168,0,False,tertiary,County Route 10,682.273,,,,55 mph,,,,,,,413210764,CR10
+120477947,120477957,0,False,residential,Coss Corners Road,8.574,,,,,,,,,,,13087300,
+120477947,120477852,0,False,residential,Coss Corners Road,1476.966,,,,,,,,,,,13087300,
+120477957,120477947,0,False,residential,Coss Corners Road,8.574,,,,,,,,,,,13087300,
+120477957,120244983,0,False,residential,Coss Corners Road,367.504,,,,,,,,,,,13087300,
+120477957,120561818,0,False,residential,Thomas Road,1206.039,,,,,,,,,,,13207455,
+120478101,120478149,0,False,residential,Coss Corners Road,96.806,,,,,,,,,,,13087300,
+120478101,120244983,0,False,residential,Coss Corners Road,1235.783,,,,,,,,,,,13087300,
+120478101,120192696,0,False,residential,Buck Settlement Road,529.923,,,,,,,,,,,13098341,
+120478149,120478491,0,False,residential,Coss Corners Road,601.901,,,,,,,,,,,13087300,
+120478149,120478101,0,False,residential,Coss Corners Road,96.806,,,,,,,,,,,13087300,
+120478149,120562619,0,False,residential,Buck Settlement Road,679.131,,,,,,,,,,,13098491,
+120478491,120478149,0,False,residential,Coss Corners Road,601.901,,,,,,,,,,,13087300,
+120478491,120562619,0,False,residential,Smith Road,390.995,,,,,,,,,,,13136666,
+120514355,121186413,0,False,residential,Wind Fall Road,563.689,,,,,,,,,,,13149163,
+120514355,121186335,0,False,residential,Wind Fall Road,518.225,,,,,,,,,,,13149163,
+120546590,120546841,0,False,residential,Turnpike Road,1122.535,,,,,,,,,,,13096564,
+120546590,121077919,0,False,residential,Sinclair Road,2223.621,,,,,,,,,,,13198333,
+120546590,120554256,0,False,residential,Turnpike Road,756.056,,,,,,,,,,,244248653,
+120546841,120546590,0,False,residential,Turnpike Road,1122.535,,,,,,,,,,,13096564,
+120546841,121415073,0,False,residential,Mills Road,1189.351,,,,,,,,,,,13210748,
+120550198,121186413,0,False,residential,Wind Fall Road,574.445,,,,,,,,,,,13149163,
+120550198,120550293,0,False,tertiary,County Route 10,301.788,,,,55 mph,,,,,,,413210764,CR10
+120550198,120265954,0,False,tertiary,County Route 10,191.216,,,,55 mph,,,,,,,413210764,CR10
+120550293,120550546,0,False,residential,Turnpike Road,1074.689,,,,,,,,,,,13097852,
+120550293,121057483,0,False,tertiary,County Route 10,1657.554,,,,55 mph,,,,,,,413210764,CR10
+120550293,120550198,0,False,tertiary,County Route 10,301.788,,,,55 mph,,,,,,,413210764,CR10
+120550546,120550566,0,False,residential,Turnpike Road,28.028,,,,,,,,,,,13097852,
+120550546,120550293,0,False,residential,Turnpike Road,1074.689,,,,,,,,,,,13097852,
+120550546,121064844,0,False,residential,Tpke Road,55.462,,,,,,,,,,,13137677,
+120550566,120550546,0,False,residential,Turnpike Road,28.028,,,,,,,,,,,13097852,
+120550566,120550804,0,False,residential,Turnpike Road,1359.212,,,,,,,,,,,13097852,
+120550566,121317716,0,False,residential,Moore Road,1766.785,,,,,,,,,,,13199863,
+120550566,121064844,0,False,residential,Moore Road,43.095,,,,,,,,,,,13199863,
+120550804,120550862,0,False,residential,Turnpike Road,80.279,,,,,,,,,,,13097852,
+120550804,120550566,0,False,residential,Turnpike Road,1359.212,,,,,,,,,,,13097852,
+120550804,121566584,0,False,residential,Shannon Road,77.792,,,,,,,,,,,13186582,
+120550862,120551248,0,False,residential,Turnpike Road,1645.045,,,,,,,,,,,13097852,
+120550862,120550804,0,False,residential,Turnpike Road,80.279,,,,,,,,,,,13097852,
+120550862,121566584,0,False,residential,Shannon Road,35.86,,,,,,,,,,,13186576,
+120551248,120551754,0,False,residential,Turnpike Road,294.053,,,,,,,,,,,13097852,
+120551248,120550862,0,False,residential,Turnpike Road,1645.045,,,,,,,,,,,13097852,
+120551248,120097155,0,False,tertiary,County Route 15,212.403,,,,,,,,,,,13123381,CR 15
+120551248,120148212,0,False,tertiary,County Route 15,1118.038,,,,,,,,,,,13123381,CR 15
+120551754,120551977,0,False,residential,Turnpike Road,84.954,,,,,,,,,,,13097852,
+120551754,120551248,0,False,residential,Turnpike Road,294.053,,,,,,,,,,,13097852,
+120551754,4541807086,0,False,residential,East Ln,467.89,,,,,,,,,,,458135216,
+120551977,120553713,0,False,residential,Turnpike Road,373.56,,,,,,,,,,,13097852,
+120551977,120551754,0,False,residential,Turnpike Road,84.954,,,,,,,,,,,13097852,
+120551977,4541805960,0,False,residential,Dove Ln,206.573,,,,,,,,,,,458135154,
+120553713,120062417,0,False,residential,Turnpike Road,704.369,,,,,,,yes,,,,"[244248650, 13097852, 244248653]",
+120553713,120551977,0,False,residential,Turnpike Road,373.56,,,,,,,,,,,13097852,
+120553713,120852166,0,False,tertiary,"['Campbell Creek', 'County Route 14']",2268.364,,,,,,,yes,,,,"[13138842, 244248645, 13138686]","['CR14', 'CR 14']"
+120553713,120890216,0,False,tertiary,County Route 14,1170.763,,,,,,,,,,,13138842,CR14
+120554256,120852166,0,False,residential,Middle Road,2003.746,,,,,,,,,,,13120389,
+120554256,120361826,0,False,residential,Middle Road,2113.448,,,,,,,,,,,13120389,
+120554256,120546590,0,False,residential,Turnpike Road,756.056,,,,,,,,,,,244248653,
+120554256,120062417,0,False,residential,Turnpike Road,635.932,,,,,,,,,,,244248653,
+120558365,120558389,0,False,secondary,West Washington Street,216.02,,,,,,,,,,,13054154,NY 415
+120558365,121085621,0,False,secondary,Liberty Street,156.146,,,,30 mph,,,,,,,13127176,NY 54
+120558365,121085584,0,False,secondary,Liberty Street,189.129,,,,,,,,,,,13139563,NY 415
+120558389,120558409,0,False,secondary,West Washington Street,49.625,,,,,,,,,,,13054154,NY 415
+120558389,120558365,0,False,secondary,West Washington Street,216.02,,,,,,,,,,,13054154,NY 415
+120558389,121156306,0,False,residential,Howell Street,186.894,,,,,,,,,,,13182913,
+120558409,120558437,0,False,secondary,West Washington Street,50.398,,,,,,,,,,,13054154,NY 415
+120558409,120558389,0,False,secondary,West Washington Street,49.625,,,,,,,,,,,13054154,NY 415
+120558409,121060869,0,False,residential,Robie Street,411.952,,,,30 mph,,,,,,,13191241,
+120558437,120558456,0,False,secondary,West Washington Street,61.348,,,,,,,,,,,13054154,NY 415
+120558437,120558409,0,False,secondary,West Washington Street,50.398,,,,,,,,,,,13054154,NY 415
+120558437,121156322,0,False,residential,Pine Street,185.811,,,,,,,,,,,13161182,
+120558456,120337629,0,False,secondary,West Washington Street,101.228,,,,,,,,,,,13054154,NY 415
+120558456,120337629,1,False,residential,"['Keller Street', 'Ellis Avenue']",587.03,,,,,,,,,,,"[13150392, 13076684]",
+120558456,120558437,0,False,secondary,West Washington Street,61.348,,,,,,,,,,,13054154,NY 415
+120558474,120558510,0,False,secondary,West Washington Street,81.02,,,,,,,,,,,13054154,NY 415
+120558474,120337629,0,False,secondary,West Washington Street,156.98,,,,,,,,,,,13054154,NY 415
+120558474,121156362,0,False,residential,Cruger Street,183.506,,,,,,,,,,,13201704,
+120558510,120558534,0,False,secondary,West Washington Street,146.621,,,,,,,,,,,13054154,NY 415
+120558510,120558474,0,False,secondary,West Washington Street,81.02,,,,,,,,,,,13054154,NY 415
+120558510,121634651,0,False,residential,Freeman Terrace,76.501,,,,,,,,,,,13192331,
+120558534,120558561,0,False,secondary,West Washington Street,146.686,,,,,,,,,,,13054154,NY 415
+120558534,120558510,0,False,secondary,West Washington Street,146.621,,,,,,,,,,,13054154,NY 415
+120558534,120402704,0,False,residential,Hubbell Street,200.178,,,,,,,,,,,13152253,
+120558534,121194087,0,False,residential,Maple Heights,215.833,,,,,,,,,,,13180184,
+120558561,120558534,0,False,secondary,West Washington Street,146.686,,,,,,,,,,,13054154,NY 415
+120558561,120124173,0,False,secondary,West Washington Street,179.617,,,,,,,,,,,13054154,NY 415
+120558561,121194055,0,False,residential,Cook Street,218.574,,,,,,,,,,,13183932,
+120561224,120561260,0,False,residential,Buck Settlement Road,27.819,,,,,,,,,,,13098341,
+120561224,120192696,0,False,residential,Buck Settlement Road,551.56,,,,,,,,,,,13098341,
+120561224,120561352,0,False,residential,Buck Settlement Road,39.818,,,,,,,,,,,13098436,
+120561260,120561224,0,False,residential,Buck Settlement Road,27.819,,,,,,,,,,,13098341,
+120561260,120561352,0,False,residential,Buck Settlement Road,35.948,,,,,,,,,,,13098344,
+120561260,121494724,0,False,residential,Stewart Road,527.678,,,,,,,,,,,13180523,
+120561352,120561260,0,False,residential,Buck Settlement Road,35.948,,,,,,,,,,,13098344,
+120561352,120561818,0,False,residential,Buck Settlement Road,1531.025,,,,,,,,,,,13098436,
+120561352,120561224,0,False,residential,Buck Settlement Road,39.818,,,,,,,,,,,13098436,
+120561818,120561836,0,False,residential,Buck Settlement Road,36.11,,,,,,,,,,,13098436,
+120561818,120561352,0,False,residential,Buck Settlement Road,1531.025,,,,,,,,,,,13098436,
+120561818,120477957,0,False,residential,Thomas Road,1206.039,,,,,,,,,,,13207455,
+120561836,120561818,0,False,residential,Buck Settlement Road,36.11,,,,,,,,,,,13098436,
+120561836,120562451,0,False,residential,Buck Settlement Road,1462.925,,,,,,,,,,,13098436,
+120561836,121057168,0,False,residential,Hayes Road,2030.381,,,,,,,,,,,13141523,
+120562451,120561836,0,False,residential,Buck Settlement Road,1462.925,,,,,,,,,,,13098436,
+120562451,120148129,0,False,residential,Unionville Road,284.317,,,,,,,,,,,13162576,
+120562451,121317716,0,False,residential,Unionville Road,1337.669,,,,,,,,,,,13162576,
+120562619,120478149,0,False,residential,Buck Settlement Road,679.131,,,,,,,,,,,13098491,
+120562619,120478491,0,False,residential,Smith Road,390.995,,,,,,,,,,,13136666,
+120569079,121186335,0,False,residential,Wind Fall Road,553.208,,,,,,,,,,,13149163,
+120569079,120613304,0,False,residential,Wind Fall Road,716.246,,,,,,,,,,,13149163,
+120576138,120432589,0,False,residential,Kingsley Street,113.162,,,,30 mph,,,,,,,13099584,
+120576138,121141547,0,False,residential,Whiting Street,211.125,,,,30 mph,,,,,,,13162930,
+120576138,120741141,0,False,residential,"['Lyons Street', 'Kingsley Street']",452.852,,,,30 mph,,,,,,,"[13099584, 13111641]",
+120590765,120271196,0,False,residential,Emerson Road,1847.893,,,,,,,,,,,13100863,
+120590765,121725073,0,False,residential,Shattuck Road,467.037,,,,,,,,,,,13200558,
+120590765,120192587,0,False,residential,Shattuck Road,2611.587,,,,,,,,,,,13200638,
+120591503,120271196,0,False,residential,Emerson Road,847.293,,,,,,,,,,,13100863,
+120591503,120361116,0,False,tertiary,County Route 14,2090.035,,,,,,,,,,,13138842,CR14
+120597389,120597633,0,False,residential,Chamberlain Road,796.001,,,,,,,,,,,13101288,
+120597389,120256217,0,False,residential,Chamberlain Road,345.756,,,,,,,,,,,13101288,
+120597389,120229446,0,False,residential,Snell Hill Road,653.11,,,,,,,,,,,13121876,
+120597633,120229047,0,False,residential,Chamberlain Road,1079.167,,,,,,,,,,,13101288,
+120597633,120597389,0,False,residential,Chamberlain Road,796.001,,,,,,,,,,,13101288,
+120597633,120727522,0,False,residential,Robinson Road,113.411,,,,,,,,,,,13170886,
+120604264,121189229,0,False,residential,Casson Lane,107.405,,,,,,,,,,,13149454,
+120613304,120569079,0,False,residential,Wind Fall Road,716.246,,,,,,,,,,,13149163,
+120613304,120477640,0,False,residential,Wind Fall Road,1186.711,,,,,,,,,,,13149163,
+120634469,120634550,0,False,residential,Farm Road,79.833,,,,,,,,,,,13104304,
+120634550,120634469,0,False,residential,Farm Road,79.833,,,,,,,,,,,13104304,
+120634550,120646045,0,False,secondary,State Highway 415,100.135,,,,,,,,,,,108658103,NY 415
+120634550,120645815,0,False,secondary,State Highway 415,1784.049,,,,,,,,,,,108658103,NY 415
+120640425,120871610,0,False,secondary,Liberty Street,116.638,,,,,,,,,,,13139563,NY 415
+120640425,121741328,0,False,tertiary,West Steuben Street,55.981,,,,,,,,,,,13209313,
+120645575,120645691,0,False,secondary,State Highway 415,775.867,,,,,,,yes,,,,"[108658089, 13105122, 108658103]",NY 415
+120645575,120245803,0,False,secondary,State Highway 415,144.76,,,,,,,,,,,13105122,NY 415
+120645575,120209419,0,False,residential,Spaulding Drive,124.774,,,,,,,,,,,13157978,
+120645691,121268126,0,False,residential,Spaulding Drive,132.891,,,,,,,,,,,13157978,
+120645691,120645815,0,False,secondary,State Highway 415,321.512,,,,,,,,,,,108658103,NY 415
+120645691,120645575,0,False,secondary,State Highway 415,775.867,,,,,,,yes,,,,"[108658089, 13105122, 108658103]",NY 415
+120645815,120634550,0,False,secondary,State Highway 415,1784.049,,,,,,,,,,,108658103,NY 415
+120645815,120645691,0,False,secondary,State Highway 415,321.512,,,,,,,,,,,108658103,NY 415
+120645815,120891758,0,False,"['secondary', 'tertiary']",County Route 15,422.356,,,,,,,yes,,,,"[154806016, 154806017, 13123381]",CR 15
+120646045,120862682,0,False,secondary,,285.348,,,,,,,,,,,13132398,NY 53
+120646045,120646161,0,False,secondary,State Highway 415,357.573,,,,,,,yes,,,,"[154806039, 154806037, 108658103]",NY 415
+120646045,120634550,0,False,secondary,State Highway 415,100.135,,,,,,,,,,,108658103,NY 415
+120646161,120365255,0,False,tertiary,Campbell Creek,906.664,,,,,,,,,,,13138686,CR 14
+120646161,120646045,0,False,secondary,State Highway 415,357.573,,,,,,,yes,,,,"[108658103, 154806037, 154806039]",NY 415
+120646161,121076519,0,False,residential,Campbell Creek,86.272,,,,,,,,,,,333317122,CR 14
+120726760,120727522,0,False,residential,"['Robinson Road', 'Gay Gulf Road']",2444.859,,,,,,,,,,,"[13170892, 13110892, 13110917]",
+120726760,121415073,0,False,residential,Robinson Road,274.869,,,,,,,,,,,13170886,
+120726760,121298458,0,False,residential,Robinson Road,171.352,,,,,,,,,,,13170886,
+120727522,120726760,0,False,residential,"['Robinson Road', 'Gay Gulf Road']",2444.859,,,,,,,,,,,"[13110892, 13170892, 13110917]",
+120727522,120597633,0,False,residential,Robinson Road,113.411,,,,,,,,,,,13170886,
+120727522,120276782,0,False,residential,Robinson Road,1843.927,,,,,,,,,,,13170886,
+120731590,120370812,0,False,residential,Wood Street,22.769,,,,30 mph,,,,,,,13144836,
+120731590,121141532,0,False,residential,Wood Street,42.274,,,,30 mph,,,,,,,13144836,
+120731590,120951113,0,False,residential,"['Robie Street', 'Hillview Drive']",357.817,,,,30 mph,,,,,,,"[13191241, 13111114]",
+120741141,121146112,0,False,residential,Robie Street,34.169,,,,30 mph,,,,,,,13191241,
+120741141,121060869,0,False,residential,Robie Street,191.905,,,,30 mph,,,,,,,13191241,
+120741141,120576138,0,False,residential,"['Lyons Street', 'Kingsley Street']",452.852,,,,30 mph,,,,,,,"[13099584, 13111641]",
+120749230,120822216,0,False,residential,Argonne Avenue,365.427,,,,,,,,,,,13202118,
+120749230,120822216,1,False,residential,"['San Juan Avenue', 'Gettysburg Avenue']",446.752,,,,,,,,,,,"[330409821, 13202294]",
+120749230,120282063,0,False,residential,San Juan Avenue,214.696,,,,,,,,,,,13202294,
+120772066,120106524,0,False,tertiary,County Route 13,26.675,,,,45 mph;55 mph,,,,,,,13199244,CR 13
+120772066,120121988,0,False,residential,Hickory Hill,111.464,,,,,,,,,,,13113346,
+120772066,120293791,0,False,tertiary,County Route 13,240.304,,,,45 mph;55 mph,,,,,,,13199244,CR 13
+120822144,120095834,0,False,residential,Veterans Avenue,32.821,,,,,,,,,,,330247908,
+120822144,120155641,0,False,residential,Veterans Avenue,124.794,,,,,,,,,,,330247908,
+120822144,120095856,0,False,residential,Gettysburg Avenue,23.395,,,,,,,,,,,330409821,
+120822216,120155666,0,False,residential,Purple Heart Avenue,201.315,,,,,,,,,,,13181441,
+120822216,120749230,0,False,residential,Argonne Avenue,365.427,,,,,,,,,,,13202118,
+120822216,120749230,1,False,residential,"['San Juan Avenue', 'Gettysburg Avenue']",446.752,,,,,,,,,,,"[330409821, 13202294]",
+120822216,120095856,0,False,residential,Gettysburg Avenue,123.455,,,,,,,,,,,330409821,
+120834953,120834968,0,False,residential,Exchange Street,77.927,,,,,,,,,,,13119096,
+120834953,120871622,0,False,residential,Buell Street,128.134,,,,,,,,,,,13121881,
+120834953,120871610,0,False,residential,Buell Street,85.155,,,,,,,,,,,13121881,
+120834968,120834953,0,False,residential,Exchange Street,77.927,,,,,,,,,,,13119096,
+120844219,120844513,0,False,residential,Cochrane Road,810.267,,,,,,,,,,,13119874,
+120844219,120891131,0,False,tertiary,County Route 15,204.396,,,,,,,,,,,13123381,CR 15
+120844219,120276901,0,False,tertiary,County Route 15,940.739,,,,,,,,,,,13123381,CR 15
+120844513,120844840,0,False,residential,Cochrane Road,1528.506,,,,,,,yes,,,,"[244248648, 13119874, 244248647]",
+120844513,120844219,0,False,residential,Cochrane Road,810.267,,,,,,,,,,,13119874,
+120844513,120845378,0,False,residential,Cochrane Road,1696.937,,,,,,,,,,,13119912,
+120844840,120183454,0,False,tertiary,Campbell Creek,1325.789,,,,,,,,,,,13138686,CR 14
+120844840,121077919,0,False,tertiary,Campbell Creek,493.784,,,,,,,,,,,13138686,CR 14
+120844840,120844513,0,False,residential,Cochrane Road,1528.506,,,,,,,yes,,,,"[244248648, 13119874, 244248647]",
+120845378,120844513,0,False,residential,Cochrane Road,1696.937,,,,,,,,,,,13119912,
+120852166,120554256,0,False,residential,Middle Road,2003.746,,,,,,,,,,,13120389,
+120852166,121077919,0,False,tertiary,Campbell Creek,98.903,,,,,,,,,,,13138686,CR 14
+120852166,120553713,0,False,tertiary,"['Campbell Creek', 'County Route 14']",2268.364,,,,,,,yes,,,,"[13138842, 244248645, 13138686]","['CR14', 'CR 14']"
+120859690,121791867,0,False,residential,Colonial Lawns Street,136.627,,,,,,,,,,,13207073,
+120859732,120859751,0,False,tertiary,Haverling Street,227.829,,,,,,,,,,,52050500,
+120859732,121060869,0,False,residential,Allen Street,264.815,,,,30 mph,,,,,,,13137347,
+120859751,120859760,0,False,tertiary,Haverling Street,112.419,,,,,,,,,,,52050500,
+120859751,120859732,0,False,tertiary,Haverling Street,227.829,,,,,,,,,,,52050500,
+120859751,121146112,0,False,residential,Vermont Street,274.705,,,,30 mph,,,,,,,13145248,
+120859760,120115695,0,False,tertiary,Haverling Street,191.526,,,,,,,,,,,52050500,
+120859760,120859751,0,False,tertiary,Haverling Street,112.419,,,,,,,,,,,52050500,
+120859760,120951113,0,False,residential,Maine Street,280.164,,,,30 mph,,,,,,,13127954,
+120862682,120325805,0,False,residential,Avoca Back Road,253.752,,,,,,,,,,,13121228,
+120862682,120872273,0,False,secondary,,459.902,,,,,,,,,,,13132398,NY 53
+120862682,120646045,0,False,secondary,,285.348,,,,,,,,,,,13132398,NY 53
+120862682,121470556,0,False,residential,River Road,67.756,,,,,,,,,,,13177366,
+120871610,121085584,0,False,secondary,Liberty Street,83.2,,,,,,,,,,,13139563,NY 415
+120871610,120640425,0,False,secondary,Liberty Street,116.638,,,,,,,,,,,13139563,NY 415
+120871610,120834953,0,False,residential,Buell Street,85.155,,,,,,,,,,,13121881,
+120871622,120834953,0,False,residential,Buell Street,128.134,,,,,,,,,,,13121881,
+120871622,121156306,0,False,residential,Howell Street,85.638,,,,,,,,,,,13182913,
+120871622,121518530,0,False,residential,Howell Street,115.749,,,,,,,,,,,13182913,
+120872273,120325932,0,False,secondary,,28.118,,,,,,,,,,,13132398,NY 53
+120872273,120872383,0,False,residential,McGlynn Lane,209.148,,,,,,,,,,,13121915,
+120872273,120862682,0,False,secondary,,459.902,,,,,,,,,,,13132398,NY 53
+120872383,120872273,0,False,residential,McGlynn Lane,209.148,,,,,,,,,,,13121915,
+120890216,120148212,0,False,tertiary,County Route 15,224.74,,,,,,,,,,,13123381,CR 15
+120890216,120553713,0,False,tertiary,County Route 14,1170.763,,,,,,,,,,,13138842,CR14
+120890216,121076613,0,False,tertiary,County Route 14,1307.905,,,,,,,,,,,13138842,CR14
+120890584,120276901,0,False,tertiary,County Route 15,598.7,,,,,,,,,,,13123381,CR 15
+120890584,120097155,0,False,tertiary,County Route 15,381.099,,,,,,,,,,,13123381,CR 15
+120890584,120061543,0,False,residential,Plat Drive,41.317,,,,,,,,,,,13166140,
+120891131,120194869,0,False,tertiary,County Route 15,73.903,,,,,,,,,,,13123381,CR 15
+120891131,120844219,0,False,tertiary,County Route 15,204.396,,,,,,,,,,,13123381,CR 15
+120891131,120230121,0,False,residential,Shannon Road,430.403,,,,,,,,,,,13186576,
+120891417,120166523,0,False,tertiary,County Route 15,153.626,,,,,,,,,,,13123381,CR 15
+120891417,120194869,0,False,tertiary,County Route 15,971.841,,,,,,,,,,,13123381,CR 15
+120891417,121790507,0,False,residential,Daniels Road,346.047,,,,,,,,,,,13206928,
+120891621,120174416,0,False,tertiary,County Route 15,9.022,,,,,,,,,,,13123381,CR 15
+120891621,120166523,0,False,tertiary,County Route 15,979.892,,,,,,,,,,,13123381,CR 15
+120891621,121790246,0,False,residential,Daniels Road,1394.918,,,,,,,,,,,13206910,
+120891758,120645815,0,False,"['secondary', 'tertiary']",County Route 15,422.356,,,,,,,yes,,,,"[154806016, 154806017, 13123381]",CR 15
+120891758,120174469,0,False,tertiary,County Route 15,421.75,,,,,,,,,,,13123381,CR 15
+120891758,120155798,0,False,residential,"['Longwell Lane', 'Gettysburg Avenue']",783.664,,,,,,,,,,,"[13188361, 330409820]",
+120904656,121707897,0,False,tertiary,County Route 13,106.82,,,,45 mph;55 mph,,,,,,,13199244,CR 13
+120904656,120285244,0,False,tertiary,County Route 13,1211.275,,,,45 mph;55 mph,,,,,,,13199244,CR 13
+120951113,121322416,0,False,residential,Robie Street,33.504,,,,30 mph,,,,,,,13191241,
+120951113,120859760,0,False,residential,Maine Street,280.164,,,,30 mph,,,,,,,13127954,
+120951113,120731590,0,False,residential,"['Robie Street', 'Hillview Drive']",357.817,,,,30 mph,,,,,,,"[13191241, 13111114]",
+121057168,120561836,0,False,residential,Hayes Road,2030.381,,,,,,,,,,,13141523,
+121057168,120477852,0,False,tertiary,County Route 10,682.273,,,,55 mph,,,,,,,413210764,CR10
+121057168,121057483,0,False,tertiary,County Route 10,1980.918,,,,55 mph,,,,,,,413210764,CR10
+121057483,121317716,0,False,residential,Unionville Road,30.429,,,,,,,,,,,13162576,
+121057483,121186335,0,False,residential,Unionville Road,1329.707,,,,,,,,,,,13162576,
+121057483,121057168,0,False,tertiary,County Route 10,1980.918,,,,55 mph,,,,,,,413210764,CR10
+121057483,120550293,0,False,tertiary,County Route 10,1657.554,,,,55 mph,,,,,,,413210764,CR10
+121060869,120741141,0,False,residential,Robie Street,191.905,,,,30 mph,,,,,,,13191241,
+121060869,120859732,0,False,residential,Allen Street,264.815,,,,30 mph,,,,,,,13137347,
+121060869,120558409,0,False,residential,Robie Street,411.952,,,,30 mph,,,,,,,13191241,
+121064844,120550546,0,False,residential,Tpke Road,55.462,,,,,,,,,,,13137677,
+121064844,120550566,0,False,residential,Moore Road,43.095,,,,,,,,,,,13199863,
+121064844,120234854,0,False,residential,Moore Road,1755.704,,,,,,,,,,,13199863,
+121076519,120646161,0,False,residential,Campbell Creek,86.272,,,,,,,,,,,333317122,CR 14
+121076613,121318253,0,False,residential,Stewart Road,219.913,,,,,,,,,,,13180523,
+121076613,120890216,0,False,tertiary,County Route 14,1307.905,,,,,,,,,,,13138842,CR14
+121076613,120164649,0,False,tertiary,County Route 14,363.964,,,,,,,,,,,13138842,CR14
+121077919,120844840,0,False,tertiary,Campbell Creek,493.784,,,,,,,,,,,13138686,CR 14
+121077919,120852166,0,False,tertiary,Campbell Creek,98.903,,,,,,,,,,,13138686,CR 14
+121077919,120546590,0,False,residential,Sinclair Road,2223.621,,,,,,,,,,,13198333,
+121078626,121078668,0,False,residential,Opila Way,39.982,,,,,,,,,,,13138883,
+121078626,121708002,0,False,tertiary,County Route 13,296.42,,,,45 mph;55 mph,,,,,,,13199244,CR 13
+121078626,120106524,0,False,tertiary,County Route 13,176.197,,,,45 mph;55 mph,,,,,,,13199244,CR 13
+121078668,121078681,0,False,residential,Opila Way,11.139,,,,,,,,,,,13138883,
+121078668,121078626,0,False,residential,Opila Way,39.982,,,,,,,,,,,13138883,
+121078668,121078748,0,False,residential,Opila Way,257.501,,,,,,,,,,,13138887,
+121078681,121078668,0,False,residential,Opila Way,11.139,,,,,,,,,,,13138883,
+121078748,121078668,0,False,residential,Opila Way,257.501,,,,,,,,,,,13138887,
+121085584,120871610,0,False,secondary,Liberty Street,83.2,,,,,,,,,,,13139563,NY 415
+121085584,120558365,0,False,secondary,Liberty Street,189.129,,,,,,,,,,,13139563,NY 415
+121085584,121156306,0,False,residential,West William Street,214.821,,,,,,,,,,,13146332,
+121085621,120558365,0,False,secondary,Liberty Street,156.146,,,,30 mph,,,,,,,13127176,NY 54
+121126508,121126969,0,False,residential,Sand Pit Road,965.982,,,,,,,,,,,13143554,
+121126508,121246356,0,False,residential,Snyder Hill Road,1724.663,,,,,,,,,,,13155828,
+121126508,120326981,0,False,residential,Snyder Hill Road,241.153,,,,,,,,,,,13155828,
+121126969,121126508,0,False,residential,Sand Pit Road,965.982,,,,,,,,,,,13143554,
+121126969,120210455,0,False,residential,Harrisburg Hollow Road,104.198,,,,,,,,,,,13190821,
+121126969,121268097,0,False,residential,Harrisburg Hollow Road,654.663,,,,,,,,,,,13190821,
+121141532,120731590,0,False,residential,Wood Street,42.274,,,,30 mph,,,,,,,13144836,
+121141547,120432573,0,False,residential,Wood Street,113.755,,,,30 mph,,,,,,,13144836,
+121141547,121322416,0,False,residential,Whiting Street,131.984,,,,30 mph,,,,,,,13162930,
+121141547,120576138,0,False,residential,Whiting Street,211.125,,,,30 mph,,,,,,,13162930,
+121146112,121322416,0,False,residential,Robie Street,79.73,,,,30 mph,,,,,,,13191241,
+121146112,120741141,0,False,residential,Robie Street,34.169,,,,30 mph,,,,,,,13191241,
+121146112,120859751,0,False,residential,Vermont Street,274.705,,,,30 mph,,,,,,,13145248,
+121156306,121156322,0,False,residential,West William Street,99.129,,,,,,,,,,,13146332,
+121156306,121085584,0,False,residential,West William Street,214.821,,,,,,,,,,,13146332,
+121156306,120558389,0,False,residential,Howell Street,186.894,,,,,,,,,,,13182913,
+121156306,120871622,0,False,residential,Howell Street,85.638,,,,,,,,,,,13182913,
+121156322,121156331,0,False,residential,West William Street,98.709,,,,,,,,,,,13146332,
+121156322,121156306,0,False,residential,West William Street,99.129,,,,,,,,,,,13146332,
+121156322,120558437,0,False,residential,Pine Street,185.811,,,,,,,,,,,13161182,
+121156322,121303793,0,False,residential,Pine Street,201.699,,,,,,,,,,,13161182,
+121156331,121156322,0,False,residential,West William Street,98.709,,,,,,,,,,,13146332,
+121156331,121156362,0,False,residential,West William Street,221.308,,,,,,,,,,,13146332,
+121156331,121291236,0,False,residential,Ontario Street,76.355,,,,,,,,,,,13205752,
+121156362,120558474,0,False,residential,Cruger Street,183.506,,,,,,,,,,,13201704,
+121156362,121156331,0,False,residential,West William Street,221.308,,,,,,,,,,,13146332,
+121156362,120402670,0,False,residential,Cruger Street,140.538,,,,,,,,,,,13201704,
+121186335,120514355,0,False,residential,Wind Fall Road,518.225,,,,,,,,,,,13149163,
+121186335,120569079,0,False,residential,Wind Fall Road,553.208,,,,,,,,,,,13149163,
+121186335,121057483,0,False,residential,Unionville Road,1329.707,,,,,,,,,,,13162576,
+121186413,120550198,0,False,residential,Wind Fall Road,574.445,,,,,,,,,,,13149163,
+121186413,120514355,0,False,residential,Wind Fall Road,563.689,,,,,,,,,,,13149163,
+121186709,120402881,0,False,residential,Crane Street,104.781,,,,,,,,,,,13149190,
+121186728,120155641,0,False,residential,"['Veterans Avenue', 'West Washington Street']",239.312,,,,,,,yes,,,,"[330247908, 13130665, 154880708, 13098143]",
+121186728,120274794,0,False,residential,West Washington Street,138.046,,,,,,,,,,,13098143,
+121186728,121585949,0,False,residential,West Street,82.963,,,,,,,,,,,13189743,
+121186745,120274833,0,False,residential,Belfast Street,73.29,,,,,,,,,,,13149197,
+121189229,120604264,0,False,residential,Casson Lane,107.405,,,,,,,,,,,13149454,
+121194046,121194055,0,False,residential,Gibson Street,79.758,,,,,,,,,,,13149933,
+121194055,121194066,0,False,residential,Gibson Street,30.719,,,,,,,,,,,13149933,
+121194055,121194046,0,False,residential,Gibson Street,79.758,,,,,,,,,,,13149933,
+121194055,120558561,0,False,residential,Cook Street,218.574,,,,,,,,,,,13183932,
+121194066,121194055,0,False,residential,Gibson Street,30.719,,,,,,,,,,,13149933,
+121194066,121307198,0,False,residential,Burton Street,235.246,,,,,,,,,,,13189661,
+121194066,121194087,0,False,residential,Gibson Street,121.347,,,,,,,,,,,13149933,
+121194087,121492142,0,False,residential,Maple Heights,33.6,,,,,,,,,,,13180184,
+121194087,121194066,0,False,residential,Gibson Street,121.347,,,,,,,,,,,13149933,
+121194087,120558534,0,False,residential,Maple Heights,215.833,,,,,,,,,,,13180184,
+121246356,121126508,0,False,residential,Snyder Hill Road,1724.663,,,,,,,,,,,13155828,
+121250085,120265886,0,False,tertiary,County Route 10,1455.726,,,,55 mph,,,,,,,"[13137200, 413210764]",CR10
+121250085,120462738,0,False,"['residential', 'tertiary']","['County Route 10', 'Cameron Street']",238.373,,,,"['30 mph', '55 mph']",,,,,,,"[13137200, 330249155]",CR10
+121268097,120193997,0,False,residential,Spaulding Drive,75.109,,,,,,,,,,,13157978,
+121268097,120209419,0,False,residential,Spaulding Drive,583.928,,,,,,,,,,,13157978,
+121268097,121126969,0,False,residential,Harrisburg Hollow Road,654.663,,,,,,,,,,,13190821,
+121268126,120193997,0,False,residential,Spaulding Drive,55.361,,,,,,,,,,,13157978,
+121268126,120193997,1,False,residential,,120.587,,,,,,,,,,,13061972,
+121268126,120645691,0,False,residential,Spaulding Drive,132.891,,,,,,,,,,,13157978,
+121291227,121291236,0,False,residential,Bundy Avenue,74.186,,,,,,,,,,,13159851,
+121291236,121291246,0,False,residential,Bundy Avenue,37.405,,,,,,,,,,,13159851,
+121291236,121291227,0,False,residential,Bundy Avenue,74.186,,,,,,,,,,,13159851,
+121291236,121156331,0,False,residential,Ontario Street,76.355,,,,,,,,,,,13205752,
+121291246,121291236,0,False,residential,Bundy Avenue,37.405,,,,,,,,,,,13159851,
+121298458,120726760,0,False,residential,Robinson Road,171.352,,,,,,,,,,,13170886,
+121303793,121156322,0,False,residential,Pine Street,201.699,,,,,,,,,,,13161182,
+121303793,121518530,0,False,tertiary,West Steuben Street,102.816,,,,,,,,,,,13209313,
+121303793,120402595,0,False,residential,Pine Street,110.992,,,,,,,,,,,13161182,
+121303793,120097065,0,False,tertiary,West Steuben Street,188.999,,,,,,,,,,,13209313,
+121307184,121307198,0,False,residential,Cross Street,122.096,,,,,,,,,,,13161483,
+121307184,120432631,0,False,residential,Maple Heights,391.824,,,,,,,,,,,13180184,
+121307184,121492142,0,False,residential,Maple Heights,201.495,,,,,,,,,,,13180184,
+121307198,121307184,0,False,residential,Cross Street,122.096,,,,,,,,,,,13161483,
+121307198,121194066,0,False,residential,Burton Street,235.246,,,,,,,,,,,13189661,
+121307198,121604821,0,False,residential,Burton Street,485.003,,,,,,,,,,,13189661,
+121317716,121057483,0,False,residential,Unionville Road,30.429,,,,,,,,,,,13162576,
+121317716,120562451,0,False,residential,Unionville Road,1337.669,,,,,,,,,,,13162576,
+121317716,120550566,0,False,residential,Moore Road,1766.785,,,,,,,,,,,13199863,
+121318253,121076613,0,False,residential,Stewart Road,219.913,,,,,,,,,,,13180523,
+121318253,120131370,0,False,residential,Unionville Road,1869.327,,,,,,,,,,,13162576,
+121318253,121494776,0,False,residential,Stewart Road,1309.167,,,,,,,,,,,13180523,
+121322416,121141547,0,False,residential,Whiting Street,131.984,,,,30 mph,,,,,,,13162930,
+121322416,120951113,0,False,residential,Robie Street,33.504,,,,30 mph,,,,,,,13191241,
+121322416,121146112,0,False,residential,Robie Street,79.73,,,,30 mph,,,,,,,13191241,
+121322492,121322539,0,False,residential,Fuller Drive,165.567,,,,,,,,,,,13162942,
+121322492,121322539,1,False,residential,Denwood Terrace,217.815,,,,,,,,,,,13162969,
+121322492,121322555,0,False,residential,Denwood Terrace,241.424,,,,,,,,,,,13162969,
+121322539,121322555,0,False,residential,Denwood Terrace,13.998,,,,,,,,,,,13162969,
+121322539,121322492,0,False,residential,Fuller Drive,165.567,,,,,,,,,,,13162942,
+121322539,121322492,1,False,residential,Denwood Terrace,217.815,,,,,,,,,,,13162969,
+121322555,121322539,0,False,residential,Denwood Terrace,13.998,,,,,,,,,,,13162969,
+121322555,120383347,0,False,residential,Denwood Terrace,67.667,,,,,,,,,,,13162969,
+121322555,121322492,0,False,residential,Denwood Terrace,241.424,,,,,,,,,,,13162969,
+121415073,120276782,0,False,residential,Robinson Road,184.687,,,,,,,,,,,13170886,
+121415073,120726760,0,False,residential,Robinson Road,274.869,,,,,,,,,,,13170886,
+121415073,120546841,0,False,residential,Mills Road,1189.351,,,,,,,,,,,13210748,
+121470556,120862682,0,False,residential,River Road,67.756,,,,,,,,,,,13177366,
+121492142,121194087,0,False,residential,Maple Heights,33.6,,,,,,,,,,,13180184,
+121492142,121634361,0,False,residential,Circle Drive,108.296,,,,,,,,,,,13192263,
+121492142,121307184,0,False,residential,Maple Heights,201.495,,,,,,,,,,,13180184,
+121494724,121494776,0,False,residential,Stewart Road,51.311,,,,,,,,,,,13180523,
+121494724,120561260,0,False,residential,Stewart Road,527.678,,,,,,,,,,,13180523,
+121494724,121725073,0,False,residential,Shattuck Road,41.992,,,,,,,,,,,13200558,
+121494776,121725073,0,False,residential,Shattuck Road,37.458,,,,,,,,,,,13200561,
+121494776,121318253,0,False,residential,Stewart Road,1309.167,,,,,,,,,,,13180523,
+121494776,121494724,0,False,residential,Stewart Road,51.311,,,,,,,,,,,13180523,
+121518530,121303793,0,False,tertiary,West Steuben Street,102.816,,,,,,,,,,,13209313,
+121518530,120871622,0,False,residential,Howell Street,115.749,,,,,,,,,,,13182913,
+121518530,121741328,0,False,tertiary,West Steuben Street,155.991,,,,,,,,,,,13209313,
+121566584,120230121,0,False,residential,Shannon Road,1540.878,,,,,,,,,,,13186576,
+121566584,120550862,0,False,residential,Shannon Road,35.86,,,,,,,,,,,13186576,
+121566584,120550804,0,False,residential,Shannon Road,77.792,,,,,,,,,,,13186582,
+121585893,121585949,0,False,residential,Avenue A,246.937,,,,,,,,,,,13188075,
+121585949,121606179,0,False,residential,West Street,56.218,,,,,,,,,,,13189743,
+121585949,121585893,0,False,residential,Avenue A,246.937,,,,,,,,,,,13188075,
+121585949,121186728,0,False,residential,West Street,82.963,,,,,,,,,,,13189743,
+121604821,121307198,0,False,residential,Burton Street,485.003,,,,,,,,,,,13189661,
+121606179,121585949,0,False,residential,West Street,56.218,,,,,,,,,,,13189743,
+121634361,121492142,0,False,residential,Circle Drive,108.296,,,,,,,,,,,13192263,
+121634361,121634651,0,False,residential,Circle Drive,329.692,,,,,,,,,,,13192263,
+121634361,121634651,1,False,residential,Freeman Terrace,180.051,,,,,,,,,,,13192331,
+121634651,120558510,0,False,residential,Freeman Terrace,76.501,,,,,,,,,,,13192331,
+121634651,121634361,0,False,residential,Circle Drive,329.692,,,,,,,,,,,13192263,
+121634651,121634361,1,False,residential,Freeman Terrace,180.051,,,,,,,,,,,13192331,
+121707897,120904656,0,False,tertiary,County Route 13,106.82,,,,45 mph;55 mph,,,,,,,13199244,CR 13
+121707897,120115695,0,False,tertiary,"['County Route 13', 'Haverling Street']",535.227,,,,45 mph;55 mph,,,,,,,"[13199244, 52050500]",CR 13
+121707897,121709376,0,False,residential,Muck Circle,210.253,,,,,,,,,,,13199341,
+121708002,121708011,0,False,tertiary,County Route 13,228.15,,,,45 mph;55 mph,,,,,,,13199244,CR 13
+121708002,121756864,0,False,residential,Hickory Hill Mhp,11.264,,,,,,,,,,,13203285,
+121708002,121078626,0,False,tertiary,County Route 13,296.42,,,,45 mph;55 mph,,,,,,,13199244,CR 13
+121708011,121708002,0,False,tertiary,County Route 13,228.15,,,,45 mph;55 mph,,,,,,,13199244,CR 13
+121709376,121709376,0,False,residential,Muck Circle,64.209,,,,,,,,,,,13199329,
+121709376,121709376,1,False,residential,Muck Circle,64.209,,,,,,,,,,,13199329,
+121709376,121707897,0,False,residential,Muck Circle,210.253,,,,,,,,,,,13199341,
+121715121,120234854,0,False,residential,Moore Road,347.365,,,,,,,,,,,13199863,
+121725073,121494776,0,False,residential,Shattuck Road,37.458,,,,,,,,,,,13200561,
+121725073,121494724,0,False,residential,Shattuck Road,41.992,,,,,,,,,,,13200558,
+121725073,120590765,0,False,residential,Shattuck Road,467.037,,,,,,,,,,,13200558,
+121741328,121518530,0,False,tertiary,West Steuben Street,155.991,,,,,,,,,,,13209313,
+121741328,120640425,0,False,tertiary,West Steuben Street,55.981,,,,,,,,,,,13209313,
+121756864,121708002,0,False,residential,Hickory Hill Mhp,11.264,,,,,,,,,,,13203285,
+121790246,120891621,0,False,residential,Daniels Road,1394.918,,,,,,,,,,,13206910,
+121790507,120891417,0,False,residential,Daniels Road,346.047,,,,,,,,,,,13206928,
+121791812,121791867,0,False,residential,Colonial Lawns Street,86.668,,,,,,,,,,,13207072,
+121791867,120859690,0,False,residential,Colonial Lawns Street,136.627,,,,,,,,,,,13207073,
+121791867,121791972,0,False,residential,Colonial Lawns Street,62.294,,,,,,,,,,,13207072,
+121791867,121791812,0,False,residential,Colonial Lawns Street,86.668,,,,,,,,,,,13207072,
+121791972,121791867,0,False,residential,Colonial Lawns Street,62.294,,,,,,,,,,,13207072,
+3372025263,120274833,0,False,residential,Belfast Street,77.964,,,,,,,,,,,13149197,
+3372025265,3372025266,0,False,residential,Barracks Road,72.353,,,,,,,,,,,330247905,
+3372025265,3372025267,0,False,residential,Laundry Service Road,109.515,,,,,,,,,,,330247906,
+3372025265,120155798,0,False,residential,Gettysburg Avenue,59.313,,,,,,,,,,,330409820,
+3372025266,3372025265,0,False,residential,Barracks Road,72.353,,,,,,,,,,,330247905,
+3372025267,3372025265,0,False,residential,Laundry Service Road,109.515,,,,,,,,,,,330247906,
+3372025267,120155798,0,False,residential,River Road,160.058,,,,,,,,,,,13057090,
+3372025267,120155666,0,False,residential,River Road,300.783,,,,,,,,,,,13057090,
+3729829205,120124173,0,False,secondary,West Washington Street,55.026,,,,,,,,,,,330411956,NY 415
+3729829205,120103363,0,False,secondary,West Washington Street,121.109,,,,,,,,,,,369168926,NY 415
+4541805960,120551977,0,False,residential,Dove Ln,206.573,,,,,,,,,,,458135154,
+4541807086,120551754,0,False,residential,East Ln,467.89,,,,,,,,,,,458135216,

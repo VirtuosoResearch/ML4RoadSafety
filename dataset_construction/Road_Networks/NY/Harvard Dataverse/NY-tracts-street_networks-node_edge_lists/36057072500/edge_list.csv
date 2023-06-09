@@ -1,0 +1,685 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+212660190,212660195,0,False,residential,Village of Fort Plain,178.611,,,,,,,,,,,20113864,
+212660195,3643301355,0,False,residential,Herkimer Street,17.34,,,,,,,,,,,20118178,
+212660195,212660190,0,False,residential,Village of Fort Plain,178.611,,,,,,,,,,,20113864,
+212660195,212676619,0,False,residential,"['Willett Street', 'Herkimer Street']",415.974,,,,,,,,,,,"[20118178, 164420548]",
+212663346,212708277,0,False,residential,Gilbert Avenue,202.031,,,,,,,,,,,20117189,
+212663346,212686935,0,False,residential,"['Clark Avenue', 'Roof Street']",260.255,,,,,,,,,,,"[20117275, 20115917]",
+212663346,212700666,0,False,residential,"['Clinton Avenue', 'Roof Street']",280.783,,,,,,,,,,,"[20116680, 20117275]",
+212666056,212697832,0,False,residential,,27.115,,,,,,,,,,,191316165,
+212666056,212666056,0,False,residential,,307.334,,,,,,,,,,,20115074,
+212666056,212666056,1,False,residential,,307.334,,,,,,,,,,,20115074,
+212667407,212667456,0,False,residential,,186.199,,,,,,,,,,,20114400,
+212667456,212667407,0,False,residential,,186.199,,,,,,,,,,,20114400,
+212667456,212696446,0,False,tertiary,Clinton Road,917.767,,,,,,,,,,,234947895,CR 80
+212667456,212696394,0,False,tertiary,Clinton Road,65.254,,,,,,,,,,,234947895,CR 80
+212668786,212688816,0,False,residential,Goulds Road,122.513,,,,,,,,,,,20116014,
+212668786,212668824,0,False,residential,,347.483,,,,,,,,,,,20114502,
+212668786,212688795,0,False,residential,Goulds Road,348.836,,,,,,,,,,,20116014,
+212668824,212668786,0,False,residential,,347.483,,,,,,,,,,,20114502,
+212672740,212672776,0,False,residential,,373.54,,,,,,,,,,,20114820,
+212672740,212708414,0,False,residential,Hess Road,1574.361,,,,,,,,,,,20118489,
+212672740,212696394,0,False,residential,Hess Road,434.018,,,,,,,,,,,20118489,
+212672776,212672740,0,False,residential,,373.54,,,,,,,,,,,20114820,
+212673092,212681248,0,False,residential,Snell Road,1394.15,,,,,,,,,,,20116035,
+212673092,212700094,0,False,tertiary,River Road,634.505,,,,,,,,,,,20119100,CR 65
+212673092,212708741,0,False,tertiary,River Road,2096.092,,,,,,,,,,,20119100,CR 65
+212673138,212708741,0,False,tertiary,River Road,62.17,,,,,,,,,,,20119100,CR 65
+212673138,212708742,0,False,residential,Bridge Street,31.886,,,,,,,,,,,20117223,
+212673138,212679373,0,False,tertiary,River Road,1137.466,,,,,,,,,,,20119100,CR 65
+212674121,212694296,0,False,residential,State Street,162.773,,,,,,,,,,,"[20114971, 172946287]",
+212674121,212710577,0,False,secondary,Hancock Street,120.841,,,,,,,yes,,,,"[20117370, 172946244, 172946245]",NY 5S
+212674121,212694293,0,False,secondary,Hancock Street,120.888,,,,,,,,,,,20117370,NY 5S
+212674314,212720742,0,False,residential,,242.233,,,,,,,,,,,20114999,
+212676619,212676624,0,False,residential,Witter Street,99.106,,,,,,,,,,,20115203,
+212676619,3643301351,0,False,residential,Willett Street,46.753,,,,,,,,,,,164420548,
+212676619,212660195,0,False,residential,"['Willett Street', 'Herkimer Street']",415.974,,,,,,,,,,,"[20118178, 164420548]",
+212676624,212676619,0,False,residential,Witter Street,99.106,,,,,,,,,,,20115203,
+212676957,212676989,0,False,tertiary,Fords Bush Road,922.344,,,,,,,,,,,20115245,CR 70
+212676957,212688177,0,False,secondary,Cooperstown Road,426.126,,,,,,,,,,,20115992,NY 80
+212676957,212688055,0,False,secondary,Cooperstown Road,1652.033,,,,,,,,,,,20115992,NY 80
+212676989,212677006,0,False,tertiary,Fords Bush Road,1869.65,,,,,,,,,,,20115245,CR 70
+212676989,212676957,0,False,tertiary,Fords Bush Road,922.344,,,,,,,,,,,20115245,CR 70
+212676989,212679287,0,False,residential,R Dillenbeck Road,1684.379,,,,,,,,,,,20117366,
+212676989,212680155,0,False,tertiary,Paris Road,1230.096,,,,,,,,,,,20119450,CR 68
+212677006,212677049,0,False,tertiary,Fords Bush Road,596.228,,,,,,,,,,,20115245,CR 70
+212677006,212676989,0,False,tertiary,Fords Bush Road,1869.65,,,,,,,,,,,20115245,CR 70
+212677049,212677067,0,False,tertiary,Fords Bush Road,437.027,,,,,,,,,,,20115245,CR 70
+212677049,212677006,0,False,tertiary,Fords Bush Road,596.228,,,,,,,,,,,20115245,CR 70
+212677049,212680267,0,False,residential,Youngs Drive,167.836,,,,,,,,,,,20115447,
+212677067,212677078,0,False,tertiary,Fords Bush Road,95.06,,,,,,,,,,,20115245,CR 70
+212677067,212677049,0,False,tertiary,Fords Bush Road,437.027,,,,,,,,,,,20115245,CR 70
+212677067,212730638,0,False,tertiary,Clark Road,143.681,,,,,,,,,,,20118857,CR 124
+212677078,212677119,0,False,tertiary,Fords Bush Road,724.716,,,,,,,,,,,20115245,CR 70
+212677078,212677067,0,False,tertiary,Fords Bush Road,95.06,,,,,,,,,,,20115245,CR 70
+212677078,212730638,0,False,tertiary,Clark Road,67.138,,,,,,,,,,,20118859,CR 124
+212677119,212677129,0,False,tertiary,Fords Bush Road,310.553,,,,,,,,,,,20115245,CR 70
+212677119,212677078,0,False,tertiary,Fords Bush Road,724.716,,,,,,,,,,,20115245,CR 70
+212677129,212677160,0,False,tertiary,Fords Bush Road,1079.899,,,,,,,,,,,20115245,CR 70
+212677129,212677119,0,False,tertiary,Fords Bush Road,310.553,,,,,,,,,,,20115245,CR 70
+212677160,212677173,0,False,tertiary,Fords Bush Road,930.32,,,,,,,,,,,20115245,CR 70
+212677160,212677129,0,False,tertiary,Fords Bush Road,1079.899,,,,,,,,,,,20115245,CR 70
+212677160,212727893,0,False,residential,Oldick Road,3302.002,,,,,,,,,,,20119425,
+212677173,212677160,0,False,tertiary,Fords Bush Road,930.32,,,,,,,,,,,20115245,CR 70
+212677173,212681273,0,False,secondary,Dutchtown Road,876.62,,,,,,,,,,,20115524,NY 5S
+212678090,212678094,0,False,residential,Dairy Street,110.834,,,,,,,,,,,20115298,
+212678090,212717260,0,False,secondary,Main Street,82.223,,,,,,,,,,,54989630,NY 80
+212678090,212717251,0,False,secondary,Main Street,78.01,,,,,,,,,,,54989630,NY 80
+212678094,212678090,0,False,residential,Dairy Street,110.834,,,,,,,,,,,20115298,
+212678773,212678780,0,False,residential,Conklin Lane,51.985,,,,,,,,,,,20115331,
+212678773,212717246,0,False,secondary,Reid Street,93.732,,,,,,,,,,,172946267,NY 80
+212678773,212733762,0,False,secondary,Reid Street,322.857,,,,,,,,,,,172946267,NY 80
+212678780,212678773,0,False,residential,Conklin Lane,51.985,,,,,,,,,,,20115331,
+212678780,212717246,0,False,residential,Main Street,94.975,,,,,,,,,,,20117860,
+212678780,212717236,0,False,residential,Main Street,90.722,,,,,,,,,,,20117860,
+212678954,212678961,0,False,residential,Korniat Road,126.477,,,,,,,,,,,20115341,
+212678954,212684336,0,False,secondary,State Highway 163,241.404,,,,,,,,,,,20118171,NY 163
+212678954,212720796,0,False,secondary,State Highway 163,841.022,,,,,,,,,,,20118171,NY 163
+212678961,212678954,0,False,residential,Korniat Road,126.477,,,,,,,,,,,20115341,
+212679268,212679287,0,False,tertiary,Sanders Road,250.546,,,,,,,,,,,20115369,CR 66
+212679268,212685372,0,False,tertiary,Pickle Hill Road,275.845,,,,,,,,,,,20115799,CR 69
+212679268,212685329,0,False,tertiary,Pickle Hill Road,425.66,,,,,,,,,,,20115799,CR 69
+212679287,212679310,0,False,tertiary,Sanders Road,1875.058,,,,,,,,,,,20115369,CR 66
+212679287,212679268,0,False,tertiary,Sanders Road,250.546,,,,,,,,,,,20115369,CR 66
+212679287,212676989,0,False,residential,R Dillenbeck Road,1684.379,,,,,,,,,,,20117366,
+212679287,212685329,0,False,residential,R Dillenbeck Road,410.228,,,,,,,,,,,20117366,
+212679310,212679337,0,False,tertiary,Sanders Road,1173.085,,,,,,,,,,,20115369,CR 66
+212679310,212679287,0,False,tertiary,Sanders Road,1875.058,,,,,,,,,,,20115369,CR 66
+212679310,212736857,0,False,tertiary,Paris Road,1638.477,,,,,,,,,,,20119450,CR 68
+212679310,212688592,0,False,tertiary,Paris Road,2296.391,,,,,,,,,,,20119450,CR 68
+212679337,212679373,0,False,tertiary,Sanders Road,2676.902,,,,,,,,,,,20115369,CR 66
+212679337,212679310,0,False,tertiary,Sanders Road,1173.085,,,,,,,,,,,20115369,CR 66
+212679337,212681248,0,False,secondary,Dutchtown Road,2450.967,,,,,,,,,,,20115524,NY 5S
+212679337,212728251,0,False,secondary,"['Dutchtown Road', 'State Highway 5S']",2429.521,,,,,,,,,,,"[20115524, 20120479]",NY 5S
+212679373,212679337,0,False,tertiary,Sanders Road,2676.902,,,,,,,,,,,20115369,CR 66
+212679373,212673138,0,False,tertiary,River Road,1137.466,,,,,,,,,,,20119100,CR 65
+212679373,212681154,0,False,tertiary,River Road,1266.969,,,,,,,,,,,20119100,CR 65
+212680155,212680267,0,False,residential,Youngs Drive,1895.423,,,,,,,,,,,20115447,
+212680155,212676989,0,False,tertiary,Paris Road,1230.096,,,,,,,,,,,20119450,CR 68
+212680155,212736857,0,False,tertiary,Paris Road,389.157,,,,,,,,,,,20119450,CR 68
+212680267,212677049,0,False,residential,Youngs Drive,167.836,,,,,,,,,,,20115447,
+212680267,212680155,0,False,residential,Youngs Drive,1895.423,,,,,,,,,,,20115447,
+212680267,212681080,0,False,residential,Walrath Road,226.202,,,,,,,,,,,20115506,
+212680622,212680624,0,False,residential,Cagwin Road,136.157,,,,,,,,,,,20115477,
+212680622,212690139,0,False,secondary,State Highway 163,333.34,,,,,,,,,,,20118171,NY 163
+212680622,212687460,0,False,secondary,State Highway 163,658.647,,,,,,,,,,,20118171,NY 163
+212680624,212680622,0,False,residential,Cagwin Road,136.157,,,,,,,,,,,20115477,
+212681080,212680267,0,False,residential,Walrath Road,226.202,,,,,,,,,,,20115506,
+212681154,212681157,0,False,residential,Gottung Road,293.48,,,,,,,,,,,20115515,
+212681154,212679373,0,False,tertiary,River Road,1266.969,,,,,,,,,,,20119100,CR 65
+212681154,212728415,0,False,tertiary,River Road,2046.234,,,,,,,,,,,20119100,CR 65
+212681157,212681154,0,False,residential,Gottung Road,293.48,,,,,,,,,,,20115515,
+212681248,212681273,0,False,secondary,Dutchtown Road,1023.086,,,,,,,,,,,20115524,NY 5S
+212681248,212679337,0,False,secondary,Dutchtown Road,2450.967,,,,,,,,,,,20115524,NY 5S
+212681248,212673092,0,False,residential,Snell Road,1394.15,,,,,,,,,,,20116035,
+212681273,212677173,0,False,secondary,Dutchtown Road,876.62,,,,,,,,,,,20115524,NY 5S
+212681273,212681248,0,False,secondary,Dutchtown Road,1023.086,,,,,,,,,,,20115524,NY 5S
+212681273,212700094,0,False,residential,Mindenville Road,1057.24,,,,,,,,,,,20116644,
+212682986,212682992,0,False,residential,Clyde Street,52.32,,,,,,,,,,,20115640,
+212682986,212691372,0,False,residential,West Street,47.435,,,,,,,,,,,191316183,
+212682986,212712689,0,False,residential,West Street,167.392,,,,,,,,,,,"[20118866, 191316183]",
+212682992,212682995,0,False,residential,Clyde Street,42.066,,,,,,,,,,,20115640,
+212682992,212682986,0,False,residential,Clyde Street,52.32,,,,,,,,,,,20115640,
+212682992,212716863,0,False,residential,Cross Street,167.698,,,,,,,,,,,20117823,
+212682995,212682992,0,False,residential,Clyde Street,42.066,,,,,,,,,,,20115640,
+212682995,212698091,0,False,residential,Martin Street,110.197,,,,,,,,,,,20116527,
+212682995,212683019,0,False,residential,Clyde Street,171.409,,,,,,,,,,,20115640,
+212683019,212683022,0,False,residential,Clyde Street,138.723,,,,,,,,,,,20115640,
+212683019,2019009581,0,False,residential,School Road,83.909,,,,,,,,,,,20119827,
+212683019,212682995,0,False,residential,Clyde Street,171.409,,,,,,,,,,,20115640,
+212683022,212683026,0,False,residential,Clyde Street,106.963,,,,,,,,,,,20115640,
+212683022,212683019,0,False,residential,Clyde Street,138.723,,,,,,,,,,,20115640,
+212683022,212717224,0,False,residential,Wagner Street,229.94,,,,,,,,,,,20120819,
+212683026,212683031,0,False,residential,Clyde Street,48.978,,,,,,,,,,,20115640,
+212683026,212683022,0,False,residential,Clyde Street,106.963,,,,,,,,,,,20115640,
+212683026,212695248,0,False,residential,High Street,243.931,,,,,,,,,,,20116372,
+212683031,212683026,0,False,residential,Clyde Street,48.978,,,,,,,,,,,20115640,
+212683031,212683031,0,False,residential,Clyde Street,252.214,,,,,,,,,,,20115641,
+212683031,212683031,1,False,residential,Clyde Street,252.214,,,,,,,,,,,20115641,
+212684336,212720812,0,False,secondary,State Highway 163,412.281,,,,,,,,,,,20118171,NY 163
+212684336,212678954,0,False,secondary,State Highway 163,241.404,,,,,,,,,,,20118171,NY 163
+212685256,212685329,0,False,tertiary,Pickle Hill Road,1051.363,,,,,,,,,,,20115799,CR 69
+212685256,212695248,0,False,"['residential', 'tertiary']","['Main Street', 'Pickle Hill Road']",3816.693,,,,,,,,,,,"[20117860, 20115799]",CR 69
+212685256,212688592,0,False,residential,Leneker Road,1637.938,,,,,,,,,,,20116001,
+212685329,212679268,0,False,tertiary,Pickle Hill Road,425.66,,,,,,,,,,,20115799,CR 69
+212685329,212685256,0,False,tertiary,Pickle Hill Road,1051.363,,,,,,,,,,,20115799,CR 69
+212685329,212679287,0,False,residential,R Dillenbeck Road,410.228,,,,,,,,,,,20117366,
+212685372,212679268,0,False,tertiary,Pickle Hill Road,275.845,,,,,,,,,,,20115799,CR 69
+212685372,212688286,0,False,secondary,Cooperstown Road,2889.66,,,,,,,,,,,20115992,NY 80
+212685372,212688177,0,False,secondary,Cooperstown Road,599.936,,,,,,,,,,,20115992,NY 80
+212685429,212685433,0,False,residential,Silk Avenue,67.117,,,,,,,,,,,20115802,
+212685429,212733762,0,False,secondary,Reid Street,111.787,,,,,,,yes,,,,"[20120008, 172946267, 172946269]",NY 80
+212685429,212728055,0,False,secondary,Reid Street,191.495,,,,,,,,,,,20120008,NY 80
+212685433,212685429,0,False,residential,Silk Avenue,67.117,,,,,,,,,,,20115802,
+212686935,212686942,0,False,residential,Clark Avenue,126.853,,,,,,,,,,,20115917,
+212686935,212708277,0,False,residential,Edwards Street,88.512,,,,,,,,,,,20118246,
+212686935,212663346,0,False,residential,"['Clark Avenue', 'Roof Street']",260.255,,,,,,,,,,,"[20117275, 20115917]",
+212686942,212686947,0,False,residential,Clark Avenue,178.518,,,,,,,,,,,20115917,
+212686942,212686935,0,False,residential,Clark Avenue,126.853,,,,,,,,,,,20115917,
+212686942,212689411,0,False,residential,Henry Street,92.571,,,,,,,,,,,20116057,
+212686947,212686942,0,False,residential,Clark Avenue,178.518,,,,,,,,,,,20115917,
+212686947,212708279,0,False,residential,Waddell Avenue,93.992,,,,,,,,,,,20118621,
+212686947,212727523,0,False,residential,Waddell Avenue,160.382,,,,,,,,,,,20118621,
+212687166,212687173,0,False,residential,Airport Drive,572.543,,,,,,,,,,,20115926,
+212687166,212728251,0,False,tertiary,Airport Road,1312.583,,,,,,,,,,,20118698,CR 67
+212687166,212728415,0,False,residential,Airport Road,1015.941,,,,,,,,,,,232401378,
+212687173,212687166,0,False,residential,Airport Drive,572.543,,,,,,,,,,,20115926,
+212687460,212687485,0,False,tertiary,Marshville Road,932.462,,,,,,,,,,,20115950,CR 86
+212687460,212680622,0,False,secondary,State Highway 163,658.647,,,,,,,,,,,20118171,NY 163
+212687460,212720812,0,False,secondary,State Highway 163,965.299,,,,,,,,,,,20118171,NY 163
+212687485,212714340,0,False,residential,Colgrove Road,252.556,,,,,,,,,,,20117645,
+212687485,212687460,0,False,tertiary,Marshville Road,932.462,,,,,,,,,,,20115950,CR 86
+212687947,212688018,0,False,secondary,Cooperstown Road,1070.195,,,,,,,,,,,20115992,NY 80
+212687947,212728443,0,False,residential,H Moyer Road,194.892,,,,,,,,,,,20118704,
+212688018,212688021,0,False,secondary,Cooperstown Road,58.04,,,,,,,,,,,20115992,NY 80
+212688018,212687947,0,False,secondary,Cooperstown Road,1070.195,,,,,,,,,,,20115992,NY 80
+212688021,212688018,0,False,secondary,Cooperstown Road,58.04,,,,,,,,,,,20115992,NY 80
+212688021,212688055,0,False,secondary,Cooperstown Road,351.985,,,,,,,,,,,20115992,NY 80
+212688021,212709630,0,False,residential,Casler Road,1564.684,,,,,,,yes,,,,"[241414241, 241414242, 20118380]",
+212688055,212676957,0,False,secondary,Cooperstown Road,1652.033,,,,,,,,,,,20115992,NY 80
+212688055,212688021,0,False,secondary,Cooperstown Road,351.985,,,,,,,,,,,20115992,NY 80
+212688177,212685372,0,False,secondary,Cooperstown Road,599.936,,,,,,,,,,,20115992,NY 80
+212688177,212676957,0,False,secondary,Cooperstown Road,426.126,,,,,,,,,,,20115992,NY 80
+212688177,212690377,0,False,tertiary,Brookmans Corners Road,627.223,,,,,,,yes,,,,"[241414240, 20117294, 241414239]",CR 73
+212688286,212688329,0,False,secondary,Cooperstown Road,480.405,,,,,,,,,,,20115992,NY 80
+212688286,212685372,0,False,secondary,Cooperstown Road,2889.66,,,,,,,,,,,20115992,NY 80
+212688286,212689422,0,False,residential,Hoffman Road,194.113,,,,,,,,,,,20116058,
+212688329,212688363,0,False,secondary,Cooperstown Road,610.655,,,,,,,,,,,20115992,NY 80
+212688329,212688286,0,False,secondary,Cooperstown Road,480.405,,,,,,,,,,,20115992,NY 80
+212688329,212702515,0,False,residential,Spring Street,1875.434,,,,,,,yes,,,,"[20116885, 241414245, 241414246]",
+212688363,212688372,0,False,secondary,Cooperstown Road,117.431,,,,,,,,,,,20115992,NY 80
+212688363,212688329,0,False,secondary,Cooperstown Road,610.655,,,,,,,,,,,20115992,NY 80
+212688363,212688385,0,False,residential,Valley Brook Road,332.786,,,,,,,,,,,20118891,
+212688372,212688385,0,False,secondary,Cooperstown Road,142.817,,,,,,,,,,,20115992,NY 80
+212688372,212688363,0,False,secondary,Cooperstown Road,117.431,,,,,,,,,,,20115992,NY 80
+212688372,212723886,0,False,residential,Carroll Road,128.696,,,,,,,,,,,20118373,
+212688385,212688393,0,False,secondary,Cooperstown Road,61.855,,,,,,,,,,,20115992,NY 80
+212688385,212688372,0,False,secondary,Cooperstown Road,142.817,,,,,,,,,,,20115992,NY 80
+212688385,212688363,0,False,residential,Valley Brook Road,332.786,,,,,,,,,,,20118891,
+212688393,212688428,0,False,secondary,Cooperstown Road,556.748,,,,,,,yes,,,,"[20115992, 172946238, 172946239]",NY 80
+212688393,212688385,0,False,secondary,Cooperstown Road,61.855,,,,,,,,,,,20115992,NY 80
+212688393,212739150,0,False,residential,Cedar Lane,209.273,,,,,,,,,,,20119644,
+212688428,212712563,0,False,residential,Old State Route 80,171.507,,,,,,,,,,,20117498,
+212688428,212688445,0,False,secondary,Cooperstown Road,131.225,,,,,,,,,,,172946238,NY 80
+212688428,212688393,0,False,secondary,Cooperstown Road,556.748,,,,,,,yes,,,,"[20115992, 172946238, 172946239]",NY 80
+212688445,212697832,0,False,residential,Honey Hill Road,65.412,,,,,,,,,,,20116512,
+212688445,212728055,0,False,secondary,Reid Street,289.497,,,,,,,,,,,20120008,NY 80
+212688445,212688428,0,False,secondary,Cooperstown Road,131.225,,,,,,,,,,,172946238,NY 80
+212688592,212685256,0,False,residential,Leneker Road,1637.938,,,,,,,,,,,20116001,
+212688592,212679310,0,False,tertiary,Paris Road,2296.391,,,,,,,,,,,20119450,CR 68
+212688592,212728251,0,False,tertiary,Paris Road,356.122,,,,,,,,,,,20119450,CR 68
+212688752,212688795,0,False,residential,Goulds Road,1920.534,,,,,,,,,,,20116014,
+212688752,212709757,0,False,tertiary,Salt Springville Road,2360.383,,,,,,,,,,,20117295,CR 75
+212688752,212708472,0,False,tertiary,Salt Springville Road,550.265,,,,,,,,,,,20117295,CR 75
+212688795,212668786,0,False,residential,Goulds Road,348.836,,,,,,,,,,,20116014,
+212688795,212688752,0,False,residential,Goulds Road,1920.534,,,,,,,,,,,20116014,
+212688795,212742471,0,False,residential,Moyer Lane,198.158,,,,,,,,,,,20119984,
+212688816,212668786,0,False,residential,Goulds Road,122.513,,,,,,,,,,,20116014,
+212688816,212688821,0,False,residential,Goulds Road,779.393,,,,,,,,,,,20116014,
+212688816,212720796,0,False,residential,Bauder Road,1704.678,,,,,,,,,,,20119598,
+212688821,212688841,0,False,residential,Goulds Road,1065.134,,,,,,,,,,,20116014,
+212688821,212688816,0,False,residential,Goulds Road,779.393,,,,,,,,,,,20116014,
+212688821,212704519,0,False,residential,Youngs Road,859.842,,,,,,,,,,,20117931,
+212688841,212688821,0,False,residential,Goulds Road,1065.134,,,,,,,,,,,20116014,
+212688841,212689689,0,False,tertiary,Hessville Road,626.788,,,,,,,,,,,20119952,CR 74
+212688841,212725262,0,False,tertiary,Hessville Road,291.494,,,,,,,,,,,20119952,CR 74
+212688848,212688854,0,False,residential,Oak Street,40.372,,,,,,,,,,,20116016,
+212688848,212694293,0,False,secondary,Hancock Street,147.044,,,,,,,,,,,20117370,NY 5S
+212688854,212688848,0,False,residential,Oak Street,40.372,,,,,,,,,,,20116016,
+212688854,212750155,0,False,residential,State Street,36.467,,,,,,,,,,,172946287,
+212688854,212694296,0,False,residential,State Street,149.454,,,,,,,,,,,172946287,
+212689411,212689414,0,False,residential,Henry Street,89.209,,,,,,,,,,,20116057,
+212689411,212686942,0,False,residential,Henry Street,92.571,,,,,,,,,,,20116057,
+212689411,212708279,0,False,residential,Gilbert Avenue,154.116,,,,,,,,,,,20117189,
+212689411,212708277,0,False,residential,Gilbert Avenue,127.553,,,,,,,,,,,20117189,
+212689414,212689411,0,False,residential,Henry Street,89.209,,,,,,,,,,,20116057,
+212689414,212700669,0,False,residential,Clinton Avenue,128.957,,,,,,,,,,,20116680,
+212689414,212700666,0,False,residential,Clinton Avenue,128.422,,,,,,,,,,,20116680,
+212689422,212688286,0,False,residential,Hoffman Road,194.113,,,,,,,,,,,20116058,
+212689689,212704532,0,False,tertiary,Hessville Road,227.619,,,,,,,,,,,20119952,CR 74
+212689689,212689692,0,False,residential,Keesler Corners Road,225.928,,,,,,,,,,,20116078,
+212689689,212688841,0,False,tertiary,Hessville Road,626.788,,,,,,,,,,,20119952,CR 74
+212689692,212689701,0,False,residential,Keesler Corners Road,539.647,,,,,,,,,,,20116078,
+212689692,212689689,0,False,residential,Keesler Corners Road,225.928,,,,,,,,,,,20116078,
+212689692,212695209,0,False,residential,James Road,97.193,,,,,,,,,,,20116365,
+212689701,212689752,0,False,residential,Keesler Corners Road,1234.033,,,,,,,,,,,20116078,
+212689701,212689692,0,False,residential,Keesler Corners Road,539.647,,,,,,,,,,,20116078,
+212689701,212710726,0,False,residential,Robbins Lane,824.97,,,,,,,,,,,20117385,
+212689752,212689701,0,False,residential,Keesler Corners Road,1234.033,,,,,,,,,,,20116078,
+212689752,212690241,0,False,tertiary,Freysbush Road,617.967,,,,,,,,,,,20116107,CR 79
+212689752,212690176,0,False,tertiary,Freysbush Road,1118.857,,,,,,,,,,,20116107,CR 79
+212689752,212702515,0,False,residential,Spring Street,476.226,,,,,,,,,,,20116885,
+212690139,212690142,0,False,tertiary,Freysbush Road,53.273,,,,,,,,,,,20116107,CR 79
+212690139,212690395,0,False,secondary,Cherry Valley Road,80.279,,,,,,,,,,,20116152,NY 163
+212690139,212680622,0,False,secondary,State Highway 163,333.34,,,,,,,,,,,20118171,NY 163
+212690142,212690395,0,False,tertiary,Freysbush Road,75.142,,,,,,,,,,,20116108,
+212690142,212690176,0,False,tertiary,Freysbush Road,609.978,,,,,,,,,,,20116107,CR 79
+212690142,212690139,0,False,tertiary,Freysbush Road,53.273,,,,,,,,,,,20116107,CR 79
+212690176,212689752,0,False,tertiary,Freysbush Road,1118.857,,,,,,,,,,,20116107,CR 79
+212690176,212690142,0,False,tertiary,Freysbush Road,609.978,,,,,,,,,,,20116107,CR 79
+212690176,212709974,0,False,residential,Walts Road,1960.012,,,,,,,,,,,20117322,
+212690241,212690377,0,False,tertiary,Freysbush Road,2219.254,,,,,,,,,,,20116107,CR 79
+212690241,212689752,0,False,tertiary,Freysbush Road,617.967,,,,,,,,,,,20116107,CR 79
+212690241,212702285,0,False,residential,Schulyer Road,616.582,,,,,,,,,,,20116778,
+212690377,212690241,0,False,tertiary,Freysbush Road,2219.254,,,,,,,,,,,20116107,CR 79
+212690377,212688177,0,False,tertiary,Brookmans Corners Road,627.223,,,,,,,yes,,,,"[241414240, 20117294, 241414239]",CR 73
+212690377,212709630,0,False,tertiary,Brookmans Corners Road,1395.663,,,,,,,,,,,20117294,CR 73
+212690395,212690142,0,False,tertiary,Freysbush Road,75.142,,,,,,,,,,,20116108,
+212690395,212690815,0,False,secondary,Cherry Valley Road,973.818,,,,,,,,,,,20116146,NY 163
+212690395,212690139,0,False,secondary,Cherry Valley Road,80.279,,,,,,,,,,,20116152,NY 163
+212690815,212690823,0,False,secondary,Cherry Valley Road,197.467,,,,,,,,,,,20116146,NY 163
+212690815,212690395,0,False,secondary,Cherry Valley Road,973.818,,,,,,,,,,,20116146,NY 163
+212690823,212704317,0,False,residential,Horning Drive,215.421,,,,,,,,,,,20116927,
+212690823,212690851,0,False,secondary,Cherry Valley Road,386.695,,,,,,,,,,,20116146,NY 163
+212690823,212690815,0,False,secondary,Cherry Valley Road,197.467,,,,,,,,,,,20116146,NY 163
+212690851,212690900,0,False,secondary,Cherry Valley Road,566.176,,,,,,,,,,,20116146,NY 163
+212690851,212690823,0,False,secondary,Cherry Valley Road,386.695,,,,,,,,,,,20116146,NY 163
+212690851,212716327,0,False,residential,Moyer Drive,456.782,,,,,,,,,,,20117786,
+212690900,212690905,0,False,secondary,Cherry Valley Road,224.085,,,,,,,,,,,20116146,NY 163
+212690900,212690851,0,False,secondary,Cherry Valley Road,566.176,,,,,,,,,,,20116146,NY 163
+212690900,212742020,0,False,residential,Duesler Road,351.597,,,,,,,,,,,20119921,
+212690905,212690908,0,False,secondary,Cherry Valley Road,95.497,,,,,,,,,,,20116146,NY 163
+212690905,212690900,0,False,secondary,Cherry Valley Road,224.085,,,,,,,,,,,20116146,NY 163
+212690905,212700297,0,False,tertiary,Fisk Hill Road,462.168,,,,,,,,,,,20116955,CR 64
+212690908,212690905,0,False,secondary,Cherry Valley Road,95.497,,,,,,,,,,,20116146,NY 163
+212690908,212725214,0,False,residential,Kardash Road,72.307,,,,,,,,,,,20118463,
+212690908,212700380,0,False,secondary,"['Cherry Valley Road', 'Douglass Street']",1357.75,,,,,,,,,,,"[20116146, 20120590]",NY 163
+212691372,212691375,0,False,residential,Prospect Street,144.365,,,,,,,,,,,20116173,
+212691372,212716863,0,False,residential,West Street,74.879,,,,,,,,,,,191316183,
+212691372,212682986,0,False,residential,West Street,47.435,,,,,,,,,,,191316183,
+212691375,212691378,0,False,residential,Prospect Street,64.763,,,,,,,,,,,20116173,
+212691375,212691372,0,False,residential,Prospect Street,144.365,,,,,,,,,,,20116173,
+212691375,212732008,0,False,residential,Center Street,72.247,,,,,,,,,,,20119001,
+212691375,212732006,0,False,residential,Center Street,71.327,,,,,,,,,,,20119001,
+212691378,212691375,0,False,residential,Prospect Street,64.763,,,,,,,,,,,20116173,
+212691378,212703160,0,False,secondary,Canal Street,70.554,,,,,,,,,,,20116849,NY 5S
+212691378,3643301348,0,False,secondary,Canal Street,35.856,,,,,,,,,,,20116849,NY 5S
+212694293,212694296,0,False,residential,Erie Street,36.303,,,,,,,,,,,20116322,
+212694293,212674121,0,False,secondary,Hancock Street,120.888,,,,,,,,,,,20117370,NY 5S
+212694293,212688848,0,False,secondary,Hancock Street,147.044,,,,,,,,,,,20117370,NY 5S
+212694296,212694293,0,False,residential,Erie Street,36.303,,,,,,,,,,,20116322,
+212694296,212688854,0,False,residential,State Street,149.454,,,,,,,,,,,172946287,
+212694296,212674121,0,False,residential,State Street,162.773,,,,,,,,,,,"[20114971, 172946287]",
+212695042,212704519,0,False,residential,Youngs Road,437.007,,,,,,,,,,,20117931,
+212695042,212695054,0,False,residential,Potter Lane,244.584,,,,,,,,,,,20116352,
+212695042,212709757,0,False,residential,Youngs Road,1101.069,,,,,,,,,,,20117931,
+212695054,212695042,0,False,residential,Potter Lane,244.584,,,,,,,,,,,20116352,
+212695209,212689692,0,False,residential,James Road,97.193,,,,,,,,,,,20116365,
+212695248,212683026,0,False,residential,High Street,243.931,,,,,,,,,,,20116372,
+212695248,212717224,0,False,residential,Main Street,73.965,,,,,,,,,,,20117860,
+212695248,212685256,0,False,"['residential', 'tertiary']","['Main Street', 'Pickle Hill Road']",3816.693,,,,,,,,,,,"[20117860, 20115799]",CR 69
+212696292,212696987,0,False,residential,Clinton Road,42.52,,,,,,,,,,,20116454,
+212696292,212696306,0,False,tertiary,Clinton Road,91.115,,,,,,,,,,,234947895,CR 80
+212696306,212696309,0,False,tertiary,Clinton Road,19.874,,,,,,,,,,,234947895,CR 80
+212696306,212696987,0,False,residential,Quinn Road,90.675,,,,,,,,,,,20117473,
+212696306,212696292,0,False,tertiary,Clinton Road,91.115,,,,,,,,,,,234947895,CR 80
+212696309,212696313,0,False,tertiary,Clinton Road,68.631,,,,,,,,,,,234947895,CR 80
+212696309,212696306,0,False,tertiary,Clinton Road,19.874,,,,,,,,,,,234947895,CR 80
+212696313,212696309,0,False,tertiary,Clinton Road,68.631,,,,,,,,,,,234947895,CR 80
+212696313,212701903,0,False,tertiary,Salt Springville Road,1066.997,,,,,,,,,,,20117295,CR 75
+212696313,212696327,0,False,tertiary,Clinton Road,907.944,,,,,,,,,,,234947895,CR 80
+212696327,212708414,0,False,tertiary,Indian Trail,2530.831,,,,,,,,,,,20118810,CR 77
+212696327,212696394,0,False,tertiary,Clinton Road,1673.501,,,,,,,,,,,234947895,CR 80
+212696327,212696313,0,False,tertiary,Clinton Road,907.944,,,,,,,,,,,234947895,CR 80
+212696394,212672740,0,False,residential,Hess Road,434.018,,,,,,,,,,,20118489,
+212696394,212667456,0,False,tertiary,Clinton Road,65.254,,,,,,,,,,,234947895,CR 80
+212696394,212696327,0,False,tertiary,Clinton Road,1673.501,,,,,,,,,,,234947895,CR 80
+212696446,212732156,0,False,residential,Cook Road,212.544,,,,,,,,,,,20119024,
+212696446,212667456,0,False,tertiary,Clinton Road,917.767,,,,,,,,,,,234947895,CR 80
+212696987,212696292,0,False,residential,Clinton Road,42.52,,,,,,,,,,,20116454,
+212696987,212696306,0,False,residential,Quinn Road,90.675,,,,,,,,,,,20117473,
+212697832,212666056,0,False,residential,,27.115,,,,,,,,,,,191316165,
+212697832,212697841,0,False,residential,Honey Hill Road,106.844,,,,,,,,,,,20116512,
+212697832,212688445,0,False,residential,Honey Hill Road,65.412,,,,,,,,,,,20116512,
+212697832,212728055,0,False,residential,Beck Street,371.214,,,,,,,,,,,20118663,
+212697841,212697832,0,False,residential,Honey Hill Road,106.844,,,,,,,,,,,20116512,
+212698091,212682995,0,False,residential,Martin Street,110.197,,,,,,,,,,,20116527,
+212700094,212681273,0,False,residential,Mindenville Road,1057.24,,,,,,,,,,,20116644,
+212700094,212733293,0,False,tertiary,River Road,299.479,,,,,,,,,,,20119100,CR 65
+212700094,212673092,0,False,tertiary,River Road,634.505,,,,,,,,,,,20119100,CR 65
+212700297,212700311,0,False,residential,Garfield Street,256.93,,,,,,,,,,,20116658,
+212700297,212690905,0,False,tertiary,Fisk Hill Road,462.168,,,,,,,,,,,20116955,CR 64
+212700297,212704819,0,False,tertiary,Fisk Hill Road,587.732,,,,,,,,,,,20116957,CR 64
+212700311,212710361,0,False,residential,Highland Terrace,48.68,,,,,,,,,,,20117356,
+212700311,212700335,0,False,residential,Garfield Street,432.512,,,,,,,,,,,20116658,
+212700311,212700297,0,False,residential,Garfield Street,256.93,,,,,,,,,,,20116658,
+212700335,212700311,0,False,residential,Garfield Street,432.512,,,,,,,,,,,20116658,
+212700335,212700380,0,False,residential,Garfield Street,298.047,,,,,,,,,,,20116659,
+212700335,212727523,0,False,residential,Waddell Avenue,261.516,,,,,,,,,,,20118621,
+212700380,212700335,0,False,residential,Garfield Street,298.047,,,,,,,,,,,20116659,
+212700380,212690908,0,False,secondary,"['Cherry Valley Road', 'Douglass Street']",1357.75,,,,,,,,,,,"[20116146, 20120590]",NY 163
+212700380,212700702,0,False,secondary,Kellogg Street,178.417,,,,,,,,,,,54989624,NY 163
+212700666,212689414,0,False,residential,Clinton Avenue,128.422,,,,,,,,,,,20116680,
+212700666,212708277,0,False,residential,Edwards Street,90.464,,,,,,,,,,,20118246,
+212700666,212663346,0,False,residential,"['Clinton Avenue', 'Roof Street']",280.783,,,,,,,,,,,"[20116680, 20117275]",
+212700669,212689414,0,False,residential,Clinton Avenue,128.957,,,,,,,,,,,20116680,
+212700669,212708279,0,False,residential,Waddell Avenue,92.09,,,,,,,,,,,20118621,
+212700669,212700702,0,False,residential,Clinton Avenue,280.145,,,,,,,,,,,20116680,
+212700702,212700669,0,False,residential,Clinton Avenue,280.145,,,,,,,,,,,20116680,
+212700702,212717260,0,False,secondary,Kellogg Street,70.698,,,,,,,yes,,,,"[54989624, 172946246, 172946247]",NY 163
+212700702,212700380,0,False,secondary,Kellogg Street,178.417,,,,,,,,,,,54989624,NY 163
+212701903,212701950,0,False,residential,Dingman Road,2560.049,,,,,,,,,,,20116755,
+212701903,212708472,0,False,tertiary,Salt Springville Road,1621.563,,,,,,,,,,,20117295,CR 75
+212701903,212696313,0,False,tertiary,Salt Springville Road,1066.997,,,,,,,,,,,20117295,CR 75
+212701950,212701903,0,False,residential,Dingman Road,2560.049,,,,,,,,,,,20116755,
+212701950,212708542,0,False,tertiary,Starkville Road,1371.183,,,,,,,,,,,20117206,CR 76
+212701950,212708472,0,False,tertiary,Starkville Road,1117.527,,,,,,,,,,,20117206,CR 76
+212702285,212690241,0,False,residential,Schulyer Road,616.582,,,,,,,,,,,20116778,
+212702515,212702520,0,False,residential,Michalik Drive,374.446,,,,,,,,,,,20116795,
+212702515,212688329,0,False,residential,Spring Street,1875.434,,,,,,,yes,,,,"[241414246, 20116885, 241414245]",
+212702515,212689752,0,False,residential,Spring Street,476.226,,,,,,,,,,,20116885,
+212702520,212702515,0,False,residential,Michalik Drive,374.446,,,,,,,,,,,20116795,
+212703135,212703137,0,False,secondary,Canal Street,77.488,,,,,,,,,,,20116849,NY 5S
+212703135,212710577,0,False,secondary,Main Street,38.347,,,,,,,,,,,45105334,NY 5S;NY 80
+212703135,212717264,0,False,secondary,Main Street,88.121,,,,,,,,,,,54989630,NY 80
+212703137,212703140,0,False,secondary,Canal Street,31.561,,,,,,,,,,,20116849,NY 5S
+212703137,212703135,0,False,secondary,Canal Street,77.488,,,,,,,,,,,20116849,NY 5S
+212703137,212730846,0,False,residential,Division Street,87.763,,,,,,,,,,,20118879,
+212703140,212703142,0,False,secondary,Canal Street,22.454,,,,,,,,,,,20116849,NY 5S
+212703140,212703137,0,False,secondary,Canal Street,31.561,,,,,,,,,,,20116849,NY 5S
+212703140,212741381,0,False,secondary,River Street,33.619,,,,,,,,,,,20119842,
+212703142,212703146,0,False,secondary,Canal Street,56.21,,,,,,,,,,,20116849,NY 5S
+212703142,212703140,0,False,secondary,Canal Street,22.454,,,,,,,,,,,20116849,NY 5S
+212703142,212712709,0,False,residential,Mohawk Street,84.346,,,,,,,,,,,20117515,
+212703146,212703151,0,False,secondary,Canal Street,32.206,,,,,,,,,,,20116849,NY 5S
+212703146,212703142,0,False,secondary,Canal Street,56.21,,,,,,,,,,,20116849,NY 5S
+212703146,212724688,0,False,residential,Webster Street,51.382,,,,,,,,,,,20118440,
+212703151,212703154,0,False,secondary,Canal Street,49.712,,,,,,,,,,,20116849,NY 5S
+212703151,212703146,0,False,secondary,Canal Street,32.206,,,,,,,,,,,20116849,NY 5S
+212703151,212732002,0,False,residential,Lydius Street,79.401,,,,,,,,,,,20120257,
+212703154,212703157,0,False,secondary,Canal Street,55.573,,,,,,,,,,,20116849,NY 5S
+212703154,212703151,0,False,secondary,Canal Street,49.712,,,,,,,,,,,20116849,NY 5S
+212703154,212718576,0,False,residential,Crouse Street,129.469,,,,,,,,,,,20119277,
+212703157,3643301348,0,False,secondary,Canal Street,36.383,,,,,,,,,,,20116849,NY 5S
+212703157,212703154,0,False,secondary,Canal Street,55.573,,,,,,,,,,,20116849,NY 5S
+212703157,212732006,0,False,residential,Home Street,70.338,,,,,,,,,,,20119327,
+212703160,212703162,0,False,secondary,Canal Street,67.281,,,,,,,,,,,20116849,NY 5S
+212703160,212691378,0,False,secondary,Canal Street,70.554,,,,,,,,,,,20116849,NY 5S
+212703160,212732008,0,False,residential,Orchard Street,60.363,,,,,,,,,,,20119436,
+212703162,212703160,0,False,secondary,Canal Street,67.281,,,,,,,,,,,20116849,NY 5S
+212703162,212703709,0,False,residential,Spring Street,173.843,,,,,,,,,,,20116889,
+212703162,212703165,0,False,secondary,Canal Street,204.437,,,,,,,,,,,20116849,NY 5S
+212703165,3643301355,0,False,residential,Herkimer Street,54.064,,,,,,,,,,,20118178,
+212703165,212716961,0,False,secondary,"['Canal Street', 'State Highway 5S']",1059.93,,,,,,,,,,,"[20116849, 20120479]",NY 5S
+212703165,212703162,0,False,secondary,Canal Street,204.437,,,,,,,,,,,20116849,NY 5S
+212703706,212703709,0,False,residential,Spring Street,53.974,,,,,,,,,,,20116889,
+212703709,212703162,0,False,residential,Spring Street,173.843,,,,,,,,,,,20116889,
+212703709,212703706,0,False,residential,Spring Street,53.974,,,,,,,,,,,20116889,
+212703709,212730683,0,False,residential,West Street,145.017,,,,,,,,,,,191316183,
+212703709,212716863,0,False,residential,West Street,61.85,,,,,,,,,,,191316183,
+212704317,212690823,0,False,residential,Horning Drive,215.421,,,,,,,,,,,20116927,
+212704519,212695042,0,False,residential,Youngs Road,437.007,,,,,,,,,,,20117931,
+212704519,212704528,0,False,residential,Miller Road,707.966,,,,,,,,,,,20116936,
+212704519,212688821,0,False,residential,Youngs Road,859.842,,,,,,,,,,,20117931,
+212704528,212738910,0,False,residential,Miller Drive,122.444,,,,,,,,,,,20119611,
+212704528,212704532,0,False,residential,Miller Road,364.25,,,,,,,,,,,20116936,
+212704528,212704519,0,False,residential,Miller Road,707.966,,,,,,,,,,,20116936,
+212704532,212689689,0,False,tertiary,Hessville Road,227.619,,,,,,,,,,,20119952,CR 74
+212704532,212704528,0,False,residential,Miller Road,364.25,,,,,,,,,,,20116936,
+212704532,212742196,0,False,tertiary,Hessville Road,1551.532,,,,,,,,,,,20119952,CR 74
+212704819,212704845,0,False,tertiary,Fisk Hill Road,395.644,,,,,,,,,,,20116957,CR 64
+212704819,212700297,0,False,tertiary,Fisk Hill Road,587.732,,,,,,,,,,,20116957,CR 64
+212704845,212704819,0,False,tertiary,Fisk Hill Road,395.644,,,,,,,,,,,20116957,CR 64
+212704978,212720796,0,False,secondary,State Highway 163,316.326,,,,,,,,,,,20118171,NY 163
+212704978,212704994,0,False,residential,Van Dycke Road,470.143,,,,,,,,,,,20116971,
+212704978,212720790,0,False,secondary,State Highway 163,876.707,,,,,,,,,,,20118171,NY 163
+212704994,212704978,0,False,residential,Van Dycke Road,470.143,,,,,,,,,,,20116971,
+212704994,212704994,0,False,residential,Van Dycke Road,98.951,,,,,,,,,,,20116972,
+212704994,212704994,1,False,residential,Van Dycke Road,98.951,,,,,,,,,,,20116972,
+212705112,212705122,0,False,residential,Aird Road,435.049,,,,,,,,,,,20116977,
+212705112,212709974,0,False,tertiary,Hessville Road,634.337,,,,,,,,,,,20119952,CR 74
+212705112,212720812,0,False,tertiary,Hessville Road,642.689,,,,,,,,,,,20119952,CR 74
+212705122,212705112,0,False,residential,Aird Road,435.049,,,,,,,,,,,20116977,
+212708210,212708212,0,False,residential,South Street,80.06,,,,,,,,,,,20117182,
+212708210,212717264,0,False,secondary,Main Street,140.043,,,,,,,,,,,54989630,NY 80
+212708210,212717260,0,False,secondary,Main Street,8.464,,,,,,,,,,,54989630,NY 80
+212708212,212708214,0,False,residential,South Street,55.522,,,,,,,,,,,20117182,
+212708212,212708210,0,False,residential,South Street,80.06,,,,,,,,,,,20117182,
+212708212,212730846,0,False,residential,Division Street,139.836,,,,,,,,,,,20118879,
+212708212,212717251,0,False,residential,Division Street,148.045,,,,,,,,,,,20118879,
+212708214,212708212,0,False,residential,South Street,55.522,,,,,,,,,,,20117182,
+212708214,212712708,0,False,residential,Mohawk Street,64.121,,,,,,,,,,,20117515,
+212708214,212712693,0,False,residential,Mohawk Street,160.899,,,,,,,,,,,20117515,
+212708277,212689411,0,False,residential,Gilbert Avenue,127.553,,,,,,,,,,,20117189,
+212708277,212700666,0,False,residential,Edwards Street,90.464,,,,,,,,,,,20118246,
+212708277,212686935,0,False,residential,Edwards Street,88.512,,,,,,,,,,,20118246,
+212708277,212663346,0,False,residential,Gilbert Avenue,202.031,,,,,,,,,,,20117189,
+212708279,212689411,0,False,residential,Gilbert Avenue,154.116,,,,,,,,,,,20117189,
+212708279,212700669,0,False,residential,Waddell Avenue,92.09,,,,,,,,,,,20118621,
+212708279,212686947,0,False,residential,Waddell Avenue,93.992,,,,,,,,,,,20118621,
+212708414,212708456,0,False,tertiary,Starkville Road,1348.717,,,,,,,,,,,20117206,CR 76
+212708414,212672740,0,False,residential,Hess Road,1574.361,,,,,,,,,,,20118489,
+212708414,212720790,0,False,tertiary,Indian Trail,1447.832,,,,,,,,,,,20118810,CR 77
+212708414,212696327,0,False,tertiary,Indian Trail,2530.831,,,,,,,,,,,20118810,CR 77
+212708456,212708472,0,False,tertiary,Starkville Road,921.233,,,,,,,,,,,20117206,CR 76
+212708456,212708414,0,False,tertiary,Starkville Road,1348.717,,,,,,,,,,,20117206,CR 76
+212708456,212719312,0,False,residential,Chriss Road,525.094,,,,,,,,,,,20118047,
+212708472,212701950,0,False,tertiary,Starkville Road,1117.527,,,,,,,,,,,20117206,CR 76
+212708472,212708456,0,False,tertiary,Starkville Road,921.233,,,,,,,,,,,20117206,CR 76
+212708472,212688752,0,False,tertiary,Salt Springville Road,550.265,,,,,,,,,,,20117295,CR 75
+212708472,212701903,0,False,tertiary,Salt Springville Road,1621.563,,,,,,,,,,,20117295,CR 75
+212708542,212701950,0,False,tertiary,Starkville Road,1371.183,,,,,,,,,,,20117206,CR 76
+212708542,212709605,0,False,tertiary,Brookmans Corners Road,3696.143,,,,,,,,,,,20117294,CR 73
+212708741,212673138,0,False,tertiary,River Road,62.17,,,,,,,,,,,20119100,CR 65
+212708741,212708742,0,False,tertiary,Bridge Street,63.898,,,,,,,,,,,20117222,CR 61
+212708741,212673092,0,False,tertiary,River Road,2096.092,,,,,,,,,,,20119100,CR 65
+212708742,212708753,0,False,tertiary,Bridge Street,223.186,,,,,,,,,,,20117222,CR 61
+212708742,212708741,0,False,tertiary,Bridge Street,63.898,,,,,,,,,,,20117222,CR 61
+212708742,212673138,0,False,residential,Bridge Street,31.886,,,,,,,,,,,20117223,
+212708753,212708742,0,False,tertiary,Bridge Street,223.186,,,,,,,,,,,20117222,CR 61
+212708753,212709010,0,False,tertiary,South St Johnsville Road,491.913,,,,,,,,,,,20117244,CR 51
+212709010,212708753,0,False,tertiary,South St Johnsville Road,491.913,,,,,,,,,,,20117244,CR 51
+212709605,212709619,0,False,tertiary,Brookmans Corners Road,250.596,,,,,,,,,,,20117294,CR 73
+212709605,212708542,0,False,tertiary,Brookmans Corners Road,3696.143,,,,,,,,,,,20117294,CR 73
+212709605,212709757,0,False,tertiary,Salt Springville Road,1340.916,,,,,,,,,,,20117295,CR 75
+212709619,212709630,0,False,tertiary,Brookmans Corners Road,958.213,,,,,,,,,,,20117294,CR 73
+212709619,212709605,0,False,tertiary,Brookmans Corners Road,250.596,,,,,,,,,,,20117294,CR 73
+212709619,212742196,0,False,tertiary,Hessville Road,1259.155,,,,,,,,,,,20119952,CR 74
+212709630,212690377,0,False,tertiary,Brookmans Corners Road,1395.663,,,,,,,,,,,20117294,CR 73
+212709630,212709619,0,False,tertiary,Brookmans Corners Road,958.213,,,,,,,,,,,20117294,CR 73
+212709630,212688021,0,False,residential,Casler Road,1564.684,,,,,,,yes,,,,"[241414241, 241414242, 20118380]",
+212709757,212709605,0,False,tertiary,Salt Springville Road,1340.916,,,,,,,,,,,20117295,CR 75
+212709757,212688752,0,False,tertiary,Salt Springville Road,2360.383,,,,,,,,,,,20117295,CR 75
+212709757,212695042,0,False,residential,Youngs Road,1101.069,,,,,,,,,,,20117931,
+212709974,212725262,0,False,tertiary,Hessville Road,58.024,,,,,,,,,,,20119952,CR 74
+212709974,212690176,0,False,residential,Walts Road,1960.012,,,,,,,,,,,20117322,
+212709974,212705112,0,False,tertiary,Hessville Road,634.337,,,,,,,,,,,20119952,CR 74
+212710361,212700311,0,False,residential,Highland Terrace,48.68,,,,,,,,,,,20117356,
+212710361,212710361,0,False,residential,"['Northern Terrace', 'Sunset Drive', 'Highland Terrace', 'Parkwood Drive']",626.303,,,,,,,,,,,"[20117371, 20117356, 20119365, 20116407]",
+212710361,212710361,1,False,residential,"['Northern Terrace', 'Sunset Drive', 'Highland Terrace', 'Parkwood Drive']",626.303,,,,,,,,,,,"[20117371, 20117356, 20119365, 20116407]",
+212710577,212703135,0,False,secondary,Main Street,38.347,,,,,,,,,,,45105334,NY 5S;NY 80
+212710577,212741381,0,False,residential,Legion Street,110.258,,,,,,,,,,,20119844,
+212710577,212717286,0,False,secondary,Main Street,85.687,,,,,,,,,,,45105335,NY 80
+212710577,212674121,0,False,secondary,Hancock Street,120.841,,,,,,,yes,,,,"[20117370, 172946244, 172946245]",NY 5S
+212710726,212689701,0,False,residential,Robbins Lane,824.97,,,,,,,,,,,20117385,
+212712418,212718573,0,False,secondary,River Street,163.623,,,,,,,,,,,232834618,NY 80
+212712418,212712422,0,False,residential,Railroad Street,77.28,,,,,,,,,,,20117491,
+212712418,212722931,0,False,secondary,River Street,143.111,,,,,,,,,,,"[232834618, 124803547]",NY 80
+212712422,212718574,0,False,residential,Webster Street,158.013,,,,,,,,,,,20118440,
+212712422,212712434,0,False,residential,Railroad Street,77.088,,,,,,,,,,,20117491,
+212712422,212712418,0,False,residential,Railroad Street,77.28,,,,,,,,,,,20117491,
+212712434,212718579,0,False,residential,"['Lincoln Street', 'Railroad Street']",222.221,,,,,,,,,,,"[20117491, 20119591]",
+212712434,212712422,0,False,residential,Railroad Street,77.088,,,,,,,,,,,20117491,
+212712434,212718576,0,False,residential,Crouse Street,139.838,,,,,,,,,,,20119277,
+212712563,212688428,0,False,residential,Old State Route 80,171.507,,,,,,,,,,,20117498,
+212712689,212712693,0,False,residential,Mohawk Street,35.195,,,,,,,,,,,20117515,
+212712689,212717236,0,False,residential,West Street,146.682,,,,,,,,,,,20118866,
+212712689,212682986,0,False,residential,West Street,167.392,,,,,,,,,,,"[20118866, 191316183]",
+212712693,212708214,0,False,residential,Mohawk Street,160.899,,,,,,,,,,,20117515,
+212712693,212712689,0,False,residential,Mohawk Street,35.195,,,,,,,,,,,20117515,
+212712693,212744609,0,False,residential,Lydius Street,161.091,,,,,,,,,,,20120257,
+212712708,212712709,0,False,residential,Mohawk Street,75.272,,,,,,,,,,,20117515,
+212712708,212708214,0,False,residential,Mohawk Street,64.121,,,,,,,,,,,20117515,
+212712708,212744609,0,False,residential,Washington Street,90.305,,,,,,,,,,,20120865,
+212712709,212703142,0,False,residential,Mohawk Street,84.346,,,,,,,,,,,20117515,
+212712709,212712708,0,False,residential,Mohawk Street,75.272,,,,,,,,,,,20117515,
+212712709,212732002,0,False,residential,Center Street,88.354,,,,,,,,,,,20119001,
+212712709,212730846,0,False,residential,Center Street,55.711,,,,,,,,,,,20119001,
+212714340,212687485,0,False,residential,Colgrove Road,252.556,,,,,,,,,,,20117645,
+212716327,212690851,0,False,residential,Moyer Drive,456.782,,,,,,,,,,,20117786,
+212716863,212732008,0,False,residential,Orchard Street,125.671,,,,,,,,,,,20119436,
+212716863,212691372,0,False,residential,West Street,74.879,,,,,,,,,,,191316183,
+212716863,212682992,0,False,residential,Cross Street,167.698,,,,,,,,,,,20117823,
+212716863,212703709,0,False,residential,West Street,61.85,,,,,,,,,,,191316183,
+212716961,212716971,0,False,residential,Lewis Road,211.841,,,,,,,,,,,20117836,
+212716961,212732940,0,False,secondary,State Highway 5S,416.241,,,,,,,,,,,20120479,NY 5S
+212716961,212703165,0,False,secondary,"['Canal Street', 'State Highway 5S']",1059.93,,,,,,,,,,,"[20116849, 20120479]",NY 5S
+212716971,212716961,0,False,residential,Lewis Road,211.841,,,,,,,,,,,20117836,
+212717224,212683022,0,False,residential,Wagner Street,229.94,,,,,,,,,,,20120819,
+212717224,212717236,0,False,residential,Main Street,308.711,,,,,,,,,,,20117860,
+212717224,212695248,0,False,residential,Main Street,73.965,,,,,,,,,,,20117860,
+212717236,212678780,0,False,residential,Main Street,90.722,,,,,,,,,,,20117860,
+212717236,212717224,0,False,residential,Main Street,308.711,,,,,,,,,,,20117860,
+212717236,212712689,0,False,residential,West Street,146.682,,,,,,,,,,,20118866,
+212717246,212717251,0,False,secondary,Main Street,2.198,,,,,,,,,,,54989630,NY 80
+212717246,212678780,0,False,residential,Main Street,94.975,,,,,,,,,,,20117860,
+212717246,212678773,0,False,secondary,Reid Street,93.732,,,,,,,,,,,172946267,NY 80
+212717251,212708212,0,False,residential,Division Street,148.045,,,,,,,,,,,20118879,
+212717251,212717246,0,False,secondary,Main Street,2.198,,,,,,,,,,,54989630,NY 80
+212717251,212678090,0,False,secondary,Main Street,78.01,,,,,,,,,,,54989630,NY 80
+212717260,212708210,0,False,secondary,Main Street,8.464,,,,,,,,,,,54989630,NY 80
+212717260,212678090,0,False,secondary,Main Street,82.223,,,,,,,,,,,54989630,NY 80
+212717260,212700702,0,False,secondary,Kellogg Street,70.698,,,,,,,yes,,,,"[54989624, 172946246, 172946247]",NY 163
+212717264,212730846,0,False,residential,Center Street,78.3,,,,,,,,,,,20119001,
+212717264,212731997,0,False,residential,Center Street,30.698,,,,,,,,,,,20119001,
+212717264,212703135,0,False,secondary,Main Street,88.121,,,,,,,,,,,54989630,NY 80
+212717264,212708210,0,False,secondary,Main Street,140.043,,,,,,,,,,,54989630,NY 80
+212717286,212718573,0,False,secondary,Willett Street,90.355,,,,,,,,,,,20117979,NY 80
+212717286,212733865,0,False,residential,Plaza Street,124.818,,,,,,,,,,,20119169,
+212717286,212710577,0,False,secondary,Main Street,85.687,,,,,,,,,,,45105335,NY 80
+212717377,212738941,0,False,residential,Goodrich Avenue,122.682,,,,,,,,,,,20119617,
+212717377,212727523,0,False,residential,Goodrich Avenue,99.519,,,,,,,,,,,20119617,
+212717377,212717387,0,False,residential,Karolanne Place,201.676,,,,,,,,,,,20117877,
+212717387,212717377,0,False,residential,Karolanne Place,201.676,,,,,,,,,,,20117877,
+212718573,212717286,0,False,secondary,Willett Street,90.355,,,,,,,,,,,20117979,NY 80
+212718573,212741383,0,False,secondary,River Street,60.894,,,,,,,,,,,20119842,
+212718573,212718574,0,False,residential,Willett Street,79.31,,,,,,,,,,,164420548,
+212718573,212712418,0,False,secondary,River Street,163.623,,,,,,,,,,,232834618,NY 80
+212718574,212712422,0,False,residential,Webster Street,158.013,,,,,,,,,,,20118440,
+212718574,212724688,0,False,residential,Webster Street,69.138,,,,,,,,,,,20118440,
+212718574,212718576,0,False,residential,Willett Street,75.072,,,,,,,,,,,164420548,
+212718574,212718573,0,False,residential,Willett Street,79.31,,,,,,,,,,,164420548,
+212718576,212718579,0,False,residential,Willett Street,62.127,,,,,,,,,,,164420548,
+212718576,212718574,0,False,residential,Willett Street,75.072,,,,,,,,,,,164420548,
+212718576,212712434,0,False,residential,Crouse Street,139.838,,,,,,,,,,,20119277,
+212718576,212703154,0,False,residential,Crouse Street,129.469,,,,,,,,,,,20119277,
+212718579,3643301351,0,False,residential,Willett Street,33.667,,,,,,,,,,,164420548,
+212718579,212718576,0,False,residential,Willett Street,62.127,,,,,,,,,,,164420548,
+212718579,212712434,0,False,residential,"['Lincoln Street', 'Railroad Street']",222.221,,,,,,,,,,,"[20117491, 20119591]",
+212719312,212708456,0,False,residential,Chriss Road,525.094,,,,,,,,,,,20118047,
+212720742,212674314,0,False,residential,,242.233,,,,,,,,,,,20114999,
+212720742,212720790,0,False,secondary,State Highway 163,1201.715,,,,,,,,,,,20118171,NY 163
+212720790,212704978,0,False,secondary,State Highway 163,876.707,,,,,,,,,,,20118171,NY 163
+212720790,212720742,0,False,secondary,State Highway 163,1201.715,,,,,,,,,,,20118171,NY 163
+212720790,212708414,0,False,tertiary,Indian Trail,1447.832,,,,,,,,,,,20118810,CR 77
+212720796,212704978,0,False,secondary,State Highway 163,316.326,,,,,,,,,,,20118171,NY 163
+212720796,212678954,0,False,secondary,State Highway 163,841.022,,,,,,,,,,,20118171,NY 163
+212720796,212688816,0,False,residential,Bauder Road,1704.678,,,,,,,,,,,20119598,
+212720812,212687460,0,False,secondary,State Highway 163,965.299,,,,,,,,,,,20118171,NY 163
+212720812,212684336,0,False,secondary,State Highway 163,412.281,,,,,,,,,,,20118171,NY 163
+212720812,212705112,0,False,tertiary,Hessville Road,642.689,,,,,,,,,,,20119952,CR 74
+212722931,212744864,0,False,"['residential', 'tertiary']","['Otsuago Club Road', 'Otsquago Club Road']",3091.332,,,,,,,,,,,"[124803549, 20118334, 20120295]",CR 50
+212722931,212712418,0,False,secondary,River Street,143.111,,,,,,,,,,,"[232834618, 124803547]",NY 80
+212723886,212688372,0,False,residential,Carroll Road,128.696,,,,,,,,,,,20118373,
+212724688,212718574,0,False,residential,Webster Street,69.138,,,,,,,,,,,20118440,
+212724688,212741383,0,False,residential,State Street,79.792,,,,,,,,,,,20120841,
+212724688,212703146,0,False,residential,Webster Street,51.382,,,,,,,,,,,20118440,
+212725214,212690908,0,False,residential,Kardash Road,72.307,,,,,,,,,,,20118463,
+212725262,212725264,0,False,residential,Stonehouse Road,404.742,,,,,,,,,,,20118475,
+212725262,212709974,0,False,tertiary,Hessville Road,58.024,,,,,,,,,,,20119952,CR 74
+212725262,212688841,0,False,tertiary,Hessville Road,291.494,,,,,,,,,,,20119952,CR 74
+212725264,212725262,0,False,residential,Stonehouse Road,404.742,,,,,,,,,,,20118475,
+212727523,212717377,0,False,residential,Goodrich Avenue,99.519,,,,,,,,,,,20119617,
+212727523,212686947,0,False,residential,Waddell Avenue,160.382,,,,,,,,,,,20118621,
+212727523,212700335,0,False,residential,Waddell Avenue,261.516,,,,,,,,,,,20118621,
+212727893,212727902,0,False,residential,Snyder Road,142.456,,,,,,,,,,,20118644,
+212727893,212677160,0,False,residential,Oldick Road,3302.002,,,,,,,,,,,20119425,
+212727893,212736857,0,False,residential,Oldick Road,444.284,,,,,,,,,,,20119425,
+212727902,212727893,0,False,residential,Snyder Road,142.456,,,,,,,,,,,20118644,
+212728055,212697832,0,False,residential,Beck Street,371.214,,,,,,,,,,,20118663,
+212728055,212685429,0,False,secondary,Reid Street,191.495,,,,,,,,,,,20120008,NY 80
+212728055,212688445,0,False,secondary,Reid Street,289.497,,,,,,,,,,,20120008,NY 80
+212728251,212687166,0,False,tertiary,Airport Road,1312.583,,,,,,,,,,,20118698,CR 67
+212728251,212688592,0,False,tertiary,Paris Road,356.122,,,,,,,,,,,20119450,CR 68
+212728251,212679337,0,False,secondary,"['Dutchtown Road', 'State Highway 5S']",2429.521,,,,,,,,,,,"[20115524, 20120479]",NY 5S
+212728251,212732940,0,False,secondary,State Highway 5S,2194.613,,,,,,,,,,,20120479,NY 5S
+212728415,212681154,0,False,tertiary,River Road,2046.234,,,,,,,,,,,20119100,CR 65
+212728415,212732940,0,False,tertiary,River Road,2361.058,,,,,,,,,,,20119100,CR 65
+212728415,212687166,0,False,residential,Airport Road,1015.941,,,,,,,,,,,232401378,
+212728443,212687947,0,False,residential,H Moyer Road,194.892,,,,,,,,,,,20118704,
+212730638,212677067,0,False,tertiary,Clark Road,143.681,,,,,,,,,,,20118857,CR 124
+212730638,212677078,0,False,tertiary,Clark Road,67.138,,,,,,,,,,,20118859,CR 124
+212730683,212703709,0,False,residential,West Street,145.017,,,,,,,,,,,191316183,
+212730846,212703137,0,False,residential,Division Street,87.763,,,,,,,,,,,20118879,
+212730846,212708212,0,False,residential,Division Street,139.836,,,,,,,,,,,20118879,
+212730846,212712709,0,False,residential,Center Street,55.711,,,,,,,,,,,20119001,
+212730846,212717264,0,False,residential,Center Street,78.3,,,,,,,,,,,20119001,
+212731997,212717264,0,False,residential,Center Street,30.698,,,,,,,,,,,20119001,
+212732002,212732006,0,False,residential,Center Street,106.374,,,,,,,,,,,20119001,
+212732002,212712709,0,False,residential,Center Street,88.354,,,,,,,,,,,20119001,
+212732002,212703151,0,False,residential,Lydius Street,79.401,,,,,,,,,,,20120257,
+212732002,212744609,0,False,residential,Lydius Street,76.121,,,,,,,,,,,20120257,
+212732006,212691375,0,False,residential,Center Street,71.327,,,,,,,,,,,20119001,
+212732006,212732002,0,False,residential,Center Street,106.374,,,,,,,,,,,20119001,
+212732006,212703157,0,False,residential,Home Street,70.338,,,,,,,,,,,20119327,
+212732006,212744609,0,False,residential,"['Home Street', 'Washington Street']",185.066,,,,,,,,,,,"[20120865, 20119327]",
+212732008,212691375,0,False,residential,Center Street,72.247,,,,,,,,,,,20119001,
+212732008,212703160,0,False,residential,Orchard Street,60.363,,,,,,,,,,,20119436,
+212732008,212716863,0,False,residential,Orchard Street,125.671,,,,,,,,,,,20119436,
+212732156,212696446,0,False,residential,Cook Road,212.544,,,,,,,,,,,20119024,
+212732372,212732446,0,False,tertiary,Mindenville Drive,1122.914,,,,,,,,,,,20119056,CR 63
+212732372,212732919,0,False,"['residential', 'tertiary']",River Road,1992.637,,,,,no,,yes,,,,"[172946276, 172946279, 172946283, 71283251, 20119100]",CR 65
+212732372,212733293,0,False,tertiary,River Road,84.344,,,,,,,,,,,20119100,CR 65
+212732446,212732372,0,False,tertiary,Mindenville Drive,1122.914,,,,,,,,,,,20119056,CR 63
+212732919,212733293,0,False,residential,Fredas Way,1865.32,,,,,,,,,,,172946273,
+212732919,212732372,0,False,"['residential', 'tertiary']",River Road,1992.637,,,,,no,,yes,,,,"[172946276, 172946279, 172946283, 71283251, 20119100]",CR 65
+212732940,212728415,0,False,tertiary,River Road,2361.058,,,,,,,,,,,20119100,CR 65
+212732940,212728251,0,False,secondary,State Highway 5S,2194.613,,,,,,,,,,,20120479,NY 5S
+212732940,212716961,0,False,secondary,State Highway 5S,416.241,,,,,,,,,,,20120479,NY 5S
+212733293,212732372,0,False,tertiary,River Road,84.344,,,,,,,,,,,20119100,CR 65
+212733293,212700094,0,False,tertiary,River Road,299.479,,,,,,,,,,,20119100,CR 65
+212733293,212732919,0,False,residential,Fredas Way,1865.32,,,,,,,,,,,172946273,
+212733762,212733821,0,False,residential,Abbott Street,484.979,,,,,,,,,,,20119164,
+212733762,212678773,0,False,secondary,Reid Street,322.857,,,,,,,,,,,172946267,NY 80
+212733762,212685429,0,False,secondary,Reid Street,111.787,,,,,,,yes,,,,"[20120008, 172946267, 172946269]",NY 80
+212733821,212733762,0,False,residential,Abbott Street,484.979,,,,,,,,,,,20119164,
+212733865,212717286,0,False,residential,Plaza Street,124.818,,,,,,,,,,,20119169,
+212736857,212727893,0,False,residential,Oldick Road,444.284,,,,,,,,,,,20119425,
+212736857,212680155,0,False,tertiary,Paris Road,389.157,,,,,,,,,,,20119450,CR 68
+212736857,212679310,0,False,tertiary,Paris Road,1638.477,,,,,,,,,,,20119450,CR 68
+212738910,212704528,0,False,residential,Miller Drive,122.444,,,,,,,,,,,20119611,
+212738941,212717377,0,False,residential,Goodrich Avenue,122.682,,,,,,,,,,,20119617,
+212739150,212688393,0,False,residential,Cedar Lane,209.273,,,,,,,,,,,20119644,
+212741381,212741383,0,False,secondary,River Street,20.608,,,,,,,,,,,20119842,
+212741381,212703140,0,False,secondary,River Street,33.619,,,,,,,,,,,20119842,
+212741381,212710577,0,False,residential,Legion Street,110.258,,,,,,,,,,,20119844,
+212741383,212718573,0,False,secondary,River Street,60.894,,,,,,,,,,,20119842,
+212741383,212741381,0,False,secondary,River Street,20.608,,,,,,,,,,,20119842,
+212741383,212724688,0,False,residential,State Street,79.792,,,,,,,,,,,20120841,
+212742020,212690900,0,False,residential,Duesler Road,351.597,,,,,,,,,,,20119921,
+212742196,212709619,0,False,tertiary,Hessville Road,1259.155,,,,,,,,,,,20119952,CR 74
+212742196,212704532,0,False,tertiary,Hessville Road,1551.532,,,,,,,,,,,20119952,CR 74
+212742196,212742293,0,False,residential,Michalik Road,409.473,,,,,,,,,,,20119963,
+212742293,212742196,0,False,residential,Michalik Road,409.473,,,,,,,,,,,20119963,
+212742293,212742293,0,False,residential,Michalik Road,99.634,,,,,,,,,,,20119967,
+212742293,212742293,1,False,residential,Michalik Road,99.634,,,,,,,,,,,20119967,
+212742471,212688795,0,False,residential,Moyer Lane,198.158,,,,,,,,,,,20119984,
+212744609,212712708,0,False,residential,Washington Street,90.305,,,,,,,,,,,20120865,
+212744609,212732002,0,False,residential,Lydius Street,76.121,,,,,,,,,,,20120257,
+212744609,212712693,0,False,residential,Lydius Street,161.091,,,,,,,,,,,20120257,
+212744609,212732006,0,False,residential,"['Home Street', 'Washington Street']",185.066,,,,,,,,,,,"[20120865, 20119327]",
+212744864,212722931,0,False,"['residential', 'tertiary']","['Otsuago Club Road', 'Otsquago Club Road']",3091.332,,,,,,,,,,,"[124803549, 20118334, 20120295]",CR 50
+212750155,212688854,0,False,residential,State Street,36.467,,,,,,,,,,,172946287,
+2019009581,212683019,0,False,residential,School Road,83.909,,,,,,,,,,,20119827,
+3643301348,212691378,0,False,secondary,Canal Street,35.856,,,,,,,,,,,20116849,NY 5S
+3643301348,212703157,0,False,secondary,Canal Street,36.383,,,,,,,,,,,20116849,NY 5S
+3643301348,3643301349,0,False,residential,,58.641,,,,,,,,,,,359652699,
+3643301349,3643301348,0,False,residential,,58.641,,,,,,,,,,,359652699,
+3643301349,3643301355,0,False,residential,,376.924,,,,,,,,,,,20113882,
+3643301349,3643301351,0,False,residential,,78.965,,,,,,,,,,,359652699,
+3643301351,212676619,0,False,residential,Willett Street,46.753,,,,,,,,,,,164420548,
+3643301351,212718579,0,False,residential,Willett Street,33.667,,,,,,,,,,,164420548,
+3643301351,3643301349,0,False,residential,,78.965,,,,,,,,,,,359652699,
+3643301355,212660195,0,False,residential,Herkimer Street,17.34,,,,,,,,,,,20118178,
+3643301355,212703165,0,False,residential,Herkimer Street,54.064,,,,,,,,,,,20118178,
+3643301355,3643301349,0,False,residential,,376.924,,,,,,,,,,,20113882,

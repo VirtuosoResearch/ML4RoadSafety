@@ -1,0 +1,56 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+42734590,42734594,0,False,residential,Mace Avenue,83.827,,,,,,,,,,,5696588,
+42734590,42745599,0,False,secondary,White Plains Road,206.265,,,,,,,,,,,224082355,
+42734594,42734598,0,False,residential,Mace Avenue,71.749,,,,,,,,,,,5696588,
+42734594,42734590,0,False,residential,Mace Avenue,83.827,,,,,,,,,,,5696588,
+42734594,2856760698,0,False,residential,Cruger Avenue,91.016,,,,,,,,,,,281696353,
+42734598,42734599,0,False,residential,Mace Avenue,6.899,,,,,,,,,,,5696588,
+42734598,42734594,0,False,residential,Mace Avenue,71.749,,,,,,,,,,,5696588,
+42734598,42769599,0,False,primary,Boston Road,10.233,4,,,,,,,,,,420571079,US 1
+42734598,2856760698,0,False,primary,Boston Road,101.241,"['4', '5']",,,,,,,,,,"[420571083, 420571086]",US 1
+42734599,42734603,0,False,residential,Mace Avenue,79.407,,,,,,,,,,,5696588,
+42734599,42734598,0,False,residential,Mace Avenue,6.899,,,,,,,,,,,5696588,
+42734599,42745606,0,True,residential,Holland Avenue,207.43,,,,,,,,,,,5699421,
+42734603,42734599,0,False,residential,Mace Avenue,79.407,,,,,,,,,,,5696588,
+42734603,42746694,0,False,residential,Wallace Avenue,87.311,,,,,,,,,,,5697376,
+42734603,42745610,0,False,residential,Wallace Avenue,207.776,,,,,,,,,,,5697376,
+42738425,2889232201,0,False,residential,Astor Avenue,60.199,,,,,,,,,,,5696837,
+42738425,2313404814,0,True,primary,Boston Road,79.826,2,,,,,,,,,,"[420571082, 224082358]",US 1
+42738431,42738434,0,False,residential,Astor Avenue,79.314,,,,,,,,,,,5696837,
+42738431,2889232201,0,False,residential,Astor Avenue,9.114,,,,,,,,,,,5696837,
+42738431,42771078,0,True,residential,Cruger Avenue,190.527,,,,,,,,,,,5698810,
+42738434,42738437,0,False,residential,Astor Avenue,80.247,,,,,,,,,,,5696837,
+42738434,42738431,0,False,residential,Astor Avenue,79.314,,,,,,,,,,,5696837,
+42738434,42745606,0,True,residential,Holland Avenue,191.307,,,,,,,,,,,574772334,
+42738437,42738434,0,False,residential,Astor Avenue,80.247,,,,,,,,,,,5696837,
+42738437,42745610,0,False,residential,Wallace Avenue,187.39,,,,,,,,,,,5697376,
+42745599,42745603,0,False,residential,Waring Avenue,56.561,,,,,,,,,,,224082345,
+42745599,2313404814,0,False,secondary,White Plains Road,134.708,,,,,,,,,,,222367197,
+42745599,42734590,0,False,secondary,White Plains Road,206.265,,,,,,,,,,,224082355,
+42745603,42745599,0,False,residential,Waring Avenue,56.561,,,,,,,,,,,224082345,
+42745603,2889232207,0,False,residential,Waring Avenue,52.291,,,,,,,,,,,224082344,
+42745603,2313404814,0,False,primary,Boston Road,123.519,"['4', '5']",,,,,,,,,,"[224082347, 420571078]",US 1
+42745603,2856760698,0,False,primary,Boston Road,130.705,"['4', '5']",,,,,,,,,,"[420571085, 420571086]",US 1
+42745606,42745610,0,False,residential,Waring Avenue,78.914,,,,,,,,,,,224082344,
+42745606,2889232207,0,False,residential,Waring Avenue,54.209,,,,,,,,,,,224082344,
+42745610,42734603,0,False,residential,Wallace Avenue,207.776,,,,,,,,,,,5697376,
+42745610,42738437,0,False,residential,Wallace Avenue,187.39,,,,,,,,,,,5697376,
+42745610,42745606,0,False,residential,Waring Avenue,78.914,,,,,,,,,,,224082344,
+42746694,42734603,0,False,residential,Wallace Avenue,87.311,,,,,,,,,,,5697376,
+42746694,42769599,0,False,primary,Boston Road,112.474,"['4', '5']",,,,,,,,,,"[420565568, 224058075, 420571084]",US 1
+42769599,42734599,0,True,residential,Holland Avenue,7.784,,,,,,,,,,,5699421,
+42769599,42734598,0,False,primary,Boston Road,10.233,4,,,,,,,,,,420571079,US 1
+42769599,42746694,0,False,primary,Boston Road,112.474,"['4', '5']",,,,,,,,,,"[420565568, 224058075, 420571084]",US 1
+42779811,42771078,0,True,tertiary,Pelham Parkway North,79.092,,,,25 mph,,,,,,,68518729,
+42779811,42738434,0,True,residential,Holland Avenue,189.61,,,,,,,,,,,574772334,
+2313404814,42745599,0,False,secondary,White Plains Road,134.708,,,,,,,,,,,222367197,
+2313404814,42745603,0,False,primary,Boston Road,123.519,"['4', '5']",,,,,,,,,,"[224082347, 420571078]",US 1
+2856760698,42734594,0,False,residential,Cruger Avenue,91.016,,,,,,,,,,,281696353,
+2856760698,42745603,0,False,primary,Boston Road,130.705,"['4', '5']",,,,,,,,,,"[420571085, 420571086]",US 1
+2856760698,42734598,0,False,primary,Boston Road,101.241,"['4', '5']",,,,,,,,,,"[420571083, 420571086]",US 1
+2889232201,42738431,0,False,residential,Astor Avenue,9.114,,,,,,,,,,,5696837,
+2889232201,42738425,0,False,residential,Astor Avenue,60.199,,,,,,,,,,,5696837,
+2889232201,2889232207,0,False,residential,,203.319,,,,,,,,,,,285240255,
+2889232207,42745606,0,False,residential,Waring Avenue,54.209,,,,,,,,,,,224082344,
+2889232207,42745603,0,False,residential,Waring Avenue,52.291,,,,,,,,,,,224082344,
+2889232207,2889232201,0,False,residential,,203.319,,,,,,,,,,,285240255,

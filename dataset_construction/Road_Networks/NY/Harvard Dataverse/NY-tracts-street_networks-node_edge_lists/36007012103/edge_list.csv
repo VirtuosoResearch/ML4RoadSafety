@@ -1,0 +1,323 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+116208710,116208758,0,False,residential,Beers Road,471.044,,,,,,,,,,,12718530,
+116208710,116379530,0,False,primary,Castle Creek Road,1467.965,2,,,,,,,,,,115685359,US 11
+116208710,116379168,0,False,primary,Castle Creek Road,1722.589,2,,,,,,,,,,115685359,US 11
+116208758,116208710,0,False,residential,Beers Road,471.044,,,,,,,,,,,12718530,
+116211747,116211750,0,False,residential,,43.039,,,,,,,,,,,12718674,
+116211747,116501545,0,False,tertiary,Lewis Road,1058.411,,,,,,,,,,,12746115,CR 72
+116211750,116211747,0,False,residential,,43.039,,,,,,,,,,,12718674,
+116220407,116270439,0,False,primary,Castle Creek Road,35.353,2,,,,,,,,,,139193311,US 11
+116220407,116378849,0,False,primary,Castle Creek Road,686.825,2,,,,,,yes,,,,"[115685359, 115685350, 139193311]",US 11
+116220422,116220407,0,True,motorway_link,,31.139,,,,,,,,,,,12719098,
+116220422,116270439,0,True,motorway_link,,34.755,,,,,,,,,,,12722361,
+116220459,116220422,0,True,motorway_link,,476.855,,,,,,,,,,,12719098,
+116220459,116239505,0,True,motorway,,1592.057,2,,,55 mph,,,yes,,,,"[243726371, 43696324, 43696325, 43696328, 43696329, 37354715, 37354716, 37354717, 37354718]",I 81
+116222239,116266529,0,True,motorway,,415.454,2,,,55 mph,,,,,,,122088799,I 81
+116222563,116222636,0,True,motorway,,530.397,2,,,65 mph,,,yes,,,,"[43696320, 43696321, 243726372]",I 81
+116222636,116397300,0,True,motorway,,78.82,2,,,65 mph,,,,,,,43696320,I 81
+116223816,116224170,0,False,residential,Treadwell Road,806.808,,,,,,,,,,,12732889,
+116223816,116546729,0,False,tertiary,Brooks Road,1031.29,,,,,,,,,,,12740703,CR 105
+116223816,116373957,0,False,tertiary,Brooks Road,1072.686,,,,,,,,,,,12740703,CR 105
+116224170,116224208,0,False,residential,,532.316,,,,,,,,,,,12719309,
+116224170,116224208,1,False,residential,Treadwell Road,73.863,,,,,,,,,,,12732889,
+116224170,116223816,0,False,residential,Treadwell Road,806.808,,,,,,,,,,,12732889,
+116224208,116224170,0,False,residential,,532.316,,,,,,,,,,,12719309,
+116224208,116224170,1,False,residential,Treadwell Road,73.863,,,,,,,,,,,12732889,
+116224208,116374112,0,False,residential,Treadwell Road,1347.341,,,,,,,,,,,12732889,
+116226348,116226414,0,True,motorway_link,,307.01,1,,,,,,,,,,12719432,
+116226348,116226455,0,True,motorway,,599.684,2,,,65 mph,,,yes,,,,"[43696322, 43696323, 43696318]",I 81
+116226414,116379656,0,False,primary,,415.692,2,,,,,,,,,,12734788,US 11
+116226414,116226455,0,True,motorway_link,,314.014,1,,,,,,,,,,339350064,
+116226455,116220459,0,True,motorway,,7076.296,2,,,"['55 mph', '65 mph']",,,,,,,"[243726371, 43696323]",I 81
+116239582,116239505,0,True,motorway_link,,614.526,2,,,,,,,,,,12720226,
+116239582,116557636,0,False,primary,Upper Front Street,168.603,4,,,40 mph,,,,,,,121772744,US 11
+116239582,116355355,0,False,primary,Upper Front Street,589.0,"['3', '4']",,,40 mph,,,,,,,"[121772744, 121963472]",US 11
+116241091,116645425,0,False,residential,Van Etten Road,39.45,,,,,,,,,,,12767263,
+116252273,116378756,0,False,primary,Castle Creek Road,78.402,4,,,,,,,,,,12727386,US 11
+116252273,116252313,0,True,motorway_link,,461.567,1,,,,,,,,,,12721097,
+116252273,116270439,0,False,primary,Castle Creek Road,179.3,"['3', '2']",,,,,,,,,,"[121772452, 121772453]",US 11
+116252313,116222563,0,True,motorway,,7413.999,2,,,"['55 mph', '65 mph']",,,,,,,"[37354714, 243726372]",I 81
+116258806,116258834,0,False,residential,,979.98,,,,,,,,,,,12721569,
+116258806,116490428,0,False,unclassified,Perry Road,742.5,,,,,,,,,,,12752768,
+116258834,116258806,0,False,residential,,979.98,,,,,,,,,,,12721569,
+116261899,116638918,0,False,residential,Kolb Road,98.39,,,,,,,,,,,329402161,
+116261899,116289845,0,False,residential,Kolb Road,619.279,,,,,,,,,,,"[329402161, 12755419]",
+116266529,116266586,0,True,motorway_link,,400.956,,,,,,,,,,,12722176,
+116266529,116252313,0,True,motorway,,2039.335,2,,,55 mph,,,yes,,,,"[38539395, 38539396, 43696326, 43696327, 43696330, 43696331, 37354711, 37354712, 37354713, 37354714, 122088799]",I 81
+116266586,116645425,0,False,primary,Upper Front Street,589.253,"['3', '2']",,,40 mph,,,,,,,"[121772746, 121772751]",US 11
+116266586,116355355,0,False,primary,Upper Front Street,102.25,3,,,40 mph,,,,,,,121963472,US 11
+116270439,116220407,0,False,primary,Castle Creek Road,35.353,2,,,,,,,,,,139193311,US 11
+116270439,116252273,0,False,primary,Castle Creek Road,179.3,"['3', '2']",,,,,,,,,,"[121772452, 121772453]",US 11
+116282304,116645328,0,False,primary,Upper Front Street,110.164,2,,,40 mph,,,,,,,121772746,US 11
+116282304,116282326,0,False,residential,Forest Hills Boulevard,175.511,,,,,,,,,,,12722906,
+116282326,116282336,0,False,residential,Forest Hills Boulevard,52.03,,,,,,,,,,,12722906,
+116282326,116282304,0,False,residential,Forest Hills Boulevard,175.511,,,,,,,,,,,12722906,
+116282326,116408856,0,False,residential,Mitch Avenue,113.594,,,,,,,,,,,12729480,
+116282336,116282326,0,False,residential,Forest Hills Boulevard,52.03,,,,,,,,,,,12722906,
+116284937,116471174,0,False,primary,Upper Front Street,129.605,2,,,40 mph,,,,,,,121772746,US 11
+116284937,116362116,0,False,primary,Upper Front Street,49.888,2,,,40 mph,,,,,,,121772746,US 11
+116284937,116284977,0,False,residential,Johnson Road,557.81,,,,,,,,,,,12723040,
+116284977,116284937,0,False,residential,Johnson Road,557.81,,,,,,,,,,,12723040,
+116284977,116335757,0,False,residential,North Morningside Drive,68.214,,,,,,,,,,,12725221,
+116284977,116335704,0,False,residential,North Morningside Drive,103.48,,,,,,,,,,,12725221,
+116287845,116287845,0,False,residential,Fazon Court,75.757,,,,,,,,,,,12723160,
+116287845,116287845,1,False,residential,Fazon Court,75.757,,,,,,,,,,,12723160,
+116289845,116289866,0,False,tertiary,Upper Stella Ireland Rd,103.225,,,,,,,,,,,12723291,CR 89
+116289845,116373957,0,False,tertiary,West Chenango Road,1262.284,,,,,,,,,,,12727061,CR 104
+116289845,116261899,0,False,residential,Kolb Road,619.279,,,,,,,,,,,"[329402161, 12755419]",
+116289866,116289845,0,False,tertiary,Upper Stella Ireland Rd,103.225,,,,,,,,,,,12723291,CR 89
+116295690,116379626,0,False,primary,Castle Creek Road,117.222,2,,,,,,,,,,115685359,US 11
+116295690,116295733,0,False,residential,Water Street,308.523,,,,,,,,,,,12723498,
+116295690,116379656,0,False,primary,Castle Creek Road,258.77,2,,,,,,,,,,115685359,US 11
+116295733,116295690,0,False,residential,Water Street,308.523,,,,,,,,,,,12723498,
+116326534,116430042,0,False,residential,Ethel Street,59.442,,,,,,,,,,,12736169,
+116326534,116326564,0,False,residential,Nostree Street,86.955,,,,,,,,,,,12724794,
+116326534,116513127,0,False,residential,Ethel Street,49.101,,,,,,,,,,,12736169,
+116326564,116326534,0,False,residential,Nostree Street,86.955,,,,,,,,,,,12724794,
+116335646,116638563,0,False,residential,Morningside Drive,12.799,,,,,,,,,,,12755353,
+116335646,116335704,0,False,residential,North Morningside Drive,427.699,,,,,,,,,,,12725218,
+116335646,116408856,0,False,residential,South Morningside Drive,119.99,,,,,,,,,,,12760168,
+116335704,116335646,0,False,residential,North Morningside Drive,427.699,,,,,,,,,,,12725218,
+116335704,116284977,0,False,residential,North Morningside Drive,103.48,,,,,,,,,,,12725221,
+116335704,116642258,0,False,residential,Circle Drive,65.337,,,,,,,,,,,12767543,
+116335757,116471174,0,False,residential,"['North Morningside Drive', 'Wallace Road']",747.855,,,,,,,,,,,"[12733450, 12725221]",
+116335757,116284977,0,False,residential,North Morningside Drive,68.214,,,,,,,,,,,12725221,
+116335757,116632152,0,False,residential,Grandview Drive,132.004,,,,,,,,,,,12754552,
+116335803,116622093,0,False,residential,Wilson Hill Road,75.109,,,,,,,,,,,12753396,
+116335803,116335895,0,False,residential,Aitchison Road,1083.26,,,,,,,,,,,12725226,
+116335803,116622089,0,False,residential,Wilson Hill Road,122.373,,,,,,,,,,,12753396,
+116335895,116335803,0,False,residential,Aitchison Road,1083.26,,,,,,,,,,,12725226,
+116335895,116622383,0,False,residential,Dimmock Hill Road,2338.065,,,,,,,,,,,12770512,
+116355355,1306292108,0,False,residential,Howell Drive,68.522,,,,,,,,,,,12726132,
+116355355,116239582,0,False,primary,Upper Front Street,589.0,"['3', '4']",,,40 mph,,,,,,,"[121963472, 121772744]",US 11
+116355355,116266586,0,False,primary,Upper Front Street,102.25,3,,,40 mph,,,,,,,121963472,US 11
+116361911,116361913,0,False,residential,Butch Boulevard,59.756,,,,,,,,,,,12726426,
+116361911,116378849,0,False,residential,Elmwood Avenue,79.487,,,,,,,,,,,12754737,
+116361911,116431703,0,False,residential,Elmwood Avenue,125.851,,,,,,,,,,,12754737,
+116361913,116361911,0,False,residential,Butch Boulevard,59.756,,,,,,,,,,,12726426,
+116362116,116284937,0,False,primary,Upper Front Street,49.888,2,,,40 mph,,,,,,,121772746,US 11
+116362116,116645371,0,False,residential,"['Riverview Lane', 'Prescott Road']",599.127,,,,,,,,,,,"[12726435, 12764411]",
+116362116,116638591,0,False,primary,Upper Front Street,148.549,2,,,40 mph,,,,,,,121772746,US 11
+116373431,116484354,0,False,residential,Grant Road,17.882,,,,,,,,,,,12734366,
+116373431,116373450,0,False,residential,Booth Road,32.18,,,,,,,,,,,12727020,
+116373431,116406320,0,False,residential,Grant Road,108.348,,,,,,,,,,,12734366,
+116373450,116373431,0,False,residential,Booth Road,32.18,,,,,,,,,,,12727020,
+116373957,116374112,0,False,tertiary,West Chenango Road,1115.997,,,,,,,,,,,12727061,CR 104
+116373957,116289845,0,False,tertiary,West Chenango Road,1262.284,,,,,,,,,,,12727061,CR 104
+116373957,116223816,0,False,tertiary,Brooks Road,1072.686,,,,,,,,,,,12740703,CR 105
+116373957,116622383,0,False,residential,Dimmock Hill Road,2108.839,,,,,,,,,,,12770512,
+116374112,116374210,0,False,tertiary,West Chenango Road,2077.131,,,,,,,,,,,12727061,CR 104
+116374112,116373957,0,False,tertiary,West Chenango Road,1115.997,,,,,,,,,,,12727061,CR 104
+116374112,116224208,0,False,residential,Treadwell Road,1347.341,,,,,,,,,,,12732889,
+116374210,116374419,0,False,tertiary,West Chenango Road,1284.407,,,,,,,,,,,12727061,CR 104
+116374210,116374112,0,False,tertiary,West Chenango Road,2077.131,,,,,,,,,,,12727061,CR 104
+116374210,116825157,0,False,residential,Kelly Road,533.566,,,,,,,,,,,12772456,
+116374419,116374210,0,False,tertiary,West Chenango Road,1284.407,,,,,,,,,,,12727061,CR 104
+116374419,116379159,0,False,primary,Castle Creek Road,1363.295,2,,,,,,,,,,115685359,US 11
+116374419,116378955,0,False,primary,Castle Creek Road,237.374,2,,,,,,,,,,115685359,US 11
+116378724,116378746,0,False,primary,Castle Creek Road,114.879,4,,,,,,,,,,12727386,US 11
+116378724,116557636,0,False,primary,Upper Front Street,113.712,4,,,40 mph,,,yes,,,,"[121772744, 115685353, 115685349]",US 11
+116378746,116378756,0,False,primary,Castle Creek Road,123.323,4,,,,,,,,,,12727386,US 11
+116378746,116378724,0,False,primary,Castle Creek Road,114.879,4,,,,,,,,,,12727386,US 11
+116378756,116252273,0,False,primary,Castle Creek Road,78.402,4,,,,,,,,,,12727386,US 11
+116378756,116378746,0,False,primary,Castle Creek Road,123.323,4,,,,,,,,,,12727386,US 11
+116378849,116361911,0,False,residential,Elmwood Avenue,79.487,,,,,,,,,,,12754737,
+116378849,116378915,0,False,primary,Castle Creek Road,492.117,2,,,,,,,,,,115685359,US 11
+116378849,116220407,0,False,primary,Castle Creek Road,686.825,2,,,,,,yes,,,,"[139193311, 115685350, 115685359]",US 11
+116378915,116484069,0,False,residential,Ransom Road,1080.609,,,,,,,,,,,12734347,
+116378915,116378955,0,False,primary,Castle Creek Road,416.007,2,,,,,,,,,,115685359,US 11
+116378915,116378849,0,False,primary,Castle Creek Road,492.117,2,,,,,,,,,,115685359,US 11
+116378955,116437707,0,False,residential,Mill Road,401.421,,,,,,,,,,,12731063,
+116378955,116374419,0,False,primary,Castle Creek Road,237.374,2,,,,,,,,,,115685359,US 11
+116378955,116378915,0,False,primary,Castle Creek Road,416.007,2,,,,,,,,,,115685359,US 11
+116379159,116379168,0,False,primary,Castle Creek Road,34.652,2,,,,,,,,,,115685359,US 11
+116379159,116493119,0,False,residential,Penn View Drive,247.88,,,,,,,,,,,12734810,
+116379159,116374419,0,False,primary,Castle Creek Road,1363.295,2,,,,,,,,,,115685359,US 11
+116379168,116379159,0,False,primary,Castle Creek Road,34.652,2,,,,,,,,,,115685359,US 11
+116379168,116834050,0,False,residential,Sherman Drive,159.41,,,,,,,,,,,12773294,
+116379168,116208710,0,False,primary,Castle Creek Road,1722.589,2,,,,,,,,,,115685359,US 11
+116379530,116546772,0,False,tertiary,Brooks Road,2255.01,,,,,,,,,,,12740703,CR 105
+116379530,116379626,0,False,primary,Castle Creek Road,822.993,2,,,,,,,,,,115685359,US 11
+116379530,116208710,0,False,primary,Castle Creek Road,1467.965,2,,,,,,,,,,115685359,US 11
+116379626,116295690,0,False,primary,Castle Creek Road,117.222,2,,,,,,,,,,115685359,US 11
+116379626,116546772,0,False,residential,Fox Road,1994.41,,,,,,,,,,,12773244,
+116379626,116379530,0,False,primary,Castle Creek Road,822.993,2,,,,,,,,,,115685359,US 11
+116379656,116226414,0,False,primary,,415.692,2,,,,,,,,,,12734788,US 11
+116379656,116470365,0,False,tertiary,Hyde Street,676.662,,,,,,,,,,,12763357,CR 101
+116379656,116295690,0,False,primary,Castle Creek Road,258.77,2,,,,,,,,,,115685359,US 11
+116385788,116505335,0,False,residential,Dorman Road,112.624,,,,,,,,,,,12735513,
+116385788,116557678,0,False,residential,"['Russell Road', 'Fuller Road']",235.145,,,,,,,,,,,"[12742798, 12727799]",
+116385788,116505374,0,False,residential,Dorman Road,175.872,,,,,,,,,,,12735513,
+116406320,116406347,0,False,residential,Wayman Road,72.569,,,,,,,,,,,12729371,
+116406320,116484372,0,False,residential,Grant Road,79.684,,,,,,,,,,,12734366,
+116406320,116373431,0,False,residential,Grant Road,108.348,,,,,,,,,,,12734366,
+116406347,116406320,0,False,residential,Wayman Road,72.569,,,,,,,,,,,12729371,
+116408856,116282326,0,False,residential,Mitch Avenue,113.594,,,,,,,,,,,12729480,
+116408856,116464302,0,False,residential,South Morningside Drive,262.841,,,,,,,,,,,12760168,
+116408856,116335646,0,False,residential,South Morningside Drive,119.99,,,,,,,,,,,12760168,
+116430042,116326534,0,False,residential,Ethel Street,59.442,,,,,,,,,,,12736169,
+116430042,116430073,0,False,residential,West Alice Street,52.919,,,,,,,,,,,12730628,
+116430042,116839707,0,False,residential,"['Ethel Street', 'Ruth Street']",84.096,,,,,,,,,,,"[12736169, 12773869]",
+116430073,116430042,0,False,residential,West Alice Street,52.919,,,,,,,,,,,12730628,
+116431655,116649263,0,False,residential,Farrell Drive,24.458,,,,,,,,,,,12756662,
+116431655,116431686,0,False,residential,Tony Street,144.812,,,,,,,,,,,12730728,
+116431655,116431686,1,False,residential,Farrell Drive,42.366,,,,,,,,,,,12756662,
+116431655,116431703,0,False,residential,"['Elwood Avenue', 'Elmwood Avenue']",87.334,,,,,,,,,,,"[12754737, 12770182]",
+116431686,116431703,0,False,residential,Tony Street,47.58,,,,,,,,,,,12730728,
+116431686,116431655,0,False,residential,Tony Street,144.812,,,,,,,,,,,12730728,
+116431686,116431655,1,False,residential,Farrell Drive,42.366,,,,,,,,,,,12756662,
+116431703,116431686,0,False,residential,Tony Street,47.58,,,,,,,,,,,12730728,
+116431703,116431655,0,False,residential,"['Elwood Avenue', 'Elmwood Avenue']",87.334,,,,,,,,,,,"[12754737, 12770182]",
+116431703,116361911,0,False,residential,Elmwood Avenue,125.851,,,,,,,,,,,12754737,
+116437707,116378955,0,False,residential,Mill Road,401.421,,,,,,,,,,,12731063,
+116464302,116408856,0,False,residential,South Morningside Drive,262.841,,,,,,,,,,,12760168,
+116464302,116642258,0,False,residential,Circle Drive,75.849,,,,,,,,,,,12767543,
+116470365,116379656,0,False,tertiary,Hyde Street,676.662,,,,,,,,,,,12763357,CR 101
+116471174,116284937,0,False,primary,Upper Front Street,129.605,2,,,40 mph,,,,,,,121772746,US 11
+116471174,116335757,0,False,residential,"['North Morningside Drive', 'Wallace Road']",747.855,,,,,,,,,,,"[12733450, 12725221]",
+116471174,116645371,0,False,primary,Upper Front Street,148.942,2,,,40 mph,,,,,,,121772746,US 11
+116484069,116378915,0,False,residential,Ransom Road,1080.609,,,,,,,,,,,12734347,
+116484354,116373431,0,False,residential,Grant Road,17.882,,,,,,,,,,,12734366,
+116484354,116505335,0,False,residential,"['Dorman Road', 'Grant Road']",323.767,,,,,,,,,,,"[12735513, 12734366]",
+116484354,116557678,0,False,residential,Fuller Road,108.594,,,,,,,,,,,12742798,
+116484354,116557646,0,False,residential,Fuller Road,219.221,,,,,,,,,,,12742798,
+116484372,116406320,0,False,residential,Grant Road,79.684,,,,,,,,,,,12734366,
+116486373,116592930,0,False,primary,Upper Front Street,10.02,2,,,40 mph,,,,,,,121772746,US 11
+116486373,116486393,0,False,residential,Norton Drive,140.675,,,,,,,,,,,12734479,
+116486373,116645425,0,False,primary,Upper Front Street,27.981,2,,,40 mph,,,,,,,121772746,US 11
+116486393,116486373,0,False,residential,Norton Drive,140.675,,,,,,,,,,,12734479,
+116490428,116546769,0,False,unclassified,Perry Road,470.902,,,,,,,,,,,12752768,
+116490428,116258806,0,False,unclassified,Perry Road,742.5,,,,,,,,,,,12752768,
+116493119,116379159,0,False,residential,Penn View Drive,247.88,,,,,,,,,,,12734810,
+116501151,116513127,0,False,primary,Upper Front Street,115.35,2,,,40 mph,,,,,,,121772746,US 11
+116501151,116645371,0,False,primary,Upper Front Street,30.424,2,,,40 mph,,,,,,,121772746,US 11
+116501151,116501181,0,False,tertiary,,330.525,2,,,30 mph,,,,,,,12735233,CR 72
+116501181,116501545,0,False,tertiary,,2173.029,2,,,30 mph,,,,,,,12735233,CR 72
+116501181,116501151,0,False,tertiary,,330.525,2,,,30 mph,,,,,,,12735233,CR 72
+116501181,116645380,0,False,residential,Hillside Drive,554.289,,,,,,,,,,,12756762,
+116501545,116501181,0,False,tertiary,,2173.029,2,,,30 mph,,,,,,,12735233,CR 72
+116501545,116505586,0,False,residential,Willis Road,1629.068,,,,,,,,,,,12738923,
+116501545,116211747,0,False,tertiary,Lewis Road,1058.411,,,,,,,,,,,12746115,CR 72
+116505335,116385788,0,False,residential,Dorman Road,112.624,,,,,,,,,,,12735513,
+116505335,116557678,0,False,residential,Wynne Road,184.606,,,,,,,,,,,12769826,
+116505335,116484354,0,False,residential,"['Dorman Road', 'Grant Road']",323.767,,,,,,,,,,,"[12735513, 12734366]",
+116505374,116505586,0,False,residential,Dorman Road,2226.744,,,,,,,,,,,12735513,
+116505374,116385788,0,False,residential,Dorman Road,175.872,,,,,,,,,,,12735513,
+116505374,116720293,0,False,residential,Broad Acres Drive,310.959,,,,,,,,,,,12763616,
+116505586,116505374,0,False,residential,Dorman Road,2226.744,,,,,,,,,,,12735513,
+116505586,116501545,0,False,residential,Willis Road,1629.068,,,,,,,,,,,12738923,
+116505586,116622089,0,False,residential,Wilson Hill Road,557.722,,,,,,,,,,,12753396,
+116510028,116571246,0,False,residential,East Dorman Road,59.3,,,,,,,,,,,"[12745455, 12735903]",
+116513127,116645380,0,False,primary,Upper Front Street,11.856,2,,,40 mph,,,,,,,121772746,US 11
+116513127,116501151,0,False,primary,Upper Front Street,115.35,2,,,40 mph,,,,,,,121772746,US 11
+116513127,116326534,0,False,residential,Ethel Street,49.101,,,,,,,,,,,12736169,
+116523347,1306292108,0,False,residential,"['Front Street', 'Howell Drive']",277.312,,,,,,,,,,,"[12737081, 12726132]",
+116542710,116649148,0,False,residential,Farrell Drive,48.362,,,,,,,,,,,12756662,
+116542710,116542717,0,False,residential,Patrick Avenue,31.365,,,,,,,,,,,12739793,
+116542710,116635928,0,False,residential,Farrell Drive,97.772,,,,,,,,,,,12756662,
+116542717,116542747,0,False,residential,Patrick Avenue,3.794,,,,,,,,,,,12739796,
+116542717,116542736,0,False,residential,Patrick Avenue,63.743,,,,,,,,,,,12739793,
+116542717,116542710,0,False,residential,Patrick Avenue,31.365,,,,,,,,,,,12739793,
+116542736,116542717,0,False,residential,Patrick Avenue,63.743,,,,,,,,,,,12739793,
+116542736,116554657,0,False,residential,Susan Street,45.026,,,,,,,,,,,12742215,
+116542736,116554623,0,False,residential,Susan Street,39.166,,,,,,,,,,,12742215,
+116542747,116542717,0,False,residential,Patrick Avenue,3.794,,,,,,,,,,,12739796,
+116546729,116546769,0,False,tertiary,Brooks Road,488.899,,,,,,,,,,,12740703,CR 105
+116546729,116223816,0,False,tertiary,Brooks Road,1031.29,,,,,,,,,,,12740703,CR 105
+116546769,116546772,0,False,tertiary,Brooks Road,30.158,,,,,,,,,,,12740703,CR 105
+116546769,116546729,0,False,tertiary,Brooks Road,488.899,,,,,,,,,,,12740703,CR 105
+116546769,116490428,0,False,unclassified,Perry Road,470.902,,,,,,,,,,,12752768,
+116546772,116546769,0,False,tertiary,Brooks Road,30.158,,,,,,,,,,,12740703,CR 105
+116546772,116379530,0,False,tertiary,Brooks Road,2255.01,,,,,,,,,,,12740703,CR 105
+116546772,116379626,0,False,residential,Fox Road,1994.41,,,,,,,,,,,12773244,
+116554623,116542736,0,False,residential,Susan Street,39.166,,,,,,,,,,,12742215,
+116554657,116542736,0,False,residential,Susan Street,45.026,,,,,,,,,,,12742215,
+116554657,116554692,0,False,residential,Susan Street,76.261,,,,,,,,,,,12742229,
+116554657,116649148,0,False,residential,Farrell Drive,27.441,,,,,,,,,,,12756662,
+116554692,116554720,0,False,residential,Susan Street,40.889,,,,,,,,,,,12742229,
+116554692,116554657,0,False,residential,Susan Street,76.261,,,,,,,,,,,12742229,
+116554692,116635952,0,False,residential,Paula Street,85.831,,,,,,,,,,,12754987,
+116554720,116657124,0,False,residential,Chester Avenue,30.179,,,,,,,,,,,12757570,
+116554720,116554692,0,False,residential,Susan Street,40.889,,,,,,,,,,,12742229,
+116554720,116649253,0,False,residential,Chester Avenue,149.904,,,,,,,,,,,12757570,
+116557636,116557646,0,False,residential,Fuller Road,102.704,,,,,,,,,,,12742798,
+116557636,116378724,0,False,primary,Upper Front Street,113.712,4,,,40 mph,,,yes,,,,"[121772744, 115685353, 115685349]",US 11
+116557636,116239582,0,False,primary,Upper Front Street,168.603,4,,,40 mph,,,,,,,121772744,US 11
+116557646,116484354,0,False,residential,Fuller Road,219.221,,,,,,,,,,,12742798,
+116557646,116557636,0,False,residential,Fuller Road,102.704,,,,,,,,,,,12742798,
+116557646,116571246,0,False,residential,Baker Road,156.659,,,,,,,,,,,12754307,
+116557678,116505335,0,False,residential,Wynne Road,184.606,,,,,,,,,,,12769826,
+116557678,116385788,0,False,residential,"['Russell Road', 'Fuller Road']",235.145,,,,,,,,,,,"[12742798, 12727799]",
+116557678,116484354,0,False,residential,Fuller Road,108.594,,,,,,,,,,,12742798,
+116571246,116571261,0,False,residential,East Dorman Road,34.77,,,,,,,,,,,12745455,
+116571246,116510028,0,False,residential,East Dorman Road,59.3,,,,,,,,,,,"[12735903, 12745455]",
+116571246,116557646,0,False,residential,Baker Road,156.659,,,,,,,,,,,12754307,
+116571261,116571246,0,False,residential,East Dorman Road,34.77,,,,,,,,,,,12745455,
+116592849,116592930,0,False,residential,Gage Road,174.469,,,,,,,,,,,12749721,
+116592849,116592930,1,False,primary,Upper Front Street,68.175,2,,,40 mph,,,,,,,121772746,US 11
+116592849,116645380,0,False,primary,Upper Front Street,68.025,2,,,40 mph,,,,,,,121772746,US 11
+116592930,116486373,0,False,primary,Upper Front Street,10.02,2,,,40 mph,,,,,,,121772746,US 11
+116592930,116592849,0,False,residential,Gage Road,174.469,,,,,,,,,,,12749721,
+116592930,116592849,1,False,primary,Upper Front Street,68.175,2,,,40 mph,,,,,,,121772746,US 11
+116622089,116335803,0,False,residential,Wilson Hill Road,122.373,,,,,,,,,,,12753396,
+116622089,116505586,0,False,residential,Wilson Hill Road,557.722,,,,,,,,,,,12753396,
+116622089,116739070,0,False,residential,Sky View Lane,484.198,,,,,,,,,,,12765446,
+116622093,116335803,0,False,residential,Wilson Hill Road,75.109,,,,,,,,,,,12753396,
+116622093,116622383,0,False,residential,Wilson Hill Road,2669.24,,,,,,,,,,,12753396,
+116622093,116841823,0,False,residential,Stacy Drive,993.684,,,,,,,,,,,12774069,
+116622383,116622093,0,False,residential,Wilson Hill Road,2669.24,,,,,,,,,,,12753396,
+116622383,116373957,0,False,residential,Dimmock Hill Road,2108.839,,,,,,,,,,,12770512,
+116622383,116335895,0,False,residential,Dimmock Hill Road,2338.065,,,,,,,,,,,12770512,
+116632152,116335757,0,False,residential,Grandview Drive,132.004,,,,,,,,,,,12754552,
+116635928,116635952,0,False,residential,Paula Street,64.569,,,,,,,,,,,12754987,
+116635928,116649253,0,False,residential,Farrell Drive,47.36,,,,,,,,,,,12756662,
+116635928,116542710,0,False,residential,Farrell Drive,97.772,,,,,,,,,,,12756662,
+116635952,116554692,0,False,residential,Paula Street,85.831,,,,,,,,,,,12754987,
+116635952,116635928,0,False,residential,Paula Street,64.569,,,,,,,,,,,12754987,
+116635952,116649148,0,False,residential,Bob's Boulevard,75.451,,,,,,,,,,,12774138,
+116638563,116335646,0,False,residential,Morningside Drive,12.799,,,,,,,,,,,12755353,
+116638563,116645328,0,False,residential,South Morningside Drive,67.789,,,,,,,,,,,12760169,
+116638563,116638591,0,False,residential,Morningside Drive,82.938,,,,,,,,,,,12755353,
+116638591,116645328,0,False,primary,Upper Front Street,75.464,2,,,40 mph,,,,,,,121772746,US 11
+116638591,116638563,0,False,residential,Morningside Drive,82.938,,,,,,,,,,,12755353,
+116638591,116362116,0,False,primary,Upper Front Street,148.549,2,,,40 mph,,,,,,,121772746,US 11
+116638918,116261899,0,False,residential,Kolb Road,98.39,,,,,,,,,,,329402161,
+116642258,116642276,0,False,residential,Heights Court,92.278,,,,,,,,,,,12755831,
+116642258,116335704,0,False,residential,Circle Drive,65.337,,,,,,,,,,,12767543,
+116642258,116464302,0,False,residential,Circle Drive,75.849,,,,,,,,,,,12767543,
+116642276,116642258,0,False,residential,Heights Court,92.278,,,,,,,,,,,12755831,
+116642276,116642276,0,False,residential,Heights Court,114.232,,,,,,,,,,,12755846,
+116642276,116642276,1,False,residential,Heights Court,114.232,,,,,,,,,,,12755846,
+116645328,116638563,0,False,residential,South Morningside Drive,67.789,,,,,,,,,,,12760169,
+116645328,116638591,0,False,primary,Upper Front Street,75.464,2,,,40 mph,,,,,,,121772746,US 11
+116645328,116282304,0,False,primary,Upper Front Street,110.164,2,,,40 mph,,,,,,,121772746,US 11
+116645371,116501151,0,False,primary,Upper Front Street,30.424,2,,,40 mph,,,,,,,121772746,US 11
+116645371,116362116,0,False,residential,"['Riverview Lane', 'Prescott Road']",599.127,,,,,,,,,,,"[12764411, 12726435]",
+116645371,116471174,0,False,primary,Upper Front Street,148.942,2,,,40 mph,,,,,,,121772746,US 11
+116645380,116513127,0,False,primary,Upper Front Street,11.856,2,,,40 mph,,,,,,,121772746,US 11
+116645380,116501181,0,False,residential,Hillside Drive,554.289,,,,,,,,,,,12756762,
+116645380,116592849,0,False,primary,Upper Front Street,68.025,2,,,40 mph,,,,,,,121772746,US 11
+116645425,116241091,0,False,residential,Van Etten Road,39.45,,,,,,,,,,,12767263,
+116645425,116266586,0,False,primary,Upper Front Street,589.253,"['3', '2']",,,40 mph,,,,,,,"[121772746, 121772751]",US 11
+116645425,116486373,0,False,primary,Upper Front Street,27.981,2,,,40 mph,,,,,,,121772746,US 11
+116649148,116542710,0,False,residential,Farrell Drive,48.362,,,,,,,,,,,12756662,
+116649148,116554657,0,False,residential,Farrell Drive,27.441,,,,,,,,,,,12756662,
+116649148,116635952,0,False,residential,Bob's Boulevard,75.451,,,,,,,,,,,12774138,
+116649253,116649263,0,False,residential,Farrell Drive,18.979,,,,,,,,,,,12756662,
+116649253,116635928,0,False,residential,Farrell Drive,47.36,,,,,,,,,,,12756662,
+116649253,116554720,0,False,residential,Chester Avenue,149.904,,,,,,,,,,,12757570,
+116649263,116431655,0,False,residential,Farrell Drive,24.458,,,,,,,,,,,12756662,
+116649263,116649253,0,False,residential,Farrell Drive,18.979,,,,,,,,,,,12756662,
+116649263,116765143,0,False,residential,Circle Drive,41.622,,,,,,,,,,,12767566,
+116657124,116554720,0,False,residential,Chester Avenue,30.179,,,,,,,,,,,12757570,
+116720293,116505374,0,False,residential,Broad Acres Drive,310.959,,,,,,,,,,,12763616,
+116739070,116622089,0,False,residential,Sky View Lane,484.198,,,,,,,,,,,12765446,
+116765143,116649263,0,False,residential,Circle Drive,41.622,,,,,,,,,,,12767566,
+116825157,116374210,0,False,residential,Kelly Road,533.566,,,,,,,,,,,12772456,
+116834050,116379168,0,False,residential,Sherman Drive,159.41,,,,,,,,,,,12773294,
+116839707,116430042,0,False,residential,"['Ethel Street', 'Ruth Street']",84.096,,,,,,,,,,,"[12736169, 12773869]",
+116841823,116622093,0,False,residential,Stacy Drive,993.684,,,,,,,,,,,12774069,
+1306292082,1306292108,0,False,residential,,115.823,,,,,,,,,,,115685368,
+1306292108,116523347,0,False,residential,"['Front Street', 'Howell Drive']",277.312,,,,,,,,,,,"[12737081, 12726132]",
+1306292108,116355355,0,False,residential,Howell Drive,68.522,,,,,,,,,,,12726132,
+1306292108,1306292082,0,False,residential,,115.823,,,,,,,,,,,115685368,

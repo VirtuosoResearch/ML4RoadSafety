@@ -1,0 +1,483 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+213570516,213747307,0,True,residential,Church Street,81.117,,,,,,,,,,,20212267,
+213570516,213570519,0,False,residential,Academy Street,64.138,,,,,,,,,,,20194669,
+213570519,213570520,0,False,residential,Academy Street,89.123,,,,,,,,,,,20194669,
+213570519,213570516,0,False,residential,Academy Street,64.138,,,,,,,,,,,20194669,
+213570519,213787146,0,False,secondary,North Chestnut Street,128.283,2,,,,,,,,,,20214942,NY 32
+213570519,213734846,0,False,secondary,North Chestnut Street,110.796,"['2', '3']",,,,,,,,,,"[439633208, 20214942]",NY 32
+213570520,213570519,0,False,residential,Academy Street,89.123,,,,,,,,,,,20194669,
+213575452,213575477,0,False,residential,,295.045,,,,,,,,,,,20195170,
+213575452,213842475,0,False,tertiary,Shivertown Road,784.086,,,,,,,,,,,20232525,
+213575452,213700050,0,False,tertiary,Shivertown Road,111.726,,,,,,,,,,,20232525,
+213575477,213575452,0,False,residential,,295.045,,,,,,,,,,,20195170,
+213580593,213976451,0,False,secondary,State Highway 32,237.307,,,,,,,,,,,20230157,NY 32
+213586537,213586540,0,False,residential,,76.648,,,,,,,,,,,20196320,
+213586537,213632858,0,False,residential,Rocky Hill Road,76.875,,,,,,,,,,,20222407,
+213586537,213889326,0,False,residential,Rocky Hill Road,231.056,,,,,,,,,,,20222407,
+213586540,213586537,0,False,residential,,76.648,,,,,,,,,,,20196320,
+213593698,213593705,0,False,residential,,129.051,,,,,,,,,,,20197061,
+213593698,213593736,0,False,residential,Huguenot Street,37.647,,,,,,,,,,,20220435,
+213593698,213660816,0,False,residential,Huguenot Street,476.638,,,,,,,,,,,20220435,
+213593705,213593711,0,False,residential,,115.86,,,,,,,,,,,20197061,
+213593705,213593711,1,False,residential,,201.061,,,,,,,,,,,20197064,
+213593705,213593698,0,False,residential,,129.051,,,,,,,,,,,20197061,
+213593711,213593736,0,False,residential,,527.799,,,,,,,,,,,20197061,
+213593711,213593705,0,False,residential,,115.86,,,,,,,,,,,20197061,
+213593711,213593705,1,False,residential,,201.061,,,,,,,,,,,20197064,
+213593736,213593711,0,False,residential,,527.799,,,,,,,,,,,20197061,
+213593736,213732139,0,False,residential,Huguenot Street,169.336,,,,,,,,,,,20220435,
+213593736,213593698,0,False,residential,Huguenot Street,37.647,,,,,,,,,,,20220435,
+213626768,214007959,0,False,secondary,State Highway 32,264.521,,,,,,,,,,,20230157,NY 32
+213626768,214007953,0,False,secondary,State Highway 32,62.941,,,,,,,,,,,20230157,NY 32
+213626768,213626772,0,False,residential,,182.42,,,,,,,,,,,20200509,
+213626772,213626768,0,False,residential,,182.42,,,,,,,,,,,20200509,
+213626772,213626772,0,False,residential,,61.37,,,,,,,,,,,20200511,
+213626772,213626772,1,False,residential,,61.37,,,,,,,,,,,20200511,
+213631287,213769852,0,False,tertiary,Horsenden Road,998.399,,,,,,,,,,,239262310,CR 17
+213631287,213631353,0,False,tertiary,Horsenden Road,119.415,,,,,,,,,,,239262310,CR 17
+213631353,213769736,0,False,tertiary,Horsenden Road,18.941,,,,,,,,,,,239262310,CR 17
+213631353,213631287,0,False,tertiary,Horsenden Road,119.415,,,,,,,,,,,239262310,CR 17
+213632858,213632859,0,False,residential,,78.981,,,,,,,,,,,20201142,
+213632858,213889363,0,False,residential,Rocky Hill Road,279.101,,,,,,,,,,,20222407,
+213632858,213586537,0,False,residential,Rocky Hill Road,76.875,,,,,,,,,,,20222407,
+213632859,213632858,0,False,residential,,78.981,,,,,,,,,,,20201142,
+213650101,213650104,0,False,residential,,57.374,,,,,,,,,,,20202884,
+213650101,213650101,0,False,residential,"['O Rourke Drive', 'Orourke Drive', 'Nepale Drive']",1380.476,,,,,,,,,,,"[20238707, 20214236, 20216975]",
+213650101,213650101,1,False,residential,"['Nepale Drive', 'O Rourke Drive', 'Orourke Drive']",1380.476,,,,,,,,,,,"[20238707, 20214236, 20216975]",
+213650101,213776816,0,False,residential,Nepale Drive,393.495,,,,,,,,,,,20214236,
+213650104,213650101,0,False,residential,,57.374,,,,,,,,,,,20202884,
+213650119,213650137,0,False,residential,,101.077,,,,,,,,,,,20202890,
+213650119,213650119,0,False,residential,,61.415,,,,,,,,,,,20202919,
+213650119,213650119,1,False,residential,,61.415,,,,,,,,,,,20202919,
+213650137,213650259,0,False,tertiary,Shivertown Road,53.804,,,,,,,,,,,20232525,
+213650137,213650156,0,False,residential,,53.49,,,,,,,,,,,20202890,
+213650137,213650119,0,False,residential,,101.077,,,,,,,,,,,20202890,
+213650137,213833619,0,False,tertiary,Shivertown Road,512.969,,,,,,,,,,,20232525,
+213650156,213650259,0,False,residential,,81.07,,,,,,,,,,,20202911,
+213650156,213650192,0,False,residential,,204.115,,,,,,,,,,,20202890,
+213650156,213650137,0,False,residential,,53.49,,,,,,,,,,,20202890,
+213650192,213650156,0,False,residential,,204.115,,,,,,,,,,,20202890,
+213650259,213650156,0,False,residential,,81.07,,,,,,,,,,,20202911,
+213650259,213700050,0,False,tertiary,Shivertown Road,119.275,,,,,,,,,,,20232525,
+213650259,213650137,0,False,tertiary,Shivertown Road,53.804,,,,,,,,,,,20232525,
+213660816,213660838,0,False,residential,Huguenot Street,71.481,,,,,,,,,,,20220435,
+213660816,213660831,0,False,residential,,171.474,,,,,,,,,,,20204031,
+213660816,213593698,0,False,residential,Huguenot Street,476.638,,,,,,,,,,,20220435,
+213660831,213660816,0,False,residential,,171.474,,,,,,,,,,,20204031,
+213660831,213660852,0,False,residential,,43.64,,,,,,,,,,,20204034,
+213660831,213660838,0,False,residential,,99.913,,,,,,,,,,,20204034,
+213660838,213660816,0,False,residential,Huguenot Street,71.481,,,,,,,,,,,20220435,
+213660838,213660831,0,False,residential,,99.913,,,,,,,,,,,20204034,
+213660838,213686917,0,False,residential,Huguenot Street,54.245,,,,,,,,,,,20220435,
+213660852,213660862,0,False,residential,,157.401,,,,,,,,,,,20204034,
+213660852,213660831,0,False,residential,,43.64,,,,,,,,,,,20204034,
+213660852,213686917,0,False,residential,,170.746,,,,,,,,,,,20207086,
+213660862,213660852,0,False,residential,,157.401,,,,,,,,,,,20204034,
+213668706,213787194,0,False,secondary,North Chestnut Street,98.179,2,,,,,,,,,,448593250,NY 32
+213668706,213668709,0,False,residential,,44.573,,,,,,,,,,,20204910,
+213668706,214007948,0,False,secondary,"['State Highway 32', 'North Chestnut Street']",229.537,,,,,,,,,,,"[391278371, 20230157]",NY 32
+213668709,213668706,0,False,residential,,44.573,,,,,,,,,,,20204910,
+213668709,213732122,0,False,tertiary,Old Kingston Road,53.622,,,,,,,,,,,295186140,
+213668709,213732139,0,False,tertiary,Old Kingston Road,197.808,,,,,,,,,,,"[448593362, 448593363, 448593364]",
+213686917,213660852,0,False,residential,,170.746,,,,,,,,,,,20207086,
+213686917,213660838,0,False,residential,Huguenot Street,54.245,,,,,,,,,,,20220435,
+213686917,213862414,0,False,residential,Huguenot Street,181.886,,,,,,,,,,,20220435,
+213695529,213695529,0,False,residential,Sunset Ridge,313.266,,,,,,,,,,,"[20238180, 20208151]",
+213695529,213695529,1,False,residential,Sunset Ridge,313.266,,,,,,,,,,,"[20238180, 20208151]",
+213695529,214115406,0,False,residential,Sunset Ridge,23.521,,,,,,,,,,,20238180,
+213695805,213833567,0,False,tertiary,North Putt Corners Road,46.219,,,,,,,,,,,20218199,CR 17
+213695805,213728471,0,False,tertiary,North Putt Corners Road,412.32,,,,,,,,,,,"[139811527, 20218199]",CR 17
+213700050,213650259,0,False,tertiary,Shivertown Road,119.275,,,,,,,,,,,20232525,
+213700050,213700061,0,False,residential,,304.858,,,,,,,,,,,20208666,
+213700050,213575452,0,False,tertiary,Shivertown Road,111.726,,,,,,,,,,,20232525,
+213700061,213700050,0,False,residential,,304.858,,,,,,,,,,,20208666,
+213703811,213703827,0,False,residential,Bonticou View Drive,289.744,,,,,,,,,,,20209167,
+213703811,213787194,0,False,secondary,North Chestnut Street,232.82,2,,,,,,,,,,448593250,NY 32
+213703811,213787175,0,False,secondary,North Chestnut Street,182.768,2,,,,,,,,,,448593250,NY 32
+213703827,213703836,0,False,residential,Bonticou View Drive,114.062,,,,,,,,,,,20209167,
+213703827,213703811,0,False,residential,Bonticou View Drive,289.744,,,,,,,,,,,20209167,
+213703827,213915722,0,False,residential,Cooper Street,325.717,,,,,,,,,,,20224408,
+213703836,213915722,0,False,residential,Pine Street,59.201,,,,,,,,,,,20228946,
+213703836,213915722,1,False,residential,"['Cooper Street', 'Bonticou View Drive']",347.414,,,,,,,,,,,"[20224408, 20209167]",
+213703836,213703827,0,False,residential,Bonticou View Drive,114.062,,,,,,,,,,,20209167,
+213711826,213711844,0,False,residential,Mountain View Place North,240.686,,,,,,,,,,,20209739,
+213711826,213712764,0,False,residential,Mountain View Place South,112.085,,,,,,,,,,,20209817,
+213711826,213889402,0,False,residential,Rocky Hill Road,132.284,,,,,,,,,,,20222407,
+213711826,213739590,0,False,residential,Rocky Hill Road,141.726,,,,,,,,,,,20222407,
+213711844,213711826,0,False,residential,Mountain View Place North,240.686,,,,,,,,,,,20209739,
+213712764,213711826,0,False,residential,Mountain View Place South,112.085,,,,,,,,,,,20209817,
+213724203,213979206,0,False,secondary,Main Street,9.855,,,,30 mph,,,,,,,427719961,NY 32;NY 299
+213724203,213935873,0,False,secondary,Main Street,96.938,3,,,30 mph,,,,,,,427524964,NY 299
+213728471,213728476,0,False,tertiary,Henry du Bois Drive,308.207,,,,,,,,,,,20210971,
+213728471,213827935,0,False,tertiary,North Putt Corners Road,807.733,,,,,,,,,,,139811527,CR 17
+213728471,213695805,0,False,tertiary,North Putt Corners Road,412.32,,,,,,,,,,,"[20218199, 139811527]",CR 17
+213728476,213728479,0,False,tertiary,Henry du Bois Drive,94.488,,,,,,,,,,,20210971,
+213728476,213728471,0,False,tertiary,Henry du Bois Drive,308.207,,,,,,,,,,,20210971,
+213728476,213857842,0,False,residential,Meadowbrook Circle,233.277,,,,,,,,,,,20220093,
+213728479,213857815,0,False,residential,Meadowbrook Circle,33.384,,,,,,,,,,,20220093,
+213728479,213728482,0,False,tertiary,Henry du Bois Drive,174.735,,,,,,,,,,,20210971,
+213728479,213728476,0,False,tertiary,Henry du Bois Drive,94.488,,,,,,,,,,,20210971,
+213728482,213728486,0,False,tertiary,Henry du Bois Drive,55.226,,,,,,,,,,,20210971,
+213728482,213728479,0,False,tertiary,Henry du Bois Drive,174.735,,,,,,,,,,,20210971,
+213728482,213982764,0,False,residential,Pine Crest Road,409.089,,,,,,,,,,,20228481,
+213728486,213728490,0,False,tertiary,Henry du Bois Drive,65.527,,,,,,,,,,,20210971,
+213728486,213728482,0,False,tertiary,Henry du Bois Drive,55.226,,,,,,,,,,,20210971,
+213728486,213813661,0,False,residential,Old Mill Road,582.426,,,,,,,,,,,"[20216754, 20216751]",
+213728490,213728492,0,False,tertiary,Henry du Bois Drive,43.049,,,,,,,,,,,20210971,
+213728490,213728486,0,False,tertiary,Henry du Bois Drive,65.527,,,,,,,,,,,20210971,
+213728490,213982764,0,False,residential,Duzine Road,403.876,,,,,,,,,,,20234023,
+213728492,213728490,0,False,tertiary,Henry du Bois Drive,43.049,,,,,,,,,,,20210971,
+213728492,213728504,0,False,tertiary,Henry du Bois Drive,124.99,,,,,,,,,,,20210971,
+213728492,214038280,0,False,residential,Mill Brook Road,102.877,,,,,,,,,,,20237131,
+213728504,213728517,0,False,tertiary,Henry du Bois Drive,96.803,,,,,,,,,,,20210971,
+213728504,213728492,0,False,tertiary,Henry du Bois Drive,124.99,,,,,,,,,,,20210971,
+213728504,213797032,0,False,residential,Colonial Drive,228.033,,,,,,,,,,,20215528,
+213728517,213728520,0,False,tertiary,Henry du Bois Drive,107.369,,,,,,,,,,,20210971,
+213728517,213728504,0,False,tertiary,Henry du Bois Drive,96.803,,,,,,,,,,,20210971,
+213728517,213841300,0,False,residential,Harrington Street,220.994,,,,,,,,,,,20225493,
+213728517,213819513,0,False,residential,Harrington Street,233.266,,,,,,,,,,,20225493,
+213728520,213728523,0,False,tertiary,Henry du Bois Drive,89.373,,,,,,,,,,,20210971,
+213728520,213728517,0,False,tertiary,Henry du Bois Drive,107.369,,,,,,,,,,,20210971,
+213728520,213841295,0,False,residential,North Manheim Boulevard,216.623,2,,,,,,,,,,20241570,
+213728520,213819517,0,False,residential,North Manheim Boulevard,239.388,2,,,,,,,,,,20241570,
+213728523,213728520,0,False,tertiary,Henry du Bois Drive,89.373,,,,,,,,,,,20210971,
+213728523,213728529,0,False,tertiary,Henry du Bois Drive,78.222,,,,,,,,,,,20210971,
+213728523,213841292,0,False,residential,Millrock Road,214.424,,,,,,,,,,,20231164,
+213728523,213819521,0,False,residential,Millrock Road,242.515,,,,,,,,,,,20231164,
+213728529,3318998927,0,False,tertiary,Henry du Bois Drive,144.934,,,,,,,,,,,20210971,
+213728529,213728523,0,False,tertiary,Henry du Bois Drive,78.222,,,,,,,,,,,20210971,
+213728529,213743718,0,False,residential,North Oakwood Terrace,104.447,,,,,,,,,,,20211985,
+213728529,213743704,0,False,residential,North Oakwood Terrace,240.772,,,,,,,,,,,20211985,
+213728535,214117309,0,False,residential,Prospect Street,123.077,,,,,,,,,,,20240281,
+213728535,213728552,0,False,tertiary,Henry du Bois Drive,317.225,,,,,,,,,,,20210971,
+213728535,3318998927,0,False,tertiary,Henry du Bois Drive,74.796,,,,,,,,,,,20210971,
+213728535,214069048,0,False,residential,Prospect Street,272.442,,,,,,,,,,,20240281,
+213728552,213728556,0,False,tertiary,Henry du Bois Drive,109.228,,,,,,,,,,,20210971,
+213728552,213728535,0,False,tertiary,Henry du Bois Drive,317.225,,,,,,,,,,,20210971,
+213728552,213747334,0,False,residential,Church Street,122.233,,,,,,,,,,,214198154,
+213728552,213747321,0,False,residential,Church Street,100.471,,,,,,,,,,,214198154,
+213728556,213787166,0,False,secondary,North Chestnut Street,91.573,2,,,,,,,,,,448593250,NY 32
+213728556,213728552,0,False,tertiary,Henry du Bois Drive,109.228,,,,,,,,,,,20210971,
+213728556,213787159,0,False,secondary,North Chestnut Street,117.955,2,,,,,,,,,,448593250,NY 32
+213732122,213668709,0,False,tertiary,Old Kingston Road,53.622,,,,,,,,,,,295186140,
+213732139,213593736,0,False,residential,Huguenot Street,169.336,,,,,,,,,,,20220435,
+213732139,213732145,0,False,tertiary,Old Kingston Road,42.879,,,,,,,,,,,448593364,
+213732139,213668709,0,False,tertiary,Old Kingston Road,197.808,,,,,,,,,,,"[448593362, 448593363, 448593364]",
+213732145,214127637,0,False,residential,Ann Street,25.235,,,,,,,,,,,20239041,
+213732145,213732139,0,False,tertiary,Old Kingston Road,42.879,,,,,,,,,,,448593364,
+213732308,213769852,0,False,tertiary,Horsenden Road,757.071,,,,,,,,,,,239262310,CR 17
+213734846,213979160,0,False,secondary,Main Street,133.386,,,,30 mph,,,,,,,20228267,NY 299
+213734846,213747301,0,False,secondary,Main Street,66.332,,,,30 mph,,,,,,,44613090,NY 32;NY 299
+213734846,213570519,0,False,secondary,North Chestnut Street,110.796,"['2', '3']",,,,,,,,,,"[439633208, 20214942]",NY 32
+213739577,213739584,0,False,residential,Pine Tree Drive,65.496,,,,,,,,,,,20211682,
+213739584,213739590,0,False,residential,Pine Tree Drive,182.636,,,,,,,,,,,20211682,
+213739584,213739577,0,False,residential,Pine Tree Drive,65.496,,,,,,,,,,,20211682,
+213739584,213763019,0,False,residential,Stonehedge Avenue,319.615,,,,,,,,,,,20228104,
+213739590,213739584,0,False,residential,Pine Tree Drive,182.636,,,,,,,,,,,20211682,
+213739590,213711826,0,False,residential,Rocky Hill Road,141.726,,,,,,,,,,,20222407,
+213739590,213889380,0,False,residential,Rocky Hill Road,262.043,,,,,,,,,,,20222407,
+213743121,213743133,0,False,residential,Orchard Heights Road,77.332,,,,,,,,,,,20211929,
+213743133,213743121,0,False,residential,Orchard Heights Road,77.332,,,,,,,,,,,20211929,
+213743133,213743141,0,False,residential,Church Street,88.402,,,,,,,,,,,214198154,
+213743133,213747307,0,False,residential,Church Street,46.451,,,,,,,,,,,214198154,
+213743141,213743150,0,False,residential,Orchard Heights Road,175.467,,,,,,,,,,,20211930,
+213743141,213747321,0,False,residential,Church Street,207.982,,,,,,,,,,,214198154,
+213743141,213743133,0,False,residential,Church Street,88.402,,,,,,,,,,,214198154,
+213743150,213743141,0,False,residential,Orchard Heights Road,175.467,,,,,,,,,,,20211930,
+213743701,213743704,0,False,residential,North Oakwood Terrace,208.761,,,,,,,,,,,20211985,
+213743701,213979201,0,False,secondary,Main Street,121.476,2,,,30 mph,,,,,,,97454064,NY 32;NY 299
+213743701,213868581,0,False,secondary,Main Street,106.995,2,,,30 mph,,,,,,,97454064,NY 32;NY 299
+213743704,213743701,0,False,residential,North Oakwood Terrace,208.761,,,,,,,,,,,20211985,
+213743704,213819523,0,False,residential,John Street,48.342,,,,,,,,,,,20217225,
+213743704,213819521,0,False,residential,John Street,100.593,,,,,,,,,,,20217225,
+213743704,213728529,0,False,residential,North Oakwood Terrace,240.772,,,,,,,,,,,20211985,
+213743718,213728529,0,False,residential,North Oakwood Terrace,104.447,,,,,,,,,,,20211985,
+213746658,214090129,0,False,residential,"['Ann Street', 'Juniper Street']",427.344,,,,,,,,,,,"[20239052, 20212207]",
+213746658,214090118,0,False,residential,Sunset Ridge,120.89,,,,,,,,,,,20238180,
+213746658,214115406,0,False,residential,Sunset Ridge,193.49,,,,,,,,,,,20238180,
+213747301,213570516,0,True,residential,Church Street,67.204,,,,,,,,,,,20212267,
+213747301,213979174,0,False,secondary,Main Street,97.171,,,,30 mph,,,,,,,44613090,NY 32;NY 299
+213747301,213734846,0,False,secondary,Main Street,66.332,,,,30 mph,,,,,,,44613090,NY 32;NY 299
+213747307,213787146,0,True,residential,North Front Street,90.799,1,,,,,,,,,,20239381,
+213747307,213743133,0,False,residential,Church Street,46.451,,,,,,,,,,,214198154,
+213747321,213787159,0,False,residential,Broadhead Avenue,107.768,,,,,,,,,,,20219526,
+213747321,213850058,0,False,residential,Broadhead Avenue,147.659,,,,,,,,,,,20219526,
+213747321,213728552,0,False,residential,Church Street,100.471,,,,,,,,,,,214198154,
+213747321,213743141,0,False,residential,Church Street,207.982,,,,,,,,,,,214198154,
+213747334,213787166,0,False,residential,Mulberry Street,119.999,,,,,,,,,,,20224630,
+213747334,214069048,0,False,residential,"['Prospect Street', 'Mulberry Street']",589.486,,,,,,,,,,,"[20240281, 20224630]",
+213747334,213747349,0,False,residential,Church Street,122.609,,,,,,,,,,,214198154,
+213747334,213728552,0,False,residential,Church Street,122.233,,,,,,,,,,,214198154,
+213747349,213747334,0,False,residential,Church Street,122.609,,,,,,,,,,,214198154,
+213762986,214048927,0,False,residential,Van Kleeck Avenue,81.677,,,,,,,,,,,20233235,
+213762986,213763019,0,False,residential,Bud Street,277.153,,,,,,,,,,,20213355,
+213762986,213889363,0,False,residential,Van Kleeck Avenue,210.573,,,,,,,,,,,20233235,
+213762986,213889369,0,False,residential,Van Kleeck Avenue,248.556,,,,,,,,,,,20233236,
+213763019,213762986,0,False,residential,Bud Street,277.153,,,,,,,,,,,20213355,
+213763019,213739584,0,False,residential,Stonehedge Avenue,319.615,,,,,,,,,,,20228104,
+213763019,213889380,0,False,residential,Stonehedge Avenue,123.548,,,,,,,,,,,20228104,
+213769736,213631353,0,False,tertiary,Horsenden Road,18.941,,,,,,,,,,,239262310,CR 17
+213769736,213776413,0,False,tertiary,North Putt Corners Road,150.558,,,,,,,,,,,139811527,CR 17
+213769852,214002450,0,False,residential,Mares Trail,208.992,,,,,,,,,,,20229802,
+213769852,213732308,0,False,tertiary,Horsenden Road,757.071,,,,,,,,,,,239262310,CR 17
+213769852,213631287,0,False,tertiary,Horsenden Road,998.399,,,,,,,,,,,239262310,CR 17
+213776413,213776441,0,False,residential,Fieldstone Drive,251.21,,,,,,,,,,,20214216,
+213776413,213769736,0,False,tertiary,North Putt Corners Road,150.558,,,,,,,,,,,139811527,CR 17
+213776413,213824852,0,False,tertiary,North Putt Corners Road,608.537,,,,,,,,,,,139811527,CR 17
+213776441,213776413,0,False,residential,Fieldstone Drive,251.21,,,,,,,,,,,20214216,
+213776816,213824852,0,False,tertiary,North Putt Corners Road,106.241,,,,,,,,,,,139811527,CR 17
+213776816,213650101,0,False,residential,Nepale Drive,393.495,,,,,,,,,,,20214236,
+213776816,213833623,0,False,tertiary,North Putt Corners Road,342.508,,,,,,,,,,,139811527,CR 17
+213787146,213570519,0,False,secondary,North Chestnut Street,128.283,2,,,,,,,,,,20214942,NY 32
+213787146,2421454086,0,False,residential,North Front Street,118.332,,,,,,,,,,,213917623,
+213787146,213787159,0,False,secondary,North Chestnut Street,273.348,2,,,,,,,,,,448593250,NY 32
+213787159,213850103,0,False,residential,Broadhead Avenue,237.541,,,,,,,,,,,20219526,
+213787159,213747321,0,False,residential,Broadhead Avenue,107.768,,,,,,,,,,,20219526,
+213787159,213728556,0,False,secondary,North Chestnut Street,117.955,2,,,,,,,,,,448593250,NY 32
+213787159,213787146,0,False,secondary,North Chestnut Street,273.348,2,,,,,,,,,,448593250,NY 32
+213787166,213728556,0,False,secondary,North Chestnut Street,91.573,2,,,,,,,,,,448593250,NY 32
+213787166,213862393,0,False,residential,Mulberry Street,169.987,,,,,,,,,,,20224630,
+213787166,213747334,0,False,residential,Mulberry Street,119.999,,,,,,,,,,,20224630,
+213787166,213787175,0,False,secondary,North Chestnut Street,392.124,2,,,,,,,,,,448593250,NY 32
+213787175,213821524,0,False,residential,Veterans Drive,218.858,,,,,,,,,,,20217379,
+213787175,213703811,0,False,secondary,North Chestnut Street,182.768,2,,,,,,,,,,448593250,NY 32
+213787175,213787166,0,False,secondary,North Chestnut Street,392.124,2,,,,,,,,,,448593250,NY 32
+213787194,213668706,0,False,secondary,North Chestnut Street,98.179,2,,,,,,,,,,448593250,NY 32
+213787194,214090118,0,False,residential,Sunset Ridge,162.968,,,,,,,,,,,20238180,
+213787194,213703811,0,False,secondary,North Chestnut Street,232.82,2,,,,,,,,,,448593250,NY 32
+213797032,213797049,0,False,residential,Colonial Drive,107.811,,,,,,,,,,,20215528,
+213797032,213728504,0,False,residential,Colonial Drive,228.033,,,,,,,,,,,20215528,
+213797032,213819513,0,False,residential,John Street,114.084,,,,,,,,,,,20217225,
+213797049,213797032,0,False,residential,Colonial Drive,107.811,,,,,,,,,,,20215528,
+213797049,213797049,0,False,residential,Colonial Drive,38.222,,,,,,,,,,,20215537,
+213797049,213797049,1,False,residential,Colonial Drive,38.222,,,,,,,,,,,20215537,
+213797380,2406880839,0,False,tertiary,North Putt Corners Road,45.616,,,,,,,,,,,139811527,CR 17
+213797380,213797407,0,False,residential,Ridge View Drive,287.683,,,,,,,,,,,20215557,
+213797380,213833619,0,False,tertiary,North Putt Corners Road,280.107,,,,,,,,,,,139811527,CR 17
+213797407,213797380,0,False,residential,Ridge View Drive,287.683,,,,,,,,,,,20215557,
+213812675,213979225,0,False,secondary,Main Street,277.329,"['4', '2']",,,35,,,,,,,"[427719962, 44613091]",NY 299
+213812675,213833567,0,False,secondary,Main Street,287.974,"['4', '3']",,,"['35 mph', '35']",,,,,,,"[568050451, 369311900, 427719965, 427719966]",NY 299
+213813661,213728486,0,False,residential,Old Mill Road,582.426,,,,,,,,,,,"[20216754, 20216751]",
+213819305,213819532,0,False,residential,Prospect Street,5.08,,,,,,,,,,,20240281,
+213819305,213819311,0,False,residential,John Street,25.048,,,,,,,,,,,20217207,
+213819305,213979196,0,False,residential,Prospect Street,212.722,,,,,,,,,,,20240281,
+213819311,213819305,0,False,residential,John Street,25.048,,,,,,,,,,,20217207,
+213819513,213819517,0,False,residential,John Street,108.332,,,,,,,,,,,20217225,
+213819513,213797032,0,False,residential,John Street,114.084,,,,,,,,,,,20217225,
+213819513,213728517,0,False,residential,Harrington Street,233.266,,,,,,,,,,,20225493,
+213819513,213935873,0,False,residential,Harrington Street,224.881,,,,,,,,,,,20225493,
+213819517,213819521,0,False,residential,John Street,89.614,,,,,,,,,,,20217225,
+213819517,213819513,0,False,residential,John Street,108.332,,,,,,,,,,,20217225,
+213819517,213728520,0,False,residential,North Manheim Boulevard,239.388,2,,,,,,,,,,20241570,
+213819517,213979206,0,False,residential,North Manheim Boulevard,220.551,2,,,,,,,,,,20241570,
+213819521,213743704,0,False,residential,John Street,100.593,,,,,,,,,,,20217225,
+213819521,213819517,0,False,residential,John Street,89.614,,,,,,,,,,,20217225,
+213819521,213728523,0,False,residential,Millrock Road,242.515,,,,,,,,,,,20231164,
+213819521,213979201,0,False,residential,Millrock Road,216.032,,,,,,,,,,,20231164,
+213819523,213819526,0,False,residential,John Street,60.867,,,,,,,,,,,20217225,
+213819523,213743704,0,False,residential,John Street,48.342,,,,,,,,,,,20217225,
+213819523,213906782,0,False,residential,Oakwood Court,32.951,,,,,,,,,,,20223896,
+213819526,213819523,0,False,residential,John Street,60.867,,,,,,,,,,,20217225,
+213819526,213819532,0,False,residential,John Street,105.991,,,,,,,,,,,20217225,
+213819526,213868590,0,False,residential,Grove Street,102.001,,,,,,,,,,,20220885,
+213819526,213868581,0,False,residential,Grove Street,213.614,,,,,,,,,,,20220885,
+213819532,213819305,0,False,residential,Prospect Street,5.08,,,,,,,,,,,20240281,
+213819532,213819526,0,False,residential,John Street,105.991,,,,,,,,,,,20217225,
+213819532,214117309,0,False,residential,Prospect Street,115.435,,,,,,,,,,,20240281,
+213821524,213787175,0,False,residential,Veterans Drive,218.858,,,,,,,,,,,20217379,
+213824852,213776816,0,False,tertiary,North Putt Corners Road,106.241,,,,,,,,,,,139811527,CR 17
+213824852,213824874,0,False,residential,Liberta Lane,292.165,,,,,,,,,,,20217609,
+213824852,213776413,0,False,tertiary,North Putt Corners Road,608.537,,,,,,,,,,,139811527,CR 17
+213824874,213824852,0,False,residential,Liberta Lane,292.165,,,,,,,,,,,20217609,
+213827045,214007948,0,False,residential,Ann Street,131.798,,,,,,,,,,,20239052,
+213827045,213827051,0,False,residential,Hassell Place,113.86,,,,,,,,,,,20217714,
+213827045,214090129,0,False,residential,Ann Street,39.574,,,,,,,,,,,20239052,
+213827051,213827045,0,False,residential,Hassell Place,113.86,,,,,,,,,,,20217714,
+213827935,213827958,0,False,residential,Erman Lane,311.071,,,,,,,,,,,20217789,
+213827935,2406880712,0,False,tertiary,North Putt Corners Road,592.254,,,,,,,,,,,139811527,CR 17
+213827935,213728471,0,False,tertiary,North Putt Corners Road,807.733,,,,,,,,,,,139811527,CR 17
+213827958,2406880748,0,False,residential,Erman Lane,263.548,,,,,,,,,,,20217789,
+213827958,213827935,0,False,residential,Erman Lane,311.071,,,,,,,,,,,20217789,
+213827958,2962777794,0,False,road,,319.213,,,,,,,,,,,355308544,
+213833567,213695805,0,False,tertiary,North Putt Corners Road,46.219,,,,,,,,,,,20218199,CR 17
+213833567,213812675,0,False,secondary,Main Street,287.974,"['4', '3']",,,"['35 mph', '35']",,,,,,,"[568050451, 369311900, 427719965, 427719966]",NY 299
+213833619,213833620,0,False,tertiary,North Putt Corners Road,222.806,,,,,,,,,,,139811527,CR 17
+213833619,213650137,0,False,tertiary,Shivertown Road,512.969,,,,,,,,,,,20232525,
+213833619,213797380,0,False,tertiary,North Putt Corners Road,280.107,,,,,,,,,,,139811527,CR 17
+213833620,213833623,0,False,tertiary,North Putt Corners Road,66.163,,,,,,,,,,,139811527,CR 17
+213833620,213833619,0,False,tertiary,North Putt Corners Road,222.806,,,,,,,,,,,139811527,CR 17
+213833620,214056924,0,False,residential,Orchard Knoll Court,78.459,,,,,,,,,,,20233856,
+213833623,213833620,0,False,tertiary,North Putt Corners Road,66.163,,,,,,,,,,,139811527,CR 17
+213833623,214162148,0,False,residential,Dogwood Hollow Road,127.411,,,,,,,,,,,20241676,
+213833623,213776816,0,False,tertiary,North Putt Corners Road,342.508,,,,,,,,,,,139811527,CR 17
+213841292,213841295,0,False,residential,Ulster Road,90.494,,,,,,,,,,,20218735,
+213841292,214020077,0,False,residential,Millrock Road,79.444,,,,,,,,,,,20231164,
+213841292,213728523,0,False,residential,Millrock Road,214.424,,,,,,,,,,,20231164,
+213841295,213841292,0,False,residential,Ulster Road,90.494,,,,,,,,,,,20218735,
+213841295,213841306,0,False,residential,North Manheim Boulevard,6.683,2,,,,,,,,,,20241570,
+213841295,213728520,0,False,residential,North Manheim Boulevard,216.623,2,,,,,,,,,,20241570,
+213841300,213935908,0,False,residential,Harrington Street,227.462,,,,,,,,,,,20225493,
+213841300,213841306,0,False,residential,Ulster Road,106.44,,,,,,,,,,,20218736,
+213841300,213728517,0,False,residential,Harrington Street,220.994,,,,,,,,,,,20225493,
+213841306,213841295,0,False,residential,North Manheim Boulevard,6.683,2,,,,,,,,,,20241570,
+213841306,213841300,0,False,residential,Ulster Road,106.44,,,,,,,,,,,20218736,
+213841306,214161081,0,False,residential,North Manheim Boulevard,237.047,2,,,,,,,,,,20241570,
+213842475,213842480,0,False,residential,Marie Court,70.103,,,,,,,,,,,20218844,
+213842475,214007959,0,False,tertiary,Shivertown Road,129.148,,,,,,,,,,,20232525,
+213842475,213575452,0,False,tertiary,Shivertown Road,784.086,,,,,,,,,,,20232525,
+213842480,213842475,0,False,residential,Marie Court,70.103,,,,,,,,,,,20218844,
+213850058,213747321,0,False,residential,Broadhead Avenue,147.659,,,,,,,,,,,20219526,
+213850103,213787159,0,False,residential,Broadhead Avenue,237.541,,,,,,,,,,,20219526,
+213850103,213862393,0,False,residential,Huguenot Street,290.462,,,,,,,,,,,20220435,
+213850103,213862333,0,False,residential,Huguenot Street,150.297,,,,,,,,,,,20220435,
+213850971,213862333,0,False,residential,Huguenot Street,519.111,,,,,,,,,,,20220435,
+213850971,213979160,0,False,secondary,Main Street,144.935,,,,30 mph,,,,,,,20228267,NY 299
+213857815,213728479,0,False,residential,Meadowbrook Circle,33.384,,,,,,,,,,,20220093,
+213857815,213857842,0,False,residential,Meadowbrook Circle,124.038,,,,,,,,,,,20220093,
+213857815,213857842,1,False,residential,Meadowbrook Circle,268.849,,,,,,,,,,,20220095,
+213857842,213728476,0,False,residential,Meadowbrook Circle,233.277,,,,,,,,,,,20220093,
+213857842,213857815,0,False,residential,Meadowbrook Circle,124.038,,,,,,,,,,,20220093,
+213857842,213857815,1,False,residential,Meadowbrook Circle,268.849,,,,,,,,,,,20220095,
+213862333,2421454086,0,False,residential,North Front Street,71.466,,,,,,,,,,,213917623,
+213862333,213850103,0,False,residential,Huguenot Street,150.297,,,,,,,,,,,20220435,
+213862333,213850971,0,False,residential,Huguenot Street,519.111,,,,,,,,,,,20220435,
+213862393,213862414,0,False,residential,Huguenot Street,317.636,,,,,,,,,,,20220435,
+213862393,213850103,0,False,residential,Huguenot Street,290.462,,,,,,,,,,,20220435,
+213862393,213787166,0,False,residential,Mulberry Street,169.987,,,,,,,,,,,20224630,
+213862414,213940597,0,False,residential,Henry Court,33.372,,,,,,,,,,,20225898,
+213862414,213686917,0,False,residential,Huguenot Street,181.886,,,,,,,,,,,20220435,
+213862414,213862393,0,False,residential,Huguenot Street,317.636,,,,,,,,,,,20220435,
+213868581,213819526,0,False,residential,Grove Street,213.614,,,,,,,,,,,20220885,
+213868581,213743701,0,False,secondary,Main Street,106.995,2,,,30 mph,,,,,,,97454064,NY 32;NY 299
+213868581,213979196,0,False,secondary,Main Street,108.008,2,,,30 mph,,,,,,,97454064,NY 32;NY 299
+213868590,213819526,0,False,residential,Grove Street,102.001,,,,,,,,,,,20220885,
+213889326,213586537,0,False,residential,Rocky Hill Road,231.056,,,,,,,,,,,20222407,
+213889363,213889369,0,False,residential,Rocky Hill Road,109.573,,,,,,,,,,,20222407,
+213889363,213632858,0,False,residential,Rocky Hill Road,279.101,,,,,,,,,,,20222407,
+213889363,213762986,0,False,residential,Van Kleeck Avenue,210.573,,,,,,,,,,,20233235,
+213889369,213889380,0,False,residential,Rocky Hill Road,163.875,,,,,,,,,,,20222407,
+213889369,213889363,0,False,residential,Rocky Hill Road,109.573,,,,,,,,,,,20222407,
+213889369,213762986,0,False,residential,Van Kleeck Avenue,248.556,,,,,,,,,,,20233236,
+213889380,213739590,0,False,residential,Rocky Hill Road,262.043,,,,,,,,,,,20222407,
+213889380,213889369,0,False,residential,Rocky Hill Road,163.875,,,,,,,,,,,20222407,
+213889380,213763019,0,False,residential,Stonehedge Avenue,123.548,,,,,,,,,,,20228104,
+213889402,213711826,0,False,residential,Rocky Hill Road,132.284,,,,,,,,,,,20222407,
+213889402,213976451,0,False,secondary,State Highway 32,403.975,,,,,,,,,,,20230157,NY 32
+213889402,214007959,0,False,secondary,State Highway 32,846.248,,,,,,,,,,,20230157,NY 32
+213906782,213819523,0,False,residential,Oakwood Court,32.951,,,,,,,,,,,20223896,
+213915722,213703836,0,False,residential,Pine Street,59.201,,,,,,,,,,,20228946,
+213915722,213703836,1,False,residential,"['Cooper Street', 'Bonticou View Drive']",347.414,,,,,,,,,,,"[20224408, 20209167]",
+213915722,213703827,0,False,residential,Cooper Street,325.717,,,,,,,,,,,20224408,
+213935873,213819513,0,False,residential,Harrington Street,224.881,,,,,,,,,,,20225493,
+213935873,213724203,0,False,secondary,Main Street,96.938,3,,,30 mph,,,,,,,427524964,NY 299
+213935873,213946925,0,False,secondary,Main Street,188.568,2,,,30 mph,,,,,,,427719964,NY 299
+213935908,213841300,0,False,residential,Harrington Street,227.462,,,,,,,,,,,20225493,
+213940582,213940584,0,False,residential,Henry Court,38.135,,,,,,,,,,,20225897,
+213940584,213940587,0,False,residential,Henry Court,16.84,,,,,,,,,,,20225897,
+213940584,213940582,0,False,residential,Henry Court,38.135,,,,,,,,,,,20225897,
+213940584,213940597,0,False,residential,Henry Court,40.875,,,,,,,,,,,20225899,
+213940587,213940590,0,False,residential,Henry Court,63.426,,,,,,,,,,,20225897,
+213940587,213940584,0,False,residential,Henry Court,16.84,,,,,,,,,,,20225897,
+213940587,213940597,0,False,residential,Henry Court,44.817,,,,,,,,,,,20225898,
+213940590,213940587,0,False,residential,Henry Court,63.426,,,,,,,,,,,20225897,
+213940597,213940587,0,False,residential,Henry Court,44.817,,,,,,,,,,,20225898,
+213940597,213862414,0,False,residential,Henry Court,33.372,,,,,,,,,,,20225898,
+213940597,213940584,0,False,residential,Henry Court,40.875,,,,,,,,,,,20225899,
+213946925,213979225,0,False,secondary,Main Street,146.694,2,,,35,,,,,,,44613091,NY 299
+213946925,213935873,0,False,secondary,Main Street,188.568,2,,,30 mph,,,,,,,427719964,NY 299
+213976409,213976451,0,False,residential,Hickory Hill Road,505.166,,,,,,,,,,,20228071,
+213976451,213976409,0,False,residential,Hickory Hill Road,505.166,,,,,,,,,,,20228071,
+213976451,213580593,0,False,secondary,State Highway 32,237.307,,,,,,,,,,,20230157,NY 32
+213976451,213889402,0,False,secondary,State Highway 32,403.975,,,,,,,,,,,20230157,NY 32
+213979160,213734846,0,False,secondary,Main Street,133.386,,,,30 mph,,,,,,,20228267,NY 299
+213979160,213850971,0,False,secondary,Main Street,144.935,,,,30 mph,,,,,,,20228267,NY 299
+213979174,213979177,0,False,secondary,Main Street,10.772,,,,30 mph,,,,,,,44613090,NY 32;NY 299
+213979174,213747301,0,False,secondary,Main Street,97.171,,,,30 mph,,,,,,,44613090,NY 32;NY 299
+213979177,213979174,0,False,secondary,Main Street,10.772,,,,30 mph,,,,,,,44613090,NY 32;NY 299
+213979177,213747307,0,True,residential,North Front Street,108.363,1,,,,,,,,,,20239381,
+213979177,213979196,0,False,secondary,Main Street,199.539,2,,,30 mph,,,,,,,"[97454064, 44613090]",NY 32;NY 299
+213979196,213819305,0,False,residential,Prospect Street,212.722,,,,,,,,,,,20240281,
+213979196,213868581,0,False,secondary,Main Street,108.008,2,,,30 mph,,,,,,,97454064,NY 32;NY 299
+213979196,213979177,0,False,secondary,Main Street,199.539,2,,,30 mph,,,,,,,"[97454064, 44613090]",NY 32;NY 299
+213979201,213819521,0,False,residential,Millrock Road,216.032,,,,,,,,,,,20231164,
+213979201,213979206,0,False,secondary,Main Street,92.972,"['2', '3']",,,30 mph,,,,,,,"[97454064, 427719963]",NY 32;NY 299
+213979201,213743701,0,False,secondary,Main Street,121.476,2,,,30 mph,,,,,,,97454064,NY 32;NY 299
+213979206,213724203,0,False,secondary,Main Street,9.855,,,,30 mph,,,,,,,427719961,NY 32;NY 299
+213979206,213819517,0,False,residential,North Manheim Boulevard,220.551,2,,,,,,,,,,20241570,
+213979206,213979201,0,False,secondary,Main Street,92.972,"['2', '3']",,,30 mph,,,,,,,"[97454064, 427719963]",NY 32;NY 299
+213979225,213982764,0,False,residential,Duzine Road,87.647,,,,,,,,,,,20234023,
+213979225,213812675,0,False,secondary,Main Street,277.329,"['4', '2']",,,35,,,,,,,"[427719962, 44613091]",NY 299
+213979225,213946925,0,False,secondary,Main Street,146.694,2,,,35,,,,,,,44613091,NY 299
+213982764,213728482,0,False,residential,Pine Crest Road,409.089,,,,,,,,,,,20228481,
+213982764,213728490,0,False,residential,Duzine Road,403.876,,,,,,,,,,,20234023,
+213982764,213979225,0,False,residential,Duzine Road,87.647,,,,,,,,,,,20234023,
+214002450,213769852,0,False,residential,Mares Trail,208.992,,,,,,,,,,,20229802,
+214007948,214007953,0,False,secondary,State Highway 32,181.373,,,,,,,,,,,20230157,NY 32
+214007948,213827045,0,False,residential,Ann Street,131.798,,,,,,,,,,,20239052,
+214007948,213668706,0,False,secondary,"['State Highway 32', 'North Chestnut Street']",229.537,,,,,,,,,,,"[391278371, 20230157]",NY 32
+214007953,213626768,0,False,secondary,State Highway 32,62.941,,,,,,,,,,,20230157,NY 32
+214007953,214007948,0,False,secondary,State Highway 32,181.373,,,,,,,,,,,20230157,NY 32
+214007953,2419438352,0,False,residential,Hummell Road,1117.507,,,,,,,,,,,20234183,
+214007959,213626768,0,False,secondary,State Highway 32,264.521,,,,,,,,,,,20230157,NY 32
+214007959,213889402,0,False,secondary,State Highway 32,846.248,,,,,,,,,,,20230157,NY 32
+214007959,213842475,0,False,tertiary,Shivertown Road,129.148,,,,,,,,,,,20232525,
+214020077,213841292,0,False,residential,Millrock Road,79.444,,,,,,,,,,,20231164,
+214038280,214038280,0,False,residential,Millbrook Road,56.07,,,,,,,,,,,20232498,
+214038280,214038280,1,False,residential,Millbrook Road,56.07,,,,,,,,,,,20232498,
+214038280,213728492,0,False,residential,Mill Brook Road,102.877,,,,,,,,,,,20237131,
+214048927,213762986,0,False,residential,Van Kleeck Avenue,81.677,,,,,,,,,,,20233235,
+214056924,213833620,0,False,residential,Orchard Knoll Court,78.459,,,,,,,,,,,20233856,
+214069048,214069068,0,False,residential,Millbrook Terrace,209.451,,,,,,,,,,,20234712,
+214069048,213747334,0,False,residential,"['Prospect Street', 'Mulberry Street']",589.486,,,,,,,,,,,"[20240281, 20224630]",
+214069048,213728535,0,False,residential,Prospect Street,272.442,,,,,,,,,,,20240281,
+214069068,214069048,0,False,residential,Millbrook Terrace,209.451,,,,,,,,,,,20234712,
+214090118,214090129,0,False,residential,Van Alst Street,316.789,,,,,,,,,,,20236341,
+214090118,213787194,0,False,residential,Sunset Ridge,162.968,,,,,,,,,,,20238180,
+214090118,213746658,0,False,residential,Sunset Ridge,120.89,,,,,,,,,,,20238180,
+214090129,214090118,0,False,residential,Van Alst Street,316.789,,,,,,,,,,,20236341,
+214090129,213827045,0,False,residential,Ann Street,39.574,,,,,,,,,,,20239052,
+214090129,213746658,0,False,residential,"['Ann Street', 'Juniper Street']",427.344,,,,,,,,,,,"[20239052, 20212207]",
+214115406,213746658,0,False,residential,Sunset Ridge,193.49,,,,,,,,,,,20238180,
+214115406,213695529,0,False,residential,Sunset Ridge,23.521,,,,,,,,,,,20238180,
+214115406,214118044,0,False,residential,Willi Road,203.797,,,,,,,,,,,20238366,
+214117246,214117246,0,False,residential,Slate Street,79.222,,,,,,,,,,,20238318,
+214117246,214117246,1,False,residential,Slate Street,79.222,,,,,,,,,,,20238318,
+214117246,214117298,0,False,residential,Slate Street,90.569,,,,,,,,,,,20238318,
+214117298,214137242,0,False,residential,Turtle Rock Court,62.242,,,,,,,,,,,20239753,
+214117298,214117309,0,False,residential,Slate Street,64.677,,,,,,,,,,,20238318,
+214117298,214117246,0,False,residential,Slate Street,90.569,,,,,,,,,,,20238318,
+214117298,214137253,0,False,residential,Turtle Rock Court,19.474,,,,,,,,,,,20239753,
+214117309,213728535,0,False,residential,Prospect Street,123.077,,,,,,,,,,,20240281,
+214117309,214117298,0,False,residential,Slate Street,64.677,,,,,,,,,,,20238318,
+214117309,213819532,0,False,residential,Prospect Street,115.435,,,,,,,,,,,20240281,
+214118044,214115406,0,False,residential,Willi Road,203.797,,,,,,,,,,,20238366,
+214127637,213732145,0,False,residential,Ann Street,25.235,,,,,,,,,,,20239041,
+214137242,214117298,0,False,residential,Turtle Rock Court,62.242,,,,,,,,,,,20239753,
+214137253,214117298,0,False,residential,Turtle Rock Court,19.474,,,,,,,,,,,20239753,
+214161081,213841306,0,False,residential,North Manheim Boulevard,237.047,2,,,,,,,,,,20241570,
+214162148,213833623,0,False,residential,Dogwood Hollow Road,127.411,,,,,,,,,,,20241676,
+2406880659,2406880839,0,False,residential,,115.156,,,,,,,,,,,232330157,
+2406880659,2406880748,0,False,residential,Woodland Pond Circle,556.782,,,,,,,,,,,232330159,
+2406880659,2406880841,0,False,residential,Woodland Pond Circle,7.778,,,,,,,,,,,232330159,
+2406880712,2406880839,0,False,tertiary,North Putt Corners Road,6.521,,,,,,,,,,,139811527,CR 17
+2406880712,213827935,0,False,tertiary,North Putt Corners Road,592.254,,,,,,,,,,,139811527,CR 17
+2406880712,2406880841,0,False,residential,,116.76,,,,,,,,,,,232330165,
+2406880748,213827958,0,False,residential,Erman Lane,263.548,,,,,,,,,,,20217789,
+2406880748,2406880841,0,False,residential,Woodland Pond Circle,378.161,,,,,,,,,,,232330159,
+2406880748,2406880659,0,False,residential,Woodland Pond Circle,556.782,,,,,,,,,,,232330159,
+2406880839,213797380,0,False,tertiary,North Putt Corners Road,45.616,,,,,,,,,,,139811527,CR 17
+2406880839,2406880712,0,False,tertiary,North Putt Corners Road,6.521,,,,,,,,,,,139811527,CR 17
+2406880839,2406880659,0,False,residential,,115.156,,,,,,,,,,,232330157,
+2406880841,2406880659,0,False,residential,Woodland Pond Circle,7.778,,,,,,,,,,,232330159,
+2406880841,2406880748,0,False,residential,Woodland Pond Circle,378.161,,,,,,,,,,,232330159,
+2406880841,2406880712,0,False,residential,,116.76,,,,,,,,,,,232330165,
+2419438352,214007953,0,False,residential,Hummell Road,1117.507,,,,,,,,,,,20234183,
+2421454022,2421454086,0,False,residential,,272.311,,,,,,,,,,,233815972,
+2421454086,213862333,0,False,residential,North Front Street,71.466,,,,,,,,,,,213917623,
+2421454086,213787146,0,False,residential,North Front Street,118.332,,,,,,,,,,,213917623,
+2421454086,2421454022,0,False,residential,,272.311,,,,,,,,,,,233815972,
+2962777794,213827958,0,False,road,,319.213,,,,,,,,,,,355308544,
+3318998923,3318998927,0,False,residential,Caroline Way,72.343,,,,,,,,,,,325228851,
+3318998927,213728529,0,False,tertiary,Henry du Bois Drive,144.934,,,,,,,,,,,20210971,
+3318998927,213728535,0,False,tertiary,Henry du Bois Drive,74.796,,,,,,,,,,,20210971,
+3318998927,3318998923,0,False,residential,Caroline Way,72.343,,,,,,,,,,,325228851,

@@ -1,0 +1,72 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+42466655,1691133774,0,False,secondary,Prospect Park Southwest,210.039,,,,,,,,,,,"[487545386, 156867586, 420559534]",
+42466655,42476137,0,True,residential,Bartel Pritchard Square,46.235,3,,,25 mph,,,,,,roundabout,451381003,
+42467584,42467607,0,False,unclassified,Hill Drive,134.513,,,,,,,,,,,375109952,
+42467584,42472893,0,False,unclassified,"['East Lake Drive', 'Hill Drive']",290.668,,,,,,,,,,,"[375109952, 180086139, 246570661, 375109951]",
+42467607,42467584,0,True,unclassified,Hill Drive,163.13,,,,,,,,,,,5675112,
+42467607,42467584,1,False,unclassified,Hill Drive,134.513,,,,,,,,,,,375109952,
+42471068,42478469,0,False,secondary,Washington Avenue,110.363,,,,,,,,,,,221795718,
+42472392,42484753,0,False,primary,Caton Avenue,84.048,2,,,20 mph,,,,,,,46475834,NY 27
+42472392,42484757,0,False,primary,Caton Avenue,83.921,2,,,20 mph,,,,,,,46475834,NY 27
+42472893,42467584,0,False,unclassified,"['East Lake Drive', 'Hill Drive']",290.668,,,,,,,,,,,"[375109952, 180086139, 246570661, 375109951]",
+42472893,42492967,0,False,secondary,Ocean Avenue,630.56,,,,,,,,,,,221795723,
+42475818,42484753,0,False,primary,Caton Avenue,83.801,2,,,20 mph,,,,,,,46475834,NY 27
+42475818,42484747,0,False,primary,Caton Avenue,96.994,2,,,20 mph,,,,,,,46475834,NY 27
+42476137,4575701542,0,True,residential,Bartel Pritchard Square,38.791,3,,,25 mph,,,,,,roundabout,511879299,
+42478469,42471068,0,False,secondary,Washington Avenue,110.363,,,,,,,,,,,221795718,
+42478469,42478471,0,False,secondary,Washington Avenue,110.804,,,,,,,,,,,221795718,
+42478471,42478469,0,False,secondary,Washington Avenue,110.804,,,,,,,,,,,221795718,
+42478471,42478474,0,False,secondary,Washington Avenue,295.786,,,,,,,yes,,,,"[127739282, 587355757, 221795718]",
+42478474,42478475,0,False,secondary,Washington Avenue,87.455,,,,,,,,,,,127739288,
+42478474,42478471,0,False,secondary,Washington Avenue,295.786,,,,,,,yes,,,,"[127739282, 587355757, 221795718]",
+42478475,42478474,0,False,secondary,Washington Avenue,87.455,,,,,,,,,,,127739288,
+42484744,42484747,0,False,primary,Caton Avenue,65.116,2,,,20 mph,,,,,,,46475834,NY 27
+42484744,42489107,0,False,secondary,Coney Island Avenue,64.295,"['4', '5']",,,,,,,,,,"[420559497, 420559493, 420559494]",
+42484747,42475818,0,False,primary,Caton Avenue,96.994,2,,,20 mph,,,,,,,46475834,NY 27
+42484747,42484744,0,False,primary,Caton Avenue,65.116,2,,,20 mph,,,,,,,46475834,NY 27
+42484753,42472392,0,False,primary,Caton Avenue,84.048,2,,,20 mph,,,,,,,46475834,NY 27
+42484753,42475818,0,False,primary,Caton Avenue,83.801,2,,,20 mph,,,,,,,46475834,NY 27
+42484757,42484759,0,False,primary,Caton Avenue,84.047,2,,,20 mph,,,,,,,46475834,NY 27
+42484757,42472392,0,False,primary,Caton Avenue,83.921,2,,,20 mph,,,,,,,46475834,NY 27
+42484759,42484762,0,False,primary,Caton Avenue,83.74,2,,,20 mph,,,,,,,46475834,NY 27
+42484759,42484757,0,False,primary,Caton Avenue,84.047,2,,,20 mph,,,,,,,46475834,NY 27
+42484762,42484766,0,False,primary,Caton Avenue,58.079,2,,,20 mph,,,,,,,46475834,NY 27
+42484762,42484759,0,False,primary,Caton Avenue,83.74,2,,,20 mph,,,,,,,46475834,NY 27
+42484766,42484762,0,False,primary,Caton Avenue,58.079,2,,,20 mph,,,,,,,46475834,NY 27
+42489107,1701116536,0,False,secondary,Coney Island Avenue,140.373,"['4', '5']",,,,,,,,,,"[420559496, 420559499]",
+42489107,42484744,0,False,secondary,Coney Island Avenue,64.295,"['4', '5']",,,,,,,,,,"[420559497, 420559493, 420559494]",
+42492967,42472893,0,False,secondary,Ocean Avenue,630.56,,,,,,,,,,,221795723,
+42492967,42499237,0,False,secondary,Parkside Avenue,212.493,,,,,,,,,,,"[157869176, 420559525, 226998574]",
+42499234,42522822,0,True,residential,Parade Place,85.957,,,,,,,,,,,5681897,
+42499234,42499237,0,False,secondary,Parkside Avenue,196.13,,,,,,,,,,,157869176,
+42499234,1701116526,0,False,secondary,Parkside Avenue,477.225,,,,,,,,,,,157869176,
+42499237,42499234,0,False,secondary,Parkside Avenue,196.13,,,,,,,,,,,157869176,
+42499237,42492967,0,False,secondary,Parkside Avenue,212.493,,,,,,,,,,,"[157869176, 420559525, 226998574]",
+42511210,42484766,0,True,residential,Parade Place,107.235,,,,,,,,,,,5681897,
+42522822,42511210,0,True,residential,Parade Place,94.593,,,,,,,,,,,5681897,
+249208032,249208039,0,True,secondary,Park Circle,33.177,,,,,,,,,,roundabout,5677217,
+249208039,1285521627,0,True,secondary,Prospect Park Southwest,50.799,,,,,,,,,,,"[183794633, 487545383]",
+824069029,1701116536,0,True,secondary,Coney Island Avenue,75.918,2,,,,,,,,,,157869181,
+824069029,1285521535,0,True,secondary,Park Circle,36.888,,,,,,,,,,roundabout,222261083,
+1285521535,1285521536,0,True,secondary,Park Circle,14.817,,,,,,,,,,roundabout,222261080,
+1285521536,1701116526,0,True,secondary,Parkside Avenue,59.382,,,,,,,,,,,157869184,
+1285521536,249208032,0,True,secondary,Park Circle,41.194,,,,,,,,,,roundabout,"[222261080, 5677217]",
+1285521627,1691133686,0,False,secondary,Prospect Park Southwest,99.681,,,,,,,,,,,"[420559531, 420559535]",
+1691133686,1285521627,0,False,secondary,Prospect Park Southwest,99.681,,,,,,,,,,,"[420559531, 420559535]",
+1691133728,5320587912,0,False,secondary,Prospect Park Southwest,11.038,,,,,,,,,,,420559527,
+1691133730,4226083076,0,False,secondary,Prospect Park Southwest,36.31,,,,,,,,,,,495994961,
+1691133730,1691133771,0,False,secondary,Prospect Park Southwest,176.118,,,,,,,,,,,495994961,
+1691133771,1691133730,0,False,secondary,Prospect Park Southwest,176.118,,,,,,,,,,,495994961,
+1691133771,1691133774,0,False,secondary,Prospect Park Southwest,233.816,,,,,,,,,,,"[495994961, 156867586]",
+1691133774,1691133771,0,False,secondary,Prospect Park Southwest,233.816,,,,,,,,,,,"[495994961, 156867586]",
+1691133774,42466655,0,False,secondary,Prospect Park Southwest,210.039,,,,,,,,,,,"[156867586, 487545386, 420559534]",
+1701116526,42499234,0,False,secondary,Parkside Avenue,477.225,,,,,,,,,,,157869176,
+1701116526,249208032,0,True,secondary,Parkside Avenue,46.958,,,,,,,,,,,157869185,
+1701116536,1285521535,0,True,secondary,Coney Island Avenue,82.027,2,,,,,,,,,,157869183,
+1701116536,42489107,0,False,secondary,Coney Island Avenue,140.373,"['4', '5']",,,,,,,,,,"[420559496, 420559499]",
+4226083076,5320587912,0,False,secondary,Prospect Park Southwest,75.405,,,,,,,,,,,495994961,
+4226083076,1691133730,0,False,secondary,Prospect Park Southwest,36.31,,,,,,,,,,,495994961,
+4482239794,4482239795,0,True,primary,Plaza Street West,31.441,,,,,,,,,,,46137550,
+4482239795,544352735,0,True,primary,Flatbush Avenue,83.096,,,,,,,,,,,43315004,
+5320587912,1691133728,0,False,secondary,Prospect Park Southwest,11.038,,,,,,,,,,,420559527,
+5320587912,4226083076,0,False,secondary,Prospect Park Southwest,75.405,,,,,,,,,,,495994961,

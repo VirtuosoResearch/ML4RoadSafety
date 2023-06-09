@@ -1,0 +1,208 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+116255795,116210288,0,True,motorway,C. Fred Johnson Memorial Highway,282.551,2,,,45 mph,,,,,,,48270362,NY 201
+116261915,116261984,0,True,motorway_link,,353.926,,,,,,,,,,,12721814,
+116261915,116262669,0,True,motorway,C. Fred Johnson Memorial Highway,208.943,2,,,45 mph,,,,,,,12732198,NY 201
+116261984,116262669,0,True,motorway_link,,313.035,,,,,,,,,,,12721869,
+116261984,116309949,0,False,residential,3rd Street,137.155,,,,,,,,,,,12725250,
+116261984,116532808,0,False,primary,Main Street,94.768,,,,30 mph,,,,,,,385011582,NY 17C
+116261984,116532792,0,False,primary,Main Street,73.828,,,,30 mph,,,,,,,385011582,NY 17C
+116262669,116218105,0,True,motorway,C. Fred Johnson Memorial Highway,183.259,2,,,45 mph,,,yes,,,,"[45458972, 12732198]",NY 201
+116289581,737558296,0,False,residential,North Broad Street,113.304,,,,,,,,,,,12759248,
+116289581,116474223,0,False,primary,Main Street,65.998,,,,30 mph,,,,,,,115576614,NY 17C
+116289581,116534840,0,False,primary,Main Street,14.271,,,,30 mph,,,,,,,115576614,NY 17C
+116289581,116289593,0,False,residential,Broad Street,265.149,,,,,,,,,,,12723257,
+116289593,116326675,0,False,residential,Corliss Avenue,91.891,,,,,,,,,,,12756637,
+116289593,116591898,0,False,residential,Corliss Avenue,90.758,,,,,,,,,,,12756637,
+116289593,116289581,0,False,residential,Broad Street,265.149,,,,,,,,,,,12723257,
+116309944,116309949,0,False,residential,Endwell Street,32.618,,,,,,,,,,,12724031,
+116309949,116309955,0,False,residential,Endwell Street,101.837,,,,,,,,,,,12724031,
+116309949,116309944,0,False,residential,Endwell Street,32.618,,,,,,,,,,,12724031,
+116309949,116261984,0,False,residential,3rd Street,137.155,,,,,,,,,,,12725250,
+116309955,116309949,0,False,residential,Endwell Street,101.837,,,,,,,,,,,12724031,
+116309955,116650429,0,False,residential,4th Street,100.544,,,,,,,,,,,12756781,
+116309955,737487228,0,False,residential,Endwell Street,18.803,,,,,,,,,,,59467373,
+116309977,737487436,0,False,residential,Endwell Street,43.229,,,,,,,,,,,59467380,
+116309977,116755480,0,False,residential,Riverside Drive,115.602,,,,,,,,,,,68010278,
+116309977,116755509,0,False,residential,Riverside Drive,19.104,,,,,,,,,,,68010278,
+116326131,116534750,0,False,primary,Main Street,102.646,,,,30 mph,,,,,,,115576614,NY 17C
+116326131,116326143,0,False,residential,Brigham Avenue,81.04,,,,,,,,,,,12724766,
+116326143,116326131,0,False,residential,Brigham Avenue,81.04,,,,,,,,,,,12724766,
+116326155,116569765,0,False,unclassified,Lester Avenue,56.81,,,,,,,,,,,12765604,
+116326155,116326204,0,False,residential,Brigham Avenue,134.377,,,,,,,,,,,12724775,
+116326204,116569837,0,False,residential,Avenue A,48.465,,,,,,,,,,,12766384,
+116326204,116326220,0,False,residential,Brigham Avenue,108.15,,,,,,,,,,,12724775,
+116326204,116326155,0,False,residential,Brigham Avenue,134.377,,,,,,,,,,,12724775,
+116326220,116534781,0,False,residential,Avenue B,142.783,,,,,,,,,,,12766511,
+116326220,116534786,0,False,residential,"['Avenue C', 'Brigham Avenue']",213.315,,,,,,,,,,,"[12766559, 12724775]",
+116326220,116326204,0,False,residential,Brigham Avenue,108.15,,,,,,,,,,,12724775,
+116326656,116533709,0,False,primary,Main Street,82.992,,,,30 mph,,,,,,,385011582,NY 17C
+116326656,116474223,0,False,primary,Main Street,36.648,,,,30 mph,,,,,,,115576614,NY 17C
+116326656,116326669,0,False,residential,Arch Street,301.823,,,,,,,,,,,290049688,
+116326669,116648672,0,False,residential,Corliss Avenue,72.424,,,,,,,,,,,12756634,
+116326669,116326675,0,False,residential,Arch Street,15.721,,,,,,,,,,,290049688,
+116326669,116326656,0,False,residential,Arch Street,301.823,,,,,,,,,,,290049688,
+116326675,116289593,0,False,residential,Corliss Avenue,91.891,,,,,,,,,,,12756637,
+116326675,116326669,0,False,residential,Arch Street,15.721,,,,,,,,,,,290049688,
+116326675,116326684,0,False,residential,Arch Street,75.708,,,,,,,,,,,290049688,
+116326684,116474207,0,False,residential,Faatz Alley,76.438,,,,,,,,,,,12733653,
+116326684,116326701,0,False,residential,Arch Street,64.968,,,,,,,,,,,290049688,
+116326684,116326675,0,False,residential,Arch Street,75.708,,,,,,,,,,,290049688,
+116326701,116326684,0,False,residential,Arch Street,64.968,,,,,,,,,,,290049688,
+116435878,116449982,0,False,primary,Main Street,69.287,,,,30 mph,,,,,,,385011582,NY 17C
+116435878,116533738,0,False,primary,Main Street,15.426,,,,30 mph,,,,,,,385011582,NY 17C
+116435878,116435894,0,False,residential,Crocker Avenue,444.821,,,,,,,,,,,12730976,
+116435894,116648770,0,False,residential,Corliss Avenue,82.519,,,,,,,,,,,12756634,
+116435894,116435878,0,False,residential,Crocker Avenue,444.821,,,,,,,,,,,12730976,
+116435894,116572107,0,False,residential,Corliss Avenue,85.524,,,,,,,,,,,12756634,
+116449982,116449986,0,False,residential,2nd Street,131.662,,,,,,,,,,,12731877,
+116449982,116532792,0,False,primary,Main Street,16.09,,,,30 mph,,,,,,,385011582,NY 17C
+116449982,116435878,0,False,primary,Main Street,69.287,,,,30 mph,,,,,,,385011582,NY 17C
+116449986,116449982,0,False,residential,2nd Street,131.662,,,,,,,,,,,12731877,
+116452827,116533715,0,False,primary,Main Street,86.69,,,,30 mph,,,,,,,385011582,NY 17C
+116452827,116452842,0,False,unclassified,Harrison Street,258.361,,,,,,,,,,,12732105,
+116452827,116533709,0,False,primary,Main Street,88.828,,,,30 mph,,,,,,,385011582,NY 17C
+116452842,116452827,0,False,unclassified,Harrison Street,258.361,,,,,,,,,,,12732105,
+116452842,116604259,0,False,residential,Park Place,54.337,,,,,,,,,,,12771311,
+116452842,116648699,0,False,residential,Park Place,95.243,,,,,,,,,,,12771311,
+116474207,116326684,0,False,residential,Faatz Alley,76.438,,,,,,,,,,,12733653,
+116474207,116648672,0,False,residential,Baldwin Street,93.054,,,,,,,,,,,12767276,
+116474223,116474227,0,False,residential,Isabelle Place,40.598,,,,,,,,,,,12733656,
+116474223,116289581,0,False,primary,Main Street,65.998,,,,30 mph,,,,,,,115576614,NY 17C
+116474223,116326656,0,False,primary,Main Street,36.648,,,,30 mph,,,,,,,115576614,NY 17C
+116474227,116474223,0,False,residential,Isabelle Place,40.598,,,,,,,,,,,12733656,
+116518527,116641763,0,False,residential,Jennison Avenue,29.605,,,,,,,,,,,12755764,
+116518527,116518532,0,False,residential,Lewis Street,150.209,,,,,,,,,,,12736611,
+116518527,116534774,0,False,residential,Jennison Avenue,93.051,,,,,,,,,,,12755764,
+116518532,116591898,0,False,residential,Willow Street,97.541,,,,,,,,,,,12749531,
+116518532,116518527,0,False,residential,Lewis Street,150.209,,,,,,,,,,,12736611,
+116518532,116534835,0,False,residential,Willow Street,108.751,,,,,,,,,,,12749531,
+116532792,116572101,0,False,residential,Baker Street,184.633,,,,,,,,,,,12745637,
+116532792,116449982,0,False,primary,Main Street,16.09,,,,30 mph,,,,,,,385011582,NY 17C
+116532792,116261984,0,False,primary,Main Street,73.828,,,,30 mph,,,,,,,385011582,NY 17C
+116532808,116650429,0,False,residential,4th Street,61.007,,,,,,,,,,,12756781,
+116532808,116532817,0,False,primary,Main Street,114.999,,,,30 mph,,,,,,,385011582,NY 17C
+116532808,116261984,0,False,primary,Main Street,94.768,,,,30 mph,,,,,,,385011582,NY 17C
+116532817,116601044,0,False,tertiary,Riverside Drive,380.271,,,,,,,,,,,59465454,
+116532817,116755480,0,False,residential,Riverside Drive,53.531,,,,,,,,,,,68010278,
+116532817,116532808,0,False,primary,Main Street,114.999,,,,30 mph,,,,,,,385011582,NY 17C
+116533709,116326656,0,False,primary,Main Street,82.992,,,,30 mph,,,,,,,385011582,NY 17C
+116533709,116648676,0,False,residential,Baldwin Street,303.634,,,,,,,,,,,12767278,
+116533709,116452827,0,False,primary,Main Street,88.828,,,,30 mph,,,,,,,385011582,NY 17C
+116533715,116452827,0,False,primary,Main Street,86.69,,,,30 mph,,,,,,,385011582,NY 17C
+116533715,116604259,0,False,unclassified,Hudson Street,298.108,,,,,,,,,,,12751357,
+116533715,116533721,0,False,primary,Main Street,90.074,,,,30 mph,,,,,,,385011582,NY 17C
+116533721,116616766,0,False,residential,Saint Charles Street,308.044,,,,,,,,,,,12752779,
+116533721,116533727,0,False,primary,Main Street,84.175,,,,30 mph,,,,,,,385011582,NY 17C
+116533721,116533715,0,False,primary,Main Street,90.074,,,,30 mph,,,,,,,385011582,NY 17C
+116533727,116549333,0,False,residential,Allen Street,435.063,,,,,,,,,,,12741247,
+116533727,116533733,0,False,primary,Main Street,92.397,,,,30 mph,,,,,,,385011582,NY 17C
+116533727,116533721,0,False,primary,Main Street,84.175,,,,30 mph,,,,,,,385011582,NY 17C
+116533733,116648770,0,False,residential,Albert Street,440.794,,,,,,,,,,,12770324,
+116533733,116533738,0,False,primary,Main Street,61.129,,,,30 mph,,,,,,,385011582,NY 17C
+116533733,116533727,0,False,primary,Main Street,92.397,,,,30 mph,,,,,,,385011582,NY 17C
+116533738,116558129,0,False,residential,1st Street,143.111,,,,,,,,,,,12742919,
+116533738,116435878,0,False,primary,Main Street,15.426,,,,30 mph,,,,,,,385011582,NY 17C
+116533738,116533733,0,False,primary,Main Street,61.129,,,,30 mph,,,,,,,385011582,NY 17C
+116534750,116569765,0,False,unclassified,Lester Avenue,130.46,,,,,,,,,,,12765604,
+116534750,116534752,0,False,primary,Main Street,44.264,,,,30 mph,,,,,,,115576614,NY 17C
+116534750,116326131,0,False,primary,Main Street,102.646,,,,30 mph,,,,,,,115576614,NY 17C
+116534752,116568307,0,False,residential,Park Street,81.403,,,,,,,,,,,12744915,
+116534752,116534750,0,False,primary,Main Street,44.264,,,,30 mph,,,,,,,115576614,NY 17C
+116534752,116534761,0,False,primary,Main Street,150.224,,,,30 mph,,,,,,,115576614,NY 17C
+116534761,116534765,0,False,primary,Main Street,36.391,,,,30 mph,,,,,,,115576614,NY 17C
+116534761,116648827,0,False,residential,Ozalid Road,89.027,,,,,,,,,,,12764417,
+116534761,116534752,0,False,primary,Main Street,150.224,,,,30 mph,,,,,,,115576614,NY 17C
+116534765,116569837,0,False,residential,Avenue A,111.479,,,,,,,,,,,12766384,
+116534765,116534774,0,False,primary,Main Street,13.265,,,,30 mph,,,,,,,115576614,NY 17C
+116534765,116534761,0,False,primary,Main Street,36.391,,,,30 mph,,,,,,,115576614,NY 17C
+116534774,116534765,0,False,primary,Main Street,13.265,,,,30 mph,,,,,,,115576614,NY 17C
+116534774,116518527,0,False,residential,Jennison Avenue,93.051,,,,,,,,,,,12755764,
+116534774,116534781,0,False,primary,Main Street,92.159,,,,30 mph,,,,,,,115576614,NY 17C
+116534781,116326220,0,False,residential,Avenue B,142.783,,,,,,,,,,,12766511,
+116534781,116534786,0,False,primary,Main Street,104.508,,,,30 mph,,,,,,,115576614,NY 17C
+116534781,116534774,0,False,primary,Main Street,92.159,,,,30 mph,,,,,,,115576614,NY 17C
+116534786,116534835,0,False,primary,Main Street,8.975,,,,30 mph,,,,,,,115576614,NY 17C
+116534786,116326220,0,False,residential,"['Avenue C', 'Brigham Avenue']",213.315,,,,,,,,,,,"[12724775, 12766559]",
+116534786,116534781,0,False,primary,Main Street,104.508,,,,30 mph,,,,,,,115576614,NY 17C
+116534835,116534840,0,False,primary,Main Street,97.557,,,,30 mph,,,,,,,115576614,NY 17C
+116534835,116534786,0,False,primary,Main Street,8.975,,,,30 mph,,,,,,,115576614,NY 17C
+116534835,116518532,0,False,residential,Willow Street,108.751,,,,,,,,,,,12749531,
+116534840,116289581,0,False,primary,Main Street,14.271,,,,30 mph,,,,,,,115576614,NY 17C
+116534840,116534835,0,False,primary,Main Street,97.557,,,,30 mph,,,,,,,115576614,NY 17C
+116534840,116752362,0,False,residential,Avenue D,102.674,,,,,,,,,,,12766569,
+116549333,116533727,0,False,residential,Allen Street,435.063,,,,,,,,,,,12741247,
+116549333,116648770,0,False,residential,Corliss Avenue,91.692,,,,,,,,,,,12756634,
+116549333,116616811,0,False,residential,Corliss Avenue,89.074,,,,,,,,,,,12756634,
+116558129,116533738,0,False,residential,1st Street,143.111,,,,,,,,,,,12742919,
+116568307,116534752,0,False,residential,Park Street,81.403,,,,,,,,,,,12744915,
+116569765,116569837,0,False,residential,Laurel Street,162.109,,,,,,,,,,,12745167,
+116569765,116326155,0,False,unclassified,Lester Avenue,56.81,,,,,,,,,,,12765604,
+116569765,116534750,0,False,unclassified,Lester Avenue,130.46,,,,,,,,,,,12765604,
+116569837,116569765,0,False,residential,Laurel Street,162.109,,,,,,,,,,,12745167,
+116569837,116326204,0,False,residential,Avenue A,48.465,,,,,,,,,,,12766384,
+116569837,116534765,0,False,residential,Avenue A,111.479,,,,,,,,,,,12766384,
+116572101,116572107,0,False,residential,Baker Street,273.237,,,,,,,,,,,12745637,
+116572101,116532792,0,False,residential,Baker Street,184.633,,,,,,,,,,,12745637,
+116572101,116623168,0,False,residential,Sturtevant Street,96.458,,,,,,,,,,,12755868,
+116572101,116642571,0,False,residential,Sturtevant Street,30.253,,,,,,,,,,,12755868,
+116572107,116572101,0,False,residential,Baker Street,273.237,,,,,,,,,,,12745637,
+116572107,116623178,0,False,residential,Corliss Avenue,96.377,,,,,,,,,,,12756634,
+116572107,116435894,0,False,residential,Corliss Avenue,85.524,,,,,,,,,,,12756634,
+116591898,116518532,0,False,residential,Willow Street,97.541,,,,,,,,,,,12749531,
+116591898,116289593,0,False,residential,Corliss Avenue,90.758,,,,,,,,,,,12756637,
+116591898,116641763,0,False,residential,Corliss Avenue,112.87,,,,,,,,,,,12756637,
+116601044,116532817,0,False,tertiary,Riverside Drive,380.271,,,,,,,,,,,59465454,
+116604178,116604185,0,False,residential,Hudson Street,67.867,,,,,,,,,,,12751348,
+116604178,116616766,0,False,residential,Park Place,76.41,,,,,,,,,,,12771311,
+116604178,116604259,0,False,residential,Park Place,50.279,,,,,,,,,,,12771311,
+116604185,116604178,0,False,residential,Hudson Street,67.867,,,,,,,,,,,12751348,
+116604185,116616811,0,False,residential,Corliss Avenue,133.755,,,,,,,,,,,12756634,
+116604185,116648699,0,False,residential,Corliss Avenue,120.564,,,,,,,,,,,12756634,
+116604259,116533715,0,False,unclassified,Hudson Street,298.108,,,,,,,,,,,12751357,
+116604259,116604178,0,False,residential,Park Place,50.279,,,,,,,,,,,12771311,
+116604259,116452842,0,False,residential,Park Place,54.337,,,,,,,,,,,12771311,
+116616766,116533721,0,False,residential,Saint Charles Street,308.044,,,,,,,,,,,12752779,
+116616766,116616811,0,False,residential,Saint Charles Street,118.945,,,,,,,,,,,12752787,
+116616766,116604178,0,False,residential,Park Place,76.41,,,,,,,,,,,12771311,
+116616811,116682409,0,False,residential,Saint Charles Street,29.806,,,,,,,,,,,12760279,
+116616811,116616766,0,False,residential,Saint Charles Street,118.945,,,,,,,,,,,12752787,
+116616811,116549333,0,False,residential,Corliss Avenue,89.074,,,,,,,,,,,12756634,
+116616811,116604185,0,False,residential,Corliss Avenue,133.755,,,,,,,,,,,12756634,
+116623168,116623178,0,False,residential,Sergeant Street,271.906,,,,,,,,,,,12753495,
+116623168,116623178,1,False,residential,"['Corliss Avenue', 'West Street', 'Sturtevant Street']",444.369,,,,,,,,,,,"[12766786, 12755868, 12756634]",
+116623168,116572101,0,False,residential,Sturtevant Street,96.458,,,,,,,,,,,12755868,
+116623178,116623168,0,False,residential,Sergeant Street,271.906,,,,,,,,,,,12753495,
+116623178,116623168,1,False,residential,"['Corliss Avenue', 'West Street', 'Sturtevant Street']",444.369,,,,,,,,,,,"[12756634, 12755868, 12766786]",
+116623178,116572107,0,False,residential,Corliss Avenue,96.377,,,,,,,,,,,12756634,
+116641763,116518527,0,False,residential,Jennison Avenue,29.605,,,,,,,,,,,12755764,
+116641763,116591898,0,False,residential,Corliss Avenue,112.87,,,,,,,,,,,12756637,
+116641763,116648827,0,False,residential,Corliss Avenue,88.041,,,,,,,,,,,12756637,
+116642571,116572101,0,False,residential,Sturtevant Street,30.253,,,,,,,,,,,12755868,
+116648672,116648676,0,False,residential,Corliss Avenue,9.518,,,,,,,,,,,12756634,
+116648672,116326669,0,False,residential,Corliss Avenue,72.424,,,,,,,,,,,12756634,
+116648672,116474207,0,False,residential,Baldwin Street,93.054,,,,,,,,,,,12767276,
+116648676,116648672,0,False,residential,Corliss Avenue,9.518,,,,,,,,,,,12756634,
+116648676,116648699,0,False,residential,Corliss Avenue,32.311,,,,,,,,,,,12756634,
+116648676,116533709,0,False,residential,Baldwin Street,303.634,,,,,,,,,,,12767278,
+116648699,116604185,0,False,residential,Corliss Avenue,120.564,,,,,,,,,,,12756634,
+116648699,116648676,0,False,residential,Corliss Avenue,32.311,,,,,,,,,,,12756634,
+116648699,116452842,0,False,residential,Park Place,95.243,,,,,,,,,,,12771311,
+116648770,116435894,0,False,residential,Corliss Avenue,82.519,,,,,,,,,,,12756634,
+116648770,116533733,0,False,residential,Albert Street,440.794,,,,,,,,,,,12770324,
+116648770,116549333,0,False,residential,Corliss Avenue,91.692,,,,,,,,,,,12756634,
+116648827,116641763,0,False,residential,Corliss Avenue,88.041,,,,,,,,,,,12756637,
+116648827,116728552,0,False,residential,Ozalid Road,78.36,,,,,,,,,,,12764417,
+116648827,116534761,0,False,residential,Ozalid Road,89.027,,,,,,,,,,,12764417,
+116650429,116309955,0,False,residential,4th Street,100.544,,,,,,,,,,,12756781,
+116650429,116755480,0,False,residential,Crocker Place,98.922,,,,,,,,,,,12772129,
+116650429,116532808,0,False,residential,4th Street,61.007,,,,,,,,,,,12756781,
+116682409,116616811,0,False,residential,Saint Charles Street,29.806,,,,,,,,,,,12760279,
+116728552,116648827,0,False,residential,Ozalid Road,78.36,,,,,,,,,,,12764417,
+116752362,116534840,0,False,residential,Avenue D,102.674,,,,,,,,,,,12766569,
+116755480,116650429,0,False,residential,Crocker Place,98.922,,,,,,,,,,,12772129,
+116755480,116309977,0,False,residential,Riverside Drive,115.602,,,,,,,,,,,68010278,
+116755480,116532817,0,False,residential,Riverside Drive,53.531,,,,,,,,,,,68010278,
+116755509,116309977,0,False,residential,Riverside Drive,19.104,,,,,,,,,,,68010278,
+737487228,116309955,0,False,residential,Endwell Street,18.803,,,,,,,,,,,59467373,
+737487436,116309977,0,False,residential,Endwell Street,43.229,,,,,,,,,,,59467380,
+737558296,116289581,0,False,residential,North Broad Street,113.304,,,,,,,,,,,12759248,

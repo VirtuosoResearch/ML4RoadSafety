@@ -1,0 +1,40 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+42809781,42809784,0,True,residential,106th Street,226.632,,,,,,,,,,,5701312,
+42809781,42835696,0,True,residential,32nd Avenue,75.951,,,,,,,,,,,198924744,
+42809784,42864001,0,False,primary,Northern Boulevard,76.566,4,,,,,,,,,,420295859,NY 25A
+42835684,42856741,0,True,residential,101st Street,204.716,,,,,,,,,,,586781602,
+42835688,5357866816,0,True,residential,102nd Street,207.538,,,,,,,,,,,91600918,
+42835688,42835684,0,True,residential,32nd Avenue,76.103,,,,,,,,,,,198924742,
+42835690,42835688,0,True,residential,32nd Avenue,76.474,,,,,,,,,,,198924742,
+42835690,42856747,0,True,residential,103rd Street,202.695,,,,,,,,,,,5705951,
+42835693,5357866809,0,True,residential,104th Street,212.075,,,,,,,,,,,5707518,
+42835693,42835690,0,True,residential,32nd Avenue,88.728,,,,,,,,,,,198924744,
+42835696,42835693,0,True,residential,32nd Avenue,76.118,,,,,,,,,,,198924744,
+42835696,1064257420,0,True,residential,105th Street,152.532,,,,,,,,,,,5704645,
+42856741,42856744,0,False,residential,31st Avenue,76.696,,,,,,,,,,,198924730,
+42856744,42835688,0,True,residential,102nd Street,205.769,,,,,,,,,,,91600918,
+42856744,42856741,0,False,residential,31st Avenue,76.696,,,,,,,,,,,198924730,
+42856744,1064257412,0,False,residential,31st Avenue,28.08,,,,,,,,,,,198924735,
+42856747,1064257412,0,False,residential,31st Avenue,46.582,,,,,,,,,,,240591791,
+42856747,1064257383,0,True,residential,31st Avenue,26.056,,,,,,,,,,,91600909,
+42864001,42835696,0,True,residential,105th Street,219.631,,,,,,,,,,,5704645,
+42864001,42809784,0,False,primary,Northern Boulevard,76.566,4,,,,,,,,,,420295859,NY 25A
+42864001,5357866809,0,False,primary,Northern Boulevard,76.405,4,,,,,,,,,,"[420295872, 420295867, 420295871]",NY 25A
+1064257383,1064257404,0,True,primary,Astoria Boulevard,69.027,,,,,,,,,,,420296973,
+1064257387,42856744,0,True,residential,102nd Street,37.869,,,,,,,,,,,91600918,
+1064257387,1064257410,0,True,primary,Astoria Boulevard,32.437,,,,,,,,,,,198924514,
+1064257404,42835693,0,True,residential,104th Street,182.985,,,,,,,,,,,5707518,
+1064257404,1064257420,0,True,primary,Astoria Boulevard,82.482,,,,,,,,,,,"[420296970, 420296973]",
+1064257410,1064257383,0,True,primary,Astoria Boulevard,73.187,,,,,,,,,,,420296973,
+1064257410,1064257412,0,True,residential,31st Avenue,37.13,,,,,,,,,,,91600924,
+1064257412,42856747,0,False,residential,31st Avenue,46.582,,,,,,,,,,,240591791,
+1064257412,42856744,0,False,residential,31st Avenue,28.08,,,,,,,,,,,198924735,
+5357866809,42864001,0,False,primary,Northern Boulevard,76.405,4,,,,,,,,,,"[420295872, 420295867, 420295871]",NY 25A
+5357866809,5357866813,0,True,primary,Northern Boulevard,92.344,4,,,,,,,,,,420295876,NY 25A
+5357866813,42835690,0,True,residential,103rd Street,206.835,,,,,,,,,,,198924707,
+5357866813,5357866816,0,False,primary,Northern Boulevard,76.111,4,,,,,,,,,,"[420295873, 420295858, 420295860]",NY 25A
+5357866813,5357866809,0,True,primary,Northern Boulevard,93.515,4,,,,,,,,,,555311678,NY 25A
+5357866816,5357866813,0,False,primary,Northern Boulevard,76.111,4,,,,,,,,,,"[420295873, 420295858, 420295860]",NY 25A
+5357866816,5357866817,0,True,primary,Northern Boulevard,79.859,4,,,,,,,,,,555311679,NY 25A
+5357866817,42835684,0,True,residential,101st Street,207.561,,,,,,,,,,,198924702,
+5357866817,5357866816,0,True,primary,Northern Boulevard,80.289,4,,,,,,,,,,420295864,NY 25A

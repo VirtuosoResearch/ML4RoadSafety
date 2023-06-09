@@ -1,0 +1,227 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+212005746,1862573602,0,False,secondary,Clinton Avenue,11.811,2,,,,,,,,,,121963436,NY 13
+212005746,434901927,0,False,primary,Clinton Avenue,52.973,4,,,,,,,,,,339256046,NY 13
+212005756,212005739,0,True,motorway,,572.616,2,,,65 mph,,,yes,,,,"[37313280, 37313273, 37313278]",I 81
+212005756,212005746,0,True,motorway_link,,240.077,1,,,,,,,,,,37313277,
+212007384,212021389,0,False,residential,Plaza Drive,257.156,,,,,,,,,,,397153904,
+212012750,212017806,0,False,primary,Clinton Avenue,221.384,"['6', '5', '4']",,,,,,yes,,,,"[339256032, 339256037, 339256046, 47099344, 47099347]",NY 13
+212012750,212029778,0,False,primary,Clinton Avenue,170.965,"['2', '4']",,,,,,,,,,"[339256042, 20070902]",NY 13
+212012750,212019943,0,False,residential,River Street,532.953,"['2', '3']",,,30 mph,,,,,,,"[339256072, 20073141]",
+212017806,212017811,0,True,motorway_link,,308.78,1,,,,,,,,,,295507551,
+212017806,434901927,0,False,primary,Clinton Avenue,147.232,4,,,,,,,,,,339256046,NY 13
+212017806,212012750,0,False,primary,Clinton Avenue,221.384,"['6', '5', '4']",,,,,,yes,,,,"[339256032, 339256037, 339256046, 47099344, 47099347]",NY 13
+212019943,212024636,0,False,residential,River Street,163.293,2,,,30 mph,,,,,,,20073141,
+212019943,212012750,0,False,residential,River Street,532.953,"['2', '3']",,,30 mph,,,,,,,"[339256072, 20073141]",
+212019943,212021556,0,False,residential,Cleveland Street,298.958,,,,30 mph,,,,,,,20073224,
+212020470,212020905,0,False,residential,Grant Street,107.152,,,,30 mph,,,,,,,20070302,
+212020470,212020908,0,False,residential,Grant Street,29.529,,,,30 mph,,,,,,,225686783,
+212020902,212020905,0,False,residential,Grant Street,90.818,,,,30 mph,,,,,,,20070302,
+212020902,212027240,0,False,primary,North Main Street,83.65,2,,,30 mph,,,,,,,20071735,US 11;NY 41
+212020902,212038195,0,False,primary,North Main Street,23.281,2,,,,,,,,,,225686784,US 11;NY 41
+212020905,212020470,0,False,residential,Grant Street,107.152,,,,30 mph,,,,,,,20070302,
+212020905,212020902,0,False,residential,Grant Street,90.818,,,,30 mph,,,,,,,20070302,
+212020908,212020470,0,False,residential,Grant Street,29.529,,,,30 mph,,,,,,,225686783,
+212020908,212033185,0,False,residential,Harmon Avenue,139.142,,,,30 mph,,,,,,,20072522,
+212020917,212029802,0,False,residential,Washington Street,254.014,,,,,,,,,,,20073498,
+212020917,212020920,0,False,residential,Grant Street,115.28,,,,30 mph,,,,,,,225686783,
+212020920,212027653,0,False,residential,Rickard Street,55.499,,,,,,,,,,,20070782,
+212020920,212020917,0,False,residential,Grant Street,115.28,,,,30 mph,,,,,,,225686783,
+212020920,212027636,0,False,residential,Rickard Street,196.759,,,,,,,yes,,,,"[47099345, 47099346, 20070781]",
+212020966,1918135585,0,False,residential,Central Avenue,8.129,,,,30 mph,,,,,,,20070304,
+212020969,212020973,0,False,residential,Central Avenue,178.51,,,,30 mph,,,,,,,20070304,
+212020969,1918135585,0,False,residential,Central Avenue,101.868,,,,30 mph,,,,,,,20070304,
+212020969,212022330,0,False,residential,East Avenue,266.859,,,,30 mph,,,,,,,20070400,
+212020973,212020976,0,False,residential,Central Avenue,114.587,,,,30 mph,,,,,,,20070304,
+212020973,212020969,0,False,residential,Central Avenue,178.51,,,,30 mph,,,,,,,20070304,
+212020973,212052524,0,False,residential,River Street,96.858,2,,,30 mph,,,,,,,20073141,
+212020973,212052522,0,False,residential,River Street,267.318,2,,,30 mph,,,,,,,20073141,
+212020976,212020973,0,False,residential,Central Avenue,114.587,,,,30 mph,,,,,,,20070304,
+212021389,212021396,0,False,residential,North Street,230.737,,,,,,,,,,,20070324,
+212021389,212027636,0,False,residential,"['Rickard Street', 'North Street']",82.111,,,,,,,,,,,"[47099346, 20070324]",
+212021389,212007384,0,False,residential,Plaza Drive,257.156,,,,,,,,,,,397153904,
+212021396,212049683,0,False,residential,Bower Street,72.369,,,,,,,,,,,20072839,
+212021396,212021389,0,False,residential,North Street,230.737,,,,,,,,,,,20070324,
+212021396,212045161,0,False,residential,Front Street,461.917,,,,,,,,,,,20072384,
+212021554,212021556,0,False,residential,Salisbury Street,159.663,,,,30 mph,,,,,,,20070335,
+212021556,212021554,0,False,residential,Salisbury Street,159.663,,,,30 mph,,,,,,,20070335,
+212021556,212019943,0,False,residential,Cleveland Street,298.958,,,,30 mph,,,,,,,20073224,
+212021813,212021815,0,False,residential,Kennedy Parkway,97.228,,,,,,,,,,,20070363,
+212021813,212027560,0,False,residential,"['Kennedy Parkway', 'Hickory Park Road']",399.777,,,,,,,,,,,"[20070363, 20070772]",
+212021813,212027560,1,False,residential,Hickory Lane,313.45,,,,,,,,,,,20073277,
+212021815,212021813,0,False,residential,Kennedy Parkway,97.228,,,,,,,,,,,20070363,
+212021815,212021832,0,False,residential,Kennedy Parkway,484.406,,,,,,,,,,,20070363,
+212021815,212027560,0,False,residential,Hickory Park Road,611.934,,,,,,,,,,,20070772,
+212021832,212021815,0,False,residential,Kennedy Parkway,484.406,,,,,,,,,,,20070363,
+212021832,212029763,0,False,secondary,Clinton Avenue,192.498,2,,,,,,,,,,20070898,NY 13
+212021832,1862573602,0,False,secondary,Clinton Avenue,93.255,2,,,,,,,,,,121963436,NY 13
+212022330,212047091,0,False,primary,Port Watson Street,95.195,2,,,30 mph,,,,,,,45393325,US 11;NY 41
+212022330,212020969,0,False,residential,East Avenue,266.859,,,,30 mph,,,,,,,20070400,
+212022463,212022466,0,False,residential,Regina Drive,105.755,,,,30 mph,,,,,,,20070414,
+212022463,212022995,0,False,residential,Elm Street,98.516,,,,30 mph,,,,,,,78958603,
+212022463,212027719,0,False,residential,Elm Street,141.871,,,,30 mph,,,,,,,78958603,
+212022466,212022463,0,False,residential,Regina Drive,105.755,,,,30 mph,,,,,,,20070414,
+212022995,212022463,0,False,residential,Elm Street,98.516,,,,30 mph,,,,,,,78958603,
+212022995,212024636,0,False,residential,"['North Franklin Street', 'East Garfield Street']",414.39,,,,30 mph,,,,,,,"[20072953, 20070443]",
+212022995,212027717,0,False,residential,Elm Street,40.089,,,,30 mph,,,,,,,78958603,
+212024261,212024262,0,False,residential,Peaceful Drive,65.458,,,,,,,,,,,20070537,
+212024262,212024263,0,False,residential,Peaceful Drive,104.668,,,,,,,,,,,20070537,
+212024262,212024261,0,False,residential,Peaceful Drive,65.458,,,,,,,,,,,20070537,
+212024262,212024638,0,False,residential,Oaklin Drive,77.533,,,,,,,,,,,20070573,
+212024263,212024262,0,False,residential,Peaceful Drive,104.668,,,,,,,,,,,20070537,
+212024601,212029778,0,False,primary,Clinton Avenue,104.777,2,,,,,,,,,,20070902,NY 13
+212024601,212029811,0,False,primary,Clinton Avenue,35.351,2,,,30 mph,,,,,,,20070904,NY 13
+212024630,212036359,0,False,residential,Stockton Place,102.056,,,,,,,,,,,20071650,
+212024636,212024638,0,False,residential,Oaklin Drive,80.03,,,,,,,,,,,20070573,
+212024636,212019943,0,False,residential,River Street,163.293,2,,,30 mph,,,,,,,20073141,
+212024636,212027719,0,False,residential,River Street,175.157,2,,,30 mph,,,,,,,20073141,
+212024636,212022995,0,False,residential,"['North Franklin Street', 'East Garfield Street']",414.39,,,,30 mph,,,,,,,"[20072953, 20070443]",
+212024638,212024262,0,False,residential,Oaklin Drive,77.533,,,,,,,,,,,20070573,
+212024638,212024636,0,False,residential,Oaklin Drive,80.03,,,,,,,,,,,20070573,
+212024638,212054066,0,False,residential,Redwood Avenue,103.042,,,,,,,,,,,20073318,
+212024638,212054062,0,False,residential,Redwood Avenue,75.94,,,,,,,,,,,20073318,
+212024731,212024733,0,False,residential,Pearne Avenue,84.63,,,,30 mph,,,,,,,20070579,
+212024731,212033185,0,False,residential,East Main Street,140.912,,,,30 mph,,,,,,,20071234,
+212024731,212033181,0,False,residential,East Main Street,68.311,,,,30 mph,,,,,,,20071234,
+212024733,212024731,0,False,residential,Pearne Avenue,84.63,,,,30 mph,,,,,,,20070579,
+212024733,212030040,0,False,residential,"['Pearne Avenue', 'Willow Avenue']",401.106,,,,30 mph,,,,,,,"[20070922, 20070579]",
+212024733,212033185,0,False,residential,Harmon Avenue,187.727,,,,30 mph,,,,,,,20072521,
+212025110,212025115,0,False,residential,Morningside Drive,119.291,,,,,,,,,,,20070613,
+212025110,212036444,0,False,residential,"['Morningside Drive', 'Parkwood Drive']",368.599,,,,,,,,,,,"[20071564, 20070613]",
+212025110,212029067,0,False,residential,Colony Drive,304.431,,,,,,,,,,,20070848,
+212025115,212025134,0,False,residential,Morningside Drive,60.166,,,,,,,,,,,20070614,
+212025115,212025128,0,False,residential,Morningside Drive,285.083,,,,,,,,,,,20070613,
+212025115,212025110,0,False,residential,Morningside Drive,119.291,,,,,,,,,,,20070613,
+212025128,212029766,0,False,secondary,Clinton Avenue,75.974,2,,,,,,,,,,20070898,NY 13
+212025128,212025115,0,False,residential,Morningside Drive,285.083,,,,,,,,,,,20070613,
+212025134,212025115,0,False,residential,Morningside Drive,60.166,,,,,,,,,,,20070614,
+212026346,212027237,0,False,residential,Grace Street,77.248,,,,30 mph,,,,,,,20071068,
+212026346,212031575,0,False,residential,Grace Street,95.256,,,,30 mph,,,,,,,20071068,
+212026346,5349998136,0,False,residential,Jewett Avenue,248.269,,,,,,,,,,,554353585,
+212026367,212027650,0,False,primary,Clinton Avenue,92.249,2,,,30 mph,,,,,,,20070904,NY 13
+212026367,212029811,0,False,primary,Clinton Avenue,181.849,2,,,30 mph,,,,,,,20070904,NY 13
+212027034,212027040,0,False,residential,Samson Street,298.66,,,,30 mph,,,,,,,20070742,
+212027034,212036350,0,False,primary,North Main Street,164.101,2,,,,,,,,,,20071732,US 11;NY 41
+212027034,212030040,0,False,primary,North Main Street,85.692,2,,,,,,,,,,20071732,US 11;NY 41
+212027040,212027034,0,False,residential,Samson Street,298.66,,,,30 mph,,,,,,,20070742,
+212027237,212026346,0,False,residential,Grace Street,77.248,,,,30 mph,,,,,,,20071068,
+212027237,212027240,0,False,residential,Madison Street,251.334,,,,30 mph,,,,,,,320207925,
+212027240,212020902,0,False,primary,North Main Street,83.65,2,,,30 mph,,,,,,,20071735,US 11;NY 41
+212027240,212027237,0,False,residential,Madison Street,251.334,,,,30 mph,,,,,,,320207925,
+212027240,5349998136,0,False,primary,North Main Street,62.752,2,,,30 mph,,,,,,,20071735,US 11;NY 41
+212027560,212021813,0,False,residential,"['Kennedy Parkway', 'Hickory Park Road']",399.777,,,,,,,,,,,"[20070363, 20070772]",
+212027560,212021813,1,False,residential,Hickory Lane,313.45,,,,,,,,,,,20073277,
+212027560,212021815,0,False,residential,Hickory Park Road,611.934,,,,,,,,,,,20070772,
+212027636,3999758775,0,False,residential,Riverview Avenue,203.306,,,,,,,,,,,397153997,
+212027636,212021389,0,False,residential,"['Rickard Street', 'North Street']",82.111,,,,,,,,,,,"[47099346, 20070324]",
+212027636,212020920,0,False,residential,Rickard Street,196.759,,,,,,,yes,,,,"[47099345, 47099346, 20070781]",
+212027650,212027653,0,False,residential,Rickard Street,148.287,,,,,,,,,,,20070782,
+212027650,212026367,0,False,primary,Clinton Avenue,92.249,2,,,30 mph,,,,,,,20070904,NY 13
+212027650,212029802,0,False,primary,Clinton Avenue,99.914,2,,,30 mph,,,,,,,20070904,NY 13
+212027653,212020920,0,False,residential,Rickard Street,55.499,,,,,,,,,,,20070782,
+212027653,212027650,0,False,residential,Rickard Street,148.287,,,,,,,,,,,20070782,
+212027653,212043768,0,False,residential,Medes Place,61.736,,,,,,,,,,,20072264,
+212027709,212029149,0,False,residential,Pomeroy Street,175.207,2,,,30 mph,,,,,,,20069560,
+212027709,212027712,0,False,residential,Elm Street,84.609,,,,30 mph,,,,,,,78958603,
+212027712,212027709,0,False,residential,Elm Street,84.609,,,,30 mph,,,,,,,78958603,
+212027712,212048377,0,False,residential,Excelsior Street,206.288,,,,30 mph,,,,,,,20072718,
+212027712,212027717,0,False,residential,Elm Street,82.616,,,,30 mph,,,,,,,78958603,
+212027717,1918135585,0,False,residential,Franklin Street,186.284,,,,,,,,,,,181381984,
+212027717,212027712,0,False,residential,Elm Street,82.616,,,,30 mph,,,,,,,78958603,
+212027717,212022995,0,False,residential,Elm Street,40.089,,,,30 mph,,,,,,,78958603,
+212027719,212024636,0,False,residential,River Street,175.157,2,,,30 mph,,,,,,,20073141,
+212027719,212052524,0,False,residential,River Street,92.289,2,,,30 mph,,,,,,,20073141,
+212027719,212022463,0,False,residential,Elm Street,141.871,,,,30 mph,,,,,,,78958603,
+212027719,212027727,0,False,residential,Elm Street,174.141,,,,30 mph,,,,,,,78958603,
+212027727,212027719,0,False,residential,Elm Street,174.141,,,,30 mph,,,,,,,78958603,
+212029057,212032488,0,False,primary,North Main Street,93.269,2,,,30 mph,,,,,,,20071735,US 11;NY 41
+212029067,212029763,0,False,residential,Parkwood Drive,97.423,,,,,,,,,,,20071564,
+212029067,212036444,0,False,residential,Parkwood Drive,54.534,,,,,,,,,,,20071564,
+212029067,212025110,0,False,residential,Colony Drive,304.431,,,,,,,,,,,20070848,
+212029149,212027709,0,False,residential,Pomeroy Street,175.207,2,,,30 mph,,,,,,,20069560,
+212029763,212029766,0,False,secondary,Clinton Avenue,73.142,2,,,,,,,,,,20070898,NY 13
+212029763,212029067,0,False,residential,Parkwood Drive,97.423,,,,,,,,,,,20071564,
+212029763,212021832,0,False,secondary,Clinton Avenue,192.498,2,,,,,,,,,,20070898,NY 13
+212029763,212054677,0,False,residential,Cherry Lane,157.396,,,,,,,,,,,20073376,
+212029766,212025128,0,False,secondary,Clinton Avenue,75.974,2,,,,,,,,,,20070898,NY 13
+212029766,212029763,0,False,secondary,Clinton Avenue,73.142,2,,,,,,,,,,20070898,NY 13
+212029766,212037474,0,False,residential,Sheridan Drive,201.192,,,,,,,,,,,20071664,
+212029778,212012750,0,False,primary,Clinton Avenue,170.965,"['2', '4']",,,,,,,,,,"[339256042, 20070902]",NY 13
+212029778,212024601,0,False,primary,Clinton Avenue,104.777,2,,,,,,,,,,20070902,NY 13
+212029802,212027650,0,False,primary,Clinton Avenue,99.914,2,,,30 mph,,,,,,,20070904,NY 13
+212029802,212020917,0,False,residential,Washington Street,254.014,,,,,,,,,,,20073498,
+212029811,212024601,0,False,primary,Clinton Avenue,35.351,2,,,30 mph,,,,,,,20070904,NY 13
+212029811,212026367,0,False,primary,Clinton Avenue,181.849,2,,,30 mph,,,,,,,20070904,NY 13
+212029811,3531351764,0,False,residential,Grange Street,116.606,,,,,,,,,,,20072342,
+212030040,212033181,0,False,primary,North Main Street,127.471,2,,,,,,,,,,20071732,US 11;NY 41
+212030040,212024733,0,False,residential,"['Pearne Avenue', 'Willow Avenue']",401.106,,,,30 mph,,,,,,,"[20070922, 20070579]",
+212030040,212027034,0,False,primary,North Main Street,85.692,2,,,,,,,,,,20071732,US 11;NY 41
+212030118,212036362,0,False,residential,Miller Street,229.185,,,,30 mph,,,,,,,20071550,
+212031575,212026346,0,False,residential,Grace Street,95.256,,,,30 mph,,,,,,,20071068,
+212031575,212032488,0,False,residential,Maple Avenue,242.189,,,,30 mph,,,,,,,20071159,
+212031575,212032486,0,False,residential,Maple Avenue,110.828,,,,30 mph,,,,,,,20071159,
+212032486,212031575,0,False,residential,Maple Avenue,110.828,,,,30 mph,,,,,,,20071159,
+212032488,212031575,0,False,residential,Maple Avenue,242.189,,,,30 mph,,,,,,,20071159,
+212032488,5349998136,0,False,primary,North Main Street,107.978,2,,,30 mph,,,,,,,20071735,US 11;NY 41
+212032488,212029057,0,False,primary,North Main Street,93.269,2,,,30 mph,,,,,,,20071735,US 11;NY 41
+212033181,212030040,0,False,primary,North Main Street,127.471,2,,,,,,,,,,20071732,US 11;NY 41
+212033181,212038195,0,False,primary,North Main Street,80.339,2,,,,,,,,,,225686784,US 11;NY 41
+212033181,212024731,0,False,residential,East Main Street,68.311,,,,30 mph,,,,,,,20071234,
+212033185,212024731,0,False,residential,East Main Street,140.912,,,,30 mph,,,,,,,20071234,
+212033185,212024733,0,False,residential,Harmon Avenue,187.727,,,,30 mph,,,,,,,20072521,
+212033185,212020908,0,False,residential,Harmon Avenue,139.142,,,,30 mph,,,,,,,20072522,
+212036350,212036356,0,False,residential,Miller Street,185.653,,,,30 mph,,,,,,,20071550,
+212036350,212027034,0,False,primary,North Main Street,164.101,2,,,,,,,,,,20071732,US 11;NY 41
+212036356,212036359,0,False,residential,Miller Street,98.579,,,,30 mph,,,,,,,20071550,
+212036356,212055584,0,False,residential,Euclid Avenue,222.728,,,,,,,,,,,20073469,
+212036356,212036350,0,False,residential,Miller Street,185.653,,,,30 mph,,,,,,,20071550,
+212036359,212036362,0,False,residential,Miller Street,17.155,,,,30 mph,,,,,,,20071550,
+212036359,212036356,0,False,residential,Miller Street,98.579,,,,30 mph,,,,,,,20071550,
+212036359,212024630,0,False,residential,Stockton Place,102.056,,,,,,,,,,,20071650,
+212036362,212030118,0,False,residential,Miller Street,229.185,,,,30 mph,,,,,,,20071550,
+212036362,212036359,0,False,residential,Miller Street,17.155,,,,30 mph,,,,,,,20071550,
+212036362,212055262,0,False,residential,Faywood Avenue,140.215,,,,,,,,,,,20073438,
+212036444,212029067,0,False,residential,Parkwood Drive,54.534,,,,,,,,,,,20071564,
+212036444,212054459,0,False,residential,Parkwood Circle,69.723,,,,,,,,,,,20073354,
+212036444,212025110,0,False,residential,"['Morningside Drive', 'Parkwood Drive']",368.599,,,,,,,,,,,"[20071564, 20070613]",
+212037474,212029766,0,False,residential,Sheridan Drive,201.192,,,,,,,,,,,20071664,
+212038195,212033181,0,False,primary,North Main Street,80.339,2,,,,,,,,,,225686784,US 11;NY 41
+212038195,212020902,0,False,primary,North Main Street,23.281,2,,,,,,,,,,225686784,US 11;NY 41
+212038195,212038324,0,False,residential,Arthur Avenue,307.991,,,,30 mph,,,,,,,20073109,
+212038324,212038195,0,False,residential,Arthur Avenue,307.991,,,,30 mph,,,,,,,20073109,
+212043768,212027653,0,False,residential,Medes Place,61.736,,,,,,,,,,,20072264,
+212045161,212021396,0,False,residential,Front Street,461.917,,,,,,,,,,,20072384,
+212047091,212052522,0,False,primary,Port Watson Street,86.485,2,,,30 mph,,,,,,,45393325,US 11;NY 41
+212047091,212022330,0,False,primary,Port Watson Street,95.195,2,,,30 mph,,,,,,,45393325,US 11;NY 41
+212048377,212027712,0,False,residential,Excelsior Street,206.288,,,,30 mph,,,,,,,20072718,
+212049683,212021396,0,False,residential,Bower Street,72.369,,,,,,,,,,,20072839,
+212052522,212020973,0,False,residential,River Street,267.318,2,,,30 mph,,,,,,,20073141,
+212052522,212047091,0,False,primary,Port Watson Street,86.485,2,,,30 mph,,,,,,,45393325,US 11;NY 41
+212052524,212027719,0,False,residential,River Street,92.289,2,,,30 mph,,,,,,,20073141,
+212052524,212020973,0,False,residential,River Street,96.858,2,,,30 mph,,,,,,,20073141,
+212052524,212055663,0,False,residential,Bement Place,69.69,,,,,,,,,,,20073483,
+212054062,212024638,0,False,residential,Redwood Avenue,75.94,,,,,,,,,,,20073318,
+212054066,212024638,0,False,residential,Redwood Avenue,103.042,,,,,,,,,,,20073318,
+212054459,212036444,0,False,residential,Parkwood Circle,69.723,,,,,,,,,,,20073354,
+212054677,212029763,0,False,residential,Cherry Lane,157.396,,,,,,,,,,,20073376,
+212055262,212036362,0,False,residential,Faywood Avenue,140.215,,,,,,,,,,,20073438,
+212055584,212036356,0,False,residential,Euclid Avenue,222.728,,,,,,,,,,,20073469,
+212055663,212052524,0,False,residential,Bement Place,69.69,,,,,,,,,,,20073483,
+434901921,212017806,0,True,motorway_link,,281.704,"['1', '2']",,,,,,,,,,"[295507554, 20070165]",
+434901921,212017811,0,True,motorway,,585.393,2,,,65 mph,,,yes,,,,"[37313283, 37313284, 37313231]",I 81
+434901927,212005746,0,False,primary,Clinton Avenue,52.973,4,,,,,,,,,,339256046,NY 13
+434901927,212005739,0,True,motorway_link,,331.281,1,,,,,,,,,,20068971,
+434901927,212017806,0,False,primary,Clinton Avenue,147.232,4,,,,,,,,,,339256046,NY 13
+1862573602,212005746,0,False,secondary,Clinton Avenue,11.811,2,,,,,,,,,,121963436,NY 13
+1862573602,212021832,0,False,secondary,Clinton Avenue,93.255,2,,,,,,,,,,121963436,NY 13
+1918135585,212020969,0,False,residential,Central Avenue,101.868,,,,30 mph,,,,,,,20070304,
+1918135585,212020966,0,False,residential,Central Avenue,8.129,,,,30 mph,,,,,,,20070304,
+1918135585,212027717,0,False,residential,Franklin Street,186.284,,,,,,,,,,,181381984,
+3531351759,3531351764,0,False,residential,Medes Place,189.017,,,,,,,,,,,346620345,
+3531351764,3531351766,0,False,residential,Grange Street,112.816,,,,,,,,,,,20072342,
+3531351764,212029811,0,False,residential,Grange Street,116.606,,,,,,,,,,,20072342,
+3531351764,3531351759,0,False,residential,Medes Place,189.017,,,,,,,,,,,346620345,
+3531351766,3531351764,0,False,residential,Grange Street,112.816,,,,,,,,,,,20072342,
+3999758775,212027636,0,False,residential,Riverview Avenue,203.306,,,,,,,,,,,397153997,
+5349998136,212032488,0,False,primary,North Main Street,107.978,2,,,30 mph,,,,,,,20071735,US 11;NY 41
+5349998136,212027240,0,False,primary,North Main Street,62.752,2,,,30 mph,,,,,,,20071735,US 11;NY 41
+5349998136,212026346,0,False,residential,Jewett Avenue,248.269,,,,,,,,,,,554353585,

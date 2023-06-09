@@ -1,0 +1,825 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+212379525,212389847,0,False,residential,Allard Road,126.837,,,,,,,,,,,20112560,
+212379525,212379575,0,False,residential,County Road 120,1965.92,,,,,,,,,,,20094295,
+212379525,212478253,0,False,secondary,State Highway 193,426.567,,,,,,,,,,,221560479,NY 193
+212379525,212513606,0,False,secondary,State Highway 193,222.62,,,,,,,yes,,,,"[20103362, 221560476, 221560479]",NY 193
+212379575,212379525,0,False,residential,County Road 120,1965.92,,,,,,,,,,,20094295,
+212379575,212467249,0,False,residential,North Landing Road,362.361,,,,,,,,,,,20100533,
+212379575,212438584,0,False,secondary,State Highway 3,501.6,,,,,,,,,,,221560496,NY 3
+212379575,212419359,0,False,secondary,State Highway 3,695.114,,,,,,,yes,,,,"[221560496, 221560490, 255479899]",NY 3
+212379733,212379742,0,False,tertiary,County Road 121,597.151,,,,,,,,,,,20094303,CR 121
+212379733,212379907,0,False,tertiary,County Road 121,793.275,,,,,,,,,,,20094304,CR 121
+212379733,212470539,0,False,residential,Hobbs Road,876.442,,,,,,,,,,,20113617,
+212379742,212379780,0,False,tertiary,County Road 121,1791.888,,,,,,,,,,,20094303,CR 121
+212379742,212379733,0,False,tertiary,County Road 121,597.151,,,,,,,,,,,20094303,CR 121
+212379742,212438775,0,False,residential,Clark Road,2498.547,,,,,,,,,,,20109777,
+212379780,212379787,0,False,tertiary,County Road 121,191.807,,,,,,,,,,,20094303,CR 121
+212379780,212379742,0,False,tertiary,County Road 121,1791.888,,,,,,,,,,,20094303,CR 121
+212379780,212459704,0,False,residential,Dingman Road,1424.831,,,,,,,yes,,,,"[409268896, 20099938, 409268893, 409268894, 409268895]",
+212379787,212379812,0,False,tertiary,County Road 121,152.476,,,,,,,,,,,20094303,CR 121
+212379787,212379780,0,False,tertiary,County Road 121,191.807,,,,,,,,,,,20094303,CR 121
+212379787,212475518,0,False,residential,Weaver Road,92.541,,,,,,,,,,,20101153,
+212379812,212379844,0,False,tertiary,County Road 121,1189.81,,,,,,,,,,,20094303,CR 121
+212379812,212379787,0,False,tertiary,County Road 121,152.476,,,,,,,,,,,20094303,CR 121
+212379812,212475518,0,False,residential,Weaver Road,120.043,,,,,,,,,,,20101169,
+212379844,212391233,0,False,secondary,State Highway 3,158.175,,,,,,,,,,,221560502,NY 3
+212379844,212379812,0,False,tertiary,County Road 121,1189.81,,,,,,,,,,,20094303,CR 121
+212379844,212438775,0,False,secondary,State Highway 3,743.71,,,,,,,,,,,221560502,NY 3
+212379875,212379890,0,False,tertiary,County Road 121,805.53,,,,,,,,,,,20094304,CR 121
+212379875,212482082,0,False,tertiary,"['Farm Market Road', 'County Road 121']",955.838,,,,,,,,,,,"[20094304, 20111143]",CR 121
+212379875,212470525,0,False,residential,Washburn Road,1841.024,,,,,,,,,,,20101777,
+212379890,212379907,0,False,tertiary,County Road 121,124.848,,,,,,,,,,,20094304,CR 121
+212379890,212379875,0,False,tertiary,County Road 121,805.53,,,,,,,,,,,20094304,CR 121
+212379890,212472854,0,False,residential,Nash Road,89.161,,,,,,,,,,,20101008,
+212379907,212379733,0,False,tertiary,County Road 121,793.275,,,,,,,,,,,20094304,CR 121
+212379907,212379890,0,False,tertiary,County Road 121,124.848,,,,,,,,,,,20094304,CR 121
+212379907,212472854,0,False,residential,Nash Road,68.74,,,,,,,,,,,20101011,
+212381081,212381083,0,False,secondary,County Road 122,112.455,,,,,,,,,,,20094337,
+212381081,212481020,0,False,primary,,442.305,2,,,,,,,,,,20103485,US 11
+212381081,212413335,0,False,primary,,103.852,2,,,,,,,,,,20103485,US 11
+212381083,212381081,0,False,secondary,County Road 122,112.455,,,,,,,,,,,20094337,
+212381083,212381122,0,False,secondary,County Road 122,1667.306,,,,,,,,,,,20094337,
+212381083,212413335,0,False,secondary,,29.327,,,,,,,,,,,20096668,
+212381122,212381125,0,False,secondary,County Road 122,28.068,,,,,,,,,,,20094337,
+212381122,212381083,0,False,secondary,County Road 122,1667.306,,,,,,,,,,,20094337,
+212381125,212381122,0,False,secondary,County Road 122,28.068,,,,,,,,,,,20094337,
+212381125,212612753,0,False,residential,Hagen Road,2932.643,,,,,,,,,,,20111211,
+212381824,212381827,0,False,residential,,24.827,,,,,,,,,,,20094363,
+212381827,212381824,0,False,residential,,24.827,,,,,,,,,,,20094363,
+212381827,212381833,0,False,residential,,43.927,,,,,,,,,,,20094363,
+212381827,212426522,0,False,residential,,77.427,,,,,,,,,,,20097750,
+212381833,212381836,0,False,residential,,37.998,,,,,,,,,,,20094363,
+212381833,212381827,0,False,residential,,43.927,,,,,,,,,,,20094363,
+212381833,212448595,0,False,residential,Party Lane,93.965,,,,,,,,,,,20102061,
+212381836,212381833,0,False,residential,,37.998,,,,,,,,,,,20094363,
+212381836,212451191,0,False,residential,Popcorn Lane,73.601,,,,,,,,,,,20099265,
+212381836,212448593,0,False,residential,Poverty Lane,108.824,,,,,,,,,,,20099512,
+212381851,212381854,0,False,residential,,88.45,,,,,,,,,,,20094365,
+212381851,212468577,0,False,residential,Lake Road,1169.339,,,,,,,,,,,20100654,
+212381851,212445003,0,False,residential,Lake Road,2172.116,,,,,,,,,,,20100654,
+212381851,212521683,0,False,residential,Mixer Road,2157.747,,,,,,,,,,,20103889,
+212381854,212381851,0,False,residential,,88.45,,,,,,,,,,,20094365,
+212383779,212383789,0,False,residential,,168.271,,,,,,,,,,,20094500,
+212383779,212521387,0,False,residential,County Road 79,496.727,,,,,,,,,,,20103834,
+212383779,212521571,0,False,residential,County Road 79,578.552,,,,,,,,,,,20103834,
+212383789,212383779,0,False,residential,,168.271,,,,,,,,,,,20094500,
+212383915,212383951,0,True,motorway_link,,669.183,,,,25 mph,,,,,,,20094510,
+212383915,212400502,0,True,motorway,,381.484,2,,,65 mph,,,,,,,340469278,I 81
+212383951,212400453,0,False,tertiary,County Road 90,9.18,,,,,,,,,,,20098729,
+212383951,212427054,0,False,tertiary,County Road 90,265.559,,,,,,,,,,,20098729,
+212383954,212397640,0,True,motorway,,2230.814,2,,,65 mph,,,,,,,"[340469269, 322291141]",I 81
+212383991,212400767,0,False,tertiary,Lilac Park Drive,9.575,,,,,,,,,,,20100941,
+212383991,212383954,0,True,motorway_link,,561.221,,,,,,,,,,,20094513,
+212383991,212432014,0,False,tertiary,Lilac Park Drive,108.314,,,,,,,,,,,20100941,
+212383997,212400815,0,True,motorway,,2751.94,2,,,65 mph,,,,,,,"[322291101, 322291103]",I 81
+212384023,212404026,0,False,primary,,7.371,2,,,,,,,,,,96666419,US 11
+212384023,212383997,0,True,motorway_link,,453.719,1,,,,,,,,,,20094516,
+212384023,212413335,0,False,primary,,708.006,2,,,,,,yes,,,,"[96666419, 20103485, 96666446]",US 11
+212384030,212384071,0,True,motorway_link,,378.718,1,,,,,,,,,,20094520,
+212384030,212404140,0,True,motorway,,380.451,2,,,65 mph,,,,,,,340469268,I 81
+212384071,212404107,0,False,primary,,16.612,2,,,,,,,,,,96666419,US 11
+212384071,212494840,0,False,primary,,330.742,2,,,,,,,,,,96666419,US 11
+212386847,212386850,0,False,residential,,84.757,,,,,,,,,,,20094721,
+212386847,212515868,0,False,residential,"['Mooney Gulf Road South', 'Lemay Road']",3303.498,,,,,,,,,,,"[20109427, 20103943]",
+212386847,212523387,0,False,residential,Mooney Gulf Road South,83.113,,,,,,,,,,,20103943,
+212386850,212386847,0,False,residential,,84.757,,,,,,,,,,,20094721,
+212389838,212389847,0,False,residential,,136.726,,,,,,,,,,,20094918,
+212389838,212389847,1,False,residential,Allard Road,45.783,,,,,,,,,,,20112560,
+212389838,212527288,0,False,residential,Allard Road,725.252,,,,,,,,,,,20112560,
+212389847,212379525,0,False,residential,Allard Road,126.837,,,,,,,,,,,20112560,
+212389847,212389838,0,False,residential,,136.726,,,,,,,,,,,20094918,
+212389847,212389838,1,False,residential,Allard Road,45.783,,,,,,,,,,,20112560,
+212391233,212379844,0,False,secondary,State Highway 3,158.175,,,,,,,,,,,221560502,NY 3
+212391233,212448589,0,False,residential,Renshaw Bay Road,992.094,,,,,,,,,,,20099052,
+212391853,212391867,0,False,residential,,628.022,,,,,,,,,,,20095040,
+212391853,212393162,0,False,secondary,State Highway 3,288.89,,,,,,,,,,,221560496,NY 3
+212391853,212416218,0,False,secondary,State Highway 3,1109.403,,,,,,,,,,,221560496,NY 3
+212391867,212391853,0,False,residential,,628.022,,,,,,,,,,,20095040,
+212392099,212392116,0,False,residential,,339.683,,,,,,,,,,,20095060,
+212392099,212392116,1,False,residential,Torrey Hill Road,178.06,,,,,,,,,,,20100863,
+212392099,212409260,0,False,residential,Torrey Hill Road,2298.551,,,,,,,,,,,"[409268902, 20100863]",
+212392116,212392099,0,False,residential,,339.683,,,,,,,,,,,20095060,
+212392116,212392099,1,False,residential,Torrey Hill Road,178.06,,,,,,,,,,,20100863,
+212392116,212470849,0,False,residential,Torrey Hill Road,826.406,,,,,,,,,,,"[409268901, 20100863]",
+212393162,212393179,0,False,residential,,182.274,,,,,,,,,,,20095149,
+212393162,2158347962,0,False,secondary,State Highway 3,873.458,,,,,,,,,,,221560496,NY 3
+212393162,212391853,0,False,secondary,State Highway 3,288.89,,,,,,,,,,,221560496,NY 3
+212393179,212393162,0,False,residential,,182.274,,,,,,,,,,,20095149,
+212393649,212393682,0,False,residential,,49.689,,,,,,,,,,,20097600,
+212393682,212393649,0,False,residential,,49.689,,,,,,,,,,,20097600,
+212396231,212396233,0,False,residential,,58.965,,,,,,,,,,,20095351,
+212396231,212553977,0,False,primary,North Main Street,434.494,2,,,,,,,,,,20107138,US 11
+212396231,212513533,0,False,primary,North Main Street,1930.809,2,,,,,,,,,,"[96666417, 20107138]",US 11
+212396233,212396231,0,False,residential,,58.965,,,,,,,,,,,20095351,
+212396475,212428190,0,False,residential,,594.163,,,,,,,,,,,20097906,
+212397611,212513491,0,False,secondary,State Highway 193,271.12,,,,,,,,,,,35972186,NY 193
+212397611,212422344,0,False,secondary,State Highway 193,360.289,,,,,,,yes,,,,"[35972183, 35972184, 35972185, 35972186, 20103355]",NY 193
+212397611,212397581,0,True,motorway_link,,400.507,1,,,,,,,,,,340469302,
+212397640,212397611,0,True,motorway_link,,356.124,,,,,,,,,,,20095479,
+212397640,212397581,0,True,motorway,,652.04,2,,,65 mph,,,,,,,340469283,I 81
+212400453,212443032,0,False,tertiary,County Road 90,117.513,,,,,,,,,,,20098729,
+212400453,212383951,0,False,tertiary,County Road 90,9.18,,,,,,,,,,,20098729,
+212400453,212400502,0,True,motorway_link,,587.161,,,,,,,,,,,20095700,
+212400502,212384030,0,True,motorway,,3915.628,2,,,65 mph,,,yes,,,,"[35972192, 340469278, 35972191]",I 81
+212400767,212383991,0,False,tertiary,Lilac Park Drive,9.575,,,,,,,,,,,20100941,
+212400767,212443032,0,False,tertiary,"['Lilac Park Drive', 'County Road 90']",375.773,,,,,,,yes,,,,"[20098729, 35972187, 35972188, 20100941]",
+212400815,212400767,0,True,motorway_link,,465.917,,,,25 mph,,,,,,,20095732,
+212400815,212383954,0,True,motorway,,358.028,2,,,65 mph,,,,,,,322291141,I 81
+212401263,212427602,0,False,residential,,120.412,,,,,,,,,,,20097869,
+212401263,212401263,0,False,residential,,205.333,,,,,,,,,,,20095769,
+212401263,212401263,1,False,residential,,205.333,,,,,,,,,,,20095769,
+212404026,212384023,0,False,primary,,7.371,2,,,,,,,,,,96666419,US 11
+212404026,212494840,0,False,primary,,510.413,2,,,,,,,,,,96666419,US 11
+212404077,212404026,0,True,motorway_link,,329.483,1,,,25 mph,,,,,,,20095976,
+212404077,212383997,0,True,motorway,,387.508,2,,,65 mph,,,,,,,322291101,I 81
+212404107,212384071,0,False,primary,,16.612,2,,,,,,,,,,96666419,US 11
+212404107,212404140,0,True,motorway_link,,425.735,1,,,,,,,,,,20095979,
+212404374,212404378,0,False,residential,,53.954,,,,,,,,,,,20096003,
+212404374,212445092,0,False,secondary,State Highway 289,569.445,,,,,,,,,,,221560487,NY 289
+212404374,212445073,0,False,secondary,State Highway 289,1031.888,,,,,,,,,,,221560487,NY 289
+212404378,212404374,0,False,residential,,53.954,,,,,,,,,,,20096003,
+212404378,212404378,0,False,residential,,141.747,,,,,,,,,,,20096004,
+212404378,212404378,1,False,residential,,141.747,,,,,,,,,,,20096004,
+212405436,212418182,0,False,residential,Mooney Gulf Road North,956.556,,,,,,,,,,,"[20096072, 20103851]",
+212406490,212471453,0,False,residential,,606.769,,,,,,,,,,,20096105,
+212409260,212409266,0,False,residential,,152.623,,,,,,,,,,,20096365,
+212409260,212436243,0,False,residential,Torrey Hill Road,180.725,,,,,,,,,,,409268902,
+212409260,212392099,0,False,residential,Torrey Hill Road,2298.551,,,,,,,,,,,"[409268902, 20100863]",
+212409266,212409260,0,False,residential,,152.623,,,,,,,,,,,20096365,
+212413108,2158347962,0,False,secondary,State Highway 3,39.135,,,,,,,,,,,221560496,NY 3
+212413108,212543000,0,False,residential,Webb Road,251.067,,,,,,,,,,,20113635,
+212413108,212438664,0,False,secondary,State Highway 3,322.922,,,,,,,,,,,221560496,NY 3
+212413125,2158347962,0,False,residential,,582.4,,,,,,,,,,,20096657,
+212413335,212381083,0,False,secondary,,29.327,,,,,,,,,,,20096668,
+212413335,212384023,0,False,primary,,708.006,2,,,,,,yes,,,,"[96666419, 20103485, 96666446]",US 11
+212413335,212381081,0,False,primary,,103.852,2,,,,,,,,,,20103485,US 11
+212413693,212504885,0,False,residential,Wright Road,2725.589,,,,,,,,,,,20102808,
+212413967,212413977,0,False,residential,,230.103,,,,,,,,,,,20096709,
+212413967,212492703,0,False,residential,Town Line Road,1337.615,,,,,,,,,,,20109160,
+212413967,212446207,0,False,residential,Town Line Road,898.462,,,,,,,,,,,20109160,
+212413977,212413967,0,False,residential,,230.103,,,,,,,,,,,20096709,
+212414154,212414166,0,False,residential,,327.318,,,,,,,,,,,20096729,
+212414154,212414265,0,False,residential,County Road 78,311.941,,,,,,,,,,,20103818,
+212414154,212521387,0,False,residential,County Road 78,782.127,,,,,,,,,,,20103818,
+212414166,212414154,0,False,residential,,327.318,,,,,,,,,,,20096729,
+212414265,212414271,0,False,residential,,202.465,,,,,,,,,,,20096736,
+212414265,212414352,0,False,residential,County Road 78,377.534,,,,,,,,,,,20103818,
+212414265,212414154,0,False,residential,County Road 78,311.941,,,,,,,,,,,20103818,
+212414271,212414265,0,False,residential,,202.465,,,,,,,,,,,20096736,
+212414352,212414354,0,False,residential,,205.592,,,,,,,,,,,20096741,
+212414352,212502993,0,False,residential,County Road 78,734.362,,,,,,,,,,,20103818,
+212414352,212414265,0,False,residential,County Road 78,377.534,,,,,,,,,,,20103818,
+212414354,212414352,0,False,residential,,205.592,,,,,,,,,,,20096741,
+212416206,212416218,0,False,residential,,806.024,,,,,,,,,,,20096864,
+212416218,212416206,0,False,residential,,806.024,,,,,,,,,,,20096864,
+212416218,212391853,0,False,secondary,State Highway 3,1109.403,,,,,,,,,,,221560496,NY 3
+212416218,212438584,0,False,secondary,State Highway 3,70.32,,,,,,,,,,,221560496,NY 3
+212416440,212416445,0,False,residential,,113.901,,,,,,,,,,,20096881,
+212416440,212498344,0,False,residential,Presidential Lane,116.625,,,,,,,,,,,20102437,
+212416440,212494027,0,False,residential,Presidential Lane,73.012,,,,,,,,,,,20102437,
+212416445,212416440,0,False,residential,,113.901,,,,,,,,,,,20096881,
+212417394,212417405,0,False,residential,,122.635,,,,,,,,,,,20096973,
+212417394,212446358,0,False,residential,Waite Road,1120.195,,,,,,,,,,,20104236,
+212417394,212417424,0,False,residential,Waite Road,257.618,,,,,,,,,,,20104236,
+212417405,212417394,0,False,residential,,122.635,,,,,,,,,,,20096973,
+212417424,212417432,0,False,residential,,72.626,,,,,,,,,,,20096976,
+212417424,212417394,0,False,residential,Waite Road,257.618,,,,,,,,,,,20104236,
+212417424,212504885,0,False,residential,Waite Road,811.966,,,,,,,,,,,20104236,
+212417432,212417424,0,False,residential,,72.626,,,,,,,,,,,20096976,
+212417846,212417848,0,False,unclassified,,24.071,,,,,,,,,,,20097004,
+212417846,212443326,0,False,primary,,897.211,2,,,,,,,,,,96666417,US 11
+212417846,212515954,0,False,primary,,117.425,2,,,,,,,,,,96666417,US 11
+212417848,212417846,0,False,unclassified,,24.071,,,,,,,,,,,20097004,
+212417848,212515954,0,False,residential,Wilder Road,116.81,,,,,,,,,,,20103640,
+212417848,212518725,0,False,residential,Wilder Road,701.138,,,,,,,,,,,20103640,
+212418101,212418105,0,False,residential,,202.879,,,,,,,,,,,20097020,
+212418101,212504885,0,False,residential,Waite Road,875.375,,,,,,,,,,,20104236,
+212418105,212418101,0,False,residential,,202.879,,,,,,,,,,,20097020,
+212418182,212418185,0,False,residential,,30.943,,,,,,,,,,,20097030,
+212418182,212405436,0,False,residential,Mooney Gulf Road North,956.556,,,,,,,,,,,"[20096072, 20103851]",
+212418182,212519291,0,False,residential,Mooney Gulf Road North,48.008,,,,,,,,,,,20103851,
+212418185,212418182,0,False,residential,,30.943,,,,,,,,,,,20097030,
+212418185,212427394,0,False,residential,Baker Road,657.047,,,,,,,,,,,20108378,
+212418185,212519291,0,False,residential,Baker Road,51.4,,,,,,,,,,,20108378,
+212418781,212492703,0,False,residential,Nohle Drive,918.893,,,,,,,,,,,"[20097074, 20102059]",
+212419359,212419373,0,False,residential,,198.587,,,,,,,,,,,20097114,
+212419359,212379575,0,False,secondary,State Highway 3,695.114,,,,,,,yes,,,,"[221560496, 221560490, 255479899]",NY 3
+212419359,212438559,0,False,secondary,State Highway 3,567.109,,,,,,,,,,,255479899,NY 3
+212419373,212419359,0,False,residential,,198.587,,,,,,,,,,,20097114,
+212420317,212448628,0,False,residential,Renshaw Bay Road,289.355,,,,,,,,,,,"[20097194, 20099052]",
+212421298,212421314,0,False,residential,,499.75,,,,,,,,,,,20097283,
+212421314,212421298,0,False,residential,,499.75,,,,,,,,,,,20097283,
+212421314,212444948,0,False,residential,O Connor Road,1704.099,,,,,,,,,,,20106655,
+212421314,212505262,0,False,residential,"['O Connor Road', 'Oconnor Road']",3607.311,,,,,,,,,,,"[20107633, 20106655]",
+212421314,212654057,0,False,residential,Logging Road,3769.648,,,,,,,,,,,20113570,
+212422324,212422344,0,True,motorway_link,,324.024,1,,,25 mph,,,,,,,20097371,
+212422324,212422371,0,True,motorway,,595.985,2,,,65 mph,,,,,,,340469278,I 81
+212422344,212397611,0,False,secondary,State Highway 193,360.289,,,,,,,yes,,,,"[35972183, 35972184, 35972185, 35972186, 20103355]",NY 193
+212422344,212513454,0,False,secondary,State Highway 193,1169.988,,,,,,,,,,,20103355,NY 193
+212422344,212422371,0,True,motorway_link,,327.933,,,,,,,,,,,296188505,
+212422371,212383915,0,True,motorway,,2102.626,2,,,65 mph,,,,,,,340469278,I 81
+212422723,212438552,0,False,residential,North Skinner Road,1111.542,,,,,,,,,,,20108920,
+212426404,212515868,0,False,primary,,165.147,2,,,,,,,,,,96666417,US 11
+212426404,4601103461,0,False,residential,,157.312,,,,,,,,,,,20097731,
+212426404,212515877,0,False,primary,,407.241,2,,,,,,,,,,96666417,US 11
+212426483,212426487,0,False,residential,,334.155,,,,,,,,,,,20097747,
+212426483,212451532,0,False,tertiary,County Road 189,1228.794,2,,,,,,,,,,252849009,
+212426483,212451446,0,False,tertiary,County Road 189,797.537,2,,,,,,,,,,252849009,
+212426487,212426483,0,False,residential,,334.155,,,,,,,,,,,20097747,
+212426522,212381827,0,False,residential,,77.427,,,,,,,,,,,20097750,
+212426522,212430984,0,False,residential,Renshaw Bay Road,49.01,,,,,,,,,,,20099052,
+212426522,212448595,0,False,residential,Renshaw Bay Road,39.216,,,,,,,,,,,20099052,
+212427036,212427048,0,False,residential,,265.126,,,,,,,,,,,20097798,
+212427036,212427048,1,False,residential,Factory Road,190.073,,,,,,,,,,,20112991,
+212427036,212544332,0,False,residential,Factory Road,802.735,,,,,,,,,,,20112991,
+212427048,212427036,0,False,residential,,265.126,,,,,,,,,,,20097798,
+212427048,212427036,1,False,residential,Factory Road,190.073,,,,,,,,,,,20112991,
+212427048,212513491,0,False,residential,Factory Road,270.35,,,,,,,,,,,20112991,
+212427054,212427072,0,False,residential,,273.906,,,,,,,,,,,20097801,
+212427054,212383951,0,False,tertiary,County Road 90,265.559,,,,,,,,,,,20098729,
+212427054,212443013,0,False,tertiary,County Road 90,471.187,,,,,,,,,,,20098729,
+212427072,212427054,0,False,residential,,273.906,,,,,,,,,,,20097801,
+212427088,212482437,0,False,tertiary,Ellis Road,54.01,,,,,,,,,,,20107967,CR 87
+212427088,212481966,0,False,tertiary,County Road 87,819.641,,,,,,,,,,,20101526,CR 87
+212427088,212527164,0,False,residential,Fone Place,283.614,,,,,,,,,,,20104270,
+212427394,212427402,0,False,residential,,85.564,,,,,,,,,,,20097848,
+212427394,212427402,1,False,residential,Baker Road,58.917,,,,,,,,,,,20108378,
+212427394,212418185,0,False,residential,Baker Road,657.047,,,,,,,,,,,20108378,
+212427402,212571829,0,False,residential,Baker Road,15.852,,,,,,,,,,,20108378,
+212427402,212427394,0,False,residential,,85.564,,,,,,,,,,,20097848,
+212427402,212427394,1,False,residential,Baker Road,58.917,,,,,,,,,,,20108378,
+212427602,212401263,0,False,residential,,120.412,,,,,,,,,,,20097869,
+212427602,212432194,0,False,residential,Mannsville Road,1431.723,,,,,,,,,,,20098698,
+212427602,212442345,0,False,residential,Mannsville Road,2915.265,,,,,,,,,,,20098698,
+212428190,212396475,0,False,residential,,594.163,,,,,,,,,,,20097906,
+212428190,212448595,0,False,residential,Renshaw Bay Road,18.898,,,,,,,,,,,20099052,
+212428190,212448593,0,False,residential,Renshaw Bay Road,15.921,,,,,,,,,,,20099052,
+212428597,212428607,0,False,residential,,364.784,,,,,,,,,,,20097927,
+212428597,212456945,0,False,residential,Montario Point Road,556.869,,,,,,,,,,,20099718,
+212428597,212438775,0,False,residential,Montario Point Road,1180.892,,,,,,,,,,,20099718,
+212428607,212428597,0,False,residential,,364.784,,,,,,,,,,,20097927,
+212429328,212429343,0,False,residential,,568.238,,,,,,,,,,,20097991,
+212429328,212442738,0,False,residential,Loomis Road,2123.856,,,,,,,,,,,20099325,
+212429328,212443519,0,False,residential,Loomis Road,457.546,,,,,,,,,,,20099325,
+212429343,212429328,0,False,residential,,568.238,,,,,,,,,,,20097991,
+212430984,212430987,0,False,residential,,64.784,,,,,,,,,,,20098144,
+212430984,212448628,0,False,residential,Renshaw Bay Road,451.089,,,,,,,,,,,20099052,
+212430984,212426522,0,False,residential,Renshaw Bay Road,49.01,,,,,,,,,,,20099052,
+212430987,212430984,0,False,residential,,64.784,,,,,,,,,,,20098144,
+212432014,212460926,0,False,residential,"['Brown Road', 'Mill Street']",1721.468,,,,,,,,,,,"[20099995, 20098220]",
+212432014,212460996,0,False,tertiary,Lilac Park Drive,431.732,,,,,,,,,,,20100941,
+212432014,212383991,0,False,tertiary,Lilac Park Drive,108.314,,,,,,,,,,,20100941,
+212432194,212427602,0,False,residential,Mannsville Road,1431.723,,,,,,,,,,,20098698,
+212432194,212442628,0,False,unclassified,Mannsville Road,2240.672,,,,,,,,,,,20098703,
+212432194,212432224,0,False,residential,Brown Road,1352.047,,,,,,,,,,,"[20098235, 410680453]",
+212432224,212432287,0,False,residential,Brown Road,2412.524,,,,,,,,,,,20098235,
+212432224,212432194,0,False,residential,Brown Road,1352.047,,,,,,,,,,,"[20098235, 410680453]",
+212432224,212616919,0,False,residential,Musher Run,198.894,,,,,,,,,,,20111247,
+212432287,212432295,0,False,residential,Brown Road,18.602,,,,,,,,,,,20098235,
+212432287,212432224,0,False,residential,Brown Road,2412.524,,,,,,,,,,,20098235,
+212432287,212444456,0,False,residential,Sharp Road,1605.233,,,,,,,,,,,20103796,
+212432295,212432287,0,False,residential,Brown Road,18.602,,,,,,,,,,,20098235,
+212432295,212443763,0,False,unclassified,County Road 91,1129.679,,,,,,,,,,,20098758,CR 91
+212432295,212443649,0,False,unclassified,County Road 91,1541.807,,,,,,,,,,,20098758,CR 91
+212436226,212436235,0,False,secondary,Eisenhower Road,204.866,,,,,,,,,,,20098414,NY 193
+212436226,212530707,0,False,secondary,Main Street,583.028,,,,,,,,,,,20104551,NY 289
+212436226,212543000,0,False,residential,South Landing Road,3735.607,,,,,,,,,,,20105961,
+212436226,212478253,0,False,secondary,State Highway 193,3667.117,,,,,,,,,,,221560479,NY 193
+212436235,212436243,0,False,secondary,Eisenhower Road,124.017,,,,,,,,,,,20098414,NY 193
+212436235,212436226,0,False,secondary,Eisenhower Road,204.866,,,,,,,,,,,20098414,NY 193
+212436235,212482082,0,False,tertiary,Farm Market Road,297.079,,,,,,,,,,,20111143,CR 121
+212436243,212436249,0,False,secondary,Eisenhower Road,378.822,,,,,,,,,,,20098414,NY 193
+212436243,212436235,0,False,secondary,Eisenhower Road,124.017,,,,,,,,,,,20098414,NY 193
+212436243,212409260,0,False,residential,Torrey Hill Road,180.725,,,,,,,,,,,409268902,
+212436249,212513369,0,False,secondary,"['State Highway 193', 'Eisenhower Road']",1504.899,,,,,,,,,,,"[20103355, 20098414]",NY 193
+212436249,212436243,0,False,secondary,Eisenhower Road,378.822,,,,,,,,,,,20098414,NY 193
+212436249,212530707,0,False,residential,Joslyn Road,450.612,,,,,,,,,,,20109450,
+212436357,212436375,0,False,residential,Johnson Road,794.149,,,,,,,,,,,20098421,
+212436357,212527288,0,False,residential,Allard Road,1537.416,,,,,,,,,,,20112560,
+212436375,212552878,0,False,residential,Machold Road,86.465,,,,,,,,,,,20106999,
+212436375,212436357,0,False,residential,Johnson Road,794.149,,,,,,,,,,,20098421,
+212436375,212552950,0,False,residential,Machold Road,72.799,,,,,,,,,,,20107007,
+212437151,212456951,0,False,residential,Montario Point Road,48.136,,,,,,,,,,,20099718,
+212437151,212525176,0,False,residential,"['Cranberry Lane', 'North Parsons Road']",861.155,,,,,,,,,,,"[20098456, 20109200]",
+212437151,212456947,0,False,residential,Montario Point Road,71.62,,,,,,,,,,,20099718,
+212437151,212456947,1,False,residential,Fadden Road,386.131,,,,,,,,,,,20109923,
+212438442,212521571,0,False,residential,County Road 79,1191.474,,,,,,,,,,,20103834,
+212438442,212438492,0,False,secondary,State Highway 3,2552.353,,,,,,,,,,,255479899,NY 3
+212438492,212438507,0,False,secondary,State Highway 3,620.832,,,,,,,,,,,255479899,NY 3
+212438492,212438442,0,False,secondary,State Highway 3,2552.353,,,,,,,,,,,255479899,NY 3
+212438507,212513558,0,False,secondary,State Highway 193,1198.328,,,,,,,,,,,20103362,NY 193
+212438507,212438547,0,False,secondary,State Highway 3,1488.018,,,,,,,,,,,255479899,NY 3
+212438507,212438492,0,False,secondary,State Highway 3,620.832,,,,,,,,,,,255479899,NY 3
+212438547,212562421,0,False,residential,Pierrepont Place,732.781,,,,,,,,,,,20107803,
+212438547,212438552,0,False,secondary,State Highway 3,127.011,,,,,,,,,,,255479899,NY 3
+212438547,212438507,0,False,secondary,State Highway 3,1488.018,,,,,,,,,,,255479899,NY 3
+212438552,212422723,0,False,residential,North Skinner Road,1111.542,,,,,,,,,,,20108920,
+212438552,212438559,0,False,secondary,State Highway 3,182.291,,,,,,,,,,,255479899,NY 3
+212438552,212438547,0,False,secondary,State Highway 3,127.011,,,,,,,,,,,255479899,NY 3
+212438559,212513561,0,False,residential,Hessell Road,1651.894,,,,,,,,,,,20110953,
+212438559,212419359,0,False,secondary,State Highway 3,567.109,,,,,,,,,,,255479899,NY 3
+212438559,212438552,0,False,secondary,State Highway 3,182.291,,,,,,,,,,,255479899,NY 3
+212438584,212467249,0,False,residential,South Skinner Road,386.4,,,,,,,,,,,221560471,
+212438584,212416218,0,False,secondary,State Highway 3,70.32,,,,,,,,,,,221560496,NY 3
+212438584,212379575,0,False,secondary,State Highway 3,501.6,,,,,,,,,,,221560496,NY 3
+212438664,212543000,0,False,residential,South Landing Road,183.436,,,,,,,,,,,20105961,
+212438664,212438737,0,False,secondary,State Highway 3,1136.834,,,,,,,yes,,,,"[221560496, 221560493, 221560502]",NY 3
+212438664,212413108,0,False,secondary,State Highway 3,322.922,,,,,,,,,,,221560496,NY 3
+212438737,212472854,0,False,residential,Nash Road,3123.677,,,,,,,,,,,20101008,
+212438737,212438775,0,False,secondary,State Highway 3,1150.805,,,,,,,,,,,221560502,NY 3
+212438737,212438664,0,False,secondary,State Highway 3,1136.834,,,,,,,yes,,,,"[221560496, 221560493, 221560502]",NY 3
+212438775,212428597,0,False,residential,Montario Point Road,1180.892,,,,,,,,,,,20099718,
+212438775,212379742,0,False,residential,Clark Road,2498.547,,,,,,,,,,,20109777,
+212438775,212379844,0,False,secondary,State Highway 3,743.71,,,,,,,,,,,221560502,NY 3
+212438775,212438737,0,False,secondary,State Highway 3,1150.805,,,,,,,,,,,221560502,NY 3
+212442345,212427602,0,False,residential,Mannsville Road,2915.265,,,,,,,,,,,20098698,
+212442345,212444356,0,False,tertiary,County Road 92,638.973,,,,,,,,,,,20098809,
+212442628,212442686,0,False,unclassified,Mannsville Road,582.998,,,,,,,,,,,20098703,
+212442628,212432194,0,False,unclassified,Mannsville Road,2240.672,,,,,,,,,,,20098703,
+212442686,212442628,0,False,unclassified,Mannsville Road,582.998,,,,,,,,,,,20098703,
+212442686,212442738,0,False,unclassified,County Road 90,960.43,,,,,,,,,,,20098716,
+212442686,212443562,0,False,residential,Dixon Road,3782.098,,,,,,,,,,,20111284,
+212442738,212471956,0,False,unclassified,"['Lorraine Street', 'County Road 90']",3423.48,,,,,,,,,,,"[20109010, 20098716]",
+212442738,212442686,0,False,unclassified,County Road 90,960.43,,,,,,,,,,,20098716,
+212442738,212429328,0,False,residential,Loomis Road,2123.856,,,,,,,,,,,20099325,
+212442915,212443013,0,False,tertiary,County Road 90,2974.548,,,,,,,,,,,20098729,
+212442915,212482105,0,False,tertiary,County Road 87,599.345,,,,,,,,,,,20101531,CR 87
+212442915,212482437,0,False,tertiary,Ellis Road,2886.8,,,,,,,,,,,20107967,CR 87
+212443013,212427054,0,False,tertiary,County Road 90,471.187,,,,,,,,,,,20098729,
+212443013,212442915,0,False,tertiary,County Road 90,2974.548,,,,,,,,,,,20098729,
+212443013,212470849,0,False,residential,Woodpecker Lane,2098.453,,,,,,,,,,,20108900,
+212443032,212400453,0,False,tertiary,County Road 90,117.513,,,,,,,,,,,20098729,
+212443032,212400767,0,False,tertiary,"['County Road 90', 'Lilac Park Drive']",375.773,,,,,,,yes,,,,"[20098729, 35972187, 35972188, 20100941]",
+212443032,212482437,0,False,residential,"['Cobblestone Corner Road', 'County Road 89']",2655.389,,,,,,,,,,,"[20101552, 20112924]",
+212443303,212443305,0,False,unclassified,County Road 91,47.349,,,,,,,,,,,20098747,CR 91
+212443303,212544332,0,False,unclassified,"['Wardwell Settlement Road', 'County Road 91']",1023.469,,,,,,,,,,,"[20098747, 35972181]",CR 91
+212443303,212518725,0,False,residential,Wilder Road,34.71,,,,,,,,,,,20103634,
+212443305,212443303,0,False,unclassified,County Road 91,47.349,,,,,,,,,,,20098747,CR 91
+212443305,212443326,0,False,unclassified,County Road 91,230.144,,,,,,,,,,,20098747,CR 91
+212443305,212518725,0,False,residential,Wilder Road,49.504,,,,,,,,,,,20103640,
+212443326,212443411,0,False,primary,,90.662,2,,,,,,,,,,96666417,US 11
+212443326,212443305,0,False,unclassified,County Road 91,230.144,,,,,,,,,,,20098747,CR 91
+212443326,212417846,0,False,primary,,897.211,2,,,,,,,,,,96666417,US 11
+212443403,212481349,0,False,unclassified,County Road 85,2665.597,,,,,,,yes,,,,"[20101480, 35972174, 35972175, 35972176, 35972177]",CR 85
+212443403,212481208,0,False,unclassified,County Road 85,1027.371,,,,,,,,,,,20101480,CR 85
+212443403,212544332,0,False,unclassified,Wardwell Settlement Road,2360.852,,,,,,,yes,,,,"[20106088, 35972178, 35972179, 35972180, 35972181]",CR 91
+212443411,212513533,0,False,primary,,38.386,2,,,,,,,,,,96666417,US 11
+212443411,212443326,0,False,primary,,90.662,2,,,,,,,,,,96666417,US 11
+212443411,212443446,0,False,unclassified,County Road 91,1175.997,,,,,,,,,,,20098758,CR 91
+212443446,212443519,0,False,unclassified,County Road 91,2070.572,,,,,,,,,,,20098758,CR 91
+212443446,212443411,0,False,unclassified,County Road 91,1175.997,,,,,,,,,,,20098758,CR 91
+212443446,212632426,0,False,residential,Cobb Place,1546.5,,,,,,,,,,,20112220,
+212443519,212443562,0,False,unclassified,County Road 91,1396.009,,,,,,,,,,,20098758,CR 91
+212443519,212443446,0,False,unclassified,County Road 91,2070.572,,,,,,,,,,,20098758,CR 91
+212443519,212429328,0,False,residential,Loomis Road,457.546,,,,,,,,,,,20099325,
+212443519,212544096,0,False,residential,Dodge Road,1310.851,,,,,,,,,,,20112216,
+212443562,212443613,0,False,unclassified,County Road 91,840.518,,,,,,,,,,,20098758,CR 91
+212443562,212443519,0,False,unclassified,County Road 91,1396.009,,,,,,,,,,,20098758,CR 91
+212443562,212442686,0,False,residential,Dixon Road,3782.098,,,,,,,,,,,20111284,
+212443613,212443649,0,False,unclassified,County Road 91,1187.849,,,,,,,,,,,20098758,CR 91
+212443613,212443562,0,False,unclassified,County Road 91,840.518,,,,,,,,,,,20098758,CR 91
+212443613,212523364,0,False,residential,Mooney Gulf Road South,873.555,,,,,,,,,,,20103943,
+212443613,4088559699,0,False,residential,Bishop Road,1203.52,,,,,,,,,,,406795455,
+212443649,212432295,0,False,unclassified,County Road 91,1541.807,,,,,,,,,,,20098758,CR 91
+212443649,212443613,0,False,unclassified,County Road 91,1187.849,,,,,,,,,,,20098758,CR 91
+212443649,212523387,0,False,residential,Larman Road,2032.609,,,,,,,,,,,20112370,
+212443763,212432295,0,False,unclassified,County Road 91,1129.679,,,,,,,,,,,20098758,CR 91
+212443763,212444534,0,False,tertiary,County Road 92,1370.735,,,,,,,,,,,20098809,
+212443763,212444462,0,False,tertiary,County Road 92,1071.629,,,,,,,,,,,20098809,
+212444356,212444456,0,False,tertiary,County Road 92,3764.246,,,,,,,,,,,20098809,
+212444356,212442345,0,False,tertiary,County Road 92,638.973,,,,,,,,,,,20098809,
+212444356,212446164,0,False,unclassified,County Road 95,1494.212,,,,,,,,,,,20098918,
+212444456,212444462,0,False,tertiary,County Road 92,203.943,,,,,,,,,,,20098809,
+212444456,212444356,0,False,tertiary,County Road 92,3764.246,,,,,,,,,,,20098809,
+212444456,212432287,0,False,residential,Sharp Road,1605.233,,,,,,,,,,,20103796,
+212444462,212443763,0,False,tertiary,County Road 92,1071.629,,,,,,,,,,,20098809,
+212444462,212444456,0,False,tertiary,County Road 92,203.943,,,,,,,,,,,20098809,
+212444462,212566565,0,False,residential,Waterville Road,1564.318,,,,,,,,,,,20110924,
+212444534,212443763,0,False,tertiary,County Road 92,1370.735,,,,,,,,,,,20098809,
+212444534,212444835,0,False,unclassified,County Road 93,4531.884,,,,,,,,,,,20098838,
+212444534,212444698,0,False,tertiary,County Road 93,74.737,,,,,,,,,,,406787535,
+212444694,212451623,0,False,tertiary,County Road 189,145.112,2,,,,,,,,,,252849009,
+212444694,212451534,0,False,tertiary,County Road 189,2777.542,2,,,,,,,,,,252849009,
+212444694,212444698,0,False,tertiary,County Road 93,106.177,,,,,,,,,,,406787535,
+212444698,212451623,0,False,residential,Lorraine Avenue,99.353,,,,,,,,,,,20109468,
+212444698,212444534,0,False,tertiary,County Road 93,74.737,,,,,,,,,,,406787535,
+212444698,212444694,0,False,tertiary,County Road 93,106.177,,,,,,,,,,,406787535,
+212444835,212444874,0,False,unclassified,County Road 93,1490.145,,,,,,,,,,,20098838,
+212444835,212444534,0,False,unclassified,County Road 93,4531.884,,,,,,,,,,,20098838,
+212444835,212492703,0,False,residential,Town Line Road,1302.84,,,,,,,,,,,20109160,
+212444835,212566565,0,False,residential,Waterville Road,1676.561,,,,,,,,,,,20110924,
+212444874,212444915,0,False,unclassified,County Road 93,1451.406,,,,,,,,,,,20098838,
+212444874,212444835,0,False,unclassified,County Road 93,1490.145,,,,,,,,,,,20098838,
+212444874,212446051,0,False,unclassified,County Road 95,3526.988,,,,,,,,,,,20098903,
+212444874,212445861,0,False,unclassified,"['County Road 95', 'Leepy Road']",1751.62,,,,,,,,,,,"[20100516, 20098895]",
+212444915,212444948,0,False,unclassified,County Road 93,1472.718,,,,,,,,,,,20098838,
+212444915,212444874,0,False,unclassified,County Road 93,1451.406,,,,,,,,,,,20098838,
+212444915,212456203,0,False,residential,Nichols Road,1779.394,,,,,,,,,,,20099649,
+212444915,212465140,0,False,residential,Bice Road,3485.243,,,,,,,,,,,20106113,
+212444948,212444915,0,False,unclassified,County Road 93,1472.718,,,,,,,,,,,20098838,
+212444948,212444994,0,False,unclassified,County Road 93,3714.958,,,,,,,,,,,20098842,
+212444948,212623232,0,False,residential,"['Thompson No 1 Road', 'Thompson Road 1']",2888.967,,,,,,,,,,,"[20102601, 20111677]",
+212444948,212421314,0,False,residential,O Connor Road,1704.099,,,,,,,,,,,20106655,
+212444994,212444948,0,False,unclassified,County Road 93,3714.958,,,,,,,,,,,20098842,
+212444994,212446516,0,False,unclassified,County Road 96,1883.255,,,,,,,,,,,20098939,
+212444994,212446387,0,False,unclassified,County Road 96,2190.005,,,,,,,,,,,20098939,
+212445003,212445009,0,False,secondary,State Highway 289,239.534,,,,,,,yes,,,,"[221560484, 20098846, 221560487]",NY 289
+212445003,212381851,0,False,residential,Lake Road,2172.116,,,,,,,,,,,20100654,
+212445003,212520769,0,False,tertiary,County Road 75,1118.972,,,,,,,,,,,20103772,CR 75
+212445009,212445003,0,False,secondary,State Highway 289,239.534,,,,,,,yes,,,,"[221560484, 20098846, 221560487]",NY 289
+212445073,212453823,0,False,residential,Lee Road,1364.598,,,,,,,,,,,20099481,
+212445073,212552950,0,False,residential,Machold Road,1448.477,,,,,,,,,,,20107007,
+212445073,212404374,0,False,secondary,State Highway 289,1031.888,,,,,,,,,,,221560487,NY 289
+212445092,212445094,0,False,secondary,State Highway 289,13.428,,,,,,,,,,,221560487,NY 289
+212445092,212478281,0,False,residential,Machold Road,1098.894,,,,,,,,,,,20106999,
+212445092,212404374,0,False,secondary,State Highway 289,569.445,,,,,,,,,,,221560487,NY 289
+212445094,212445092,0,False,secondary,State Highway 289,13.428,,,,,,,,,,,221560487,NY 289
+212445094,212453823,0,False,residential,Saxe Road,2340.997,,,,,,,,,,,20107548,
+212445094,212445100,0,False,secondary,State Highway 289,186.523,,,,,,,,,,,221560487,NY 289
+212445100,212513369,0,False,residential,Monitor Mill Road,1504.564,,,,,,,,,,,20107878,
+212445100,212530707,0,False,secondary,"['State Highway 289', 'Main Street']",901.845,,,,,,,,,,,"[20104551, 221560487]",NY 289
+212445100,212445094,0,False,secondary,State Highway 289,186.523,,,,,,,,,,,221560487,NY 289
+212445861,212445909,0,False,unclassified,County Road 95,2597.631,,,,,,,,,,,20098895,
+212445861,212444874,0,False,unclassified,"['Leepy Road', 'County Road 95']",1751.62,,,,,,,,,,,"[20100516, 20098895]",
+212445861,212456203,0,False,residential,Macklin Road,1459.168,,,,,,,,,,,20105005,
+212445861,212451363,0,False,residential,Overton Road,2591.84,,,,,,,,,,,20107842,
+212445909,212445861,0,False,unclassified,County Road 95,2597.631,,,,,,,,,,,20098895,
+212445909,212451742,0,False,tertiary,County Road 189,1546.339,2,,,,,,,,,,252849013,
+212446051,212444874,0,False,unclassified,County Road 95,3526.988,,,,,,,,,,,20098903,
+212446051,212446207,0,False,unclassified,County Road 95,1585.928,,,,,,,,,,,20098918,
+212446051,212500117,0,False,residential,"['Macdonald Road', 'Mc Donald Road']",900.256,,,,,,,,,,,"[20102547, 20100876]",
+212446051,212465140,0,False,residential,Van Brocklin Road,1442.85,,,,,,,,,,,20100911,
+212446164,212446207,0,False,unclassified,County Road 95,1293.008,,,,,,,,,,,20098918,
+212446164,212444356,0,False,unclassified,County Road 95,1494.212,,,,,,,,,,,20098918,
+212446164,212566565,0,False,residential,French Settlement Road,3631.314,,,,,,,,,,,20108052,
+212446207,212446051,0,False,unclassified,County Road 95,1585.928,,,,,,,,,,,20098918,
+212446207,212446164,0,False,unclassified,County Road 95,1293.008,,,,,,,,,,,20098918,
+212446207,212413967,0,False,residential,Town Line Road,898.462,,,,,,,,,,,20109160,
+212446207,213105518,0,False,residential,"['Town Line Road', 'Townline Road']",1798.259,,,,,,,,,,,"[20109160, 20150220]",
+212446358,212446387,0,False,unclassified,County Road 96,1325.398,,,,,,,,,,,20098939,
+212446358,212417394,0,False,residential,Waite Road,1120.195,,,,,,,,,,,20104236,
+212446358,212527319,0,False,unclassified,7 by 9 Road,1525.961,,,,,,,,,,,20108497,
+212446387,212444994,0,False,unclassified,County Road 96,2190.005,,,,,,,,,,,20098939,
+212446387,212446358,0,False,unclassified,County Road 96,1325.398,,,,,,,,,,,20098939,
+212446387,212635284,0,False,residential,Polaris Parkway,152.992,,,,,,,,,,,20112379,
+212446516,212444994,0,False,unclassified,County Road 96,1883.255,,,,,,,,,,,20098939,
+212446516,212456203,0,False,residential,Nichols Road,2768.797,,,,,,,,,,,20099649,
+212447455,212451400,0,False,unclassified,"['County Road 97', 'Washington Park Road']",1487.237,,,,,,,,,,,"[20112625, 20098983]",
+212447455,212481371,0,False,primary,,392.277,2,,,,,,,,,,20103482,US 11
+212448355,212475572,0,False,residential,Weaver Road,45.394,,,,,,,,,,,409268903,
+212448589,212448591,0,False,residential,Renshaw Bay Road,35.056,,,,,,,,,,,20099052,
+212448589,212391233,0,False,residential,Renshaw Bay Road,992.094,,,,,,,,,,,20099052,
+212448589,212498325,0,False,residential,Pauper Lane,77.953,,,,,,,,,,,20109195,
+212448591,212448593,0,False,residential,Renshaw Bay Road,32.172,,,,,,,,,,,20099052,
+212448591,212448589,0,False,residential,Renshaw Bay Road,35.056,,,,,,,,,,,20099052,
+212448591,212507468,0,False,residential,Plush Lane,92.34,,,,,,,,,,,20102987,
+212448593,212428190,0,False,residential,Renshaw Bay Road,15.921,,,,,,,,,,,20099052,
+212448593,212448591,0,False,residential,Renshaw Bay Road,32.172,,,,,,,,,,,20099052,
+212448593,212381836,0,False,residential,Poverty Lane,108.824,,,,,,,,,,,20099512,
+212448595,212428190,0,False,residential,Renshaw Bay Road,18.898,,,,,,,,,,,20099052,
+212448595,212426522,0,False,residential,Renshaw Bay Road,39.216,,,,,,,,,,,20099052,
+212448595,212381833,0,False,residential,Party Lane,93.965,,,,,,,,,,,20102061,
+212448628,212420317,0,False,residential,Renshaw Bay Road,289.355,,,,,,,,,,,"[20097194, 20099052]",
+212448628,212430984,0,False,residential,Renshaw Bay Road,451.089,,,,,,,,,,,20099052,
+212448628,212567273,0,False,residential,Parsons Road,28.184,,,,,,,,,,,20113587,
+212451191,212381836,0,False,residential,Popcorn Lane,73.601,,,,,,,,,,,20099265,
+212451191,212498336,0,False,residential,Presidential Lane,90.746,,,,,,,,,,,20102437,
+212451191,212498325,0,False,residential,Presidential Lane,68.372,,,,,,,,,,,20102437,
+212451361,212451363,0,False,residential,County Road 189,36.757,,,,,,,,,,,20099277,
+212451361,212451703,0,False,tertiary,County Road 189,39.438,2,,,,,,,,,,252849009,
+212451361,212451623,0,False,tertiary,County Road 189,2770.011,2,,,,,,,,,,252849009,
+212451363,212451361,0,False,residential,County Road 189,36.757,,,,,,,,,,,20099277,
+212451363,212451703,0,False,residential,County Road 189,26.016,,,,,,,,,,,20099317,
+212451363,212445861,0,False,residential,Overton Road,2591.84,,,,,,,,,,,20107842,
+212451400,212451446,0,False,tertiary,County Road 189,657.523,2,,,,,,yes,,,,"[252849012, 252849009, 20099316]",
+212451400,212447455,0,False,unclassified,"['County Road 97', 'Washington Park Road']",1487.237,,,,,,,,,,,"[20112625, 20098983]",
+212451446,212519291,0,False,residential,Baker Road,143.713,,,,,,,,,,,20108378,
+212451446,212426483,0,False,tertiary,County Road 189,797.537,2,,,,,,,,,,252849009,
+212451446,212451400,0,False,tertiary,County Road 189,657.523,2,,,,,,yes,,,,"[252849009, 20099316, 252849012]",
+212451532,212451534,0,False,tertiary,County Road 189,30.503,2,,,,,,,,,,252849009,
+212451532,212426483,0,False,tertiary,County Road 189,1228.794,2,,,,,,,,,,252849009,
+212451534,212451532,0,False,tertiary,County Road 189,30.503,2,,,,,,,,,,252849009,
+212451534,212642026,0,False,residential,Moore Road,1267.609,,,,,,,,,,,20112848,
+212451534,212444694,0,False,tertiary,County Road 189,2777.542,2,,,,,,,,,,252849009,
+212451623,212444698,0,False,residential,Lorraine Avenue,99.353,,,,,,,,,,,20109468,
+212451623,212451361,0,False,tertiary,County Road 189,2770.011,2,,,,,,,,,,252849009,
+212451623,212444694,0,False,tertiary,County Road 189,145.112,2,,,,,,,,,,252849009,
+212451703,212451363,0,False,residential,County Road 189,26.016,,,,,,,,,,,20099317,
+212451703,212451742,0,False,tertiary,County Road 189,1583.701,2,,,,,,yes,,,,"[252849009, 252849010, 252849013]",
+212451703,212451361,0,False,tertiary,County Road 189,39.438,2,,,,,,,,,,252849009,
+212451742,212445909,0,False,tertiary,County Road 189,1546.339,2,,,,,,,,,,252849013,
+212451742,212451703,0,False,tertiary,County Road 189,1583.701,2,,,,,,yes,,,,"[252849009, 252849010, 252849013]",
+212452049,212471453,0,False,residential,"['Mile Strip Road', 'County Line Road']",873.625,,,,,,,,,,,"[20102920, 20100918]",
+212452049,212527319,0,False,unclassified,7 by 9 Road,1023.001,,,,,,,,,,,20108497,
+212453823,212453887,0,False,residential,Lee Road,1344.265,,,,,,,,,,,20099481,
+212453823,212445073,0,False,residential,Lee Road,1364.598,,,,,,,,,,,20099481,
+212453823,212481191,0,False,residential,Saxe Road,1493.395,,,,,,,,,,,20107548,
+212453823,212445094,0,False,residential,Saxe Road,2340.997,,,,,,,,,,,20107548,
+212453887,212453823,0,False,residential,Lee Road,1344.265,,,,,,,,,,,20099481,
+212453887,212481208,0,False,residential,Martin Road,1622.641,,,,,,,,,,,20113302,
+212453887,212613948,0,False,residential,Log London Road,765.75,,,,,,,,,,,20113407,
+212456203,212446516,0,False,residential,Nichols Road,2768.797,,,,,,,,,,,20099649,
+212456203,212444915,0,False,residential,Nichols Road,1779.394,,,,,,,,,,,20099649,
+212456203,212445861,0,False,residential,Macklin Road,1459.168,,,,,,,,,,,20105005,
+212456945,212456947,0,False,residential,Montario Point Road,110.261,,,,,,,,,,,20099718,
+212456945,212428597,0,False,residential,Montario Point Road,556.869,,,,,,,,,,,20099718,
+212456945,212570586,0,False,residential,South Colwell Road,210.395,,,,,,,,,,,"[20104090, 20108292]",
+212456947,212437151,0,False,residential,Montario Point Road,71.62,,,,,,,,,,,20099718,
+212456947,212437151,1,False,residential,Fadden Road,386.131,,,,,,,,,,,20109923,
+212456947,212456945,0,False,residential,Montario Point Road,110.261,,,,,,,,,,,20099718,
+212456951,212437151,0,False,residential,Montario Point Road,48.136,,,,,,,,,,,20099718,
+212459704,212379780,0,False,residential,Dingman Road,1424.831,,,,,,,yes,,,,"[409268896, 20099938, 409268893, 409268894, 409268895]",
+212459704,212470539,0,False,residential,Hobbs Road,1069.731,,,,,,,,,,,20113617,
+212459704,212464342,0,False,residential,Hobbs Road,278.75,,,,,,,,,,,20113617,
+212460926,212460999,0,False,residential,Mill Street,46.554,,,,,,,,,,,20099999,
+212460926,212460996,0,False,residential,Mill Street,66.169,,,,,,,,,,,20099999,
+212460926,212432014,0,False,residential,"['Brown Road', 'Mill Street']",1721.468,,,,,,,,,,,"[20099995, 20098220]",
+212460996,212460926,0,False,residential,Mill Street,66.169,,,,,,,,,,,20099999,
+212460996,212471956,0,False,tertiary,Lilac Park Drive,282.024,,,,,,,,,,,20100941,
+212460996,212432014,0,False,tertiary,Lilac Park Drive,431.732,,,,,,,,,,,20100941,
+212460996,212553977,0,False,residential,"['Douglas Street', 'Lincoln Avenue']",515.394,,,,,,,,,,,"[20102748, 20111263]",
+212460999,212460926,0,False,residential,Mill Street,46.554,,,,,,,,,,,20099999,
+212464303,212636606,0,False,residential,McDonald Hill Road,187.167,,,,,,,,,,,20112482,
+212464303,212464342,0,False,residential,Bettinger Road,1426.216,,,,,,,,,,,20100276,
+212464342,212464303,0,False,residential,Bettinger Road,1426.216,,,,,,,,,,,20100276,
+212464342,212459704,0,False,residential,Hobbs Road,278.75,,,,,,,,,,,20113617,
+212464342,212560755,0,False,residential,Hobbs Road,663.301,,,,,,,,,,,409268898,
+212465140,212465376,0,False,residential,Thompson Rd 2,2379.965,,,,,,,,,,,20100359,
+212465140,212446051,0,False,residential,Van Brocklin Road,1442.85,,,,,,,,,,,20100911,
+212465140,212444915,0,False,residential,Bice Road,3485.243,,,,,,,,,,,20106113,
+212465376,212465140,0,False,residential,Thompson Rd 2,2379.965,,,,,,,,,,,20100359,
+212467249,212438584,0,False,residential,South Skinner Road,386.4,,,,,,,,,,,221560471,
+212467249,212379575,0,False,residential,North Landing Road,362.361,,,,,,,,,,,20100533,
+212467249,212493110,0,False,residential,"['South Skinner Road', 'Seamans Island Road']",770.557,,,,,,,yes,,,,"[20108010, 20102085, 221560470, 221560471]",
+212468577,212468605,0,False,residential,Lake Road,1099.447,,,,,,,,,,,20100654,
+212468577,212381851,0,False,residential,Lake Road,1169.339,,,,,,,,,,,20100654,
+212468577,212553114,0,False,residential,McHale Road,783.28,,,,,,,,,,,20107031,
+212468605,212468577,0,False,residential,Lake Road,1099.447,,,,,,,,,,,20100654,
+212468605,212513606,0,False,residential,County Road 78,1357.69,,,,,,,,,,,20103818,
+212468605,212502993,0,False,residential,County Road 78,737.521,,,,,,,,,,,20103818,
+212468605,212513561,0,False,residential,Hammond Road,1180.51,,,,,,,,,,,20106590,
+212470490,212470512,0,False,residential,Gilbert Road,1053.566,,,,,,,,,,,20100820,
+212470490,212553248,0,False,residential,McDonald Hill Road,1522.721,,,,,,,,,,,20112482,
+212470490,212615565,0,False,residential,McDonald Hill Road,1119.234,,,,,,,,,,,20112482,
+212470512,212470525,0,False,residential,Gilbert Road,194.023,,,,,,,,,,,20100820,
+212470512,212470490,0,False,residential,Gilbert Road,1053.566,,,,,,,,,,,20100820,
+212470512,212553248,0,False,residential,Hoxie Road,1476.984,,,,,,,,,,,20107037,
+212470525,212470539,0,False,residential,Gilbert Road,774.406,,,,,,,,,,,20100820,
+212470525,212470512,0,False,residential,Gilbert Road,194.023,,,,,,,,,,,20100820,
+212470525,212379875,0,False,residential,Washburn Road,1841.024,,,,,,,,,,,20101777,
+212470539,212470525,0,False,residential,Gilbert Road,774.406,,,,,,,,,,,20100820,
+212470539,212379733,0,False,residential,Hobbs Road,876.442,,,,,,,,,,,20113617,
+212470539,212459704,0,False,residential,Hobbs Road,1069.731,,,,,,,,,,,20113617,
+212470849,212443013,0,False,residential,Woodpecker Lane,2098.453,,,,,,,,,,,20108900,
+212470849,212513454,0,False,residential,Woodpecker Lane,1151.504,,,,,,,,,,,20108900,
+212470849,212392116,0,False,residential,Torrey Hill Road,826.406,,,,,,,,,,,"[409268901, 20100863]",
+212471453,212406490,0,False,residential,,606.769,,,,,,,,,,,20096105,
+212471453,212496743,0,False,residential,Mile Strip Road,320.455,,,,,,,,,,,20100918,
+212471453,212452049,0,False,residential,"['Mile Strip Road', 'County Line Road']",873.625,,,,,,,,,,,"[20102920, 20100918]",
+212471956,212460996,0,False,tertiary,Lilac Park Drive,282.024,,,,,,,,,,,20100941,
+212471956,212516061,0,False,primary,South Main Street,1508.266,2,,,,,,,,,,"[20103485, 20104047]",US 11
+212471956,212553977,0,False,primary,North Main Street,234.086,2,,,,,,,,,,20107138,US 11
+212471956,212442738,0,False,unclassified,"['Lorraine Street', 'County Road 90']",3423.48,,,,,,,,,,,"[20109010, 20098716]",
+212472854,212438737,0,False,residential,Nash Road,3123.677,,,,,,,,,,,20101008,
+212472854,212379890,0,False,residential,Nash Road,89.161,,,,,,,,,,,20101008,
+212472854,212379907,0,False,residential,Nash Road,68.74,,,,,,,,,,,20101011,
+212473671,212473680,0,False,residential,North Colwell Road,202.602,,,,,,,,,,,20101045,
+212473680,212473671,0,False,residential,North Colwell Road,202.602,,,,,,,,,,,20101045,
+212475518,212475572,0,False,residential,Weaver Road,1060.972,,,,,,,yes,,,,"[409268904, 20101153, 409268903]",
+212475518,212379787,0,False,residential,Weaver Road,92.541,,,,,,,,,,,20101153,
+212475518,212379812,0,False,residential,Weaver Road,120.043,,,,,,,,,,,20101169,
+212475572,212560755,0,False,residential,Staplin Road,1674.829,,,,,,,,,,,20107714,
+212475572,212448355,0,False,residential,Weaver Road,45.394,,,,,,,,,,,409268903,
+212475572,212475518,0,False,residential,Weaver Road,1060.972,,,,,,,yes,,,,"[409268904, 20101153, 409268903]",
+212475981,212481208,0,False,unclassified,County Road 85,915.619,,,,,,,,,,,20101480,CR 85
+212475981,212481191,0,False,unclassified,County Road 85,236.027,,,,,,,,,,,20101480,CR 85
+212478253,212478281,0,False,residential,Chamberlain Road,1767.803,,,,,,,,,,,20101287,
+212478253,212436226,0,False,secondary,State Highway 193,3667.117,,,,,,,,,,,221560479,NY 193
+212478253,212379525,0,False,secondary,State Highway 193,426.567,,,,,,,,,,,221560479,NY 193
+212478281,212478253,0,False,residential,Chamberlain Road,1767.803,,,,,,,,,,,20101287,
+212478281,212445092,0,False,residential,Machold Road,1098.894,,,,,,,,,,,20106999,
+212478281,212552878,0,False,residential,Machold Road,1387.595,,,,,,,,,,,20106999,
+212481020,212381081,0,False,primary,,442.305,2,,,,,,,,,,20103485,US 11
+212481020,212481147,0,False,residential,Balch Place,3520.384,,,,,,,,,,,20101473,
+212481020,212516074,0,False,primary,,363.455,2,,,,,,,,,,20103485,US 11
+212481147,212481020,0,False,residential,Balch Place,3520.384,,,,,,,,,,,20101473,
+212481191,212475981,0,False,unclassified,County Road 85,236.027,,,,,,,,,,,20101480,CR 85
+212481191,212453823,0,False,residential,Saxe Road,1493.395,,,,,,,,,,,20107548,
+212481208,212443403,0,False,unclassified,County Road 85,1027.371,,,,,,,,,,,20101480,CR 85
+212481208,212475981,0,False,unclassified,County Road 85,915.619,,,,,,,,,,,20101480,CR 85
+212481208,212453887,0,False,residential,Martin Road,1622.641,,,,,,,,,,,20113302,
+212481349,212648108,0,False,residential,Valley Place,273.751,,,,,,,,,,,20113210,
+212481349,212481371,0,False,unclassified,County Road 85,339.945,,,,,,,,,,,35972177,CR 85
+212481349,212443403,0,False,unclassified,County Road 85,2665.597,,,,,,,yes,,,,"[20101480, 35972174, 35972175, 35972176, 35972177]",CR 85
+212481371,212515839,0,False,primary,,864.207,2,,,,,,yes,,,,"[96666441, 20103482, 96666417]",US 11
+212481371,212447455,0,False,primary,,392.277,2,,,,,,,,,,20103482,US 11
+212481371,212481349,0,False,unclassified,County Road 85,339.945,,,,,,,,,,,35972177,CR 85
+212481966,212427088,0,False,tertiary,County Road 87,819.641,,,,,,,,,,,20101526,CR 87
+212481966,212636606,0,False,residential,Baldwin Road,1657.098,,,,,,,,,,,20113696,
+212482082,212482102,0,False,tertiary,County Road 87,791.377,,,,,,,,,,,20101531,CR 87
+212482082,212379875,0,False,tertiary,"['Farm Market Road', 'County Road 121']",955.838,,,,,,,,,,,"[20094304, 20111143]",CR 121
+212482082,212436235,0,False,tertiary,Farm Market Road,297.079,,,,,,,,,,,20111143,CR 121
+212482102,212482105,0,False,tertiary,County Road 87,53.59,,,,,,,,,,,20101531,CR 87
+212482102,212615565,0,False,residential,McDonald Hill Road,62.617,,,,,,,,,,,20112482,
+212482102,212482082,0,False,tertiary,County Road 87,791.377,,,,,,,,,,,20101531,CR 87
+212482105,212482102,0,False,tertiary,County Road 87,53.59,,,,,,,,,,,20101531,CR 87
+212482105,212615565,0,False,residential,McDonald Road,34.53,,,,,,,,,,,20111127,
+212482105,212442915,0,False,tertiary,County Road 87,599.345,,,,,,,,,,,20101531,CR 87
+212482437,212427088,0,False,tertiary,Ellis Road,54.01,,,,,,,,,,,20107967,CR 87
+212482437,212443032,0,False,residential,"['Cobblestone Corner Road', 'County Road 89']",2655.389,,,,,,,,,,,"[20101552, 20112924]",
+212482437,212442915,0,False,tertiary,Ellis Road,2886.8,,,,,,,,,,,20107967,CR 87
+212492703,212418781,0,False,residential,Nohle Drive,918.893,,,,,,,,,,,"[20097074, 20102059]",
+212492703,212444835,0,False,residential,Town Line Road,1302.84,,,,,,,,,,,20109160,
+212492703,212413967,0,False,residential,Town Line Road,1337.615,,,,,,,,,,,20109160,
+212493110,212493114,0,False,residential,Seamans Island Road,42.1,,,,,,,,,,,20102085,
+212493110,212467249,0,False,residential,"['South Skinner Road', 'Seamans Island Road']",770.557,,,,,,,yes,,,,"[20108010, 20102085, 221560470, 221560471]",
+212493110,212493143,0,False,residential,Seamans Island Road,167.423,,,,,,,,,,,20102087,
+212493114,212493110,0,False,residential,Seamans Island Road,42.1,,,,,,,,,,,20102085,
+212493143,212493110,0,False,residential,Seamans Island Road,167.423,,,,,,,,,,,20102087,
+212494027,212498336,0,False,residential,Presidential Lane,7.454,,,,,,,,,,,20102437,
+212494027,212494040,0,False,residential,Penny Lane,200.487,,,,,,,,,,,20102155,
+212494027,212416440,0,False,residential,Presidential Lane,73.012,,,,,,,,,,,20102437,
+212494040,212494027,0,False,residential,Penny Lane,200.487,,,,,,,,,,,20102155,
+212494749,212494840,0,False,residential,Sand Place Road,1418.258,,,,,,,,,,,"[409268899, 20102205]",
+212494840,212494749,0,False,residential,Sand Place Road,1418.258,,,,,,,,,,,"[409268899, 20102205]",
+212494840,212384071,0,False,primary,,330.742,2,,,,,,,,,,96666419,US 11
+212494840,212404026,0,False,primary,,510.413,2,,,,,,,,,,96666419,US 11
+212496743,212471453,0,False,residential,Mile Strip Road,320.455,,,,,,,,,,,20100918,
+212498325,212451191,0,False,residential,Presidential Lane,68.372,,,,,,,,,,,20102437,
+212498325,212448589,0,False,residential,Pauper Lane,77.953,,,,,,,,,,,20109195,
+212498325,212498336,0,False,residential,Pauper Lane,309.891,,,,,,,,,,,20109195,
+212498336,212494027,0,False,residential,Presidential Lane,7.454,,,,,,,,,,,20102437,
+212498336,212451191,0,False,residential,Presidential Lane,90.746,,,,,,,,,,,20102437,
+212498336,212498325,0,False,residential,Pauper Lane,309.891,,,,,,,,,,,20109195,
+212498344,212416440,0,False,residential,Presidential Lane,116.625,,,,,,,,,,,20102437,
+212500117,212446051,0,False,residential,"['Mc Donald Road', 'Macdonald Road']",900.256,,,,,,,,,,,"[20102547, 20100876]",
+212502993,212503019,0,False,residential,Short Road,1027.884,,,,,,,,,,,20102686,
+212502993,212468605,0,False,residential,County Road 78,737.521,,,,,,,,,,,20103818,
+212502993,212414352,0,False,residential,County Road 78,734.362,,,,,,,,,,,20103818,
+212503019,212502993,0,False,residential,Short Road,1027.884,,,,,,,,,,,20102686,
+212503019,212513558,0,False,residential,Lyng Road,1598.927,,,,,,,,,,,20113033,
+212503019,212521571,0,False,residential,Lyng Road,1791.436,,,,,,,,,,,20113033,
+212504885,212413693,0,False,residential,Wright Road,2725.589,,,,,,,,,,,20102808,
+212504885,212417424,0,False,residential,Waite Road,811.966,,,,,,,,,,,20104236,
+212504885,212418101,0,False,residential,Waite Road,875.375,,,,,,,,,,,20104236,
+212505262,212421314,0,False,residential,"['O Connor Road', 'Oconnor Road']",3607.311,,,,,,,,,,,"[20107633, 20106655]",
+212507468,212448591,0,False,residential,Plush Lane,92.34,,,,,,,,,,,20102987,
+212513369,212513399,0,False,secondary,State Highway 193,791.533,,,,,,,,,,,20103355,NY 193
+212513369,212436249,0,False,secondary,"['State Highway 193', 'Eisenhower Road']",1504.899,,,,,,,,,,,"[20103355, 20098414]",NY 193
+212513369,212445100,0,False,residential,Monitor Mill Road,1504.564,,,,,,,,,,,20107878,
+212513399,212513454,0,False,secondary,State Highway 193,1186.538,,,,,,,,,,,20103355,NY 193
+212513399,212513369,0,False,secondary,State Highway 193,791.533,,,,,,,,,,,20103355,NY 193
+212513399,212571192,0,False,residential,Scott Road,1230.742,,,,,,,,,,,20108338,
+212513454,212422344,0,False,secondary,State Highway 193,1169.988,,,,,,,,,,,20103355,NY 193
+212513454,212513399,0,False,secondary,State Highway 193,1186.538,,,,,,,,,,,20103355,NY 193
+212513454,212470849,0,False,residential,Woodpecker Lane,1151.504,,,,,,,,,,,20108900,
+212513454,212571192,0,False,residential,Log London Road,1039.273,,,,,,,,,,,20113407,
+212513491,212427048,0,False,residential,Factory Road,270.35,,,,,,,,,,,20112991,
+212513491,212513533,0,False,secondary,State Highway 193,810.687,,,,,,,,,,,35972186,NY 193
+212513491,212397611,0,False,secondary,State Highway 193,271.12,,,,,,,,,,,35972186,NY 193
+212513533,212443411,0,False,primary,,38.386,2,,,,,,,,,,96666417,US 11
+212513533,212527234,0,False,residential,Church Road,201.638,,,,,,,,,,,20104286,
+212513533,212513491,0,False,secondary,State Highway 193,810.687,,,,,,,,,,,35972186,NY 193
+212513533,212396231,0,False,primary,North Main Street,1930.809,2,,,,,,,,,,"[96666417, 20107138]",US 11
+212513558,212513561,0,False,secondary,State Highway 193,204.378,,,,,,,,,,,20103362,NY 193
+212513558,212438507,0,False,secondary,State Highway 193,1198.328,,,,,,,,,,,20103362,NY 193
+212513558,212503019,0,False,residential,Lyng Road,1598.927,,,,,,,,,,,20113033,
+212513561,212513558,0,False,secondary,State Highway 193,204.378,,,,,,,,,,,20103362,NY 193
+212513561,212513606,0,False,secondary,State Highway 193,1128.165,,,,,,,,,,,20103362,NY 193
+212513561,212468605,0,False,residential,Hammond Road,1180.51,,,,,,,,,,,20106590,
+212513561,212438559,0,False,residential,Hessell Road,1651.894,,,,,,,,,,,20110953,
+212513606,212379525,0,False,secondary,State Highway 193,222.62,,,,,,,yes,,,,"[20103362, 221560476, 221560479]",NY 193
+212513606,212513561,0,False,secondary,State Highway 193,1128.165,,,,,,,,,,,20103362,NY 193
+212513606,212468605,0,False,residential,County Road 78,1357.69,,,,,,,,,,,20103818,
+212515839,212589617,0,False,residential,Meat Market Pike,347.546,,,,,,,,,,,20109485,
+212515839,212515868,0,False,primary,,911.239,2,,,,,,,,,,96666417,US 11
+212515839,212481371,0,False,primary,,864.207,2,,,,,,yes,,,,"[96666441, 96666417, 20103482]",US 11
+212515868,212426404,0,False,primary,,165.147,2,,,,,,,,,,96666417,US 11
+212515868,212386847,0,False,residential,"['Mooney Gulf Road South', 'Lemay Road']",3303.498,,,,,,,,,,,"[20109427, 20103943]",
+212515868,212515839,0,False,primary,,911.239,2,,,,,,,,,,96666417,US 11
+212515877,212544096,0,False,residential,Comstock Road,1705.306,,,,,,,,,,,20106067,
+212515877,212515954,0,False,primary,,1804.772,2,,,,,,,,,,96666417,US 11
+212515877,212426404,0,False,primary,,407.241,2,,,,,,,,,,96666417,US 11
+212515954,212417848,0,False,residential,Wilder Road,116.81,,,,,,,,,,,20103640,
+212515954,212417846,0,False,primary,,117.425,2,,,,,,,,,,96666417,US 11
+212515954,212515877,0,False,primary,,1804.772,2,,,,,,,,,,96666417,US 11
+212516061,212516074,0,False,primary,,309.278,2,,,,,,,,,,20103485,US 11
+212516061,212471956,0,False,primary,South Main Street,1508.266,2,,,,,,,,,,"[20103485, 20104047]",US 11
+212516074,212481020,0,False,primary,,363.455,2,,,,,,,,,,20103485,US 11
+212516074,212516061,0,False,primary,,309.278,2,,,,,,,,,,20103485,US 11
+212516074,212622115,0,False,residential,Kirby Place,446.456,,,,,,,,,,,20111625,
+212518725,212443303,0,False,residential,Wilder Road,34.71,,,,,,,,,,,20103634,
+212518725,212417848,0,False,residential,Wilder Road,701.138,,,,,,,,,,,20103640,
+212518725,212443305,0,False,residential,Wilder Road,49.504,,,,,,,,,,,20103640,
+212519237,212519291,0,False,residential,Miller Road,1042.323,,,,,,,,,,,20103671,
+212519291,212519237,0,False,residential,Miller Road,1042.323,,,,,,,,,,,20103671,
+212519291,212418182,0,False,residential,Mooney Gulf Road North,48.008,,,,,,,,,,,20103851,
+212519291,212418185,0,False,residential,Baker Road,51.4,,,,,,,,,,,20108378,
+212519291,212451446,0,False,residential,Baker Road,143.713,,,,,,,,,,,20108378,
+212520769,212445003,0,False,tertiary,County Road 75,1118.972,,,,,,,,,,,20103772,CR 75
+212520769,212521683,0,False,residential,County Road 79,2182.364,,,,,,,,,,,20103834,
+212521387,212414154,0,False,residential,County Road 78,782.127,,,,,,,,,,,20103818,
+212521387,212521640,0,False,residential,County Road 79,1064.394,,,,,,,,,,,20103834,
+212521387,212383779,0,False,residential,County Road 79,496.727,,,,,,,,,,,20103834,
+212521571,212383779,0,False,residential,County Road 79,578.552,,,,,,,,,,,20103834,
+212521571,212438442,0,False,residential,County Road 79,1191.474,,,,,,,,,,,20103834,
+212521571,212503019,0,False,residential,Lyng Road,1791.436,,,,,,,,,,,20113033,
+212521640,212521683,0,False,residential,County Road 79,1057.529,,,,,,,,,,,20103834,
+212521640,212521387,0,False,residential,County Road 79,1064.394,,,,,,,,,,,20103834,
+212521640,212629722,0,False,residential,Fillhart Place,228.965,,,,,,,,,,,20112061,
+212521683,212520769,0,False,residential,County Road 79,2182.364,,,,,,,,,,,20103834,
+212521683,212521640,0,False,residential,County Road 79,1057.529,,,,,,,,,,,20103834,
+212521683,212381851,0,False,residential,Mixer Road,2157.747,,,,,,,,,,,20103889,
+212523364,212523387,0,False,residential,Mooney Gulf Road South,544.026,,,,,,,,,,,20103943,
+212523364,212443613,0,False,residential,Mooney Gulf Road South,873.555,,,,,,,,,,,20103943,
+212523364,212544096,0,False,residential,Comstock Road,1916.304,,,,,,,,,,,20106067,
+212523387,212386847,0,False,residential,Mooney Gulf Road South,83.113,,,,,,,,,,,20103943,
+212523387,212523364,0,False,residential,Mooney Gulf Road South,544.026,,,,,,,,,,,20103943,
+212523387,212443649,0,False,residential,Larman Road,2032.609,,,,,,,,,,,20112370,
+212525176,212437151,0,False,residential,"['Cranberry Lane', 'North Parsons Road']",861.155,,,,,,,,,,,"[20109200, 20098456]",
+212525176,212567273,0,False,residential,Parsons Road,584.893,,,,,,,,,,,20113587,
+212527164,212427088,0,False,residential,Fone Place,283.614,,,,,,,,,,,20104270,
+212527234,212513533,0,False,residential,Church Road,201.638,,,,,,,,,,,20104286,
+212527272,212527272,0,False,residential,Loomis Place,171.436,,,,,,,,,,,20104293,
+212527272,212527272,1,False,residential,Loomis Place,171.436,,,,,,,,,,,20104293,
+212527272,212527288,0,False,residential,Loomis Place,210.876,,,,,,,,,,,20104297,
+212527288,212527272,0,False,residential,Loomis Place,210.876,,,,,,,,,,,20104297,
+212527288,212389838,0,False,residential,Allard Road,725.252,,,,,,,,,,,20112560,
+212527288,212436357,0,False,residential,Allard Road,1537.416,,,,,,,,,,,20112560,
+212527319,212527345,0,False,residential,Willard Lane,414.705,,,,,,,,,,,20104298,
+212527319,212452049,0,False,unclassified,7 by 9 Road,1023.001,,,,,,,,,,,20108497,
+212527319,212446358,0,False,unclassified,7 by 9 Road,1525.961,,,,,,,,,,,20108497,
+212527345,212527319,0,False,residential,Willard Lane,414.705,,,,,,,,,,,20104298,
+212530707,212436226,0,False,secondary,Main Street,583.028,,,,,,,,,,,20104551,NY 289
+212530707,212445100,0,False,secondary,"['State Highway 289', 'Main Street']",901.845,,,,,,,,,,,"[221560487, 20104551]",NY 289
+212530707,212436249,0,False,residential,Joslyn Road,450.612,,,,,,,,,,,20109450,
+212543000,212438664,0,False,residential,South Landing Road,183.436,,,,,,,,,,,20105961,
+212543000,212436226,0,False,residential,South Landing Road,3735.607,,,,,,,,,,,20105961,
+212543000,212413108,0,False,residential,Webb Road,251.067,,,,,,,,,,,20113635,
+212544096,212515877,0,False,residential,Comstock Road,1705.306,,,,,,,,,,,20106067,
+212544096,212523364,0,False,residential,Comstock Road,1916.304,,,,,,,,,,,20106067,
+212544096,212443519,0,False,residential,Dodge Road,1310.851,,,,,,,,,,,20112216,
+212544332,212427036,0,False,residential,Factory Road,802.735,,,,,,,,,,,20112991,
+212544332,212443303,0,False,unclassified,"['Wardwell Settlement Road', 'County Road 91']",1023.469,,,,,,,,,,,"[20098747, 35972181]",CR 91
+212544332,212443403,0,False,unclassified,Wardwell Settlement Road,2360.852,,,,,,,yes,,,,"[20106088, 35972178, 35972179, 35972180, 35972181]",CR 91
+212544504,213106502,0,False,residential,Bice Road,15.887,,,,,,,,,,,20152476,
+212552878,212436375,0,False,residential,Machold Road,86.465,,,,,,,,,,,20106999,
+212552878,212478281,0,False,residential,Machold Road,1387.595,,,,,,,,,,,20106999,
+212552878,212552950,0,False,residential,Machold Road,108.392,,,,,,,,,,,20107012,
+212552950,212436375,0,False,residential,Machold Road,72.799,,,,,,,,,,,20107007,
+212552950,212445073,0,False,residential,Machold Road,1448.477,,,,,,,,,,,20107007,
+212552950,212552878,0,False,residential,Machold Road,108.392,,,,,,,,,,,20107012,
+212553114,212468577,0,False,residential,McHale Road,783.28,,,,,,,,,,,20107031,
+212553248,212470512,0,False,residential,Hoxie Road,1476.984,,,,,,,,,,,20107037,
+212553248,212636606,0,False,residential,McDonald Hill Road,794.544,,,,,,,,,,,20112482,
+212553248,212470490,0,False,residential,McDonald Hill Road,1522.721,,,,,,,,,,,20112482,
+212553977,212471956,0,False,primary,North Main Street,234.086,2,,,,,,,,,,20107138,US 11
+212553977,212396231,0,False,primary,North Main Street,434.494,2,,,,,,,,,,20107138,US 11
+212553977,212460996,0,False,residential,"['Douglas Street', 'Lincoln Avenue']",515.394,,,,,,,,,,,"[20102748, 20111263]",
+212560755,212475572,0,False,residential,Staplin Road,1674.829,,,,,,,,,,,20107714,
+212560755,212464342,0,False,residential,Hobbs Road,663.301,,,,,,,,,,,409268898,
+212560755,212654922,0,False,residential,Hobbs Road,276.618,,,,,,,,,,,409268898,
+212562421,212562421,0,False,residential,Pierrepont Place,84.821,,,,,,,,,,,20107801,
+212562421,212562421,1,False,residential,Pierrepont Place,84.821,,,,,,,,,,,20107801,
+212562421,212438547,0,False,residential,Pierrepont Place,732.781,,,,,,,,,,,20107803,
+212566565,212446164,0,False,residential,French Settlement Road,3631.314,,,,,,,,,,,20108052,
+212566565,212444835,0,False,residential,Waterville Road,1676.561,,,,,,,,,,,20110924,
+212566565,212444462,0,False,residential,Waterville Road,1564.318,,,,,,,,,,,20110924,
+212567273,212567285,0,False,residential,French Road,124.412,,,,,,,,,,,20108098,
+212567273,212525176,0,False,residential,Parsons Road,584.893,,,,,,,,,,,20113587,
+212567273,212448628,0,False,residential,Parsons Road,28.184,,,,,,,,,,,20113587,
+212567285,212567273,0,False,residential,French Road,124.412,,,,,,,,,,,20108098,
+212570586,212456945,0,False,residential,South Colwell Road,210.395,,,,,,,,,,,"[20104090, 20108292]",
+212571192,212613948,0,False,residential,Log London Road,79.549,,,,,,,,,,,20113407,
+212571192,212513399,0,False,residential,Scott Road,1230.742,,,,,,,,,,,20108338,
+212571192,212513454,0,False,residential,Log London Road,1039.273,,,,,,,,,,,20113407,
+212571829,212427402,0,False,residential,Baker Road,15.852,,,,,,,,,,,20108378,
+212589617,212515839,0,False,residential,Meat Market Pike,347.546,,,,,,,,,,,20109485,
+212612753,212381125,0,False,residential,Hagen Road,2932.643,,,,,,,,,,,20111211,
+212613948,212571192,0,False,residential,Log London Road,79.549,,,,,,,,,,,20113407,
+212613948,212613991,0,False,residential,Benjamin Place,648.99,,,,,,,,,,,20111009,
+212613948,212453887,0,False,residential,Log London Road,765.75,,,,,,,,,,,20113407,
+212613991,212613948,0,False,residential,Benjamin Place,648.99,,,,,,,,,,,20111009,
+212615565,212482105,0,False,residential,McDonald Road,34.53,,,,,,,,,,,20111127,
+212615565,212482102,0,False,residential,McDonald Hill Road,62.617,,,,,,,,,,,20112482,
+212615565,212470490,0,False,residential,McDonald Hill Road,1119.234,,,,,,,,,,,20112482,
+212616919,212432224,0,False,residential,Musher Run,198.894,,,,,,,,,,,20111247,
+212622115,212516074,0,False,residential,Kirby Place,446.456,,,,,,,,,,,20111625,
+212623232,212444948,0,False,residential,"['Thompson No 1 Road', 'Thompson Road 1']",2888.967,,,,,,,,,,,"[20102601, 20111677]",
+212629722,212521640,0,False,residential,Fillhart Place,228.965,,,,,,,,,,,20112061,
+212632426,212443446,0,False,residential,Cobb Place,1546.5,,,,,,,,,,,20112220,
+212635284,212446387,0,False,residential,Polaris Parkway,152.992,,,,,,,,,,,20112379,
+212636606,212464303,0,False,residential,McDonald Hill Road,187.167,,,,,,,,,,,20112482,
+212636606,212553248,0,False,residential,McDonald Hill Road,794.544,,,,,,,,,,,20112482,
+212636606,212481966,0,False,residential,Baldwin Road,1657.098,,,,,,,,,,,20113696,
+212642026,212451534,0,False,residential,Moore Road,1267.609,,,,,,,,,,,20112848,
+212648108,212481349,0,False,residential,Valley Place,273.751,,,,,,,,,,,20113210,
+212654057,212421314,0,False,residential,Logging Road,3769.648,,,,,,,,,,,20113570,
+212654922,212560755,0,False,residential,Hobbs Road,276.618,,,,,,,,,,,409268898,
+213105518,212446207,0,False,residential,"['Townline Road', 'Town Line Road']",1798.259,,,,,,,,,,,"[20109160, 20150220]",
+213106502,212544504,0,False,residential,Bice Road,15.887,,,,,,,,,,,20152476,
+2158347962,212413108,0,False,secondary,State Highway 3,39.135,,,,,,,,,,,221560496,NY 3
+2158347962,212413125,0,False,residential,,582.4,,,,,,,,,,,20096657,
+2158347962,212393162,0,False,secondary,State Highway 3,873.458,,,,,,,,,,,221560496,NY 3
+4088559699,212443613,0,False,residential,Bishop Road,1203.52,,,,,,,,,,,406795455,
+4601103461,212426404,0,False,residential,,157.312,,,,,,,,,,,20097731,

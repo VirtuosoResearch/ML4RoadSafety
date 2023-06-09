@@ -1,0 +1,647 @@
+u,v,key,oneway,highway,name,length,lanes,width,est_width,maxspeed,access,service,bridge,tunnel,area,junction,osmid,ref
+62631659,62847641,0,False,residential,Barr Road,33.617,,,,,,,,,,,8752559,
+62631659,62631663,0,False,residential,Butterfield Lane,22.977,,,,,,,,,,,8735191,
+62631663,62631659,0,False,residential,Butterfield Lane,22.977,,,,,,,,,,,8735191,
+62631663,62847641,0,False,residential,Barr Road,20.699,,,,,,,,,,,8752557,
+62634163,62667208,0,False,secondary,State Highway 37,75.649,,,,,,,,,,,53602450,NY 37
+62634163,62634185,0,True,primary_link,,143.675,,,,,,,,,,,8735391,NY 812
+62634163,62653043,0,False,primary,,346.877,,,,,,,yes,,,,"[49715450, 49715451, 49715452]","['NY 37;NY 812', 'NY 37; NY 812']"
+62634185,62667228,0,False,residential,Fine Street,21.655,,,,,,,,,,,8749084,
+62634185,62634187,0,False,primary_link,Fine Street,100.377,,,,,,,,,,,39579215,NY 812
+62634187,62634185,0,False,primary_link,Fine Street,100.377,,,,,,,,,,,39579215,NY 812
+62638163,62638165,0,False,residential,,294.209,,,,,,,,,,,8735830,
+62638163,62780707,0,False,residential,Stone Church Road,63.937,,,,55 mph,,,,,,,8748320,
+62638163,62775101,0,False,residential,Stone Church Road,1072.126,,,,55 mph,,,,,,,8748320,
+62638165,62638163,0,False,residential,,294.209,,,,,,,,,,,8735830,
+62638778,62638781,0,False,residential,,55.828,,,,,,,,,,,8735875,
+62638781,62638784,0,False,residential,,75.057,,,,,,,,,,,8735875,
+62638781,62638778,0,False,residential,,55.828,,,,,,,,,,,8735875,
+62638781,62697117,0,False,residential,Livingston Drive,522.433,,,,,,,,,,,8742971,
+62638784,62638781,0,False,residential,,75.057,,,,,,,,,,,8735875,
+62638928,62682179,0,False,residential,,154.679,,,,,,,,,,,8741650,
+62638930,62655177,0,False,residential,,165.646,,,,,,,,,,,8738549,
+62641110,62868494,0,False,residential,Perry Road,69.488,,,,,,,,,,,8753930,
+62641201,62751105,0,False,secondary,State Highway 37,99.5,,,,,,,,,,,47271444,NY 37
+62641201,62641208,0,False,residential,,186.527,,,,,,,,,,,8736149,
+62641201,62780733,0,False,secondary,State Highway 37,1081.75,,,,,,,,,,,47271444,NY 37
+62641208,62751105,0,False,residential,McEwen Lane,60.239,,,,,,,,,,,8746488,
+62641208,62641201,0,False,residential,,186.527,,,,,,,,,,,8736149,
+62641208,62751054,0,False,residential,McEwen Lane,281.471,,,,,,,,,,,8746488,
+62647137,62647139,0,False,residential,,113.12,,,,,,,,,,,8736771,
+62647137,62686181,0,False,secondary,State Highway 37,65.19,,,,,,,,,,,47271444,NY 37
+62647137,62673901,0,False,secondary,State Highway 37,112.119,,,,,,,,,,,47271444,NY 37
+62647139,62647137,0,False,residential,,113.12,,,,,,,,,,,8736771,
+62649633,62649654,0,False,residential,,28.354,,,,,,,,,,,8739297,
+62649654,62649633,0,False,residential,,28.354,,,,,,,,,,,8739297,
+62651076,62651078,0,False,residential,,86.114,,,,,,,,,,,8737637,
+62651076,62786490,0,False,secondary,State Highway 37,17.335,,,,,,,,,,,47271444,NY 37
+62651076,62894722,0,False,secondary,State Highway 37,19.687,,,,,,,,,,,47271444,NY 37
+62651078,62651076,0,False,residential,,86.114,,,,,,,,,,,8737637,
+62652877,62697131,0,False,residential,"['Chardon Way', 'Chardonnay Road', 'Wright Camp Drive']",416.925,,,,,,,,,,,"[8745499, 8749628, 8756870]",
+62653016,62678217,0,False,primary,State Highway 812,10.932,,,,,,,,,,,49715444,NY 812
+62653043,62678245,0,False,primary,,101.416,,,,,,,,,,,49715450,NY 37; NY 812
+62653043,62653016,0,True,secondary_link,,404.777,,,,,,,,,,,8738104,
+62653043,62634163,0,False,primary,,346.877,,,,,,,yes,,,,"[49715450, 49715451, 49715452]","['NY 37;NY 812', 'NY 37; NY 812']"
+62654084,62851708,0,False,residential,Park Street,28.94,,,,,,,,,,,8752839,
+62654084,62654090,0,False,motorway_link,,49.197,,,,,,,,,,,8738376,
+62654090,62851708,0,False,primary,State Highway 37,46.181,,,,,,,,,,,49715447,NY 37; NY 812
+62654090,62654084,0,False,motorway_link,,49.197,,,,,,,,,,,8738376,
+62654268,62654269,0,False,residential,,203.817,,,,,,,,,,,8738421,
+62654268,62797808,0,False,residential,County Road 6,428.7,,,,,,,,,,,8749194,
+62654268,62773472,0,False,residential,County Road 6,1057.56,,,,,,,,,,,8749194,
+62654269,62654268,0,False,residential,,203.817,,,,,,,,,,,8738421,
+62655154,62655155,0,False,residential,,35.67,,,,,,,,,,,8738547,
+62655154,62655208,0,False,residential,,28.604,,,,,,,,,,,8738553,
+62655154,62655206,0,False,residential,,316.273,,,,,,,,,,,8738553,
+62655155,62655154,0,False,residential,,35.67,,,,,,,,,,,8738547,
+62655155,62655182,0,False,residential,,31.265,,,,,,,,,,,8738550,
+62655155,62655158,0,False,residential,,85.307,,,,,,,,,,,8738547,
+62655158,62655155,0,False,residential,,85.307,,,,,,,,,,,8738547,
+62655177,62892930,0,False,residential,River Lane,43.358,,,,,,,,,,,8755896,
+62655177,62638930,0,False,residential,,165.646,,,,,,,,,,,8738549,
+62655177,62892935,0,False,residential,River Lane,454.816,,,,,,,,,,,8755896,
+62655182,62655155,0,False,residential,,31.265,,,,,,,,,,,8738550,
+62655206,62655154,0,False,residential,,316.273,,,,,,,,,,,8738553,
+62655206,62866024,0,False,residential,Camp Road 41,410.657,,,,,,,,,,,8753805,
+62655206,62794442,0,False,residential,Camp Road 41,153.609,,,,,,,,,,,8753805,
+62655208,62655154,0,False,residential,,28.604,,,,,,,,,,,8738553,
+62661570,62731705,0,False,tertiary,County Road 15,945.474,,,,,,,,,,,8747480,CR 15
+62664162,62667016,0,False,secondary,State Highway 68,504.037,,,,,,,,,,,8746949,NY 68
+62664346,62664347,0,False,residential,,32.786,,,,,,,,,,,8739501,
+62664346,62673865,0,False,residential,Peccolo Drive,16.04,,,,,,,,,,,8757359,
+62664346,62914760,0,False,residential,Peccolo Drive,39.656,,,,,,,,,,,8757359,
+62664347,62664346,0,False,residential,,32.786,,,,,,,,,,,8739501,
+62667016,62667021,0,False,residential,,258.928,,,,,,,,,,,8739791,
+62667016,62664162,0,False,secondary,State Highway 68,504.037,,,,,,,,,,,8746949,NY 68
+62667016,62759860,0,False,secondary,State Highway 68,430.307,,,,,,,,,,,8746949,NY 68
+62667021,62667016,0,False,residential,,258.928,,,,,,,,,,,8739791,
+62667208,62634163,0,False,secondary,State Highway 37,75.649,,,,,,,,,,,53602450,NY 37
+62667208,444214215,0,False,secondary,State Highway 37,586.371,,,,,,,yes,,,,"[53602450, 49715446, 53602454]",NY 37
+62667228,62634185,0,False,residential,Fine Street,21.655,,,,,,,,,,,8749084,
+62667228,62667208,0,True,secondary_link,,107.828,,,,,,,,,,,8739828,
+62668235,62668240,0,False,residential,,69.832,,,,,,,,,,,8739930,
+62668240,62668235,0,False,residential,,69.832,,,,,,,,,,,8739930,
+62668240,62685433,0,False,residential,,695.512,,,,,,,,,,,8742021,
+62670520,62670534,0,False,motorway_link,,48.159,,,,,,,,,,,8740214,
+62670520,62759871,0,True,secondary,State Highway 37,46.892,,,,,,,,,,,49715448,NY 37
+62670534,62670520,0,False,motorway_link,,48.159,,,,,,,,,,,8740214,
+62670534,62759860,0,False,secondary,State Highway 68,173.44,,,,,,,,,,,8746949,NY 68
+62670534,62759871,0,False,secondary,State Highway 68,45.039,,,,,,,,,,,8746949,NY 68
+62673452,62673454,0,False,residential,,108.746,,,,,,,,,,,8740561,
+62673452,62782292,0,False,residential,Tallman Road,2466.542,,,,,,,,,,,8752564,
+62673452,62780648,0,False,residential,Tallman Road,474.164,,,,,,,,,,,8752564,
+62673454,62673452,0,False,residential,,108.746,,,,,,,,,,,8740561,
+62673478,62673485,0,False,residential,,131.095,,,,,,,,,,,8740565,
+62673478,62775101,0,False,residential,Haggart Road,141.21,,,,,,,,,,,8747977,
+62673478,62775076,0,False,residential,Haggart Road,1868.074,,,,,,,,,,,8747977,
+62673485,62673478,0,False,residential,,131.095,,,,,,,,,,,8740565,
+62673842,62673845,0,False,residential,,421.806,,,,,,,,,,,8740608,
+62673842,62886159,0,False,secondary,State Highway 37,45.213,,,,,,,,,,,47271444,NY 37
+62673842,62882447,0,False,secondary,State Highway 37,463.613,,,,,,,,,,,47271444,NY 37
+62673845,62673842,0,False,residential,,421.806,,,,,,,,,,,8740608,
+62673845,62673849,0,False,residential,,420.688,,,,,,,,,,,8740608,
+62673845,62673857,0,False,residential,,420.587,,,,,,,,,,,8740609,
+62673849,62673845,0,False,residential,,420.688,,,,,,,,,,,8740608,
+62673857,62673845,0,False,residential,,420.587,,,,,,,,,,,8740609,
+62673865,62673868,0,False,residential,,149.222,,,,,,,,,,,8740610,
+62673865,62664346,0,False,residential,Peccolo Drive,16.04,,,,,,,,,,,8757359,
+62673865,62894715,0,False,residential,Peccolo Drive,65.36,,,,,,,,,,,8757359,
+62673868,62673865,0,False,residential,,149.222,,,,,,,,,,,8740610,
+62673868,62686142,0,False,residential,,56.981,,,,,,,,,,,8742106,
+62673868,62686124,0,False,residential,,151.202,,,,,,,,,,,8742106,
+62673901,62647137,0,False,secondary,State Highway 37,112.119,,,,,,,,,,,47271444,NY 37
+62673901,62673910,0,False,residential,,115.139,,,,,,,,,,,8740613,
+62673901,62803406,0,False,secondary,State Highway 37,254.736,,,,,,,,,,,47271444,NY 37
+62673910,62673901,0,False,residential,,115.139,,,,,,,,,,,8740613,
+62676230,62686124,0,False,secondary,State Highway 37,25.885,,,,,,,,,,,47271444,NY 37
+62676230,62676254,0,False,secondary,State Highway 37,25.992,,,,,,,,,,,47271444,NY 37
+62676230,62676235,0,False,residential,,123.671,,,,,,,,,,,8740899,
+62676235,62676230,0,False,residential,,123.671,,,,,,,,,,,8740899,
+62676254,62676230,0,False,secondary,State Highway 37,25.992,,,,,,,,,,,47271444,NY 37
+62676254,62676258,0,False,residential,,140.299,,,,,,,,,,,8740903,
+62676254,62686181,0,False,secondary,State Highway 37,453.206,,,,,,,,,,,47271444,NY 37
+62676258,62676254,0,False,residential,,140.299,,,,,,,,,,,8740903,
+62678217,62653016,0,False,primary,State Highway 812,10.932,,,,,,,,,,,49715444,NY 812
+62678217,62678245,0,True,primary_link,,406.308,,,,,,,,,,,8741177,NY 812
+62678217,62734058,0,False,primary,State Highway 812,2568.718,,,,,,,,,,,50179246,NY 812
+62678245,62653043,0,False,primary,,101.416,,,,,,,,,,,49715450,NY 37; NY 812
+62678245,62730308,0,False,primary,State Highway 37,504.237,,,,,,,,,,,49715447,NY 37; NY 812
+62680704,62680718,0,False,residential,,187.128,,,,,,,,,,,8741482,
+62680718,62680704,0,False,residential,,187.128,,,,,,,,,,,8741482,
+62680718,62882438,0,False,secondary,State Highway 37,130.368,,,,,,,,,,,47271444,NY 37
+62680718,62786490,0,False,secondary,State Highway 37,173.699,,,,,,,,,,,47271444,NY 37
+62681274,62681283,0,False,residential,,121.021,,,,,,,,,,,8741558,
+62681283,62681274,0,False,residential,,121.021,,,,,,,,,,,8741558,
+62682179,62638928,0,False,residential,,154.679,,,,,,,,,,,8741650,
+62683058,62683062,0,False,residential,,80.954,,,,,,,,,,,8741753,
+62683062,62683058,0,False,residential,,80.954,,,,,,,,,,,8741753,
+62683974,62794400,0,False,residential,McCormick Road,54.259,,,,,,,,,,,8749078,
+62683974,62683987,0,False,residential,,121.241,,,,,,,,,,,8741856,
+62683974,62775076,0,False,residential,McCormick Road,2054.546,,,,,,,,,,,8749078,
+62683987,62683974,0,False,residential,,121.241,,,,,,,,,,,8741856,
+62683987,62861916,0,False,residential,Sullivan Road,462.764,,,,,,,,,,,8753502,
+62683987,62794400,0,False,residential,Sullivan Road,59.712,,,,,,,,,,,8753502,
+62684465,62684465,0,False,residential,,365.365,,,,,,,,,,,8741910,
+62684465,62684465,1,False,residential,,365.365,,,,,,,,,,,8741910,
+62684465,62684508,0,False,residential,,195.021,,,,,,,,,,,8741913,
+62684508,62684465,0,False,residential,,195.021,,,,,,,,,,,8741913,
+62684508,62710446,0,False,residential,Horseshoe Road,3483.614,,,,,,,,,,,8743890,
+62684508,62854770,0,False,residential,West Lisbon Street,352.077,,,,,,,,,,,8757344,
+62685433,62668240,0,False,residential,,695.512,,,,,,,,,,,8742021,
+62686124,62686142,0,False,secondary,State Highway 37,56.374,,,,,,,,,,,47271444,NY 37
+62686124,62676230,0,False,secondary,State Highway 37,25.885,,,,,,,,,,,47271444,NY 37
+62686124,62673868,0,False,residential,,151.202,,,,,,,,,,,8742106,
+62686142,62673868,0,False,residential,,56.981,,,,,,,,,,,8742106,
+62686142,62894715,0,False,secondary,State Highway 37,141.406,,,,,,,,,,,47271444,NY 37
+62686142,62686124,0,False,secondary,State Highway 37,56.374,,,,,,,,,,,47271444,NY 37
+62686181,62686183,0,False,residential,,154.121,,,,,,,,,,,8742112,
+62686181,62647137,0,False,secondary,State Highway 37,65.19,,,,,,,,,,,47271444,NY 37
+62686181,62676254,0,False,secondary,State Highway 37,453.206,,,,,,,,,,,47271444,NY 37
+62686183,62686181,0,False,residential,,154.121,,,,,,,,,,,8742112,
+62697117,62638781,0,False,residential,Livingston Drive,522.433,,,,,,,,,,,8742971,
+62697117,62748630,0,False,secondary,State Highway 37,123.341,,,,,,,,,,,47271444,NY 37
+62697117,62794442,0,False,secondary,State Highway 37,167.511,,,,,,,,,,,47271444,NY 37
+62697123,62697131,0,False,residential,Livingston Drive,86.132,,,,,,,,,,,8742972,
+62697131,62697123,0,False,residential,Livingston Drive,86.132,,,,,,,,,,,8742972,
+62697131,62652877,0,False,residential,"['Chardon Way', 'Chardonnay Road', 'Wright Camp Drive']",416.925,,,,,,,,,,,"[8745499, 8749628, 8756870]",
+62697131,62804499,0,False,residential,Wright Camp Drive,584.207,,,,,,,,,,,8749629,
+62705226,62705231,0,False,residential,East Union Street,168.132,,,,,,,,,,,8743500,
+62705226,62749046,0,False,primary,South State Street,137.766,2,,,,,,yes,,,,"[175007706, 8746372]",NY 812
+62705226,62790301,0,False,primary,"['State Highway 812', 'South State Street']",1321.804,2,,,,,,,,,,"[8746372, 92102494]",NY 812
+62705231,62705226,0,False,residential,East Union Street,168.132,,,,,,,,,,,8743500,
+62705774,62705802,0,False,residential,Lee Road,1747.737,,,,,,,,,,,8743550,
+62705774,62773472,0,False,residential,Middle Road,420.846,,,,55 mph,,,,,,,8747878,
+62705774,62712930,0,False,residential,Middle Road,1628.294,,,,55 mph,,,,,,,8747878,
+62705802,62705811,0,False,residential,Lee Road,822.435,,,,,,,,,,,8743550,
+62705802,62705774,0,False,residential,Lee Road,1747.737,,,,,,,,,,,8743550,
+62705802,62797822,0,False,residential,Lovejoy Road,2671.341,,,,55 mph,,,,,,,8753374,
+62705802,62734477,0,False,residential,Lovejoy Road,693.3,,,,55 mph,,,,,,,8753374,
+62705811,62705829,0,False,residential,Lee Road,790.146,,,,,,,,,,,8743550,
+62705811,62705802,0,False,residential,Lee Road,822.435,,,,,,,,,,,8743550,
+62705811,62797848,0,False,residential,Monkey Hill Road,4175.627,,,,,,,,,,,8753893,
+62705829,62705845,0,False,residential,Lee Road,1366.794,,,,,,,,,,,8743550,
+62705829,62705811,0,False,residential,Lee Road,790.146,,,,,,,,,,,8743550,
+62705829,62775101,0,False,residential,Haggart Road,3648.972,,,,,,,,,,,8747977,
+62705845,62705829,0,False,residential,Lee Road,1366.794,,,,,,,,,,,8743550,
+62705845,62803406,0,False,secondary,State Highway 37,508.754,,,,,,,,,,,47271444,NY 37
+62705845,62873438,0,False,secondary,State Highway 37,201.874,,,,,,,,,,,47271444,NY 37
+62707237,62707271,0,False,residential,Line Road,2518.424,,,,,,,,,,,8743656,
+62707237,62731705,0,False,residential,East Kelly Road,711.332,,,,,,,,,,,8745524,
+62707271,62707274,0,False,residential,Line Road,39.996,,,,,,,,,,,8743656,
+62707271,62707237,0,False,residential,Line Road,2518.424,,,,,,,,,,,8743656,
+62707271,62767676,0,False,residential,Dry Bridge Road,1454.994,,,,,,,,,,,8756153,
+62707274,62707271,0,False,residential,Line Road,39.996,,,,,,,,,,,8743656,
+62707274,62707291,0,False,residential,Line Road,1385.241,,,,,,,,,,,8743656,
+62707291,62707307,0,False,residential,Line Road,1223.291,,,,,,,,,,,8743656,
+62707291,62707274,0,False,residential,Line Road,1385.241,,,,,,,,,,,8743656,
+62707291,62735763,0,False,residential,Dollar Road,1621.547,,,,,,,,,,,8745754,
+62707307,62707313,0,False,residential,Line Road,811.337,,,,,,,,,,,8743656,
+62707307,62707291,0,False,residential,Line Road,1223.291,,,,,,,,,,,8743656,
+62707307,62887038,0,False,"['residential', 'tertiary']","['East Lisbon Street', 'County Road 10']",2603.747,,,,,,,,,,,"[8755422, 8747286]",
+62707313,62707307,0,False,residential,Line Road,811.337,,,,,,,,,,,8743656,
+62707313,62758995,0,False,residential,Bishop Road,1628.227,,,,,,,,,,,8746900,
+62710096,62710102,0,False,residential,Wilson Street,300.591,,,,,,,,,,,8743869,
+62710096,62786779,0,False,residential,Rensselaer Street,64.96,,,,,,,,,,,8757693,
+62710096,62888421,0,False,residential,Rensselaer Street,114.226,,,,,,,,,,,8757693,
+62710102,62710096,0,False,residential,Wilson Street,300.591,,,,,,,,,,,8743869,
+62710446,62710482,0,False,residential,Horseshoe Road,1321.369,,,,,,,,,,,8743890,
+62710446,62684508,0,False,residential,Horseshoe Road,3483.614,,,,,,,,,,,8743890,
+62710446,62887925,0,False,residential,Taylor Road,1045.096,,,,,,,,,,,8755487,
+62710482,62710446,0,False,residential,Horseshoe Road,1321.369,,,,,,,,,,,8743890,
+62710482,62726365,0,False,residential,West Washington Street,449.071,,,,,,,,,,,8745145,
+62710482,62901226,0,False,residential,Boundary Street,74.453,,,,,,,,,,,8756414,
+62712930,62712945,0,False,residential,Dashnaw Road,258.821,,,,,,,,,,,8744040,
+62712930,62705774,0,False,residential,Middle Road,1628.294,,,,55 mph,,,,,,,8747878,
+62712930,62734332,0,False,residential,Middle Road,1680.241,,,,55 mph,,,,,,,8747878,
+62712945,62712930,0,False,residential,Dashnaw Road,258.821,,,,,,,,,,,8744040,
+62722665,62722683,0,False,residential,Dump Road,864.779,,,,,,,,,,,8744930,
+62722665,62789399,0,False,primary,State Highway 812,907.712,,,,,,,,,,,50179246,NY 812
+62722665,62789379,0,False,primary,State Highway 812,1085.658,,,,,,,,,,,50179246,NY 812
+62722683,62722665,0,False,residential,Dump Road,864.779,,,,,,,,,,,8744930,
+62723493,62723495,0,False,residential,John Street,148.425,,,,,,,,,,,8744969,
+62723493,62887032,0,False,residential,East Lisbon Street,192.652,,,,,,,,,,,8755422,
+62723493,62804868,0,False,residential,East Lisbon Street,157.762,,,,,,,,,,,8755422,
+62723495,62723493,0,False,residential,John Street,148.425,,,,,,,,,,,8744969,
+62723495,62804871,0,False,residential,Justina Street,157.255,,,,,,,,,,,8755512,
+62723495,62888421,0,False,residential,Justina Street,113.458,,,,,,,,,,,8755512,
+62723825,62723827,0,False,secondary,Patterson Street,12.383,,,,,,,,,,,8744989,NY 68
+62723825,62730308,0,True,secondary,Paterson Street,49.353,,,,,,,,,,,8745409,NY 68
+62723827,62723825,0,False,secondary,Patterson Street,12.383,,,,,,,,,,,8744989,NY 68
+62724678,62724684,0,False,residential,Simms Camp Road,75.809,,,,,,,,,,,8745055,
+62724678,62724684,1,False,residential,Camp Road,125.117,,,,,,,,,,,8747613,
+62724678,62891602,0,False,residential,Simms Shore Road,56.267,,,,,,,,,,,8755785,
+62724684,62724693,0,False,residential,Simms Camp Road,552.923,,,,,,,,,,,8745055,
+62724684,62724678,0,False,residential,Simms Camp Road,75.809,,,,,,,,,,,8745055,
+62724684,62724678,1,False,residential,Camp Road,125.117,,,,,,,,,,,8747613,
+62724693,62797848,0,False,residential,County Road 6,59.114,,,,,,,,,,,8749194,
+62724693,62724684,0,False,residential,Simms Camp Road,552.923,,,,,,,,,,,8745055,
+62724693,444214215,0,False,residential,County Road 6,2525.057,,,,,,,,,,,8749194,
+62726365,62726368,0,False,residential,West Washington Street,171.009,,,,,,,,,,,8745145,
+62726365,62854777,0,False,residential,Annette Street,152.352,,,,,,,,,,,8753061,
+62726365,62710482,0,False,residential,West Washington Street,449.071,,,,,,,,,,,8745145,
+62726368,62726365,0,False,residential,West Washington Street,171.009,,,,,,,,,,,8745145,
+62726368,62789413,0,False,primary,"['State Highway 812', 'North State Street']",370.589,2,,,,,,,,,,"[50179246, 8747375]",NY 812
+62726368,62765878,0,False,primary,North State Street,155.298,2,,,,,,,,,,8747375,NY 812
+62726368,62786776,0,False,residential,East Washington Street,158.177,,,,,,,,,,,8748722,
+62730299,62730303,0,True,secondary,Paterson Street,52.405,,,,,,,,,,,8745408,NY 68
+62730299,62760515,0,False,secondary,State Highway 68,1270.628,,,,,,,,,,,8746985,NY 68
+62730303,62730308,0,False,primary,State Highway 37,13.754,,,,,,,,,,,49715447,NY 37; NY 812
+62730303,62723827,0,True,secondary,Paterson Street,52.969,,,,,,,,,,,139324139,NY 68
+62730303,62851708,0,False,primary,State Highway 37,351.537,,,,,,,,,,,49715447,NY 37; NY 812
+62730308,62730303,0,False,primary,State Highway 37,13.754,,,,,,,,,,,49715447,NY 37; NY 812
+62730308,62678245,0,False,primary,State Highway 37,504.237,,,,,,,,,,,49715447,NY 37; NY 812
+62730308,62730299,0,True,secondary,Paterson Street,57.47,,,,,,,,,,,139324140,NY 68
+62731217,62731218,0,False,residential,Zowllar Road,191.335,,,,,,,,,,,8745486,
+62731217,62751878,0,False,residential,Lost Village Road,222.491,,,,,,,,,,,8753754,
+62731217,62865178,0,False,residential,Lost Village Road,475.173,,,,,,,,,,,8753754,
+62731218,62731217,0,False,residential,Zowllar Road,191.335,,,,,,,,,,,8745486,
+62731359,62748739,0,False,residential,"['Chardonnay Road', 'Dunn Point Road']",265.495,,,,,,,,,,,"[8757709, 8745501]",
+62731705,62707237,0,False,residential,East Kelly Road,711.332,,,,,,,,,,,8745524,
+62731705,62767676,0,False,tertiary,County Road 15,2585.412,,,,,,,,,,,8747480,CR 15
+62731705,62661570,0,False,tertiary,County Road 15,945.474,,,,,,,,,,,8747480,CR 15
+62731705,62767683,0,False,residential,River Road,4449.43,,,,,,,,,,,8756671,
+62733946,62734043,0,False,residential,McIntyre Road,2040.186,,,,,,,,,,,8745641,
+62734043,62734058,0,False,residential,McIntyre Road,1125.218,,,,,,,,,,,8745641,
+62734043,62733946,0,False,residential,McIntyre Road,2040.186,,,,,,,,,,,8745641,
+62734043,62850620,0,False,residential,Sleepy Hollow Lane,278.93,,,,,,,,,,,8752784,
+62734058,62734043,0,False,residential,McIntyre Road,1125.218,,,,,,,,,,,8745641,
+62734058,62789351,0,False,primary,State Highway 812,383.756,,,,,,,,,,,50179246,NY 812
+62734058,62678217,0,False,primary,State Highway 812,2568.718,,,,,,,,,,,50179246,NY 812
+62734332,62734477,0,False,residential,Bromaghin Road,3347.14,,,,,,,,,,,8745665,
+62734332,62712930,0,False,residential,Middle Road,1680.241,,,,55 mph,,,,,,,8747878,
+62734332,62773414,0,False,residential,Middle Road,494.126,,,,55 mph,,,,,,,8747878,
+62734477,62734332,0,False,residential,Bromaghin Road,3347.14,,,,,,,,,,,8745665,
+62734477,62705802,0,False,residential,Lovejoy Road,693.3,,,,55 mph,,,,,,,8753374,
+62734477,62780707,0,False,residential,Lovejoy Road,2587.682,,,,55 mph,,,,,,,8753374,
+62735751,62735763,0,False,residential,Dollar Road,331.229,,,,,,,,,,,8745754,
+62735751,62767749,0,False,tertiary,County Road 15,339.552,,,,,,,yes,,,,"[8747480, 175007701, 175007702]",CR 15
+62735751,62767694,0,False,tertiary,County Road 15,658.464,,,,,,,,,,,8747480,CR 15
+62735763,62707291,0,False,residential,Dollar Road,1621.547,,,,,,,,,,,8745754,
+62735763,62735751,0,False,residential,Dollar Road,331.229,,,,,,,,,,,8745754,
+62735763,62929624,0,False,residential,Mc Coy Road,485.562,,,,,,,,,,,8758375,
+62745803,62745831,0,False,residential,McGowan Road,477.619,,,,,,,,,,,8746249,
+62745831,62745803,0,False,residential,McGowan Road,477.619,,,,,,,,,,,8746249,
+62745831,62781424,0,False,residential,"['County Road 4', 'Eel Weir Road']",519.572,,,,,,,,,,,"[8748360, 8749079]",
+62745831,62765940,0,False,residential,County Road 4,1644.378,,,,,,,,,,,8749079,
+62748630,62804499,0,False,secondary,State Highway 37,188.422,,,,,,,,,,,47271444,NY 37
+62748630,62847641,0,False,residential,"['Camp Road 41', 'Barr Road', 'Wells Road']",1022.168,,,,,,,,,,,"[8753808, 8738378, 8752557, 8746359]",
+62748630,62697117,0,False,secondary,State Highway 37,123.341,,,,,,,,,,,47271444,NY 37
+62748739,62878786,0,False,residential,Dunns Pt Road,373.383,,,,,,,,,,,8754795,
+62748739,62878763,0,False,residential,Dunns Pt Road,131.932,,,,,,,,,,,8754795,
+62748739,62731359,0,False,residential,"['Chardonnay Road', 'Dunn Point Road']",265.495,,,,,,,,,,,"[8745501, 8757709]",
+62749046,62765871,0,False,primary,North State Street,145.272,2,,,,,,,,,,8747375,NY 812
+62749046,62804865,0,False,residential,West Water Street,155.472,,,,,,,,,,,8758557,
+62749046,62854770,0,False,residential,"['West Water Street', 'Annette Street']",321.244,,,,,,,,,,,"[8758557, 8753061]",
+62749046,62705226,0,False,primary,South State Street,137.766,2,,,,,,yes,,,,"[175007706, 8746372]",NY 812
+62751054,62641208,0,False,residential,McEwen Lane,281.471,,,,,,,,,,,8746488,
+62751105,62641208,0,False,residential,McEwen Lane,60.239,,,,,,,,,,,8746488,
+62751105,62641201,0,False,secondary,State Highway 37,99.5,,,,,,,,,,,47271444,NY 37
+62751105,62873438,0,False,secondary,State Highway 37,1910.188,,,,,,,,,,,47271444,NY 37
+62751472,62790301,0,False,primary,State Highway 812,1809.824,,,,,,,,,,,92102494,NY 812
+62751472,62790233,0,False,primary,State Highway 812,1022.696,,,,,,,,,,,92102494,NY 812
+62751838,62751878,0,False,residential,Zoller Road,662.185,,,,,,,,,,,8746535,
+62751878,62751908,0,False,residential,Zoller Road,1662.878,,,,,,,,,,,8746535,
+62751878,62751838,0,False,residential,Zoller Road,662.185,,,,,,,,,,,8746535,
+62751878,62775748,0,False,residential,Lost Village Road,2337.67,,,,,,,,,,,8753754,
+62751878,62731217,0,False,residential,Lost Village Road,222.491,,,,,,,,,,,8753754,
+62751908,62782292,0,False,residential,Ogdensburg Road,163.458,,,,,,,,,,,8748433,
+62751908,62751878,0,False,residential,Zoller Road,1662.878,,,,,,,,,,,8746535,
+62751908,62782328,0,False,residential,County Road 6,2373.327,,,,,,,,,,,8749197,
+62758995,62707313,0,False,residential,Bishop Road,1628.227,,,,,,,,,,,8746900,
+62758995,62773918,0,False,residential,Irish Settlement Road,333.173,,,,,,,,,,,8747913,
+62758995,62773868,0,False,residential,Irish Settlement Road,3318.051,,,,,,,,,,,8747913,
+62759828,62759869,0,True,secondary,State Highway 37,8.268,,,,,,,,,,,8755970,NY 37
+62759828,62759831,0,False,secondary,State Highway 68,28.696,,,,,,,,,,,8746947,
+62759831,62759860,0,False,secondary,State Highway 68,265.261,,,,,,,,,,,8746947,
+62759831,62759828,0,False,secondary,State Highway 68,28.696,,,,,,,,,,,8746947,
+62759831,62889778,0,True,secondary,State Highway 37,184.352,,,,,,,,,,,49715448,NY 37
+62759860,62759831,0,False,secondary,State Highway 68,265.261,,,,,,,,,,,8746947,
+62759860,62667016,0,False,secondary,State Highway 68,430.307,,,,,,,,,,,8746949,NY 68
+62759860,62670534,0,False,secondary,State Highway 68,173.44,,,,,,,,,,,8746949,NY 68
+62759869,62759871,0,False,secondary,State Highway 68,27.041,,,,,,,,,,,8746949,NY 68
+62759869,62894024,0,True,secondary,State Highway 37,487.435,,,,,,,,,,,8755970,NY 37
+62759871,62759869,0,False,secondary,State Highway 68,27.041,,,,,,,,,,,8746949,NY 68
+62759871,62759831,0,True,secondary,State Highway 37,45.559,,,,,,,,,,,49715448,NY 37
+62759871,62670534,0,False,secondary,State Highway 68,45.039,,,,,,,,,,,8746949,NY 68
+62760463,62773967,0,False,residential,Irish Settlement Road,33.186,,,,,,,,,,,8747913,
+62760463,62760468,0,False,secondary,State Highway 68,119.135,,,,,,,,,,,8746985,NY 68
+62760468,62760475,0,False,secondary,State Highway 68,357.455,,,,,,,,,,,8746985,NY 68
+62760468,62760463,0,False,secondary,State Highway 68,119.135,,,,,,,,,,,8746985,NY 68
+62760468,62775855,0,False,residential,County Road 4,91.323,,,,,,,,,,,8749081,
+62760475,62760515,0,False,secondary,State Highway 68,2902.071,,,,,,,,,,,8746985,NY 68
+62760475,62760468,0,False,secondary,State Highway 68,357.455,,,,,,,,,,,8746985,NY 68
+62760475,62775855,0,False,residential,Old State Road,396.505,,,,,,,,,,,8755825,
+62760515,62730299,0,False,secondary,State Highway 68,1270.628,,,,,,,,,,,8746985,NY 68
+62760515,62760475,0,False,secondary,State Highway 68,2902.071,,,,,,,,,,,8746985,NY 68
+62760515,62927344,0,False,residential,Arnold Wagner Road,167.515,,,,,,,,,,,8758550,
+62765871,62765874,0,False,primary,North State Street,3.975,2,,,,,,,,,,8747375,NY 812
+62765871,62749046,0,False,primary,North State Street,145.272,2,,,,,,,,,,8747375,NY 812
+62765871,62854770,0,False,residential,West Lisbon Street,170.555,,,,,,,,,,,8757344,
+62765874,62765871,0,False,primary,North State Street,3.975,2,,,,,,,,,,8747375,NY 812
+62765874,62765877,0,False,primary,North State Street,87.052,2,,,,,,,,,,8747375,NY 812
+62765874,62804868,0,False,residential,West Lisbon Street,158.847,,,,,,,,,,,8757346,
+62765877,62765878,0,False,primary,North State Street,76.372,2,,,,,,,,,,8747375,NY 812
+62765877,62765874,0,False,primary,North State Street,87.052,2,,,,,,,,,,8747375,NY 812
+62765877,62803377,0,False,residential,Clinton Street,156.959,,,,,,,,,,,8749543,
+62765878,62765877,0,False,primary,North State Street,76.372,2,,,,,,,,,,8747375,NY 812
+62765878,62726368,0,False,primary,North State Street,155.298,2,,,,,,,,,,8747375,NY 812
+62765878,62804871,0,False,residential,Justina Street,156.505,,,,,,,,,,,8755512,
+62765878,62854777,0,False,residential,Justina Street,168.698,,,,,,,,,,,8755512,
+62765940,62765964,0,False,residential,Lee Drive,985.323,,,,,,,,,,,8747380,
+62765940,62745831,0,False,residential,County Road 4,1644.378,,,,,,,,,,,8749079,
+62765940,62887925,0,False,residential,Taylor Road,3253.73,,,,,,,,,,,8755487,
+62765940,62781410,0,False,residential,Eel Weir Road,405.628,,,,,,,yes,,,,"[91935569, 8748358, 91935575]",
+62765964,62765940,0,False,residential,Lee Drive,985.323,,,,,,,,,,,8747380,
+62767676,62767683,0,False,tertiary,County Road 15,295.936,,,,,,,,,,,8747480,CR 15
+62767676,62731705,0,False,tertiary,County Road 15,2585.412,,,,,,,,,,,8747480,CR 15
+62767676,62707271,0,False,residential,Dry Bridge Road,1454.994,,,,,,,,,,,8756153,
+62767683,62767694,0,False,tertiary,County Road 15,534.81,,,,,,,,,,,8747480,CR 15
+62767683,62767676,0,False,tertiary,County Road 15,295.936,,,,,,,,,,,8747480,CR 15
+62767683,62731705,0,False,residential,River Road,4449.43,,,,,,,,,,,8756671,
+62767694,62735751,0,False,tertiary,County Road 15,658.464,,,,,,,,,,,8747480,CR 15
+62767694,62767683,0,False,tertiary,County Road 15,534.81,,,,,,,,,,,8747480,CR 15
+62767694,62933871,0,False,residential,Mc Clure Road,809.09,,,,,,,,,,,8758733,
+62767749,62898896,0,False,residential,Rensselaer Street,522.946,,,,,,,,,,,8757693,
+62767749,62929667,0,False,residential,Mc Coy Road,123.78,,,,,,,,,,,8758378,
+62767749,62735751,0,False,tertiary,County Road 15,339.552,,,,,,,yes,,,,"[8747480, 175007701, 175007702]",CR 15
+62773384,62773414,0,False,residential,Middle Road,1736.805,,,,55 mph,,,,,,,8747878,
+62773384,62794400,0,False,residential,McCormick Road,1395.723,,,,,,,,,,,8749078,
+62773384,62794340,0,False,residential,McCormick Road,2825.186,,,,,,,,,,,8749078,
+62773414,62734332,0,False,residential,Middle Road,494.126,,,,55 mph,,,,,,,8747878,
+62773414,62773384,0,False,residential,Middle Road,1736.805,,,,55 mph,,,,,,,8747878,
+62773414,62780707,0,False,residential,Stone Church Road,2160.748,,,,55 mph,,,,,,,8748320,
+62773414,62780648,0,False,residential,Stone Church Road,1278.824,,,,55 mph,,,,,,,8748320,
+62773472,62705774,0,False,residential,Middle Road,420.846,,,,55 mph,,,,,,,8747878,
+62773472,62654268,0,False,residential,County Road 6,1057.56,,,,,,,,,,,8749194,
+62773472,62781377,0,False,residential,County Road 6,1534.794,,,,,,,,,,,8749194,
+62773868,62758995,0,False,residential,Irish Settlement Road,3318.051,,,,,,,,,,,8747913,
+62773868,62887038,0,False,residential,East Lisbon Street,139.118,,,,,,,,,,,8755422,
+62773868,62887032,0,False,residential,East Lisbon Street,66.649,,,,,,,,,,,8755422,
+62773918,62773943,0,False,residential,Irish Settlement Road,1590.362,,,,,,,,,,,8747913,
+62773918,62758995,0,False,residential,Irish Settlement Road,333.173,,,,,,,,,,,8747913,
+62773918,62789413,0,False,residential,McIlwee Road,3828.486,,,,,,,,,,,8754551,
+62773943,62773967,0,False,residential,Irish Settlement Road,1176.18,,,,,,,,,,,8747913,
+62773943,62773918,0,False,residential,Irish Settlement Road,1590.362,,,,,,,,,,,8747913,
+62773943,62789379,0,False,residential,Pinkerton Road,2647.366,,,,,,,,,,,8756163,
+62773967,62760463,0,False,residential,Irish Settlement Road,33.186,,,,,,,,,,,8747913,
+62773967,62773943,0,False,residential,Irish Settlement Road,1176.18,,,,,,,,,,,8747913,
+62773967,62775855,0,False,residential,Old State Road,157.044,,,,,,,,,,,8755825,
+62775076,62673478,0,False,residential,Haggart Road,1868.074,,,,,,,,,,,8747977,
+62775076,62794442,0,False,residential,McCormick Road,1450.782,,,,,,,,,,,8749078,
+62775076,62683974,0,False,residential,McCormick Road,2054.546,,,,,,,,,,,8749078,
+62775101,62705829,0,False,residential,Haggart Road,3648.972,,,,,,,,,,,8747977,
+62775101,62673478,0,False,residential,Haggart Road,141.21,,,,,,,,,,,8747977,
+62775101,62780733,0,False,residential,Stone Church Road,1707.514,,,,55 mph,,,,,,,8748320,
+62775101,62638163,0,False,residential,Stone Church Road,1072.126,,,,55 mph,,,,,,,8748320,
+62775726,62775748,0,False,residential,Spile Bridge Road,928.181,,,,,,,,,,,8747996,
+62775726,62902892,0,False,residential,Spile Bridge,190.904,,,,,,,,,,,8756505,
+62775748,62775726,0,False,residential,Spile Bridge Road,928.181,,,,,,,,,,,8747996,
+62775748,62781387,0,False,residential,Lost Village Road,626.412,,,,,,,,,,,8753754,
+62775748,62751878,0,False,residential,Lost Village Road,2337.67,,,,,,,,,,,8753754,
+62775827,62775855,0,False,residential,Moreland Road,2418.725,,,,,,,,,,,8748007,
+62775827,62789376,0,False,primary,State Highway 812,805.128,,,,,,,,,,,50179246,NY 812
+62775827,62789351,0,False,primary,State Highway 812,1057.5,,,,,,,,,,,50179246,NY 812
+62775855,62775827,0,False,residential,Moreland Road,2418.725,,,,,,,,,,,8748007,
+62775855,62760468,0,False,residential,County Road 4,91.323,,,,,,,,,,,8749081,
+62775855,62760475,0,False,residential,Old State Road,396.505,,,,,,,,,,,8755825,
+62775855,62773967,0,False,residential,Old State Road,157.044,,,,,,,,,,,8755825,
+62780616,62780620,0,False,residential,Stone Church Road,242.487,,,,55 mph,,,,,,,8748320,
+62780620,62780648,0,False,residential,Stone Church Road,2050.432,,,,55 mph,,,,,,,8748320,
+62780620,62780616,0,False,residential,Stone Church Road,242.487,,,,55 mph,,,,,,,8748320,
+62780620,62782328,0,False,residential,Ogdensburg Road,1252.782,,,,,,,,,,,8748434,
+62780620,62794340,0,False,residential,County Road 6,1999.542,,,,,,,,,,,8749169,
+62780648,62773414,0,False,residential,Stone Church Road,1278.824,,,,55 mph,,,,,,,8748320,
+62780648,62780620,0,False,residential,Stone Church Road,2050.432,,,,55 mph,,,,,,,8748320,
+62780648,62673452,0,False,residential,Tallman Road,474.164,,,,,,,,,,,8752564,
+62780707,62638163,0,False,residential,Stone Church Road,63.937,,,,55 mph,,,,,,,8748320,
+62780707,62773414,0,False,residential,Stone Church Road,2160.748,,,,55 mph,,,,,,,8748320,
+62780707,62734477,0,False,residential,Lovejoy Road,2587.682,,,,55 mph,,,,,,,8753374,
+62780733,62780742,0,False,residential,Stone Church Road,362.382,,,,55 mph,,,,,,,8748320,
+62780733,62775101,0,False,residential,Stone Church Road,1707.514,,,,55 mph,,,,,,,8748320,
+62780733,62641201,0,False,secondary,State Highway 37,1081.75,,,,,,,,,,,47271444,NY 37
+62780733,62804499,0,False,secondary,State Highway 37,1458.101,,,,,,,,,,,47271444,NY 37
+62780742,62780733,0,False,residential,Stone Church Road,362.382,,,,55 mph,,,,,,,8748320,
+62781377,62781387,0,False,residential,Eel Weir Road,1471.849,,,,,,,,,,,8748358,
+62781377,62773472,0,False,residential,County Road 6,1534.794,,,,,,,,,,,8749194,
+62781377,62782292,0,False,residential,County Road 6,564.214,,,,,,,,,,,8749194,
+62781387,62781410,0,False,residential,Eel Weir Road,1583.708,,,,,,,,,,,8748358,
+62781387,62781377,0,False,residential,Eel Weir Road,1471.849,,,,,,,,,,,8748358,
+62781387,62797808,0,False,residential,Lost Village Road,2318.427,,,,,,,,,,,8753754,
+62781387,62775748,0,False,residential,Lost Village Road,626.412,,,,,,,,,,,8753754,
+62781410,62790790,0,False,residential,Howes Pine Drive,198.33,,,,,,,,,,,8748909,
+62781410,62765940,0,False,residential,Eel Weir Road,405.628,,,,,,,yes,,,,"[91935569, 8748358, 91935575]",
+62781410,62781387,0,False,residential,Eel Weir Road,1583.708,,,,,,,,,,,8748358,
+62781424,62745831,0,False,residential,"['County Road 4', 'Eel Weir Road']",519.572,,,,,,,,,,,"[8748360, 8749079]",
+62781424,62789376,0,False,tertiary,County Road 4,1175.658,,,,,,,,,,,8749080,CR 4
+62781424,62789351,0,False,residential,Delaney Road,1908.914,,,,,,,,,,,8756056,
+62782292,62751908,0,False,residential,Ogdensburg Road,163.458,,,,,,,,,,,8748433,
+62782292,62781377,0,False,residential,County Road 6,564.214,,,,,,,,,,,8749194,
+62782292,62673452,0,False,residential,Tallman Road,2466.542,,,,,,,,,,,8752564,
+62782328,62780620,0,False,residential,Ogdensburg Road,1252.782,,,,,,,,,,,8748434,
+62782328,62751908,0,False,residential,County Road 6,2373.327,,,,,,,,,,,8749197,
+62782328,62865178,0,False,residential,Lost Village Road,973.122,,,,,,,,,,,8753754,
+62786490,62651076,0,False,secondary,State Highway 37,17.335,,,,,,,,,,,47271444,NY 37
+62786490,62786513,0,False,residential,"['Stone Hedge Road', 'Cedar Shores Road']",346.924,,,,,,,,,,,"[8755920, 8748701]",
+62786490,62680718,0,False,secondary,State Highway 37,173.699,,,,,,,,,,,47271444,NY 37
+62786513,62786515,0,False,residential,Cedar Shores Road,104.7,,,,,,,,,,,8748702,
+62786513,62893067,0,False,residential,Stone Hedge Road,83.413,,,,,,,,,,,8755918,
+62786513,62894722,0,False,residential,"['Peon Lane', 'Peos Lane', 'Cedar Shores Road']",327.023,,,,,,,,,,,"[8757590, 8748702, 8753287]",
+62786513,62786490,0,False,residential,"['Stone Hedge Road', 'Cedar Shores Road']",346.924,,,,,,,,,,,"[8755920, 8748701]",
+62786515,62786513,0,False,residential,Cedar Shores Road,104.7,,,,,,,,,,,8748702,
+62786776,62786779,0,False,residential,East Washington Street,180.031,,,,,,,,,,,8748722,
+62786776,62726368,0,False,residential,East Washington Street,158.177,,,,,,,,,,,8748722,
+62786776,62804871,0,False,residential,York Street,157.444,,,,,,,,,,,8749655,
+62786779,62786776,0,False,residential,East Washington Street,180.031,,,,,,,,,,,8748722,
+62786779,62918983,0,False,residential,Rensselaer Street,101.632,,,,,,,,,,,8757693,
+62786779,62710096,0,False,residential,Rensselaer Street,64.96,,,,,,,,,,,8757693,
+62789351,62781424,0,False,residential,Delaney Road,1908.914,,,,,,,,,,,8756056,
+62789351,62775827,0,False,primary,State Highway 812,1057.5,,,,,,,,,,,50179246,NY 812
+62789351,62734058,0,False,primary,State Highway 812,383.756,,,,,,,,,,,50179246,NY 812
+62789376,62781424,0,False,tertiary,County Road 4,1175.658,,,,,,,,,,,8749080,CR 4
+62789376,62789379,0,False,primary,State Highway 812,466.696,,,,,,,,,,,50179246,NY 812
+62789376,62775827,0,False,primary,State Highway 812,805.128,,,,,,,,,,,50179246,NY 812
+62789379,62773943,0,False,residential,Pinkerton Road,2647.366,,,,,,,,,,,8756163,
+62789379,62722665,0,False,primary,State Highway 812,1085.658,,,,,,,,,,,50179246,NY 812
+62789379,62789376,0,False,primary,State Highway 812,466.696,,,,,,,,,,,50179246,NY 812
+62789399,62887925,0,False,residential,Hutchinson Road,2592.849,,,,,,,,,,,8759195,
+62789399,62789413,0,False,primary,State Highway 812,1773.292,,,,,,,,,,,50179246,NY 812
+62789399,62722665,0,False,primary,State Highway 812,907.712,,,,,,,,,,,50179246,NY 812
+62789413,62773918,0,False,residential,McIlwee Road,3828.486,,,,,,,,,,,8754551,
+62789413,62726368,0,False,primary,"['State Highway 812', 'North State Street']",370.589,2,,,,,,,,,,"[50179246, 8747375]",NY 812
+62789413,62789399,0,False,primary,State Highway 812,1773.292,,,,,,,,,,,50179246,NY 812
+62790196,62790233,0,False,primary,State Highway 812,1550.979,,,,,,,,,,,92102494,NY 812
+62790233,62891583,0,False,residential,Backus Camp Road,1405.642,,,,,,,,,,,8755777,
+62790233,62751472,0,False,primary,State Highway 812,1022.696,,,,,,,,,,,92102494,NY 812
+62790233,62790196,0,False,primary,State Highway 812,1550.979,,,,,,,,,,,92102494,NY 812
+62790301,62705226,0,False,primary,"['State Highway 812', 'South State Street']",1321.804,2,,,,,,,,,,"[8746372, 92102494]",NY 812
+62790301,62751472,0,False,primary,State Highway 812,1809.824,,,,,,,,,,,92102494,NY 812
+62790790,62781410,0,False,residential,Howes Pine Drive,198.33,,,,,,,,,,,8748909,
+62790790,62790819,0,False,residential,Howes Pine Drive,393.764,,,,,,,,,,,8748909,
+62790790,62860975,0,False,residential,Howes Pine View Drive,134.009,,,,,,,,,,,8758778,
+62790819,62790790,0,False,residential,Howes Pine Drive,393.764,,,,,,,,,,,8748909,
+62794340,62773384,0,False,residential,McCormick Road,2825.186,,,,,,,,,,,8749078,
+62794340,62780620,0,False,residential,County Road 6,1999.542,,,,,,,,,,,8749169,
+62794400,62683974,0,False,residential,McCormick Road,54.259,,,,,,,,,,,8749078,
+62794400,62773384,0,False,residential,McCormick Road,1395.723,,,,,,,,,,,8749078,
+62794400,62683987,0,False,residential,Sullivan Road,59.712,,,,,,,,,,,8753502,
+62794442,62775076,0,False,residential,McCormick Road,1450.782,,,,,,,,,,,8749078,
+62794442,62655206,0,False,residential,Camp Road 41,153.609,,,,,,,,,,,8753805,
+62794442,62697117,0,False,secondary,State Highway 37,167.511,,,,,,,,,,,47271444,NY 37
+62797808,62797822,0,False,residential,County Road 6,1164.206,,,,,,,,,,,8749194,
+62797808,62654268,0,False,residential,County Road 6,428.7,,,,,,,,,,,8749194,
+62797808,62781387,0,False,residential,Lost Village Road,2318.427,,,,,,,,,,,8753754,
+62797822,62797848,0,False,residential,County Road 6,1548.511,,,,,,,,,,,8749194,
+62797822,62797808,0,False,residential,County Road 6,1164.206,,,,,,,,,,,8749194,
+62797822,62705802,0,False,residential,Lovejoy Road,2671.341,,,,55 mph,,,,,,,8753374,
+62797848,62724693,0,False,residential,County Road 6,59.114,,,,,,,,,,,8749194,
+62797848,62797822,0,False,residential,County Road 6,1548.511,,,,,,,,,,,8749194,
+62797848,62705811,0,False,residential,Monkey Hill Road,4175.627,,,,,,,,,,,8753893,
+62803377,62804871,0,False,residential,York Street,71.668,,,,,,,,,,,8749655,
+62803377,62804868,0,False,residential,York Street,84.869,,,,,,,,,,,8749655,
+62803377,62765877,0,False,residential,Clinton Street,156.959,,,,,,,,,,,8749543,
+62803406,62803409,0,False,residential,Champion Drive,91.647,,,,,,,,,,,8749548,
+62803406,62673901,0,False,secondary,State Highway 37,254.736,,,,,,,,,,,47271444,NY 37
+62803406,62705845,0,False,secondary,State Highway 37,508.754,,,,,,,,,,,47271444,NY 37
+62803409,62803406,0,False,residential,Champion Drive,91.647,,,,,,,,,,,8749548,
+62804499,62748630,0,False,secondary,State Highway 37,188.422,,,,,,,,,,,47271444,NY 37
+62804499,62697131,0,False,residential,Wright Camp Drive,584.207,,,,,,,,,,,8749629,
+62804499,62780733,0,False,secondary,State Highway 37,1458.101,,,,,,,,,,,47271444,NY 37
+62804865,62804868,0,False,residential,York Street,145.332,,,,,,,,,,,8749655,
+62804865,62918965,0,False,residential,East Water Street,457.262,,,,,,,,,,,8757830,
+62804865,62749046,0,False,residential,West Water Street,155.472,,,,,,,,,,,8758557,
+62804868,62803377,0,False,residential,York Street,84.869,,,,,,,,,,,8749655,
+62804868,62723493,0,False,residential,East Lisbon Street,157.762,,,,,,,,,,,8755422,
+62804868,62804865,0,False,residential,York Street,145.332,,,,,,,,,,,8749655,
+62804868,62765874,0,False,residential,West Lisbon Street,158.847,,,,,,,,,,,8757346,
+62804871,62803377,0,False,residential,York Street,71.668,,,,,,,,,,,8749655,
+62804871,62723495,0,False,residential,Justina Street,157.255,,,,,,,,,,,8755512,
+62804871,62786776,0,False,residential,York Street,157.444,,,,,,,,,,,8749655,
+62804871,62765878,0,False,residential,Justina Street,156.505,,,,,,,,,,,8755512,
+62847641,62631659,0,False,residential,Barr Road,33.617,,,,,,,,,,,8752559,
+62847641,62631663,0,False,residential,Barr Road,20.699,,,,,,,,,,,8752557,
+62847641,62748630,0,False,residential,"['Camp Road 41', 'Barr Road', 'Wells Road']",1022.168,,,,,,,,,,,"[8753808, 8738378, 8752557, 8746359]",
+62850620,62850624,0,False,residential,Sleepy Hollow Lane,23.082,,,,,,,,,,,8752784,
+62850620,62734043,0,False,residential,Sleepy Hollow Lane,278.93,,,,,,,,,,,8752784,
+62850620,62850668,0,False,residential,Sleepy Hollow Lane,269.123,,,,,,,,,,,8752787,
+62850624,62850620,0,False,residential,Sleepy Hollow Lane,23.082,,,,,,,,,,,8752784,
+62850668,62850620,0,False,residential,Sleepy Hollow Lane,269.123,,,,,,,,,,,8752787,
+62851640,62851670,0,False,residential,Riveredge Circle,90.914,,,,,,,,,,,8752834,
+62851640,62851640,0,False,residential,Riveredge Circle,78.124,,,,,,,,,,,8752832,
+62851640,62851640,1,False,residential,Riveredge Circle,78.124,,,,,,,,,,,8752832,
+62851670,62851640,0,False,residential,Riveredge Circle,90.914,,,,,,,,,,,8752834,
+62851670,62889795,0,False,residential,Acco Drive,163.805,,,,,,,,,,,8755650,
+62851670,62889778,0,False,residential,Acco Drive,519.617,,,,,,,,,,,8755650,
+62851708,62654084,0,False,residential,Park Street,28.94,,,,,,,,,,,8752839,
+62851708,62654090,0,False,primary,State Highway 37,46.181,,,,,,,,,,,49715447,NY 37; NY 812
+62851708,62730303,0,False,primary,State Highway 37,351.537,,,,,,,,,,,49715447,NY 37; NY 812
+62854770,62854777,0,False,residential,Annette Street,170.845,,,,,,,,,,,8753061,
+62854770,62749046,0,False,residential,"['West Water Street', 'Annette Street']",321.244,,,,,,,,,,,"[8758557, 8753061]",
+62854770,62765871,0,False,residential,West Lisbon Street,170.555,,,,,,,,,,,8757344,
+62854770,62684508,0,False,residential,West Lisbon Street,352.077,,,,,,,,,,,8757344,
+62854777,62726365,0,False,residential,Annette Street,152.352,,,,,,,,,,,8753061,
+62854777,62854770,0,False,residential,Annette Street,170.845,,,,,,,,,,,8753061,
+62854777,62765878,0,False,residential,Justina Street,168.698,,,,,,,,,,,8755512,
+62860975,62790790,0,False,residential,Howes Pine View Drive,134.009,,,,,,,,,,,8758778,
+62861916,62683987,0,False,residential,Sullivan Road,462.764,,,,,,,,,,,8753502,
+62865178,62731217,0,False,residential,Lost Village Road,475.173,,,,,,,,,,,8753754,
+62865178,62782328,0,False,residential,Lost Village Road,973.122,,,,,,,,,,,8753754,
+62865178,62902294,0,False,residential,Rock Road,56.21,,,,,,,,,,,8756480,
+62866024,62655206,0,False,residential,Camp Road 41,410.657,,,,,,,,,,,8753805,
+62868494,62641110,0,False,residential,Perry Road,69.488,,,,,,,,,,,8753930,
+62873438,62873444,0,False,residential,Basta Boulevard,116.029,,,,,,,,,,,8754220,
+62873438,62705845,0,False,secondary,State Highway 37,201.874,,,,,,,,,,,47271444,NY 37
+62873438,62751105,0,False,secondary,State Highway 37,1910.188,,,,,,,,,,,47271444,NY 37
+62873444,62873438,0,False,residential,Basta Boulevard,116.029,,,,,,,,,,,8754220,
+62878763,62748739,0,False,residential,Dunns Pt Road,131.932,,,,,,,,,,,8754795,
+62878786,62748739,0,False,residential,Dunns Pt Road,373.383,,,,,,,,,,,8754795,
+62879742,62935972,0,False,residential,Camp,46.613,,,,,,,,,,,8759135,
+62879742,62879759,0,False,residential,Klondike Road,234.743,,,,,,,,,,,8754879,
+62879742,62889809,0,False,residential,Acco Drive,180.59,,,,,,,,,,,8755650,
+62879742,62889795,0,False,residential,Acco Drive,93.994,,,,,,,,,,,8755650,
+62879759,62879742,0,False,residential,Klondike Road,234.743,,,,,,,,,,,8754879,
+62882426,62882426,0,False,residential,Rufa Road,65.271,,,,,,,,,,,8755109,
+62882426,62882426,1,False,residential,Rufa Road,65.271,,,,,,,,,,,8755109,
+62882426,62882447,0,False,residential,Rufa Road,372.433,,,,,,,,,,,8755113,
+62882438,62882447,0,False,secondary,State Highway 37,33.869,,,,,,,,,,,47271444,NY 37
+62882438,62882442,0,False,residential,Rufa Road,46.506,,,,,,,,,,,8755111,
+62882438,62680718,0,False,secondary,State Highway 37,130.368,,,,,,,,,,,47271444,NY 37
+62882442,62882438,0,False,residential,Rufa Road,46.506,,,,,,,,,,,8755111,
+62882447,62882438,0,False,secondary,State Highway 37,33.869,,,,,,,,,,,47271444,NY 37
+62882447,62882426,0,False,residential,Rufa Road,372.433,,,,,,,,,,,8755113,
+62882447,62673842,0,False,secondary,State Highway 37,463.613,,,,,,,,,,,47271444,NY 37
+62886159,62889809,0,False,secondary,State Highway 37,196.488,,,,,,,,,,,47271444,NY 37
+62886159,62673842,0,False,secondary,State Highway 37,45.213,,,,,,,,,,,47271444,NY 37
+62886159,62886187,0,False,residential,Stone Hedge Lane,274.795,,,,,,,,,,,8755365,
+62886187,62886159,0,False,residential,Stone Hedge Lane,274.795,,,,,,,,,,,8755365,
+62887032,62723493,0,False,residential,East Lisbon Street,192.652,,,,,,,,,,,8755422,
+62887032,62773868,0,False,residential,East Lisbon Street,66.649,,,,,,,,,,,8755422,
+62887032,62888421,0,False,residential,Rensselaer Street,168.196,,,,,,,,,,,8757693,
+62887032,62918965,0,False,residential,Rensselaer Street,197.761,,,,,,,,,,,8757693,
+62887038,62707307,0,False,"['residential', 'tertiary']","['East Lisbon Street', 'County Road 10']",2603.747,,,,,,,,,,,"[8755422, 8747286]",
+62887038,62773868,0,False,residential,East Lisbon Street,139.118,,,,,,,,,,,8755422,
+62887038,62898896,0,False,residential,Commerce Street,241.96,,,,,,,,,,,8756273,
+62887925,62765940,0,False,residential,Taylor Road,3253.73,,,,,,,,,,,8755487,
+62887925,62710446,0,False,residential,Taylor Road,1045.096,,,,,,,,,,,8755487,
+62887925,62789399,0,False,residential,Hutchinson Road,2592.849,,,,,,,,,,,8759195,
+62887925,62936452,0,False,residential,Hutchinson Road,319.585,,,,,,,,,,,8759195,
+62888421,62723495,0,False,residential,Justina Street,113.458,,,,,,,,,,,8755512,
+62888421,62710096,0,False,residential,Rensselaer Street,114.226,,,,,,,,,,,8757693,
+62888421,62887032,0,False,residential,Rensselaer Street,168.196,,,,,,,,,,,8757693,
+62889778,62851670,0,False,residential,Acco Drive,519.617,,,,,,,,,,,8755650,
+62889778,62894052,0,True,secondary,State Highway 37,48.627,,,,,,,,,,,49715448,NY 37
+62889795,62851670,0,False,residential,Acco Drive,163.805,,,,,,,,,,,8755650,
+62889795,62879742,0,False,residential,Acco Drive,93.994,,,,,,,,,,,8755650,
+62889795,62930066,0,False,residential,Sunset Circle,92.113,,,,,,,,,,,8758425,
+62889809,62886159,0,False,secondary,State Highway 37,196.488,,,,,,,,,,,47271444,NY 37
+62889809,62879742,0,False,residential,Acco Drive,180.59,,,,,,,,,,,8755650,
+62889809,62894052,0,False,secondary,State Highway 37,578.368,,,,,,,,,,,47271444,NY 37
+62891583,62790233,0,False,residential,Backus Camp Road,1405.642,,,,,,,,,,,8755777,
+62891602,62891607,0,False,residential,Simms Shore Road,26.492,,,,,,,,,,,8755782,
+62891602,62724678,0,False,residential,Simms Shore Road,56.267,,,,,,,,,,,8755785,
+62891602,62891611,0,False,residential,Simms Shore Road,285.207,,,,,,,,,,,8755785,
+62891607,62891602,0,False,residential,Simms Shore Road,26.492,,,,,,,,,,,8755782,
+62891611,62891602,0,False,residential,Simms Shore Road,285.207,,,,,,,,,,,8755785,
+62892930,62655177,0,False,residential,River Lane,43.358,,,,,,,,,,,8755896,
+62892935,62655177,0,False,residential,River Lane,454.816,,,,,,,,,,,8755896,
+62893067,62786513,0,False,residential,Stone Hedge Road,83.413,,,,,,,,,,,8755918,
+62894024,444214215,0,False,secondary,State Highway 37,1744.343,,,,,,,,,,,49715446,NY 37
+62894024,62670520,0,True,secondary,State Highway 37,429.339,,,,,,,,,,,49715448,NY 37
+62894052,62759828,0,True,secondary,State Highway 37,248.985,,,,,,,,,,,8755970,NY 37
+62894052,62889809,0,False,secondary,State Highway 37,578.368,,,,,,,,,,,47271444,NY 37
+62894715,62686142,0,False,secondary,State Highway 37,141.406,,,,,,,,,,,47271444,NY 37
+62894715,62673865,0,False,residential,Peccolo Drive,65.36,,,,,,,,,,,8757359,
+62894715,62894718,0,False,secondary,State Highway 37,286.303,,,,,,,,,,,47271444,NY 37
+62894718,62926943,0,False,residential,Laboda Lane,341.04,,,,,,,,,,,8758247,
+62894718,62894719,0,False,secondary,State Highway 37,233.392,,,,,,,,,,,47271444,NY 37
+62894718,62894715,0,False,secondary,State Highway 37,286.303,,,,,,,,,,,47271444,NY 37
+62894719,62901972,0,False,residential,Progress Road,275.063,,,,,,,,,,,8756465,
+62894719,62894722,0,False,secondary,State Highway 37,60.004,,,,,,,,,,,47271444,NY 37
+62894719,62894718,0,False,secondary,State Highway 37,233.392,,,,,,,,,,,47271444,NY 37
+62894722,62651076,0,False,secondary,State Highway 37,19.687,,,,,,,,,,,47271444,NY 37
+62894722,62786513,0,False,residential,"['Peos Lane', 'Peon Lane', 'Cedar Shores Road']",327.023,,,,,,,,,,,"[8748702, 8757590, 8753287]",
+62894722,62894719,0,False,secondary,State Highway 37,60.004,,,,,,,,,,,47271444,NY 37
+62898896,62918965,0,False,residential,Rensselaer Street,49.159,,,,,,,,,,,8757693,
+62898896,62887038,0,False,residential,Commerce Street,241.96,,,,,,,,,,,8756273,
+62898896,62767749,0,False,residential,Rensselaer Street,522.946,,,,,,,,,,,8757693,
+62901226,62710482,0,False,residential,Boundary Street,74.453,,,,,,,,,,,8756414,
+62901972,62894719,0,False,residential,Progress Road,275.063,,,,,,,,,,,8756465,
+62902294,62865178,0,False,residential,Rock Road,56.21,,,,,,,,,,,8756480,
+62902892,62775726,0,False,residential,Spile Bridge,190.904,,,,,,,,,,,8756505,
+62914760,62664346,0,False,residential,Peccolo Drive,39.656,,,,,,,,,,,8757359,
+62918965,62898896,0,False,residential,Rensselaer Street,49.159,,,,,,,,,,,8757693,
+62918965,62887032,0,False,residential,Rensselaer Street,197.761,,,,,,,,,,,8757693,
+62918965,62804865,0,False,residential,East Water Street,457.262,,,,,,,,,,,8757830,
+62918983,62786779,0,False,residential,Rensselaer Street,101.632,,,,,,,,,,,8757693,
+62926943,62894718,0,False,residential,Laboda Lane,341.04,,,,,,,,,,,8758247,
+62927344,62760515,0,False,residential,Arnold Wagner Road,167.515,,,,,,,,,,,8758550,
+62929624,62735763,0,False,residential,Mc Coy Road,485.562,,,,,,,,,,,8758375,
+62929667,62767749,0,False,residential,Mc Coy Road,123.78,,,,,,,,,,,8758378,
+62930066,62930066,0,False,residential,Sunset Circle,76.38,,,,,,,,,,,8758423,
+62930066,62930066,1,False,residential,Sunset Circle,76.38,,,,,,,,,,,8758423,
+62930066,62889795,0,False,residential,Sunset Circle,92.113,,,,,,,,,,,8758425,
+62933871,62767694,0,False,residential,Mc Clure Road,809.09,,,,,,,,,,,8758733,
+62935972,62879742,0,False,residential,Camp,46.613,,,,,,,,,,,8759135,
+62936452,62887925,0,False,residential,Hutchinson Road,319.585,,,,,,,,,,,8759195,
+444214215,62724693,0,False,residential,County Road 6,2525.057,,,,,,,,,,,8749194,
+444214215,62667208,0,False,secondary,State Highway 37,586.371,,,,,,,yes,,,,"[53602450, 53602454, 49715446]",NY 37
+444214215,62894024,0,False,secondary,State Highway 37,1744.343,,,,,,,,,,,49715446,NY 37
