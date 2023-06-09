@@ -7,6 +7,7 @@ import numpy as np
 from evaluators import eval_mae
 from data_loaders import load_yearly_data
 from logger import Logger
+import os
 
 class VolumeRegressionTrainer:
 
@@ -14,6 +15,7 @@ class VolumeRegressionTrainer:
                  data_dir, state_name,
                  train_years, valid_years, test_years,
                  epochs, batch_size, eval_steps, device,
+                #  save_steps=5, checkpoint_dir=None,
                  log_metrics = ['MAE', 'MSE'],
                  use_dynamic_node_features = False,
                  use_dynamic_edge_features = False, # deprecated
@@ -56,6 +58,11 @@ class VolumeRegressionTrainer:
         self.loggers = {
             key: Logger(runs=1) for key in log_metrics
         }
+
+        # self.save_steps = save_steps
+        # self.checkpoint_dir = checkpoint_dir
+        # if not os.path.exists(self.checkpoint_dir):
+        #     os.makedirs(self.checkpoint_dir)
 
     def train_on_year_data(self, year): 
         pos_edges, pos_edge_weights, node_features = load_yearly_data(data_dir=self.data_dir, state_name=self.state_name, year=year)
@@ -183,6 +190,9 @@ class VolumeRegressionTrainer:
                           f'Test: {test_hits:.4f}')
                 print('---')
 
+                # if epoch % self.save_steps == 0:
+                #     torch.save(self.model.state_dict(), os.path.join(self.checkpoint_dir, f'epoch_{epoch}.pth'))
+
         for key in self.loggers.keys():
             print(key)
             mode = 'min' if (key == 'Loss' or key == "MAE" or key == "MSE") else 'max'
@@ -190,6 +200,7 @@ class VolumeRegressionTrainer:
             train_log[f"Train_{key}"] = train
             train_log[f"Valid_{key}"] = valid
             train_log[f"Test_{key}"] = test
+            
         return train_log
 
     def test(self):
@@ -231,6 +242,10 @@ class VolumeRegressionTrainer:
 
         results = {}
         for key in train_results.keys():
+            if key not in val_results:
+                test_results[key] = 0
+            if key not in test_results:
+                test_results[key] = 0
             results[key] = (train_results[key], val_results[key], test_results[key])
         return results
     

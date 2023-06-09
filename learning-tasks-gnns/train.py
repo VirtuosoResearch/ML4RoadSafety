@@ -23,8 +23,8 @@ def main(args):
     device = f'cuda:{args.device}' if torch.cuda.is_available() else 'cpu'
     device = torch.device(device)
     
-    data = load_static_network(data_dir="./data", state_name=args.state_name, 
-                               feature_type=args.node_feature_type, 
+    data = load_static_network(data_dir="./data", state_name = args.state_name, 
+                               feature_type = args.node_feature_type, 
                                feature_name = args.node_feature_name)
     if args.load_static_edge_features:
         data.edge_attr = load_static_edge_features(data_dir="./data", state_name=args.state_name)
@@ -40,12 +40,13 @@ def main(args):
     else:
         model = GNN(in_channels_node, in_channels_edge, hidden_channels=args.hidden_channels, 
                     num_layers=args.num_gnn_layers, dropout=args.dropout,
-                    JK = args.jk_type, gnn_type = args.encoder).to(device)
+                    JK = args.jk_type, gnn_type = args.encoder, num_nodes=data.num_nodes).to(device)
     load_model_dir = os.path.join("./saved/", args.load_model_dir)
     if os.path.exists(os.path.join(load_model_dir, args.load_model_name)):
         model.load_state_dict(
             torch.load(os.path.join(load_model_dir, args.load_model_name), map_location=device)
         )
+        print("Loaded model from successfully!")
     feature_channels = in_channels_node if args.encoder == "none" else args.hidden_channels
     if_regression = args.train_accident_regression or args.train_volume_regression
     predictor = LinkPredictor(in_channels=feature_channels*2 + in_channels_edge, 
@@ -65,6 +66,7 @@ def main(args):
         optimizer = torch.optim.Adam(params, lr=args.lr)
 
         if args.train_volume_regression:
+            checkpoint_dir = f"./saved/{args.encoder}_layer_{args.num_gnn_layers}_dim_{args.hidden_channels}_{args.state_name}_volume"
             trainer = VolumeRegressionTrainer(model, predictor, data, optimizer,
                             data_dir="./data", state_name=args.state_name,
                             train_years = args.train_years,
@@ -73,6 +75,8 @@ def main(args):
                             epochs=args.epochs,
                             batch_size = args.batch_size,
                             eval_steps=args.eval_steps,
+                            # save_steps=5,
+                            # checkpoint_dir=checkpoint_dir,
                             device = device,
                             use_dynamic_node_features=args.load_dynamic_node_features,
                             use_dynamic_edge_features=args.load_dynamic_edge_features,
@@ -106,7 +110,8 @@ def main(args):
                             device = device,
                             use_dynamic_node_features=args.load_dynamic_node_features,
                             use_dynamic_edge_features=args.load_dynamic_edge_features,
-                            log_metrics=['ROC-AUC', 'F1', 'AP', 'Hits@100'],
+                            log_metrics=['ROC-AUC', 'F1', 'AP', 'Recall', 'Precision'],
+                            num_negative_edges = args.num_negative_edges,
                             node_feature_mean=node_feature_mean, node_feature_std=node_feature_std,
                             edge_feature_mean=edge_feature_mean, edge_feature_std=edge_feature_std,
                             if_sample_node=args.sample_node, sample_batch_size=args.sample_batch_size)
@@ -132,6 +137,7 @@ if __name__ == "__main__":
     parser.add_argument('--train_volume_regression', action='store_true')
 
     parser.add_argument('--state_name', type=str, default="MA")
+    parser.add_argument('--num_negative_edges', type=int, default=100000000)
 
     parser.add_argument('--device', type=int, default=0)
     parser.add_argument('--log_steps', type=int, default=1)
@@ -157,8 +163,8 @@ if __name__ == "__main__":
     parser.add_argument('--valid_years', nargs='+', type=int, default=[2003])
     parser.add_argument('--test_years', nargs='+', type=int, default=[2004])
 
-    parser.add_argument('--load_model_dir', type=str, default="gcn_layer_2_dim_256_MD_accident_classification_MD_volume_regression")
-    parser.add_argument('--load_model_name', type=str, default="epoch_50.pt")
+    parser.add_argument('--load_model_dir', type=str, default="none")
+    parser.add_argument('--load_model_name', type=str, default="epoch_50.pth")
 
     # Static node features
     parser.add_argument('--node_feature_type', type=str, default="verse")

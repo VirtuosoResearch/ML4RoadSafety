@@ -3,12 +3,16 @@ import os
 import torch
 import pandas as pd
 from torch_geometric.data import Data
+import argparse
+
+parser = argparse.ArgumentParser()
+parser.add_argument("--state_name", type=str, default="IA")
+args = parser.parse_args()
 
 data_dir = "./data"
-state_name = "MA"
+state_name = args.state_name
 
 adj = torch.load(os.path.join(data_dir, f"{state_name}/adj_matrix.pt"))
-# n = 285942 and m = 706402
 edge_index = adj.coalesce().indices()
 data = Data(edge_index=edge_index)
 
@@ -53,20 +57,27 @@ edge_lengths[torch.isnan(edge_lengths)] = length_mean
 edge_length_dict = {}
 for k in range(edge_index.shape[1]):
     i, j = edge_index[:, k]
-    edge_length_dict[(i.item(), j.item())] = edge_lengths[k].item()
+    if k >= len(edge_lengths):
+        edge_length_dict[(i.item(), j.item())] = length_mean
+    else:
+        edge_length_dict[(i.item(), j.item())] = edge_lengths[k].item()
 
 nx.set_edge_attributes(G, edge_length_dict, "length")
 
 # %%
-closeness = nx.algorithms.closeness_centrality(G, distance="length")
-betweenness = nx.algorithms.betweenness_centrality(G, weight="length")
-pagerank = nx.pagerank_numpy(G, weight="length")
+# G = nx.Graph([(0, 1), (0, 2), (0, 3), (1, 2), (1, 3)])
+
+# closeness = nx.algorithms.closeness_centrality(G, distance="length")
+# pagerank = nx.pagerank_numpy(G, weight="length")
+# betweenness = nx.algorithms.betweenness_centrality(G)
+# %%
+betweenness = nx.algorithms.betweenness_centrality(G, weight="length", k=1000)
 centrality_features = torch.tensor(
-    [[closeness[i], betweenness[i], pagerank[i]] for i in range(
-        data.num_nodes)])
+    [betweenness[i] for i in range(
+        data.num_nodes)]).view(-1, 1) # closeness[i], pagerank[i]
 
 # %%
-x = torch.cat([in_deg, in_deg_onehot, out_deg, out_deg_onehot, centrality_features], -1)
+x = torch.cat([in_deg, out_deg, centrality_features, in_deg_onehot, out_deg_onehot], -1)
 
 # %%
 import numpy as np

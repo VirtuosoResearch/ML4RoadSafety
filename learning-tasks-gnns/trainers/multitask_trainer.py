@@ -55,7 +55,7 @@ class MultitaskTrainer:
                  num_negative_edges=10000, 
                  node_feature_mean=None, node_feature_std=None, edge_feature_mean=None, edge_feature_std=None, 
                  tasks={}, task_to_datas={}, task_to_predictors={}):
-        
+        self.model = model
         self.tasks = tasks
         self.task_to_datas = task_to_datas
         self.task_to_predictors = task_to_predictors

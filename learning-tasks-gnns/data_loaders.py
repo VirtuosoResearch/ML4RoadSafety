@@ -34,7 +34,7 @@ def load_monthly_data(data, data_dir = "./data", state_name = "MA", num_negative
     neg_mask = np.logical_not(np.isin(all_edges, pos_edges.numpy()).all(axis=1))
     neg_edges = all_edges[neg_mask]
     rng = np.random.default_rng(year * 12 + month)
-    num_negative_edges = max(num_negative_edges, pos_edges.shape[0])
+    num_negative_edges = min(max(num_negative_edges, pos_edges.shape[0]), neg_edges.shape[0])
     neg_edges = neg_edges[rng.choice(neg_edges.shape[0], num_negative_edges, replace=False)]
     neg_edges = torch.Tensor(neg_edges).type(torch.int64)
 
@@ -49,7 +49,7 @@ def load_monthly_data(data, data_dir = "./data", state_name = "MA", num_negative
     node_features = torch.Tensor(node_features.values)
 
     # load the edge features 
-    edge_feature_dir = os.path.join(data_dir, f"{state_name}/Edges/edge_features_{year}_1.pt")
+    edge_feature_dir = os.path.join(data_dir, f"{state_name}/Edges/edge_features_traffic_{year}.pt")
     if os.path.exists(edge_feature_dir):
         edge_feature_dict = torch.load(edge_feature_dir)
 

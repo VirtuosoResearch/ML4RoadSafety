@@ -141,11 +141,12 @@ class GATConv(MessagePassing):
     def forward(self, x, edge_index, edge_attr):
 
         # add self loops in the edge space
-        edge_index, _ = add_self_loops(edge_index, num_nodes = x.size(0))
+        num_nodes = x.size(0) if isinstance(x, Tensor) else x[0].size(0)
+        edge_index, _ = add_self_loops(edge_index, num_nodes = num_nodes)
 
         # add features corresponding to self-loop edges.
         if edge_attr is not None:
-            self_loop_attr = torch.zeros(x.size(0), edge_attr.size(1))
+            self_loop_attr = torch.zeros(num_nodes, edge_attr.size(1))
             self_loop_attr = self_loop_attr.to(edge_attr.device).to(edge_attr.dtype)
             edge_attr = torch.cat((edge_attr, self_loop_attr), dim = 0)
 
@@ -153,13 +154,34 @@ class GATConv(MessagePassing):
         else:
             edge_embeddings = None
 
-        x = self.weight_linear(x).view(-1, self.heads, self.emb_dim)
+        if isinstance(x, Tensor):
+            x = self.weight_linear(x)
+        else:
+            x_src, x_dst = x
+            x_src = self.weight_linear(x_src)
+            x_dst = self.weight_linear(x_dst)
+            x = (x_src, x_dst)
         return self.propagate(edge_index, x=x, edge_attr=edge_embeddings)
 
+    # def message(self, x_i, x_j, edge_attr, edge_index_j):
+    #     x_i = x_i.view(-1, self.heads, self.emb_dim)
+    #     x_j = x_j.view(-1, self.heads, self.emb_dim)
+    #     if edge_attr is not None:
+    #         edge_attr = edge_attr.view(-1, self.heads, self.emb_dim)
+            
+    #         x_j += edge_attr
+
+    #     alpha = (torch.cat([x_i, x_j], dim=-1) * self.att).sum(dim=-1)
+    #     alpha = F.leaky_relu(alpha, self.negative_slope)
+    #     alpha = softmax(alpha, edge_index_j)
+
+    #     return x_j * alpha.view(-1, self.heads, 1)
+
     def message(self, edge_index, x_i, x_j, edge_attr):
-        if edge_attr is not None:
-            edge_attr = edge_attr.view(-1, self.heads, self.emb_dim)
-            x_j += edge_attr
+        x_i = x_i.view(-1, self.heads, self.emb_dim)
+        x_j = x_j.view(-1, self.heads, self.emb_dim)
+        edge_attr = edge_attr.view(-1, self.heads, self.emb_dim)
+        x_j += edge_attr
 
         alpha = (torch.cat([x_i, x_j], dim=-1) * self.att).sum(dim=-1)
 

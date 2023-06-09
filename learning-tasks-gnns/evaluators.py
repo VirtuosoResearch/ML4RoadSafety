@@ -1,7 +1,8 @@
 import torch
 import numpy as np
-from sklearn.metrics import roc_auc_score, f1_score, average_precision_score
+from sklearn.metrics import roc_auc_score, f1_score, average_precision_score, recall_score, precision_score
 import torch.nn.functional as F
+
 def eval_rocauc(y_pred_pos, y_pred_neg):
     
     y_pred_pos_numpy = y_pred_pos.cpu().numpy()
@@ -14,7 +15,10 @@ def eval_rocauc(y_pred_pos, y_pred_neg):
     f1 = f1_score(y_true, y_pred>0.5)
     ap = average_precision_score(y_true, y_pred)
 
-    return {'ROC-AUC': rocauc, 'F1': f1, 'AP': ap}
+    recall = recall_score(y_true, y_pred>0.5)
+    precision = precision_score(y_true, y_pred>0.5)
+
+    return {'ROC-AUC': rocauc, 'F1': f1, 'AP': ap, 'Recall': recall, 'Precision': precision}
 
 def eval_hits(y_pred_pos, y_pred_neg, K = 100, type_info = 'torch'):
     '''

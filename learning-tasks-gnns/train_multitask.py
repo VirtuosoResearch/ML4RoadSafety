@@ -71,6 +71,7 @@ def main(args):
 
         task_dir = "_".join(task_list)
         checkpoint_dir = f"./saved/{args.encoder}_layer_{args.num_gnn_layers}_dim_{args.hidden_channels}_{task_dir}"
+        checkpoint_dir = checkpoint_dir[:200]
         trainer = MultitaskTrainer(model, optimizer, data_dir="./data",
                         epochs=args.epochs,
                         batch_size = args.batch_size,

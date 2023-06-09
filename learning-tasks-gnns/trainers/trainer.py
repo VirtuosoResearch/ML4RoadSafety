@@ -64,7 +64,6 @@ class Trainer:
     def train_on_month_data(self, year, month): 
         pos_edges, pos_edge_weights, neg_edges, node_features, edge_features = \
             load_monthly_data(self.data, data_dir=self.data_dir, state_name=self.state_name, year=year, month = month, num_negative_edges=self.num_negative_edges)
-
         if pos_edges is None or pos_edges.size(0) < 10:
             return 0, 0
 
@@ -73,7 +72,6 @@ class Trainer:
             node_features = (node_features - self.node_feature_mean) / self.node_feature_std
         if self.edge_feature_mean is not None:
             edge_features = (edge_features - self.edge_feature_mean) / self.edge_feature_std
-
 
         new_data = self.data.clone()
         if self.use_dynamic_node_features:
@@ -94,8 +92,8 @@ class Trainer:
         # encoding
         if not self.if_sample_node:
             new_data = new_data.to(self.device)
-            h = self.model(new_data.x, new_data.edge_index, new_data.edge_attr)
             edge_attr = new_data.edge_attr
+            h = self.model(new_data.x, new_data.edge_index, edge_attr)
         else:
             train_loader = NeighborLoader(new_data, 
                                           num_neighbors=[-1]*self.model.num_layer, 
@@ -130,9 +128,8 @@ class Trainer:
             
             
             labels = torch.cat([torch.ones(pos_out.size(0)), torch.zeros(neg_out.size(0))]).view(-1, 1).to(self.device)
-
             loss = F.binary_cross_entropy(torch.cat([pos_out, neg_out]), labels)
-            loss.backward(retain_graph=True) # 
+            loss.backward(retain_graph=True) #
             self.optimizer.step()
             
             num_examples = pos_out.size(0)
@@ -217,9 +214,9 @@ class Trainer:
         # Eval ROC-AUC
         rocauc = eval_rocauc(pos_preds, neg_preds)
         results.update(rocauc)
-        # Eval Hits@K
-        hits = eval_hits(pos_preds, neg_preds, K=100)
-        results.update(hits)
+        # # Eval Hits@K
+        # hits = eval_hits(pos_preds, neg_preds, K=100)
+        # results.update(hits)
 
         return results, pos_edges.size(0)
 

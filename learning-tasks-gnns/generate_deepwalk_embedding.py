@@ -2,12 +2,16 @@
 import os
 import torch
 import pandas as pd
+import argparse
+
+parser = argparse.ArgumentParser()
+parser.add_argument("--state_name", type=str, default="IA")
+args = parser.parse_args()
 
 data_dir = "./data"
-state_name = "MA"
+state_name = args.state_name
 
 adj = torch.load(os.path.join(data_dir, f"{state_name}/adj_matrix.pt"))
-# n = 285942 and m = 706402
 edge_index = adj.coalesce().indices()
 
 # %%
