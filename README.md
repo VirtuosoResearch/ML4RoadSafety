@@ -27,10 +27,11 @@ pip install -r requirements.txt
 
 ### Quick Start: Package Usage
 
-**TODOs: **
+**TODOs**
 
-- Write a dataloader for directly download the datasets. 
-- Write the quick start instructions.
+- Write a dataloader for directly download the datasets
+- Write the quick start instructions
+- Sync to our anonymous link
 
 **TODOs: @Abhinav**
 
@@ -41,3 +42,5 @@ pip install -r requirements.txt
 ### Data Collection Process
 
 We have meticulously documented our data collection process, providing valuable insights into how we processed accidents and road networks using publicly available sources. This information serves as a reference for researchers and practitioners interested in analyzing traffic accidents.
+
+### Ackowledgement
