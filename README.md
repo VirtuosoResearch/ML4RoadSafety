@@ -59,7 +59,7 @@ x, edge_index, edge_attr = data["x"], data["edge_index"], data["edge_attr"]
 With these functions, you can split the datasets into different months for training and evaluation. Additionally, we provide an `Evaluator` module that can be easily integrated into your training or test loop:
 
 ```python
-from gl_road_safety import Evaluator
+from ml_for_road_safety import Evaluator
 
 # Get an evaluator for accident prediction, e.g., the regression task. 
 evaluator = Evaluator(type = "regression")

@@ -8,7 +8,7 @@ parser = argparse.ArgumentParser()
 parser.add_argument("--state_name", type=str, default="IA")
 args = parser.parse_args()
 
-data_dir = "./data"
+data_dir = "../data"
 state_name = args.state_name
 
 adj = torch.load(os.path.join(data_dir, f"{state_name}/adj_matrix.pt"))
