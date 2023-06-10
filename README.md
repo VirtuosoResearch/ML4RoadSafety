@@ -80,7 +80,7 @@ for month in test_months:
     print(results_dict['MAE'])
 ```
 
-**Training and Evaluating GNNs **
+**Training and Evaluating GNNs**
 
 To simplify the process of training and evaluating graph neural networks (GNNs) on our dataset for a specific state, we provide a Python script called `train.py`. You can customize the training process by specifying the following parameters:
 
