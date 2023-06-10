@@ -86,7 +86,7 @@ To simplify the process of training and evaluating graph neural networks (GNNs) 
 
 - `--state_name` specifies the state of the dataset. Choose among `DE`, `IA`, `IL`, `MA`, `MD`, `MN`, `MT`, `NV`. 
 
-- `--node_feature_type` specifies the type of node features. Choose among `centrality`, `node2vec`, and `deepwalk`. We provide the generated node features under `ml_for_road_safety/embeddings`. 
+- `--node_feature_type` specifies the type of node features. Choose among `centrality`, `node2vec`, and `deepwalk`. See `README.md` under the `embeddings` folder for the instructions to generate node features.
 - `--encoder` specifies the model to encode node features. `none` indicate only using MLP as the predictor. We provide the following encoders: `gcn`, `graphsage`, `gin`, and `dcrnn`. 
   -  `--num_gnn_layers` specifies the number of encoder layers.
   - `--hidden_channels` specifies the hidden model width. 
