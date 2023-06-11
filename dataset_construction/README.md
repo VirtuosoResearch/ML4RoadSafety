@@ -54,7 +54,6 @@ Here is a summary of the records collected:
 
 2. **[Iowa (IA)](https://icat.iowadot.gov/#):** 556,418 accident records from Jan 1 2013 to May 1 2023
 
-
 3. **[Illinois (IL)](https://gis-idot.opendata.arcgis.com/search?collection=Dataset&q=Crashes):** 2,980,702 accident records from Jan 1 2012 to Dec 31 2021
 
 4. **[Maryland (MD)](https://opendata.maryland.gov/Public-Safety/Maryland-Statewide-Vehicle-Crashes/65du-s3qu):** 878,343 accident records from Jan 1 2015 to Dec 31 2022
@@ -189,25 +188,3 @@ These are the following edge features:
 - highway
 - length
 - Annual Average Daily Traffic (AADT)
-
-## Baseline Models
-
-Now that we have created the dataset/graph, we need to model Graph Neural Networks (GNNs) for our prediction task. Since the task is to predict if an accident has taken place on a street or not, it is an edge classification task in our graph.
-
-We ran experiments on several baseline models, including:
-
-- **[DCRNN](https://arxiv.org/abs/1707.01926):** A graph neural network that consists of a diffusion convolutional layer to capture spatial dependencies, a recurrent layer to capture temporal dependencies, and a pooling layer to aggregate information across multiple time steps.
-
-- **[Graph-WaveNet](https://arxiv.org/abs/1906.00121):** A graph convolutional neural network that utlizes a self-adaptive adjacency matrix to capture spatial-temporal dependencies simultaneously.
-
-- **[STGCN](https://arxiv.org/abs/1709.04875):** A graph convolutional neural network that uses a spatio-temporal graph convolutional network architecture to aggregate information across multiple time steps in traffic forecasting tasks.
-
-## Installation
-
-To install the required packages, run the following command:
-    
-    pip install -r requirements.txt
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
