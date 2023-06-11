@@ -4,7 +4,7 @@ We have meticulously documented our data collection process, providing valuable 
 
 **TODOs: @Abhinav**
 
-- Please restructure the files under `./dataset_construction`
+- Please restructure the files under `./datasets`
 - Remove all the source files and link to our dataset url
 - Write the README for different parts of the construction
 
