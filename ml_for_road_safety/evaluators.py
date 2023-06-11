@@ -3,6 +3,12 @@ import numpy as np
 from sklearn.metrics import roc_auc_score, f1_score, average_precision_score, recall_score, precision_score
 import torch.nn.functional as F
 
+class Evaluator:
+
+    def __init__(self, type="regression"):
+        self.criterion = F.l1_loss if type == "regression" else F.binary_cross_entropy_with_logits
+        self.eval = eval_mae if type == "regression" else eval_rocauc
+    
 def eval_rocauc(y_pred_pos, y_pred_neg):
     
     y_pred_pos_numpy = y_pred_pos.cpu().numpy()
