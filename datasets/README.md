@@ -1,4 +1,4 @@
-### Data Collection Process
+# Data Collection Process
 
 We have meticulously documented our data collection process, providing valuable insights into how we processed accidents and road networks using publicly available sources. This information serves as a reference for researchers and practitioners interested in analyzing traffic accidents.
 
@@ -14,14 +14,9 @@ We describe the collection procedure for each data source, including:
 - Road network features, including traffic volume reports, weather conditions, and other graph structural features
 
 
+### Collecting traffic accident records
 
-### Traffic accident records
-
-Accident records have been obtained for states where the data is available at a person/vehicle level and the lat-lon coordinates are available or can be extracted.
-
-The accident records for all such states have been obtained from the data published by the Department of Transportation for the respective state.
-
-Here is a summary of the records collected:
+Accident records have been obtained for states where the data is available at a person/vehicle level and the lat-lon coordinates are available or can be extracted. The accident records for all such states have been obtained from the data published by the Department of Transportation for the respective state. Here is a summary of the records collected:
 
 1. **[Delaware (DE)](https://data.delaware.gov/Transportation/Public-Crash-Data-Map/3rrv-8pfj):** 458,282 accident records from Jan 1 2009 to Oct 31 2022
 
@@ -39,13 +34,8 @@ Here is a summary of the records collected:
 
 8. **[Nevada (NV)](https://ndot.maps.arcgis.com/apps/webappviewer/index.html?id=00d23dc547eb4382bef9beabe07eaefd):** 237,338 accident records from Jan 1 2016 to Dec 31 2020
 
-9. **[Vermont (VT)]():** 
 
-10. **New York City:** A dataset that contains information about road accidents in New York City from April 2014 to March 2023. The dataset contains 1,000,000+ accidents.
-
-
-
-### Road networks:
+### Constructing road networks:
 
 The road network is created as a graph where the nodes and edges are defined as below:
 
@@ -71,7 +61,7 @@ There are two methods to extract the desired network:
   The road network is available for all the states in United States of America.
 
 
-### Road network features:
+### Collecting road network features:
 
 The traffic volume data is extracted from the data published by the Department of Transportation (DOT) of every state.
 
@@ -83,9 +73,7 @@ The traffic volume data is extracted from the data published by the Department o
 
 4. **[Maryland (MD)]():** 
 
-5. **[Massachusetts (MA)](https://mhd.public.ms2soft.com/tcds/tsearch.asp?loc=Mhd&mod=):** 
-  
-    Traffic counts at 9,444 locations. Only the latest data is available with the corresponding year. The yearly growth_rate for different road types has been taken from [here](https://www.mass.gov/lists/massdot-historical-traffic-volume-data), which is averaged over the years for every road type. The historical data is then extrapolated for all the years.
+5. **[Massachusetts (MA)](https://mhd.public.ms2soft.com/tcds/tsearch.asp?loc=Mhd&mod=):** Traffic counts at 9,444 locations. Only the latest data is available with the corresponding year. The yearly growth_rate for different road types has been taken from [here](https://www.mass.gov/lists/massdot-historical-traffic-volume-data), which is averaged over the years for every road type. The historical data is then extrapolated for all the years.
 
 6. **[Minnesota (MN)]():** 
 
@@ -93,25 +81,7 @@ The traffic volume data is extracted from the data published by the Department o
 
 8. **[Nevada (NV)]():** 
 
-9.  **[Vermont (VT)]():** 
-
-10. **[New York City (NYC)](https://data.cityofnewyork.us/Transportation/Automated-Traffic-Volume-Counts/7ym2-wayt):**
-New York City Department of Transportation (NYC DOT) uses Automated Traffic Recorders (ATR) to collect traffic sample volume counts at bridge crossings and roadways.These counts do not cover the entire year, and the number of days counted per location may vary from year to year.
-The dataset contains traffic counts as defined above from 2011 to 2019.
-
-
-The weather data is extracted using meteostat api. For every node (intersection) in the state, the historical weather data is extracted corresponding to the data recorded at the nearest station to that node. Since this data is temporal in nature and is available at every node, we believe that the weather features would be important for our task.
-
-The following features are extracted at a Month level:
-
-- tavg: Average Surface Temperature
-- tmin: Minimum Surface Temperature
-- tmax: Maximum Surface Temperature
-- prcp: Total Precipitation
-- wspd: Avg Wind Speed
-- pres: Sea Level Air Pressure
-
-After extracting the historical data for a particular node, the feature data for a few months is not available. The following methodology has been adopted to impute this missing data:
+The weather data is extracted using meteostat api. For every node (intersection) in the state, the historical weather data is extracted corresponding to the data recorded at the nearest station to that node. After extracting the historical data for a particular node, the feature data for a few months is not available. The following methodology has been adopted to impute this missing data:
 
 - Replace with the feature data of the same month the following year
 - Replace with the feature data of the same month the previous year
@@ -122,28 +92,24 @@ Besides, the following features have been calculated which might help in improvi
 - Node degree and betweenness centrality
 - Node position: Latitude and longitude
 
-### Creating the final dataset:
+### Alignment of network labels and features 
 
-All the above datasets need to be combined in order to create the final graph for modeling. 
+Lastly, we combine the above in order to create the final graphs for modeling. 
 
-- **Accident Data, Road Network:**
-    - The accident data contains the lat-long coordinates of every accident which has to be mapped to the nearest street in the data generated from OpenStreetMaps. 
-    - The road network has the lat-long coordinates of every intersection/node in the graph. 
-    - We assume that the accident takes place at some point between two nodes. 
-    - Let’s assume the accident takes place at point C which is on the street between nodes A and B. 
-    - The distance AC + BC should ideally be equal to AB assuming the street AB is a straight road. 
-    - Using the above methodology, we iterate over all the streets and map the accident to the street where the difference of distances (AB - (AC+BC)) is the lowest.
+**Traffic accident records**
+- The accident data contains the lat-long coordinates of every accident which has to be mapped to the nearest street in the data generated from OpenStreetMaps. 
+- The road network has the lat-long coordinates of every intersection/node in the graph. 
+- We assume that the accident takes place at some point between two nodes. 
+- Let’s assume the accident takes place at point C which is on the street between nodes A and B. 
+- The distance AC + BC should ideally be equal to AB assuming the street AB is a straight road. 
+- Using the above methodology, we iterate over all the streets and map the accident to the street where the difference of distances (AB - (AC+BC)) is the lowest.
 
-- **Traffic Data, Road Network:**
-    - Traffic Data contains the names of the streets defined by Department of Transportation. Road Network has the names of streets given by OpenStreetMaps. These names have to be mapped to combine both these data sources
-    - Extract the lat-lon coordinates from the road names in the traffic data
-    - Apply the nearest street mapping methodology described above to map the street where the traffic was recorded to the edge 
-    - Extract the county name from the lat-lon coordinate
-    - Calculate the AADT value of a particular county by averaging the AADT values of all the streets in that county
-  - Assign this value to all the streets in that county
-  - Repeat the above steps for all counties, finally getting the AADT values for all streets in the state
-  
-- **Weather Data, Road Network:**
-
-  - From the lat lon coordinate of a partular node, extract the historical weather features using the methodology explained above.
-  - Repeat this exercise for all nodes
+**Road networks**
+- Traffic Data contains the names of the streets defined by Department of Transportation. Road Network has the names of streets given by OpenStreetMaps. These names have to be mapped to combine both these data sources
+- Extract the lat-lon coordinates from the road names in the traffic data
+- Apply the nearest street mapping methodology described above to map the street where the traffic was recorded to the edge 
+- Extract the county name from the lat-lon coordinate
+- Calculate the AADT value of a particular county by averaging the AADT values of all the streets in that county
+- Assign this value to all the streets in that county
+- Repeat the above steps for all counties, finally getting the AADT values for all streets in the state
+- For weather Data, from the lat lon coordinate of a partular node, extract the historical weather features using the methodology explained above; Repeat this exercise for all nodes
