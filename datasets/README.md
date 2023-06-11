@@ -16,11 +16,7 @@ We describe the collection procedure for each data source, including:
 
 ### Collecting traffic accident records
 
-Accident records have been obtained for states where the data is available at a person/vehicle level and the lat-lon coordinates are available or can be extracted.
-
-The accident records for all such states have been obtained from the data published by the Department of Transportation for the respective state.
-
-Here is a summary of the records collected:
+Accident records have been obtained for states where the data is available at a person/vehicle level and the lat-lon coordinates are available or can be extracted. The accident records for all such states have been obtained from the data published by the Department of Transportation for the respective state. Here is a summary of the records collected:
 
 1. **[Delaware (DE)](https://data.delaware.gov/Transportation/Public-Crash-Data-Map/3rrv-8pfj):** 458,282 accident records from Jan 1 2009 to Oct 31 2022
 
@@ -77,16 +73,13 @@ The traffic volume data is extracted from the data published by the Department o
 
 4. **[Maryland (MD)]():** 
 
-5. **[Massachusetts (MA)](https://mhd.public.ms2soft.com/tcds/tsearch.asp?loc=Mhd&mod=):** 
-  
-    Traffic counts at 9,444 locations. Only the latest data is available with the corresponding year. The yearly growth_rate for different road types has been taken from [here](https://www.mass.gov/lists/massdot-historical-traffic-volume-data), which is averaged over the years for every road type. The historical data is then extrapolated for all the years.
+5. **[Massachusetts (MA)](https://mhd.public.ms2soft.com/tcds/tsearch.asp?loc=Mhd&mod=):** Traffic counts at 9,444 locations. Only the latest data is available with the corresponding year. The yearly growth_rate for different road types has been taken from [here](https://www.mass.gov/lists/massdot-historical-traffic-volume-data), which is averaged over the years for every road type. The historical data is then extrapolated for all the years.
 
 6. **[Minnesota (MN)]():** 
 
 7. **[Montana (MT)]():** 
 
 8. **[Nevada (NV)]():** 
-
 
 The weather data is extracted using meteostat api. For every node (intersection) in the state, the historical weather data is extracted corresponding to the data recorded at the nearest station to that node. After extracting the historical data for a particular node, the feature data for a few months is not available. The following methodology has been adopted to impute this missing data:
 
@@ -99,9 +92,9 @@ Besides, the following features have been calculated which might help in improvi
 - Node degree and betweenness centrality
 - Node position: Latitude and longitude
 
-### Creating the final dataset:
+### Alignment of network labels and features 
 
-All the above datasets need to be combined in order to create the final graph for modeling. 
+Lastly, we combine the above in order to create the final graphs for modeling. 
 
 **Traffic accident records**
 - The accident data contains the lat-long coordinates of every accident which has to be mapped to the nearest street in the data generated from OpenStreetMaps. 
@@ -111,7 +104,7 @@ All the above datasets need to be combined in order to create the final graph fo
 - The distance AC + BC should ideally be equal to AB assuming the street AB is a straight road. 
 - Using the above methodology, we iterate over all the streets and map the accident to the street where the difference of distances (AB - (AC+BC)) is the lowest.
 
-**Road networks:**
+**Road networks**
 - Traffic Data contains the names of the streets defined by Department of Transportation. Road Network has the names of streets given by OpenStreetMaps. These names have to be mapped to combine both these data sources
 - Extract the lat-lon coordinates from the road names in the traffic data
 - Apply the nearest street mapping methodology described above to map the street where the traffic was recorded to the edge 
