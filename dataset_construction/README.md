@@ -1,48 +1,21 @@
-# Graph Learning for Road Safety
+### Data Collection Process
 
-## Data
+We have meticulously documented our data collection process, providing valuable insights into how we processed accidents and road networks using publicly available sources. This information serves as a reference for researchers and practitioners interested in analyzing traffic accidents.
 
-We have collected/extracted the following data to create the graph for each state:
-- Road (Street) Networks
-- Accident Records
-- Traffic Volume
-- Weather Features
-- Inherent Graph Features
+**TODOs: @Abhinav**
 
+- Please restructure the files under `./dataset_construction`
+- Remove all the source files and link to our dataset url
+- Write the README for different parts of the construction
 
-
-
-[Download link](https://drive.google.com/drive/folders/1PHIkgoKkugj6rMvkbjxpJbmzVn69dm8e)
-
-
-### Traffic Network:
-
-The road network is created as a graph where the nodes and edges are defined as below:
-
-- **Node:**
-Intersection of roads (latitude and longitude)
-- **Edge:**
-Road (length, name, type of road, etc)
-
-There are two methods to extract the desired network:
-
-- **OSMnx library:**
-  
-  The library “osmnx” from OpenStreetMaps uses an api to extract the necessary features. For this project, since the street network is required, the api takes a bounding box of coordinates as an input and extracts the street network as an output.
-  
-  Since the project requires the street network of an entire city/state, the geographic region is split into multiple small rectangles and the street network is extracted for each one of them, and finally appended into one big network.
-
-- **[Harvard Dataverse](https://doi.org/10.7910/DVN/CUWWYJ):**
-  
-  The required street network has been published in Harvard Dataverse in 2017. For every state, the street networks are available at the scale of city, county, neighbourhood, tract and urbanized area.
-
-  The street networks for all of the above mentioned levels of a state are appended to ensure all the streets in the state are included in the road network graph for that state. 
-
-  The road network is available for all the states in United States of America.
+We describe the collection procedure for each data source, including:
+- Traffic accident records
+- Road networks
+- Road network features, including traffic volume reports, weather conditions, and other graph structural features
 
 
 
-### Traffic Accident Records:
+### Traffic accident records
 
 Accident records have been obtained for states where the data is available at a person/vehicle level and the lat-lon coordinates are available or can be extracted.
 
@@ -72,10 +45,35 @@ Here is a summary of the records collected:
 
 
 
-### Traffic Volume:
+### Road networks:
 
-The Traffic data is extracted from the data published by the Department of Transportation (DOT) of every state.
+The road network is created as a graph where the nodes and edges are defined as below:
 
+- **Node:**
+Intersection of roads (latitude and longitude)
+- **Edge:**
+Road (length, name, type of road, etc)
+
+There are two methods to extract the desired network:
+
+- **OSMnx library:**
+  
+  The library “osmnx” from OpenStreetMaps uses an api to extract the necessary features. For this project, since the street network is required, the api takes a bounding box of coordinates as an input and extracts the street network as an output.
+  
+  Since the project requires the street network of an entire city/state, the geographic region is split into multiple small rectangles and the street network is extracted for each one of them, and finally appended into one big network.
+
+- **[Harvard Dataverse](https://doi.org/10.7910/DVN/CUWWYJ):**
+  
+  The required street network has been published in Harvard Dataverse in 2017. For every state, the street networks are available at the scale of city, county, neighbourhood, tract and urbanized area.
+
+  The street networks for all of the above mentioned levels of a state are appended to ensure all the streets in the state are included in the road network graph for that state. 
+
+  The road network is available for all the states in United States of America.
+
+
+### Road network features:
+
+The traffic volume data is extracted from the data published by the Department of Transportation (DOT) of every state.
 
 1. **[Delaware (DE)](https://deldot.gov/search/):** Data available from 2009 to 2019 in pdfs and .kmz files
 
@@ -102,8 +100,6 @@ New York City Department of Transportation (NYC DOT) uses Automated Traffic Reco
 The dataset contains traffic counts as defined above from 2011 to 2019.
 
 
-### Weather:
-
 The weather data is extracted using meteostat api. For every node (intersection) in the state, the historical weather data is extracted corresponding to the data recorded at the nearest station to that node. Since this data is temporal in nature and is available at every node, we believe that the weather features would be important for our task.
 
 The following features are extracted at a Month level:
@@ -115,25 +111,16 @@ The following features are extracted at a Month level:
 - wspd: Avg Wind Speed
 - pres: Sea Level Air Pressure
 
-
 After extracting the historical data for a particular node, the feature data for a few months is not available. The following methodology has been adopted to impute this missing data:
 
-  - Replace with the feature data of the same month the following year
-  - Replace with the feature data of the same month the previous year
-  - Replace with the average of previous month and next month feature data
+- Replace with the feature data of the same month the following year
+- Replace with the feature data of the same month the previous year
+- Replace with the average of previous month and next month feature data
 
+Besides, the following features have been calculated which might help in improving the performance of the model:
 
-### Inherent Graph Features:
-
-The following features have been calculated which might help in improving the performance of the model:
-
-- Node Degree
-- Betweenness Centrality
-- Node Position
-  - Latitude
-  - Longitude
-
-
+- Node degree and betweenness centrality
+- Node position: Latitude and longitude
 
 ### Creating the Final dataset:
 
@@ -178,7 +165,6 @@ These are the following node features:
 - Total Precipitation
 - Avg Wind Speed
 - Sea Level Air Pressure
-
 
 ### Edge Features
 
