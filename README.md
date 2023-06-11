@@ -1,6 +1,6 @@
 # Overview
 
-This repository provides a comprehensive collection of large-scale datasets for analyzing traffic accidents on road networks. The datasets consist of 9 million accident records gathered from 8 states across the United States.
+This repository includes the code for reproducing our results, including the code for collecting our dataset, and the implemention of GNNs for predicting the accident labels. Our dataset consists of 9 million accident records gathered from 8 states across the United States.
 
 ### Features
 
@@ -106,13 +106,3 @@ python train.py --state_name MA --node_feature_type node2vec\
     --test_years  2016 2017 2018 2019 2020 2021 2022 \
     --device 0
 ```
-
-### Data Collection Process
-
-We have meticulously documented our data collection process, providing valuable insights into how we processed accidents and road networks using publicly available sources. This information serves as a reference for researchers and practitioners interested in analyzing traffic accidents.
-
-**TODOs: @Abhinav**
-
-- Please restructure the files under `./dataset_construction`
-- Remove all the source files and link to our dataset url
-- Write the README for different parts of the construction
