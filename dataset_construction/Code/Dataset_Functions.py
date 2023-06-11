@@ -5,63 +5,6 @@ from tqdm import tqdm
 import torch
 from torch.sparse import FloatTensor
 
-from sklearn.preprocessing import OneHotEncoder
-
-
-
-
-
-
-def one_hot_encode_features(df_edges, categorical_feats):
-
-    # Create a OneHotEncoder for each categorical feature
-    onehot_encoders = {}
-    for f in categorical_feats:
-        enc = OneHotEncoder()
-        enc.fit(df_edges[[f]])
-        onehot_encoders[f] = enc
-
-    # Convert categorical feature values to one-hot encodings using OneHotEncoders
-    for f in categorical_feats:
-        enc = onehot_encoders[f].transform(df_edges[[f]]).toarray()
-        df_enc = pd.DataFrame(enc, columns=[f + "_" + str(i) for i in range(enc.shape[1])])
-        # drop the first one-hot encoded feature
-        df_enc = df_enc.iloc[:, 1:]
-        df_edges = pd.concat([df_edges, df_enc], axis=1)
-
-    # Remove original categorical feature columns
-    df_edges.drop(categorical_feats, axis=1, inplace=True)
-
-    return df_edges
-
-
-
-def create_node_features(df_nodes):
-
-    # Create a dictionary to store the node features
-    node_features = {}
-
-    # Iterate over each feature in the DataFrame and create a sparse tensor for it
-    for f in df_nodes.columns[1:]:
-        # Convert the feature values to a tensor
-        values = torch.FloatTensor(df_nodes[f].values)
-        
-        # Create a tensor of row indices for the sparse tensor
-        row_indices = torch.arange(len(df_nodes))
-        
-        # Create a tensor of column indices for the sparse tensor
-        col_indices = torch.zeros(len(df_nodes), dtype=torch.long)
-        
-        # Create a sparse tensor for the feature
-        node_features[f] = torch.sparse.FloatTensor(torch.stack([row_indices, col_indices]), values, torch.Size([len(df_nodes), 1]))
-
-    # Print the shape of the node features tensor for each feature
-    # for f, tensor in node_features.items():
-    #     print(f'{f}: {tensor.shape}')
-
-
-    return node_features
-
 
 
 def create_edge_features(df_nodes, df_edges):
