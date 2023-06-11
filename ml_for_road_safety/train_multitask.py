@@ -81,6 +81,7 @@ def main(args):
                         checkpoint_dir=checkpoint_dir,
                         use_dynamic_node_features=args.load_dynamic_node_features,
                         use_dynamic_edge_features=args.load_dynamic_edge_features,
+                        num_negative_edges = args.num_negative_edges,
                         node_feature_mean=node_feature_mean, node_feature_std=node_feature_std,
                         edge_feature_mean=edge_feature_mean, edge_feature_std=edge_feature_std,
                         tasks = task_list, task_to_datas=task_datas, task_to_predictors=task_predictors
@@ -108,6 +109,7 @@ if __name__ == "__main__":
 
     parser.add_argument('--task_names', nargs='+', default=["MA_accident_classification", "MA_volume_regression"])
     # parser.add_argument('--task_types', nargs='+', default=["accident_classification", "volume_regression"])
+    parser.add_argument('--num_negative_edges', type=int, default=100000000)
 
     parser.add_argument('--device', type=int, default=0)
     parser.add_argument('--log_steps', type=int, default=1)

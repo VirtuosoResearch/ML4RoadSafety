@@ -6,6 +6,13 @@
 pip install networkx karateclub
 ```
 
+2. Create folder named `node2vec` and `deepwalk`:
+
+```
+mkdir node2vec
+mkdir deepwalk
+```
+
 2. Use `generate_node2vec_embedding.py` and `generate_deepwalk_embedding.py` to generate node2vec and deepwalk embeddings:
 
 ```

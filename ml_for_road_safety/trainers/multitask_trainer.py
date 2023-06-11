@@ -89,7 +89,7 @@ class MultitaskTrainer:
                                     device = device,
                                     use_dynamic_node_features=use_dynamic_node_features,
                                     use_dynamic_edge_features=use_dynamic_edge_features,
-                                    log_metrics=['ROC-AUC', 'F1', 'AP', 'Hits@100'],
+                                    log_metrics=['ROC-AUC', 'F1', 'AP', 'Recall', 'Precision'],
                                     num_negative_edges=num_negative_edges,
                                     node_feature_mean=node_feature_mean, node_feature_std=node_feature_std,
                                     edge_feature_mean=edge_feature_mean, edge_feature_std=edge_feature_std)
