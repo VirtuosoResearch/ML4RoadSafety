@@ -1,4 +1,4 @@
-### Data Collection Process
+# Data Collection Process
 
 We have meticulously documented our data collection process, providing valuable insights into how we processed accidents and road networks using publicly available sources. This information serves as a reference for researchers and practitioners interested in analyzing traffic accidents.
 
@@ -14,7 +14,7 @@ We describe the collection procedure for each data source, including:
 - Road network features, including traffic volume reports, weather conditions, and other graph structural features
 
 
-### Traffic accident records
+### Collecting traffic accident records
 
 Accident records have been obtained for states where the data is available at a person/vehicle level and the lat-lon coordinates are available or can be extracted.
 
@@ -39,7 +39,7 @@ Here is a summary of the records collected:
 8. **[Nevada (NV)](https://ndot.maps.arcgis.com/apps/webappviewer/index.html?id=00d23dc547eb4382bef9beabe07eaefd):** 237,338 accident records from Jan 1 2016 to Dec 31 2020
 
 
-### Road networks:
+### Constructing road networks:
 
 The road network is created as a graph where the nodes and edges are defined as below:
 
@@ -65,7 +65,7 @@ There are two methods to extract the desired network:
   The road network is available for all the states in United States of America.
 
 
-### Road network features:
+### Collecting road network features:
 
 The traffic volume data is extracted from the data published by the Department of Transportation (DOT) of every state.
 
@@ -88,16 +88,7 @@ The traffic volume data is extracted from the data published by the Department o
 8. **[Nevada (NV)]():** 
 
 
-The weather data is extracted using meteostat api. For every node (intersection) in the state, the historical weather data is extracted corresponding to the data recorded at the nearest station to that node. Since this data is temporal in nature and is available at every node, we believe that the weather features would be important for our task. The following features are extracted at a Month level:
-
-- tavg: Average Surface Temperature
-- tmin: Minimum Surface Temperature
-- tmax: Maximum Surface Temperature
-- prcp: Total Precipitation
-- wspd: Avg Wind Speed
-- pres: Sea Level Air Pressure
-
-After extracting the historical data for a particular node, the feature data for a few months is not available. The following methodology has been adopted to impute this missing data:
+The weather data is extracted using meteostat api. For every node (intersection) in the state, the historical weather data is extracted corresponding to the data recorded at the nearest station to that node. After extracting the historical data for a particular node, the feature data for a few months is not available. The following methodology has been adopted to impute this missing data:
 
 - Replace with the feature data of the same month the following year
 - Replace with the feature data of the same month the previous year
