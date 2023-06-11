@@ -7,28 +7,27 @@ from logger import Logger
 import os
 from trainers import *
 from models import LinkPredictor, GNN, Identity
-from evaluators import eval_rocauc, eval_hits
-from data_loaders import load_network_with_accidents, load_static_network, load_static_edge_features
+from evaluators import Evaluator
+from data_loaders import TrafficAccidentDataset
 import time
 import itertools
-
-'''
-TODO:
-- Fix load static features
-- Fix training for GAT: out of memory
-'''
 
 def main(args):
     start = time.time()
     device = f'cuda:{args.device}' if torch.cuda.is_available() else 'cpu'
     device = torch.device(device)
     
-    data = load_static_network(data_dir="./data", state_name = args.state_name, 
-                               feature_type = args.node_feature_type, 
-                               feature_name = args.node_feature_name)
-    if args.load_static_edge_features:
-        data.edge_attr = load_static_edge_features(data_dir="./data", state_name=args.state_name)
+    dataset = TrafficAccidentDataset(state_name = args.state_name, data_dir="./data",
+                               node_feature_type = args.node_feature_type,
+                               use_static_edge_features=args.load_static_edge_features,
+                               use_dynamic_node_features=args.load_dynamic_node_features,
+                               use_dynamic_edge_features=args.load_dynamic_edge_features,
+                               train_years=args.train_years,
+                               num_negative_edges=args.num_negative_edges) 
+    task_type = "regression" if (args.train_accident_regression or args.train_volume_regression) else "classification"
+    evaluator = Evaluator(type=task_type)
     
+    data = dataset.data
     in_channels_node = data.x.shape[1] if data.x is not None else 0
     in_channels_node = (in_channels_node + 6) if args.load_dynamic_node_features else in_channels_node
     
@@ -56,9 +55,6 @@ def main(args):
                               dropout=args.dropout,
                               if_regression=if_regression).to(device)
 
-    # compute mean and std of node & edge features
-    node_feature_mean, node_feature_std, edge_feature_mean, edge_feature_std = None, None, None, None
-
     results = {}
     for run in range(args.runs):
         predictor.reset_parameters()
@@ -66,26 +62,17 @@ def main(args):
         optimizer = torch.optim.Adam(params, lr=args.lr)
 
         if args.train_volume_regression:
-            checkpoint_dir = f"./saved/{args.encoder}_layer_{args.num_gnn_layers}_dim_{args.hidden_channels}_{args.state_name}_volume"
-            trainer = VolumeRegressionTrainer(model, predictor, data, optimizer,
-                            data_dir="./data", state_name=args.state_name,
+            trainer = VolumeRegressionTrainer(model, predictor, dataset, optimizer, evaluator,
                             train_years = args.train_years,
                             valid_years = args.valid_years,
                             test_years = args.test_years,
                             epochs=args.epochs,
                             batch_size = args.batch_size,
                             eval_steps=args.eval_steps,
-                            # save_steps=5,
-                            # checkpoint_dir=checkpoint_dir,
                             device = device,
-                            use_dynamic_node_features=args.load_dynamic_node_features,
-                            use_dynamic_edge_features=args.load_dynamic_edge_features,
-                            log_metrics=['MAE', 'MSE'],
-                            node_feature_mean=node_feature_mean, node_feature_std=node_feature_std,
-                            edge_feature_mean=edge_feature_mean, edge_feature_std=edge_feature_std,)
+                            log_metrics=['MAE', 'MSE'])
         elif args.train_accident_regression:
-            trainer = AccidentRegressionTrainer(model, predictor, data, optimizer,
-                            data_dir="./data", state_name=args.state_name,
+            trainer = AccidentRegressionTrainer(model, predictor, dataset, optimizer, evaluator,
                             train_years = args.train_years,
                             valid_years = args.valid_years,
                             test_years = args.test_years,
@@ -93,14 +80,9 @@ def main(args):
                             batch_size = args.batch_size,
                             eval_steps=args.eval_steps,
                             device = device,
-                            use_dynamic_node_features=args.load_dynamic_node_features,
-                            use_dynamic_edge_features=args.load_dynamic_edge_features,
-                            log_metrics=['MAE', 'MSE'],
-                            node_feature_mean=node_feature_mean, node_feature_std=node_feature_std,
-                            edge_feature_mean=edge_feature_mean, edge_feature_std=edge_feature_std,)
+                            log_metrics=['MAE', 'MSE'])
         else:
-            trainer = Trainer(model, predictor, data, optimizer,
-                            data_dir="./data", state_name=args.state_name,
+            trainer = Trainer(model, predictor, dataset, optimizer, evaluator,
                             train_years = args.train_years,
                             valid_years = args.valid_years,
                             test_years = args.test_years,
@@ -108,16 +90,9 @@ def main(args):
                             batch_size = args.batch_size,
                             eval_steps=args.eval_steps,
                             device = device,
-                            use_dynamic_node_features=args.load_dynamic_node_features,
-                            use_dynamic_edge_features=args.load_dynamic_edge_features,
-                            log_metrics=['ROC-AUC', 'F1', 'AP', 'Recall', 'Precision'],
-                            num_negative_edges = args.num_negative_edges,
-                            node_feature_mean=node_feature_mean, node_feature_std=node_feature_std,
-                            edge_feature_mean=edge_feature_mean, edge_feature_std=edge_feature_std,
-                            if_sample_node=args.sample_node, sample_batch_size=args.sample_batch_size)
+                            log_metrics=['ROC-AUC', 'F1', 'AP', 'Recall', 'Precision'])
             
         log = trainer.train()
-        node_feature_mean, node_feature_std, edge_feature_mean, edge_feature_std = trainer.get_feature_stats()
 
         for key in log.keys():
             if key not in results:

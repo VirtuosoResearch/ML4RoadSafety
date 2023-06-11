@@ -3,35 +3,21 @@ import torch.nn as nn
 import torch.nn.functional as F
 from torch.utils.data import DataLoader
 
-import numpy as np
-from evaluators import eval_mae
-from data_loaders import load_yearly_data
 from logger import Logger
 import os
 
 class VolumeRegressionTrainer:
 
-    def __init__(self, model, predictor, data, optimizer, 
-                 data_dir, state_name,
+    def __init__(self, model, predictor, dataset, optimizer, evaluator,
                  train_years, valid_years, test_years,
                  epochs, batch_size, eval_steps, device,
-                #  save_steps=5, checkpoint_dir=None,
                  log_metrics = ['MAE', 'MSE'],
-                 use_dynamic_node_features = False,
-                 use_dynamic_edge_features = False, # deprecated
-                 num_negative_edges = 10000, # deprecated
-                 node_feature_mean = None,
-                 node_feature_std = None,
-                 edge_feature_mean = None,  # deprecated
-                 edge_feature_std = None # deprecated
                  ): 
         self.model = model
         self.predictor = predictor
-        self.data = data
+        self.dataset = dataset
         self.optimizer = optimizer
-
-        self.data_dir = data_dir
-        self.state_name = state_name
+        self.evaluator = evaluator
 
         self.train_years = train_years
         self.valid_years = valid_years
@@ -41,19 +27,6 @@ class VolumeRegressionTrainer:
         self.batch_size = batch_size
         self.eval_steps = eval_steps
         self.device = device
-
-        self.use_dynamic_node_features = use_dynamic_node_features
-        self.use_dynamic_edge_features = use_dynamic_edge_features
-        self.num_negative_edges = num_negative_edges
-
-        # collecting dynamic features normlization statistics
-        if node_feature_mean is None and (self.use_dynamic_node_features or self.use_dynamic_edge_features):
-            self.node_feature_mean, self.node_feature_std, self.edge_feature_mean, self.edge_feature_std = self.compute_feature_mean_std()
-        else:
-            self.node_feature_mean = node_feature_mean
-            self.node_feature_std = node_feature_std
-            self.edge_feature_mean = edge_feature_mean
-            self.edge_feature_std = edge_feature_std
 
         self.loggers = {
             key: Logger(runs=1) for key in log_metrics
@@ -65,22 +38,14 @@ class VolumeRegressionTrainer:
         #     os.makedirs(self.checkpoint_dir)
 
     def train_on_year_data(self, year): 
-        pos_edges, pos_edge_weights, node_features = load_yearly_data(data_dir=self.data_dir, state_name=self.state_name, year=year)
+        yearly_data = self.dataset.load_yearly_data(year)
+
+        new_data = yearly_data['data']
+        pos_edges, pos_edge_weights = \
+            yearly_data['traffic_volume_edges'], yearly_data['traffic_volume_weights']
         
         if pos_edges is None or pos_edges.size(0) < 10:
             return 0, 0
-        
-        # normalize node and edge features
-        if self.node_feature_mean is not None:
-            node_features = (node_features - self.node_feature_mean) / self.node_feature_std
-        
-
-        new_data = self.data.clone()
-        if self.use_dynamic_node_features:
-            if new_data.x is None:
-                new_data.x = node_features
-            else:
-                new_data.x = torch.cat([new_data.x, node_features], dim=1)
         
         self.model.train()
         self.predictor.train()
@@ -105,7 +70,7 @@ class VolumeRegressionTrainer:
             labels = pos_edge_weights.view(-1, 1).to(self.device)
             # print(pos_out)
             # print(labels)
-            loss = F.l1_loss(pos_out, labels)
+            loss = self.evaluator.criterion(pos_out, labels)
             loss.backward(retain_graph=True)
             self.optimizer.step()
             
@@ -117,24 +82,16 @@ class VolumeRegressionTrainer:
 
     @torch.no_grad()
     def test_on_year_data(self, year):
-        pos_edges, pos_edge_weights, node_features = load_yearly_data(data_dir=self.data_dir, state_name=self.state_name, year=year)
+        yearly_data = self.dataset.load_yearly_data(year)
 
+        new_data = yearly_data['data']
+        pos_edges, pos_edge_weights = yearly_data['traffic_volume_edges'], yearly_data['traffic_volume_weights']
+        
         if pos_edges is None or pos_edges.size(0) < 10:
             return {}, 0
 
         print(f"Eval on {year} data")
         print(f"Number of edges with valid traffic volume: {pos_edges.size(0)}")
-
-        # normalize node and edge features
-        if self.node_feature_mean is not None:
-            node_features = (node_features - self.node_feature_mean) / self.node_feature_std
-
-        new_data = self.data.clone()
-        if self.use_dynamic_node_features:
-            if new_data.x is None:
-                new_data.x = node_features
-            else:
-                new_data.x = torch.cat([new_data.x, node_features], dim=1)
 
         self.model.eval()
         self.predictor.eval()
@@ -156,7 +113,7 @@ class VolumeRegressionTrainer:
         pos_preds = torch.cat(pos_preds, dim=0)
 
         # Eval ROC-AUC
-        results = eval_mae(pos_preds, pos_edge_weights)
+        results = self.evaluator.eval(pos_preds, pos_edge_weights)
 
         return results, pos_edges.size(0)
 
@@ -249,20 +206,3 @@ class VolumeRegressionTrainer:
             results[key] = (train_results[key], val_results[key], test_results[key])
         return results
     
-    def compute_feature_mean_std(self):
-        all_node_features = []
-        # all_edge_features = []
-        for year in self.train_years:
-            _, _, node_features = \
-                load_yearly_data(data_dir=self.data_dir, state_name=self.state_name, year=year)
-            all_node_features.append(node_features)
-        
-        all_node_features = torch.cat(all_node_features, dim=0)
-        # all_edge_features = torch.cat(all_edge_features, dim=0)
-
-        node_feature_mean, node_feature_std = all_node_features.mean(dim=0), all_node_features.std(dim=0)
-        # edge_feature_mean, edge_feature_std = all_edge_features.mean(dim=0), all_edge_features.std(dim=0)
-        return node_feature_mean, node_feature_std, None, None
-    
-    def get_feature_stats(self):
-        return self.node_feature_mean, self.node_feature_std, self.edge_feature_mean, self.edge_feature_std

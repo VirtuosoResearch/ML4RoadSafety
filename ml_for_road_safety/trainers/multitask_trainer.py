@@ -47,17 +47,14 @@ state_to_test_years = {
 
 class MultitaskTrainer:
 
-    def __init__(self, model, optimizer, data_dir,
+    def __init__(self, model, optimizer, 
                  epochs, batch_size, eval_steps, device, 
                  save_steps, checkpoint_dir,
-                 use_dynamic_node_features=False, 
-                 use_dynamic_edge_features=False, 
-                 num_negative_edges=10000, 
-                 node_feature_mean=None, node_feature_std=None, edge_feature_mean=None, edge_feature_std=None, 
-                 tasks={}, task_to_datas={}, task_to_predictors={}):
+                 tasks={}, task_to_datasets={}, task_to_evaluators={}, task_to_predictors={}):
         self.model = model
         self.tasks = tasks
-        self.task_to_datas = task_to_datas
+        self.task_to_datasets = task_to_datasets
+        self.task_to_evaluators = task_to_evaluators
         self.task_to_predictors = task_to_predictors
         self.epochs = epochs
         self.eval_steps = eval_steps
@@ -70,7 +67,8 @@ class MultitaskTrainer:
         for task_name in tasks:
             print(task_name)
             state_name, data_type, task_type = task_name.split("_")
-            data = task_to_datas[task_name]
+            dataset = task_to_datasets[task_name]
+            evaluator = task_to_evaluators[task_name]
             predictor = task_to_predictors[task_name]
 
             task_train_years = state_to_train_years[state_name]
@@ -78,24 +76,17 @@ class MultitaskTrainer:
             task_test_years = state_to_test_years[state_name]
             if data_type == "accident":
                 if task_type == "classification":
-                    task_trainer = Trainer(model, predictor, data, optimizer,
-                                    data_dir=data_dir, state_name=state_name,
-                                    train_years = task_train_years,
-                                    valid_years = task_valid_years,
-                                    test_years = task_test_years,
-                                    epochs=epochs,
-                                    batch_size = batch_size,
-                                    eval_steps = eval_steps,
-                                    device = device,
-                                    use_dynamic_node_features=use_dynamic_node_features,
-                                    use_dynamic_edge_features=use_dynamic_edge_features,
-                                    log_metrics=['ROC-AUC', 'F1', 'AP', 'Recall', 'Precision'],
-                                    num_negative_edges=num_negative_edges,
-                                    node_feature_mean=node_feature_mean, node_feature_std=node_feature_std,
-                                    edge_feature_mean=edge_feature_mean, edge_feature_std=edge_feature_std)
+                    task_trainer = Trainer(model, predictor, dataset, optimizer, evaluator,
+                            train_years = task_train_years,
+                            valid_years = task_valid_years,
+                            test_years = task_test_years,
+                            epochs=epochs,
+                            batch_size = batch_size,
+                            eval_steps=eval_steps,
+                            device = device,
+                            log_metrics=['ROC-AUC', 'F1', 'AP', 'Recall', 'Precision'])
                 elif task_type == "regression":
-                    task_trainer = AccidentRegressionTrainer(model, predictor, data, optimizer,
-                            data_dir=data_dir, state_name=state_name,
+                    task_trainer =AccidentRegressionTrainer(model, predictor, dataset, optimizer, evaluator,
                             train_years = task_train_years,
                             valid_years = task_valid_years,
                             test_years = task_test_years,
@@ -103,14 +94,9 @@ class MultitaskTrainer:
                             batch_size = batch_size,
                             eval_steps=eval_steps,
                             device = device,
-                            use_dynamic_node_features=use_dynamic_node_features,
-                            use_dynamic_edge_features=use_dynamic_edge_features,
-                            log_metrics=['MAE', 'MSE'],
-                            node_feature_mean=node_feature_mean, node_feature_std=node_feature_std,
-                            edge_feature_mean=edge_feature_mean, edge_feature_std=edge_feature_std,)
+                            log_metrics=['MAE', 'MSE'])
             else:
-                task_trainer = VolumeRegressionTrainer(model, predictor, data, optimizer,
-                            data_dir=data_dir, state_name=state_name,
+                task_trainer = VolumeRegressionTrainer(model, predictor, dataset, optimizer, evaluator,
                             train_years = task_train_years,
                             valid_years = task_valid_years,
                             test_years = task_test_years,
@@ -118,11 +104,7 @@ class MultitaskTrainer:
                             batch_size = batch_size,
                             eval_steps=eval_steps,
                             device = device,
-                            use_dynamic_node_features=use_dynamic_node_features,
-                            use_dynamic_edge_features=use_dynamic_edge_features,
-                            log_metrics=['MAE', 'MSE'],
-                            node_feature_mean=node_feature_mean, node_feature_std=node_feature_std,
-                            edge_feature_mean=edge_feature_mean, edge_feature_std=edge_feature_std,)    
+                            log_metrics=['MAE', 'MSE'])
                 
             self.task_to_trainers[task_name] = task_trainer
 

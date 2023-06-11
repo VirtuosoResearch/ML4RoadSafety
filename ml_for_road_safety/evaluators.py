@@ -18,13 +18,18 @@ def eval_rocauc(y_pred_pos, y_pred_neg):
     y_pred = np.concatenate([y_pred_pos_numpy, y_pred_neg_numpy])
 
     rocauc = roc_auc_score(y_true, y_pred)
-    f1 = f1_score(y_true, y_pred>0.5)
     ap = average_precision_score(y_true, y_pred)
 
+    f1 = f1_score(y_true, y_pred>0.5)
     recall = recall_score(y_true, y_pred>0.5)
     precision = precision_score(y_true, y_pred>0.5)
 
     return {'ROC-AUC': rocauc, 'F1': f1, 'AP': ap, 'Recall': recall, 'Precision': precision}
+
+def eval_mae(preds, target):
+    mae = F.l1_loss(preds, target, reduction='mean')
+    mse = F.mse_loss(preds, target, reduction='mean')
+    return {"MAE": mae, "MSE": mse}
 
 def eval_hits(y_pred_pos, y_pred_neg, K = 100, type_info = 'torch'):
     '''
@@ -48,8 +53,3 @@ def eval_hits(y_pred_pos, y_pred_neg, K = 100, type_info = 'torch'):
         hitsK = float(np.sum(y_pred_pos > kth_score_in_negative_edges)) / len(y_pred_pos)
 
     return {'Hits@{}'.format(K): hitsK}
-
-def eval_mae(preds, target):
-    mae = F.l1_loss(preds, target, reduction='mean')
-    mse = F.mse_loss(preds, target, reduction='mean')
-    return {"MAE": mae, "MSE": mse}

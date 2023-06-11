@@ -4,33 +4,19 @@ import torch.nn.functional as F
 from torch.utils.data import DataLoader
 
 import numpy as np
-from evaluators import eval_rocauc, eval_hits
-from data_loaders import load_network_with_accidents, load_static_network, load_monthly_data, load_static_edge_features
 from logger import Logger
-from torch_geometric.loader import NeighborSampler, NeighborLoader
 
 class Trainer:
 
-    def __init__(self, model, predictor, data, optimizer, 
-                 data_dir, state_name,
+    def __init__(self, model, predictor, dataset, optimizer, evaluator,
                  train_years, valid_years, test_years,
                  epochs, batch_size, eval_steps, device,
-                 log_metrics = ['ROC-AUC', 'F1', 'AP', 'Hits@100'],
-                 use_dynamic_node_features = False,
-                 use_dynamic_edge_features = False,
-                 num_negative_edges = 10000,
-                 node_feature_mean = None,
-                 node_feature_std = None,
-                 edge_feature_mean = None,
-                 edge_feature_std = None,
-                 if_sample_node = False, sample_batch_size=4098):
+                 log_metrics = ['ROC-AUC', 'F1', 'AP', 'Recall', 'Precision']):
         self.model = model
         self.predictor = predictor
-        self.data = data
+        self.dataset = dataset
         self.optimizer = optimizer
-
-        self.data_dir = data_dir
-        self.state_name = state_name
+        self.evaluator = evaluator
 
         self.train_years = train_years
         self.valid_years = valid_years
@@ -41,74 +27,32 @@ class Trainer:
         self.eval_steps = eval_steps
         self.device = device
 
-        self.use_dynamic_node_features = use_dynamic_node_features
-        self.use_dynamic_edge_features = use_dynamic_edge_features
-        self.num_negative_edges = num_negative_edges
-
-        # collecting dynamic features normlization statistics
-        if node_feature_mean is None and (self.use_dynamic_node_features or self.use_dynamic_edge_features):
-            self.node_feature_mean, self.node_feature_std, self.edge_feature_mean, self.edge_feature_std = self.compute_feature_mean_std()
-        else:
-            self.node_feature_mean = node_feature_mean
-            self.node_feature_std = node_feature_std
-            self.edge_feature_mean = edge_feature_mean
-            self.edge_feature_std = edge_feature_std
-
         self.loggers = {
             key: Logger(runs=1) for key in log_metrics
         }
 
-        self.if_sample_node = if_sample_node
-        self.sample_batch_size = sample_batch_size
-
     def train_on_month_data(self, year, month): 
-        pos_edges, pos_edge_weights, neg_edges, node_features, edge_features = \
-            load_monthly_data(self.data, data_dir=self.data_dir, state_name=self.state_name, year=year, month = month, num_negative_edges=self.num_negative_edges)
+        monthly_data = self.dataset.load_monthly_data(year, month)
+
+        new_data = monthly_data['data']
+        pos_edges, pos_edge_weights, neg_edges = \
+            monthly_data['accidents'], monthly_data['accident_counts'], monthly_data['neg_edges']
+        
         if pos_edges is None or pos_edges.size(0) < 10:
             return 0, 0
-
-        # normalize node and edge features
-        if self.node_feature_mean is not None:
-            node_features = (node_features - self.node_feature_mean) / self.node_feature_std
-        if self.edge_feature_mean is not None:
-            edge_features = (edge_features - self.edge_feature_mean) / self.edge_feature_std
-
-        new_data = self.data.clone()
-        if self.use_dynamic_node_features:
-            if new_data.x is None:
-                new_data.x = node_features
-            else:
-                new_data.x = torch.cat([new_data.x, node_features], dim=1)
-
-        if self.use_dynamic_edge_features:
-            if new_data.edge_attr is None:
-                new_data.edge_attr = edge_features
-            else:
-                new_data.edge_attr = torch.cat([new_data.edge_attr, edge_features], dim=1)
         
         self.model.train()
         self.predictor.train()
 
         # encoding
-        if not self.if_sample_node:
-            new_data = new_data.to(self.device)
-            edge_attr = new_data.edge_attr
-            h = self.model(new_data.x, new_data.edge_index, edge_attr)
-        else:
-            train_loader = NeighborLoader(new_data, 
-                                          num_neighbors=[-1]*self.model.num_layer, 
-                                          batch_size=self.sample_batch_size)
-            h = []
-            for batch in train_loader:
-                batch = batch.to(self.device)
-                batch_h = self.model(batch.x, batch.edge_index, batch.edge_attr)
-                h.append(batch_h[:batch.batch_size])
-            h = torch.cat(h, dim=0)
-            edge_attr = new_data.edge_attr
+        new_data = new_data.to(self.device)
+        edge_attr = new_data.edge_attr
+        h = self.model(new_data.x, new_data.edge_index, edge_attr)
 
         # predicting
         pos_train_edge = pos_edges.to(self.device)
         pos_edge_weights = pos_edge_weights.to(self.device)
+        neg_edges = neg_edges.to(self.device)
         total_loss = total_examples = 0
         # self.batch_size > pos_train_edge.size(0): only backprop once since it does not retain cache.
         for perm in DataLoader(range(pos_train_edge.size(0)), self.batch_size, shuffle=True):
@@ -126,9 +70,8 @@ class Trainer:
                 if edge_attr is None else \
                 self.predictor(h[edge[0]], h[edge[1]], edge_attr[perm])
             
-            
             labels = torch.cat([torch.ones(pos_out.size(0)), torch.zeros(neg_out.size(0))]).view(-1, 1).to(self.device)
-            loss = F.binary_cross_entropy(torch.cat([pos_out, neg_out]), labels)
+            loss = self.evaluator.criterion(torch.cat([pos_out, neg_out]), labels)
             loss.backward(retain_graph=True) #
             self.optimizer.step()
             
@@ -140,53 +83,25 @@ class Trainer:
 
     @torch.no_grad()
     def test_on_month_data(self, year, month):
-        pos_edges, pos_edge_weights, neg_edges, node_features, edge_features = \
-            load_monthly_data(self.data, data_dir=self.data_dir, state_name=self.state_name, year=year, month = month, num_negative_edges=self.num_negative_edges)
+        monthly_data = self.dataset.load_monthly_data(year, month)
 
+        new_data = monthly_data['data']
+        pos_edges, pos_edge_weights, neg_edges = \
+            monthly_data['accidents'], monthly_data['accident_counts'], monthly_data['neg_edges']
+        
         if pos_edges is None or pos_edges.size(0) < 10:
             return {}, 0
 
         print(f"Eval on {year}-{month} data")
         print(f"Number of positive edges: {pos_edges.size(0)} | Number of negative edges: {neg_edges.size(0)}")
-
-        # normalize node and edge features
-        if self.node_feature_mean is not None:
-            node_features = (node_features - self.node_feature_mean) / self.node_feature_std
-        if self.edge_feature_mean is not None:
-            edge_features = (edge_features - self.edge_feature_mean) / self.edge_feature_std
-
-        new_data = self.data.clone()
-        if self.use_dynamic_node_features:
-            if new_data.x is None:
-                new_data.x = node_features
-            else:
-                new_data.x = torch.cat([new_data.x, node_features], dim=1)
-
-        if self.use_dynamic_edge_features:
-            if new_data.edge_attr is None:
-                new_data.edge_attr = edge_features
-            else:
-                new_data.edge_attr = torch.cat([new_data.edge_attr, edge_features], dim=1)
         
         self.model.eval()
         self.predictor.eval()
 
         # encoding
-        if not self.if_sample_node:
-            new_data = new_data.to(self.device)
-            h = self.model(new_data.x, new_data.edge_index, new_data.edge_attr)
-            edge_attr = new_data.edge_attr
-        else:
-            train_loader = NeighborLoader(new_data, 
-                                          num_neighbors=[-1]*self.model.num_layer, 
-                                          batch_size=self.sample_batch_size)
-            h = []
-            for batch in train_loader:
-                batch = batch.to(self.device)
-                batch_h = self.model(batch.x, batch.edge_index, batch.edge_attr)
-                h.append(batch_h[:batch.batch_size])
-            h = torch.cat(h, dim=0)
-            edge_attr = new_data.edge_attr
+        new_data = new_data.to(self.device)
+        h = self.model(new_data.x, new_data.edge_index, new_data.edge_attr)
+        edge_attr = new_data.edge_attr
 
         # predicting
         pos_edge = pos_edges.to(self.device)
@@ -212,14 +127,10 @@ class Trainer:
         results = {}
 
         # Eval ROC-AUC
-        rocauc = eval_rocauc(pos_preds, neg_preds)
+        rocauc = self.evaluator.eval(pos_preds, neg_preds)
         results.update(rocauc)
-        # # Eval Hits@K
-        # hits = eval_hits(pos_preds, neg_preds, K=100)
-        # results.update(hits)
 
         return results, pos_edges.size(0)
-
 
     def train_epoch(self):
         total_loss = total_examples = 0
@@ -304,23 +215,3 @@ class Trainer:
         for key in train_results.keys():
             results[key] = (train_results[key], val_results[key], test_results[key])
         return results
-    
-    def compute_feature_mean_std(self):
-        all_node_features = []
-        all_edge_features = []
-        for year in self.train_years:
-            for month in range(1, 13):
-                _, _, _, node_features, edge_features = \
-                    load_monthly_data(self.data, data_dir=self.data_dir, state_name=self.state_name, year=year, month = month, num_negative_edges=self.num_negative_edges)
-                all_node_features.append(node_features)
-                all_edge_features.append(edge_features)
-            
-        all_node_features = torch.cat(all_node_features, dim=0)
-        all_edge_features = torch.cat(all_edge_features, dim=0)
-
-        node_feature_mean, node_feature_std = all_node_features.mean(dim=0), all_node_features.std(dim=0)
-        edge_feature_mean, edge_feature_std = all_edge_features.mean(dim=0), all_edge_features.std(dim=0)
-        return node_feature_mean, node_feature_std, edge_feature_mean, edge_feature_std
-    
-    def get_feature_stats(self):
-        return self.node_feature_mean, self.node_feature_std, self.edge_feature_mean, self.edge_feature_std

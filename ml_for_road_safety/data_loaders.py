@@ -17,7 +17,8 @@ from torch_geometric.utils import is_undirected, coalesce, negative_sampling
 class TrafficAccidentDataset:
 
     def __init__(self, state_name = "MA", data_dir = "./data",
-                    node_feature_type = "node2vec", use_static_edge_features=True, use_dynamic_node_features=True, use_dynamic_edge_features=False):
+                    node_feature_type = "node2vec", use_static_edge_features=True, use_dynamic_node_features=True, use_dynamic_edge_features=False, 
+                    train_years=[], num_negative_edges=100000000):
         self.data_dir = data_dir
         self.state_name = state_name
 
@@ -27,17 +28,19 @@ class TrafficAccidentDataset:
         self.use_static_edge_features = use_static_edge_features
         self.use_dynamic_node_features = use_dynamic_node_features
         self.use_dynamic_edge_features = use_dynamic_edge_features
-
-        '''
-        TODO:
-            Add logic to download data
-            Merge features inside the Dataset
-            Change Trainer accordingly
-        '''
-
+        self.num_negative_edges = num_negative_edges
+        
         self.data = self.load_static_network()
         if self.use_static_edge_features:
             self.data.edge_attr = self.load_static_edge_features()
+
+        # collecting dynamic features normlization statistics
+        self.node_feature_mean = None
+        self.node_feature_std = None
+        self.edge_feature_mean = None
+        self.edge_feature_std = None
+        if len(train_years) != 0 and (self.use_dynamic_node_features or self.use_dynamic_edge_features):
+            self.node_feature_mean, self.node_feature_std, self.edge_feature_mean, self.edge_feature_std = self.compute_feature_mean_std(train_years)
 
     def load_monthly_data(self, year=2022, month=1):
         '''
@@ -52,7 +55,17 @@ class TrafficAccidentDataset:
         # Load accidents
         accident_dir = f"{self.state_name}/accidents_monthly.csv"
         if not os.path.exists(os.path.join(self.data_dir, accident_dir)):
-            return None, None, None, None, None
+            new_data = self.data.clone()
+            monthly_data['data'] = new_data
+            monthly_data['x'] = new_data.x
+            monthly_data['edge_index'] = new_data.edge_index
+            monthly_data['edge_attr'] = new_data.edge_attr
+            monthly_data['accidents'] = None
+            monthly_data['accident_counts'] = None
+            monthly_data['neg_edges'] = None
+            monthly_data['temporal_node_features'] = None
+            monthly_data['temporal_edge_features'] = None
+            return monthly_data
         accidents = pd.read_csv(os.path.join(self.data_dir, accident_dir))
 
         monthly_accidents = accidents[accidents["year"] == year]
@@ -69,14 +82,24 @@ class TrafficAccidentDataset:
         neg_mask = np.logical_not(np.isin(all_edges, pos_edges.numpy()).all(axis=1))
         neg_edges = all_edges[neg_mask]
         rng = np.random.default_rng(year * 12 + month)
-        num_negative_edges = min(max(num_negative_edges, pos_edges.shape[0]), neg_edges.shape[0])
+        num_negative_edges = min(max(self.num_negative_edges, pos_edges.shape[0]), neg_edges.shape[0])
         neg_edges = neg_edges[rng.choice(neg_edges.shape[0], num_negative_edges, replace=False)]
         neg_edges = torch.Tensor(neg_edges).type(torch.int64)
 
         # load the node features of the month
         node_feature_dir = f"{self.state_name}/Nodes/node_features_{year}_{month}.csv"
         if not os.path.exists(os.path.join(self.data_dir, node_feature_dir)):
-            return None, None, None, None, None
+            new_data = self.data.clone()
+            monthly_data['data'] = new_data
+            monthly_data['x'] = new_data.x
+            monthly_data['edge_index'] = new_data.edge_index
+            monthly_data['edge_attr'] = new_data.edge_attr
+            monthly_data['accidents'] = None
+            monthly_data['accident_counts'] = None
+            monthly_data['neg_edges'] = None
+            monthly_data['temporal_node_features'] = None
+            monthly_data['temporal_edge_features'] = None
+            return monthly_data
         node_features = pd.read_csv(os.path.join(self.data_dir, node_feature_dir))
         node_features = node_features[["tavg", "tmin", "tmax", "prcp", "wspd", "pres"]]
         node_features = node_features.fillna(node_features.mean(axis=0))
@@ -97,6 +120,31 @@ class TrafficAccidentDataset:
             edge_features = torch.zeros(self.data.edge_index.shape[1], 1)
 
         new_data = self.data.clone()
+
+        # normalize node and edge features
+        if self.node_feature_mean is not None:
+            normalized_node_features = (node_features - self.node_feature_mean) / self.node_feature_std
+        else:
+            normalized_node_features = node_features
+
+        if self.edge_feature_mean is not None:
+            normalized_edge_features = (edge_features - self.edge_feature_mean) / self.edge_feature_std
+        else:
+            normalized_edge_features = edge_features
+
+        if self.use_dynamic_node_features:
+            if new_data.x is None:
+                new_data.x = normalized_node_features
+            else:
+                new_data.x = torch.cat([new_data.x, normalized_node_features], dim=1)
+
+        if self.use_dynamic_edge_features:
+            if new_data.edge_attr is None:
+                new_data.edge_attr = normalized_edge_features
+            else:
+                new_data.edge_attr = torch.cat([new_data.edge_attr, normalized_edge_features], dim=1)
+        
+        monthly_data['data'] = new_data
         monthly_data['x'] = new_data.x
         monthly_data['edge_index'] = new_data.edge_index
         monthly_data['edge_attr'] = new_data.edge_attr
@@ -119,7 +167,16 @@ class TrafficAccidentDataset:
         # load the edge features 
         edge_feature_name = f"{self.state_name}/Edges/edge_features_traffic_{year}.pt"
         if not os.path.exists(os.path.join(self.data_dir, edge_feature_name)):
-            return None, None, None
+            new_data = self.data.clone()
+            yearly_data['data'] = new_data
+            yearly_data['x'] = new_data.x
+            yearly_data['edge_index'] = new_data.edge_index
+            yearly_data['edge_attr'] = new_data.edge_attr
+            yearly_data['traffic_volume_edges'] = None
+            yearly_data['traffic_volume_weights'] = None
+            yearly_data['temporal_node_features'] = None
+            return yearly_data
+        
         edge_feature_dir = os.path.join(self.data_dir, edge_feature_name)
         if not os.path.exists(edge_feature_dir):
             raise ValueError("Edge features not found!")
@@ -146,6 +203,19 @@ class TrafficAccidentDataset:
 
 
         new_data = self.data.clone()
+
+        # normalize node and edge features
+        if self.node_feature_mean is not None:
+            nomalized_node_features = (node_features - self.node_feature_mean) / self.node_feature_std
+        
+        if self.use_dynamic_node_features:
+            if new_data.x is None:
+                new_data.x = nomalized_node_features
+            else:
+                new_data.x = torch.cat([new_data.x, nomalized_node_features], dim=1)
+        
+        # no loading temporal edge features
+        yearly_data['data'] = new_data
         yearly_data['x'] = new_data.x
         yearly_data['edge_index'] = new_data.edge_index
         yearly_data['edge_attr'] = new_data.edge_attr
@@ -185,12 +255,35 @@ class TrafficAccidentDataset:
         data = Data(edge_index=edge_index)
 
         # load node embeddings
-        embedding_dir = os.path.join("./embeddings/", f"{self.feature_type}/{self.feature_name}")
+        embedding_dir = os.path.join("./embeddings/", f"{self.node_feature_type}/{self.node_feature_name}")
         if os.path.exists(embedding_dir):
             node_embeddings = np.load(embedding_dir)
             data.x = torch.Tensor(node_embeddings)
 
         return data
+
+    def compute_feature_mean_std(self, train_years):
+        all_node_features = []
+        all_edge_features = []
+        for year in train_years:
+            for month in range(1, 13):
+                monthly_data = self.load_monthly_data(year, month)
+                node_features, edge_features = monthly_data['temporal_node_features'], monthly_data['temporal_edge_features']
+                all_node_features.append(node_features)
+                all_edge_features.append(edge_features)
+            
+        all_node_features = torch.cat(all_node_features, dim=0)
+        all_edge_features = torch.cat(all_edge_features, dim=0)
+
+        node_feature_mean, node_feature_std = all_node_features.mean(dim=0), all_node_features.std(dim=0)
+        edge_feature_mean, edge_feature_std = all_edge_features.mean(dim=0), all_edge_features.std(dim=0)
+        print("Successfully computed the mean and std of the features!")
+        node_feature_std[node_feature_std == 0] = 1
+        edge_feature_std[edge_feature_std == 0] = 1
+        return node_feature_mean, node_feature_std, edge_feature_mean, edge_feature_std
+    
+    def get_feature_stats(self):
+        return self.node_feature_mean, self.node_feature_std, self.edge_feature_mean, self.edge_feature_std
 
 
 def load_monthly_data(data, data_dir = "./data", state_name = "MA", num_negative_edges = 100000, year=2022, month=1):
