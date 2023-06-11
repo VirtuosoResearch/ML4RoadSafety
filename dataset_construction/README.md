@@ -122,7 +122,7 @@ Besides, the following features have been calculated which might help in improvi
 - Node degree and betweenness centrality
 - Node position: Latitude and longitude
 
-### Creating the Final dataset:
+### Creating the final dataset:
 
 All the above datasets need to be combined in order to create the final graph for modeling. 
 
@@ -147,30 +147,3 @@ All the above datasets need to be combined in order to create the final graph fo
 
   - From the lat lon coordinate of a partular node, extract the historical weather features using the methodology explained above.
   - Repeat this exercise for all nodes
-
-
-## Features
-
-### Node Features
-
-These are the following node features:
-
-- Latitude
-- Longitude
-- Node Degree
-- Betweenness Centrality
-- Average Surface Temperature
-- Max Surface Temperature
-- Min Surface Temperature
-- Total Precipitation
-- Avg Wind Speed
-- Sea Level Air Pressure
-
-### Edge Features
-
-These are the following edge features:
-
-- oneway
-- highway
-- length
-- Annual Average Daily Traffic (AADT)
