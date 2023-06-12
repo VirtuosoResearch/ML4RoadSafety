@@ -38,7 +38,7 @@ Intersection of roads (latitude and longitude)
 - **Edge:**
 Road (length, name, type of road, etc)
 
-- OSMnx Street Network Dataverse:
+- **OSMnx Street Network Dataverse:**
   
   The required street network has been published in OSMnx Street Network Dataverse in 2017. For every state, the street networks are available at the scale of city, county, neighbourhood, tract and urbanized area.
 
