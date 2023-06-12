@@ -1,37 +1,11 @@
 # Code repository for Graph Neural Networks for Road Safety Modeling: Datasets and Evaluations for Accident Analysis
 
-This repository includes the code for reproducing our results, including the code for collecting our dataset, and the implemention of GNNs for predicting the accident labels. Our dataset consists of 9 million accident records gathered from 8 states across the United States. The link to download our processed data files is [here](https://dataverse.harvard.edu/privateurl.xhtml?token=add1d658-0e71-4007-9735-7976efb8de5e).
-
-### Features
+This repository includes the code for reproducing our results, including the code for collecting our dataset, and the implemention of GNNs for predicting the accident labels. Our dataset consists of 9 million accident records gathered from 8 states across the United States. The link to download our processed data files is [here](https://dataverse.harvard.edu/privateurl.xhtml?token=add1d658-0e71-4007-9735-7976efb8de5e). Features:
 
 - Diverse and extensive collection of traffic accident datasets
 - Easy-to-use dataset loader for convenient data loading, fully compatible with the graph deep learning framework, [PyTorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/)
 - Example code scripts for training and evaluating graph neural networks on our datasets
 - Detailed documentation on the data collection process using publicly available sources
-
-### Installation
-
-To use the traffic accidents dataset and its associated tools, follow these steps:
-
-1. Clone this repository to your local machine using the following command:
-
-```bash
-git clone https://github.com/anonymous-researchcode/ML4RoadSafety.git
-```
-
-2. Install the necessary dependencies by running the following command:
-
-```bash
-pip install -r requirements.txt
-```
-
-**Requirments**: we list the mostly used packages in this repository as follows.
-
-- Python>=3.6
-- PyTorch>=1.10
-- torch-geometric>=2.0.3
-- numpy>=1.19.0
-- torch-geometric-temporal>=0.54.0
 
 ### Quick Start: Package Usage
 
@@ -107,3 +81,27 @@ python train.py --state_name MA --node_feature_type node2vec\
     --test_years  2016 2017 2018 2019 2020 2021 2022 \
     --device 0
 ```
+
+### Installation
+
+To use the traffic accidents dataset and its associated tools, follow these steps:
+
+1. Clone this repository to your local machine using the following command:
+
+```bash
+git clone https://github.com/anonymous-researchcode/ML4RoadSafety.git
+```
+
+2. Install the necessary dependencies by running the following command:
+
+```bash
+pip install -r requirements.txt
+```
+
+**Requirments**: we list the mostly used packages in this repository as follows.
+
+- Python>=3.6
+- PyTorch>=1.10
+- torch-geometric>=2.0.3
+- numpy>=1.19.0
+- torch-geometric-temporal>=0.54.0
