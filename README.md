@@ -66,7 +66,7 @@ git clone https://github.com/anonymous-researchcode/ML4RoadSafety.git
 pip install -r requirements.txt
 ```
 
-**Requirments**: we list the mostly used packages in this repository as follows.
+which includes the most used packages such as
 
 - Python>=3.6
 - PyTorch>=1.10
