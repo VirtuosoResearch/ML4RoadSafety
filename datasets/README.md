@@ -12,7 +12,7 @@ The same procedure can be replicated for other states.
 
 ## Reproduction
 
-To reproduce the data for a state, download the data for each feature and save these in the same local repository. Run the dataset codes in the numerical order to get the processed files as deposited in https://dataverse.harvard.edu/privateurl.xhtml?token=add1d658-0e71-4007-9735-7976efb8de5e .
+To reproduce the data for a state, download the data for each feature and save these in the same local repository. Run the dataset codes in the numerical order to get the processed files as deposited in this [repository](https://dataverse.harvard.edu/privateurl.xhtml?token=add1d658-0e71-4007-9735-7976efb8de5e).
 
 
 ## Step-By-Step Tutorial
