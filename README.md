@@ -1,6 +1,6 @@
 # Overview
 
-This repository includes the code for reproducing our results, including the code for collecting our dataset, and the implemention of GNNs for predicting the accident labels. Our dataset consists of 9 million accident records gathered from 8 states across the United States. The link to download our processed data files is https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FV71K5R&version=DRAFT.
+This repository includes the code for reproducing our results, including the code for collecting our dataset, and the implemention of GNNs for predicting the accident labels. Our dataset consists of 9 million accident records gathered from 8 states across the United States. The link to download our processed data files is https://dataverse.harvard.edu/privateurl.xhtml?token=add1d658-0e71-4007-9735-7976efb8de5e.
 
 ### Features
 
