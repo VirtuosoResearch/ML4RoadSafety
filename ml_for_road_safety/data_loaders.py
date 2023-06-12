@@ -259,6 +259,7 @@ class TrafficAccidentDataset:
         if os.path.exists(embedding_dir):
             node_embeddings = np.load(embedding_dir)
             data.x = torch.Tensor(node_embeddings)
+            print("Node embeddings loaded!")
 
         return data
 
