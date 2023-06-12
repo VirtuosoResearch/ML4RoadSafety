@@ -1,4 +1,4 @@
-# Overview
+# Code repository for Graph Neural Networks for Road Safety Modeling: Datasets and Evaluations for Accident Analysis
 
 This repository includes the code for reproducing our results, including the code for collecting our dataset, and the implemention of GNNs for predicting the accident labels. Our dataset consists of 9 million accident records gathered from 8 states across the United States. The link to download our processed data files is https://dataverse.harvard.edu/privateurl.xhtml?token=add1d658-0e71-4007-9735-7976efb8de5e.
 
