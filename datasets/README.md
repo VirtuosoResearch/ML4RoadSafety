@@ -32,7 +32,7 @@ Road (length, name, type of road, etc)
   
   The required street network has been published in OSMnx Street Network Dataverse in 2017. For every state, the street networks are available at the scale of city, county, neighbourhood, tract and urbanized area. The street networks for all of the above mentioned levels of a state are appended to ensure all the streets in the state are included in the road network graph for that state. 
 
-**Process for MA:**
+**Example: Constructing the road network of MA:**
 Download all the node_edge_lists zip files for MA from [here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/CUWWYJ), and run `1_Road_Network.py` to get the final road network for MA.
 
 
@@ -59,14 +59,14 @@ Here is a summary of the records collected for every state:
 8. Nevada (NV): 237,338 accident records from Jan 1 2016 to Dec 31 2020
 
 
-**Process for MA:**
+**Example: Processing accident records from MA:**
 Download the yearwise crash reports of MA from [here](https://geo-massdot.opendata.arcgis.com/search?collection=Dataset&q=crash), and run `2_Concatenate_Yearly_Crash.py` and `3_Extract_Nearest_Street.py` to get the processed accident records for MA.
 
 ### Collecting road network features:
 
 The weather data is extracted using meteostat api. For every node (intersection) in the state, the historical weather data is extracted corresponding to the data recorded at the nearest station to that node.  
 
-**Process for MA:**
+**Example: Processing road network features for MA:**
 Run `4_Get_Weather.py` to extract the historical weather data for all nodes in MA.
 
 ### Collecting traffic volume:
@@ -84,7 +84,7 @@ Here is a summary of the records collected for every state:
 4. Nevada (NV): Historical data available at a coordinate level.
 
 
-**Process for MA:**
+**Example: Processing traffic volume records of MA:**
 Download yearly hostorical traffic counts from [here](https://mhd.public.ms2soft.com/tcds/tsearch.asp?loc=Mhd&mod=), and run `5_Get_Coordinates_Traffic.py` and `6_Get_Traffic_Volume.py` to get the processed AADT counts.
 
 

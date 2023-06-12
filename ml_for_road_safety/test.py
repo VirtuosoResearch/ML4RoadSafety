@@ -339,12 +339,29 @@ print(node_features[:, 0].mean())
 print(node_features[:, 1].mean())
 print(node_features[:, 2].mean())
 # %%
-import requests
+from pyDataverse.api import NativeApi, DataAccessApi
+from pyDataverse.models import Dataverse
 
-doi = "10.7910/DVN/V71K5R"
-file_url = "https://drive.google.com/uc?export=download&id=1CWIFTAYbpPgheqyiGro1ZAnLRwrrwTOz"
+base_url = 'https://dataverse.harvard.edu/'
+api_token= 'b2a92183-27dd-4352-8ea2-b3da4fdafbb1'
+api = NativeApi(base_url, api_token)
+data_api = DataAccessApi(base_url, api_token)
+DOI = "doi:10.7910/DVN/V71K5R"
+dataset = api.get_dataset(DOI)
 
-response = requests.get(file_url)
-# data = response.json()
+# %%
+files_list = dataset.json()['data']['latestVersion']['files']
 
-# download_url = data["data"]["latestVersion"]["files"][0]["dataFile"]["downloadURL"]
+for file in files_list:
+    filename = file["dataFile"]["filename"]
+    file_id = file["dataFile"]["id"]
+    print("File name {}, id {}".format(filename, file_id))
+    if filename == "DE.zip":
+        response = data_api.get_datafile(file_id)
+        with open(filename, "wb") as f:
+            f.write(response.content)
+
+# %%
+from data_loaders import TrafficAccidentDataset
+
+dataset = TrafficAccidentDataset(data_dir="./data", state_name="DE")
