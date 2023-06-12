@@ -104,3 +104,4 @@ pip install -r requirements.txt
 - torch-geometric>=2.0.3
 - numpy>=1.19.0
 - torch-geometric-temporal>=0.54.0
+- pyDataverse
