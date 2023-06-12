@@ -40,9 +40,6 @@ Download all the node_edge_lists zip files for MA from [here](https://dataverse.
 
 Accident records have been obtained for states where the data is available at a person/vehicle level and the lat-lon coordinates are available or can be extracted. The accident records for all such states have been obtained from the data published by the Department of Transportation for the respective state. 
 
-#### Process for MA:
-Download the yearwise crash reports of MA from [here](https://geo-massdot.opendata.arcgis.com/search?collection=Dataset&q=crash), and run `2_Concatenate_Yearly_Crash.py` and `3_Extract_Nearest_Street.py` to get the processed accident records for MA.
-
 Here is a summary of the records collected for every state:
 
 1. Delaware (DE): 458,282 accident records from Jan 1 2009 to Oct 31 2022
@@ -62,6 +59,9 @@ Here is a summary of the records collected for every state:
 8. Nevada (NV): 237,338 accident records from Jan 1 2016 to Dec 31 2020
 
 
+#### Process for MA:
+Download the yearwise crash reports of MA from [here](https://geo-massdot.opendata.arcgis.com/search?collection=Dataset&q=crash), and run `2_Concatenate_Yearly_Crash.py` and `3_Extract_Nearest_Street.py` to get the processed accident records for MA.
+
 ### Collecting road network features:
 
 The weather data is extracted using meteostat api. For every node (intersection) in the state, the historical weather data is extracted corresponding to the data recorded at the nearest station to that node.  
@@ -73,9 +73,6 @@ Run `4_Get_Weather.py` to extract the historical weather data for all nodes in M
 
 The traffic volume data is extracted from the data published by the Department of Transportation (DOT) of every state and is measured by Annual Average Daily Traffic (AADT).
 
-#### Process for MA:
-Download yearly hostorical traffic counts from [here](https://mhd.public.ms2soft.com/tcds/tsearch.asp?loc=Mhd&mod=), and run `5_Get_Coordinates_Traffic.py` and `6_Get_Traffic_Volume.py` to get the processed AADT counts.
-
 Here is a summary of the records collected for every state:
 
 1. Delaware (DE): Data available in pdfs and .kmz files at a road level. The corresponding coordinates have been extracted using google maps api.
@@ -85,6 +82,10 @@ Here is a summary of the records collected for every state:
 3. Massachusetts (MA): Historical data available at a coordinate level.
 
 4. Nevada (NV): Historical data available at a coordinate level.
+
+
+#### Process for MA:
+Download yearly hostorical traffic counts from [here](https://mhd.public.ms2soft.com/tcds/tsearch.asp?loc=Mhd&mod=), and run `5_Get_Coordinates_Traffic.py` and `6_Get_Traffic_Volume.py` to get the processed AADT counts.
 
 
 ### Collecting road network features:
