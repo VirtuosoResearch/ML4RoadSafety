@@ -13,6 +13,14 @@ import numpy as np
 from torch_geometric.data import Data
 import torch_geometric.transforms as T
 from torch_geometric.utils import is_undirected, coalesce, negative_sampling
+from pyDataverse.api import NativeApi, DataAccessApi
+from pyDataverse.models import Dataverse
+import zipfile
+
+def unzip_file(zip_path, extract_path):
+    with zipfile.ZipFile(zip_path, 'r') as zip_ref:
+        zip_ref.extractall(extract_path)
+    print("File successfully unzipped!")
 
 class TrafficAccidentDataset:
 
@@ -21,6 +29,8 @@ class TrafficAccidentDataset:
                     train_years=[], num_negative_edges=100000000):
         self.data_dir = data_dir
         self.state_name = state_name
+        # download dataset
+        self.download_dataset()
 
         self.node_feature_type = node_feature_type
         self.node_feature_name = f"{state_name}.npy" if node_feature_type == "centrality" else f"{state_name}_128.npy"
@@ -41,6 +51,30 @@ class TrafficAccidentDataset:
         self.edge_feature_std = None
         if len(train_years) != 0 and (self.use_dynamic_node_features or self.use_dynamic_edge_features):
             self.node_feature_mean, self.node_feature_std, self.edge_feature_mean, self.edge_feature_std = self.compute_feature_mean_std(train_years)
+
+    def download_dataset(self):
+        if os.path.exists(os.path.join(self.data_dir, self.state_name)):
+            print("Dataset already downloaded!")
+            return
+
+        base_url = 'https://dataverse.harvard.edu/'
+        api_token= 'b2a92183-27dd-4352-8ea2-b3da4fdafbb1' # change api token here
+        api = NativeApi(base_url, api_token)
+        data_api = DataAccessApi(base_url, api_token)
+        DOI = "doi:10.7910/DVN/V71K5R"
+        dataset = api.get_dataset(DOI)
+
+        files_list = dataset.json()['data']['latestVersion']['files']
+
+        for file in files_list:
+            filename = file["dataFile"]["filename"]
+            file_id = file["dataFile"]["id"]
+            if filename == f"{self.state_name}.zip":
+                response = data_api.get_datafile(file_id)
+                with open(os.path.join(self.data_dir, filename), "wb") as f:
+                    f.write(response.content)
+                    unzip_file(os.path.join(self.data_dir, filename), self.data_dir)
+                    print("File successfully downloaded!")
 
     def load_monthly_data(self, year=2022, month=1):
         '''
