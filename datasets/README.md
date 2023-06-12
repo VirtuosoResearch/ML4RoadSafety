@@ -100,7 +100,7 @@ Besides, the following structural features have been calculated which would help
 
 Lastly, to generate the final graphs and labels, we need to map all the above generated features to the road network of that state and process it in the necessary format for modelling.
 
-**Process for MA:**
+**Example: Mapping accidents to the road network of MA:**
 Run `7_Dataset_Creation.py` to get the final processed graphs as deposited [here](https://dataverse.harvard.edu/privateurl.xhtml?token=add1d658-0e71-4007-9735-7976efb8de5e).
 
 
