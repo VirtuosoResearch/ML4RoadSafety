@@ -2,32 +2,22 @@
 
 We have meticulously documented our data collection process, providing valuable insights into how we processed accidents and road networks using publicly available sources. This information serves as a reference for researchers and practitioners interested in analyzing traffic accidents.
 
-We describe the collection procedure for each data source, including:
+We describe the collection procedure for each data source for Massachussetts (MA), including:
 - Traffic accident records
 - Road networks
 - Road network features, including traffic volume reports, weather conditions, and other graph structural features
 
+The same procedure can be replicated for other states.
 
-### Collecting traffic accident records
 
-Accident records have been obtained for states where the data is available at a person/vehicle level and the lat-lon coordinates are available or can be extracted. The accident records for all such states have been obtained from the data published by the Department of Transportation for the respective state. Here is a summary of the records collected:
+## Reproduction
 
-1. Delaware (DE): 458,282 accident records from Jan 1 2009 to Oct 31 2022
+To reproduce the data for a state, download the data for each feature and save these in the same local repository. Run the dataset codes in the numerical order to get the processed files as deposited in https://dataverse.harvard.edu/privateurl.xhtml?token=add1d658-0e71-4007-9735-7976efb8de5e .
 
-2. Iowa (IA): 556,418 accident records from Jan 1 2013 to May 1 2023
 
-3. Illinois (IL): 2,980,702 accident records from Jan 1 2012 to Dec 31 2021
+## Step-By-Step Tutorial
 
-4. Maryland (MD): 878,343 accident records from Jan 1 2015 to Dec 31 2022
-
-5. Massachusetts (MA): 3,296,566 accident records from Jan 1 2002 to Dec 31 2022 except the years 2018, 2019
-
-6. Minnesota (MN): 513,969 accident records from Dec 31 2015 to May 1 2023
-
-7. Montana (MT): 99,939 accident records from Jan 2016 to Dec 2020
-
-8. Nevada (NV): 237,338 accident records from Jan 1 2016 to Dec 31 2020
-
+We describe the steps needed to generate the processed graphs, also giving instructions on how to run the code for MA, which can be replicated for other states.
 
 ### Constructing road networks:
 
@@ -46,10 +36,51 @@ Road (length, name, type of road, etc)
 
   The road network is available for all the states in United States of America.
 
+#### Process for MA:
+Download all the node_edge_lists zip files for MA from [here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/CUWWYJ), and run `1_Road_Network.py` to get the final road network for MA.
+
+
+### Collecting traffic accident records
+
+Accident records have been obtained for states where the data is available at a person/vehicle level and the lat-lon coordinates are available or can be extracted. The accident records for all such states have been obtained from the data published by the Department of Transportation for the respective state. 
+
+#### Process for MA:
+Download the yearwise crash reports of MA from [here](https://geo-massdot.opendata.arcgis.com/search?collection=Dataset&q=crash), and run `2_Concatenate_Yearly_Crash.py` and `3_Extract_Nearest_Street.py` to get the processed accident records for MA.
+
+Here is a summary of the records collected for every state:
+
+1. Delaware (DE): 458,282 accident records from Jan 1 2009 to Oct 31 2022
+
+2. Iowa (IA): 556,418 accident records from Jan 1 2013 to May 1 2023
+
+3. Illinois (IL): 2,980,702 accident records from Jan 1 2012 to Dec 31 2021
+
+4. Maryland (MD): 878,343 accident records from Jan 1 2015 to Dec 31 2022
+
+5. Massachusetts (MA): 3,296,566 accident records from Jan 1 2002 to Dec 31 2022 except the years 2018, 2019
+
+6. Minnesota (MN): 513,969 accident records from Dec 31 2015 to May 1 2023
+
+7. Montana (MT): 99,939 accident records from Jan 2016 to Dec 2020
+
+8. Nevada (NV): 237,338 accident records from Jan 1 2016 to Dec 31 2020
+
+
+### Collecting road network features:
+
+The weather data is extracted using meteostat api. For every node (intersection) in the state, the historical weather data is extracted corresponding to the data recorded at the nearest station to that node.  
+
+#### Process for MA:
+Run `4_Get_Weather.py` to extract the historical weather data for all nodes in MA.
 
 ### Collecting traffic volume:
 
-The traffic volume data is extracted from the data published by the Department of Transportation (DOT) of every state.
+The traffic volume data is extracted from the data published by the Department of Transportation (DOT) of every state and is measured by Annual Average Daily Traffic (AADT).
+
+#### Process for MA:
+Download yearly hostorical traffic counts from [here](https://mhd.public.ms2soft.com/tcds/tsearch.asp?loc=Mhd&mod=), and run `5_Get_Coordinates_Traffic.py` and `6_Get_Traffic_Volume.py` to get the processed AADT counts.
+
+Here is a summary of the records collected for every state:
 
 1. Delaware (DE): Data available in pdfs and .kmz files at a road level. The corresponding coordinates have been extracted using google maps api.
 
@@ -59,9 +90,6 @@ The traffic volume data is extracted from the data published by the Department o
 
 4. Nevada (NV): Historical data available at a coordinate level.
 
-### Collecting road network features:
-
-The weather data is extracted using meteostat api. For every node (intersection) in the state, the historical weather data is extracted corresponding to the data recorded at the nearest station to that node.  
 
 ### Collecting road network features:
 
@@ -73,25 +101,17 @@ Besides, the following structural features have been calculated which would help
 
 ### Alignment of network labels and features 
 
-Lastly, we combine the above in order to create the final graphs for modeling. 
+Lastly, to generate the final graphs and labels, we need to map all the above generated features to the road network of that state and process it in the necessary format for modelling.
 
-**Traffic accident records**
-- The accident data contains the lat-long coordinates of every accident which has to be mapped to the nearest street in the data generated from OpenStreetMaps. 
-- The road network has the lat-long coordinates of every intersection/node in the graph. 
-- We assume that the accident takes place at some point between two nodes. 
-- Let’s assume the accident takes place at point C which is on the street between nodes A and B. 
-- The distance AC + BC should ideally be equal to AB assuming the street AB is a straight road. 
-- Using the above methodology, we iterate over all the streets and map the accident to the street where the difference of distances (AB - (AC+BC)) is the lowest.
-
-**Traffic Volume Counts**
-- Traffic Data contains the names of the streets defined by Department of Transportation. Road Network has the names of streets given by OpenStreetMaps. These names have to be mapped to combine both these data sources
-- Extract the lat-lon coordinates from the road names in the traffic data
-- Apply the nearest street mapping methodology described above to map the street where the traffic was recorded to the edge 
+#### Process for MA:
+Run `7_Dataset_Creation.py` to get the final processed graphs as deposited [here](https://dataverse.harvard.edu/privateurl.xhtml?token=add1d658-0e71-4007-9735-7976efb8de5e).
 
 
-## Reproduction
+### Format of the Final Graphs
 
-To reproduce the data for a state, download the data for each feature and save these in the same local repository. Run the dataset codes in the numerical order to get the processed files as deposited in https://dataverse.harvard.edu/privateurl.xhtml?token=add1d658-0e71-4007-9735-7976efb8de5e .
+
+
+
 
 
 
