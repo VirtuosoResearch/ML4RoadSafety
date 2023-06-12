@@ -87,11 +87,6 @@ Lastly, we combine the above in order to create the final graphs for modeling.
 - Traffic Data contains the names of the streets defined by Department of Transportation. Road Network has the names of streets given by OpenStreetMaps. These names have to be mapped to combine both these data sources
 - Extract the lat-lon coordinates from the road names in the traffic data
 - Apply the nearest street mapping methodology described above to map the street where the traffic was recorded to the edge 
-- Extract the county name from the lat-lon coordinate
-- Calculate the AADT value of a particular county by averaging the AADT values of all the streets in that county
-- Assign this value to all the streets in that county
-- Repeat the above steps for all counties, finally getting the AADT values for all streets in the state
-- For weather Data, from the lat lon coordinate of a partular node, extract the historical weather features using the methodology explained above; Repeat this exercise for all nodes
 
 
 ## Reproduction
