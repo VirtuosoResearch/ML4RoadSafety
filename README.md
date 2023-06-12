@@ -66,8 +66,8 @@ evaluator = Evaluator(type = "regression")
 
 # Iterating over months in a period of time for training
 for month in train_months:
-		...
-		pred_accident_counts = model(x, edge_index, edge_attr)
+    ...
+    pred_accident_counts = model(x, edge_index, edge_attr)
     # Compute the prediction loss
     loss = evaluator.criterion(pred_accident_counts, true_accident_counts)
     
