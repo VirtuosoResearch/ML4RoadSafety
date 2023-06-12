@@ -1,6 +1,6 @@
 # Training and Evaluating GNNs
 
-To simplify the process of training and evaluating graph neural networks (GNNs) on our dataset for a specific state, we provide a Python script called `train.py`. You can customize the training process by specifying the following parameters:
+We provide a script to train and evaluate graph neural networks on our dataset. To simplify the process of training and evaluating graph neural networks (GNNs) on our dataset for a specific state, we provide a Python script called `train.py`. You can customize the training process by specifying the following parameters:
 
 - `--state_name` specifies the state of the dataset. Choose among `DE`, `IA`, `IL`, `MA`, `MD`, `MN`, `MT`, `NV`. 
 
