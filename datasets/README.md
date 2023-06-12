@@ -88,7 +88,7 @@ Lastly, to generate the final graphs and labels, we need to map all the above ge
 Run `7_Dataset_Creation.py` to get the final processed graphs as deposited [here](https://dataverse.harvard.edu/privateurl.xhtml?token=add1d658-0e71-4007-9735-7976efb8de5e).
 
 
-### Format of the Final Graphs
+### Format of the final dataset folder for one state
 
 Finally, the processed dataset is stored in a structure as follows. For example, for the state of MA:
 
