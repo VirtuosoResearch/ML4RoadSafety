@@ -109,19 +109,19 @@ Run `7_Dataset_Creation.py` to get the final processed graphs as deposited [here
 Finally, the processed dataset is stored in a structure as follows. For example, for the state of MA:
 
 ```
---MA/
+--MA/                         # take the Massachusetts state for an example
   |
   ---- adj_matrix.pt          # the sparse adjacency matrix of the road network
   |
   ---- accidents_monthly.csv  # all accidents spanning multiple years and aggregated in months
   |
-  ---- Nodes/                 # the node features, including weather information in every month
+  ---- Nodes/                 # the node features, including weather information every month
   |     |
   |     ---- node_features_{year}_{month}.pt # weather information of a particular month
   |     |
   |     ---- ...
   |
-  ---- Edges/                 # the edge features, including road and traffic volume information (if available)
+  ---- Edges/                 # the edge features, including road and traffic volume information if available
         |
         ---- edge_features.pt                # edge features describing the road information
         |
