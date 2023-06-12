@@ -1,14 +1,10 @@
 # Data Collection Process
 
-We have meticulously documented our data collection process, providing valuable insights into how we processed accidents and road networks using publicly available sources. This information serves as a reference for researchers and practitioners interested in analyzing traffic accidents.
-
-We describe the collection procedure for each data source for Massachussetts (MA), including:
+We document our data collection process using publicly available sources, including:
 - Traffic accident records
 - Road networks
 - Road network features, including traffic volume reports, weather conditions, and other graph structural features
-
-
-To reproduce the data for a state, download the data for each feature and save these in the same local repository. Run the dataset codes in the numerical order to get the processed files as deposited in this [repository](https://dataverse.harvard.edu/privateurl.xhtml?token=add1d658-0e71-4007-9735-7976efb8de5e). We describe the steps needed to generate the processed graphs, also giving instructions on how to run the code for MA, which can be replicated for other states.
+To reproduce the data for a state, download the data for each feature and save these in the same local repository. We describe the steps needed to generate the processed graphs, also giving instructions on how to run the code for MA, which can be replicated for other states.
 
 ### Constructing road networks:
 
@@ -88,9 +84,9 @@ Lastly, to generate the final graphs and labels, we need to map all the above ge
 Run `7_Dataset_Creation.py` to get the final processed graphs as deposited [here](https://dataverse.harvard.edu/privateurl.xhtml?token=add1d658-0e71-4007-9735-7976efb8de5e).
 
 
-### Format of the final dataset folder for one state
+### Conclusion
 
-Finally, the processed dataset is stored in a structure as follows. For example, for the state of MA:
+Finally, the processed dataset is stored in a structure as follows. For example, for the state of MA, the directory looks like the following:
 
 ```
 --MA/                         # take the Massachusetts state for an example
@@ -114,10 +110,4 @@ Finally, the processed dataset is stored in a structure as follows. For example,
         ---- ...
 ```
 
-
-
-
-
-
-
-
+Find the processed files at this [repository](https://dataverse.harvard.edu/privateurl.xhtml?token=add1d658-0e71-4007-9735-7976efb8de5e)!
