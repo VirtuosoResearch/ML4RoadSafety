@@ -1,6 +1,6 @@
 # Overview
 
-This repository includes the code for reproducing our results in "Graph Neural Networks for Road Safety Modeling: Datasets and Evaluations for Accident Analysis." We include the code for collecting our dataset and the implemention of GNNs for predicting the accident labels. We provide:
+This repository includes the code for reproducing our results in "Graph Neural Networks for Road Safety Modeling: Datasets and Evaluations for Accident Analysis." We document the code for collecting our dataset and the implemention of GNNs for predicting the accident labels, including
 
 - Easy-to-use dataset loader for convenient data loading, fully compatible with the graph deep learning framework, [PyTorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/).
 - Example code scripts for training and evaluating graph neural networks on our datasets.
