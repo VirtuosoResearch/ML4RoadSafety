@@ -6,7 +6,7 @@ We document our data collection process using publicly available sources, includ
 - Road network features, including traffic volume reports, weather conditions, and other graph structural features
 To reproduce the data for a state, download the data for each feature and save these in the same local repository. We describe the steps needed to generate the processed graphs, also giving instructions on how to run the code for MA, which can be replicated for other states.
 
-### Constructing road networks:
+### Constructing road networks
 
 The road network is created as a graph where the nodes and edges are defined as below:
 
@@ -15,7 +15,7 @@ Intersection of roads (latitude and longitude)
 - **Edge:**
 Road (length, name, type of road, etc)
 
-- **OSMnx Street Network Dataverse:**
+- **OSMnx Street Network Dataverse**
   
   The required street network has been published in OSMnx Street Network Dataverse in 2017. For every state, the street networks are available at the scale of city, county, neighbourhood, tract and urbanized area. The street networks for all of the above mentioned levels of a state are appended to ensure all the streets in the state are included in the road network graph for that state. 
 
@@ -49,7 +49,7 @@ Here is a summary of the records collected for every state:
 **Example: Processing accident records from MA:**
 Download the yearwise crash reports of MA from [here](https://geo-massdot.opendata.arcgis.com/search?collection=Dataset&q=crash), and run `2_Concatenate_Yearly_Crash.py` and `3_Extract_Nearest_Street.py` to get the processed accident records for MA.
 
-### Collecting road network features:
+### Collecting road network features
 
 The weather data is extracted using meteostat api. For every node (intersection) in the state, the historical weather data is extracted corresponding to the data recorded at the nearest station to that node.  
 
