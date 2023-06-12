@@ -31,6 +31,7 @@ pip install -r requirements.txt
 - PyTorch>=1.10
 - torch-geometric>=2.0.3
 - numpy>=1.19.0
+- torch-geometric-temporal>=0.54.0
 
 ### Quick Start: Package Usage
 
@@ -73,7 +74,7 @@ for month in train_months:
     
 # Iterating over months in a period of time for testing
 for month in test_months:
-  	...
+    ...
     # Compute the prediction performance
     pred_accident_counts = model(x, edge_index, edge_attr)
     results_dict = evaluator.eval(pred_accident_counts, true_accident_counts)
