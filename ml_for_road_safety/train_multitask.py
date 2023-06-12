@@ -51,7 +51,7 @@ def main(args):
                                 if_regression=if_regression).to(device)
         
         task_list.append(task_name)
-        task_datasets[task_name] = data
+        task_datasets[task_name] = dataset
         task_evaluators[task_name] = evaluator
         task_predictors[task_name] = predictor
 
