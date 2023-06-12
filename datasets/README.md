@@ -7,17 +7,8 @@ We describe the collection procedure for each data source for Massachussetts (MA
 - Road networks
 - Road network features, including traffic volume reports, weather conditions, and other graph structural features
 
-The same procedure can be replicated for other states.
 
-
-## Reproduction
-
-To reproduce the data for a state, download the data for each feature and save these in the same local repository. Run the dataset codes in the numerical order to get the processed files as deposited in this [repository](https://dataverse.harvard.edu/privateurl.xhtml?token=add1d658-0e71-4007-9735-7976efb8de5e).
-
-
-## Step-By-Step Tutorial
-
-We describe the steps needed to generate the processed graphs, also giving instructions on how to run the code for MA, which can be replicated for other states.
+To reproduce the data for a state, download the data for each feature and save these in the same local repository. Run the dataset codes in the numerical order to get the processed files as deposited in this [repository](https://dataverse.harvard.edu/privateurl.xhtml?token=add1d658-0e71-4007-9735-7976efb8de5e). We describe the steps needed to generate the processed graphs, also giving instructions on how to run the code for MA, which can be replicated for other states.
 
 ### Constructing road networks:
 
@@ -87,14 +78,7 @@ Here is a summary of the records collected for every state:
 **Example: Processing traffic volume records of MA:**
 Download yearly hostorical traffic counts from [here](https://mhd.public.ms2soft.com/tcds/tsearch.asp?loc=Mhd&mod=), and run `5_Get_Coordinates_Traffic.py` and `6_Get_Traffic_Volume.py` to get the processed AADT counts.
 
-
-### Collecting road network features:
-
-Besides, the following structural features have been calculated which would help in improving the performance of the model:
-
-- Node degree
-- Betweenness Centrality
-- Node position: Latitude and longitude
+Besides, the following structural features have been calculated which would help in improving the performance of the model: Node degree, betweenness centrality, and node position (latitude and longitude).
 
 ### Alignment of network labels and features 
 
