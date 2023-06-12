@@ -72,11 +72,11 @@ class AccidentRegressionTrainer(Trainer):
         pos_edges, pos_edge_weights, neg_edges = \
             monthly_data['accidents'], monthly_data['accident_counts'], monthly_data['neg_edges']
         
+        if pos_edges is None or pos_edges.size(0) < 10:
+            return {}, 0
+
         print(f"Eval on {year}-{month} data")
         print(f"Number of positive edges: {pos_edges.size(0)} | Number of negative edges: {neg_edges.size(0)}")
-
-        if pos_edges is None or pos_edges.size(0) < 10:
-            return 0, 0
         
         self.model.eval()
         self.predictor.eval()

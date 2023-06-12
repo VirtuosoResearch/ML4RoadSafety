@@ -30,11 +30,7 @@ Road (length, name, type of road, etc)
 
 - **OSMnx Street Network Dataverse:**
   
-  The required street network has been published in OSMnx Street Network Dataverse in 2017. For every state, the street networks are available at the scale of city, county, neighbourhood, tract and urbanized area.
-
-  The street networks for all of the above mentioned levels of a state are appended to ensure all the streets in the state are included in the road network graph for that state. 
-
-  The road network is available for all the states in United States of America.
+  The required street network has been published in OSMnx Street Network Dataverse in 2017. For every state, the street networks are available at the scale of city, county, neighbourhood, tract and urbanized area. The street networks for all of the above mentioned levels of a state are appended to ensure all the streets in the state are included in the road network graph for that state. 
 
 #### Process for MA:
 Download all the node_edge_lists zip files for MA from [here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/CUWWYJ), and run `1_Road_Network.py` to get the final road network for MA.
