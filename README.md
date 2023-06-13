@@ -1,6 +1,6 @@
 # Overview
 
-This repository includes the code for reproducing our results in "Graph Neural Networks for Road Safety Modeling: Datasets and Evaluations for Accident Analysis." We document the code for collecting our dataset and the implemention of GNNs for predicting the accident labels, including
+This repository includes the code for reproducing our results in "Graph Neural Networks for Road Safety Modeling: Datasets and Evaluations for Accident Analysis." We document the code for collecting our dataset and the implementation of GNNs for predicting the accident labels, including
 
 - Easy-to-use dataset loader for convenient data loading, fully compatible with the graph deep learning framework, [PyTorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/).
 - Example code scripts for training and evaluating graph neural networks on our datasets.
@@ -8,7 +8,7 @@ This repository includes the code for reproducing our results in "Graph Neural N
 
 ### Quick Start
 
-We provide a quick overview of how to use our package for analyzing traffic accidents on road networks. We describe the usage of our easy-to-use data loaders, named `TrafficAccidentDataset` that loads the road network as the data format of Pytorch Geometric. Then, we can use a few lines of code with `load_monthly_data(year, month)` to load the accident labels and network features for a particular month. Our code automatically download datasets into the `/ml_for_road_safety/data/` folder. To run these commands, one can also manually download the zip file for that state from the [data link](https://dataverse.harvard.edu/privateurl.xhtml?token=add1d658-0e71-4007-9735-7976efb8de5e), unzip this file under the `/ml_for_road_safety/data/` folder.
+We provide a quick overview of how to use our package for analyzing traffic accidents on road networks. We describe the usage of our easy-to-use data loader, named `TrafficAccidentDataset` that loads the road network as the data format of Pytorch Geometric. Then, we can use a few lines of code with `load_monthly_data(year, month)` to load the accident labels and network features for a particular month. Our code automatically downloads datasets into the `/ml_for_road_safety/data/` folder. To run these commands, one can also manually download the zip file for that state from the [data link](https://dataverse.harvard.edu/privateurl.xhtml?token=add1d658-0e71-4007-9735-7976efb8de5e), unzip this file under the `/ml_for_road_safety/data/` folder.
 
 ```python
 from ml_for_road_safety import TrafficAccidentDataset
