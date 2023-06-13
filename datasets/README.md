@@ -4,6 +4,7 @@ We document our data collection process using publicly available sources, includ
 - Traffic accident records
 - Road networks
 - Road network features, including traffic volume reports, weather conditions, and other graph structural features
+
 To reproduce the data for a state, download the data for each feature and save these in the same local repository. We describe the steps needed to generate the processed graphs, also giving instructions on how to run the code for MA, which can be replicated for other states.
 
 ### Constructing road networks
@@ -17,7 +18,7 @@ Road (length, name, type of road, etc)
 
 - **OSMnx Street Network Dataverse**
   
-  The required street network has been published in OSMnx Street Network Dataverse in 2017. For every state, the street networks are available at the scale of city, county, neighbourhood, tract and urbanized area. The street networks for all of the above mentioned levels of a state are appended to ensure all the streets in the state are included in the road network graph for that state. 
+  The required street network has been published in OSMnx Street Network Dataverse. For every state, the street networks are available at the scale of city, county, neighbourhood, tract and urbanized area. The street networks for all of the above mentioned levels of a state are appended to ensure all the streets in the state are included in the road network graph for that state. 
 
 **Example: Constructing the road network of MA:** Download all the node_edge_lists zip files for MA from [here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/CUWWYJ), and run `1_road_network.py` to get the final road network for MA.
 
