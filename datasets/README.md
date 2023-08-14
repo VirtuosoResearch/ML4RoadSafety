@@ -1,25 +1,13 @@
 # Data Collection Process
 
-We have meticulously documented our data collection process, providing valuable insights into how we processed accidents and road networks using publicly available sources. This information serves as a reference for researchers and practitioners interested in analyzing traffic accidents.
-
-We describe the collection procedure for each data source for Massachussetts (MA), including:
+We document our data collection process using publicly available sources, including:
 - Traffic accident records
 - Road networks
 - Road network features, including traffic volume reports, weather conditions, and other graph structural features
 
-The same procedure can be replicated for other states.
+To reproduce the data for a state, download the data for each feature and save these in the same local repository. We describe the steps needed to generate the processed graphs, also giving instructions on how to run the code for MA, which can be replicated for other states.
 
-
-## Reproduction
-
-To reproduce the data for a state, download the data for each feature and save these in the same local repository. Run the dataset codes in the numerical order to get the processed files as deposited in https://dataverse.harvard.edu/privateurl.xhtml?token=add1d658-0e71-4007-9735-7976efb8de5e .
-
-
-## Step-By-Step Tutorial
-
-We describe the steps needed to generate the processed graphs, also giving instructions on how to run the code for MA, which can be replicated for other states.
-
-### Constructing road networks:
+### Constructing road networks
 
 The road network is created as a graph where the nodes and edges are defined as below:
 
@@ -28,12 +16,11 @@ Intersection of roads (latitude and longitude)
 - **Edge:**
 Road (length, name, type of road, etc)
 
-- **OSMnx Street Network Dataverse:**
+- **OSMnx Street Network Dataverse**
   
-  The required street network has been published in OSMnx Street Network Dataverse in 2017. For every state, the street networks are available at the scale of city, county, neighbourhood, tract and urbanized area. The street networks for all of the above mentioned levels of a state are appended to ensure all the streets in the state are included in the road network graph for that state. 
+  The required street network has been published in OSMnx Street Network Dataverse. For every state, the street networks are available at the scale of city, county, neighbourhood, tract and urbanized area. The street networks for all of the above mentioned levels of a state are appended to ensure all the streets in the state are included in the road network graph for that state. 
 
-**Example: Constructing the road network of MA:**
-Download all the node_edge_lists zip files for MA from [here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/CUWWYJ), and run `1_Road_Network.py` to get the final road network for MA.
+**Example: Constructing the road network of MA:** Download all the node_edge_lists zip files for MA from [here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/CUWWYJ), and run `1_road_network.py` to get the final road network for MA.
 
 
 ### Collecting traffic accident records
@@ -59,21 +46,15 @@ Here is a summary of the records collected for every state:
 8. Nevada (NV): 237,338 accident records from Jan 1 2016 to Dec 31 2020
 
 
-**Example: Processing accident records from MA:**
-Download the yearwise crash reports of MA from [here](https://geo-massdot.opendata.arcgis.com/search?collection=Dataset&q=crash), and run `2_Concatenate_Yearly_Crash.py` and `3_Extract_Nearest_Street.py` to get the processed accident records for MA.
+**Example: Processing accident records from MA:** Download the yearwise crash reports of MA from [here](https://geo-massdot.opendata.arcgis.com/search?collection=Dataset&q=crash), and run `2_concatenate_yearly_crash.py` and `3_extract_nearest_street.py` to get the processed accident records for MA.
 
-### Collecting road network features:
+### Collecting road network features
 
 The weather data is extracted using meteostat api. For every node (intersection) in the state, the historical weather data is extracted corresponding to the data recorded at the nearest station to that node.  
 
-**Example: Processing road network features for MA:**
-Run `4_Get_Weather.py` to extract the historical weather data for all nodes in MA.
+**Example: Processing road network features for MA:** Run `4_get_weather.py` to extract the historical weather data for all nodes in MA.
 
-### Collecting traffic volume:
-
-The traffic volume data is extracted from the data published by the Department of Transportation (DOT) of every state and is measured by Annual Average Daily Traffic (AADT).
-
-Here is a summary of the records collected for every state:
+The traffic volume data is extracted from the data published by the Department of Transportation (DOT) of every state and is measured by Annual Average Daily Traffic (AADT). Here is a summary of the records collected for every state:
 
 1. Delaware (DE): Data available in pdfs and .kmz files at a road level. The corresponding coordinates have been extracted using google maps api.
 
@@ -84,44 +65,34 @@ Here is a summary of the records collected for every state:
 4. Nevada (NV): Historical data available at a coordinate level.
 
 
-**Example: Processing traffic volume records of MA:**
-Download yearly hostorical traffic counts from [here](https://mhd.public.ms2soft.com/tcds/tsearch.asp?loc=Mhd&mod=), and run `5_Get_Coordinates_Traffic.py` and `6_Get_Traffic_Volume.py` to get the processed AADT counts.
+**Example: Processing traffic volume records of MA:** Download yearly hostorical traffic counts from [here](https://mhd.public.ms2soft.com/tcds/tsearch.asp?loc=Mhd&mod=), and run `5_get_coordinates_traffic.py` and `6_get_traffic_volume.py` to get the processed AADT counts.
 
-
-### Collecting road network features:
-
-Besides, the following structural features have been calculated which would help in improving the performance of the model:
-
-- Node degree
-- Betweenness Centrality
-- Node position: Latitude and longitude
+Besides, the following structural features have been calculated which would help in improving the performance of the model: Node degree, betweenness centrality, and node position (latitude and longitude).
 
 ### Alignment of network labels and features 
 
 Lastly, to generate the final graphs and labels, we need to map all the above generated features to the road network of that state and process it in the necessary format for modelling.
 
-**Example: Mapping accidents to the road network of MA:**
-Run `7_Dataset_Creation.py` to get the final processed graphs as deposited [here](https://dataverse.harvard.edu/privateurl.xhtml?token=add1d658-0e71-4007-9735-7976efb8de5e).
+**Example: Mapping accidents to the road network of MA:** Run `7_dataset_creation.py` to get the final processed graphs as deposited [here](https://dataverse.harvard.edu/privateurl.xhtml?token=add1d658-0e71-4007-9735-7976efb8de5e).
 
+### Conclusion
 
-### Format of the Final Graphs
-
-Finally, the processed dataset is stored in a structure as follows. For example, for the state of MA:
+Finally, the processed dataset is stored in a structure as follows. For example, for the state of MA, the directory looks like the following:
 
 ```
---MA/
+--MA/                         # take the Massachusetts state for an example
   |
   ---- adj_matrix.pt          # the sparse adjacency matrix of the road network
   |
   ---- accidents_monthly.csv  # all accidents spanning multiple years and aggregated in months
   |
-  ---- Nodes/                 # the node features, including weather information in every month
+  ---- Nodes/                 # the node features, including weather information every month
   |     |
   |     ---- node_features_{year}_{month}.pt # weather information of a particular month
   |     |
   |     ---- ...
   |
-  ---- Edges/                 # the edge features, including road and traffic volume information (if available)
+  ---- Edges/                 # the edge features, including road and traffic volume information if available
         |
         ---- edge_features.pt                # edge features describing the road information
         |
@@ -130,10 +101,4 @@ Finally, the processed dataset is stored in a structure as follows. For example,
         ---- ...
 ```
 
-
-
-
-
-
-
-
+Find the processed files at this [repository](https://dataverse.harvard.edu/privateurl.xhtml?token=add1d658-0e71-4007-9735-7976efb8de5e)!
