@@ -45,7 +45,7 @@ def main(args):
         model.load_state_dict(
             torch.load(os.path.join(load_model_dir, args.load_model_name), map_location=device)
         )
-        print("Loaded model from successfully!")
+        print("Loaded model successfully!")
     feature_channels = in_channels_node if args.encoder == "none" else args.hidden_channels
     if_regression = args.train_accident_regression or args.train_volume_regression
     predictor = LinkPredictor(in_channels=feature_channels*2 + in_channels_edge, 
