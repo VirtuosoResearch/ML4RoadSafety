@@ -6,7 +6,7 @@ from torch.utils.data import DataLoader
 from logger import Logger
 import os
 from trainers import *
-from models import LinkPredictor, GNN, Identity
+from models import LinkPredictor, GNN, Identity, GraphWaveNet
 from evaluators import Evaluator
 from data_loaders import TrafficAccidentDataset
 import time
@@ -36,6 +36,10 @@ def main(args):
 
     if args.encoder == "none":
         model = Identity().to(device)
+    if args.encoder == "graph_wavenet":
+        model = GraphWaveNet(num_nodes=data.num_nodes, 
+                             in_channels_node=in_channels_node, in_channels_edge=in_channels_edge, out_channels=args.hidden_channels, out_timesteps = 1, 
+                             dropout=args.dropout, skip_channels=args.hidden_channels, end_channels=args.hidden_channels).to(device)
     else:
         model = GNN(in_channels_node, in_channels_edge, hidden_channels=args.hidden_channels, 
                     num_layers=args.num_gnn_layers, dropout=args.dropout,
@@ -80,7 +84,8 @@ def main(args):
                             batch_size = args.batch_size,
                             eval_steps=args.eval_steps,
                             device = device,
-                            log_metrics=['MAE', 'MSE'])
+                            log_metrics=['MAE', 'MSE'], 
+                            use_time_series=args.use_time_series, input_time_steps=args.input_time_steps)
         else:
             trainer = Trainer(model, predictor, dataset, optimizer, evaluator,
                             train_years = args.train_years,
@@ -90,7 +95,8 @@ def main(args):
                             batch_size = args.batch_size,
                             eval_steps=args.eval_steps,
                             device = device,
-                            log_metrics=['ROC-AUC', 'F1', 'AP', 'Recall', 'Precision'])
+                            log_metrics=['ROC-AUC', 'F1', 'AP', 'Recall', 'Precision'],
+                            use_time_series=args.use_time_series, input_time_steps=args.input_time_steps)
             
         log = trainer.train()
 
@@ -148,6 +154,9 @@ if __name__ == "__main__":
     parser.add_argument('--load_static_edge_features', action='store_true')
     parser.add_argument('--load_dynamic_node_features', action='store_true')
     parser.add_argument('--load_dynamic_edge_features', action='store_true')
+    # Time Series Arguments
+    parser.add_argument('--use_time_series', action='store_true')
+    parser.add_argument('--input_time_steps', type=int, default=4)
     args = parser.parse_args()
     print(args)
     main(args)

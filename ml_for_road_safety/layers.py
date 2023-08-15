@@ -11,7 +11,7 @@ class GCNConv(MessagePassing):
 
     def __init__(self, in_channels_node, in_channels_edge, out_channels, aggr = "add"):
         super(GCNConv, self).__init__()
-
+        self.out_channels = out_channels
         self.linear_node = torch.nn.Linear(in_channels_node, out_channels)
         self.linear_edge = torch.nn.Linear(in_channels_edge, out_channels)
         self.aggr = aggr

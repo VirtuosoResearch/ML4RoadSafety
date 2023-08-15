@@ -11,7 +11,8 @@ class Trainer:
     def __init__(self, model, predictor, dataset, optimizer, evaluator,
                  train_years, valid_years, test_years,
                  epochs, batch_size, eval_steps, device,
-                 log_metrics = ['ROC-AUC', 'F1', 'AP', 'Recall', 'Precision']):
+                 log_metrics = ['ROC-AUC', 'F1', 'AP', 'Recall', 'Precision'],
+                 use_time_series = False, input_time_steps = 12):
         self.model = model
         self.predictor = predictor
         self.dataset = dataset
@@ -31,8 +32,28 @@ class Trainer:
             key: Logger(runs=1) for key in log_metrics
         }
 
+        self.use_time_series = use_time_series
+        self.input_time_steps = input_time_steps
+
     def train_on_month_data(self, year, month): 
         monthly_data = self.dataset.load_monthly_data(year, month)
+
+        # load previous months 
+        if self.use_time_series:
+            list_x = [monthly_data['data'].x]; cur_year = year; cur_month = month
+            feature_dim = monthly_data['data'].x.size(1)
+            for i in range(self.input_time_steps):
+                cur_month -= 1
+                if cur_month == 0:
+                    cur_year -= 1
+                    cur_month = 12
+                prev_monthly_data = self.dataset.load_monthly_data(year, month)
+                if prev_monthly_data['data'].x.shape[1] != feature_dim:
+                    continue
+                list_x.append(prev_monthly_data['data'].x)
+            inputs = torch.stack(list_x, dim=0).unsqueeze(0)
+        else:
+            inputs = monthly_data['data'].x
 
         new_data = monthly_data['data']
         pos_edges, pos_edge_weights, neg_edges = \
@@ -45,9 +66,11 @@ class Trainer:
         self.predictor.train()
 
         # encoding
-        new_data = new_data.to(self.device)
+        new_data = new_data.to(self.device); inputs = inputs.to(self.device)
         edge_attr = new_data.edge_attr
-        h = self.model(new_data.x, new_data.edge_index, edge_attr)
+        h = self.model(inputs, new_data.edge_index, edge_attr)
+        if len(h.size()) > 2:
+            h = h.squeeze(0).squeeze(0)
 
         # predicting
         pos_train_edge = pos_edges.to(self.device)
@@ -85,6 +108,23 @@ class Trainer:
     def test_on_month_data(self, year, month):
         monthly_data = self.dataset.load_monthly_data(year, month)
 
+        # load previous months 
+        if self.use_time_series:
+            list_x = [monthly_data['data'].x]; cur_year = year; cur_month = month
+            feature_dim = monthly_data['data'].x.size(1)
+            for i in range(self.input_time_steps):
+                cur_month -= 1
+                if cur_month == 0:
+                    cur_year -= 1
+                    cur_month = 12
+                prev_monthly_data = self.dataset.load_monthly_data(year, month)
+                if prev_monthly_data['data'].x.shape[1] != feature_dim:
+                    continue
+                list_x.append(prev_monthly_data['data'].x)
+            inputs = torch.stack(list_x, dim=0).unsqueeze(0)
+        else:
+            inputs = monthly_data['data'].x
+
         new_data = monthly_data['data']
         pos_edges, pos_edge_weights, neg_edges = \
             monthly_data['accidents'], monthly_data['accident_counts'], monthly_data['neg_edges']
@@ -99,8 +139,10 @@ class Trainer:
         self.predictor.eval()
 
         # encoding
-        new_data = new_data.to(self.device)
-        h = self.model(new_data.x, new_data.edge_index, new_data.edge_attr)
+        new_data = new_data.to(self.device); inputs = inputs.to(self.device)
+        h = self.model(inputs, new_data.edge_index, new_data.edge_attr)
+        if len(h.size()) > 2:
+            h = h.squeeze(0).squeeze(0)
         edge_attr = new_data.edge_attr
 
         # predicting

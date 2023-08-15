@@ -1,207 +1,260 @@
+from functools import reduce
+from operator import mul
+
 import torch
-import torch.nn as nn
-import torch.nn.functional as F
+from torch import nn
+from torch.nn import functional as F
 
-class nconv(nn.Module):
-    def __init__(self):
-        super(nconv,self).__init__()
+from torch_geometric.data import Data
+from torch_geometric.loader import DataLoader
+from torch_geometric.nn import DenseGCNConv
+from layers import GCNConv
 
-    def forward(self,x, A):
-        x = torch.einsum('ncvl,vw->ncwl',(x,A))
-        return x.contiguous()
 
-class linear(nn.Module):
-    def __init__(self,c_in,c_out):
-        super(linear,self).__init__()
-        self.mlp = torch.nn.Conv2d(c_in, c_out, kernel_size=(1, 1), padding=(0,0), stride=(1,1), bias=True)
+class GraphWaveNet(nn.Module):
+    r""" GraphWaveNet implementation from the
+    `Graph WaveNet for Deep Spatial-Temporal Graph Modeling
+    <https://arxiv.org/abs/1906.00121>`_ paper. The model takes a list of
+    node embeddings across several time steps and predicts the output
+    embeddings for the specified number of upcoming time steps.
 
-    def forward(self,x):
-        return self.mlp(x)
+    .. note::
+        For examples of the GraphWaveNet layer, see
+        `examples/contrib/graphwavenet/main.py
+        <https://github.com/pyg-team/pytorch_geometric/blob/master/examples/
+        contrib/graphwavenet/main.py>`_ .
 
-class gcn(nn.Module):
-    def __init__(self,c_in,c_out,dropout,support_len=3,order=2):
-        super(gcn,self).__init__()
-        self.nconv = nconv()
-        c_in = (order*support_len+1)*c_in
-        self.mlp = linear(c_in,c_out)
+    Args:
+        num_nodes (int): Number of nodes in the input graph.
+        in_channels (int): Size of each input sample.
+        out_channels (int): Size of each output sample.
+        out_timesteps (int): The number of time steps for which predictions
+            are generated.
+        dilations (list(int), optional): The set of dilations applied by each
+            temporal convolution layer. For each dilation :obj:`d`, the
+            temporal convolution captures information from :obj:`d` time steps
+            prior. (default: :obj:`[1, 2, 1, 2, 1, 2, 1, 2]`)
+        adaptive_embeddings (int, optional): The size of the embeddings used
+            to calculate the adaptive matrix. (default: :obj:`10`)
+        dropout (float, optional): Dropout probability. (default: :obj:`0.3`)
+        residual_channels (int, optional): Number of residual channels
+            (default: :obj:`32`)
+        dilation_channels (int, optional): Number of dilation channels
+            (default: :obj:`32`)
+        skip_channels (int, optional): Number of skip layer channels
+            (default: :obj:`256`)
+        end_channels (int, optional): Size of the final linear layer
+            (default: :obj:`512`)
+
+    """
+    def __init__(self, num_nodes, in_channels_node, in_channels_edge, out_channels, out_timesteps,
+                 dilations=[1, 2, 1, 2, 1, 2, 1, 2], adptive_embeddings=10,
+                 dropout=0.3, residual_channels=32, dilation_channels=32,
+                 skip_channels=256, end_channels=256):
+
+        super(GraphWaveNet, self).__init__()
+
+        self.total_dilation = sum(dilations)
+        self.num_dilations = len(dilations)
+        self.num_nodes = num_nodes
+
         self.dropout = dropout
-        self.order = order
 
-    def forward(self,x,support):
-        out = [x]
-        for a in support:
-            x1 = self.nconv(x,a)
-            out.append(x1)
-            for k in range(2, self.order + 1):
-                x2 = self.nconv(x1,a)
-                out.append(x2)
-                x1 = x2
+        self.e1 = nn.Parameter(torch.randn(num_nodes, adptive_embeddings),
+                               requires_grad=True)
+        self.e2 = nn.Parameter(torch.randn(adptive_embeddings, num_nodes),
+                               requires_grad=True)
 
-        h = torch.cat(out,dim=1)
-        h = self.mlp(h)
-        h = F.dropout(h, self.dropout, training=self.training)
-        return h
+        self.input = nn.Conv2d(in_channels=in_channels_node,
+                               out_channels=residual_channels,
+                               kernel_size=(1, 1))
 
-
-class gwnet(nn.Module):
-    def __init__(self, device, num_nodes, dropout=0.3, supports=None, gcn_bool=True, addaptadj=True, aptinit=None, in_dim=2,out_dim=12,residual_channels=32,dilation_channels=32,skip_channels=256,end_channels=512,kernel_size=2,blocks=4,layers=2):
-        super(gwnet, self).__init__()
-        self.dropout = dropout
-        self.blocks = blocks
-        self.layers = layers
-        self.gcn_bool = gcn_bool
-        self.addaptadj = addaptadj
-
-        self.filter_convs = nn.ModuleList()
-        self.gate_convs = nn.ModuleList()
-        self.residual_convs = nn.ModuleList()
-        self.skip_convs = nn.ModuleList()
+        self.tcn_a = nn.ModuleList()
+        self.tcn_b = nn.ModuleList()
+        self.gcn = nn.ModuleList()
+        self.gcn_adp = nn.ModuleList()
         self.bn = nn.ModuleList()
-        self.gconv = nn.ModuleList()
+        self.skip = nn.ModuleList()
 
-        self.start_conv = nn.Conv2d(in_channels=in_dim,
-                                    out_channels=residual_channels,
-                                    kernel_size=(1,1))
-        self.supports = supports
+        self.out_timesteps = out_timesteps
+        self.out_channels = out_channels
 
-        receptive_field = 1
+        for d in dilations:
+            self.tcn_a.append(
+                nn.Conv2d(in_channels=residual_channels,
+                          out_channels=dilation_channels, kernel_size=(1, 2),
+                          dilation=d))
 
-        self.supports_len = 0
-        if supports is not None:
-            self.supports_len += len(supports)
+            self.tcn_b.append(
+                nn.Conv2d(in_channels=residual_channels,
+                          out_channels=dilation_channels, kernel_size=(1, 2),
+                          dilation=d))
 
-        if gcn_bool and addaptadj:
-            if aptinit is None:
-                if supports is None:
-                    self.supports = []
-                self.nodevec1 = nn.Parameter(torch.randn(num_nodes, 10).to(device), requires_grad=True).to(device)
-                self.nodevec2 = nn.Parameter(torch.randn(10, num_nodes).to(device), requires_grad=True).to(device)
-                self.supports_len +=1
-            else:
-                if supports is None:
-                    self.supports = []
-                m, p, n = torch.svd(aptinit)
-                initemb1 = torch.mm(m[:, :10], torch.diag(p[:10] ** 0.5))
-                initemb2 = torch.mm(torch.diag(p[:10] ** 0.5), n[:, :10].t())
-                self.nodevec1 = nn.Parameter(initemb1, requires_grad=True).to(device)
-                self.nodevec2 = nn.Parameter(initemb2, requires_grad=True).to(device)
-                self.supports_len += 1
+            # GCNConv is used for performing graph convolutions over the
+            # normal adjacency matrix
+            self.gcn.append(
+                GCNConv(in_channels_node=dilation_channels,
+                        in_channels_edge=in_channels_edge,
+                        out_channels=residual_channels))
 
+            # Since the adaptive matrix is a softmax output, it represents a
+            # dense graph
+            # For fast training and inference, we use a DenseGCNConv layer
+            # self.gcn_adp.append(
+            #     DenseGCNConv(in_channels=dilation_channels,
+            #                  out_channels=residual_channels))
 
+            self.skip.append(
+                nn.Conv2d(in_channels=residual_channels,
+                          out_channels=skip_channels, kernel_size=(1, 1)))
+            self.bn.append(nn.BatchNorm2d(residual_channels))
 
+        self.end1 = nn.Conv2d(in_channels=skip_channels,
+                              out_channels=end_channels, kernel_size=(1, 1))
+        self.end2 = nn.Conv2d(in_channels=end_channels,
+                              out_channels=out_channels * out_timesteps,
+                              kernel_size=(1, 1))
 
-        for b in range(blocks):
-            additional_scope = kernel_size - 1
-            new_dilation = 1
-            for i in range(layers):
-                # dilated convolutions
-                self.filter_convs.append(nn.Conv2d(in_channels=residual_channels,
-                                                   out_channels=dilation_channels,
-                                                   kernel_size=(1,kernel_size),dilation=new_dilation))
+    def forward(self, x, edge_index, edge_weight=None):
+        r"""
+        The forward pass for the GraphWaveNet
 
-                self.gate_convs.append(nn.Conv1d(in_channels=residual_channels,
-                                                 out_channels=dilation_channels,
-                                                 kernel_size=(1, kernel_size), dilation=new_dilation))
+        Args:
+            x (torch.Tensor): The temporal node features of shape
+                :math:`(*, t_{input}, |\mathcal{V}|, F_{in})`
+            edge_index (torch.Tensor): The edge indices
+                of shape :math:`(2, |\mathcal{E}|)`
+            edge_weight (torch.Tensor, optional): The edge weights
+                shape of :math:`(|\mathcal{E}|)` (default: :obj:`None`)
 
-                # 1x1 convolution for residual connection
-                self.residual_convs.append(nn.Conv1d(in_channels=dilation_channels,
-                                                     out_channels=residual_channels,
-                                                     kernel_size=(1, 1)))
+        Return types:
+            * **x** (*torch.Tensor*): Predicted temporal node features of shape
+              :math:`(*, t_{output}, |\mathcal{V}|, F_{out})`
+        """
 
-                # 1x1 convolution for skip connection
-                self.skip_convs.append(nn.Conv1d(in_channels=dilation_channels,
-                                                 out_channels=skip_channels,
-                                                 kernel_size=(1, 1)))
-                self.bn.append(nn.BatchNorm2d(residual_channels))
-                new_dilation *=2
-                receptive_field += additional_scope
-                additional_scope *= 2
-                if self.gcn_bool:
-                    self.gconv.append(gcn(dilation_channels,residual_channels,dropout,support_len=self.supports_len))
+        # Both batched and unbatched input is supported
+        # In the case of a single batch, the input is broadcast
+        is_batched = True
+        if len(x.size()) == 3:
+            is_batched = False
+            x = torch.unsqueeze(x, dim=0)
 
+        batch_size = x.size()[:-3]
+        input_timesteps = x.size(-3)
 
+        x = x.transpose(-1, -3)
 
-        self.end_conv_1 = nn.Conv2d(in_channels=skip_channels,
-                                  out_channels=end_channels,
-                                  kernel_size=(1,1),
-                                  bias=True)
+        # If the dilation steps require a larger number of input time steps,
+        # padding is performed
+        if self.total_dilation + 1 > input_timesteps:
+            x = F.pad(x, (self.total_dilation - input_timesteps + 1, 0))
 
-        self.end_conv_2 = nn.Conv2d(in_channels=end_channels,
-                                    out_channels=out_dim,
-                                    kernel_size=(1,1),
-                                    bias=True)
+        x = self.input(x)
 
-        self.receptive_field = receptive_field
+        # The adaptive adjacency matrix is the product of 2 learnable
+        # embedding matrices
+        # ReLU is used toeliminate weak connections
+        # SoftMax function is applied to normalize the self-adaptive adjacency
+        # matrix
+        # adp = F.softmax(F.relu(torch.mm(self.e1, self.e2)), dim=1)
 
+        skip_out = None
 
-
-    def forward(self, input):
-        in_len = input.size(3)
-        if in_len<self.receptive_field:
-            x = nn.functional.pad(input,(self.receptive_field-in_len,0,0,0))
-        else:
-            x = input
-        x = self.start_conv(x)
-        skip = 0
-
-        # calculate the current adaptive adj matrix once per iteration
-        new_supports = None
-        if self.gcn_bool and self.addaptadj and self.supports is not None:
-            adp = F.softmax(F.relu(torch.mm(self.nodevec1, self.nodevec2)), dim=1)
-            new_supports = self.supports + [adp]
-
-        # WaveNet layers
-        for i in range(self.blocks * self.layers):
-
-            #            |----------------------------------------|     *residual*
-            #            |                                        |
-            #            |    |-- conv -- tanh --|                |
-            # -> dilate -|----|                  * ----|-- 1x1 -- + -->	*input*
-            #                 |-- conv -- sigm --|     |
-            #                                         1x1
-            #                                          |
-            # ---------------------------------------> + ------------->	*skip*
-
-            #(dilation, init_dilation) = self.dilations[i]
-
-            #residual = dilation_func(x, dilation, init_dilation, i)
+        for k in range(self.num_dilations):
             residual = x
-            # dilated convolution
-            filter = self.filter_convs[i](residual)
-            filter = torch.tanh(filter)
-            gate = self.gate_convs[i](residual)
-            gate = torch.sigmoid(gate)
-            x = filter * gate
 
-            # parametrized skip connection
+            # TCN layer
+            g1 = self.tcn_a[k](x)
+            g1 = torch.tanh(g1)
 
-            s = x
-            s = self.skip_convs[i](s)
-            try:
-                skip = skip[:, :, :,  -s.size(3):]
-            except:
-                skip = 0
-            skip = s + skip
+            g2 = self.tcn_b[k](x)
+            g2 = torch.sigmoid(g2)
 
+            g = g1 * g2
 
-            if self.gcn_bool and self.supports is not None:
-                if self.addaptadj:
-                    x = self.gconv[i](x, new_supports)
-                else:
-                    x = self.gconv[i](x,self.supports)
+            # The skip connection output is aggregated before the GCN layer
+            skip_cur = self.skip[k](g)
+
+            if skip_out is None:
+                skip_out = skip_cur
             else:
-                x = self.residual_convs[i](x)
+                # Since dilation reduces the number of time steps,
+                # only the required number of latest time steps are considered
+                skip_out = skip_out[..., -skip_cur.size(-1):] + skip_cur
 
-            x = x + residual[:, :, :, -x.size(3):]
+            g = g.transpose(-1, -3)
 
+            timesteps = g.size(-3)
+            g = g.reshape(reduce(mul, g.size()[:-2]), *g.size()[-2:])
 
-            x = self.bn[i](x)
+            # The data for several time steps in batched into a single batch
+            # This helps speed up the model by passing a single large batch to
+            # the GCN
+            data = self.__batch_timesteps__(g, edge_index,
+                                            edge_weight).to(g.device)
 
-        x = F.relu(skip)
-        x = F.relu(self.end_conv_1(x))
-        x = self.end_conv_2(x)
+            # GCN layer
+            # One GCN is for the actual adjacency matrix
+            # The other GCN is for the adaptive matrix
+            gcn_out = self.gcn[k](data.x, data.edge_index, data.edge_attr if data.edge_attr is not None else None)
+            gcn_out = gcn_out.reshape(*batch_size, timesteps, -1,
+                                      self.gcn[k].out_channels)
+
+            # gcn_out_adp = self.gcn_adp[k](g, adp)
+            # gcn_out_adp = gcn_out_adp.reshape(*batch_size, timesteps, -1,
+            #                                   self.gcn[k].out_channels)
+
+            x = gcn_out # + gcn_out_adp
+
+            x = F.dropout(x, p=self.dropout)
+
+            x = x.transpose(-3, -1)
+
+            # The residual connection is fed to the next spatial-temporal layer
+            x = x + residual[..., -x.size(-1):]
+            x = self.bn[k](x)
+
+        skip_out = skip_out[..., -1:]
+
+        x = torch.relu(skip_out)
+
+        # Final linear layer
+        x = self.end1(x)
+        x = torch.relu(x)
+
+        # Transforming the output to the appropriate number of channels
+        # (out_timesteps * self.out_channels)
+        x = self.end2(x)
+
+        # The output is reshaped into the expected final shape
+        if is_batched:
+            x = x.reshape(*batch_size, self.out_timesteps, self.out_channels,
+                          self.num_nodes).transpose(-1, -2)
+        else:
+            x = x.reshape(self.out_timesteps, self.out_channels,
+                          self.num_nodes).transpose(-1, -2)
+
         return x
 
+    def __batch_timesteps__(self, x, edge_index, edge_weight=None):
+        r"""
+        This method batches the data for several time steps into a single batch
+        """
+        edge_index = edge_index.expand(x.size(0), *edge_index.shape)
 
+        if edge_weight is not None:
+            edge_weight = edge_weight.expand(x.size(0), *edge_weight.shape)
 
+        if edge_weight is not None:
+            dataset = [
+                Data(x=_x, edge_index=e_i, edge_attr=e_w)
+                for _x, e_i, e_w in zip(x, edge_index, edge_weight)
+            ]
+        else:
+            dataset = [
+                Data(x=_x, edge_index=e_i)
+                for _x, e_i in zip(x, edge_index)
+            ]
+        loader = DataLoader(dataset=dataset, batch_size=x.size(0))
 
+        return next(iter(loader))
