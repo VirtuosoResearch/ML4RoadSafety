@@ -25,7 +25,7 @@ class AccidentRegressionTrainer(Trainer):
         if self.use_time_series:
             list_x = [monthly_data['data'].x]; cur_year = year; cur_month = month
             feature_dim = monthly_data['data'].x.size(1)
-            for i in range(self.input_time_steps):
+            for i in range(self.input_time_steps-1):
                 cur_month -= 1
                 if cur_month == 0:
                     cur_year -= 1
@@ -51,8 +51,10 @@ class AccidentRegressionTrainer(Trainer):
         # encoding
         new_data = new_data.to(self.device); inputs = inputs.to(self.device)
         h = self.model(inputs, new_data.edge_index, new_data.edge_attr)
-        if len(h.size()) > 2:
-            h = h.squeeze(0).squeeze(0)
+        if len(h.size()) == 4:
+            h = h.squeeze(0)[-1, :, :]
+        if len(h.size()) == 3:
+            h = h[-1, :, :]
         edge_attr = new_data.edge_attr
 
         # predicting
@@ -94,7 +96,7 @@ class AccidentRegressionTrainer(Trainer):
         if self.use_time_series:
             list_x = [monthly_data['data'].x]; cur_year = year; cur_month = month
             feature_dim = monthly_data['data'].x.size(1)
-            for i in range(self.input_time_steps):
+            for i in range(self.input_time_steps-1):
                 cur_month -= 1
                 if cur_month == 0:
                     cur_year -= 1
@@ -123,8 +125,10 @@ class AccidentRegressionTrainer(Trainer):
         # encoding
         new_data = new_data.to(self.device); inputs = inputs.to(self.device)
         h = self.model(inputs, new_data.edge_index, new_data.edge_attr)
-        if len(h.size()) > 2:
-            h = h.squeeze(0).squeeze(0)
+        if len(h.size()) == 4:
+            h = h.squeeze(0)[-1, :, :]
+        if len(h.size()) == 3:
+            h = h[-1, :, :]
         edge_attr = new_data.edge_attr
 
         # predicting

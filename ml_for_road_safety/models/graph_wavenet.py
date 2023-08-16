@@ -48,7 +48,7 @@ class GraphWaveNet(nn.Module):
 
     """
     def __init__(self, num_nodes, in_channels_node, in_channels_edge, out_channels, out_timesteps,
-                 dilations=[1, 2, 1, 2, 1, 2, 1, 2], adptive_embeddings=10,
+                 dilations=[1, 2, 1, 2, 1, 2], adptive_embeddings=10,
                  dropout=0.3, residual_channels=32, dilation_channels=32,
                  skip_channels=256, end_channels=256):
 

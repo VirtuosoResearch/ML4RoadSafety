@@ -6,7 +6,7 @@ from torch.utils.data import DataLoader
 from logger import Logger
 import os
 from trainers import *
-from models import LinkPredictor, GNN, Identity, GraphWaveNet
+from models import LinkPredictor, GNN, Identity, GraphWaveNet, AGCRN_Model
 from evaluators import Evaluator
 from data_loaders import TrafficAccidentDataset
 import time
@@ -36,10 +36,14 @@ def main(args):
 
     if args.encoder == "none":
         model = Identity().to(device)
-    if args.encoder == "graph_wavenet":
+    elif args.encoder == "graph_wavenet":
         model = GraphWaveNet(num_nodes=data.num_nodes, 
                              in_channels_node=in_channels_node, in_channels_edge=in_channels_edge, out_channels=args.hidden_channels, out_timesteps = 1, 
                              dropout=args.dropout, skip_channels=args.hidden_channels, end_channels=args.hidden_channels).to(device)
+    elif args.encoder == "agcrn":
+        model = AGCRN_Model(in_channels_node, in_channels_edge, hidden_channels=args.hidden_channels, 
+                    num_layers=args.num_gnn_layers, dropout=args.dropout,
+                    JK = args.jk_type, num_nodes=data.num_nodes).to(device)
     else:
         model = GNN(in_channels_node, in_channels_edge, hidden_channels=args.hidden_channels, 
                     num_layers=args.num_gnn_layers, dropout=args.dropout,
