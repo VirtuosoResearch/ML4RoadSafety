@@ -6,7 +6,7 @@ import torch.nn.functional as F
 class Evaluator:
 
     def __init__(self, type="regression"):
-        self.criterion = F.l1_loss if type == "regression" else F.binary_cross_entropy_with_logits
+        self.criterion = F.l1_loss if type == "regression" else F.binary_cross_entropy
         self.eval = eval_mae if type == "regression" else eval_rocauc
     
 def eval_rocauc(y_pred_pos, y_pred_neg):
