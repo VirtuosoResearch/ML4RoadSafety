@@ -40,8 +40,8 @@ class GNN(torch.nn.Module):
                 self.gnns.append(GATConv(tmp_in_channels_node, in_channels_edge, hidden_channels))
             elif gnn_type == "dcrnn":
                 self.gnns.append(DCRNN(tmp_in_channels_node, hidden_channels, K=1))
-            elif gnn_type == "tgcn":
-                self.gnns.append(TGCN(tmp_in_channels_node, hidden_channels))
+            # elif gnn_type == "tgcn":
+            #     self.gnns.append(TGCN(tmp_in_channels_node, hidden_channels))
             # elif gnn_type == "stgcn":
             #     self.gnns.append(STConv(num_nodes, tmp_in_channels_node, hidden_channels, hidden_channels, 1, 1))
             else:

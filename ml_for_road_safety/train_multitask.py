@@ -7,7 +7,7 @@ from logger import Logger
 
 from trainers import *
 from trainers.multitask_trainer import state_to_train_years
-from models import LinkPredictor, GNN, Identity
+from models import LinkPredictor, GNN, Identity, GraphWaveNet, AGCRN_Model, STGCN
 from evaluators import Evaluator
 from data_loaders import TrafficAccidentDataset
 import time
@@ -58,11 +58,22 @@ def main(args):
     # define encoder
     if args.encoder == "none":
         model = Identity().to(device)
+    elif args.encoder == "graph_wavenet":
+        model = GraphWaveNet(num_nodes=data.num_nodes, 
+                             in_channels_node=in_channels_node, in_channels_edge=in_channels_edge, out_channels=args.hidden_channels, out_timesteps = 1, 
+                             dropout=args.dropout, skip_channels=args.hidden_channels, end_channels=args.hidden_channels).to(device)
+    elif args.encoder == "agcrn":
+        model = AGCRN_Model(in_channels_node, in_channels_edge, hidden_channels=args.hidden_channels, 
+                    num_layers=args.num_gnn_layers, dropout=args.dropout,
+                    JK = args.jk_type, num_nodes=data.num_nodes).to(device)
+    elif args.encoder == "stgcn":
+        model = STGCN(in_channels_node, in_channels_edge, hidden_channels=args.hidden_channels, 
+                    num_layers=2, dropout=args.dropout,
+                    JK = args.jk_type, num_nodes=data.num_nodes).to(device)
     else:
-        # assert in_channels_edge and in_channels_node are same across tasks
         model = GNN(in_channels_node, in_channels_edge, hidden_channels=args.hidden_channels, 
                     num_layers=args.num_gnn_layers, dropout=args.dropout,
-                    JK = args.jk_type, gnn_type = args.encoder).to(device)
+                    JK = args.jk_type, gnn_type = args.encoder, num_nodes=data.num_nodes).to(device)
 
 
     # compute mean and std of node & edge features
@@ -87,9 +98,10 @@ def main(args):
                         device = device,
                         save_steps=args.save_steps,
                         checkpoint_dir=checkpoint_dir,
-                        tasks = task_list, task_to_datasets=task_datasets, task_to_evaluators=task_evaluators, task_to_predictors=task_predictors
+                        tasks = task_list, task_to_datasets=task_datasets, task_to_evaluators=task_evaluators, task_to_predictors=task_predictors,
+                        use_time_series=args.use_time_series, input_time_steps=args.input_time_steps
                         )
-            
+        
         log = trainer.train()
         # node_feature_mean, node_feature_std, edge_feature_mean, edge_feature_std = trainer.get_feature_stats()
 
@@ -143,6 +155,9 @@ if __name__ == "__main__":
     # Static node features
     parser.add_argument('--node_feature_type', type=str, default="verse")
     parser.add_argument('--node_feature_name', type=str, default="MA_ppr_128.npy")
+    # Time Series Arguments
+    parser.add_argument('--use_time_series', action='store_true')
+    parser.add_argument('--input_time_steps', type=int, default=4)
     # Other features
     parser.add_argument('--load_static_edge_features', action='store_true')
     parser.add_argument('--load_dynamic_node_features', action='store_true')

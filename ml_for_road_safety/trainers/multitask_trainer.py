@@ -50,7 +50,8 @@ class MultitaskTrainer:
     def __init__(self, model, optimizer, 
                  epochs, batch_size, eval_steps, device, 
                  save_steps, checkpoint_dir,
-                 tasks={}, task_to_datasets={}, task_to_evaluators={}, task_to_predictors={}):
+                 tasks={}, task_to_datasets={}, task_to_evaluators={}, task_to_predictors={},
+                 use_time_series = False, input_time_steps = 12):
         self.model = model
         self.tasks = tasks
         self.task_to_datasets = task_to_datasets
@@ -84,7 +85,8 @@ class MultitaskTrainer:
                             batch_size = batch_size,
                             eval_steps=eval_steps,
                             device = device,
-                            log_metrics=['ROC-AUC', 'F1', 'AP', 'Recall', 'Precision'])
+                            log_metrics=['ROC-AUC', 'F1', 'AP', 'Recall', 'Precision'],
+                            use_time_series = use_time_series, input_time_steps = input_time_steps)
                 elif task_type == "regression":
                     task_trainer =AccidentRegressionTrainer(model, predictor, dataset, optimizer, evaluator,
                             train_years = task_train_years,
@@ -94,7 +96,8 @@ class MultitaskTrainer:
                             batch_size = batch_size,
                             eval_steps=eval_steps,
                             device = device,
-                            log_metrics=['MAE', 'MSE'])
+                            log_metrics=['MAE', 'MSE'],
+                            use_time_series = use_time_series, input_time_steps = input_time_steps)
             else:
                 task_trainer = VolumeRegressionTrainer(model, predictor, dataset, optimizer, evaluator,
                             train_years = task_train_years,
@@ -104,7 +107,8 @@ class MultitaskTrainer:
                             batch_size = batch_size,
                             eval_steps=eval_steps,
                             device = device,
-                            log_metrics=['MAE', 'MSE'])
+                            log_metrics=['MAE', 'MSE'],
+                            use_time_series = use_time_series, input_time_steps = input_time_steps)
                 
             self.task_to_trainers[task_name] = task_trainer
 

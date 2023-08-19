@@ -6,11 +6,12 @@ from torch.utils.data import DataLoader
 from logger import Logger
 import os
 from trainers import *
-from models import LinkPredictor, GNN, Identity, GraphWaveNet, AGCRN_Model
+from models import LinkPredictor, GNN, Identity, GraphWaveNet, AGCRN_Model, STGCN
 from evaluators import Evaluator
 from data_loaders import TrafficAccidentDataset
 import time
 import itertools
+from utils.sam import SAM
 
 def main(args):
     start = time.time()
@@ -43,6 +44,10 @@ def main(args):
     elif args.encoder == "agcrn":
         model = AGCRN_Model(in_channels_node, in_channels_edge, hidden_channels=args.hidden_channels, 
                     num_layers=args.num_gnn_layers, dropout=args.dropout,
+                    JK = args.jk_type, num_nodes=data.num_nodes).to(device)
+    elif args.encoder == "stgcn":
+        model = STGCN(in_channels_node, in_channels_edge, hidden_channels=args.hidden_channels, 
+                    num_layers=2, dropout=args.dropout,
                     JK = args.jk_type, num_nodes=data.num_nodes).to(device)
     else:
         model = GNN(in_channels_node, in_channels_edge, hidden_channels=args.hidden_channels, 
@@ -89,6 +94,46 @@ def main(args):
                             eval_steps=args.eval_steps,
                             device = device,
                             log_metrics=['MAE', 'MSE'], 
+                            use_time_series=args.use_time_series, input_time_steps=args.input_time_steps)
+        elif args.train_supcon:
+            trainer = SupConTrainer(model, predictor, dataset, optimizer, evaluator,
+                            train_years = args.train_years,
+                            valid_years = args.valid_years,
+                            test_years = args.test_years,
+                            epochs=args.epochs,
+                            batch_size = args.batch_size,
+                            eval_steps=args.eval_steps,
+                            device = device,
+                            log_metrics=['ROC-AUC', 'F1', 'AP', 'Recall', 'Precision'],
+                            use_time_series=args.use_time_series, input_time_steps=args.input_time_steps,
+                            supcon_lam=args.supcon_lam, supcon_tmp=args.supcon_tmp)
+        elif args.train_sam:
+            base_optimizer = torch.optim.Adam
+            params = itertools.chain(model.parameters(), predictor.parameters())
+            optimizer = SAM(params, base_optimizer, rho=args.sam_rho, 
+                        adaptive=False, lr=args.lr)
+            trainer = SAMTrainer(model, predictor, dataset, optimizer, evaluator,
+                            train_years = args.train_years,
+                            valid_years = args.valid_years,
+                            test_years = args.test_years,
+                            epochs=args.epochs,
+                            batch_size = args.batch_size,
+                            eval_steps=args.eval_steps,
+                            device = device,
+                            log_metrics=['ROC-AUC', 'F1', 'AP', 'Recall', 'Precision'],
+                            use_time_series=args.use_time_series, input_time_steps=args.input_time_steps)
+        elif args.train_soft_penalty:
+            params = itertools.chain(model.parameters(), predictor.parameters())
+            optimizer = torch.optim.Adam(params, lr=args.lr, weight_decay=args.sp_lambda)
+            trainer = Trainer(model, predictor, dataset, optimizer, evaluator,
+                            train_years = args.train_years,
+                            valid_years = args.valid_years,
+                            test_years = args.test_years,
+                            epochs=args.epochs,
+                            batch_size = args.batch_size,
+                            eval_steps=args.eval_steps,
+                            device = device,
+                            log_metrics=['ROC-AUC', 'F1', 'AP', 'Recall', 'Precision'],
                             use_time_series=args.use_time_series, input_time_steps=args.input_time_steps)
         else:
             trainer = Trainer(model, predictor, dataset, optimizer, evaluator,
@@ -161,6 +206,16 @@ if __name__ == "__main__":
     # Time Series Arguments
     parser.add_argument('--use_time_series', action='store_true')
     parser.add_argument('--input_time_steps', type=int, default=4)
+    # SupCon Arguments
+    parser.add_argument('--train_supcon', action="store_true")
+    parser.add_argument('--supcon_lam', type=float, default=0.9)
+    parser.add_argument('--supcon_tmp', type=float, default=0.3)
+    # SAM Arguments
+    parser.add_argument('--train_sam', action="store_true")
+    parser.add_argument('--sam_rho', type=float, default=0.05)
+    # Soft Penalty Arguments
+    parser.add_argument('--train_soft_penalty', action="store_true")
+    parser.add_argument('--sp_lambda', type=float, default=0.0001)
     args = parser.parse_args()
     print(args)
     main(args)

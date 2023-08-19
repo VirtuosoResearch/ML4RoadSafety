@@ -12,6 +12,7 @@ class VolumeRegressionTrainer:
                  train_years, valid_years, test_years,
                  epochs, batch_size, eval_steps, device,
                  log_metrics = ['MAE', 'MSE'],
+                 use_time_series = False, input_time_steps = 12
                  ): 
         self.model = model
         self.predictor = predictor
@@ -37,8 +38,19 @@ class VolumeRegressionTrainer:
         # if not os.path.exists(self.checkpoint_dir):
         #     os.makedirs(self.checkpoint_dir)
 
+        self.use_time_series = use_time_series
+        self.input_time_steps = input_time_steps
+
     def train_on_year_data(self, year): 
         yearly_data = self.dataset.load_yearly_data(year)
+
+        if self.use_time_series:
+            list_x = [yearly_data['data'].x]
+            for i in range(self.input_time_steps-1):
+                list_x.append(yearly_data['data'].x.clone())
+            inputs = torch.stack(list_x, dim=0).unsqueeze(0)
+        else:
+            inputs = yearly_data['data'].x
 
         new_data = yearly_data['data']
         pos_edges, pos_edge_weights = \
@@ -51,9 +63,13 @@ class VolumeRegressionTrainer:
         self.predictor.train()
 
         # encoding
-        new_data = new_data.to(self.device)
-        h = self.model(new_data.x, new_data.edge_index, new_data.edge_attr)
+        new_data = new_data.to(self.device); inputs = inputs.to(self.device)
+        h = self.model(inputs, new_data.edge_index, new_data.edge_attr)
         edge_attr = new_data.edge_attr
+        if len(h.size()) == 4:
+            h = h.squeeze(0)[-1, :, :]
+        if len(h.size()) == 3:
+            h = h[-1, :, :]
 
         # predicting
         pos_edge_weights = pos_edge_weights.to(self.device)
@@ -84,6 +100,14 @@ class VolumeRegressionTrainer:
     def test_on_year_data(self, year):
         yearly_data = self.dataset.load_yearly_data(year)
 
+        if self.use_time_series:
+            list_x = [yearly_data['data'].x]
+            for i in range(self.input_time_steps-1):
+                list_x.append(yearly_data['data'].x.clone())
+            inputs = torch.stack(list_x, dim=0).unsqueeze(0)
+        else:
+            inputs = yearly_data['data'].x
+
         new_data = yearly_data['data']
         pos_edges, pos_edge_weights = yearly_data['traffic_volume_edges'], yearly_data['traffic_volume_weights']
         
@@ -97,9 +121,13 @@ class VolumeRegressionTrainer:
         self.predictor.eval()
 
         # encoding
-        new_data = new_data.to(self.device)
-        h = self.model(new_data.x, new_data.edge_index, new_data.edge_attr)
+        new_data = new_data.to(self.device); inputs = inputs.to(self.device)
+        h = self.model(inputs, new_data.edge_index, new_data.edge_attr)
         edge_attr = new_data.edge_attr
+        if len(h.size()) == 4:
+            h = h.squeeze(0)[-1, :, :]
+        if len(h.size()) == 3:
+            h = h[-1, :, :]
 
         # predicting
         pos_edge = pos_edges.to(self.device)
