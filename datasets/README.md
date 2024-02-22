@@ -45,6 +45,9 @@ Here is a summary of the records collected for every state:
 
 8. Nevada (NV): 237,338 accident records from Jan 1 2016 to Dec 31 2020
 
+9. New York City (NYC): 1,817,820 accident records from Jul 1 2012 to Feb 12 2024
+
+10. Los Angeles County (LA): 603,629 accident records from Jan 1 2010 to Feb 12 2024
 
 **Example: Processing accident records from MA:** Download the yearwise crash reports of MA from [here](https://geo-massdot.opendata.arcgis.com/search?collection=Dataset&q=crash), and run `2_concatenate_yearly_crash.py` and `3_extract_nearest_street.py` to get the processed accident records for MA.
 
@@ -63,6 +66,8 @@ The traffic volume data is extracted from the data published by the Department o
 3. Massachusetts (MA): Historical data available at a coordinate level.
 
 4. Nevada (NV): Historical data available at a coordinate level.
+
+5. New York City (NYC): Historical data available at a coordinate level.
 
 
 **Example: Processing traffic volume records of MA:** Download yearly hostorical traffic counts from [here](https://mhd.public.ms2soft.com/tcds/tsearch.asp?loc=Mhd&mod=), and run `5_get_coordinates_traffic.py` and `6_get_traffic_volume.py` to get the processed AADT counts.
