@@ -86,6 +86,64 @@ start = datetime(2015, 1, 1)
 end = datetime(2023, 5, 1)
 
 
+# Extract historical information for each coordinate
+
+print(int(nodes_df.shape[0]/10000))
+j=0
+while j < int(nodes_df.shape[0]/10000):
+
+    print(f"**** {j} ****")
+    for i in tqdm(range(j*10000, (j+1)*10000)):
+
+        latitude = nodes_df["y"][i]
+        longitude = nodes_df["x"][i]
+        node_id = nodes_df["node_id"][i]
+
+        dummy = get_weather(latitude, longitude, start, end)
+
+        dummy["node_id"] = node_id
+        dummy["x"] = longitude
+        dummy["y"] = latitude
+
+        try:
+            df = pd.concat([df,dummy])
+        except:
+            df = dummy.copy()
+
+        # time.sleep(0.2)
+
+    # Save the file
+    df.to_csv(path + "/Weather_Features/" + state_name + "/Temp/" + state_name + "_Weather_Features" + "_" + str(j) + ".csv",index=False)
+
+    j+=1
+
+    time.sleep(5)
+
+
+for i in tqdm(range(j*10000,df.shape[0])):
+
+    latitude = nodes_df["y"][i]
+    longitude = nodes_df["x"][i]
+    node_id = nodes_df["node_id"][i]
+
+    dummy = get_weather(latitude, longitude, start, end)
+
+    dummy["node_id"] = node_id
+    dummy["x"] = longitude
+    dummy["y"] = latitude
+
+    try:
+        df = pd.concat([df,dummy])
+    except:
+        df = dummy.copy()
+
+    time.sleep(0.2)
+
+
+# Save the file
+df.to_csv(path + "/Weather_Features/" + state_name + "/Temp/" + state_name + "_Weather_Features" + "_" + str(j) + ".csv",index=False)
+
+
 concat_files(path + "/Weather_Features/" + state_name + "/Temp/", path + "/Weather_Features/" + state_name + "/" + state_name + "_Weather_Features.csv")
 
 
