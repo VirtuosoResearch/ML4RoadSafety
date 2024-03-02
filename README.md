@@ -75,3 +75,17 @@ which includes the most used packages such as
 - numpy>=1.19.0
 - torch-geometric-temporal>=0.54.0
 - pyDataverse
+
+### Citation
+
+If you find this repository useful or happen to use it in a research paper, please cite our work with the following bib information.
+
+```
+@article{nippani2023graph,
+  title={Graph Neural Networks for Road Safety Modeling: Datasets and Evaluations for Accident Analysis},
+  author={Nippani, Abhinav and Li, Dongyue and Ju, Haotian and Koutsopoulos, Haris and Zhang, Hongyang},
+  journal={Advances in Neural Information Processing Systems Datasets and Benchmarks Track},
+  volume={36},
+  year={2023}
+}
+```
