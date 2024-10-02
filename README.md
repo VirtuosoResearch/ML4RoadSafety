@@ -58,16 +58,17 @@ To use the traffic accidents dataset and its associated tools, follow these step
 1. Clone this repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/anonymous-researchcode/ML4RoadSafety.git
+git clone https://github.com/VirtuosoResearch/ML4RoadSafety.git
 ```
 
-2. Install the necessary dependencies by running the following command:
+<!-- 2. Install the necessary dependencies by running the following command:
 
 ```bash
 pip install -r requirements.txt
-```
+``` -->
 
-which includes the most used packages such as
+<!-- which includes the most used packages such as -->
+2. The most used packages are as follow:
 
 - Python>=3.6
 - PyTorch>=1.10
