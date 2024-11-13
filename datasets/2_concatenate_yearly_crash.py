@@ -11,6 +11,7 @@ from os.path import dirname
 
 path = dirname(os.getcwd())
 
+# print(path)
 
 #---------------- Concatenate Yearly Files ------------#
 
@@ -35,6 +36,8 @@ def concat_crash_files(path, final_file_name):
 
         # Convert column names to lowercase
         df.columns = map(str.lower, df.columns)
+        
+        # print(df.columns)
 
         # Process different date columns and create "accident_date" column
         if "crashyr" in df.columns:
@@ -43,6 +46,10 @@ def concat_crash_files(path, final_file_name):
             df['accident_date'] = pd.to_datetime(df['crash_year'].astype(str) + '-' + df['crash_month'].astype(str), format='%Y-%B')
         if "acc_date" in df.columns:
             df["accident_date"] = pd.to_datetime(df["acc_date"], format="%Y%m%d")
+        if "crash_date_text" in df.columns:
+            df["accident_date"] = pd.to_datetime(df["crash_date_text"], infer_datetime_format=True, errors="coerce")
+        if "crash date text" in df.columns:
+            df["accident_date"] = pd.to_datetime(df["crash date text"], infer_datetime_format=True, errors="coerce")
 
         # Rename latitude and longitude columns
         df = df.rename(columns={"latitude": "lat", "longitude": "lon"})
