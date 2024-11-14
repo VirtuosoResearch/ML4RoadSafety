@@ -1,6 +1,7 @@
 from meteostat import Point, Stations, Daily, Monthly
 from datetime import datetime
 
+import time
 import pandas as pd
 import numpy as np
 import os
