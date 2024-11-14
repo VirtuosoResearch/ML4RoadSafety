@@ -22,6 +22,17 @@ Road (length, name, type of road, etc)
 
 **Example: Constructing the road network of MA:** Download all the node_edge_lists zip files for MA from [here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/CUWWYJ), and run `1_road_network.py` to get the final road network for MA.
 
+```bash
+mkdir ./Road_Networks
+mkdir ./Road_Network_Level
+cd ./Road_Networks
+mkdir ./MA
+cd ./MA
+mkdir ./Harvard Dataverse
+mkdir ./Road_Network_Level
+# move downloaded dataset in `./Harvard Dataverse`
+```
+
 
 ### Collecting traffic accident records
 
@@ -70,7 +81,7 @@ The traffic volume data is extracted from the data published by the Department o
 5. New York City (NYC): Historical data available at a coordinate level.
 
 
-**Example: Processing traffic volume records of MA:** Download yearly hostorical traffic counts from [here](https://mhd.public.ms2soft.com/tcds/tsearch.asp?loc=Mhd&mod=), and run `5_get_coordinates_traffic.py` and `6_get_traffic_volume.py` to get the processed AADT counts.
+**Example: Processing traffic volume records of MA:** Download yearly historical traffic counts from [here](https://mhd.public.ms2soft.com/tcds/tsearch.asp?loc=Mhd&mod=), and run `5_get_coordinates_traffic.py` and `6_get_traffic_volume.py` to get the processed AADT counts.
 
 Besides, the following structural features have been calculated which would help in improving the performance of the model: Node degree, betweenness centrality, and node position (latitude and longitude).
 
