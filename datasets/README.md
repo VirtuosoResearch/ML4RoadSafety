@@ -62,6 +62,17 @@ Here is a summary of the records collected for every state:
 
 **Example: Processing accident records from MA:** Download the yearwise crash reports of MA from [here](https://geo-massdot.opendata.arcgis.com/search?collection=Dataset&q=crash), and run `2_concatenate_yearly_crash.py` and `3_extract_nearest_street.py` to get the processed accident records for MA.
 
+```bash
+mkdir ./Accidents
+cd ./Accidents
+mkdir ./MA
+cd ./MA
+mkdir ./Crashes_Year
+mkdir ./Nearest_Street
+cd ./Crashes_Year
+# move downloaded data into Crashes_Year and rename in this format: `2002_Vehicle_Level_Crash_Details.csv`
+```
+
 ### Collecting road network features
 
 The weather data is extracted using meteostat api. For every node (intersection) in the state, the historical weather data is extracted corresponding to the data recorded at the nearest station to that node.  
