@@ -79,6 +79,16 @@ The weather data is extracted using meteostat api. For every node (intersection)
 
 **Example: Processing road network features for MA:** Run `4_get_weather.py` to extract the historical weather data for all nodes in MA.
 
+```bash
+mkdir ./Weather_Features
+cd ./Weather_Features
+mkdir ./MA
+cd ./MA
+mkdir ./Temp
+cd ../../
+```
+
+
 The traffic volume data is extracted from the data published by the Department of Transportation (DOT) of every state and is measured by Annual Average Daily Traffic (AADT). Here is a summary of the records collected for every state:
 
 1. Delaware (DE): Data available in pdfs and .kmz files at a road level. The corresponding coordinates have been extracted using google maps api.
