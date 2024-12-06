@@ -42,7 +42,6 @@ def concat_files_one_subfolder(path):
     '''
     for folder in os.listdir(path):
         full_path = os.path.join(path, folder)
-        # 检查是否是文件夹，跳过非文件夹和非 CSV 文件
         if os.path.isdir(full_path):
             try:
                 edge_df = pd.concat([edge_df, pd.read_csv(os.path.join(full_path, "edge_list.csv"), low_memory=False)])
