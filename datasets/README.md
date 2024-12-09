@@ -28,7 +28,7 @@ mkdir ./Road_Network_Level
 cd ./Road_Networks
 mkdir ./MA
 cd ./MA
-mkdir ./Harvard Dataverse
+mkdir './Harvard Dataverse'
 mkdir ./Road_Network_Level
 # move downloaded dataset in `./Harvard Dataverse`
 ```
