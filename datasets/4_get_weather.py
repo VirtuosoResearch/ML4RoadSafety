@@ -121,7 +121,7 @@ while j < int(nodes_df.shape[0]/10000):
     time.sleep(5)
 
 
-for i in tqdm(range(j*10000,df.shape[0])):
+for i in tqdm(range(j*10000,nodes_df.shape[0])):
 
     latitude = nodes_df["y"][i]
     longitude = nodes_df["x"][i]
