@@ -10,8 +10,8 @@ from os.path import dirname
 
 path = dirname(os.getcwd())
 state_name = "MA"
-path_stats = path + "/Road_Networks/" + state_name + "/"
 
+path_stats = "/home/hecan/project/ML4RoadSafety/datasets/Road_Networks/" + state_name +"/"
 
 #--------------- Functions ------------------------#
 
@@ -40,6 +40,10 @@ def concat_files_one_subfolder(path):
     Parameters:
         path (str): directory where all independent files are saved
     '''
+
+    edge_df = pd.DataFrame()
+    node_df = pd.DataFrame()
+
     for folder in os.listdir(path):
         full_path = os.path.join(path, folder)
         if os.path.isdir(full_path):
@@ -71,6 +75,10 @@ def concat_files_two_subfolder(path):
     Parameters:
         path (str): directory where all independent files are saved
     '''
+    
+    edge_df = pd.DataFrame()
+    node_df = pd.DataFrame()
+
     for folder in os.listdir(path):
         full_folder_path = os.path.join(path, folder)
         if os.path.isdir(full_folder_path):
@@ -118,7 +126,7 @@ node_df.to_csv(path_stats + "Road_Network_Level/Nodes/nodes_counties.csv", index
 edge_df.to_csv(path_stats + "Road_Network_Level/Edges/edges_counties.csv", index=False)
 
 print("\tNeighborhoods")
-node_df, edge_df = concat_files_two_subfolder(path_stats + "Harvard Dataverse/" + state_name + "-neighborhoods-street_networks-node_edge_lists/")
+node_df, edge_df = concat_files_one_subfolder(path_stats + "Harvard Dataverse/" + state_name + "-neighborhoods-street_networks-node_edge_lists/")
 node_df.to_csv(path_stats + "Road_Network_Level/Nodes/nodes_neighborhoods.csv", index=False)
 edge_df.to_csv(path_stats + "Road_Network_Level/Edges/edges_neighborhoods.csv", index=False)
 
@@ -128,7 +136,7 @@ node_df.to_csv(path_stats + "Road_Network_Level/Nodes/nodes_tracts.csv", index=F
 edge_df.to_csv(path_stats + "Road_Network_Level/Edges/edges_tracts.csv", index=False)
 
 print("\tUrbanized Areas")
-node_df, edge_df = concat_files_one_subfolder(path_stats + "Harvard Dataverse/" + state_name + "-urbanized_areas-street_networks-node_edge_lists/")
+node_df, edge_df = concat_files_two_subfolder(path_stats + "Harvard Dataverse/" + state_name + "-urbanized_areas-street_networks-node_edge_lists/")
 node_df.to_csv(path_stats + "Road_Network_Level/Nodes/nodes_urbanized_areas.csv", index=False)
 edge_df.to_csv(path_stats + "Road_Network_Level/Edges/edges_urbanized_areas.csv", index=False)
 

@@ -75,16 +75,16 @@ def concat_files(path, final_file_name):
 
 
 #------------- Extract Historical Weather Data ------------------#
-
-path = dirname(os.getcwd())
+path = os.path.dirname(os.path.abspath(__file__))
+#path = os.path.join(original_path, "Road_Networks")
 
 state_name = "MA"
 
 nodes_df = pd.read_csv(path + "/Road_Networks/" + state_name + "/Road_Network_Nodes_" + state_name + ".csv", low_memory=False)
 
 # Set time period
-start = datetime(2015, 1, 1)
-end = datetime(2023, 5, 1)
+start = datetime(2023, 1, 1)
+end = datetime(2024, 12, 1)
 
 
 # Extract historical information for each coordinate
@@ -121,7 +121,7 @@ while j < int(nodes_df.shape[0]/10000):
     time.sleep(5)
 
 
-for i in tqdm(range(j*10000,df.shape[0])):
+for i in tqdm(range(j*10000,nodes_df.shape[0])):
 
     latitude = nodes_df["y"][i]
     longitude = nodes_df["x"][i]
