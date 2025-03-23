@@ -10,7 +10,7 @@ We provide a script to train and evaluate graph neural networks on our dataset. 
   - `--hidden_channels` specifies the hidden model width. 
 - `--train_years`, `--valid_years`, and `--test_years` specifies the splitting of datasets for training, validation, and testing. 
 
-Here is an example of bash script for training a GCN model on MA dataset below:
+Here is an example of bash script for training a GCN model on MA dataset below (dataset on the Harvard Dataset is lack of 2002~2008 records):
 
 ```bash
 python train.py --state_name MA --node_feature_type node2vec\
@@ -19,8 +19,8 @@ python train.py --state_name MA --node_feature_type node2vec\
     --load_dynamic_node_features\
     --load_static_edge_features\
     --load_dynamic_edge_features\
-    --train_years 2002 2003 2004 2005 2006 2007 2008 \
-    --valid_years 2009 2010 2011 2012 2013 2014 2015 \
-    --test_years  2016 2017 2018 2019 2020 2021 2022 \
+    --train_years 2009 2010 2011 2012 2013 \
+    --valid_years 2014 2015 2016 2017 2018 \
+    --test_years  2019 2020 2021 2022 \
     --device 0
 ```
