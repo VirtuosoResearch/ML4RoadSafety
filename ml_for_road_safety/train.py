@@ -12,6 +12,8 @@ from data_loaders import TrafficAccidentDataset
 import time
 import itertools
 from utils.sam import SAM
+import warnings
+warnings.filterwarnings("ignore", category=FutureWarning)
 
 def main(args):
     start = time.time()
