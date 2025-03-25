@@ -40,4 +40,4 @@ X = model.get_embedding()
 
 # %%
 import numpy as np
-np.save(f"./embeddings/deepwalk/{state_name}_128.npy", X)
+np.save(f"./deepwalk/{state_name}_128.npy", X)
