@@ -64,17 +64,18 @@ def download_map_tiles(min_lat, min_lon, max_lat, max_lon, folder="tiles/", star
     tile_info = []
     for i in range(ilat_max, ilat_min - 1, -1):
         for j in range(ilon_min, ilon_max + 1):
+            if (j - ilon_min)!=1 or (ilat_max - i)!=1: continue
+            
             filename = folder + f"sat_{j - ilon_min}_{ilat_max - i}.png"
-
             tile_min_lat = start_lat + i * angle_per_image_lat
             tile_max_lat = start_lat + (i + 1) * angle_per_image_lat
             tile_min_lon = start_lon + j * angle_per_image_lon
             tile_max_lon = start_lon + (j + 1) * angle_per_image_lon
 
-            if not os.path.isfile(filename):
-                os.makedirs(os.path.dirname(filename), exist_ok=True)
-                print(f"Downloading tile at lat {(tile_min_lat + tile_max_lat) / 2}, lon {(tile_min_lon + tile_max_lon) / 2}")
-                DownloadMapbox(tile_min_lat, tile_min_lon, tile_max_lat, tile_max_lon, zoom, filename)
+            # if not os.path.isfile(filename):
+            os.makedirs(os.path.dirname(filename), exist_ok=True)
+            print(f"Downloading tile at lat {(tile_min_lat + tile_max_lat) / 2}, lon {(tile_min_lon + tile_max_lon) / 2}")
+            DownloadMapbox(tile_min_lat, tile_min_lon, tile_max_lat, tile_max_lon, zoom, filename)
 
             tile_info.append({
                 'filename': filename,
@@ -83,26 +84,6 @@ def download_map_tiles(min_lat, min_lon, max_lat, max_lon, folder="tiles/", star
             })
 
     return tile_info, lat_n, lon_n, angle_per_image_lat, angle_per_image_lon, start_lat, start_lon
-
-def combine_map_tiles(tile_info, lat_n, lon_n, resolution=1024, padding=128, scale=2):
-    result_image = np.zeros((lat_n * resolution // scale, lon_n * resolution // scale, 3), dtype=np.uint8)
-
-    for tile in tile_info:
-        subimg = imageio.imread(tile['filename']).astype(np.uint8)
-        if subimg.shape[2] == 4:
-            subimg = subimg[:, :, :3]
-
-        resized = np.array(Image.fromarray(subimg[padding:resolution + padding, padding:resolution + padding])
-                           .resize((resolution // scale, resolution // scale)))
-
-        r1 = tile['row'] * (resolution // scale)
-        r2 = (tile['row'] + 1) * (resolution // scale)
-        c1 = tile['col'] * (resolution // scale)
-        c2 = (tile['col'] + 1) * (resolution // scale)
-
-        result_image[r1:r2, c1:c2] = resized
-
-    return result_image
 
 def get_satellite_patch_with_marker(
     lat,
@@ -131,39 +112,8 @@ def get_satellite_patch_with_marker(
         padding=128,
         zoom=zoom
     )
-
-    full_img_np = combine_map_tiles(tile_info, lat_n, lon_n)
-
-    lat_range = lat_n * angle_lat
-    lon_range = lon_n * angle_lon
-
-    px_per_deg_lat = full_img_np.shape[0] / lat_range
-    px_per_deg_lon = full_img_np.shape[1] / lon_range
-
-    center_row = int((lat - start_lat) * px_per_deg_lat)
-    center_col = int((lon - start_lon) * px_per_deg_lon)
-
-    half_size = image_size // 2
-    r1 = max(center_row - half_size, 0)
-    r2 = min(center_row + half_size, full_img_np.shape[0])
-    c1 = max(center_col - half_size, 0)
-    c2 = min(center_col + half_size, full_img_np.shape[1])
-
-    crop_img = full_img_np[r1:r2, c1:c2]
-
-    pil_img = Image.fromarray(crop_img).resize((image_size, image_size))
-    draw = ImageDraw.Draw(pil_img)
-    draw.ellipse([
-        image_size // 2 - marker_radius,
-        image_size // 2 - marker_radius,
-        image_size // 2 + marker_radius,
-        image_size // 2 + marker_radius
-    ], fill=marker_color)
-
     if output_path:
         mark_center_on_image("./tiles/sat_1_1.png", output_path=output_path)
-
-    return pil_img
 
 def mark_center_on_image(image_path, output_path=None, marker_color=(255, 0, 0), marker_radius=5):
     if not os.path.isfile(image_path):
@@ -190,12 +140,12 @@ def mark_center_on_image(image_path, output_path=None, marker_color=(255, 0, 0),
     print(f"marks done : {output_path}")
 
 if __name__ == "__main__":
-    ny_lat = 41.8131453
-    ny_lon = -70.5536724
+    lat = 42.8767484
+    lon = -71.005654
 
     get_satellite_patch_with_marker(
-        lat=ny_lat,
-        lon=ny_lon,
+        lat=lat,
+        lon=lon,
         meters=200,
         image_size=512,
         output_path="./tiles/Marked_the_Center.png"
