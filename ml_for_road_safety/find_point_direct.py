@@ -5,6 +5,8 @@ import imageio.v2 as imageio
 from PIL import Image, ImageDraw
 import requests
 import time
+import pandas as pd
+from tqdm import tqdm
 
 ORIGIN_SHIFT = 2 * math.pi * 6378137 / 2.0
 
@@ -37,7 +39,7 @@ def DownloadMapbox(min_lat, min_lon, max_lat, max_lon, zoom, outputname):
             time.sleep(retry_timeout)
             retry_timeout = min(retry_timeout + 10, 60)
 
-def download_map_tiles(min_lat, min_lon, max_lat, max_lon, folder="tiles/", start_lat=40.7128, start_lon=-74.0060, resolution=1024, padding=128, zoom=19):
+def download_map_tiles(min_lat, min_lon, max_lat, max_lon, folder="/home/michael/project/data/Nodes_MA/", start_lat=40.7128, start_lon=-74.0060, resolution=1024, padding=128, zoom=19):
     resolution_lat = 1.0 / 111111.0
     resolution_lon = 1.0 / (111111.0 * math.cos(start_lat / 360.0 * (math.pi * 2)))
 
@@ -74,7 +76,7 @@ def download_map_tiles(min_lat, min_lon, max_lat, max_lon, folder="tiles/", star
 
             # if not os.path.isfile(filename):
             os.makedirs(os.path.dirname(filename), exist_ok=True)
-            print(f"Downloading tile at lat {(tile_min_lat + tile_max_lat) / 2}, lon {(tile_min_lon + tile_max_lon) / 2}")
+            # print(f"Downloading tile at lat {(tile_min_lat + tile_max_lat) / 2}, lon {(tile_min_lon + tile_max_lon) / 2}")
             DownloadMapbox(tile_min_lat, tile_min_lon, tile_max_lat, tile_max_lon, zoom, filename)
 
             tile_info.append({
@@ -83,15 +85,13 @@ def download_map_tiles(min_lat, min_lon, max_lat, max_lon, folder="tiles/", star
                 'col': j - ilon_min
             })
 
-    return tile_info, lat_n, lon_n, angle_per_image_lat, angle_per_image_lon, start_lat, start_lon
-
 def get_satellite_patch_with_marker(
     lat,
     lon,
     meters=100,
     image_size=512,
     zoom=19,
-    folder="./tiles/",
+    folder="/home/michael/project/data/Nodes_MA/",
     output_path=None,
     marker_color=(255, 0, 0),
     marker_radius=5
@@ -103,7 +103,7 @@ def get_satellite_patch_with_marker(
     min_lon = lon - delta_lon / 2
     max_lon = lon + delta_lon / 2
 
-    tile_info, lat_n, lon_n, angle_lat, angle_lon, start_lat, start_lon = download_map_tiles(
+    download_map_tiles(
         min_lat, min_lon, max_lat, max_lon,
         folder=folder,
         start_lat=lat,
@@ -113,7 +113,7 @@ def get_satellite_patch_with_marker(
         zoom=zoom
     )
     if output_path:
-        mark_center_on_image("./tiles/sat_1_1.png", output_path=output_path)
+        mark_center_on_image("/home/michael/project/data/Nodes_MA/sat_1_1.png", output_path=output_path)
 
 def mark_center_on_image(image_path, output_path=None, marker_color=(255, 0, 0), marker_radius=5):
     if not os.path.isfile(image_path):
@@ -137,17 +137,20 @@ def mark_center_on_image(image_path, output_path=None, marker_color=(255, 0, 0),
         output_path = image_path
 
     img.save(output_path)
-    print(f"marks done : {output_path}")
 
 if __name__ == "__main__":
     lat = 42.8767484
     lon = -71.005654
+    path = "/home/michael/project/ML4RoadSafety/Satellite-images-for-accident-analysis/MA/Road_Network_Nodes_MA.csv"
+    nodes = pd.read_csv(path)
 
-    get_satellite_patch_with_marker(
-        lat=lat,
-        lon=lon,
-        meters=200,
-        image_size=512,
-        output_path="./tiles/Marked_the_Center.png"
-    )
+    for idx, node in tqdm(nodes.iterrows(), total=len(nodes)):
+        id, lat, lon = int(node["node_id"]), node["y"], node["x"]
+        get_satellite_patch_with_marker(
+            lat=lat,
+            lon=lon,
+            meters=200,
+            image_size=512,
+            output_path=f"/home/michael/project/data/Nodes_MA/{id}.png"
+        )
     
