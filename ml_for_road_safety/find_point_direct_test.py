@@ -7,6 +7,7 @@ import requests
 import time
 import pandas as pd
 from tqdm import tqdm
+import argparse
 
 ORIGIN_SHIFT = 2 * math.pi * 6378137 / 2.0
 
@@ -23,9 +24,9 @@ def metersToLonLat(mx, my):
     return lon, lat
 
 def DownloadMapbox(min_lat, min_lon, max_lat, max_lon, zoom, outputname):
-    NVPBOX_API_KEY = "pk.eyJ1IjoiaG9uZ3lhbmd6aGFuZyIsImEiOiJjbTlhampkczkwNjc0MmtxMjdnOWc0MTdmIn0.IK8Ult-fjh4BD-p29nEy6A"
+    MAPBOX_API_KEY = "pk.eyJ1Ijoic2FrdXJhc2hlcnJ5IiwiYSI6ImNtOWVtZHRzbTBzbnYyaW9hZm1yZjM3c3YifQ.uWDRIAoOJhqkowUc4Dfh2A" 
     bbox = f"[{min_lon},{min_lat},{max_lon},{max_lat}]"
-    url = f"https://api.mapbox.com/styles/v1/mapbox/satellite-v9/static/{bbox}/1280x1280?access_token={NVPBOX_API_KEY}"
+    url = f"https://api.mapbox.com/styles/v1/mapbox/satellite-v9/static/{bbox}/1280x1280?access_token={MAPBOX_API_KEY}"
 
     retry_timeout = 10
     while True:
@@ -39,7 +40,7 @@ def DownloadMapbox(min_lat, min_lon, max_lat, max_lon, zoom, outputname):
             time.sleep(retry_timeout)
             retry_timeout = min(retry_timeout + 10, 60)
 
-def download_map_tiles(min_lat, min_lon, max_lat, max_lon, folder="/home/michael/project/data/Nodes_NV/", start_lat=40.7128, start_lon=-74.0060, resolution=1024, padding=128, zoom=19):
+def download_map_tiles(min_lat, min_lon, max_lat, max_lon, folder="/home/michael/project/data/Nodes_MA/", start_lat=40.7128, start_lon=-74.0060, resolution=1024, padding=128, zoom=19):
     resolution_lat = 1.0 / 111111.0
     resolution_lon = 1.0 / (111111.0 * math.cos(start_lat / 360.0 * (math.pi * 2)))
 
@@ -91,7 +92,7 @@ def get_satellite_patch_with_marker(
     meters=100,
     image_size=512,
     zoom=19,
-    folder="/home/michael/project/data/Nodes_NV/",
+    folder="/home/michael/project/data/Nodes_MA/",
     output_path=None,
     marker_color=(255, 0, 0),
     marker_radius=5
@@ -113,7 +114,7 @@ def get_satellite_patch_with_marker(
         zoom=zoom
     )
     if output_path:
-        mark_center_on_image("/home/michael/project/data/Nodes_NV/sat_1_1.png", output_path=output_path)
+        mark_center_on_image("/home/michael/project/data/Nodes_MA/sat_1_1.png", output_path=output_path)
 
 def mark_center_on_image(image_path, output_path=None, marker_color=(255, 0, 0), marker_radius=5):
     if not os.path.isfile(image_path):
@@ -141,21 +142,25 @@ def mark_center_on_image(image_path, output_path=None, marker_color=(255, 0, 0),
     img.save(output_path)
 
 if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--num",type=int, default=1000)
+    args = parser.parse_args()
+
     lat = 42.8767484
     lon = -71.005654
-    path = "/home/michael/project/data/MLRoadSafety/Road_Networks/NV/Road_Network_Nodes_NV.csv"
+    path = "/home/michael/project/data/MLRoadSafety/Road_Networks/MA/Road_Network_Nodes_MA.csv"
     nodes = pd.read_csv(path)
     cnt =0
     for idx, node in tqdm(nodes.iterrows(), total=len(nodes)):
         id, lat, lon = int(node["node_id"]), node["y"], node["x"]
-        if cnt>=49000: break
-        if not os.path.exists(f"/home/michael/project/data/Nodes_NV/{id}.png"):
+        if cnt>=args.num: break
+        if not os.path.exists(f"/home/michael/project/data/Nodes_MA/{id}.png"):
             get_satellite_patch_with_marker(
                 lat=lat,
                 lon=lon,
                 meters=200,
                 image_size=512,
-                output_path=f"/home/michael/project/data/Nodes_NV/{id}.png"
+                output_path=f"/home/michael/project/data/Nodes_MA/{id}.png"
             )
             cnt+=1
-    
+    print(f"path: {path}")
