@@ -5,6 +5,9 @@ from torch.utils.data import DataLoader
 
 import numpy as np
 from logger import Logger
+import json
+import pprint
+from tqdm import tqdm
 
 class Trainer:
 
@@ -37,6 +40,8 @@ class Trainer:
 
     def train_on_month_data(self, year, month): 
         monthly_data = self.dataset.load_monthly_data(year, month)
+        with open("monthly_data.txt", "w") as f:
+            pprint.pprint(monthly_data, stream=f, indent=4, width=120)
 
         # load previous months 
         if self.use_time_series:
@@ -52,13 +57,21 @@ class Trainer:
                     continue
                 list_x.append(prev_monthly_data['data'].x)
             inputs = torch.stack(list_x, dim=0).unsqueeze(0)
+            # print("********************")
         else:
+            # run into this way
             inputs = monthly_data['data'].x
-
+        
+        print("inputs.shape: ",inputs.shape)
+        # print("inputs.keys: ",input.keys())
+        # for key,value in inputs:
+        #     print(f"key: {key}")
         new_data = monthly_data['data']
         pos_edges, pos_edge_weights, neg_edges = \
             monthly_data['accidents'], monthly_data['accident_counts'], monthly_data['neg_edges']
         
+        # print(f"len(pos_edges): {len(pos_edges)}, len(pos_edge_weights): {len(pos_edge_weights)}, len(neg_edges): {len(neg_edges)}")
+
         if pos_edges is None or pos_edges.size(0) < 10:
             return 0, 0
         
@@ -78,6 +91,14 @@ class Trainer:
         pos_train_edge = pos_edges.to(self.device)
         pos_edge_weights = pos_edge_weights.to(self.device)
         neg_edges = neg_edges.to(self.device)
+
+        # print("************* pos_train_edge *************")
+        # print(pos_train_edge)
+        # print("************* pos_edge_weights *************")
+        # print(pos_edge_weights)
+        # print("************* neg_edges *************")
+        # print(neg_edges)
+
         total_loss = total_examples = 0
         # self.batch_size > pos_train_edge.size(0): only backprop once since it does not retain cache.
         for perm in DataLoader(range(pos_train_edge.size(0)), self.batch_size, shuffle=True):
@@ -127,6 +148,7 @@ class Trainer:
         else:
             inputs = monthly_data['data'].x
 
+        # print("input.list(): ",inputs)
         new_data = monthly_data['data']
         pos_edges, pos_edge_weights, neg_edges = \
             monthly_data['accidents'], monthly_data['accident_counts'], monthly_data['neg_edges']
@@ -180,9 +202,10 @@ class Trainer:
 
     def train_epoch(self):
         total_loss = total_examples = 0
-        for year in self.train_years:
+        for year in tqdm(self.train_years):
             for month in range(1, 13):
                 loss, samples = self.train_on_month_data(year, month)
+                # print(f"loss: {loss}, samples: {samples}")
                 total_loss += loss
                 total_examples += samples
         return total_loss/total_examples

@@ -58,7 +58,7 @@ class TrafficAccidentDataset:
             return
 
         base_url = 'https://dataverse.harvard.edu/'
-        api_token= '362b8998-a914-430d-b5ac-72f00d723bba' # change api token here
+        api_token= '9275ad13-e563-4d16-b5cd-b0ce5731fe73' # change api token here
         api = NativeApi(base_url, api_token)
         data_api = DataAccessApi(base_url, api_token)
         DOI = "doi:10.7910/DVN/V71K5R"
@@ -104,15 +104,23 @@ class TrafficAccidentDataset:
             return monthly_data
         accidents = pd.read_csv(os.path.join(self.data_dir, accident_dir))
 
+        # print(f"accidents : {accidents}")
+        # print(f"year : {year}")
         monthly_accidents = accidents[accidents["year"] == year]
+        # print(f"monthly_accidents 1: {monthly_accidents}")
         monthly_accidents = monthly_accidents[monthly_accidents["month"] == month]
+        # print(f"monthly_accidents 2: {monthly_accidents}")
         monthly_accidents = monthly_accidents[["node_1_idx", "node_2_idx", "acc_count", "year", "month"]].values
 
+        # print(f"monthly_accidents 3: {monthly_accidents}")
         pos_edges = torch.Tensor(monthly_accidents[:, :2])
         pos_edge_weights = torch.Tensor(monthly_accidents[:, 2])
+        # print(f"pos_edges_before: {pos_edges}")
+        pos_edges = pos_edges.long()
         pos_edges, pos_edge_weights = coalesce(pos_edges.T, pos_edge_weights)
+        # print(f"pos_edges_mid: {pos_edges}")
         pos_edges = pos_edges.type(torch.int64).T
-
+        # print(f"pos_edges_end: {pos_edges}")
         # sample negative edges from rest of edges in the road network
         all_edges = self.data.edge_index.cpu().T.numpy()
         neg_mask = np.logical_not(np.isin(all_edges, pos_edges.numpy()).all(axis=1))
@@ -305,10 +313,14 @@ class TrafficAccidentDataset:
         for year in train_years:
             for month in range(1, 13):
                 monthly_data = self.load_monthly_data(year, month)
+                # print("monthly_data: ",monthly_data)
                 node_features, edge_features = monthly_data['temporal_node_features'], monthly_data['temporal_edge_features']
                 all_node_features.append(node_features)
                 all_edge_features.append(edge_features)
-            
+        
+        print("len(all_node_features): ",len(all_node_features))
+        print("len(all_edge_features): ",len(all_edge_features))
+
         all_node_features = torch.cat(all_node_features, dim=0)
         all_edge_features = torch.cat(all_edge_features, dim=0)
 

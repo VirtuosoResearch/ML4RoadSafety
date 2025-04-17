@@ -7,6 +7,7 @@ import requests
 import time
 import pandas as pd
 from tqdm import tqdm
+import argparse
 
 ORIGIN_SHIFT = 2 * math.pi * 6378137 / 2.0
 
@@ -23,7 +24,7 @@ def metersToLonLat(mx, my):
     return lon, lat
 
 def DownloadMapbox(min_lat, min_lon, max_lat, max_lon, zoom, outputname):
-    MAPBOX_API_KEY = "pk.eyJ1Ijoia2F0aHl4NTMiLCJhIjoiY2x0N3VvdXYwMG93dTJpdDNyNnplZXpsMSJ9.d6pbjsi8aFhf6PllF3Wp7g"
+    MAPBOX_API_KEY = "pk.eyJ1Ijoienpzc2hvcmUiLCJhIjoiY205ZW4xbjlhMWc0cDJqb3ZqaWw3ajh5aSJ9.4U1G7QsXmsZU77Kht8L7JA" 
     bbox = f"[{min_lon},{min_lat},{max_lon},{max_lat}]"
     url = f"https://api.mapbox.com/styles/v1/mapbox/satellite-v9/static/{bbox}/1280x1280?access_token={MAPBOX_API_KEY}"
 
@@ -121,6 +122,8 @@ def mark_center_on_image(image_path, output_path=None, marker_color=(255, 0, 0),
         return
 
     img = Image.open(image_path).convert("RGB")
+    img.save(output_path)
+    return 
     draw = ImageDraw.Draw(img)
 
     w, h = img.size
@@ -139,18 +142,25 @@ def mark_center_on_image(image_path, output_path=None, marker_color=(255, 0, 0),
     img.save(output_path)
 
 if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--num",type=int, default=1000)
+    args = parser.parse_args()
+
     lat = 42.8767484
     lon = -71.005654
-    path = "/home/michael/project/ML4RoadSafety/Satellite-images-for-accident-analysis/MA/Road_Network_Nodes_MA.csv"
+    path = "/home/michael/project/data/MLRoadSafety/Road_Networks/MA/Road_Network_Nodes_MA.csv"
     nodes = pd.read_csv(path)
-
+    cnt =0
     for idx, node in tqdm(nodes.iterrows(), total=len(nodes)):
         id, lat, lon = int(node["node_id"]), node["y"], node["x"]
-        get_satellite_patch_with_marker(
-            lat=lat,
-            lon=lon,
-            meters=200,
-            image_size=512,
-            output_path=f"/home/michael/project/data/Nodes_MA/{id}.png"
-        )
-    
+        if cnt>=args.num: break
+        if not os.path.exists(f"/home/michael/project/data/Nodes_MA/{id}.png"):
+            get_satellite_patch_with_marker(
+                lat=lat,
+                lon=lon,
+                meters=200,
+                image_size=512,
+                output_path=f"/home/michael/project/data/Nodes_MA/{id}.png"
+            )
+            cnt+=1
+    print(f"path: {path}")

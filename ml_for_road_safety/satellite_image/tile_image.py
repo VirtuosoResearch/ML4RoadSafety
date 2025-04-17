@@ -5,8 +5,9 @@ from PIL import Image, ImageDraw
 from io import BytesIO
 import pandas as pd
 from tqdm import tqdm
+import argparse
 
-MDPBOX_ACCESS_TOKEN = "pk.eyJ1Ijoic2FrdXJhc2hlcnJ5IiwiYSI6ImNtOWVtZHRzbTBzbnYyaW9hZm1yZjM3c3YifQ.uWDRIAoOJhqkowUc4Dfh2A"
+MAPBOX_ACCESS_TOKEN = "pk.eyJ1Ijoienpzc2hvcmUiLCJhIjoiY205ZW4xbjlhMWc0cDJqb3ZqaWw3ajh5aSJ9.4U1G7QsXmsZU77Kht8L7JA"
 TILE_SIZE = 512 
 
 def deg2num(lat_deg, lon_deg, zoom):
@@ -52,7 +53,7 @@ def download_tile_image_like_static_image(
     zoom,
     output_path,
     output_size=(1280, 1280),
-    access_token=MDPBOX_ACCESS_TOKEN,
+    access_token=MAPBOX_ACCESS_TOKEN,
     tile_size=TILE_SIZE,
     draw_center_marker=True
 ):
@@ -115,20 +116,20 @@ if __name__ == "__main__":
     #             output_size=(1280, 1280),
     #             draw_center_marker=True
     #         )
-    path = "/home/michael/project/data/can_road/Road_Networks/MD/Road_Network_Nodes_MD.csv"
-    # path = "/home/michael/project/data/MLRoadSafety/Road_Networks/MD/Road_Network_Nodes_MD.csv"
+    # path = "/home/michael/project/data/can_road/Road_Networks/MA/Road_Network_Nodes_MA.csv"
+    path = "/home/michael/project/data/MLRoadSafety/Road_Networks/MA/Road_Network_Nodes_MA.csv"
     nodes = pd.read_csv(path)
     cnt =0
     for idx, node in tqdm(nodes.iterrows(), total=len(nodes)):
         if cnt>=args.num: break
         id, lat, lon = int(node["node_id"]), node["y"], node["x"]
-        if not os.path.exists(f"/home/michael/project/data/Nodes_MD/{id}.png"):
+        if not os.path.exists(f"/home/michael/project/data/Nodes_MA/{id}.png"):
             # print(f"idx: {idx}, id: {id}")
             download_tile_image_like_static_image(
                 center_lat=lat,
                 center_lon=lon,
                 zoom=19,
-                output_path=f"/home/michael/project/data/Nodes_MD/{id}.png",
+                output_path=f"/home/michael/project/data/Nodes_MA/{id}.png",
                 output_size=(1280, 1280),
                 draw_center_marker=False
             )
